@@ -2,7 +2,7 @@
 <html lang="bn">
 <head>
   <meta charset="UTF-8">
-  <title>Live News</title>
+  <title>লাইভ নিউজ আপডেট</title>
   <style>
     body { font-family: Arial; background:#f8f9fa; padding:20px; }
     .box { max-width:700px; margin:auto; background:white; padding:20px; border-radius:10px; }
@@ -15,40 +15,54 @@
 
 <div class="box">
   <h1>📰 লাইভ নিউজ আপডেট</h1>
-  <div id="news"></div>
+  <div id="news">⏳ নিউজ লোড হচ্ছে...</div>
 </div>
 
 <script>
-async function loadNews() {
-  const url = "https://raw.githubusercontent.com/uzzalnews/news-pa/main/latest_news.json?cache=" + new Date().getTime();
-  const r = await fetch(url);
-  const data = await r.json();
-
-  const container = document.getElementById("news");
-  container.innerHTML = "";
-
-  for (const source in data) {
-    if (source === "last_updated") continue;
-
-    const h = document.createElement("h2");
-    h.textContent = "🌐 " + source;
-    container.appendChild(h);
-
-    data[source].forEach(item => {
-      const div = document.createElement("div");
-      div.className = "item";
-      div.innerHTML = `<a href="${item.link}" target="_blank">${item.title}</a>`;
-      container.appendChild(div);
-    });
-  }
-
-  const t = document.createElement("p");
-  t.innerHTML = `<hr><small>Last updated: ${data.last_updated}</small>`;
-  container.appendChild(t);
+// ✅ প্রতি বার নতুন JSON লোড করার জন্য Cache busting
+function getNewsUrl() {
+  return "https://raw.githubusercontent.com/uzzalnews/news-pa/main/latest_news.json?cache=" + new Date().getTime();
 }
 
+async function loadNews() {
+  const url = getNewsUrl();
+
+  try {
+    const response = await fetch(url);
+    const data = await response.json();
+
+    const container = document.getElementById("news");
+    container.innerHTML = "";
+
+    for (const source in data) {
+      if (source === "last_updated") continue;
+
+      const h = document.createElement("h2");
+      h.textContent = "🌐 " + source;
+      container.appendChild(h);
+
+      data[source].forEach(item => {
+        const div = document.createElement("div");
+        div.className = "item";
+        div.innerHTML = `<a href="${item.link}" target="_blank">${item.title}</a>`;
+        container.appendChild(div);
+      });
+    }
+
+    const footer = document.createElement("p");
+    footer.innerHTML = `<hr><small>Last updated: ${data.last_updated}</small>`;
+    container.appendChild(footer);
+
+  } catch (error) {
+    document.getElementById("news").innerHTML = "⚠️ নিউজ লোড করতে সমস্যা হচ্ছে।";
+  }
+}
+
+// ✅ প্রথমবার লোড
 loadNews();
-setInterval(loadNews, 300000);
+
+// ✅ প্রতি ১ মিনিটে অটো রিফ্রেশ (GitHub Actions প্রতি ৫ মিনিটে update দেয়)
+setInterval(loadNews, 60000);
 </script>
 
 </body>
