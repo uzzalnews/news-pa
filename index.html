@@ -20,7 +20,7 @@
 
 <script>
 async function loadNews() {
-  const url = "https://raw.githubusercontent.com/uzzalnews/news-pa/main/latest_news.json";
+  const url = "https://raw.githubusercontent.com/uzzalnews/news-pa/main/latest_news.json?cache=" + new Date().getTime();
   const r = await fetch(url);
   const data = await r.json();
 
