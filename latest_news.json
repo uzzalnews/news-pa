@@ -1,92 +1,206 @@
 {
-  "BBC": [
-    {
-      "title": "Starmer will fight attempts to replace him, allies say",
-      "link": "https://www.bbc.com/news/articles/c5y0z2q2g2ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Reform UK pulls out of BBC film after Trump edit row",
-      "link": "https://www.bbc.com/news/articles/ckgk4devj77o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump v the BBC: What are the hurdles for president's legal argument?",
-      "link": "https://www.bbc.com/news/articles/c709y1yx1r0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Northern Lights set to dazzle UK this week due to possible 'severe' geomagnetic storm",
-      "link": "https://www.bbc.com/weather/articles/cpv13jpmxw7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Israel has destroyed more than 1,500 buildings in Gaza since ceasefire",
-      "link": "https://www.bbc.com/news/articles/c0mxylxw48yo?at_medium=RSS&at_campaign=rss"
-    }
-  ],
-  "CNN": [
-    {
-      "title": "Trump pleads not guilty to 34 felony counts",
-      "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html"
-    },
-    {
-      "title": "Haberman reveals why Trump attacked judge and his family in speech",
-      "link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn"
-    },
-    {
-      "title": "What to know about the Trump indictment on the eve of his court appearance",
-      "link": "https://www.cnn.com/collections/intl-trump-040223/"
-    },
-    {
-      "title": "READ: Trump indictment related to hush money payment",
-      "link": "https://cnn.it/411KYN7"
-    },
-    {
-      "title": "Russian authorities detain suspect over St. Petersburg cafe blast",
-      "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html"
-    }
-  ],
-  "AlJazeera": [
-    {
-      "title": "‘Utter pandemonium’: Witnesses recall chaos after Islamabad suicide bombing",
-      "link": "https://www.aljazeera.com/news/2025/11/12/utter-pandemonium-witnesses-recall-chaos-after-islamabad-suicide-bombing?traffic_source=rss"
-    },
-    {
-      "title": "California’s Gavin Newsom slams Trump absence at COP30 climate conference",
-      "link": "https://www.aljazeera.com/news/2025/11/12/california-governor-gavin-newsom-slams-trump-absence-at-climate-conference?traffic_source=rss"
-    },
-    {
-      "title": "Nico Harrison fired from Mavericks nine months after Luka Doncic trade",
-      "link": "https://www.aljazeera.com/sports/2025/11/12/nico-harrison-fired-from-mavericks-nine-months-after-luka-doncic-trade?traffic_source=rss"
-    },
-    {
-      "title": "US Supreme Court extends order allowing Trump to withhold food aid",
-      "link": "https://www.aljazeera.com/news/2025/11/12/us-supreme-court-extends-order-allowing-trump-to-withhold-food-aid?traffic_source=rss"
-    },
-    {
-      "title": "Russia-Ukraine war: List of key events, day 1,357",
-      "link": "https://www.aljazeera.com/news/2025/11/12/russia-ukraine-war-list-of-key-events-day-1357?traffic_source=rss"
-    }
-  ],
-  "ProthomAlo": [
-    {
-      "title": "মনামী ঘোষের গথিক লুক: শিয়ার আউটফিটে চোখধাঁধানো স্টাইল",
-      "link": "https://www.prothomalo.com/celeb/look/xfu0dlz9w3"
-    },
-    {
-      "title": "লেনদেন স্বাভাবিক করার চেষ্টায় প্রশাসকেরা",
-      "link": "https://www.prothomalo.com/business/bank/cb5um3jppr"
-    },
-    {
-      "title": "কমলার বাগানে ফলন কমে যাচ্ছিল, হাল ধরে চমক তোফায়েলের",
-      "link": "https://www.prothomalo.com/bangladesh/district/m0rpkiavgm"
-    },
-    {
-      "title": "বেড়াতে গিয়ে হারিয়ে যাচ্ছে অনেক শিশু, কীভাবে আপনার শিশুকে সুরক্ষিত রাখবেন",
-      "link": "https://www.prothomalo.com/lifestyle/kf9ld6o5ip"
-    },
-    {
-      "title": "হাজারো গল্পের সমাহারে ভারতের মেয়েদের বিশ্বজয়",
-      "link": "https://www.prothomalo.com/sports/l1go00vfcv"
-    }
-  ],
-  "BDNews24": [],
-  "last_updated": "2025-11-12 04:02 UTC"
+  "breaking": [],
+  "news": {
+    "BBC": [
+      {
+        "title": "Starmer will fight attempts to replace him, allies say",
+        "link": "https://www.bbc.com/news/articles/c5y0z2q2g2ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump says he has 'obligation' to sue BBC over speech edit",
+        "link": "https://www.bbc.com/news/articles/ce9d5m54350o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump v the BBC: What are the hurdles for president's legal argument?",
+        "link": "https://www.bbc.com/news/articles/c709y1yx1r0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Northern Lights set to dazzle UK this week due to possible 'severe' geomagnetic storm",
+        "link": "https://www.bbc.com/weather/articles/cpv13jpmxw7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel has destroyed more than 1,500 buildings in Gaza since ceasefire",
+        "link": "https://www.bbc.com/news/articles/c0mxylxw48yo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "AlJazeera": [
+      {
+        "title": "Indigenous activists storm COP30 climate summit in Brazil, demanding action",
+        "link": "https://www.aljazeera.com/news/2025/11/12/indigenous-activists-storm-cop30-climate-summit-in-brazil-demanding-action?traffic_source=rss"
+      },
+      {
+        "title": "UK sentences Chinese scammer after record-breaking Bitcoin seizure",
+        "link": "https://www.aljazeera.com/news/2025/11/12/uk-sentences-chinese-scammer-after-record-breaking-bitcoin-seizure?traffic_source=rss"
+      },
+      {
+        "title": "Ukrainian forces pull back under fierce Russian pressure in Zaporizhia",
+        "link": "https://www.aljazeera.com/news/2025/11/12/ukrainian-forces-pull-back-under-fierce-russian-pressure-in-zaporizhia?traffic_source=rss"
+      },
+      {
+        "title": "‘We have to fight’: BBC’s outgoing boss rallies staff amid Trump’s threats",
+        "link": "https://www.aljazeera.com/economy/2025/11/12/we-have-to-fight-bbcs-outgoing-boss-rallies-staff-amid-trumps-threats?traffic_source=rss"
+      },
+      {
+        "title": "‘Utter pandemonium’: Witnesses recall chaos after Islamabad suicide bombing",
+        "link": "https://www.aljazeera.com/news/2025/11/12/utter-pandemonium-witnesses-recall-chaos-after-islamabad-suicide-bombing?traffic_source=rss"
+      }
+    ],
+    "Reuters": [],
+    "CNN": [
+      {
+        "title": "Trump pleads not guilty to 34 felony counts",
+        "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html"
+      },
+      {
+        "title": "Haberman reveals why Trump attacked judge and his family in speech",
+        "link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn"
+      },
+      {
+        "title": "What to know about the Trump indictment on the eve of his court appearance",
+        "link": "https://www.cnn.com/collections/intl-trump-040223/"
+      },
+      {
+        "title": "READ: Trump indictment related to hush money payment",
+        "link": "https://cnn.it/411KYN7"
+      },
+      {
+        "title": "Russian authorities detain suspect over St. Petersburg cafe blast",
+        "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html"
+      }
+    ],
+    "Dawn": [
+      {
+        "title": "All terrorists involved in attack on Cadet College in Wana killed, security sources say",
+        "link": "https://www.dawn.com/news/1954632/all-terrorists-involved-in-attack-on-cadet-college-in-wana-killed-security-sources-say"
+      },
+      {
+        "title": "Justice Amin likely to head federal court as names being decided",
+        "link": "https://www.dawn.com/news/1954604/justice-amin-likely-to-head-federal-court-as-names-being-decided"
+      },
+      {
+        "title": "Afghan link being probed as terror revisits capital after years",
+        "link": "https://www.dawn.com/news/1954598/afghan-link-being-probed-as-terror-revisits-capital-after-years"
+      },
+      {
+        "title": "Ex-CJ seeks to protect SC’s jurisdiction",
+        "link": "https://www.dawn.com/news/1954601/ex-cj-seeks-to-protect-scs-jurisdiction"
+      },
+      {
+        "title": "Planned Gaza force shaping up despite internal warning",
+        "link": "https://www.dawn.com/news/1954599/planned-gaza-force-shaping-up-despite-internal-warning"
+      }
+    ],
+    "APNews": [],
+    "NYTimes": [
+      {
+        "title": "What if Democrats’ Big Shutdown Loss Turns Out to Be a Win?",
+        "link": "https://www.nytimes.com/2025/11/11/us/politics/democrats-shutdown.html"
+      },
+      {
+        "title": "As Shutdown Nears End, Trump Still Confronts Soaring Health Costs",
+        "link": "https://www.nytimes.com/2025/11/11/us/politics/trump-shutdown-health-care-costs-aca.html"
+      },
+      {
+        "title": "Duffy Won’t Give Timeline to Restore Flights as Shutdown Appears Near End",
+        "link": "https://www.nytimes.com/2025/11/11/us/flights-canceled-shutdown.html"
+      },
+      {
+        "title": "Johnson to Seat Grijalva, Seven Weeks After She Was Elected",
+        "link": "https://www.nytimes.com/2025/11/11/us/politics/adelita-grijalva-swearing-in-congress.html"
+      },
+      {
+        "title": "Newsom Seizes Stage at Climate Conference That Trump Decided to Skip",
+        "link": "https://www.nytimes.com/2025/11/11/climate/gavin-newsom-cop30-belem-climate.html"
+      }
+    ],
+    "MiddleEastEye": [
+      {
+        "title": "Evening recap",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-567"
+      },
+      {
+        "title": "Houthis signal end of attacks on Israel and  Red Sea vessels after Gaza ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-signal-end-attacks-israel-and-vessels-red-sea-after-gaza"
+      },
+      {
+        "title": "Houthis signal end of attacks on Israel and Red Sea vessels after Gaza ceasefire",
+        "link": "https://www.middleeasteye.net/news/houthis-signal-end-attacks-israel-and-vessels-after-ceasefire"
+      },
+      {
+        "title": "US plans 'temporary housing' in Gaza behind Israeli lines: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-plans-temporary-housing-gaza-behind-israeli-lines-report"
+      },
+      {
+        "title": "US plans 'temporary housing' in Gaza behind Israeli lines: Report",
+        "link": "https://www.middleeasteye.net/news/us-plans-temporary-housing-gaza-behind-israeli-lines-report"
+      }
+    ],
+    "GeoTV": [
+      {
+        "title": "Sabrina Carpenter to play lead role in 'Alice in Wonderland' musical adaptation",
+        "link": "https://www.geo.tv/latest/633232-sabrina-carpenter-to-play-lead-role-in-alice-in-wonderland-musical-adaptation"
+      },
+      {
+        "title": "The FCC debate",
+        "link": "https://www.geo.tv/latest/633226-the-fcc-debate"
+      },
+      {
+        "title": "Glen Powell ‘not interested' in love anymore",
+        "link": "https://www.geo.tv/latest/633231-glen-powell-not-in-a-rush-to-get-into-a-relationship"
+      },
+      {
+        "title": "Meghan Markle relying on ‘rich friends' to make ‘As Ever' look relevant",
+        "link": "https://www.geo.tv/latest/633225-meghan-markle-slammed-for-calling-in-favours-to-boost-brand-sales"
+      },
+      {
+        "title": "Kate Middleton makes surprising revelation about Prince George",
+        "link": "https://www.geo.tv/latest/633204-kate-middleton-says-prince-george-knows-more-about-planes-than-her"
+      }
+    ],
+    "NDTV": [
+      {
+        "title": "'Rs 58 Crore, Global Links': Police Probe One Of Biggest Digital Arrests",
+        "link": "https://www.ndtv.com/india-news/maharashtra-cyber-department-probes-one-of-indias-biggest-digital-scam-rs-58-crore-international-network-links-9618331#publisher=newsstand"
+      },
+      {
+        "title": "NCP \"Never Misused Power Nor Acted Arrogantly\": Ajit Pawar",
+        "link": "https://www.ndtv.com/india-news/ajit-pawar-says-ncp-never-misused-power-nor-acted-arrogantly-9618462#publisher=newsstand"
+      },
+      {
+        "title": "'No Changes': Google Denies Removing Western Sahara Border For Morocco Users",
+        "link": "https://www.ndtv.com/world-news/no-changes-google-denies-removing-western-sahara-border-for-morocco-users-9618854#publisher=newsstand"
+      },
+      {
+        "title": "Bill To Allow 8 Republicans To Seek Damages For Capitol Riot Probe",
+        "link": "https://www.ndtv.com/world-news/us-shutdown-january-6-riot-bill-to-allow-8-republicans-to-seek-damages-for-capitol-riot-probe-9618774#publisher=newsstand"
+      },
+      {
+        "title": "\"Foreign Students Good For US\": Trump's U-Turn On MAGA's Immigration Agenda",
+        "link": "https://www.ndtv.com/world-news/donald-trumps-u-turn-on-magas-immigration-agenda-foreign-students-good-for-us-9619294#publisher=newsstand"
+      }
+    ],
+    "TheGuardian": [
+      {
+        "title": "Borderline ambiguity: How Google Maps removes disputed Western Sahara border for Morocco users",
+        "link": "https://www.theguardian.com/world/2025/nov/12/google-maps-border-western-sahara-morocco"
+      },
+      {
+        "title": "TikTok influencer killed in public ‘execution’ as Mali’s jihadist crisis worsens",
+        "link": "https://www.theguardian.com/world/2025/nov/11/tiktok-influencer-executed-mali-town-square-suspected-jihadists-mariam-cisse"
+      },
+      {
+        "title": "Violent reprisals after DRC whistleblowers discover profiteering in protected land",
+        "link": "https://www.theguardian.com/environment/2025/nov/11/violent-reprisals-after-drc-whistleblowers-discover-profiteering-in-protected-land"
+      },
+      {
+        "title": "US has sent $7.5m to Equatorial Guinea to accept noncitizen deportees",
+        "link": "https://www.theguardian.com/us-news/2025/nov/10/deportations-equatorial-guinea-money"
+      },
+      {
+        "title": "Protesters target major new Nigerian museum embroiled in looted artefacts row",
+        "link": "https://www.theguardian.com/world/2025/nov/10/protesters-disrupt-event-at-nigeria-museum-mowaa-embroiled-in-looted-artefacts-row"
+      }
+    ]
+  },
+  "last_updated": "2025-11-12 04:46 UTC"
 }
