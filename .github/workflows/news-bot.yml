@@ -1,0 +1,107 @@
+name: 📰 Auto News Telegram Bot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # প্রতি ৫ মিনিট পরপর চলবে
+  workflow_dispatch:        # ম্যানুয়ালি চালানোর সুবিধা
+
+jobs:
+  fetch-and-post:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.10"
+
+    - name: Install dependencies
+      run: |
+        pip install feedparser requests
+
+    # 🧠 Step 1: Fetch News & Detect Breaking
+    - name: Fetch Latest News
+      run: |
+        python3 - << 'EOF'
+        import feedparser, json, re
+
+        RSS_FEEDS = {
+            "BBC": "http://feeds.bbci.co.uk/news/rss.xml",
+            "CNN": "http://rss.cnn.com/rss/edition.rss",
+            "AlJazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+            "Reuters": "https://feeds.reuters.com/reuters/topNews",
+            "APNews": "https://apnews.com/apf-topnews?format=xml",
+            "NYTimes": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "TheGuardian": "https://www.theguardian.com/world/rss",
+            "NDTV": "https://feeds.feedburner.com/ndtvnews-top-stories",
+            "Dawn": "https://www.dawn.com/feed",
+            "GeoTV": "https://www.geo.tv/rss/1/0",
+            "MiddleEastEye": "https://www.middleeasteye.net/rss"
+        }
+
+        news_data = {"breaking": [], "regular": []}
+
+        breaking_keywords = [
+            "breaking", "urgent", "alert", "just in",
+            "top story", "developing", "emergency"
+        ]
+
+        for name, url in RSS_FEEDS.items():
+            feed = feedparser.parse(url)
+            for entry in feed.entries[:5]:
+                title = entry.get("title", "")
+                link = entry.get("link", "")
+                if any(re.search(rf"\\b{k}\\b", title, re.IGNORECASE) for k in breaking_keywords):
+                    news_data["breaking"].append({
+                        "source": name,
+                        "title": title,
+                        "link": link
+                    })
+                else:
+                    news_data["regular"].append({
+                        "source": name,
+                        "title": title,
+                        "link": link
+                    })
+
+        with open("latest_news.json", "w", encoding="utf-8") as f:
+            json.dump(news_data, f, ensure_ascii=False, indent=2)
+        EOF
+
+    # 🚀 Step 2: Send Breaking News to Telegram
+    - name: Send Breaking News to Telegram
+      run: |
+        python3 - << 'EOF'
+        import json, requests, os
+
+        token = os.environ['TELEGRAM_BOT_TOKEN']
+        chat_id = os.environ['TELEGRAM_CHAT_ID']
+
+        with open("latest_news.json","r",encoding="utf-8") as f:
+            data = json.load(f)
+
+        breaking = data.get("breaking", [])
+
+        if not breaking:
+            print("No breaking news.")
+            exit(0)
+
+        msg = "🔴 <b>BREAKING NEWS</b>\n\n"
+        for item in breaking[:3]:
+            msg += f"🌐 <b>{item['source']}</b>\n"
+            msg += f"• {item['title']}\n"
+            msg += f"{item['link']}\n\n"
+
+        url = f"https://api.telegram.org/bot{token}/sendMessage"
+        requests.post(url, json={
+            "chat_id": chat_id,
+            "text": msg,
+            "parse_mode": "HTML"
+        })
+        EOF
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
