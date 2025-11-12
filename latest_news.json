@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: India, Pakistan launch probes after blasts in New Delhi, Islamabad",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/11/12/pakistan-india-launch-probes-after-blasts-in-islamabad-new-delhi?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,8 +7,8 @@
         "link": "https://www.bbc.com/news/articles/c5y0z2q2g2ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Why the shake-up of school inspections risks causing new problems",
-        "link": "https://www.bbc.com/news/articles/cg7nelkjp87o?at_medium=RSS&at_campaign=rss"
+        "title": "Thousands of NHS staff to lose jobs after Treasury approves £1bn pay-off deal",
+        "link": "https://www.bbc.com/news/articles/c3w9y9dpv5qo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Trump says he has 'obligation' to sue BBC over speech edit",
@@ -25,11 +19,19 @@
         "link": "https://www.bbc.com/news/articles/c709y1yx1r0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "NHS gets go-ahead to make thousands of redundancies",
-        "link": "https://www.bbc.com/news/articles/c3w9y9dpv5qo?at_medium=RSS&at_campaign=rss"
+        "title": "Why Ofsted’s school inspections shake-up risks causing new problems",
+        "link": "https://www.bbc.com/news/articles/cg7nelkjp87o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘Our land is not for sale’: Indigenous people protest at COP30 in Brazil",
+        "link": "https://www.aljazeera.com/gallery/2025/11/12/our-land-is-not-for-sale-indigenous-people-protest-at-cop30-in-brazil?traffic_source=rss"
+      },
+      {
+        "title": "Turkiye confirms all 20 soldiers died in its army plane crash in Georgia",
+        "link": "https://www.aljazeera.com/news/2025/11/12/turkiye-confirms-all-20-soldiers-died-in-its-army-plane-crash-in-georgia?traffic_source=rss"
+      },
       {
         "title": "Russia loses legal battle to build embassy near Australia’s Parliament",
         "link": "https://www.aljazeera.com/news/2025/11/12/russia-loses-legal-battle-to-build-embassy-near-australias-parliament?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Thousands evacuated in Taiwan as Tropical Storm Fung-wong closes in",
         "link": "https://www.aljazeera.com/news/2025/11/12/thousands-evacuated-in-taiwan-as-tropical-storm-fung-wong-closes-in?traffic_source=rss"
-      },
-      {
-        "title": "Colombia’s Petro halts intelligence sharing with US over Caribbean strikes",
-        "link": "https://www.aljazeera.com/news/2025/11/12/colombias-petro-halts-intelligence-sharing-with-us-over-caribbean-strikes?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: India, Pakistan launch probes after blasts in New Delhi, Islamabad",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/12/pakistan-india-launch-probes-after-blasts-in-islamabad-new-delhi?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1954656/cowardly-attacks-will-not-weaken-resolve-to-deal-with-menace-of-terrorism-says-dar"
       },
       {
+        "title": "KP peace jirga begins to discuss province’s law and order situation amid terrorism spike",
+        "link": "https://www.dawn.com/news/1954653/kp-peace-jirga-begins-to-discuss-provinces-law-and-order-situation-amid-terrorism-spike"
+      },
+      {
         "title": "All terrorists involved in attack on Cadet College in Wana killed, security sources say",
         "link": "https://www.dawn.com/news/1954632/all-terrorists-involved-in-attack-on-cadet-college-in-wana-killed-security-sources-say"
       },
       {
         "title": "Justice Amin likely to head federal court as names being decided",
         "link": "https://www.dawn.com/news/1954604/justice-amin-likely-to-head-federal-court-as-names-being-decided"
-      },
-      {
-        "title": "Turkiye says military plane crash in Georgia killed all 20 onboard",
-        "link": "https://www.dawn.com/news/1954654/turkiye-says-military-plane-crash-in-georgia-killed-all-20-onboard"
       }
     ],
     "APNews": [],
@@ -143,24 +137,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Turkiye says 20 troops killed in Georgia plane crash",
+        "link": "https://www.geo.tv/latest/633245-turkiye-says-20-troops-killed-in-georgia-plane-crash"
+      },
+      {
+        "title": "'Toy Story 5' trailer unveils fresh threat for Woody and the gang",
+        "link": "https://www.geo.tv/latest/633240-toy-story-5-trailer-unveils-fresh-threat-for-woody-and-the-gang"
+      },
+      {
+        "title": "Water treaty: Pakistan to continue participation in Neutral Expert proceedings despite India's boycott",
+        "link": "https://www.geo.tv/latest/633247-water-treaty-pakistan-to-continue-participation-in-neutral-expert-proceedings-despite-indias-boycott"
+      },
+      {
         "title": "Sarah Ferguson ready to expose Diana's personal letters on 'disastrous' Charles' marriage",
         "link": "https://www.geo.tv/latest/633248-sarah-ferguson-set-to-betray-charles-by-selling-diana-letters-chronicling-disastrous-marriage"
       },
       {
         "title": "Pakistan receives second US crude oil shipment",
         "link": "https://www.geo.tv/latest/633237-pakistan-receives-second-us-crude-oil-shipment"
-      },
-      {
-        "title": "Ariana Grande, Ethan Slater prefer ‘to be low-key'",
-        "link": "https://www.geo.tv/latest/633244-ariana-grande-and-ethan-slater-dont-want-their-relation-to-play-out"
-      },
-      {
-        "title": "Typhoon Fung-Wong triggers mass evacuations, flooding in Taiwan after Philippines landfall",
-        "link": "https://www.geo.tv/latest/633246-typhoon-fung-wong-triggers-mass-evacuations-flooding-in-taiwan-after-philippines-landfall"
-      },
-      {
-        "title": "'Almost every day': Japan battles spike in bear attacks",
-        "link": "https://www.geo.tv/latest/633243-almost-every-day-japan-battles-spike-in-bear-attacks"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-12 06:55 UTC"
+  "last_updated": "2025-11-12 07:33 UTC"
 }
