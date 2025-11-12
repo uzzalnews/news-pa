@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: India, Pakistan launch probes after blasts in New Delhi, Islamabad",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/12/pakistan-india-launch-probes-after-blasts-in-islamabad-new-delhi?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,30 +25,30 @@
         "link": "https://www.bbc.com/news/articles/c709y1yx1r0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Northern Lights set to dazzle UK this week due to possible 'severe' geomagnetic storm",
-        "link": "https://www.bbc.com/weather/articles/cpv13jpmxw7o?at_medium=RSS&at_campaign=rss"
+        "title": "NHS gets go-ahead to make thousands of redundancies",
+        "link": "https://www.bbc.com/news/articles/c3w9y9dpv5qo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Why is Trump talking about nuclear testing?",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2025/11/12/why-is-trump-talking-about-nuclear-testing?traffic_source=rss"
+        "title": "Russia loses legal battle to build embassy near Australia’s Parliament",
+        "link": "https://www.aljazeera.com/news/2025/11/12/russia-loses-legal-battle-to-build-embassy-near-australias-parliament?traffic_source=rss"
       },
       {
-        "title": "South Korea’s former PM, spy chief arrested over martial law declaration",
-        "link": "https://www.aljazeera.com/news/2025/11/12/south-koreas-former-pm-spy-chief-arrested-over-martial-law-declaration?traffic_source=rss"
+        "title": "Carlos Alcaraz rallies to defeat Taylor Fritz at ATP Finals in Turin",
+        "link": "https://www.aljazeera.com/sports/2025/11/12/carlos-alcaraz-rallies-to-defeat-taylor-fritz-at-atp-finals-in-turin?traffic_source=rss"
       },
       {
-        "title": "Indigenous activists storm COP30 climate summit in Brazil, demanding action",
-        "link": "https://www.aljazeera.com/news/2025/11/12/indigenous-activists-storm-cop30-climate-summit-in-brazil-demanding-action?traffic_source=rss"
+        "title": "Thousands evacuated in Taiwan as Tropical Storm Fung-wong closes in",
+        "link": "https://www.aljazeera.com/news/2025/11/12/thousands-evacuated-in-taiwan-as-tropical-storm-fung-wong-closes-in?traffic_source=rss"
       },
       {
-        "title": "UK sentences Chinese scammer after record-breaking Bitcoin seizure",
-        "link": "https://www.aljazeera.com/news/2025/11/12/uk-sentences-chinese-scammer-after-record-breaking-bitcoin-seizure?traffic_source=rss"
+        "title": "Colombia’s Petro halts intelligence sharing with US over Caribbean strikes",
+        "link": "https://www.aljazeera.com/news/2025/11/12/colombias-petro-halts-intelligence-sharing-with-us-over-caribbean-strikes?traffic_source=rss"
       },
       {
-        "title": "Ukrainian forces pull back under fierce Russian pressure in Zaporizhia",
-        "link": "https://www.aljazeera.com/news/2025/11/12/ukrainian-forces-pull-back-under-fierce-russian-pressure-in-zaporizhia?traffic_source=rss"
+        "title": "LIVE: India, Pakistan launch probes after blasts in New Delhi, Islamabad",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/12/pakistan-india-launch-probes-after-blasts-in-islamabad-new-delhi?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,12 @@
     ],
     "Dawn": [
       {
-        "title": "NA to take up 27th Constitutional Amendment bill again today",
-        "link": "https://www.dawn.com/news/1954651/na-to-take-up-27th-constitutional-amendment-bill-again-today"
+        "title": "NA resumes debate on 27th Constitutional Amendment bill as session begins",
+        "link": "https://www.dawn.com/news/1954651/na-resumes-debate-on-27th-constitutional-amendment-bill-as-session-begins"
+      },
+      {
+        "title": "Cowardly attacks will not weaken resolve to deal with menace of terrorism, says Dar",
+        "link": "https://www.dawn.com/news/1954656/cowardly-attacks-will-not-weaken-resolve-to-deal-with-menace-of-terrorism-says-dar"
       },
       {
         "title": "All terrorists involved in attack on Cadet College in Wana killed, security sources say",
@@ -82,12 +92,8 @@
         "link": "https://www.dawn.com/news/1954604/justice-amin-likely-to-head-federal-court-as-names-being-decided"
       },
       {
-        "title": "Afghan link being probed as terror revisits capital after years",
-        "link": "https://www.dawn.com/news/1954598/afghan-link-being-probed-as-terror-revisits-capital-after-years"
-      },
-      {
-        "title": "Australia, Indonesia agree to sign new security treaty",
-        "link": "https://www.dawn.com/news/1954648/australia-indonesia-agree-to-sign-new-security-treaty"
+        "title": "Turkiye says military plane crash in Georgia killed all 20 onboard",
+        "link": "https://www.dawn.com/news/1954654/turkiye-says-military-plane-crash-in-georgia-killed-all-20-onboard"
       }
     ],
     "APNews": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-457"
+      },
+      {
         "title": "Evening recap",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-567"
       },
@@ -129,54 +139,50 @@
       {
         "title": "US plans 'temporary housing' in Gaza behind Israeli lines: Report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-plans-temporary-housing-gaza-behind-israeli-lines-report"
-      },
-      {
-        "title": "US plans 'temporary housing' in Gaza behind Israeli lines: Report",
-        "link": "https://www.middleeasteye.net/news/us-plans-temporary-housing-gaza-behind-israeli-lines-report"
       }
     ],
     "GeoTV": [
       {
-        "title": "Cleto Escobedo, Jimmy Kimmel's band leader dies",
-        "link": "https://www.geo.tv/latest/633241-cleto-escobedo-jimmy-kimmels-band-leader-passes-away"
+        "title": "Sarah Ferguson ready to expose Diana's personal letters on 'disastrous' Charles' marriage",
+        "link": "https://www.geo.tv/latest/633248-sarah-ferguson-set-to-betray-charles-by-selling-diana-letters-chronicling-disastrous-marriage"
       },
       {
-        "title": "Humans can no longer tell AI music from the real thing: survey",
-        "link": "https://www.geo.tv/latest/633238-humans-can-no-longer-tell-ai-music-from-the-real-thing-survey"
+        "title": "Pakistan receives second US crude oil shipment",
+        "link": "https://www.geo.tv/latest/633237-pakistan-receives-second-us-crude-oil-shipment"
       },
       {
-        "title": "King Charles' problems not over yet as new bombshell from Andrew, Fergie awaits",
-        "link": "https://www.geo.tv/latest/633236-disgraced-andrew-sarah-ferguson-find-new-plan-to-raise-finance-amid-downfall"
+        "title": "Ariana Grande, Ethan Slater prefer ‘to be low-key'",
+        "link": "https://www.geo.tv/latest/633244-ariana-grande-and-ethan-slater-dont-want-their-relation-to-play-out"
       },
       {
-        "title": "Northern lights dazzle Arizona in rare solar storm display",
-        "link": "https://www.geo.tv/latest/633239-northern-lights-dazzle-arizona-in-rare-solar-storm-display"
+        "title": "Typhoon Fung-Wong triggers mass evacuations, flooding in Taiwan after Philippines landfall",
+        "link": "https://www.geo.tv/latest/633246-typhoon-fung-wong-triggers-mass-evacuations-flooding-in-taiwan-after-philippines-landfall"
       },
       {
-        "title": "Idris Elba returns in new 'Luther' sequel: Plot, cast, and release details",
-        "link": "https://www.geo.tv/latest/633233-idris-elba-returns-in-new-luther-sequel-plot-cast-and-release-details"
+        "title": "'Almost every day': Japan battles spike in bear attacks",
+        "link": "https://www.geo.tv/latest/633243-almost-every-day-japan-battles-spike-in-bear-attacks"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Act Of War\": Government Sources Say \"Op Sindoor On\" After Delhi Blast",
-        "link": "https://www.ndtv.com/india-news/act-of-war-government-sources-say-op-sindoor-on-after-delhi-blast-9614168#publisher=newsstand"
+        "title": "12 Days Before Blast, Suspects Got i20's Pollution Checked, Then Parked It",
+        "link": "https://www.ndtv.com/india-news/red-fort-blast-delhi-blast-12-days-before-blast-suspect-got-i20s-pollution-checked-then-parked-it-9619839#publisher=newsstand"
       },
       {
-        "title": "PM Modi, Bhutan's Fourth King Discuss Bilateral Ties, Cultural Bonds",
-        "link": "https://www.ndtv.com/india-news/pm-modi-bhutans-fourth-king-discuss-bilateral-ties-cultural-bonds-9619616#publisher=newsstand"
+        "title": "Delhi Blast's Telegram Link: How Messaging App Became Playground For Terrorists",
+        "link": "https://www.ndtv.com/world-news/delhi-blasts-telegram-link-how-messenger-became-playground-for-terrorists-9615070#publisher=newsstand"
       },
       {
-        "title": "'US Doesn't Have Enough Talent': Trump Defends H-1B Visa Plan After Fee Hike",
-        "link": "https://www.ndtv.com/world-news/us-doesnt-have-some-talents-donald-trump-defends-h-1b-visa-plan-after-fee-hike-9619610#publisher=newsstand"
+        "title": "Slow-Moving Traffic, Then Big Explosion: CCTV Footage Of Delhi Red Fort Blast",
+        "link": "https://www.ndtv.com/india-news/delhi-red-fort-blast-live-updates-slow-moving-traffic-then-big-explosion-cctv-footage-of-delhi-red-fort-blast-9619828#publisher=newsstand"
       },
       {
-        "title": "Red Fort Blast Live Updates: Delhi Blast Suspects Recced Red Fort In January, Sources Say",
-        "link": "https://www.ndtv.com/india-news/delhi-red-fort-blast-live-updates-car-explosion-many-feared-dead-after-explosion-in-car-near-red-fort-in-delhi-pm-modi-rekha-gupta-delhi-9609750#publisher=newsstand"
+        "title": "Bilaspur Train Accident: Probe Reveals Loco Pilot Didn't Clear Aptitude Test",
+        "link": "https://www.ndtv.com/india-news/bilaspur-train-accident-probe-reveals-loco-pilot-didnt-clear-aptitude-test-9619905#publisher=newsstand"
       },
       {
-        "title": "'Rs 58 Crore, Global Links': Police Probe One Of Biggest Digital Arrests",
-        "link": "https://www.ndtv.com/india-news/maharashtra-cyber-department-probes-one-of-indias-biggest-digital-scam-rs-58-crore-international-network-links-9618331#publisher=newsstand"
+        "title": "Sample Taken From Delhi Blast Site More Powerful Than Ammonium Nitrate: Sources",
+        "link": "https://www.ndtv.com/india-news/delhi-bomb-blast-delhi-blast-car-explosion-near-red-fort-sample-taken-from-blast-site-more-powerful-than-ammonium-nitrate-sources-9619807#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-12 05:51 UTC"
+  "last_updated": "2025-11-12 06:55 UTC"
 }
