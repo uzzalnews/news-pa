@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Ireland vs Portugal – World Cup 2026 qualifier",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/11/13/live-ireland-vs-portugal-world-cup-2026-qualifier?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "France marks 10 years since Paris attacks upended country",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/13/france-marks-10-years-since-paris-attacks-upended-country?traffic_source=rss"
+      },
+      {
         "title": "Colombia to maintain US intelligence-sharing to fight drug trafficking",
         "link": "https://www.aljazeera.com/news/2025/11/13/colombia-says-will-maintain-intelligence-sharing-to-fight-drug-trafficking?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Should the US fund health insurance or leave it to the market?",
         "link": "https://www.aljazeera.com/video/counting-the-cost/2025/11/13/should-the-us-fund-health-insurance-or-leave-it-to-the-market?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Ireland vs Portugal – World Cup 2026 qualifier",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/11/13/live-ireland-vs-portugal-world-cup-2026-qualifier?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -165,24 +159,24 @@
     ],
     "NDTV": [
       {
-        "title": "Huge Crowd At Shreya Ghoshal's Odisha Concert Leads To Chaos",
-        "link": "https://www.ndtv.com/india-news/huge-crowd-at-shreya-ghoshals-odisha-concert-leads-to-chaos-9631316#publisher=newsstand"
+        "title": "Panama Denies US Military Exercises On Its Soil Aimed At Venezuela",
+        "link": "https://www.ndtv.com/world-news/panama-denies-us-military-exercises-on-its-soil-aimed-at-venezuela-9631506#publisher=newsstand"
       },
       {
-        "title": "JP Singh: Top Cop Who Took Retirement To Make Political Debut In Bihar",
-        "link": "https://www.ndtv.com/india-news/jp-singh-the-ex-ips-officer-contesting-bihar-elections-from-chapra-on-jan-suraaj-ticket-9472844#publisher=newsstand"
+        "title": "India Seeks Russia's Nod for Marine, Pharma Exports to Boost Trade",
+        "link": "https://www.ndtv.com/india-news/india-seeks-russias-nod-for-marine-pharma-exports-to-boost-trade-9630736#publisher=newsstand"
       },
       {
-        "title": "Reach Metro Station 20 Minutes Early: Delhi Cops To Passengers After Blast",
-        "link": "https://www.ndtv.com/india-news/reach-metro-station-20-minutes-early-delhi-cops-to-passengers-after-blast-9629295#publisher=newsstand"
+        "title": "Schools To Function In Hybrid Mode Till Class 5 In Gurugram Due To Pollution",
+        "link": "https://www.ndtv.com/india-news/schools-to-function-in-hybrid-mode-till-class-5-in-gurugram-due-to-pollution-9630920#publisher=newsstand"
       },
       {
-        "title": "'Punishment For Delhi Blast Perpetrators Will Send Message': Amit Shah",
-        "link": "https://www.ndtv.com/india-news/punishment-for-delhi-blast-perpetrators-will-send-message-amit-shah-9631258#publisher=newsstand"
+        "title": "Gujarat Man Gets Friend To Shoot Forest Officer Wife Over Dispute",
+        "link": "https://www.ndtv.com/india-news/gujarat-man-gets-friend-to-shoot-forest-officer-wife-over-dispute-9631509#publisher=newsstand"
       },
       {
-        "title": "KC Sinha: Mathematician Trying To Put BJP Out Of Kumhrar Equation",
-        "link": "https://www.ndtv.com/india-news/kc-sinha-kumhrar-jan-suraaj-bihar-election-2025-kc-sinha-mathematician-trying-to-put-bjp-out-of-kumhrar-equation-9474126#publisher=newsstand"
+        "title": "US Proposal Could Halve Biocon's Biosimilar Development Costs",
+        "link": "https://www.ndtv.com/world-news/us-proposal-could-halve-biocons-biosimilar-development-costs-9630847#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-13 19:40 UTC"
+  "last_updated": "2025-11-13 19:51 UTC"
 }
