@@ -3,27 +3,31 @@
   "news": {
     "BBC": [
       {
+        "title": "BBC apologises to Trump over Panorama edit but refuses to pay compensation",
+        "link": "https://www.bbc.com/news/articles/c874nw4g2zzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Starmer's chief of staff McSweeney not leaving role over briefing war, BBC told",
         "link": "https://www.bbc.com/news/articles/cn8vn4vv87xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Missing information and racism concerns: Five key failings in Sara Sharif review",
+        "title": "How Sara Sharif was failed multiple times before she was murdered",
         "link": "https://www.bbc.com/news/articles/c1e31vdjjl5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "BBC faces fresh claim of misleading Trump edit",
-        "link": "https://www.bbc.com/news/articles/cr5e9erpnzlo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Our dogs' diversity can be traced back to the Stone Age",
         "link": "https://www.bbc.com/news/articles/ce9d7j89ykro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Police and crime commissioners to be scrapped in England and Wales",
-        "link": "https://www.bbc.com/news/articles/c93d4dd3l3lo?at_medium=RSS&at_campaign=rss"
+        "title": "Two-thirds of military women experienced sexualised behaviour, survey says",
+        "link": "https://www.bbc.com/news/articles/cvgkx1nenlpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "James Comey, Letitia James argue US attorney in their cases hired illegally",
+        "link": "https://www.aljazeera.com/news/2025/11/13/james-comey-letitia-james-argue-us-attorney-in-their-cases-hired-illegally?traffic_source=rss"
+      },
       {
         "title": "France marks 10 years since Paris attacks upended country",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/13/france-marks-10-years-since-paris-attacks-upended-country?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Medical experts say Africa faces worst cholera outbreak in 25 years",
         "link": "https://www.aljazeera.com/news/2025/11/13/medical-experts-say-africa-faces-worst-cholera-outbreak-in-25-years?traffic_source=rss"
-      },
-      {
-        "title": "Should the US fund health insurance or leave it to the market?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2025/11/13/should-the-us-fund-health-insurance-or-leave-it-to-the-market?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,16 +93,12 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "As Shutdown Ends, When Will SNAP and Air Travel Be Back to Normal?",
-        "link": "https://www.nytimes.com/2025/11/12/us/shutdown-travel-snap-backpay.html"
-      },
-      {
-        "title": "The Shutdown Is Over. But for Federal Workers, the Anxiety Persists.",
-        "link": "https://www.nytimes.com/2025/11/13/us/politics/shutdown-federal-workers-aftermath.html"
-      },
-      {
         "title": "How D.C. Area Businesses Aided Furloughed Workers Amid Government Shutdown",
         "link": "https://www.nytimes.com/2025/11/13/us/politics/furloughed-workers-support.html"
+      },
+      {
+        "title": "SNAP’s Problems Started Long Before the Shutdown",
+        "link": "https://www.nytimes.com/2025/11/13/dining/snap-recipients-government-shutdown.html"
       },
       {
         "title": "After Trump Split, Epstein Said He Could ‘Take Him Down’",
@@ -111,6 +107,10 @@
       {
         "title": "Epstein’s Emails About Trump",
         "link": "https://www.nytimes.com/video/us/politics/100000010520312/epstein-trump-emails-explained.html"
+      },
+      {
+        "title": "What Epstein’s Emails Claim About Trump’s Knowledge of His Conduct",
+        "link": "https://www.nytimes.com/2025/11/12/us/politics/epstein-emails-trump.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Iran, Qatar express concern over Pak-Afghan tensions",
+        "link": "https://www.geo.tv/latest/633494-iran-qatar-express-concern-over-pak-afghan-tensions"
+      },
+      {
         "title": "George Clooney admits parenting isn't easy with busy career",
         "link": "https://www.geo.tv/latest/633493-george-clooney-talks-about-balancing-parenting-and-career"
       },
@@ -151,10 +155,6 @@
       {
         "title": "Coldplay & Dua Lipa take big step for music",
         "link": "https://www.geo.tv/latest/633491-dua-lipa-coldplay-expose-ticket-scam"
-      },
-      {
-        "title": "Palace confirms Kate Middleton's next engagement in London",
-        "link": "https://www.geo.tv/latest/633489-kate-middleton-to-attend-a-summit-in-london-on-tuesday"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-13 19:51 UTC"
+  "last_updated": "2025-11-13 20:39 UTC"
 }
