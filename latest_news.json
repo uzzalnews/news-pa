@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Ukraine’s capital Kyiv comes under deadly Russian attack",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/11/14/live-ukraines-capital-kyiv-comes-under-deadly-russian-attack?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,11 +19,19 @@
         "link": "https://www.bbc.com/news/articles/cm2lg8pgjymo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Councils warn of 'total collapse' in special needs system",
-        "link": "https://www.bbc.com/news/articles/c9v127xp2r4o?at_medium=RSS&at_campaign=rss"
+        "title": "Man suspected of being fake high-ranking admiral at Remembrance event investigated",
+        "link": "https://www.bbc.com/news/articles/ckgy42yjn1xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Violence in Bangladesh as toppled Hasina’s party protests crackdown trial",
+        "link": "https://www.aljazeera.com/news/2025/11/14/violence-in-bangladesh-as-toppled-hasinas-party-protests-crackdown-trial?traffic_source=rss"
+      },
+      {
+        "title": "US, South Korea to ‘move forward’ on building nuclear-powered submarines",
+        "link": "https://www.aljazeera.com/news/2025/11/14/us-south-korea-to-move-forward-on-building-nuclear-powered-submarines?traffic_source=rss"
+      },
       {
         "title": "India has called the Delhi blast an ‘act of terror’: How will it respond?",
         "link": "https://www.aljazeera.com/features/2025/11/14/india-has-called-the-delhi-blast-an-act-of-terror-how-will-it-respond?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "US pushes Security Council to back Gaza plan as Russia offers counter text",
         "link": "https://www.aljazeera.com/news/2025/11/14/us-pushes-security-council-to-back-gaza-plan-as-russia-offers-counter-text?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Ukraine’s capital Kyiv comes under deadly Russian attack",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/14/live-ukraines-capital-kyiv-comes-under-deadly-russian-attack?traffic_source=rss"
-      },
-      {
-        "title": "How many times has Israel violated the Gaza ceasefire?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/14/how-many-times-has-israel-violated-the-gaza-ceasefire-2?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "A Gaza ceasefire without justice or Palestinians at the table is a betrayal",
+        "link": "https://www.middleeasteye.net/opinion/gaza-ceasefire-without-justice-palestinians-at-table-betrayal"
+      },
+      {
+        "title": "Israeli army declares West Bank village off-limits ahead of activist olive harvest",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-declares-west-bank-village-limits-ahead-activist-olive"
+      },
+      {
         "title": "Israel's occupation and bombing of south Lebanon makes return home impossible",
         "link": "https://www.middleeasteye.net/news/south-lebanon-impossible-return-home-israeli-occupation"
       },
@@ -131,17 +133,21 @@
       {
         "title": "Israeli airstrikes, artillery hit areas inside 'Yellow Line' in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-airstrikes-artillery-hit-areas-inside-yellow-line-gaza"
-      },
-      {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-458"
-      },
-      {
-        "title": "Evening recap",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-569"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Raphael wins Person of the Year at 2025 Latin Grammys",
+        "link": "https://www.geo.tv/latest/633577-raphael-declared-person-of-the-year-2025"
+      },
+      {
+        "title": "Pakistan win toss, opt to bowl first in second Sri Lanka ODI",
+        "link": "https://www.geo.tv/latest/633569-pakistan-win-toss-opt-to-bowl-first-in-second-sri-lanka-odi"
+      },
+      {
+        "title": "King Charles losing patience with Andrew amid exile rumours",
+        "link": "https://www.geo.tv/latest/633574-andrew-embraces-freedom-but-faces-uncertain-future-after-royal-fall"
+      },
       {
         "title": "Andrew Mountbatten Windsor spoils King Charles' scandal",
         "link": "https://www.geo.tv/latest/633572-king-charles-birthday-gets-marred-with-andrew-mountbatten-windsors-scandal"
@@ -149,18 +155,6 @@
       {
         "title": "‘UFO' sightings over US city of Denver revealed as skydivers for NFL team",
         "link": "https://www.geo.tv/latest/633556-ufo-sightings-over-us-city-of-denver-revealed-as-skydivers-for-nfl-team"
-      },
-      {
-        "title": "Police destroy massive haul of illegal mobile phones from Manchester prison",
-        "link": "https://www.geo.tv/latest/633571-police-destroy-massive-haul-of-illegal-mobile-phones-from-manchester-prison"
-      },
-      {
-        "title": "Global media reviews Pakistan's constitutional defence reforms",
-        "link": "https://www.geo.tv/latest/633565-global-media-reviews-pakistans-constitutional-defence-reforms"
-      },
-      {
-        "title": "Bad Bunny wins album of the year",
-        "link": "https://www.geo.tv/latest/633550-bad-bunny-bags-album-of-the-year-at-2025-latin-grammys"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-14 08:55 UTC"
+  "last_updated": "2025-11-14 09:06 UTC"
 }
