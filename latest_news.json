@@ -1,19 +1,14 @@
 {
   "breaking": [
     {
-      "source": "NDTV",
-      "title": "Bihar Results LIVE: NDA Heads To Massive Win, Mahagathbandhan Parties Spiral",
-      "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-assembly-election-results-bihar-election-results-2025-assembly-election-2025-bihar-counting-bihar-results-live-9628758#publisher=newsstand"
+      "source": "AlJazeera",
+      "title": "LIVE: Ukraine’s capital Kyiv comes under deadly Russian attack",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/14/live-ukraines-capital-kyiv-comes-under-deadly-russian-attack?traffic_source=rss"
     },
     {
       "source": "NDTV",
-      "title": "Bihar Election Results 2025 LIVE Updates: Tejashwi Yadav Trails In Raghopur, NDA Leads In 192 Seats",
+      "title": "Bihar Election Results 2025 LIVE Updates: NDA Heads For Huge Win, Shahabuddin's Son Leads In Ragunathpur",
       "link": "https://www.ndtv.com/india-news/bihar-assembly-elections-results-2025-live-updates-nitish-kumar-tejashwi-yadav-mahagathbandhan-bjp-nda-rjd-congress-9632014#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "Bihar Results LIVE: Tej Pratap Trails By 10,000 Votes, Is Number 4 In Mahua",
-      "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-early-trends-show-tej-pratap-leading-in-mahua-9632716#publisher=newsstand"
     }
   ],
   "news": {
@@ -35,11 +30,19 @@
         "link": "https://www.bbc.com/news/articles/c9v127xp2r4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Mahmood expected to adopt 'temporary stays only' rule for successful asylum seekers",
-        "link": "https://www.bbc.com/news/articles/cvgmvjmvyg7o?at_medium=RSS&at_campaign=rss"
+        "title": "TikTok award winner Max: 'It takes me hours to make the content you scroll on the toilet'",
+        "link": "https://www.bbc.com/news/articles/c17p1z5ppq8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US pushes Security Council to back Gaza plan as Russia offers counter text",
+        "link": "https://www.aljazeera.com/news/2025/11/14/us-pushes-security-council-to-back-gaza-plan-as-russia-offers-counter-text?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Ukraine’s capital Kyiv comes under deadly Russian attack",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/14/live-ukraines-capital-kyiv-comes-under-deadly-russian-attack?traffic_source=rss"
+      },
       {
         "title": "How many times has Israel violated the Gaza ceasefire?",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/14/how-many-times-has-israel-violated-the-gaza-ceasefire-2?traffic_source=rss"
@@ -51,14 +54,6 @@
       {
         "title": "At least 2 dead, 21 missing in landslides in Indonesia’s Java island",
         "link": "https://www.aljazeera.com/news/2025/11/14/at-least-2-dead-21-missing-in-landslides-in-indonesias-java-island?traffic_source=rss"
-      },
-      {
-        "title": "‘Massive enemy attack’: Russia pounds Ukraine’s Kyiv, killing one",
-        "link": "https://www.aljazeera.com/news/2025/11/14/massive-enemy-attack-russia-pounds-ukraines-kyiv-killing-one?traffic_source=rss"
-      },
-      {
-        "title": "South Africa lets 153 Palestinians disembark following 12-hour plane ordeal",
-        "link": "https://www.aljazeera.com/news/2025/11/14/south-africa-lets-153-palestinians-disembark-following-12-hour-plane-ordeal?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -90,6 +85,10 @@
         "link": "https://www.dawn.com/news/1955004/justice-aminuddin-khan-sworn-in-as-first-chief-justice-of-federal-constitutional-court"
       },
       {
+        "title": "Govt says 4 TTP members arrested for involvement in Islamabad suicide attack",
+        "link": "https://www.dawn.com/news/1955041/govt-says-4-ttp-members-arrested-for-involvement-in-islamabad-suicide-attack"
+      },
+      {
         "title": "PTI parliamentary body suggests holding countrywide protests",
         "link": "https://www.dawn.com/news/1954960/pti-parliamentary-body-suggests-holding-countrywide-protests"
       },
@@ -100,10 +99,6 @@
       {
         "title": "Govt bid to oust K-Electric chief fails again",
         "link": "https://www.dawn.com/news/1954933/govt-bid-to-oust-k-electric-chief-fails-again"
-      },
-      {
-        "title": "US announces new military operation in Latin America",
-        "link": "https://www.dawn.com/news/1955036/us-announces-new-military-operation-in-latin-america"
       }
     ],
     "APNews": [],
@@ -131,6 +126,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli forces turn Hebron home into military post amid city raid",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-turn-hebron-home-military-post-amid-city-raid"
+      },
+      {
+        "title": "Israeli airstrikes, artillery hit areas inside 'Yellow Line' in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-airstrikes-artillery-hit-areas-inside-yellow-line-gaza"
+      },
+      {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-458"
       },
@@ -141,17 +144,17 @@
       {
         "title": "Iran demands United Nations hold Trump responsible for June Israeli air strikes",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-demands-united-nations-hold-trump-responsible-june-israeli-air"
-      },
-      {
-        "title": "Rubio says Israeli settler violence in West Bank could undermine Gaza peace deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-israeli-settler-violence-west-bank-could-undermine-gaza-peace"
-      },
-      {
-        "title": "Rubio says Israeli settler violence in West Bank could undermine Gaza peace deal",
-        "link": "https://www.middleeasteye.net/news/us-secretary-state-lauds-israeli-president-and-army-chiefs-criticism-settler-attacks"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Miley Cyrus releases new song for ‘Avatar: Fire and Ash' titled ‘Dream As One'",
+        "link": "https://www.geo.tv/latest/633560-miley-cyrus-releases-new-song-for-avatar-fire-and-ash-titled-dream-as-one"
+      },
+      {
+        "title": "Andrew Mountbatten Windsor suffers first consequence of getting his titles stripped",
+        "link": "https://www.geo.tv/latest/633557-andrew-mountbatten-windsor-suffers-first-consequence-of-getting-his-titles-stripped"
+      },
       {
         "title": "Sarah Ferguson seeks advice on what to do next amid Epstein scandal",
         "link": "https://www.geo.tv/latest/633553-sarah-ferguson-on-the-brink-of-a-breakdown-amid-renewed-scrutiny"
@@ -163,36 +166,28 @@
       {
         "title": "Cardi B welcomes first child with Stefon Diggs",
         "link": "https://www.geo.tv/latest/633549-cardi-b-welcomes-baby-number-four"
-      },
-      {
-        "title": "What is speed limit on Karachi's Sharea Faisal?",
-        "link": "https://www.geo.tv/latest/633541-what-is-speed-limit-on-karachis-sharea-faisal"
-      },
-      {
-        "title": "Kim Kardashian reveals why she isn't interested in dating anyone",
-        "link": "https://www.geo.tv/latest/633540-kim-kardashian-reveals-why-she-isnt-interested-in-dating-anyone"
       }
     ],
     "NDTV": [
       {
-        "title": "Bihar Results LIVE: NDA Heads To Massive Win, Mahagathbandhan Parties Spiral",
-        "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-assembly-election-results-bihar-election-results-2025-assembly-election-2025-bihar-counting-bihar-results-live-9628758#publisher=newsstand"
+        "title": "Assembly ByPolls Result Live Updates: BJP Wins In J&K's Nagrota Assembly Bypolls; Congress Leads In Telangana's Jubilee Hills",
+        "link": "https://www.ndtv.com/india-news/assembly-bypolls-result-live-updates-counting-begins-at-8-am-8-assembly-bypoll-results-today-jubilee-hills-budgam-nagrota-anta-ghatsila-9632076#publisher=newsstand"
       },
       {
-        "title": "Tamil Nadu Man Dies Of Rabies After He Refused Treatment For Dog Bite",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-man-dies-of-rabies-after-he-refused-treatment-for-dog-bite-9633575#publisher=newsstand"
+        "title": "\"Blood Oozing From Corpses\" Haunts Escapees From Sudan's El-Fasher",
+        "link": "https://www.ndtv.com/world-news/blood-oozing-from-corpses-haunts-escapees-from-sudans-el-fasher-9633885#publisher=newsstand"
       },
       {
-        "title": "Bihar Election Results 2025 LIVE Updates: Tejashwi Yadav Trails In Raghopur, NDA Leads In 192 Seats",
+        "title": "Rise Of The Young Gun: Chirag Paswan's Stellar Show In Bihar",
+        "link": "https://www.ndtv.com/india-news/chirag-paswan-ljp-bihar-elections-bihar-results-bihar-assembly-elections-bihar-results-live-bihar-polls-bihar-elections-live-bihar-poll-results-9633800#publisher=newsstand"
+      },
+      {
+        "title": "\"Another Election, Another Defeat\": BJP Mocks Rahul Gandhi After Bihar Rout",
+        "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-live-another-election-another-defeat-bjp-mocks-rahul-gandhi-after-bihar-rout-9633857#publisher=newsstand"
+      },
+      {
+        "title": "Bihar Election Results 2025 LIVE Updates: NDA Heads For Huge Win, Shahabuddin's Son Leads In Ragunathpur",
         "link": "https://www.ndtv.com/india-news/bihar-assembly-elections-results-2025-live-updates-nitish-kumar-tejashwi-yadav-mahagathbandhan-bjp-nda-rjd-congress-9632014#publisher=newsstand"
-      },
-      {
-        "title": "Adani Group To Invest Rs 63,000 Crore For Energy Projects In Assam",
-        "link": "https://www.ndtv.com/india-news/adani-group-to-invest-rs-63-000-crore-for-energy-projects-in-assam-9633174#publisher=newsstand"
-      },
-      {
-        "title": "Bihar Results LIVE: Tej Pratap Trails By 10,000 Votes, Is Number 4 In Mahua",
-        "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-early-trends-show-tej-pratap-leading-in-mahua-9632716#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -218,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-14 06:53 UTC"
+  "last_updated": "2025-11-14 07:38 UTC"
 }
