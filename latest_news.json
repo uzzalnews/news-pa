@@ -1,5 +1,21 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Jubilee Hills Results LIVE: Amid Bihar Rout, Congress May Get Consolation Prize In Telangana Bypoll",
+      "link": "https://www.ndtv.com/india-news/bypoll-results-live-jubilee-hills-bypoll-result-congress-amid-bihar-rout-congress-may-get-consolation-prize-in-telangana-bypoll-9633633#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Bihar Results LIVE: 200 Paar In Bihar: NDA Thrashes Mahagathbandhan, PK A Damp Squib",
+      "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-assembly-election-results-bihar-election-results-2025-assembly-election-2025-bihar-counting-bihar-results-live-9628758#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Bihar Results LIVE: These Bihar Ministers Became MLAs In 1990, Now Headed To 9th Straight Win",
+      "link": "https://www.ndtv.com/india-news/bihar-results-live-bihar-election-results-these-bihar-ministers-became-mlas-in-1990-now-headed-to-9th-straight-win-9634649#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +27,23 @@
         "link": "https://www.bbc.com/news/articles/c874nw4g2zzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "No-fault evictions to be banned in England from May",
-        "link": "https://www.bbc.com/news/articles/c8x1n9rv809o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Doctors begin five-day walkout in England",
         "link": "https://www.bbc.com/news/articles/cm2lg8pgjymo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Man suspected of being fake high-ranking admiral at Remembrance event investigated",
-        "link": "https://www.bbc.com/news/articles/ckgy42yjn1xo?at_medium=RSS&at_campaign=rss"
+        "title": "Amber warnings issued as Storm Claudia brings heavy rain and flooding to UK",
+        "link": "https://www.bbc.com/weather/articles/cj0e3y6yy99o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four killed in wave of Russian strikes across Kyiv, officials say",
+        "link": "https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘Silliness’: Ireland and Portugal coaches at odds over Ronaldo red card",
+        "link": "https://www.aljazeera.com/sports/2025/11/14/silliness-ireland-and-portugal-coaches-at-odds-over-ronaldo-red-card?traffic_source=rss"
+      },
       {
         "title": "Violence in Bangladesh as toppled Hasina’s party protests crackdown trial",
         "link": "https://www.aljazeera.com/news/2025/11/14/violence-in-bangladesh-as-toppled-hasinas-party-protests-crackdown-trial?traffic_source=rss"
@@ -39,10 +59,6 @@
       {
         "title": "France secure spot at 2026 World Cup as Mbappe scores twice against Ukraine",
         "link": "https://www.aljazeera.com/sports/2025/11/14/france-secure-spot-at-2026-world-cup-as-mbappe-scores-twice-against-ukraine?traffic_source=rss"
-      },
-      {
-        "title": "US pushes Security Council to back Gaza plan as Russia offers counter text",
-        "link": "https://www.aljazeera.com/news/2025/11/14/us-pushes-security-council-to-back-gaza-plan-as-russia-offers-counter-text?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,8 +90,8 @@
         "link": "https://www.dawn.com/news/1955004/justice-aminuddin-khan-sworn-in-as-first-chief-justice-of-federal-constitutional-court"
       },
       {
-        "title": "Govt says 4 TTP members arrested for involvement in Islamabad suicide attack",
-        "link": "https://www.dawn.com/news/1955041/govt-says-4-ttp-members-arrested-for-involvement-in-islamabad-suicide-attack"
+        "title": "Govt says 4 TTP terrorists arrested for involvement in Islamabad suicide attack",
+        "link": "https://www.dawn.com/news/1955041/govt-says-4-ttp-terrorists-arrested-for-involvement-in-islamabad-suicide-attack"
       },
       {
         "title": "Following NA approval, Senate also passes bill for resetting COAS Munir’s tenure after appointment as CDF",
@@ -115,6 +131,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Russia challenges US-backed UN resolution on Gaza with own draft",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-challenges-us-backed-un-resolution-gaza-own-draft"
+      },
+      {
+        "title": "Gaza civil defence urges displaced Palestinians to take precautions ahead of heavy rains",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-civil-defence-urges-displaced-palestinians-take-precautions-ahead"
+      },
+      {
         "title": "A Gaza ceasefire without justice or Palestinians at the table is a betrayal",
         "link": "https://www.middleeasteye.net/opinion/gaza-ceasefire-without-justice-palestinians-at-table-betrayal"
       },
@@ -125,58 +149,50 @@
       {
         "title": "Israel's occupation and bombing of south Lebanon makes return home impossible",
         "link": "https://www.middleeasteye.net/news/south-lebanon-impossible-return-home-israeli-occupation"
-      },
-      {
-        "title": "Israeli forces turn Hebron home into military post amid city raid",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-turn-hebron-home-military-post-amid-city-raid"
-      },
-      {
-        "title": "Israeli airstrikes, artillery hit areas inside 'Yellow Line' in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-airstrikes-artillery-hit-areas-inside-yellow-line-gaza"
       }
     ],
     "GeoTV": [
       {
+        "title": "Nina Dobrev's latest TikTok clip raises eyebrows",
+        "link": "https://www.geo.tv/latest/633563-nina-dobrevs-latest-tiktok-clip-raises-eyebrows"
+      },
+      {
+        "title": "Princess Eugenie takes on another honor as dad suffers another Epstein blow",
+        "link": "https://www.geo.tv/latest/633581-princess-eugenie-undertakes-a-royal-engagement-for-king-charles"
+      },
+      {
+        "title": "Why did the 'Fantastic Four' reboot flop?",
+        "link": "https://www.geo.tv/latest/633555-miles-teller-slams-one-person-for-flop-of-fantastic-four"
+      },
+      {
+        "title": "‘Wuthering Heights' trailer vs. book: Key differences you need to know",
+        "link": "https://www.geo.tv/latest/633575-wuthering-heights-trailer-vs-book-key-differences-you-need-to-know"
+      },
+      {
         "title": "Raphael wins Person of the Year at 2025 Latin Grammys",
         "link": "https://www.geo.tv/latest/633577-raphael-declared-person-of-the-year-2025"
-      },
-      {
-        "title": "Pakistan win toss, opt to bowl first in second Sri Lanka ODI",
-        "link": "https://www.geo.tv/latest/633569-pakistan-win-toss-opt-to-bowl-first-in-second-sri-lanka-odi"
-      },
-      {
-        "title": "King Charles losing patience with Andrew amid exile rumours",
-        "link": "https://www.geo.tv/latest/633574-andrew-embraces-freedom-but-faces-uncertain-future-after-royal-fall"
-      },
-      {
-        "title": "Andrew Mountbatten Windsor spoils King Charles' scandal",
-        "link": "https://www.geo.tv/latest/633572-king-charles-birthday-gets-marred-with-andrew-mountbatten-windsors-scandal"
-      },
-      {
-        "title": "‘UFO' sightings over US city of Denver revealed as skydivers for NFL team",
-        "link": "https://www.geo.tv/latest/633556-ufo-sightings-over-us-city-of-denver-revealed-as-skydivers-for-nfl-team"
       }
     ],
     "NDTV": [
+      {
+        "title": "Congress Trailing In All Seats On Rahul Gandhi's Bihar Yatra Route",
+        "link": "https://www.ndtv.com/india-news/congress-trailing-in-all-seats-on-rahul-gandhis-bihar-yatra-route-9634648#publisher=newsstand"
+      },
       {
         "title": "Bihar Election Results Live: Despite Massive Setback, Tejashwi Yadav's RJD Gets More Votes Than BJP, JDU",
         "link": "https://www.ndtv.com/india-news/bihar-election-2025-result-live-despite-massive-setback-tejashwi-yadavs-rjd-gets-more-votes-than-bjp-nitish-kumars-jdu-9634466#publisher=newsstand"
       },
       {
-        "title": "AIIMS Nagpur Student Dies By Suicide, Sources Say Academic Stress Unlikely",
-        "link": "https://www.ndtv.com/india-news/aiims-nagpur-student-dies-by-suicide-sources-say-academic-stress-unlikely-9634469#publisher=newsstand"
+        "title": "Jubilee Hills Results LIVE: Amid Bihar Rout, Congress May Get Consolation Prize In Telangana Bypoll",
+        "link": "https://www.ndtv.com/india-news/bypoll-results-live-jubilee-hills-bypoll-result-congress-amid-bihar-rout-congress-may-get-consolation-prize-in-telangana-bypoll-9633633#publisher=newsstand"
       },
       {
-        "title": "After NDA's Bihar Showing, BJP's Bengal Polls Warning To Mamata Banerjee",
-        "link": "https://www.ndtv.com/india-news/bihar-elections-results-2025-live-after-ndas-bihar-showing-bjps-bengal-polls-warning-to-mamata-banerjee-9634467#publisher=newsstand"
+        "title": "Bihar Results LIVE: 200 Paar In Bihar: NDA Thrashes Mahagathbandhan, PK A Damp Squib",
+        "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-assembly-election-results-bihar-election-results-2025-assembly-election-2025-bihar-counting-bihar-results-live-9628758#publisher=newsstand"
       },
       {
-        "title": "Rise Of The Young Gun: Chirag Paswan's Stellar Show In Bihar",
-        "link": "https://www.ndtv.com/india-news/chirag-paswan-ljp-bihar-elections-bihar-results-bihar-assembly-elections-bihar-results-live-bihar-polls-bihar-elections-live-bihar-poll-results-9633800#publisher=newsstand"
-      },
-      {
-        "title": "In Pics: BJP, JDU Supporters Celebrate As NDA Heads For Landslide Win In Bihar",
-        "link": "https://www.ndtv.com/india-news/in-pics-bjp-jdu-supporters-celebrate-as-nda-heads-for-landslide-win-in-bihar-9634394#publisher=newsstand"
+        "title": "Bihar Results LIVE: These Bihar Ministers Became MLAs In 1990, Now Headed To 9th Straight Win",
+        "link": "https://www.ndtv.com/india-news/bihar-results-live-bihar-election-results-these-bihar-ministers-became-mlas-in-1990-now-headed-to-9th-straight-win-9634649#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +218,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-14 09:06 UTC"
+  "last_updated": "2025-11-14 09:45 UTC"
 }
