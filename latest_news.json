@@ -1,29 +1,47 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Bihar Results LIVE: Tej Pratap Yadavs Party Draws A Blank, He Ends Up Third In Mahua",
+      "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-early-trends-show-tej-pratap-leading-in-mahua-9632716#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Reeves backs off from proposals to raise income tax rates at Budget",
+        "title": "Reeves backs off from proposals to raise income tax rates in Budget",
         "link": "https://www.bbc.com/news/articles/c0mx3nv7zy8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "BBC apologises to Trump over Panorama edit but refuses to pay compensation",
-        "link": "https://www.bbc.com/news/articles/c874nw4g2zzo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Doctor strike inflicting pain and misery on patients, says health secretary",
         "link": "https://www.bbc.com/news/articles/cm2lg8pgjymo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Amber warnings issued as Storm Claudia brings heavy rain and flooding to UK",
-        "link": "https://www.bbc.com/weather/articles/cj0e3y6yy99o?at_medium=RSS&at_campaign=rss"
+        "title": "'Real concern' about political appointees on BBC board, Nandy says",
+        "link": "https://www.bbc.com/news/articles/cdeg0ngnj0yo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Russian drone slams into block of flats in deadly wave of strikes across Kyiv",
         "link": "https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New photo of King on his Sandringham estate released for 77th birthday",
+        "link": "https://www.bbc.com/news/articles/c77zgmg6d76o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Rights groups decry Tunisia’s ‘injustice’, crackdown on activists",
+        "link": "https://www.aljazeera.com/news/2025/11/14/rights-groups-decry-tunisias-injustice-crackdown-on-activists?traffic_source=rss"
+      },
+      {
+        "title": "Bihar 2025 election result: Who won, who lost, why it matters",
+        "link": "https://www.aljazeera.com/news/2025/11/14/bihar-2025-election-result-who-won-who-lost-why-it-matters?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine faces ‘exhausting battles’ against Russia in Zaporizhia, Donetsk",
+        "link": "https://www.aljazeera.com/news/2025/11/14/ukraine-faces-exhausting-battles-against-russia-in-zaporizhia-donetsk?traffic_source=rss"
+      },
       {
         "title": "Rescue teams search at scene of Indonesia landslide",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/14/rescue-teams-search-at-scene-of-indonesia-landslide?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Is Venezuela prepared for a US attack, as Washington ramps up forces?",
         "link": "https://www.aljazeera.com/news/2025/11/14/is-venezuela-prepared-for-a-us-attack-as-washington-ramps-up-forces?traffic_source=rss"
-      },
-      {
-        "title": "UK judge finds BHP Group liable in Brazil’s worst environmental disaster",
-        "link": "https://www.aljazeera.com/news/2025/11/14/uk-judge-finds-bhp-group-liable-in-brazils-worst-environmental-disaster?traffic_source=rss"
-      },
-      {
-        "title": "Trump, Congress and the Epstein files: What happens next?",
-        "link": "https://www.aljazeera.com/news/2025/11/14/trump-congress-and-the-epstein-files-what-happens-next?traffic_source=rss"
-      },
-      {
-        "title": "Amputees from Israel’s Gaza war use homemade prosthetics to re-enter life",
-        "link": "https://www.aljazeera.com/news/2025/11/14/amputees-from-israels-gaza-war-use-homemade-prosthetics-to-re-enter-life?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
+        "title": "President Zardari accepts resignations of SC judges Mansoor Ali Shah and Athar Minallah",
+        "link": "https://www.dawn.com/news/1955065/president-zardari-accepts-resignations-of-sc-judges-mansoor-ali-shah-and-athar-minallah"
+      },
+      {
+        "title": "TTAP holds emergency meeting on future strategy, political situation after 27th amendment’s passage",
+        "link": "https://www.dawn.com/news/1955063/ttap-holds-emergency-meeting-on-future-strategy-political-situation-after-27th-amendments-passage"
+      },
+      {
+        "title": "Jordan’s King Abdullah II to arrive in Pakistan for two-day state visit",
+        "link": "https://www.dawn.com/news/1955066/jordans-king-abdullah-ii-to-arrive-in-pakistan-for-two-day-state-visit"
+      },
+      {
+        "title": "India’s Modi celebrates as party set for big win in Bihar state vote",
+        "link": "https://www.dawn.com/news/1955069/indias-modi-celebrates-as-party-set-for-big-win-in-bihar-state-vote"
+      },
+      {
         "title": "Justice Aminuddin Khan sworn in as first chief justice of Federal Constitutional Court",
         "link": "https://www.dawn.com/news/1955004/justice-aminuddin-khan-sworn-in-as-first-chief-justice-of-federal-constitutional-court"
-      },
-      {
-        "title": "Pakistan will not hold talks with any terrorist group: FO",
-        "link": "https://www.dawn.com/news/1955057/pakistan-will-not-hold-talks-with-any-terrorist-group-fo"
-      },
-      {
-        "title": "Khawaja Asif assails SC judges for stepping down, says ‘conscience awakened only after monopoly curtailed’",
-        "link": "https://www.dawn.com/news/1955049/khawaja-asif-assails-sc-judges-for-stepping-down-says-conscience-awakened-only-after-monopoly-curtailed"
-      },
-      {
-        "title": "PHC bars KP govt from employing official vehicles for ‘personal or political use’",
-        "link": "https://www.dawn.com/news/1955060/phc-bars-kp-govt-from-employing-official-vehicles-for-personal-or-political-use"
-      },
-      {
-        "title": "No mention of 27th Amendment in SC full court meeting called after judges’ letters to CJP Yahya",
-        "link": "https://www.dawn.com/news/1955058/no-mention-of-27th-amendment-in-sc-full-court-meeting-called-after-judges-letters-to-cjp-yahya"
       }
     ],
     "APNews": [],
@@ -105,83 +111,83 @@
         "link": "https://www.nytimes.com/2025/11/14/health/rfkjr-obesity-drugs.html"
       },
       {
-        "title": "A Major New Experiment in Voting, and the World’s Most Polluted Air",
-        "link": "https://www.nytimes.com/2025/11/14/podcasts/the-headlines/voting-alaska-pollution-india.html"
+        "title": "Far Right’s Fixation on Jan. 6 Pipe Bomb Suspect Reaches F.B.I.’s Top Ranks",
+        "link": "https://www.nytimes.com/2025/11/13/us/politics/dan-bongino-jan-6-pipe-bomb.html"
       },
       {
-        "title": "Zelensky Ousted a Heavyweight Mayor. Was It a Power Grab?",
-        "link": "https://www.nytimes.com/2025/11/14/world/europe/ukraine-zelensky-odesa-gennadiy-trukhanov.html"
+        "title": "A Major New Experiment in Voting, and the World’s Most Polluted Air",
+        "link": "https://www.nytimes.com/2025/11/14/podcasts/the-headlines/voting-alaska-pollution-india.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Rached Ghannouchi: My father's ideas will outlive this shameful era in Tunisia",
-        "link": "https://www.middleeasteye.net/opinion/rached-ghannouchi-my-fathers-ideas-will-outlive-shameful-era-tunisia"
+        "title": "Twenty-five states funnelled oil to Israel during genocide: Report",
+        "link": "https://www.middleeasteye.net/news/twenty-five-states-funnelled-oil-israel-during-genocide-report"
       },
       {
-        "title": "Israeli forces fire tear gas at Palestinian farmers near Bethlehem",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-fire-tear-gas-palestinian-farmers-near-bethlehem"
+        "title": "Israeli forces kill woman near Gaza City",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-woman-near-gaza-city"
       },
       {
-        "title": "Silent on Sisi: Bassem Youssef makes a ‘safe’ return to Egyptian TV screens",
-        "link": "https://www.middleeasteye.net/discover/bassem-youssef-return-egypt-tv-safe-advocate-palestine-not-other-arabs"
+        "title": "Fears of 'catastrophic consequences' in Gaza as rain floods tents",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fears-catastrophic-consequences-gaza-rain-floods-tents"
       },
       {
-        "title": "Israel hands over 15 Palestinian bodies as part of ceasefire exchange",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-hands-over-15-palestinian-bodies-part-ceasefire-exchange"
+        "title": "Israeli army says it shot Palestinian for crossing Gaza’s 'Yellow Line'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-shot-palestinian-crossing-gazas-yellow-line"
       },
       {
-        "title": "UN says permanent displacement of Palestinians in occupied territories amounts to war crime",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-permanent-displacement-palestinians-occupied-territories-amounts"
+        "title": "Fears of 'catastrophic consequences' in Gaza as rain floods tents",
+        "link": "https://www.middleeasteye.net/news/first-rains-winter-threatens-gaza-living-crisis-over-19-million-displaced-palestinians"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles spotlights full list of recipients for The King's Award for Voluntary Service 2025",
-        "link": "https://www.geo.tv/latest/633611-the-kings-award-for-voluntary-service-2025-gets-reposted-by-king-charless-x-account"
+        "title": "'Stranger Things' star Joe Keery breaks silence about his ‘last time' on set",
+        "link": "https://www.geo.tv/latest/633621-stranger-things-star-joe-keery-breaks-silence-about-his-last-time-on-set"
       },
       {
-        "title": "Meghan Markle told to give back Duchess of Sussex title after refusing to follow royal tradition",
-        "link": "https://www.geo.tv/latest/633615-meghan-markle-told-to-give-back-duchess-of-sussex-title-after-refusing-to-follow-royal-tradition"
+        "title": "Ariana Grande breaks silence after being grabbed by man at 'Wicked: For Good' premiere",
+        "link": "https://www.geo.tv/latest/633625-ariana-grande-responds-after-being-grabbed-by-man-at-premiere"
       },
       {
-        "title": "UK faces unprecedented NHS crisis as doctors launch strike",
-        "link": "https://www.geo.tv/latest/633614-uk-faces-unprecedented-nhs-crisis-as-doctors-launch-strike"
+        "title": "Gigi Hadid gives up on party lifestyle for Bradley Cooper",
+        "link": "https://www.geo.tv/latest/633626-gigi-hadid-changes-everything-for-bradley-cooper"
       },
       {
-        "title": "PTA starts licensing of VPN service providers under CVAS-Data regime",
-        "link": "https://www.geo.tv/latest/633613-pta-starts-licensing-of-vpn-service-providers-under-cvas-data-regime"
+        "title": "World's top YouTuber MrBeast launches Saudi theme park",
+        "link": "https://www.geo.tv/latest/633627-worlds-top-youtuber-mrbeast-launches-saudi-theme-park"
       },
       {
-        "title": "Is 2025 'The Running Man' a remake or new adaptation? Everything we know",
-        "link": "https://www.geo.tv/latest/633579-is-the-running-man-a-remake-or-new-adaptation-everything-we-know"
+        "title": "Prince Harry, Meghan hold 'inspiring conversation' with celebrity psychic amid title worries",
+        "link": "https://www.geo.tv/latest/633623-prince-harry-meghan-hold-inspiring-conversation-with-celebrity-psychic-amid-title-worries"
       }
     ],
     "NDTV": [
       {
-        "title": "200 Paar In Bihar: NDA Thrashes Mahagathbandhan, PK A Damp Squib",
-        "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-assembly-election-results-bihar-election-results-2025-assembly-election-2025-bihar-counting-bihar-results-live-9628758#publisher=newsstand"
+        "title": "Bihar Results LIVE: Tej Pratap Yadavs Party Draws A Blank, He Ends Up Third In Mahua",
+        "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-early-trends-show-tej-pratap-leading-in-mahua-9632716#publisher=newsstand"
       },
       {
-        "title": "Bihar Election Results Live: Tejashwi Yadav Leads By 10,000 Votes In Raghopur, Congress' Tally Increases",
+        "title": "Bihar Election Results Live -  \"Papa Would Be Very Happy\": Chirag Paswan On Bihar Results",
         "link": "https://www.ndtv.com/india-news/bihar-assembly-elections-results-2025-live-updates-nitish-kumar-tejashwi-yadav-mahagathbandhan-bjp-nda-rjd-congress-9632014#publisher=newsstand"
       },
       {
-        "title": "\"If They Are So Arrogant...\": RJD Down, Asaduddin Owaisi's Party Rubs It In",
-        "link": "https://www.ndtv.com/india-news/if-they-are-so-arrogant-rjd-down-asaduddin-owaisis-party-rubs-it-in-9635622#publisher=newsstand"
+        "title": "Those Who Practice Jungle Raj Won't Get Chance To Loot: Amit Shah On Bihar Results",
+        "link": "https://www.ndtv.com/india-news/those-who-practice-jungle-raj-wont-get-chance-to-loot-amit-shah-on-bihar-results-bihar-elections-bihar-results-live-9635818#publisher=newsstand"
       },
       {
-        "title": "BJP's Samrat Choudhary, Bihar's Deputy Chief Minister, Leads From Tarapur",
-        "link": "https://www.ndtv.com/india-news/bihar-results-2025-tarapur-bjp-candidate-samrat-choudhary-deputy-chief-minister-9632698#publisher=newsstand"
+        "title": "Opinion: Opinion | The Bihar Election's Script Was Actually Written In Haryana. Here's How",
+        "link": "https://www.ndtv.com/opinion/where-should-you-start-reading-the-bihar-verdict-from-haryana-it-seems-9636471#publisher=newsstand"
       },
       {
-        "title": "\"Total Failure Of Organisation\": Congress Leader On Bihar Result",
-        "link": "https://www.ndtv.com/india-news/bihar-election-results-total-failure-of-organisation-congress-leader-on-bihar-result-9635590#publisher=newsstand"
+        "title": "\"Good Governance, Development Won,\" Says PM Modi After NDA Sweeps Bihar Elections",
+        "link": "https://www.ndtv.com/india-news/bihar-result-live-good-governance-development-won-says-pm-modi-after-nda-sweeps-bihar-elections-9635843#publisher=newsstand"
       }
     ],
     "TheGuardian": [
       {
-        "title": "Anger in South Africa after plane of Palestinians held on tarmac for 12 hours",
+        "title": "Anger in South Africa after Palestinians held on plane for 12 hours",
         "link": "https://www.theguardian.com/world/2025/nov/14/anger-south-africa-plane-palestinians-held-12-hours"
       },
       {
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-14 11:59 UTC"
+  "last_updated": "2025-11-14 13:43 UTC"
 }
