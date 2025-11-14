@@ -1,15 +1,9 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Bihar Result LIVE: NDA Smashes Own Record, Tejashwi & Co Tumble",
-      "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-assembly-election-results-bihar-election-results-2025-assembly-election-2025-bihar-counting-bihar-results-live-9628758#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Reeves decides against raising income tax rates",
+        "title": "Reeves backs off from plans to raise income tax rates at Budget",
         "link": "https://www.bbc.com/news/articles/c0mx3nv7zy8o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -17,7 +11,7 @@
         "link": "https://www.bbc.com/news/articles/c874nw4g2zzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Doctors begin five-day walkout in England",
+        "title": "Doctors harming patients by striking, says health secretary",
         "link": "https://www.bbc.com/news/articles/cm2lg8pgjymo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,30 +19,30 @@
         "link": "https://www.bbc.com/weather/articles/cj0e3y6yy99o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Four killed in wave of Russian strikes across Kyiv, officials say",
+        "title": "Russian drone slams into block of flats in deadly wave of strikes across Kyiv",
         "link": "https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "UK judge finds BHP Group liable in Brazil’s worst environmental disaster",
+        "link": "https://www.aljazeera.com/news/2025/11/14/uk-judge-finds-bhp-group-liable-in-brazils-worst-environmental-disaster?traffic_source=rss"
+      },
+      {
+        "title": "Trump, Congress and the Epstein files: What happens next?",
+        "link": "https://www.aljazeera.com/news/2025/11/14/trump-congress-and-the-epstein-files-what-happens-next?traffic_source=rss"
+      },
+      {
+        "title": "Amputees from Israel’s Gaza war use homemade prosthetics to re-enter life",
+        "link": "https://www.aljazeera.com/news/2025/11/14/amputees-from-israels-gaza-war-use-homemade-prosthetics-to-re-enter-life?traffic_source=rss"
+      },
+      {
+        "title": "Italian prosecutors investigate Bosnian war ‘sniper safaris’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/14/italian-prosecutors-investigate-bosnian-war-sniper?traffic_source=rss"
+      },
+      {
         "title": "Jack Della Maddalena backs himself to beat UFC ‘legend’ Islam Makhachev",
         "link": "https://www.aljazeera.com/sports/2025/11/14/jack-della-maddalena-backs-himself-to-beat-ufc-legend-islam-makhachev?traffic_source=rss"
-      },
-      {
-        "title": "UNRWA slams Israel for crippling Gaza efforts, aid woefully short of needs",
-        "link": "https://www.aljazeera.com/news/2025/11/14/unrwa-slams-israel-for-crippling-gaza-efforts-aid-woefully-short-of-needs?traffic_source=rss"
-      },
-      {
-        "title": "‘Silliness’: Ireland and Portugal coaches at odds over Ronaldo red card",
-        "link": "https://www.aljazeera.com/sports/2025/11/14/silliness-ireland-and-portugal-coaches-at-odds-over-ronaldo-red-card?traffic_source=rss"
-      },
-      {
-        "title": "Violence in Bangladesh as toppled Hasina’s party protests crackdown trial",
-        "link": "https://www.aljazeera.com/news/2025/11/14/violence-in-bangladesh-as-toppled-hasinas-party-protests-crackdown-trial?traffic_source=rss"
-      },
-      {
-        "title": "US, South Korea to ‘move forward’ on building nuclear-powered submarines",
-        "link": "https://www.aljazeera.com/news/2025/11/14/us-south-korea-to-move-forward-on-building-nuclear-powered-submarines?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,27 +93,35 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Justice Dept. Memo Blessing Boat Strikes Is Said to Rely on Trump’s Claims About Cartels",
-        "link": "https://www.nytimes.com/2025/11/13/us/politics/boat-strikes-doj-memo-trump.html"
+        "title": "America First? Some Trump Supporters Worry That’s No Longer the Case.",
+        "link": "https://www.nytimes.com/2025/11/14/us/politics/trump-supporters-america-first-concerns.html"
       },
       {
-        "title": "Family of Fisherman Killed in U.S. Military Strike Says It Wants Justice",
-        "link": "https://www.nytimes.com/2025/11/13/world/americas/trump-drug-boat-strikes-colombian-fisherman.html"
+        "title": "Trump Officials Prepare Tariff Exemptions, Seeking to Lower Food Prices",
+        "link": "https://www.nytimes.com/2025/11/13/us/politics/trump-tariffs-food-prices.html"
       },
       {
-        "title": "U.S. Strike Kills 4 on Boat Trump Says Was Smuggling Drugs",
-        "link": "https://www.nytimes.com/2025/11/13/us/politics/trump-drug-boat-strike-caribbean.html"
+        "title": "RFK Jr. Walks a Tightrope on Trump Deal for Obesity Drugs",
+        "link": "https://www.nytimes.com/2025/11/14/health/rfkjr-obesity-drugs.html"
       },
       {
-        "title": "Texas A&M Tightens Rules on Talking About Race and Gender in Classes",
-        "link": "https://www.nytimes.com/2025/11/13/us/texas-am-gender-race-ideology-rules-classroom.html"
+        "title": "A Major New Experiment in Voting, and the World’s Most Polluted Air",
+        "link": "https://www.nytimes.com/2025/11/14/podcasts/the-headlines/voting-alaska-pollution-india.html"
       },
       {
-        "title": "Indiana Professor Removed From Class Over White Supremacy Lesson",
-        "link": "https://www.nytimes.com/2025/11/13/us/indiana-university-professor-white-supremacy-lesson.html"
+        "title": "Zelensky Ousted a Heavyweight Mayor. Was It a Power Grab?",
+        "link": "https://www.nytimes.com/2025/11/14/world/europe/ukraine-zelensky-odesa-gennadiy-trukhanov.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli forces fire tear gas at Palestinian farmers near Bethlehem",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-fire-tear-gas-palestinian-farmers-near-bethlehem"
+      },
+      {
+        "title": "Silent on Sisi: Bassem Youssef makes a ‘safe’ return to Egyptian TV screens",
+        "link": "https://www.middleeasteye.net/discover/bassem-youssef-return-egypt-tv-safe-advocate-palestine-not-other-arabs"
+      },
       {
         "title": "Israel hands over 15 Palestinian bodies as part of ceasefire exchange",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-hands-over-15-palestinian-bodies-part-ceasefire-exchange"
@@ -131,58 +133,50 @@
       {
         "title": "Syria 'does not have a sectarian problem', says foreign minister",
         "link": "https://www.middleeasteye.net/news/syria-does-not-have-sectarian-problem-says-foreign-minister"
-      },
-      {
-        "title": "Russia challenges US-backed UN resolution on Gaza with own draft",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-challenges-us-backed-un-resolution-gaza-own-draft"
-      },
-      {
-        "title": "Gaza civil defence urges displaced Palestinians to take precautions ahead of heavy rains",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-civil-defence-urges-displaced-palestinians-take-precautions-ahead"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince William releases an emotional video message: Watch Video",
-        "link": "https://www.geo.tv/latest/633600-prince-william-releases-an-emotional-video-message"
+        "title": "Former world heavyweight champion Joseph Parker faces ban after failed cocaine test",
+        "link": "https://www.geo.tv/latest/633606-former-world-heavyweight-champion-joseph-parker-faces-ban-after-failed-cocaine-test"
       },
       {
-        "title": "Meghan Markle retains 'Princess' title",
-        "link": "https://www.geo.tv/latest/633593-meghan-markle-retains-princess-title"
+        "title": "Nick Jonas talks Jonas Brother Christmas movie, plot and everything to know",
+        "link": "https://www.geo.tv/latest/633597-a-very-jonas-christmas-movie-nick-gets-up-close-and-honest"
       },
       {
-        "title": "Kate Middleton still follows Prince Philip's clear warning about royal life",
-        "link": "https://www.geo.tv/latest/633596-prince-philips-stark-warning-shaped-kate-middletons-approach-to-royal-duty"
+        "title": "Nick Jonas recalls his time Chip the teacup for ‘Beauty and the Beast' & getting signed",
+        "link": "https://www.geo.tv/latest/633605-nick-jonas-recalls-his-time-chip-the-teacup-for-beauty-and-the-beast-getting-signed"
       },
       {
-        "title": "PPP submits no-confidence motion against AJK PM Anwarul Haq",
-        "link": "https://www.geo.tv/latest/633585-ppp-submits-no-confidence-motion-against-ajk-pm-anwarul-haq"
+        "title": "King Charles' life story from Diana to Camilla on his 77th birthday: Watch",
+        "link": "https://www.geo.tv/latest/633594-king-charles-life-story-from-diana-to-camilla-on-his-77th-birthday-watch"
       },
       {
-        "title": "Shakira tugs at heartstrings with her sons at 'Zootopia 2' premiere",
-        "link": "https://www.geo.tv/latest/633587-shakira-tugs-at-heartstrings-with-her-sons-at-zootopia-2-premiere"
+        "title": "How UK's new immigration rules could affect asylum seekers",
+        "link": "https://www.geo.tv/latest/633598-how-uks-new-immigration-rules-could-affect-asylum-seekers"
       }
     ],
     "NDTV": [
       {
-        "title": "Assembly Bypolls Result Live Updates: Congress Wins Telangana's Jubilee Hills, Rajasthan's Anta Assembly Bypolls",
-        "link": "https://www.ndtv.com/india-news/assembly-bypolls-result-live-updates-counting-begins-at-8-am-8-assembly-bypoll-results-today-jubilee-hills-budgam-nagrota-anta-ghatsila-9632076#publisher=newsstand"
+        "title": "200 Paar In Bihar: NDA Thrashes Mahagathbandhan, PK A Damp Squib",
+        "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-assembly-election-results-bihar-election-results-2025-assembly-election-2025-bihar-counting-bihar-results-live-9628758#publisher=newsstand"
       },
       {
-        "title": "AIMIM Pulled Off Bihar Stunner In 2020, Looks Set To Better It This Year",
-        "link": "https://www.ndtv.com/india-news/bihar-elections-bihar-polls-bihar-results-bihar-results-live-bihar-assembly-elections-5-to-2-seemanchal-trends-point-to-big-loss-for-asaduddin-owaisis-9633395#publisher=newsstand"
-      },
-      {
-        "title": "\"NDA Will Register Its Biggest-Ever Win\": PM's Bihar 'Prediction' Is Viral",
-        "link": "https://www.ndtv.com/india-news/bihar-election-2025-prepare-for-vijayotsav-when-prime-minister-narendra-modi-predicted-ndas-massive-win-in-bihar-9634820#publisher=newsstand"
-      },
-      {
-        "title": "Bihar Election Results Live: NDA Heads For Historic Win, Tejashwi Yadav Claws Back In Raghopur",
+        "title": "Bihar Election Results Live: Tejashwi Yadav Leads By 10,000 Votes In Raghopur, Congress' Tally Increases",
         "link": "https://www.ndtv.com/india-news/bihar-assembly-elections-results-2025-live-updates-nitish-kumar-tejashwi-yadav-mahagathbandhan-bjp-nda-rjd-congress-9632014#publisher=newsstand"
       },
       {
-        "title": "Bihar Result LIVE: NDA Smashes Own Record, Tejashwi & Co Tumble",
-        "link": "https://www.ndtv.com/india-news/bihar-election-results-2025-assembly-election-results-bihar-election-results-2025-assembly-election-2025-bihar-counting-bihar-results-live-9628758#publisher=newsstand"
+        "title": "\"If They Are So Arrogant...\": RJD Down, Asaduddin Owaisi's Party Rubs It In",
+        "link": "https://www.ndtv.com/india-news/if-they-are-so-arrogant-rjd-down-asaduddin-owaisis-party-rubs-it-in-9635622#publisher=newsstand"
+      },
+      {
+        "title": "BJP's Samrat Choudhary, Bihar's Deputy Chief Minister, Leads From Tarapur",
+        "link": "https://www.ndtv.com/india-news/bihar-results-2025-tarapur-bjp-candidate-samrat-choudhary-deputy-chief-minister-9632698#publisher=newsstand"
+      },
+      {
+        "title": "\"Total Failure Of Organisation\": Congress Leader On Bihar Result",
+        "link": "https://www.ndtv.com/india-news/bihar-election-results-total-failure-of-organisation-congress-leader-on-bihar-result-9635590#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-14 10:58 UTC"
+  "last_updated": "2025-11-14 11:34 UTC"
 }
