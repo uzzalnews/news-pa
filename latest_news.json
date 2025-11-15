@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel closely coordinated Gaza families’ mystery transit to S Africa",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/11/15/live-israel-closely-coordinated-gaza-families-mystery-transit-to-s-africa?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "PA warns against ‘agents of displacement’ in Gaza after South Africa flight",
+        "link": "https://www.aljazeera.com/news/2025/11/15/pa-warns-against-agents-of-displacement-in-gaza-after-south-africa-flight?traffic_source=rss"
+      },
+      {
+        "title": "How China’s appetite for the ‘king of fruits’ is changing Southeast Asia",
+        "link": "https://www.aljazeera.com/video/101-east/2025/11/15/how-chinas-appetite-for-the-king-of-fruits-is-changing-southeast-asia?traffic_source=rss"
+      },
+      {
         "title": "Why Russia’s liberal opposition is so anti-Palestinian",
         "link": "https://www.aljazeera.com/opinions/2025/11/15/why-russias-liberal-opposition-is-so-anti-palestinian?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "China issues travel warning for Japan over threats to intervene in Taiwan",
         "link": "https://www.aljazeera.com/news/2025/11/15/china-issues-travel-warning-for-japan-over-threats-to-intervene-in-taiwan?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel closely coordinated Gaza families’ mystery transit to S Africa",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/15/live-israel-closely-coordinated-gaza-families-mystery-transit-to-s-africa?traffic_source=rss"
-      },
-      {
-        "title": "Trump says will sue BBC for up to $5bn over edited video",
-        "link": "https://www.aljazeera.com/news/2025/11/15/trump-likely-to-sue-bbc-for-up-to-5bn-as-outlet-reels-from-editing-scandal?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran says it seized Marshall Islands-flagged oil tanker in Gulf",
+        "link": "https://www.middleeasteye.net/news/iran-says-it-seized-marshall-islands-flagged-oil-tanker-gulf"
+      },
+      {
         "title": "Transit of 153 Palestinians to South Africa coordinated with Israel",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/transit-153-palestinians-south-africa-coordinated-israel"
       },
@@ -135,13 +133,13 @@
       {
         "title": "Evening recap",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-570"
-      },
-      {
-        "title": "Palestinian fighters target Israeli soldiers with explosives near Nablus",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-fighters-target-israeli-soldiers-explosives-near-nablus"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Landslide in Indonesia Central Java kills six, search continue for 17 missing",
+        "link": "https://www.geo.tv/latest/633765-landslide-in-indonesia-central-java-kills-six-search-continue-for-17-missing"
+      },
       {
         "title": "Madison Beer gets ‘bored' of performing old songs get her ‘bored'",
         "link": "https://www.geo.tv/latest/633762-madison-beer-confesses-her-old-songs-get-her-bored"
@@ -157,10 +155,6 @@
       {
         "title": "Pakistan's Asia-beating bond rally seen extending as market access returns",
         "link": "https://www.geo.tv/latest/633755-pakistans-asia-beating-bond-rally-seen-extending-as-market-access-returns"
-      },
-      {
-        "title": "Big relief for Moonis Elahi as Interpol drops nearly two-year investigation",
-        "link": "https://www.geo.tv/latest/633754-big-relief-for-moonis-elahi-as-interpol-drops-nearly-two-year-investigation"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-15 11:40 UTC"
+  "last_updated": "2025-11-15 11:51 UTC"
 }
