@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel closely coordinated Gaza families’ mystery transit to S Africa",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/15/live-israel-closely-coordinated-gaza-families-mystery-transit-to-s-africa?traffic_source=rss"
+    },
+    {
+      "source": "NDTV",
+      "title": "Bihar Election Results 2025 LIVE: \"Dal Mein Kuch Kaala Hai,\" Says Congress Leader Ajay Maken After NDA's Win",
+      "link": "https://www.ndtv.com/india-news/bihar-assembly-elections-results-2025-live-updates-nitish-kumar-tejashwi-yadav-mahagathbandhan-bjp-nda-rjd-congress-9632014#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +36,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Israel closely coordinated Gaza families’ mystery transit to S Africa",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/15/live-israel-closely-coordinated-gaza-families-mystery-transit-to-s-africa?traffic_source=rss"
+      },
+      {
+        "title": "Trump says will sue BBC for up to $5bn over edited video",
+        "link": "https://www.aljazeera.com/news/2025/11/15/trump-likely-to-sue-bbc-for-up-to-5bn-as-outlet-reels-from-editing-scandal?traffic_source=rss"
+      },
+      {
         "title": "UN extends peacekeeping mission in disputed Abyei region for another year",
         "link": "https://www.aljazeera.com/news/2025/11/15/un-extends-peacekeeping-mission-in-disputed-abyei-region-for-another-year?traffic_source=rss"
       },
@@ -35,14 +54,6 @@
       {
         "title": "Colombia’s Petro inks $4.3bn deal for 17 fighter jets amid regional tension",
         "link": "https://www.aljazeera.com/news/2025/11/15/colombias-petro-inks-4-3bn-deal-for-17-fighter-jets-amid-regional-tension?traffic_source=rss"
-      },
-      {
-        "title": "US confirms four people killed in 20th strike on vessel in the Caribbean",
-        "link": "https://www.aljazeera.com/news/2025/11/15/us-confirms-four-people-killed-in-20th-strike-on-vessel-in-the-caribbean?traffic_source=rss"
-      },
-      {
-        "title": "Trump withdraws support for former MAGA champion Marjorie Taylor Greene",
-        "link": "https://www.aljazeera.com/news/2025/11/15/trump-withdraws-support-for-former-maga-champion-marjorie-taylor-greene?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +85,10 @@
         "link": "https://www.dawn.com/news/1955240/justice-shams-mehmood-mirza-resigns-from-lhc-following-27th-amendment"
       },
       {
+        "title": "In visit to Cadet College in Wana, Naqvi holds elements from ‘across the border’ responsible for terrorism",
+        "link": "https://www.dawn.com/news/1955238/in-visit-to-cadet-college-in-wana-naqvi-holds-elements-from-across-the-border-responsible-for-terrorism"
+      },
+      {
         "title": "9 dead, 32 injured in ‘accidental explosion’ at occupied Kashmir’s police station",
         "link": "https://www.dawn.com/news/1955231/9-dead-32-injured-in-accidental-explosion-at-occupied-kashmirs-police-station"
       },
@@ -84,10 +99,6 @@
       {
         "title": "Trump says he is considering F-35 fighter jet deal with Saudis",
         "link": "https://www.dawn.com/news/1955237/trump-says-he-is-considering-f-35-fighter-jet-deal-with-saudis"
-      },
-      {
-        "title": "No chairs, tables of eateries on walkways along Karachi’s major roads",
-        "link": "https://www.dawn.com/news/1955143/no-chairs-tables-of-eateries-on-walkways-along-karachis-major-roads"
       }
     ],
     "APNews": [],
@@ -137,33 +148,37 @@
     ],
     "GeoTV": [
       {
-        "title": "Prince Harry reaches out to Palace",
-        "link": "https://www.geo.tv/latest/633737-prince-harry-reaches-out-to-palace"
+        "title": "Lily Allen opens up about seven-year long hiatus",
+        "link": "https://www.geo.tv/latest/633741-lily-allen-explains-seven-year-long-hiatus"
       },
       {
-        "title": "Fuel dealers seek govt intervention as artificial diesel shortage hits pumps",
-        "link": "https://www.geo.tv/latest/633728-fuel-dealers-seek-govt-intervention-as-artificial-diesel-shortage-hits-pumps"
+        "title": "Princess Beatrice key role amid secret Andrew negotiation",
+        "link": "https://www.geo.tv/latest/633738-king-charles-appoints-princess-beatrice-with-new-role"
       },
       {
-        "title": "Cybersecurity firm warns of seven persistent threats to Pakistan",
-        "link": "https://www.geo.tv/latest/633734-cybersecurity-firm-warns-of-seven-persistent-threats-to-pakistan"
+        "title": "Bushra Bibi influenced Imran Khan on governance, key decision-making: report",
+        "link": "https://www.geo.tv/latest/633730-bushra-bibi-influenced-imran-khan-on-governance-key-decision-making-report"
       },
       {
-        "title": "The Beatles' biopics hit major setback",
-        "link": "https://www.geo.tv/latest/633732-the-beatles-biopics-banned-from-being-shot-at-abbey-road"
+        "title": "Massive fire engulfs E-land fashion warehouse in Cheonan, South Korea",
+        "link": "https://www.geo.tv/latest/633740-massive-fire-engulfs-e-land-fashion-warehouse-in-cheonan-south-korea"
       },
       {
-        "title": "Brittany Cartwright reacts to allegations of dating married man",
-        "link": "https://www.geo.tv/latest/633726-brittany-cartwright-reacts-to-allegations-of-dating-married-man"
+        "title": "Fact-check: Disturbing child abuse clip originated in Iraq, not Pakistan",
+        "link": "https://www.geo.tv/latest/633736-fact-check-disturbing-child-abuse-clip-originated-in-iraq-not-pakistan"
       }
     ],
     "NDTV": [
       {
-        "title": "Delhi Blast Updates: Raids At Al-Falah University's Headquarters In Delhi",
-        "link": "https://www.ndtv.com/india-news/red-fort-blast-delhi-live-updates-jammu-and-kashmir-nowgam-police-station-explosives-faridabad-doctor-news-9639625#publisher=newsstand"
+        "title": "Bihar Election Results 2025 LIVE: \"Dal Mein Kuch Kaala Hai,\" Says Congress Leader Ajay Maken After NDA's Win",
+        "link": "https://www.ndtv.com/india-news/bihar-assembly-elections-results-2025-live-updates-nitish-kumar-tejashwi-yadav-mahagathbandhan-bjp-nda-rjd-congress-9632014#publisher=newsstand"
       },
       {
-        "title": "Former Union Minister RK Singh Suspended By BJP Over Anti-Party Activities",
+        "title": "Gurugram Man Survives Fall After Bungee Jumping Goes Wrong In Rishikesh",
+        "link": "https://www.ndtv.com/india-news/gurugram-man-falls-35-meters-down-during-bungee-jumping-accident-in-rishikesh-9640286#publisher=newsstand"
+      },
+      {
+        "title": "BJP Begins Action Against Rebels In Bihar, Ex-Minister RK Singh Suspended",
         "link": "https://www.ndtv.com/india-news/former-union-minister-rk-singh-suspended-by-bjp-over-anti-party-activities-9640293#publisher=newsstand"
       },
       {
@@ -171,12 +186,8 @@
         "link": "https://www.ndtv.com/india-news/delhi-red-fort-blast-2-kg-ammonium-nitrate-used-in-explosion-umar-nabi-expert-in-making-bombs-sources-9640179#publisher=newsstand"
       },
       {
-        "title": "Ayodhya Ram Temple To Hoist Flag On November 25, PM Modi To Attend: Trust",
-        "link": "https://www.ndtv.com/india-news/ayodhya-ram-temple-to-hoist-flag-on-november-25-pm-modi-to-attend-trust-9640187#publisher=newsstand"
-      },
-      {
-        "title": "Odd One Out: 24 Of 25 Bihar Ministers Retain Seats In Assembly Elections",
-        "link": "https://www.ndtv.com/india-news/odd-one-out-24-of-25-bihar-ministers-retain-seats-in-assembly-elections-9640135#publisher=newsstand"
+        "title": "India's Veiled Dig Over Pak Heading UN Panel On Sanctions Against Taliban",
+        "link": "https://www.ndtv.com/world-news/indias-veiled-dig-over-pak-heading-un-panel-on-sanctions-against-taliban-9639802#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-15 07:50 UTC"
+  "last_updated": "2025-11-15 08:40 UTC"
 }
