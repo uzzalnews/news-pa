@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Islam Makhachev vs Jack Della Maddalena – UFC 322",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/11/16/live-islam-makhachev-vs-jack-della-maddalena-ufc-322-mma-fight?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Trump says he will take legal action against BBC after apology",
-        "link": "https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss"
+        "title": "Refugees to face 20-year wait to settle permanently under asylum reforms",
+        "link": "https://www.bbc.com/news/articles/c7970p2wx7ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Clashes erupt as thousands protest against government in Mexico",
+        "link": "https://www.bbc.com/news/articles/cn8vm30rr78o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Storm Claudia: Disruption after flooding causes major incident",
         "link": "https://www.bbc.com/news/articles/c4gw5xxej04o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Head in hands': Ministers fume at No 10's self-inflicted chaos",
-        "link": "https://www.bbc.com/news/articles/c874v0x91evo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Train stabbings hero discharged from hospital",
         "link": "https://www.bbc.com/news/articles/c1j84149g7ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Pope Leo welcomes Hollywood stars to the Vatican",
-        "link": "https://www.bbc.com/news/articles/cdxr5drrpqxo?at_medium=RSS&at_campaign=rss"
+        "title": "At least four dead after migrant boats sink in Mediterranean",
+        "link": "https://www.bbc.com/news/articles/cgkz5k5erzgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Protest in Mexico inspired by Gen Z movement draws older gov’t critics",
-        "link": "https://www.aljazeera.com/news/2025/11/15/protest-in-mexico-inspired-by-gen-z-movement-draws-older-govt-critics?traffic_source=rss"
+        "title": "Russia-Ukraine war: List of key events, day 1,361",
+        "link": "https://www.aljazeera.com/news/2025/11/16/russia-ukraine-war-list-of-key-events-day-1361?traffic_source=rss"
       },
       {
-        "title": "Palestinians reel under winter rains as Israel blocks Gaza shelter supplies",
-        "link": "https://www.aljazeera.com/news/2025/11/15/palestinians-reel-under-winter-rains-as-israel-blocks-gaza-shelter-supplies?traffic_source=rss"
+        "title": "Thousands rally in N Macedonia ahead of trial over deadly nightclub fire",
+        "link": "https://www.aljazeera.com/news/2025/11/16/thousands-rally-in-n-macedonia-ahead-of-trial-over-deadly-nightclub-fire?traffic_source=rss"
       },
       {
-        "title": "US immigration crackdown, arrests under way in Charlotte, North Carolina",
-        "link": "https://www.aljazeera.com/news/2025/11/15/us-immigration-crackdown-arrests-under-way-in-charlotte-north-carolina?traffic_source=rss"
+        "title": "Benn dominates Eubank Jr in boxing rematch to win middleweight clash",
+        "link": "https://www.aljazeera.com/sports/2025/11/16/benn-dominates-eubank-jr-in-boxing-rematch-to-win-middleweight-clash?traffic_source=rss"
       },
       {
-        "title": "Former UN special rapporteur Richard Falk interrogated for hours in Canada",
-        "link": "https://www.aljazeera.com/news/2025/11/15/former-un-special-rapporteur-richard-falk-interrogated-for-hours-in-canada?traffic_source=rss"
+        "title": "LIVE: Islam Makhachev vs Jack Della Maddalena – UFC 322",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/11/16/live-islam-makhachev-vs-jack-della-maddalena-ufc-322-mma-fight?traffic_source=rss"
       },
       {
-        "title": "Trump issues two pardons related to investigation into January 6, 2021 riot",
-        "link": "https://www.aljazeera.com/news/2025/11/15/trump-issues-two-pardons-related-to-investigation-into-january-6-2021-riot?traffic_source=rss"
+        "title": "Four killed after two boats carrying migrants capsize off Libya’s coast",
+        "link": "https://www.aljazeera.com/news/2025/11/16/four-killed-after-two-boats-carrying-migrants-capsize-off-libyas-coast?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +80,20 @@
         "link": "https://www.dawn.com/news/1955283/govt-keeps-petrol-price-unchanged-hikes-high-speed-diesel-by-rs6"
       },
       {
-        "title": "PM Shehbaz, Jordanian king affirm ‘zero-tolerance’ for any displacement of Palestinians from Gaza",
-        "link": "https://www.dawn.com/news/1955250/pm-shehbaz-jordanian-king-affirm-zero-tolerance-for-any-displacement-of-palestinians-from-gaza"
+        "title": "China, Russia may not veto Gaza resolution tomorrow",
+        "link": "https://www.dawn.com/news/1955382/china-russia-may-not-veto-gaza-resolution-tomorrow"
       },
       {
-        "title": "At least 6 dead, 7 injured after powerful explosion in Hyderabad fireworks factory: officials",
-        "link": "https://www.dawn.com/news/1955249/at-least-6-dead-7-injured-after-powerful-explosion-in-hyderabad-fireworks-factory-officials"
+        "title": "Pakistan, WHO partner to draft action plan for child safety",
+        "link": "https://www.dawn.com/news/1955378/pakistan-who-partner-to-draft-action-plan-for-child-safety"
       },
       {
-        "title": "Disgraced sex offender Jeffrey Epstein’s emails show he called Imran Khan major ‘threat to peace’",
-        "link": "https://www.dawn.com/news/1955244/disgraced-sex-offender-jeffrey-epsteins-emails-show-he-called-imran-khan-major-threat-to-peace"
+        "title": "Tenfold rise in arrest of Afghans across Pakistan this year",
+        "link": "https://www.dawn.com/news/1955358/tenfold-rise-in-arrest-of-afghans-across-pakistan-this-year"
       },
       {
-        "title": "PTI rebuffs allegations against Imran, Bushra; seeks apology from writers and publication",
-        "link": "https://www.dawn.com/news/1955263/pti-rebuffs-allegations-against-imran-bushra-seeks-apology-from-writers-and-publication"
+        "title": "Fazl addresses clerics in Dhaka",
+        "link": "https://www.dawn.com/news/1955376/fazl-addresses-clerics-in-dhaka"
       }
     ],
     "APNews": [],
@@ -97,20 +103,20 @@
         "link": "https://www.nytimes.com/2025/11/15/world/middleeast/trump-organization-saudi-development-deal.html"
       },
       {
-        "title": "Dar Global Is the Trump Organization’s Key Foreign Partner",
-        "link": "https://www.nytimes.com/2025/11/15/world/middleeast/dar-global-trump-org-saudi-mbs-business-deal-real-estate-licensing.html"
+        "title": "U.S. Border Patrol Launches Operation in Charlotte, N.C.",
+        "link": "https://www.nytimes.com/2025/11/15/us/us-border-patrol-charlotte-nc-immigration.html"
+      },
+      {
+        "title": "Former Fed Official Violated Trading Rules, Disclosures Show",
+        "link": "https://www.nytimes.com/2025/11/15/business/economy/fed-kugler-financial-disclosures.html"
+      },
+      {
+        "title": "A Tiny West Wing Office Is Big on Trump Messaging",
+        "link": "https://www.nytimes.com/2025/11/14/us/trump-oval-office-study-merch.html"
       },
       {
         "title": "Seven Days of Paralysis: Inside the BBC Crisis Over a Trump Documentary",
         "link": "https://www.nytimes.com/2025/11/15/world/europe/uk-bbc-crisis.html"
-      },
-      {
-        "title": "Gallego Pitches Demoralized Democrats on a Midterm Message",
-        "link": "https://www.nytimes.com/2025/11/15/us/politics/ruben-gallego-democrats-midterms.html"
-      },
-      {
-        "title": "Fetterman Is Released From the Hospital After a Fall",
-        "link": "https://www.nytimes.com/2025/11/15/us/john-fetterman-fall-hospital-released.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Meghan Markle shares new 'As Ever' clip ahead of Thanksgiving",
-        "link": "https://www.geo.tv/latest/633842-meghan-markle-shares-new-as-ever-clip-ahead-of-thanksgiving"
+        "title": "Kate Middleton hides deeper meaning in new video, says body language guru",
+        "link": "https://www.geo.tv/latest/633828-kate-middleton-hides-deeper-meaning-in-new-video-says-body-language-guru"
       },
       {
-        "title": "Dick Van Dyke opens up about realities of aging ahead of 100th birthday",
-        "link": "https://www.geo.tv/latest/633843-dick-van-dyke-says-aging-leaves-him-feeling-diminished-ahead-of-100th-birthday"
+        "title": "Richard Gere shares the Buddhist lesson he teaches his three sons",
+        "link": "https://www.geo.tv/latest/633854-richard-gere-says-kindness-is-the-core-lesson-he-teaches-his-sons"
       },
       {
-        "title": "What destroyed my 'friend' Kanye West?",
-        "link": "https://www.geo.tv/latest/633841-what-destroyed-my-friend-kanye-west"
+        "title": "Eddie Murphy expresses frustration over 'Dreamgirls' Oscar loss",
+        "link": "https://www.geo.tv/latest/633851-eddie-murphy-addresses-rare-reason-for-frustration-post-dreamgirls-oscar-loss"
       },
       {
-        "title": "Halle Bailey weighs in on motherhood and 'feeding the little girl in me' with her son'",
-        "link": "https://www.geo.tv/latest/633810-halle-bailey-weighs-in-on-motherhood-and-feeding-the-little-girl-in-me-with-her-son"
+        "title": "Queen Elizabeth II saw ‘signs of strains' in Kate, Meghan",
+        "link": "https://www.geo.tv/latest/633829-queen-elizabeth-ii-saw-signs-of-strains-in-kate-meghan"
       },
       {
-        "title": "'Masterpiece': Director raves about 'Stranger Things' finale",
-        "link": "https://www.geo.tv/latest/633837-stranger-things-director-shawn-levy-calls-finale-a-masterpiece"
+        "title": "Violent Gen Z-styled protests spread in Mexico, fuelled by mayor's murder",
+        "link": "https://www.geo.tv/latest/633852-gen-z-styled-protests-spread-in-mexico-fueled-by-mayors-murder"
       }
     ],
     "NDTV": [
       {
-        "title": "4 Killed, 5 Injured After Tata Sumo Collides With Truck In J&K's Budgam",
-        "link": "https://www.ndtv.com/india-news/4-killed-5-injured-after-tata-sumo-collides-with-truck-in-j-ks-budgam-9643222#publisher=newsstand"
+        "title": "i20 Driver Behind Delhi Blast Got Rs 20 Lakh Through Illegal Channels: Sources",
+        "link": "https://www.ndtv.com/india-news/i20-driver-umar-mohammad-behind-delhi-red-fort-blast-got-rs-20-lakh-through-illegal-channels-probe-9643805#publisher=newsstand"
       },
       {
-        "title": "Congress Says Will Contest Mumbai Civic Polls Solo, Begins Campaign",
-        "link": "https://www.ndtv.com/india-news/congress-says-will-contest-mumbai-civic-polls-solo-begins-campaign-9643221#publisher=newsstand"
+        "title": "Netanyahu, Putin Discuss Middle East After Russia's UN Resolution On Gaza",
+        "link": "https://www.ndtv.com/world-news/gaza-war-middle-east-crisis-netanyahu-putin-discuss-middle-east-after-russias-un-resolution-on-gaza-9643664#publisher=newsstand"
       },
       {
-        "title": "Explosive Destroyed In Controlled Explosion In J&K's Rajouri, House Damaged",
-        "link": "https://www.ndtv.com/india-news/explosive-destroyed-in-controlled-explosion-in-j-ks-rajouri-house-damaged-9643212#publisher=newsstand"
+        "title": "UP Man Asks Russia To Conduct Cancer Vaccine Trial On His 21-Year-Old Son",
+        "link": "https://www.ndtv.com/india-news/up-man-asks-russia-to-conduct-cancer-vaccine-trial-on-his-21-year-old-son-9643707#publisher=newsstand"
       },
       {
-        "title": "\"Disowning Family, Quitting Politics\": Tejashwi Yadav's Sister After RJD Rout",
-        "link": "https://www.ndtv.com/india-news/rohini-acharya-bihar-elections-bihar-polls-lalu-yadav-disowning-family-quitting-politics-tejashwi-yadavs-sister-after-rjd-rout-9641156#publisher=newsstand"
+        "title": "Who's Rameez Khan, A Name That Came Up In Lalu Yadav Family Fight",
+        "link": "https://www.ndtv.com/india-news/rohini-acharya-whos-rameez-khan-a-name-that-came-up-in-lalu-yadav-family-fight-9643240#publisher=newsstand"
       },
       {
-        "title": "Air Force Participates In Bilateral Exercise With French Air, Space Force",
-        "link": "https://www.ndtv.com/india-news/air-force-participates-in-bilateral-exercise-with-french-air-space-force-9643191#publisher=newsstand"
+        "title": "\"India Possesses Intellectual Depth To Resolve Global Problems\": RSS Chief",
+        "link": "https://www.ndtv.com/india-news/india-possesses-intellectual-depth-to-resolve-global-problems-rss-chief-mohan-bhagwat-9643730#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-15 23:52 UTC"
+  "last_updated": "2025-11-16 03:41 UTC"
 }
