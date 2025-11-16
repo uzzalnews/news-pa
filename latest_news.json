@@ -1,15 +1,9 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israeli air attacks across Gaza; deadly West Bank raids continue",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/11/16/live-israeli-air-attacks-across-gaza-deadly-west-bank-raids-continue?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Feud erupts between Trump and longtime ally Marjorie Taylor Greene",
+        "title": "Feud erupts between Trump and ally Marjorie Taylor Greene ahead of Epstein files vote",
         "link": "https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -21,8 +15,8 @@
         "link": "https://www.bbc.com/news/articles/cn8vm30rr78o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "At least four dead after migrant boats sink in Mediterranean",
-        "link": "https://www.bbc.com/news/articles/cgkz5k5erzgo?at_medium=RSS&at_campaign=rss"
+        "title": "My mum was a 17-year-old free spirit, so she was locked up and put in a coma",
+        "link": "https://www.bbc.com/news/articles/cr43vx0rrwvo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "All you need to know as I’m a Celebrity 2025 kicks off",
@@ -30,6 +24,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "UK to end ‘golden ticket’ for asylum seekers in huge policy overhaul",
+        "link": "https://www.aljazeera.com/news/2025/11/16/uk-to-end-golden-ticket-for-asylum-seekers-in-huge-policy-overhaul?traffic_source=rss"
+      },
+      {
+        "title": "The oyster farmers battling climate change in Fiji’s troubled seas",
+        "link": "https://www.aljazeera.com/features/longform/2025/11/16/the-oyster-farmers-battling-climate-change-in-fijis-troubled-seas?traffic_source=rss"
+      },
       {
         "title": "‘Enormous evil’: Thousands rally in the Philippines over corruption scandal",
         "link": "https://www.aljazeera.com/news/2025/11/16/enormous-evil-thousands-rally-in-the-philippines-over-corruption-scandal?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Chinese Coast Guard vessels sail through Japan-administered Senkaku Islands",
         "link": "https://www.aljazeera.com/news/2025/11/16/chinese-coast-guard-vessels-sail-through-japan-administered-senkaku-islands?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israeli air attacks across Gaza; deadly West Bank raids continue",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/16/live-israeli-air-attacks-across-gaza-deadly-west-bank-raids-continue?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,361",
-        "link": "https://www.aljazeera.com/news/2025/11/16/russia-ukraine-war-list-of-key-events-day-1361?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1955436/hyderabad-fireworks-blast-death-toll-climbs-to-seven-rescue-official"
       },
       {
-        "title": "Air quality continues to deteriorate across Punjab",
-        "link": "https://www.dawn.com/news/1955288/air-quality-continues-to-deteriorate-across-punjab"
-      },
-      {
         "title": "Pakistan eye ODI series sweep with Babar back to his best",
         "link": "https://www.dawn.com/news/1955324/pakistan-eye-odi-series-sweep-with-babar-back-to-his-best"
       },
       {
         "title": "Clashes erupt in Mexico City anti-crime protests, injuring 120",
         "link": "https://www.dawn.com/news/1955439/clashes-erupt-in-mexico-city-anti-crime-protests-injuring-120"
+      },
+      {
+        "title": "Air quality continues to deteriorate across Punjab",
+        "link": "https://www.dawn.com/news/1955288/air-quality-continues-to-deteriorate-across-punjab"
       }
     ],
     "APNews": [],
@@ -143,24 +137,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Nicole Scherzinger reveals how she gathered ‘courage' for ‘Sunset Blvd.'",
+        "link": "https://www.geo.tv/latest/633874-nicole-scherzinger-gathered-courage-to-ask-glenn-close-to-sign-the-cast-album"
+      },
+      {
+        "title": "Islamabad suicide bomber 'attempted to attack Faizabad checkpoint'",
+        "link": "https://www.geo.tv/latest/633866-islamabad-suicide-bomber-attempted-to-attack-faizabad-checkpoint"
+      },
+      {
+        "title": "Iran begins cloud seeding operations as severe drought bites",
+        "link": "https://www.geo.tv/latest/633868-iran-begins-cloud-seeding-operations-as-severe-drought-bites"
+      },
+      {
+        "title": "Sarah Furguson fears she will be next as Andrew's life faces risk from ‘shadowy figures'",
+        "link": "https://www.geo.tv/latest/633872-sarah-furgusons-petrification-turns-worse-as-she-and-andrew-drift-away"
+      },
+      {
         "title": "Pusha T and Virginia Williams announce baby no. 2",
         "link": "https://www.geo.tv/latest/633867-pusha-t-says-baby-no-2-is-coming-in-2026"
-      },
-      {
-        "title": "Makhachev claims UFC welterweight belt with dominant win over Della Maddalena",
-        "link": "https://www.geo.tv/latest/633862-islam-makhachev-claims-ufc-welterweight-belt-with-dominant-win-over-della-maddalena"
-      },
-      {
-        "title": "Imran Khan remained under control of Gen Bajwa, Faiz Hamid during PTI govt: Khawaja Asif",
-        "link": "https://www.geo.tv/latest/633865-imran-khan-remained-under-control-of-gen-bajwa-faiz-hamid-during-pti-govt-khawaja-asif"
-      },
-      {
-        "title": "King Charles honours late Queen Elizabeth with sweet gesture as he turns 77",
-        "link": "https://www.geo.tv/latest/633864-king-charles-pays-tribute-to-late-mom-queen-elizabeth"
-      },
-      {
-        "title": "Sindh directs govt officials to pay e-challans from own pockets",
-        "link": "https://www.geo.tv/latest/633857-sindh-directs-govt-officials-to-pay-e-challans-from-own-pockets"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-16 07:57 UTC"
+  "last_updated": "2025-11-16 08:46 UTC"
 }
