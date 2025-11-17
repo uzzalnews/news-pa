@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Rekha Gupta Presses Neighbouring States For Urgent Joint Action On Delhi Air",
+      "link": "https://www.ndtv.com/delhi-news/rekha-gupta-presses-neighbouring-states-for-urgent-joint-action-on-delhi-air-9652184#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Exiled Bangladesh PM Sheikh Hasina sentenced to death in absentia",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/17/exiled-bangladesh-pm-sheikh-hasina-sentenced-to-death-in-absentia?traffic_source=rss"
+        "title": "Two missing after mudslides rip through northern Italy",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/17/two-missing-after-mudslides-rip-through-northern-italy?traffic_source=rss"
       },
       {
-        "title": "South Korea proposes talks with North Korea on military demarcation line",
-        "link": "https://www.aljazeera.com/news/2025/11/17/south-korea-proposes-talks-with-north-korea-on-military-demarcation-line?traffic_source=rss"
+        "title": "Japanese PM Takaichi’s Taiwan remarks spark spat with China",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/17/japanese-pm-takaichis-taiwan-remarks-spark-spat-with-china?traffic_source=rss"
       },
       {
-        "title": "Why many Bosnian genocide scholars remain silent on Gaza",
-        "link": "https://www.aljazeera.com/opinions/2025/11/17/why-many-bosnian-genocide-scholars-remain-silent-on-gaza?traffic_source=rss"
+        "title": "UK’s sweeping asylum law changes: How will they impact refugees?",
+        "link": "https://www.aljazeera.com/news/2025/11/17/uks-sweeping-asylum-law-changes-how-will-they-impact-refugees?traffic_source=rss"
       },
       {
-        "title": "Concerns over death sentence for former Bangladesh PM Sheikh Hasina",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/17/concerns-over-death-sentence-for-former-bangladesh-pm-sheikh-hasina?traffic_source=rss"
+        "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
+        "link": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
       },
       {
-        "title": "Germany lifts curbs on arms exports to Israel, citing Gaza ceasefire",
-        "link": "https://www.aljazeera.com/news/2025/11/17/germany-lifts-curbs-on-arms-exports-to-israel-citing-gaza-ceasefire?traffic_source=rss"
+        "title": "BBC ‘determined to fight’ Trump lawsuit over Panorama documentary",
+        "link": "https://www.aljazeera.com/news/2025/11/17/bbc-determined-to-fight-trump-lawsuit-over-panorama-documentary?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,8 +92,8 @@
         "link": "https://www.dawn.com/news/1955662/pia-bangladeshs-biman-airlines-ink-landmark-cargo-deal"
       },
       {
-        "title": "Bangladesh’s ousted PM Hasina sentenced to death for students crackdown",
-        "link": "https://www.dawn.com/news/1955627/bangladeshs-ousted-pm-hasina-sentenced-to-death-for-students-crackdown"
+        "title": "PTI slams political victimisation, ‘inhumane’ treatment of SIC chief Hamid Raza",
+        "link": "https://www.dawn.com/news/1955660/pti-slams-political-victimisation-inhumane-treatment-of-sic-chief-hamid-raza"
       }
     ],
     "APNews": [],
@@ -115,8 +121,12 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Samsung users report ‘unremovable’ Israeli bloatware AppCloud on devices",
+        "link": "https://www.middleeasteye.net/news/samsung-users-unremovable-israeli-bloatware-appcloud-devices"
+      },
+      {
         "title": "At least 98 Palestinian prisoners died in Israeli custody: Report",
-        "link": "https://www.middleeasteye.net/news/least-98-palestinians-died-israeli-custody-israeli-rights-group-says"
+        "link": "https://www.middleeasteye.net/news/palestinians-died-israeli-custody-israeli-rights-group-says"
       },
       {
         "title": "Israel demolishes 'illegal' settlement in occupied West Bank",
@@ -129,54 +139,50 @@
       {
         "title": "Pro-Palestine campaigners appear in court in London",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestine-campaigners-appear-court-london"
-      },
-      {
-        "title": "UAE detains prominent Sudanese civil society spokesperson",
-        "link": "https://www.middleeasteye.net/news/uae-detains-prominent-sudanese-civil-society-spokesperson"
       }
     ],
     "GeoTV": [
       {
+        "title": "Edwards travels to Nigeria as part of royal duties after Harry and Meghan's 'private' tour",
+        "link": "https://www.geo.tv/latest/634079-prince-edward-is-representing-king-charles-in-nigeria"
+      },
+      {
+        "title": "Justin Bieber caught staring at Selena Gomez tattoo",
+        "link": "https://www.geo.tv/latest/634073-justin-bieber-sparks-drama-with-viral-selena-gomez-tattoo-clip"
+      },
+      {
+        "title": "Kate Hudson reveals behind the scenes funny moment with Hugh Jackman",
+        "link": "https://www.geo.tv/latest/634080-kate-hudson-shares-unique-way-hugh-jackman-helped-her-ahead-of-key-event"
+      },
+      {
+        "title": "Princess Beatrice makes emotional admission about motherhood",
+        "link": "https://www.geo.tv/latest/634067-princess-beatrice-reveals-terrifying-moment-of-doctors-warning"
+      },
+      {
         "title": "Andrew Mountbatten Windsor spotted near Royal Lodge as he shows reluctance",
         "link": "https://www.geo.tv/latest/634075-prince-andrew-continues-to-live-in-royal-lodge-despite-being-asked-to-vacate-it"
-      },
-      {
-        "title": "Eddie Murphy gets honest about being father to 10 children",
-        "link": "https://www.geo.tv/latest/634045-eddie-murphy-on-parenting-superpower-i-am-always-present"
-      },
-      {
-        "title": "King Charles' handsome aide caught in rare public display of affection with wife",
-        "link": "https://www.geo.tv/latest/634077-king-charles-handsome-aide-caught-in-rare-public-display-of-affection-with-wife"
-      },
-      {
-        "title": "PM Shehbaz vows Centre-provinces cooperation to modernise Pakistan Railways",
-        "link": "https://www.geo.tv/latest/634071-pm-shehbaz-vows-centre-provinces-cooperation-to-modernise-pakistan-railways"
-      },
-      {
-        "title": "Princess Anne chooses silence in awkward moment during foreign visit",
-        "link": "https://www.geo.tv/latest/634072-king-charles-queen-camilla-names-appear-beside-diana-during-annes-singapore-visit"
       }
     ],
     "NDTV": [
       {
-        "title": "Emirates' $38 Billion Shopping List In Dubai Comprises 65 Boeing 777-9s",
-        "link": "https://www.ndtv.com/world-news/emirates-38-billion-shopping-list-in-dubai-comprises-65-boeing-777-9s-9649977#publisher=newsstand"
+        "title": "'Unelected, Illegal Regime's Sham Of A Verdict': Sheikh Hasina's Son To NDTV",
+        "link": "https://www.ndtv.com/world-news/unelected-illegal-regimes-sham-of-a-verdict-sheikh-hasinas-son-sajeeb-wazed-to-ndtv-9652363#publisher=newsstand"
       },
       {
-        "title": "Sri Lankan Man Asks For Sex, Masturbates In Front Of Solo Traveller From New Zealand",
-        "link": "https://www.ndtv.com/world-news/sri-lankan-man-asks-for-sex-masturbates-in-front-of-solo-traveller-from-new-zealand-9652008#publisher=newsstand"
+        "title": "\"India Isn't Just An Emerging Market, It's An Emerging Model Too\": PM Modi",
+        "link": "https://www.ndtv.com/india-news/india-isnt-just-an-emerging-market-its-an-emerging-model-too-pm-modi-9652449#publisher=newsstand"
       },
       {
-        "title": "Before Delhi Blast, Terrorists Planned Hamas-Like Attack Using Drones",
-        "link": "https://www.ndtv.com/india-news/before-delhi-blast-terrorists-planned-hamas-like-attack-using-drones-9651841#publisher=newsstand"
+        "title": "'Is That Juice Packet?' Top Court Questions 'Dangerous' Liquor Tetra Packs",
+        "link": "https://www.ndtv.com/india-news/is-that-juice-packet-top-court-questions-dangerous-liquor-tetra-packs-9652423#publisher=newsstand"
       },
       {
-        "title": "Why A Grieving Serbian Mother Is On Hunger Strike Since 16 Days",
-        "link": "https://www.ndtv.com/world-news/why-a-grieving-serbian-mother-is-on-hunger-strike-since-16-days-9650041#publisher=newsstand"
+        "title": "Britain's BBC 'Determined To Fight' Trump Defamation Claim",
+        "link": "https://www.ndtv.com/world-news/britains-bbc-determined-to-fight-trump-defamation-claim-9652209#publisher=newsstand"
       },
       {
-        "title": "Bacterial Infection Kills 31 Blackbucks At Karnataka Zoo, Probe Ordered",
-        "link": "https://www.ndtv.com/india-news/bacterial-infection-kills-31-blackbucks-at-karnataka-zoo-probe-ordered-9650479#publisher=newsstand"
+        "title": "Rekha Gupta Presses Neighbouring States For Urgent Joint Action On Delhi Air",
+        "link": "https://www.ndtv.com/delhi-news/rekha-gupta-presses-neighbouring-states-for-urgent-joint-action-on-delhi-air-9652184#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-17 15:55 UTC"
+  "last_updated": "2025-11-17 16:54 UTC"
 }
