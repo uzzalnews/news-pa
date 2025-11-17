@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Saudi Arabia Bus Accident LIVE Updates: 45 Indians Feared Dead In Saudi Arabia After Bus Accident, PM Modi, Vice President Express Condolences",
-      "link": "https://www.ndtv.com/world-news/indians-killed-in-saudi-arabia-in-bus-tanker-crash-live-updates-indian-pilgrims-feared-dead-in-saudi-arabia-after-bus-tanker-collision-9648115#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,19 +11,31 @@
         "link": "https://www.bbc.com/news/articles/c74jgvp1x49o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Mysterious drones have been spotted at airports across Europe. How worried should we be?",
+        "link": "https://www.bbc.com/news/articles/crkl3d6pegpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Parents arrested after complaining about school on WhatsApp say police have paid £20k",
         "link": "https://www.bbc.com/news/articles/c4gz1qy30v5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Cold snap brings chance of snow for some as flood clear-up continues",
-        "link": "https://www.bbc.com/news/articles/cj0el2g5448o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mysterious drones have been spotted at airports across Europe. How worried should we be?",
-        "link": "https://www.bbc.com/news/articles/crkl3d6pegpo?at_medium=RSS&at_campaign=rss"
+        "title": "Two US marines implicated in killing family in notorious Iraq war shooting, expert tells BBC",
+        "link": "https://www.bbc.com/news/articles/c2emyz0zpxko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Spain vs Turkiye: World Cup 2026 qualifier – team news, start time, lineups",
+        "link": "https://www.aljazeera.com/sports/2025/11/17/spain-vs-turkiye-world-cup-2026-qualifier-team-news-start-time-lineups?traffic_source=rss"
+      },
+      {
+        "title": "Can AI predict famine?",
+        "link": "https://www.aljazeera.com/video/digital-dilemma/2025/11/17/can-ai-predict-famine?traffic_source=rss"
+      },
+      {
+        "title": "Landslides kill dozens as heavy rains lash Southeast Asia",
+        "link": "https://www.aljazeera.com/news/2025/11/17/landslides-kill-dozens-as-heavy-rains-lash-southeast-asia?traffic_source=rss"
+      },
       {
         "title": "Tension high as Bangladesh tribunal convicts ex-PM Hasina",
         "link": "https://www.aljazeera.com/news/2025/11/17/tension-high-as-bangladesh-tribunal-convicts-ex-pm-hasina?traffic_source=rss"
@@ -37,18 +43,6 @@
       {
         "title": "Bangladesh court convicts Sheikh Hasina of crimes against humanity",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/17/bangladesh-court-convicts-sheikh-hasina-of-crimes-against-humanity?traffic_source=rss"
-      },
-      {
-        "title": "Japan’s tourism stocks plunge amid spat with China",
-        "link": "https://www.aljazeera.com/economy/2025/11/17/japans-tourism-linked-stocks-plunge-amid-spat-with-china?traffic_source=rss"
-      },
-      {
-        "title": "Trump backs full release of Epstein files in sharp reversal",
-        "link": "https://www.aljazeera.com/news/2025/11/17/trump-backs-full-release-of-epstein-files-in-sharp-reversal?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war live: 3 killed in Kharkiv; Zelenskyy meets Macron",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/17/live-russian-attack-kills-3-in-kharkiv-ukraines-zelenskyy-to-meet-macron?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "No-confidence motion against PM Haq tabled in AJK Assembly",
+        "link": "https://www.dawn.com/news/1955629/no-confidence-motion-against-pm-haq-tabled-in-ajk-assembly"
+      },
+      {
         "title": "Bangladesh’s ousted PM Hasina sentenced to death for students crackdown",
         "link": "https://www.dawn.com/news/1955627/bangladeshs-ousted-pm-hasina-sentenced-to-death-for-students-crackdown"
       },
@@ -90,10 +88,6 @@
       {
         "title": "2 more judges of Federal Constitutional Court sworn in",
         "link": "https://www.dawn.com/news/1955615/2-more-judges-of-federal-constitutional-court-sworn-in"
-      },
-      {
-        "title": "Dar to lead Pakistan delegation at Shanghai Cooperation Organisation summit in Moscow",
-        "link": "https://www.dawn.com/news/1955609/dar-to-lead-pakistan-delegation-at-shanghai-cooperation-organisation-summit-in-moscow"
       }
     ],
     "APNews": [],
@@ -107,19 +101,27 @@
         "link": "https://www.nytimes.com/2025/11/16/us/border-patrol-arrests-charlotte-nc.html"
       },
       {
-        "title": "Homeland Security Missions Falter Amid Focus on Deportations",
-        "link": "https://www.nytimes.com/2025/11/16/us/politics/dhs-agents-reassigned.html"
+        "title": "At Catholic Churches, Trump’s Immigration Crackdown Takes Center Stage",
+        "link": "https://www.nytimes.com/2025/11/16/us/catholic-church-immigration-trump.html"
       },
       {
         "title": "New International Student Enrollment Plummeted This Fall, Survey Finds",
         "link": "https://www.nytimes.com/2025/11/17/us/international-students-enrollment-decrease.html"
       },
       {
-        "title": "At Catholic Churches, Trump’s Immigration Crackdown Takes Center Stage",
-        "link": "https://www.nytimes.com/2025/11/16/us/catholic-church-immigration-trump.html"
+        "title": "Britain’s Labour Government Plans New, Tougher System for Asylum Seekers",
+        "link": "https://www.nytimes.com/2025/11/16/world/europe/britain-asylum-system.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli drone strike kills man in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-man-gaza"
+      },
+      {
+        "title": "Report: Netanyahu's testimony in corruption trial on Wednesday cancelled",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-testimony-corruption-trial-wednesday-canceled-security-reason"
+      },
       {
         "title": "Germany to resume arms exports to Israel from 24 November",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-resume-arms-exports-israel-24-november"
@@ -131,58 +133,50 @@
       {
         "title": "Israeli drone fire kills child in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-fire-kills-child-gaza"
-      },
-      {
-        "title": "Israeli military detains at least four Palestinians in West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-detain-least-four-palestinians-west-bank"
-      },
-      {
-        "title": "Israeli settlers attack Bedouin community in east of Jerusalem",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-bedouin-community-east-jerusalem"
       }
     ],
     "GeoTV": [
       {
-        "title": "Watch red carpet looks from Tom Cruise, Dolly Parton & more: Watch",
-        "link": "https://www.geo.tv/latest/634030-watch-red-carpet-looks-from-tom-cruise-dolly-parton-more-watch"
+        "title": "India strikes US gas deal under Trump pressure",
+        "link": "https://www.geo.tv/latest/634033-india-strikes-us-gas-deal-under-trump-pressure"
       },
       {
-        "title": "Piers Morgan invites Meghan Markle, Harry for interview",
-        "link": "https://www.geo.tv/latest/634028-piers-morgan-invites-meghan-markle-harry-for-interview"
+        "title": "Meghan Markle strengthens her position with big-name industry deals",
+        "link": "https://www.geo.tv/latest/634040-hollywood-insider-hails-meghan-markle-calls-her-canny-businesswoman"
       },
       {
-        "title": "Kim Kardashian gets major support amid bad reviews",
-        "link": "https://www.geo.tv/latest/634003-glenn-close-throws-support-behind-alls-fair-costar-kim-kardashian"
+        "title": "Tarar takes notice of fake video targeting journalist Benazir Shah",
+        "link": "https://www.geo.tv/latest/634032-tarar-takes-notice-of-fake-video-targeting-journalist-benazir-shah"
       },
       {
-        "title": "Dave Mustaine reveals bizarre venue for Megadeth's final show",
-        "link": "https://www.geo.tv/latest/634029-dave-mustaine-states-he-wants-megadeaths-final-show-to-take-place-in-space"
+        "title": "PTI chief, others slam harassment of journalist Shahzeb Khanzada in public place",
+        "link": "https://www.geo.tv/latest/634014-pti-chief-others-slam-harassment-of-journalist-shahzeb-khanzada-in-public-place"
       },
       {
-        "title": "Sarah Ferguson calls leaving royals ‘liberating' despite financial woes",
-        "link": "https://www.geo.tv/latest/634027-sarah-ferguson-reconnects-with-powerful-friends-ahead-of-royal-lodge-eviction"
+        "title": "Shaun Williamson makes his ‘EastEnders' return",
+        "link": "https://www.geo.tv/latest/634035-shaun-williamson-marks-eastenders-return"
       }
     ],
     "NDTV": [
       {
-        "title": "Saudi Arabia Bus Accident LIVE Updates: 45 Indians Feared Dead In Saudi Arabia After Bus Accident, PM Modi, Vice President Express Condolences",
-        "link": "https://www.ndtv.com/world-news/indians-killed-in-saudi-arabia-in-bus-tanker-crash-live-updates-indian-pilgrims-feared-dead-in-saudi-arabia-after-bus-tanker-collision-9648115#publisher=newsstand"
+        "title": "Sheikh Hasina Gets Death Penalty: Global Leaders Who Faced The Same Fate",
+        "link": "https://www.ndtv.com/world-news/sheikh-hasina-death-sentence-sheikh-hasina-gets-death-penalty-global-leaders-who-faced-the-same-fate-9649717#publisher=newsstand"
       },
       {
-        "title": "Sheikh Hasina Verdict Live: Bangladesh's Ex-PM Convicted In Students Crackdown Case",
+        "title": "Dhaka Courtroom Erupts In Claps, Cheers As Sheikh Hasina Gets Death Penalty",
+        "link": "https://www.ndtv.com/world-news/dhaka-courtroom-erupts-in-claps-cheers-as-sheikh-hasina-gets-death-penalty-9649724#publisher=newsstand"
+      },
+      {
+        "title": "No Ban On Construction In Delhi, Supreme Court Says \"No Temporary Solutions\"",
+        "link": "https://www.ndtv.com/india-news/no-ban-on-construction-in-delhi-supreme-court-says-no-temporary-solutions-9649557#publisher=newsstand"
+      },
+      {
+        "title": "Sheikh Hasina Verdict Live: \"Biased, Politically Motivated,\" Says Sheikh Hasina On Death Penalty",
         "link": "https://www.ndtv.com/world-news/sheikh-hasina-verdict-live-updates-bangladesh-in-alert-verdict-against-ex-pm-hasian-in-case-of-crimes-against-humanity-9647982#publisher=newsstand"
       },
       {
-        "title": "Sheikh Hasina Found Guilty, Bangladesh Tribunal Says Deserves Maximum Punishment",
-        "link": "https://www.ndtv.com/world-news/sheikh-hasina-bangladesh-i-dont-care-allah-gave-life-he-will-take-it-hasina-before-big-verdict-9647946#publisher=newsstand"
-      },
-      {
-        "title": "\"Who Gave Order?\" NDTV Confronts Red Fort Blast Accused Outside Delhi Court",
-        "link": "https://www.ndtv.com/india-news/red-fort-blast-video-ndtv-confronts-delhi-explosion-accused-amir-rashid-ali-as-court-sends-him-to-10-day-nia-custody-9648991#publisher=newsstand"
-      },
-      {
-        "title": "Tollywood Piracy Kingpin Arrested, Bank Accounts With Over Rs 3 Crore Seized",
-        "link": "https://www.ndtv.com/india-news/tollywood-piracy-kingpin-emmadi-ravi-arrested-bank-accounts-with-over-rs-3-crore-seized-9649146#publisher=newsstand"
+        "title": "Amur Falcons Begin Journey From Manipur To Africa, IAS Officer Posts Video",
+        "link": "https://www.ndtv.com/india-news/amur-falcons-begin-journey-from-manipur-to-africa-ias-officer-posts-video-9648299#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-17 09:54 UTC"
+  "last_updated": "2025-11-17 10:47 UTC"
 }
