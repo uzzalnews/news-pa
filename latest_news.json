@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Mahmood announces big changes to 'unfair' asylum system",
+        "link": "https://www.bbc.com/news/articles/cr7myg8g75jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Six key takeaways from the proposed asylum system reforms",
         "link": "https://www.bbc.com/news/articles/c3eplk4047do?at_medium=RSS&at_campaign=rss"
       },
@@ -11,19 +15,23 @@
         "link": "https://www.bbc.com/weather/articles/cz0xvjrzp4eo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Reselling tickets above face value set to be banned by government",
+        "link": "https://www.bbc.com/news/articles/c77z2l3yzl8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Poland says blast on rail line to Ukraine 'unprecedented act of sabotage'",
         "link": "https://www.bbc.com/news/articles/cp85g86x0zgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How ousted Bangladesh PM went from pro-democracy icon to autocrat facing death sentence",
-        "link": "https://www.bbc.com/news/articles/cg3ee303yxpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "From seabirds to sea turtles: the fatal toll of plastic revealed",
-        "link": "https://www.bbc.com/news/articles/cr5eyjd2zz7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Acting FEMA head David Richardson steps down after troubled tenure",
+        "link": "https://www.aljazeera.com/news/2025/11/17/acting-fema-head-david-richardson-steps-down-after-troubled-tenure?traffic_source=rss"
+      },
+      {
+        "title": "Trump says he will approve sale of F-35 fighter jet to Saudi Arabia",
+        "link": "https://www.aljazeera.com/news/2025/11/17/trump-says-he-will-approve-sale-of-f-35-fighter-jet-to-saudi-arabia?traffic_source=rss"
+      },
       {
         "title": "Israeli settlers torch homes and vehicles in Palestinian West Bank villages",
         "link": "https://www.aljazeera.com/news/2025/11/17/israeli-settlers-torch-homes-and-vehicles-in-west-bank-villages?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Demonstrators cheer guilty verdict for former Bangladeshi PM Hasina",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/17/demonstrators-cheer-guilty-verdict-for-former-bangladeshi-pm-hasina?traffic_source=rss"
-      },
-      {
-        "title": "US families’ ‘mind blown’ with cuts to solar rooftop funds",
-        "link": "https://www.aljazeera.com/economy/2025/11/17/us-families-mind-blown-with-cuts-to-solar-rooftop-funds?traffic_source=rss"
-      },
-      {
-        "title": "‘Historic agreement’: Ukraine to receive fleet of French fighter jets",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/17/historic-agreement-ukraine-to-receive-fleet-of-french-fighter-jets?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -101,8 +101,8 @@
         "link": "https://www.nytimes.com/2025/11/17/us/politics/comey-justice-department-misconduct.html"
       },
       {
-        "title": "New Passport Rule Sends Blunt and Sweeping Message to Trans Americans",
-        "link": "https://www.nytimes.com/2025/11/17/us/transgender-passports-supreme-court.html"
+        "title": "David Richardson, Acting FEMA Administration, Resigns",
+        "link": "https://www.nytimes.com/2025/11/17/climate/fema-david-richardson.html"
       },
       {
         "title": "E.P.A. Drastically Limits Protections for Wetlands",
@@ -114,6 +114,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "'Devastated': Previously protected Syrians in US face upheaval as legal protections lift",
+        "link": "https://www.middleeasteye.net/news/devastated-previously-protected-syrians-us-upheaval-legal-protections-lift"
+      },
       {
         "title": "Palestinians return to Gaza for first time in more than two years after medical treatment",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-return-gaza-first-time-more-two-years-after-medical"
@@ -129,13 +133,13 @@
       {
         "title": "Israel's genocide in Gaza: Why are ultra-Orthodox Jews against conscription?",
         "link": "https://www.middleeasteye.net/explainers/israel-gaza-ultra-orthodox-jews-haredim-oppose-conscription"
-      },
-      {
-        "title": "The Trump Organization eyes real estate deal in Saudi government development: Report",
-        "link": "https://www.middleeasteye.net/news/trump-organization-eyes-real-estate-deal-saudi-government-development-report"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Rebecca Gayheart opens up about 'showing up' for Eric Dane amid ALS",
+        "link": "https://www.geo.tv/latest/634098-rebecca-gayheart-gets-honest-about-complicated-eric-dane-dynamic"
+      },
       {
         "title": "'Wicked: For Good' latest clip hypes up sequel",
         "link": "https://www.geo.tv/latest/634124-peacock-drops-new-wicked-for-good-clip"
@@ -151,10 +155,6 @@
       {
         "title": "MQM activist sentenced to 8 years in US prison for Karachi terrorism plot",
         "link": "https://www.geo.tv/latest/634114-mqm-activist-sentenced-to-8-years-in-us-prison-for-karachi-terrorism-plot"
-      },
-      {
-        "title": "Morgan Freeman confesses his spark for acting is fading at 88",
-        "link": "https://www.geo.tv/latest/634110-morgan-freeman-reveals-real-reason-he-still-wont-retire"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-17 20:57 UTC"
+  "last_updated": "2025-11-17 21:34 UTC"
 }
