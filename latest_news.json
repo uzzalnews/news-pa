@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Rekha Gupta Presses Neighbouring States For Urgent Joint Action On Delhi Air",
-      "link": "https://www.ndtv.com/delhi-news/rekha-gupta-presses-neighbouring-states-for-urgent-joint-action-on-delhi-air-9652184#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -21,7 +15,7 @@
         "link": "https://www.bbc.com/news/articles/c4gz1qy30v5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump reverses position and urges own party to vote for release of Epstein files",
+        "title": "Trump calls on House Republicans to vote to release Epstein files",
         "link": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -30,6 +24,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Gaza’s shelter crisis is ‘most dangerous’ disaster of war: Authorities",
+        "link": "https://www.aljazeera.com/news/2025/11/17/gazas-shelter-crisis-is-most-dangerous-disaster-of-war-authorities?traffic_source=rss"
+      },
+      {
+        "title": "The mothers, children suffering Israel’s engineered starvation in Gaza",
+        "link": "https://www.aljazeera.com/news/2025/11/17/mothers-children-suffer-israels-engineered-starvation-in-gaza?traffic_source=rss"
+      },
       {
         "title": "Two missing after mudslides rip through northern Italy",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/17/two-missing-after-mudslides-rip-through-northern-italy?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "UK’s sweeping asylum law changes: How will they impact refugees?",
         "link": "https://www.aljazeera.com/news/2025/11/17/uks-sweeping-asylum-law-changes-how-will-they-impact-refugees?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s Ben-Gvir urges killing PA officials if UN backs Palestinian state",
-        "link": "https://www.aljazeera.com/news/2025/11/17/israels-ben-gvir-urges-killing-pa-officials-if-un-backs-palestinian-state?traffic_source=rss"
-      },
-      {
-        "title": "BBC ‘determined to fight’ Trump lawsuit over Panorama documentary",
-        "link": "https://www.aljazeera.com/news/2025/11/17/bbc-determined-to-fight-trump-lawsuit-over-panorama-documentary?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -107,19 +101,23 @@
         "link": "https://www.nytimes.com/2025/11/17/us/transgender-passports-supreme-court.html"
       },
       {
-        "title": "Trump’s Surprise Pivot on the Epstein Files, and Why Crypto A.T.M.s Are a Hub for Scams",
-        "link": "https://www.nytimes.com/2025/11/17/podcasts/the-headlines/trump-epstein-files-crypto-atm-scams.html"
-      },
-      {
         "title": "The Crypto Industry’s $28 Billion in ‘Dirty Money’",
         "link": "https://www.nytimes.com/2025/11/17/technology/crypto-exchanges-dirty-money.html"
       },
       {
         "title": "How Fraudsters Use Cryptocurrency A.T.M.s to Target Victims",
         "link": "https://www.nytimes.com/2025/11/17/technology/fraudsters-cryptocurrency-atms.html"
+      },
+      {
+        "title": "How to Not Get Kidnapped for Your Bitcoin",
+        "link": "https://www.nytimes.com/2025/11/17/business/how-to-not-get-kidnapped-for-your-bitcoin.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Ben Gvir says Israel must arrest Abbas and kill PA officials if Palestinian state recognised",
+        "link": "https://www.middleeasteye.net/news/ben-gvir-israel-abbas-arrest-kill-officials-palestinian-state-recognised"
+      },
       {
         "title": "Samsung users report ‘unremovable’ Israeli bloatware AppCloud on devices",
         "link": "https://www.middleeasteye.net/news/samsung-users-unremovable-israeli-bloatware-appcloud-devices"
@@ -129,19 +127,27 @@
         "link": "https://www.middleeasteye.net/news/palestinians-died-israeli-custody-israeli-rights-group-says"
       },
       {
-        "title": "Israel demolishes 'illegal' settlement in occupied West Bank",
+        "title": "Israel demolishes illegal settlement in occupied West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-demolishes-illegal-settlement-occupied-west-bank"
       },
       {
         "title": "Corbyn and Polanski condemn UK's plans to seize jewellery from asylum seekers",
         "link": "https://www.middleeasteye.net/news/corbyn-and-polanski-condemn-uks-plans-seize-asylum-seekers-jewellery"
-      },
-      {
-        "title": "Pro-Palestine campaigners appear in court in London",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestine-campaigners-appear-court-london"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Pakistan's JF-17 draws strong visitor interest at Dubai Airshow 2025",
+        "link": "https://www.geo.tv/latest/634088-pakistans-jf-17-draws-strong-visitor-interest-at-dubai-airshow-2025"
+      },
+      {
+        "title": "Angelina Jolie makes shocking accusation against Brad Pitt",
+        "link": "https://www.geo.tv/latest/634082-angelina-jolie-claims-brad-pitt-took-control-of-their-homes"
+      },
+      {
+        "title": "Kris Jenner opens up on keeping in touch with Tristan Thompson, Travis Scott",
+        "link": "https://www.geo.tv/latest/634083-kris-jenner-explains-why-she-keeps-in-contact-with-daughters-exes"
+      },
       {
         "title": "Edwards travels to Nigeria as part of royal duties after Harry and Meghan's 'private' tour",
         "link": "https://www.geo.tv/latest/634079-prince-edward-is-representing-king-charles-in-nigeria"
@@ -149,40 +155,28 @@
       {
         "title": "Justin Bieber caught staring at Selena Gomez tattoo",
         "link": "https://www.geo.tv/latest/634073-justin-bieber-sparks-drama-with-viral-selena-gomez-tattoo-clip"
-      },
-      {
-        "title": "Kate Hudson reveals behind the scenes funny moment with Hugh Jackman",
-        "link": "https://www.geo.tv/latest/634080-kate-hudson-shares-unique-way-hugh-jackman-helped-her-ahead-of-key-event"
-      },
-      {
-        "title": "Princess Beatrice makes emotional admission about motherhood",
-        "link": "https://www.geo.tv/latest/634067-princess-beatrice-reveals-terrifying-moment-of-doctors-warning"
-      },
-      {
-        "title": "Andrew Mountbatten Windsor spotted near Royal Lodge as he shows reluctance",
-        "link": "https://www.geo.tv/latest/634075-prince-andrew-continues-to-live-in-royal-lodge-despite-being-asked-to-vacate-it"
       }
     ],
     "NDTV": [
       {
-        "title": "'Unelected, Illegal Regime's Sham Of A Verdict': Sheikh Hasina's Son To NDTV",
-        "link": "https://www.ndtv.com/world-news/unelected-illegal-regimes-sham-of-a-verdict-sheikh-hasinas-son-sajeeb-wazed-to-ndtv-9652363#publisher=newsstand"
+        "title": "Explained: 'D-Voters' In Assam's Special Summary Revision Before Elections",
+        "link": "https://www.ndtv.com/india-news/explained-d-voter-in-assams-special-summary-revision-before-elections-9652879#publisher=newsstand"
       },
       {
-        "title": "\"India Isn't Just An Emerging Market, It's An Emerging Model Too\": PM Modi",
-        "link": "https://www.ndtv.com/india-news/india-isnt-just-an-emerging-market-its-an-emerging-model-too-pm-modi-9652449#publisher=newsstand"
+        "title": "Maharashtra To Use AI, Drones For Surveillance To Curb Leopard Attacks",
+        "link": "https://www.ndtv.com/india-news/maharashtra-to-use-ai-drones-for-surveillance-to-curb-leopard-attacks-9652861#publisher=newsstand"
       },
       {
-        "title": "'Is That Juice Packet?' Top Court Questions 'Dangerous' Liquor Tetra Packs",
-        "link": "https://www.ndtv.com/india-news/is-that-juice-packet-top-court-questions-dangerous-liquor-tetra-packs-9652423#publisher=newsstand"
+        "title": "South Korean Woman Sexually Assaulted By Physiotherapist In Gurugram: Cops",
+        "link": "https://www.ndtv.com/india-news/south-korean-woman-sexually-assaulted-by-physiotherapist-in-gurugram-cops-9652839#publisher=newsstand"
       },
       {
-        "title": "Britain's BBC 'Determined To Fight' Trump Defamation Claim",
-        "link": "https://www.ndtv.com/world-news/britains-bbc-determined-to-fight-trump-defamation-claim-9652209#publisher=newsstand"
+        "title": "Madhya Pradesh Court Stays Trinamool MP Abhishek Banerjee's Arrest In Defamation Case",
+        "link": "https://www.ndtv.com/india-news/madhya-pradesh-court-stays-trinamool-mp-abhishek-banerjees-arrest-in-defamation-case-9652828#publisher=newsstand"
       },
       {
-        "title": "Rekha Gupta Presses Neighbouring States For Urgent Joint Action On Delhi Air",
-        "link": "https://www.ndtv.com/delhi-news/rekha-gupta-presses-neighbouring-states-for-urgent-joint-action-on-delhi-air-9652184#publisher=newsstand"
+        "title": "Gazans Say They Paid $2,000 Per Seat For Flight To South Africa",
+        "link": "https://www.ndtv.com/world-news/gazans-say-they-paid-2-000-per-seat-for-flight-to-south-africa-9652820#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-17 16:54 UTC"
+  "last_updated": "2025-11-17 17:39 UTC"
 }
