@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Saudi Arabia Bus Accident LIVE Updates: 45 Indians Dead In Saudi Arabia After Bus Accident, PM Modi, Vice President Express Condolences",
+      "link": "https://www.ndtv.com/world-news/indians-killed-in-saudi-arabia-in-bus-tanker-crash-live-updates-indian-pilgrims-feared-dead-in-saudi-arabia-after-bus-tanker-collision-9648115#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Ice cream and MAGA drama in the American swamp",
+        "link": "https://www.aljazeera.com/opinions/2025/11/17/ice-cream-and-maga-drama-in-the-american-swamp?traffic_source=rss"
+      },
+      {
+        "title": "Battles in West Kordofan as Sudan army resists RSF’s eastward push",
+        "link": "https://www.aljazeera.com/news/2025/11/17/battles-in-west-kordofan-as-sudan-army-resists-rsfs-eastward-push?traffic_source=rss"
+      },
+      {
+        "title": "Trita Parsi on Iran, the US and the Middle East",
+        "link": "https://www.aljazeera.com/video/centre-stage/2025/11/17/trita-parsi-on-iran-the-us-and-the-middle-east?traffic_source=rss"
+      },
+      {
         "title": "Spain vs Turkiye: World Cup 2026 qualifier – team news, start time, lineups",
         "link": "https://www.aljazeera.com/sports/2025/11/17/spain-vs-turkiye-world-cup-2026-qualifier-team-news-start-time-lineups?traffic_source=rss"
       },
       {
         "title": "Can AI predict famine?",
         "link": "https://www.aljazeera.com/video/digital-dilemma/2025/11/17/can-ai-predict-famine?traffic_source=rss"
-      },
-      {
-        "title": "Landslides kill dozens as heavy rains lash Southeast Asia",
-        "link": "https://www.aljazeera.com/news/2025/11/17/landslides-kill-dozens-as-heavy-rains-lash-southeast-asia?traffic_source=rss"
-      },
-      {
-        "title": "Tension high as Bangladesh tribunal convicts ex-PM Hasina",
-        "link": "https://www.aljazeera.com/news/2025/11/17/tension-high-as-bangladesh-tribunal-convicts-ex-pm-hasina?traffic_source=rss"
-      },
-      {
-        "title": "Bangladesh court convicts Sheikh Hasina of crimes against humanity",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/17/bangladesh-court-convicts-sheikh-hasina-of-crimes-against-humanity?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,27 +99,35 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Says House Republicans Should Vote to Release Epstein Files",
-        "link": "https://www.nytimes.com/2025/11/16/us/politics/trump-epstein-files-release-vote.html"
+        "title": "The ‘Donroe Doctrine’: Trump’s Bid to Control the Western Hemisphere",
+        "link": "https://www.nytimes.com/2025/11/17/world/americas/trump-latin-america-monroe-doctrine.html"
       },
       {
-        "title": "U.S. Border Patrol Arrested 81 People in Charlotte, N.C.",
-        "link": "https://www.nytimes.com/2025/11/16/us/border-patrol-arrests-charlotte-nc.html"
+        "title": "Trump’s Surprise Pivot on the Epstein Files, and Why Crypto A.T.M.s Are a Hub for Scams",
+        "link": "https://www.nytimes.com/2025/11/17/podcasts/the-headlines/trump-epstein-files-crypto-atm-scams.html"
       },
       {
-        "title": "At Catholic Churches, Trump’s Immigration Crackdown Takes Center Stage",
-        "link": "https://www.nytimes.com/2025/11/16/us/catholic-church-immigration-trump.html"
+        "title": "The Crypto Industry’s $28 Billion in ‘Dirty Money’",
+        "link": "https://www.nytimes.com/2025/11/17/technology/crypto-exchanges-dirty-money.html"
       },
       {
-        "title": "New International Student Enrollment Plummeted This Fall, Survey Finds",
-        "link": "https://www.nytimes.com/2025/11/17/us/international-students-enrollment-decrease.html"
+        "title": "How Fraudsters Use Cryptocurrency A.T.M.s to Target Victims",
+        "link": "https://www.nytimes.com/2025/11/17/technology/fraudsters-cryptocurrency-atms.html"
       },
       {
-        "title": "Britain’s Labour Government Plans New, Tougher System for Asylum Seekers",
-        "link": "https://www.nytimes.com/2025/11/16/world/europe/britain-asylum-system.html"
+        "title": "How to Not Get Kidnapped for Your Bitcoin",
+        "link": "https://www.nytimes.com/2025/11/17/business/how-to-not-get-kidnapped-for-your-bitcoin.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Sheikh Hasina, former Bangladesh prime minister, sentenced to death",
+        "link": "https://www.middleeasteye.net/news/sheikh-hasina-former-bangladeshi-prime-minister-sentenced-death"
+      },
+      {
+        "title": "Report: Majority of Palestinians died in Israeli custody were civilians",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-majority-palestinians-died-israeli-custody-were-civilians"
+      },
       {
         "title": "Israeli drone strike kills man in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-man-gaza"
@@ -125,17 +139,21 @@
       {
         "title": "Germany to resume arms exports to Israel from 24 November",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-resume-arms-exports-israel-24-november"
-      },
-      {
-        "title": "Gaza cannot heal while its dead go unnamed",
-        "link": "https://www.middleeasteye.net/opinion/gaza-cannot-heal-while-its-dead-go-unnamed"
-      },
-      {
-        "title": "Israeli drone fire kills child in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-fire-kills-child-gaza"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Kensington Palace shares 'wonderful' news as Kate Middleton, William mark major milestone",
+        "link": "https://www.geo.tv/latest/634046-kensington-palace-shares-wonderful-news-as-kate-middleton-william-mark-major-milestone"
+      },
+      {
+        "title": "Big update on 'Now You See Me: Now You Don't' after release",
+        "link": "https://www.geo.tv/latest/634015-now-you-see-me-now-you-dont-reaches-top-of-the-box-office-charts"
+      },
+      {
+        "title": "Prince Harry 'eager' to return to UK soon with Archie, Lilibet",
+        "link": "https://www.geo.tv/latest/634044-prince-harry-eager-to-return-uk-soon-with-archie-lilibet"
+      },
       {
         "title": "Lorde to headline East London's All Points East festival",
         "link": "https://www.geo.tv/latest/634039-lorde-announced-as-east-londons-all-points-east-festival-headliner"
@@ -143,40 +161,28 @@
       {
         "title": "Pakistan's economic future tied to population, climate action: FinMin Aurangzeb",
         "link": "https://www.geo.tv/latest/634037-pakistans-economic-future-tied-to-population-climate-action-finmin-aurangzeb"
-      },
-      {
-        "title": "India strikes US gas deal under Trump pressure",
-        "link": "https://www.geo.tv/latest/634033-india-strikes-us-gas-deal-under-trump-pressure"
-      },
-      {
-        "title": "Meghan Markle strengthens her position with big-name industry deals",
-        "link": "https://www.geo.tv/latest/634040-hollywood-insider-hails-meghan-markle-calls-her-canny-businesswoman"
-      },
-      {
-        "title": "Tarar takes notice of fake video targeting journalist Benazir Shah",
-        "link": "https://www.geo.tv/latest/634032-tarar-takes-notice-of-fake-video-targeting-journalist-benazir-shah"
       }
     ],
     "NDTV": [
       {
-        "title": "Sheikh Hasina Gets Death Penalty: Global Leaders Who Faced The Same Fate",
-        "link": "https://www.ndtv.com/world-news/sheikh-hasina-death-sentence-sheikh-hasina-gets-death-penalty-global-leaders-who-faced-the-same-fate-9649717#publisher=newsstand"
+        "title": "Terror Accused Arrested From Delhi Helped Suicide Bomber In Making Explosives",
+        "link": "https://www.ndtv.com/india-news/terror-accused-arrested-from-delhi-helped-suicide-bomber-in-making-bomb-9650126#publisher=newsstand"
       },
       {
-        "title": "Dhaka Courtroom Erupts In Claps, Cheers As Sheikh Hasina Gets Death Penalty",
-        "link": "https://www.ndtv.com/world-news/dhaka-courtroom-erupts-in-claps-cheers-as-sheikh-hasina-gets-death-penalty-9649724#publisher=newsstand"
+        "title": "Saudi Arabia Bus Accident LIVE Updates: 45 Indians Dead In Saudi Arabia After Bus Accident, PM Modi, Vice President Express Condolences",
+        "link": "https://www.ndtv.com/world-news/indians-killed-in-saudi-arabia-in-bus-tanker-crash-live-updates-indian-pilgrims-feared-dead-in-saudi-arabia-after-bus-tanker-collision-9648115#publisher=newsstand"
       },
       {
-        "title": "No Ban On Construction In Delhi, Supreme Court Says \"No Temporary Solutions\"",
-        "link": "https://www.ndtv.com/india-news/no-ban-on-construction-in-delhi-supreme-court-says-no-temporary-solutions-9649557#publisher=newsstand"
+        "title": "Al Falah University Chancellor's Brother Arrested In 25-Year-Old Fraud Case",
+        "link": "https://www.ndtv.com/india-news/al-falah-university-chancellors-brother-arrested-in-25-year-old-fraud-case-9650199#publisher=newsstand"
       },
       {
-        "title": "Sheikh Hasina Verdict Live: \"Biased, Politically Motivated,\" Says Sheikh Hasina On Death Penalty",
-        "link": "https://www.ndtv.com/world-news/sheikh-hasina-verdict-live-updates-bangladesh-in-alert-verdict-against-ex-pm-hasian-in-case-of-crimes-against-humanity-9647982#publisher=newsstand"
+        "title": "Kerala Booth Officers Boycott SIR Work After Colleague Dies By Suicide",
+        "link": "https://www.ndtv.com/india-news/kerala-booth-officers-boycott-sir-work-after-colleague-dies-by-suicide-9650193#publisher=newsstand"
       },
       {
-        "title": "Amur Falcons Begin Journey From Manipur To Africa, IAS Officer Posts Video",
-        "link": "https://www.ndtv.com/india-news/amur-falcons-begin-journey-from-manipur-to-africa-ias-officer-posts-video-9648299#publisher=newsstand"
+        "title": "From Surviving Massacre To Death Sentence, Sheikh Hasina's 50-Year Journey",
+        "link": "https://www.ndtv.com/world-news/sheikh-hasina-bangladesh-awami-league-survivor-leader-ousted-pm-death-convict-sheikh-hasinas-50-year-journey-9649936#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-17 10:57 UTC"
+  "last_updated": "2025-11-17 11:31 UTC"
 }
