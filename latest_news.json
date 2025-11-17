@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Russian attack kills 3 in Kharkiv; Ukraine’s Zelenskyy to meet Macron",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/17/live-russian-attack-kills-3-in-kharkiv-ukraines-zelenskyy-to-meet-macron?traffic_source=rss"
+    },
+    {
+      "source": "NDTV",
+      "title": "Saudi Arabia Bus Accident LIVE Updates: 42 Indian Pilgrims Dead in Saudi Arabia After Bus-Tanker Collision",
+      "link": "https://www.ndtv.com/world-news/indians-killed-in-saudi-arabia-in-bus-tanker-crash-live-updates-indian-pilgrims-feared-dead-in-saudi-arabia-after-bus-tanker-collision-9648115#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +30,15 @@
         "link": "https://www.bbc.com/news/articles/c74jgvp1x49o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Mysterious drones have been spotted at airports across Europe. How worried should we be?",
-        "link": "https://www.bbc.com/news/articles/crkl3d6pegpo?at_medium=RSS&at_campaign=rss"
+        "title": "China's investment spree in UK gave it access to military-grade technology, BBC told",
+        "link": "https://www.bbc.com/news/articles/cvgmy5d7k84o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Russian attack kills 3 in Kharkiv; Ukraine’s Zelenskyy to meet Macron",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/17/live-russian-attack-kills-3-in-kharkiv-ukraines-zelenskyy-to-meet-macron?traffic_source=rss"
+      },
       {
         "title": "Bangladesh live: Court verdict against toppled ex-PM Sheikh Hasina expected",
         "link": "https://www.aljazeera.com/news/liveblog/2025/11/17/bangladesh-live-court-verdict-against-toppled-ex-pm-sheikh-hasina-expected?traffic_source=rss"
@@ -39,10 +54,6 @@
       {
         "title": "Russia-Ukraine war: List of key events, day 1,362",
         "link": "https://www.aljazeera.com/news/2025/11/17/russia-ukraine-war-list-of-key-events-day-1362?traffic_source=rss"
-      },
-      {
-        "title": "Voters in Ecuador reject return of foreign military bases",
-        "link": "https://www.aljazeera.com/news/2025/11/17/no-vote-leads-in-ecuador-referendum-on-hosting-foreign-military-bases?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +85,20 @@
         "link": "https://www.dawn.com/news/1955573/maiden-session-of-11th-national-finance-commission-delayed-again"
       },
       {
-        "title": "Politicians, journalists jump to Shahzeb Khanzada’s defence after anchorperson accosted in public",
-        "link": "https://www.dawn.com/news/1955592/politicians-journalists-jump-to-shahzeb-khanzadas-defence-after-anchorperson-accosted-in-public"
+        "title": "Dar to lead Pakistan delegation at Shanghai Cooperation Organisation summit in Moscow",
+        "link": "https://www.dawn.com/news/1955609/dar-to-lead-pakistan-delegation-at-shanghai-cooperation-organisation-summit-in-moscow"
       },
       {
-        "title": "Afghanistan seeks to cut economic dependence on Pakistan",
-        "link": "https://www.dawn.com/news/1955532/afghanistan-seeks-to-cut-economic-dependence-on-pakistan"
+        "title": "Politicians, journalists jump to Shahzeb Khanzada’s defence after anchorperson accosted in public",
+        "link": "https://www.dawn.com/news/1955592/politicians-journalists-jump-to-shahzeb-khanzadas-defence-after-anchorperson-accosted-in-public"
       },
       {
         "title": "Trump reverses stance on Epstein files, urges Republicans to vote for releasing them",
         "link": "https://www.dawn.com/news/1955606/trump-reverses-stance-on-epstein-files-urges-republicans-to-vote-for-releasing-them"
       },
       {
-        "title": "Pak-US ties ‘never looked so good’ but need more substance",
-        "link": "https://www.dawn.com/news/1955536/pak-us-ties-never-looked-so-good-but-need-more-substance"
+        "title": "Info minister takes notice of ‘fake’ video of journalist Benazir Shah, terms it ‘highly condemnable’",
+        "link": "https://www.dawn.com/news/1955613/info-minister-takes-notice-of-fake-video-of-journalist-benazir-shah-terms-it-highly-condemnable"
       }
     ],
     "APNews": [],
@@ -137,46 +148,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Irina Shayk details her journey to self love, confidence",
-        "link": "https://www.geo.tv/latest/633984-irina-shayk-says-she-intially-struggled-with-confidence"
+        "title": "Bangladesh verdict due in ex-PM Sheikh Hasina's crimes against humanity trial",
+        "link": "https://www.geo.tv/latest/634002-bangladesh-verdict-due-in-ex-pms-crimes-against-humanity-trial"
       },
       {
-        "title": "Sarah Ferguson searching for Andrew's replacement?",
-        "link": "https://www.geo.tv/latest/633996-sarah-ferguson-aims-to-maintain-luxury-lifestyle-with-new-rich-partner"
+        "title": "Harry, Meghan return threatens to shake up Prince William, Kate's role",
+        "link": "https://www.geo.tv/latest/634007-prince-william-kate-caught-in-delicate-position-over-harry-meghan-potential-return"
       },
       {
-        "title": "KISS honour late Ace Frehley's memory in first show post death",
-        "link": "https://www.geo.tv/latest/633993-kiss-paid-tribute-to-their-late-band-member-ace-frehley"
+        "title": "Japan's Sakurajima unleashes triple eruption, halting 30 flights at Kagoshima Airport",
+        "link": "https://www.geo.tv/latest/634004-japans-sakurajima-unleashes-triple-eruption-halting-30-flights-at-kagoshima-airport"
       },
       {
-        "title": "Iran girls kick down social barriers with karate",
-        "link": "https://www.geo.tv/latest/633987-iran-girls-kick-down-social-barriers-with-karate"
+        "title": "Dinosaur fossils discovered on Irish island with 'wrong rocks'",
+        "link": "https://www.geo.tv/latest/633999-dinosaur-fossils-discovered-on-an-irish-island-with-the-wrong-rocks"
       },
       {
-        "title": "Tracy Pollan shares advice she, Michael J. Fox gave to newly wed son",
-        "link": "https://www.geo.tv/latest/633983-tracy-pollan-michael-j-fox-heartfelt-wisdom-to-son-about-marriage-revealed"
+        "title": "Federal Constitutional Court becomes operational after two more judges take oath",
+        "link": "https://www.geo.tv/latest/633989-federal-constitutional-court-becomes-operational-after-two-more-judges-take-oath"
       }
     ],
     "NDTV": [
       {
-        "title": "Sheikh Hasina Verdict Live:Bangladesh In Alert Ahead Of Verdict Against Ex-PM",
+        "title": "Video Shows Massive Fire After Bus-Tanker Collision Kills 42 Indians In Saudi",
+        "link": "https://www.ndtv.com/world-news/video-shows-massive-fire-after-bus-tanker-collision-kills-42-indians-in-saudi-medina-mecca-medina-bus-accident-saudi-arabia-9648304#publisher=newsstand"
+      },
+      {
+        "title": "Bengaluru Woman Loses Rs 32 Crore In Digital Arrest That Lasted 6 Months",
+        "link": "https://www.ndtv.com/bangalore-news/bengaluru-woman-loses-rs-32-crore-in-digital-arrest-that-lasted-6-months-9647994#publisher=newsstand"
+      },
+      {
+        "title": "Saudi Arabia Bus Accident LIVE Updates: 42 Indian Pilgrims Dead in Saudi Arabia After Bus-Tanker Collision",
+        "link": "https://www.ndtv.com/world-news/indians-killed-in-saudi-arabia-in-bus-tanker-crash-live-updates-indian-pilgrims-feared-dead-in-saudi-arabia-after-bus-tanker-collision-9648115#publisher=newsstand"
+      },
+      {
+        "title": "42 Indians Dead In Bus-Tanker Collision Near Medina In Saudi Arabia: Reports",
+        "link": "https://www.ndtv.com/world-news/42-indians-feared-dead-in-bus-tanker-collision-near-medina-in-saudi-arabia-reports-9648054#publisher=newsstand"
+      },
+      {
+        "title": "Sheikh Hasina Verdict Live: Bangladesh On Alert Ahead Hasina Verdict, Shoot At Sight Order Issued",
         "link": "https://www.ndtv.com/world-news/sheikh-hasina-verdict-live-updates-bangladesh-in-alert-verdict-against-ex-pm-hasian-in-case-of-crimes-against-humanity-9647982#publisher=newsstand"
-      },
-      {
-        "title": "\"I Don't Care. Allah Gave Life, He Will Take It\": Hasina Before Big Verdict",
-        "link": "https://www.ndtv.com/world-news/sheikh-hasina-bangladesh-i-dont-care-allah-gave-life-he-will-take-it-hasina-before-big-verdict-9647946#publisher=newsstand"
-      },
-      {
-        "title": "Haunted By His Injury, South Korean President Targets 'Workplaces Of Death'",
-        "link": "https://www.ndtv.com/world-news/haunted-by-his-injury-south-koreas-new-president-lee-jae-myung-targets-workplaces-of-death-9647868#publisher=newsstand"
-      },
-      {
-        "title": "Fake Nandini Ghee Racket Busted In Bengaluru, Probe On For Animal Fat Use",
-        "link": "https://www.ndtv.com/india-news/fake-nandini-ghee-racket-busted-in-bengaluru-probe-on-for-animal-fat-use-9647867#publisher=newsstand"
-      },
-      {
-        "title": "\"Deeply Distressed\": Sheikh Hasina Slams Yunus Over Attacks On Hindus In Bangladesh",
-        "link": "https://www.ndtv.com/world-news/deeply-distressed-sheikh-hasina-slams-yunus-over-attacks-on-hindus-in-bangladesh-9647787#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-17 05:51 UTC"
+  "last_updated": "2025-11-17 06:54 UTC"
 }
