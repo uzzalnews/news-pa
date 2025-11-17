@@ -3,7 +3,7 @@
   "news": {
     "BBC": [
       {
-        "title": "Mahmood announces overhaul of 'unfair' asylum system",
+        "title": "Mahmood defends overhaul of 'out of control' asylum system",
         "link": "https://www.bbc.com/news/articles/cr7myg8g75jo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -11,12 +11,12 @@
         "link": "https://www.bbc.com/news/articles/c3eplk4047do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Snow and ice warnings issued by Met Office as sub-zero temperatures forecast",
-        "link": "https://www.bbc.com/weather/articles/cz0xvjrzp4eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Reselling tickets above face value set to be banned by government",
         "link": "https://www.bbc.com/news/articles/c77z2l3yzl8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Snow and ice warnings issued by Met Office as sub-zero temperatures forecast",
+        "link": "https://www.bbc.com/weather/articles/cz0xvjrzp4eo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Poland says blast on rail line to Ukraine 'unprecedented act of sabotage'",
@@ -24,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Britain overhauls asylum policy as anti-immigration views rise",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/17/britain-overhauls-asylum-policy-as-anti-immigration-views-rise?traffic_source=rss"
+      },
       {
         "title": "Acting FEMA head David Richardson steps down after troubled tenure",
         "link": "https://www.aljazeera.com/news/2025/11/17/acting-fema-head-david-richardson-steps-down-after-troubled-tenure?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "‘Disturbing pattern’: US judge rebukes ‘missteps’ in James Comey indictment",
         "link": "https://www.aljazeera.com/news/2025/11/17/disturbing-pattern-us-judge-rebukes-missteps-in-james-comey-indictment?traffic_source=rss"
-      },
-      {
-        "title": "Demonstrators cheer guilty verdict for former Bangladeshi PM Hasina",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/17/demonstrators-cheer-guilty-verdict-for-former-bangladeshi-pm-hasina?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,6 +93,10 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "U.N. Security Council Adopts Trump’s Peace Plan for Gaza",
+        "link": "https://www.nytimes.com/2025/11/17/world/middleeast/un-security-council-gaza-peace-plan.html"
+      },
+      {
         "title": "As Trump Looks for Distraction on Epstein, Justice Dept. Rushes to His Aid",
         "link": "https://www.nytimes.com/2025/11/17/us/politics/trump-bondi-democrats-justice-department.html"
       },
@@ -107,13 +111,21 @@
       {
         "title": "E.P.A. Drastically Limits Protections for Wetlands",
         "link": "https://www.nytimes.com/2025/11/17/climate/epa-curbs-protections-for-wetlands.html"
-      },
-      {
-        "title": "A Plan for Private Jet Taxes Would Fund Climate Measures",
-        "link": "https://www.nytimes.com/2025/11/17/climate/private-jet-tax-climate.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "UN adopts US plan for Gaza, including line on Palestinian statehood",
+        "link": "https://www.middleeasteye.net/news/united-nations-adopts-us-plan-gaza-including-line-palestinian-statehood"
+      },
+      {
+        "title": "UN adopts US plan for Gaza, including line on Palestinian statehood",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-security-council-vote-us-resolution-gaza-peace-plan"
+      },
+      {
+        "title": "US will sell F-35 warplanes to Saudi Arabia, Trump says",
+        "link": "https://www.middleeasteye.net/news/us-will-sell-f-35-warplanes-saudi-arabia-trump-says"
+      },
       {
         "title": "‘I served you as mayor': Eric Adams’s taxpayer-funded Israel trip sparks backlash",
         "link": "https://www.middleeasteye.net/trending/i-served-you-mayor-eric-adams-taxpayer-funded-trip-israel-sparks-backlash"
@@ -121,18 +133,6 @@
       {
         "title": "'Devastated': Previously protected Syrians in US face upheaval as legal protections lift",
         "link": "https://www.middleeasteye.net/news/devastated-previously-protected-syrians-us-upheaval-legal-protections-lift"
-      },
-      {
-        "title": "Palestinians return to Gaza for first time in more than two years after medical treatment",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-return-gaza-first-time-more-two-years-after-medical"
-      },
-      {
-        "title": "Israeli quadcopter drops explosive device on 13 unarmed civilians in Gaza City",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-quadcopter-drops-drone-and-injures-13-unarmed-civilians-gaza"
-      },
-      {
-        "title": "Ben Gvir says Israel must arrest Abbas and kill PA officials if Palestinian state recognised",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-says-israel-must-arrest-abbas-and-kill-pa-officials-if"
       }
     ],
     "GeoTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-17 21:55 UTC"
+  "last_updated": "2025-11-17 22:39 UTC"
 }
