@@ -3,46 +3,46 @@
   "news": {
     "BBC": [
       {
-        "title": "Google boss warns 'no company is going to be immune' if AI bubble bursts",
+        "title": "Net migration 20% lower than first thought as more British nationals left UK",
+        "link": "https://www.bbc.com/news/articles/cm2emzjre62o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Google boss says trillion-dollar AI investment boom has 'elements of irrationality'",
         "link": "https://www.bbc.com/news/articles/cwy7vrd8k4eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Don't blindly trust what AI tells you, says Google's Sundar Pichai",
-        "link": "https://www.bbc.com/news/articles/c8drzv37z4jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "UK net migration dropped more than first reported, figures show",
-        "link": "https://www.bbc.com/news/articles/cm2emzjre62o?at_medium=RSS&at_campaign=rss"
+        "title": "China spy risk on LinkedIn, MPs and peers warned",
+        "link": "https://www.bbc.com/news/articles/c4gpnz05kr8o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "How serious is Labour backlash over asylum plans?",
         "link": "https://www.bbc.com/news/articles/ckgydj7qllpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "StubHub and Wayfair among firms named in online pricing investigation",
-        "link": "https://www.bbc.com/news/articles/cd7rq9dvy59o?at_medium=RSS&at_campaign=rss"
+        "title": "Cloudflare outage takes down X and ChatGPT",
+        "link": "https://www.bbc.com/news/articles/c629pny4gl7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "How Donald Trump shifted on releasing the Jeffrey Epstein files",
-        "link": "https://www.aljazeera.com/news/2025/11/18/how-donald-trump-shifted-on-releasing-the-jeffrey-epstein-files?traffic_source=rss"
+        "title": "Mixed reactions to UN Security Council approval of Gaza plan",
+        "link": "https://www.aljazeera.com/news/2025/11/18/mixed-reactions-to-un-security-council-approval-of-gaza-plan?traffic_source=rss"
       },
       {
-        "title": "Ukraine’s Zelenskyy headed to Turkiye in bid to resuscitate peace talks",
-        "link": "https://www.aljazeera.com/news/2025/11/18/ukraines-zelenskyy-headed-to-turkiye-in-bid-to-resuscitate-peace-talks?traffic_source=rss"
+        "title": "What is the UN-backed plan for a Gaza stabilisation force?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/18/what-is-the-un-backed-plan-for-a-gaza-stabilisation-force?traffic_source=rss"
       },
       {
-        "title": "‘Dire situation’: Russia gains ground in Ukraine’s Zaporizhia region",
-        "link": "https://www.aljazeera.com/news/2025/11/18/russia-gains-ground-in-zaporizhzhia-in-southeastern-ukraine?traffic_source=rss"
+        "title": "Palestinians on ‘removal’ flight to South Africa speak to Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/18/palestinians-on-removal-flight-to-south-africa-speak-to-al-jazeera?traffic_source=rss"
       },
       {
-        "title": "Trump’s Gaza plan now has “authority to use force”",
-        "link": "https://www.aljazeera.com/video/quotable/2025/11/18/aje-onl-qt-daniel-forti-181125?traffic_source=rss"
+        "title": "Russia’s new nuclear-powered missile",
+        "link": "https://www.aljazeera.com/video/project-force-2/2025/11/18/russias-new-nuclear-powered-missile?traffic_source=rss"
       },
       {
-        "title": "Charlotte’s Web: What’s happening with North Carolina immigration raids?",
-        "link": "https://www.aljazeera.com/news/2025/11/18/charlottes-web-whats-happening-with-north-carolina-immigration-raids?traffic_source=rss"
+        "title": "Video: Families in Gaza still living without electricity as winter arrives",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/18/video-families-in-gaza-still-living-without-electricity-as-winter-arrives?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -68,7 +68,28 @@
         "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html"
       }
     ],
-    "Dawn": [],
+    "Dawn": [
+      {
+        "title": "Cloudflare says working on restoring services after global outage",
+        "link": "https://www.dawn.com/news/1955850/cloudflare-says-working-on-restoring-services-after-global-outage"
+      },
+      {
+        "title": "SCO ‘well-placed’ to promote regional cooperation: FM Ishaq Dar",
+        "link": "https://www.dawn.com/news/1955843/sco-well-placed-to-promote-regional-cooperation-fm-ishaq-dar"
+      },
+      {
+        "title": "3 key judicial bodies reconstituted in light of 27th Constitutional Amendment",
+        "link": "https://www.dawn.com/news/1955838/3-key-judicial-bodies-reconstituted-in-light-of-27th-constitutional-amendment"
+      },
+      {
+        "title": "PPP’s Faisal Rathore sworn in as new AJK prime minister",
+        "link": "https://www.dawn.com/news/1955826/ppps-faisal-rathore-sworn-in-as-new-ajk-prime-minister"
+      },
+      {
+        "title": "After UN vote, Netanyahu calls for Hamas’s expulsion from the region",
+        "link": "https://www.dawn.com/news/1955853/after-un-vote-netanyahu-calls-for-hamass-expulsion-from-the-region"
+      }
+    ],
     "APNews": [],
     "NYTimes": [
       {
@@ -80,19 +101,31 @@
         "link": "https://www.nytimes.com/2025/11/17/us/harvard-larry-summers-epstein.html"
       },
       {
-        "title": "House Is Expected to Vote on Tuesday to Release Epstein Files",
-        "link": "https://www.nytimes.com/2025/11/18/us/politics/house-vote-epstein-files.html"
-      },
-      {
         "title": "Trump Has the Power to Release the Epstein Files. Why Doesn’t He?",
         "link": "https://www.nytimes.com/2025/11/17/us/politics/trump-epstein-files-congress.html"
       },
       {
         "title": "The Trump Family’s Saudi Business Ties, and Hundreds of Gazans on Mystery Flights",
         "link": "https://www.nytimes.com/2025/11/18/podcasts/the-headlines/trump-saudi-arabia-gaza-flights.html"
+      },
+      {
+        "title": "Palestinian Voices Absent from U.S.-Run Center Planning Gaza’s Future",
+        "link": "https://www.nytimes.com/2025/11/18/world/middleeast/us-israel-gaza-base-palestinians.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli forces shoot Al Jazeera cameraperson and child in the occupied West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-shoot-al-jazeera-cameraperson-and-child-occupied-west"
+      },
+      {
+        "title": "'Sniper safaris': Like Bosnians, Palestinians in Gaza have become dehumanised targets",
+        "link": "https://www.middleeasteye.net/opinion/sniper-safaris-how-dehumanisation-enables-atrocities-sarajevo-gaza"
+      },
+      {
+        "title": "Ex-UN official decries resolution backing Gaza force as 'colonial outrage'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ex-un-official-decries-resolution-backing-gaza-force-colonial-outrage"
+      },
       {
         "title": "Israeli army kills two Palestinians near Gaza’s yellow line",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-kills-two-palestinians-near-gazas-yellow-line"
@@ -100,67 +133,55 @@
       {
         "title": "Russia says US Gaza resolution recalls ‘colonial practices’ in Palestine",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-says-us-gaza-resolution-recalls-colonial-practices-palestine"
-      },
-      {
-        "title": "Israel tries Al-Aqsa imam Ekrima Sabri over alleged ‘incitement’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-tries-al-aqsa-imam-ekrima-sabri-over-alleged-incitement"
-      },
-      {
-        "title": "Ex-UN official decries resolution backing Gaza force as 'colonial outrage'",
-        "link": "https://www.middleeasteye.net/news/former-un-official-slams-security-council-adoption-trump-gaza-plan-colonial-outrage"
-      },
-      {
-        "title": "Israel tries Al-Aqsa imam Ekrima Sabri over alleged ‘incitement’",
-        "link": "https://www.middleeasteye.net/news/israel-tries-al-aqsa-imam-ekrima-sabri-over-alleged-incitement"
       }
     ],
     "GeoTV": [
       {
-        "title": "Danny Masterson slams lawyer for jail verdict",
-        "link": "https://www.geo.tv/latest/634212-danny-masterson-speaks-out-against-his-lawyer-for-2023-rape-convictions"
+        "title": "Kensington Palace weighs in on a ‘simple truth' for babies and young children",
+        "link": "https://www.geo.tv/latest/634254-kate-middleton-releases-a-video-of-kate-middletons-initiative"
       },
       {
-        "title": "Duchess Sophie takes big stand for environmental protection in Guatemala",
-        "link": "https://www.geo.tv/latest/634225-duchess-sophie-carries-out-secret-visit-focused-on-environmental-protection"
+        "title": "Key judicial bodies reconstituted under new framework after 27th Amendment",
+        "link": "https://www.geo.tv/latest/634251-key-judicial-bodies-reconstituted-under-new-framework-after-27th-amendment"
       },
       {
-        "title": "Residents report chemical smell after Omsk gas pipeline ignites",
-        "link": "https://www.geo.tv/latest/634224-residents-report-chemical-smell-after-omsk-gas-pipeline-ignites"
+        "title": "'Andrew wants to keep some kind of normality around Christmas'",
+        "link": "https://www.geo.tv/latest/634207-andrew-wants-to-keep-some-kind-of-normality-around-christmas"
       },
       {
-        "title": "Billy Bob Thornton reveals if Angelina Jolie keeps in touch two decades after divorce",
-        "link": "https://www.geo.tv/latest/634221-billy-bob-thornton-explains-blood-vial-necklaces-he-and-angelina-jolie-wore"
+        "title": "Kate Middleton talks about the importance of nurturing and loving children",
+        "link": "https://www.geo.tv/latest/634247-kate-middleton-talks-of-the-invisible-thread-woven-with-time-and-attention-with-kids"
       },
       {
-        "title": "Jonathan Bailey talks retirement, playing Prince Fiyero and his message for bullies",
-        "link": "https://www.geo.tv/latest/634220-jonathan-bailey-talks-retirement-his-break-and-playing-prince-fiyero"
+        "title": "Prince William's attempts at protecting Prince George's privacy comes to light",
+        "link": "https://www.geo.tv/latest/634237-prince-williams-attempts-at-protecting-prince-georges-privacy-comes-to-light"
       }
     ],
     "NDTV": [
       {
-        "title": "Amit Shah's Maoist-Free India Deadline Nears Reality With Madvi Hidma's Death",
-        "link": "https://www.ndtv.com/india-news/amit-shahs-maoist-free-india-deadline-nears-reality-with-madvi-hidmas-death-9656779#publisher=newsstand"
+        "title": "Official Suspended For Sharing Video Of Dead Deer At Newly Opened Kerala Zoo",
+        "link": "https://www.ndtv.com/india-news/official-suspended-for-sharing-video-of-dead-deer-at-newly-opened-kerala-zoo-9657772#publisher=newsstand"
       },
       {
-        "title": "Married Man Tries To Forcibly Kiss Ex-Girlfriend, She Bites Off His Tongue",
-        "link": "https://www.ndtv.com/india-news/married-man-tries-to-forcibly-kiss-ex-girlfriend-she-bites-off-his-tongue-9656305#publisher=newsstand"
+        "title": "After NDTV Report, Centre Details Plan To Make Makhana Farmers' Lives Easy",
+        "link": "https://www.ndtv.com/india-news/after-ndtv-report-centre-details-plan-to-make-makhana-farmers-lives-easy-9657657#publisher=newsstand"
       },
       {
-        "title": "Existing Voters Will Not Face Problems: Assam Poll Body On Special Revision",
-        "link": "https://www.ndtv.com/india-news/existing-voters-will-not-face-problems-assam-poll-body-on-special-revision-9656852#publisher=newsstand"
+        "title": "Opinion: Opinion | No, RJD Didn't Face A 'Conspiracy'. Here's The Math Behind Its Rout",
+        "link": "https://www.ndtv.com/opinion/no-rjd-didnt-face-a-bihar-conspiracy-this-is-really-why-it-didnt-win-9657589#publisher=newsstand"
       },
       {
-        "title": "\"Impossible, False\": Election Body On RJD's 25,000 Pre-Loaded Votes Claim",
-        "link": "https://www.ndtv.com/india-news/impossible-false-election-body-on-rjds-25-000-pre-loaded-votes-claim-9656845#publisher=newsstand"
+        "title": "We Promise To Hold Your Hand While You Soar: Gautam Adani",
+        "link": "https://www.ndtv.com/india-news/we-promise-to-hold-your-hand-while-you-soar-gautam-adani-9657587#publisher=newsstand"
       },
       {
-        "title": "'If My Ex-Wife Is Tortured After Duty Hours...': Bengaluru Metro Gets Bomb Threat",
-        "link": "https://www.ndtv.com/india-news/bengaluru-metro-gets-bomb-threat-dont-torture-my-ex-wife-after-duty-hours-9654886#publisher=newsstand"
+        "title": "Could Interstellar Visitor 3I/ATLAS Be More Than A Comet? What Harvard Astronomer Said",
+        "link": "https://www.ndtv.com/india-news/could-interstellar-visitor-3i-atlas-be-more-than-a-comet-what-harvard-astronomer-avi-loeb-said-9656174#publisher=newsstand"
       }
     ],
     "TheGuardian": [
       {
-        "title": "The Congo basin may be the world’s most important rainforest – why is it the least researched?",
+        "title": "The rainforest the world forgot: the Congo basin is the second largest on Earth, so why is it being neglected?",
         "link": "https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe"
       },
       {
@@ -181,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-18 11:55 UTC"
+  "last_updated": "2025-11-18 13:43 UTC"
 }
