@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: US House to vote on Epstein files’ release as Trump drops opposition",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/11/18/live-us-house-to-vote-on-epstein-files-release-as-trump-drops-opposition?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "WFP warns of deepening hunger crisis amid funding shortfall",
+        "link": "https://www.aljazeera.com/news/2025/11/18/wfp-warns-of-deepening-hunger-crisis-amid-funding-shortfall?traffic_source=rss"
+      },
+      {
+        "title": "Survivors denounce Trump’s attempts to block Epstein files vote",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/18/survivors-denounce-trumps-attempts-to-block-epstein-files-vote?traffic_source=rss"
+      },
+      {
+        "title": "Polish company accused of supplying explosives for Israel’s war on Gaza",
+        "link": "https://www.aljazeera.com/news/2025/11/18/polish-company-accused-of-supplying-explosives-for-israels-war-on-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Poland blames two Ukrainians allegedly working for Russia for railway blast",
+        "link": "https://www.aljazeera.com/news/2025/11/18/poland-blames-two-ukrainians-allegedly-working-for-russia-for-railway-blast?traffic_source=rss"
+      },
+      {
         "title": "Trump’s war on South Africa betrays a sinister threat",
         "link": "https://www.aljazeera.com/opinions/2025/11/18/trumps-war-on-south-africa-betrays-a-sinister-threat?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: US House to vote on Epstein files’ release as Trump drops opposition",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/18/live-us-house-to-vote-on-epstein-files-release-as-trump-drops-opposition?traffic_source=rss"
-      },
-      {
-        "title": "Suicide in the Jungle: Inside Colombia’s Indigenous Embera community",
-        "link": "https://www.aljazeera.com/video/witness/2025/11/18/suicide-in-the-jungle-inside-colombias-indigenous-embera-community?traffic_source=rss"
-      },
-      {
-        "title": "What is the international stabilisation force for Gaza?",
-        "link": "https://www.aljazeera.com/news/2025/11/18/what-is-the-international-stabilisation-force-for-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Syria launches first trial over coastal violence that killed thousands",
-        "link": "https://www.aljazeera.com/news/2025/11/18/syria-launches-first-trial-over-coastal-violence-that-killed-thousands?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,28 +70,36 @@
     ],
     "Dawn": [
       {
+        "title": "38 terrorists killed in four separate KP operations: ISPR",
+        "link": "https://www.dawn.com/news/1955818/38-terrorists-killed-in-four-separate-kp-operations-ispr"
+      },
+      {
+        "title": "Trump rolls out red carpet as Saudi crown prince makes first visit to White House in over 7 years",
+        "link": "https://www.dawn.com/news/1955822/trump-rolls-out-red-carpet-as-saudi-crown-prince-makes-first-visit-to-white-house-in-over-7-years"
+      },
+      {
         "title": "Cloudflare says fix implemented, issue resolved after global outage",
         "link": "https://www.dawn.com/news/1955850/cloudflare-says-fix-implemented-issue-resolved-after-global-outage"
       },
       {
+        "title": "Karachi woman given 8 years by US court for lying about terrorist acts",
+        "link": "https://www.dawn.com/news/1955863/karachi-woman-given-8-years-by-us-court-for-lying-about-terrorist-acts"
+      },
+      {
         "title": "SCO ‘well-placed’ to promote regional cooperation: FM Ishaq Dar",
         "link": "https://www.dawn.com/news/1955843/sco-well-placed-to-promote-regional-cooperation-fm-ishaq-dar"
-      },
-      {
-        "title": "PTI leader Shah Mahmood Qureshi undergoes successful gallbladder surgery, lawyer says",
-        "link": "https://www.dawn.com/news/1955861/pti-leader-shah-mahmood-qureshi-undergoes-successful-gallbladder-surgery-lawyer-says"
-      },
-      {
-        "title": "3 key judicial bodies reconstituted in light of 27th Constitutional Amendment",
-        "link": "https://www.dawn.com/news/1955838/3-key-judicial-bodies-reconstituted-in-light-of-27th-constitutional-amendment"
-      },
-      {
-        "title": "Trump to welcome Saudi crown prince with offer of fighter jets, business deals",
-        "link": "https://www.dawn.com/news/1955822/trump-to-welcome-saudi-crown-prince-with-offer-of-fighter-jets-business-deals"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Trump Family’s Business Ties to Saudi Arabia Raise Ethics Worries",
+        "link": "https://www.nytimes.com/2025/11/18/world/middleeast/trump-family-business-saudi-arabia.html"
+      },
+      {
+        "title": "Saudi Arabia’s New Power Play Is Exporting A.I. to the World",
+        "link": "https://www.nytimes.com/2025/10/27/technology/saudi-arabia-ai-exporter.html"
+      },
       {
         "title": "Trump Bows to Reality on Epstein Files Vote, in a Rare Retreat",
         "link": "https://www.nytimes.com/2025/11/17/us/politics/trump-epstein-republicans-vote.html"
@@ -109,17 +111,21 @@
       {
         "title": "The Growing Cost of Keeping Close Ties with Jeffrey Epstein",
         "link": "https://www.nytimes.com/2025/11/18/business/dealbook/summers-ties-jeffrey-epstein.html"
-      },
-      {
-        "title": "The Trump Family’s Saudi Business Ties, and Hundreds of Gazans on Mystery Flights",
-        "link": "https://www.nytimes.com/2025/11/18/podcasts/the-headlines/trump-saudi-arabia-gaza-flights.html"
-      },
-      {
-        "title": "Trump Family’s Business Ties to Saudi Arabia Raise Ethics Worries",
-        "link": "https://www.nytimes.com/2025/11/18/world/middleeast/trump-family-business-saudi-arabia.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israel's violent expansion is never done, yet it still cannot 'finish the job'",
+        "link": "https://www.middleeasteye.net/opinion/israels-settler-colonial-expansion-never-done-yet-it-still-cannot-finish-job"
+      },
+      {
+        "title": "Israeli soldiers kill two Palestinian teenagers",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-kill-two-palestinian-teenagers"
+      },
+      {
+        "title": "What is so contentious about Shabana Mahmood's new asylum reforms?",
+        "link": "https://www.middleeasteye.net/news/shabana-mahmoods-contentious-new-asylum-reforms-explained"
+      },
       {
         "title": "'Sniper safaris': How dehumanisation enables atrocities, from Sarajevo to Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sniper-safaris-how-dehumanisation-enables-atrocities-sarajevo-gaza"
@@ -127,62 +133,50 @@
       {
         "title": "Riyadh Metro construction rife with migrant labour abuses, says Amnesty",
         "link": "https://www.middleeasteye.net/news/saudi-riyadh-metro-project-rife-migrant-labour-abuses-says-amnesty"
-      },
-      {
-        "title": "Israeli settlers torch homes and fields in fresh West Bank attack",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-torch-homes-and-fields-fresh-west-bank-attack"
-      },
-      {
-        "title": "UN chief Guterres hails Gaza resolution",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-guterres-hails-gaza-resolution"
-      },
-      {
-        "title": "Israeli settlers torch homes and fields in fresh West Bank attack",
-        "link": "https://www.middleeasteye.net/news/settlers-attack-and-torch-homes-vehicles-and-fields-bethlehem-town"
       }
     ],
     "GeoTV": [
       {
-        "title": "'Stranger Things' cast recalls reding finale script for first time",
-        "link": "https://www.geo.tv/latest/634259-stranger-things-cast-reveals-how-they-felt-about-finale-script"
+        "title": "Daniel Craig gets major support from his director",
+        "link": "https://www.geo.tv/latest/634271-knives-out-filmmaker-raves-about-daniel-craig"
       },
       {
-        "title": "Kate Middleton looks gorgeous in grey blazer and cream blouse",
-        "link": "https://www.geo.tv/latest/634268-kate-middleton-looks-gorgeous-in-grey-blazer-and-cream-blouse"
+        "title": "Brendan Fraser recalls his biggest culture shock on the set of 'Rental Family'",
+        "link": "https://www.geo.tv/latest/634256-brendan-fraser-recalls-his-biggest-culture-shock-on-the-set-of-rental-family"
       },
       {
-        "title": "Hollywood hottest stars unveil their binge-watching habits",
-        "link": "https://www.geo.tv/latest/634267-jonathan-bailey-andrew-garfield-riz-ahmed-enjoy-hilarious-videos-on-internet"
+        "title": "Kate's supporters prompt UK national broadcaster to apologize over missing royal title",
+        "link": "https://www.geo.tv/latest/634274-bbc-apologizes-for-not-using-kate-middletons-royal-title"
       },
       {
-        "title": "At London summit, Kate Middleton wears a suit 'not available for sale yet'",
-        "link": "https://www.geo.tv/latest/634264-kate-middleton-stuns-at-london-summit-in-new-outfit"
+        "title": "23 India-backed terrorists killed in two KP IBOs: ISPR",
+        "link": "https://www.geo.tv/latest/634272-23-india-backed-terrorists-killed-in-two-kp-ibos-ispr"
       },
       {
-        "title": "Elon Musk breaks silence on Billie Eilish criticism",
-        "link": "https://www.geo.tv/latest/634266-elon-musk-breaks-silence-on-billie-eilish-criticism"
+        "title": "Prince William may ban Andrew for life after shocking email leak",
+        "link": "https://www.geo.tv/latest/634269-andrews-private-email-sends-royals-into-crisis-mode"
       }
     ],
     "NDTV": [
       {
-        "title": "Two Men With Murder History Kill, Bury Engineer In Drishyam-Style Crime",
-        "link": "https://www.ndtv.com/india-news/two-men-with-murder-history-kill-bury-engineer-in-drishyam-style-crime-9658798#publisher=newsstand"
+        "title": "Al Falah University Founder Arrested In Money Laundering Case",
+        "link": "https://www.ndtv.com/india-news/al-falah-university-founder-arrested-in-money-laundering-case-9658943#publisher=newsstand"
       },
       {
-        "title": "J&K Police Bust Attempt To Revive Banned Kashmiri Women Terror Group",
-        "link": "https://www.ndtv.com/india-news/j-k-police-uncovers-jaish-link-with-banned-kashmiri-women-terror-group-9658487#publisher=newsstand"
+        "title": "Sheikh Hasina Death Sentence Is Illegal, Unimplementable, Untenable: Sources",
+        "link": "https://www.ndtv.com/world-news/sheikh-hasina-death-sentence-is-illegal-unimplementable-untenable-sources-9659079#publisher=newsstand"
       },
       {
-        "title": "Nitish Kumar To Get Woman Deputy? Bihar Cabinet Formula Almost Final: Sources",
+        "title": "Chartered Planes, Decorations: Ayodhya Preps For Flag Hoisting By PM Next Week",
+        "link": "https://www.ndtv.com/india-news/chartered-planes-decorations-ayodhya-preps-for-flag-hoisting-by-pm-next-week-9659023#publisher=newsstand"
+      },
+      {
+        "title": "Kerala Man Arrested For Creating Viral AI-Generated Zipline Accident Video",
+        "link": "https://www.ndtv.com/india-news/kerala-man-arrested-for-creating-viral-ai-generated-zipline-accident-video-9658911#publisher=newsstand"
+      },
+      {
+        "title": "Blueprint Ready For Nitish Kumar Cabinet, Talks Held With Amit Shah: Sources",
         "link": "https://www.ndtv.com/india-news/blueprint-ready-for-nitish-kumar-cabinet-talks-held-with-amit-shah-sources-said-9658491#publisher=newsstand"
-      },
-      {
-        "title": "\"Ghost Of Bastar\": The Rise And Fall Of Maoist Leader Madvi Hidma",
-        "link": "https://www.ndtv.com/india-news/ghost-of-bastar-the-rise-and-fall-of-maoist-leader-madvi-hidma-9658725#publisher=newsstand"
-      },
-      {
-        "title": "Man, 62, With Mental Health Issues Arrested For Bengaluru Metro Bomb Threat",
-        "link": "https://www.ndtv.com/india-news/man-62-with-mental-health-issues-arrested-for-bengaluru-metro-bomb-threat-9658548#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-18 15:57 UTC"
+  "last_updated": "2025-11-18 16:57 UTC"
 }
