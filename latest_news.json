@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: US House to vote on Epstein files’ release as Trump drops opposition",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/18/live-us-house-to-vote-on-epstein-files-release-as-trump-drops-opposition?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,38 +17,38 @@
         "link": "https://www.bbc.com/news/articles/cm2emzjre62o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Google boss says trillion-dollar AI investment boom has 'elements of irrationality'",
-        "link": "https://www.bbc.com/news/articles/cwy7vrd8k4eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "How serious is Labour backlash over asylum plans?",
         "link": "https://www.bbc.com/news/articles/ckgydj7qllpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "A new ticketing law could ban resales above face value. How much will fans save?",
+        "title": "Google boss says trillion-dollar AI investment boom has 'elements of irrationality'",
+        "link": "https://www.bbc.com/news/articles/cwy7vrd8k4eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How much will fans save under proposed new ticketing rules?",
         "link": "https://www.bbc.com/news/articles/cj6nlr4wj09o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Poland blames two Ukrainians allegedly working for Russia for railway blast",
+        "link": "https://www.aljazeera.com/news/2025/11/18/poland-blames-two-ukrainians-allegedly-working-for-russia-for-railway-blast?traffic_source=rss"
+      },
+      {
+        "title": "Trump’s war on South Africa betrays a sinister threat",
+        "link": "https://www.aljazeera.com/opinions/2025/11/18/trumps-war-on-south-africa-betrays-a-sinister-threat?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: US House to vote on Epstein files’ release as Trump drops opposition",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/18/live-us-house-to-vote-on-epstein-files-release-as-trump-drops-opposition?traffic_source=rss"
+      },
+      {
+        "title": "Suicide in the Jungle: Inside Colombia’s Indigenous Embera community",
+        "link": "https://www.aljazeera.com/video/witness/2025/11/18/suicide-in-the-jungle-inside-colombias-indigenous-embera-community?traffic_source=rss"
+      },
+      {
         "title": "What is the international stabilisation force for Gaza?",
         "link": "https://www.aljazeera.com/news/2025/11/18/what-is-the-international-stabilisation-force-for-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Syria launches first trial over coastal violence that killed thousands",
-        "link": "https://www.aljazeera.com/news/2025/11/18/syria-launches-first-trial-over-coastal-violence-that-killed-thousands?traffic_source=rss"
-      },
-      {
-        "title": "Mixed reactions to UN Security Council approval of Gaza plan",
-        "link": "https://www.aljazeera.com/news/2025/11/18/mixed-reactions-to-un-security-council-approval-of-gaza-plan?traffic_source=rss"
-      },
-      {
-        "title": "What is the UN-backed plan for a Gaza stabilisation force?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/18/what-is-the-un-backed-plan-for-a-gaza-stabilisation-force?traffic_source=rss"
-      },
-      {
-        "title": "Palestinians on ‘removal’ flight to South Africa speak to Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/18/palestinians-on-removal-flight-to-south-africa-speak-to-al-jazeera?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -68,28 +74,7 @@
         "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html"
       }
     ],
-    "Dawn": [
-      {
-        "title": "Cloudflare says working on restoring services after global outage",
-        "link": "https://www.dawn.com/news/1955850/cloudflare-says-working-on-restoring-services-after-global-outage"
-      },
-      {
-        "title": "SCO ‘well-placed’ to promote regional cooperation: FM Ishaq Dar",
-        "link": "https://www.dawn.com/news/1955843/sco-well-placed-to-promote-regional-cooperation-fm-ishaq-dar"
-      },
-      {
-        "title": "PTI leader Shah Mahmood Qureshi undergoes successful gallbladder surgery, lawyer says",
-        "link": "https://www.dawn.com/news/1955861/pti-leader-shah-mahmood-qureshi-undergoes-successful-gallbladder-surgery-lawyer-says"
-      },
-      {
-        "title": "3 key judicial bodies reconstituted in light of 27th Constitutional Amendment",
-        "link": "https://www.dawn.com/news/1955838/3-key-judicial-bodies-reconstituted-in-light-of-27th-constitutional-amendment"
-      },
-      {
-        "title": "Trump to welcome Saudi crown prince with offer of fighter jets, business deals",
-        "link": "https://www.dawn.com/news/1955822/trump-to-welcome-saudi-crown-prince-with-offer-of-fighter-jets-business-deals"
-      }
-    ],
+    "Dawn": [],
     "APNews": [],
     "NYTimes": [
       {
@@ -115,68 +100,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli settlers torch homes and fields in fresh West Bank attack",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-torch-homes-and-fields-fresh-west-bank-attack"
+      },
+      {
+        "title": "UN chief Guterres hails Gaza resolution",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-guterres-hails-gaza-resolution"
+      },
+      {
+        "title": "Israeli settlers torch homes and fields in fresh West Bank attack",
+        "link": "https://www.middleeasteye.net/news/settlers-attack-and-torch-homes-vehicles-and-fields-bethlehem-town"
+      },
+      {
+        "title": "One killed, three wounded in West Bank attack",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-three-wounded-west-bank-attack"
+      },
+      {
         "title": "Six UK activists go on trial over attack on Israel's Elbit factory",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/six-uk-activists-go-trial-over-attack-israels-elbit-factory"
-      },
-      {
-        "title": "EU says UN Gaza plan vote 'important step'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-says-un-gaza-plan-vote-important-step"
-      },
-      {
-        "title": "Israeli forces shoot Al Jazeera cameraperson and child in the occupied West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-shoot-al-jazeera-cameraperson-and-child-occupied-west"
-      },
-      {
-        "title": "'Sniper safaris': Like Bosnians, Palestinians in Gaza have become dehumanised targets",
-        "link": "https://www.middleeasteye.net/opinion/sniper-safaris-how-dehumanisation-enables-atrocities-sarajevo-gaza"
-      },
-      {
-        "title": "Ex-UN official decries resolution backing Gaza force as 'colonial outrage'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ex-un-official-decries-resolution-backing-gaza-force-colonial-outrage"
       }
     ],
     "GeoTV": [
       {
-        "title": "Former Pakistan skipper Azhar Ali steps down from PCB roles",
-        "link": "https://www.geo.tv/latest/634262-former-captain-azhar-ali-steps-down-as"
+        "title": "'Stranger Things' cast recalls reding finale script for first time",
+        "link": "https://www.geo.tv/latest/634259-stranger-things-cast-reveals-how-they-felt-about-finale-script"
       },
       {
-        "title": "Brad Pitt got permission from Jennifer Aniston before filming THIS scene",
-        "link": "https://www.geo.tv/latest/634263-brad-pitts-close-encounter-with-las-vegas-showgirl-revealed"
+        "title": "Kate Middleton looks gorgeous in grey blazer and cream blouse",
+        "link": "https://www.geo.tv/latest/634268-kate-middleton-looks-gorgeous-in-grey-blazer-and-cream-blouse"
       },
       {
-        "title": "Meghan afraid of losing royal titles after King Charles' drastic action against Andrew",
-        "link": "https://www.geo.tv/latest/634216-meghanmarkle-feels-quite-desperate-as-fears-grow-about-her-royal-title"
+        "title": "Hollywood hottest stars unveil their binge-watching habits",
+        "link": "https://www.geo.tv/latest/634267-jonathan-bailey-andrew-garfield-riz-ahmed-enjoy-hilarious-videos-on-internet"
       },
       {
-        "title": "ECC okays major grants for defence, border management and internal security",
-        "link": "https://www.geo.tv/latest/634248-ecc-okays-major-grants-for-defence-border-management-and-internal-security"
+        "title": "At London summit, Kate Middleton wears a suit 'not available for sale yet'",
+        "link": "https://www.geo.tv/latest/634264-kate-middleton-stuns-at-london-summit-in-new-outfit"
       },
       {
-        "title": "Astrologer makes surprising predictions about Kate Middleton",
-        "link": "https://www.geo.tv/latest/634258-astrologer-makes-surprising-predictions-about-kate-middleton"
+        "title": "Elon Musk breaks silence on Billie Eilish criticism",
+        "link": "https://www.geo.tv/latest/634266-elon-musk-breaks-silence-on-billie-eilish-criticism"
       }
     ],
     "NDTV": [
       {
-        "title": "You'll Hear Good News Once India-US Trade Deal Is Fair: Piyush Goyal",
-        "link": "https://www.ndtv.com/india-news/youll-hear-good-news-once-india-us-trade-deal-is-fair-piyush-goyal-9658252#publisher=newsstand"
+        "title": "Two Men With Murder History Kill, Bury Engineer In Drishyam-Style Crime",
+        "link": "https://www.ndtv.com/india-news/two-men-with-murder-history-kill-bury-engineer-in-drishyam-style-crime-9658798#publisher=newsstand"
       },
       {
-        "title": "Charges Framed Against Maharashtra Ex-Minister In Money Laundering Case",
-        "link": "https://www.ndtv.com/india-news/charges-framed-against-maharashtra-ex-minister-nawab-malik-in-money-laundering-case-9658169#publisher=newsstand"
+        "title": "J&K Police Bust Attempt To Revive Banned Kashmiri Women Terror Group",
+        "link": "https://www.ndtv.com/india-news/j-k-police-uncovers-jaish-link-with-banned-kashmiri-women-terror-group-9658487#publisher=newsstand"
       },
       {
-        "title": "'Criminals Are Seen Limping In Jail In New Uttar Pradesh': Yogi Adityanath",
-        "link": "https://www.ndtv.com/india-news/criminals-are-seen-limping-in-jail-in-new-uttar-pradesh-yogi-adityanath-9658032#publisher=newsstand"
+        "title": "Nitish Kumar To Get Woman Deputy? Bihar Cabinet Formula Almost Final: Sources",
+        "link": "https://www.ndtv.com/india-news/blueprint-ready-for-nitish-kumar-cabinet-talks-held-with-amit-shah-sources-said-9658491#publisher=newsstand"
       },
       {
-        "title": "\"No Looking Away\": S Jaishankar On Terrorism At SCO Meet In Russia",
-        "link": "https://www.ndtv.com/india-news/delhi-blast-no-looking-away-s-jaishankar-on-terrorism-at-sco-meet-in-russia-9658013#publisher=newsstand"
+        "title": "\"Ghost Of Bastar\": The Rise And Fall Of Maoist Leader Madvi Hidma",
+        "link": "https://www.ndtv.com/india-news/ghost-of-bastar-the-rise-and-fall-of-maoist-leader-madvi-hidma-9658725#publisher=newsstand"
       },
       {
-        "title": "After NDTV Report, Centre Details Plan To Make Makhana Farmers' Lives Easier",
-        "link": "https://www.ndtv.com/india-news/after-ndtv-report-centre-details-plan-to-make-makhana-farmers-lives-easy-9657657#publisher=newsstand"
+        "title": "Man, 62, With Mental Health Issues Arrested For Bengaluru Metro Bomb Threat",
+        "link": "https://www.ndtv.com/india-news/man-62-with-mental-health-issues-arrested-for-bengaluru-metro-bomb-threat-9658548#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +187,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-18 14:56 UTC"
+  "last_updated": "2025-11-18 15:44 UTC"
 }
