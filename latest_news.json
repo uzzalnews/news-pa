@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: 14 killed in Israeli air attacks in Lebanon; air strikes in Gaza",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/11/19/live-13-killed-in-israeli-air-attack-on-refugee-camp-in-lebanon?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -21,15 +15,19 @@
         "link": "https://www.bbc.com/sport/football/videos/cn40kpvjnqdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Congress approves bill to release Epstein files that will head to Trump's desk",
-        "link": "https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss"
+        "title": "Our son's about to turn three - finding new childcare has left us at our wits' end",
+        "link": "https://www.bbc.com/news/articles/cd0490erp13o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Tricky travel conditions' possible as snow and ice warnings hit",
+        "title": "Snow and ice hits with warnings of travel disruption",
         "link": "https://www.bbc.com/weather/articles/cr43gv9zveyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "China to suspend imports of Japanese seafood amid diplomatic row: Reports",
+        "link": "https://www.aljazeera.com/news/2025/11/19/china-to-suspend-imports-of-japanese-seafood-amid-diplomatic-row-reports?traffic_source=rss"
+      },
       {
         "title": "Myanmar military raids online scam hub, arrests nearly 350 on Thai border",
         "link": "https://www.aljazeera.com/news/2025/11/19/myanmar-military-raids-online-scam-hub-arrests-nearly-350-on-thai-border?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "A dangerous tipping point? AI hacking claims divide cybersecurity experts",
         "link": "https://www.aljazeera.com/economy/2025/11/19/a-dangerous-tipping-point-ai-hacking-claims-prompt-cybersecurity-debate?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: 14 killed in Israeli air attacks in Lebanon; air strikes in Gaza",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/19/live-13-killed-in-israeli-air-attack-on-refugee-camp-in-lebanon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1956023/punjab-govt-forms-12-jits-to-probe-cases-against-tlp"
       },
       {
+        "title": "After attending SCO summit in Moscow, Dar to visit Brussels for Pakistan-EU dialogue",
+        "link": "https://www.dawn.com/news/1956026/after-attending-sco-summit-in-moscow-dar-to-visit-brussels-for-pakistan-eu-dialogue"
+      },
+      {
         "title": "Punjab prosecutor general seeks mechanism for verification of school staff, faculty using sex offender database",
         "link": "https://www.dawn.com/news/1956025/punjab-prosecutor-general-seeks-mechanism-for-verification-of-school-staff-faculty-using-sex-offender-database"
       },
@@ -90,10 +88,6 @@
       {
         "title": "PTI says Imran’s sisters manhandled, ‘violently detained’ by police while camped outside Adiala jail",
         "link": "https://www.dawn.com/news/1955967/pti-says-imrans-sisters-manhandled-violently-detained-by-police-while-camped-outside-adiala-jail"
-      },
-      {
-        "title": "Air India lobbies to use airspace in China’s Xinjiang as financial woes from Pakistan ban mount",
-        "link": "https://www.dawn.com/news/1956019/air-india-lobbies-to-use-airspace-in-chinas-xinjiang-as-financial-woes-from-pakistan-ban-mount"
       }
     ],
     "APNews": [],
@@ -143,46 +137,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Air India lobbying to use Chinese airspace amid mounting financial woes due to Pakistan ban",
-        "link": "https://www.geo.tv/latest/634351-air-india-lobbying-to-use-chinese-airspace-amid-mounting-financial-woes"
+        "title": "'I'm an introvert. How can I handle social interactions without feeling anxious?'",
+        "link": "https://www.geo.tv/latest/634352-im-an-introvert-how-can-i-handle-social-interactions-without-feeling-anxious"
       },
       {
-        "title": "Keith Urban causes outrage among Chappell Roan fans with 'Pink Pony Club' cover",
-        "link": "https://www.geo.tv/latest/634347-keith-urban-performs-pink-pony-club-causing-outrage-among-chappell-roan-fans"
+        "title": "Meghan Markle, Harry extend major offer to Princess Eugenie amid Andrew, Sarah crisis",
+        "link": "https://www.geo.tv/latest/634362-meghan-markle-harry-extend-major-offer-to-princess-eugenie-amid-andrew-sarah-crisis"
       },
       {
-        "title": "Sarah Ferguson, Andrew 'no longer the happiest divorced couple'",
-        "link": "https://www.geo.tv/latest/634353-sarah-ferguson-andrew-no-longer-the-happiest-divorced-couple"
+        "title": "Ariana Grande reveals why she always holds Cynthia Erivo's hand in public",
+        "link": "https://www.geo.tv/latest/634366-ariana-grande-finally-reveals-why-she-opts-to-always-hold-cynthia-erivos-hand"
       },
       {
-        "title": "Billy Bob Thornton reveals his current dynamic with ex-wife Angelina Jolie",
-        "link": "https://www.geo.tv/latest/634348-billy-bob-thornton-reveals-his-current-dynamic-with-ex-wife-angelina-jolie"
+        "title": "Meghan Markle puts Prince Harry's hopes and dreams in danger with a complication",
+        "link": "https://www.geo.tv/latest/634365-meghan-markle-puts-prince-harrys-plans-at-risk-with-complication"
       },
       {
-        "title": "EU envoy backs Pakistan's demand for Taliban regime to halt TTP support",
-        "link": "https://www.geo.tv/latest/634341-eu-envoy-backs-pakistans-demand-for-taliban-regime-to-halt-ttp-support"
+        "title": "Fact-check: Fake Geo News graphic wrongly claims Imran Khan praised Israel",
+        "link": "https://www.geo.tv/latest/634359-fact-check-fake-geo-news-graphic-wrongly-claims-imran-khan-praised-israel"
       }
     ],
     "NDTV": [
       {
-        "title": "Andhra Delivers Body Blow To Guerilla, Logistics Networks Of Maoists",
-        "link": "https://www.ndtv.com/india-news/andhra-pradesh-delivers-body-blow-to-guerilla-logistics-networks-of-maoists-9661879#publisher=newsstand"
+        "title": "\"Haven't Been Able To Sleep Since Bihar Results Came In\": Prashant Kishor To NDTV",
+        "link": "https://www.ndtv.com/india-news/havent-been-able-to-sleep-since-bihar-results-came-in-prashant-kishor-to-ndtv-9662053#publisher=newsstand"
       },
       {
-        "title": "\"Draping Political Frustration\": Letter To Rahul Gandhi Over Poll Body Criticism",
-        "link": "https://www.ndtv.com/india-news/draping-political-frustration-letter-to-rahul-gandhi-over-poll-body-criticism-9661819#publisher=newsstand"
+        "title": "Exclusive: \"Nitish Kumar Not Mentally, Physically Fit\": Prashant Kishor Doubles Down",
+        "link": "https://www.ndtv.com/india-news/prashant-kishor-exclusive-pk-doubles-down-says-nitish-kumar-not-mentally-physically-fit-9662241#publisher=newsstand"
       },
       {
-        "title": "Day After Madvi Hidma's Encounter, 7 More Maoists Killed In Andhra",
-        "link": "https://www.ndtv.com/india-news/a-day-after-top-maoist-madvi-hidmas-encounter-7-more-maoists-killed-in-andhra-pradesh-9661292#publisher=newsstand"
+        "title": "Exclusive: Prashant Kishor Says Jan Suraaj Shifted Bihar's Politics From Caste To Jobs",
+        "link": "https://www.ndtv.com/india-news/exclusive-prashant-kishor-says-jan-suraaj-shifted-bihars-politics-from-caste-to-jobs-9662197#publisher=newsstand"
       },
       {
-        "title": "PM's Lecture Was Petty, Don't Know Why Shashi Tharoor Praised Him: Congress",
-        "link": "https://www.ndtv.com/india-news/no-idea-how-shashi-tharoor-found-reason-to-praise-pm-narendra-modi-ramnath-goenka-lecture-speech-congress-9661589#publisher=newsstand"
+        "title": "\"May Be A Mistake For Me To Not Contest\": Prashant Kishor On Partys Bihar Rout",
+        "link": "https://www.ndtv.com/india-news/may-be-mistake-for-me-to-not-contest-bihar-polls-prashant-kishor-to-ndtv-9662132#publisher=newsstand"
       },
       {
-        "title": "PM Modi Visits Puttaparthi, Pays Obeisance To Sri Sathya Sai Baba",
-        "link": "https://www.ndtv.com/andhra-pradesh-news/pm-modi-visits-puttaparthi-in-andhra-pradesh-pays-obeisance-to-sri-sathya-sai-baba-at-centenary-celebrations-9661810#publisher=newsstand"
+        "title": "Team Nitish's Oath Tomorrow, JDU-BJP Balance Caste Math In Minister Picks",
+        "link": "https://www.ndtv.com/india-news/nitish-kumar-bihar-swearing-in-team-nitishs-oath-tomorrow-jdu-bjp-balances-caste-math-in-minister-picks-9661038#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-19 07:56 UTC"
+  "last_updated": "2025-11-19 08:53 UTC"
 }
