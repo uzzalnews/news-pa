@@ -1,29 +1,43 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: 13 killed in Israeli air attack in Lebanon; air strikes in Gaza",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/19/live-13-killed-in-israeli-air-attack-on-refugee-camp-in-lebanon?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Watch: Scotland edge out Denmark in six-goal epic",
+        "link": "https://www.bbc.com/sport/football/videos/cn40kpvjnqdo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Congress approves bill to release Epstein files that will head to Trump's desk",
         "link": "https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Epstein saga reveals Republican rifts - and the power of Trump's base",
-        "link": "https://www.bbc.com/news/articles/cz7p4gez742o?at_medium=RSS&at_campaign=rss"
+        "title": "Police bullied me into admitting murder, says man wrongly jailed for 38 years",
+        "link": "https://www.bbc.com/news/articles/cd04x43vg1ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK lacks plan to defend itself from invasion, MPs warn",
-        "link": "https://www.bbc.com/news/articles/cqjw5g24rlyo?at_medium=RSS&at_campaign=rss"
+        "title": "Travel warning as snow and ice move in across country",
+        "link": "https://www.bbc.com/news/articles/cm276jn0y11o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK will not tolerate Chinese spying, minister says after MI5 alert to MPs and peers",
-        "link": "https://www.bbc.com/news/articles/c4gpnz05kr8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Chris Mason: Is this what spying by China can look like?",
-        "link": "https://www.bbc.com/news/articles/c1k091l2w1yo?at_medium=RSS&at_campaign=rss"
+        "title": "Our son's about to turn three - finding new childcare has left us at our wits' end",
+        "link": "https://www.bbc.com/news/articles/cd0490erp13o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "A dangerous tipping point? AI hacking claims divide cybersecurity experts",
+        "link": "https://www.aljazeera.com/economy/2025/11/19/a-dangerous-tipping-point-ai-hacking-claims-prompt-cybersecurity-debate?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: 13 killed in Israeli air attack in Lebanon; air strikes in Gaza",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/19/live-13-killed-in-israeli-air-attack-on-refugee-camp-in-lebanon?traffic_source=rss"
+      },
       {
         "title": "Saudi Arabia designated major non-NATO ally of US, gets F-35 warplanes deal",
         "link": "https://www.aljazeera.com/news/2025/11/19/saudi-arabia-designated-major-non-nato-ally-of-us-gets-f-35-warplanes-deal?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Single faulty wire led cargo ship to crash into Baltimore bridge: Report",
         "link": "https://www.aljazeera.com/news/2025/11/19/single-faulty-wire-led-cargo-ship-to-crash-into-baltimore-bridge-report?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,364",
-        "link": "https://www.aljazeera.com/news/2025/11/19/russia-ukraine-war-list-of-key-events-day-1364?traffic_source=rss"
-      },
-      {
-        "title": "Families of Bangladesh protest victims want Hasina ‘brought back, hanged’",
-        "link": "https://www.aljazeera.com/news/2025/11/19/families-of-bangladesh-protest-victims-want-hasina-brought-back-hanged?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
+        "title": "Punjab govt forms 12 JITs to probe cases against TLP",
+        "link": "https://www.dawn.com/news/1956023/punjab-govt-forms-12-jits-to-probe-cases-against-tlp"
+      },
+      {
         "title": "Trump designates Saudi Arabia as ‘major, non-Nato ally’",
         "link": "https://www.dawn.com/news/1956010/trump-designates-saudi-arabia-as-major-non-nato-ally"
       },
       {
-        "title": "PTI says Imran Khan’s sisters manhandled, ‘violently detained’ by police while camped outside Adiala jail",
-        "link": "https://www.dawn.com/news/1955967/pti-says-imran-khans-sisters-manhandled-violently-detained-by-police-while-camped-outside-adiala-jail"
+        "title": "PTI says Imran’s sisters manhandled, ‘violently detained’ by police while camped outside Adiala jail",
+        "link": "https://www.dawn.com/news/1955967/pti-says-imrans-sisters-manhandled-violently-detained-by-police-while-camped-outside-adiala-jail"
       },
       {
         "title": "Pakistan enters bunkering market with first facility",
         "link": "https://www.dawn.com/news/1955932/pakistan-enters-bunkering-market-with-first-facility"
       },
       {
-        "title": "Govt says rooftop solar ‘not hurting’ grid",
-        "link": "https://www.dawn.com/news/1955930/govt-says-rooftop-solar-not-hurting-grid"
-      },
-      {
-        "title": "Confusion deepens over relocation of Islamabad High Court to its former premises at G-10",
-        "link": "https://www.dawn.com/news/1955983/confusion-deepens-over-relocation-of-islamabad-high-court-to-its-former-premises-at-g-10"
+        "title": "Air India lobbies to use airspace in China’s Xinjiang as financial woes from Pakistan ban mount",
+        "link": "https://www.dawn.com/news/1956019/air-india-lobbies-to-use-airspace-in-chinas-xinjiang-as-financial-woes-from-pakistan-ban-mount"
       }
     ],
     "APNews": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli forces seal off family home of slain Palestinian",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-seal-family-home-slain-palestinian"
+      },
+      {
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-462"
+      },
+      {
         "title": "Israeli police prevent activists from helping Palestinian olive harvesters",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-prevent-activists-helping-palestinian-olive-harvesters"
       },
@@ -125,36 +139,28 @@
       {
         "title": "'Zionism has taken over': America First political action committee targets pro-Israel lobbying groups",
         "link": "https://www.middleeasteye.net/news/zionism-taken-over-americas-political-action-committee-counter-pro-israel-lobbying-groups"
-      },
-      {
-        "title": "Texas governor designates Muslim Brotherhood, Cair as terror organisations",
-        "link": "https://www.middleeasteye.net/news/texas-governor-designates-muslim-brotherhood-cair-terror-organisations"
-      },
-      {
-        "title": "Israel kills 13 in air strike on Palestinian refugee camp in Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-13-palestinians-refugee-camp-lebanon-strike"
       }
     ],
     "GeoTV": [
       {
-        "title": "Offset deactivates Instagram amid tensions with estranged wife Cardi B",
-        "link": "https://www.geo.tv/latest/634335-offset-deactivates-instagram-amid-tensions-with-estranged-wife-cardi-b"
+        "title": "Nepra rate review could push power bills higher in 2026",
+        "link": "https://www.geo.tv/latest/634342-nepra-rate-review-could-push-power-bills-higher-in-2026"
       },
       {
-        "title": "Musk and Ronaldo attend Trump's dinner with Saudi crown prince",
-        "link": "https://www.geo.tv/latest/634336-musk-and-ronaldo-attend-trumps-dinner-with-saudi-prince"
+        "title": "Google's Gemini 3 aims for AI supremacy with PhD-level reasoning",
+        "link": "https://www.geo.tv/latest/634346-googles-gemini-3-aims-for-ai-supremacy-with-phd-level-reasoning"
       },
       {
-        "title": "Kate Middleton wins hearts with first speech since cancer diagnosis: 'Princess of hearts'",
-        "link": "https://www.geo.tv/latest/634337-kate-middleton-praised-after-first-speech-since-diagnosis"
+        "title": "Meghan Trainor recalls most painful time: ‘I cried so much'",
+        "link": "https://www.geo.tv/latest/634345-meghan-trainor-reveals-how-her-weight-loss-haters-got-to-her"
       },
       {
-        "title": "Loose wire led to power outage before March 2024 Baltimore ship crash, NTSB says",
-        "link": "https://www.geo.tv/latest/634330-loose-wire-led-to-power-outage-before-march-2024-baltimore-ship-crash-ntsb-says"
+        "title": "Google warns 2 billion Chrome users of active ‘type confusion' attacks",
+        "link": "https://www.geo.tv/latest/634344-google-warns-2-billion-chrome-users-of-active-type-confusion-attacks"
       },
       {
-        "title": "A COP30 agenda for Pakistan",
-        "link": "https://www.geo.tv/latest/634321-a-cop30-agenda-for-pakistan"
+        "title": "Kim Kardashian goes mama bear mode to defend daughter North",
+        "link": "https://www.geo.tv/latest/634338-kim-kardashian-defends-daughter-norths-piercings"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-19 05:50 UTC"
+  "last_updated": "2025-11-19 06:52 UTC"
 }
