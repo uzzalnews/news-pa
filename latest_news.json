@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel bombs house in southern Gaza, kills at least 3 Palestinians",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/20/live-israel-bombs-house-in-southern-gaza-kills-at-least-3-palestinians?traffic_source=rss"
+    },
+    {
+      "source": "NDTV",
+      "title": "Nitish Kumar Swearing In Ceremony LIVE Updates: Nitish Kumar Takes Oath As Bihar Chief Minister",
+      "link": "https://www.ndtv.com/india-news/nitish-kumar-oath-taking-ceremony-live-updates-nitish-kumar-to-take-oath-as-bihar-chief-minister-today-9667574#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,30 +30,30 @@
         "link": "https://www.bbc.com/news/articles/c4gpgj6d4e6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Amber warning for snow as freezing cold snap grips UK",
-        "link": "https://www.bbc.com/news/articles/c3dndex9d2po?at_medium=RSS&at_campaign=rss"
+        "title": "Paying failed asylum seekers to leave is value for money, says Mahmood",
+        "link": "https://www.bbc.com/news/articles/cj41r4l0v9jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Israel bombs house in southern Gaza, kills at least 3 Palestinians",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/20/live-israel-bombs-house-in-southern-gaza-kills-at-least-3-palestinians?traffic_source=rss"
+      },
+      {
+        "title": "The Kenyan woman confronting cancer stigma with knitted breast prostheses",
+        "link": "https://www.aljazeera.com/features/2025/11/20/the-kenyan-woman-confronting-cancer-stigma-with-knitted-breast-prostheses?traffic_source=rss"
+      },
+      {
+        "title": "Gustav Klimt portrait breaks modern art record with $236m sale",
+        "link": "https://www.aljazeera.com/news/2025/11/20/gustav-klimt-portrait-breaks-modern-art-record-with-236m-sale?traffic_source=rss"
+      },
+      {
+        "title": "US raises reward for ex-Olympian turned drug lord, as 7 arrested in Canada",
+        "link": "https://www.aljazeera.com/news/2025/11/20/us-raises-reward-for-ex-olympian-turned-drug-lord-as-7-arrested-in-canada?traffic_source=rss"
+      },
+      {
         "title": "India wants COP30 to focus on climate adaptation, but dries up own fund",
         "link": "https://www.aljazeera.com/news/2025/11/20/india-says-cop30-should-be-about-climate-adaptation-but-dries-up-key-fund?traffic_source=rss"
-      },
-      {
-        "title": "Italy to extradite Ukrainian Nord Stream sabotage suspect to Germany",
-        "link": "https://www.aljazeera.com/news/2025/11/20/italy-to-extradite-ukrainian-nord-stream-sabotage-suspect-to-germany?traffic_source=rss"
-      },
-      {
-        "title": "Meta sets date to remove Australians under 16 from Instagram, Facebook",
-        "link": "https://www.aljazeera.com/news/2025/11/20/meta-sets-date-to-remove-australians-under-16-from-instagram-facebook?traffic_source=rss"
-      },
-      {
-        "title": "UK accuses Russian spy ship of pointing lasers at pilots watching vessel",
-        "link": "https://www.aljazeera.com/news/2025/11/20/uk-accuses-russian-spy-ship-of-pointing-lasers-at-pilots-watching-vessel?traffic_source=rss"
-      },
-      {
-        "title": "Turkiye to host COP31 climate summit after Australia concedes bid",
-        "link": "https://www.aljazeera.com/news/2025/11/20/turkiye-to-host-cop31-climate-summit-after-australia-concedes-bid?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +81,24 @@
     ],
     "Dawn": [
       {
-        "title": "IMF highlights corruption risks across state institutions in Pakistan",
-        "link": "https://www.dawn.com/news/1956186/imf-highlights-corruption-risks-across-state-institutions-in-pakistan"
+        "title": "TTP ‘serious threat’ in South and Central Asia, receiving support from de facto Afghan authorities, UNSC told",
+        "link": "https://www.dawn.com/news/1956244/ttp-serious-threat-in-south-and-central-asia-receiving-support-from-de-facto-afghan-authorities-unsc-told"
+      },
+      {
+        "title": "Pakistan issues Notam extending Indian aircraft ban till Dec 24",
+        "link": "https://www.dawn.com/news/1956239/pakistan-issues-notam-extending-indian-aircraft-ban-till-dec-24"
       },
       {
         "title": "In fresh comments on Pak-India May conflict, Trump says PM Shehbaz called to say he ‘saved millions’",
         "link": "https://www.dawn.com/news/1956202/in-fresh-comments-on-pak-india-may-conflict-trump-says-pm-shehbaz-called-to-say-he-saved-millions"
       },
       {
+        "title": "IMF highlights corruption risks across state institutions in Pakistan",
+        "link": "https://www.dawn.com/news/1956186/imf-highlights-corruption-risks-across-state-institutions-in-pakistan"
+      },
+      {
         "title": "Idea of judges’ en masse resignation ‘met with silence’",
         "link": "https://www.dawn.com/news/1956182/idea-of-judges-en-masse-resignation-met-with-silence"
-      },
-      {
-        "title": "US clears $93m sale of Javelin anti-tank system, Excalibur projectiles to India",
-        "link": "https://www.dawn.com/news/1956242/us-clears-93m-sale-of-javelin-anti-tank-system-excalibur-projectiles-to-india"
-      },
-      {
-        "title": "PML-N grouse with Balochistan CM Bugti ‘out in the open’",
-        "link": "https://www.dawn.com/news/1956184/pml-n-grouse-with-balochistan-cm-bugti-out-in-the-open"
       }
     ],
     "APNews": [],
@@ -115,68 +126,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli forces kill three Palestinians by bombing house in Gaza's Khan Younis",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-three-palestinians-bombing-house-gazas-khan-younis"
+      },
+      {
+        "title": "Israeli forces make mass arrests near Hebron, target relatives of slain Palestinian",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-make-mass-arrests-near-hebron-target-relatives-slain"
+      },
+      {
+        "title": "Israel receives 1,000th military cargo plane in US-backed weapons air bridge",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-receives-1000th-military-cargo-plane-us-backed-weapons-air-bridge"
+      },
+      {
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-463"
+      },
+      {
         "title": "After almost 60 years in their homes, Jerusalem families given demolition orders",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/after-almost-60-years-their-homes-jerusalem-families-given-demolition"
-      },
-      {
-        "title": "Israel's top court orders government to explain lack of state inquiry into October 7 attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-top-court-orders-government-explain-lack-state-inquiry-october-7"
-      },
-      {
-        "title": "Israel's Knesset passes law to cut water and electricity to UN agency helping Palestinians",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-knesset-passes-law-cut-water-and-electricity-un-agency-helping"
-      },
-      {
-        "title": "These were the major deals signed by Saudi crown prince on his US visit",
-        "link": "https://www.middleeasteye.net/news/these-were-major-deals-signed-saudi-crown-prince-us-visit"
-      },
-      {
-        "title": "At least 305 Palestinians killed since Gaza ceasefire began in October",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-305-palestinians-killed-ceasefire-began-october"
       }
     ],
     "GeoTV": [
       {
-        "title": "Royal family warned to brace for more ‘catastrophic' Andrew drama",
-        "link": "https://www.geo.tv/latest/634515-andrew-faces-new-allegations-as-jeffrey-epstein-files-are-set-for-release"
+        "title": "Normani embraces new chapter of creativity",
+        "link": "https://www.geo.tv/latest/634529-normani-welcomes-new-creative-chapter-with-open-arms"
       },
       {
-        "title": "Pakistan becomes Dubai airport fourth-largest market with 3.2m passengers",
-        "link": "https://www.geo.tv/latest/634514-pakistan-becomes-dubai-airport-fourth-largest-market-with-32m-passengers"
+        "title": "US approves $93m sale of Javelin anti-tank system, Excalibur projectiles to India",
+        "link": "https://www.geo.tv/latest/634526-us-approves-93-million-sale-of-javelin-anti-tank-system-excalibur-projectiles-to-india"
       },
       {
-        "title": "Glen Powell's A24 thriller gets bold new title",
-        "link": "https://www.geo.tv/latest/634516-glen-powells-a24-thriller-gets-bold-new-title"
+        "title": "New Russian AI robot greets Putin, weeks after rival model malfunctioned publicly",
+        "link": "https://www.geo.tv/latest/634525-new-russian-ai-robot-greets-putin-weeks-after-rival-model-malfunctioned-publicly"
       },
       {
-        "title": "Security forces gun down 23 India-backed terrorists in Kurram operations",
-        "link": "https://www.geo.tv/latest/634512-security-forces-gun-down-23-india-backed-terrorists-in-kurram-operations-ispr"
+        "title": "Prince Harry only offered to help Eugenie to get ‘a win' over William?",
+        "link": "https://www.geo.tv/latest/634518-prince-harrys-true-intentions-revealed-as-he-extends-offer-to-help-eugenie"
       },
       {
-        "title": "Trump says he will meet Zohran Mamdani at White House on Friday",
-        "link": "https://www.geo.tv/latest/634505-trump-says-he-will-meet-zohran-mamdani-at-white-house-on-friday"
+        "title": "Mauricio Umansky reveals ex-wife Kyle Richards' reaction to his sultry photo shoot",
+        "link": "https://www.geo.tv/latest/634513-mauricio-umansky-reveals-ex-wife-kyle-richards-reaction-to-his-sultry-photo-shoot"
       }
     ],
     "NDTV": [
       {
-        "title": "Gandhi Maidan: The Stage Of Nitish Kumar's Rebellion, And His Swearing-In",
+        "title": "\"Aaya Ji Nitishwa?\": A Gandhi Maidan Rally Made Nitish-Lalu Split Official",
         "link": "https://www.ndtv.com/india-news/nitish-kumar-swearing-in-lalu-yadav-gandhi-maidan-the-stage-of-nitish-kumars-rebellion-and-his-swearing-in-9667807#publisher=newsstand"
       },
       {
-        "title": "\"PM Modi Called...\": Trump's New Claim On Stopping India-Pak Conflict",
-        "link": "https://www.ndtv.com/who-said-what/donald-trump-pm-modi-india-pak-war-trumps-new-claim-on-stopping-india-pak-conflict-pm-modi-called-9667604#publisher=newsstand"
+        "title": "Nitish Kumar Swearing In Ceremony LIVE Updates: Nitish Kumar Takes Oath As Bihar Chief Minister",
+        "link": "https://www.ndtv.com/india-news/nitish-kumar-oath-taking-ceremony-live-updates-nitish-kumar-to-take-oath-as-bihar-chief-minister-today-9667574#publisher=newsstand"
       },
       {
-        "title": "Terror-Tainted Al Falah University's Links Emerge To Jaipur, Ahmedabad Bombings",
-        "link": "https://www.ndtv.com/india-news/terrorist-behind-jaipur-ahmedabad-gorakhpur-bombings-was-also-from-al-falah-university-delhi-red-fort-blast-9667758#publisher=newsstand"
+        "title": "No Timelines For President, Governors To Clear Bills: Supreme Court",
+        "link": "https://www.ndtv.com/india-news/timelines-cannot-be-fixed-for-governors-to-grant-assent-to-bills-says-supreme-court-9667850#publisher=newsstand"
       },
       {
-        "title": "Karnataka Funds Private Hospitals In Bengaluru To Treat Dog Bites",
-        "link": "https://www.ndtv.com/india-news/karnataka-funds-private-hospitals-in-bengaluru-to-treat-dog-bites-9667750#publisher=newsstand"
+        "title": "Russia Offers Full Su-57 Fighter Tech To India Before Putin's Visit",
+        "link": "https://www.ndtv.com/world-news/russia-offers-full-su-57-fighter-tech-to-india-before-putins-visit-9667851#publisher=newsstand"
       },
       {
-        "title": "Al-Falah University Chairman's Ancestral Property Gets Demolition Notice",
-        "link": "https://www.ndtv.com/india-news/al-falah-university-chairmans-ancestral-property-in-madhya-pradeshs-mhow-gets-demolition-notice-9667713#publisher=newsstand"
+        "title": "Leopard Enters Rajasthan Minister's House In Jaipur, Search Op Underway",
+        "link": "https://www.ndtv.com/india-news/leopard-enters-rajasthan-water-resources-minister-suresh-singh-rawats-house-in-jaipur-search-op-underway-9667847#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-20 05:50 UTC"
+  "last_updated": "2025-11-20 06:52 UTC"
 }
