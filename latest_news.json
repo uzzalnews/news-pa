@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel keeps bombing Gaza, kills two in occupied East Jerusalem",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/11/21/live-israel-keeps-bombing-gaza-kills-two-in-occupied-east-jerusalem?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Separatist leader Kanu sentenced to life in prison in Nigeria",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/21/separatist-leader-kanu-sentenced-to-life-in-prison-in-nigeria?traffic_source=rss"
+      },
+      {
+        "title": "Israel plans to seize major Roman-era historical site in occupied West Bank",
+        "link": "https://www.aljazeera.com/news/2025/11/21/israel-plans-to-seize-major-roman-era-historical-site-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Senior Democrat responds to Trump death penalty threat",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/21/senior-democrat-responds-to-trump-death-penalty-threat?traffic_source=rss"
+      },
+      {
         "title": "How Trump’s absence marks leadership opportunity for China at G20",
         "link": "https://www.aljazeera.com/news/2025/11/21/how-trumps-absence-marks-leadership-opportunity-for-china-at-g20?traffic_source=rss"
       },
       {
         "title": "White House unaware that US ambassador to Israel met with convicted spy",
         "link": "https://www.aljazeera.com/news/2025/11/21/white-house-unaware-that-us-ambassador-to-israel-met-with-convicted-spy?traffic_source=rss"
-      },
-      {
-        "title": "Cambodia night bus plunges off a bridge, killing 16 passengers",
-        "link": "https://www.aljazeera.com/news/2025/11/21/cambodia-night-bus-plunges-off-a-bridge-killing-16-passengers?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel keeps bombing Gaza, kills two in occupied East Jerusalem",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/21/live-israel-keeps-bombing-gaza-kills-two-in-occupied-east-jerusalem?traffic_source=rss"
-      },
-      {
-        "title": "Fugees rapper sentenced to 14 years in prison over illegal Obama donations",
-        "link": "https://www.aljazeera.com/news/2025/11/21/fugees-rapper-sentenced-to-14-years-in-prison-over-illegal-obama-donations?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/1956399/sc-turns-away-judges-petition-against-27th-amendment"
       },
       {
-        "title": "CCP issues notices to private schools over ‘forcing parents to buy costly supplies from exclusive vendors’",
-        "link": "https://www.dawn.com/news/1956465/ccp-issues-notices-to-private-schools-over-forcing-parents-to-buy-costly-supplies-from-exclusive-vendors"
+        "title": "CCP issues notices to private schools for ‘forcing parents to buy costly supplies from exclusive vendors’",
+        "link": "https://www.dawn.com/news/1956465/ccp-issues-notices-to-private-schools-for-forcing-parents-to-buy-costly-supplies-from-exclusive-vendors"
       }
     ],
     "APNews": [],
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Birmingham plans world's first stadium with both retractable roof, movable pitch",
+        "link": "https://www.geo.tv/latest/634705-birmingham-plans-worlds-first-stadium-with-both-retractable-roof-movable-pitch"
+      },
+      {
         "title": "Jennifer Love Hewitt drops rare pics to mark her 12th wedding anniversary",
         "link": "https://www.geo.tv/latest/634693-jennifer-love-hewitt-drops-rare-pics-to-mark-her-12th-wedding-anniversary"
       },
@@ -157,10 +155,6 @@
       {
         "title": "Kate Middleton breaks silence Meghan Markle ‘petty' effort to overshadow her",
         "link": "https://www.geo.tv/latest/634699-kate-middleton-reacts-to-meghan-markle-scheduling-her-show-to-outshine-her"
-      },
-      {
-        "title": "Fatima Bosch: Journey of resilience that defined Miss Universe 2025",
-        "link": "https://www.geo.tv/latest/634694-fatima-bosch-journey-of-resilience-that-defined-miss-universe-2025"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-21 07:33 UTC"
+  "last_updated": "2025-11-21 07:45 UTC"
 }
