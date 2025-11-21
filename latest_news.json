@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel keeps bombing Gaza, kills two in occupied East Jerusalem",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/21/live-israel-keeps-bombing-gaza-kills-two-in-occupied-east-jerusalem?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,7 +17,7 @@
         "link": "https://www.bbc.com/news/articles/cpq1q49r08go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "The curious case of why Poundland is struggling during a cost-of-living-crisis",
+        "title": "The curious case of why Poundland is struggling during a cost-of-living crisis",
         "link": "https://www.bbc.com/news/articles/c4gkgxeeyzno?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "White House unaware that US ambassador to Israel met with convicted spy",
+        "link": "https://www.aljazeera.com/news/2025/11/21/white-house-unaware-that-us-ambassador-to-israel-met-with-convicted-spy?traffic_source=rss"
+      },
+      {
+        "title": "Cambodia night bus plunges off a bridge, killing 16 passengers",
+        "link": "https://www.aljazeera.com/news/2025/11/21/cambodia-night-bus-plunges-off-a-bridge-killing-16-passengers?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Israel keeps bombing Gaza, kills two in occupied East Jerusalem",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/21/live-israel-keeps-bombing-gaza-kills-two-in-occupied-east-jerusalem?traffic_source=rss"
+      },
+      {
         "title": "Fugees rapper sentenced to 14 years in prison over illegal Obama donations",
         "link": "https://www.aljazeera.com/news/2025/11/21/fugees-rapper-sentenced-to-14-years-in-prison-over-illegal-obama-donations?traffic_source=rss"
       },
       {
         "title": "Frida Kahlo painting sells for $54.7m, breaking record for female artists",
         "link": "https://www.aljazeera.com/news/2025/11/21/frida-kahlo-painting-sells-for-54-7m-breaking-record-for-female-artists?traffic_source=rss"
-      },
-      {
-        "title": "More details of US plan for Ukraine emerge, sees territory ceded to Russia",
-        "link": "https://www.aljazeera.com/news/2025/11/21/more-details-of-us-plan-for-ukraine-emerge-sees-territory-ceded-to-russia?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon arrests alleged drug kingpin sanctioned by US State Department",
-        "link": "https://www.aljazeera.com/news/2025/11/21/lebanon-arrests-alleged-drug-kingpin-sanctioned-by-us-state-department?traffic_source=rss"
-      },
-      {
-        "title": "US judge orders end to Trump’s deployment of troops in Washington, DC",
-        "link": "https://www.aljazeera.com/news/2025/11/21/us-judge-orders-end-to-trumps-deployment-of-troops-in-washington-dc?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,12 @@
     ],
     "Dawn": [
       {
-        "title": "Boiler explosion at Faisalabad factory kills 10: Rescue 1122",
-        "link": "https://www.dawn.com/news/1956429/boiler-explosion-at-faisalabad-factory-kills-10-rescue-1122"
+        "title": "At least 15 killed, several injured in gas explosion at Faisalabad factory",
+        "link": "https://www.dawn.com/news/1956429/at-least-15-killed-several-injured-in-gas-explosion-at-faisalabad-factory"
+      },
+      {
+        "title": "Afridi pens letter to Maryam over manhandling of Imran’s sisters, denial of his visitation rights",
+        "link": "https://www.dawn.com/news/1956457/afridi-pens-letter-to-maryam-over-manhandling-of-imrans-sisters-denial-of-his-visitation-rights"
       },
       {
         "title": "Govt agrees on asset declaration reforms to combat corruption",
@@ -84,10 +94,6 @@
       {
         "title": "Apex court regrets abysmal state of prosecution",
         "link": "https://www.dawn.com/news/1956393/apex-court-regrets-abysmal-state-of-prosecution"
-      },
-      {
-        "title": "Jud­i­cial Commission of Pak­istan to pick superior court judges on Dec 2",
-        "link": "https://www.dawn.com/news/1956395/judicial-commission-of-pakistan-to-pick-superior-court-judges-on-dec-2"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-464"
+        "title": "Settlers attack Palestinians, set homes and cars ablaze in West Bank towns",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-attack-palestinians-set-homes-and-cars-ablaze-west-bank-towns"
       },
       {
-        "title": "Israeli cycling team gets makeover and new name after public backlash",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-cycling-team-rebranded-and-renamed-after-public-backlash"
+        "title": "Israeli forces raid West Bank towns, sparking clashes in several areas",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-west-bank-towns-sparking-clashes-several-areas"
       },
       {
-        "title": "Four Palestinians 'severely beaten' by Israeli soldiers and settlers",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-palestinians-severely-beaten-israeli-soldiers-and-settlers"
+        "title": "Gaza: Israeli forces demolish buildings, attack camps, launch raids in renewed violence",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-israeli-forces-demolish-buildings-attack-camps-launch-raids-renewed"
       },
       {
-        "title": "In Kashmir, a desperate father set himself on fire. India looked away",
-        "link": "https://www.middleeasteye.net/opinion/kashmir-father-set-himself-alight-india-looked-away"
+        "title": "Israeli tanks and warships pound Khan Younis as attacks intensify, buildings blown up",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-tanks-and-warships-pound-khan-younis-attacks-intensify-buildings"
       },
       {
-        "title": "West Bank: Israeli settlers set fire to Palestinian vehicle scrapyard",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-settlers-set-fire-palestinian-vehicle-scrapyard"
+        "title": "Israeli forces kill two Palestinians near Jerusalem",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-two-palestinians-near-jerusalem"
       }
     ],
     "GeoTV": [
       {
+        "title": "UK immigration rules overhaul: What new ‘earned settlement' model means",
+        "link": "https://www.geo.tv/latest/634701-uk-immigration-rules-overhaul-what-new-earned-settlement-model-means"
+      },
+      {
+        "title": "Kate Middleton breaks silence Meghan Markle ‘petty' effort to overshadow her",
+        "link": "https://www.geo.tv/latest/634699-kate-middleton-reacts-to-meghan-markle-scheduling-her-show-to-outshine-her"
+      },
+      {
+        "title": "Fatima Bosch: Journey of resilience that defined Miss Universe 2025",
+        "link": "https://www.geo.tv/latest/634694-fatima-bosch-journey-of-resilience-that-defined-miss-universe-2025"
+      },
+      {
+        "title": "Death toll from Indonesia's Central Java landslides rises to 30",
+        "link": "https://www.geo.tv/latest/634686-death-toll-from-indonesia-landslides-rises-to-30"
+      },
+      {
         "title": "After e-challans, robot cars to curb no-parking violations in Karachi",
         "link": "https://www.geo.tv/latest/634682-after-e-challans-robot-cars-to-curb-no-parking-violations-in-karachi"
-      },
-      {
-        "title": "Miss Jamaica sidelined from Miss Universe pageant day after on-stage accident",
-        "link": "https://www.geo.tv/latest/634684-miss-jamaica-sidelined-from-miss-universe-pageant-day-after-on-stage-accident"
-      },
-      {
-        "title": "Harry, Meghan receive shocking news as Kris Jenner considers taking huge step",
-        "link": "https://www.geo.tv/latest/634681-kris-jenner-feels-humiliated-after-harry-and-meghan-ask-for-birthday-photos-to-be-deleted"
-      },
-      {
-        "title": "The Weeknd achieves major music milestone",
-        "link": "https://www.geo.tv/latest/634679-the-weeknd-become-biggest-touring-male-artist-in-history"
-      },
-      {
-        "title": "Candace Cameron Bure addresses past clashes with JoJo Siwa and Jodie Sweetin",
-        "link": "https://www.geo.tv/latest/634674-candace-cameron-bure-addresses-past-clashes-with-jojo-siwa-and-jodie-sweetin"
       }
     ],
     "NDTV": [
       {
-        "title": "5.2-Magnitude Earthquake Hits Bangladesh, Tremors Felt In Kolkata",
-        "link": "https://www.ndtv.com/india-news/strong-earthquake-tremors-felt-in-kolkata-adjoining-areas-9674406#publisher=newsstand"
-      },
-      {
-        "title": "\"Most Intense Earthquake Of My Life\": Residents On Kolkata Tremors",
-        "link": "https://www.ndtv.com/india-news/earthquake-kolkata-today-latest-news-most-intense-earthquake-of-my-life-residents-on-kolkata-tremors-9674456#publisher=newsstand"
-      },
-      {
-        "title": "Girl Who Jumped To Death At Jaipur School Was Bullied For 18 Months: Report",
+        "title": "Jaipur Girl Begged Teacher For Help \"For 45 Minutes\" Before Suicide: Report",
         "link": "https://www.ndtv.com/india-news/jaipur-neerja-modi-school-suicide-class-4-student-probe-report-cbse-latest-news-rajasthan-9674428#publisher=newsstand"
       },
       {
-        "title": "Delhi Bomber Had Made Radical Videos, Took Online Sessions On Suicide Bombing: Sources",
-        "link": "https://www.ndtv.com/india-news/delhi-bomber-umar-mohammad-umar-un-nabi-had-made-radical-videos-took-online-sessions-on-suicide-bombing-sources-delhi-red-fort-blast-9674467#publisher=newsstand"
+        "title": "5.7-Magnitude Earthquake Hits Bangladesh, Tremors Felt In Kolkata",
+        "link": "https://www.ndtv.com/india-news/strong-earthquake-tremors-felt-in-kolkata-adjoining-areas-9674406#publisher=newsstand"
       },
       {
-        "title": "Inside 28-Point Trump Plan To End Russia-Ukraine War: Security Guarantees And More",
-        "link": "https://www.ndtv.com/world-news/russia-ukraine-peace-plan-all-about-28-point-us-plan-to-end-war-security-guarantees-and-more-9674386#publisher=newsstand"
+        "title": "\"Most Intense Earthquake Of My Life\": Kolkata Residents On Tremors",
+        "link": "https://www.ndtv.com/india-news/earthquake-kolkata-today-latest-news-most-intense-earthquake-of-my-life-residents-on-kolkata-tremors-9674456#publisher=newsstand"
+      },
+      {
+        "title": "\"Stand And Greet\": New SOP For Maharashtra Officials To Welcome Politicians",
+        "link": "https://www.ndtv.com/india-news/stand-and-greet-new-sop-for-maharashtra-officials-to-welcome-politicians-9674659#publisher=newsstand"
+      },
+      {
+        "title": "Over 200 Al Falah University Doctors, Staff Under Scanner After Delhi Blast",
+        "link": "https://www.ndtv.com/india-news/delhi-bomb-blast-al-falah-university-over-200-al-falah-university-doctors-staff-under-scanner-after-delhi-blast-9674611#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-21 05:51 UTC"
+  "last_updated": "2025-11-21 06:54 UTC"
 }
