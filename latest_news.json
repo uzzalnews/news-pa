@@ -3,27 +3,35 @@
   "news": {
     "BBC": [
       {
-        "title": "UK expected to approve plans for Chinese mega embassy",
-        "link": "https://www.bbc.com/news/articles/cgexdjp0qj8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Households face unexpected rise in energy prices in new year",
-        "link": "https://www.bbc.com/news/articles/c2lplg7d9ewo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Russia yet to receive anything official from US on peace plan, Kremlin says",
         "link": "https://www.bbc.com/news/articles/czrkg3gx6d6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK expected to approve plans for Chinese mega embassy",
+        "link": "https://www.bbc.com/news/articles/cgexdjp0qj8o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "The curious case of why Poundland is struggling during a cost-of-living crisis",
         "link": "https://www.bbc.com/news/articles/c4gkgxeeyzno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Anti-Hamas armed groups seek future role under Gaza peace plan",
-        "link": "https://www.bbc.com/news/articles/cvgmgjx1jego?at_medium=RSS&at_campaign=rss"
+        "title": "Households face unexpected rise in energy prices in new year",
+        "link": "https://www.bbc.com/news/articles/c2lplg7d9ewo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UN climate summit drops mention of fossil fuels from draft deal",
+        "link": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "In Tunisia, a church procession blends faith, nostalgia and migration",
+        "link": "https://www.aljazeera.com/features/2025/11/21/in-tunisia-a-church-procession-blends-faith-nostalgia-and-migration?traffic_source=rss"
+      },
+      {
+        "title": "Why has Trump blasted US Democrats for ‘seditious’ comments?",
+        "link": "https://www.aljazeera.com/news/2025/11/21/why-has-trump-blasted-democrats-for-seditious-comments?traffic_source=rss"
+      },
       {
         "title": "Africa does not need to borrow democracy; it needs to reclaim it",
         "link": "https://www.aljazeera.com/opinions/2025/11/21/africa-does-not-need-to-borrow-democracy-it-needs-to-reclaim-it?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "India’s Tejas fighter jet crashes at Dubai Airshow, pilot dies",
         "link": "https://www.aljazeera.com/news/2025/11/21/indias-home-built-fighter-jet-tejas-crashes-at-dubai-air-show-pilot-dies?traffic_source=rss"
-      },
-      {
-        "title": "What do we know about the 28-point US plan for Ukraine?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/21/what-do-we-know-about-the-28-point-us-plan-for-ukraine?traffic_source=rss"
-      },
-      {
-        "title": "Trump’s 28-point Ukraine plan in full: What it means, could it work?",
-        "link": "https://www.aljazeera.com/news/2025/11/21/trumps-28-point-ukraine-plan-in-full-what-it-means-could-it-work?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +74,20 @@
         "link": "https://www.dawn.com/news/1956499/indias-indigenous-tejas-fighter-aircraft-crashes-at-dubai-air-show"
       },
       {
+        "title": "Steps to hold IWT in abeyance ‘real threat’ to regional stability, Dar reiterates",
+        "link": "https://www.dawn.com/news/1956513/steps-to-hold-iwt-in-abeyance-real-threat-to-regional-stability-dar-reiterates"
+      },
+      {
+        "title": "Newly formed AJK cabinet assigned portfolios by PM Rathore",
+        "link": "https://www.dawn.com/news/1956516/newly-formed-ajk-cabinet-assigned-portfolios-by-pm-rathore"
+      },
+      {
         "title": "FO says ex-PM Hasina’s death sentence ‘internal matter’, Bangladesh ‘fully capable’ of addressing own issues",
         "link": "https://www.dawn.com/news/1956506/fo-says-ex-pm-hasinas-death-sentence-internal-matter-bangladesh-fully-capable-of-addressing-own-issues"
       },
       {
         "title": "Karachi residents face acute water shortage amid frequent KE power failures",
         "link": "https://www.dawn.com/news/1956514/karachi-residents-face-acute-water-shortage-amid-frequent-ke-power-failures"
-      },
-      {
-        "title": "At least 17 killed, several injured in gas explosion at Faisalabad factory",
-        "link": "https://www.dawn.com/news/1956429/at-least-17-killed-several-injured-in-gas-explosion-at-faisalabad-factory"
-      },
-      {
-        "title": "7 killed in attack on peace committee office in Bannu",
-        "link": "https://www.dawn.com/news/1956498/7-killed-in-attack-on-peace-committee-office-in-bannu"
       }
     ],
     "APNews": [],
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "US revokes visa of former South African minister who initiated genocide case against Israel",
+        "link": "https://www.middleeasteye.net/news/us-revokes-visa-south-africa-naledi-pandor-led-case-icj-israel-genocide"
+      },
+      {
+        "title": "Israeli forces kill two Palestinian teens as settler violence escalates across the West Bank",
+        "link": "https://www.middleeasteye.net/news/israeli-forces-kill-two-palestinian-teens-settler-violence-escalates-across-west-bank"
+      },
+      {
         "title": "'Up for grabs': Russia pushes Ukraine deal as Zelensky is at his weakest",
         "link": "https://www.middleeasteye.net/news/grabs-russia-pushes-ukraine-deal-zelensky-his-weakest"
       },
@@ -125,63 +133,55 @@
       {
         "title": "Four children wounded in Israeli drone attack in Gaza, Wafa reports",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-children-wounded-israeli-drone-attack-gaza-wafa-reports"
-      },
-      {
-        "title": "How UAE bases arming Sudan's RSF support US 'grey ops' in Somalia",
-        "link": "https://www.middleeasteye.net/news/emirati-bases-arming-sudan-rsf-support-us-grey-ops-somalia"
-      },
-      {
-        "title": "Opinion: Trump is turning Gaza into a brutal colonial protection racket",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-trump-turning-gaza-brutal-colonial-protection-racket"
       }
     ],
     "GeoTV": [
       {
-        "title": "Deborra-Lee Furness steps up to 'support' Nicole Kidman amid her divorce from Keith Urban",
-        "link": "https://www.geo.tv/latest/634755-deborra-lee-furness-holding-nicole-kidmans-hand-amid-her-divorce-from-keith-urban"
+        "title": "Jamadi ul Sani moon not sighted in Pakistan",
+        "link": "https://www.geo.tv/latest/634768-jamadi-ul-sani-moon-not-sighted-in-pakistan"
       },
       {
-        "title": "Meghan Markle's team called out for making her look like 'idiot'",
-        "link": "https://www.geo.tv/latest/634754-meghan-markles-teams-mistake-that-made-duchess-seem-like-idiot"
+        "title": "Prince William officially opens Rob Burrow Centre for MND",
+        "link": "https://www.geo.tv/latest/634758-prince-william-officially-opens-rob-burrow-centre-for-mnd"
       },
       {
-        "title": "Safety lapses, weak oversight: How children die from Indian cough syrup",
-        "link": "https://www.geo.tv/latest/634753-safety-lapses-weak-oversight-how-children-die-from-indian-cough-syrup"
+        "title": "King Charles, Prince William's major support to Eugenie, Beatrice comes to light",
+        "link": "https://www.geo.tv/latest/634739-king-charles-prince-williams-major-support-to-eugenie-beatrice-comes-to-light"
       },
       {
-        "title": "Adele preparing to have a baby?",
-        "link": "https://www.geo.tv/latest/634752-adele-slows-down-her-life-to-have-a-baby"
+        "title": "Hugh Jackman gets honest about playing Wolverine again",
+        "link": "https://www.geo.tv/latest/634761-hugh-jackman-reveals-if-he-will-play-wolverine-again"
       },
       {
-        "title": "Make your wedding season truly memorable with smart choices!",
-        "link": "https://www.geo.tv/latest/634751-make-your-wedding-season-truly-memorable-with-smart-choices"
+        "title": "Afghanistan seeks new trade routes as Pakistan ties sour",
+        "link": "https://www.geo.tv/latest/634756-afghanistan-seeks-new-trade-routes-as-pakistan-ties-sour"
       }
     ],
     "NDTV": [
-      {
-        "title": "3 Methods White Collar Terror Module Architect Used To Find Candidates",
-        "link": "https://www.ndtv.com/india-news/3-methods-white-collar-terror-module-architect-maulvi-irfan-ahmed-used-to-find-candidates-9677341#publisher=newsstand"
-      },
-      {
-        "title": "Emergency Room Of Private Hospital Turns Into Wedding Venue In Kerala",
-        "link": "https://www.ndtv.com/india-news/emergency-room-of-private-hospital-turns-into-wedding-venue-in-kerala-9677338#publisher=newsstand"
-      },
-      {
-        "title": "Madvi Hidma's Killing Has Broken Maoists' Backbone: Chhattisgarh Chief Minister",
-        "link": "https://www.ndtv.com/india-news/madvi-hidma-killing-has-broken-maoists-backbone-chhattisgarh-chief-minister-vishnu-deo-sai-bastar-ndtv-conclave-9677249#publisher=newsstand"
-      },
       {
         "title": "Explained: Negative G Manoeuvre That Tejas Pilot Performed Before Crash",
         "link": "https://www.ndtv.com/india-news/lca-tejas-crashes-in-dubai-whats-negative-g-manoeuvre-9677032#publisher=newsstand"
       },
       {
-        "title": "When Chhattisgarh Leader Was 'Welcomed' With Maoist Firing For An Hour",
-        "link": "https://www.ndtv.com/india-news/ndtv-chhattisgarh-conclave-raman-singh-maoist-firing-chhuriya-rajnandgaon-9677144#publisher=newsstand"
+        "title": "PM Modi Arrives In Johannesburg To Attend G20 Summit",
+        "link": "https://www.ndtv.com/india-news/pm-modi-arrives-in-johannesburg-to-attend-g20-summit-9677942#publisher=newsstand"
+      },
+      {
+        "title": "Gautam Adani Calls For India's Civilisational Strength To Guide Its Future Amid AI Shift",
+        "link": "https://www.ndtv.com/india-news/gautam-adani-calls-for-indias-civilisational-strength-to-guide-its-future-amid-ai-shift-9677597#publisher=newsstand"
+      },
+      {
+        "title": "Families Protest Outside Delhi School After Student's Suicide, Demand Strict Action",
+        "link": "https://www.ndtv.com/india-news/families-protest-outside-delhi-school-after-students-suicide-demand-arrest-of-those-responsible-9675739#publisher=newsstand"
+      },
+      {
+        "title": "Pak Ex-Cricketer Danish Kaneria Praises Gautam Adani's Commitment To Preserving Culture, Knowledge",
+        "link": "https://www.ndtv.com/india-news/pak-ex-cricketer-danish-kaneria-praises-gautam-adani-for-rs100-crore-commitment-to-preserving-cultural-heritage-9677392#publisher=newsstand"
       }
     ],
     "TheGuardian": [
       {
-        "title": "Run-up to G20 in South Africa marred by host’s simmering row with US",
+        "title": "South Africa’s dispute with US escalates amid row over G20 handover event",
         "link": "https://www.theguardian.com/world/2025/nov/21/run-up-to-g20-in-south-africa-marred-by-hosts-simmering-row-with-us"
       },
       {
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-21 13:50 UTC"
+  "last_updated": "2025-11-21 14:39 UTC"
 }
