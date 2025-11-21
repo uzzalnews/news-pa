@@ -3,8 +3,8 @@
   "news": {
     "BBC": [
       {
-        "title": "Russia yet to receive anything official from US on peace plan, Kremlin says",
-        "link": "https://www.bbc.com/news/articles/czrkg3gx6d6o?at_medium=RSS&at_campaign=rss"
+        "title": "What we know about leaked US draft plan to end Russia's Ukraine war",
+        "link": "https://www.bbc.com/news/articles/cde6yld78d6o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "UK expected to approve plans for Chinese mega embassy",
@@ -15,15 +15,19 @@
         "link": "https://www.bbc.com/news/articles/c4gkgxeeyzno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Households face unexpected rise in energy prices in new year",
-        "link": "https://www.bbc.com/news/articles/c2lplg7d9ewo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "UN climate summit drops mention of fossil fuels from draft deal",
         "link": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man jailed for murdering ex-wife at son's grave",
+        "link": "https://www.bbc.com/news/articles/cn515gw5pdzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Despite Gaza ceasefire, ‘we haven’t seen the worst’: B’Tselem chief",
+        "link": "https://www.aljazeera.com/news/2025/11/21/despite-gaza-ceasefire-we-havent-seen-the-worst-btselem-chief?traffic_source=rss"
+      },
       {
         "title": "Zelenskyy says Trump’s Ukraine plan must ensure ‘real and dignified peace’",
         "link": "https://www.aljazeera.com/news/2025/11/21/zelenskyy-says-trumps-ukraine-plan-must-ensure-real-and-dignified-peace?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Africa does not need to borrow democracy; it needs to reclaim it",
         "link": "https://www.aljazeera.com/opinions/2025/11/21/africa-does-not-need-to-borrow-democracy-it-needs-to-reclaim-it?traffic_source=rss"
-      },
-      {
-        "title": "Bangladesh 5.5-magnitude earthquake – what we know so far",
-        "link": "https://www.aljazeera.com/news/2025/11/21/bangladesh-5-5-magnitude-earthquake-what-we-know-so-far?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,42 +78,50 @@
         "link": "https://www.dawn.com/news/1956513/steps-to-hold-iwt-in-abeyance-real-threat-to-regional-stability-dar-reiterates"
       },
       {
+        "title": "Police detain protesters heading to Karachi Press Club for TTAP’s protest against 27th Amendment",
+        "link": "https://www.dawn.com/news/1956517/police-detain-protesters-heading-to-karachi-press-club-for-ttaps-protest-against-27th-amendment"
+      },
+      {
         "title": "Newly formed AJK cabinet assigned portfolios by PM Rathore",
         "link": "https://www.dawn.com/news/1956516/newly-formed-ajk-cabinet-assigned-portfolios-by-pm-rathore"
       },
       {
-        "title": "FO says ex-PM Hasina’s death sentence ‘internal matter’, Bangladesh ‘fully capable’ of addressing own issues",
-        "link": "https://www.dawn.com/news/1956506/fo-says-ex-pm-hasinas-death-sentence-internal-matter-bangladesh-fully-capable-of-addressing-own-issues"
-      },
-      {
-        "title": "Karachi residents face acute water shortage amid frequent KE power failures",
-        "link": "https://www.dawn.com/news/1956514/karachi-residents-face-acute-water-shortage-amid-frequent-ke-power-failures"
+        "title": "PIA cabin crew member reportedly goes missing in Canada, airline initiates inquiry",
+        "link": "https://www.dawn.com/news/1956518/pia-cabin-crew-member-reportedly-goes-missing-in-canada-airline-initiates-inquiry"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "The A.I. Boom Has Found Another Gear. Why Can’t People Shake Their Worries?",
-        "link": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html"
-      },
-      {
-        "title": "Anxiety Over A.I. Spending Returns to Global Markets",
-        "link": "https://www.nytimes.com/2025/11/20/business/stocks-ai-global.html"
-      },
-      {
-        "title": "The Fed, Crypto and A.I. Weigh on the Markets",
-        "link": "https://www.nytimes.com/2025/11/21/business/dealbook/stocks-crypto-fed-market-turmoil.html"
+        "title": "European Leaders Back Zelensky After Trump’s Russia-Ukraine Peace Plan Excludes Them",
+        "link": "https://www.nytimes.com/2025/11/21/world/europe/ukraine-russia-trump-peace-plan.html"
       },
       {
         "title": "Mamdani at the White House, and the Coast Guard’s New Policy on Swastikas and Nooses",
         "link": "https://www.nytimes.com/2025/11/21/podcasts/the-headlines/mamdani-white-house-coast-guard.html"
       },
       {
-        "title": "Congressional Republicans Begin to Look Beyond Trump",
-        "link": "https://www.nytimes.com/2025/11/20/us/politics/congressional-republicans-trump-midterms.html"
+        "title": "Anxiety Over A.I. Spending Looms Over Markets",
+        "link": "https://www.nytimes.com/2025/11/20/business/stocks-ai-global.html"
+      },
+      {
+        "title": "The A.I. Boom Has Found Another Gear. Why Can’t People Shake Their Worries?",
+        "link": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html"
+      },
+      {
+        "title": "The Fed, Crypto and A.I. Weigh on the Markets",
+        "link": "https://www.nytimes.com/2025/11/21/business/dealbook/stocks-crypto-fed-market-turmoil.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "UK regulator issues warning to charity accused of fundraising for Israeli army",
+        "link": "https://www.middleeasteye.net/news/uk-charity-regulator-issues-warning-british-charity-accused-fundraising-israeli-army"
+      },
+      {
+        "title": "Israel claims strike again refugee camp in Lebanon killed 13 Hamas members",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-claims-strike-again-refugee-camp-lebanon-killed-13-hamas-members"
+      },
       {
         "title": "Why Michael Prescott's BBC memo was misguided on Israel-Palestine",
         "link": "https://www.middleeasteye.net/opinion/why-michael-prescotts-bbc-memo-was-misguided-israel-palestine"
@@ -125,36 +133,28 @@
       {
         "title": "US revokes visa of former South African minister who initiated genocide case against Israel",
         "link": "https://www.middleeasteye.net/news/us-revokes-visa-south-africa-naledi-pandor-led-case-icj-israel-genocide"
-      },
-      {
-        "title": "Israeli forces kill two Palestinian teens as settler violence escalates across the West Bank",
-        "link": "https://www.middleeasteye.net/news/israeli-forces-kill-two-palestinian-teens-settler-violence-escalates-across-west-bank"
-      },
-      {
-        "title": "'Up for grabs': Russia pushes Ukraine deal as Zelensky is at his weakest",
-        "link": "https://www.middleeasteye.net/news/grabs-russia-pushes-ukraine-deal-zelensky-his-weakest"
       }
     ],
     "GeoTV": [
       {
+        "title": "Jason Kelce unveils the 'badass' Thanksgiving dish his wife Kylie perfected",
+        "link": "https://www.geo.tv/latest/634772-jason-kelce-unveils-the-badass-thanksgiving-dish-his-wife-kylie-perfected"
+      },
+      {
+        "title": "Clarification issued after people gather outside Buckingham Palace",
+        "link": "https://www.geo.tv/latest/634760-fake-pictures-leads-people-to-gather-outside-buckingham-palace"
+      },
+      {
+        "title": "Internet users flag India's fighter jet ‘oil leak' after Tejas fatal crash at Dubai Airshow",
+        "link": "https://www.geo.tv/latest/634759-internet-users-flag-indias-fighter-jet-oil-leak-after-tejas-fatal-crash-at-dubai-airshow"
+      },
+      {
+        "title": "Prince William and Kate Middleton caught in rare PDA moment in London",
+        "link": "https://www.geo.tv/latest/634769-prince-william-and-kate-middleton-caught-in-rare-pda-moment-in-london"
+      },
+      {
         "title": "Jamadi ul Sani moon not sighted in Pakistan",
         "link": "https://www.geo.tv/latest/634768-jamadi-ul-sani-moon-not-sighted-in-pakistan"
-      },
-      {
-        "title": "Prince William officially opens Rob Burrow Centre for MND",
-        "link": "https://www.geo.tv/latest/634758-prince-william-officially-opens-rob-burrow-centre-for-mnd"
-      },
-      {
-        "title": "King Charles, Prince William's major support to Eugenie, Beatrice comes to light",
-        "link": "https://www.geo.tv/latest/634739-king-charles-prince-williams-major-support-to-eugenie-beatrice-comes-to-light"
-      },
-      {
-        "title": "Hugh Jackman gets honest about playing Wolverine again",
-        "link": "https://www.geo.tv/latest/634761-hugh-jackman-reveals-if-he-will-play-wolverine-again"
-      },
-      {
-        "title": "Afghanistan seeks new trade routes as Pakistan ties sour",
-        "link": "https://www.geo.tv/latest/634756-afghanistan-seeks-new-trade-routes-as-pakistan-ties-sour"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-21 14:51 UTC"
+  "last_updated": "2025-11-21 15:30 UTC"
 }
