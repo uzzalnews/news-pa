@@ -3,12 +3,16 @@
   "news": {
     "BBC": [
       {
+        "title": "UK expected to approve plans for Chinese mega embassy",
+        "link": "https://www.bbc.com/news/articles/cgexdjp0qj8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Households face unexpected rise in energy prices in new year",
         "link": "https://www.bbc.com/news/articles/c2lplg7d9ewo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump's growing impatience to end Ukraine war is a concern for Kyiv",
-        "link": "https://www.bbc.com/news/articles/ce3w1zeerywo?at_medium=RSS&at_campaign=rss"
+        "title": "Russia yet to receive anything official from US on peace plan, Kremlin says",
+        "link": "https://www.bbc.com/news/articles/czrkg3gx6d6o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "The curious case of why Poundland is struggling during a cost-of-living crisis",
@@ -17,32 +21,28 @@
       {
         "title": "Anti-Hamas armed groups seek future role under Gaza peace plan",
         "link": "https://www.bbc.com/news/articles/cvgmgjx1jego?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "UK expected to approve plans for Chinese mega embassy",
-        "link": "https://www.bbc.com/news/articles/cgexdjp0qj8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Frida Kahlo painting sells for record $54.7m",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/21/frida-kahlo-painting-sells-for-record-54-7m?traffic_source=rss"
+        "title": "Africa does not need to borrow democracy; it needs to reclaim it",
+        "link": "https://www.aljazeera.com/opinions/2025/11/21/africa-does-not-need-to-borrow-democracy-it-needs-to-reclaim-it?traffic_source=rss"
       },
       {
-        "title": "NYC mayor’s father says son aware of “enormity of this task”",
-        "link": "https://www.aljazeera.com/video/quotable/2025/11/21/nyc-mayors-father-says-son-aware-of-enormity-of-this?traffic_source=rss"
+        "title": "Bangladesh 5.5-magnitude earthquake – what we know so far",
+        "link": "https://www.aljazeera.com/news/2025/11/21/bangladesh-5-5-magnitude-earthquake-what-we-know-so-far?traffic_source=rss"
       },
       {
-        "title": "Students taken from Catholic school in central Nigeria in latest abduction",
-        "link": "https://www.aljazeera.com/news/2025/11/21/students-taken-from-catholic-school-in-central-nigeria-in-latest-abduction?traffic_source=rss"
+        "title": "India’s Tejas fighter jet crashes at Dubai Airshow, pilot dies",
+        "link": "https://www.aljazeera.com/news/2025/11/21/indias-home-built-fighter-jet-tejas-crashes-at-dubai-air-show-pilot-dies?traffic_source=rss"
       },
       {
-        "title": "Mamdani’s democratic socialism is not communism; it’s about affordability",
-        "link": "https://www.aljazeera.com/opinions/2025/11/21/mamdanis-democratic-socialism-is-a-promise-of-true-freedom-for-all?traffic_source=rss"
+        "title": "What do we know about the 28-point US plan for Ukraine?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/21/what-do-we-know-about-the-28-point-us-plan-for-ukraine?traffic_source=rss"
       },
       {
-        "title": "Explosion at glue factory in eastern Pakistan kills at least 16",
-        "link": "https://www.aljazeera.com/news/2025/11/21/explosion-at-glue-factory-in-eastern-pakistan-kills-at-least-16?traffic_source=rss"
+        "title": "Trump’s 28-point Ukraine plan in full: What it means, could it work?",
+        "link": "https://www.aljazeera.com/news/2025/11/21/trumps-28-point-ukraine-plan-in-full-what-it-means-could-it-work?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +74,20 @@
         "link": "https://www.dawn.com/news/1956499/indias-indigenous-tejas-fighter-aircraft-crashes-at-dubai-air-show"
       },
       {
-        "title": "At least 15 killed, several injured in gas explosion at Faisalabad factory",
-        "link": "https://www.dawn.com/news/1956429/at-least-15-killed-several-injured-in-gas-explosion-at-faisalabad-factory"
+        "title": "FO says ex-PM Hasina’s death sentence ‘internal matter’, Bangladesh ‘fully capable’ of addressing own issues",
+        "link": "https://www.dawn.com/news/1956506/fo-says-ex-pm-hasinas-death-sentence-internal-matter-bangladesh-fully-capable-of-addressing-own-issues"
+      },
+      {
+        "title": "Karachi residents face acute water shortage amid frequent KE power failures",
+        "link": "https://www.dawn.com/news/1956514/karachi-residents-face-acute-water-shortage-amid-frequent-ke-power-failures"
+      },
+      {
+        "title": "At least 17 killed, several injured in gas explosion at Faisalabad factory",
+        "link": "https://www.dawn.com/news/1956429/at-least-17-killed-several-injured-in-gas-explosion-at-faisalabad-factory"
       },
       {
         "title": "7 killed in attack on peace committee office in Bannu",
         "link": "https://www.dawn.com/news/1956498/7-killed-in-attack-on-peace-committee-office-in-bannu"
-      },
-      {
-        "title": "FCC chief justice hopes court will stand as ‘guardian of constitutionalism, enduring symbol of justice’",
-        "link": "https://www.dawn.com/news/1956462/fcc-chief-justice-hopes-court-will-stand-as-guardian-of-constitutionalism-enduring-symbol-of-justice"
-      },
-      {
-        "title": "Afridi pens letter to Maryam over manhandling of Imran’s sisters, denial of his visitation rights",
-        "link": "https://www.dawn.com/news/1956457/afridi-pens-letter-to-maryam-over-manhandling-of-imrans-sisters-denial-of-his-visitation-rights"
       }
     ],
     "APNews": [],
@@ -101,85 +101,93 @@
         "link": "https://www.nytimes.com/2025/11/20/business/stocks-ai-global.html"
       },
       {
+        "title": "The Fed, Crypto and A.I. Weigh on the Markets",
+        "link": "https://www.nytimes.com/2025/11/21/business/dealbook/stocks-crypto-fed-market-turmoil.html"
+      },
+      {
         "title": "Mamdani at the White House, and the Coast Guard’s New Policy on Swastikas and Nooses",
         "link": "https://www.nytimes.com/2025/11/21/podcasts/the-headlines/mamdani-white-house-coast-guard.html"
       },
       {
         "title": "Congressional Republicans Begin to Look Beyond Trump",
         "link": "https://www.nytimes.com/2025/11/20/us/politics/congressional-republicans-trump-midterms.html"
-      },
-      {
-        "title": "Trump and Mamdani Are Meeting for the First Time. Will They Play Nice?",
-        "link": "https://www.nytimes.com/2025/11/20/nyregion/mamdani-trump-meeting.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran's president says capital must move from Tehran over ecological concerns",
-        "link": "https://www.middleeasteye.net/news/iran-president-says-capital-must-move-tehran-over-ecological-concerns"
+        "title": "'Up for grabs': Russia pushes Ukraine deal as Zelensky is at his weakest",
+        "link": "https://www.middleeasteye.net/news/grabs-russia-pushes-ukraine-deal-zelensky-his-weakest"
       },
       {
-        "title": "Israeli forces fire at worshippers during Friday prayers near Ramallah",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-fire-worshippers-during-friday-prayers-near-ramallah"
+        "title": "Darfur Governor Minni Minnawi says RSF killed 27,000 Sudanese in el-Fasher",
+        "link": "https://www.middleeasteye.net/news/darfur-governor-minni-minnawi-says-rsf-killed-27000-sudanese-el-fasher"
       },
       {
-        "title": "UN agency says two children killed per day in Gaza despite ceasefire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-agency-says-two-children-killed-day-gaza-despite-ceasefire"
+        "title": "Four children wounded in Israeli drone attack in Gaza, Wafa reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-children-wounded-israeli-drone-attack-gaza-wafa-reports"
       },
       {
-        "title": "Violent settlers burn more properties as attacks across West Bank intensify",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/violent-settlers-burn-more-properties-attacks-across-west-bank-intensify"
+        "title": "How UAE bases arming Sudan's RSF support US 'grey ops' in Somalia",
+        "link": "https://www.middleeasteye.net/news/emirati-bases-arming-sudan-rsf-support-us-grey-ops-somalia"
       },
       {
-        "title": "Unrwa says it faces severe equipment shortage due to earlier Israeli attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/unrwa-says-it-faces-severe-equipment-shortage-due-earlier-israeli"
+        "title": "Opinion: Trump is turning Gaza into a brutal colonial protection racket",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-trump-turning-gaza-brutal-colonial-protection-racket"
       }
     ],
     "GeoTV": [
       {
-        "title": "India's Tejas fighter jet: specs and key details",
-        "link": "https://www.geo.tv/latest/634736-indias-tejas-fighter-jet-specs-features-and-key-details"
+        "title": "Adele preparing to have a baby?",
+        "link": "https://www.geo.tv/latest/634752-adele-slows-down-her-life-to-have-a-baby"
       },
       {
-        "title": "Andrew makes big sacrifice for daughters Princess Eugenie, Beatrice",
-        "link": "https://www.geo.tv/latest/634735-andrew-made-big-sacrifice-for-daughters-princess-eugenie-beatrice"
+        "title": "Make your wedding season truly memorable with smart choices!",
+        "link": "https://www.geo.tv/latest/634751-make-your-wedding-season-truly-memorable-with-smart-choices"
       },
       {
-        "title": "‘Homesick' Prince Harry desperately awaits Christmas invite from King Charles",
-        "link": "https://www.geo.tv/latest/634718-prince-harry-has-his-hopes-highs-for-christmas-invitation-from-king-charles"
+        "title": "'Heartbroken' Princess Eugenie, Beatrice prepared to make big sacrifice",
+        "link": "https://www.geo.tv/latest/634740-heartbroken-princess-eugenie-beatrice-prepared-to-make-big-sacrifice"
       },
       {
-        "title": "Cynthia Erivo reacts to ‘Wicked: For Good' release",
-        "link": "https://www.geo.tv/latest/634732-cynthia-erivo-feels-really-proud-over-wivked-for-good"
+        "title": "CM Afridi challenges ECP summons on code breach in PHC",
+        "link": "https://www.geo.tv/latest/634750-cm-afridi-challenges-ecp-summons-on-code-breach-in-phc"
       },
       {
-        "title": "Ariana Grande falls sick post Singapore attack amid ‘Wicked 2' premieres",
-        "link": "https://www.geo.tv/latest/634727-ariana-grande-catches-covid-amid-wicked-for-good-premieres"
+        "title": "Govt approves army, civil armed forces deployment for Nov 23 by-polls",
+        "link": "https://www.geo.tv/latest/634747-govt-approves-army-civil-armed-forces-deployment-for-nov-23-by-polls"
       }
     ],
     "NDTV": [
       {
-        "title": "\"10 More Days, Would've Changed His School\": Father On Delhi Boy's Suicide",
-        "link": "https://www.ndtv.com/india-news/delhi-student-suicide-st-columbas-school-shourya-patil-teachers-rajendra-place-metro-station-latest-news-9676080#publisher=newsstand"
+        "title": "3 Methods White Collar Terror Module Architect Used To Find Candidates",
+        "link": "https://www.ndtv.com/india-news/3-methods-white-collar-terror-module-architect-maulvi-irfan-ahmed-used-to-find-candidates-9677341#publisher=newsstand"
       },
       {
-        "title": "On Camera, Last Moments Of Tejas That Crashed In Dubai",
-        "link": "https://www.ndtv.com/india-news/on-camera-last-moments-of-tejas-that-crashed-in-dubai-9676398#publisher=newsstand"
+        "title": "Emergency Room Of Private Hospital Turns Into Wedding Venue In Kerala",
+        "link": "https://www.ndtv.com/india-news/emergency-room-of-private-hospital-turns-into-wedding-venue-in-kerala-9677338#publisher=newsstand"
       },
       {
-        "title": "Delhi To Tokyo: ISS Shares Stunning Night Images Of World's Brightest Cities",
-        "link": "https://www.ndtv.com/india-news/delhi-to-tokyo-international-space-station-shares-stunning-night-images-of-worlds-brightest-cities-9675740#publisher=newsstand"
+        "title": "Madvi Hidma's Killing Has Broken Maoists' Backbone: Chhattisgarh Chief Minister",
+        "link": "https://www.ndtv.com/india-news/madvi-hidma-killing-has-broken-maoists-backbone-chhattisgarh-chief-minister-vishnu-deo-sai-bastar-ndtv-conclave-9677249#publisher=newsstand"
       },
       {
-        "title": "Indian-Origin Students Help UAE Win Gold At 'Olympics Of Robotics'",
-        "link": "https://www.ndtv.com/world-news/indian-origin-students-help-uae-secure-first-gold-at-2025-robotics-quot-olympics-quot-in-36-years-9675859#publisher=newsstand"
+        "title": "Explained: Negative G Manoeuvre That Tejas Pilot Performed Before Crash",
+        "link": "https://www.ndtv.com/india-news/lca-tejas-crashes-in-dubai-whats-negative-g-manoeuvre-9677032#publisher=newsstand"
       },
       {
-        "title": "\"May It Prosper\": Uday Kotak Shares Emotional Note On 40 Years Of Kotak Mahindra Bank",
-        "link": "https://www.ndtv.com/india-news/may-it-prosper-uday-kotak-shares-emotional-note-on-40-years-of-kotak-mahindra-bank-9675276#publisher=newsstand"
+        "title": "When Chhattisgarh Leader Was 'Welcomed' With Maoist Firing For An Hour",
+        "link": "https://www.ndtv.com/india-news/ndtv-chhattisgarh-conclave-raman-singh-maoist-firing-chhuriya-rajnandgaon-9677144#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Run-up to G20 in South Africa marred by host’s simmering row with US",
+        "link": "https://www.theguardian.com/world/2025/nov/21/run-up-to-g20-in-south-africa-marred-by-hosts-simmering-row-with-us"
+      },
+      {
+        "title": "Nigeria reels after second mass school abduction in a week",
+        "link": "https://www.theguardian.com/world/2025/nov/21/nigeria-reels-after-second-mass-school-abduction-in-a-week"
+      },
       {
         "title": "Keir Starmer defends trip to South Africa for G20 summit as budget looms",
         "link": "https://www.theguardian.com/politics/2025/nov/20/keir-starmer-defends-south-africa-g20-budget"
@@ -191,16 +199,8 @@
       {
         "title": "Biafran separatist leader sentenced to life on terrorism charges by Nigerian court",
         "link": "https://www.theguardian.com/world/2025/nov/20/nigerian-court-convicts-biafran-separatist-leader-on-terrorism-charges-nnamdi-kanu"
-      },
-      {
-        "title": "New drug could be a breakthrough in treatment for killer TB, trial suggests",
-        "link": "https://www.theguardian.com/global-development/2025/nov/19/new-drug-could-be-breakthrough-killer-tb-tuberculosis-sorfequiline"
-      },
-      {
-        "title": "The rainforest the world forgot: the Congo basin is the second largest on Earth, so why is it being neglected?",
-        "link": "https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe"
       }
     ]
   },
-  "last_updated": "2025-11-21 11:52 UTC"
+  "last_updated": "2025-11-21 13:34 UTC"
 }
