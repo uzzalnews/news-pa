@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Barcelona vs Athletic Bilbao – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/11/22/live-barcelona-vs-athletic-bilbao-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Russia claims more land in Ukraine as US pushes its plan; EU, UK regroup",
+        "link": "https://www.aljazeera.com/news/2025/11/22/russia-claims-more-land-in-ukraine-as-us-pushes-its-plan-eu-uk-regroup?traffic_source=rss"
+      },
+      {
         "title": "‘I don’t mind’: Trump unfazed with Mamdani calling him a ‘fascist’",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/22/i-dont-mind-trump-unfazed-with-mamdani-calling-him-a?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Brazil’s Bolsonaro arrested as flight risk days before start of prison term",
         "link": "https://www.aljazeera.com/news/2025/11/22/brazils-bolsonaro-arrested-days-before-start-of-27-year-prison-sentence?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Barcelona vs Athletic Bilbao – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/11/22/live-barcelona-vs-athletic-bilbao-la-liga?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,16 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "Judges’ transfer case: 5 IHC judges file plea challenging fixing of intra-court appeal before FCC",
-        "link": "https://www.dawn.com/news/1956703/judges-transfer-case-5-ihc-judges-file-plea-challenging-fixing-of-intra-court-appeal-before-fcc"
-      },
-      {
         "title": "PTI’s Hammad Azhar claims Form 45s ‘missing’ ahead of tomorrow’s Lahore’s NA-129 by-poll",
         "link": "https://www.dawn.com/news/1956701/ptis-hammad-azhar-claims-form-45s-missing-ahead-of-tomorrows-lahores-na-129-by-poll"
-      },
-      {
-        "title": "Security forces kill 8 terrorists in Bannu IBO: ISPR",
-        "link": "https://www.dawn.com/news/1956707/security-forces-kill-8-terrorists-in-bannu-ibo-ispr"
       },
       {
         "title": "New internet cable lands in Pakistan, to boost connectivity",
@@ -94,6 +80,14 @@
       {
         "title": "PTI’s Jhagra assails govt; says judicial distrust creating hurdles in foreign investment",
         "link": "https://www.dawn.com/news/1956712/ptis-jhagra-assails-govt-says-judicial-distrust-creating-hurdles-in-foreign-investment"
+      },
+      {
+        "title": "Lawyers protest against 27th Amendment at SHC",
+        "link": "https://www.dawn.com/news/1956711/lawyers-protest-against-27th-amendment-at-shc"
+      },
+      {
+        "title": "PCB’s public spat ends after Rashid Latif ‘unconditionally’ withdraws comments against board",
+        "link": "https://www.dawn.com/news/1956714/pcbs-public-spat-ends-after-rashid-latif-unconditionally-withdraws-comments-against-board"
       }
     ],
     "APNews": [],
@@ -115,11 +109,15 @@
         "link": "https://www.nytimes.com/2025/11/21/us/politics/trump-mamdani-scene.html"
       },
       {
-        "title": "The Trump-Mamdani Buddy Movie? Everyone Has an Opinion.",
+        "title": "The Surprise Ending to the Trump-Mamdani Buddy Movie Has Heads Spinning",
         "link": "https://www.nytimes.com/2025/11/21/nyregion/mamdani-trump-reaction-meeting.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israel demolishes residential buildings in Gaza City, as death toll rises to 22",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-demolishes-residential-buildings-gaza-city-death-toll-rises-22"
+      },
       {
         "title": "Over 18 killed across Gaza on Saturday, including children",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-18-killed-across-gaza-saturday-including-children"
@@ -135,13 +133,17 @@
       {
         "title": "Settlers assault Palestinian farmers in south Hebron",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-assault-palestinian-farmers-south-hebron"
-      },
-      {
-        "title": "Latest Israeli attack in Lebanon targets vehicle",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/latest-israeli-attack-lebanon-targets-vehicle"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Brazil court takes ex-president Bolsonaro into custody over flight risk",
+        "link": "https://www.geo.tv/latest/634917-brazil-court-sends-ex-president-bolsonaro-to-prison-over-flight-risk"
+      },
+      {
+        "title": "T.J. Holmes, Amy Robach's plan to win back Hollywood exposed",
+        "link": "https://www.geo.tv/latest/634920-tj-holmes-amy-robach-slammed-for-plotting-engagement-to-revive-careers"
+      },
       {
         "title": "CM Afridi assures Centre of his support, pledges to attend all federal meetings",
         "link": "https://www.geo.tv/latest/634913-cm-afridi-assures-centre-of-his-support-pledges-to-attend-all-federal-meetings"
@@ -153,14 +155,6 @@
       {
         "title": "Kelsea Ballerini thought THIS of Chase Stokes right before breaking up",
         "link": "https://www.geo.tv/latest/634919-kelsea-ballerinis-real-thougts-about-chase-stokes-relationship-revealed"
-      },
-      {
-        "title": "Diana Keaton's last moments come to light in heart-stopping reveal",
-        "link": "https://www.geo.tv/latest/634916-diana-keatons-heartbreaking-final-moments-brought-into-the-light"
-      },
-      {
-        "title": "Opposition alliance demands probe into 'economic irregularities' flagged in IMF report",
-        "link": "https://www.geo.tv/latest/634915-opposition-alliance-demands-probe-into-economic-irregularities-flagged-in-imf-report"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-22 15:30 UTC"
+  "last_updated": "2025-11-22 15:42 UTC"
 }
