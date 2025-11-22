@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel attacks Gaza as large-scale recovery of bodies set to begin",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/22/live-israel-3?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,19 @@
         "link": "https://www.bbc.com/news/articles/c2k4jg0wkj4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "High-profile Republican Marjorie Taylor Greene to quit Congress after Trump feud",
+        "title": "Trump ally Marjorie Taylor Greene to quit Congress after Epstein files feud",
         "link": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Israel attacks Gaza as large-scale recovery of bodies set to begin",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/22/live-israel-3?traffic_source=rss"
+      },
+      {
+        "title": "US sanctions must be stopped as they reshape life in Cuba: UN rapporteur",
+        "link": "https://www.aljazeera.com/news/2025/11/22/us-sanctions-must-be-stopped-as-they-reshape-life-in-cuba-un-rapporteur?traffic_source=rss"
+      },
       {
         "title": "Seven bodyguards arrested over Mexico mayor’s assassination",
         "link": "https://www.aljazeera.com/news/2025/11/22/seven-bodyguards-arrested-over-mexico-mayors-assassination?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "US warns civilian flights as military activity around Venezuela increases",
         "link": "https://www.aljazeera.com/news/2025/11/22/us-warns-civilian-flights-as-military-activity-around-venezuela-increases?traffic_source=rss"
-      },
-      {
-        "title": "Colombia hails ‘historic blow’ after largest cocaine bust in a decade",
-        "link": "https://www.aljazeera.com/news/2025/11/22/colombia-hails-historic-blow-after-largest-cocaine-bust-in-a-decade?traffic_source=rss"
-      },
-      {
-        "title": "Can Pakistan join the Gaza stabilisation force without facing backlash?",
-        "link": "https://www.aljazeera.com/news/2025/11/22/can-pakistan-join-the-gaza-stabilisation-force-without-facing-backlash?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1956693/terrorist-plot-to-blow-up-bridge-in-bannu-foiled"
       },
       {
-        "title": "Govt finally calls inaugural National Finance Commission session on Dec 4",
-        "link": "https://www.dawn.com/news/1956657/govt-finally-calls-inaugural-national-finance-commission-session-on-dec-4"
-      },
-      {
-        "title": "Fed­eral Constitutional Court sets up special desk, receives two fresh cases",
-        "link": "https://www.dawn.com/news/1956652/federal-constitutional-court-sets-up-special-desk-receives-two-fresh-cases"
+        "title": "$600m lost to illegal crypto transactions in Pakistan",
+        "link": "https://www.dawn.com/news/1956646/600m-lost-to-illegal-crypto-transactions-in-pakistan"
       },
       {
         "title": "Trump lavishes praise on New York Mayor-elect Mamdani at warm White House meeting",
         "link": "https://www.dawn.com/news/1956677/trump-lavishes-praise-on-new-york-mayor-elect-mamdani-at-warm-white-house-meeting"
+      },
+      {
+        "title": "Saudi oil giant’s operations in Islamabad challenged",
+        "link": "https://www.dawn.com/news/1956616/saudi-oil-giants-operations-in-islamabad-challenged"
       }
     ],
     "APNews": [],
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
+        "title": "YouTuber Brandon Buckingham in ICU with multiple organ failure",
+        "link": "https://www.geo.tv/latest/634847-youtuber-brandon-buckingham-in-icu-with-multiple-organ-failure"
+      },
+      {
+        "title": "Kanye West's shocking confession leaves fans worried",
+        "link": "https://www.geo.tv/latest/634833-kanye-wests-shocking-confession-leaves-fans-worried"
+      },
+      {
+        "title": "Dr Arfa Zehra: A walk through the garden she planted in hearts and minds",
+        "link": "https://www.geo.tv/latest/634843-dr-arfa-zehra-a-walk-through-the-garden-she-planted-in-hearts-and-minds"
+      },
+      {
+        "title": "F1 2025 Las Vegas Grand Prix: Full qualifying results",
+        "link": "https://www.geo.tv/latest/634844-f1-2025-las-vegas-grand-prix-full-qualifying-results"
+      },
+      {
         "title": "MAGA favorite Marjorie Taylor Greene to resign after split with Trump",
         "link": "https://www.geo.tv/latest/634838-maga-favorite-marjorie-taylor-greene-to-resign-after-split-with-trump"
-      },
-      {
-        "title": "Kate Middleton reveals secret to glamourous blonde look",
-        "link": "https://www.geo.tv/latest/634839-kate-middleton-breaks-silence-over-viral-blonde-look"
-      },
-      {
-        "title": "Duckett, Pope put England in charge of Ashes opener",
-        "link": "https://www.geo.tv/latest/634825-duckett-pope-put-england-in-charge-of-ashes-opener"
-      },
-      {
-        "title": "Chase Stokes breaks silence on Kelsea Ballerini break up: 'I tried'",
-        "link": "https://www.geo.tv/latest/634832-chase-stokes-left-heartbroken-over-kelsea-ballerini-break-up"
-      },
-      {
-        "title": "COP30 climate summit deadlocked as EU rejects draft deal",
-        "link": "https://www.geo.tv/latest/634830-cop30-climate-summit-deadlocked-as-eu-rejects-draft-deal"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-22 06:58 UTC"
+  "last_updated": "2025-11-22 07:30 UTC"
 }
