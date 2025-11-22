@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel attacks Gaza as large-scale recovery of bodies set to begin",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/22/live-israel-3?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,10 +31,6 @@
     ],
     "AlJazeera": [
       {
-        "title": "Epstein victims expect death threats to rise as US release of files nears",
-        "link": "https://www.aljazeera.com/news/2025/11/22/epstein-victims-expect-death-threats-to-rise-as-us-release-of-files-nears?traffic_source=rss"
-      },
-      {
         "title": "Jake Paul dwarfed by Anthony Joshua in heavyweight boxing face-off",
         "link": "https://www.aljazeera.com/sports/2025/11/22/jake-paul-dwarfed-by-anthony-joshua-in-heavyweight-fight-face-off?traffic_source=rss"
       },
@@ -43,6 +45,10 @@
       {
         "title": "‘Cheering for him’: Key takeaways from Trump-Mamdani White House meeting",
         "link": "https://www.aljazeera.com/news/2025/11/22/great-meeting-key-takeaways-from-trump-mamdani-white-house-meeting?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Israel attacks Gaza as large-scale recovery of bodies set to begin",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/22/live-israel-3?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,6 +143,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Eddie Murphy reveals kind gesture towards close friend Redd Foxx",
+        "link": "https://www.geo.tv/latest/634855-eddie-murphy-unveils-quiet-burden-he-carried-for-late-fellows"
+      },
+      {
         "title": "Megan Fox welcomes new wave of happiness with MGK baby, Saga: Source",
         "link": "https://www.geo.tv/latest/634850-megan-fox-eliminates-lingering-tension-with-mgk-post-baby-sagas-birth-source"
       },
@@ -151,10 +161,6 @@
       {
         "title": "King Charles takes on one important detail ahead Christmas celebration",
         "link": "https://www.geo.tv/latest/634845-king-charles-has-noisy-floorboard-fixed-in-church-ahead-of-christmas"
-      },
-      {
-        "title": "Pakistan, India to face-off in T20 World Cup 2026 on Feb 15: reports",
-        "link": "https://www.geo.tv/latest/634848-pakistan-india-to-face-off-in-t20-world-cup-2026-on-feb-15-reports"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-22 08:41 UTC"
+  "last_updated": "2025-11-22 08:54 UTC"
 }
