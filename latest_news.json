@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "UN climate talks fail to secure new fossil fuel promises",
+        "link": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Ukraine's allies voice concerns over US plan to end war",
         "link": "https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,19 +21,19 @@
       {
         "title": "Girl, 13, arrested on suspicion of murdering woman",
         "link": "https://www.bbc.com/news/articles/c4g4vdrev2eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Israeli strikes across Gaza kill 22 Palestinians, medical and civil defence officials say",
-        "link": "https://www.bbc.com/news/articles/c20879zzqn8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Gaza was ‘near and dear’ to Zohran Mamdani’s NYC mayoral bid, father says",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/22/gaza-was-near-and-dear-to-zohran-mamdanis-nyc-mayoral-bid-father-says?traffic_source=rss"
+      },
       {
         "title": "Israel launches fresh wave of deadly air strikes across Gaza",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/22/israel-launches-fresh-wave-of-deadly-air-strikes-across-gaza?traffic_source=rss"
       },
       {
-        "title": "‘Violence never ended’: Israeli attacks kill 22 Palestinians in Gaza",
+        "title": "‘Violence never ended’: Israeli attacks kill 24 Palestinians in Gaza",
         "link": "https://www.aljazeera.com/news/2025/11/22/violence-never-ended-israeli-attacks-kill-nearly-two-dozen-in-gaza?traffic_source=rss"
       },
       {
@@ -39,10 +43,6 @@
       {
         "title": "G20 leaders adopt new declaration, even as US boycotts summit",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/22/g20-leaders-adopt-new-declaration-even-as-us-boycotts-summit?traffic_source=rss"
-      },
-      {
-        "title": "Barcelona thrash Athletic Bilbao 4-0 on emotional return to Camp Nou",
-        "link": "https://www.aljazeera.com/sports/2025/11/22/barcelona-thrash-atletico-bilbao-4-0-on-emotional-return-to-camp-nou?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -109,11 +109,15 @@
         "link": "https://www.nytimes.com/2025/11/22/us/politics/john-larson-connecticut-congress-election.html"
       },
       {
-        "title": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
-        "link": "https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html"
+        "title": "Trump Offers a Ukraine Peace Plan the Kremlin Can Love",
+        "link": "https://www.nytimes.com/2025/11/22/us/politics/trump-ukraine-russia-peace-plan-kremlin.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Settler attack in central West Bank wounds six Palestinians",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settler-attack-central-west-bank-wounds-six-palestinians"
+      },
       {
         "title": "Israeli soldiers shoot Palestinian worker near Bethlehem",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-shoot-palestinian-worker-near-bethlehem"
@@ -129,10 +133,6 @@
       {
         "title": "Hamas: No truth to claims we declared Gaza ceasefire over, Israel violating truce",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-no-truth-claims-we-declared-gaza-ceasefire-over-israel-violating"
-      },
-      {
-        "title": "Two Palestinians wounded by Israeli gunfire in West Bank, Wafa reports",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-wounded-israeli-gunfire-west-bank-wafa-reports"
       }
     ],
     "GeoTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-22 20:56 UTC"
+  "last_updated": "2025-11-22 21:30 UTC"
 }
