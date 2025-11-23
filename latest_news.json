@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "MiddleEastEye",
+      "title": "BREAKING: Israel bombs Beirut's southern suburb",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/breaking-israel-bombs-beiruts-southern-suburb"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,15 @@
         "link": "https://www.bbc.com/news/articles/cm2e2yzyzvlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "COP30: Five key takeaways from a deeply divisive climate summit",
+        "title": "Five key takeaways from a deeply divisive COP30 climate summit",
         "link": "https://www.bbc.com/news/articles/cp84m16mdm1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US senator demands more be done to free US teen from Israeli detention",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/23/us-senator-demands-more-be-done-to-free-us-teen-from-israeli-detention?traffic_source=rss"
+      },
       {
         "title": "Palestinian sculptors create art on Gaza beach sand to escape Israel’s war",
         "link": "https://www.aljazeera.com/news/2025/11/23/palestinian-sculptors-create-art-on-gaza-beach-sand-to-escape-israels-war?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "The aftermath of the latest Israeli strikes on Gaza",
         "link": "https://www.aljazeera.com/gallery/2025/11/23/the-aftermath-of-the-latest-israeli-strikes-on-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Week in Pictures: From Israeli attacks in Lebanon to protests in Sri Lanka",
-        "link": "https://www.aljazeera.com/gallery/2025/11/23/week-in-pictures-from-israeli-attacks-in-lebanon-to-protests-in-sri-lanka?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "Polling underway for by-elections on 13 NA, Punjab seats amid tight security",
-        "link": "https://www.dawn.com/news/1956849/polling-underway-for-by-elections-on-13-na-punjab-seats-amid-tight-security"
+        "title": "Counting underway after polling ends for by-elections on 6 NA, 7 Punjab seats",
+        "link": "https://www.dawn.com/news/1956849/counting-underway-after-polling-ends-for-by-elections-on-6-na-7-punjab-seats"
       },
       {
         "title": "Rana Sanaullah again extends dialogue offer to PTI for solving political crises",
         "link": "https://www.dawn.com/news/1956870/rana-sanaullah-again-extends-dialogue-offer-to-pti-for-solving-political-crises"
       },
       {
+        "title": "EU and Pakistan urge Afghanistan to root out terror on its soil, ensure women’s rights in joint statement",
+        "link": "https://www.dawn.com/news/1956881/eu-and-pakistan-urge-afghanistan-to-root-out-terror-on-its-soil-ensure-womens-rights-in-joint-statement"
+      },
+      {
+        "title": "Power outage at Karachi pumping stations resolved, citywide water services back to normal, KWSC claims",
+        "link": "https://www.dawn.com/news/1956869/power-outage-at-karachi-pumping-stations-resolved-citywide-water-services-back-to-normal-kwsc-claims"
+      },
+      {
         "title": "FO slams Israeli attacks in Gaza as ‘blatant violation of international law’",
         "link": "https://www.dawn.com/news/1956867/fo-slams-israeli-attacks-in-gaza-as-blatant-violation-of-international-law"
-      },
-      {
-        "title": "Federal Constitutional Court finds support in apex lawyer bodies",
-        "link": "https://www.dawn.com/news/1956811/federal-constitutional-court-finds-support-in-apex-lawyer-bodies"
-      },
-      {
-        "title": "US to launch new phase of Venezuela operations, sources say",
-        "link": "https://www.dawn.com/news/1956866/us-to-launch-new-phase-of-venezuela-operations-sources-say"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli forces arrests three Palestinians after settler ramming attack",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-arrests-three-palestinians-after-settler-ramming-attack"
+        "title": "BREAKING: Israel bombs Beirut's southern suburb",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/breaking-israel-bombs-beiruts-southern-suburb"
       },
       {
-        "title": "Report: Israel faces ‘mental health tsunami’ after two years of war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israel-faces-mental-health-tsunami-after-two-years-war"
+        "title": "Lebanon: Israel bombs Beirut's southern suburb",
+        "link": "https://www.middleeasteye.net/news/lebanon-israel-bombs-beiruts-southern-suburb"
       },
       {
-        "title": "Dozens storm Al-Aqsa Mosque on Sunday morning",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-storm-al-aqsa-mosque-sunday-morning"
+        "title": "Gaza's civil defence warns of heavy storms amid a shortage in aid and fuel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/civil-defense-warn-heavy-storms-amid-shortage-aid-and-fuel"
       },
       {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-466"
+        "title": "Israel kills over 300 Palestinians in nearly 500 violations of Gaza ceasefire",
+        "link": "https://www.middleeasteye.net/news/israel-killed-over-300-palestinians-nearly-500-violations-gaza-ceasefire"
       },
       {
-        "title": "Thousands in Israel protest to demand judicial inquiry into 7 October events",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/thousands-israel-protest-demand-judicial-inquiry-7-october-events"
+        "title": "Death toll since start of Gaza ceasefire rises to 339",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-start-gaza-ceasefire-rises-339"
       }
     ],
     "GeoTV": [
       {
-        "title": "Keir Starmer speaks out US Congress' calls for Andrew's testimony",
-        "link": "https://www.geo.tv/latest/635016-keir-starmer-reveals-where-he-stands-on-the-calls-being-made-by-the-us-for-andrews-testimony"
+        "title": "Andrew faces fresh allegations as cops hunt emails linked to Virginia Giuffre",
+        "link": "https://www.geo.tv/latest/635030-fresh-hunt-starts-for-andrews-emails-linked-to-virginia-giuffre"
       },
       {
-        "title": "Meghan Markle risks marital trouble with Prince Harry at Thanksgiving",
-        "link": "https://www.geo.tv/latest/635013-prince-harry-wont-forgive-meghan-marrkles-blunder"
+        "title": "Jennifer Metcalf shares the secret of her picture-perfect figure",
+        "link": "https://www.geo.tv/latest/635029-jennifer-metcalf-on-her-diet-the-fattier-the-better"
       },
       {
-        "title": "The Pussycat Dolls planning music comeback",
-        "link": "https://www.geo.tv/latest/635015-the-pussycat-dolls-eyeing-brand-new-tour"
+        "title": "KP CM should resign as 'narcotics factories' thrive in his constituency: PM's coordinator",
+        "link": "https://www.geo.tv/latest/635027-kp-cm-should-resign-as-narcotics-factories-thrive-in-his-constituency-pms-coordinator"
       },
       {
-        "title": "Karachi faced 884m gallon water shortfall in Nov due to power outages: KWSC",
-        "link": "https://www.geo.tv/latest/635011-karachi-faced-884m-gallon-water-shortfall-in-nov-due-to-power-outages-kwsb"
+        "title": "Pakistan win toss, opt to bat against Zimbabwe in tri-series",
+        "link": "https://www.geo.tv/latest/635028-pakistan-win-toss-opt-to-bat-against-zimbabwe-in-tri-series"
       },
       {
-        "title": "India win first blind women's T20 World Cup",
-        "link": "https://www.geo.tv/latest/635012-india-win-first-blind-womens-t20-world-cup"
+        "title": "Meghan Markle's fight for a home that dosnt ‘belittle' Prince Harry comes to light",
+        "link": "https://www.geo.tv/latest/635026-meghan-markles-fight-for-a-home-that-dosnt-belittle-prince-harry-comes-to-light"
       }
     ],
     "NDTV": [
       {
+        "title": "\"Sindh May Return To India\": Rajnath Singh's \"Borders May Change\" Remark",
+        "link": "https://www.ndtv.com/india-news/sindh-may-return-to-india-rajnath-singhs-borders-may-change-remark-9686581#publisher=newsstand"
+      },
+      {
+        "title": "UP Man Accused Of 17-Year-Old Girl's Abduction Found Dead In Pond: Cops",
+        "link": "https://www.ndtv.com/india-news/up-man-accused-of-17-year-old-girls-abduction-found-dead-in-pond-cops-9686522#publisher=newsstand"
+      },
+      {
+        "title": "Canada To Revise Law For Citizenship By Descent. How It Affects Indians",
+        "link": "https://www.ndtv.com/world-news/canada-to-revise-law-for-citizenship-by-descent-how-it-affects-indians-9686214#publisher=newsstand"
+      },
+      {
+        "title": "Air Force Officer's Final Goodbye To Husband Killed In Tejas Crash At Dubai Air Show",
+        "link": "https://www.ndtv.com/india-news/air-force-officers-final-goodbye-to-husband-killed-in-tejas-crash-at-dubai-air-show-9686295#publisher=newsstand"
+      },
+      {
         "title": "BJP Demands Rollback Of 42 Muslim Students' Admission To J&K Medical College",
         "link": "https://www.ndtv.com/india-news/bjp-demands-rollback-of-42-muslim-students-admission-to-j-k-medical-college-9686237#publisher=newsstand"
-      },
-      {
-        "title": "'DMK's Ideology Is Looting': Actor Vijay In First Public Event After Karur Stampede",
-        "link": "https://www.ndtv.com/tamil-nadu-news/dmks-ideology-is-looting-actor-vijay-in-first-public-event-after-karur-stampede-9686230#publisher=newsstand"
-      },
-      {
-        "title": "'We Did Our Part': Chief Justice Puts Creamy Layer Ball In Centre's Court",
-        "link": "https://www.ndtv.com/india-news/chief-justice-br-gavai-reservation-we-did-our-part-chief-justice-puts-creamy-layer-ball-in-centres-court-9686198#publisher=newsstand"
-      },
-      {
-        "title": "Vietnam Flooding Kills 90, People Stranded On Roofs, Highways Blocked",
-        "link": "https://www.ndtv.com/world-news/vietnam-flooding-kills-90-people-stranded-on-roofs-highways-blocked-9685731#publisher=newsstand"
-      },
-      {
-        "title": "Singapore Deports Australian Man Over Ariana Grande Incident",
-        "link": "https://www.ndtv.com/world-news/singapore-deports-australian-man-over-ariana-grande-incident-9685669#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-23 11:51 UTC"
+  "last_updated": "2025-11-23 13:03 UTC"
 }
