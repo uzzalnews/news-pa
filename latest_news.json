@@ -1,6 +1,11 @@
 {
   "breaking": [
     {
+      "source": "AlJazeera",
+      "title": "LIVE: Arsenal vs Tottenham Hotspur – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/11/23/live-arsenal-vs-tottenham-hotspur-premier-league?traffic_source=rss"
+    },
+    {
       "source": "MiddleEastEye",
       "title": "BREAKING: Israel bombs Beirut's southern suburb",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/breaking-israel-bombs-beiruts-southern-suburb"
@@ -13,8 +18,8 @@
         "link": "https://www.bbc.com/news/articles/cvgkg4zr33lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Rail fares to be frozen in England next year",
-        "link": "https://www.bbc.com/news/articles/cwygx71g3n7o?at_medium=RSS&at_campaign=rss"
+        "title": "Minister denies Budget leaks have damaged economy",
+        "link": "https://www.bbc.com/news/articles/clykvql14r7o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Norris and Piastri disqualified from Las Vegas GP",
@@ -25,17 +30,21 @@
         "link": "https://www.bbc.com/news/articles/cm2e2yzyzvlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Five key takeaways from a deeply divisive COP30 climate summit",
-        "link": "https://www.bbc.com/news/articles/cp84m16mdm1o?at_medium=RSS&at_campaign=rss"
+        "title": "Farewell regular flat white. 'Functional' coffees are hitting the high street",
+        "link": "https://www.bbc.com/news/articles/cp85815r7m0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Arsenal vs Tottenham Hotspur – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/11/23/live-arsenal-vs-tottenham-hotspur-premier-league?traffic_source=rss"
+      },
       {
         "title": "Palestinian children from Gaza’s Nuseirat Choir perform viral ‘drone song’",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/23/palestinian-children-from-gazas-nuseirat-choir-perform-viral-drone-song?traffic_source=rss"
       },
       {
-        "title": "Israel bombs southern suburbs of Beirut",
+        "title": "Israel bombs southern suburbs of Beirut, casualties reported",
         "link": "https://www.aljazeera.com/news/2025/11/23/israel-bombs-southern-suburbs-of-beirut?traffic_source=rss"
       },
       {
@@ -45,10 +54,6 @@
       {
         "title": "War refugee Aonishiki becomes first Ukrainian to win top sumo championship",
         "link": "https://www.aljazeera.com/sports/2025/11/23/war-refugee-aonishiki-becomes-first-ukrainian-to-win-top-sumo-championship?traffic_source=rss"
-      },
-      {
-        "title": "How the arrest of former president Jair Bolsonaro has divided Brazilians",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/23/how-the-arrest-of-former-president-jair-bolsonaro-has-divided-brazilians?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,8 +120,8 @@
         "link": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene.html"
       },
       {
-        "title": "In Russian-Occupied Mariupol, Everything Ukrainian Must Go",
-        "link": "https://www.nytimes.com/2025/11/23/world/europe/russia-ukraine-mariupol.html"
+        "title": "Rubio Insists U.S. Authored the Ukraine Peace Plan",
+        "link": "https://www.nytimes.com/2025/11/23/us/politics/rubio-us-author-ukraine-peace-plan.html"
       }
     ],
     "MiddleEastEye": [
@@ -151,19 +156,27 @@
         "link": "https://www.geo.tv/latest/635037-sarah-fergusons-secret-plans-to-spin-her-story-around-without-andrew-exposed"
       },
       {
+        "title": "After Ambani zoo probe, wildlife body reverses call to curb animal imports to India",
+        "link": "https://www.geo.tv/latest/635036-after-ambani-zoo-probe-wildlife-body-reverses-call-to-curb-animal-imports-to-india"
+      },
+      {
         "title": "PML-N's Sanaullah invites PTI to dialogue after CM Afridi signals cooperation",
         "link": "https://www.geo.tv/latest/635035-pml-ns-sanaullah-invites-pti-to-dialogue-after-cm-afridi-signals-cooperation"
       },
       {
         "title": "The only person who keeps King Charles' in gets exposed",
         "link": "https://www.geo.tv/latest/635032-king-charles-has-just-been-called-pig-headed-for-his-approach-to-life"
-      },
-      {
-        "title": "Eva Longoria talks about becoming a mom at 43",
-        "link": "https://www.geo.tv/latest/635031-eva-longoria-says-becoming-mother-at-43-perfect-timing"
       }
     ],
     "NDTV": [
+      {
+        "title": "UP Man Kills Woman, 60, Who Allegedly Pressured Him To Marry Her: Cops",
+        "link": "https://www.ndtv.com/india-news/up-man-kills-woman-60-who-allegedly-pressured-him-to-marry-her-cops-9686846#publisher=newsstand"
+      },
+      {
+        "title": "Jaish Module Was Going To Get Long-Range Drones From Pak Handler: Sources",
+        "link": "https://www.ndtv.com/india-news/jaish-module-was-going-to-get-long-range-drones-from-pak-handler-sources-9686632#publisher=newsstand"
+      },
       {
         "title": "\"Sindh May Return To India\": Rajnath Singh's \"Borders May Change\" Remark",
         "link": "https://www.ndtv.com/india-news/sindh-may-return-to-india-rajnath-singhs-borders-may-change-remark-9686581#publisher=newsstand"
@@ -175,14 +188,6 @@
       {
         "title": "Canada To Revise Law For Citizenship By Descent. How It Affects Indians",
         "link": "https://www.ndtv.com/world-news/canada-to-revise-law-for-citizenship-by-descent-how-it-affects-indians-9686214#publisher=newsstand"
-      },
-      {
-        "title": "Air Force Officer's Final Goodbye To Husband Killed In Tejas Crash At Dubai Air Show",
-        "link": "https://www.ndtv.com/india-news/air-force-officers-final-goodbye-to-husband-killed-in-tejas-crash-at-dubai-air-show-9686295#publisher=newsstand"
-      },
-      {
-        "title": "BJP Demands Rollback Of 42 Muslim Students' Admission To J&K Medical College",
-        "link": "https://www.ndtv.com/india-news/bjp-demands-rollback-of-42-muslim-students-admission-to-j-k-medical-college-9686237#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-23 13:47 UTC"
+  "last_updated": "2025-11-23 13:58 UTC"
 }
