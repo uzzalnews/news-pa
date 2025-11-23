@@ -91,8 +91,33 @@
       }
     ],
     "APNews": [],
-    "NYTimes": [],
+    "NYTimes": [
+      {
+        "title": "Zelensky Is Under Pressure from Trump and Domestically",
+        "link": "https://www.nytimes.com/2025/11/23/world/europe/ukraine-zelensky-war-russia.html"
+      },
+      {
+        "title": "Trump Calls Ukraine Ungrateful, Again, for U.S. Support in War With Russia",
+        "link": "https://www.nytimes.com/2025/11/23/us/politics/trump-ukraine-criticism-russia.html"
+      },
+      {
+        "title": "Rubio Insists U.S. Authored the Ukraine Peace Plan",
+        "link": "https://www.nytimes.com/2025/11/23/us/politics/rubio-us-author-ukraine-peace-plan.html"
+      },
+      {
+        "title": "Patel Under Scrutiny for Use of SWAT Teams to Protect His Girlfriend",
+        "link": "https://www.nytimes.com/2025/11/23/us/politics/kash-patel-girlfriend-fbi-protection.html"
+      },
+      {
+        "title": "As Trump’s Inquisitors Face Scrutiny, a Divisive Figure Could Play a New Role",
+        "link": "https://www.nytimes.com/2025/11/23/us/politics/trump-florida-cannon-grand-jury.html"
+      }
+    ],
     "MiddleEastEye": [
+      {
+        "title": "Palestinian group says Israeli guards severely beat PFLP leader during transfer",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-group-says-israeli-guards-severely-beat-pflp-leader-during"
+      },
       {
         "title": "French university union calls for withdrawal of ‘biased’ antisemitism survey",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/french-university-union-calls-withdrawal-biased-antisemitism-survey"
@@ -108,13 +133,13 @@
       {
         "title": "Erdogan says world peace impossible without Palestinian state",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-says-world-peace-impossible-without-palestinian-state"
-      },
-      {
-        "title": "Israel conducts air strikes in eastern Gaza City: Wafa",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-conducts-air-strikes-eastern-gaza-city-wafa-reports"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Chadwick Boseman's widow Simone reveals key lesson actor taught her",
+        "link": "https://www.geo.tv/latest/635077-chadwick-bosemans-widow-simone-still-practices-what-he-taught-her"
+      },
       {
         "title": "Gavin Casalegno dishes new details about 'The Summer I Turned Pretty' movie",
         "link": "https://www.geo.tv/latest/635073-gavin-casalegno-shares-what-fans-can-expect-in-the-summer-i-turned-pretty-movie"
@@ -130,32 +155,28 @@
       {
         "title": "Princess Anne's desired to ‘choke, strangle' ex-sister in law Sarah Ferguson",
         "link": "https://www.geo.tv/latest/635076-princess-annes-desired-to-choke-strangle-ex-sister-in-law-sarah-ferguson"
-      },
-      {
-        "title": "Tiffany Haddish confesses she never felt THIS following her self-marriage ceremony",
-        "link": "https://www.geo.tv/latest/635062-tiffany-haddish-says-her-life-has-been-amazing-after-her-marriage-to-herself"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Doesn't Exist\": Trump's DOGE Shuts Down With 8 Months Left On Its Charter",
-        "link": "https://www.ndtv.com/world-news/doesnt-exist-trumps-doge-shuts-down-with-8-months-left-on-its-charter-9686443#publisher=newsstand"
+        "title": "Mamdani Views Trump As Fascist Despite Friendly White House Meeting",
+        "link": "https://www.ndtv.com/world-news/mamdani-views-trump-as-fascist-despite-friendly-white-house-meeting-9687640#publisher=newsstand"
       },
       {
-        "title": "Woman Doctor Dies By Suicide In Hyderabad Over US Visa Rejection: Cops",
-        "link": "https://www.ndtv.com/india-news/woman-doctor-dies-by-suicide-in-hyderabad-over-us-visa-rejection-cops-9687783#publisher=newsstand"
+        "title": "50 Children Kidnapped From Nigerian Catholic School Escape Captivity",
+        "link": "https://www.ndtv.com/world-news/50-children-kidnapped-from-nigerian-catholic-school-escape-captivity-9687835#publisher=newsstand"
       },
       {
-        "title": "IMF Report Exposes \"Corrosive\" Corruption At Pakistan's Highest Levels",
-        "link": "https://www.ndtv.com/world-news/imf-report-exposes-corrosive-corruption-at-pakistans-highest-levels-9687772#publisher=newsstand"
+        "title": "Explained: What's Behind Nigeria's Latest School Kidnappings, Church Attack",
+        "link": "https://www.ndtv.com/world-news/explained-whats-behind-nigerias-latest-school-kidnappings-church-attack-9677222#publisher=newsstand"
       },
       {
-        "title": "PM Modi Holds Bilateral Talks With Japanese PM On Sidelines Of G20 Summit",
-        "link": "https://www.ndtv.com/india-news/pm-modi-holds-bilateral-talks-with-japanese-pm-on-sidelines-of-g20-summit-9687767#publisher=newsstand"
+        "title": "Ex-Brazilian President Bolsonaro Says Tried To Break Ankle Monitor Due To 'Paranoia'",
+        "link": "https://www.ndtv.com/world-news/ex-brazilian-president-bolsonaro-says-tried-to-break-ankle-monitor-due-to-paranoia-9687606#publisher=newsstand"
       },
       {
-        "title": "India, Canada Look To Reset Ties As Talks Begin On Key Trade Deal CEPA",
-        "link": "https://www.ndtv.com/world-news/india-canada-look-to-reset-ties-as-talks-begin-on-key-trade-deal-comprehensive-economic-partnership-agreement-9687757#publisher=newsstand"
+        "title": "Netanyahu Vows To Keep Striking Hamas And Hezbollah",
+        "link": "https://www.ndtv.com/world-news/netanyahu-vows-to-keep-striking-hamas-and-hezbollah-9686187#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -181,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-23 18:49 UTC"
+  "last_updated": "2025-11-23 18:58 UTC"
 }
