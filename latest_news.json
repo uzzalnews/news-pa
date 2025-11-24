@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Manchester United vs Everton – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/11/24/live-manchester-united-vs-everton-english-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Brazil’s Supreme Court panel votes to keep Bolsonaro in police custody",
+        "link": "https://www.aljazeera.com/news/2025/11/24/brazils-supreme-court-panel-votes-to-keep-bolsonaro-in-police-custody?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Manchester United vs Everton – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/11/24/live-manchester-united-vs-everton-english-premier-league?traffic_source=rss"
+      },
+      {
+        "title": "What is really behind Greg Abbott’s ‘war on Sharia’",
+        "link": "https://www.aljazeera.com/opinions/2025/11/24/what-is-really-behind-greg-abbotts-war-on?traffic_source=rss"
+      },
+      {
         "title": "Palestinians use abandoned Israeli vehicle to help supply water in Gaza",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/24/palestinians-use-abandoned-israeli-vehicle-to-help-supply-water-in-gaza?traffic_source=rss"
       },
       {
         "title": "‘The worst one presented’: Sudan rejects US-led ceasefire proposal",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/24/the-worst-one-presented-sudan-rejects-us-led-ceasefire-proposal?traffic_source=rss"
-      },
-      {
-        "title": "Controversial US-backed GHF to end ‘mission’ in Gaza: Statement",
-        "link": "https://www.aljazeera.com/news/2025/11/24/controversial-us-backed-ghf-to-end-mission-in-gaza-statement?traffic_source=rss"
-      },
-      {
-        "title": "What is Cartel de los Soles, the latest group designated ‘terrorist’ by US?",
-        "link": "https://www.aljazeera.com/news/2025/11/24/what-is-cartel-de-los-soles-the-latest-group-designated-terrorist-by-us?traffic_source=rss"
-      },
-      {
-        "title": "Nigeria school kidnapping: Who’s behind it, why were children targeted?",
-        "link": "https://www.aljazeera.com/news/2025/11/24/nigeria-school-kidnapping-whos-behind-it-why-were-children-targeted?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,12 +76,16 @@
     ],
     "Dawn": [
       {
-        "title": "3 FC men martyred in suicide attack on force’s headquarters in Peshawar",
-        "link": "https://www.dawn.com/news/1957041/3-fc-men-martyred-in-suicide-attack-on-forces-headquarters-in-peshawar"
+        "title": "Saudi armed forces chief relays kingdom’s desire to elevate defence partnership with Pakistan",
+        "link": "https://www.dawn.com/news/1957082/saudi-armed-forces-chief-relays-kingdoms-desire-to-elevate-defence-partnership-with-pakistan"
       },
       {
         "title": "Ash cloud from Ethiopian volcano eruption expected to reach southern Pakistan: advisory centre",
         "link": "https://www.dawn.com/news/1957085/ash-cloud-from-ethiopian-volcano-eruption-expected-to-reach-southern-pakistan-advisory-centre"
+      },
+      {
+        "title": "3 FC men martyred in suicide attack on force’s headquarters in Peshawar",
+        "link": "https://www.dawn.com/news/1957041/3-fc-men-martyred-in-suicide-attack-on-forces-headquarters-in-peshawar"
       },
       {
         "title": "Over 4,000 cases of violence against children reported in Punjab in first half of 2025: report",
@@ -84,10 +94,6 @@
       {
         "title": "PTI did not boycott recent by-elections but contested all 13 seats: CM Maryam",
         "link": "https://www.dawn.com/news/1957086/pti-did-not-boycott-recent-by-elections-but-contested-all-13-seats-cm-maryam"
-      },
-      {
-        "title": "Pakistan, Saudi Arabia discuss strengthening strategic military cooperation",
-        "link": "https://www.dawn.com/news/1957082/pakistan-saudi-arabia-discuss-strengthening-strategic-military-cooperation"
       }
     ],
     "APNews": [],
@@ -105,8 +111,8 @@
         "link": "https://www.nytimes.com/2025/11/24/us/politics/russian-soldier-war.html"
       },
       {
-        "title": "Trump’s Deadline for Ukraine, and Marjorie Taylor Greene’s Abrupt Resignation",
-        "link": "https://www.nytimes.com/2025/11/24/podcasts/the-headlines/ukraine-peace-talks-mamdani-troops.html"
+        "title": "Bolsonaro’s Arrest Exposes Limits to Trump’s Power",
+        "link": "https://www.nytimes.com/2025/11/24/world/americas/trump-bolsonaro-arrest.html"
       },
       {
         "title": "Billionaires Have a Bigger Role in Higher Education Under President Trump",
@@ -115,27 +121,39 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Turkey's latest opposition media? It's Yeni Safak, sort of",
-        "link": "https://www.middleeasteye.net/news/turkeys-newest-opposition-media-its-yeni-safak-sort"
+        "title": "Haytham Ali Tabatabai: The Hezbollah commander who cut his teeth in Syria and Yemen",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/haytham-ali-tabatabai-hezbollah-commander-who-cut-his-teeth-syria-and"
       },
       {
-        "title": "UK allowed arms exports to UAE after being told weapons given to RSF",
-        "link": "https://www.middleeasteye.net/news/uk-allowed-arms-exports-uae-after-being-told-weapons-given-rsf"
+        "title": "Haytham Ali Tabatabai: The Hezbollah commander who cut his teeth in Syria and Yemen",
+        "link": "https://www.middleeasteye.net/news/tabatabai-hezbollah-military-commander-cut-teeth-syria-yemen"
       },
       {
-        "title": "Gaza Humanitarian Foundation announces end of 'mission' in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-humanitarian-foundation-announces-end-mission-gaza"
+        "title": "Unexploded ordnance in Gaza poses grave danger, civil defence warns",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/unexploded-ordnance-gaza-poses-grave-danger-civil-defence-warns"
       },
       {
-        "title": "Poland summons Israeli ambassador over Holocaust memorial post",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/poland-summons-israeli-ambassador-over-holocaust-post"
+        "title": "Social media accounts linked to Sudan's RSF are based in the UAE",
+        "link": "https://www.middleeasteye.net/news/social-media-accounts-linked-sudans-rsf-are-based-uae"
       },
       {
-        "title": "Gaza journalist falsely accused of 'fake reporting' by Israel following new X location feature",
-        "link": "https://www.middleeasteye.net/trending/gaza-journalist-falsely-accused-fake-reporting-new-x-location-feature"
+        "title": "Saudi Arabia further eases alcohol restrictions according to residents",
+        "link": "https://www.middleeasteye.net/news/saudi-arabia-further-eases-alcohol-restrictions-according-residents"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Sarah Ferguson could shake palace with big upcoming deal",
+        "link": "https://www.geo.tv/latest/635268-sarah-ferguson-could-shake-palace-with-big-upcoming-deal"
+      },
+      {
+        "title": "Andrew labelled 'flight risk' amid investigation by UK police",
+        "link": "https://www.geo.tv/latest/635299-andrew-labelled-flight-risk-amid-investigation-by-uk-police"
+      },
+      {
+        "title": "Kerry Washington makes surprising confession about Met Gala",
+        "link": "https://www.geo.tv/latest/635296-kerry-washington-makes-surprising-confession-about-met-gala"
+      },
       {
         "title": "Canada, India to launch trade talks as ties thaw",
         "link": "https://www.geo.tv/latest/635292-canada-india-to-launch-trade-talks-as-ties-thaw"
@@ -143,18 +161,6 @@
       {
         "title": "Princess Anne left hurt by Sarah Ferguson's viral photos: 'Unbelievable'",
         "link": "https://www.geo.tv/latest/635280-princess-anne-left-hurt-by-sarah-fergusons-viral-photos-unbelievable"
-      },
-      {
-        "title": "Adviser to Iranian supreme leader set for 'unprecedented' Pakistan visit",
-        "link": "https://www.geo.tv/latest/635293-adviser-to-iranian-supreme-leader-set-for-unprecedented-pakistan-visit"
-      },
-      {
-        "title": "Katie Price reveals stunning floral tattoo ahead of big 'ITV' return",
-        "link": "https://www.geo.tv/latest/635255-katie-price-reveals-massive-floral-tattoo-ahead-of-big-itv-return"
-      },
-      {
-        "title": "Minister orders uninterrupted gas supply for public during winter",
-        "link": "https://www.geo.tv/latest/635274-minister-orders-uninterrupted-gas-supply-for-public-during-winter"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-24 16:58 UTC"
+  "last_updated": "2025-11-24 17:41 UTC"
 }
