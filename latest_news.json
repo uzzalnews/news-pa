@@ -3,10 +3,6 @@
   "news": {
     "BBC": [
       {
-        "title": "US and Ukraine signal peace plan progress after Geneva talks",
-        "link": "https://www.bbc.com/news/articles/ce3zwy808dpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Boy with rare condition amazes doctors after world-first gene therapy",
         "link": "https://www.bbc.com/news/articles/c5y0y56x6veo?at_medium=RSS&at_campaign=rss"
       },
@@ -21,28 +17,32 @@
       {
         "title": "MPs to question senior BBC figures after resignations and Trump row",
         "link": "https://www.bbc.com/news/articles/c0jepgyl2jwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Catherine calls for end to 'stigma' around addiction",
+        "link": "https://www.bbc.com/news/articles/c8e9l1p42z8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Cristiano Ronaldo scores superb bicycle kick in Al Nassr win",
+        "link": "https://www.aljazeera.com/sports/2025/11/24/cristiano-ronaldo-scores-superb-bicycle-kick-in-al-nassr-win?traffic_source=rss"
+      },
+      {
+        "title": "Messi scores goal as Inter Miami beat Cincinnati in Eastern Conference semi",
+        "link": "https://www.aljazeera.com/sports/2025/11/24/messi-scores-goal-as-inter-miami-beat-cincinnati-in-eastern-conference-semi?traffic_source=rss"
+      },
+      {
+        "title": "Trump’s surprise U-turn on Mamdani",
+        "link": "https://www.aljazeera.com/video/compare-contrast/2025/11/24/trumps-surprise-u-turn-on-mamdani?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike on Lebanon’s capital Beirut kills Hezbollah official",
+        "link": "https://www.aljazeera.com/gallery/2025/11/24/israeli-strike-on-lebanons-capital-beirut-kills-hezbollah-official?traffic_source=rss"
+      },
+      {
         "title": "Philippine President Marcos says seven arrested over corruption scandal",
         "link": "https://www.aljazeera.com/news/2025/11/24/philippine-president-marcos-says-seven-detained-over-corruption-scandal?traffic_source=rss"
-      },
-      {
-        "title": "Live: Hezbollah considering response; Israeli attacks on Gaza continue",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/24/hezbollah-considering-response-israeli-attacks-on-gaza-continue?traffic_source=rss"
-      },
-      {
-        "title": "Snapchat starts age checks in Australia ahead of teen social media ban",
-        "link": "https://www.aljazeera.com/news/2025/11/24/snapchat-starts-age-checks-in-australia-ahead-of-teen-social-media-ban?traffic_source=rss"
-      },
-      {
-        "title": "Six killed in suicide attack on security complex in Pakistan’s Peshawar",
-        "link": "https://www.aljazeera.com/news/2025/11/24/gunfire-explosions-at-paramilitary-hq-in-pakistans-peshawar-reports?traffic_source=rss"
-      },
-      {
-        "title": "Malaysia says it will ban social media for under-16s from next year",
-        "link": "https://www.aljazeera.com/economy/2025/11/24/malaysia-says-it-will-ban-social-media-for-under-16s-from-next-year?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +74,20 @@
         "link": "https://www.dawn.com/news/1957041/3-fc-men-martyred-as-terrorists-attack-forces-headquarters-in-peshawar"
       },
       {
-        "title": "Alarmed by weakness of audit mechanism, IMF calls for independent AGP office",
-        "link": "https://www.dawn.com/news/1957018/alarmed-by-weakness-of-audit-mechanism-imf-calls-for-independent-agp-office"
+        "title": "PM Shehbaz congratulates PML-N candidates for ‘brilliant success’ in by-elections",
+        "link": "https://www.dawn.com/news/1957054/pm-shehbaz-congratulates-pml-n-candidates-for-brilliant-success-in-by-elections"
       },
       {
-        "title": "PML-N largely sweeps lacklustre by-elections",
-        "link": "https://www.dawn.com/news/1957019/pml-n-largely-sweeps-lacklustre-by-elections"
+        "title": "Alarmed by weakness of audit mechanism, IMF calls for independent AGP office",
+        "link": "https://www.dawn.com/news/1957018/alarmed-by-weakness-of-audit-mechanism-imf-calls-for-independent-agp-office"
       },
       {
         "title": "Two courts jostle for space in ‘joint-family home’",
         "link": "https://www.dawn.com/news/1957013/two-courts-jostle-for-space-in-joint-family-home"
       },
       {
-        "title": "Ottawa, New Delhi agree to restart trade talks, says Indian government",
-        "link": "https://www.dawn.com/news/1957051/ottawa-new-delhi-agree-to-restart-trade-talks-says-indian-government"
+        "title": "Canada, India agree to restart trade talks, New Delhi says",
+        "link": "https://www.dawn.com/news/1957051/canada-india-agree-to-restart-trade-talks-new-delhi-says"
       }
     ],
     "APNews": [],
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Gaza’s shattered schools leave tens of thousands without education",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gazas-shattered-schools-leave-tens-thousands-without-education"
+      },
+      {
+        "title": "Hezbollah weighs response after Israel kills senior commander",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-weighs-response-after-israel-kills-senior-commander"
+      },
+      {
         "title": "Israel strikes Beit Lahia despite declared ceasefire",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-beit-lahia-despite-declared-ceasefire"
       },
@@ -125,36 +133,28 @@
       {
         "title": "Morning recap",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-121"
-      },
-      {
-        "title": "Video: Activists spray paint ‘ISRAEL TERRORIST STATE’ on train in Belgium",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-activists-spray-paint-israel-terrorist-state-train-belgium"
-      },
-      {
-        "title": "Ben Gvir’s visit to Bedouin town triggers clashes, heated exchange",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvirs-visit-bedouin-town-triggers-clashes-heated-exchange"
       }
     ],
     "GeoTV": [
       {
-        "title": "Lizzo expresses concerns over current state of weight-loss culture",
-        "link": "https://www.geo.tv/latest/635143-lizzo-expresses-concerns-over-current-state-of-weight-loss-culture"
+        "title": "Hailey, Justin Bieber clap back at critics with PDA-packed video",
+        "link": "https://www.geo.tv/latest/635135-hailey-justin-bieber-clap-back-at-critics-with-pda-packed-video"
       },
       {
-        "title": "Sarah Ferguson makes unexpected career choice to survive money problems",
-        "link": "https://www.geo.tv/latest/635141-sarah-ferguson-makes-unexpected-career-choice-to-survive-money-problems"
+        "title": "At 40, Ronaldo scores stunning bicycle kick to seal Al Nassr's victory",
+        "link": "https://www.geo.tv/latest/635152-at-40-ronaldo-scores-stunning-bicycle-kick-to-seal-al-nassrs-victory"
       },
       {
-        "title": "First child to receive gene therapy for Hunter Syndrome shows stunning recovery",
-        "link": "https://www.geo.tv/latest/635140-first-child-to-receive-gene-therapy-for-hunter-syndrome-shows-stunning-recovery"
+        "title": "Scientists shocked as plants brought back from space continue growing on Earth",
+        "link": "https://www.geo.tv/latest/635150-scientists-shocked-as-plants-brought-back-from-space-continue-growing-on-earth"
       },
       {
-        "title": "Venezuela President Maduro grooves to ‘no war' remix amid US invasion threats",
-        "link": "https://www.geo.tv/latest/635134-venezuela-president-maduro-grooves-to-no-war-remix-amid-us-invasion-threats"
+        "title": "Who gave George Clooney powerful advice for Hollywood?",
+        "link": "https://www.geo.tv/latest/635139-who-gave-george-clooney-a-powerful-advice-for-hollywood"
       },
       {
-        "title": "Meghan Markle takes over special duty as Harry sets eyes on royal invite",
-        "link": "https://www.geo.tv/latest/635127-meghan-markle-prepares-to-host-special-family-get-together-in-montecito"
+        "title": "Bill Skarsgård's much-awaited appearance in 'It: Welcome to Derry' explained",
+        "link": "https://www.geo.tv/latest/635137-it-welcome-to-derry-creator-explain-why-they-delayed-pennywise-appearance"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-24 06:54 UTC"
+  "last_updated": "2025-11-24 07:33 UTC"
 }
