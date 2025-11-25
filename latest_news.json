@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Chelsea vs Barcelona – UEFA Champions League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/11/25/live-chelsea-vs-barcelona-champions-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Chelsea vs Barcelona – UEFA Champions League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/11/25/live-chelsea-vs-barcelona-champions-league?traffic_source=rss"
+      },
+      {
         "title": "US-backed GHF ‘aid mission’ in Gaza ends – a timeline of violence",
         "link": "https://www.aljazeera.com/news/2025/11/25/us-backed-ghf-aid-mission-in-gaza-ends-a-timeline-of-violence?traffic_source=rss"
       },
@@ -37,12 +47,8 @@
         "link": "https://www.aljazeera.com/news/2025/11/25/un-calls-for-probe-into-israels-strikes-on-lebanon?traffic_source=rss"
       },
       {
-        "title": "Israel says it received remains of deceased Gaza captive",
+        "title": "Israel says it receives remains believed to be of Gaza captive",
         "link": "https://www.aljazeera.com/news/2025/11/25/israel-says-red-cross-receives-remains-of-deceased-gaza-captive?traffic_source=rss"
-      },
-      {
-        "title": "Has love evolved, or has the modern world rewritten it?",
-        "link": "https://www.aljazeera.com/video/doha-debates/2025/11/25/has-love-evolved-or-has-the-modern-world-rewritten-it?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -101,19 +107,27 @@
         "link": "https://www.nytimes.com/2025/11/25/business/dealbook/fed-big-tech-market-rally.html"
       },
       {
-        "title": "Trump’s Retribution Campaign Hits a Major Roadblock, and Health Care Costs Set to Surge",
-        "link": "https://www.nytimes.com/2025/11/25/podcasts/the-headlines/trump-comey-james-health-care-costs.html"
-      },
-      {
-        "title": "Trump Administration Is Taking Billions in Stakes in Firms Like Intel",
-        "link": "https://www.nytimes.com/2025/11/25/us/politics/trump-intel-steel-minerals-china.html"
-      },
-      {
         "title": "Russia Strikes Ukraine and Signals Resistance to Amended Peace Plan",
         "link": "https://www.nytimes.com/2025/11/25/world/europe/ukraine-russia-strike-peace-plan.html"
+      },
+      {
+        "title": "How Rubio Tried to Bring a Pro-Russia Peace Plan to Middle Ground",
+        "link": "https://www.nytimes.com/2025/11/24/us/politics/trump-russia-ukraine-peace-plan-middle-ground.html"
+      },
+      {
+        "title": "As Trump Pushes to End Ukraine War, Europe Toils to Have a Say",
+        "link": "https://www.nytimes.com/2025/11/25/world/europe/trump-ukraine-war-peace-plan-merz-macron-starmer.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Lebanon gives citizenship to Fifa chief Gianni Infantino",
+        "link": "https://www.middleeasteye.net/news/lebanese-president-gives-citizenship-fifa-chief-gianni-infantino"
+      },
+      {
+        "title": "UN says Gaza reconstruction to cost $70bn over decades",
+        "link": "https://www.middleeasteye.net/news/un-reconstruction-gaza-cost-70bn-over-decades"
+      },
       {
         "title": "Turkish spy chief meets with Qatari, Egyptian officials on Gaza: Report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-spy-chief-meets-qatari-egyptian-officials-gaza-report"
@@ -125,17 +139,13 @@
       {
         "title": "UAE and Japanese financial institutions buy big stakes in Indian banks",
         "link": "https://www.middleeasteye.net/news/uae-japan-financial-institutions-buy-big-stakes-indian-banks"
-      },
-      {
-        "title": "Israel says it received coffin of Gaza captive from Red Cross",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-received-coffin-gaza-captive-red-cross"
-      },
-      {
-        "title": "Israeli settlers establish new outpost near Bedouin community in West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-establish-new-outpost-near-bedouin-community-west-bank"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Sadie Sink looks back on ‘Stranger Things' journey",
+        "link": "https://www.geo.tv/latest/635542-sadie-sink-looks-back-on-stranger-things-journey"
+      },
       {
         "title": "Pakistan warns world of escalating Islamophobia, heritage desecration in India",
         "link": "https://www.geo.tv/latest/635540-pakistan-warns-world-of-escalating-islamophobia-heritage-desecration-in-india"
@@ -151,32 +161,28 @@
       {
         "title": "MGK shares proud dad moment with his and Megan Fox's baby girl",
         "link": "https://www.geo.tv/latest/635539-mgk-shares-proud-dad-moment-with-his-and-megan-foxs-baby-girl"
-      },
-      {
-        "title": "Record $202 billion deals, highest-ever spectator turnout in Dubai Airshow 2025",
-        "link": "https://www.geo.tv/latest/635532-record-202-billion-deals-highest-ever-spectator-turnout-in-dubai-airshow-2025"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Full Confidence In Security\": Israel After Netanyahu's India Visit Deferred",
-        "link": "https://www.ndtv.com/world-news/confidence-in-pm-narendra-modi-new-dates-soon-israel-on-benjamin-netanyahus-india-visit-9699416#publisher=newsstand"
+        "title": "\"Wanted To Return\": Odisha Teen Says Her Charges Against US Mother Are Fake",
+        "link": "https://www.ndtv.com/india-news/wanted-to-return-odisha-teen-says-her-charges-against-us-mother-are-fake-9698440#publisher=newsstand"
       },
       {
-        "title": "Top Court Slams UP's Practice Of Giving Bureaucrats' Spouses Ex-Officio Posts",
-        "link": "https://www.ndtv.com/india-news/top-court-slams-ups-practice-of-giving-bureaucrats-spouses-ex-officio-posts-9698614#publisher=newsstand"
+        "title": "\"Arunachal Inalienable Part Of India\": Foreign Ministry Slams China's Remark",
+        "link": "https://www.ndtv.com/india-news/arunachal-integral-inalienable-part-of-india-india-slams-chinas-remark-9699716#publisher=newsstand"
       },
       {
-        "title": "2 Groups Clash Over Sale Of Controversial Books In Madhya Pradesh",
-        "link": "https://www.ndtv.com/india-news/2-groups-clash-over-sale-of-controversial-books-in-madhya-pradesh-9699238#publisher=newsstand"
+        "title": "Kunal Kamra Sparks Row With T-Shirt Mocking RSS, BJP Warns Of Action",
+        "link": "https://www.ndtv.com/india-news/kunal-kamra-sparks-row-with-t-shirt-mocking-rss-bjp-warns-of-action-9699888#publisher=newsstand"
       },
       {
-        "title": "On CCTV, Car Hits Sena Ex MLA From Behind, Narrowly Misses Her Grandchild",
-        "link": "https://www.ndtv.com/india-news/on-cctv-car-hits-sena-ex-mla-nirmala-gavit-from-behind-narrowly-misses-her-grandchild-9699237#publisher=newsstand"
+        "title": "Rabri Devi Asked To Vacate 10 Circular Road Patna Residence After 2 Decades",
+        "link": "https://www.ndtv.com/india-news/rabri-devi-asked-to-vacate-10-circular-road-residence-after-two-decades-9699843#publisher=newsstand"
       },
       {
-        "title": "Kali Statue Dressed As Mother Mary In Mumbai Temple, Priest Arrested",
-        "link": "https://www.ndtv.com/india-news/kali-statue-dressed-as-mother-mary-in-mumbai-temple-priest-arrested-9699225#publisher=newsstand"
+        "title": "Huge Protest After Madhya Pradesh School Suspends 4 Over Principal's AI-Morphed Pic",
+        "link": "https://www.ndtv.com/india-news/huge-protest-after-madhya-pradesh-school-suspends-4-over-principals-ai-morphed-pic-9699778#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-25 16:57 UTC"
+  "last_updated": "2025-11-25 17:40 UTC"
 }
