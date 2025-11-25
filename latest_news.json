@@ -3,12 +3,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Over 21s to get £12.71 an hour as minimum wage increased",
-        "link": "https://www.bbc.com/news/articles/cn41v89xq4go?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Chris Mason: Reeves will be hoping the Budget buys her some time",
         "link": "https://www.bbc.com/news/articles/cz68jedylvxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Over 21s to get £12.71 an hour as minimum wage increased",
+        "link": "https://www.bbc.com/news/articles/cn41v89xq4go?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Justice secretary wants to scrap jury trials except for most serious cases",
@@ -19,11 +19,15 @@
         "link": "https://www.bbc.com/news/articles/cx2dny3r3vyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Ukraine says 'understanding' reached with US on peace plan, as Trump says his envoy will meet Putin",
-        "link": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss"
+        "title": "Ex-BBC board member criticised chair's handling of bias crisis in resignation letter",
+        "link": "https://www.bbc.com/news/articles/c5y9rz7eggko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "What are the risks of Afghanistan-Pakistan tensions escalating?",
+        "link": "https://www.aljazeera.com/video/inside-story/2025/11/25/what-are-the-risks-of-afghanistan-pakistan-tensions-escalating?traffic_source=rss"
+      },
       {
         "title": "Chelsea thump Barcelona in Champions League as Man City also lose",
         "link": "https://www.aljazeera.com/sports/2025/11/25/chelsea-thump-barcelona-in-champions-league-as-man-city-also-lose?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Colombian court sentences Alvaro Uribe’s brother to 28 years in prison",
         "link": "https://www.aljazeera.com/news/2025/11/25/colombian-court-sentences-alvaro-uribes-brother-to-28-years-in-prison?traffic_source=rss"
-      },
-      {
-        "title": "International funding cuts disrupted global response to HIV, UN report says",
-        "link": "https://www.aljazeera.com/news/2025/11/25/international-funding-cuts-disrupted-global-response-to-hiv-un-report-says?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Bill Skarsgård faces fears again as Pennywise in ‘It: Welcome to Derry'",
+        "link": "https://www.geo.tv/latest/635577-bill-skarsgrd-faces-fears-again-as-pennywise-in-it-welcome-to-derry"
+      },
+      {
         "title": "Jeremy Allen White reveals when ‘The Bear' season 5 starts filming",
         "link": "https://www.geo.tv/latest/635574-jeremy-allen-white-reveals-when-the-bear-season-5-starts-filming"
       },
@@ -145,16 +149,12 @@
         "link": "https://www.geo.tv/latest/635573-nicole-kidman-reflects-on-life-changing-moments-lucky-breaks"
       },
       {
-        "title": "Ogra recommends cut in SNGPL, SSGCL gas prices for FY2025",
+        "title": "Ogra recommends reduction in SNGPL, SSGC gas prices for FY2025",
         "link": "https://www.geo.tv/latest/635572-ogra-recommends-cut-in-sngpl-and-ssgcl-gas-prices"
       },
       {
         "title": "Mild earthquake shakes Balochistan's Sibi district",
         "link": "https://www.geo.tv/latest/635571-mild-earthquake-shakes-balochistans-sibi-district"
-      },
-      {
-        "title": "‘Stranger Things' cast hit million dollar mark per episode in final run",
-        "link": "https://www.geo.tv/latest/635570-stranger-things-cast-hit-million-dollar-mark-per-episode-in-final-run"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-25 23:00 UTC"
+  "last_updated": "2025-11-25 23:33 UTC"
 }
