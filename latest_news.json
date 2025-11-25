@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Chelsea vs Barcelona – UEFA Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/11/25/live-chelsea-vs-barcelona-champions-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,7 +7,7 @@
         "link": "https://www.bbc.com/news/articles/cd9znkxq47xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Jury trials could be scrapped in England and Wales except for most serious cases",
+        "title": "Justice secretary wants to scrap jury trials except for most serious cases",
         "link": "https://www.bbc.com/news/articles/cy7vdvrnnvzo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,10 +25,6 @@
     ],
     "AlJazeera": [
       {
-        "title": "LIVE: Chelsea vs Barcelona – UEFA Champions League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/11/25/live-chelsea-vs-barcelona-champions-league?traffic_source=rss"
-      },
-      {
         "title": "US-backed GHF ‘aid mission’ in Gaza ends – a timeline of violence",
         "link": "https://www.aljazeera.com/news/2025/11/25/us-backed-ghf-aid-mission-in-gaza-ends-a-timeline-of-violence?traffic_source=rss"
       },
@@ -49,6 +39,10 @@
       {
         "title": "Israel says it receives remains believed to be of Gaza captive",
         "link": "https://www.aljazeera.com/news/2025/11/25/israel-says-red-cross-receives-remains-of-deceased-gaza-captive?traffic_source=rss"
+      },
+      {
+        "title": "Has love evolved, or has the modern world rewritten it?",
+        "link": "https://www.aljazeera.com/video/doha-debates/2025/11/25/has-love-evolved-or-has-the-modern-world-rewritten-it?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -88,12 +82,12 @@
         "link": "https://www.dawn.com/news/1957299/senior-police-official-starts-talks-with-aleema-as-pti-supporters-stage-sit-in-near-adiala-jail"
       },
       {
-        "title": "Ali Tareen bows out as Multan Sultans owner after franchise denied renewal",
-        "link": "https://www.dawn.com/news/1957302/ali-tareen-bows-out-as-multan-sultans-owner-after-franchise-denied-renewal"
+        "title": "Pakistan warns of India’s targeting of religious minorities, Muslim cultural heritage",
+        "link": "https://www.dawn.com/news/1957314/pakistan-warns-of-indias-targeting-of-religious-minorities-muslim-cultural-heritage"
       },
       {
-        "title": "US and Russia hold peace talks in Abu Dhabi as missiles pound Kyiv",
-        "link": "https://www.dawn.com/news/1957305/us-and-russia-hold-peace-talks-in-abu-dhabi-as-missiles-pound-kyiv"
+        "title": "Ali Tareen bows out as Multan Sultans owner after franchise denied renewal",
+        "link": "https://www.dawn.com/news/1957302/ali-tareen-bows-out-as-multan-sultans-owner-after-franchise-denied-renewal"
       }
     ],
     "APNews": [],
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Mandy Moore reflects on playing Rapunzel",
+        "link": "https://www.geo.tv/latest/635544-mandy-moore-reflects-on-playing-rapunzel"
+      },
+      {
         "title": "Sadie Sink looks back on ‘Stranger Things' journey",
         "link": "https://www.geo.tv/latest/635542-sadie-sink-looks-back-on-stranger-things-journey"
       },
@@ -157,10 +155,6 @@
       {
         "title": "Ali Tareen opts not to extend Multan Sultans' PSL contract",
         "link": "https://www.geo.tv/latest/635536-ali-tareen-opts-not-to-extend-multan-sultans-psl-contract"
-      },
-      {
-        "title": "MGK shares proud dad moment with his and Megan Fox's baby girl",
-        "link": "https://www.geo.tv/latest/635539-mgk-shares-proud-dad-moment-with-his-and-megan-foxs-baby-girl"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-25 17:40 UTC"
+  "last_updated": "2025-11-25 17:52 UTC"
 }
