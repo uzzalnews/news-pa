@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Ukraine and Russia launch drone strikes during US-led peace talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/11/26/live-ukraine-and-russia-launch-drone-strikes-during-us-led-peace-talks?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Stuck in Gaza’s limbo: Palestinians struggle to live amid Israel’s attacks",
+        "link": "https://www.aljazeera.com/features/2025/11/26/stuck-in-gazas-limbo-palestinians-struggle-to-live-amid-israels-attacks?traffic_source=rss"
+      },
+      {
         "title": "At least 10 people killed in Indonesia floods, landslides",
         "link": "https://www.aljazeera.com/news/2025/11/26/indonesia-floods-and-landslides-leave-dozens-dead-and-missing?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "US will charge non-residents $100 to visit its most popular national parks",
         "link": "https://www.aljazeera.com/news/2025/11/26/us-will-charge-non-residents-100-to-visit-its-most-popular-national-parks?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Ukraine and Russia launch drone strikes during US-led peace talks",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/26/live-ukraine-and-russia-launch-drone-strikes-during-us-led-peace-talks?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -88,12 +82,12 @@
         "link": "https://www.dawn.com/news/1957473/integral-inalienable-part-of-india-new-delhi-responds-to-beijings-claim-over-arunachal-pradesh"
       },
       {
-        "title": "ADB okays additional $48m financing for water project in Balochistan",
-        "link": "https://www.dawn.com/news/1957468/adb-okays-additional-48m-financing-for-water-project-in-balochistan"
+        "title": "Retired judge Yar Muhammad takes oath as GB caretaker chief minister",
+        "link": "https://www.dawn.com/news/1957477/retired-judge-yar-muhammad-takes-oath-as-gb-caretaker-chief-minister"
       },
       {
-        "title": "Pakistan, Iran look to align on major fronts",
-        "link": "https://www.dawn.com/news/1957428/pakistan-iran-look-to-align-on-major-fronts"
+        "title": "ADB okays additional $48m financing for water project in Balochistan",
+        "link": "https://www.dawn.com/news/1957468/adb-okays-additional-48m-financing-for-water-project-in-balochistan"
       }
     ],
     "APNews": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "West Bank: Israeli army closes roads in Tubas to 'strengthen control over area'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-army-closes-roads-tubas-strengthen-control-over-area"
+      },
+      {
         "title": "Israel imposes total curfew, turns Tubas city into military barracks expelling residents",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-imposes-total-curfew-turns-tubas-city-military-barracks-expelling"
       },
@@ -135,13 +133,21 @@
       {
         "title": "Israel launches raids across West Bank, detains Palestinian",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-raids-across-west-bank-detains-palestinian"
-      },
-      {
-        "title": "Israeli forces launch fresh strikes across Gaza’s south and north",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-launch-fresh-strikes-across-gazas-south-and-north"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Glen Powell unleashes killing spree in 'How to Make a Killing'",
+        "link": "https://www.geo.tv/latest/635632-glen-powell-unleashes-killing-spree-in-how-to-make-a-killing-trailer"
+      },
+      {
+        "title": "Amazon issues urgent scam warning to its 300 million users",
+        "link": "https://www.geo.tv/latest/635645-amazon-issues-urgent-scam-warning-to-its-300-million-users"
+      },
+      {
+        "title": "Linda Hamilton talks about mysterious 'Stranger Things' role ahead of finale",
+        "link": "https://www.geo.tv/latest/635637-linda-hamilton-talks-about-mysterious-stranger-things-role-ahead-of-finale"
+      },
       {
         "title": "Jonathan Bailey didn't have the option to say 'no' to 'Wicked'",
         "link": "https://www.geo.tv/latest/635628-jonathan-bailey-didnt-have-the-option-to-say-no-to-wicked"
@@ -149,18 +155,6 @@
       {
         "title": "UK budget 2025: Viewer's guide to expected key announcements",
         "link": "https://www.geo.tv/latest/635634-uk-budget-2025-a-viewers-guide-to-expected-key-announcements"
-      },
-      {
-        "title": "'Stranger Things': Noah Schnapp shares off-camera moments he'll never forget",
-        "link": "https://www.geo.tv/latest/635627-stranger-things-noah-schnapp-shares-off-camera-moments-hell-never-forget"
-      },
-      {
-        "title": "Pakistan re-elected to executive body of chemical weapons watchdog: FO",
-        "link": "https://www.geo.tv/latest/635619-pakistan-re-elected-to-executive-body-of-chemical-weapons-watchdog-fo"
-      },
-      {
-        "title": "Meghan Markle royal title introduction explained: ‘not wrong'",
-        "link": "https://www.geo.tv/latest/635636-meghan-markle-royal-title-introduction-explained-not-wrong"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-26 07:46 UTC"
+  "last_updated": "2025-11-26 07:57 UTC"
 }
