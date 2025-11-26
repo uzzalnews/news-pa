@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Ukraine and Russia launch drone strikes during US-led peace talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/26/live-ukraine-and-russia-launch-drone-strikes-during-us-led-peace-talks?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,19 @@
         "link": "https://www.bbc.com/news/articles/cx2dny3r3vyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Sir Richard Branson 'heartbroken' as wife, Joan, dies aged 80",
-        "link": "https://www.bbc.com/news/articles/ce3z1gp2574o?at_medium=RSS&at_campaign=rss"
+        "title": "Italian parliament unanimously votes to make femicide a crime",
+        "link": "https://www.bbc.com/news/articles/c1dzp050yn2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US will charge non-residents $100 to visit its most popular national parks",
+        "link": "https://www.aljazeera.com/news/2025/11/26/us-will-charge-non-residents-100-to-visit-its-most-popular-national-parks?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Ukraine and Russia launch drone strikes during US-led peace talks",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/26/live-ukraine-and-russia-launch-drone-strikes-during-us-led-peace-talks?traffic_source=rss"
+      },
       {
         "title": "Trump says China’s Xi Jinping agreed to accelerate purchases of US goods",
         "link": "https://www.aljazeera.com/news/2025/11/26/trump-says-chinas-xi-jinping-agreed-to-accelerate-purchases-of-us?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "New Zealand mother jailed for life over ‘suitcase murders’ of her children",
         "link": "https://www.aljazeera.com/news/2025/11/26/new-zealand-mother-jailed-for-life-over-suitcase-murders-of-her-children?traffic_source=rss"
-      },
-      {
-        "title": "Cuba condemns ‘aggressive’ US stance towards Venezuela as tensions rise",
-        "link": "https://www.aljazeera.com/news/2025/11/26/cuba-condemns-aggressive-us-stance-towards-venezuela-as-tensions-rise?traffic_source=rss"
-      },
-      {
-        "title": "Indonesia’s Jakarta now the world’s largest city, Tokyo falls to third: UN",
-        "link": "https://www.aljazeera.com/news/2025/11/26/indonesias-jakarta-now-the-worlds-largest-city-tokyo-falls-to-third-un?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,16 @@
     ],
     "Dawn": [
       {
+        "title": "Professionalism of armed forces during Marka-i-Haq enhanced Pakistan’s global stature, says COAS Munir",
+        "link": "https://www.dawn.com/news/1957474/professionalism-of-armed-forces-during-marka-i-haq-enhanced-pakistans-global-stature-says-coas-munir"
+      },
+      {
         "title": "PM Shehbaz heads to Bahrain on 2-day visit",
         "link": "https://www.dawn.com/news/1957467/pm-shehbaz-heads-to-bahrain-on-2-day-visit"
+      },
+      {
+        "title": "ADB okays additional $48m financing for water resource development project in Balochistan",
+        "link": "https://www.dawn.com/news/1957468/adb-okays-additional-48m-financing-for-water-resource-development-project-in-balochistan"
       },
       {
         "title": "Pakistan, Iran look to align on major fronts",
@@ -80,14 +94,6 @@
       {
         "title": "IMF slams fiscal mismanagement",
         "link": "https://www.dawn.com/news/1957384/imf-slams-fiscal-mismanagement"
-      },
-      {
-        "title": "Pakistan is writing off Afghan Taliban, with no positive expectations left: Khawaja Asif",
-        "link": "https://www.dawn.com/news/1957315/pakistan-is-writing-off-afghan-taliban-with-no-positive-expectations-left-khawaja-asif"
-      },
-      {
-        "title": "Imran’s X account not operated from prison, Adiala admin tells court",
-        "link": "https://www.dawn.com/news/1957371/imrans-x-account-not-operated-from-prison-adiala-admin-tells-court"
       }
     ],
     "APNews": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel launches raids across West Bank, detains Palestinian",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-raids-across-west-bank-detains-palestinian"
+      },
+      {
+        "title": "Israeli forces launch fresh strikes across Gaza’s south and north",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-launch-fresh-strikes-across-gazas-south-and-north"
+      },
+      {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-467"
       },
@@ -125,58 +139,50 @@
       {
         "title": "Maersk to resume shipping routes through Red Sea and Suez Canal",
         "link": "https://www.middleeasteye.net/news/maersk-resume-shipping-routes-through-red-sea-and-suez-canal"
-      },
-      {
-        "title": "Israel not providing winter aid per ceasefire deal, prominent Gaza leader says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-not-providing-winter-aid-ceasefire-deal-prominent-gaza-leader"
-      },
-      {
-        "title": "Trump administration plans to reinterview refugees admitted under Biden: Report",
-        "link": "https://www.middleeasteye.net/news/trump-administration-plans-reinterview-refugees-admitted-us-under-biden-report"
       }
     ],
     "GeoTV": [
       {
-        "title": "Did Simon Cowell 'demotivate' Liam Payne about music career?",
-        "link": "https://www.geo.tv/latest/635610-did-simon-cowell-demotivate-liam-payne-about-music-career"
+        "title": "FIFA bends rules for Ronaldo after Trump meeting",
+        "link": "https://www.geo.tv/latest/635629-fifa-bends-rules-for-ronaldo-after-trump-meeting"
       },
       {
-        "title": "E-challan system faces challenges as 'only 69 of 89 traffic signals functioning in Karachi'",
-        "link": "https://www.geo.tv/latest/635602-e-challan-system-faces-challenges-as-only-69-of-89-traffic-signals-functioning-in-karachi"
+        "title": "Prince Edward carries out Palace orders as he holds key meetings",
+        "link": "https://www.geo.tv/latest/635630-prince-edward-carries-out-palace-orders-as-he-holds-key-meetings"
       },
       {
-        "title": "Prince William reveals Princess Kate's secret role in crucial royal task",
-        "link": "https://www.geo.tv/latest/635611-prince-william-reveals-princess-kates-secret-role-in-crucial-royal-task"
+        "title": "Field Marshal reaffirms army's support to federal, provincial govts for 'coordinated national efforts'",
+        "link": "https://www.geo.tv/latest/635624-field-marshal-reaffirms-armys-support-to-federal-provincial-govts-for-coordinated-national-efforts"
       },
       {
-        "title": "Noah Schnapp says goodbye to 'two big ending' of his life",
-        "link": "https://www.geo.tv/latest/635609-noah-schnapp-says-goodbye-to-two-big-ending-of-his-life"
+        "title": "Meghan Markle finally reacts to shocking claims: 'highly defamatory'",
+        "link": "https://www.geo.tv/latest/635622-meghan-markle-finally-reacts-to-shocking-claims-highly-defamatory"
       },
       {
-        "title": "PM Shehbaz departs for Bahrain on two-day visit",
-        "link": "https://www.geo.tv/latest/635604-pm-shehbaz-departs-for-bahrain-on-two-day-visit-today"
+        "title": "Brad Pitt, Ines de Ramon's 'Thanksgiving' plans revealed",
+        "link": "https://www.geo.tv/latest/635614-brad-pitt-ines-de-ramons-thanksgiving-plans-revealed"
       }
     ],
     "NDTV": [
       {
-        "title": "Toddler On Roof, SUV Drives For 10 Km After Hitting Bike In Madhya Pradesh",
-        "link": "https://www.ndtv.com/india-news/toddler-on-roof-suv-drives-for-10-km-after-hitting-bike-in-madhya-pradeshs-rewa-9701511#publisher=newsstand"
+        "title": "Nepali Woman Arrested At Mumbai Airport With Fake Indian Passport",
+        "link": "https://www.ndtv.com/mumbai-news/nepali-woman-arrested-at-mumbai-airport-with-fake-indian-passport-9701630#publisher=newsstand"
+      },
+      {
+        "title": "India Takes A 'LEAP' Forward With Giant Maintenance Facility In Hyderabad",
+        "link": "https://www.ndtv.com/india-news/india-takes-a-leap-forward-with-giant-safran-maintenance-facility-in-hyderabad-launched-by-pm-narendra-modi-9701785#publisher=newsstand"
+      },
+      {
+        "title": "At 8 Degrees Celsius, Delhi Records Coldest November Morning Since 2022",
+        "link": "https://www.ndtv.com/delhi-news/delhi-weather-today-delhi-coldest-november-morning-at-8-degrees-celsius-delhi-records-coldest-november-morning-since-2022-9701689#publisher=newsstand"
+      },
+      {
+        "title": "NDTV Investigation: Kerala Woman Who Tried To Radicalise Son Married To Terror Convict",
+        "link": "https://www.ndtv.com/india-news/kerala-woman-radicalise-minor-son-married-terror-convict-9701202#publisher=newsstand"
       },
       {
         "title": "On Camera, Teen Basketball Player Dies In Freak Court Accident In Rohtak",
         "link": "https://www.ndtv.com/india-news/on-camera-teen-basketball-player-dies-in-freak-court-accident-in-rohtak-9701231#publisher=newsstand"
-      },
-      {
-        "title": "Couple Found Dead At Home, Lipstick Messages On Walls Point To Murder-Suicide",
-        "link": "https://www.ndtv.com/india-news/chhattisgarh-couple-dead-lipstick-messages-on-walls-point-to-murder-suicide-9701399#publisher=newsstand"
-      },
-      {
-        "title": "'Americans First': Team Trump Hikes Fees For Foreign Tourists To Famous US Parks",
-        "link": "https://www.ndtv.com/world-news/donald-trump-team-puts-americans-first-us-hikes-fees-for-foreign-tourists-to-famous-parks-grand-canyon-yellowstone-9701348#publisher=newsstand"
-      },
-      {
-        "title": "\"Honour First-Time Voters\": PM Modi's Letter To Citizens On Constitution Day",
-        "link": "https://www.ndtv.com/india-news/pm-modi-on-constitution-day-pm-narendra-modis-letter-on-constitution-day-should-fulfil-our-duties-as-citizens-9701165#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-26 05:50 UTC"
+  "last_updated": "2025-11-26 06:54 UTC"
 }
