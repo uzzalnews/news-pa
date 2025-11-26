@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Arsenal vs Bayern Munich – UEFA Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/11/26/live-arsenal-vs-bayern-munich-uefa-champions-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,19 +11,23 @@
         "link": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "How the chancellor just took a chunk out of your future pay",
-        "link": "https://www.bbc.com/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss"
+        "title": "Faisal Islam: The real reason Reeves is making you pay more tax",
+        "link": "https://www.bbc.com/news/articles/cyvg3en12r1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "We make £100,000. The cut to cash Isa limit is a big blow",
         "link": "https://www.bbc.com/news/articles/c9d6zwppjvjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Budget watchdog apologises for leak before chancellor's statement",
-        "link": "https://www.bbc.com/news/articles/cgmn991pz9jo?at_medium=RSS&at_campaign=rss"
+        "title": "How the chancellor just took a chunk out of your future pay",
+        "link": "https://www.bbc.com/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Aftermath of Homs killings may mark turning point for Syria’s government",
+        "link": "https://www.aljazeera.com/news/2025/11/26/aftermath-of-homs-killings-may-mark-turning-point-for-syrias-government?traffic_source=rss"
+      },
       {
         "title": "US group sues Apple over DR Congo conflict minerals",
         "link": "https://www.aljazeera.com/economy/2025/11/26/us-group-sues-apple-over-dr-congo-conflict-minerals?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "Massive fire rips through Hong Kong high-rise complex, killing several",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/26/massive-fire-rips-through-hong-kong-high-rise-complex-killing-several?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Arsenal vs Bayern Munich – UEFA Champions League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/11/26/live-arsenal-vs-bayern-munich-uefa-champions-league?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,11 +109,19 @@
         "link": "https://www.nytimes.com/2025/11/26/business/scott-bessent-inflation.html"
       },
       {
-        "title": "Northwestern University Nears Deal to Resolve Its Conflict With the White House",
-        "link": "https://www.nytimes.com/2025/11/26/us/politics/northwestern-university-trump-deal.html"
+        "title": "Trump Administration Will No Longer Commemorate World AIDS Day",
+        "link": "https://www.nytimes.com/2025/11/26/health/trump-us-world-aids-day.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "US: ICE detains mother of press secretary Karoline Leavitt’s nephew",
+        "link": "https://www.middleeasteye.net/news/mother-karoline-leavitt-nephew-immigration-agents"
+      },
+      {
+        "title": "Ulster MP’s claim police caved to Muslim ‘pressure’ over Maccabi row ‘disgraceful and divisive’",
+        "link": "https://www.middleeasteye.net/news/mp-who-said-police-caved-pressure-muslim-politicians-reported-parliamentary-commissioner"
+      },
       {
         "title": "Protesters arrested outside High Court as Palestine Action fights UK terror ban",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/protesters-arrested-outside-high-court-palestine-action-fights-uk-terror"
@@ -131,17 +133,21 @@
       {
         "title": "Lebanon: Christmas lights installation in Beirut sparks controversy",
         "link": "https://www.middleeasteye.net/trending/lebanon-beirut-christmas-lights-installation-sparks-controversy"
-      },
-      {
-        "title": "Israel passed 30 laws 'deepening apartheid’ since 7 October 2023, legal centre says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-passed-30-laws-deepening-apartheid-7-october-legal-centre-says"
-      },
-      {
-        "title": "Israel passed 30 laws 'deepening apartheid’ since 7 October, legal centre says",
-        "link": "https://www.middleeasteye.net/news/israel-passed-30-laws-deepening-apartheid-7-october-adalah-says"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Guy Fieri reveals he's in a wheelchair after extreme leg injury",
+        "link": "https://www.geo.tv/latest/635775-guy-fieri-reveals-hes-in-a-wheelchair-after-extreme-leg-injury"
+      },
+      {
+        "title": "Tina O'Brien 'dumps' boyfriend Adam Fadle as romance was not going anywhere",
+        "link": "https://www.geo.tv/latest/635763-heartbroken-tina"
+      },
+      {
+        "title": "Imran Khan healthy, not shifted anywhere: Adiala jail admin",
+        "link": "https://www.geo.tv/latest/635771-imran-khan-healthy-not-shifted-anywhere-adiala-jail-admin"
+      },
       {
         "title": "Maya Hawke makes unexpected confession about ‘Stranger Things' amid its success",
         "link": "https://www.geo.tv/latest/635765-maya-hawke-makes-unexpected-confession-about-stranger-things-amid-its-success"
@@ -149,40 +155,28 @@
       {
         "title": "2025 celebrity breakups: From quiet separations to messy splits",
         "link": "https://www.geo.tv/latest/635721-2025-celebrity-breakups-from-quiet-separations-to-messy-splits"
-      },
-      {
-        "title": "Jessie Buckley shares surprising reaction to 'Hamnet' Oscar nomination",
-        "link": "https://www.geo.tv/latest/635764-jessie-buckley-shares-surprising-reaction-to-hamnet-oscar-nomination"
-      },
-      {
-        "title": "Bindi Irwin reacts to brother Robert following in her 'DWTS' footsteps",
-        "link": "https://www.geo.tv/latest/635770-bindi-irwin-reacts-to-brother-robert-following-in-her-dwts-footsteps"
-      },
-      {
-        "title": "Nasa rover detects 'mini-lightning' on Mars",
-        "link": "https://www.geo.tv/latest/635755-nasa-rover-detects-mini-lightning-on-mars"
       }
     ],
     "NDTV": [
       {
-        "title": "Taiwan Announces $40 Billion Defence Budget Amid China's Invasion Threats",
-        "link": "https://www.ndtv.com/world-news/taiwan-announces-40-billion-defence-budget-amid-chinas-invasion-threats-9706624#publisher=newsstand"
+        "title": "Top Court Slams Haryana For Uprooting 40 Trees To Build Road To BJP Office",
+        "link": "https://www.ndtv.com/india-news/top-court-slams-haryana-for-uprooting-40-trees-to-build-road-to-bjp-office-9706804#publisher=newsstand"
       },
       {
-        "title": "Bloodstained Bodies Of Man, Woman Found Inside Car In Tripura",
-        "link": "https://www.ndtv.com/india-news/bloodstained-bodies-of-man-woman-found-inside-car-in-tripura-9706596#publisher=newsstand"
+        "title": "Delhi Records Coldest November Morning Since 2022 At 8 Degrees Celsius",
+        "link": "https://www.ndtv.com/india-news/delhi-records-coldest-november-morning-since-2022-at-8-degrees-celsius-9706802#publisher=newsstand"
       },
       {
-        "title": "\"Kyun Nahi Bolenge?\" Mamata Banerjee Slams Rajya Sabha's Slogan Guidelines",
-        "link": "https://www.ndtv.com/india-news/kyun-nahi-bolenge-mamata-banerjee-slams-rajya-sabhas-slogan-guidelines-9706590#publisher=newsstand"
+        "title": "Arbitrary Actions Unhelpful: India On Arunachal Woman's Detention In China",
+        "link": "https://www.ndtv.com/india-news/arbitrary-actions-unhelpful-india-on-arunachal-womans-detention-in-china-9706796#publisher=newsstand"
       },
       {
-        "title": "'Will Cancel Bail': Judge To Trinamool Leader After Court No-Show",
-        "link": "https://www.ndtv.com/india-news/will-cancel-bail-judge-warns-partha-chatterjee-after-court-no-show-9706593#publisher=newsstand"
+        "title": "\"Doctors Coerced To Say Suicide Due To SIR\": BJP Leader Locket Chatterjee",
+        "link": "https://www.ndtv.com/india-news/doctors-coerced-to-say-suicide-due-to-sir-bjp-leader-locket-chatterjee-9706795#publisher=newsstand"
       },
       {
-        "title": "'We Support All Efforts To Bring Lasting Peace': India On Ukraine Plan",
-        "link": "https://www.ndtv.com/world-news/we-support-all-efforts-to-bring-lasting-peace-india-on-ukraine-peace-plan-9706380#publisher=newsstand"
+        "title": "'Mini-Lightning': NASA Rover Detects Electrical Discharges On Mars",
+        "link": "https://www.ndtv.com/world-news/mini-lightning-nasa-rover-detects-electrical-discharges-on-mars-9705872#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-26 18:58 UTC"
+  "last_updated": "2025-11-26 19:25 UTC"
 }
