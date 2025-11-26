@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Arsenal vs Bayern Munich – UEFA Champions League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/11/26/live-arsenal-vs-bayern-munich-uefa-champions-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,19 @@
         "link": "https://www.bbc.com/news/articles/cgmn991pz9jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Properties worth more than £2m in England face new tax",
-        "link": "https://www.bbc.com/news/articles/ce910z9jd3po?at_medium=RSS&at_campaign=rss"
+        "title": "We make £100,000. The cut to cash Isa limit is a big blow",
+        "link": "https://www.bbc.com/news/articles/c9d6zwppjvjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Massive fire rips through Hong Kong high-rise complex, killing several",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/26/massive-fire-rips-through-hong-kong-high-rise-complex-killing-several?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Arsenal vs Bayern Munich – UEFA Champions League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/11/26/live-arsenal-vs-bayern-munich-uefa-champions-league?traffic_source=rss"
+      },
       {
         "title": "Georgia judge drops election interference case against Trump",
         "link": "https://www.aljazeera.com/news/2025/11/26/georgia-judge-drops-election-interference-case-against-trump?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Pope Leo to travel to Turkiye, Lebanon on first foreign trip",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/26/pope-leo-to-travel-to-turkiye-lebanon-on-first-foreign-trip?traffic_source=rss"
-      },
-      {
-        "title": "How Ukraine gamifies war",
-        "link": "https://www.aljazeera.com/video/digital-dilemma/2025/11/26/how-ukraine-gamifies-war?traffic_source=rss"
-      },
-      {
-        "title": "UK unveils significant tax rises in budget after ‘shambolic’ forecast leak",
-        "link": "https://www.aljazeera.com/news/2025/11/26/uk-unveils-significant-tax-rises-in-budget-after-shambolic-forecast-leak?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -105,8 +111,8 @@
         "link": "https://www.nytimes.com/video/us/politics/100000010540099/fact-check-is-trump-right-about-affordability.html"
       },
       {
-        "title": "Trump’s Retribution Push Has Expanded Even as It Hits Legal Barriers",
-        "link": "https://www.nytimes.com/2025/11/25/us/politics/trumps-retribution-legal-barriers.html"
+        "title": "As Prices Pinch, Bessent Looks for Ways to Mollify Wary Consumers",
+        "link": "https://www.nytimes.com/2025/11/26/business/scott-bessent-inflation.html"
       },
       {
         "title": "Trump Vowed Fewer Regulations and Lots More Oil. He’s Delivered on One.",
@@ -114,6 +120,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israel passed 30 laws 'deepening apartheid’ since 7 October, legal centre says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-passed-30-laws-deepening-apartheid-7-october-legal-centre-says"
+      },
       {
         "title": "Israel passed 30 laws 'deepening apartheid’ since 7 October, legal centre says",
         "link": "https://www.middleeasteye.net/news/israel-passed-30-laws-deepening-apartheid-7-october-adalah-says"
@@ -129,13 +139,21 @@
       {
         "title": "Israel returns 15 Palestinian bodies to Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-returns-15-palestinian-bodies-gaza"
-      },
-      {
-        "title": "UK government prepares to defend ban on Palestine Action in judicial review",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-government-prepares-defend-ban-palestine-action-judicial-review"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Meghan Markle sparks concern with latest clip",
+        "link": "https://www.geo.tv/latest/635757-meghan-markle-sparks-concern-about-guests-health-in-latest-clip"
+      },
+      {
+        "title": "Pam Hogg designer to Beyoncé and Lady Gaga passes away",
+        "link": "https://www.geo.tv/latest/635756-pamela-hogg-designer-to-beyounce-and-lady-gaga-passes-away"
+      },
+      {
+        "title": "Iran's top security adviser urges stronger Islamabad-Tehran joint security mechanism",
+        "link": "https://www.geo.tv/latest/635750-irans-top-security-adviser-urges-stronger-islamabad-tehran-joint-security-mechanism"
+      },
       {
         "title": "Duchess of Kent's bizarre habit revealed by daughter after her death",
         "link": "https://www.geo.tv/latest/635754-duchess-of-kents-bizarre-habit-revealed-by-daughter-after-her-death"
@@ -143,43 +161,35 @@
       {
         "title": "Karachi Safari Park welcomes birth of multiple wildlife species",
         "link": "https://www.geo.tv/latest/635752-karachi-safari-park-welcomes-birth-of-multiple-wildlife-species"
-      },
-      {
-        "title": "Dera Ghazi Khan's Nabeel Abbas shines in 'Pakistan Idol' Top 16",
-        "link": "https://www.geo.tv/latest/635751-dera-ghazi-khans-nabeel-abbas-shines-in-pakistan-idol-top-16"
-      },
-      {
-        "title": "Dua Lipa 'excited' ahead of debut concert in peru",
-        "link": "https://www.geo.tv/latest/635737-dua-lipa-excited-ahead-of-debut-concert-in-peru"
-      },
-      {
-        "title": "Justin Bieber appears upset on drive after no birthday post for Hailey",
-        "link": "https://www.geo.tv/latest/635748-justin-bieber-appears-upset-on-drive-after-no-birthday-post-for-hailey"
       }
     ],
     "NDTV": [
       {
-        "title": "Pak Using Terrorism As State Policy Against India Since 1947: Report",
-        "link": "https://www.ndtv.com/india-news/26-11-pakistan-using-terrorism-as-state-policy-against-india-since-1947-report-9705535#publisher=newsstand"
+        "title": "Man Poses As IAS, IPS Officers For 2 Years To Dupe People, Arrested",
+        "link": "https://www.ndtv.com/india-news/man-poses-as-ias-ips-officers-for-2-years-to-dupe-people-arrested-9704832#publisher=newsstand"
+      },
+      {
+        "title": "Top Court Sets Up Medical Board To Explore Passive Euthanasia For UP Man",
+        "link": "https://www.ndtv.com/india-news/top-court-sets-up-medical-board-to-explore-passive-euthanasia-for-up-man-9706289#publisher=newsstand"
+      },
+      {
+        "title": "13 Dead After Fire Rips Through Seven High-Rise Buildings In Hong Kong",
+        "link": "https://www.ndtv.com/world-news/13-dead-after-fire-rips-through-seven-high-rise-buildings-in-hong-kong-9704745#publisher=newsstand"
+      },
+      {
+        "title": "\"Should Be Solved Soon\": Karnataka Minister To NDTV Amid Leadership Tussle",
+        "link": "https://www.ndtv.com/india-news/siddaramaiah-dk-shivakumar-satish-jarkiholi-should-be-solved-soon-karnataka-minister-amid-big-leadership-tussle-9706061#publisher=newsstand"
       },
       {
         "title": "\"It Is Being Examined\": India On Bangladesh's Sheikh Hasina Extradition Request",
         "link": "https://www.ndtv.com/world-news/it-is-being-examined-india-on-bangladeshs-sheikh-hasina-extradition-request-9705424#publisher=newsstand"
-      },
-      {
-        "title": "10 Kg Gold Seized From Sheikh Hasina's Bank Lockers: Official",
-        "link": "https://www.ndtv.com/world-news/10-kg-gold-worth-over-seized-from-sheikh-hasinas-bank-lockers-official-9703186#publisher=newsstand"
-      },
-      {
-        "title": "Who's Polluting Delhi's Air? Data Shows Farm Fires Are Just Part Of Problem",
-        "link": "https://www.ndtv.com/india-news/delhi-air-pollution-delhi-air-delhi-smog-whos-polluting-delhis-air-data-shows-farm-fires-are-just-part-of-problem-9705344#publisher=newsstand"
-      },
-      {
-        "title": "From Flattery To Silent Diplomacy: How Latin America Is Tackling Trump",
-        "link": "https://www.ndtv.com/world-news/from-flattery-to-silent-diplomacy-how-latin-america-is-tackling-trump-9700986#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Guinea-Bissau officers take ‘total control’ and close borders amid election chaos",
+        "link": "https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos"
+      },
       {
         "title": "Nigerian schoolgirls rescued after mass abduction in Kebbi",
         "link": "https://www.theguardian.com/world/2025/nov/25/nigerian-schoolgirls-rescued-after-mass-abduction-in-kebbi"
@@ -195,12 +205,8 @@
       {
         "title": "Ethiopian volcano erupts for first time in 12,000 years",
         "link": "https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years"
-      },
-      {
-        "title": "Cyril Ramaphosa closes G20 summit after US boycott and handover row",
-        "link": "https://www.theguardian.com/world/2025/nov/23/cyril-ramaphosa-gavel-g20-summit-us-handover"
       }
     ]
   },
-  "last_updated": "2025-11-26 16:52 UTC"
+  "last_updated": "2025-11-26 17:38 UTC"
 }
