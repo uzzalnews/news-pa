@@ -1,16 +1,18 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel launches air strikes on West Bank as incursion turns deadly",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/11/27/live-israel-launches-air-strikes-on-west-bank-as-incursion-turns-deadly?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Households face 'dismal' rise in spending power after Budget, says IFS think tank",
+        "title": "Households face 'dismal' rise in spending power, says IFS, as Starmer defends Budget",
         "link": "https://www.bbc.com/news/articles/c75vwevr652o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Hang in there': Agonising wait for the missing after Hong Kong blaze",
+        "link": "https://www.bbc.com/news/articles/cj9y0pjzmdro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Putin doubles down on demands for Ukrainian territory ahead of talks with US in Moscow",
+        "link": "https://www.bbc.com/news/articles/cp84nl57v0lo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Man, 31, arrested over Manchester synagogue attack",
@@ -19,36 +21,28 @@
       {
         "title": "Sharp fall in UK net migration with drop in arrivals for work and study",
         "link": "https://www.bbc.com/news/articles/c246ndy63j9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Track the latest migration numbers - including asylum, visas and small boats",
-        "link": "https://www.bbc.com/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ban harmful social media content instead of us, say Australian teens challenging ban",
-        "link": "https://www.bbc.com/news/articles/crrkw1p14eqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Putin says US-backed peace plan as framework is OK ‘in general’",
-        "link": "https://www.aljazeera.com/news/2025/11/27/putin-says-us-backed-peace-plan-as-framework-is-ok-in?traffic_source=rss"
+        "title": "US teen Mohammed Ibrahim released from Israeli prison after nine months",
+        "link": "https://www.aljazeera.com/news/2025/11/27/us-teen-mohammed-ibrahim-released-from-israeli-prison-after-nine-months?traffic_source=rss"
       },
       {
-        "title": "The 1930s 2.0 & the collapse of American soft power",
-        "link": "https://www.aljazeera.com/video/centre-stage/2025/11/27/the-1930s-2-0-the-collapse-of-american-soft-power?traffic_source=rss"
+        "title": "The numbers behind UN report on women and girls killed",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/27/the-numbers-behind-un-report-on-women-and-girls-killed?traffic_source=rss"
       },
       {
-        "title": "Guinea-Bissau coup: What happened, why it matters, what happens next?",
-        "link": "https://www.aljazeera.com/news/2025/11/27/guinea-bissau-coup-what-happened-why-it-matters-what-happens-next?traffic_source=rss"
+        "title": "US appears to back plan to divide Gaza, rebuild Israeli-controlled side",
+        "link": "https://www.aljazeera.com/news/2025/11/27/us-appears-to-back-plan-to-divide-gaza-rebuild-israeli-controlled-side?traffic_source=rss"
       },
       {
-        "title": "Israeli air strikes hit villages in south Lebanon on ceasefire anniversary",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/27/israeli-air-strikes-hit-villages-in-south-lebanon-on-ceasefire-anniversary?traffic_source=rss"
+        "title": "National Guard members shot in Washington, DC, attack identified",
+        "link": "https://www.aljazeera.com/news/2025/11/27/national-guard-members-shot-in-washington-dc-attack-identified?traffic_source=rss"
       },
       {
-        "title": "LIVE: Israel launches air strikes on West Bank as incursion turns deadly",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/27/live-israel-launches-air-strikes-on-west-bank-as-incursion-turns-deadly?traffic_source=rss"
+        "title": "Hundreds of children ‘terrified’ and alone after fleeing Sudan’s el-Fasher",
+        "link": "https://www.aljazeera.com/news/2025/11/27/hundreds-of-children-terrified-and-alone-after-fleeing-sudans-el-fasher?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1957731/fbi-director-says-suspect-in-us-national-guard-shooting-worked-with-partner-forces-in-afghanistan"
       },
       {
+        "title": "FIA initiates action against social media accounts spreading reports of arbitrary offloading of passengers",
+        "link": "https://www.dawn.com/news/1957732/fia-initiates-action-against-social-media-accounts-spreading-reports-of-arbitrary-offloading-of-passengers"
+      },
+      {
         "title": "Human rights minister assures EU mission of commitment to GSP Plus",
         "link": "https://www.dawn.com/news/1957728/human-rights-minister-assures-eu-mission-of-commitment-to-gsp-plus"
       },
       {
         "title": "Sindh Assembly rejects Indian defence minister’s ‘delusional’ remarks on province as attempt to distort history",
         "link": "https://www.dawn.com/news/1957712/sindh-assembly-rejects-indian-defence-ministers-delusional-remarks-on-province-as-attempt-to-distort-history"
-      },
-      {
-        "title": "KP CM Afridi stages sit-in after being denied meeting with Imran for eighth time",
-        "link": "https://www.dawn.com/news/1957717/kp-cm-afridi-stages-sit-in-after-being-denied-meeting-with-imran-for-eighth-time"
       }
     ],
     "APNews": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli press review: Rebuilding challenges persist months after Iran war",
+        "link": "https://www.middleeasteye.net/news/israeli-press-review-rebuilding-challenges-persist-months-after-iran-war"
+      },
+      {
+        "title": "Fuel shortages halt half of Gaza’s emergency services",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fuel-shortages-halt-half-gazas-emergency-services"
+      },
+      {
         "title": "Israeli settlers set fire to mosque in northern West Bank village",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-set-fire-mosque-northern-west-bank-village"
       },
@@ -131,58 +133,50 @@
       {
         "title": "For Palestinian prisoners trapped in Israel's gulag, lawyer visits are a lifeline",
         "link": "https://www.middleeasteye.net/opinion/for-palestinian-prisoners-trapped-israel-gulag-lawyer-visits-lifeline"
-      },
-      {
-        "title": "Israeli army imposes siege on northern West Bank for second day",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-imposes-siege-northern-west-bank-second-day"
-      },
-      {
-        "title": "Turkey unveils rare and ancient Christian fresco during the pope’s visit",
-        "link": "https://www.middleeasteye.net/news/turkey-unveils-rare-christian-artefact-during-popes-visit"
       }
     ],
     "GeoTV": [
       {
-        "title": "Zara Tindall's emotional side while celebrating conservation champions",
-        "link": "https://www.geo.tv/latest/635968-zara-tindalls-emotional-side-while-celebrating-conservation-champions"
+        "title": "Sharon Osbourne latest act made Ozzy fans emotional",
+        "link": "https://www.geo.tv/latest/635999-sharon-osbourne-latest-act-made-ozzy-fans-emotional"
       },
       {
-        "title": "Katie Price fears for Harvey's health as new weight loss drug considered",
-        "link": "https://www.geo.tv/latest/635961-katie-price-fears-for-harveys-health-as-new-weight-loss-drug-considered"
+        "title": "Lions no more, India's Test team appear vulnerable on home soil",
+        "link": "https://www.geo.tv/latest/635985-lions-no-more-indias-test-team-appear-vulnerable-on-home-soil"
       },
       {
-        "title": "Kate Middleton confirms new meaningful beginnings in fresh statement",
-        "link": "https://www.geo.tv/latest/635975-kensington-palace-makes-announcement-as-princess-kate-begins-new-chapter"
+        "title": "Simon Cowell, Lauren Silverman enjoy family boat trip ahead of Netflix show",
+        "link": "https://www.geo.tv/latest/635990-simon-cowell-lauren-silverman-enjoy-family-boat-trip-ahead-of-netflix-show"
       },
       {
-        "title": "Top 5 features of iOS 27 coming in June 2026",
-        "link": "https://www.geo.tv/latest/635974-top-5-features-of-ios-27-coming-in-june-2026"
+        "title": "Meghan Markle in negative limelight after 'tone deaf' moveÂ Â",
+        "link": "https://www.geo.tv/latest/635984-meghan-markle-in-negative-limelight-after-tone-deaf-move"
       },
       {
-        "title": "Jeff Brazier seen without wedding ring after announcing split from Kate",
-        "link": "https://www.geo.tv/latest/635973-jeff-brazier-seen-without-wedidng-ring-after-announcing-split-with"
+        "title": "How Princess Diana's haven turned to hell: Aide reveals 'bitter truth'",
+        "link": "https://www.geo.tv/latest/635953-how-princess-dianas-haven-turned-to-hell-aide-reveals-bitter-truth"
       }
     ],
     "NDTV": [
       {
-        "title": "UP Mass Wedding Turns Chaotic As Crowd Rushes To Grab, Snatch Chips",
-        "link": "https://www.ndtv.com/india-news/up-mass-wedding-turns-chaotic-as-crowd-rush-to-grab-snatch-chips-9711817#publisher=newsstand"
+        "title": "Imran Khan Sister's Big Warning Amid Rumours About His Health Inside Prison",
+        "link": "https://www.ndtv.com/world-news/no-one-can-dare-touch-him-imran-khans-sister-amid-death-rumours-9712239#publisher=newsstand"
       },
       {
-        "title": "Jal Jeevan Mission Finds 26% Villages Without Water, 7 States Face Big Fine",
-        "link": "https://www.ndtv.com/india-news/jal-jeevan-mission-finds-26-villages-without-water-centre-freezes-funds-9711803#publisher=newsstand"
+        "title": "UAE Halts Visas For Pakistanis Amid Rising Cases Of Begging And Crime",
+        "link": "https://www.ndtv.com/world-news/uae-halts-visas-for-pakistanis-amid-rising-cases-of-begging-and-crime-9712273#publisher=newsstand"
       },
       {
-        "title": "CIA, Mossad Engineered Congress Defeat In 2014, Says Party's Former MP",
-        "link": "https://www.ndtv.com/india-news/cia-mossad-engineered-congress-defeat-in-2014-says-partys-former-mp-kumar-ketkar-9711816#publisher=newsstand"
+        "title": "Why Hong Kong's Deadly Fire Spread Swiftly - Focus On Fast-Burning Foam",
+        "link": "https://www.ndtv.com/world-news/hong-kong-fire-wang-fuk-court-why-hong-kongs-deadly-fire-spread-swiftly-focus-on-fast-burning-foam-9710035#publisher=newsstand"
       },
       {
-        "title": "Expelled AIADMK Leader KA Sengottaiyan Gets Key Post In Vijay's TVK",
-        "link": "https://www.ndtv.com/india-news/expelled-aiadmk-leader-ka-sengottaiyan-gets-key-post-in-vijays-tvk-9711679#publisher=newsstand"
+        "title": "Enforcement Directorate Raids In 15 Locations Across 10 States In Medical College Scam",
+        "link": "https://www.ndtv.com/india-news/enforcement-directorate-raids-in-15-locations-across-10-states-in-medical-college-scam-9712254#publisher=newsstand"
       },
       {
-        "title": "\"Enlargement Of Territorial Claims Untenable\": Government Sources On Nepal Currency Row",
-        "link": "https://www.ndtv.com/india-news/unilateral-artificial-enlargement-of-territorial-claims-untenable-government-sources-on-indian-regions-on-nepals-currency-9711544#publisher=newsstand"
+        "title": "Earthquake Of Magnitude 5.3 Strikes Indian Ocean, Third In Same Day",
+        "link": "https://www.ndtv.com/india-news/earthquake-of-magnitude-5-3-strikes-indian-ocean-third-in-same-day-9712233#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-27 15:50 UTC"
+  "last_updated": "2025-11-27 16:47 UTC"
 }
