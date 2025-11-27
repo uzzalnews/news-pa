@@ -1,10 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel launches air strikes on West Bank as incursion turns deadly",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/27/live-israel-launches-air-strikes-on-west-bank-as-incursion-turns-deadly?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Chris Mason: Reeves chooses to tax big and spend big",
-        "link": "https://www.bbc.com/news/articles/c3e03z34j29o?at_medium=RSS&at_campaign=rss"
+        "title": "Households face 'dismal' rise in spending power after Budget, says IFS think tank",
+        "link": "https://www.bbc.com/news/articles/c75vwevr652o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Man, 31, arrested over Manchester synagogue attack",
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Israel launches air strikes on West Bank as incursion turns deadly",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/27/live-israel-launches-air-strikes-on-west-bank-as-incursion-turns-deadly?traffic_source=rss"
+      },
+      {
         "title": "Can Trump ban South Africa from 2026 G20 summit, as he says he will?",
         "link": "https://www.aljazeera.com/news/2025/11/27/can-trump-ban-south-africa-from-2026-g20-summit-as-he-says-he-will?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Japan denies report Trump told PM Takaichi not to provoke China on Taiwan",
         "link": "https://www.aljazeera.com/news/2025/11/27/japan-denies-report-trump-told-pm-takaichi-not-to-provoke-china-on-taiwan?traffic_source=rss"
-      },
-      {
-        "title": "Trump, Venezuela and the new cold war with China",
-        "link": "https://www.aljazeera.com/video/pinch-point/2025/11/27/aje-onl-pp-caribbean-war-271125?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,10 +99,6 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "What We Know About the National Guard Shooting in D.C. and the Suspect",
-        "link": "https://www.nytimes.com/2025/11/26/us/national-guard-dc-shooting-suspect.html"
-      },
-      {
         "title": "Hong Kong’s Worst Fire in Decades Fuels Scrutiny of Safety Lapses",
         "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-tai-po-apartment-buildings.html"
       },
@@ -111,9 +113,17 @@
       {
         "title": "U.S. to Press Europe and Other Allies on Immigration, Document Says",
         "link": "https://www.nytimes.com/2025/11/26/us/politics/trump-rubio-mass-migration.html"
+      },
+      {
+        "title": "Where the Waters Are Rough, a Fishing Town Confronts Trump’s Priorities",
+        "link": "https://www.nytimes.com/2025/11/27/us/politics/newport-oregon-ice.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Turkey unveils rare and ancient Christian fresco during the pope’s visit",
+        "link": "https://www.middleeasteye.net/news/turkey-unveils-rare-christian-artefact-during-popes-visit"
+      },
       {
         "title": "Israeli forces uproot over 100 olive trees in West Bank villages",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-uproot-more-one-hundred-olive-trees-west-bank-villages"
@@ -129,13 +139,17 @@
       {
         "title": "Israel arrests journalist, photographer in Tubas amid ongoing siege",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-arrests-journalist-photographer-tubas-amid-ongoing-siege"
-      },
-      {
-        "title": "ICE detains Jordanian man in Dallas, leaving disabled son hospitalised",
-        "link": "https://www.middleeasteye.net/news/ice-detains-jordanian-man-dallas-leaving-disabled-son-hospitalised"
       }
     ],
     "GeoTV": [
+      {
+        "title": "James Cameron rejects Oscars for THIS reason",
+        "link": "https://www.geo.tv/latest/635979-james-cameron-rejects-oscars-for-this-reason"
+      },
+      {
+        "title": "Selena Gomez's mother-in-law calls 911 while hiding from home invaders",
+        "link": "https://www.geo.tv/latest/635978-selena-gomezs-mother-in-law-calls-911-while-hiding-from-home-invaders"
+      },
       {
         "title": "UAE envoy denies reports of visa ban for Pakistanis",
         "link": "https://www.geo.tv/latest/635972-uae-envoy-denies-reports-of-visa-ban-for-pakistanis"
@@ -147,14 +161,6 @@
       {
         "title": "Biggest Tesla service centre launched in India amid slow EV sales",
         "link": "https://www.geo.tv/latest/635971-despite-slow-ev-sales-tesla-opens-biggest"
-      },
-      {
-        "title": "Duchess Sophie receives honour as she echoes Princess Kate's thoughts",
-        "link": "https://www.geo.tv/latest/635960-duchess-sophie-receives-honour-as-she-echoes-princess-kates-thoughts"
-      },
-      {
-        "title": "Prince William is 'reliving' his childhood with George, Charlotte, Louis",
-        "link": "https://www.geo.tv/latest/635969-prince-william-is-reliving-his-childhood-with-george-charlotte-louis"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-27 14:43 UTC"
+  "last_updated": "2025-11-27 14:55 UTC"
 }
