@@ -91,8 +91,33 @@
       }
     ],
     "APNews": [],
-    "NYTimes": [],
+    "NYTimes": [
+      {
+        "title": "Trump’s Response to Shooting Shows Intensified Anti-Immigration Stance",
+        "link": "https://www.nytimes.com/2025/11/28/us/politics/trumps-response-to-shooting-shows-intensified-anti-migrant-stance.html"
+      },
+      {
+        "title": "‘My Baby Girl Has Passed to Glory,’ Says Father of Guard Soldier Killed in D.C. Shooting",
+        "link": "https://www.nytimes.com/2025/11/28/us/politics/dc-shooting-victims-beckstrom-wolfe.html"
+      },
+      {
+        "title": "For Shooting Suspect, a Long Path of Conflict From Afghanistan to America",
+        "link": "https://www.nytimes.com/2025/11/27/us/guard-shooting-suspect-profile.html"
+      },
+      {
+        "title": "Officials Had Been Warned for Over a Year Before Hong Kong Fire",
+        "link": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire-officials-warned.html"
+      },
+      {
+        "title": "A Hong Kong Fire Survivor’s Escape, in His Own Words",
+        "link": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire-survivor-escape-story.html"
+      }
+    ],
     "MiddleEastEye": [
+      {
+        "title": "Trump applies total immigration ban to 'Third World Countries'",
+        "link": "https://www.middleeasteye.net/news/trump-applies-total-immigration-ban-countries-after-national-guard-shooting"
+      },
       {
         "title": "Iran to boycott World Cup draw after US refuses visas for most delegates",
         "link": "https://www.middleeasteye.net/trending/iran-boycott-world-cup-draw-after-us-refuses-visas-most-delegation"
@@ -108,13 +133,13 @@
       {
         "title": "Pope Leo's Turkey visit inspires 'new crusade' conspiracy theories",
         "link": "https://www.middleeasteye.net/news/turkey-pope-leo-visit-wild-range-new-crusade-conspiracy-theories"
-      },
-      {
-        "title": "A non-white face on a racist asylum policy is just a mask for cruelty",
-        "link": "https://www.middleeasteye.net/opinion/non-white-face-cannot-mask-uk-inhumane-asylum-policies"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince William's upcoming 'radical' changes forces King Charles to take caution",
+        "link": "https://www.geo.tv/latest/636254-prince-williams-upcoming-radical-changes-forces-king-charles-to-take-caution"
+      },
       {
         "title": "Ukraine's top negotiator quits after graft raid, throwing peace talks into doubt",
         "link": "https://www.geo.tv/latest/636265-ukraines-chief-negotiator-quits-after-corruption-raid-throwing-peace-talks-into-doubt"
@@ -130,13 +155,17 @@
       {
         "title": "Meghan Markle turns bookmarks into heartwarming Holiday gifts",
         "link": "https://www.geo.tv/latest/636244-meghan-markle-turns-bookmarks-into-heartwarming-holiday-gifts"
-      },
-      {
-        "title": "Kim Kardashian is getting weak mentally",
-        "link": "https://www.geo.tv/latest/636250-kim-kardashian-is-getting-weak-mentally"
       }
     ],
     "NDTV": [
+      {
+        "title": "Trump Says Any Document Signed By Biden With Autopen Is \"Terminated\"",
+        "link": "https://www.ndtv.com/world-news/donald-trump-says-any-document-signed-by-biden-with-autopen-is-terminated-9718871#publisher=newsstand"
+      },
+      {
+        "title": "Trump, Maduro Spoke Last Week, Discussed A Possible Meeting: Report",
+        "link": "https://www.ndtv.com/world-news/donald-trump-nicolas-maduro-spoke-last-week-discussed-possible-meeting-between-them-report-9718828#publisher=newsstand"
+      },
       {
         "title": "Scientist At Defence Research Body DRDO Found Dead At Rajasthan Home",
         "link": "https://www.ndtv.com/india-news/scientist-at-defence-research-body-drdo-aditya-verma-found-dead-at-rajasthan-home-9718678#publisher=newsstand"
@@ -148,14 +177,6 @@
       {
         "title": "Police Stop Married Cop's Wedding With Another Woman In Rajasthan",
         "link": "https://www.ndtv.com/india-news/police-stop-married-cops-wedding-with-another-woman-in-rajasthan-9718689#publisher=newsstand"
-      },
-      {
-        "title": "Court Rejects Mehul Choksi's Plea To Drop Fugitive Economic Offender Tag",
-        "link": "https://www.ndtv.com/india-news/court-rejects-mehul-choksis-plea-to-drop-fugitive-economic-offender-tag-9718685#publisher=newsstand"
-      },
-      {
-        "title": "\"No War, No Conflict\": Siddaramaiah's Son On Karnataka Chief Minister Row",
-        "link": "https://www.ndtv.com/india-news/no-war-no-conflict-siddaramaiahs-son-on-karnataka-chief-minister-row-9718672#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -181,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-28 20:37 UTC"
+  "last_updated": "2025-11-28 20:48 UTC"
 }
