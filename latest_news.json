@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel bombs Syria, Gaza after extrajudicial killings in West Bank",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/11/28/live-israel-4?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,11 +19,15 @@
         "link": "https://www.bbc.com/news/articles/c058lp086zvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "National Guard member dies after shooting in Washington DC",
-        "link": "https://www.bbc.com/news/articles/cwyx4y6007lo?at_medium=RSS&at_campaign=rss"
+        "title": "Trump says US will 'permanently pause' migration from 'third world countries'",
+        "link": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "RSF converts hospital in Sudan’s West Kordofan into military base",
+        "link": "https://www.aljazeera.com/news/2025/11/28/rsf-converts-hospital-in-sudans-west-kordofan-into-military-base?traffic_source=rss"
+      },
       {
         "title": "Israeli occupation now “far more extreme” for Palestinians",
         "link": "https://www.aljazeera.com/video/quotable/2025/11/28/israeli-occupation-now-far-more-extreme-for-palestinians?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "ICC to rule on provisional release of ex-Philippine leader Rodrigo Duterte",
         "link": "https://www.aljazeera.com/news/2025/11/28/icc-to-rule-on-provisional-release-of-ex-philippine-leader-rodrigo-duterte?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel bombs Syria, Gaza after extrajudicial killings in West Bank",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/11/28/live-israel-4?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1957893/aleema-files-contempt-plea-against-adiala-jail-superintendent-after-repeatedly-being-denied-meeting-with-imran"
       },
       {
+        "title": "NCSW strongly condemns Justice Najafi’s ‘misogynistic, irresponsible’ remarks on Noor Mukadam case",
+        "link": "https://www.dawn.com/news/1957899/ncsw-strongly-condemns-justice-najafis-misogynistic-irresponsible-remarks-on-noor-mukadam-case"
+      },
+      {
         "title": "Shooting of National Guard soldiers in Washington heralds ‘troubling’ resurgence of terrorism globally: FO",
         "link": "https://www.dawn.com/news/1957896/shooting-of-national-guard-soldiers-in-washington-heralds-troubling-resurgence-of-terrorism-globally-fo"
       },
@@ -90,10 +88,6 @@
       {
         "title": "PTI MPA Anwar Zeb Khan says one injured after his Bajaur home targeted in ‘drone attack’",
         "link": "https://www.dawn.com/news/1957894/pti-mpa-anwar-zeb-khan-says-one-injured-after-his-bajaur-home-targeted-in-drone-attack"
-      },
-      {
-        "title": "Hong Kong’s deadliest blaze in decades kills at least 128, scores missing",
-        "link": "https://www.dawn.com/news/1957890/hong-kongs-deadliest-blaze-in-decades-kills-at-least-128-scores-missing"
       }
     ],
     "APNews": [],
@@ -137,30 +131,30 @@
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jewish-settlers-vandalise-palestinian-shop-east-ramallah-report"
       },
       {
-        "title": "Israeli strikes on Syria kill at least twelve, including two children",
+        "title": "Clashes erupt after Israeli raid kills 13 in southern Syria",
         "link": "https://www.middleeasteye.net/news/israeli-strikes-syria-kill-least-nine-including-two-children"
       }
     ],
     "GeoTV": [
       {
+        "title": "Robbie Williams daughter shines at Tinsel Town UK premiere",
+        "link": "https://www.geo.tv/latest/636119-robbie-williams-daughter-shines-at-tinsel-town-uk-premiere"
+      },
+      {
+        "title": "UFO like mysterious red light over Italian sky baffles scientists",
+        "link": "https://www.geo.tv/latest/636120-ufo-like-mysterious-red-light-over-italian-sky-baffles-scientists"
+      },
+      {
+        "title": "Meghan Markle puts royal Christmas invite at risk despite Harry's appeal",
+        "link": "https://www.geo.tv/latest/636112-meghan-markle-puts-royal-christmas-invite-at-risk-despite-harrys-appeal"
+      },
+      {
+        "title": "Who is Mr Whatsit? How does he connect to 'A Wrinkle in Time': explained",
+        "link": "https://www.geo.tv/latest/636107-who-is-mr-whatsit-how-does-he-connect-to-a-wrinkle-in-time-explained"
+      },
+      {
         "title": "CME halts global trading after data center breakdown",
         "link": "https://www.geo.tv/latest/636109-cme-halts-global-trading-after-data-center-breakdown"
-      },
-      {
-        "title": "Sydney Sweeney at ‘happy place' as Scooter Braun romance intensifies",
-        "link": "https://www.geo.tv/latest/636101-sydney-sweeney-at-happy-place-as-scooter-braun-romance-intensifies"
-      },
-      {
-        "title": "Shawn Levy shares exciting details about upcoming ‘Star Wars' movie",
-        "link": "https://www.geo.tv/latest/636106-shawn-levy-shares-exciting-details-about-upcoming-star-wars-movie"
-      },
-      {
-        "title": "Beaches reopen in Australia after fatal bull shark attack on Swiss tourists",
-        "link": "https://www.geo.tv/latest/636105-beaches-reopen-in-australia-after-fatal-bull-shark-attack-on-swiss-tourists"
-      },
-      {
-        "title": "Bruce Willis family finds holiday joy amid dementia journey",
-        "link": "https://www.geo.tv/latest/636102-bruce-willis-family-finds-holiday-joy-amid-dementia-journey"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-28 08:53 UTC"
+  "last_updated": "2025-11-28 09:37 UTC"
 }
