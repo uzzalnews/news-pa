@@ -3,7 +3,11 @@
   "news": {
     "BBC": [
       {
-        "title": "Zelensky's chief of staff resigns after Ukrainian anti-corruption police raid home",
+        "title": "No 10 denies Reeves misled public in run-up to Budget",
+        "link": "https://www.bbc.com/news/articles/c4gex225p5jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Zelensky's chief of staff resigns after Ukrainian anti-corruption raid on his home",
         "link": "https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -17,32 +21,28 @@
       {
         "title": "Eight more arrested over fire in Hong Kong that killed at least 128 people",
         "link": "https://www.bbc.com/news/articles/c79xd17dre3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "State pensioners with no other income will not pay tax",
-        "link": "https://www.bbc.com/news/articles/cev8ed9klz1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘Helicopters, artillery, tanks’: Syrians mourn victims of Israeli raid",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/28/helicopters-artillery-tanks-syrians-mourn-victims-of-israeli-raid?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine is running out of men, money and time",
+        "link": "https://www.aljazeera.com/opinions/2025/11/28/ukraine-is-running-out-of-men-money-and-time?traffic_source=rss"
+      },
       {
         "title": "RSF military push for Kordofan leaves Sudan at risk of partition",
         "link": "https://www.aljazeera.com/features/2025/11/28/rsf-military-push-for-kordofan-leaves-sudan-at-risk-of-partition?traffic_source=rss"
       },
       {
-        "title": "Ukraine anticorruption investigators search home of Zelenskyy’s top aide",
+        "title": "Zelenskyy’s top aide resigns after search by anticorruption investigators",
         "link": "https://www.aljazeera.com/news/2025/11/28/ukraine-anticorruption-investigators-search-home-of-zelenskyys-top-aide?traffic_source=rss"
       },
       {
         "title": "Trump pauses immigration from ‘Third World’ countries: What that means",
         "link": "https://www.aljazeera.com/news/2025/11/28/trump-pauses-immigration-from-third-world-countries-what-that-means?traffic_source=rss"
-      },
-      {
-        "title": "Donald Trump lashes out at reporter asking about DC shooter",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/28/donald-trump-lashes-out-at-reporter-asking-about-dc-shooter?traffic_source=rss"
-      },
-      {
-        "title": "Flood deaths rise to 174 in Indonesia, surge across Southeast Asia",
-        "link": "https://www.aljazeera.com/news/2025/11/28/flood-deaths-rise-to-174-in-indonesia-surge-across-southeast-asia?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +74,10 @@
         "link": "https://www.dawn.com/news/1957912/ceasefire-with-kabul-not-traditional-contingent-upon-terrorist-activity-from-afghanistan-fo"
       },
       {
+        "title": "Putin to discuss ‘privileged partnership’ with Modi on India visit next week",
+        "link": "https://www.dawn.com/news/1957919/putin-to-discuss-privileged-partnership-with-modi-on-india-visit-next-week"
+      },
+      {
         "title": "24 PTI leaders, workers temporarily detained by Karachi police after KPC protest",
         "link": "https://www.dawn.com/news/1957928/24-pti-leaders-workers-temporarily-detained-by-karachi-police-after-kpc-protest"
       },
@@ -84,10 +88,6 @@
       {
         "title": "’Bond of respect is greater than politics’: NA speaker again stresses need for dialogue with opposition",
         "link": "https://www.dawn.com/news/1957904/bond-of-respect-is-greater-than-politics-na-speaker-again-stresses-need-for-dialogue-with-opposition"
-      },
-      {
-        "title": "Putin to discuss ‘privileged partnership’ with Modi on India visit next week",
-        "link": "https://www.dawn.com/news/1957919/putin-to-discuss-privileged-partnership-with-modi-on-india-visit-next-week"
       }
     ],
     "APNews": [],
@@ -109,11 +109,23 @@
         "link": "https://www.nytimes.com/2025/11/27/us/politics/trump-national-guard-shooting.html"
       },
       {
-        "title": "Death Toll Rises to 128 in Hong Kong High-Rise Fire",
-        "link": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire.html"
+        "title": "Officials Had Been Warned for Over a Year Before Hong Kong Fire",
+        "link": "https://www.nytimes.com/2025/11/28/world/asia/hong-kong-fire-officials-warned.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Inside Khartoum: Sudan’s ravaged capital where paramilitaries looted history",
+        "link": "https://www.middleeasteye.net/news/inside-khartoum-sudans-ravaged-capital-where-paramilitaries-looted-history"
+      },
+      {
+        "title": "Tunisia appeal court upholds heavy prison sentences in ‘conspiracy’ trial",
+        "link": "https://www.middleeasteye.net/news/tunisian-appeal-court-upholds-heavy-prison-sentences-conspiracy-trial"
+      },
+      {
+        "title": "Palestinian foreign ministry urges international action against Israeli escalation in West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-foreign-ministry-urges-international-action-against-israeli"
+      },
       {
         "title": "Israeli settlers who breached Syria border returned by military",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-who-breached-syria-border-returned-military"
@@ -121,21 +133,21 @@
       {
         "title": "Israeli forces detain over 20 during raids in Tubas",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-over-20-palestinians-tubas"
-      },
-      {
-        "title": "Israeli settlers who breached Syria border returned by military",
-        "link": "https://www.middleeasteye.net/news/israeli-settlers-who-breached-syria-border-returned-military"
-      },
-      {
-        "title": "Syrian foreign minister condemns Israeli raid in Beit Jinn",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-foreign-minister-condemns-israeli-raid-beit-jinn"
-      },
-      {
-        "title": "Palestine Action prisoner hospitalised due to hunger strike",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestine-action-prisoner-hospitalised-due-hunger-strike"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Queen Camilla, Duchess Sophie show royal power, glamour at London awards",
+        "link": "https://www.geo.tv/latest/636207-queen-camilla-duchess-sophie-show-royal-power-glamour-at-london-awards"
+      },
+      {
+        "title": "Brooklyn Beckham shares romantic Thanksgiving snap with wife Nicola",
+        "link": "https://www.geo.tv/latest/636205-brooklyn-beckham-shares-romantic-moment-with-wife-nicola"
+      },
+      {
+        "title": "What were Afghanistan's ‘Zero Units'? Inside CIA-trained force linked to DC shooting suspect",
+        "link": "https://www.geo.tv/latest/636211-what-were-afghanistans-zero-units-inside-cia-trained-force-linked-to-dc-shooting-suspect"
+      },
       {
         "title": "King Charles joins scam cult by selling his hair lock for £7,995",
         "link": "https://www.geo.tv/latest/636195-king-charles-joins-scam-cult-by-selling-his-hair-lock-for-7995"
@@ -143,18 +155,6 @@
       {
         "title": "Sir David Beckham reflects on 'beautiful memories' with warm Indian welcome",
         "link": "https://www.geo.tv/latest/636198-sir-david-beckham-reflects-on-beautiful-memories-after-traditional-welcome-in-mumbai"
-      },
-      {
-        "title": "Macaulay Culkin says thousands of bees attacking him in 'My Girl' were real",
-        "link": "https://www.geo.tv/latest/636202-macaulay-culkin-says-thousands-of-bees-attacking-him-in-my-girl-were-real"
-      },
-      {
-        "title": "Ceasefire with Afghan Taliban 'not holding' amid continued terror attacks, says FO",
-        "link": "https://www.geo.tv/latest/636190-ceasefire-with-afghan-taliban-not-holding-amid-continued-terror-attacks-says-fo"
-      },
-      {
-        "title": "Kylie Jenner celebrates Thanksgiving with loved ones: Timothee Chalamet?",
-        "link": "https://www.geo.tv/latest/636187-kylie-jenner-celebrates-thanksgiving-with-loved-ones-timothee-chalamet"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-28 15:56 UTC"
+  "last_updated": "2025-11-28 16:47 UTC"
 }
