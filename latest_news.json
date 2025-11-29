@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Donald Trump says Venezuela airspace now closed as tensions surge",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/11/29/live-donald-trump-says-venezuela-airspace-now-closed-as-tensions-surge?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,15 @@
         "link": "https://www.bbc.com/news/articles/c4gex225p5jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Flights returning to normal after Airbus warning grounded planes",
-        "link": "https://www.bbc.com/news/articles/c4gp9d28p74o?at_medium=RSS&at_campaign=rss"
+        "title": "We searched for a true Christmas market - and may have found one",
+        "link": "https://www.bbc.com/news/articles/clyzdxyjx2eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Donald Trump says Venezuela airspace now closed as tensions surge",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/11/29/live-donald-trump-says-venezuela-airspace-now-closed-as-tensions-surge?traffic_source=rss"
+      },
       {
         "title": "Trump says Venezuela airspace to be shut ‘in its entirety’ as tensions rise",
         "link": "https://www.aljazeera.com/news/2025/11/29/trump-says-venezuela-airspace-to-be-shut-in-its-entirety-as-tensions-rise?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Thunberg and Albanese join pro-Palestine protests in Italy",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/11/29/thunberg-and-albanese-join-pro-palestine-protests-in-italy?traffic_source=rss"
-      },
-      {
-        "title": "Minorities hail renewed space as Pope Leo visits Turkiye",
-        "link": "https://www.aljazeera.com/news/2025/11/29/minorities-hail-renewed-space-as-pope-leo-visits-turkiye?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +80,20 @@
         "link": "https://www.dawn.com/news/1958159/fm-dar-says-pakistan-ready-to-join-gaza-peace-force-not-ready-to-disarm-palestinian-resistance-group-hamas"
       },
       {
-        "title": "Afghan forces open fire across border to facilitate infiltration of terrorists into Pakistan: DG ISPR",
-        "link": "https://www.dawn.com/news/1958148/afghan-forces-open-fire-across-border-to-facilitate-infiltration-of-terrorists-into-pakistan-dg-ispr"
-      },
-      {
         "title": "No passenger with genuine documents should be barred from travelling, says Naqvi after visiting Islamabad airport",
         "link": "https://www.dawn.com/news/1958147/no-passenger-with-genuine-documents-should-be-barred-from-travelling-says-naqvi-after-visiting-islamabad-airport"
       },
       {
-        "title": "SC affirms state’s duty to protect right to life, prevent custodial violence",
-        "link": "https://www.dawn.com/news/1958151/sc-affirms-states-duty-to-protect-right-to-life-prevent-custodial-violence"
+        "title": "Finland to close embassy in Pakistan over ‘operational and strategic’ reasons",
+        "link": "https://www.dawn.com/news/1958164/finland-to-close-embassy-in-pakistan-over-operational-and-strategic-reasons"
       },
       {
-        "title": "Court completes prosecution witness examination in Imaan Mazari, Hadi Ali Chattha social media case",
-        "link": "https://www.dawn.com/news/1958161/court-completes-prosecution-witness-examination-in-imaan-mazari-hadi-ali-chattha-social-media-case"
+        "title": "Afghan forces open fire across border to facilitate infiltration of terrorists into Pakistan: DG ISPR",
+        "link": "https://www.dawn.com/news/1958148/afghan-forces-open-fire-across-border-to-facilitate-infiltration-of-terrorists-into-pakistan-dg-ispr"
+      },
+      {
+        "title": "SC affirms state’s duty to protect right to life, prevent custodial violence",
+        "link": "https://www.dawn.com/news/1958151/sc-affirms-states-duty-to-protect-right-to-life-prevent-custodial-violence"
       }
     ],
     "APNews": [],
@@ -109,11 +115,19 @@
         "link": "https://www.nytimes.com/2025/11/29/world/africa/south-africa-russia-ukraine-fighters-zuma.html"
       },
       {
-        "title": "Inside Trump’s Push to Make the White House Ballroom as Big as Possible",
-        "link": "https://www.nytimes.com/2025/11/29/us/politics/trump-white-house-ballroom.html"
+        "title": "Trump to Pardon Juan Orlando Hernández, Honduran Ex-Leader Convicted in Drug Case",
+        "link": "https://www.nytimes.com/2025/11/28/world/americas/trump-pardon-honduras-hernandez.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Cambridge union approves motion saying world 'failed Palestine'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/cambridge-union-approves-motion-saying-world-failed-palestine"
+      },
+      {
+        "title": "Israeli settlers attack village in Ramallah",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-village-ramallah"
+      },
       {
         "title": "Cambridge union approves motion saying world 'failed Palestine'",
         "link": "https://www.middleeasteye.net/news/cambridge-union-approves-motion-house-believes-international-community-has-failed-palestine"
@@ -125,36 +139,28 @@
       {
         "title": "ICC 'in limbo' as chief prosecutor's fate uncertain ahead of member states assembly",
         "link": "https://www.middleeasteye.net/news/icc-limbo-prosecutors-misconduct-report-uncertain"
-      },
-      {
-        "title": "Hezbollah urges Pope Leo to reject Israeli aggression on Lebanon visit",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-urges-pope-leo-reject-israeli-aggression-lebanon-visit"
-      },
-      {
-        "title": "Israeli assault on Tubas in West Bank continues into fourth day",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-assault-tubas-west-bank-continues-fourth-day"
       }
     ],
     "GeoTV": [
       {
-        "title": "'Not enough,' DPM Dar says Afghan Taliban jailed hundreds of TTP militants",
-        "link": "https://www.geo.tv/latest/636424-not-enough-dpm-dar-says-afghan-taliban-jailed-hundreds-of-ttp-militants"
+        "title": "WATCH: Australian PM Albanese marries partner in private ceremony",
+        "link": "https://www.geo.tv/latest/636429-watch-australian-pm-albanese-marries-partner-in-private-ceremony"
       },
       {
-        "title": "Emma Chamberlain breaks silence on 'turbulent' split with Role Model",
-        "link": "https://www.geo.tv/latest/636421-emma-chamberlain-breaks-silence-on-turbulent-split-with-role-model"
+        "title": "FKA twigs pays emotional tribute to North West after backlash",
+        "link": "https://www.geo.tv/latest/636428-fka-twigs-pays-emotional-tribute-to-north-west-after-backlash"
       },
       {
-        "title": "Katie Price shares health update about son Harvey",
-        "link": "https://www.geo.tv/latest/636425-katie-price-shares-health-update-about-son-harvey"
+        "title": "South Africa's Faf du Plessis pulls out of IPL to play in PSL season",
+        "link": "https://www.geo.tv/latest/636427-south-africas-faf-du-plessis-pulls-out-of-ipl-to-play-in-psl-season"
       },
       {
-        "title": "Zara, Mike Tindall team up with Sussexes pal after applauding for William",
-        "link": "https://www.geo.tv/latest/636403-zara-mike-tindall-team-up-with-sussexes-pal-after-applauding-for-william"
+        "title": "Usman Khawaja faces disciplinary action over Perth Test pitch comments",
+        "link": "https://www.geo.tv/latest/636426-usman-khawaja-faces-disciplinary-action-over-perth-test-pitch-comments"
       },
       {
-        "title": "Queen Camilla breaks out Charles' 27 year robe; designer nearly fell off chair",
-        "link": "https://www.geo.tv/latest/636413-queen-camilla-breaks-out-charles-27-year-robe-designer-nearly-fell-off-chair"
+        "title": "Google and OpenAI cut free access to AI image, video generation: Here's what happened",
+        "link": "https://www.geo.tv/latest/636432-google-and-openai-cut-free-access-to-ai-image-video-generation-heres-what-happened"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-29 13:54 UTC"
+  "last_updated": "2025-11-29 14:35 UTC"
 }
