@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Chelsea vs Arsenal – English Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/11/30/live-chelsea-vs-arsenal-english-premier-league-2?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Polls open in Honduras presidential election marked by fraud accusations",
+        "link": "https://www.aljazeera.com/news/2025/11/30/polls-open-in-honduras-presidential-election-marked-by-fraud-accusations?traffic_source=rss"
+      },
+      {
+        "title": "Ukrainian Official “very transparent” about investigation",
+        "link": "https://www.aljazeera.com/video/quotable/2025/11/30/ukrainian-official-very-transparent-about-investigation?traffic_source=rss"
+      },
+      {
         "title": "Indonesia floods death toll rises to 442 as people hunt for food and water",
         "link": "https://www.aljazeera.com/news/2025/11/30/indonesia-floods-death-toll-rises-to-442-as-people-hunt-for-food-and-water?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "How Europe’s migration policy and arms empowered Sudan’s warlords",
         "link": "https://www.aljazeera.com/opinions/2025/11/30/how-europes-migration-policy-and-arms-empowered-sudans-warlords?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Chelsea vs Arsenal – English Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/11/30/live-chelsea-vs-arsenal-english-premier-league-2?traffic_source=rss"
-      },
-      {
-        "title": "“Lack of resources” in Gaza leaves mothers struggling",
-        "link": "https://www.aljazeera.com/video/quotable/2025/11/30/aje-onl-asiljallad_quotable-301125?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Challenger to Gemini 3, Nano Banana Pro has launched: Find out here",
+        "link": "https://www.geo.tv/latest/636569-challenger-to-gemini-3-nano-banana-pro-has-launched-find-out-here"
+      },
+      {
         "title": "James McAvoy looks back at rare bonding experience with legendary actors",
         "link": "https://www.geo.tv/latest/636557-james-mcavoy-looks-back-at-rare-bonding-experience-with-legendary-actors"
       },
@@ -157,10 +155,6 @@
       {
         "title": "Liam Gallagher shares major life update after Oasis reunion tour ends",
         "link": "https://www.geo.tv/latest/636563-liam-gallagher-shares-major-life-update-after-oasis-reunion-tour-ends"
-      },
-      {
-        "title": "Australia's international flights resume after passport system outage hit hard",
-        "link": "https://www.geo.tv/latest/636564-australias-international-flights-resume-after-passport-system-outage-hit-hard"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-30 14:45 UTC"
+  "last_updated": "2025-11-30 14:56 UTC"
 }
