@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Cyclone Ditwah LIVE Updates: No Landfall Expected, Heavy Rain Forecast In Parts Of Tamil Nadu",
-      "link": "https://www.ndtv.com/india-news/cyclone-ditwah-live-updates-cyclone-ditwah-nears-tamil-nadu-flights-disrupted-schools-shut-floods-in-sri-lanka-puducherry-heavy-rain-in-tamil-nadu-9720400#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Tens of thousands rally in Europe, demanding justice over Israel’s Gaza war",
+        "link": "https://www.aljazeera.com/news/2025/11/30/tens-of-thousands-march-in-europe-denouncing-israels-genocide-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "One killed in ‘riot’ in Iraq’s Erbil after attack on Khor Mor gas field",
+        "link": "https://www.aljazeera.com/news/2025/11/30/one-killed-in-riot-in-iraqs-erbil-after-attack-on-khor-mor-gas-field?traffic_source=rss"
+      },
+      {
         "title": "Bangladesh’s Khaleda Zia hospitalised in ‘very critical’ condition",
         "link": "https://www.aljazeera.com/news/2025/11/30/bangladeshs-khaleda-zia-hospitalised-in-very-critical-condition?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Flamengo beat Palmeiras to win Copa Libertadores title",
         "link": "https://www.aljazeera.com/sports/2025/11/29/palmeiras-defeat-flamengo-to-win-copa-libertadores-title?traffic_source=rss"
-      },
-      {
-        "title": "What next for Ukraine after President Zelenskyy’s top aide quits?",
-        "link": "https://www.aljazeera.com/video/inside-story/2025/11/29/what-next-for-ukraine-after-president-zelenskyys-top-aide-quits?traffic_source=rss"
-      },
-      {
-        "title": "Guinea-Bissau’s deposed president travels to Congo’s Brazzaville: Reports",
-        "link": "https://www.aljazeera.com/news/2025/11/29/guinea-bissaus-deposed-president-travels-to-congos-brazzaville-reports?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1958289/fcc-okays-high-pay-posts-amid-questions-about-rules"
       },
       {
+        "title": "Rail line blown up as wave of blasts rocks Balochistan",
+        "link": "https://www.dawn.com/news/1958283/rail-line-blown-up-as-wave-of-blasts-rocks-balochistan"
+      },
+      {
         "title": "Second Afghan held on terrorism charges",
         "link": "https://www.dawn.com/news/1958256/second-afghan-held-on-terrorism-charges"
       },
       {
-        "title": "DawnMedia hosts ‘Pakistan Population Summit 2025’ tomorrow",
-        "link": "https://www.dawn.com/news/1958251/dawnmedia-hosts-pakistan-population-summit-2025-tomorrow"
-      },
-      {
-        "title": "Ukrainian team heads to US for peace talks",
-        "link": "https://www.dawn.com/news/1958254/ukrainian-team-heads-to-us-for-peace-talks"
+        "title": "Punjab speaker calls 27th Amendment vital reform",
+        "link": "https://www.dawn.com/news/1958280/punjab-speaker-calls-27th-amendment-vital-reform"
       }
     ],
     "APNews": [],
@@ -143,46 +137,46 @@
     ],
     "GeoTV": [
       {
+        "title": "FBR misses November revenue target with Rs143bn tax shortfall",
+        "link": "https://www.geo.tv/latest/636490-fbr-falls-short-of-achieving-nov-revenue-target-with-tax-shortfall-of-rs143bn"
+      },
+      {
+        "title": "Vanessa Hudgens shares first photo after welcoming her second child",
+        "link": "https://www.geo.tv/latest/636495-vanessa-hudgens-shares-first-photo-after-welcoming-her-second-child"
+      },
+      {
+        "title": "A political legacy forged in courage",
+        "link": "https://www.geo.tv/latest/636493-a-political-legacy-forged-in-courage"
+      },
+      {
         "title": "Paul Mescal looks back on his unforgettable McCartney surprise",
         "link": "https://www.geo.tv/latest/636450-paul-mescal-looks-back-on-his-unforgettable-mccartney-surprise"
       },
       {
         "title": "On PPP's 58th anniversary, Zardari calls for unity, inclusion, democratic progress",
         "link": "https://www.geo.tv/latest/636489-on-ppps-58th-anniversary-zardari-calls-for-unity-inclusion-and-democratic-progress"
-      },
-      {
-        "title": "Airline disruption enters second day amid Airbus software recall",
-        "link": "https://www.geo.tv/latest/636488-global-airlines-race-to-fix-airbus-jets-us-reports-little-disruption"
-      },
-      {
-        "title": "Tom Stoppard dies at 88: Screenwriter won Oscar for ‘Shakespeare in Love'",
-        "link": "https://www.geo.tv/latest/636487-tom-stoppard-dies-at-88-screenwriter-won-oscar-for-shakespeare-in-love"
-      },
-      {
-        "title": "Elizabeth Olsen reflects on ‘pretty chaotic' childhood",
-        "link": "https://www.geo.tv/latest/636486-elizabeth-olsen-reflects-on-pretty-chaotic-childhood"
       }
     ],
     "NDTV": [
       {
-        "title": "Cops Uncover Fake Call Centre In Hyderabad That Duped Australians Of Crores",
-        "link": "https://www.ndtv.com/india-news/cyberabad-police-cyber-crime-hyderabad-news-cops-uncover-fake-call-centre-in-hyderabad-that-duped-australians-of-crores-9723662#publisher=newsstand"
-      },
-      {
-        "title": "\"He Has Been Treated Harshly\": Trump Pardons Honduras Ex-President",
-        "link": "https://www.ndtv.com/world-news/he-has-been-treated-harshly-us-president-donald-trump-pardons-honduras-ex-president-juan-orlando-hernandez-9723661#publisher=newsstand"
+        "title": "Voting Underway For Civic Bypolls In Delhi's 12 Wards",
+        "link": "https://www.ndtv.com/india-news/mcd-bypolls-bjp-aap-delhi-civic-bypolls-in-12-wards-today-bjp-aims-to-win-all-9723545#publisher=newsstand"
       },
       {
         "title": "Cyclone Ditwah: Tamil Nadu Braces For Heavy Rain, No Landfall Expected",
         "link": "https://www.ndtv.com/tamil-nadu-news/sri-lanka-floods-cyclone-ditwah-live-updates-cyclone-ditwah-tamil-nadu-braces-for-heavy-rain-no-landfall-expected-9723637#publisher=newsstand"
       },
       {
-        "title": "Delhi Civic Bypolls In 12 Wards Today, BJP Aims To Win All",
-        "link": "https://www.ndtv.com/india-news/mcd-bypolls-bjp-aap-delhi-civic-bypolls-in-12-wards-today-bjp-aims-to-win-all-9723545#publisher=newsstand"
+        "title": "What Is T-Dome That Taiwan Plans To Build To Counter China Threats",
+        "link": "https://www.ndtv.com/world-news/what-is-multi-layered-air-defence-system-t-dome-that-taiwan-plans-to-build-to-counter-china-threats-9723835#publisher=newsstand"
       },
       {
-        "title": "Cyclone Ditwah LIVE Updates: No Landfall Expected, Heavy Rain Forecast In Parts Of Tamil Nadu",
-        "link": "https://www.ndtv.com/india-news/cyclone-ditwah-live-updates-cyclone-ditwah-nears-tamil-nadu-flights-disrupted-schools-shut-floods-in-sri-lanka-puducherry-heavy-rain-in-tamil-nadu-9720400#publisher=newsstand"
+        "title": "\"Colonial Threat\": Venezuela Condemns Trump's Remarks Of Closed Airspace",
+        "link": "https://www.ndtv.com/world-news/colonial-threat-venezuela-condemns-us-president-donald-trumps-remarks-of-closed-airspace-9723774#publisher=newsstand"
+      },
+      {
+        "title": "Delhi Air Quality Shifts From \"Very Poor\" To \"Poor,\" Smog Persists",
+        "link": "https://www.ndtv.com/india-news/delhi-pollution-aqi-delhi-air-quality-shifts-from-very-poor-to-poor-smog-persists-9723701#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-30 03:49 UTC"
+  "last_updated": "2025-11-30 04:55 UTC"
 }
