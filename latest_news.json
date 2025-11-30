@@ -2,20 +2,12 @@
   "breaking": [
     {
       "source": "AlJazeera",
-      "title": "LIVE: Israeli jets target southern Gaza; raids reported in West Bank",
+      "title": "LIVE: Gaza’s ‘social fabric destroyed’ by Israel’s killing of 70,000 people",
       "link": "https://www.aljazeera.com/news/liveblog/2025/11/30/live-israeli-jets-target-southern-gaza-raids-reported-in-west-bank?traffic_source=rss"
     }
   ],
   "news": {
     "BBC": [
-      {
-        "title": "Starmer to back Budget after Reeves accused of misleading public",
-        "link": "https://www.bbc.com/news/articles/crrkdw2xy28o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Venezuela condemns Trump's threat to close country's airspace",
-        "link": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "'One of our greatest writers': King leads tributes to Sir Tom Stoppard",
         "link": "https://www.bbc.com/news/articles/crk7nn0y0kzo?at_medium=RSS&at_campaign=rss"
@@ -27,28 +19,36 @@
       {
         "title": "Four killed in shooting at child's birthday party in California",
         "link": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Venezuela condemns Trump's threat to close country's airspace",
+        "link": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine hits tankers in Black Sea in escalation against Russia",
+        "link": "https://www.bbc.com/news/articles/cp9ky5z2gx0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘Neighbourhoods buried under mud’: Sri Lanka floods death toll rises to 159",
+        "link": "https://www.aljazeera.com/news/2025/11/30/neighbourhoods-buried-under-mud-sri-lanka-floods-death-toll-rises-to-159?traffic_source=rss"
+      },
       {
         "title": "Messi, Inter Miami defeat New York to reach first MLS Cup final",
         "link": "https://www.aljazeera.com/sports/2025/11/30/messi-inter-miami-defeat-new-york-to-reach-first-mls-cup-final?traffic_source=rss"
       },
       {
-        "title": "Four dead after 14 people shot at child’s birthday party in California",
+        "title": "Stockton, California birthday party shooting kills four, injures 10",
         "link": "https://www.aljazeera.com/news/2025/11/30/four-dead-after-14-people-shot-at-childs-birthday-party-in-california?traffic_source=rss"
       },
       {
-        "title": "Thousands rally in Philippines, demanding Marcos resign over fraud scandal",
+        "title": "Thousands march in Philippines, demanding Marcos resign over fraud scandal",
         "link": "https://www.aljazeera.com/news/2025/11/30/thousands-rally-in-philippines-demanding-marcos-resign-over-graft-scandal?traffic_source=rss"
       },
       {
-        "title": "LIVE: Israeli jets target southern Gaza; raids reported in West Bank",
+        "title": "LIVE: Gaza’s ‘social fabric destroyed’ by Israel’s killing of 70,000 people",
         "link": "https://www.aljazeera.com/news/liveblog/2025/11/30/live-israeli-jets-target-southern-gaza-raids-reported-in-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "Tens of thousands rally in Europe, demanding justice over Israel’s Gaza war",
-        "link": "https://www.aljazeera.com/news/2025/11/30/tens-of-thousands-march-in-europe-denouncing-israels-genocide-in-gaza?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +80,10 @@
         "link": "https://www.dawn.com/news/1958309/fo-rejects-baseless-apprehensions-of-un-rights-chief-about-27th-amendment"
       },
       {
+        "title": "Dar notes ‘positive momentum’ in recent engagements with Egypt as FM Abdelatty visits Islamabad",
+        "link": "https://www.dawn.com/news/1958320/dar-notes-positive-momentum-in-recent-engagements-with-egypt-as-fm-abdelatty-visits-islamabad"
+      },
+      {
         "title": "No Chief of Defence Forces notification as key deadline passes",
         "link": "https://www.dawn.com/news/1958287/no-chief-of-defence-forces-notification-as-key-deadline-passes"
       },
@@ -90,10 +94,6 @@
       {
         "title": "Floods hit Sri Lanka’s capital Colombo as Cyclone Ditwah death toll rises to 159",
         "link": "https://www.dawn.com/news/1958318/floods-hit-sri-lankas-capital-colombo-as-cyclone-ditwah-death-toll-rises-to-159"
-      },
-      {
-        "title": "DawnMedia hosts ‘Pakistan Population Summit 2025’ tomorrow",
-        "link": "https://www.dawn.com/news/1958251/dawnmedia-hosts-pakistan-population-summit-2025-tomorrow"
       }
     ],
     "APNews": [],
@@ -143,6 +143,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Prince Harry receives strict orders on next meeting with King Charles",
+        "link": "https://www.geo.tv/latest/636509-prince-harry-receives-strict-orders-on-next-meeting-with-king-charles"
+      },
+      {
         "title": "All three Peshawar FC HQ suicide attackers identified as Afghan nationals",
         "link": "https://www.geo.tv/latest/636503-all-three-peshawar-fc-hq-suicide-attackers-were-afghan-nationals-confirms-nadra"
       },
@@ -157,10 +161,6 @@
       {
         "title": "King Charles request for Andrew faces unexpected delay: ‘Act in line'",
         "link": "https://www.geo.tv/latest/636505-king-charles-request-for-andrew-faces-unexpected-delay-act-in-line"
-      },
-      {
-        "title": "Will Byers' jaw-dropping power reveal leaves fans in total shock",
-        "link": "https://www.geo.tv/latest/636498-will-byers-jaw-dropping-power-reveal-leaves-fans-in-total-shock"
       }
     ],
     "NDTV": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-30 07:40 UTC"
+  "last_updated": "2025-11-30 07:51 UTC"
 }
