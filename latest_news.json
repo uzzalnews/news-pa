@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Chelsea vs Arsenal – English Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/11/30/live-chelsea-vs-arsenal-english-premier-league-2?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +17,27 @@
         "link": "https://www.bbc.com/news/articles/c4gv76r5qpvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'One of our greatest writers': King leads tributes to Sir Tom Stoppard",
-        "link": "https://www.bbc.com/news/articles/crk7nn0y0kzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Four killed in shooting at family gathering in California",
         "link": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Hong Kong fire death toll rises to 146 as thousands pay respects",
-        "link": "https://www.bbc.com/news/articles/cp34yk7z6yxo?at_medium=RSS&at_campaign=rss"
+        "title": "West Ham legend Billy Bonds dies aged 79",
+        "link": "https://www.bbc.com/sport/football/articles/cy47lde523zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "They have six packs - but they're still jumping on and off weight-loss jabs",
+        "link": "https://www.bbc.com/news/articles/c0qp3q5q708o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "How Europe’s migration policy and arms empowered Sudan’s warlords",
+        "link": "https://www.aljazeera.com/opinions/2025/11/30/how-europes-migration-policy-and-arms-empowered-sudans-warlords?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Chelsea vs Arsenal – English Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/11/30/live-chelsea-vs-arsenal-english-premier-league-2?traffic_source=rss"
+      },
       {
         "title": "“Lack of resources” in Gaza leaves mothers struggling",
         "link": "https://www.aljazeera.com/video/quotable/2025/11/30/aje-onl-asiljallad_quotable-301125?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Sri Lanka declares emergency as floods wreak havoc across Colombo",
         "link": "https://www.aljazeera.com/gallery/2025/11/30/sri-lanka-declares-emergency-as-floods-wreak-havoc-across-colombo?traffic_source=rss"
-      },
-      {
-        "title": "Massive fire erupts at waste facility in western Sydney",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/30/massive-fire-erupts-at-waste-facility-in-western-sydney?traffic_source=rss"
-      },
-      {
-        "title": "Qatar opens museum dedicated to exiled Indian artist MF Husain",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/11/30/qatar-opens-museum-dedicated-to-exiled-indian-artist-mf-husain?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,6 +143,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Nina Dobrev swaps heartbreak for beach vibes on latest getaway",
+        "link": "https://www.geo.tv/latest/636554-nina-dobrev-swaps-heartbreak-for-beach-vibes-on-latest-getaway"
+      },
+      {
         "title": "Kim Petras breaks silence on 'selling out' accustaions",
         "link": "https://www.geo.tv/latest/636555-kim-petras-breaks-silence-on-selling-out-accustaions"
       },
@@ -151,10 +161,6 @@
       {
         "title": "Black Friday 2025 sees record online sales of $11.8 billion",
         "link": "https://www.geo.tv/latest/636553-black-friday-2025-sees-all-time-high-online-sales-of-118-billion"
-      },
-      {
-        "title": "Nauman Shah to represent Pakistan at twin WBC events in Thailand",
-        "link": "https://www.geo.tv/latest/636551-nauman-shah-to-represent-pakistan-at-twin-wbc-events-in-thailand"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-30 13:43 UTC"
+  "last_updated": "2025-11-30 13:53 UTC"
 }
