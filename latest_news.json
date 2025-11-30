@@ -1,11 +1,13 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Cyclone Ditwah LIVE Updates: Cyclone Ditwah Nears Tamil Nadu-Puducherry Coast, Heavy Rain Expected",
+      "link": "https://www.ndtv.com/tamil-nadu-news/cyclone-ditwah-live-updates-rains-landfall-alert-tamil-nadu-andhra-cyclone-tracker-updates-cyclone-ditwah-nears-tamil-nadu-puducherry-heavy-rain-9724045#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
-      {
-        "title": "Sir Tom Stoppard, playwright famed for his wit and depth, dies at 88",
-        "link": "https://www.bbc.com/news/articles/c74xe49q7vlo?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Venezuela calls Trump airspace closure warning 'colonialist threat'",
         "link": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss"
@@ -13,6 +15,10 @@
       {
         "title": "Starmer to back Budget after Reeves accused of misleading public",
         "link": "https://www.bbc.com/news/articles/crrkdw2xy28o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'One of our greatest writers': King leads tributes to Sir Tom Stoppard",
+        "link": "https://www.bbc.com/news/articles/crk7nn0y0kzo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "William pays visit to severely ill children from Gaza",
@@ -70,12 +76,16 @@
     ],
     "Dawn": [
       {
-        "title": "No CDF notification as key deadline passes",
-        "link": "https://www.dawn.com/news/1958287/no-cdf-notification-as-key-deadline-passes"
+        "title": "FO rejects ‘baseless’ apprehensions of UN rights chief about 27th Amendment",
+        "link": "https://www.dawn.com/news/1958309/fo-rejects-baseless-apprehensions-of-un-rights-chief-about-27th-amendment"
       },
       {
-        "title": "FCC okays high-pay posts amid questions about rules",
-        "link": "https://www.dawn.com/news/1958289/fcc-okays-high-pay-posts-amid-questions-about-rules"
+        "title": "No Chief of Defence Forces notification as key deadline passes",
+        "link": "https://www.dawn.com/news/1958287/no-chief-of-defence-forces-notification-as-key-deadline-passes"
+      },
+      {
+        "title": "Federal Con­stitutional Court okays high-pay posts amid questions about rules",
+        "link": "https://www.dawn.com/news/1958289/federal-constitutional-court-okays-high-pay-posts-amid-questions-about-rules"
       },
       {
         "title": "Rail line blown up as wave of blasts rocks Balochistan",
@@ -84,10 +94,6 @@
       {
         "title": "Second Afghan held on terrorism charges",
         "link": "https://www.dawn.com/news/1958256/second-afghan-held-on-terrorism-charges"
-      },
-      {
-        "title": "Punjab speaker calls 27th Amendment vital reform",
-        "link": "https://www.dawn.com/news/1958280/punjab-speaker-calls-27th-amendment-vital-reform"
       }
     ],
     "APNews": [],
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Stevie Nicks shares music that helped her heal after injury",
+        "link": "https://www.geo.tv/latest/636497-stevie-nicks-shares-music-that-helped-her-heal-after-injury"
+      },
+      {
+        "title": "Ed Sheeran talks about strain touring has on his family life",
+        "link": "https://www.geo.tv/latest/636494-ed-sheeran-talks-about-strain-touring-has-on-his-family-life"
+      },
+      {
+        "title": "Kensington Palace makes statement as key meeting leaves William emotional",
+        "link": "https://www.geo.tv/latest/636499-kensington-palace-makes-statement-as-key-meeting-leaves-william-emotional"
+      },
+      {
+        "title": "'Dinosaur tartare' and holograms: Dubai AI chef sparks awe and ire",
+        "link": "https://www.geo.tv/latest/636492-dinosaur-tartare-and-holograms-dubai-ai-chef-sparks-awe-and-ire"
+      },
+      {
         "title": "FBR misses November revenue target with Rs143bn tax shortfall",
         "link": "https://www.geo.tv/latest/636490-fbr-falls-short-of-achieving-nov-revenue-target-with-tax-shortfall-of-rs143bn"
-      },
-      {
-        "title": "Vanessa Hudgens shares first photo after welcoming her second child",
-        "link": "https://www.geo.tv/latest/636495-vanessa-hudgens-shares-first-photo-after-welcoming-her-second-child"
-      },
-      {
-        "title": "A political legacy forged in courage",
-        "link": "https://www.geo.tv/latest/636493-a-political-legacy-forged-in-courage"
-      },
-      {
-        "title": "Paul Mescal looks back on his unforgettable McCartney surprise",
-        "link": "https://www.geo.tv/latest/636450-paul-mescal-looks-back-on-his-unforgettable-mccartney-surprise"
-      },
-      {
-        "title": "On PPP's 58th anniversary, Zardari calls for unity, inclusion, democratic progress",
-        "link": "https://www.geo.tv/latest/636489-on-ppps-58th-anniversary-zardari-calls-for-unity-inclusion-and-democratic-progress"
       }
     ],
     "NDTV": [
       {
-        "title": "Voting Underway For Civic Bypolls In Delhi's 12 Wards",
-        "link": "https://www.ndtv.com/india-news/mcd-bypolls-bjp-aap-delhi-civic-bypolls-in-12-wards-today-bjp-aims-to-win-all-9723545#publisher=newsstand"
+        "title": "At Breakfast, Siddaramaiah And DK Shivakumar Agree To Disagree On Top Post",
+        "link": "https://www.ndtv.com/karnataka-news/at-breakfast-siddaramaiah-and-dk-shivakumar-agree-to-disagree-on-top-post-9724087#publisher=newsstand"
       },
       {
-        "title": "Cyclone Ditwah: Tamil Nadu Braces For Heavy Rain, No Landfall Expected",
-        "link": "https://www.ndtv.com/tamil-nadu-news/sri-lanka-floods-cyclone-ditwah-live-updates-cyclone-ditwah-tamil-nadu-braces-for-heavy-rain-no-landfall-expected-9723637#publisher=newsstand"
+        "title": "Cyclone Ditwah LIVE Updates: Cyclone Ditwah Nears Tamil Nadu-Puducherry Coast, Heavy Rain Expected",
+        "link": "https://www.ndtv.com/tamil-nadu-news/cyclone-ditwah-live-updates-rains-landfall-alert-tamil-nadu-andhra-cyclone-tracker-updates-cyclone-ditwah-nears-tamil-nadu-puducherry-heavy-rain-9724045#publisher=newsstand"
       },
       {
-        "title": "What Is T-Dome That Taiwan Plans To Build To Counter China Threats",
-        "link": "https://www.ndtv.com/world-news/what-is-multi-layered-air-defence-system-t-dome-that-taiwan-plans-to-build-to-counter-china-threats-9723835#publisher=newsstand"
+        "title": "1 Killed After Speeding Mercedes Rams 3 Near South Delhi Mall",
+        "link": "https://www.ndtv.com/india-news/delhi-accident-vasant-kunj-ambience-mall-1-killed-after-speeding-mercedes-rams-3-near-posh-south-delhi-mall-9723971#publisher=newsstand"
       },
       {
-        "title": "\"Colonial Threat\": Venezuela Condemns Trump's Remarks Of Closed Airspace",
-        "link": "https://www.ndtv.com/world-news/colonial-threat-venezuela-condemns-us-president-donald-trumps-remarks-of-closed-airspace-9723774#publisher=newsstand"
+        "title": "Watch: Nikhil Kamath's Elon Musk Podcast Trailer Is Live",
+        "link": "https://www.ndtv.com/india-news/elon-musk-talks-about-his-love-for-letter-x-in-nikhil-kamaths-podcast-people-by-wtf-9724006#publisher=newsstand"
       },
       {
-        "title": "Delhi Air Quality Shifts From \"Very Poor\" To \"Poor,\" Smog Persists",
-        "link": "https://www.ndtv.com/india-news/delhi-pollution-aqi-delhi-air-quality-shifts-from-very-poor-to-poor-smog-persists-9723701#publisher=newsstand"
+        "title": "Major Preventive Action Against 86 Gangsters By Hyderabad Police",
+        "link": "https://www.ndtv.com/india-news/hyderabad-crime-news-bharatiya-nagarik-suraksha-sanhita-major-preventive-action-against-86-gangsters-by-hyderabad-police-9723985#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-30 04:55 UTC"
+  "last_updated": "2025-11-30 05:40 UTC"
 }
