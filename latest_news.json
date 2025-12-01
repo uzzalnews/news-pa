@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Over 900 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/1/live-over-900-killed-in-floods-in-indonesia-malaysia-thailand-sri-lanka?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Over 900 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/1/live-over-900-killed-in-floods-in-indonesia-malaysia-thailand-sri-lanka?traffic_source=rss"
+      },
+      {
         "title": "Why is work-related migration to rich countries falling?",
         "link": "https://www.aljazeera.com/economy/2025/12/1/why-is-work-related-migration-to-rich-countries-falling?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Russia-Ukraine war: List of key events, day 1,376",
         "link": "https://www.aljazeera.com/news/2025/12/1/russia-ukraine-war-list-of-key-events-day-1376?traffic_source=rss"
-      },
-      {
-        "title": "Israelis protest in Tel Aviv after Netanyahu seeks pardon on fraud cases",
-        "link": "https://www.aljazeera.com/news/2025/12/1/israelis-protest-in-tel-aviv-after-netanyahu-seeks-pardon-on-fraud-cases?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "2-day Pakistan Population Summit begins in Islamabad",
-        "link": "https://www.dawn.com/news/1958493/2-day-pakistan-population-summit-begins-in-islamabad"
+        "title": "Sherry Rehman terms population growth a ‘ticking time bomb’ for Pakistan",
+        "link": "https://www.dawn.com/news/1958493/sherry-rehman-terms-population-growth-a-ticking-time-bomb-for-pakistan"
+      },
+      {
+        "title": "Search underway to locate minor boy who fell into open manhole in Karachi’s Gulshan-i-Iqbal",
+        "link": "https://www.dawn.com/news/1958504/search-underway-to-locate-minor-boy-who-fell-into-open-manhole-in-karachis-gulshan-i-iqbal"
+      },
+      {
+        "title": "Rawalpindi court orders unfreezing of Shaukat Khanum Memorial Trust, Namal University bank accounts",
+        "link": "https://www.dawn.com/news/1958506/rawalpindi-court-orders-unfreezing-of-shaukat-khanum-memorial-trust-namal-university-bank-accounts"
       },
       {
         "title": "Afghan refugees in Pakistan urge US to resume resettlement programme",
         "link": "https://www.dawn.com/news/1958451/afghan-refugees-in-pakistan-urge-us-to-resume-resettlement-programme"
       },
       {
-        "title": "Attacks on FC in Nokundi, Panjgur thwarted",
-        "link": "https://www.dawn.com/news/1958450/attacks-on-fc-in-nokundi-panjgur-thwarted"
-      },
-      {
-        "title": "Trump says US freeze on asylum decisions will last ‘a long time’",
-        "link": "https://www.dawn.com/news/1958501/trump-says-us-freeze-on-asylum-decisions-will-last-a-long-time"
-      },
-      {
-        "title": "Conflicting road bodies, e-challan frenzy throw Karachi traffic in turmoil",
-        "link": "https://www.dawn.com/news/1958377/conflicting-road-bodies-e-challan-frenzy-throw-karachi-traffic-in-turmoil"
+        "title": "India orders smartphone makers to preload state-owned cyber safety app",
+        "link": "https://www.dawn.com/news/1958508/india-orders-smartphone-makers-to-preload-state-owned-cyber-safety-app"
       }
     ],
     "APNews": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel's ex-prime minister supports pardoning Netanyahu if he leaves politics",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-ex-prime-minister-supports-pardoning-netanyahu-if-he-leaves"
+      },
+      {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-469"
       },
@@ -129,57 +139,57 @@
       {
         "title": "Settler attack on West Bank well cuts water to Palestinian towns",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settler-attack-west-bank-well-cuts-water-palestinian-towns"
-      },
-      {
-        "title": "Israel struggles to retain officers as war fatigue and political tensions drive recruits away",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-struggles-retain-officers-war-fatigue-and-political-tensions"
       }
     ],
     "GeoTV": [
       {
-        "title": "Natalia Dyer explains Nancy Wheeler's key blunder in Stranger Things 5",
-        "link": "https://www.geo.tv/latest/636663-natalia-dyer-explains-nancy-wheelers-key-blunder-in-stranger-things-5"
+        "title": "Sadie Sink talks about the future of Max in ‘Stranger Things'",
+        "link": "https://www.geo.tv/latest/636669-sadie-sink-talks-about-the-future-of-max-in-stranger-things"
       },
       {
-        "title": "Elon Musk reveals partner's half-Indian roots, son's middle name 'Sekhar'",
-        "link": "https://www.geo.tv/latest/636662-elon-musk-reveals-partners-half-indian-roots-sons-middle-name-sekhar"
+        "title": "Paul Heyman faces fan fury for shoving young fan at WWE event: Find out what happened",
+        "link": "https://www.geo.tv/latest/636668-wwe-exec-paul-heyman-faces-fan-fury-for-shoving-young-fan-at-event"
       },
       {
-        "title": "Scarlett Johansson addresses her decision to support Woody Allen",
-        "link": "https://www.geo.tv/latest/636660-scarlett-johansson-addresses-her-decision-to-support-woody-allen"
+        "title": "‘Blessed are the peacemakers': Pope Leo XIV's urgent appeal in Beirut",
+        "link": "https://www.geo.tv/latest/636673-blessed-are-the-peacemakers-pope-leo-xivs-urgent-appeal-in-beirut"
       },
       {
-        "title": "Prince William teaches Prince Harry lesson after major clash",
-        "link": "https://www.geo.tv/latest/636659-prince-william-teaches-prince-harry-lesson-after-major-clash"
+        "title": "Sarah Ferguson receives brutal reality check amid ambitious plans",
+        "link": "https://www.geo.tv/latest/636672-sarah-ferguson-receives-brutal-reality-check-amid-ambitious-plans"
       },
       {
-        "title": "Search continues after minor boy falls into open manhole near Karachi's Nipa Chowrangi",
-        "link": "https://www.geo.tv/latest/636655-search-continues-after-minor-boy-falls-into-open-manhole-near-karachis-nipa-chowrangi"
+        "title": "Chrissy Teigen honoured with special award on 40th birthday",
+        "link": "https://www.geo.tv/latest/636658-chrissy-teigen-honoured-with-special-award-on-40th-birthday"
       }
     ],
     "NDTV": [
       {
-        "title": "Parliament Winter Session Live Updates Day 1: \"Not Drama, Need Delivery In Parliament\", PM Modi Tells Opposition",
+        "title": "Parliament Winter Session Live Updates Day 1: Amid Chaos Over SIR, Lok Sabha Adjourned Till 12:00 PM",
         "link": "https://www.ndtv.com/india-news/parliament-winter-session-2025-live-updates-pm-modi-opposition-congress-rahul-gandhi-sir-extension-government-to-push-bills-opposition-to-target-sir-9728038#publisher=newsstand"
       },
       {
-        "title": "Boy, 10, Injured In Celebratory Firing During Wedding In Greater Noida",
-        "link": "https://www.ndtv.com/cities/boy-10-injured-in-celebratory-firing-during-wedding-in-greater-noida-9728076#publisher=newsstand"
+        "title": "Navi Mumbai Airport Completes Key Exercise, Ready To Start Operations",
+        "link": "https://www.ndtv.com/india-news/navi-mumbai-airport-completes-key-exercise-ready-to-start-operations-9728608#publisher=newsstand"
       },
       {
-        "title": "UP Woman Strangled To Death By In-Laws Over Dowry",
-        "link": "https://www.ndtv.com/muzaffarnagar-news/up-woman-strangled-to-death-by-in-laws-over-dowry-9728130#publisher=newsstand"
+        "title": "\"Can Give Tips To Opposition\": PM Says Need Delivery, Not Drama In Parliament",
+        "link": "https://www.ndtv.com/india-news/parliament-live-updates-not-drama-we-need-delivery-in-parliament-pm-to-opposition-ahead-of-winter-session-9728382#publisher=newsstand"
       },
       {
-        "title": "Bride Elopes With Lover After Garland Ceremony In UP",
-        "link": "https://www.ndtv.com/cities/bride-elopes-with-lover-after-garland-ceremony-in-ups-unnao-9728290#publisher=newsstand"
+        "title": "Parliament Winter Session Begins, Trouble Spots Include SIR, Pollution: 10 Points",
+        "link": "https://www.ndtv.com/india-news/winter-session-of-parliament-2025-parliament-winter-session-begins-today-trouble-spots-include-sir-air-pollution-9726729#publisher=newsstand"
       },
       {
-        "title": "Assam Government To Hold Talks With Protesters Over Scheduled Tribe Report",
-        "link": "https://www.ndtv.com/india-news/assam-government-to-hold-talks-with-protesters-over-scheduled-tribe-report-9728347#publisher=newsstand"
+        "title": "Hong Kong High-Rise Fire Shows How Difficult It Is To Evacuate In Emergency",
+        "link": "https://www.ndtv.com/world-news/hong-kong-high-rise-fire-shows-how-difficult-it-is-to-evacuate-in-emergency-9728453#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "How the cuts have shaken HIV/Aids care to its core and will mean millions more infections ahead",
+        "link": "https://www.theguardian.com/global-development/2025/dec/01/global-health-hiv-aids-funding-cuts-infections-prevention"
+      },
       {
         "title": "African leaders push for recognition of colonial crimes and reparations",
         "link": "https://www.theguardian.com/world/2025/nov/30/african-leaders-push-for-recognition-of-colonial-crimes-and-reparations"
@@ -195,12 +205,8 @@
       {
         "title": "Guinea-Bissau military takes ‘total control’ amid election chaos",
         "link": "https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos"
-      },
-      {
-        "title": "Nigerian schoolgirls rescued after mass abduction in Kebbi",
-        "link": "https://www.theguardian.com/world/2025/nov/25/nigerian-schoolgirls-rescued-after-mass-abduction-in-kebbi"
       }
     ]
   },
-  "last_updated": "2025-12-01 05:57 UTC"
+  "last_updated": "2025-12-01 07:01 UTC"
 }
