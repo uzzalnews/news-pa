@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "OBR head resigns over Budget day publishing error",
+        "link": "https://www.bbc.com/news/articles/cd74v35p77jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Starmer says he is proud of Budget as he denies misleading public",
         "link": "https://www.bbc.com/news/articles/c79x3w1pwg5o?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,21 @@
       {
         "title": "US and UK agree zero tariffs deal on pharmaceuticals",
         "link": "https://www.bbc.com/news/articles/cn0k520v4xro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Police consider corporate manslaughter charges in Post Office scandal",
-        "link": "https://www.bbc.com/news/articles/c14vxlxv4kko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Jamaica secures $6.7bn for hurricane recovery and reconstruction plan",
+        "link": "https://www.aljazeera.com/economy/2025/12/1/jamaica-secures-6-7bn-for-hurricane-recovery-and-reconstruction-plan?traffic_source=rss"
+      },
+      {
+        "title": "UK special forces chiefs covered up Afghanistan war crimes, inquiry told",
+        "link": "https://www.aljazeera.com/news/2025/12/1/uk-special-forces-chiefs-covered-up-afghanistan-war-crimes-inquiry-told?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Israel must seek ‘strong and true dialogue’ with Syria",
+        "link": "https://www.aljazeera.com/news/2025/12/1/trump-says-israel-must-seek-strong-and-true-dialogue-with-syria?traffic_source=rss"
+      },
       {
         "title": "US, UK agree to zero tariffs on medicines; UK commits to higher spending",
         "link": "https://www.aljazeera.com/economy/2025/12/1/us-uk-agree-to-zero-tariffs-on-medicines-uk-commits-to-higher-spending?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "From war to winter: Gaza couple wait to welcome baby in flooded tent",
         "link": "https://www.aljazeera.com/features/2025/12/1/from-war-to-winter-gaza-couple-wait-to-welcome-baby-in-flooded-tent?traffic_source=rss"
-      },
-      {
-        "title": "Children forced to take up jobs to help their families survive in Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/1/children-forced-to-take-up-jobs-to-help-their-families-survive-in-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Indonesia races to find missing after massive floods, landslides",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/1/indonesia-races-to-find-missing-after-massive-floods-landslides?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine seeks to shore up support in Brussels, Paris",
-        "link": "https://www.aljazeera.com/news/2025/12/1/ukraine-seeks-to-shore-up-support-in-brussels-paris?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +82,12 @@
         "link": "https://www.dawn.com/news/1958549/holding-office-in-all-respects-law-minister-says-cdf-notification-to-be-issued-official-processes-under-way"
       },
       {
-        "title": "Inflation edges down to 6.1pc in November",
-        "link": "https://www.dawn.com/news/1958545/inflation-edges-down-to-61pc-in-november"
+        "title": "Authorities impose Section 144 in twin cities",
+        "link": "https://www.dawn.com/news/1958560/authorities-impose-section-144-in-twin-cities"
       },
       {
-        "title": "Asia floods death toll tops 1,100 as troops aid survivors",
-        "link": "https://www.dawn.com/news/1958548/asia-floods-death-toll-tops-1100-as-troops-aid-survivors"
+        "title": "Inflation edges down to 6.1pc in November",
+        "link": "https://www.dawn.com/news/1958545/inflation-edges-down-to-61pc-in-november"
       }
     ],
     "APNews": [],
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "School from area featured in 'No Other Land' targeted for demolition",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/school-area-featured-no-other-land-targeted-demolition"
+      },
+      {
+        "title": "West Bank: Israeli soldiers raid Tubas and Aqaba for second time in a week",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-soldiers-raid-tubas-aqaba-second-time"
+      },
+      {
         "title": "Israeli organisation trying to force Palestinian families out from their Jerusalem homes: Report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-families-targeted-their-homes-report"
       },
@@ -125,58 +133,50 @@
       {
         "title": "Israel's Ben Gvir promotes head of unit involved in executing two Palestinians",
         "link": "https://www.middleeasteye.net/news/israels-ben-gvir-promotes-head-unit-involved-executing-two-palestinians"
-      },
-      {
-        "title": "West Bank: Israeli settlers uproot nearly 1,000 olive and grape trees near Hebron",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-settlers-uproot-nearly-1000-olive-and-grape-trees-near"
-      },
-      {
-        "title": "More than 350 Palestinians have been killed and almost 1000 injured since ceaserfire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-350-palestinians-have-been-killed-and-almost-1000-injured"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles shares heartfelt message over tragic loss",
-        "link": "https://www.geo.tv/latest/636819-palce-king-charles-shares-heartfel-message-over-tragic-loss"
+        "title": "Prince William finally breaks silence on King Charles leadership",
+        "link": "https://www.geo.tv/latest/636840-prince-william-finally-breaks-silence-on-king-charles-leadership"
       },
       {
-        "title": "King Charles and Queen Camilla bid farewell as major Plunket ends royal watch",
-        "link": "https://www.geo.tv/latest/636790-king-charles-and-queen-camilla-bid-farewell-as-major-plunket-ends-royal-watch"
+        "title": "'Unimaginable and heartbroken': Mahira Khan, Sajal Ali dismayed over Karachi boy's manhole death",
+        "link": "https://www.geo.tv/latest/636845-unimaginable-and-heartbroken-mahira-khan-sajal-ali-dismayed-over-karachi-boys-manhole-death"
       },
       {
-        "title": "Sanaullah rejects reports claiming Nawaz Sharif blocking CDF notification",
-        "link": "https://www.geo.tv/latest/636824-sanaullah-rejects-reports-claiming-nawaz-sharif-blocking-cdf-notification"
+        "title": "King Charles gears up to host VIP friends at Windsor",
+        "link": "https://www.geo.tv/latest/636841-king-charles-gears-up-to-host-vip-friends-at-windsor"
       },
       {
-        "title": "King Charles issues statement after Princess Anne receives new title",
-        "link": "https://www.geo.tv/latest/636831-king-charles-issues-statement-after-princess-anne-receives-new-title"
+        "title": "Camila Mendes suffers heartbreaking loss of her grandmother",
+        "link": "https://www.geo.tv/latest/636850-camila-mendes-suffers-heartbreaking-loss-of-her-grandmother"
       },
       {
-        "title": "Islamabad admin says Section 144 already in place ahead of PTI protest",
-        "link": "https://www.geo.tv/latest/636809-islamabad-admin-says-section-144-already-in-place-ahead-of-pti-protest"
+        "title": "Bradley Cooper sparks buzz with unexpected on-set story of 'Is This Thing On'",
+        "link": "https://www.geo.tv/latest/636842-bradley-cooper-sparks-buzz-with-unexpected-on-set-story"
       }
     ],
     "NDTV": [
       {
-        "title": "Syria Launches 1st Official Newspaper Since Bashar Al-Assad's Regime Fall",
-        "link": "https://www.ndtv.com/world-news/syria-launches-1st-official-newspaper-since-bashar-al-assads-regime-fall-9731840#publisher=newsstand"
+        "title": "Returning From Sister's Wedding, Madhya Pradesh Man Dies In Bridge Collapse",
+        "link": "https://www.ndtv.com/india-news/returning-from-sisters-wedding-madhya-pradesh-man-dies-in-bridge-collapse-9733305#publisher=newsstand"
       },
       {
-        "title": "Show-Cause Notice To Madhya Pradesh College After Massive Campus Uprising",
-        "link": "https://www.ndtv.com/india-news/show-cause-notice-to-madhya-pradesh-college-after-massive-campus-uprising-9732773#publisher=newsstand"
+        "title": "Returning From Sister's Wedding, Madhya Pradesh Man Dies In Bridge Collapse",
+        "link": "https://www.ndtv.com/india-news/returning-from-sisters-wedding-madhya-pradesh-man-dies-in-bridge-collapse-9733305#publisher=newsstand"
       },
       {
-        "title": "Why Bangladesh's Ex-PM Khaleda Zia's Son Cannot Be By Ailing Mother's Side",
-        "link": "https://www.ndtv.com/world-news/why-bangladeshs-ex-pm-khaleda-zias-son-cannot-be-by-ailing-mothers-side-9732826#publisher=newsstand"
+        "title": "No More Raj Bhavans, Governors Now To Live In Lok Bhavans. Here's Why",
+        "link": "https://www.ndtv.com/india-news/no-more-raj-bhavans-governors-now-to-live-in-lok-bhavans-heres-why-9733299#publisher=newsstand"
       },
       {
-        "title": "No Plan To Merge Dearness Allowance With Basic Pay: Finance Ministry",
-        "link": "https://www.ndtv.com/india-news/no-plan-to-merge-dearness-allowance-with-basic-pay-finance-ministry-9731261#publisher=newsstand"
+        "title": "Karthigai Deepam To Be Lit At Ancient Pillar In Madurai's Thirupparankundram: High Court",
+        "link": "https://www.ndtv.com/india-news/karthigai-deepam-to-be-lit-at-ancient-pillar-in-madurais-thirupparankundram-9733214#publisher=newsstand"
       },
       {
-        "title": "IPS Officer Warned By Andhra Deputy Speaker Over 'Casteist' Remarks",
-        "link": "https://www.ndtv.com/india-news/ips-officer-warned-by-andhra-deputy-speaker-over-casteist-remarks-9732816#publisher=newsstand"
+        "title": "In Sunjay Kapur Property Row, Mother Rani Kapur's Big Allegation Against His Wife",
+        "link": "https://www.ndtv.com/india-news/in-sanjay-kapur-property-row-mother-rani-kapurs-big-allegation-against-his-wife-9732498#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-01 17:50 UTC"
+  "last_updated": "2025-12-01 18:59 UTC"
 }
