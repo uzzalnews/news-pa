@@ -2,14 +2,14 @@
   "breaking": [
     {
       "source": "AlJazeera",
-      "title": "LIVE: Over 900 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia",
+      "title": "LIVE: 1,000 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia",
       "link": "https://www.aljazeera.com/news/liveblog/2025/12/1/live-over-900-killed-in-floods-in-indonesia-malaysia-thailand-sri-lanka?traffic_source=rss"
     }
   ],
   "news": {
     "BBC": [
       {
-        "title": "SAS war crime evidence suppressed, inquiry hears",
+        "title": "Heads of UK Special Forces suppressed SAS war crime evidence, inquiry hears",
         "link": "https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -17,12 +17,12 @@
         "link": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests",
-        "link": "https://www.bbc.com/news/articles/czrk7g50e1po?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "David Dimbleby: Can William's 'ordinary Joe' approach win back more support for the monarchy?",
         "link": "https://www.bbc.com/news/articles/cx2dn5ygypqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "I have high levels of forever chemicals in my blood - what can I do about it?",
+        "link": "https://www.bbc.com/news/articles/ce8z8pv1e0ko?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "An angry confrontation and online abuse: Inside the asylum protests in a divided town",
@@ -31,7 +31,11 @@
     ],
     "AlJazeera": [
       {
-        "title": "LIVE: Over 900 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia",
+        "title": "Floods in Indonesia, Sri Lanka, Thailand leave close to 1,000 dead",
+        "link": "https://www.aljazeera.com/news/2025/12/1/floods-in-indonesia-sri-lanka-thailand-leave-close-to-1000-dead?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: 1,000 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia",
         "link": "https://www.aljazeera.com/news/liveblog/2025/12/1/live-over-900-killed-in-floods-in-indonesia-malaysia-thailand-sri-lanka?traffic_source=rss"
       },
       {
@@ -45,10 +49,6 @@
       {
         "title": "Venezuela calls on OPEC to counter US threats",
         "link": "https://www.aljazeera.com/news/2025/12/1/venezuela-calls-on-opec-to-counter-us-threats?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,376",
-        "link": "https://www.aljazeera.com/news/2025/12/1/russia-ukraine-war-list-of-key-events-day-1376?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +76,8 @@
     ],
     "Dawn": [
       {
-        "title": "Sherry Rehman terms population growth a ‘ticking time bomb’ for Pakistan",
-        "link": "https://www.dawn.com/news/1958493/sherry-rehman-terms-population-growth-a-ticking-time-bomb-for-pakistan"
+        "title": "Pakistan Population Summit: Ahsan Iqbal says stunting, rapid growth govt’s ‘highest priority’",
+        "link": "https://www.dawn.com/news/1958493/pakistan-population-summit-ahsan-iqbal-says-stunting-rapid-growth-govts-highest-priority"
       },
       {
         "title": "Search underway to locate minor boy who fell into open manhole in Karachi’s Gulshan-i-Iqbal",
@@ -107,7 +107,7 @@
         "link": "https://www.nytimes.com/2025/11/30/us/politics/ukraine-yermak-rubio-russia.html"
       },
       {
-        "title": "How Trump’s Actions Could Affect Honduran Elections",
+        "title": "Trump-Endorsed Candidate and Sportscaster Lead Honduran Presidential Race",
         "link": "https://www.nytimes.com/2025/11/30/world/americas/honduras-election.html"
       },
       {
@@ -120,6 +120,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli forces detain 44 Palestinians in towns near Bethlehem",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-44-palestinians-towns-near-bethlehem"
+      },
       {
         "title": "Israel's ex-prime minister supports pardoning Netanyahu if he leaves politics",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-ex-prime-minister-supports-pardoning-netanyahu-if-he-leaves"
@@ -135,13 +139,21 @@
       {
         "title": "Campaign to 'free Palestinian hostages' in Israeli jails gains momentum",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/campaign-free-palestinian-hostages-israeli-jails-gains-momentum"
-      },
-      {
-        "title": "Settler attack on West Bank well cuts water to Palestinian towns",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settler-attack-west-bank-well-cuts-water-palestinian-towns"
       }
     ],
     "GeoTV": [
+      {
+        "title": "James Cameron reveals his new plan if ‘Avatar: Fire and Ash' flops",
+        "link": "https://www.geo.tv/latest/636678-james-cameron-reveals-his-new-plan-if-avatar-fire-and-ash-flops"
+      },
+      {
+        "title": "Trump's secret call with Maduro fails: ‘Deadlier than Vietnam War'",
+        "link": "https://www.geo.tv/latest/636677-trumps-secret-call-with-maduro-fails-deadlier-than-vietnam-war"
+      },
+      {
+        "title": "ATC orders to unfreeze Shaukat Khanum and Namal University bank accounts",
+        "link": "https://www.geo.tv/latest/636671-atc-orders-to-unfreeze-shaukat-khanum-and-namal-university-bank-accounts"
+      },
       {
         "title": "Sadie Sink talks about the future of Max in ‘Stranger Things'",
         "link": "https://www.geo.tv/latest/636669-sadie-sink-talks-about-the-future-of-max-in-stranger-things"
@@ -149,40 +161,28 @@
       {
         "title": "Paul Heyman faces fan fury for shoving young fan at WWE event: Find out what happened",
         "link": "https://www.geo.tv/latest/636668-wwe-exec-paul-heyman-faces-fan-fury-for-shoving-young-fan-at-event"
-      },
-      {
-        "title": "‘Blessed are the peacemakers': Pope Leo XIV's urgent appeal in Beirut",
-        "link": "https://www.geo.tv/latest/636673-blessed-are-the-peacemakers-pope-leo-xivs-urgent-appeal-in-beirut"
-      },
-      {
-        "title": "Sarah Ferguson receives brutal reality check amid ambitious plans",
-        "link": "https://www.geo.tv/latest/636672-sarah-ferguson-receives-brutal-reality-check-amid-ambitious-plans"
-      },
-      {
-        "title": "Chrissy Teigen honoured with special award on 40th birthday",
-        "link": "https://www.geo.tv/latest/636658-chrissy-teigen-honoured-with-special-award-on-40th-birthday"
       }
     ],
     "NDTV": [
       {
-        "title": "Parliament Winter Session Live Updates Day 1: Amid Chaos Over SIR, Lok Sabha Adjourned Till 12:00 PM",
-        "link": "https://www.ndtv.com/india-news/parliament-winter-session-2025-live-updates-pm-modi-opposition-congress-rahul-gandhi-sir-extension-government-to-push-bills-opposition-to-target-sir-9728038#publisher=newsstand"
-      },
-      {
-        "title": "Navi Mumbai Airport Completes Key Exercise, Ready To Start Operations",
-        "link": "https://www.ndtv.com/india-news/navi-mumbai-airport-completes-key-exercise-ready-to-start-operations-9728608#publisher=newsstand"
-      },
-      {
-        "title": "\"Can Give Tips To Opposition\": PM Says Need Delivery, Not Drama In Parliament",
+        "title": "PM's 'Delivery, Not Drama' Jab At Congress, Priyanka Gandhi's Sharp Reply",
         "link": "https://www.ndtv.com/india-news/parliament-live-updates-not-drama-we-need-delivery-in-parliament-pm-to-opposition-ahead-of-winter-session-9728382#publisher=newsstand"
       },
       {
-        "title": "Parliament Winter Session Begins, Trouble Spots Include SIR, Pollution: 10 Points",
-        "link": "https://www.ndtv.com/india-news/winter-session-of-parliament-2025-parliament-winter-session-begins-today-trouble-spots-include-sir-air-pollution-9726729#publisher=newsstand"
+        "title": "Hyderabad Shocker: 4-Year-Old Thrown To Floor, Trampled By School Attendant",
+        "link": "https://www.ndtv.com/hyderabad-news/hyderabad-shocker-4-year-old-thrown-to-floor-trampled-by-school-attendant-9728109#publisher=newsstand"
       },
       {
-        "title": "Hong Kong High-Rise Fire Shows How Difficult It Is To Evacuate In Emergency",
-        "link": "https://www.ndtv.com/world-news/hong-kong-high-rise-fire-shows-how-difficult-it-is-to-evacuate-in-emergency-9728453#publisher=newsstand"
+        "title": "Beginning Of The End? Shashi Tharoor Misses 2 Key Congress Meets In A Row",
+        "link": "https://www.ndtv.com/india-news/shashi-tharoor-congress-beginning-of-the-end-shashi-tharoor-misses-2-key-congress-meets-in-a-row-9728982#publisher=newsstand"
+      },
+      {
+        "title": "All About Shivon Zilis, Elon Musk's Partner, Who Is Half-Indian",
+        "link": "https://www.ndtv.com/world-news/all-about-shivon-zilis-elon-musks-partner-who-is-half-indian-9728862#publisher=newsstand"
+      },
+      {
+        "title": "Parliament Winter Session Live Updates Day 1: Lok Sabha Adjourned Again Till 2:00 PM Amid Chaos Over SIR",
+        "link": "https://www.ndtv.com/india-news/parliament-winter-session-2025-live-updates-pm-modi-opposition-congress-rahul-gandhi-sir-extension-government-to-push-bills-opposition-to-target-sir-9728038#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-01 07:01 UTC"
+  "last_updated": "2025-12-01 07:41 UTC"
 }
