@@ -1,15 +1,9 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: 1,000 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/1/live-over-900-killed-in-floods-in-indonesia-malaysia-thailand-sri-lanka?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Heads of UK Special Forces suppressed SAS war crime evidence, inquiry hears",
+        "title": "Heads of UK Special Forces suppressed evidence of war crimes, officer tells inquiry",
         "link": "https://www.bbc.com/news/articles/cvgk1l4lrrdo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Trump-backed candidate Nasry Asfura leads Honduras race, early trends show",
+        "link": "https://www.aljazeera.com/news/2025/12/1/trump-backed-candidate-leads-honduras-presidential-vote-early-trends-show?traffic_source=rss"
+      },
+      {
+        "title": "Former US immigration judge among dozens fired",
+        "link": "https://www.aljazeera.com/video/unmute/2025/12/1/former-us-immigration-judge-among-dozens-fired?traffic_source=rss"
+      },
+      {
         "title": "Israelis protest against Netanyahu’s pardon request",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/1/israelis-protest-against-netanyahus-pardon-request?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Pope Leo says two-state is ‘only solution’ for Israel-Palestine",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/1/pope-leo-says-two-state-is-only-solution-for-israel-palestine?traffic_source=rss"
-      },
-      {
-        "title": "Floods in Indonesia, Sri Lanka, Thailand leave close to 1,000 dead",
-        "link": "https://www.aljazeera.com/news/2025/12/1/floods-in-indonesia-sri-lanka-thailand-leave-close-to-1000-dead?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: 1,000 killed in floods in Indonesia, Sri Lanka, Thailand, Malaysia",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/1/live-over-900-killed-in-floods-in-indonesia-malaysia-thailand-sri-lanka?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,24 +70,24 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan Population Summit: Aurangzeb stresses need to ‘recognise and negotiate’ demographic growth, climate change",
-        "link": "https://www.dawn.com/news/1958493/pakistan-population-summit-aurangzeb-stresses-need-to-recognise-and-negotiate-demographic-growth-climate-change"
+        "title": "Pakistan Population Summit: World Bank official says rapid growth ‘barrier to human and economic development’",
+        "link": "https://www.dawn.com/news/1958493/pakistan-population-summit-world-bank-official-says-rapid-growth-barrier-to-human-and-economic-development"
       },
       {
-        "title": "Body of boy who fell into open manhole in Karachi’s Gulshan-i-Iqbal recovered",
-        "link": "https://www.dawn.com/news/1958504/body-of-boy-who-fell-into-open-manhole-in-karachis-gulshan-i-iqbal-recovered"
+        "title": "Information ministry, NCCIA to take action against fake news on ‘massive scale’: Naqvi",
+        "link": "https://www.dawn.com/news/1958516/information-ministry-nccia-to-take-action-against-fake-news-on-massive-scale-naqvi"
+      },
+      {
+        "title": "Body of 3-year-old boy who fell into open manhole in Karachi’s Gulshan-i-Iqbal recovered",
+        "link": "https://www.dawn.com/news/1958504/body-of-3-year-old-boy-who-fell-into-open-manhole-in-karachis-gulshan-i-iqbal-recovered"
+      },
+      {
+        "title": "Cop martyred in suicide blast targeting police mobile in KP’s Lakki Marwat",
+        "link": "https://www.dawn.com/news/1958518/cop-martyred-in-suicide-blast-targeting-police-mobile-in-kps-lakki-marwat"
       },
       {
         "title": "‘We have no verifiable information about his condition’: Imran’s son Kasim voices fears for father’s safety",
         "link": "https://www.dawn.com/news/1958509/we-have-no-verifiable-information-about-his-condition-imrans-son-kasim-voices-fears-for-fathers-safety"
-      },
-      {
-        "title": "Pindi ATC directs to unfreeze Shaukat Khanum Memorial Trust, Namal University bank accounts",
-        "link": "https://www.dawn.com/news/1958506/pindi-atc-directs-to-unfreeze-shaukat-khanum-memorial-trust-namal-university-bank-accounts"
-      },
-      {
-        "title": "India orders smartphone makers to preload state-owned cyber safety app",
-        "link": "https://www.dawn.com/news/1958508/india-orders-smartphone-makers-to-preload-state-owned-cyber-safety-app"
       }
     ],
     "APNews": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli forces detain 11 Palestinians overnight near Ramallah",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-11-palestinians-overnight-near-ramallah"
+      },
+      {
+        "title": "Opinion: Overnight, an Israeli strike turned my family's home in Gaza into a graveyard",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-overnight-israeli-strike-turned-my-familys-home-gaza-graveyard"
+      },
+      {
         "title": "Overnight, an Israeli strike turned my family's home in Gaza into a graveyard",
         "link": "https://www.middleeasteye.net/opinion/overnight-israeli-strike-turned-my-familys-home-gaza-graveyard"
       },
@@ -131,36 +133,28 @@
       {
         "title": "Italy condemns Israeli settler violence after foreign activists injured in West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-condemns-israeli-settler-violence-after-foreign-activists-injured"
-      },
-      {
-        "title": "Israeli forces detain 44 Palestinians in towns near Bethlehem",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-44-palestinians-towns-near-bethlehem"
-      },
-      {
-        "title": "Israel's ex-prime minister supports pardoning Netanyahu if he leaves politics",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-ex-prime-minister-supports-pardoning-netanyahu-if-he-leaves"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles gives key task to Camilla and Sophie in crucial role",
-        "link": "https://www.geo.tv/latest/636688-king-charles-gives-key-task-to-camilla-and-sophie-in-crucial-role"
+        "title": "King Charles changes beloved royal tradition amid health battle",
+        "link": "https://www.geo.tv/latest/636714-king-charles-changes-beloved-royal-tradition-amid-health-battle"
       },
       {
-        "title": "‘Warfare' film wins big at British International Film Awards",
-        "link": "https://www.geo.tv/latest/636664-warfare-film-wins-big-at-british-international-film-awards"
+        "title": "Travis Kelce ready to take next step in relationship with Taylor Swift",
+        "link": "https://www.geo.tv/latest/636710-travis-kelce-ready-to-take-next-step-in-relationship-with-taylor-swift"
       },
       {
-        "title": "Sydney Sweeney wows fans with unexpected skill",
-        "link": "https://www.geo.tv/latest/636694-sydney-sweeney-wows-fans-with-unexpected-skill"
+        "title": "Danish royals team up for major event: watch inside",
+        "link": "https://www.geo.tv/latest/636691-danish-royals-team-up-for-major-event-watch-inside"
       },
       {
-        "title": "Amy Schumer recent appearance sets the internet ablaze",
-        "link": "https://www.geo.tv/latest/636681-amy-schumer-recent-appearance-sets-the-internet-ablaze"
+        "title": "CDF notification cannot be issued simply by pressing a button, Naqvi on delay rumours",
+        "link": "https://www.geo.tv/latest/636706-cdf-notification-cannot-be-issued-simply-by-pressing-a-button-naqvi-on-delay-rumours"
       },
       {
-        "title": "Prince William wins women's hearts by admitting 'universal truth'",
-        "link": "https://www.geo.tv/latest/636676-prince-william-wins-womens-hearts-by-admitting-universal-truth"
+        "title": "Several nations mulling over Australia-like social media ban on teens: Here's full list",
+        "link": "https://www.geo.tv/latest/636697-several-nations-mulling-over-australia-like-social-media-ban-on-teens-heres-full-list"
       }
     ],
     "NDTV": [
@@ -187,7 +181,7 @@
     ],
     "TheGuardian": [
       {
-        "title": "How the cuts have shaken HIV/Aids care to its core and will mean millions more infections ahead",
+        "title": "Aid cuts have shaken HIV/Aids care to its core – and will mean millions more infections ahead",
         "link": "https://www.theguardian.com/global-development/2025/dec/01/global-health-hiv-aids-funding-cuts-infections-prevention"
       },
       {
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-01 08:56 UTC"
+  "last_updated": "2025-12-01 09:51 UTC"
 }
