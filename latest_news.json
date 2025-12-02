@@ -1,10 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Barcelona vs Atletico Madrid – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/2/live-barcelona-vs-atletico-madrid-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
         "title": "'We will never get justice,' say Hillsborough families as report finds fundamental police failures",
         "link": "https://www.bbc.com/news/articles/c5y9r863k4eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukrainians in war-ravaged Donbas weigh prospects of peace deal",
+        "link": "https://www.bbc.com/news/articles/cpq47derx2vo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Jury trials scrapped for crimes with sentences of less than three years",
@@ -17,32 +27,28 @@
       {
         "title": "Andrew won't get any money back after Royal Lodge move",
         "link": "https://www.bbc.com/news/articles/c75vdxd517eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Reeves speech did not mislead on challenges facing UK ahead of Budget, says OBR official",
-        "link": "https://www.bbc.com/news/articles/czj0ngnkl2vo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Juan Orlando Hernandez freed after Trump’s ‘full and complete’ pardon",
-        "link": "https://www.aljazeera.com/news/2025/12/2/juan-orlando-hernandez-freed-after-trumps-full-and-complete-pardon?traffic_source=rss"
+        "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
+        "link": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
       },
       {
-        "title": "Europe should seize Russia’s frozen assets now",
-        "link": "https://www.aljazeera.com/opinions/2025/12/2/europe-should-seize-russias-frozen-assets-now?traffic_source=rss"
+        "title": "Ex-EU top diplomat Mogherini detained in Belgium fraud case: Reports",
+        "link": "https://www.aljazeera.com/news/2025/12/2/ex-eu-top-diplomat-mogherini-detained-in-belgium-fraud-case-reports?traffic_source=rss"
       },
       {
-        "title": "Isack Hadjar to replace Yuki Tsunoda at Red Bull for 2026 F1 season",
-        "link": "https://www.aljazeera.com/sports/2025/12/2/isack-hadjar-to-replace-yuki-tsunoda-at-red-bull-for-2026-f1-season?traffic_source=rss"
+        "title": "LIVE: Barcelona vs Atletico Madrid – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/2/live-barcelona-vs-atletico-madrid-la-liga?traffic_source=rss"
       },
       {
-        "title": "Is war between Ethiopia & Eritrea inevitable?: Mehdi Hasan & Getachew Reda",
-        "link": "https://www.aljazeera.com/video/head-to-head/2025/12/2/is-war-between-ethiopia-eritrea-inevitable-mehdi-hasan-getachew-reda?traffic_source=rss"
+        "title": "Trump’s Military Moves & Claims on Venezuela",
+        "link": "https://www.aljazeera.com/video/fact-check/2025/12/2/trumps-military-moves-claims-on-venezuela?traffic_source=rss"
       },
       {
-        "title": "Israel’s Netanyahu says deal with Syria possible but demands buffer zone",
-        "link": "https://www.aljazeera.com/news/2025/12/2/israels-netanyahu-says-deal-with-syria-possible-but-demands-buffer-zone?traffic_source=rss"
+        "title": "Propaganda or military victory? Russia claims capture of Pokrovsk",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/2/propaganda-or-military-victory-russia-claims-capture-of-pokrovsk?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,23 +92,23 @@
         "link": "https://www.dawn.com/news/1958782/son-of-ihc-judge-sent-on-physical-remand-over-fatal-car-accident-that-claimed-two-lives"
       },
       {
-        "title": "Security forces kill 7 terrorists in North Waziristan IBOs: ISPR",
-        "link": "https://www.dawn.com/news/1958802/security-forces-kill-7-terrorists-in-north-waziristan-ibos-ispr"
+        "title": "Taliban vow cooperation as Tajikistan talks with Russia about helping guard its Afghan border",
+        "link": "https://www.dawn.com/news/1958805/taliban-vow-cooperation-as-tajikistan-talks-with-russia-about-helping-guard-its-afghan-border"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Juan Orlando Hernández, Former President of Honduras, Is Freed From Prison After Trump Pardon",
+        "link": "https://www.nytimes.com/2025/12/02/us/politics/hernandez-honduras-trump.html"
+      },
+      {
         "title": "The Ex-President Whom Trump Plans to Pardon Flooded America With Cocaine",
         "link": "https://www.nytimes.com/2025/11/29/nyregion/honduras-hernandez-drug-trafficking.html"
       },
       {
-        "title": "The Election That Has Republicans on Edge, and How One College Student Was Deported",
-        "link": "https://www.nytimes.com/2025/12/02/podcasts/the-headlines/tennessee-elections-college-student-deported.html"
-      },
-      {
-        "title": "Vaccine Committee May Make Significant Changes to Childhood Schedule",
-        "link": "https://www.nytimes.com/2025/12/02/health/vaccine-committee-hepatitis-b-children-trump-rfk-jr.html"
+        "title": "Kristi Noem Recommends New Travel Ban After National Guard Shooting",
+        "link": "https://www.nytimes.com/2025/12/01/us/politics/trump-travel-ban-dhs-noem.html"
       },
       {
         "title": "Maduro Faces His Ultimate Fight as Trump Threatens Military Action in Venezuela",
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli troops kill more people crossing into 'buffer zone' in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-kill-more-people-crossing-buffer-zone-gaza"
+      },
+      {
+        "title": "Your Party is here. Can it cut through and help defeat Reform?",
+        "link": "https://www.middleeasteye.net/opinion/your-party-here-can-it-cut-through-and-help-defeat-reform"
+      },
+      {
         "title": "'From the River to the Sea' book removed from German book chain",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/river-sea-book-removed-german-book-chain"
       },
@@ -123,19 +137,19 @@
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/icc-removed-karim-khan-his-own-investigation-venezuela-now-israel-wants"
       },
       {
-        "title": "Israeli soldiers raid home of teenager's family same say as they kill him",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-raid-home-teenagers-family-same-say-they-kill-him"
-      },
-      {
-        "title": "Tunisian opposition activist Chaima Issa starts hunger strike to protest violent arrest",
-        "link": "https://www.middleeasteye.net/news/tunisian-opposition-activist-chaima-issa-starts-hunger-strike-protest-violent-arrest"
-      },
-      {
-        "title": "Revealed: Trump administration issued US visa for sanctioned ICC deputy prosecutor",
-        "link": "https://www.middleeasteye.net/news/revealed-trump-administration-issued-us-visa-sanctioned-icc-official"
+        "title": "Israeli soldiers raid home of teenager's family same day they killed him",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-raid-home-teenagers-family-same-day-they-kill-him"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Andrew's secret Royal Lodge deal exposed in bombshell document release",
+        "link": "https://www.geo.tv/latest/637058-andrews-secret-royal-lodge-deal-exposed-in-bombshell-document-release"
+      },
+      {
+        "title": "UAE lights, Ali Zafar's energy and Pakistan's cricket stars fire up ILT20 launch",
+        "link": "https://www.geo.tv/latest/637059-uae-lights-ali-zafars-energy-and-pakistans-cricket-stars-fire-up-ilt20-launch"
+      },
       {
         "title": "Prince Harry delivers 'powerful message' as he returns to Canada",
         "link": "https://www.geo.tv/latest/637053-prince-harry"
@@ -147,36 +161,28 @@
       {
         "title": "Prince William addresses Forest Lodge lease terms leak to protect Kate Middleton",
         "link": "https://www.geo.tv/latest/637050-prince-william-addresses-forest-lodge-lease-terms-leak-to-protect-kate-middleton"
-      },
-      {
-        "title": "‘Adolescence' creator spills the beans on Season 2 plans",
-        "link": "https://www.geo.tv/latest/637054-adolescence-creator-spills-the-beans-on-season-2-plans"
-      },
-      {
-        "title": "Islamabad teen with 'links to judiciary' remanded into police custody after crash kills two women",
-        "link": "https://www.geo.tv/latest/637044-islamabad-teen-remanded-into-police-custody-after-crash-kills-two-women"
       }
     ],
     "NDTV": [
       {
-        "title": "Pawan Kalyan's 'Evil Eye' Remark Triggers Firestorm In Telangana, And A Threat",
-        "link": "https://www.ndtv.com/india-news/andhra-pradesh-telangana-konaseema-pawan-kalyans-evil-eye-remark-triggers-firestorm-in-telangana-and-a-threat-9738741#publisher=newsstand"
+        "title": "Flights Of Multiple Airlines Delayed After Check-In Glitch At Many Airports",
+        "link": "https://www.ndtv.com/india-news/flights-of-multiple-airlines-delayed-after-check-in-glitch-at-many-airports-9739568#publisher=newsstand"
       },
       {
-        "title": "\"Nehru Wanted To Build Babri Masjid Using Public Funds\": Rajnath Singh",
-        "link": "https://www.ndtv.com/india-news/nehru-wanted-to-build-babri-masjid-using-public-funds-rajnath-singh-9737051#publisher=newsstand"
+        "title": "Russia \"Ready\" If Europe Wants War: Putin's Big Warning Ahead Of US Talks",
+        "link": "https://www.ndtv.com/india-news/russia-ready-if-europe-wants-war-putins-big-warning-ahead-of-us-talks-9739577#publisher=newsstand"
       },
       {
-        "title": "Russia Says It Is Ready To Address India's Concerns Over Trade Deficit",
-        "link": "https://www.ndtv.com/world-news/russia-says-it-is-ready-to-address-indias-concerns-over-trade-deficit-9738937#publisher=newsstand"
+        "title": "How Sanchar Saathi App Can Help Curb Cybercrimes",
+        "link": "https://www.ndtv.com/india-news/how-sanchar-saathi-app-can-help-curb-cybercrimes-9738907#publisher=newsstand"
       },
       {
-        "title": "Delhi High Court Court To Hear Plea Seeking Steps To Control Air Pollution Tomorrow",
-        "link": "https://www.ndtv.com/india-news/delhi-high-court-court-to-hear-plea-seeking-steps-to-control-air-pollution-tomorrow-9737315#publisher=newsstand"
+        "title": "Drunk, Mentally Challenged Man Breaches Yogi Adityanath's Security Cordon In UP",
+        "link": "https://www.ndtv.com/india-news/drunk-mentally-challenged-man-breaches-yogi-adityanaths-security-cordon-in-up-9738840#publisher=newsstand"
       },
       {
-        "title": "Delhi Sees Sharp Early December Temperature Drop, Cold Wave Looms",
-        "link": "https://www.ndtv.com/india-news/delhi-sees-sharp-early-december-temperature-drop-cold-wave-looms-9738723#publisher=newsstand"
+        "title": "Bengal's Rs 2 Lakh Aid To Families Of Those Who Died Over \"SIR-Linked Panic\"",
+        "link": "https://www.ndtv.com/india-news/bengals-rs-2-lakh-aid-to-families-of-those-who-died-over-sir-linked-panic-9737707#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-02 16:59 UTC"
+  "last_updated": "2025-12-02 17:48 UTC"
 }
