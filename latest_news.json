@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +17,23 @@
         "link": "https://www.bbc.com/news/articles/cwyvnnz5842o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "British Fashion Awards: Baby bumps and Traitors stars",
-        "link": "https://www.bbc.com/news/articles/c4gpr04mkd0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hillsborough police report 'may not give answers'",
+        "title": "Hillsborough families fear delayed police report won't 'give all the answers'",
         "link": "https://www.bbc.com/news/articles/c3e04pl48ldo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Australia won't be intimidated by firms over social media ban, minister tells BBC",
-        "link": "https://www.bbc.com/news/articles/cnv2z059745o?at_medium=RSS&at_campaign=rss"
+        "title": "British Fashion Awards in pictures: Baby bumps and Traitors stars",
+        "link": "https://www.bbc.com/news/articles/c4gpr04mkd0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK criticises Gaza aid delays as tents take year to arrive",
+        "link": "https://www.bbc.com/news/articles/cqlk663555no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
+      },
       {
         "title": "India’s sky-high fares crash dreams to make flying accessible to all",
         "link": "https://www.aljazeera.com/features/2025/12/2/indias-sky-high-fares-crash-dreams-to-make-flying-accessible-to-all?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Canada joins key EU defence programme as PM Carney pivots away from US",
         "link": "https://www.aljazeera.com/news/2025/12/2/canada-joins-key-eu-defence-programme-as-pm-carney-pivots-away-from-us?traffic_source=rss"
-      },
-      {
-        "title": "Russia says it captured Pokrovsk, a key logistics hub in eastern Ukraine",
-        "link": "https://www.aljazeera.com/news/2025/12/2/russia-says-it-captured-pokrovsk-a-key-logistics-hub-in-eastern-ukraine?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,12 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan Population Summit: Attaullah Tarar stresses need to acknowledge scale of issue",
-        "link": "https://www.dawn.com/news/1958724/pakistan-population-summit-attaullah-tarar-stresses-need-to-acknowledge-scale-of-issue"
+        "title": "Pakistan Population Summit: Maulana Abdul Khabeer Azad says tackling rapid growth ‘collective responsibility’",
+        "link": "https://www.dawn.com/news/1958724/pakistan-population-summit-maulana-abdul-khabeer-azad-says-tackling-rapid-growth-collective-responsibility"
+      },
+      {
+        "title": "Passengers with complete documents not being stopped from travelling, reassures Naqvi during visit to Lahore airport",
+        "link": "https://www.dawn.com/news/1958737/passengers-with-complete-documents-not-being-stopped-from-travelling-reassures-naqvi-during-visit-to-lahore-airport"
       },
       {
         "title": "Blame game on ‘confrontational politics’ in NA",
@@ -84,10 +94,6 @@
       {
         "title": "PTI goes ahead with protest plan in twin cities amid ban",
         "link": "https://www.dawn.com/news/1958676/pti-goes-ahead-with-protest-plan-in-twin-cities-amid-ban"
-      },
-      {
-        "title": "Hong Kong leader orders independent probe into fire that killed 151",
-        "link": "https://www.dawn.com/news/1958735/hong-kong-leader-orders-independent-probe-into-fire-that-killed-151"
       }
     ],
     "APNews": [],
@@ -115,49 +121,61 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli forces kill 17-year-old Palestinian boy in Hebron",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-17-year-old-palestinian-boy-hebron"
+      },
+      {
+        "title": "Israeli forces kill Palestinian driver in occupied West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-driver-occupied-west-bank"
+      },
+      {
+        "title": "Morning recap",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-123"
+      },
+      {
         "title": "Israeli army chief calls for an investigation into the killing of Palestinians who surrendered",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-chief-calls-investigation-killing-palestinians-who"
       },
       {
         "title": "Israeli soldiers kill Palestinian trying to cross yellow line in targeted killings",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-kill-palestinian-trying-cross-yellow-line-repeated"
-      },
-      {
-        "title": "'Scapegoating': Thousands of Afghans thrust into uncertainty after DC shooting",
-        "link": "https://www.middleeasteye.net/news/scapegoating-thousands-afghans-thrust-uncertainty-after-dc-shooting"
-      },
-      {
-        "title": "ICC stands defiant against US sanctions",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/icc-stands-defiant-against-us-sanctions"
-      },
-      {
-        "title": "Trump warns Israel not to prevent Syria's 'evolution'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-issues-warning-netanyahu-about-destabilising-syria"
       }
     ],
     "GeoTV": [
       {
-        "title": "Hilary Duff announces Vegas Valentine's weekend shows",
-        "link": "https://www.geo.tv/latest/636915-hilary-duff-announces-vegas-valentines-weekend-shows"
+        "title": "Meghan Markle faces ultimate test before next career decision",
+        "link": "https://www.geo.tv/latest/636927-meghan-markle-faces-ultimate-test-before-next-career-decision"
       },
       {
-        "title": "Kensington Palace releases key update amid William, Harry latest conflict",
-        "link": "https://www.geo.tv/latest/636916-kensington-palace-releases-key-update-amid-william-harry-latest-conflict"
+        "title": "Russia's Putin seeks to boost energy, defence exports with India visit",
+        "link": "https://www.geo.tv/latest/636922-russias-putin-seeks-to-boost-energy-defence-exports-with-india-visit"
       },
       {
-        "title": "Winona Ryder talks real-life inspiration behind ‘Stranger Things' role",
-        "link": "https://www.geo.tv/latest/636912-winona-ryder-talks-real-life-inspiration-behind-stranger-things-role"
+        "title": "Taylor Swift unveils 'The Final Show' featuring full TTPD set",
+        "link": "https://www.geo.tv/latest/636926-taylor-swift-unveils-the-final-show-featuring-full-ttpd-set"
       },
       {
-        "title": "Govt considers scrapping personal baggage used cars import scheme",
-        "link": "https://www.geo.tv/latest/636911-govt-considers-scrapping-personal-baggage-used-cars-import-scheme"
+        "title": "'The Idea of You' star reveals his first reaction to script of ‘Masters of the Universe'",
+        "link": "https://www.geo.tv/latest/636919-the-idea-of-you-star-reveals-his-first-reaction-to-script-of-masters-of-the-universe"
       },
       {
-        "title": "Race to get aid to Asia flood survivors as toll nears 1,200",
-        "link": "https://www.geo.tv/latest/636908-race-to-get-aid-to-asia-flood-survivors-as-toll-nears-1200"
+        "title": "Melania Trump reveals ‘Home is Where the Heart is' inspired Christmas decor for White House",
+        "link": "https://www.geo.tv/latest/636924-melania-trump-reveals-home-is-where-the-heart-is-inspired-christmas-decor-for-white-house"
       }
     ],
     "NDTV": [
+      {
+        "title": "Parliament Winter Session Live Updates: Opposition MPs Called To Speaker's Office After SIR Uproar In Lok Sabha",
+        "link": "https://www.ndtv.com/india-news/parliament-winter-session-live-updates-sir-debate-in-parliament-gst-on-tobacco-red-fort-blast-opposition-protest-at-10-30-am-over-discussion-on-electo-9734176#publisher=newsstand"
+      },
+      {
+        "title": "Rs 62,944 Crore Debt, Rotting Grain: Madhya Pradesh Admits To Food Supply Failure",
+        "link": "https://www.ndtv.com/india-news/rs-62-944-crore-debt-rotting-grain-madhya-pradesh-admits-to-food-supply-failure-9735022#publisher=newsstand"
+      },
+      {
+        "title": "Drone Pics On Delhi Blast Co-Conspirator's Phone Reveal A Hamas Pattern",
+        "link": "https://www.ndtv.com/india-news/drone-pics-on-delhi-blast-co-conspirators-phone-reveal-a-hamas-pattern-9734977#publisher=newsstand"
+      },
       {
         "title": "DK Shivakumar Hosts Siddaramaiah For Breakfast 2.0, Nati Chicken On Menu",
         "link": "https://www.ndtv.com/india-news/dk-shivakumar-siddaramaiah-breakfast-meet-2-0-karnataka-news-9734693#publisher=newsstand"
@@ -165,18 +183,6 @@
       {
         "title": "Meet Amar Subramanya, Apple's New Vice President Of AI",
         "link": "https://www.ndtv.com/world-news/meet-amar-subramanya-apples-new-vice-president-of-ai-9734562#publisher=newsstand"
-      },
-      {
-        "title": "China, Japan In Fresh Incident Around Disputed Islands",
-        "link": "https://www.ndtv.com/world-news/china-japan-in-fresh-incident-around-disputed-islands-9734618#publisher=newsstand"
-      },
-      {
-        "title": "Jagan Reddy Spent Rs 222 Crore On Air Travel In 5 Years As Chief Minister",
-        "link": "https://www.ndtv.com/andhra-pradesh-news/jagan-reddy-spent-rs-222-crore-on-air-travel-in-5-years-as-andhra-pradesh-chief-minister-9734762#publisher=newsstand"
-      },
-      {
-        "title": "Parliament Winter Session Live Updates: Opposition Protests Over Discussion On Electoral Reforms",
-        "link": "https://www.ndtv.com/india-news/parliament-winter-session-live-updates-sir-debate-in-parliament-gst-on-tobacco-red-fort-blast-opposition-protest-at-10-30-am-over-discussion-on-electo-9734176#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-02 05:52 UTC"
+  "last_updated": "2025-12-02 06:56 UTC"
 }
