@@ -1,15 +1,9 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Twelve further prisoners accidentally released, says Lammy",
+        "title": "Twelve more prisoners released in error, with two still missing, says Lammy",
         "link": "https://www.bbc.com/news/articles/c8e9py8g2yyo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,30 +19,30 @@
         "link": "https://www.bbc.com/news/articles/c3e04pl48ldo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fashion Awards in pictures: Baby bumps and Traitors stars",
+        "title": "Traitors stars, Sienna Miller's baby bump and more pictures from the Fashion Awards",
         "link": "https://www.bbc.com/news/articles/c4gpr04mkd0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "FIFA World Cup 2026 draw: Teams, pots, how to watch and all to know",
+        "link": "https://www.aljazeera.com/sports/2025/12/2/fifa-world-cup-2026-draw-teams-pots-how-to-watch-and-all-to-know?traffic_source=rss"
+      },
+      {
+        "title": "Video: Moment Palestinian prisoner’s home is blown up by Israeli forces",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/2/video-moment-palestinian-prisoners-home-is-blown-up-by-israeli-forces?traffic_source=rss"
+      },
+      {
+        "title": "Hegseth or Admiral Bradley: Who approved the second Venezuela boat strike?",
+        "link": "https://www.aljazeera.com/news/2025/12/2/hegseth-or-admiral-bradley-who-approved-the-second-venezuela-boat-strike?traffic_source=rss"
+      },
+      {
+        "title": "US envoys headed to Moscow to discuss Ukraine peace plan with Putin",
+        "link": "https://www.aljazeera.com/news/2025/12/2/us-envoys-headed-to-moscow-to-discuss-ukraine-peace-plan-with-putin?traffic_source=rss"
+      },
+      {
         "title": "US mass killings drop to 20-year low in 2025: Database",
         "link": "https://www.aljazeera.com/news/2025/12/2/us-mass-killings-drop-to-20-year-low-in-2025-database?traffic_source=rss"
-      },
-      {
-        "title": "Video: ‘Slaves, never!’ Venezuela’s Maduro holds rally amid US tensions",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/2/video-slaves-never-venezuelas-maduro-holds-rally-amid-us-tensions?traffic_source=rss"
-      },
-      {
-        "title": "Hong Kong leader orders independent investigation into fire that killed 151",
-        "link": "https://www.aljazeera.com/news/2025/12/2/hong-kong-leader-orders-independent-investigation-into-fire-that-killed-151?traffic_source=rss"
-      },
-      {
-        "title": "UN will cut 2026 budget by $577m by slashing workforce",
-        "link": "https://www.aljazeera.com/news/2025/12/2/un-will-cut-2026-budget-by-577m-by-slashing-workforce?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "Pakistan says India blocking humanitarian assistance for cyclone-hit Sri Lanka",
+        "link": "https://www.dawn.com/news/1958751/pakistan-says-india-blocking-humanitarian-assistance-for-cyclone-hit-sri-lanka"
+      },
+      {
         "title": "Pakistan Population Summit: Journalist Arifa Noor highlights lack of focus on important issues in polarised political climate",
         "link": "https://www.dawn.com/news/1958724/pakistan-population-summit-journalist-arifa-noor-highlights-lack-of-focus-on-important-issues-in-polarised-political-climate"
       },
@@ -90,10 +88,6 @@
       {
         "title": "Passengers with complete documents not being stopped from travelling, reassures Naqvi during visit to Lahore airport",
         "link": "https://www.dawn.com/news/1958737/passengers-with-complete-documents-not-being-stopped-from-travelling-reassures-naqvi-during-visit-to-lahore-airport"
-      },
-      {
-        "title": "Hong Kong leader orders independent probe into fire that killed 151",
-        "link": "https://www.dawn.com/news/1958735/hong-kong-leader-orders-independent-probe-into-fire-that-killed-151"
       }
     ],
     "APNews": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Palestinian shot dead by Israeli forces in Gaza’s Zeitoun neighbourhood",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-shot-dead-israeli-forces-gazas-zeitoun-neighbourhood"
+      },
+      {
         "title": "Protesters rally against Netanyahu pardon outside official residence",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/protesters-rally-against-netanyahu-pardon-outside-official-residence"
       },
@@ -135,32 +133,28 @@
       {
         "title": "Israeli forces demolish home of bus bombing suspect in West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-demolish-home-bus-bombing-suspect-west-bank"
-      },
-      {
-        "title": "Israeli occupation forcibly arrested four Palestinians in Tulkarm dawn raids",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-occupation-forcibly-arrested-four-palestinians-tulkarm-dawn"
       }
     ],
     "GeoTV": [
       {
-        "title": "‘Harry Potter' Daniel Radcliffe lights up room as he embraces big rival",
-        "link": "https://www.geo.tv/latest/636940-harry-potter-daniel-radcliffe-lights-up-room-as-he-embraces-big-rival"
+        "title": "Minorities rights bill sails through parliament's joint session",
+        "link": "https://www.geo.tv/latest/636951-minorities-rights-bill-sails-through-parliaments-joint-session"
       },
       {
-        "title": "Is Netflix about to own Hollywood? Streaming giant tables ‘mostly cash' bid for Warner Bros",
-        "link": "https://www.geo.tv/latest/636950-is-netflix-about-to-own-hollywood-streaming-giant-tables-mostly-cash-bid-for-warner-bros"
+        "title": "Charles Spencer shares new insight into Diana's unseen action",
+        "link": "https://www.geo.tv/latest/636953-charles-spencer-shares-new-insight-into-dianas-unseen-action"
       },
       {
-        "title": "Inside Harry Styles and Zoë Kravitz relaxed Roman getaway",
-        "link": "https://www.geo.tv/latest/636949-inside-harry-styles-and-zo-kravitz-relaxed-roman-getaway"
+        "title": "Amy Schumer reveals true reason behind incredible weight loss",
+        "link": "https://www.geo.tv/latest/636957-amy-schumer-reveals-true-reason-behind-incredible-weight-loss"
       },
       {
-        "title": "Madelyn Cline shares working experience with Johnny Depp: 'Priceless'",
-        "link": "https://www.geo.tv/latest/636933-madelyn-cline-shares-working-experience-with-johnny-depp-priceless"
+        "title": "Unverified viral video shows possible Chinese robot near India border",
+        "link": "https://www.geo.tv/latest/636956-unverified-viral-video-shows-possible-chinese-robot-near-india-border"
       },
       {
-        "title": "Palestine defeats Qatar, claiming first Arab Cup victory since 1966",
-        "link": "https://www.geo.tv/latest/636947-palestine-defeats-qatar-claiming-first-arab-cup-victory-since-1966"
+        "title": "Meghan Markle pens special message day before life-changing moment",
+        "link": "https://www.geo.tv/latest/636942-meghan-markle-pens-special-message-day-before-life-changing-moment"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-02 08:57 UTC"
+  "last_updated": "2025-12-02 09:50 UTC"
 }
