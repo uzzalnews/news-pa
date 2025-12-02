@@ -9,6 +9,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Twelve further prisoners accidentally released, says Lammy",
+        "link": "https://www.bbc.com/news/articles/c8e9py8g2yyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Putin and Trump's envoy set for key Ukraine talks in Moscow",
         "link": "https://www.bbc.com/news/articles/ce8ng3yjenpo?at_medium=RSS&at_campaign=rss"
       },
@@ -21,15 +25,19 @@
         "link": "https://www.bbc.com/news/articles/c3e04pl48ldo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "British Fashion Awards in pictures: Baby bumps and Traitors stars",
+        "title": "Fashion Awards in pictures: Baby bumps and Traitors stars",
         "link": "https://www.bbc.com/news/articles/c4gpr04mkd0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "UK criticises Gaza aid delays as tents take year to arrive",
-        "link": "https://www.bbc.com/news/articles/cqlk663555no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US mass killings drop to 20-year low in 2025: Database",
+        "link": "https://www.aljazeera.com/news/2025/12/2/us-mass-killings-drop-to-20-year-low-in-2025-database?traffic_source=rss"
+      },
+      {
+        "title": "Video: ‘Slaves, never!’ Venezuela’s Maduro holds rally amid US tensions",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/2/video-slaves-never-venezuelas-maduro-holds-rally-amid-us-tensions?traffic_source=rss"
+      },
       {
         "title": "Hong Kong leader orders independent investigation into fire that killed 151",
         "link": "https://www.aljazeera.com/news/2025/12/2/hong-kong-leader-orders-independent-investigation-into-fire-that-killed-151?traffic_source=rss"
@@ -41,14 +49,6 @@
       {
         "title": "LIVE: Israeli forces continue demolition, destruction around Gaza City",
         "link": "https://www.aljazeera.com/news/liveblog/2025/12/2/live-israeli-forces-continue-demolition-destruction-around-gaza-city?traffic_source=rss"
-      },
-      {
-        "title": "India’s sky-high fares crash dreams to make flying accessible to all",
-        "link": "https://www.aljazeera.com/features/2025/12/2/indias-sky-high-fares-crash-dreams-to-make-flying-accessible-to-all?traffic_source=rss"
-      },
-      {
-        "title": "Indonesia’s flood victims pick up pieces as homes, livelihoods swept away",
-        "link": "https://www.aljazeera.com/news/2025/12/2/i-decided-id-die-indonesias-flood-victims-recount-stories-of-survival?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,12 +76,12 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan Population Summit: Murtaza Wahab says Karachi faces brunt of country’s ballooning populace",
-        "link": "https://www.dawn.com/news/1958724/pakistan-population-summit-murtaza-wahab-says-karachi-faces-brunt-of-countrys-ballooning-populace"
+        "title": "Pakistan Population Summit: Journalist Arifa Noor highlights lack of focus on important issues in polarised political climate",
+        "link": "https://www.dawn.com/news/1958724/pakistan-population-summit-journalist-arifa-noor-highlights-lack-of-focus-on-important-issues-in-polarised-political-climate"
       },
       {
-        "title": "2 cops among 3 martyred as assistant commissioner’s vehicle comes under attack in Bannu",
-        "link": "https://www.dawn.com/news/1958742/2-cops-among-3-martyred-as-assistant-commissioners-vehicle-comes-under-attack-in-bannu"
+        "title": "Miranshah assistant commissioner among 4 martyred in Bannu attack",
+        "link": "https://www.dawn.com/news/1958742/miranshah-assistant-commissioner-among-4-martyred-in-bannu-attack"
       },
       {
         "title": "Ahead of PTI protests in twin cities, Tallal Chaudhry says compliance with Section 144 will be ensured",
@@ -92,8 +92,8 @@
         "link": "https://www.dawn.com/news/1958737/passengers-with-complete-documents-not-being-stopped-from-travelling-reassures-naqvi-during-visit-to-lahore-airport"
       },
       {
-        "title": "Blame game on ‘confrontational politics’ in NA",
-        "link": "https://www.dawn.com/news/1958677/blame-game-on-confrontational-politics-in-na"
+        "title": "Hong Kong leader orders independent probe into fire that killed 151",
+        "link": "https://www.dawn.com/news/1958735/hong-kong-leader-orders-independent-probe-into-fire-that-killed-151"
       }
     ],
     "APNews": [],
@@ -121,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Protesters rally against Netanyahu pardon outside official residence",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/protesters-rally-against-netanyahu-pardon-outside-official-residence"
+      },
+      {
+        "title": "Trump warns Israel not to prevent Syria's 'evolution'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-warns-israel-not-prevent-syrias-evolution"
+      },
+      {
+        "title": "Israel holds bodies of two Palestinians killed in West Bank raids",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-holds-bodies-two-palestinians-killed-west-bank-raids"
+      },
+      {
         "title": "Israeli forces demolish home of bus bombing suspect in West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-demolish-home-bus-bombing-suspect-west-bank"
       },
       {
         "title": "Israeli occupation forcibly arrested four Palestinians in Tulkarm dawn raids",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-occupation-forcibly-arrested-four-palestinians-tulkarm-dawn"
-      },
-      {
-        "title": "UK criticises Israel over Gaza aid delays as tents finally arrive after a year",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-criticises-israel-over-gaza-aid-delays-tents-finally-arrive-after"
-      },
-      {
-        "title": "Israeli forces kill 17-year-old Palestinian boy in Hebron",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-17-year-old-palestinian-boy-hebron"
-      },
-      {
-        "title": "Israeli forces kill Palestinian driver in occupied West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-driver-occupied-west-bank"
       }
     ],
     "GeoTV": [
       {
-        "title": "Sarah Ferguson makes urgent statement to address new home rumours",
-        "link": "https://www.geo.tv/latest/636928-sarah-ferguson-makes-urgent-statement-to-address-new-home-rumours"
+        "title": "‘Harry Potter' Daniel Radcliffe lights up room as he embraces big rival",
+        "link": "https://www.geo.tv/latest/636940-harry-potter-daniel-radcliffe-lights-up-room-as-he-embraces-big-rival"
       },
       {
-        "title": "North Waziristan assistant commissioner, two cops martyred in Bannu gun attack",
-        "link": "https://www.geo.tv/latest/636932-two-cops-among-three-martyred-in-attack-on-assistance-commissioners-vehicle-in-bannu"
+        "title": "Is Netflix about to own Hollywood? Streaming giant tables ‘mostly cash' bid for Warner Bros",
+        "link": "https://www.geo.tv/latest/636950-is-netflix-about-to-own-hollywood-streaming-giant-tables-mostly-cash-bid-for-warner-bros"
       },
       {
-        "title": "The cost of exclusion: Why women are invisible in public spaces",
-        "link": "https://www.geo.tv/latest/636921-the-cost-of-exclusion-why-women-are-invisible-in-public-spaces"
+        "title": "Inside Harry Styles and Zoë Kravitz relaxed Roman getaway",
+        "link": "https://www.geo.tv/latest/636949-inside-harry-styles-and-zo-kravitz-relaxed-roman-getaway"
       },
       {
-        "title": "After Faf du Plessis, Moeen Ali, Australia's Maxwell withdraws from IPL 2026",
-        "link": "https://www.geo.tv/latest/636923-after-faf-du-plessis-moeen-ali-australias-maxwell-withdraws-from-ipl-2026"
+        "title": "Madelyn Cline shares working experience with Johnny Depp: 'Priceless'",
+        "link": "https://www.geo.tv/latest/636933-madelyn-cline-shares-working-experience-with-johnny-depp-priceless"
       },
       {
-        "title": "Travis Barker collaborator Poorstacy's cause of death: Suicide?",
-        "link": "https://www.geo.tv/latest/636925-travis-barker-collaborator-poorstacy-cause-of-death-suicide"
+        "title": "Palestine defeats Qatar, claiming first Arab Cup victory since 1966",
+        "link": "https://www.geo.tv/latest/636947-palestine-defeats-qatar-claiming-first-arab-cup-victory-since-1966"
       }
     ],
     "NDTV": [
       {
-        "title": "Parliament Winter Session Live Updates: Opposition MPs Called To Speaker's Office After SIR Uproar In Lok Sabha",
+        "title": "Jagan Reddy Spent Rs 222 Crore On Air Travel In 5 Years As Chief Minister",
+        "link": "https://www.ndtv.com/andhra-pradesh-news/jagan-reddy-spent-rs-222-crore-on-air-travel-in-5-years-as-andhra-pradesh-chief-minister-9734762#publisher=newsstand"
+      },
+      {
+        "title": "Apple To Resist 'Sanchar Saathi' Order Amid Political Outcry: Report",
+        "link": "https://www.ndtv.com/india-news/exclusive-apple-to-resist-india-order-to-preload-state-run-app-as-political-outcry-builds-9735220#publisher=newsstand"
+      },
+      {
+        "title": "Parliament Winter Session Live Updates: Lok Sabha And Rajya Sabha Adjourned Till 2 PM",
         "link": "https://www.ndtv.com/india-news/parliament-winter-session-live-updates-sir-debate-in-parliament-gst-on-tobacco-red-fort-blast-opposition-protest-at-10-30-am-over-discussion-on-electo-9734176#publisher=newsstand"
       },
       {
-        "title": "Rs 62,944 Crore Debt, Rotting Grain: Madhya Pradesh Admits To Food Supply Failure",
-        "link": "https://www.ndtv.com/india-news/rs-62-944-crore-debt-rotting-grain-madhya-pradesh-admits-to-food-supply-failure-9735022#publisher=newsstand"
+        "title": "Mass Killings In 2025 Hit Lowest Level Since 2006",
+        "link": "https://www.ndtv.com/world-news/mass-killings-in-2025-hit-lowest-level-since-2006-9734744#publisher=newsstand"
       },
       {
-        "title": "Drone Pics On Delhi Blast Co-Conspirator's Phone Reveal A Hamas Pattern",
-        "link": "https://www.ndtv.com/india-news/drone-pics-on-delhi-blast-co-conspirators-phone-reveal-a-hamas-pattern-9734977#publisher=newsstand"
-      },
-      {
-        "title": "DK Shivakumar Hosts Siddaramaiah For Breakfast 2.0, Nati Chicken On Menu",
-        "link": "https://www.ndtv.com/india-news/dk-shivakumar-siddaramaiah-breakfast-meet-2-0-karnataka-news-9734693#publisher=newsstand"
-      },
-      {
-        "title": "Meet Amar Subramanya, Apple's New Vice President Of AI",
-        "link": "https://www.ndtv.com/world-news/meet-amar-subramanya-apples-new-vice-president-of-ai-9734562#publisher=newsstand"
+        "title": "Spying Tool Or Cybersecurity Shield? What Experts Say About Sanchar Saathi",
+        "link": "https://www.ndtv.com/india-news/sanchar-saathi-communications-ministry-jyotiraditya-scindia-big-brother-or-cybersafety-boost-deep-dive-into-sanchar-saathi-app-9735477#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-02 07:50 UTC"
+  "last_updated": "2025-12-02 08:57 UTC"
 }
