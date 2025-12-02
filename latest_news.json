@@ -1,20 +1,14 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Barcelona vs Atletico Madrid – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/2/live-barcelona-vs-atletico-madrid-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "'We will never get justice,' say Hillsborough families as report finds fundamental police failures",
-        "link": "https://www.bbc.com/news/articles/c5y9r863k4eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Ukrainians in war-ravaged Donbas weigh prospects of peace deal",
         "link": "https://www.bbc.com/news/articles/cpq47derx2vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We will never get justice,' say Hillsborough families as report finds fundamental police failures",
+        "link": "https://www.bbc.com/news/articles/c5y9r863k4eo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Jury trials scrapped for crimes with sentences of less than three years",
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Sri Lanka airlifts aid to communities devastated by huge floods",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/2/sri-lanka-airlifts-aid-to-communities-devastated-by-huge?traffic_source=rss"
+      },
+      {
+        "title": "Hong Kong residents demand answers after deadly apartment fire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/2/hong-kong-residents-demand-answers-after-deadly-apartment-fire?traffic_source=rss"
+      },
+      {
+        "title": "After a military coup, what is next for Guinea-Bissau?",
+        "link": "https://www.aljazeera.com/video/the-take-2/2025/12/2/aje-onl-aj_tt_gnb_coupdetat_av_v1-021225?traffic_source=rss"
+      },
+      {
+        "title": "Ex-PM Imran Khan healthy but cut off in Pakistan jail, sister says",
+        "link": "https://www.aljazeera.com/news/2025/12/2/ex-pm-imran-khan-healthy-but-cut-off-in-pakistan-jail-sister-says?traffic_source=rss"
+      },
+      {
         "title": "Honduras election: Why has Trump threatened to cut off aid?",
         "link": "https://www.aljazeera.com/news/2025/12/2/honduras-election-why-has-trump-threatened-to-cut-off-aid?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces kill two Palestinian teenagers in occupied West Bank",
-        "link": "https://www.aljazeera.com/news/2025/12/2/israeli-forces-kill-two-palestinian-teenagers-in-occupied-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "Ex-EU top diplomat Mogherini detained in Belgium fraud case: Reports",
-        "link": "https://www.aljazeera.com/news/2025/12/2/ex-eu-top-diplomat-mogherini-detained-in-belgium-fraud-case-reports?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Barcelona vs Atletico Madrid – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/2/live-barcelona-vs-atletico-madrid-la-liga?traffic_source=rss"
-      },
-      {
-        "title": "Trump’s Military Moves & Claims on Venezuela",
-        "link": "https://www.aljazeera.com/video/fact-check/2025/12/2/trumps-military-moves-claims-on-venezuela?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1958806/afghan-man-arrested-in-texas-threatened-suicide-attack-justice-dept"
       },
       {
-        "title": "At least 7 injured in gas leak explosion at Islamabad’s National University of Modern Languages: police",
-        "link": "https://www.dawn.com/news/1958785/at-least-7-injured-in-gas-leak-explosion-at-islamabads-national-university-of-modern-languages-police"
-      },
-      {
         "title": "Punjab govt considers issuing smart cards, motorcycle licences for 16-year-olds",
         "link": "https://www.dawn.com/news/1958803/punjab-govt-considers-issuing-smart-cards-motorcycle-licences-for-16-year-olds"
       },
       {
         "title": "Son of IHC judge sent on physical remand over fatal car accident that claimed two lives",
         "link": "https://www.dawn.com/news/1958782/son-of-ihc-judge-sent-on-physical-remand-over-fatal-car-accident-that-claimed-two-lives"
+      },
+      {
+        "title": "If Europe wants war with Russia, ‘we are ready’: Putin",
+        "link": "https://www.dawn.com/news/1958807/if-europe-wants-war-with-russia-we-are-ready-putin"
       }
     ],
     "APNews": [],
@@ -115,11 +109,23 @@
         "link": "https://www.nytimes.com/2025/12/02/world/americas/venezuela-nicolas-maduro-trump.html"
       },
       {
-        "title": "Hegseth Ordered Lethal Boat Strike but Not the Killing of Survivors, Officials Say",
-        "link": "https://www.nytimes.com/2025/12/01/us/hegseth-drug-boat-strike-order-venezuela.html"
+        "title": "Venezuela Accepts Migrant Repatriation Flight From U.S. Amid Airspace Tensions",
+        "link": "https://www.nytimes.com/2025/12/02/us/politics/venezuela-migrant-deportations-trump.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "UK government lawyers use 'secret evidence' to justify ban on Palestine Action",
+        "link": "https://www.middleeasteye.net/news/uk-government-lawyers-use-secret-evidence-justify-ban-palestine-action"
+      },
+      {
+        "title": "Nas Daily claims biggest threat facing Palestinians is 'fellow countrymen' in bizarre rant on LBC",
+        "link": "https://www.middleeasteye.net/trending/nas-daily-sparks-outrage-saying-palestinians-biggest-threat-themselves"
+      },
+      {
+        "title": "Israeli High Court asks government why there's no policy for Palestinian citizens of Israel to join military",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-high-court-asks-government-why-theres-no-policy-palestiian-citizen-israel"
+      },
       {
         "title": "Sudan war has created web of arms and mercenaries, report says",
         "link": "https://www.middleeasteye.net/news/sudan-war-has-created-web-arms-and-mercenaries-report-says"
@@ -127,21 +133,17 @@
       {
         "title": "Israeli troops kill more people crossing into 'buffer zone' in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-kill-more-people-crossing-buffer-zone-gaza"
-      },
-      {
-        "title": "Your Party is here. Can it cut through and help defeat Reform?",
-        "link": "https://www.middleeasteye.net/opinion/your-party-here-can-it-cut-through-and-help-defeat-reform"
-      },
-      {
-        "title": "'From the River to the Sea' book removed from German book chain",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/river-sea-book-removed-german-book-chain"
-      },
-      {
-        "title": "The ICC removed Karim Khan from his own investigation in Venezuela. Now Israel wants it to do the same over Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/icc-removed-karim-khan-his-own-investigation-venezuela-now-israel-wants"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince Andrew claps back at King Charles by dragging him in legal inquiry",
+        "link": "https://www.geo.tv/latest/637056-prince-andrew-claps-back-at-king-charles-by-dragging-him-in-legal-inquiry"
+      },
+      {
+        "title": "Scarlett Johansson makes unexpected confession about first date with Colin Jost",
+        "link": "https://www.geo.tv/latest/637057-scarlett-johansson-makes-unexpected-confession-about-first-date-with-colin-jost"
+      },
       {
         "title": "Indian diplomat in Ottawa offered $50000 to hitman to kill Khalistan Referendum organiser: SFJ",
         "link": "https://www.geo.tv/latest/637062-indian-diplomat-in-ottawa-offered-50000-to-hitman-to-kill-khalistan-referendum-organiser-sfj"
@@ -153,36 +155,28 @@
       {
         "title": "UAE lights, Ali Zafar's energy and Pakistan's cricket stars fire up ILT20 launch",
         "link": "https://www.geo.tv/latest/637059-uae-lights-ali-zafars-energy-and-pakistans-cricket-stars-fire-up-ilt20-launch"
-      },
-      {
-        "title": "Prince Harry delivers 'powerful message' as he returns to Canada",
-        "link": "https://www.geo.tv/latest/637053-prince-harry"
-      },
-      {
-        "title": "A$AP Rocky shares rare insight into parenting sons with wife Rihanna",
-        "link": "https://www.geo.tv/latest/637055-aap-rocky-shares-rare-insight-into-parenting-sons-with-wife-rihanna"
       }
     ],
     "NDTV": [
       {
-        "title": "Flights Of Multiple Airlines Delayed After Check-In Glitch At Many Airports",
-        "link": "https://www.ndtv.com/india-news/flights-of-multiple-airlines-delayed-after-check-in-glitch-at-many-airports-9739568#publisher=newsstand"
+        "title": "TVK's \"Reckless Actions\", Intentional Delay By Vijay Caused Stampede: Tamil Nadu To Top Court",
+        "link": "https://www.ndtv.com/india-news/tvks-reckless-actions-intentional-delay-by-vijay-caused-stampede-tamil-nadu-to-supreme-court-9738279#publisher=newsstand"
       },
       {
-        "title": "Russia \"Ready\" If Europe Wants War: Putin's Big Warning Ahead Of US Talks",
-        "link": "https://www.ndtv.com/india-news/russia-ready-if-europe-wants-war-putins-big-warning-ahead-of-us-talks-9739577#publisher=newsstand"
+        "title": "Video: Sena MLA Enters Poll Booth, Shows Party Symbol To Woman Casting Vote",
+        "link": "https://www.ndtv.com/india-news/video-sena-mla-enters-poll-booth-shows-party-symbol-to-woman-casting-vote-9738962#publisher=newsstand"
       },
       {
-        "title": "How Sanchar Saathi App Can Help Curb Cybercrimes",
-        "link": "https://www.ndtv.com/india-news/how-sanchar-saathi-app-can-help-curb-cybercrimes-9738907#publisher=newsstand"
+        "title": "India Joins Elite Club As Research Body Tests Fighter Jet Escape System",
+        "link": "https://www.ndtv.com/india-news/india-joins-elite-club-as-research-body-tests-fighter-jet-escape-system-9740032#publisher=newsstand"
       },
       {
-        "title": "Drunk, Mentally Challenged Man Breaches Yogi Adityanath's Security Cordon In UP",
-        "link": "https://www.ndtv.com/india-news/drunk-mentally-challenged-man-breaches-yogi-adityanaths-security-cordon-in-up-9738840#publisher=newsstand"
+        "title": "Abandoned In Cold, Newborn Finds Unlikely Protectors In Pack Of Stray Dogs",
+        "link": "https://www.ndtv.com/india-news/abandoned-in-cold-newborn-finds-unlikely-protectors-in-pack-of-stray-dogs-9740011#publisher=newsstand"
       },
       {
-        "title": "Bengal's Rs 2 Lakh Aid To Families Of Those Who Died Over \"SIR-Linked Panic\"",
-        "link": "https://www.ndtv.com/india-news/bengals-rs-2-lakh-aid-to-families-of-those-who-died-over-sir-linked-panic-9737707#publisher=newsstand"
+        "title": "\"Albatross Around Neck Of Opposition\": KTR's Sharp Attack On Rahul Gandhi",
+        "link": "https://www.ndtv.com/india-news/albatross-around-neck-of-opposition-ktrs-sharp-attack-on-rahul-gandhi-9740029#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-02 17:58 UTC"
+  "last_updated": "2025-12-02 19:00 UTC"
 }
