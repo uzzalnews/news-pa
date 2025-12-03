@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Athletic Bilbao vs Real Madrid – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/3/live-athletic-bilbao-vs-real-madrid-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,23 +7,31 @@
         "link": "https://www.bbc.com/news/articles/c2k4qd8q97eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "What latest Ukraine talks reveal about Putin's state of mind",
+        "title": "Rosenberg: What latest Ukraine talks reveal about Putin's state of mind",
         "link": "https://www.bbc.com/news/articles/cpq4e21nr5vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Streeting brands doctors' union 'moaning minnies' over GP online booking",
-        "link": "https://www.bbc.com/news/articles/c4g47gvy7wjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Harry Dunn failings caused distrust among family, says report",
+        "title": "UK government withheld information from Harry Dunn's family after his death, report says",
         "link": "https://www.bbc.com/news/articles/c80xk5vnpr8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "King Charles welcomes German president on first state visit in 27 years",
-        "link": "https://www.bbc.com/news/articles/c9d9jwvqyx8o?at_medium=RSS&at_campaign=rss"
+        "title": "Women's Institute to stop offering trans women membership",
+        "link": "https://www.bbc.com/news/articles/c3e05130wyno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Supermarket loyalty discounts allowed on baby formula milk",
+        "link": "https://www.bbc.com/news/articles/clyx321ded1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump admin takes aim at New Orleans in latest US immigration crackdown",
+        "link": "https://www.aljazeera.com/news/2025/12/3/trump-admin-takes-aim-at-new-orleans-in-latest-us-immigration-crackdown?traffic_source=rss"
+      },
+      {
+        "title": "Bangladesh’s economy is not collapsing but undergoing a necessary reset",
+        "link": "https://www.aljazeera.com/opinions/2025/12/3/bangladeshs-economy-is-not-collapsing-but-undergoing-a-necessary-reset?traffic_source=rss"
+      },
       {
         "title": "US-Venezuela tensions: Your questions answered",
         "link": "https://www.aljazeera.com/news/2025/12/3/us-venezuela-tensions-your-questions-answered?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Renovated al-Shifa Hospital ward in Gaza is barely operational",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/3/renovated-al-shifa-hospital-ward-in-gaza-is-barely-operational?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Athletic Bilbao vs Real Madrid – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/3/live-athletic-bilbao-vs-real-madrid-la-liga?traffic_source=rss"
-      },
-      {
-        "title": "White House denies Trump nodded off during cabinet meeting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/3/white-house-denies-trump-nodded-off-during-cabinet-meeting?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -103,12 +97,8 @@
         "link": "https://www.nytimes.com/2025/12/03/us/kenner-louisiana-border-patrol-immigration.html"
       },
       {
-        "title": "Trump’s Shift on Afghan Immigrants",
-        "link": "https://www.nytimes.com/video/us/politics/100000010557371/trumps-shift-on-afghan-immigrants.html"
-      },
-      {
-        "title": "Trump Calls Somalis ‘Garbage’ He Doesn’t Want in the Country",
-        "link": "https://www.nytimes.com/2025/12/02/us/politics/trump-somalia.html"
+        "title": "On Trump’s Insults, Somalia’s Prime Minister Says ‘It’s Better Not to Respond’",
+        "link": "https://www.nytimes.com/2025/12/03/world/africa/trump-somalia-garbage-reaction-immigrant.html"
       },
       {
         "title": "Trump’s Xenophobic Outburst, and a Planned Donation to 25 Million U.S. Kids",
@@ -117,31 +107,47 @@
       {
         "title": "Fed Pick Puts Pressure on Bessent to Deliver for Trump",
         "link": "https://www.nytimes.com/2025/12/03/us/politics/fed-chair-bessent-hassett.html"
+      },
+      {
+        "title": "Private Employers Cut Jobs in November, in Latest Sign of a Slowdown",
+        "link": "https://www.nytimes.com/2025/12/03/business/jobs-adp-economy.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli High Court rules out government appointee for Sde Teiman abuse leak inquiry",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-high-court-rules-out-government-appointee-sde-teiman-abuse-leak"
+      },
+      {
+        "title": "Hillary Clinton says TikTok to blame for young Americans' pro-Palestine views. They disagree",
+        "link": "https://www.middleeasteye.net/trending/hillary-clinton-blames-tiktok-young-americans-pro-palestine-views"
+      },
+      {
+        "title": "Israeli far right lawmaker demands Palestinians be killed over rubbish fires",
+        "link": "https://www.middleeasteye.net/news/israeli-lawmaker-calls-killing-palestinians-over-waste-fires"
+      },
+      {
+        "title": "Israel says Rafah border to open so Palestinians can leave Gaza for Egypt",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-rafah-border-open-so-palestinians-can-leave-gaza-egypt"
+      },
+      {
         "title": "Lebanon and Israel hold first talks in decades: AFP",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-hold-first-talks-decades-afp"
-      },
-      {
-        "title": "Israel says it is preparing to receive remains from Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-preparing-receive-remains-gaza"
-      },
-      {
-        "title": "Israel to build wall deep inside West Bank that ‘accelerates annexation’",
-        "link": "https://www.middleeasteye.net/news/israel-build-wall-deep-inside-west-bank-accelerates-annexation"
-      },
-      {
-        "title": "Israeli parliamentarians call for Palestinians to be killed if they burn waste",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-parlamentarians-call-palestinians-be-killed-if-they-burn-rubbish"
-      },
-      {
-        "title": "Egypt rejects Israel’s bid to open Rafah for one-way exit: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-rejects-israels-bid-open-rafah-one-way-exit-report"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Meghan Markle speaks of celebrating Christmas with royals, Britons in UK",
+        "link": "https://www.geo.tv/latest/637250-meghan-markle-speaks-of-celebrating-christmas-with-royals-britons"
+      },
+      {
+        "title": "Miley Cyrus spills the beans on 'shocking' life update with Maxx Morando",
+        "link": "https://www.geo.tv/latest/637247-miley-cyrus-spills-the-beans-on-shocking-life-update-with-maxx-morando"
+      },
+      {
+        "title": "Centre 'seeks control' over education, population welfare rights of provinces: Bilawal",
+        "link": "https://www.geo.tv/latest/637251-centre-seeks-control-over-education-population-welfare-rights-of-provinces-bilawal"
+      },
       {
         "title": "Jessie J breaks down on 'This Morning' as she honoured late friend in emotional tribute",
         "link": "https://www.geo.tv/latest/637244-jessie-j-breaks-down-on-this-morning-as-she-honoured-late-friend"
@@ -149,40 +155,28 @@
       {
         "title": "Pakistan to host biggest squash event in over 20 years",
         "link": "https://www.geo.tv/latest/637248-pakistan-to-host-biggest-squash-event-in-over-20-years"
-      },
-      {
-        "title": "Officials suspended, high-level committee to probe Karachi child's manhole death",
-        "link": "https://www.geo.tv/latest/637246-officials-suspended-high-level-committee-to-probe-karachi-childs-manhole-death"
-      },
-      {
-        "title": "Travis Kelce made major shift in NFL strategy amid wedding planning",
-        "link": "https://www.geo.tv/latest/637220-travis-kelce-made-major-shift-in-nfl-strategy-amid-wedding-planning"
-      },
-      {
-        "title": "Joel Edgerton addresses James Cameron comment about ‘Netflix movies'",
-        "link": "https://www.geo.tv/latest/637245-joel-edgerton-addresses-james-camerons-comment-about-netflix-movies"
       }
     ],
     "NDTV": [
       {
-        "title": "200 IndiGo Flights Cancelled, Ops Hit, Airline Blames \"Flight Duty\" Audit",
-        "link": "https://www.ndtv.com/india-news/indigo-ops-hit-nationwide-nearly-200-flights-cancelled-across-india-9744620#publisher=newsstand"
+        "title": "Elderly Couple Homeless After House Seized By CPM-Backed Cooperative Bank In Kerala",
+        "link": "https://www.ndtv.com/kerala-news/elderly-couple-homeless-after-house-seized-by-cpm-backed-cooperative-bank-in-kerala-9746142#publisher=newsstand"
       },
       {
-        "title": "Video: Chairs, Kicks, Punches Fly After 'Rasgulla Shortage' At Bihar Wedding",
-        "link": "https://www.ndtv.com/india-news/video-chairs-kicks-punches-fly-after-rasgulla-shortage-at-bihar-wedding-9745331#publisher=newsstand"
+        "title": "Official Slaps Student, Manhandles Farmers Agitated Over Fertiliser Shortage In Madhya Pradesh",
+        "link": "https://www.ndtv.com/india-news/official-slaps-student-manhandles-farmers-agitated-over-fertiliser-shortage-in-madhya-pradesh-9746101#publisher=newsstand"
       },
       {
-        "title": "\"Cocking A Snook\": Court Raps Tamil Nadu For \"Disobeying\" Temple Lamp Order",
-        "link": "https://www.ndtv.com/tamil-nadu-news/cocking-a-snook-madras-high-court-raps-tamil-nadu-for-disobeying-temple-lamp-order-9745059#publisher=newsstand"
+        "title": "Sanctions-Hit Iran's Rial Crashes To Record Low Of 1.2 Million To Dollar",
+        "link": "https://www.ndtv.com/world-news/sanctions-hit-irans-rial-crashes-to-record-low-of-1-2-million-to-dollar-9746009#publisher=newsstand"
       },
       {
-        "title": "OTP To Be Mandatory For Tatkal Tickets Bought At Reservation Counters",
-        "link": "https://www.ndtv.com/india-news/otp-to-be-mandatory-for-tatkal-tickets-bought-at-reservation-counters-9743138#publisher=newsstand"
+        "title": "'Broken Backbone, Soaked In Blood': Man, 25, Making Reels Plunges To Death",
+        "link": "https://www.ndtv.com/india-news/man-making-golden-hour-reel-plunges-to-death-from-50-foot-bridge-9744103#publisher=newsstand"
       },
       {
-        "title": "'Want To Remove Thorn': Maharashtra Caste Murder Accused Told Mother",
-        "link": "https://www.ndtv.com/india-news/want-to-remove-thorn-maharashtra-caste-murder-accused-told-mother-9744416#publisher=newsstand"
+        "title": "'Restrict Arguments To 15 Minutes': Top Court To Lawyers In Delhi Riots Case",
+        "link": "https://www.ndtv.com/india-news/restrict-arguments-to-15-minutes-top-court-to-lawyers-in-delhi-riots-case-9743451#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-03 15:59 UTC"
+  "last_updated": "2025-12-03 16:58 UTC"
 }
