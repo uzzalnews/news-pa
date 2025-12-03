@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Athletic Bilbao vs Real Madrid – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/3/live-athletic-bilbao-vs-real-madrid-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,30 +25,30 @@
         "link": "https://www.bbc.com/news/articles/cy7vdvl2531o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Children hurt as school bus roof ripped off by bridge",
-        "link": "https://www.bbc.com/news/articles/cp34nyenqpko?at_medium=RSS&at_campaign=rss"
+        "title": "King Charles welcomes German president on first state visit in 27 years",
+        "link": "https://www.bbc.com/news/articles/c9d9jwvqyx8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Athletic Bilbao vs Real Madrid – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/3/live-athletic-bilbao-vs-real-madrid-la-liga?traffic_source=rss"
+      },
+      {
+        "title": "White House denies Trump nodded off during cabinet meeting",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/3/white-house-denies-trump-nodded-off-during-cabinet-meeting?traffic_source=rss"
+      },
+      {
+        "title": "Footage shows Russian troops raising a flag over Pokrovsk as Moscow claims",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/3/footage-shows-russian-troops-raising-a-flag-over-pokrovsk-as-moscow-claims?traffic_source=rss"
+      },
+      {
+        "title": "Israel preparing to receive remains found in northern Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/3/israel-preparing-to-receive-remains-found-in-northern-gaza?traffic_source=rss"
+      },
+      {
         "title": "Verstappen, Norris, Piastri: F1 set for three-way title fight in Abu Dhabi",
         "link": "https://www.aljazeera.com/sports/2025/12/3/verstappen-norris-piastri-f1-set-for-three-way-title-fight-in-abu-dhabi?traffic_source=rss"
-      },
-      {
-        "title": "ICC judge speaks out on impact of US sanctions",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/3/icc-judge-speaks-out-on-impact-of-us-sanctions?traffic_source=rss"
-      },
-      {
-        "title": "Why did India order smartphone makers to install a government app?",
-        "link": "https://www.aljazeera.com/news/2025/12/3/why-did-india-order-smartphone-makers-to-install-a-government-app?traffic_source=rss"
-      },
-      {
-        "title": "Japan: A Teen’s POV on a WWII Kamikaze Story",
-        "link": "https://www.aljazeera.com/video/digidocs/2025/12/3/aje-onl-digidocs_japan_finalwordsofakamikazepilot-031225?traffic_source=rss"
-      },
-      {
-        "title": "Street sports help Palestinians cope with trauma",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/3/street-sports-help-palestinians-cope-with-trauma?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,20 +84,32 @@
         "link": "https://www.dawn.com/news/1958979/kyrgyzstan-president-arrives-in-islamabad-on-2-day-maiden-visit"
       },
       {
+        "title": "Afghan Taliban minister says US shooting has nothing to do with his people or govt",
+        "link": "https://www.dawn.com/news/1958984/afghan-taliban-minister-says-us-shooting-has-nothing-to-do-with-his-people-or-govt"
+      },
+      {
         "title": "Punjab govt lifts ban on Basant after 18 years",
         "link": "https://www.dawn.com/news/1958982/punjab-govt-lifts-ban-on-basant-after-18-years"
       },
       {
         "title": "Field Marshal Munir expresses satisfaction with ‘robust defence collaboration’ in meeting with Saudi military commander",
         "link": "https://www.dawn.com/news/1958983/field-marshal-munir-expresses-satisfaction-with-robust-defence-collaboration-in-meeting-with-saudi-military-commander"
-      },
-      {
-        "title": "3 cops martyred in IED blast targeting police vehicle in Dera Ismail Khan",
-        "link": "https://www.dawn.com/news/1958963/3-cops-martyred-in-ied-blast-targeting-police-vehicle-in-dera-ismail-khan"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Police in a Louisiana City Welcome a Federal Crackdown. Immigrants Are in Hiding.",
+        "link": "https://www.nytimes.com/2025/12/03/us/kenner-louisiana-border-patrol-immigration.html"
+      },
+      {
+        "title": "Trump’s Shift on Afghan Immigrants",
+        "link": "https://www.nytimes.com/video/us/politics/100000010557371/trumps-shift-on-afghan-immigrants.html"
+      },
+      {
+        "title": "Trump Calls Somalis ‘Garbage’ He Doesn’t Want in the Country",
+        "link": "https://www.nytimes.com/2025/12/02/us/politics/trump-somalia.html"
+      },
       {
         "title": "Fed Pick Puts Pressure on Bessent to Deliver for Trump",
         "link": "https://www.nytimes.com/2025/12/03/us/politics/fed-chair-bessent-hassett.html"
@@ -99,18 +117,6 @@
       {
         "title": "Trump’s Xenophobic Outburst, and a Planned Donation to 25 Million U.S. Kids",
         "link": "https://www.nytimes.com/2025/12/03/podcasts/the-headlines/trump-somalis-donation-to-25-million-kids.html"
-      },
-      {
-        "title": "Trump and Hegseth Comments on Boat Strike Leave Adm. Bradley Exposed",
-        "link": "https://www.nytimes.com/2025/12/02/us/politics/admiral-bradley-boat-strikes.html"
-      },
-      {
-        "title": "Hegseth Says He Did Not See Survivors of Boat Strike Clinging to Wreckage",
-        "link": "https://www.nytimes.com/2025/12/02/us/politics/hegseth-boat-strikes.html"
-      },
-      {
-        "title": "Hegseth Invoked the ‘Fog of War’ in a Boat Strike. What Does That Mean?",
-        "link": "https://www.nytimes.com/2025/12/03/us/fog-of-war-hegseth-boat-strike.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,27 +143,35 @@
     ],
     "GeoTV": [
       {
-        "title": "Kate Brazier finds comfort in mother daughter getaway amid split from Jeff",
-        "link": "https://www.geo.tv/latest/637230-kate-brazier-finds-comfort-in-mother-daughter-getaway-amid-split-from-jeff"
+        "title": "Jessie J breaks down on 'This Morning' as she honoured late friend in emotional tribute",
+        "link": "https://www.geo.tv/latest/637244-jessie-j-breaks-down-on-this-morning-as-she-honoured-late-friend"
       },
       {
-        "title": "Kensington Palace releases breathtaking video as William, Kate steal show",
-        "link": "https://www.geo.tv/latest/637233-kensington-palace-releases-video-as-kate-middleton-prince-william-welcome"
+        "title": "Pakistan to host biggest squash event in over 20 years",
+        "link": "https://www.geo.tv/latest/637248-pakistan-to-host-biggest-squash-event-in-over-20-years"
       },
       {
-        "title": "Taylor Swift's handwritten note to Liam Payne auctioned",
-        "link": "https://www.geo.tv/latest/637242-taylor-swifts-handwritten-note-to-liam-payne-auctioned"
+        "title": "Officials suspended, high-level committee to probe Karachi child's manhole death",
+        "link": "https://www.geo.tv/latest/637246-officials-suspended-high-level-committee-to-probe-karachi-childs-manhole-death"
       },
       {
-        "title": "'Home Alone' 35th anniversary: Daniel Stern gets candid about physical absence",
-        "link": "https://www.geo.tv/latest/637237-home-alone-35th-anniversary-daniel-stern-gets-candid-about-physical-absence"
+        "title": "Travis Kelce made major shift in NFL strategy amid wedding planning",
+        "link": "https://www.geo.tv/latest/637220-travis-kelce-made-major-shift-in-nfl-strategy-amid-wedding-planning"
       },
       {
-        "title": "Travis Kelce makes surprising revelation about his and Taylor Swift love",
-        "link": "https://www.geo.tv/latest/637241-travis-kelce-makes-surprising-revelation-about-his-and-taylor-swift-love"
+        "title": "Joel Edgerton addresses James Cameron comment about ‘Netflix movies'",
+        "link": "https://www.geo.tv/latest/637245-joel-edgerton-addresses-james-camerons-comment-about-netflix-movies"
       }
     ],
     "NDTV": [
+      {
+        "title": "200 IndiGo Flights Cancelled, Ops Hit, Airline Blames \"Flight Duty\" Audit",
+        "link": "https://www.ndtv.com/india-news/indigo-ops-hit-nationwide-nearly-200-flights-cancelled-across-india-9744620#publisher=newsstand"
+      },
+      {
+        "title": "Video: Chairs, Kicks, Punches Fly After 'Rasgulla Shortage' At Bihar Wedding",
+        "link": "https://www.ndtv.com/india-news/video-chairs-kicks-punches-fly-after-rasgulla-shortage-at-bihar-wedding-9745331#publisher=newsstand"
+      },
       {
         "title": "\"Cocking A Snook\": Court Raps Tamil Nadu For \"Disobeying\" Temple Lamp Order",
         "link": "https://www.ndtv.com/tamil-nadu-news/cocking-a-snook-madras-high-court-raps-tamil-nadu-for-disobeying-temple-lamp-order-9745059#publisher=newsstand"
@@ -169,14 +183,6 @@
       {
         "title": "'Want To Remove Thorn': Maharashtra Caste Murder Accused Told Mother",
         "link": "https://www.ndtv.com/india-news/want-to-remove-thorn-maharashtra-caste-murder-accused-told-mother-9744416#publisher=newsstand"
-      },
-      {
-        "title": "Video: Chairs, Kicks, Punches Fly After 'Rasgulla Shortage' At Bihar Wedding",
-        "link": "https://www.ndtv.com/india-news/video-chairs-kicks-punches-fly-after-rasgulla-shortage-at-bihar-wedding-9745331#publisher=newsstand"
-      },
-      {
-        "title": "Parliament Winter Session Day 3 Highlights: Rajya Sabha Resumes Proceedings",
-        "link": "https://www.ndtv.com/india-news/parliament-winter-session-day-3-live-updates-government-to-push-central-excise-amendment-bill-2025-nirmala-sitharaman-opposition-protest-on-sir-9740972#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-03 14:55 UTC"
+  "last_updated": "2025-12-03 15:43 UTC"
 }
