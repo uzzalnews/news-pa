@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israeli forces kill 357 Palestinians in 50 days of ceasefire in Gaza",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/3/live-israeli-forces-kill-357-palestinians-in-50-days-of-ceasefire-in-gaza?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Martial law: Year after South Korea imposed it, where else is it in force?",
+        "link": "https://www.aljazeera.com/news/2025/12/3/martial-law-year-after-south-korea-imposed-it-where-else-is-it-in-force?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Israeli forces kill 357 Palestinians in 50 days of ceasefire in Gaza",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/3/live-israeli-forces-kill-357-palestinians-in-50-days-of-ceasefire-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Sabrina Carpenter condemns ‘evil’ use of her music in White House video",
+        "link": "https://www.aljazeera.com/news/2025/12/3/sabrina-carpenter-condemns-evil-use-of-her-music-in-white-house-video?traffic_source=rss"
+      },
+      {
         "title": "Africa’s oldest leaders are governing the world’s youngest populations",
         "link": "https://www.aljazeera.com/video/by-the-numbers-3/2025/12/3/africas-oldest-leaders-are-governing-the-worlds-youngest-populations?traffic_source=rss"
       },
       {
         "title": "Trump says he has revoked Biden’s autopen pardons: But can he do it?",
         "link": "https://www.aljazeera.com/news/2025/12/3/trump-says-he-has-revoked-bidens-autopen-pardons-but-can-he-do-it?traffic_source=rss"
-      },
-      {
-        "title": "Venezuela denounces US-ordered ‘forced sale’ of oil company Citgo",
-        "link": "https://www.aljazeera.com/news/2025/12/3/venezuela-denounces-us-ordered-forced-sale-of-oil-company-citgo?traffic_source=rss"
-      },
-      {
-        "title": "Colombia’s Petro invites Trump to cocaine lab demolition amid attack threat",
-        "link": "https://www.aljazeera.com/news/2025/12/3/colombias-petro-invites-trump-to-cocaine-lab-demolition-amid-attack-threat?traffic_source=rss"
-      },
-      {
-        "title": "US defence chief says he did not see survivors before follow-up boat strike",
-        "link": "https://www.aljazeera.com/news/2025/12/3/us-defence-chief-says-he-did-not-see-survivors-before-follow-up-boat-strike?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,39 +76,35 @@
     ],
     "Dawn": [
       {
-        "title": "Turkiye, Pakistan forge energy cooperation",
-        "link": "https://www.dawn.com/news/1958871/turkiye-pakistan-forge-energy-cooperation"
+        "title": "3 cops martyred in Dera Ismail Khan blast targeting police vehicle",
+        "link": "https://www.dawn.com/news/1958963/3-cops-martyred-in-dera-ismail-khan-blast-targeting-police-vehicle"
       },
       {
-        "title": "Bill to set up minorities’ body passed amid outcry",
-        "link": "https://www.dawn.com/news/1958877/bill-to-set-up-minorities-body-passed-amid-outcry"
+        "title": "Dar says multilateralism ‘under assault’ amid complex security climate in South Asia",
+        "link": "https://www.dawn.com/news/1958961/dar-says-multilateralism-under-assault-amid-complex-security-climate-in-south-asia"
+      },
+      {
+        "title": "Turkiye, Pakistan forge energy cooperation",
+        "link": "https://www.dawn.com/news/1958871/turkiye-pakistan-forge-energy-cooperation"
       },
       {
         "title": "US pauses all immigration applications from 19 non-European countries",
         "link": "https://www.dawn.com/news/1958954/us-pauses-all-immigration-applications-from-19-non-european-countries"
       },
       {
-        "title": "Nokundi FC HQ standoff ends, all militants killed",
-        "link": "https://www.dawn.com/news/1958861/nokundi-fc-hq-standoff-ends-all-militants-killed"
-      },
-      {
-        "title": "Anger grows over manhole death",
-        "link": "https://www.dawn.com/news/1958825/anger-grows-over-manhole-death"
+        "title": "Bill to set up minorities’ body passed amid outcry",
+        "link": "https://www.dawn.com/news/1958877/bill-to-set-up-minorities-body-passed-amid-outcry"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Federal Judge Bars Some Warrantless Immigration Arrests in D.C.",
-        "link": "https://www.nytimes.com/2025/12/03/us/politics/warrantless-immigration-arrests-dc.html"
+        "title": "Trump Calls Somalis ‘Garbage’ He Doesn’t Want in the Country",
+        "link": "https://www.nytimes.com/2025/12/02/us/politics/trump-somalia.html"
       },
       {
-        "title": "U.S. Pauses Immigration Applications From Nations on Travel Ban List",
-        "link": "https://www.nytimes.com/2025/12/02/us/politics/trump-travel-ban-citizenship-green-cards-dc-shooting.html"
-      },
-      {
-        "title": "Trump Appears to Fight Sleep During Cabinet Meeting",
-        "link": "https://www.nytimes.com/2025/12/02/us/politics/trump-sleep-cabinet-meeting.html"
+        "title": "Immigration Officials Target Afghans for Deportation in Wake of D.C. Shooting",
+        "link": "https://www.nytimes.com/2025/12/02/us/politics/afghans-deportation-shooting.html"
       },
       {
         "title": "Trump and Hegseth Comments on Boat Strike Leave Adm. Bradley Exposed",
@@ -111,72 +113,76 @@
       {
         "title": "Hegseth Says He Did Not See Survivors of Boat Strike Clinging to Wreckage",
         "link": "https://www.nytimes.com/2025/12/02/us/politics/hegseth-boat-strikes.html"
+      },
+      {
+        "title": "Maduro Faces His Ultimate Fight as Trump Threatens Military Action in Venezuela",
+        "link": "https://www.nytimes.com/2025/12/02/world/americas/venezuela-nicolas-maduro-trump.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Mike Waltz latest top US official to visit Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/mike-waltz-latest-top-us-official-visit-israel"
+        "title": "Settlers attack Bedouin shepherds near Khan al-Ahmar",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-attack-bedouin-shepherds-near-khan-al-ahmar"
       },
       {
         "title": "UK government lawyers use 'secret evidence' to justify ban on Palestine Action",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-government-lawyers-use-secret-evidence-justify-ban-palestine-action"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-government-lawyers-use-secret-evidence-justify-ban-palestine-action-0"
       },
       {
-        "title": "Mass wedding featuring more than 50 couples takes place in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/mass-wedding-featuring-more-50-couples-takes-place-gaza"
+        "title": "UN: 16,500 Gaza patients still need urgent treatment abroad",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-16500-gaza-patients-still-need-urgent-treatment-abroad"
       },
       {
-        "title": "'We keep taking in garbage': Trump unleashes on Somali immigrants",
-        "link": "https://www.middleeasteye.net/news/trump-unleashes-somali-immigrants-we-keep-taking-garbage"
+        "title": "Morning recap",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-124"
       },
       {
-        "title": "Israel relishes in Trump's Muslim Brotherhood crackdown as Gulf shrugs it off",
-        "link": "https://www.middleeasteye.net/news/israel-relishes-trump-muslim-brotherhood-crackdown-gulf-shrugs"
+        "title": "Mike Waltz latest top US official to visit Israel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/mike-waltz-latest-top-us-official-visit-israel"
       }
     ],
     "GeoTV": [
       {
-        "title": "WATCH: Trump 'struggles to stay awake' during cabinet meeting",
-        "link": "https://www.geo.tv/latest/637109-watch-trump-struggles-to-stay-awake-during-cabinet-meeting"
+        "title": "Meghan Markle waits for Netflix's final call as big day arrives",
+        "link": "https://www.geo.tv/latest/637117-meghan-markle-waits-for-netflixs-final-call-as-key-career-moment-nears"
       },
       {
-        "title": "Queen Camilla makes big change in royal team after losing close ally",
-        "link": "https://www.geo.tv/latest/637113-queen-camilla-makes-big-change-in-royal-team-after-losing-close-ally"
+        "title": "Julia Roberts turns interpreter for Luca Guadagnino in hilarious Gotham Awards moment",
+        "link": "https://www.geo.tv/latest/637127-julia-roberts-turns-interpreter-for-luca-guadagnino-in-hilarious-gotham-awards-moment"
       },
       {
-        "title": "Robert Irwin invites fans home as he recommits to hunter lodge",
-        "link": "https://www.geo.tv/latest/637111-robert-irwin-invites-fans-home-as-he-recommits-to-hunter-lodge"
+        "title": "Former Lakers player Elden ‘Easy E' Campbell dies at 57, tributes pour in",
+        "link": "https://www.geo.tv/latest/637126-former-lakers-player-elden-easy-e-campbell-dies-at-57-tributes-pour-in"
       },
       {
-        "title": "Miley Cyrus, Maxx Morando make first appearance as engaged couple",
-        "link": "https://www.geo.tv/latest/637106-miley-cyrus-maxx-morando-make-first-appearance-as-engaged-couple"
+        "title": "Cardi B shares adorable photo with new favourite 'cuddle buddy'",
+        "link": "https://www.geo.tv/latest/637115-cardi-b-shares-adorable-photos-with-new-favourite-cuddle-buddy"
       },
       {
-        "title": "Medical experts report surge in CHS, disturbing ‘scromiting' cases",
-        "link": "https://www.geo.tv/latest/637110-medical-experts-report-surge-in-chs-disturbing-scromiting-cases"
+        "title": "Serena Williams ends comeback frenzy with blunt 10-word post: Here's what to know",
+        "link": "https://www.geo.tv/latest/637112-serena-williams-ends-comeback-frenzy-with-blunt-10-word-post"
       }
     ],
     "NDTV": [
       {
-        "title": "MCD By-Election Result Live: BJP Wins 7, AAP 3, Congress Opens Account",
+        "title": "Telangana Class 10 Student Beaten With Sticks, Bats By Seniors In Hostel Room",
+        "link": "https://www.ndtv.com/india-news/telangana-class-10-student-beaten-with-sticks-bats-by-seniors-in-hostel-room-9741655#publisher=newsstand"
+      },
+      {
+        "title": "Madhya Pradesh Government Spending Rs 21 Lakh On Air Travel Daily, Shows Data",
+        "link": "https://www.ndtv.com/india-news/mohan-yadav-led-madhya-pradesh-government-spending-rs-21-lakh-on-air-travel-daily-shows-data-9741616#publisher=newsstand"
+      },
+      {
+        "title": "Sanchar Saathi App Downloads Jump 10 Times On Tuesday, Claims DoT",
+        "link": "https://www.ndtv.com/india-news/sanchar-saathi-app-downloads-jump-10-times-on-tuesday-claims-dot-9741488#publisher=newsstand"
+      },
+      {
+        "title": "MCD By-Election Result Live: BJP Wins 7, AAP 3, Congress, Left Gain 1 Each",
         "link": "https://www.ndtv.com/delhi-news/delhi-mcd-by-election-result-2025-live-updates-bjp-congress-aap-vote-counting-delhi-civic-body-bypolls-delhi-mcd-bypolls-9741108#publisher=newsstand"
       },
       {
-        "title": "Parliament Winter Session Day 3 Live Updates: Centre To Move Central Excise Bill Today",
-        "link": "https://www.ndtv.com/india-news/parliament-winter-session-day-3-live-updates-government-to-push-central-excise-amendment-bill-2025-nirmala-sitharaman-opposition-protest-on-sir-9740972#publisher=newsstand"
-      },
-      {
-        "title": "FBI Offers $50,000 Reward For Man Accused Of Killing Mother, Son In 2017",
-        "link": "https://www.ndtv.com/world-news/nazeer-hameed-fbi-offers-50-000-reward-for-man-accused-of-killing-mother-son-in-2017-9741262#publisher=newsstand"
-      },
-      {
-        "title": "Maharashtra's 'Car In Sea': A Rolls Royce Boat Turning Heads At Juhu Beach",
-        "link": "https://www.ndtv.com/india-news/maharashtras-car-in-sea-a-rolls-royce-boat-turning-heads-at-juhu-beach-9741316#publisher=newsstand"
-      },
-      {
-        "title": "Gurugram Lawyer, Arrested For Spying For Pak, Visited Punjab To Collect Money",
-        "link": "https://www.ndtv.com/india-news/41-lakhs-amritsar-visits-new-details-in-pak-spy-case-after-lawyers-arrest-nuh-haryana-9740997#publisher=newsstand"
+        "title": "US Pauses Immigration Applications From 19 Non-European Countries",
+        "link": "https://www.ndtv.com/world-news/us-pauses-immigration-applications-from-19-non-european-countries-9740731#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-03 05:53 UTC"
+  "last_updated": "2025-12-03 06:56 UTC"
 }
