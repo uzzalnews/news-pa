@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Gaza mourns victims of Israeli genocide that ‘never really ended’",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/4/live-gaza-mourns-victims-of-israeli-genocide-that-never-really-ended?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Survivors recall terror of landslides from North Sumatra cyclone",
+        "link": "https://www.aljazeera.com/gallery/2025/12/4/survivors-recall-terror-of-landslides-from-north-sumatra-cyclone?traffic_source=rss"
+      },
+      {
+        "title": "Armed clashes reported between Yemeni army and southern separatists",
+        "link": "https://www.aljazeera.com/news/2025/12/4/armed-clashes-reported-between-yemeni-army-and-southern-separatists?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Gaza mourns victims of Israeli genocide that ‘never really ended’",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/4/live-gaza-mourns-victims-of-israeli-genocide-that-never-really-ended?traffic_source=rss"
+      },
+      {
         "title": "Video: Five killed in Israeli strike on Gaza encampment",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/4/video-five-killed-in-israeli-strike-on-gaza-encampment?traffic_source=rss"
       },
       {
         "title": "UN’s Guterres says Israel’s conduct of war in Gaza ‘fundamentally wrong’",
         "link": "https://www.aljazeera.com/news/2025/12/4/uns-guterres-says-israels-conduct-of-war-in-gaza-fundamentally-wrong?traffic_source=rss"
-      },
-      {
-        "title": "Meta starts blocking teens in Australia under social media ban",
-        "link": "https://www.aljazeera.com/news/2025/12/4/meta-starts-blocking-teens-in-australia-under-social-media-ban?traffic_source=rss"
-      },
-      {
-        "title": "Macron tells Xi that China, France must overcome ‘differences’",
-        "link": "https://www.aljazeera.com/news/2025/12/4/macron-tells-xi-that-china-france-must-overcome-differences?traffic_source=rss"
-      },
-      {
-        "title": "Most Germans, French see ‘high risk’ of war with Russia, survey shows",
-        "link": "https://www.aljazeera.com/news/2025/12/4/most-germans-french-see-high-risk-of-war-with-russia-survey-shows?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
+        "title": "Centre here to listen to provinces’ stance, finance minister tells inaugural meeting of 11th NFC",
+        "link": "https://www.dawn.com/news/1959141/centre-here-to-listen-to-provinces-stance-finance-minister-tells-inaugural-meeting-of-11th-nfc"
+      },
+      {
+        "title": "Pakistan ready to provide Kyrgyzstan access to regional and global markets through our ports, says PM Shehbaz",
+        "link": "https://www.dawn.com/news/1959137/pakistan-ready-to-provide-kyrgyzstan-access-to-regional-and-global-markets-through-our-ports-says-pm-shehbaz"
+      },
+      {
+        "title": "Controversial social media posts case: Islamabad court rejects Imaan Mazari’s acquittal application",
+        "link": "https://www.dawn.com/news/1959149/controversial-social-media-posts-case-islamabad-court-rejects-imaan-mazaris-acquittal-application"
+      },
+      {
         "title": "Man arrested in US in possession of gun and written plans for attack is Afghan, not of Pakistani origin: FO",
         "link": "https://www.dawn.com/news/1959139/man-arrested-in-us-in-possession-of-gun-and-written-plans-for-attack-is-afghan-not-of-pakistani-origin-fo"
       },
       {
-        "title": "Pakistan, Kyrgyzstan sign 15 MoUs during President Zhaparov’s visit to Islamabad",
-        "link": "https://www.dawn.com/news/1959137/pakistan-kyrgyzstan-sign-15-mous-during-president-zhaparovs-visit-to-islamabad"
-      },
-      {
-        "title": "Inaugural meeting of 11th NFC begins to discuss resource sharing between Centre, provinces",
-        "link": "https://www.dawn.com/news/1959141/inaugural-meeting-of-11th-nfc-begins-to-discuss-resource-sharing-between-centre-provinces"
-      },
-      {
         "title": "Trump administration orders enhanced vetting for applicants of H-1B visa",
         "link": "https://www.dawn.com/news/1959134/trump-administration-orders-enhanced-vetting-for-applicants-of-h-1b-visa"
-      },
-      {
-        "title": "UN aid consignments cleared for Afghanistan",
-        "link": "https://www.dawn.com/news/1959087/un-aid-consignments-cleared-for-afghanistan"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli settlers wound seven Palestinians with stone attacks near Hebron",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-wound-seven-palestinians-stone-attacks-near-hebron"
+      },
+      {
+        "title": "Israeli strikes kill five Palestinians sheltering in Gaza makeshift camp",
+        "link": "https://www.middleeasteye.net/news/israeli-strikes-kill-five-palestinians-sheltering-makeshift-camp"
+      },
+      {
+        "title": "Prominent Munk Debates on two-state solution to feature four Israeli politicians, no Palestinians",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/prominent-munk-debates-two-state-solution-feature-four-israeli"
+      },
+      {
         "title": "Occupation forces arrest Hebron-area mayor in West Bank raids",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-arrest-hebron-area-mayor-west-bank-raids"
       },
       {
         "title": "Israel’s Eurovision spot faces backlash from European broadcasters",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-eurovision-spot-faces-backlash-european-broadcasters"
-      },
-      {
-        "title": "Israeli MP demands Palestinians be killed if they burn rubbish",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-mp-demands-palestinians-be-killed-if-they-burn-rubbish"
-      },
-      {
-        "title": "Israeli forces tighten grip on West Bank town after pre-dawn raid",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-tighten-grip-west-bank-town-after-pre-dawn-raid"
-      },
-      {
-        "title": "Israeli settlers attack activists in the occupied West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-activists-occupied-west-bank"
       }
     ],
     "GeoTV": [
       {
-        "title": "Miley Cyrus' dad pens heartwarming note to celebrate major family news",
-        "link": "https://www.geo.tv/latest/637311-miley-cyrus-dad-pens-heartwarming-note-to-celebrate-major-family-news"
+        "title": "Sabrina Carpenter recalls 'unbelievable' experience with pal Taylor Swift",
+        "link": "https://www.geo.tv/latest/637326-sabrina-carpenter-recalls-unbelievable-experience-with-pal-taylor-swift"
       },
       {
-        "title": "King Charles brings monarchy back in positive light with powerful speech",
-        "link": "https://www.geo.tv/latest/637303-king-charles-brings-monarchy-back-in-positive-light-with-powerful-speech"
+        "title": "Coin toss curse puts India in a million-to-one heads or tailspin",
+        "link": "https://www.geo.tv/latest/637327-coin-toss-curse-puts-india-in-a-million-to-one-heads-or-tailspin"
       },
       {
-        "title": "Meta begins removing underage users from Instagram, Facebook in Australia",
-        "link": "https://www.geo.tv/latest/637312-meta-begins-removing-underage-users-from-instagram-facebook-in-australia"
+        "title": "Pakistan ready to open seaports, markets for Kyrgyzstan: PM Shehbaz",
+        "link": "https://www.geo.tv/latest/637328-pakistan-ready-to-open-seaports-markets-for-kyrgyzstan-pm-shehbaz"
       },
       {
-        "title": "Meghan Markle's family hit with health setback: ‘emergency surgery'",
-        "link": "https://www.geo.tv/latest/637318-meghan-markles-family-hit-with-health-setback-emergency-surgery"
+        "title": "Camilla honours future Queen Catherine after rude gesture: 'no ill will'",
+        "link": "https://www.geo.tv/latest/637322-camilla-honours-future-queen-catherine-after-rude-gesture-no-ill-will"
       },
       {
-        "title": "Trump's fuel economy rollback: Will this save drivers money or cost them more?",
-        "link": "https://www.geo.tv/latest/637314-trumps-fuel-economy-rollback-will-this-save-drivers-money-or-cost-them-more"
+        "title": "Sarah Paulson talks about the ‘turning point' of her career",
+        "link": "https://www.geo.tv/latest/637323-sarah-paulson-talks-about-the-turning-point-of-her-career"
       }
     ],
     "NDTV": [
       {
-        "title": "Russian House In Delhi Organise Photo Exhibition Ahead Of Putin's Visit",
-        "link": "https://www.ndtv.com/world-news/russian-house-in-delhi-organise-photo-exhibition-ahead-of-putins-visit-9747415#publisher=newsstand"
+        "title": "Opinion: Opinion | India, Russia And A New Geometry of Global Trade",
+        "link": "https://www.ndtv.com/opinion/india-russia-and-a-new-geometry-of-global-trade-9749238#publisher=newsstand"
       },
       {
-        "title": "Pilots' Body Call Out IndiGo's \"Prolonged, Unorthodox Lean Manpower Strategy\"",
-        "link": "https://www.ndtv.com/india-news/pilots-body-call-out-indigos-prolonged-unorthodox-lean-manpower-strategy-9748392#publisher=newsstand"
+        "title": "\"We Can't Drive At 130 Kmph\": Congress MP In Lok Sabha, Nitin Gadkari Responds",
+        "link": "https://www.ndtv.com/india-news/congress-mp-gaurav-gogoi-in-lok-sabha-says-we-cant-drive-at-130-kmph-in-assam-nitin-gadkari-responds-9749241#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Europe's Anti-Putin 'Lecture' To India Betrays Its Own Desperation",
-        "link": "https://www.ndtv.com/opinion/why-is-europe-lecturing-india-on-putin-because-it-cant-do-much-else-9748855#publisher=newsstand"
+        "title": "Inside Putin's Germany Years: How A Spy Agency Posting Influenced Him",
+        "link": "https://www.ndtv.com/world-news/inside-vladimir-putins-germany-years-how-a-spy-agency-posting-influenced-him-9748802#publisher=newsstand"
       },
       {
-        "title": "Talks On Trade, Su-57 Fighter Jets: What To Expect From Vladimir Putin's India Visit",
-        "link": "https://www.ndtv.com/world-news/talks-on-trade-su-57-fighter-jets-what-to-expect-from-vladimir-putins-india-visit-9748981#publisher=newsstand"
+        "title": "Ahead Of Putin's India Trip, Rahul Gandhi's \"Insecurity\" Jab At Centre",
+        "link": "https://www.ndtv.com/india-news/rahul-gandhi-putin-india-trip-ahead-of-putins-india-trip-rahul-gandhis-insecurity-jab-at-centre-9749198#publisher=newsstand"
       },
       {
-        "title": "Snipers, Anti-Terror Units: Delhi On High Alert Ahead Of Putin's Visit",
-        "link": "https://www.ndtv.com/delhi-news/putin-in-india-snipers-anti-terror-units-delhi-on-high-alert-ahead-of-putins-visit-9748956#publisher=newsstand"
+        "title": "US Orders H-1B, H-4 Visa Applicants To Make Social Media Profiles Public",
+        "link": "https://www.ndtv.com/world-news/us-orders-h-1b-h-4-visa-applicants-to-make-social-media-profiles-public-9748287#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-04 08:00 UTC"
+  "last_updated": "2025-12-04 08:56 UTC"
 }
