@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Putin India Visit LIVE Updates: PM Modi Hosts Private Dinner For Putin Ahead Of India-Russia Summit",
-      "link": "https://www.ndtv.com/world-news/putin-india-visit-live-updates-putin-modi-2-0-live-updates-russian-president-vladimir-putin-to-land-in-delhi-soon-talks-on-trade-on-agenda-9750055#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,42 +7,42 @@
         "link": "https://www.bbc.com/news/articles/c74xqn2zg1eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Streeting orders review into rising demand for mental health and ADHD services",
-        "link": "https://www.bbc.com/news/articles/ce8q26q2r75o?at_medium=RSS&at_campaign=rss"
+        "title": "Novichok poisoning victim's family 'still has questions', as report finds Putin 'morally responsible'",
+        "link": "https://www.bbc.com/news/articles/ckgkr0wj5e8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Like first aid for manuscripts': Recovery work begins at Gaza's war-damaged heritage sites",
-        "link": "https://www.bbc.com/news/articles/c157n1g977go?at_medium=RSS&at_campaign=rss"
+        "title": "Have British spies learned lessons from the Skripal poisonings?",
+        "link": "https://www.bbc.com/news/articles/cpvdkewwprlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Porn site fined £1m over age checks has never responded to Ofcom",
-        "link": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss"
+        "title": "Netherlands and Spain boycott Eurovision after Israel allowed to compete",
+        "link": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Australia will have to admit he's a great' - how Root hit elusive century",
-        "link": "https://www.bbc.com/sport/cricket/articles/c5yjg9jdxn5o?at_medium=RSS&at_campaign=rss"
+        "title": "Volcanic eruption may have triggered Europe's deadly Black Death plague",
+        "link": "https://www.bbc.com/news/articles/cy5gr2x914ro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "UN warns Sudan’s Kordofan faces mass atrocities as fighting spreads",
+        "link": "https://www.aljazeera.com/news/2025/12/4/un-warns-sudans-kordofan-faces-mass-atrocities-as-fighting-spreads?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu will win again, because in Israel, ‘there is none like him’",
+        "link": "https://www.aljazeera.com/opinions/2025/12/4/netanyahu-will-win-again-because-in-israel-there-is-none-like-him?traffic_source=rss"
+      },
       {
         "title": "Stalled Moscow talks collide with Zelenskyy’s corruption crisis",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/4/stalled-moscow-talks-collide-with-zelenskyys-corruption-crisis?traffic_source=rss"
       },
       {
-        "title": "Trump news live: Congo, Rwanda leaders visit White House in push for peace",
+        "title": "Trump live: DR Congo, Rwanda leaders visit White House in push for peace",
         "link": "https://www.aljazeera.com/news/liveblog/2025/12/4/trump-news-live-congo-rwanda-leaders-visit-white-house-in-push-for-peace?traffic_source=rss"
       },
       {
         "title": "Another devastating Israeli strike on Lebanon captured on video",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/4/another-devastating-israeli-strike-on-lebanon-captured-on-video?traffic_source=rss"
-      },
-      {
-        "title": "Israel hits multiple towns in southern Lebanon as attacks intensify",
-        "link": "https://www.aljazeera.com/news/2025/12/4/israel-hits-multiple-towns-in-southern-lebanon-as-strikes-intensify?traffic_source=rss"
-      },
-      {
-        "title": "Why is Belgium opposed to using Russian assets to support Ukraine?",
-        "link": "https://www.aljazeera.com/economy/2025/12/4/why-is-belgium-opposed-to-using-russian-assets-to-support-ukraine?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/1959162/pakistan-uses-highly-invasive-israeli-spyware-says-amnesty-report"
       },
       {
-        "title": "Saudi Arabia rolls over $3bn deposit for another year",
-        "link": "https://www.dawn.com/news/1959179/saudi-arabia-rolls-over-3bn-deposit-for-another-year"
+        "title": "Russia’s Putin in India for defence, trade talks",
+        "link": "https://www.dawn.com/news/1959164/russias-putin-in-india-for-defence-trade-talks"
       }
     ],
     "APNews": [],
@@ -121,27 +115,39 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Palestinian football team ties with Tunisia in Arab Cup football tournament",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-football-team-ties-tunisia-arab-cup-football-tournament"
+      },
+      {
+        "title": "Green Party's Mothin Ali calls on Lammy to help Palestine Action hunger strikers",
+        "link": "https://www.middleeasteye.net/news/uk-green-partys-mothin-ali-calls-labour-help-palestine-action-hunger-strikers"
+      },
+      {
+        "title": "Israeli army opens fire on Gaza City residents and kills woman, despite ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-opens-fire-gaza-city-residents-and-kills-woman-despite"
+      },
+      {
         "title": "Investigation ordered after Iraq appears to designate Hezbollah and Houthis terrorists",
         "link": "https://www.middleeasteye.net/news/investigation-ordered-after-iraq-appears-designate-hezbollah-and-houthis-terrorists"
       },
       {
-        "title": "Irish human rights group initiates lawsuit against Microsoft for helping Israel facilitate killing of Palestinians",
+        "title": "Irish human rights group initiates lawsuit against Microsoft for facilitating Israel's 'killing of civilians in Gaza'",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/microsoft-sued-irish-human-rights-group-over-helping-israel-facilitate"
-      },
-      {
-        "title": "Israeli forces critically wound 12-year old Palestinian child in West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-critically-wound-12-year-old-palestinian-child-west-bank"
-      },
-      {
-        "title": "Israeli army says it killed Hamas commander in Rafah strike",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-killed-hamas-commander-rafah-strike"
-      },
-      {
-        "title": "Israel strikes two southern Lebanese towns",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-two-southern-lebanese-towns"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Princess Anne prepares for another royal spotlight",
+        "link": "https://www.geo.tv/latest/637424-princess-anne-prepares-for-another-royal-spotlight"
+      },
+      {
+        "title": "Beatrice, Eugenie unite to protect Fergie",
+        "link": "https://www.geo.tv/latest/637434-beatrice-eugenie-unite-to-protect-fergie"
+      },
+      {
+        "title": "Kate Middleton shines as King Charles says goodbye to German president",
+        "link": "https://www.geo.tv/latest/637431-kate-middleton-shines-as-king-charles-says-goodbye-to-german-president"
+      },
       {
         "title": "Suspected espionage: Why NASA removed veteran Russian astronaut from SpaceX Crew-12",
         "link": "https://www.geo.tv/latest/637433-suspected-espionage-why-nasa-removed-veteran-russian-astronaut-from-spacex-crew-12"
@@ -149,40 +155,28 @@
       {
         "title": "Simon Cowell, Lauren Silverman face tense moment over son's graduation",
         "link": "https://www.geo.tv/latest/637428-simon-cowell-and-lauren-silverman-face-tense-moment-over-sons-graduation"
-      },
-      {
-        "title": "CDF Field Marshal Asim Munir — a brief profile",
-        "link": "https://www.geo.tv/latest/637432-cdf-field-marshal-asim-munir-a-brief-profile"
-      },
-      {
-        "title": "‘Dear X' sparks outrage after fans spot major missing twist",
-        "link": "https://www.geo.tv/latest/637430-dear-x-sparks-outrage-after-fans-spot-major-missing-twist"
-      },
-      {
-        "title": "Field Marshal Asim Munir appointed Pakistan's first Chief of Defence Forces",
-        "link": "https://www.geo.tv/latest/637381-field-marshal-asim-munir-appointed-pakistans-first-chief-of-defence-forces"
       }
     ],
     "NDTV": [
       {
-        "title": "'Illegal Migrants Claiming Our Ancestral Lands As Their Own': 4 Naga Tribes In Manipur Raise Alarm, Write To PM",
-        "link": "https://www.ndtv.com/india-news/manipur-naga-tribes-urge-pm-to-act-against-unchecked-illegal-migration-9751689#publisher=newsstand"
+        "title": "Man Killed In Leopard Attack In Uttarakhand, Nearby Schools Shut For 2 Days",
+        "link": "https://www.ndtv.com/india-news/man-killed-in-leopard-attack-in-uttarakhand-nearby-schools-shut-for-2-days-9753075#publisher=newsstand"
       },
       {
-        "title": "Putin India Visit LIVE Updates: PM Modi Hosts Private Dinner For Putin Ahead Of India-Russia Summit",
-        "link": "https://www.ndtv.com/world-news/putin-india-visit-live-updates-putin-modi-2-0-live-updates-russian-president-vladimir-putin-to-land-in-delhi-soon-talks-on-trade-on-agenda-9750055#publisher=newsstand"
+        "title": "2 BRS Local-Body Poll Candidates Die By Suicide In Telangana",
+        "link": "https://www.ndtv.com/india-news/2-brs-local-body-poll-candidates-die-by-suicide-in-telangana-9753070#publisher=newsstand"
       },
       {
-        "title": "In Pics: PM Modi Greets Vladimir Putin At Delhi Airport With Hug, Handshake",
-        "link": "https://www.ndtv.com/world-news/putin-india-visit-in-pics-pm-narendra-modi-greets-vladimir-putin-at-delhi-airport-with-hug-handshake-9752555#publisher=newsstand"
+        "title": "Warrant Against Sheikh Hasina's Son Over 2024 Bangladesh Protests",
+        "link": "https://www.ndtv.com/world-news/warrant-against-sheikh-hasinas-son-over-2024-bangladesh-protests-9753062#publisher=newsstand"
       },
       {
-        "title": "Video: BMW Car Bursts Into Flames In Noida, Driver Has Narrow Escape",
-        "link": "https://www.ndtv.com/india-news/video-bmw-car-bursts-into-flames-in-noida-driver-has-narrow-escape-9752604#publisher=newsstand"
+        "title": "Hong Kong Removes Construction Netting After Deadly Fire That Killed 159",
+        "link": "https://www.ndtv.com/world-news/hong-kong-removes-construction-netting-after-deadly-fire-that-killed-159-9751062#publisher=newsstand"
       },
       {
-        "title": "Karnataka Cabinet Okays Hate Speech Bill, Stringent Punishment Proposed",
-        "link": "https://www.ndtv.com/india-news/karnataka-cabinet-okays-hate-speech-bill-stringent-punishment-proposed-9752565#publisher=newsstand"
+        "title": "Congress Seeks Larger Role, Asks DMK To Finalise Tamil Nadu Seat Sharing By December 15",
+        "link": "https://www.ndtv.com/india-news/congress-seeks-larger-role-asks-dmk-to-finalise-tamil-nadu-seat-sharing-by-december-15-9752979#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-04 16:58 UTC"
+  "last_updated": "2025-12-04 17:47 UTC"
 }
