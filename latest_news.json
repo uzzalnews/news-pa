@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Energy grid investment to push up household bills",
+        "link": "https://www.bbc.com/news/articles/cp84yymxpjno?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Police accused of 'homophobic assumptions' over victims of blackmail on Grindr",
         "link": "https://www.bbc.com/news/articles/c20k1zzr415o?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,17 @@
       {
         "title": "Investigation into pre-Budget leaks is under way, MPs told",
         "link": "https://www.bbc.com/news/articles/c4g9e7wp79zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Oil, defence and geopolitics: Why Putin is visiting Modi in Delhi",
-        "link": "https://www.bbc.com/news/articles/cj4q2vpggr9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Meta starts blocking teens in Australia under social media ban",
+        "link": "https://www.aljazeera.com/news/2025/12/4/meta-starts-blocking-teens-in-australia-under-social-media-ban?traffic_source=rss"
+      },
+      {
+        "title": "Macron tells Xi that China, France must overcome ‘differences’",
+        "link": "https://www.aljazeera.com/news/2025/12/4/macron-tells-xi-that-china-france-must-overcome-differences?traffic_source=rss"
+      },
       {
         "title": "Most Germans, French see ‘high risk’ of war with Russia, survey shows",
         "link": "https://www.aljazeera.com/news/2025/12/4/most-germans-french-see-high-risk-of-war-with-russia-survey-shows?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Honduras’s Nasralla holds narrow lead over Asfura in presidential vote",
         "link": "https://www.aljazeera.com/news/2025/12/4/hondurass-nasralla-holds-narrow-lead-over-asfura-in-presidential-vote?traffic_source=rss"
-      },
-      {
-        "title": "EU proposes using Russian assets, loans to fund $105bn package to Ukraine",
-        "link": "https://www.aljazeera.com/news/2025/12/4/eu-proposes-using-russian-assets-loans-to-fund-105bn-package-to-ukraine?traffic_source=rss"
-      },
-      {
-        "title": "Somalis call Trump’s comments insulting their country a ‘grave mistake’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/4/somalis-call-trumps-comments-insulting-their-country-a-grave?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +74,20 @@
         "link": "https://www.dawn.com/news/1959139/man-arrested-in-us-in-possession-of-gun-and-written-plans-for-attack-is-afghan-not-of-pakistani-origin-fo"
       },
       {
-        "title": "Dar meets Kyrgyzstan president, reaffirms Islamabad’s commitment to strengthening ties",
-        "link": "https://www.dawn.com/news/1959137/dar-meets-kyrgyzstan-president-reaffirms-islamabads-commitment-to-strengthening-ties"
+        "title": "Pakistan, Kyrgyzstan sign 15 MoUs during President Zhaparov’s visit to Islamabad",
+        "link": "https://www.dawn.com/news/1959137/pakistan-kyrgyzstan-sign-15-mous-during-president-zhaparovs-visit-to-islamabad"
       },
       {
-        "title": "UN aid consignments cleared for Afghanistan",
-        "link": "https://www.dawn.com/news/1959087/un-aid-consignments-cleared-for-afghanistan"
+        "title": "Inaugural meeting of 11th NFC begins to discuss resource sharing between Centre, provinces",
+        "link": "https://www.dawn.com/news/1959141/inaugural-meeting-of-11th-nfc-begins-to-discuss-resource-sharing-between-centre-provinces"
       },
       {
         "title": "Trump administration orders enhanced vetting for applicants of H-1B visa",
         "link": "https://www.dawn.com/news/1959134/trump-administration-orders-enhanced-vetting-for-applicants-of-h-1b-visa"
       },
       {
-        "title": "NFC meets today to discuss resource sharing",
-        "link": "https://www.dawn.com/news/1959080/nfc-meets-today-to-discuss-resource-sharing"
+        "title": "UN aid consignments cleared for Afghanistan",
+        "link": "https://www.dawn.com/news/1959087/un-aid-consignments-cleared-for-afghanistan"
       }
     ],
     "APNews": [],
@@ -115,71 +115,75 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Occupation forces arrest Hebron-area mayor in West Bank raids",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-arrest-hebron-area-mayor-west-bank-raids"
+      },
+      {
+        "title": "Israel’s Eurovision spot faces backlash from European broadcasters",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-eurovision-spot-faces-backlash-european-broadcasters"
+      },
+      {
+        "title": "Israeli MP demands Palestinians be killed if they burn rubbish",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-mp-demands-palestinians-be-killed-if-they-burn-rubbish"
+      },
+      {
         "title": "Israeli forces tighten grip on West Bank town after pre-dawn raid",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-tighten-grip-west-bank-town-after-pre-dawn-raid"
       },
       {
         "title": "Israeli settlers attack activists in the occupied West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-activists-occupied-west-bank"
-      },
-      {
-        "title": "Israel fires on areas north of Rafah in latest assault on Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-fires-areas-north-rafah-latest-assault-gaza"
-      },
-      {
-        "title": "Morning recap",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-125"
-      },
-      {
-        "title": "Turkey drone magnate Baykar enters small reactor nuclear race",
-        "link": "https://www.middleeasteye.net/news/turkey-drone-magnate-baykar-enters-smr-nuclear-race"
       }
     ],
     "GeoTV": [
       {
-        "title": "Man arrested in US is Afghan national, not Pakistani: Foreign Office",
-        "link": "https://www.geo.tv/latest/637307-man-arrested-in-us-is-afghan-national-not-pakistani-foreign-office"
+        "title": "King Charles brings monarchy back in positive light with powerful speech",
+        "link": "https://www.geo.tv/latest/637303-king-charles-brings-monarchy-back-in-positive-light-with-powerful-speech"
       },
       {
-        "title": "Sarah Paulson shares Diane Keaton's funniest texts in emotional tribute",
-        "link": "https://www.geo.tv/latest/637309-sarah-paulson-shares-diane-keatons-funniest-texts-in-emotional-tribute"
+        "title": "Meta begins removing underage users from Instagram, Facebook in Australia",
+        "link": "https://www.geo.tv/latest/637312-meta-begins-removing-underage-users-from-instagram-facebook-in-australia"
       },
       {
-        "title": "Gen-Z battles to gain political ground after ousting ex-PM Hasina in Bangladesh",
-        "link": "https://www.geo.tv/latest/637297-gen-z-battles-to-gain-political-ground-after-ousting-ex-pm-hasina-in-bangladesh"
+        "title": "Meghan Markle's family hit with health setback: ‘emergency surgery'",
+        "link": "https://www.geo.tv/latest/637318-meghan-markles-family-hit-with-health-setback-emergency-surgery"
       },
       {
-        "title": "Bangladesh to launch direct flights to Karachi: high commissioner",
-        "link": "https://www.geo.tv/latest/637296-bangladesh-to-launch-direct-flights-to-karachi-high-commissioner"
+        "title": "Trump's fuel economy rollback: Will this save drivers money or cost them more?",
+        "link": "https://www.geo.tv/latest/637314-trumps-fuel-economy-rollback-will-this-save-drivers-money-or-cost-them-more"
       },
       {
-        "title": "Leonardo DiCaprio says bringing audiences to cinema is getting 'challenging'",
-        "link": "https://www.geo.tv/latest/637301-leonardo-dicaprio-says-bringing-audiences-to-cinema-is-getting-challenging"
+        "title": "Beeple's billionaire-faced robot dogs pooping NFTs steal spotlight at Art Basel",
+        "link": "https://www.geo.tv/latest/637310-beeples-billionaire-faced-robot-dogs-pooping-nfts-steal-spotlight-at-art-basel-miami-beach"
       }
     ],
     "NDTV": [
       {
-        "title": "Chaos At Airports As More IndiGo Flights Cancelled Amid Crew Shortage",
-        "link": "https://www.ndtv.com/india-news/indigos-mess-continues-many-flights-cancelled-amid-crew-shortage-10-points-9747803#publisher=newsstand"
+        "title": "Russian House In Delhi Organise Photo Exhibition Ahead Of Putin's Visit",
+        "link": "https://www.ndtv.com/world-news/russian-house-in-delhi-organise-photo-exhibition-ahead-of-putins-visit-9747415#publisher=newsstand"
       },
       {
-        "title": "New Zealand Man Swallows $20,000 Faberge Egg, Cops Wait For \"Nature To Take Its Course\"",
-        "link": "https://www.ndtv.com/world-news/new-zealand-man-swallows-20-000-faberge-egg-cops-wait-for-nature-to-take-its-course-9748626#publisher=newsstand"
+        "title": "Pilots' Body Call Out IndiGo's \"Prolonged, Unorthodox Lean Manpower Strategy\"",
+        "link": "https://www.ndtv.com/india-news/pilots-body-call-out-indigos-prolonged-unorthodox-lean-manpower-strategy-9748392#publisher=newsstand"
       },
       {
-        "title": "Trinamool MLA Humayun Kabir Suspended Over Proposal To Build Babri Mosque Replica",
-        "link": "https://www.ndtv.com/india-news/trinamool-mla-humayun-kabir-suspended-over-proposal-to-build-babri-masjid-replica-9748569#publisher=newsstand"
+        "title": "Opinion: Opinion | Europe's Anti-Putin 'Lecture' To India Betrays Its Own Desperation",
+        "link": "https://www.ndtv.com/opinion/why-is-europe-lecturing-india-on-putin-because-it-cant-do-much-else-9748855#publisher=newsstand"
       },
       {
-        "title": "Dentist Chair, Masks, Blackboard Scribbles: Inside Epstein's Private Island",
-        "link": "https://www.ndtv.com/world-news/dentist-chair-masks-blackboard-scribbles-inside-epsteins-private-island-9748385#publisher=newsstand"
+        "title": "Talks On Trade, Su-57 Fighter Jets: What To Expect From Vladimir Putin's India Visit",
+        "link": "https://www.ndtv.com/world-news/talks-on-trade-su-57-fighter-jets-what-to-expect-from-vladimir-putins-india-visit-9748981#publisher=newsstand"
       },
       {
-        "title": "New \"Disturbing\" Photos And Videos Released Of Epstein's Private Island",
-        "link": "https://www.ndtv.com/world-news/harrowing-democrats-release-new-photos-videos-of-jeffrey-epsteins-island-9746691#publisher=newsstand"
+        "title": "Snipers, Anti-Terror Units: Delhi On High Alert Ahead Of Putin's Visit",
+        "link": "https://www.ndtv.com/delhi-news/putin-in-india-snipers-anti-terror-units-delhi-on-high-alert-ahead-of-putins-visit-9748956#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Uganda stops granting refugee status for Eritreans, Somalis and Ethiopians",
+        "link": "https://www.theguardian.com/global-development/2025/dec/04/aid-cuts-africa-uganda-stops-refugee-status-eritreans-somalis-ethiopians"
+      },
       {
         "title": "Ghana’s Ibrahim Mahama first African to top annual art power list",
         "link": "https://www.theguardian.com/artanddesign/2025/dec/04/ibrahim-mahama-ghana-tops-artreview-power-list"
@@ -195,12 +199,8 @@
       {
         "title": "Trump calls Somali immigrants ‘garbage’ as US reportedly targets Minnesota community",
         "link": "https://www.theguardian.com/us-news/2025/dec/02/trump-somali-immigrants-minnesota"
-      },
-      {
-        "title": "Five South Africans in court over alleged recruitment for Russia’s war in Ukraine",
-        "link": "https://www.theguardian.com/world/2025/dec/01/south-africans-court-alleged-recruitment-russia-war-ukraine"
       }
     ]
   },
-  "last_updated": "2025-12-04 06:56 UTC"
+  "last_updated": "2025-12-04 07:38 UTC"
 }
