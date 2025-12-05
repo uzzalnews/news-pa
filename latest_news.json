@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel sets military budget at $34bn, keeps attacking Gaza",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/5/live-israel-sets-military-budget-at-34bn-keeps-attacking-gaza?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,8 +21,8 @@
         "link": "https://www.bbc.com/news/articles/cy0p50ej0w2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Netherlands, Spain, Ireland and Slovenia boycott Eurovision after Israel allowed to compete",
-        "link": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss"
+        "title": "Turkey breeder supplying luxury stores investigated over welfare",
+        "link": "https://www.bbc.com/news/articles/cqlk2d3elp9o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Why I'm terrified of motorways even though I've been driving for 20 years",
@@ -24,6 +30,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Israel sets military budget at $34bn, keeps attacking Gaza",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/5/live-israel-sets-military-budget-at-34bn-keeps-attacking-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Israel “art-washing its war crimes” through Eurovision",
+        "link": "https://www.aljazeera.com/video/quotable/2025/12/5/israel-art-washing-its-war-crimes-through-eurovision?traffic_source=rss"
+      },
       {
         "title": "Putin increasingly belligerent as truce talks flounder, Ukraine war rages",
         "link": "https://www.aljazeera.com/news/2025/12/5/putin-increasingly-belligerent-as-truce-talks-flounder-ukraine-war-rages?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Japan, China continue to spar at UN over Takaichi remarks on Taiwan",
         "link": "https://www.aljazeera.com/news/2025/12/5/japan-china-continue-to-spar-at-un-over-takaichi-remarks-on-taiwan?traffic_source=rss"
-      },
-      {
-        "title": "Australia hails ‘shared vision’, as defence minister set to visit Japan",
-        "link": "https://www.aljazeera.com/news/2025/12/5/australia-hails-shared-vision-as-defence-minister-set-to-visit-japan?traffic_source=rss"
-      },
-      {
-        "title": "China, France pledge cooperation as Xi joins Macron in trip to Chengdu",
-        "link": "https://www.aljazeera.com/news/2025/12/5/china-france-pledge-cooperation-as-xi-joins-macron-in-trip-to-chengdu?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,8 +88,8 @@
         "link": "https://www.dawn.com/news/1959327/us-slashes-work-permit-validity-period-for-foreign-nationals-including-refugees-and-asylum-seekers"
       },
       {
-        "title": "PM Shehbaz calls Malaysian counterpart, expresses solidarity, offers ‘all possible’ assistance for flood relief",
-        "link": "https://www.dawn.com/news/1959304/pm-shehbaz-calls-malaysian-counterpart-expresses-solidarity-offers-all-possible-assistance-for-flood-relief"
+        "title": "PM Shehbaz calls Malaysian counterpart, offers ‘all possible’ assistance for flood-hit country",
+        "link": "https://www.dawn.com/news/1959304/pm-shehbaz-calls-malaysian-counterpart-offers-all-possible-assistance-for-flood-hit-country"
       },
       {
         "title": "US lawmakers seek action over ‘acts of intimidation’ in Pakistan",
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Meghan Markle hospital visit seems imminent as father's life in danger",
+        "link": "https://www.geo.tv/latest/637507-meghan-markle-hospital-visit-seems-imminent-as-fathers-life-in-danger"
+      },
+      {
+        "title": "Interior minister unveils AI-based app to curb illegal immigration",
+        "link": "https://www.geo.tv/latest/637502-interior-minister-unveils-ai-based-app-to-curb-illegal-immigration"
+      },
+      {
+        "title": "Taliban regime's non-cooperation may have delayed Turkiye delegation's Pakistan visit: FO",
+        "link": "https://www.geo.tv/latest/637506-taliban-regimes-non-cooperation-may-have-delayed-turkiye-delegations-pakistan-visit-fo"
+      },
+      {
         "title": "Cynthia Erivo reflects on rising career at SBIFF gala: 'I love my job'",
         "link": "https://www.geo.tv/latest/637504-cynthia-erivo-reflects-on-rising-career-at-sbiff-gala-i-love-my-job"
       },
       {
         "title": "Latest Tesla FSD update allows texting while driving, a violation in most US states",
         "link": "https://www.geo.tv/latest/637499-latest-tesla-fsd-update-allows-texting-and-driving-a-violation-in-most-us-states"
-      },
-      {
-        "title": "Logan Paul hints at Trump cameo during John Cena's WWE finale- Here's why fans are buzzing",
-        "link": "https://www.geo.tv/latest/637483-logan-paul-hints-trump-could-crash-john-cenas-wwe-finale-heres-why-fans-are-buzzing"
-      },
-      {
-        "title": "Meghan Markle makes first statement as ailing father calls for support",
-        "link": "https://www.geo.tv/latest/637500-meghan-markle-makes-first-statement-as-ailing-father-calls-for-support"
-      },
-      {
-        "title": "Controversial tweets case: Imaan Mazari, husband file distrust petition against judge in IHC",
-        "link": "https://www.geo.tv/latest/637489-controversial-tweets-case-imaan-mazari-husband-file-distrust-petition-against-judge-in-ihc"
       }
     ],
     "NDTV": [
       {
-        "title": "Delhi-Mumbai Return Flight Prices Soar To Rs 60,000 As IndiGo Mess Spirals",
+        "title": "Delhi-Kolkata Flight More Expensive Than Round Trip To UK Amid IndiGo Crisis",
         "link": "https://www.ndtv.com/india-news/indigo-flight-chaos-delhi-mumbai-return-flight-prices-soar-to-rs-60-000-as-indigo-mess-spirals-9755626#publisher=newsstand"
       },
       {
-        "title": "What Putin Wrote About Mahatma Gandhi On Visitors' Book At Rajghat",
-        "link": "https://www.ndtv.com/world-news/putin-in-india-what-putin-wrote-about-mahatma-gandhi-on-visitors-book-at-rajghat-9755710#publisher=newsstand"
+        "title": "Police Recover $19,000 James Bond-Inspired Pendant From Man's Excreta",
+        "link": "https://www.ndtv.com/world-news/police-recover-19-000-james-bond-inspired-pendant-from-mans-excreta-9754451#publisher=newsstand"
       },
       {
-        "title": "IndiGo Flights Disruption Live Updates: Flights Crisis Issue Impacts Train Services",
+        "title": "\"Changes May Be Upsetting\": TikTok To Comply With Australia's Social Media Ban",
+        "link": "https://www.ndtv.com/world-news/changes-may-be-upsetting-tiktok-to-comply-with-australias-social-media-ban-9755389#publisher=newsstand"
+      },
+      {
+        "title": "Sharad Pawar's Family In Focus As Jay Pawar, Rutuja Patil Set To Marry: Who Are They?",
+        "link": "https://www.ndtv.com/india-news/sharad-pawars-family-in-focus-as-jay-pawar-rutuja-patil-set-to-marry-who-are-they-9754921#publisher=newsstand"
+      },
+      {
+        "title": "IndiGo Flights Disruption Live Updates: Home Minister Amit Shah Speaks To Civil Aviation Minister",
         "link": "https://www.ndtv.com/india-news/indigo-flight-disruption-live-updates-delhi-mumbai-flight-cancelled-news-updates-all-domestic-flights-out-of-delhi-cancelled-till-midnight-today-9755290#publisher=newsstand"
-      },
-      {
-        "title": "Man Jumps To Death At Bengaluru Metro Track, Purple Line Travel Disrupted",
-        "link": "https://www.ndtv.com/india-news/man-jumps-to-death-at-bengaluru-metro-track-purple-line-travel-disrupted-9755667#publisher=newsstand"
-      },
-      {
-        "title": "Hyderabad Woman Cheated Of Rs 3.38 Lakh By Fake UK Doctor",
-        "link": "https://www.ndtv.com/hyderabad-news/hyderabad-woman-cheated-of-rs-3-38-lakh-by-fake-uk-doctor-9755625#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-05 08:16 UTC"
+  "last_updated": "2025-12-05 08:45 UTC"
 }
