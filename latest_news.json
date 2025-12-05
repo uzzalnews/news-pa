@@ -13,7 +13,7 @@
         "link": "https://www.bbc.com/news/articles/cwyv7211jljo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Germany votes to bring back voluntary military service",
+        "title": "Germany votes to bring back voluntary military service for 18-year-olds",
         "link": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "MF Husain was forced into exile; now his work finds permanent home in Qatar",
+        "link": "https://www.aljazeera.com/features/2025/12/5/mf-husain-was-forced-into-exile-now-his-work-finds-permanent-home-in-qatar?traffic_source=rss"
+      },
+      {
         "title": "Putin and Modi discuss trade and peace at summit talks in India",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/5/putin-and-modi-discuss-trade-and-peace-at-summit-talks-in-india?traffic_source=rss"
       },
@@ -45,10 +49,6 @@
       {
         "title": "Hong Kong student union suspended over calls for justice for fire victims",
         "link": "https://www.aljazeera.com/news/2025/12/5/hong-kong-student-union-suspended-over-calls-for-justice-for-fire-victims?traffic_source=rss"
-      },
-      {
-        "title": "Modi “strengthens his own position” with Putin meeting",
-        "link": "https://www.aljazeera.com/video/quotable/2025/12/5/modi-strengthens-his-own-position-with-putin-meeting?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,12 +92,20 @@
         "link": "https://www.dawn.com/news/1959324/ex-pms-aide-shahzad-akhbar-declared-proclaimed-offender-in-case-pertaining-to-controversial-social-media-posts"
       },
       {
-        "title": "Choosing NA opposition leader prerogative of parliamentarians, not speaker’s: Naveed Qamar",
-        "link": "https://www.dawn.com/news/1959334/choosing-na-opposition-leader-prerogative-of-parliamentarians-not-speakers-naveed-qamar"
+        "title": "India weighs greater phone-location surveillance; Apple, Google and Samsung protest",
+        "link": "https://www.dawn.com/news/1959329/india-weighs-greater-phone-location-surveillance-apple-google-and-samsung-protest"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Zelensky’s Government Sabotaged Oversight, Allowing Corruption in Ukraine to Fester",
+        "link": "https://www.nytimes.com/2025/12/05/world/europe/ukraine-corruption-zelensky.html"
+      },
+      {
+        "title": "Fears Spread Over New ICE Crackdowns, and F.B.I. Makes Arrest in Jan. 6 Bomb Plot",
+        "link": "https://www.nytimes.com/2025/12/05/podcasts/the-headlines/ice-crackdowns-jan-6-bomb-plot.html"
+      },
       {
         "title": "Second Strike Scrutiny Obscures Larger Question About Trump’s Boat Attacks",
         "link": "https://www.nytimes.com/2025/12/04/us/politics/trump-boat-attacks-killings.html"
@@ -107,19 +115,19 @@
         "link": "https://www.nytimes.com/2025/12/04/us/politics/drug-boat-strikes-sept-2-video-congress.html"
       },
       {
-        "title": "Takeaways From the Pentagon Investigation on Hegseth’s Use of Signal",
-        "link": "https://www.nytimes.com/2025/12/04/us/politics/pentagon-investigation-hegseth-signal.html"
-      },
-      {
-        "title": "Supreme Court Clears Way for Texas Redistricting Maps Pushed by Trump",
-        "link": "https://www.nytimes.com/2025/12/04/us/politics/supreme-court-texas-congressional-maps.html"
-      },
-      {
-        "title": "Florida Republicans Start Redistricting Talks, but Some Aren’t in a Rush",
-        "link": "https://www.nytimes.com/2025/12/04/us/florida-redistricting-republicans.html"
+        "title": "Trump’s Approval Rating Dips as Views of His Handling of the Economy Sour",
+        "link": "https://www.nytimes.com/2025/12/05/us/politics/trump-approval-rating.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Four countries to boycott Eurovision after Israel approved to participate",
+        "link": "https://www.middleeasteye.net/news/four-countries-boycott-eurovision-after-israel-approved-participate"
+      },
+      {
+        "title": "Palestinian wounded in Israeli raid south of Nablus",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-wounded-israeli-raid-south-nablus"
+      },
       {
         "title": "Your Party's moment is now or never",
         "link": "https://www.middleeasteye.net/opinion/your-party-corbyn-sultana-moment-now-or-never"
@@ -131,36 +139,28 @@
       {
         "title": "Israeli army claims to intercept attempted weapons smuggling from Jordan",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-claims-intercept-attempted-weapons-smuggling-jordan"
-      },
-      {
-        "title": "Palestinian embassy accuses UK government of failing to provide security after 'multiple' attacks",
-        "link": "https://www.middleeasteye.net/news/palestine-embassy-uk-accuse-government-failing-provide-security-multiple-attacks"
-      },
-      {
-        "title": "Britain is allowing another Gaza to unfold in Sudan",
-        "link": "https://www.middleeasteye.net/opinion/britain-allowing-another-gaza-unfold-sudan"
       }
     ],
     "GeoTV": [
       {
+        "title": "Prince William wants Andrew's chapter to close for good: Here's why",
+        "link": "https://www.geo.tv/latest/637525-prince-william-wants-andrews-chapter-to-close-for-good-heres-why"
+      },
+      {
+        "title": "Cloudflare hit by second outage in weeks, denies cyberattack",
+        "link": "https://www.geo.tv/latest/637531-cloudflare-hit-by-second-outage-in-weeks-denies-cyberattack"
+      },
+      {
+        "title": "Edinburgh Airport suspends all operations following critical IT failure in air traffic control system",
+        "link": "https://www.geo.tv/latest/637544-edinburgh-airport-suspends-all-operations-following-critical-it-failure-in-air-traffic-control-system"
+      },
+      {
+        "title": "Buckingham Palace shares update on King Charles as new health alert looms",
+        "link": "https://www.geo.tv/latest/637534-buckingham-palace-shares-update-on-king-charles-as-new-health-alert-looms"
+      },
+      {
         "title": "Joe Manganiello, Caitlin O'Connor make MAJOR move in life",
         "link": "https://www.geo.tv/latest/637518-joe-manganiello-caitlin-oconnor-make-major-move-in-life"
-      },
-      {
-        "title": "'Emily in Paris' actor Jeremy O. Harris detained in Japan after MDMA discovery",
-        "link": "https://www.geo.tv/latest/637530-emily-in-paris-actor-jeremy-o-harris-detained-in-japan-after-mdma-discovery"
-      },
-      {
-        "title": "Netflix strikes deal for Warner Bros. Discovery: Will it increase subscription price for users?",
-        "link": "https://www.geo.tv/latest/637536-netflix-strikes-deal-for-warner-bros-discovery-will-it-increase-subscription-price-for-users"
-      },
-      {
-        "title": "Police recover $19,000 Faberge egg swallowed by thief: 'Passed naturally'",
-        "link": "https://www.geo.tv/latest/637535-police-recover-19000-faberge-egg-swallowed-by-thief-passed-naturally"
-      },
-      {
-        "title": "AI makes way into best iPhone app of the year 2025: Here's the full list",
-        "link": "https://www.geo.tv/latest/637532-ai-makes-way-into-best-iphone-app-of-the-year-2025-heres-the-full-list"
       }
     ],
     "NDTV": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-05 10:58 UTC"
+  "last_updated": "2025-12-05 11:26 UTC"
 }
