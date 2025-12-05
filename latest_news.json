@@ -1,14 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Vladimir Putin In India LIVE Updates: Russian President To Receive Ceremonial Welcome At Rashtrapati Bhavan",
+      "link": "https://www.ndtv.com/world-news/putin-india-visit-live-updates-putin-modi-2-0-live-updates-russian-president-vladimir-putin-to-land-in-delhi-soon-talks-on-trade-on-agenda-9750055#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Netherlands, Spain, Ireland and Slovenia boycott Eurovision after Israel allowed to compete",
-        "link": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "We'll end children living in B&Bs, government says in child poverty pledge",
         "link": "https://www.bbc.com/news/articles/c0l9nrkd4z6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Netherlands, Spain, Ireland and Slovenia boycott Eurovision after Israel allowed to compete",
+        "link": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "How a 'fertility gap' is fuelling the rise of one-child families",
@@ -19,11 +25,15 @@
         "link": "https://www.bbc.com/news/articles/cy0p50ej0w2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
-        "link": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss"
+        "title": "Turkey breeder supplying luxury stores investigated over welfare",
+        "link": "https://www.bbc.com/news/articles/cqlk2d3elp9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Russia continues tech crackdown by blocking Snapchat, FaceTime access",
+        "link": "https://www.aljazeera.com/news/2025/12/5/russia-continues-tech-crackdown-by-blocking-snapchat-facetime-access?traffic_source=rss"
+      },
       {
         "title": "Honduran presidential candidate says Trump interfered in election: Report",
         "link": "https://www.aljazeera.com/news/2025/12/5/honduran-presidential-candidate-says-trump-interfered-in-election-report?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "US Supreme Court allows Texas to use redrawn district map for 2026 midterms",
         "link": "https://www.aljazeera.com/news/2025/12/5/us-supreme-court-allows-texas-to-use-redrawn-district-map-for-2026-midterms?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,380",
-        "link": "https://www.aljazeera.com/news/2025/12/5/russia-ukraine-war-list-of-key-events-day-1380?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/1959232/centre-seeks-rs65tr-revenue-hike-at-11th-nfc-meeting"
       },
       {
-        "title": "Move to revive Basant in Punjab faces first legal challenge",
-        "link": "https://www.dawn.com/news/1959233/move-to-revive-basant-in-punjab-faces-first-legal-challenge"
+        "title": "US plans to expand travel ban to more than 30 countries, says Homeland Security secretary",
+        "link": "https://www.dawn.com/news/1959289/us-plans-to-expand-travel-ban-to-more-than-30-countries-says-homeland-security-secretary"
       },
       {
-        "title": "Govt vows equal standards for imported, local cars",
-        "link": "https://www.dawn.com/news/1959239/govt-vows-equal-standards-for-imported-local-cars"
+        "title": "Move to revive Basant in Punjab faces first legal challenge",
+        "link": "https://www.dawn.com/news/1959233/move-to-revive-basant-in-punjab-faces-first-legal-challenge"
       }
     ],
     "APNews": [],
@@ -137,49 +143,53 @@
     ],
     "GeoTV": [
       {
+        "title": "'Mortal Kombat' star Cary-Hiroyuki Tagawa dies at 75",
+        "link": "https://www.geo.tv/latest/637478-mortal-kombat-star-cary-hiroyuki-tagawa-dies-at-75"
+      },
+      {
+        "title": "Sindh dengue death toll nears 40 as minor girl dies in Hyderabad",
+        "link": "https://www.geo.tv/latest/637479-sindh-dengue-death-toll-nears-40-as-minor-girl-dies-in-hyderabad"
+      },
+      {
+        "title": "Matt Reeves backs Paul Dano amid Quentin Tarantino criticism",
+        "link": "https://www.geo.tv/latest/637480-matt-reeves-backs-paul-dano-amid-quentin-tarantino-criticism"
+      },
+      {
+        "title": "Former Imran Khan's aide Shahzad Akbar declared proclaimed offender",
+        "link": "https://www.geo.tv/latest/637476-former-imran-khans-aide-shahzad-akbar-declared-proclaimed-offender"
+      },
+      {
         "title": "Pakistan marks presence at Red Sea International Film Festival 2025 in Jeddah",
         "link": "https://www.geo.tv/latest/637474-pakistan-marks-akes-prominent-spot-as-red-sea-international-film-festival-opens-in-jeddah"
-      },
-      {
-        "title": "Dual engine of China's rise",
-        "link": "https://www.geo.tv/latest/637475-dual-engine-of-chinas-rise"
-      },
-      {
-        "title": "US widens travel ban to more than 30 countries: official",
-        "link": "https://www.geo.tv/latest/637473-us-widens-travel-ban-to-more-than-30-countries-official"
-      },
-      {
-        "title": "Hollywood stars slam Quentin Tarantino's criticism for Paul Dano",
-        "link": "https://www.geo.tv/latest/637470-hollywood-stars-slam-quentin-tarantinos-criticism-for-paul-dano"
-      },
-      {
-        "title": "Timothée Chalamet talks about ‘greatest actors'",
-        "link": "https://www.geo.tv/latest/637466-timothe-chalamet-talks-about-greatest-actors"
       }
     ],
     "NDTV": [
       {
-        "title": "Row Over Burqa vs Saffron Shawl In Karnataka College, Then A Uniform Order",
-        "link": "https://www.ndtv.com/india-news/karnataka-news-burqa-vs-saffron-shawl-karnataka-college-row-uniform-order-for-students-9754523#publisher=newsstand"
+        "title": "\"Cost Of Centre's Monopoly Model\": Rahul Gandhi On IndiGo \"Fiasco\"",
+        "link": "https://www.ndtv.com/india-news/indigo-rahul-gandhi-on-airlines-fiasco-as-flights-get-cancelled-cost-of-centres-monopoly-model-9754682#publisher=newsstand"
       },
       {
-        "title": "Piles Of Suitcases, Passenger Chaos As IndiGo Cancels Record 500 Flights",
-        "link": "https://www.ndtv.com/india-news/indigo-flights-delayed-thousands-of-fliers-wait-for-luggage-without-food-indigo-flight-cancellations-chaos-at-airports-9754226#publisher=newsstand"
+        "title": "Vladimir Putin In India LIVE Updates: Russian President To Receive Ceremonial Welcome At Rashtrapati Bhavan",
+        "link": "https://www.ndtv.com/world-news/putin-india-visit-live-updates-putin-modi-2-0-live-updates-russian-president-vladimir-putin-to-land-in-delhi-soon-talks-on-trade-on-agenda-9750055#publisher=newsstand"
+      },
+      {
+        "title": "RBI Slashes Repo Rate By 25 Basis Points To 5.25%, Loans To Get Cheaper",
+        "link": "https://www.ndtv.com/business-news/rbi-slashes-repo-rate-by-25-basis-points-to-5-25-9754602#publisher=newsstand"
+      },
+      {
+        "title": "'Balancing Act' In Focus Of Western Media's Coverage On Putin's India Visit",
+        "link": "https://www.ndtv.com/world-news/balancing-act-in-focus-of-western-medias-coverage-on-putins-india-visit-9754828#publisher=newsstand"
       },
       {
         "title": "Talks With PM Modi, State Dinner: A Look At Putin's Action-Packed Day In Delhi",
         "link": "https://www.ndtv.com/world-news/vladimir-putin-india-visit-live-updates-talks-with-pm-modi-state-dinner-whats-on-putins-agenda-on-day-2-of-india-visit-9754261#publisher=newsstand"
-      },
-      {
-        "title": "Is Earth Really Getting Too Hot To Live? Scientist Explains Climate Change",
-        "link": "https://www.ndtv.com/world-news/is-earth-really-getting-too-hot-to-live-scientist-explains-climate-change-9753646#publisher=newsstand"
-      },
-      {
-        "title": "As IndiGo Runs Into Turbulence, A Look At Performance Of Indian Airlines",
-        "link": "https://www.ndtv.com/india-news/as-indigo-runs-into-turbulence-a-look-at-performance-of-indian-airlines-9754354#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "US considers wider sanctions on Sudanese army and RSF as ceasefire efforts falter",
+        "link": "https://www.theguardian.com/world/2025/dec/05/us-sanctions-sudan-army-rsf-ceasefire"
+      },
       {
         "title": "US and EU critical minerals project could displace thousands in DRC – report",
         "link": "https://www.theguardian.com/world/2025/dec/04/us-eu-critical-minerals-project-drc-report-lobito-corridor"
@@ -195,12 +205,8 @@
       {
         "title": "British troops accused of human rights violations and sexual abuse in Kenya",
         "link": "https://www.theguardian.com/uk-news/2025/dec/03/british-troops-accused-of-human-rights-violations-environmental-destruction-and-sexual-abuse-in-kenya"
-      },
-      {
-        "title": "Whistleblower accuses Foreign Office of ‘censoring’ warning of Sudan genocide",
-        "link": "https://www.theguardian.com/global-development/2025/dec/03/whistleblower-accuses-foreign-office-of-censoring-warning-of-sudan-genocide"
       }
     ]
   },
-  "last_updated": "2025-12-05 04:59 UTC"
+  "last_updated": "2025-12-05 05:42 UTC"
 }
