@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Vladimir Putin In India LIVE Updates: Putin Arrives At Rashtrapati Bhavan, President Murmu Receives Him",
-      "link": "https://www.ndtv.com/world-news/putin-india-visit-live-updates-putin-modi-2-0-live-updates-russian-president-vladimir-putin-to-land-in-delhi-soon-talks-on-trade-on-agenda-9750055#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,11 +7,11 @@
         "link": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Doctor charged with sex assaults of 38 patients",
+        "title": "Doctor charged with sexually assaulting 38 patients",
         "link": "https://www.bbc.com/news/articles/cdd5z3qdjv4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Germany votes to bring back voluntary military service programme for 18-year-olds",
+        "title": "Germany votes to bring in voluntary military service programme for 18-year-olds",
         "link": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -29,7 +23,28 @@
         "link": "https://www.bbc.com/news/articles/cwyv7211jljo?at_medium=RSS&at_campaign=rss"
       }
     ],
-    "AlJazeera": [],
+    "AlJazeera": [
+      {
+        "title": "British soldiers accused of more abuses in Kenya: What we know",
+        "link": "https://www.aljazeera.com/news/2025/12/5/british-soldiers-accused-of-more-abuses-in-kenya-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "Al-Assad inner circle plotting Syrian uprisings from Russian exile: Report",
+        "link": "https://www.aljazeera.com/news/2025/12/5/al-assad-inner-circle-plotting-syrian-uprisings-from-russian-exile-report?traffic_source=rss"
+      },
+      {
+        "title": "Who controls the Rafah crossing?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/5/aje-onl-pp-rafah-explained-051225?traffic_source=rss"
+      },
+      {
+        "title": "Syria’s Hama full of ‘hope, joy’ one year after al-Assad forces’ exit",
+        "link": "https://www.aljazeera.com/news/2025/12/5/syrias-hama-full-of-hope-joy-one-year-after-al-assad-forces?traffic_source=rss"
+      },
+      {
+        "title": "Eurovision hit by boycotts over Israel’s inclusion",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/5/eurovision-hit-by-boycotts-over-israels-inclusion?traffic_source=rss"
+      }
+    ],
     "Reuters": [],
     "CNN": [
       {
@@ -59,8 +74,12 @@
         "link": "https://www.dawn.com/news/1959328/who-do-you-think-you-are-dg-ispr-lashes-out-at-imran-khans-anti-army-rhetoric"
       },
       {
-        "title": "Turkish delegation hasn’t arrived in Pakistan due to lack of cooperation from Afghan Taliban: FO",
-        "link": "https://www.dawn.com/news/1959366/turkish-delegation-hasnt-arrived-in-pakistan-due-to-lack-of-cooperation-from-afghan-taliban-fo"
+        "title": "Turkish delegation’s visit delayed due to Taliban’s lack of cooperation: FO",
+        "link": "https://www.dawn.com/news/1959366/turkish-delegations-visit-delayed-due-to-talibans-lack-of-cooperation-fo"
+      },
+      {
+        "title": "Pakistan’s OGDCL ramps up unconventional gas plans",
+        "link": "https://www.dawn.com/news/1959367/pakistans-ogdcl-ramps-up-unconventional-gas-plans"
       },
       {
         "title": "Crackdown against passengers using fake documents to intensify",
@@ -69,16 +88,12 @@
       {
         "title": "Pakistan will ‘definitely launch’ sovereign stablecoin, crypto czar says",
         "link": "https://www.dawn.com/news/1959364/pakistan-will-definitely-launch-sovereign-stablecoin-crypto-czar-says"
-      },
-      {
-        "title": "Controversial social media posts case: Imaan Mazari, Hadi Chatha submit list of defence witnesses",
-        "link": "https://www.dawn.com/news/1959348/controversial-social-media-posts-case-imaan-mazari-hadi-chatha-submit-list-of-defence-witnesses"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "An End to Hepatitis B Shots for All Newborns",
+        "title": "CDC Vaccine Committee Ends Recommendation That All Newborns Receive Hepatitis B Shots",
         "link": "https://www.nytimes.com/2025/12/05/health/kennedy-vaccine-committee-vote-hepatitisb.html"
       },
       {
@@ -86,8 +101,8 @@
         "link": "https://www.nytimes.com/2025/12/05/us/politics/trump-approval-rating.html"
       },
       {
-        "title": "Consumer Prices Rose Slightly in September",
-        "link": "https://www.nytimes.com/2025/12/05/business/inflation-consumer-prices-september.html"
+        "title": "PCE Report Shows Consumer Prices Rose Slightly in September",
+        "link": "https://www.nytimes.com/2025/12/05/business/pce-data-inflation-consumer-prices.html"
       },
       {
         "title": "Fears Spread Over New ICE Crackdowns, and F.B.I. Makes Arrest in Jan. 6 Bomb Plot",
@@ -99,6 +114,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "570 Palestinians arrested in occupied West Bank in November",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/570-palestinians-arrested-occupied-west-bank-november"
+      },
       {
         "title": "Marwan Barghouti brutally assaulted in Israeli prison, family told",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/marwan-barghouti-brutally-assaulted-israeli-prison-family-told"
@@ -114,54 +133,50 @@
       {
         "title": "Gaza Civil Defense teams carried out 294 missions this week",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-civil-defense-carried-out-294-missions-week"
-      },
-      {
-        "title": "Israeli military storms town north of Jenin",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-storms-town-north-jenin"
       }
     ],
     "GeoTV": [
       {
-        "title": "Kim Kardashian drops big revelation about her original name",
-        "link": "https://www.geo.tv/latest/637615-kim-kardashian-drops-big-revelation-about-her-original-name"
+        "title": "Princess Kate hurt, cancels Christmas concert celebration at eleventh hour",
+        "link": "https://www.geo.tv/latest/637618-princess-kate-hurt-cancels-christmas-concert-celebration-at-eleventh-hour"
       },
       {
-        "title": "Kim Cattrall secretly ties knot with Russell Thomas in intimate ceremony",
-        "link": "https://www.geo.tv/latest/637581-kim-cattrall-secretly-ties-knot-with-russell-thomas-in-intimate-ceremony"
+        "title": "Katy Perry joins boyfriend Justin Trudeau for diplomatic mission",
+        "link": "https://www.geo.tv/latest/637623-katy-perry-joins-boyfriend-justin-trudeau-for-diplomatic-mission"
       },
       {
-        "title": "Romeo Beckham visits Jewellery shop amid rekindled romance with Kim Turnbull",
-        "link": "https://www.geo.tv/latest/637605-romeo-beckham-browses-diamond-jewellery-after-sparking-gold-band-buzz-with-girlfriend-kim"
+        "title": "'Extremist' Imran Khan's Adiala jail meetings 'completely banned': minister",
+        "link": "https://www.geo.tv/latest/637616-extremist-imran-khans-adiala-jail-meetings-completely-banned-minister"
       },
       {
-        "title": "Duke of Kent helps King Charles strengthen UK-Germany ties",
-        "link": "https://www.geo.tv/latest/637613-duke-of-kent-helps-king-charles-strengthen-uk-germany-ties"
+        "title": "Pop Culture Highlights 2025",
+        "link": "https://www.geo.tv/latest/637557-pop-culture-highlights-2025"
       },
       {
-        "title": "Why Tom Cruise 'was not' right fit for 'Titanic'?",
-        "link": "https://www.geo.tv/latest/637608-why-tom-cruise-was-not-right-fit-for-titanic"
+        "title": "Queen Sofia takes key role in Spain's esteemed award ceremony",
+        "link": "https://www.geo.tv/latest/637571-queen-sofia-takes-key-role-in-spains-esteemed-award-ceremony"
       }
     ],
     "NDTV": [
       {
-        "title": "Putin Backs Early Signing Of India, Eurasian Economic Union Trade Agreement",
-        "link": "https://www.ndtv.com/world-news/putin-backs-early-signing-of-india-eurasian-economic-union-trade-agreement-9758588#publisher=newsstand"
+        "title": "Amid IndiGo Crisis, SpiceJet Steps In With 100 Additional Flights",
+        "link": "https://www.ndtv.com/india-news/amid-indigo-crisis-spicejet-steps-in-with-100-additional-flights-9758950#publisher=newsstand"
       },
       {
-        "title": "Vladimir Putin In India LIVE Updates: Putin Arrives At Rashtrapati Bhavan, President Murmu Receives Him",
-        "link": "https://www.ndtv.com/world-news/putin-india-visit-live-updates-putin-modi-2-0-live-updates-russian-president-vladimir-putin-to-land-in-delhi-soon-talks-on-trade-on-agenda-9750055#publisher=newsstand"
+        "title": "\"Not Could Be, It Will Be\": Aviation Minister On Action Against IndiGo",
+        "link": "https://www.ndtv.com/india-news/indigo-disruptions-indigo-flight-cancellations-not-could-be-it-will-be-aviation-minister-on-action-against-indigo-9758927#publisher=newsstand"
       },
       {
-        "title": "Lok Sabha Passes Bill To Levy Cess On Pan Masala Manufacturing Units",
-        "link": "https://www.ndtv.com/india-news/lok-sabha-passes-bill-to-levy-cess-on-pan-masala-manufacturing-units-9758574#publisher=newsstand"
+        "title": "Vacations, Jobs, Competitions: What IndiGo's Meltdown Cost Its Passengers",
+        "link": "https://www.ndtv.com/india-news/vacations-jobs-competitions-what-indigos-meltdown-cost-its-passengers-9758744#publisher=newsstand"
       },
       {
-        "title": "Cold Wave, Toxic Air: Why Delhi's Pollution Peaks in November-December",
-        "link": "https://www.ndtv.com/india-news/delhi-pollution-aqi-cold-wave-toxic-air-why-delhis-pollution-peaks-in-november-december-9758456#publisher=newsstand"
+        "title": "PM Modi Raised Issue Of Indians In Russian Army With Putin: Foreign Ministry",
+        "link": "https://www.ndtv.com/india-news/pm-modi-raised-issue-of-indians-in-russian-army-with-putin-foreign-ministry-9758856#publisher=newsstand"
       },
       {
-        "title": "IndiGo Flights Disruption Live Updates: \"Expect Complete Restoration In 3 Days,\" Says Minister On Crisis",
-        "link": "https://www.ndtv.com/india-news/indigo-flight-disruption-live-updates-delhi-mumbai-flight-cancelled-news-updates-all-domestic-flights-out-of-delhi-cancelled-till-midnight-today-9755290#publisher=newsstand"
+        "title": "Flyers Question IndiGo's 100% Refund After Deductions On Cancelled Airfare",
+        "link": "https://www.ndtv.com/india-news/flyers-question-indigo-100-per-cent-refund-after-deductions-on-cancelled-airfare-9758792#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -187,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-05 15:55 UTC"
+  "last_updated": "2025-12-05 16:27 UTC"
 }
