@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Real Betis vs Barcelona – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/6/live-real-betis-vs-barcelona-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,7 +13,7 @@
         "link": "https://www.bbc.com/news/articles/cn0k2858jj1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Four arrested after Tower of London display case containing State Crown defaced",
+        "title": "Four arrested after Tower of London display case containing Crown Jewels defaced",
         "link": "https://www.bbc.com/news/articles/cpd61w22e3no?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Real Betis vs Barcelona – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/6/live-real-betis-vs-barcelona-la-liga?traffic_source=rss"
+      },
+      {
         "title": "Francesca Albanese tells Al Jazeera US sanctions have made her ‘non-person’",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/6/francesca-albanese-tells-al-jazeera-us-sanctions-have-made-her-non-person?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Civilians killed in DRC fighting, a day after peace deal signing",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/6/civilians-killed-in-drc-fighting-a-day-after-peace-deal-signing?traffic_source=rss"
-      },
-      {
-        "title": "At Doha Forum, Qatar PM warns Gaza ceasefire is at ‘critical moment’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/6/at-doha-forum-qatar-pm-warns-gaza-ceasefire-is-at-critical?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "After an 18-year wait, Karachi welcomes the nation’s athletes",
+        "link": "https://www.dawn.com/news/1959574/after-an-18-year-wait-karachi-welcomes-the-nations-athletes"
+      },
+      {
         "title": "Qatar PM says Gaza truce incomplete without ‘full withdrawal’ by Israel",
         "link": "https://www.dawn.com/news/1959553/qatar-pm-says-gaza-truce-incomplete-without-full-withdrawal-by-israel"
       },
@@ -84,10 +94,6 @@
       {
         "title": "Pakistan, US agree to intensify cooperation on security, immigration",
         "link": "https://www.dawn.com/news/1959575/pakistan-us-agree-to-intensify-cooperation-on-security-immigration"
-      },
-      {
-        "title": "Starvation fears as flood toll passes 900 in Indonesia",
-        "link": "https://www.dawn.com/news/1959569/starvation-fears-as-flood-toll-passes-900-in-indonesia"
       }
     ],
     "APNews": [],
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-06 14:39 UTC"
+  "last_updated": "2025-12-06 14:50 UTC"
 }
