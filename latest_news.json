@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Syria’s al-Sharaa promises peace and unity in face of Israeli aggression",
+        "link": "https://www.aljazeera.com/news/2025/12/6/syrias-al-sharaa-promises-peace-and-unity-in-face-of-israeli-aggression?traffic_source=rss"
+      },
+      {
         "title": "World Cup 2026: Re-disappearing Mexico’s disappeared",
         "link": "https://www.aljazeera.com/opinions/2025/12/6/world-cup-2026-re-disappearing-mexicos-disappeared?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Gaza ceasefire deal at a ‘critical moment’, mediator Qatar says",
         "link": "https://www.aljazeera.com/news/2025/12/6/gaza-ceasefire-at-a-critical-moment-mediators-say-at-risk-of-collapse?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel kills 7 Palestinians in Gaza as deadly violations intensify",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/6/live-israel-kills-3-palestinians-in-gaza-as-deadly-violations-intensify?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "After an 18-year wait, Karachi welcomes the nation’s athletes",
-        "link": "https://www.dawn.com/news/1959574/after-an-18-year-wait-karachi-welcomes-the-nations-athletes"
+        "title": "‘Imran Khan not a security threat’: PTI deplores ‘ridiculous’ allegations, laments democracy’s backward slide",
+        "link": "https://www.dawn.com/news/1959580/imran-khan-not-a-security-threat-pti-deplores-ridiculous-allegations-laments-democracys-backward-slide"
       },
       {
         "title": "Qatar PM says Gaza truce incomplete without ‘full withdrawal’ by Israel",
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "12 people, including 3 children, killed in South Africa hostel shooting",
+        "link": "https://www.geo.tv/latest/637805-12-people-including-3-children-killed-in-south-africa-hostel-shooting"
+      },
+      {
         "title": "Jaiswal's maiden ODI hundred secures India's series win against South Africa",
         "link": "https://www.geo.tv/latest/637804-jaiswals-maiden-odi-hundred-secures-indias-series-win-against-south-africa"
       },
@@ -157,32 +155,28 @@
       {
         "title": "Spanish royals outline future plans in important session",
         "link": "https://www.geo.tv/latest/637799-spanish-royals-outline-future-plans-in-important-session"
-      },
-      {
-        "title": "Prince William caught by urgent protocol message as Kate's Carol Service ends",
-        "link": "https://www.geo.tv/latest/637797-prince-william-caught-by-urgent-protocol-message-as-kates-carol-service-ends"
       }
     ],
     "NDTV": [
+      {
+        "title": "Aviation Regulator's Notice To IndiGo CEO Over \"Massive\" Flight Disruptions",
+        "link": "https://www.ndtv.com/india-news/aviation-regulator-issues-showcause-notice-to-indigo-ceo-over-massive-disruptions-resulting-in-hardship-to-passengers-9763927#publisher=newsstand"
+      },
       {
         "title": "Day 5 Of IndiGo Crisis: Passengers Reach Destination, Their Bags Don't",
         "link": "https://www.ndtv.com/india-news/indigo-disruption-day-5-of-indigo-crisis-passengers-reach-destination-their-bags-dont-9763695#publisher=newsstand"
       },
       {
-        "title": "Woman Student Attempts Setting Her Self Ablaze In Odisha, 5th Case In 6 Months",
-        "link": "https://www.ndtv.com/india-news/woman-student-attempts-setting-her-self-ablaze-in-odisha-5th-case-in-6-months-9763645#publisher=newsstand"
+        "title": "Russian Couple, Man Who Lost Mother: Passengers Stranded Amid IndiGo Chaos",
+        "link": "https://www.ndtv.com/india-news/indigo-disruptions-chennai-russian-couple-man-who-lost-mother-passengers-stranded-amid-indigo-chaos-9762801#publisher=newsstand"
       },
       {
-        "title": "Indian Investigators Head To US Next Week To Share Black Box Data: Report",
-        "link": "https://www.ndtv.com/world-news/indian-investigators-head-to-us-next-week-to-share-black-box-data-9763631#publisher=newsstand"
+        "title": "2 Men Rape Girl, Record Act To Threaten Family In UP, Arrested: Cops",
+        "link": "https://www.ndtv.com/india-news/2-men-rape-girl-record-act-to-threaten-family-in-up-arrested-cops-9763855#publisher=newsstand"
       },
       {
-        "title": "Pakistani Woman Begs PM Modi For Justice As Husband Prepares Delhi Wedding",
-        "link": "https://www.ndtv.com/india-news/pakistani-woman-begs-pm-modi-for-justice-as-husband-prepares-delhi-wedding-9763489#publisher=newsstand"
-      },
-      {
-        "title": "Protesters Throw Food At Britain's Crown Jewels, 4 Arrested",
-        "link": "https://www.ndtv.com/world-news/protesters-throw-food-at-britains-crown-jewels-4-arrested-9763470#publisher=newsstand"
+        "title": "Woman Mauled To Death By Tiger Near Her House In Uttarakhand: Police",
+        "link": "https://www.ndtv.com/india-news/woman-mauled-to-death-by-tiger-near-her-house-in-uttarakhand-police-9763828#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-06 16:52 UTC"
+  "last_updated": "2025-12-06 17:11 UTC"
 }
