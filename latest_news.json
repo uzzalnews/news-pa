@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "WFP warns of ‘massive’ humanitarian aid crisis in Sudan as war rages",
+        "link": "https://www.aljazeera.com/news/2025/12/7/wfp-warns-of-massive-humanitarian-aid-crisis-in-sudan-as-war-rages?traffic_source=rss"
+      },
+      {
+        "title": "Yan upsets Dvalishvili to capture bantamweight championship at UFC 323",
+        "link": "https://www.aljazeera.com/sports/2025/12/7/yan-upsets-dvalishvili-to-capture-bantamweight-championship-at-ufc-323?traffic_source=rss"
+      },
+      {
         "title": "Lionel Messi, Inter Miami defeat Vancouver to win first MLS Cup title",
         "link": "https://www.aljazeera.com/sports/2025/12/7/lionel-messi-inter-miami-defeat-vancouver-to-win-first-mls-cup-title?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "What has Germany’s position been on Israel’s genocide in Gaza?",
         "link": "https://www.aljazeera.com/news/2025/12/7/what-has-germanys-position-been-on-israels-genocide-in-gaza?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
-      },
-      {
-        "title": "Hope, flags, fireworks as Syria starts to celebrate a year without al-Assad",
-        "link": "https://www.aljazeera.com/news/2025/12/7/hope-flags-fireworks-as-syria-starts-to-celebrate-a-year-without-al-assad?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1959683/rupee-to-break-rs280-barrier-against-dollar"
       },
       {
+        "title": "Security forces kill 12 terrorists during IBO in Balochistan’s Kalat: ISPR",
+        "link": "https://www.dawn.com/news/1959744/security-forces-kill-12-terrorists-during-ibo-in-balochistans-kalat-ispr"
+      },
+      {
         "title": "Journalists, PTI leader declared absconders",
         "link": "https://www.dawn.com/news/1959603/journalists-pti-leader-declared-absconders"
       },
       {
         "title": "Indonesian president to arrive in Pakistan for 2-day visit",
         "link": "https://www.dawn.com/news/1959742/indonesian-president-to-arrive-in-pakistan-for-2-day-visit"
-      },
-      {
-        "title": "Australia hits Taliban officials with sanctions",
-        "link": "https://www.dawn.com/news/1959698/australia-hits-taliban-officials-with-sanctions"
       }
     ],
     "APNews": [],
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Dwayne Johnson opens about kickstarting acting with 'small cameos'",
+        "link": "https://www.geo.tv/latest/637861-dwayne-johnson-opens-about-kickstarting-acting-with-small-cameos"
+      },
+      {
         "title": "Security forces neutralise 12 India-sponsored in Kalat IBO",
         "link": "https://www.geo.tv/latest/637863-security-forces-neutralise-12-india-sponsored-in-kalat-ibo"
       },
@@ -157,10 +155,6 @@
       {
         "title": "Daniel Radcliffe names Broadway play he thinks Harry, Draco will star in",
         "link": "https://www.geo.tv/latest/637840-daniel-radcliffe-names-broadway-play-he-thinks-harry-draco-will-star-in"
-      },
-      {
-        "title": "PTI leaders admit 'Imran's X posts against military sparked ISPR's strong response'",
-        "link": "https://www.geo.tv/latest/637853-pti-leaders-admit-imrans-x-posts-against-military-sparked-isprs-strong-response"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-07 07:45 UTC"
+  "last_updated": "2025-12-07 07:55 UTC"
 }
