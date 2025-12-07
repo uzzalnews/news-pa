@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Real Madrid vs Celta Vigo – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/7/live-real-madrid-vs-celta-vigo-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,7 +17,7 @@
         "link": "https://www.bbc.com/sport/formula1/articles/c8xdp1yw90qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Man arrested after people sprayed with pepper spray at Heathrow",
+        "title": "Child among those treated after pepper spray used in Heathrow robbery",
         "link": "https://www.bbc.com/news/articles/c0q5l77qjd8o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Real Madrid vs Celta Vigo – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/7/live-real-madrid-vs-celta-vigo-la-liga?traffic_source=rss"
+      },
+      {
+        "title": "The Road to Damascus",
+        "link": "https://www.aljazeera.com/video/featured-documentaries/2025/12/7/the-road-to-damascus-2?traffic_source=rss"
+      },
+      {
         "title": "Abu Shabab’s death signals the inevitable failure of Israel’s plan for Gaza",
         "link": "https://www.aljazeera.com/opinions/2025/12/7/abu-shababs-death-signals-the-inevitable-failure-of-israels-plan-for-gaza?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "The fragile fight for justice in a post-Assad Syria",
         "link": "https://www.aljazeera.com/news/2025/12/7/the-fragile-fight-for-justice-in-a-post-assad-syria?traffic_source=rss"
-      },
-      {
-        "title": "Muslim scholar says staying vocal about Gaza matters amid Israeli assaults",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/7/muslim-scholar-says-staying-vocal-about-gaza-matters-amid-israeli-assaults?traffic_source=rss"
-      },
-      {
-        "title": "Germany’s Merz meets Netanyahu under shadow of Israel’s war on Gaza",
-        "link": "https://www.aljazeera.com/news/2025/12/7/germanys-merz-meets-netanyahu-under-shadow-of-israels-war-on-gaza?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1959752/45-arrested-as-citizens-clash-with-police-during-sindh-culture-day-rally"
       },
       {
+        "title": "PTI says attempts to malign Imran will only increase his popularity",
+        "link": "https://www.dawn.com/news/1959755/pti-says-attempts-to-malign-imran-will-only-increase-his-popularity"
+      },
+      {
         "title": "FO rejects Indian foreign minister’s ‘inflammatory, misleading’ remarks about Pakistan’s armed forces",
         "link": "https://www.dawn.com/news/1959748/fo-rejects-indian-foreign-ministers-inflammatory-misleading-remarks-about-pakistans-armed-forces"
       },
       {
         "title": "Equipment, weapons left behind by US in Afghanistan now form core of Taliban’s security apparatus: watchdog",
         "link": "https://www.dawn.com/news/1959738/equipment-weapons-left-behind-by-us-in-afghanistan-now-form-core-of-talibans-security-apparatus-watchdog"
-      },
-      {
-        "title": "Tearful Norris takes F1 title as Verstappen wins Abu Dhabi race",
-        "link": "https://www.dawn.com/news/1959753/tearful-norris-takes-f1-title-as-verstappen-wins-abu-dhabi-race"
       }
     ],
     "APNews": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Netanyahu says he will not quit politics if he receives a pardon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-he-will-not-quit-politics-if-he-receives-pardon"
+      },
+      {
         "title": "Trump UN envoy Waltz, EU's Kallas in Jordan to discuss Gaza aid",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-un-envoy-waltz-eus-kallas-jordan-discuss-gaza-aid"
       },
@@ -129,13 +139,13 @@
       {
         "title": "South Africa cancels Palestinian visa waiver, citing Israeli ‘emigration’ efforts",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/south-africa-cancels-palestinian-visa-waiver-citing-israeli-emigration"
-      },
-      {
-        "title": "Gaza death toll update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-update"
       }
     ],
     "GeoTV": [
+      {
+        "title": "WhatsApp working to roll out chat history feature for new group members",
+        "link": "https://www.geo.tv/latest/637956-whatsapp-working-to-roll-out-chat-history-feature-for-new-group-members"
+      },
       {
         "title": "'Not our fault': KP CM rejects blame over security lapses, urges policy reform",
         "link": "https://www.geo.tv/latest/637954-not-our-fault-kp-cm-rejects-blame-over-security-lapses-urges-policy-reform"
@@ -151,10 +161,6 @@
       {
         "title": "Benny Blanco celebrates The Marias latest milestone with touching speech",
         "link": "https://www.geo.tv/latest/637947-benny-blanco-celebrates-the-marias-latest-milestone-with-touching-speech"
-      },
-      {
-        "title": "Queen Camilla passes her crown to new woman for first time in history",
-        "link": "https://www.geo.tv/latest/637946-queen-camilla-passes-her-crown-to-new-woman-for-first-time-in-history"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-07 16:52 UTC"
+  "last_updated": "2025-12-07 17:10 UTC"
 }
