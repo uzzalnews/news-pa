@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,15 +21,23 @@
         "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Salah says he has been 'thrown under the bus' by Liverpool",
-        "link": "https://www.bbc.com/sport/football/articles/cze8rnx4g7go?at_medium=RSS&at_campaign=rss"
+        "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude",
+        "link": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Can you ban kids from social media? Australia is about to, but some teens are a step ahead",
-        "link": "https://www.bbc.com/news/articles/crk7xgzj8y8o?at_medium=RSS&at_campaign=rss"
+        "title": "Salah says he has been 'thrown under the bus' by Liverpool",
+        "link": "https://www.bbc.com/sport/football/articles/cze8rnx4g7go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at ‘critical moment’",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/7/live-israel-targets-gaza-as-mediators-warn-ceasefire-at-critical-moment?traffic_source=rss"
+      },
+      {
+        "title": "Hope, flags, fireworks as Syria starts to celebrate a year without al-Assad",
+        "link": "https://www.aljazeera.com/news/2025/12/7/hope-flags-fireworks-as-syria-starts-to-celebrate-a-year-without-al-assad?traffic_source=rss"
+      },
       {
         "title": "Hong Kong votes in ‘patriots only’ polls amid anger over deadly fire",
         "link": "https://www.aljazeera.com/news/2025/12/7/hong-kong-votes-in-patriots-only-polls-amid-anger-over-deadly-fire?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Japan accuses Chinese jets of directing fire-control radar at its aircraft",
         "link": "https://www.aljazeera.com/news/2025/12/7/japan-accuses-chinese-jets-of-directing-fire-control-radar-at-its-aircraft?traffic_source=rss"
-      },
-      {
-        "title": "Bodies of 17 people found in boat off of Greece’s Crete",
-        "link": "https://www.aljazeera.com/news/2025/12/7/seventeen-people-found-dead-in-boat-off-of-greeces-crete?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,382",
-        "link": "https://www.aljazeera.com/news/2025/12/7/russia-ukraine-war-list-of-key-events-day-1382?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,6 +143,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Dua Lipa officially wraps up Radical Optimism tour after 92 shows",
+        "link": "https://www.geo.tv/latest/637846-dua-lipa-officially-wraps-up-radical-optimism-tour-after-92-shows"
+      },
+      {
+        "title": "John Cena's opponent revealed for retirement match at SNME",
+        "link": "https://www.geo.tv/latest/637841-john-cenas-retirement-match-at-snme-gets-confirmed-opponent"
+      },
+      {
         "title": "An open manhole",
         "link": "https://www.geo.tv/latest/637839-an-open-manhole"
       },
@@ -147,36 +161,28 @@
       {
         "title": "King Charles, Queen Camilla release 2025 Christmas Card with heartwarming message",
         "link": "https://www.geo.tv/latest/637838-king-charles-queen-camilla-celebrate-20-years-of-love-with-heartwarming-christmas-card"
-      },
-      {
-        "title": "Trump's Pentagon chief under fire amid mounting scandals",
-        "link": "https://www.geo.tv/latest/637837-trumps-pentagon-chief-under-fire-amid-mounting-scandals"
-      },
-      {
-        "title": "Taylor Swift slammed for copying Kim Kardashian in wedding preparations",
-        "link": "https://www.geo.tv/latest/637836-taylor-swift-slammed-for-copying-kim-kardashian-in-wedding-preparations"
       }
     ],
     "NDTV": [
-      {
-        "title": "Narrow Exit, Palm Leaves, Big DJ Night: The Making Of Goa Nightclub Inferno",
-        "link": "https://www.ndtv.com/india-news/goa-nightclub-fire-birch-by-romeo-lane-arpora-narrow-exit-palm-leaves-big-dj-night-the-making-of-goa-nightclub-inferno-9765339#publisher=newsstand"
-      },
-      {
-        "title": "Indian Student, 24, Dies In House Fire In New York",
-        "link": "https://www.ndtv.com/world-news/new-york-house-fire-sahaja-reddy-udumala-indian-student-24-dies-in-house-fire-in-new-york-9765222#publisher=newsstand"
-      },
       {
         "title": "Tourists Among 25 Killed In Massive Fire At Goa Club",
         "link": "https://www.ndtv.com/india-news/several-killed-in-goa-club-fire-gas-cylinder-explosion-suspected-9764853#publisher=newsstand"
       },
       {
-        "title": "Goa Nightclub Fire Updates: 4 Tourists, 14 Staff Among Dead, Confirm Cops",
-        "link": "https://www.ndtv.com/india-news/birch-by-romeo-lane-goa-fire-live-updates-tourists-among-25-killed-in-arpora-pm-narendra-modi-droupadi-murmu-pramod-sawant-9765060#publisher=newsstand"
+        "title": "Village In Bastar, Once A Maoist Den, Gets Mobile Network For First Time",
+        "link": "https://www.ndtv.com/india-news/village-in-bastar-once-a-maoist-den-gets-mobile-network-for-first-time-9765522#publisher=newsstand"
       },
       {
-        "title": "War-Torn Chernobyl Nuclear Plant's Protective Shield Damaged: UN Agency",
-        "link": "https://www.ndtv.com/world-news/war-torn-chernobyl-nuclear-plants-protective-shield-damaged-un-agency-international-atomic-energy-agency-9765215#publisher=newsstand"
+        "title": "Narrow Exit, Palm Leaves, Big DJ Night: What Led To Goa Nightclub Inferno",
+        "link": "https://www.ndtv.com/india-news/goa-nightclub-fire-birch-by-romeo-lane-arpora-narrow-exit-palm-leaves-big-dj-night-the-making-of-goa-nightclub-inferno-9765339#publisher=newsstand"
+      },
+      {
+        "title": "Which Are India's Top 10 Polluted Cities? UP Accounts For 6 On The List",
+        "link": "https://www.ndtv.com/ghaziabad-news/ghaziabad-tops-list-of-most-polluted-cities-in-india-in-november-centre-for-research-on-energy-and-clean-air-report-9765077#publisher=newsstand"
+      },
+      {
+        "title": "Navjot Singh Sidhu To Return To Active Politics? What His Wife Said",
+        "link": "https://www.ndtv.com/india-news/navjot-singh-sidhu-to-return-to-active-politics-what-his-wife-said-9765436#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-07 05:51 UTC"
+  "last_updated": "2025-12-07 06:17 UTC"
 }
