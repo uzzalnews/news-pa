@@ -25,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Waymo runs into safety concerns and competition as it expands in the US",
+        "link": "https://www.aljazeera.com/economy/2025/12/8/waymo-runs-into-safety-concerns-and-competition-as-it-expands-in-the-us?traffic_source=rss"
+      },
+      {
+        "title": "Honduran election authorities resume vote tallies amid allegations of fraud",
+        "link": "https://www.aljazeera.com/news/2025/12/8/honduran-election-authorities-resume-vote-tallies-amid-allegations-of-fraud?traffic_source=rss"
+      },
+      {
         "title": "Acting US Attorney Alina Habba resigns New Jersey post amid controversy",
         "link": "https://www.aljazeera.com/news/2025/12/8/acting-us-attorney-alina-habba-resigns-new-jersey-post-amid-controversy?traffic_source=rss"
       },
@@ -35,14 +43,6 @@
       {
         "title": "Dozens of bodies hastily buried at al-Shifa Hospital moved to graveyards",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dozens-of-bodies-hastily-buried-at-al-shifa-hospital-moved-to-graveyards?traffic_source=rss"
-      },
-      {
-        "title": "Trump announces $12bn package to aid farmers hurt by his tariffs",
-        "link": "https://www.aljazeera.com/news/2025/12/8/trump-announces-12bn-package-to-aid-farmers-hurt-by-his-tariffs?traffic_source=rss"
-      },
-      {
-        "title": "‘Dangerous precedent’: UN condemns Israeli raid on UNRWA",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/8/dangerous-precedent-un-condemns-israeli-raid-on-unrwa?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,8 +82,8 @@
         "link": "https://www.dawn.com/news/1959936/punjab-transporters-call-off-wheel-jam-strike-after-talks-with-provincial-govt-acceptance-of-demands"
       },
       {
-        "title": "PSCA lodges complaint after website cloned, citizens duped into paying fake e-challan fines",
-        "link": "https://www.dawn.com/news/1959949/psca-lodges-complaint-after-website-cloned-citizens-duped-into-paying-fake-e-challan-fines"
+        "title": "Punjab Safe Cities Authority seeks cybercrime help after attempts to defraud citizens with fake traffic fines",
+        "link": "https://www.dawn.com/news/1959949/punjab-safe-cities-authority-seeks-cybercrime-help-after-attempts-to-defraud-citizens-with-fake-traffic-fines"
       },
       {
         "title": "Saudi Arabia, Qatar sign high-speed rail deal to link capitals",
@@ -93,27 +93,31 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Supreme Court Seems Poised to Give Trump More Power to Fire Independent Officials",
-        "link": "https://www.nytimes.com/2025/12/08/us/politics/supreme-court-trump-presidential-power.html"
-      },
-      {
-        "title": "Who Is Andrew Ferguson, the FTC Chairman Who Tilted the Agency to Trump?",
-        "link": "https://www.nytimes.com/2025/12/08/technology/ftc-andrew-ferguson-regulator.html"
-      },
-      {
-        "title": "Planes, Trade and Nuclear Energy: Supreme Court Weighs Fate of Independent Regulators",
-        "link": "https://www.nytimes.com/2025/12/08/business/supreme-court-independent-regulators.html"
+        "title": "A Frustrated Congress Pushes the Pentagon to Produce Its Boat Strike Orders",
+        "link": "https://www.nytimes.com/2025/12/08/us/politics/defense-bill-congress-boat-strikes.html"
       },
       {
         "title": "Trump Plans $12 Billion Bailout to Aid Farmers Hit by Tariffs",
         "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-farmers-aid-bailout.html"
       },
       {
-        "title": "Obamacare Users Will Be Asked to Pay More for Plans That Cover Less",
-        "link": "https://www.nytimes.com/2025/12/08/health/obamacare-deductibles-premiums-health-insurance.html"
+        "title": "FBI Agents Sue Patel After Being Fired Over Kneeling at George Floyd Protest",
+        "link": "https://www.nytimes.com/2025/12/08/us/politics/kash-patel-fbi-lawsuit-george-floyd-protest.html"
+      },
+      {
+        "title": "Supreme Court Seems Poised to Give Trump More Power to Fire Independent Officials",
+        "link": "https://www.nytimes.com/2025/12/08/us/politics/supreme-court-trump-presidential-power.html"
+      },
+      {
+        "title": "Who Is Andrew Ferguson, the FTC Chairman Who Tilted the Agency to Trump?",
+        "link": "https://www.nytimes.com/2025/12/08/technology/ftc-andrew-ferguson-regulator.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israel conducting surveillance of US and allies at southern command centre: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-conducting-surveillance-us-and-allies-southern-command-centre"
+      },
       {
         "title": "Israel conducting surveillance of US and allies at southern command centre: Report",
         "link": "https://www.middleeasteye.net/news/israel-carrying-out-surveillance-joint-us-and-allies-command-center-south-country-report"
@@ -129,13 +133,17 @@
       {
         "title": "Unrwa chief denounces Israeli police's seizure of agency's Jerusalem assets",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/unrwa-chief-denounces-israeli-polices-seizure-agencys-jerusalem-assets"
-      },
-      {
-        "title": "Trump wants Egypt's Sisi in US when Netanyahu visits during Christmas: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-wants-egypts-sisi-us-when-netanyahu-visits-during-christmas-report"
       }
     ],
     "GeoTV": [
+      {
+        "title": "PML-N hasn't sidelined Nawaz Sharif, says Aqeel Malik",
+        "link": "https://www.geo.tv/latest/638224-pml-n-hasnt-sidelined-nawaz-sharif-says-aqeel-malik"
+      },
+      {
+        "title": "Bradley Cooper teases working on ‘burning' project",
+        "link": "https://www.geo.tv/latest/638218-bradley-cooper-teases-working-on-burning-project"
+      },
       {
         "title": "Prince Harry slowly turning public tide toward him in UK",
         "link": "https://www.geo.tv/latest/638216-prince-harry-slowly-turning-public-tide-toward-him-in-uk"
@@ -147,14 +155,6 @@
       {
         "title": "Two Afghan teenagers jailed for raping girl in England",
         "link": "https://www.geo.tv/latest/638212-two-afghan-teenagers-jailed-for-raping-girl-in-england"
-      },
-      {
-        "title": "Cardi B gets new piercings: ‘Loving the vibe'",
-        "link": "https://www.geo.tv/latest/638211-cardi-b-gets-new-piercings-by-new-york-based-piercer-loving-the-vibe"
-      },
-      {
-        "title": "New USEFP building symbolises 'spirit of collaboration' in Pak-US educational ties: minister",
-        "link": "https://www.geo.tv/latest/638209-new-usefp-building-symbolises-spirit-of-collaboration-in-pak-us-educational-ties-minister"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-08 21:59 UTC"
+  "last_updated": "2025-12-08 22:28 UTC"
 }
