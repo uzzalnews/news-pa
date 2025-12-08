@@ -1,6 +1,11 @@
 {
   "breaking": [
     {
+      "source": "AlJazeera",
+      "title": "LIVE: Syria marks one year since fall of Bashar al-Assad",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/8/live-syria-marks-one-year-since-fall-of-bashar-al-assad?traffic_source=rss"
+    },
+    {
       "source": "NYTimes",
       "title": "Trump Hosts the Kennedy Center Honors, Breaking Tradition",
       "link": "https://www.nytimes.com/2025/12/07/us/politics/trump-kennedy-center-honors.html"
@@ -31,6 +36,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Syria marks one year since fall of Bashar al-Assad",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/8/live-syria-marks-one-year-since-fall-of-bashar-al-assad?traffic_source=rss"
+      },
+      {
         "title": "WFP says six million starving in Sudan",
         "link": "https://www.aljazeera.com/video/quotable/2025/12/8/wfp-says-six-million-starving-in-sudan?traffic_source=rss"
       },
@@ -45,10 +54,6 @@
       {
         "title": "US lawmakers urge release of video of double-tap boat strike in Caribbean",
         "link": "https://www.aljazeera.com/news/2025/12/8/us-lawmakers-urge-release-of-video-of-double-tap-boat-strike-in-caribbean?traffic_source=rss"
-      },
-      {
-        "title": "Nigeria says it deployed troops to Benin to ‘dislodge coup plotters’",
-        "link": "https://www.aljazeera.com/news/2025/12/8/nigeria-says-it-deployed-troops-to-benin-to-dislodge-coup-plotters?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,20 +85,20 @@
         "link": "https://www.dawn.com/news/1959878/centres-own-spending-rises-amid-austerity-restructuring"
       },
       {
-        "title": "PTI stays defiant despite flak from all sides",
-        "link": "https://www.dawn.com/news/1959879/pti-stays-defiant-despite-flak-from-all-sides"
+        "title": "Case registered under terrorism charges after participants of Sindh Culture Day rally clash with police in Karachi",
+        "link": "https://www.dawn.com/news/1959919/case-registered-under-terrorism-charges-after-participants-of-sindh-culture-day-rally-clash-with-police-in-karachi"
       },
       {
-        "title": "PTI’s future assessed at Jati Umra huddle",
-        "link": "https://www.dawn.com/news/1959872/ptis-future-assessed-at-jati-umra-huddle"
+        "title": "PTI stays defiant despite flak from all sides",
+        "link": "https://www.dawn.com/news/1959879/pti-stays-defiant-despite-flak-from-all-sides"
       },
       {
         "title": "Thailand launches air strikes at Cambodia as border tensions reignite",
         "link": "https://www.dawn.com/news/1959916/thailand-launches-air-strikes-at-cambodia-as-border-tensions-reignite"
       },
       {
-        "title": "India’s ‘new normal’ doctrine destabilises nuclear South Asia: CISS",
-        "link": "https://www.dawn.com/news/1959873/indias-new-normal-doctrine-destabilises-nuclear-south-asia-ciss"
+        "title": "PTI’s future assessed at Jati Umra huddle",
+        "link": "https://www.dawn.com/news/1959872/ptis-future-assessed-at-jati-umra-huddle"
       }
     ],
     "APNews": [],
@@ -121,6 +126,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Morning recap",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-126"
+      },
+      {
         "title": "Evening recap",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-581"
       },
@@ -135,10 +144,6 @@
       {
         "title": "Israeli fire injures Palestinian child in West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-boy-injured-israeli-fire-west-bank"
-      },
-      {
-        "title": "Israeli military says its forces shot dead Palestinian in occupied West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-its-forces-shot-dead-palestinian-occupied-west"
       }
     ],
     "GeoTV": [
@@ -208,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-08 05:32 UTC"
+  "last_updated": "2025-12-08 05:49 UTC"
 }
