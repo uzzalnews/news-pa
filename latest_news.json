@@ -1,11 +1,6 @@
 {
   "breaking": [
     {
-      "source": "AlJazeera",
-      "title": "LIVE: Syria marks one year since fall of Bashar al-Assad",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/8/live-syria-marks-one-year-since-fall-of-bashar-al-assad?traffic_source=rss"
-    },
-    {
       "source": "NYTimes",
       "title": "Trump Hosts the Kennedy Center Honors, Breaking Tradition",
       "link": "https://www.nytimes.com/2025/12/07/us/politics/trump-kennedy-center-honors.html"
@@ -23,6 +18,10 @@
         "link": "https://www.bbc.com/news/articles/c2ep33m2m0yo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Royal Navy unveils new Atlantic strategy to counter Russian threat",
+        "link": "https://www.bbc.com/news/articles/c3d01nxg0y0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Jeremy Bowen: Syria feels lighter without the Assads' crushing weight - but now there are new problems",
         "link": "https://www.bbc.com/news/articles/cy7v53366ejo?at_medium=RSS&at_campaign=rss"
       },
@@ -31,17 +30,21 @@
         "link": "https://www.bbc.com/sport/formula1/articles/c3v136dv03po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Royal Navy unveils new Atlantic strategy to counter Russian threat",
-        "link": "https://www.bbc.com/news/articles/c3d01nxg0y0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "I'm A Celebrity 2025 winner crowned in series final",
         "link": "https://www.bbc.com/news/articles/ceq17gne2j3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Humza Yusaf says Israel deliberately destroyed Gaza’s education system",
+        "title": "How many Syrians have returned home one year since the fall of al-Assad?",
+        "link": "https://www.aljazeera.com/news/2025/12/8/how-many-syrians-have-returned-home-one-year-since-the-fall-of-al-assad?traffic_source=rss"
+      },
+      {
+        "title": "UN faces ‘brutal choices’ as it launches 2026 aid appeal",
+        "link": "https://www.aljazeera.com/news/2025/12/8/overstretched-under-attack-un-cuts-2026-aid-appeal-despite-great-need?traffic_source=rss"
+      },
+      {
+        "title": "Humza Yousaf says Israel deliberately destroyed Gaza’s education system",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/8/humza-yusaf-says-israel-deliberately-destroyed-gazas-education-system?traffic_source=rss"
       },
       {
@@ -51,14 +54,6 @@
       {
         "title": "Are Israel, Hamas entering the second phase of the ceasefire?",
         "link": "https://www.aljazeera.com/news/2025/12/8/are-israel-hamas-entering-the-second-phase-of-the-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Syria marks one year since fall of Bashar al-Assad",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/8/live-syria-marks-one-year-since-fall-of-bashar-al-assad?traffic_source=rss"
-      },
-      {
-        "title": "WFP says six million starving in Sudan",
-        "link": "https://www.aljazeera.com/video/quotable/2025/12/8/wfp-says-six-million-starving-in-sudan?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -153,6 +148,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Indonesia celebrates birth of first locally-born giant panda cub 'Satrio Wiratama'",
+        "link": "https://www.geo.tv/latest/638064-indonesia-celebrates-birth-of-first-locally-born-giant-panda-cub-satrio-wiratama"
+      },
+      {
+        "title": "Trump casts doubt on Netflix-Warner Merger citing it ‘could be a problem'",
+        "link": "https://www.geo.tv/latest/638063-trump-casts-doubt-on-netflix-warner-merger-citing-it-could-be-a-problem"
+      },
+      {
         "title": "Kate Winslet lashes out at actors obsessing over 'cosmetic surgeries'",
         "link": "https://www.geo.tv/latest/638059-kate-winslet-lashes-out-at-actors-obsessing-over-cosmetic-surgeries"
       },
@@ -163,14 +166,6 @@
       {
         "title": "Prince William, Kate Middleton take major U-turn for Prince George",
         "link": "https://www.geo.tv/latest/638060-prince-william-kate-middleton-take-major-u-turn-for-prince-george"
-      },
-      {
-        "title": "Katy Perry, Justin Trudeau hard launch sparks comparison with Orlando Bloom",
-        "link": "https://www.geo.tv/latest/638043-katy-perry-justin-trudeau-hard-launch-sparks-comparison-with-orlando-bloom"
-      },
-      {
-        "title": "IndiGo meltdown: How pilot shortage brought India's skies to a halt",
-        "link": "https://www.geo.tv/latest/638053-indigo-meltdown-how-pilot-shortage-brought-indias-skies-to-a-halt"
       }
     ],
     "NDTV": [
@@ -218,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-08 07:37 UTC"
+  "last_updated": "2025-12-08 07:50 UTC"
 }
