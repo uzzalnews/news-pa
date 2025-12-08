@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Parliament Winter Session Day 6 LIVE Updates: Parliament Sets Stage For Vande Mataram Debate, PM Modi, Top Ministers To Speak",
+      "link": "https://www.ndtv.com/india-news/parliament-winter-session-day-6-live-updates-stage-set-for-vande-mataram-debate-pm-narendra-modi-rajnath-singh-congress-priyanka-gandhi-gaurav-gogoi-9769142#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,23 @@
         "link": "https://www.bbc.com/news/articles/c0q5l77qjd8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "I'm A Celebrity 2025 winner crowned in series final",
-        "link": "https://www.bbc.com/news/articles/ceq17gne2j3o?at_medium=RSS&at_campaign=rss"
+        "title": "Water leak in Louvre damages hundreds of books",
+        "link": "https://www.bbc.com/news/articles/c2dzjk9d825o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Nigeria secures release of 100 kidnapped children, reports say",
+        "link": "https://www.aljazeera.com/news/2025/12/8/nigeria-secures-release-of-100-kidnapped-children-reports-say?traffic_source=rss"
+      },
+      {
+        "title": "US lawmakers urge release of video of double-tap boat strike in Caribbean",
+        "link": "https://www.aljazeera.com/news/2025/12/8/us-lawmakers-urge-release-of-video-of-double-tap-boat-strike-in-caribbean?traffic_source=rss"
+      },
+      {
+        "title": "Nigeria says it deployed troops to Benin to ‘dislodge coup plotters’",
+        "link": "https://www.aljazeera.com/news/2025/12/8/nigeria-says-it-deployed-troops-to-benin-to-dislodge-coup-plotters?traffic_source=rss"
+      },
       {
         "title": "Thailand launches air raids along Cambodia border after deadly clashes",
         "link": "https://www.aljazeera.com/news/2025/12/8/thailand-launches-air-raids-along-border-with-cambodia-after-deadly-clashes?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Russia-Ukraine war: List of key events, day 1,383",
         "link": "https://www.aljazeera.com/news/2025/12/8/russia-ukraine-war-list-of-key-events-day-1383?traffic_source=rss"
-      },
-      {
-        "title": "Celta Vigo earn shock 2-0 win at the Bernabeu as Real Madrid implode",
-        "link": "https://www.aljazeera.com/sports/2025/12/7/real-madrid-implode-as-celta-vigo-earn-shock-2-0-win-at-the-bernabeu?traffic_source=rss"
-      },
-      {
-        "title": "Syria: One year after al-Assad",
-        "link": "https://www.aljazeera.com/video/inside-story/2025/12/7/syria-one-year-after-al-assad?traffic_source=rss"
-      },
-      {
-        "title": "Hamas and Israel move towards phase two of US-backed Gaza plan",
-        "link": "https://www.aljazeera.com/news/2025/12/7/hamas-and-israel-move-towards-phase-two-of-us-backed-gaza-plan?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1959879/pti-stays-defiant-despite-flak-from-all-sides"
       },
       {
+        "title": "PTI’s future assessed at Jati Umra huddle",
+        "link": "https://www.dawn.com/news/1959872/ptis-future-assessed-at-jati-umra-huddle"
+      },
+      {
+        "title": "Pakistan ready to work with all states in South Asia to boost trade, says Zardari",
+        "link": "https://www.dawn.com/news/1959869/pakistan-ready-to-work-with-all-states-in-south-asia-to-boost-trade-says-zardari"
+      },
+      {
         "title": "Ex-servicemen condemn organised campaign against military, CDF",
         "link": "https://www.dawn.com/news/1959870/ex-servicemen-condemn-organised-campaign-against-military-cdf"
-      },
-      {
-        "title": "YouTuber Ducky Bhai alleges physical, verbal abuse while in NCCIA custody",
-        "link": "https://www.dawn.com/news/1959761/youtuber-ducky-bhai-alleges-physical-verbal-abuse-while-in-nccia-custody"
-      },
-      {
-        "title": "Bulk of NAB recoveries in form of assets, land",
-        "link": "https://www.dawn.com/news/1959875/bulk-of-nab-recoveries-in-form-of-assets-land"
       }
     ],
     "APNews": [],
@@ -137,6 +143,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Thailand launches air strikes against Cambodian military: army",
+        "link": "https://www.geo.tv/latest/638025-thailand-launches-air-strikes-against-cambodian-military-army"
+      },
+      {
+        "title": "Taylor Swift makes special appearance at Chiefs game with Selena Gomez",
+        "link": "https://www.geo.tv/latest/638022-taylor-swift-makes-special-appearance-at-chiefs-game-with-selena-gomez"
+      },
+      {
         "title": "Billy Ray Cyrus blasts bizarre motherhood claims by woman",
         "link": "https://www.geo.tv/latest/638021-billy-ray-cyrus-blasts-bizarre-motherhood-claims-by-woman"
       },
@@ -147,36 +161,28 @@
       {
         "title": "Zelenskiy says Ukraine's peace talks with US constructive but not easy",
         "link": "https://www.geo.tv/latest/638018-zelenskiy-says-ukraines-peace-talks-with-us-constructive-but-not-easy"
-      },
-      {
-        "title": "Transporters observe wheel-jam strike in Punjab against heavy fines",
-        "link": "https://www.geo.tv/latest/638012-transporters-observe-wheel-jam-strike-in-punjab-against-heavy-fines"
-      },
-      {
-        "title": "Melissa McCarthy hosts ‘Saturday Night Live' 6th time",
-        "link": "https://www.geo.tv/latest/638013-melissa-mccarthy-hosts-saturday-night-live-6th-time"
       }
     ],
     "NDTV": [
       {
-        "title": "Telangana To Name Hyderabad Road After Donald Trump, BJP Reacts",
-        "link": "https://www.ndtv.com/india-news/donald-trump-avenue-in-hyderabad-bid-to-draw-global-eye-ahead-of-telangana-rising-9767893#publisher=newsstand"
+        "title": "New Video Shows Moment When Massive Fire Broke Out At Goa Nightclub, Killing 25",
+        "link": "https://www.ndtv.com/india-news/birch-by-romeo-lane-nightclub-fire-video-new-video-shows-fire-breaking-out-at-goa-nightclub-9769237#publisher=newsstand"
+      },
+      {
+        "title": "Terror Hideout Busted In J&K's Forest Area, Rifle, 22 Live Bullets Found",
+        "link": "https://www.ndtv.com/india-news/terror-hideout-busted-in-jammu-and-kashmirs-forest-area-rifle-22-live-bullets-found-9769029#publisher=newsstand"
       },
       {
         "title": "Thai Soldier Killed, Many Injured As New Clashes Break Out On Cambodia Border",
         "link": "https://www.ndtv.com/world-news/thai-soldier-killed-many-injured-as-new-clashes-break-out-on-cambodia-border-9769084#publisher=newsstand"
       },
       {
-        "title": "PM Modi To Initiate Debate On 150-Year-Old 'Vande Mataram' In Lok Sabha Today",
-        "link": "https://www.ndtv.com/india-news/pm-modi-to-initiate-debate-on-150-year-old-vande-mataram-in-lok-sabha-today-9769000#publisher=newsstand"
+        "title": "Probe Agency ED Seeks Case Against Tamil Nadu Minister In Rs 1,020 Crore Case",
+        "link": "https://www.ndtv.com/tamil-nadu-news/enforcement-director-seeks-case-against-tamil-nadu-minister-in-rs-1-020-crore-case-9769174#publisher=newsstand"
       },
       {
-        "title": "\"Could Be A Problem\": Trump Threatens Netflix's $83 Billion Warner Bros Bid",
-        "link": "https://www.ndtv.com/world-news/could-be-a-problem-us-president-donald-trump-threatens-netflixs-83-billion-warner-bros-bid-9769053#publisher=newsstand"
-      },
-      {
-        "title": "India Opens New Consulate Building In Shanghai After 32 Years",
-        "link": "https://www.ndtv.com/india-news/india-inaugurates-new-state-of-the-art-consulate-building-in-shanghai-9766590#publisher=newsstand"
+        "title": "Parliament Winter Session Day 6 LIVE Updates: Parliament Sets Stage For Vande Mataram Debate, PM Modi, Top Ministers To Speak",
+        "link": "https://www.ndtv.com/india-news/parliament-winter-session-day-6-live-updates-stage-set-for-vande-mataram-debate-pm-narendra-modi-rajnath-singh-congress-priyanka-gandhi-gaurav-gogoi-9769142#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-08 03:10 UTC"
+  "last_updated": "2025-12-08 04:03 UTC"
 }
