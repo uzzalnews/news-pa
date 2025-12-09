@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Inter Milan vs Liverpool – UEFA Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/9/live-inter-milan-vs-liverpool-uefa-champions-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -21,15 +15,27 @@
         "link": "https://www.bbc.com/news/articles/cx2g05g3r7xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Member of UK armed forces dies in accident in Ukraine",
-        "link": "https://www.bbc.com/news/articles/c3e07kxey74o?at_medium=RSS&at_campaign=rss"
+        "title": "MI5 under increased scrutiny amid growing distrust",
+        "link": "https://www.bbc.com/news/articles/cy5g0d64k0qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "TV faithful Claudia Winkleman made MBE by King at Windsor Castle",
-        "link": "https://www.bbc.com/news/articles/cx2g0117qgpo?at_medium=RSS&at_campaign=rss"
+        "title": "Member of UK armed forces dies in accident in Ukraine",
+        "link": "https://www.bbc.com/news/articles/c3e07kxey74o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Sudan militia leader sentenced to 20 years for war crimes by ICC",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/9/sudan-militia-leader-sentenced-to-20-years-for-war-crimes-by-icc?traffic_source=rss"
+      },
+      {
+        "title": "Nobel Institute calls off Machado press conference ahead of award ceremony",
+        "link": "https://www.aljazeera.com/news/2025/12/9/nobel-institute-calls-off-machado-press-conference-ahead-of-award-ceremony?traffic_source=rss"
+      },
+      {
+        "title": "Real Madrid vs Man City: Champions League preview – teams, start, lineups",
+        "link": "https://www.aljazeera.com/sports/2025/12/9/real-madrid-vs-man-city-champions-league-preview-teams-start-lineups?traffic_source=rss"
+      },
       {
         "title": "US judge approves bid to unseal Epstein grand jury documents",
         "link": "https://www.aljazeera.com/news/2025/12/9/us-judge-approves-bid-to-unseal-epstein-grand-jury-documents?traffic_source=rss"
@@ -37,18 +43,6 @@
       {
         "title": "Tony Blair ruled out of Trump’s proposed Gaza ‘peace board’: Report",
         "link": "https://www.aljazeera.com/news/2025/12/9/tony-blair-ruled-out-of-trumps-proposed-gaza-peace-board-report?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Inter Milan vs Liverpool – UEFA Champions League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/9/live-inter-milan-vs-liverpool-uefa-champions-league?traffic_source=rss"
-      },
-      {
-        "title": "UK’s MI5 protected IRA agent who committed murders, police report finds",
-        "link": "https://www.aljazeera.com/news/2025/12/9/uks-mi5-protected-ira-agent-who-committed-murders-police-report-finds?traffic_source=rss"
-      },
-      {
-        "title": "‘They broke his neck’: Families of Syria’s disappeared still seek closure",
-        "link": "https://www.aljazeera.com/features/longform/2025/12/9/they-broke-his-neck-families-of-syrias-disappeared-still-seek-closure?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/1960146/bilawal-suggests-allowing-provinces-to-collect-taxes-says-it-will-ease-centres-financial-woes"
       },
       {
-        "title": "Record-breaking Faryal Farooq sets alight National Games",
-        "link": "https://www.dawn.com/news/1960149/record-breaking-faryal-farooq-sets-alight-national-games"
+        "title": "UK court orders YouTuber Adil Raja to publicly apologise to retired military official",
+        "link": "https://www.dawn.com/news/1960150/uk-court-orders-youtuber-adil-raja-to-publicly-apologise-to-retired-military-official"
       }
     ],
     "APNews": [],
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Miley Cyrus reacts to Golden Globe nod for 'Avatar' track 'Dream as One'",
+        "link": "https://www.geo.tv/latest/638434-miley-cyrus-reacts-to-golden-globe-nod-for-avatar-track-dream-as-one"
+      },
+      {
         "title": "Zooey Deschanel returns to Christmas screens with new hit 'Merv'",
         "link": "https://www.geo.tv/latest/638427-zooey-deschanel-returns-to-christmas-screens-with-new-hit-merv"
       },
@@ -157,32 +155,28 @@
       {
         "title": "UAE to standardise Friday sermon and prayer timings from January 2026",
         "link": "https://www.geo.tv/latest/638424-uae-to-standardise-friday-sermon-and-prayer-timings-from-january-2026"
-      },
-      {
-        "title": "Queen Camilla admits she doesn't know 'a lot' about domestic abuse",
-        "link": "https://www.geo.tv/latest/638422-queen-camilla-admits-she-doesnt-know-a-lot-about-domestic-abuse"
       }
     ],
     "NDTV": [
       {
-        "title": "'No Future If A Nation Doesn't Value History': Sadhguru On Vande Mataram Row",
-        "link": "https://www.ndtv.com/india-news/no-future-if-a-nation-doesnt-value-history-sadhguru-on-vande-mataram-row-9781368#publisher=newsstand"
+        "title": "'Shahjehan' Returns: Air India's Boeing 747 Model Greets UNESCO Delegates",
+        "link": "https://www.ndtv.com/india-news/shahjehan-returns-air-indias-boeing-747-model-greets-unesco-delegates-9781669#publisher=newsstand"
       },
       {
-        "title": "Mehul Choksi's Appeal Against India's Extradition Request Rejected By Belgium's Supreme Court",
-        "link": "https://www.ndtv.com/india-news/mehul-choksis-appeal-against-indias-extradition-request-rejected-by-belgiums-supreme-court-9780943#publisher=newsstand"
+        "title": "4 Arrested For Duping Cancer Patient Of Rs 1.3 Lakh In Insurance Fraud In Delhi",
+        "link": "https://www.ndtv.com/india-news/4-arrested-for-duping-cancer-patient-of-rs-1-3-lakh-in-insurance-fraud-in-delhi-9778601#publisher=newsstand"
       },
       {
-        "title": "Death Count In Deadly Hong Kong Fire Rises To 160",
-        "link": "https://www.ndtv.com/world-news/death-count-in-deadly-hong-kong-fire-rises-to-160-9778569#publisher=newsstand"
+        "title": "Zelensky Says Will Send US Revised Plan To End Ukraine War",
+        "link": "https://www.ndtv.com/world-news/zelensky-says-refined-documents-on-peace-plan-will-soon-be-sent-to-us-9780899#publisher=newsstand"
       },
       {
-        "title": "India's 2027 Census To Be All Digital: Pros And Cons",
-        "link": "https://www.ndtv.com/india-news/indias-2027-census-to-be-all-digital-pros-and-cons-9781380#publisher=newsstand"
+        "title": "\"Investments Will Come Soon\": Gautam Adani In Dhanbad",
+        "link": "https://www.ndtv.com/india-news/investments-will-come-soon-gautam-adani-in-dhanbad-9781585#publisher=newsstand"
       },
       {
-        "title": "Caught Husband With Sister-In-Law, He Made Me Have Sanitiser: UP Cop",
-        "link": "https://www.ndtv.com/india-news/caught-husband-with-sister-in-law-he-made-me-have-sanitiser-up-cop-9781353#publisher=newsstand"
+        "title": "What's My Age Again? The Tech Behind Australia's Social Media Ban",
+        "link": "https://www.ndtv.com/world-news/whats-my-age-again-the-tech-behind-australias-social-media-ban-9779471#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-09 19:11 UTC"
+  "last_updated": "2025-12-09 19:26 UTC"
 }
