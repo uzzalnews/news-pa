@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Inter Milan vs Liverpool – UEFA Champions League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/9/live-inter-milan-vs-liverpool-uefa-champions-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +17,31 @@
         "link": "https://www.bbc.com/news/articles/cx2g05g3r7xo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Member of UK Armed Forces dies in accident in Ukraine",
+        "link": "https://www.bbc.com/news/articles/c3e07kxey74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Much of £11bn Covid scheme fraud 'beyond recovery', report finds",
         "link": "https://www.bbc.com/news/articles/c075vjxyx3no?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Grooming gangs inquiry to be led by former children's commissioner Anne Longfield",
         "link": "https://www.bbc.com/news/articles/ckgk2pj2ygko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Some schools disrupted and Covid-like measures brought in amid rise in flu cases",
-        "link": "https://www.bbc.com/news/articles/c0r90xg5wwqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Inter Milan vs Liverpool – UEFA Champions League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/9/live-inter-milan-vs-liverpool-uefa-champions-league?traffic_source=rss"
+      },
+      {
+        "title": "UK’s MI5 protected IRA agent who committed murders, police report finds",
+        "link": "https://www.aljazeera.com/news/2025/12/9/uks-mi5-protected-ira-agent-who-committed-murders-police-report-finds?traffic_source=rss"
+      },
+      {
+        "title": "‘They broke his neck’: Families of Syria’s disappeared still seek closure",
+        "link": "https://www.aljazeera.com/features/longform/2025/12/9/they-broke-his-neck-families-of-syrias-disappeared-still-seek-closure?traffic_source=rss"
+      },
       {
         "title": "Mohamed Salah fans at Arab Cup react to his Liverpool benching",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/9/mohamed-salah-fans-at-arab-cup-react-to-his-liverpool-benching?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Liverpool’s Mohamed Salah a transfer target for Saudi Arabia",
         "link": "https://www.aljazeera.com/sports/2025/12/9/liverpools-mohamed-salah-a-transfer-target-for-saudi-arabia?traffic_source=rss"
-      },
-      {
-        "title": "Israel bids farewell to Thai captive before remains return home",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/9/israel-bids-farewell-to-thai-captive-before-remains-return-home?traffic_source=rss"
-      },
-      {
-        "title": "France’s prime minister faces crunch vote in parliament",
-        "link": "https://www.aljazeera.com/news/2025/12/9/frances-prime-minister-faces-crunch-vote-in-parliament?traffic_source=rss"
-      },
-      {
-        "title": "Deadly fire breaks out in office building in Indonesia’s capital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/9/deadly-fire-breaks-out-in-office-building-in-indonesias-capital?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,27 +99,35 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "As Prices Increase From Tariffs, Trump Administration Goes on the Defensive About Affordability",
-        "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-trade-affordability.html"
+        "title": "Wall Street Is Shaking Off Fears of an A.I. Bubble. For Now.",
+        "link": "https://www.nytimes.com/2025/12/09/business/wall-street-valuation-ai-bubble.html"
       },
       {
-        "title": "Same Product, Same Store, but on Instacart, Prices Might Differ",
-        "link": "https://www.nytimes.com/2025/12/09/business/instacart-algorithmic-pricing.html"
+        "title": "Why the A.I. Boom Is Unlike the Dot-Com Boom",
+        "link": "https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html"
       },
       {
-        "title": "The Business Strategy That Could Drive Up Your Grocery Bill, and Trump’s $12 Billion Bailout",
-        "link": "https://www.nytimes.com/2025/12/09/podcasts/the-headlines/instacart-groceries-trump-bailout-netflix-warner-brothers.html"
+        "title": "Trump Eases Limits on Nvidia Exports to China at ‘Critical Moment’",
+        "link": "https://www.nytimes.com/2025/12/09/business/china-gains-trump-nvidia-chips.html"
       },
       {
-        "title": "Supreme Court Considers Taking Another Ax to Campaign Finance Limits",
-        "link": "https://www.nytimes.com/2025/12/09/us/politics/supreme-court-campaign-finance.html"
+        "title": "Judge Says Ghislaine Maxwell Grand Jury Records Can Be Unsealed, Citing New Epstein Law",
+        "link": "https://www.nytimes.com/2025/12/09/nyregion/ghislaine-maxwell-epstein-grand-jury-unsealed.html"
       },
       {
-        "title": "Supreme Court Struggles With How to Insulate the Federal Reserve From Politics",
-        "link": "https://www.nytimes.com/2025/12/09/us/politics/supreme-court-fed.html"
+        "title": "Judge Suggests Lindsey Halligan, Prosecutor on Comey and James Cases, Should Resign",
+        "link": "https://www.nytimes.com/2025/12/09/us/politics/comey-james-halligan.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Sudan's Heglig: Why the oil field taken by the RSF matters",
+        "link": "https://www.middleeasteye.net/news/sudans-heglig-why-oil-field-taken-rsf-matters"
+      },
+      {
+        "title": "Exclusive: Hamas proposes long-term ceasefire if Israel fully withdraws from Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-hamas-proposes-long-term-ceasefire-if-israel-fully-withdraws"
+      },
       {
         "title": "Hamas proposes long-term ceasefire if Israel fully withdraws from Gaza",
         "link": "https://www.middleeasteye.net/news/hamas-proposes-long-term-ceasefire-if-israel-fully-withdraws-gaza"
@@ -125,17 +139,13 @@
       {
         "title": "Zarah Sultana: Lammy claim he did not know about Palestine Action hunger strikers is a ‘lie’",
         "link": "https://www.middleeasteye.net/news/zarah-sultana-lammys-claim-he-did-not-know-about-palestine-action-hunger-strikers-lie"
-      },
-      {
-        "title": "Pakistan offers to 'take grooming gang leaders' if UK hands over dissidents",
-        "link": "https://www.middleeasteye.net/news/pakistan-offers-take-grooming-gang-leaders-if-uk-hands-over-dissidents"
-      },
-      {
-        "title": "UK to host peacebuilding conference in March for Israel and Palestine",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-host-peacebuilding-conference-march-israel-and-palestine"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince William reacts to huge loss in emotional tribute to conservationist",
+        "link": "https://www.geo.tv/latest/638413-prince-william-reacts-to-huge-loss-in-emotional-tribute-to-conservationist"
+      },
       {
         "title": "Saudi Arabia intent on recruiting Salah in winter transfer window",
         "link": "https://www.geo.tv/latest/638404-saudi-arabia-intent-on-recruiting-salah-in-winter-transfer-window"
@@ -151,32 +161,28 @@
       {
         "title": "Miles Teller reflects on life changing first encounter",
         "link": "https://www.geo.tv/latest/638400-miles-teller-reflects-on-life-changing-first-encounter"
-      },
-      {
-        "title": "Prince Harry's court case takes darker turn to dirty trial",
-        "link": "https://www.geo.tv/latest/638401-prince-harrys-court-case-takes-darker-turn-to-dirty-trial"
       }
     ],
     "NDTV": [
       {
-        "title": "Rs 3,000 Crore Fraud Uncovers Haryana-Madhya Pradesh Cyber Crime Corridor",
-        "link": "https://www.ndtv.com/india-news/rs-3-000-crore-fraud-uncovers-haryana-madhya-pradesh-cyber-crime-corridor-9780541#publisher=newsstand"
+        "title": "Goa Club Fire: Repeated Warnings For Years, Zero Action, Then Disaster",
+        "link": "https://www.ndtv.com/india-news/goa-club-fire-luthra-brothers-goa-club-goa-nightclub-fire-repeated-warnings-for-years-zero-action-then-disaster-9780995#publisher=newsstand"
       },
       {
-        "title": "Centre Asks IndiGo To Cut Over 200 Flights A Day After Days Of Disruptions",
-        "link": "https://www.ndtv.com/india-news/centre-orders-indigo-to-cut-flights-by-10-after-weeks-of-chaos-9779800#publisher=newsstand"
+        "title": "Delhi Jal Board Consultant Dropped After ED Names Him In Money Laundering Case",
+        "link": "https://www.ndtv.com/india-news/delhi-jal-board-consultant-dropped-after-ed-names-him-in-money-laundering-case-9780965#publisher=newsstand"
       },
       {
-        "title": "Centre Moves To Impound Passports Of Luthras, In Thailand After Goa Fire",
-        "link": "https://www.ndtv.com/india-news/goa-fire-goa-nightclub-fire-birch-by-romeo-lane-centre-moves-to-impound-passports-of-luthras-in-thailand-after-goa-fire-9780208#publisher=newsstand"
+        "title": "High Percentage Of Indian Professionals Seek Self-Employment: Report",
+        "link": "https://www.ndtv.com/india-news/high-percentage-of-indian-professionals-seek-self-employment-report-9780952#publisher=newsstand"
       },
       {
-        "title": "3 Dead After Suspected Food Poisoning Case At Madhya Pradesh Resort",
-        "link": "https://www.ndtv.com/india-news/3-dead-after-suspected-food-poisoning-case-at-madhya-pradesh-resort-9780093#publisher=newsstand"
+        "title": "Runaway Bride's Arrest Leads To Fake Marriage Racket Bust In Maharashtra",
+        "link": "https://www.ndtv.com/india-news/runaway-brides-arrest-leads-to-fake-marriage-racket-bust-in-maharashtra-9780942#publisher=newsstand"
       },
       {
-        "title": "Congress Chief Slams BJP For 'Insulting' Nehru Over Vande Mataram Stanzas",
-        "link": "https://www.ndtv.com/india-news/congress-chief-slams-bjp-for-insulting-nehru-over-vande-mataram-stanzas-9779934#publisher=newsstand"
+        "title": "Preparing 'Surgical Strike' To Identify Infiltrators: UP Government",
+        "link": "https://www.ndtv.com/india-news/preparing-surgical-strike-to-identify-infiltrators-up-government-9780940#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-09 16:57 UTC"
+  "last_updated": "2025-12-09 17:25 UTC"
 }
