@@ -1,7 +1,17 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Gaza’s displaced brace for winter storm as Israel kills one",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/9/live-gazas-displaced-brace-for-winter-storm-as-israel-kills-one?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
+        "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Grooming gangs inquiry to be led by former children's commissioner Anne Longfield",
         "link": "https://www.bbc.com/news/articles/ckgk2pj2ygko?at_medium=RSS&at_campaign=rss"
@@ -11,19 +21,23 @@
         "link": "https://www.bbc.com/news/articles/c075vjxyx3no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia",
-        "link": "https://www.bbc.com/news/articles/cd6x3vv7y60o?at_medium=RSS&at_campaign=rss"
+        "title": "New flu strain is circulating - so should you buy a vaccine this year?",
+        "link": "https://www.bbc.com/news/articles/crk7j8nxlr6o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Hungry mothers and dirty wards - maternity care 'much worse' than anticipated, review chief says",
         "link": "https://www.bbc.com/news/articles/c4g45ev3gkdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Two charged over Heathrow suitcase robbery and suspected pepper spray attack",
-        "link": "https://www.bbc.com/news/articles/cdxeql929dgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Gaza’s displaced brace for winter storm as Israel kills one",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/9/live-gazas-displaced-brace-for-winter-storm-as-israel-kills-one?traffic_source=rss"
+      },
+      {
+        "title": "Who are the separatists that claim control of all south Yemen?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/9/who-are-the-separatists-that-claim-control-of-all-south-yemen?traffic_source=rss"
+      },
       {
         "title": "Lithuania declares state of emergency over smuggler balloons from Belarus",
         "link": "https://www.aljazeera.com/news/2025/12/9/lithuania-declares-state-of-emergency-over-smuggler-balloons-from-belarus?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "New Cambodia-Thailand clash: What’s up with the other wars Trump ‘ended’?",
         "link": "https://www.aljazeera.com/news/2025/12/9/new-cambodia-thailand-clash-whats-up-with-the-other-wars-trump?traffic_source=rss"
-      },
-      {
-        "title": "World Cup 2026: Iran objects to ‘Pride Match’ branding for Egypt game",
-        "link": "https://www.aljazeera.com/sports/2025/12/9/world-cup-2026-iran-objects-to-pride-match-branding-for-egypt-game?traffic_source=rss"
-      },
-      {
-        "title": "Why is Australia banning social media for teenagers?",
-        "link": "https://www.aljazeera.com/news/2025/12/9/why-is-australia-banning-social-media-for-teenagers?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,12 +76,8 @@
     ],
     "Dawn": [
       {
-        "title": "Aleema Khan, PTI stage sit-in outside Adiala jail after being denied meeting with Imran",
-        "link": "https://www.dawn.com/news/1960130/aleema-khan-pti-stage-sit-in-outside-adiala-jail-after-being-denied-meeting-with-imran"
-      },
-      {
-        "title": "IHC declares plea questioning legitimacy of Justice Jahangiri’s law degree maintainable",
-        "link": "https://www.dawn.com/news/1960122/ihc-declares-plea-questioning-legitimacy-of-justice-jahangiris-law-degree-maintainable"
+        "title": "Imran’s sisters, PTI stage sit-in outside Adiala jail after being denied meeting with PTI founder",
+        "link": "https://www.dawn.com/news/1960130/imrans-sisters-pti-stage-sit-in-outside-adiala-jail-after-being-denied-meeting-with-pti-founder"
       },
       {
         "title": "PM Shehbaz hails ‘extremely productive, gratifying’ talks with Indonesian president",
@@ -88,6 +90,10 @@
       {
         "title": "Not in favour of banning political parties, governor rule but PTI pushing authorities in that direction: Azma",
         "link": "https://www.dawn.com/news/1960126/not-in-favour-of-banning-political-parties-governor-rule-but-pti-pushing-authorities-in-that-direction-azma"
+      },
+      {
+        "title": "Fresh combat forces Thais, Cambodians to well-worn shelters",
+        "link": "https://www.dawn.com/news/1960129/fresh-combat-forces-thais-cambodians-to-well-worn-shelters"
       }
     ],
     "APNews": [],
@@ -109,11 +115,15 @@
         "link": "https://www.nytimes.com/2025/12/09/podcasts/the-headlines/instacart-groceries-trump-bailout-netflix-warner-brothers.html"
       },
       {
-        "title": "Trump Insists Tariffs Will Buoy the Economy and Ease Cost Concerns",
+        "title": "As Prices Increase From Tariffs, Trump Administration Goes on the Defensive About Affordability",
         "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-trade-affordability.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israel to reopen Allenby crossing for commercial traffic",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-reopen-allenby-crossing-commercial-traffic"
+      },
       {
         "title": "‘This is revenge’: Israel deports Palestinian prisoners then bars families from visiting",
         "link": "https://www.middleeasteye.net/news/revenge-israel-deports-palestinian-prisoners-then-bars-families-visiting"
@@ -129,54 +139,50 @@
       {
         "title": "Israel kills nearly half of journalists worldwide: Report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-nearly-half-journalists-worldwide-report"
-      },
-      {
-        "title": "At the Arab Cup, Palestinian football is uniting what politics has divided",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-cup-palestinian-football-uniting-what-politics-has-divided"
       }
     ],
     "GeoTV": [
       {
+        "title": "Judi Dench sparks debate after forgiving Harvey Weinstein",
+        "link": "https://www.geo.tv/latest/638355-judi-dench-sparks-debate-after-forgiving-harvey-weinstein"
+      },
+      {
+        "title": "Crown Princess Victoria takes to skies in new mission",
+        "link": "https://www.geo.tv/latest/638334-crown-princess-victoria-takes-to-skies-in-new-mission"
+      },
+      {
+        "title": "Pamela Anderson follows Millie Bobby Bongiovi with bold move",
+        "link": "https://www.geo.tv/latest/638313-pamela-anderson-follows-millie-bobby-bongiovi-with-bold-move"
+      },
+      {
+        "title": "Meghan Markle takes leaf out of Prince Harry book with thoughtful gesture",
+        "link": "https://www.geo.tv/latest/638367-meghan-markle-takes-leaf-out-of-prince-harry-book-with-thoughtful-gesture"
+      },
+      {
         "title": "Piers Morgan reacts as Kevin Sinfield blocked from receiving knighthood",
         "link": "https://www.geo.tv/latest/638356-piers-morgan-reacts-as-kevin-sinfield-blocked-from-receiving-knighthood"
-      },
-      {
-        "title": "Did Netflix want to buy EA before its $82bn Warner Bros deal?",
-        "link": "https://www.geo.tv/latest/638361-did-netflix-want-to-buy-ea"
-      },
-      {
-        "title": "King Charles and Claudia Winkleman dance into royal honour",
-        "link": "https://www.geo.tv/latest/638366-king-charles-and-claudia-winkleman-dance-into-royal-honour"
-      },
-      {
-        "title": "Google uses publishers' online content without consent, EU launches probe again",
-        "link": "https://www.geo.tv/latest/638364-googles-uses-publishers-online-content-without-consent-eu-launches-probe-again"
-      },
-      {
-        "title": "Canadian rapper bbno$ sparks chaos with quitting music claim",
-        "link": "https://www.geo.tv/latest/638363-canadian-rapper-bbno-sparks-chaos-with-quitting-music-claim"
       }
     ],
     "NDTV": [
       {
-        "title": "Delhi Man Arrested For Hoax Bomb Threats To Top Cops To Frame Rival",
-        "link": "https://www.ndtv.com/india-news/delhi-man-arrested-for-hoax-bomb-threats-to-top-cops-to-frame-rival-9779586#publisher=newsstand"
+        "title": "Congress Chief Slams BJP For 'Insulting' Nehru Over Vande Mataram Stanzas",
+        "link": "https://www.ndtv.com/india-news/congress-chief-slams-bjp-for-insulting-nehru-over-vande-mataram-stanzas-9779934#publisher=newsstand"
       },
       {
-        "title": "NDTV Exclusive: Goa Nightclub Owner Gaurav Luthra Spotted In Thailand",
-        "link": "https://www.ndtv.com/india-news/goa-nightclub-fire-first-pic-of-owner-gaurav-luthra-in-thailand-9777813#publisher=newsstand"
+        "title": "'Standing Near Train Door In Peak Hours Not Negligence': Bombay High Court",
+        "link": "https://www.ndtv.com/india-news/standing-near-train-door-in-peak-hours-not-negligence-bombay-high-court-9779933#publisher=newsstand"
       },
       {
-        "title": "Maharashtra's 'Organised Crime' Solution To Sale Of 'Gutkha' Around Schools",
-        "link": "https://www.ndtv.com/india-news/mcoca-devendra-fadnavis-maharashtras-organised-crime-solution-to-sale-of-gutkha-around-schools-9779497#publisher=newsstand"
+        "title": "Adani Group Pledges Over $75 Billion Investment In Energy Transition In Next 5 Years",
+        "link": "https://www.ndtv.com/india-news/adani-group-pledges-over-75-billion-investment-in-energy-transition-in-next-5-years-9779929#publisher=newsstand"
       },
       {
-        "title": "Demolition At Second Club Owned By Luthras, Missing Since Goa Fire",
-        "link": "https://www.ndtv.com/india-news/demolition-begins-at-2nd-club-owned-by-luthra-brothers-missing-since-goa-fire-9778766#publisher=newsstand"
+        "title": "Centre Orders IndiGo To Cut Flights By 10% After Days Of Chaos",
+        "link": "https://www.ndtv.com/india-news/centre-orders-indigo-to-cut-flights-by-10-after-weeks-of-chaos-9779800#publisher=newsstand"
       },
       {
-        "title": "BJP Ex-MP Kirit Somaiya Claims \"Fake Birth Certificate Racket\" Across States",
-        "link": "https://www.ndtv.com/india-news/bjp-ex-mp-kirit-somaiya-claims-fake-birth-certificate-racket-across-states-9779358#publisher=newsstand"
+        "title": "After Goa Fire, Gurugram Police Ramps Up Safety Checks On Nightclubs, Bars",
+        "link": "https://www.ndtv.com/india-news/after-goa-fire-gurugram-police-ramps-up-safety-checks-on-nightclubs-bars-9779758#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-09 13:55 UTC"
+  "last_updated": "2025-12-09 14:23 UTC"
 }
