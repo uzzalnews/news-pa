@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Parliament Winter Session LIVE Updates: Rahul Gandhi Speaks On Electoral Reforms In Parliament",
+      "link": "https://www.ndtv.com/india-news/parliament-winter-session-day-6-live-updates-stage-set-for-vande-mataram-debate-pm-narendra-modi-rajnath-singh-congress-priyanka-gandhi-gaurav-gogoi-9769142#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,23 @@
         "link": "https://www.bbc.com/news/articles/c4g9kx0je10o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UN environment report 'hijacked' by US and others over fossil fuels, top scientist says",
-        "link": "https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS&at_campaign=rss"
+        "title": "Flu season has come early - should you buy a vaccine this year?",
+        "link": "https://www.bbc.com/news/articles/crk7j8nxlr6o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Thai foreign minister says Cambodia not ready to negotiate peace",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/9/thai-foreign-minister-says-cambodia-not-ready-to-negotiate-peace?traffic_source=rss"
+      },
+      {
+        "title": "Donald Trump “can have an enormous influence” on Warner Bros buyout",
+        "link": "https://www.aljazeera.com/video/quotable/2025/12/9/donald-trump-can-have-an-enormous-influence-on-warner-bros-buyout?traffic_source=rss"
+      },
+      {
+        "title": "Israel shot my little sister during the Gaza ceasefire",
+        "link": "https://www.aljazeera.com/features/2025/12/9/israel-shot-my-little-sister-during-the-gaza-ceasefire?traffic_source=rss"
+      },
       {
         "title": "DRC accuses Rwanda of peace deal violations as M23 advances in the east",
         "link": "https://www.aljazeera.com/news/2025/12/9/drc-accuses-rwanda-of-peace-deal-violations-as-m23-advances-in-the-east?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Florida lists Muslim rights group CAIR a ‘terror organisation’",
         "link": "https://www.aljazeera.com/news/2025/12/9/florida-lists-muslim-rights-group-cair-a-terror?traffic_source=rss"
-      },
-      {
-        "title": "Millions of people in post-Assad Syria are still displaced",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/9/millions-of-people-in-post-assad-syria-are-still-displaced?traffic_source=rss"
-      },
-      {
-        "title": "Israel remained leading killer of journalists in 2025: RSF",
-        "link": "https://www.aljazeera.com/news/2025/12/9/israel-the-top-killer-of-journalists-worldwide-once-again-says-rsf-report?traffic_source=rss"
-      },
-      {
-        "title": "How much money will it take to rebuild Syria?",
-        "link": "https://www.aljazeera.com/video/money-works/2025/12/9/how-much-money-will-it-take-to-rebuild-syria?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,24 +99,24 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Supreme Court Is Asked to Take Another Ax to Campaign Finance Limits",
+        "link": "https://www.nytimes.com/2025/12/09/us/politics/supreme-court-campaign-finance.html"
+      },
+      {
+        "title": "A Key Question for the Supreme Court: What About the Fed?",
+        "link": "https://www.nytimes.com/2025/12/09/us/supreme-court-fed.html"
+      },
+      {
+        "title": "Supreme Court Questions N.Y. Ban on Religious Exemptions for Vaccines",
+        "link": "https://www.nytimes.com/2025/12/08/nyregion/ny-school-vaccinations.html"
+      },
+      {
+        "title": "The Business Strategy That Could Drive Up Your Grocery Bill, and Trump’s $12 Billion Bailout",
+        "link": "https://www.nytimes.com/2025/12/09/podcasts/the-headlines/instacart-groceries-trump-bailout-netflix-warner-brothers.html"
+      },
+      {
         "title": "Trump Insists Tariffs Will Buoy the Economy and Ease Cost Concerns",
         "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-trade-affordability.html"
-      },
-      {
-        "title": "Trump Plans $12 Billion Bailout to Aid Farmers Hit by Tariffs",
-        "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-farmers-aid-bailout.html"
-      },
-      {
-        "title": "Trump Clears Sale of More Powerful Nvidia A.I. Chips to China",
-        "link": "https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html"
-      },
-      {
-        "title": "A Frustrated Congress Pushes the Pentagon to Produce Its Boat Strike Orders",
-        "link": "https://www.nytimes.com/2025/12/08/us/politics/defense-bill-congress-boat-strikes.html"
-      },
-      {
-        "title": "Massachusetts Church Keeps Anti-ICE Nativity Scene, Defying Diocese Leaders",
-        "link": "https://www.nytimes.com/2025/12/08/us/massachusetts-church-ice-nativity-scene.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Princess Anne unveils Christmas card for 2025: ‘Happy and peaceful'",
+        "link": "https://www.geo.tv/latest/638324-princess-anne-unveils-christmas-card-for-2025-happy-and-peaceful"
+      },
+      {
+        "title": "Trump lifts chip ban, allows advanced Nvidia AI chip sales to China",
+        "link": "https://www.geo.tv/latest/638322-trump-lifts-chip-ban-allows-advanced-nvidia-ai-chip-sales-to-china"
+      },
+      {
+        "title": "Duchess of Gloucester quietly performs vital role at Kensington meeting",
+        "link": "https://www.geo.tv/latest/638320-duchess-of-gloucester-quietly-performs-vital-role-at-kensington-meeting"
+      },
+      {
+        "title": "Sydney Sweeney snubbed by Golden Globes as 'Christy' misses spot",
+        "link": "https://www.geo.tv/latest/638300-sydney-sweeney-snubbed-by-golden-globes-as-christy-misses-spot"
+      },
+      {
         "title": "Selena Gomez reacts to fourth consecutive Golden Globe nod",
         "link": "https://www.geo.tv/latest/638308-selena-gomez-reacts-to-fourth-consecutive-golden-globe-nod"
-      },
-      {
-        "title": "Meghan Markle's seasonal special fuels talk about what's next",
-        "link": "https://www.geo.tv/latest/638293-meghan-markles-seasonal-special-fuels-talk-about-whats-next"
-      },
-      {
-        "title": "Google's AI glasses: Comprehensive guide to specs, partners, display models",
-        "link": "https://www.geo.tv/latest/638315-googles-ai-glasses-comprehensive-guide-to-specs-partners-display-models"
-      },
-      {
-        "title": "World's first entirely AI-generated reality TV show premieres on YouTube",
-        "link": "https://www.geo.tv/latest/638314-worlds-first-entirely-ai-generated-reality-tv-show-premieres-on-youtube"
-      },
-      {
-        "title": "Dwayne Johnson reveals 'dream moment' of his career",
-        "link": "https://www.geo.tv/latest/638305-dwayne-johnson-reveals-dream-moment-of-his-career"
       }
     ],
     "NDTV": [
       {
-        "title": "Trumps Rice Tariff Threat: Wake Up And Smell The Basmati, Warn Exporters",
-        "link": "https://www.ndtv.com/world-news/will-trumps-new-tariff-threat-impact-indian-rice-exports-what-experts-said-9777433#publisher=newsstand"
+        "title": "Parliament Winter Session LIVE Updates: Rahul Gandhi Speaks On Electoral Reforms In Parliament",
+        "link": "https://www.ndtv.com/india-news/parliament-winter-session-day-6-live-updates-stage-set-for-vande-mataram-debate-pm-narendra-modi-rajnath-singh-congress-priyanka-gandhi-gaurav-gogoi-9769142#publisher=newsstand"
       },
       {
-        "title": "20 Killed In Fire In Seven-Story Building In Indonesia’s Capital Jakarta",
-        "link": "https://www.ndtv.com/world-news/20-killed-in-fire-in-seven-story-building-in-indonesia-s-capital-jakarta-9777814#publisher=newsstand"
+        "title": "\"She Voted After Citizenship\": Priyanka Gandhi On Sonia Gandhi Poll Roll Row",
+        "link": "https://www.ndtv.com/india-news/she-voted-after-citizenship-priyanka-gandhi-on-sonia-gandhi-poll-roll-row-9778375#publisher=newsstand"
       },
       {
-        "title": "Goa Nightclub Fire: First Pic Of Owner Gaurav Luthra In Thailand",
+        "title": "\"IndiGo Back On Its Feet, Ops Stable\": CEO's Latest Statement Amid Crisis",
+        "link": "https://www.ndtv.com/india-news/indigo-ceo-pieter-elbers-statement-indigo-back-on-its-feet-ops-stable-ceos-latest-statement-amid-crisis-9778074#publisher=newsstand"
+      },
+      {
+        "title": "NDTV Exclusive: Goa Nightclub Owner Gaurav Luthra's First Pic From Thailand",
         "link": "https://www.ndtv.com/india-news/goa-nightclub-fire-first-pic-of-owner-gaurav-luthra-in-thailand-9777813#publisher=newsstand"
       },
       {
-        "title": "\"33 Drinks, Sedative\": Lawsuit Blames Royal Caribbean Cruise For Man's Death",
-        "link": "https://www.ndtv.com/world-news/33-drinks-sedative-lawsuit-blames-royal-caribbean-cruise-for-california-mans-death-9775882#publisher=newsstand"
-      },
-      {
-        "title": "Pope Leo, Indonesian Aura Farming Kid Among New York Times' 2025 Style Icons",
-        "link": "https://www.ndtv.com/world-news/pope-leo-xiv-indonesian-aura-farming-kid-rayyan-arkan-dikha-among-new-york-times-2025-style-icons-9776988#publisher=newsstand"
+        "title": "Who Is Rishima Sarin? Dhurandhar Puts Major Mohit Sharma's Widow In Limelight",
+        "link": "https://www.ndtv.com/india-news/who-is-rishima-sarin-dhurandhar-puts-major-mohit-sharmas-widow-in-limelight-9777691#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-09 10:53 UTC"
+  "last_updated": "2025-12-09 11:15 UTC"
 }
