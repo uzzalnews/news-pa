@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Real Madrid vs Manchester City – UEFA Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/10/live-real-madrid-vs-manchester-city-uefa-champions-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,30 +19,30 @@
         "link": "https://www.bbc.com/news/articles/ce91d2m1gg7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Last minute offer may avert strike by resident doctors",
-        "link": "https://www.bbc.com/news/articles/c4gk3d72mvzo?at_medium=RSS&at_campaign=rss"
+        "title": "Ex-Olympic swimmer Sharron Davies and Iceland boss Richard Walker among new peers",
+        "link": "https://www.bbc.com/news/articles/cx23pxxl7yno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Iceland to join boycott of Eurovision in protest at Israel’s involvement",
+        "link": "https://www.aljazeera.com/news/2025/12/10/iceland-to-join-boycott-of-eurovision-in-protest-at-israels-involvement?traffic_source=rss"
+      },
+      {
+        "title": "Olympics decision on gender eligibility to come in early 2026",
+        "link": "https://www.aljazeera.com/sports/2025/12/10/olympics-decision-on-gender-eligibility-to-come-in-early-2026?traffic_source=rss"
+      },
+      {
+        "title": "US general highlights ‘close cooperation’ with Syria against ISIL threats",
+        "link": "https://www.aljazeera.com/news/2025/12/10/us-general-highlights-close-cooperation-with-syria-against-isil-threats?traffic_source=rss"
+      },
+      {
+        "title": "UN rights office in ‘survival mode’ amid deep funding cuts",
+        "link": "https://www.aljazeera.com/news/2025/12/10/un-rights-office-in-survival-mode-amid-deep-funding-cuts?traffic_source=rss"
+      },
+      {
         "title": "US federal judge halts Trump’s National Guard operations in California",
         "link": "https://www.aljazeera.com/news/2025/12/10/us-federal-judge-halts-trumps-national-guard-operations-in-california?traffic_source=rss"
-      },
-      {
-        "title": "WATCH: Palestine prepare for historic FIFA Arab Cup clash with Saudi Arabia",
-        "link": "https://www.aljazeera.com/video/2025/12/10/watch-palestine-prepare-for-historic-fifa-arab-cup-clash-with-saudi-arabia?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Real Madrid vs Manchester City – UEFA Champions League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/10/live-real-madrid-vs-manchester-city-uefa-champions-league?traffic_source=rss"
-      },
-      {
-        "title": "Masked neo-Nazis march through Arkansas community",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/10/masked-neo-nazis-march-through-arkansas-community?traffic_source=rss"
-      },
-      {
-        "title": "Are Israel, Hamas entering the second phase of Gaza ceasefire?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/10/are-israel-hamas-entering-the-second-phase-of-gaza-ceasefire?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "US approves $686 million F-16 technology sale to Pakistan, highlighting interoperability and fleet modernisation",
+        "link": "https://www.dawn.com/news/1960342/us-approves-686-million-f-16-technology-sale-to-pakistan-highlighting-interoperability-and-fleet-modernisation"
+      },
+      {
         "title": "War of words between PTI and ruling coaltion continues; PML-N’s Ikhtiar Wali says ‘things have reached point of no return’",
         "link": "https://www.dawn.com/news/1960312/war-of-words-between-pti-and-ruling-coaltion-continues-pml-ns-ikhtiar-wali-says-things-have-reached-point-of-no-return"
       },
@@ -90,10 +88,6 @@
       {
         "title": "UAE cracks down on visa abuse with new penalties for ‘sheltering infiltrators’",
         "link": "https://www.dawn.com/news/1960334/uae-cracks-down-on-visa-abuse-with-new-penalties-for-sheltering-infiltrators"
-      },
-      {
-        "title": "Australia begins enforcing world-first teen social media ban",
-        "link": "https://www.dawn.com/news/1960333/australia-begins-enforcing-world-first-teen-social-media-ban"
       }
     ],
     "APNews": [],
@@ -101,6 +95,10 @@
       {
         "title": "Trump’s Search for Powell’s Replacement Adds to Cacophony Around Interest Rate Decision",
         "link": "https://www.nytimes.com/2025/12/10/business/fed-chair-powell-trump-replacement.html"
+      },
+      {
+        "title": "As the Price of Beef Soars, Restaurants Are in ‘Code Red’ Mode",
+        "link": "https://www.nytimes.com/2025/12/10/business/beef-prices-steakhouses.html"
       },
       {
         "title": "Republicans Are Fighting With One Another in Deep-Red Indiana. Here’s Why.",
@@ -113,13 +111,13 @@
       {
         "title": "Democrats Press to Expand House Map, Targeting 5 New G.O.P. Seats",
         "link": "https://www.nytimes.com/2025/12/10/us/politics/democrats-target-5-new-house-seats.html"
-      },
-      {
-        "title": "Inside the Pentagon’s Scramble to Deal With Boat Strike Survivors",
-        "link": "https://www.nytimes.com/2025/12/09/us/politics/pentagon-boat-strike-survivors.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "B’Tselem says international community 'abandoning people of Gaza'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/btselem-says-international-community-abandoning-people-gaza"
+      },
       {
         "title": "Genocide prevention group slams Hillary Clinton’s Gaza remarks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/genocide-prevention-group-slams-hillary-clintons-gaza-remarks"
@@ -135,13 +133,13 @@
       {
         "title": "Israel says it fired on 'armed individuals' crossing yellow line",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-fired-armed-individuals-crossing-yellow-line"
-      },
-      {
-        "title": "Israeli tank fired in direction of UN peacekeepers in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-tank-fired-direction-un-peacekeepers-southern-lebanon"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Taylor Swift shocking wedding rumours put to rest: Source",
+        "link": "https://www.geo.tv/latest/638604-taylor-swift-shocking-wedding-rumours-put-to-rest-source"
+      },
       {
         "title": "Human fire-making traced back 415,000 years in latest discovery",
         "link": "https://www.geo.tv/latest/638605-human-fire-making-traced-back-415000-years-in-latest-discovery"
@@ -157,32 +155,28 @@
       {
         "title": "Comedian Andy Dick sparks health concern, found unresponsive in LA",
         "link": "https://www.geo.tv/latest/638601-comedian-andy-dick-sparks-health-concern-found-unresponsive-in-la"
-      },
-      {
-        "title": "Josh Hutcherson lands in hot waters after shocking Taylor Swift comment",
-        "link": "https://www.geo.tv/latest/638595-josh-hutcherson-lands-in-hot-waters-after-shocking-taylor-swift-comment"
       }
     ],
     "NDTV": [
       {
-        "title": "Israeli PM Netanyahu Calls PM Modi, Briefs On West Asia Situation",
-        "link": "https://www.ndtv.com/world-news/israeli-pm-netanyahu-calls-pm-modi-briefs-on-west-asia-situation-9786996#publisher=newsstand"
+        "title": "Man Branded 'Untouchable', Family Boycotted For Eating At Dalit Home",
+        "link": "https://www.ndtv.com/india-news/man-branded-untouchable-family-boycotted-for-eating-at-dalit-home-9788113#publisher=newsstand"
       },
       {
-        "title": "4 Cops Killed As Bomb Disposal Squad Van Collides With Truck In Madhya Pradesh",
-        "link": "https://www.ndtv.com/india-news/4-cops-killed-as-bomb-disposal-squad-van-collides-with-truck-in-madhya-pradesh-9787480#publisher=newsstand"
+        "title": "Cambodia-Thailand Border Clashes Send Half A Million Into Shelters",
+        "link": "https://www.ndtv.com/world-news/cambodia-thailand-border-clashes-send-half-a-million-into-shelters-9786289#publisher=newsstand"
       },
       {
-        "title": "Now, Platform To Shut out Pesky Promotional Messages On Your Phone",
-        "link": "https://www.ndtv.com/india-news/now-platform-to-shut-out-pesky-promotional-messages-on-your-phone-9787464#publisher=newsstand"
+        "title": "Danish Intelligence Says US Now A Possible Security Risk",
+        "link": "https://www.ndtv.com/world-news/danish-intelligence-says-us-now-a-possible-security-risk-9788148#publisher=newsstand"
       },
       {
-        "title": "'India Can't Be Only Stop': Indonesian President Invites Putin For Visit",
-        "link": "https://www.ndtv.com/world-news/india-cant-be-only-stop-indonesian-president-prabowo-subianto-invites-vladimir-putin-for-visit-9787397#publisher=newsstand"
+        "title": "Indian-Origin Man Arrested In Canada For Flashing Female Doctors In Clinics",
+        "link": "https://www.ndtv.com/world-news/indian-origin-man-vaibhav-arrested-in-canada-for-flashing-female-doctors-in-clinics-9788097#publisher=newsstand"
       },
       {
-        "title": "Fake Call Centre Defrauding US Citizens Busted In Mumbai, 9 Arrested",
-        "link": "https://www.ndtv.com/india-news/fake-call-centre-defrauding-us-citizens-busted-in-mumbai-9-arrested-9787358#publisher=newsstand"
+        "title": "4 Rescued Tiger Cubs Die At Karnataka Centre, Viral Infection Suspected",
+        "link": "https://www.ndtv.com/india-news/4-rescued-tiger-cubs-die-at-karnataka-centre-viral-infection-suspected-9788142#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-10 18:19 UTC"
+  "last_updated": "2025-12-10 18:48 UTC"
 }
