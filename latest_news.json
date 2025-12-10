@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Real Madrid vs Manchester City – UEFA Champions League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/10/live-real-madrid-vs-manchester-city-uefa-champions-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,15 @@
         "link": "https://www.bbc.com/news/articles/c4gpkr83p73o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Man guilty of murdering ex-girlfriend's sister and three children in house fire",
-        "link": "https://www.bbc.com/news/articles/c7vm7dm589do?at_medium=RSS&at_campaign=rss"
+        "title": "Last minute offer may avert strike by resident doctors",
+        "link": "https://www.bbc.com/news/articles/c4gk3d72mvzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Real Madrid vs Manchester City – UEFA Champions League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/10/live-real-madrid-vs-manchester-city-uefa-champions-league?traffic_source=rss"
+      },
       {
         "title": "Masked neo-Nazis march through Arkansas community",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/10/masked-neo-nazis-march-through-arkansas-community?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Trump’s $12bn aid package: Are tariffs bleeding US farmers?",
         "link": "https://www.aljazeera.com/economy/2025/12/10/trumps-12bn-aid-package-are-tariffs-bleeding-us-farmers?traffic_source=rss"
-      },
-      {
-        "title": "Families shelter in makeshift tents after floods ravage Indonesia’s Sumatra",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/10/families-shelter-in-makeshift-tents-after-floods-ravage-indonesias-sumatra?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/1960312/war-of-words-between-pti-and-ruling-coaltion-continues-pml-ns-ikhtiar-wali-says-things-have-reached-point-of-no-return"
       },
       {
+        "title": "Bilawal says PTI’s ‘extreme politics’ is ‘putting the party in jeopardy’, opposes ban",
+        "link": "https://www.dawn.com/news/1960339/bilawal-says-ptis-extreme-politics-is-putting-the-party-in-jeopardy-opposes-ban"
+      },
+      {
         "title": "PPP alleges PML-N, PTI ‘colluding’ after NA proceedings end early during PPP-led agenda item",
         "link": "https://www.dawn.com/news/1960320/ppp-alleges-pml-n-pti-colluding-after-na-proceedings-end-early-during-ppp-led-agenda-item"
       },
@@ -84,10 +94,6 @@
       {
         "title": "UAE cracks down on visa abuse with new penalties for ‘sheltering infiltrators’",
         "link": "https://www.dawn.com/news/1960334/uae-cracks-down-on-visa-abuse-with-new-penalties-for-sheltering-infiltrators"
-      },
-      {
-        "title": "PTI announces ‘national conference’, claims Pakistan faces ‘serious issues’",
-        "link": "https://www.dawn.com/news/1960330/pti-announces-national-conference-claims-pakistan-faces-serious-issues"
       }
     ],
     "APNews": [],
@@ -109,33 +115,41 @@
         "link": "https://www.nytimes.com/2025/12/10/world/europe/europe-security-russia-us.html"
       },
       {
-        "title": "Trump Administration Rules Threaten Nobel Prizes Won by Immigrants",
-        "link": "https://www.nytimes.com/2025/12/10/science/nobel-prize-immigrants-science.html"
+        "title": "Trump’s Search for Powell’s Replacement Adds to Cacophony Around Interest Rate Decision",
+        "link": "https://www.nytimes.com/2025/12/10/business/fed-chair-powell-trump-replacement.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Genocide prevention group slams Hillary Clinton’s Gaza remarks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/genocide-prevention-group-slams-hillary-clintons-gaza-remarks"
+      },
+      {
+        "title": "‘Outright denial’: Genocide prevention group slams Hillary Clinton’s Gaza remarks",
+        "link": "https://www.middleeasteye.net/news/outright-denial-genocide-prevention-group-slams-hillary-clintons-gaza-remarks"
+      },
+      {
+        "title": "Israel used Palantir technology in its 2024 Lebanon pager attack, book claims",
+        "link": "https://www.middleeasteye.net/news/israel-used-palantir-its-2024-lebanon-pager-attack"
+      },
+      {
+        "title": "Israel says it fired on 'armed individuals' crossing yellow line",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-fired-armed-individuals-crossing-yellow-line"
+      },
+      {
         "title": "Israeli tank fired in direction of UN peacekeepers in southern Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-tank-fired-direction-un-peacekeepers-southern-lebanon"
-      },
-      {
-        "title": "Israeli minister says war ‘inevitable’ after Syrian troops chant for Gaza",
-        "link": "https://www.middleeasteye.net/news/israeli-minister-says-war-inevitable-after-syrian-troops-chant-gaza"
-      },
-      {
-        "title": "Hamas demands end to Israeli violations before second ceasefire phase",
-        "link": "https://www.middleeasteye.net/news/hamas-demands-end-israeli-violations-second-ceasefire-phase"
-      },
-      {
-        "title": "What Yemenis in Hadhramaut and al-Mahra think of the STC takeover",
-        "link": "https://www.middleeasteye.net/news/what-yemenis-hadhramaut-and-al-mahra-think-stc-takeover"
-      },
-      {
-        "title": "UN says children most at risk from unexploded ordnance in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-children-most-risk-unexploded-ordnance-gaza"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Queen Camilla delivers powerful message of 'Justice and Change'",
+        "link": "https://www.geo.tv/latest/638603-queen-camilla-delivers-powerful-message-of-justice-and-change"
+      },
+      {
+        "title": "Taylor Swift worries fans with new emotional teaser of documentary",
+        "link": "https://www.geo.tv/latest/638602-taylor-swift-worries-fans-with-new-emotional-teaser-of-documentary"
+      },
       {
         "title": "Comedian Andy Dick sparks health concern, found unresponsive in LA",
         "link": "https://www.geo.tv/latest/638601-comedian-andy-dick-sparks-health-concern-found-unresponsive-in-la"
@@ -147,14 +161,6 @@
       {
         "title": "King Charles secret exposed during Andy Lapthorne MBE ceremony",
         "link": "https://www.geo.tv/latest/638596-king-charles-secret-exposed-during-andy-lapthorne-mbe-ceremony"
-      },
-      {
-        "title": "Taylor Swift's fiancé Travis Kelce opens up about Chief's loss",
-        "link": "https://www.geo.tv/latest/638597-taylor-swifts-fianc-travis-kelce-opens-up-about-chiefs-loss"
-      },
-      {
-        "title": "Blake Shelton, Gwen Stefani quash split rumours with low-key outing",
-        "link": "https://www.geo.tv/latest/638592-blake-shelton-gwen-stefani-quash-split-rumours-with-low-key-outing"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-10 17:02 UTC"
+  "last_updated": "2025-12-10 17:34 UTC"
 }
