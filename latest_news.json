@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Gaza braces for Storm Byron with hundreds of thousands in tents",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/10/live-israel-5?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,12 +11,12 @@
         "link": "https://www.bbc.com/news/articles/czdgje5p3qdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Ukraine 'ready for elections' if partners guarantee security, Zelensky says",
-        "link": "https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "How long Britain could really fight for if war broke out tomorrow",
         "link": "https://www.bbc.com/news/articles/c5yq5zdv907o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine 'ready for elections' if partners guarantee security, Zelensky says",
+        "link": "https://www.bbc.com/news/articles/cn5l1474yv7o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Spat at, attacked and threatened by schoolkids - life as a bus driver in Britain",
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Mohamed Salah: Egypt teammates rally behind unsettled teammate before AFCON",
+        "link": "https://www.aljazeera.com/sports/2025/12/10/mohamed-salah-egypt-teammates-rally-behind-unsettled-teammate-before-afcon?traffic_source=rss"
+      },
+      {
+        "title": "Palestine is on a historic run in the Arab Cup, amidst Gaza devastation",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/10/palestine-is-on-a-historic-run-in-the-arab-cup-amidst-gaza-devastation?traffic_source=rss"
+      },
+      {
+        "title": "DRC fighting forces 200,000 people to flee as M23 advances, dozens killed",
+        "link": "https://www.aljazeera.com/news/2025/12/10/drc-fighting-pushes-200000-people-to-flee-as-m23-advance-dozens-killed?traffic_source=rss"
+      },
+      {
         "title": "Hamas leader vows to curb Gaza attacks on Israel but rejects disarmament",
         "link": "https://www.aljazeera.com/news/2025/12/10/hamas-leader-vows-to-curb-gaza-attacks-on-israel-but-rejects-disarmament?traffic_source=rss"
       },
       {
         "title": "At least 19 dead in collapse of two buildings in Morocco’s Fes: State media",
         "link": "https://www.aljazeera.com/news/2025/12/10/at-least-19-killed-in-collapse-of-two-buildings-in-fes-morocco?traffic_source=rss"
-      },
-      {
-        "title": "‘Possible rise in maternal deaths’: How USAID cuts strand Malawi’s mothers",
-        "link": "https://www.aljazeera.com/features/2025/12/10/possible-rise-in-maternal-deaths-how-usaid-cuts-strand-malawis-mothers?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Gaza braces for Storm Byron with hundreds of thousands in tents",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/10/live-israel-5?traffic_source=rss"
-      },
-      {
-        "title": "Cambodia-Thailand border clashes send half a million into shelters",
-        "link": "https://www.aljazeera.com/gallery/2025/12/10/cambodia-thailand-border-clashes-send-half-a-million-into-shelters?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "WHO chief says Gaza medical evacuation needs ‘immense and growing’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/who-chief-says-gaza-medical-evacuation-needs-immense-and-growing"
+      },
+      {
         "title": "Opinion: Chile elections: Far right candidate may break with historic support for Palestine",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-chile-elections-far-right-candidate-may-break-historic-support"
       },
@@ -135,32 +133,28 @@
       {
         "title": "Genocide prevention group says Clinton’s remarks amount to ‘genocide denial’",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/genocide-prevention-group-says-clintons-remarks-amounts-genocide-denial"
-      },
-      {
-        "title": "Report: Israeli settlers abduct Palestinian farmer near Bethlehem",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-settlers-abduct-palestinian-farmer-near-bethlehem"
       }
     ],
     "GeoTV": [
       {
-        "title": "'State within a state' established in Karachi on Sindh Culture Day, says MQM-P leader",
-        "link": "https://www.geo.tv/latest/638519-state-within-a-state-established-in-karachi-on-sindh-culture-day-says-mqm-p-leader"
+        "title": "Ex-NFL star Quentin Jammer's stunning confession goes viral: Find out every detail here",
+        "link": "https://www.geo.tv/latest/638501-ex-nfl-star-says-he-played-multiple-games-drunkconfession-goes-viral"
       },
       {
-        "title": "Daniel Craig expresses how he feels after stepping away as 'James Bond'",
-        "link": "https://www.geo.tv/latest/638527-daniel-craig-expresses-how-he-feels-after-stepping-away-as-james-bond"
+        "title": "Danish royals share exciting moment in special treat: watch",
+        "link": "https://www.geo.tv/latest/638522-danish-royals-share-exciting-moment-in-special-treat-watch"
       },
       {
-        "title": "Prince Harry hit with legal setback amid UK Home Office security review",
-        "link": "https://www.geo.tv/latest/638532-prince-harry-hit-with-legal-setback-amid-uk-home-office-security-review"
+        "title": "At least 19 killed in collapse of two buildings in Morocco",
+        "link": "https://www.geo.tv/latest/638531-at-least-19-killed-in-collapse-of-two-buildings-in-morocco"
       },
       {
-        "title": "Meghan Markle breaks silence as she fulfils ailing father's last wish",
-        "link": "https://www.geo.tv/latest/638526-meghan-markle-breaks-silence-as-she-fulfils-ailing-fathers-last-wish"
+        "title": "Comedian Andy Dick revived after apparent overdose on Hollywood street",
+        "link": "https://www.geo.tv/latest/638539-comedian-andy-dick-revived-after-apparent-overdose-on-hollywood-street"
       },
       {
-        "title": "Camilla embraces new role while Charles prepares for major event",
-        "link": "https://www.geo.tv/latest/638529-camilla-embraces-new-role-while-charles-prepares-for-major-event"
+        "title": "Victoria Beckham's silk midi turns heads as family strain eases",
+        "link": "https://www.geo.tv/latest/638530-victoria-beckhams-silk-midi-turns-heads-as-family-strain-eases"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-10 10:14 UTC"
+  "last_updated": "2025-12-10 10:44 UTC"
 }
