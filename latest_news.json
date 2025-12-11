@@ -1,6 +1,11 @@
 {
   "breaking": [
     {
+      "source": "AlJazeera",
+      "title": "LIVE: Heavy rains, flooding as Storm Byron batters war-torn Gaza",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/11/live-heavy-rains-flooding-as-storm-byron-batters-war-torn-gaza?traffic_source=rss"
+    },
+    {
       "source": "NDTV",
       "title": "Goa Club Fire LIVE Updates: Key \"Bring Back Luthras\" Meeting In Goa Shortly",
       "link": "https://www.ndtv.com/india-news/goa-nightclub-fire-live-updates-saurabh-luthra-gaurav-luthra-news-updates-luthra-brothers-detained-over-goa-club-fire-deportation-next-9789461#publisher=newsstand"
@@ -31,6 +36,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Heavy rains, flooding as Storm Byron batters war-torn Gaza",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/11/live-heavy-rains-flooding-as-storm-byron-batters-war-torn-gaza?traffic_source=rss"
+      },
+      {
         "title": "‘A gesture of love’: Italy’s cuisine joins UNESCO’s cultural heritage list",
         "link": "https://www.aljazeera.com/news/2025/12/11/a-gesture-of-love-italys-cuisine-joins-unescos-cultural-heritage-list?traffic_source=rss"
       },
@@ -45,10 +54,6 @@
       {
         "title": "Displaced Gaza families struggle as winter storm hits",
         "link": "https://www.aljazeera.com/news/2025/12/11/displaced-gaza-families-struggle-as-winter-storm-hits?traffic_source=rss"
-      },
-      {
-        "title": "‘He’ll be next’: Donald Trump threatens Colombian President Gustavo Petro",
-        "link": "https://www.aljazeera.com/news/2025/12/11/hell-be-next-donald-trump-threatens-colombian-president-gustavo-petro?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +126,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-473"
+      },
+      {
         "title": "Evening recap",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-584"
       },
@@ -135,13 +144,13 @@
       {
         "title": "Trump administration issued ultimatum to ICC: Report",
         "link": "https://www.middleeasteye.net/news/trump-administration-ultimatum-international-criminal-court-report"
-      },
-      {
-        "title": "At least two Palestinians killed by Israeli fire in Rafah",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-two-palestinians-killed-israeli-fire-rafah"
       }
     ],
     "GeoTV": [
+      {
+        "title": "'Talk about us, not politics': Lahore woman interjects during Bilawal's presser from rooftop",
+        "link": "https://www.geo.tv/latest/638659-talk-about-us-not-politics-lahore-woman-interjects-during-bilawals-presser-from-rooftop"
+      },
       {
         "title": "Kelly Osbourne breaks silence on weight criticism after Ozzy's death",
         "link": "https://www.geo.tv/latest/638663-kelly-osbourne-breaks-silence-on-weight-criticism-after-ozzys-death"
@@ -157,10 +166,6 @@
       {
         "title": "Kate Winslet gets candid about directorial debut after 33 years of acting",
         "link": "https://www.geo.tv/latest/638654-kate-winslet-gets-candid-about-directorial-debut-after-33-years-of-acting"
-      },
-      {
-        "title": "Pakistan warns Taliban of 'defensive measures' if Kabul fails to act against terrorists",
-        "link": "https://www.geo.tv/latest/638655-pakistan-warns-of-defensive-measures-if-kabul-fails-to-take-verifiable-action-against-terrorists"
       }
     ],
     "NDTV": [
@@ -208,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-11 05:34 UTC"
+  "last_updated": "2025-12-11 05:51 UTC"
 }
