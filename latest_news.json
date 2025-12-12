@@ -3,8 +3,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Flu surge a challenge for NHS 'unlike any' since pandemic, Streeting says",
+        "title": "'Double whammy' of flu and strikes a risk to patients, Streeting says",
         "link": "https://www.bbc.com/news/articles/c8r30787e76o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Author Joanna Trollope dies aged 82",
+        "link": "https://www.bbc.com/news/articles/cq6008er5zgo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "UK economy shrank unexpectedly by 0.1% in October",
@@ -17,13 +21,21 @@
       {
         "title": "The new breed of 'shoplifting entrepreneurs' fuelling the UK's petty crime problem",
         "link": "https://www.bbc.com/news/articles/clyd9nxezjyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Taylor Swift shown in tears after she met Southport attack families",
-        "link": "https://www.bbc.com/news/articles/czxgnqx1yplo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Eight wars ended? What’s happened to Trump’s peace deals",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/12/eight-wars-ended-whats-happened-to-trumps-peace-deals?traffic_source=rss"
+      },
+      {
+        "title": "Newly released video shows Israeli captives inside Gaza tunnel",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/12/newly-released-video-shows-israeli-captives-inside-gaza-tunnel?traffic_source=rss"
+      },
+      {
+        "title": "Afghan’s Olympic hope for Taliban dialogue to prompt women’s rights U-turn",
+        "link": "https://www.aljazeera.com/sports/2025/12/12/afghans-olympic-hope-for-taliban-dialogue-to-spark-womens-rights-u-turn?traffic_source=rss"
+      },
       {
         "title": "Israel bombards areas across southern Lebanon in latest truce violation",
         "link": "https://www.aljazeera.com/news/2025/12/12/israel-bombards-areas-across-southern-lebanon-in-latest-truce-violation?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Liverpool boss Slot to meet Salah amid transfer tension",
         "link": "https://www.aljazeera.com/sports/2025/12/12/liverpool-boss-slot-to-meet-salah-amid-transfer-tension?traffic_source=rss"
-      },
-      {
-        "title": "Benin settles after failed coup attempt, but regional concerns remain",
-        "link": "https://www.aljazeera.com/news/2025/12/12/benin-settles-after-failed-coup-attempt-regional-concerns-remain?traffic_source=rss"
-      },
-      {
-        "title": "ICC judges stoic in face of US sanctions over Israeli war crimes cases",
-        "link": "https://www.aljazeera.com/news/2025/12/12/icc-judges-stoic-in-face-of-us-sanctions-over-israeli-war-crimes-cases?traffic_source=rss"
-      },
-      {
-        "title": "Tanker seizure is US tactic “to starve” Venezuela of cash",
-        "link": "https://www.aljazeera.com/video/quotable/2025/12/12/anker-seizure-is-us-tactic-to-starve-venezuela-of-cash?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +74,10 @@
         "link": "https://www.dawn.com/news/1960685/pm-calls-on-world-to-urge-kabul-to-rein-in-terrorists-operating-from-afghan-soil"
       },
       {
+        "title": "Senator alleges ‘corruption of billions of rupees’ in attestation of documents at Foreign Office",
+        "link": "https://www.dawn.com/news/1960706/senator-alleges-corruption-of-billions-of-rupees-in-attestation-of-documents-at-foreign-office"
+      },
+      {
         "title": "Bilawal responds to Punjab CM Maryam’s ‘warm welcome’, thanks her for ‘positive gesture’",
         "link": "https://www.dawn.com/news/1960696/bilawal-responds-to-punjab-cm-maryams-warm-welcome-thanks-her-for-positive-gesture"
       },
@@ -82,12 +86,8 @@
         "link": "https://www.dawn.com/news/1960687/absence-of-political-trust-between-india-and-us-highlighted-at-congress-hearing"
       },
       {
-        "title": "Rainfall, snow expected in KP, GB, and Balochistan over weekend",
-        "link": "https://www.dawn.com/news/1960699/rainfall-snow-expected-in-kp-gb-and-balochistan-over-weekend"
-      },
-      {
-        "title": "5 cops injured in late-night terrorist attack on police checkpost in Bannu",
-        "link": "https://www.dawn.com/news/1960677/5-cops-injured-in-late-night-terrorist-attack-on-police-checkpost-in-bannu"
+        "title": "Death toll from river Jhelum accident rises to 10 after 6 more bodies recovered",
+        "link": "https://www.dawn.com/news/1960705/death-toll-from-river-jhelum-accident-rises-to-10-after-6-more-bodies-recovered"
       }
     ],
     "APNews": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Sudan's war economy: How hunger, gold and smuggling routes fuel an escalating crisis",
+        "link": "https://www.middleeasteye.net/opinion/sudans-war-economy-how-hunger-gold-and-smuggling-routes-fuel-escalating-crisis"
+      },
+      {
         "title": "‘We will continue’: The Palestinian rights groups sanctioned by Trump",
         "link": "https://www.middleeasteye.net/news/we-will-continue-palestinian-rights-groups-sanctioned-trump"
       },
@@ -129,32 +133,28 @@
       {
         "title": "At least 11 die in storm-hit Gaza from cold and collapsing buildings",
         "link": "https://www.middleeasteye.net/news/gaza-storm-die-cold-collapsing-buildings"
-      },
-      {
-        "title": "Gaza storm leaves 12 dead or missing",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-storm-leaves-12-dead-or-missing"
       }
     ],
     "GeoTV": [
       {
-        "title": "Disney seals $1bn deal with OpenAI: Here's every detail you need to know",
-        "link": "https://www.geo.tv/latest/638976-disney-seals-1bn-deal-with-openai-find-out-how-fans-react"
+        "title": "Adam Peaty celebrates stag do with Holly inspired t-shirt",
+        "link": "https://www.geo.tv/latest/638982-adam-peaty-celebrates-stag-do-with-holly-inspired-t-shirt"
       },
       {
-        "title": "Victoria Beckham sets record straight in candid interview",
-        "link": "https://www.geo.tv/latest/638946-victoria-beckham-sets-record-straight-in-candid-interview"
+        "title": "Pakistan seal 297-run win over Malaysia in U19 Asia Cup campaign opener",
+        "link": "https://www.geo.tv/latest/638968-pakistan-seal-297-run-win-over-malaysia-in-u19-asia-cup-campaign-opener"
       },
       {
-        "title": "Taylor Swift performs with mother's support after Southport murder tragedy",
-        "link": "https://www.geo.tv/latest/638969-taylor-swift-performs-with-mothers-support-after-southport-murder-tragedy"
+        "title": "Taylor Swift shocks fans with 'Rep (TV)' release Easter Eggs",
+        "link": "https://www.geo.tv/latest/638989-taylor-swift-shocks-fans-with-rep-tv-release-easter-eggs"
       },
       {
-        "title": "Princess Kate reveals forest lodge makeover plans are still in mood-board phase",
-        "link": "https://www.geo.tv/latest/638964-princess-kate-reveals-forest-lodge-makeover-plans-are-still-in-mood-board-phase"
+        "title": "'Friends' cast teams up with Matthew Perry Foundation for special project",
+        "link": "https://www.geo.tv/latest/638988-friends-cast-teams-up-with-matthew-perry-foundation-for-special-project"
       },
       {
-        "title": "After flood-aid spat, Maryam and Bilawal trade warm messages",
-        "link": "https://www.geo.tv/latest/638954-after-flood-aid-spat-maryam-and-bilawal-trade-warm-messages"
+        "title": "Trump signs exectuve order, barring US states from independent AI regulations",
+        "link": "https://www.geo.tv/latest/638980-trump-signs-exectuve-order-barring-us-states-from-independent-ai-regulations"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-12 11:54 UTC"
+  "last_updated": "2025-12-12 12:38 UTC"
 }
