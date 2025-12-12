@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: At least 10 people die in Gaza in past 24 hours amid storm",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/12/live-at-least-10-people-die-in-gaza-in-past-24-hours-amid-storm?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,11 +19,23 @@
         "link": "https://www.bbc.com/news/articles/clyd9nxezjyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Operations and treatments cut back as NHS orders hospitals to balance books",
+        "title": "Stop treating so many patients, NHS managers tell hospitals",
         "link": "https://www.bbc.com/news/articles/crrkervnxvqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Why is Trump demanding travellers’ social media handles; how will it work?",
+        "link": "https://www.aljazeera.com/news/2025/12/12/why-is-trump-demanding-travellers-social-media-handles-how-will-it-work?traffic_source=rss"
+      },
+      {
+        "title": "Gaza storms a “terrible situation” for Palestinians",
+        "link": "https://www.aljazeera.com/video/quotable/2025/12/12/gaza-storms-a-terrible-situation-for-palestinians?traffic_source=rss"
+      },
+      {
+        "title": "Fans slam FIFA, demand halt to ‘extortionate’ 2026 World Cup ticket sales",
+        "link": "https://www.aljazeera.com/news/2025/12/12/fans-slam-fifa-demand-halt-to-extortionate-2026-world-cup-ticket-sales?traffic_source=rss"
+      },
       {
         "title": "Kilmar Abrego Garcia freed from US immigration detention, returns home",
         "link": "https://www.aljazeera.com/news/2025/12/12/kilmar-abrego-garcia-freed-from-us-immigration-detention-returns-home?traffic_source=rss"
@@ -37,18 +43,6 @@
       {
         "title": "Palestine’s historic Arab Cup run ends in quarter-final loss",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/12/palestines-historic-arab-cup-run-ends-in-quarter-final-loss?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: At least 10 people die in Gaza in past 24 hours amid storm",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/12/live-at-least-10-people-die-in-gaza-in-past-24-hours-amid-storm?traffic_source=rss"
-      },
-      {
-        "title": "Rights group accuses RSF of systematic sexual violence in Sudan’s civil war",
-        "link": "https://www.aljazeera.com/news/2025/12/12/rights-group-accuses-rsf-of-systematic-sexual-violence-in-sudans-civil-war?traffic_source=rss"
-      },
-      {
-        "title": "Verdict in Hong Kong media tycoon Jimmy Lai’s trial due next week",
-        "link": "https://www.aljazeera.com/news/2025/12/12/verdict-in-hong-kong-media-tycoon-jimmy-lais-trial-due-next-week?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1960685/pm-calls-on-world-to-urge-kabul-to-rein-in-terrorists-operating-from-afghan-soil"
       },
       {
+        "title": "Bilawal responds to Punjab CM Maryam’s ‘warm welcome’, thanks her for ‘positive gesture’",
+        "link": "https://www.dawn.com/news/1960696/bilawal-responds-to-punjab-cm-maryams-warm-welcome-thanks-her-for-positive-gesture"
+      },
+      {
         "title": "Absence of political trust between India and US highlighted at Congress hearing",
         "link": "https://www.dawn.com/news/1960687/absence-of-political-trust-between-india-and-us-highlighted-at-congress-hearing"
       },
@@ -90,10 +88,6 @@
       {
         "title": "Central bank likely to hold interest rate at 11pc as IMF flags inflation risks",
         "link": "https://www.dawn.com/news/1960682/central-bank-likely-to-hold-interest-rate-at-11pc-as-imf-flags-inflation-risks"
-      },
-      {
-        "title": "Japan lifts tsunami warning after 6.7-magnitude earthquake",
-        "link": "https://www.dawn.com/news/1960691/japan-lifts-tsunami-warning-after-67-magnitude-earthquake"
       }
     ],
     "APNews": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Gaza storm leaves 12 dead or missing",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-storm-leaves-12-dead-or-missing"
+      },
+      {
+        "title": "Unrwa says Israel blocks emergency shelter supplies as Gaza struggles through storm",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uunrwa-says-israel-blocking-emergency-shelter-supplies-gaza-struggles"
+      },
+      {
         "title": "At least nine killed in Gaza as heavy rainfall triggers collapses",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-nine-killed-gaza-heavy-rainfall-triggers-collapses"
       },
@@ -131,36 +133,28 @@
       {
         "title": "Erdogan urges international support to uphold Gaza ceasefire",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-urges-international-support-uphold-gaza-ceasefire"
-      },
-      {
-        "title": "Five killed as home collapses in northern Gaza due to storm",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/five-killed-home-collapses-northern-gaza-due-storm"
-      },
-      {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-474"
       }
     ],
     "GeoTV": [
       {
-        "title": "Japan deploys ‘Monster Wolf' robots with glowing red eyes to stop bear attacks",
-        "link": "https://www.geo.tv/latest/638933-japan-deploys-monster-wolf-robots-with-glowing-red-eyes-to-stop-bear-attacks"
+        "title": "Prince Harry leaves critics baffled in uneasy moment: watch",
+        "link": "https://www.geo.tv/latest/638934-prince-harry-leaves-critics-baffled-in-uneasy-moment-watch"
       },
       {
-        "title": "THIS new malware is locking Android phones and demanding ransom: Details inside",
-        "link": "https://www.geo.tv/latest/638924-this-new-malware-is-locking-android-phones-and-demanding-ransom-details-inside"
+        "title": "NASA loses contact with MAVEN spacecraft orbiting Mars since 2014 after 3I/ATLAS flyby",
+        "link": "https://www.geo.tv/latest/638939-nasa-loses-contact-with-maven-spacecraft-orbiting-mars-since-2014-after-3iatlas-flyby"
       },
       {
-        "title": "Messi to unveil 21-metre statue of himself on India 'GOAT' tour",
-        "link": "https://www.geo.tv/latest/638930-messi-to-unveil-21-metre-statue-of-himself-on-india-goat-tour"
+        "title": "Royal Family issues urgent statement as fresh Epstein drama emerges",
+        "link": "https://www.geo.tv/latest/638925-royal-family-issues-urgent-statement-as-fresh-epstein-drama-emerges"
       },
       {
-        "title": "Taylor Swift docuseries finally out: 'Start of an age'",
-        "link": "https://www.geo.tv/latest/638931-taylor-swift-docuseries-finally-out-start-of-an-age"
+        "title": "Megan Moroney announces 2026 ‘Cloud 9' tour",
+        "link": "https://www.geo.tv/latest/638927-megan-moroney-announces-2026-cloud-9-tour"
       },
       {
-        "title": "PM Shehbaz seeks global pressure on Kabul over 'new terror threat'",
-        "link": "https://www.geo.tv/latest/638919-pm-shehbaz-seeks-global-pressure-on-kabul-over-new-terror-threat"
+        "title": "'The Sopranos' star Jamie-Lynn Sigler set to appear in 'Grey's Anatomy'",
+        "link": "https://www.geo.tv/latest/638935-the-sopranos-star-jamie-lynn-sigler-set-to-appear-in-greys-anatomy"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-12 09:13 UTC"
+  "last_updated": "2025-12-12 09:40 UTC"
 }
