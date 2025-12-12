@@ -1,9 +1,15 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Goa Club Fire LIVE Updates: Thailand Begins Deportation Process Of Luthras",
+      "link": "https://www.ndtv.com/india-news/goa-nightclub-fire-live-updates-saurabh-luthra-gaurav-luthra-news-updates-luthra-brothers-detained-over-goa-club-fire-deportation-next-9789461#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "'Super flu' wave hits hospitals in England with no peak yet",
+        "title": "Flu surge a challenge for NHS 'unlike any' since pandemic, Streeting says",
         "link": "https://www.bbc.com/news/articles/c8r30787e76o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Cambodia-Thailand fighting enters 5th day, Thai PM confirms Trump call",
+        "link": "https://www.aljazeera.com/news/2025/12/12/cambodia-thailand-fighting-enters-5th-day-thai-pm-confirms-trump-call?traffic_source=rss"
+      },
+      {
+        "title": "Gaza’s displaced face storm disaster with almost nothing",
+        "link": "https://www.aljazeera.com/news/2025/12/12/gazas-displaced-face-storm-disaster-with-almost-nothing?traffic_source=rss"
+      },
+      {
         "title": "Magnitude 6.7 earthquake hits Japan’s northeast, tsunami warning issued",
         "link": "https://www.aljazeera.com/news/2025/12/12/magnitude-6-7-earthquake-hits-japans-northeast-tsunami-warning-issued?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "N Korea’s Kim hails ‘ever-victorious’ army’s role in war against Ukraine",
         "link": "https://www.aljazeera.com/news/2025/12/12/n-koreas-kim-hails-ever-victorious-armys-role-in-war-against-ukraine?traffic_source=rss"
-      },
-      {
-        "title": "Indiana’s state Senate votes down redistricting bill despite Trump pressure",
-        "link": "https://www.aljazeera.com/news/2025/12/12/indianas-state-senate-votes-down-redistricting-bill-despite-trump-pressure?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,387",
-        "link": "https://www.aljazeera.com/news/2025/12/12/russia-ukraine-war-list-of-key-events-day-1387?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1960677/5-cops-injured-in-late-night-terrorist-attack-on-police-checkpost-in-bannu"
       },
       {
+        "title": "Central bank likely to hold interest rate at 11pc as IMF flags inflation risks",
+        "link": "https://www.dawn.com/news/1960682/central-bank-likely-to-hold-interest-rate-at-11pc-as-imf-flags-inflation-risks"
+      },
+      {
         "title": "Afghan clerics adopt resolution to ‘rein in militancy abroad’",
         "link": "https://www.dawn.com/news/1960622/afghan-clerics-adopt-resolution-to-rein-in-militancy-abroad"
       },
       {
         "title": "Govt agrees to new IMF targets after missing about a dozen",
         "link": "https://www.dawn.com/news/1960625/govt-agrees-to-new-imf-targets-after-missing-about-a-dozen"
-      },
-      {
-        "title": "Trump launches gold card for expedited visas with a $1m price tag",
-        "link": "https://www.dawn.com/news/1960601/trump-launches-gold-card-for-expedited-visas-with-a-1m-price-tag"
       }
     ],
     "APNews": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-474"
+      },
+      {
         "title": "Evening recap",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-585"
       },
@@ -129,13 +139,17 @@
       {
         "title": "Tucker Carlson visits Gaza refugees, accuses Israel of murdering children",
         "link": "https://www.middleeasteye.net/trending/tucker-carlson-visits-gaza-refugees-accuses-israel-murdering-children"
-      },
-      {
-        "title": "US eyeing two-star general to oversee international force in Gaza: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-eyeing-two-star-general-oversee-international-force-gaza-report"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Lili Reinhart shares emotional journey to endometriosis diagnosis",
+        "link": "https://www.geo.tv/latest/638897-lili-reinhart-shares-emotional-journey-to-endometriosis-diagnosis"
+      },
+      {
+        "title": "Bad Bunny loses footing mid-performance",
+        "link": "https://www.geo.tv/latest/638898-bad-bunny-loses-footing-mid-performance"
+      },
       {
         "title": "Pakistan assures IMF of farm input tax hikes, cuts in uplift schemes",
         "link": "https://www.geo.tv/latest/638891-pakistan-assures-imf-of-farm-input-tax-hikes-cuts-in-uplift-schemes"
@@ -147,36 +161,28 @@
       {
         "title": "America preparing to 'seize' more tankers off Venezuela's coast",
         "link": "https://www.geo.tv/latest/638886-america-preparing-to-seize-more-tankers-off-venezuelas-coast"
-      },
-      {
-        "title": "A new geopolitical chessboard",
-        "link": "https://www.geo.tv/latest/638885-a-new-geopolitical-chessboard"
-      },
-      {
-        "title": "Snoop Dogg gets special honour from Olympics",
-        "link": "https://www.geo.tv/latest/638883-snoop-dogg-gets-special-honour-from-olympics"
       }
     ],
     "NDTV": [
       {
-        "title": "\"1 H-1B Worker Equals 10 Illegal Aliens\": US Pollster's \"De-Indianise\" Call",
-        "link": "https://www.ndtv.com/world-news/1-h-1b-worker-equals-10-illegal-aliens-us-pollster-mark-mitchells-de-indianise-call-9795986#publisher=newsstand"
+        "title": "Luthra Brothers' Deportation Begins. How They Are Being Brought To India",
+        "link": "https://www.ndtv.com/india-news/goa-nightclub-fire-luthra-brothers-saurabh-luthra-gaurav-luthra-deportation-begins-being-taken-to-phuket-to-bangkok-9795759#publisher=newsstand"
       },
       {
-        "title": "'Was Hit With Rod': Mumbai Woman Says She Was Assaulted At Goa's Romeo Lane",
+        "title": "\"Hit Us, Abused\": Woman Alleges Assault At Luthras' Demolished Goa Club",
         "link": "https://www.ndtv.com/india-news/goa-romeo-lane-vagator-was-hit-with-rod-mumbai-woman-says-she-was-assaulted-at-goas-romeo-lane-9795943#publisher=newsstand"
       },
       {
-        "title": "\"He Is Constantly Shaking Hands\": White House On Trump's Bandaged Hand",
-        "link": "https://www.ndtv.com/world-news/white-house-on-donald-trumps-bandaged-hand-he-is-constantly-shaking-hands-9795234#publisher=newsstand"
+        "title": "Massive Fire At Bar In Bhubaneswar. Thick Black Smoke Seen Atop Building",
+        "link": "https://www.ndtv.com/india-news/odisha-bar-fire-massive-fire-at-bar-in-bhubaneswar-thick-black-smoke-seen-atop-building-9796128#publisher=newsstand"
       },
       {
-        "title": "Andhra Bus With Devotees Crashes Into Ravine Due To Heavy Fog, 9 Dead",
-        "link": "https://www.ndtv.com/india-news/9-dead-as-bus-veers-off-road-plunges-into-ravine-in-andhra-pradesh-9795524#publisher=newsstand"
+        "title": "Indian Artefacts Among 600 \"High Value\" Items Stolen From UK Museum",
+        "link": "https://www.ndtv.com/world-news/bristol-museum-uk-news-indian-artefacts-among-600-high-value-items-stolen-from-uk-museum-9795537#publisher=newsstand"
       },
       {
-        "title": "Luthra Brothers Being Taken To Bangkok From Phuket As Deportation Process Begins",
-        "link": "https://www.ndtv.com/india-news/goa-nightclub-fire-luthra-brothers-saurabh-luthra-gaurav-luthra-deportation-begins-being-taken-to-phuket-to-bangkok-9795759#publisher=newsstand"
+        "title": "Goa Club Fire LIVE Updates: Thailand Begins Deportation Process Of Luthras",
+        "link": "https://www.ndtv.com/india-news/goa-nightclub-fire-live-updates-saurabh-luthra-gaurav-luthra-news-updates-luthra-brothers-detained-over-goa-club-fire-deportation-next-9789461#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-12 05:11 UTC"
+  "last_updated": "2025-12-12 05:38 UTC"
 }
