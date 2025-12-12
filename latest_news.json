@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "King says he can 'share the good news' his cancer treatment will be reduced",
+        "link": "https://www.bbc.com/news/articles/c14vvv8pnpmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "EU backs indefinite freeze on Russia's frozen cash ahead of loan plan for Ukraine",
         "link": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,13 @@
       {
         "title": "Hundreds tell BBC of adopted children's struggles amid calls for lifelong support",
         "link": "https://www.bbc.com/news/articles/cjrj0vxnxqjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Best-selling author Joanna Trollope dies aged 82",
-        "link": "https://www.bbc.com/news/articles/cq6008er5zgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Kilmar Abrego Garcia relieved to not be arrested after US court hearing",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/12/kilmar-abrego-garcia-relieved-to-not-be-arrested-after-us-court-hearing?traffic_source=rss"
+      },
       {
         "title": "How does sectarianism impact daily life in Lebanon?",
         "link": "https://www.aljazeera.com/video/the-stream/2025/12/12/how-does-sectarianism-impact-daily-life-in-lebanon?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Were South Africans lured into fighting for Russia’s Ukraine war?",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/12/were-south-africans-lured-into-fighting-for-russias-ukraine-war?traffic_source=rss"
-      },
-      {
-        "title": "Zelenskyy visits frontlines as Ukraine retakes parts of Kupiansk",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/12/zelenskyy-visits-frontlines-as-ukraine-retakes-parts-of-kupiansk?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +82,12 @@
         "link": "https://www.dawn.com/news/1960717/pti-reconstitutes-political-committee-includes-leaders-of-opposition-alliance"
       },
       {
-        "title": "Azad Kashmir, Gilgit-Baltistan must receive funding under the NFC award: Nawaz",
-        "link": "https://www.dawn.com/news/1960709/azad-kashmir-gilgit-baltistan-must-receive-funding-under-the-nfc-award-nawaz"
+        "title": "UN expert decries PTI founder Imran Khan’s detention",
+        "link": "https://www.dawn.com/news/1960720/un-expert-decries-pti-founder-imran-khans-detention"
       },
       {
-        "title": "Pakistan to allow Binance to explore ‘tokenisation’ of up to $2bn of assets",
-        "link": "https://www.dawn.com/news/1960712/pakistan-to-allow-binance-to-explore-tokenisation-of-up-to-2bn-of-assets"
+        "title": "Azad Kashmir, Gilgit-Baltistan must receive funding under the NFC award: Nawaz",
+        "link": "https://www.dawn.com/news/1960709/azad-kashmir-gilgit-baltistan-must-receive-funding-under-the-nfc-award-nawaz"
       }
     ],
     "APNews": [],
@@ -97,8 +97,12 @@
         "link": "https://www.nytimes.com/2025/12/12/us/politics/trumps-corporate-tax-cuts-economy.html"
       },
       {
-        "title": "Behind the Supreme Court’s Push to Expand Presidential Power",
-        "link": "https://www.nytimes.com/video/us/100000010574596/behind-the-supreme-courts-push-to-expand-presidential-power.html"
+        "title": "Transportation Dept. Threatens to Withhold Funds From N.Y. Over Noncitizen Licenses",
+        "link": "https://www.nytimes.com/2025/12/12/us/politics/transportation-dept-threatens-to-withhold-funds-from-ny-over-noncitizen-licenses.html"
+      },
+      {
+        "title": "Trump Commuted David Gentile’s Sentence. His Victims Are Seething.",
+        "link": "https://www.nytimes.com/2025/12/12/nyregion/david-gentile-trump-commutation.html"
       },
       {
         "title": "Alvin Holsey, Admiral Who Oversaw Boat Strikes Off Venezuela’s Coast, Retires",
@@ -107,10 +111,6 @@
       {
         "title": "A Seized Oil Tanker Off Venezuela and the Big Business of Dark Fleet Smuggling",
         "link": "https://www.nytimes.com/2025/12/12/business/energy-environment/venezuela-oil-tanker-dark-fleet.html"
-      },
-      {
-        "title": "Troops Involved in Boat Strikes Face a ‘Moral Injury’ Risk, Experts Say",
-        "link": "https://www.nytimes.com/2025/12/12/us/troops-involved-in-boat-strikes-face-a-moral-injury-risk-experts-say.html"
       }
     ],
     "MiddleEastEye": [
@@ -119,7 +119,7 @@
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-says-2025-saw-largest-expansion-israeli-settlement-plans-record"
       },
       {
-        "title": "UN panel files report on misconduct allegations against ICC prosecutor",
+        "title": "UN investigators files report on misconduct allegations against ICC prosecutor",
         "link": "https://www.middleeasteye.net/news/un-panel-delivers-report-icc-prosecutor-misconduct-allegations"
       },
       {
@@ -137,6 +137,14 @@
     ],
     "GeoTV": [
       {
+        "title": "King Charles urges brits to screen for Cancer while sharing his own journey",
+        "link": "https://www.geo.tv/latest/639073-king-charles-urges-brits-to-screen-for-cancer-while-sharing-his-own-journey"
+      },
+      {
+        "title": "Woody Harrelson, wife Laura supports director at Walk of Fame",
+        "link": "https://www.geo.tv/latest/639072-woody-harrelson-wife-laura-supports-director-at-walk-of-fame"
+      },
+      {
         "title": "Meghan Markle urges 'thoughtfulness' as King Charles TV appearance looms",
         "link": "https://www.geo.tv/latest/639067-meghan-markle-urges-thoughtfulness-as-king-charles-tv-appearance-looms"
       },
@@ -147,17 +155,17 @@
       {
         "title": "George Clooney reveals why he's retiring his romantic hero image",
         "link": "https://www.geo.tv/latest/639053-george-clooney-reveals-why-hes-retiring-his-romantic-hero-image"
-      },
-      {
-        "title": "Taylor Swift recalls biggest fear during Eras Tour rehearsals",
-        "link": "https://www.geo.tv/latest/639054-taylor-swift-recalls-biggest-fear-during-eras-tour-rehearsals"
-      },
-      {
-        "title": "Katie Price 'obsessed' with Maura Higgins as new beauty inspiration",
-        "link": "https://www.geo.tv/latest/639044-katie-price-obsessed-with"
       }
     ],
     "NDTV": [
+      {
+        "title": "\"Peace, Understanding, Reconciliation\": President Murmu's Message To Manipur",
+        "link": "https://www.ndtv.com/india-news/peace-understanding-reconciliation-president-droupadi-murmu-message-to-manipur-9800174#publisher=newsstand"
+      },
+      {
+        "title": "US Flew Bombers, Fighter Jets, Drones Along Venezuela Coast Amid Tensions",
+        "link": "https://www.ndtv.com/world-news/us-flew-bombers-fighter-jets-drones-along-venezuela-coast-amid-tensions-9801190#publisher=newsstand"
+      },
       {
         "title": "On Manipur's 'Nupi Lan Day' To Honour Anti-Colonial Revolt, A Women Power Run In Delhi",
         "link": "https://www.ndtv.com/india-news/on-manipur-nupi-lan-day-to-honour-anti-colonial-revolt-a-women-power-run-in-delhi-9801094#publisher=newsstand"
@@ -169,14 +177,6 @@
       {
         "title": "Ukraine To Join EU By 2027 Under Draft Peace Proposal: Report",
         "link": "https://www.ndtv.com/world-news/ukraine-to-join-eu-by-2027-under-draft-peace-proposal-report-9801071#publisher=newsstand"
-      },
-      {
-        "title": "Indian-Origin Millionaire Crashes Tesla, Tries To Burn Down US Winery",
-        "link": "https://www.ndtv.com/world-news/indian-origin-millionaire-vikram-beri-crashes-tesla-tries-to-burn-down-us-winery-9798553#publisher=newsstand"
-      },
-      {
-        "title": "YouTube Removes Pakistan Reality Show Based On 'Love Island'",
-        "link": "https://www.ndtv.com/world-news/youtube-removes-pakistan-reality-show-based-on-love-island-9801051#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-12 19:59 UTC"
+  "last_updated": "2025-12-12 20:32 UTC"
 }
