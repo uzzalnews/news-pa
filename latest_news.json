@@ -1,6 +1,11 @@
 {
   "breaking": [
     {
+      "source": "AlJazeera",
+      "title": "LIVE: At least 10 people die in Gaza in past 24 hours amid storm",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/12/live-at-least-10-people-die-in-gaza-in-past-24-hours-amid-storm?traffic_source=rss"
+    },
+    {
       "source": "NDTV",
       "title": "Goa Club Fire LIVE Updates: Luthras To Remain In Bangkok For 2 Days",
       "link": "https://www.ndtv.com/india-news/goa-nightclub-fire-live-updates-saurabh-luthra-gaurav-luthra-news-updates-luthra-brothers-detained-over-goa-club-fire-deportation-next-9789461#publisher=newsstand"
@@ -31,24 +36,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Kilmar Abrego Garcia freed from US immigration detention, returns home",
+        "link": "https://www.aljazeera.com/news/2025/12/12/kilmar-abrego-garcia-freed-from-us-immigration-detention-returns-home?traffic_source=rss"
+      },
+      {
+        "title": "Palestine’s historic Arab Cup run ends in quarter-final loss",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/12/palestines-historic-arab-cup-run-ends-in-quarter-final-loss?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: At least 10 people die in Gaza in past 24 hours amid storm",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/12/live-at-least-10-people-die-in-gaza-in-past-24-hours-amid-storm?traffic_source=rss"
+      },
+      {
         "title": "Rights group accuses RSF of systematic sexual violence in Sudan’s civil war",
         "link": "https://www.aljazeera.com/news/2025/12/12/rights-group-accuses-rsf-of-systematic-sexual-violence-in-sudans-civil-war?traffic_source=rss"
       },
       {
         "title": "Verdict in Hong Kong media tycoon Jimmy Lai’s trial due next week",
         "link": "https://www.aljazeera.com/news/2025/12/12/verdict-in-hong-kong-media-tycoon-jimmy-lais-trial-due-next-week?traffic_source=rss"
-      },
-      {
-        "title": "The US is already at war with Venezuela",
-        "link": "https://www.aljazeera.com/opinions/2025/12/12/the-us-is-already-at-war-with-venezuela?traffic_source=rss"
-      },
-      {
-        "title": "US sanctions family of Venezuela’s Maduro, 6 oil tankers in new crackdown",
-        "link": "https://www.aljazeera.com/news/2025/12/12/us-sanctions-family-of-venezuelas-maduro-6-oil-tankers-in-new-crackdown?traffic_source=rss"
-      },
-      {
-        "title": "Are rainforests now a cause of, rather than the answer to, climate change?",
-        "link": "https://www.aljazeera.com/news/2025/12/12/are-rainforests-now-a-cause-of-rather-than-the-answer-to-climate-change?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +126,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "At least nine killed in Gaza as heavy rainfall triggers collapses",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-nine-killed-gaza-heavy-rainfall-triggers-collapses"
+      },
+      {
         "title": "Israel approves 19 settlements in the occupied West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-approves-19-settlements-occupied-west-bank"
       },
@@ -135,13 +144,17 @@
       {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-474"
-      },
-      {
-        "title": "Evening recap",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-585"
       }
     ],
     "GeoTV": [
+      {
+        "title": "FIFA World Cup 2026 travel fears grow over Trump's proposed five-year social media checks",
+        "link": "https://www.geo.tv/latest/638910-world-cup-2026-travel-fears-grow-over-trump-social-media-checks-after-fan-backlash"
+      },
+      {
+        "title": "How did Taylor Swift buy back her masters? Read on",
+        "link": "https://www.geo.tv/latest/638926-how-did-taylor-swif-buy-back-her-masters-read-on"
+      },
       {
         "title": "Meghan Markle cherishes 'full circle' moment after King Charles nod",
         "link": "https://www.geo.tv/latest/638908-meghan-markle-cherishes-full-circle-moment-in-heartfelt-statement"
@@ -153,36 +166,28 @@
       {
         "title": "SBP likely to hold rate at 11% as IMF flags inflation risks",
         "link": "https://www.geo.tv/latest/638914-sbp-likely-to-hold-rate-at-11-as-imf-flags-inflation-risks"
-      },
-      {
-        "title": "Cold weather likely to intensify from Dec 15 in Karachi",
-        "link": "https://www.geo.tv/latest/638909-cold-weather-likely-to-intensify-from-dec-15-in-karachi"
-      },
-      {
-        "title": "Amanda Seyfried sets new series 'Skinny Dip' at Prime Video",
-        "link": "https://www.geo.tv/latest/638915-amanda-seyfried-sets-new-series-skinny-dip-at-prime-video"
       }
     ],
     "NDTV": [
       {
+        "title": "Opinion: Blog | Shivraj Patil: The 'Always Dapper' Home Minister, Brought Down By 26/11",
+        "link": "https://www.ndtv.com/opinion/shivraj-patil-the-fashion-loving-home-minister-who-was-brought-down-by-26-11-9796943#publisher=newsstand"
+      },
+      {
+        "title": "High On Mushrooms, Alaska Air Pilot Tries To Shut Off Plane Engines Mid-Air. He Was Off-Duty",
+        "link": "https://www.ndtv.com/world-news/high-on-mushrooms-alaska-air-pilot-tries-to-shut-off-plane-engines-mid-air-he-was-off-duty-9796968#publisher=newsstand"
+      },
+      {
+        "title": "Son Of MH370 Flight Victim Seeks Answers 11 Years After Plane Went Missing",
+        "link": "https://www.ndtv.com/world-news/son-of-mh370-flight-victim-seeks-answers-11-years-after-plane-went-missing-9796145#publisher=newsstand"
+      },
+      {
+        "title": "Raids In UP, Gujarat, Jharkhand Linked To Rs 1,000 Crore Cough Syrup Racket",
+        "link": "https://www.ndtv.com/india-news/raids-in-up-gujarat-jharkhand-linked-to-rs-1-000-crore-cough-syrup-racket-9796259#publisher=newsstand"
+      },
+      {
         "title": "Goa Club Fire LIVE Updates: Luthras To Remain In Bangkok For 2 Days",
         "link": "https://www.ndtv.com/india-news/goa-nightclub-fire-live-updates-saurabh-luthra-gaurav-luthra-news-updates-luthra-brothers-detained-over-goa-club-fire-deportation-next-9789461#publisher=newsstand"
-      },
-      {
-        "title": "\"Samajwadi To Majawadi\": BJP Slams Siddaramaiah On Flight Travel Expenses",
-        "link": "https://www.ndtv.com/india-news/bjp-slams-siddaramaiah-on-flight-travel-expenses-samajwadi-to-majawadi-9796774#publisher=newsstand"
-      },
-      {
-        "title": "\"Enraged\" Supreme Court Slaps Rs 1 Lakh Fine On NGO For \"Crumbling Judiciary\"",
-        "link": "https://www.ndtv.com/india-news/enraged-supreme-court-slaps-rs-1-lakh-fine-on-ngo-for-crumbling-judiciary-over-rte-act-petition-9796755#publisher=newsstand"
-      },
-      {
-        "title": "\"Dying Easier\": Unable To Learn English, Andhra Teen Dies By Suicide",
-        "link": "https://www.ndtv.com/andhra-pradesh-news/unable-to-learn-english-andhra-teen-dies-by-suicide-dying-easier-9794353#publisher=newsstand"
-      },
-      {
-        "title": "Passenger Arrested With Two Endangered Monkeys At Bengaluru Airport",
-        "link": "https://www.ndtv.com/bangalore-news/passenger-held-with-two-endangered-monkeys-at-bengaluru-airport-9796464#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-12 07:52 UTC"
+  "last_updated": "2025-12-12 08:20 UTC"
 }
