@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Liverpool vs Brighton – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/13/live-liverpool-vs-brighton-premier-league-mohamed-salah?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Messi’s tour of India gets off to chaotic start with fans throwing bottles",
+        "link": "https://www.aljazeera.com/sports/2025/12/13/messis-tour-of-india-gets-off-to-chaotic-start-with-fans-throwing-bottles?traffic_source=rss"
+      },
+      {
+        "title": "Messi backlash in India after fans pay up to $150 for 20-minute visit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/13/messi-backlash-in-india-after-fans-pay-up-to-150-for-20-minute-visit?traffic_source=rss"
+      },
+      {
         "title": "Thai-Cambodia fighting continues despite US ceasefire claim",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/13/thai-cambodia-fighting-continues-despite-us-ceasefire-claim?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Russian attacks cut power for thousands in Ukraine as peace talks press on",
         "link": "https://www.aljazeera.com/news/2025/12/13/russian-attacks-cut-power-for-thousands-in-ukraine-as-peace-talks-press-on?traffic_source=rss"
-      },
-      {
-        "title": "Trump strips legal protections from Ethiopian refugees in latest crackdown",
-        "link": "https://www.aljazeera.com/news/2025/12/13/trump-strips-legal-protections-from-ethiopian-refugees-in-latest-crackdown?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Liverpool vs Brighton – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/13/live-liverpool-vs-brighton-premier-league-mohamed-salah?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Stellan Skarsgård thinks son Alexander staged 'rebellion' against him",
+        "link": "https://www.geo.tv/latest/639199-stellan-skarsgrd-thinks-son-alexander-staged-rebellion-against-him"
+      },
+      {
         "title": "Taylor Swift drops book recommendation after enticing description",
         "link": "https://www.geo.tv/latest/639208-taylor-swift-drops-book-recommendation-after-enticing-description"
       },
@@ -157,10 +155,6 @@
       {
         "title": "Minister urges authorities to boost facilitation of Pakistani diaspora in UAE",
         "link": "https://www.geo.tv/latest/639203-minister-urges-authorities-to-boost-facilitation-of-pakistani-diaspora-in-uae"
-      },
-      {
-        "title": "King Charles says duty and doctors' orders have lit the path through treatment",
-        "link": "https://www.geo.tv/latest/639201-king-charles-says-duty-and-doctors-orders-have-lit-the-path-through-treatment"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-13 13:46 UTC"
+  "last_updated": "2025-12-13 13:57 UTC"
 }
