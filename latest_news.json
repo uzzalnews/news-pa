@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Storm Byron passes, misery remains in Gaza after 14 killed",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/13/live-storm-byron-passes-misery-remains-in-gaza-after-14-killed?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,11 +19,19 @@
         "link": "https://www.bbc.com/news/articles/cvg8mge23leo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Thailand-Cambodia fighting continues after Trump says countries agree to ceasefire",
-        "link": "https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss"
+        "title": "Robert Rhodes plotted to kill his wife - years later, his child's evidence convicted him",
+        "link": "https://www.bbc.com/news/articles/cgl6ewdr2nyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Virtual reality offers escape to Gaza children wounded in Israel’s war",
+        "link": "https://www.aljazeera.com/news/2025/12/13/virtual-reality-offers-escape-to-gaza-children-wounded-in-israels-war?traffic_source=rss"
+      },
+      {
+        "title": "Libya reopens National Museum in Tripoli after years of closure",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/13/libya-reopens-national-museum-in-tripoli-after-years-of-closure?traffic_source=rss"
+      },
       {
         "title": "Colombia’s ELN rebels prepare for battle amid Trump ‘intervention’ threat",
         "link": "https://www.aljazeera.com/news/2025/12/13/colombias-eln-rebels-prepare-for-battle-amid-trump-intervention-threat?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Myanmar military says armed groups used hospital it bombed, killing dozens",
         "link": "https://www.aljazeera.com/news/2025/12/13/myanmar-military-says-armed-groups-used-hospital-it-bombed-killing-dozens?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Storm Byron passes, misery remains in Gaza after 14 killed",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/13/live-storm-byron-passes-misery-remains-in-gaza-after-14-killed?traffic_source=rss"
-      },
-      {
-        "title": "Russian drone hits Turkish ships in Ukraine",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/13/russian-drone-hits-turkish-ships-in-ukraine?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/1960883/analysts-say-us-package-to-keep-pakistans-f-16s-combat-ready-through-2040"
       },
       {
-        "title": "1 killed, 9 injured as speeding bus collides with trailer on M4 near Khanewal",
-        "link": "https://www.dawn.com/news/1960888/1-killed-9-injured-as-speeding-bus-collides-with-trailer-on-m4-near-khanewal"
+        "title": "Indonesia flood death toll passes 1,000: rescuers",
+        "link": "https://www.dawn.com/news/1960891/indonesia-flood-death-toll-passes-1000-rescuers"
       }
     ],
     "APNews": [],
@@ -143,6 +137,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Fake Leonardo DiCaprio movie torrent injecting malware globally ahead of Christmas 2025",
+        "link": "https://www.geo.tv/latest/639155-fake-leonardo-dicaprio-movie-torrent-injecting-malware-globally-ahead-of"
+      },
+      {
+        "title": "Rihanna steps out in Hollywood after welcoming baby no 3",
+        "link": "https://www.geo.tv/latest/639154-rihanna-steps-out-in-hollywood-after-welcoming-baby-no-3"
+      },
+      {
         "title": "Pakistan Army focused on countering internal, external threats: CDF Munir",
         "link": "https://www.geo.tv/latest/639150-pakistan-army-focused-on-countering-internal-external-threats-cdf-field-marshal-munir"
       },
@@ -153,36 +155,28 @@
       {
         "title": "Elon Musk's Grok chatbot coming to 5,000 schools in El Salvador",
         "link": "https://www.geo.tv/latest/639153-elon-musks-grok-chatbot-coming-to-5000-schools-in-el-salvador"
-      },
-      {
-        "title": "YouTube takes down Urdu reality show 'Lazawal Ishq' in Pakistan",
-        "link": "https://www.geo.tv/latest/639146-youtube-takes-down-urdu-reality-show-lazawal-ishq-in-pakistan"
-      },
-      {
-        "title": "Katy Perry consults doctors for shocking reason amid Justin Trudeau romance",
-        "link": "https://www.geo.tv/latest/639147-katy-perry-consults-doctors-for-shocking-reason-amid-justin-trudeau-romance"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Lost Weight, Crying Constantly\": Husband Of Goa Nightclub Dancer To NDTV",
-        "link": "https://www.ndtv.com/india-news/lost-weight-crying-constantly-mikhail-bukin-husband-of-goa-nightclub-dancer-kristina-to-ndtv-on-fire-tragedy-9802496#publisher=newsstand"
+        "title": "\"Total Embarrassment\": BJP Jabs Mamata Banerjee Over Chaos At Messi Event",
+        "link": "https://www.ndtv.com/india-news/lionel-messi-kolkata-bjp-jabs-mamata-banerjee-over-chaos-total-embarassment-complete-mismanagement-9802563#publisher=newsstand"
       },
       {
-        "title": "\"Want Guilty To Be Punished\": Zubeen Garg's Wife On Assam Cops' Chargesheet",
-        "link": "https://www.ndtv.com/india-news/want-guilty-to-be-punished-zubeen-gargs-wife-on-assam-cops-chargesheet-9801011#publisher=newsstand"
-      },
-      {
-        "title": "Bodies Of 7 Workers Killed In Arunachal Accident Recovered After 4 Days",
-        "link": "https://www.ndtv.com/india-news/bodies-of-7-workers-killed-in-arunachal-accident-recovered-after-4-days-9802699#publisher=newsstand"
-      },
-      {
-        "title": "\"Shocked By Mismanagement\": Mamata Banerjee Apologises To Messi After Chaos",
+        "title": "Mamata Banerjee's Public Apology To Messi, Fans After Kolkata Event Chaos",
         "link": "https://www.ndtv.com/india-news/lionel-messi-deeply-disturbed-shocked-by-mismanagement-mamata-banerjee-apologises-to-lionel-messi-fans-after-salt-lake-stadium-chaos-9802602#publisher=newsstand"
       },
       {
-        "title": "\"Total Embarrassment\": BJP Jabs Mamata Banerjee Over Chaos At Messi Event",
-        "link": "https://www.ndtv.com/india-news/lionel-messi-kolkata-bjp-jabs-mamata-banerjee-over-chaos-total-embarassment-complete-mismanagement-9802563#publisher=newsstand"
+        "title": "US Funeral Home Mistakenly Gives Family Dead Son's Brain Instead Of Clothes",
+        "link": "https://www.ndtv.com/world-news/us-funeral-home-mistakenly-gives-family-dead-sons-brain-instead-of-clothes-9802775#publisher=newsstand"
+      },
+      {
+        "title": "Ex-Air Force Officer Arrested In Assam On Charges Of Spying For Pakistan",
+        "link": "https://www.ndtv.com/india-news/ex-air-force-officer-arrested-in-assam-on-charges-of-spying-for-pakistan-9802952#publisher=newsstand"
+      },
+      {
+        "title": "US Briefly Withheld Intelligence From Israel Over Gaza War During Biden Era",
+        "link": "https://www.ndtv.com/world-news/us-briefly-withheld-intelligence-from-israel-over-gaza-war-during-biden-era-9802934#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-13 09:46 UTC"
+  "last_updated": "2025-12-13 09:57 UTC"
 }
