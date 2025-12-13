@@ -3,12 +3,12 @@
   "news": {
     "BBC": [
       {
-        "title": "King praised for 'powerful' message on early cancer detection",
-        "link": "https://www.bbc.com/news/articles/crl99y91jn0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Andrew will not face police action over bodyguard claim",
         "link": "https://www.bbc.com/news/articles/cvgr1djewxko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "King praised for 'powerful' message on early cancer detection",
+        "link": "https://www.bbc.com/news/articles/crl99y91jn0o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "BMA warns of flu 'scaremongering' ahead of doctor strikes",
@@ -70,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "Khawaja Asif holds ex-ISI chief Faiz Hameed responsible for Nawaz’s ouster, says more charges to come",
-        "link": "https://www.dawn.com/news/1960887/khawaja-asif-holds-ex-isi-chief-faiz-hameed-responsible-for-nawazs-ouster-says-more-charges-to-come"
+        "title": "PM Shehbaz says economy ‘out of the woods’, key indicators show ‘wonderful’ performance",
+        "link": "https://www.dawn.com/news/1960900/pm-shehbaz-says-economy-out-of-the-woods-key-indicators-show-wonderful-performance"
       },
       {
         "title": "Fans vandalise India stadium after football star Messi’s abrupt exit",
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "By revoking Tareq al-Suwaidan's citizenship, Kuwait seeks to silence a native voice",
+        "link": "https://www.middleeasteye.net/opinion/revoking-tareq-al-suwaidans-citizenship-kuwait-seeks-silence-native-voice"
+      },
+      {
         "title": "Israeli army claims it targeted 'key' Hamas member in Gaza City attack",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-claims-it-targeted-key-hamas-member-gaza-city-attack"
       },
@@ -129,13 +133,17 @@
       {
         "title": "Palestinian man dies from wounds inflicted in Israeli attack",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-dies-wounds-inflicted-israeli-attack"
-      },
-      {
-        "title": "Four Palestinians arrested in Israeli raids across occupied West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-palestinians-arrested-israeli-raids-across-occupied-west-bank"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Resident Evil Requiem: Leon's return confirmed in new teaser at The Game Awards 2025",
+        "link": "https://www.geo.tv/latest/639217-resident-evil-requiem-leons-return-confirmed-in-new-teaser-at-the-game-awards-2025"
+      },
+      {
+        "title": "England's David Willey finds 'certainty and security' in PSL instead of IPL",
+        "link": "https://www.geo.tv/latest/639218-englands"
+      },
       {
         "title": "Carrie Underwood debuts dramatic hair transformation",
         "link": "https://www.geo.tv/latest/639221-carrie-underwood-debuts-dramatic-hair-transformation"
@@ -147,14 +155,6 @@
       {
         "title": "Leonardo Dicaprio, Vittoria Ceretti spotted on casual shopping spree",
         "link": "https://www.geo.tv/latest/639216-leonardo-dicaprio-vittoria-ceretti-spotted-on-casual-shopping-spree"
-      },
-      {
-        "title": "Timothee Chalamet offers rare insight into adopting different roles",
-        "link": "https://www.geo.tv/latest/639210-timothee-chalamet-offers-rare-insight-into-adopting-different-roles"
-      },
-      {
-        "title": "Apple's new iOS 26.2 released: Discover all key updates and design tweaks",
-        "link": "https://www.geo.tv/latest/639202-apples-new-ios-262-released-discover-all-key-updates-and-design-tweaks"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-13 14:49 UTC"
+  "last_updated": "2025-12-13 14:59 UTC"
 }
