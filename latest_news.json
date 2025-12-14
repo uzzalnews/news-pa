@@ -93,16 +93,16 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "What We Know About the Shooting at Bondi Beach",
+        "link": "https://www.nytimes.com/2025/12/14/world/australia/what-we-know-bondi-shooting.html"
+      },
+      {
         "title": "Witnesses Fled Bondi Beach as Gunmen Targeted Jewish Event",
         "link": "https://www.nytimes.com/2025/12/14/world/australia/witness-accounts-bondi-beach-shooting.html"
       },
       {
         "title": "What We Know About the Deadly Shooting at Brown University",
         "link": "https://www.nytimes.com/2025/12/13/us/brown-university-shooting-what-happened.html"
-      },
-      {
-        "title": "Gunshots, Sirens and a Manhunt Transform Brown’s Campus",
-        "link": "https://www.nytimes.com/2025/12/13/us/shooting-brown-university-manhunt.html"
       },
       {
         "title": "A Brown University Instructor Hid From Gunfire With His Students",
@@ -114,6 +114,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Palestinian youth shot dead by Israeli forces in Hebron",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-youth-shot-dead-israeli-forces-hebron"
+      },
       {
         "title": "Rain and rubble: Gaza families face a double threat in makeshift homes",
         "link": "https://www.middleeasteye.net/news/rain-and-rubble-gaza-families-face-double-threat-makeshift-homes"
@@ -129,32 +133,28 @@
       {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-476"
-      },
-      {
-        "title": "Evening recap",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-587"
       }
     ],
     "GeoTV": [
       {
+        "title": "Taylor Momsen says Jim Carrey reunion 25 years after 'Grinch' was 'kismet'",
+        "link": "https://www.geo.tv/latest/639349-taylor-momsen-says-jim-carrey-reunion-25-years-after-grinch-was-kismet"
+      },
+      {
+        "title": "Gordon Ramsay left in tears after daughter Tilly announces cooking career",
+        "link": "https://www.geo.tv/latest/639339-gordon-ramsay-left-in-tears-after-daughter-tilly-announces-cooking-career"
+      },
+      {
+        "title": "NHS cyber breach exposes 169,000 files, including records linked to King Charles's home",
+        "link": "https://www.geo.tv/latest/639341-nhs-cyber-breach-exposes-169000-files-including-records-linked-to-king-charless-home"
+      },
+      {
+        "title": "Katy Perry, Justin Trudeau: True love or PR Strategy?",
+        "link": "https://www.geo.tv/latest/639338-katy-perry-justin-trudeau-true-love-or-pr-strategy"
+      },
+      {
         "title": "Tom Cruise's much-awaited space film receives disappointing update",
         "link": "https://www.geo.tv/latest/639337-tom-cruises-much-awaited-space-film-receives-disappointing-update"
-      },
-      {
-        "title": "21 Savage says Drake ignored his advice before Kendrick Lamar feud",
-        "link": "https://www.geo.tv/latest/639336-21-savage-says-drake-ignored-his-advice-before-kendrick-lamar-feud"
-      },
-      {
-        "title": "Late star Peter Greene's last words revealed after mysterious death",
-        "link": "https://www.geo.tv/latest/639332-late-star-peter-greenes-last-words-revealed-after-mysterious-death"
-      },
-      {
-        "title": "King Charles' honest talk drives thousands to seek screening info",
-        "link": "https://www.geo.tv/latest/639334-king-charles-honest-talk-drives-thousands-to-seek-screening-info"
-      },
-      {
-        "title": "Princess Kate moves King Charles with touching gesture after cancer update",
-        "link": "https://www.geo.tv/latest/639330-princess-kate-moves-king-charles-with-touching-gesture-after-cancer-update"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-14 13:00 UTC"
+  "last_updated": "2025-12-14 13:33 UTC"
 }
