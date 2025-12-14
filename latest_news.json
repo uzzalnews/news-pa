@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Alaves vs Real Madrid – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/14/live-alaves-vs-real-madrid-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "France calls to delay vote on EU-Mercosur trade deal",
+        "link": "https://www.aljazeera.com/news/2025/12/14/france-calls-to-delay-vote-on-eu-mercosur-trade-deal?traffic_source=rss"
+      },
+      {
         "title": "Jimmy Lai supporters queue outside Hong Kong court ahead of verdict",
         "link": "https://www.aljazeera.com/news/2025/12/14/jimmy-lai-supporters-queue-outside-hong-kong-court-ahead-of-verdict?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "World reacts to Jewish festival shooting attack at Sydney’s Bondi Beach",
         "link": "https://www.aljazeera.com/news/2025/12/14/world-condemns-mass-shooting-at-jewish-festival-in-sydneys-bondi-beach?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Alaves vs Real Madrid – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/14/live-alaves-vs-real-madrid-la-liga?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-14 21:44 UTC"
+  "last_updated": "2025-12-14 21:55 UTC"
 }
