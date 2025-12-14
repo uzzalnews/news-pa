@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Alaves vs Real Madrid – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/14/live-alaves-vs-real-madrid-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,15 +21,23 @@
         "link": "https://www.bbc.com/news/articles/cqjg22rey0lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "King 'appalled and saddened' by Bondi attack on Jewish community",
-        "link": "https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&at_campaign=rss"
+        "title": "Drone footage shows Bondi Beach gunmen on bridge",
+        "link": "https://www.bbc.com/news/videos/cgl68d8yjwzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Violence against women is a national emergency, Mahmood says",
-        "link": "https://www.bbc.com/news/articles/cj69w7kezdzo?at_medium=RSS&at_campaign=rss"
+        "title": "King 'appalled and saddened' by Bondi attack on Jewish community",
+        "link": "https://www.bbc.com/news/articles/c8e95gkl5r3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "World reacts to Jewish festival shooting attack at Sydney’s Bondi Beach",
+        "link": "https://www.aljazeera.com/news/2025/12/14/world-condemns-mass-shooting-at-jewish-festival-in-sydneys-bondi-beach?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Alaves vs Real Madrid – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/14/live-alaves-vs-real-madrid-la-liga?traffic_source=rss"
+      },
       {
         "title": "Zelenskyy says willing to drop NATO membership bid ahead of peace talks",
         "link": "https://www.aljazeera.com/news/2025/12/14/zelenskyy-says-willing-to-drop-nato-membership-bid-ahead-of-peace-talks?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Person of interest held in hunt for gunman who killed 2 at Brown University",
         "link": "https://www.aljazeera.com/news/2025/12/14/person-of-interest-held-in-hunt-for-gunman-who-killed-2-at-brown-university?traffic_source=rss"
-      },
-      {
-        "title": "We now see the ugly face of Gaza’s ‘new normal’",
-        "link": "https://www.aljazeera.com/opinions/2025/12/14/we-now-see-the-ugly-face-of-gazas-new-normal?traffic_source=rss"
-      },
-      {
-        "title": "Al Jazeera reporter takes shelter amid shelling at Thai-Cambodia border",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/14/al-jazeera-reporter-takes-shelter-amid-shelling-at-thai-cambodia-border?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Why the New York Times discovers its conscience only when the murdered journalist is not Palestinian",
+        "link": "https://www.middleeasteye.net/opinion/why-new-york-times-discovers-its-conscience-only-when-murdered-journalist-not-palestinian"
+      },
+      {
         "title": "Israeli forces kill Palestinian near Gaza boundary",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-near-gaza-boundary"
       },
@@ -129,10 +139,6 @@
       {
         "title": "Israeli air strikes on southern Lebanon kill three",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-southern-lebanon-kill-three"
-      },
-      {
-        "title": "How a Palestine Action hunger striker was left on her cell floor",
-        "link": "https://www.middleeasteye.net/news/can-you-get-ambulance-im-scared-how-palestine-action-hunger-striker-was-left-her-cell-floor"
       }
     ],
     "GeoTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-14 17:18 UTC"
+  "last_updated": "2025-12-14 17:35 UTC"
 }
