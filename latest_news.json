@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Sydney Shooting LIVE Updates: One Bondi Beach Shooter Owned 6 Guns, Other Has IS Links",
-      "link": "https://www.ndtv.com/world-news/australia-mass-shooting-bondi-beach-shooting-sydney-shooting-live-updates-9807208#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,16 +11,16 @@
         "link": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces",
+        "link": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "The difficult question of what it would take to stop Putin fighting in Ukraine",
         "link": "https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'Throw the parcel at the back door' - Evri couriers tell of pressure to earn a decent wage",
         "link": "https://www.bbc.com/news/articles/ceq107yxxjyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Can I just check - are my emails holding me back at work?! Xx",
-        "link": "https://www.bbc.com/news/articles/cvg118dqj2no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Over 90 percent of Sheikh Radwan buildings at risk of collapse, Gaza civil defence says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-90-percent-sheikh-radwan-buildings-risk-collapse-gaza-civil-defence"
+      },
+      {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-477"
       },
@@ -135,13 +133,21 @@
       {
         "title": "The New York Times discovers its conscience when the murdered journalist isn't Palestinian",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/new-york-times-discovers-its-conscience-when-murdered-journalist-isnt"
-      },
-      {
-        "title": "Israeli settler march shuts down Palestinian areas in Hebron",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-march-shuts-down-palestinian-areas-hebron"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Australian PM details visa history of Bondi Beach shooting suspects, vows to strengthen gun laws",
+        "link": "https://www.geo.tv/latest/639454-australian-pm-details-visa-history-of-bondi-beach-shooting-suspects-vows-to-strengthen-gun-laws"
+      },
+      {
+        "title": "Rob Reiner dies: Hollywood reacts to director's horrendous death",
+        "link": "https://www.geo.tv/latest/639446-rob-reiner-dies-hollywood-reacts-to-directors-horrendous-death"
+      },
+      {
+        "title": "Mia Goth recalls first nerve-wracking meet with Christopher Nolan",
+        "link": "https://www.geo.tv/latest/639447-mia-goth-recalls-first-nerve-wracking-meet-with-christopher-nolan"
+      },
       {
         "title": "JetBlue plane narrowly avoids mid-air collision with US Air Force refueler near Venezuela",
         "link": "https://www.geo.tv/latest/639451-jetblue-plane-narrowly-avoids-mid-air-collision-with-us-air-force-refueler-near-venezuela"
@@ -149,39 +155,27 @@
       {
         "title": "Hero who disarmed Bondi attacker identified as Ahmed al Ahmed: Here's what to know",
         "link": "https://www.geo.tv/latest/639445-hero-who-disarmed-bondi-attacker-identified-as-ahmed-al-ahmed-heres-what-to-know"
-      },
-      {
-        "title": "Thomas Markle's emotional reaction to Meghan's letter: ‘trembling'",
-        "link": "https://www.geo.tv/latest/639450-thomas-markles-emotional-reaction-to-meghans-letter-trembling"
-      },
-      {
-        "title": "'Emily in Paris' star Lily Collins stuns in appearance before season 5 premiere",
-        "link": "https://www.geo.tv/latest/639449-emily-in-paris-star-lily-collins-stuns-in-appearance-before-season-5-premiere"
-      },
-      {
-        "title": "Is Rob Reiner's son Nick actually responsible for parents' murder or is it just another disguise?",
-        "link": "https://www.geo.tv/latest/639443-is-rob-reiners-son-nick-actually-responsible-for-parents-murder-or-is-it-just-another-disguise"
       }
     ],
     "NDTV": [
       {
-        "title": "Hong Kong Media Tycoon Jimmy Lai Found Guilty On National Security Charges",
-        "link": "https://www.ndtv.com/world-news/hong-kong-media-tycoon-jimmy-lai-found-guilty-on-national-security-charges-9810662#publisher=newsstand"
+        "title": "Video: Lamborghinis, Porsches Climb Newly-Opened Cho La Pass In Sikkim",
+        "link": "https://www.ndtv.com/india-news/video-lamborghinis-porsches-climb-newly-opened-cho-la-pass-in-sikkim-9810983#publisher=newsstand"
       },
       {
-        "title": "Brown University Junior, Injured In 2019 Shooting, Survives 2nd Campus Crisis",
-        "link": "https://www.ndtv.com/world-news/brown-university-junior-injured-in-2019-shooting-survives-2nd-campus-crisis-9810708#publisher=newsstand"
-      },
-      {
-        "title": "Sydney Shooting LIVE Updates: One Bondi Beach Shooter Owned 6 Guns, Other Has IS Links",
+        "title": "Bondi Beach Shooting Live Updates: India Offers Support To Australia After Antisemitic Terror Attack",
         "link": "https://www.ndtv.com/world-news/australia-mass-shooting-bondi-beach-shooting-sydney-shooting-live-updates-9807208#publisher=newsstand"
       },
       {
-        "title": "NDTV's Weekly Quiz #7: Play Now",
-        "link": "https://www.ndtv.com/india-news/ndtvs-weekly-quiz-7-play-now-6367986#publisher=newsstand"
+        "title": "\"Sonia Gandhi Must Say Sorry\": BJP On Congress Workers' 'PM Modi's Grave' Slogans",
+        "link": "https://www.ndtv.com/india-news/sonia-gandhi-rahul-gandhi-must-say-sorry-bjp-on-congress-worker-manju-lata-meena-pm-narendra-modi-kabra-slogan-9810898#publisher=newsstand"
       },
       {
-        "title": "40 Flights Cancelled, Over 300 Delayed Due To Delhi Smog, Train Ops Hit Too",
+        "title": "Bihar Man Hangs 3 Daughters, 2 Sons Before Killing Himself, 2 Survive",
+        "link": "https://www.ndtv.com/india-news/bihar-man-hangs-3-daughters-2-sons-before-killing-himself-2-survive-9810875#publisher=newsstand"
+      },
+      {
+        "title": "100 Flights Cancelled, 300 Delayed Due To Delhi Smog, Train Ops Hit Too",
         "link": "https://www.ndtv.com/delhi-news/dense-smog-blankets-delhi-as-air-quality-remains-severe-flight-ops-hit-airlines-issue-advisory-9809943#publisher=newsstand"
       }
     ],
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-15 06:41 UTC"
+  "last_updated": "2025-12-15 07:02 UTC"
 }
