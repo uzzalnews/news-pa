@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Liverpool parade attacker lied about 'panicking' and drove at crowds in rage, court told",
+        "link": "https://www.bbc.com/news/articles/cqjg9vprx4eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Resident doctors vote to go ahead with strike in England as hospitals battle flu wave",
         "link": "https://www.bbc.com/news/articles/c246dnyjylqo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,13 @@
       {
         "title": "What to delete from your emails to be taken more seriously at work",
         "link": "https://www.bbc.com/news/articles/cvg118dqj2no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What it would take to stop Putin fighting in Ukraine",
-        "link": "https://www.bbc.com/news/articles/clyzzxggl7go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Europe’s efforts to undermine Trump’s plan on Ukraine may backfire",
+        "link": "https://www.aljazeera.com/opinions/2025/12/15/europes-efforts-to-undermine-trumps-plan-on-ukraine-may-backfire?traffic_source=rss"
+      },
       {
         "title": "Israel demolishes more buildings in military-controlled Gaza: Analysis",
         "link": "https://www.aljazeera.com/news/2025/12/15/israel-demolishes-more-buildings-in-military-controlled-gaza-analysis?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Why are Gaza’s war-damaged homes collapsing in winter?",
         "link": "https://www.aljazeera.com/news/2025/12/15/whats-causing-gazas-war-damaged-homes-to-collapse-in-winter?traffic_source=rss"
-      },
-      {
-        "title": "Who is Jose Antonio Kast, Chile’s newly elected far-right leader?",
-        "link": "https://www.aljazeera.com/news/2025/12/15/who-is-jose-antonio-kast-chiles-newly-elected-far-right-leader?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,8 +86,8 @@
         "link": "https://www.dawn.com/news/1961278/hero-who-disarmed-bondi-gunman-recovers-in-hospital-as-donations-pour-in"
       },
       {
-        "title": "Punjab to field new riot control force for ‘unlawful’ protests",
-        "link": "https://www.dawn.com/news/1961275/punjab-to-field-new-riot-control-force-for-unlawful-protests"
+        "title": "Cop, civilian martyred as terrorists raid bank in Balochistan’s Panjgur",
+        "link": "https://www.dawn.com/news/1961284/cop-civilian-martyred-as-terrorists-raid-bank-in-balochistans-panjgur"
       }
     ],
     "APNews": [],
@@ -109,13 +109,13 @@
         "link": "https://www.nytimes.com/2025/12/15/us/syria-killed-soldiers-iowa-national-guard.html"
       },
       {
-        "title": "How the Bondi Beach Shooting Unfolded",
+        "title": "How the Bondi Beach Shooting Unfolded at a Hanukkah Celebration",
         "link": "https://www.nytimes.com/2025/12/15/world/australia/bondi-beach-shooting-sydney-australia.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "International Criminal Court rejects Israeli bid to halt Gaza investigation",
+        "title": "ICC rejects Israeli bid to halt Gaza investigation",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/international-criminal-court-rejects-israeli-bid-halt-gaza-investigation"
       },
       {
@@ -137,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "'Stranger Things 5' volume 2 trailer unveils Hawkins' final war",
+        "link": "https://www.geo.tv/latest/639593-stranger-things-5-volume-2-trailer-unveils-hawkins-final-war"
+      },
+      {
         "title": "FBI foils 'terror plot' targeting Los Angeles: US attorney general",
         "link": "https://www.geo.tv/latest/639589-fbi-foils-terror-plot-targeting-los-angeles-us-attorney-general"
       },
@@ -151,32 +155,28 @@
       {
         "title": "‘IT Welcome to Derry' to unfold over multiple seasons confirms Andy Muschietti",
         "link": "https://www.geo.tv/latest/639583-it-welcome-to-derry-to-unfold-over-multiple-seasons-confirms-andy-muschietti"
-      },
-      {
-        "title": "King Charles rejects royal aides' suggestion to set great example",
-        "link": "https://www.geo.tv/latest/639584-king-charles-rejects-royal-aides-suggestion-to-set-great-example"
       }
     ],
     "NDTV": [
       {
-        "title": "Old Horror Haunts Madhya Pradesh Again: Rats Jump Over Patients In Hospitals",
-        "link": "https://www.ndtv.com/india-news/old-horror-haunts-madhya-pradesh-again-rats-jump-over-patients-in-hospitals-9820661#publisher=newsstand"
+        "title": "Omar Abdullah Seeks Probe Into Coercion Allegations At Ratle Power Plant",
+        "link": "https://www.ndtv.com/india-news/j-k-chenab-hydro-project-omar-abdullah-seeks-probe-into-coercion-allegations-at-ratle-power-plant-9821271#publisher=newsstand"
       },
       {
-        "title": "Newborn's Charred Body Found Hours After Blaze In Madhya Pradesh Hospital",
-        "link": "https://www.ndtv.com/india-news/newborns-charred-body-found-hours-after-blaze-in-madhya-pradesh-hospital-9819843#publisher=newsstand"
+        "title": "Man Fakes Death By Setting Another Ablaze, Texts To Girlfriend Expose Him",
+        "link": "https://www.ndtv.com/india-news/latur-murder-recovery-agent-murder-man-fakes-death-by-setting-another-ablaze-texts-to-girlfriend-expose-him-9821040#publisher=newsstand"
       },
       {
-        "title": "As Centre Plans MGNREGA Makeover, States Still Owed Rs 9,700 Crore",
-        "link": "https://www.ndtv.com/india-news/as-centre-plans-mgnrega-makeover-to-vb-g-ram-g-states-still-owed-rs-9-700-crore-9819186#publisher=newsstand"
+        "title": "19-Year-Old Rapido Driver Robs, Molests Woman Near Mumbai, Arrested",
+        "link": "https://www.ndtv.com/india-news/19-year-old-rapido-driver-robs-molests-woman-near-mumbai-arrested-9814913#publisher=newsstand"
       },
       {
-        "title": "\"Avoid My-State-My-State Attitude\": Top Court Raps Tamil Nadu On Language Policy",
-        "link": "https://www.ndtv.com/india-news/avoid-my-state-my-state-attitude-top-court-raps-tamil-nadu-on-language-policy-9817429#publisher=newsstand"
+        "title": "Sikkim Opens Cho La, Dok La At India-China Border For Battlefield Tourism",
+        "link": "https://www.ndtv.com/india-news/sikkim-opens-cho-la-dok-la-at-india-china-border-for-battlefield-tourism-9818434#publisher=newsstand"
       },
       {
-        "title": "ED Attaches Assets Worth Rs 5.41 Crore Over Illegal Immigration To US",
-        "link": "https://www.ndtv.com/india-news/ed-attaches-assets-worth-rs-5-41-crore-over-illegal-immigration-to-us-9818728#publisher=newsstand"
+        "title": "Chemicals, Equipment Worth Rs 100 Crore Seized At Drug Factory In Rajasthan",
+        "link": "https://www.ndtv.com/india-news/chemicals-equipment-worth-rs-100-crore-seized-at-drug-factory-in-rajasthan-9812501#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-15 17:12 UTC"
+  "last_updated": "2025-12-15 17:41 UTC"
 }
