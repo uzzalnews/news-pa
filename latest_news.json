@@ -11,7 +11,7 @@
         "link": "https://www.bbc.com/news/articles/c20gl66r0wno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Resident doctors vote to go on strike in England as hospitals battle flu wave",
+        "title": "Resident doctors vote to go ahead with strike in England as hospitals battle flu wave",
         "link": "https://www.bbc.com/news/articles/c246dnyjylqo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -24,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "What we know about the Bondi Beach Hannukah shooting",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/15/what-we-know-about-the-bondi-beach-hannukah-shooting?traffic_source=rss"
+      },
       {
         "title": "Romanians mount mass protests over judicial corruption",
         "link": "https://www.aljazeera.com/news/2025/12/15/romanians-mount-mass-protests-over-judicial-corruption?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Who is Jimmy Lai, the media mogul convicted in Hong Kong?",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/15/who-is-jimmy-lai-the-media-mogul-convicted-in-hong-kong?traffic_source=rss"
-      },
-      {
-        "title": "The real reason Israel wants to open the Rafah crossing",
-        "link": "https://www.aljazeera.com/opinions/2025/12/15/the-real-reason-israel-wants-to-open-the-rafah-crossing?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Netanyahu and Tom Barrack meet in Jerusalem",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-and-tom-barrack-meet-jerusalem"
+      },
+      {
         "title": "Israeli troops shoot settler suspected of attempted knife attack on soldiers",
         "link": "https://www.middleeasteye.net/news/israeli-forces-shoot-settler-mistaken-palestinian-holding-knife"
       },
@@ -129,13 +133,21 @@
       {
         "title": "UN says aid cuts causing refugees 'unnecessary pain'",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-aid-cuts-causing-refugees-unnecessary-pain"
-      },
-      {
-        "title": "Sudan witnesses burial of 15,000 bodies across Khartoum state",
-        "link": "https://www.middleeasteye.net/news/sudan-burial-bodies-khartoum-state"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Smart meters' prices slashed by up to 40%: energy minister",
+        "link": "https://www.geo.tv/latest/639549-smart-meters-prices-slashed-by-up-to-40-power-minister"
+      },
+      {
+        "title": "‘Christy' and ‘Ella McCay' mark rough year for big screen releases",
+        "link": "https://www.geo.tv/latest/639551-christy-and-ella-mccay-mark-rough-year-for-big-screen-releases"
+      },
+      {
+        "title": "Silicon Valley summit 2025: Humanoids take spotlight for real-world capabilities",
+        "link": "https://www.geo.tv/latest/639542-silicon-valley-summit-2025-humanoids-take-spotlight-for-real-world-capabilities"
+      },
       {
         "title": "Australian actress Rachel Carpani dies at 45 after chronic illness",
         "link": "https://www.geo.tv/latest/639547-australian-actress-rachel-carpani-dies-at-45-after-chronic-illness"
@@ -143,40 +155,28 @@
       {
         "title": "Shaheen Afridi taken off attack after high full tosses in BBL debut",
         "link": "https://www.geo.tv/latest/639541-shaheen-afridi-taken-off-attack-after-high-full-tosses-in-bbl-debut"
-      },
-      {
-        "title": "Prince William gives competition to Princess Kate as he receives new title",
-        "link": "https://www.geo.tv/latest/639529-prince-william-gives-competition-to-princess-kate-as-he-receives-new-title"
-      },
-      {
-        "title": "Simon Cowell's new boyband December 10 set to debut first music video",
-        "link": "https://www.geo.tv/latest/639544-simon-cowells-new-boyband-december-10-set-to-debut-first-music-video"
-      },
-      {
-        "title": "Who are Rob Reiner's four children? —here's every detail you need to know",
-        "link": "https://www.geo.tv/latest/639528-director-dad-rob-reiners-childrennick-tracym-jak"
       }
     ],
     "NDTV": [
-      {
-        "title": "Supreme Court Asks Why Full Audio Not Sent To Lab In Manipur Tapes Case, Government To Reply",
-        "link": "https://www.ndtv.com/india-news/manipur-violence-sc-asks-why-entire-leaked-clips-not-sent-for-forensic-test-9812825#publisher=newsstand"
-      },
-      {
-        "title": "Man Who Kicked Shooter's Gun Away During Sydney Beach Attack Is A Refugee",
-        "link": "https://www.ndtv.com/world-news/sydney-beach-shooting-bondi-beach-shooting-australia-shooting-man-who-kicked-shooters-gun-away-during-sydney-beach-attack-is-a-refugee-9814422#publisher=newsstand"
-      },
       {
         "title": "The Misidentification Of Ahmed Al Ahmed, Sydney Bondi Beach Shooting Hero",
         "link": "https://www.ndtv.com/world-news/sydney-beach-shooting-bondi-beach-shooting-ahmed-al-ahmed-new-detail-about-sydney-hero-who-tackled-gunman-he-is-not-a-fruit-seller-9813228#publisher=newsstand"
       },
       {
-        "title": "\"Felt Good To Hear Masood Azhar Cry\": Ex J&K Police Chief On Leaked Audio",
-        "link": "https://www.ndtv.com/india-news/felt-good-to-hear-masood-azhar-cry-ex-jammu-and-kashmir-police-chief-sp-vaid-on-leaked-audio-9814059#publisher=newsstand"
+        "title": "Centre To Replace MGNREGA With G Ram G, Congress Asks \"Problem With Bapu?\"",
+        "link": "https://www.ndtv.com/india-news/g-ram-g-to-replace-mnrega-new-bill-to-be-introduced-in-parliament-9811165#publisher=newsstand"
       },
       {
-        "title": "Mother's Sarees, Father's Suicide Plan: 4 Chilling Deaths In Bihar Village",
-        "link": "https://www.ndtv.com/india-news/muzaffarpur-suicide-mothers-sarees-fathers-suicide-plan-4-chilling-deaths-in-bihar-village-9812880#publisher=newsstand"
+        "title": "For First Time In 50 Years, Japan Will Be Panda-Less As Twins Leave Tokyo",
+        "link": "https://www.ndtv.com/world-news/for-first-time-in-50-years-japan-will-be-panda-less-as-twins-leave-tokyo-9816306#publisher=newsstand"
+      },
+      {
+        "title": "\"Would Do It Again\": Man Who Snatched Gun From Sydney Shooter May Lose Arm",
+        "link": "https://www.ndtv.com/world-news/sydney-beach-shooting-bondi-beach-shooting-would-do-it-again-man-who-snatched-gun-from-sydney-shooter-may-lose-arm-9816118#publisher=newsstand"
+      },
+      {
+        "title": "Video: Moment Sydney Victim Confronted Attacker Before Being Shot Dead",
+        "link": "https://www.ndtv.com/world-news/watch-when-bondi-terror-attack-victim-reuven-morrison-confronted-shooter-9815322#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-15 13:24 UTC"
+  "last_updated": "2025-12-15 13:56 UTC"
 }
