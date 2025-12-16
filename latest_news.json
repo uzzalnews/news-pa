@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israeli raids across West Bank, Gaza reels from aftermath of storm",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/16/israeli-raids-across-west-bank-as-gaza-reels-from-aftermath-of-storm?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Israeli raids across West Bank, Gaza reels from aftermath of storm",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/16/israeli-raids-across-west-bank-as-gaza-reels-from-aftermath-of-storm?traffic_source=rss"
+      },
+      {
         "title": "US military kills 8 in latest attacks on vessels in eastern Pacific",
         "link": "https://www.aljazeera.com/news/2025/12/16/us-military-kills-eight-in-latest-attacks-on-vessels-in-eastern-pacific?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Russian court designates punk band Pussy Riot as ‘extremist’ group",
         "link": "https://www.aljazeera.com/news/2025/12/16/russian-court-designates-punk-band-pussy-riot-as-extremist-group?traffic_source=rss"
-      },
-      {
-        "title": "Trump urges China’s Xi to free jailed Hong Kong media tycoon Jimmy Lai",
-        "link": "https://www.aljazeera.com/news/2025/12/16/trump-urges-chinas-xi-to-free-jailed-hong-kong-media-tycoon-jimmy-lai?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,16 +99,16 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "How the Bondi Beach Shooting Unfolded at a Hanukkah Celebration",
-        "link": "https://www.nytimes.com/2025/12/15/world/australia/bondi-beach-shooting-sydney-australia.html"
+        "title": "Bondi Suspects Were in Southern Philippines, Where ISIS Is Active",
+        "link": "https://www.nytimes.com/2025/12/16/world/asia/bondi-shooting-gunmen-philippines-isis.html"
+      },
+      {
+        "title": "In Sydney Suburb Where Suspects Lived, Neighbor Saw ‘No Dramas’",
+        "link": "https://www.nytimes.com/2025/12/16/world/australia/sydney-bondi-suspects-neighborhood-bonnyrigg.html"
       },
       {
         "title": "At a Dark Moment, Jews in New York Celebrate the Festival of Lights",
         "link": "https://www.nytimes.com/2025/12/15/nyregion/hanukkah-menorah-nyc-jews-australia.html"
-      },
-      {
-        "title": "Ahmed el Ahmed, Who Tackled One of the Bondi Beach Gunmen, Is Recovering in a Hospital",
-        "link": "https://www.nytimes.com/2025/12/15/world/australia/ahmed-bondi-shooting-hero-tackled-shooter-injured.html"
       },
       {
         "title": "Nick Reiner’s Struggles With Drugs Left His Parents ‘Desperate’",
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Former Colombian president urges Israel to free Barghouti to revive peace prospects",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-colombian-president-urges-israel-free-barghouti-revive-peace"
+      },
+      {
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-478"
+      },
+      {
         "title": "Evening recap",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-589"
       },
@@ -125,36 +139,28 @@
       {
         "title": "Trump says US to investigate Israel's assassination of Hamas official as ceasefire violation",
         "link": "https://www.middleeasteye.net/news/trump-says-us-will-investigate-israels-assassination-senior-hamas-official-ceasefire-violation"
-      },
-      {
-        "title": "US contractor behind 'Alligator Alcatraz' was frontrunner for Gaza aid project: Report",
-        "link": "https://www.middleeasteye.net/news/us-contractor-behind-alligator-alcatraz-detention-centre-was-frontrunner-gaza-aid-project"
-      },
-      {
-        "title": "UN general assembly overwhelmingly backs Palestinian self-determination",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-general-assembly-overwhelmingly-backs-palestinian-self-determination"
       }
     ],
     "GeoTV": [
       {
-        "title": "WATCH: Mexico City lawmakers pull hair, trade blows during debate",
-        "link": "https://www.geo.tv/latest/639647-watch-mexico-city-lawmakers-pull-hair-trade-blows-during-debate"
+        "title": "Andrew, Fergie unfazed by King Charles fresh blow: 'party at Royal Lodge'",
+        "link": "https://www.geo.tv/latest/639654-andrew-fergie-unfazed-by-king-charles-fresh-blow-party-at-royal-lodge"
       },
       {
-        "title": "'Strength, humanity': Australia PM heaps praise on Bondi Beach hero Ahmed al Ahmed",
-        "link": "https://www.geo.tv/latest/639649-strength-humanity-australia-pm-heaps-praise-on-bondi-beach-hero"
+        "title": "Rob Reiner, Michele got into loud argument with son Nick day before murder",
+        "link": "https://www.geo.tv/latest/639662-rob-reiner-michele-got-into-loud-argument-with-son-nick-day-before-murder"
       },
       {
-        "title": "Pakistan issues 'super flu' advisory warning of winter surge as cases rise",
-        "link": "https://www.geo.tv/latest/639642-nih-issues-super-flu-advisory-as-cases-rise"
+        "title": "Chris Evans returning as Steve Rogers in 'Avengers: Doomsday'",
+        "link": "https://www.geo.tv/latest/639656-chris-evans-returning-as-steve-rogers-in-avengers-doomsday"
       },
       {
-        "title": "Kevin Bacon pays emotional tribute to director Rob Reiner",
-        "link": "https://www.geo.tv/latest/639646-kevin-bacon-pays-emotional-tribute-to-director-rob-reiner"
+        "title": "Ed Sheeran, Harry Potter star Tom Felton share surprise Karaoke moment",
+        "link": "https://www.geo.tv/latest/639651-ed-sheeran-harry-potter-star-tom-felton-share-surprise-karaoke-moment"
       },
       {
-        "title": "Pakistan renews pledge against terrorism on 11th anniversary of APS attack",
-        "link": "https://www.geo.tv/latest/639639-pakistan-renews-pledge-against-terrorism-on-11th-anniversary-of-aps-attack"
+        "title": "Donald Trump Jr. announces engagement to socialite Bettina Anderson at White House event",
+        "link": "https://www.geo.tv/latest/639658-donald-trump-jr-announces-engagement-to-socialite-bettina-anderson-at-white-house-event"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-16 05:54 UTC"
+  "last_updated": "2025-12-16 06:31 UTC"
 }
