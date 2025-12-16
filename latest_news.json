@@ -1,20 +1,10 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israeli raids across West Bank, Gaza reels from aftermath of storm",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/16/israeli-raids-across-west-bank-as-gaza-reels-from-aftermath-of-storm?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
         "title": "Trump files $5bn defamation lawsuit against BBC over Panorama speech edit",
         "link": "https://www.bbc.com/news/articles/cpvd81470v1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mountain of flowers at Bondi as Sydney mourns attack victims",
-        "link": "https://www.bbc.com/news/videos/c4g40413206o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Children with cancer scammed out of millions fundraised for their treatment, BBC finds",
@@ -25,30 +15,34 @@
         "link": "https://www.bbc.com/news/articles/crl938n0872o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Epstein's UK flights had alleged British abuse victims on board, BBC finds",
+        "title": "Epstein's UK flights had alleged British abuse victims on board - BBC investigation",
         "link": "https://www.bbc.com/news/articles/cy4709kylkxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands of drivers wrongly fined for speeding since 2021",
+        "link": "https://www.bbc.com/news/articles/c70rk80p9eqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "‘Bondi hero’ Ahmed al-Ahmed sends message to his loved ones",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/16/bondi-hero-ahmed-al-ahmed-sends-message-to-his-loved-ones?traffic_source=rss"
+      },
+      {
+        "title": "Video: Mexico City politicians fight in Congress",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/16/video-mexico-city-politicians-fight-in-congress?traffic_source=rss"
+      },
+      {
+        "title": "Cooper Flagg sets new record as youngest NBA player to score 40 points",
+        "link": "https://www.aljazeera.com/sports/2025/12/16/cooper-flagg-sets-new-record-as-youngest-nba-player-to-score-40-points?traffic_source=rss"
+      },
+      {
+        "title": "Celebrations as Jordan reaches first Arab Cup final",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/16/celebrations-as-jordan-reaches-first-arab-cup-final?traffic_source=rss"
+      },
+      {
         "title": "Morocco’s Safi counts the cost in aftermath of deadly flash floods",
         "link": "https://www.aljazeera.com/gallery/2025/12/16/moroccos-safi-counts-the-cost-in-aftermath-of-deadly-flash-floods?traffic_source=rss"
-      },
-      {
-        "title": "Australian police say Bondi Beach attackers inspired by ISIL",
-        "link": "https://www.aljazeera.com/news/2025/12/16/australian-police-say-bondi-beach-attackers-inspired-by-isil?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israeli raids across West Bank, Gaza reels from aftermath of storm",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/16/israeli-raids-across-west-bank-as-gaza-reels-from-aftermath-of-storm?traffic_source=rss"
-      },
-      {
-        "title": "US military kills 8 in latest attacks on vessels in eastern Pacific",
-        "link": "https://www.aljazeera.com/news/2025/12/16/us-military-kills-eight-in-latest-attacks-on-vessels-in-eastern-pacific?traffic_source=rss"
-      },
-      {
-        "title": "Why a Bollywood spy film sparked a political storm in India and Pakistan",
-        "link": "https://www.aljazeera.com/news/2025/12/16/why-a-bollywood-spy-film-sparked-a-political-storm-in-india-and-pakistan?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/1961445/pakistan-seeks-oil-deal-with-russia-as-energy-ministries-hold-talks"
       },
       {
-        "title": "Nation firm, united in its resolve to eradicate terrorism, says PM Shehbaz on 11th anniversary of APS attack",
-        "link": "https://www.dawn.com/news/1961441/nation-firm-united-in-its-resolve-to-eradicate-terrorism-says-pm-shehbaz-on-11th-anniversary-of-aps-attack"
+        "title": "Floral tributes for Australian ‘hero’ Ahmed al Ahmed who disarmed gunman during Bondi beach shooting",
+        "link": "https://www.dawn.com/news/1961450/floral-tributes-for-australian-hero-ahmed-al-ahmed-who-disarmed-gunman-during-bondi-beach-shooting"
       }
     ],
     "APNews": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Rain floods Gaza camps as displaced Palestinians battle winter: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rain-floods-gaza-camps-displaced-palestinians-battle-winter-report"
+      },
+      {
         "title": "Unrwa warns Israel demolitions threaten Nur Shams refugee camp",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/unrwa-warns-israel-demolitions-threaten-nur-shams-refugee-camp"
       },
@@ -135,54 +133,50 @@
       {
         "title": "Former Colombian president urges Israel to free Barghouti to revive peace prospects",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-colombian-president-urges-israel-free-barghouti-revive-peace"
-      },
-      {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-478"
       }
     ],
     "GeoTV": [
       {
+        "title": "Taylor Swift's male version draws stark comparison to ex: ‘That's Joe'",
+        "link": "https://www.geo.tv/latest/639690-taylor-swifts-male-version-draws-stark-comparison-to-ex-thats-joe"
+      },
+      {
+        "title": "Hollywood mourns loss of Rob Reiner, Michele singer",
+        "link": "https://www.geo.tv/latest/639685-hollywood-mourns-loss-of-rob-reiner-michele-singer"
+      },
+      {
+        "title": "Royal family loses beloved member: emotional statement released",
+        "link": "https://www.geo.tv/latest/639682-royal-family-loses-beloved-member-emotional-statement-released"
+      },
+      {
+        "title": "Fake degree case: IHC dismisses Justice Jahangiri's objections to CJ Dogar, division bench",
+        "link": "https://www.geo.tv/latest/639664-fake-degree-case-ihc-dismisses-justice-jahangiris-objections-to-cj-dogar-division-bench"
+      },
+      {
         "title": "Rob Reiner death: Donald Trump gets backlash for 'insensitive' comment on his murder",
         "link": "https://www.geo.tv/latest/639677-rob-reiner-death-trump-gets-backlash-for-insensitive-comment-on-his-murder"
-      },
-      {
-        "title": "Emilia Clarke, Haley Lu Richardson go undercover in ‘Ponies' trailer",
-        "link": "https://www.geo.tv/latest/639670-emilia-clarke-haley-lu-richardson-go-undercover-in-ponies-trailer"
-      },
-      {
-        "title": "Prince William strengthens 'family bond' after heartbreaking reality check",
-        "link": "https://www.geo.tv/latest/639665-prince-william-strengthens-family-bond-after-heartbreaking-reality-check"
-      },
-      {
-        "title": "Top 10% of earners take 42% of Pakistan's income: report",
-        "link": "https://www.geo.tv/latest/639671-top-10-of-earners-take-42-of-pakistans-income-report"
-      },
-      {
-        "title": "Niall Horan sparks health concerns due to absence in 'The Voice' finale promo",
-        "link": "https://www.geo.tv/latest/639668-niall-horan-sparks-health-concerns-due-to-absence-in-the-voice-finale-promo"
       }
     ],
     "NDTV": [
       {
-        "title": "In Special Gesture, Jordan Crown Prince Drives PM Modi To Museum",
-        "link": "https://www.ndtv.com/india-news/jordanian-crown-prince-al-hussein-bin-abdullah-ii-drives-pm-modi-to-jordan-museum-9823933#publisher=newsstand"
+        "title": "Luthra Brothers Deportation Live Updates: Luthras, Deported From Bangkok, Land In Delhi",
+        "link": "https://www.ndtv.com/india-news/luthra-brothers-deportation-live-updates-saurabh-luthra-gaurav-luthra-deported-from-bangkok-goa-nightclub-fire-birch-by-romeo-lane-9823857#publisher=newsstand"
       },
       {
-        "title": "Delhi Woman, 23, Found Dead At Home, Cops Suspect Suicide",
-        "link": "https://www.ndtv.com/delhi-news/prem-nagar-delhi-woman-23-found-dead-at-home-cops-suspect-suicide-9823797#publisher=newsstand"
+        "title": "Actress Allegedly Kidnapped By Husband Over Daughter's Custody In Bengaluru",
+        "link": "https://www.ndtv.com/india-news/kannada-actress-allegedly-kidnapped-by-husband-over-daughters-custody-in-bengaluru-9824306#publisher=newsstand"
       },
       {
-        "title": "Hyderabad Man Loses Rs 75 Lakh In Online Betting Fraud Lasting 4 Years",
-        "link": "https://www.ndtv.com/hyderabad-news/hyderabad-man-loses-rs-75-lakh-in-online-betting-fraud-lasting-4-years-9824001#publisher=newsstand"
+        "title": "Insurance Amendment Bill Introduced In Lok Sabha, Proposes 100% FDI",
+        "link": "https://www.ndtv.com/india-news/insurance-amendment-bill-introduced-in-lok-sabha-proposes-100-fdi-9823770#publisher=newsstand"
       },
       {
-        "title": "Adani Foundation Observes Energy Conservation Day With Students In Mumbai",
-        "link": "https://www.ndtv.com/india-news/adani-foundation-observes-energy-conservation-day-with-students-in-mumbai-9823988#publisher=newsstand"
+        "title": "\"Overburdened, Underpaid\": Sonia Gandhi Seeks Pay Hike For Women Workers",
+        "link": "https://www.ndtv.com/india-news/overburdened-underpaid-sonia-gandhi-seeks-pay-hike-for-women-workers-9823869#publisher=newsstand"
       },
       {
-        "title": "Strong Winds Topple Statue Of Liberty - It's Not The One In New York",
-        "link": "https://www.ndtv.com/world-news/statue-of-liberty-brazil-strong-winds-topple-statue-of-liberty-during-storm-not-the-one-in-new-york-9822998#publisher=newsstand"
+        "title": "\"Rob Reiner Was Bad For US\": Trump's Shocker After Hollywood Director's Death",
+        "link": "https://www.ndtv.com/world-news/rob-reiner-was-bad-for-us-trumps-shocker-after-hollywood-directors-death-9824232#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-16 07:56 UTC"
+  "last_updated": "2025-12-16 08:36 UTC"
 }
