@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: PSG vs Flamengo – FIFA Intercontinental Cup final",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/17/live-psg-vs-flamengo-fifa-intercontinental-cup-final?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Susie Wiles: What top Trump aide said in her Vanity Fair interview",
+        "link": "https://www.aljazeera.com/news/2025/12/17/susie-wiles-what-top-trump-aide-said-in-her-vanity-fair-interview?traffic_source=rss"
+      },
+      {
+        "title": "Afghanistan under Taliban a “society of gender apartheid”",
+        "link": "https://www.aljazeera.com/video/quotable/2025/12/17/afghanistan-under-taliban-a-society-of-gender?traffic_source=rss"
+      },
+      {
         "title": "What are things like for women, 15 years after the Arab Spring?",
         "link": "https://www.aljazeera.com/video/by-the-numbers-3/2025/12/17/what-are-things-like-for-women-15-years-after-the-arab-spring?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "US dramatically escalates air strikes on Somalia under Trump this year",
         "link": "https://www.aljazeera.com/news/2025/12/17/us-dramatically-escalates-air-strikes-on-somalia-under-trump-this-year?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: PSG vs Flamengo – FIFA Intercontinental Cup final",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/17/live-psg-vs-flamengo-fifa-intercontinental-cup-final?traffic_source=rss"
-      },
-      {
-        "title": "Seizure of Uvira in DRC “will be a blow” to peace negotiations",
-        "link": "https://www.aljazeera.com/video/quotable/2025/12/17/seizure-of-uvira-in-drc-will-be-a-blow-to-peace-negotiations?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/1961667/amnesty-condemns-repeated-use-of-water-cannons-on-pti-protesters-outside-adiala-prison"
       },
       {
-        "title": "Campaign falsely linking Bondi shooting suspect to Pakistan launched from ‘hostile countries’: Tarar",
-        "link": "https://www.dawn.com/news/1961654/campaign-falsely-linking-bondi-shooting-suspect-to-pakistan-launched-from-hostile-countries-tarar"
+        "title": "‘Fingerprints are piling up’: Sherry Rehman says FATF should investigate ‘growing support’ for terrorism from India",
+        "link": "https://www.dawn.com/news/1961666/fingerprints-are-piling-up-sherry-rehman-says-fatf-should-investigate-growing-support-for-terrorism-from-india"
       }
     ],
     "APNews": [],
@@ -111,15 +105,19 @@
         "link": "https://www.nytimes.com/2025/12/17/business/energy-environment/winter-heating-costs-increase.html"
       },
       {
-        "title": "Mike Johnson Shuts Door on Key Health Care Vote, and a Dangerous New Drug Hits U.S. Cities",
-        "link": "https://www.nytimes.com/2025/12/17/podcasts/the-headlines/health-care-vote-medetomidine.html"
-      },
-      {
         "title": "New Details Emerge About How Rob and Michele Reiner Were Found",
         "link": "https://www.nytimes.com/2025/12/16/us/reiner-family-rob-nick-michele.html"
+      },
+      {
+        "title": "Billy Crystal, Larry David and Others Remember Rob Reiner as a ‘Master Story Teller’",
+        "link": "https://www.nytimes.com/2025/12/17/us/billy-crystal-larry-david-rob-reiner-statement.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli forces return to villages in southern Syria",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-return-villages-southern-syria"
+      },
       {
         "title": "Israeli forces release 12 prisoners from the Gaza Strip",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-release-12-prisoners-gaza-strip"
@@ -135,13 +133,13 @@
       {
         "title": "Foreign Office adviser urged Cameron to support Karim Khan days before he threatened prosecutor",
         "link": "https://www.middleeasteye.net/news/foreign-office-adviser-urged-cameron-show-support-karim-khan-days-he-threatened-prosecutor"
-      },
-      {
-        "title": "Palestinians salvage their possessions before home demolitions in West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-salvage-their-possessions-home-demolitions-west-bank"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Babar, Shaheen, other Pakistanis to play entire BBL, says CA chief",
+        "link": "https://www.geo.tv/latest/639967-babar-shaheen-other-pakistanis-to-play-entire-bbl-says-ca-chief"
+      },
       {
         "title": "King Charles laughs at his younger self's antics: 'I thought it'd be fun'",
         "link": "https://www.geo.tv/latest/639965-king-charles-laughs-at-his-younger-selfs-antics-i-thought-itd-be-fun"
@@ -157,32 +155,28 @@
       {
         "title": "Taylor Swift planning new 'big' tour after setting record with Eras Tour",
         "link": "https://www.geo.tv/latest/639960-taylor-swift-planning-new-big-tour-after-setting-record-with-eras-tour"
-      },
-      {
-        "title": "Aga Khan Foundation, Denmark partner on climate-resilient agriculture in GB, Chitral",
-        "link": "https://www.geo.tv/latest/639958-aga-khan-foundation-denmark-partner-on-climate-smart-agriculture-in-gb-chitral"
       }
     ],
     "NDTV": [
+      {
+        "title": "\"Modi Most Consequential Indian PM Since Nehru\": US Journalist Fareed Zakaria To NDTV",
+        "link": "https://www.ndtv.com/india-news/modi-most-consequential-indian-pm-since-nehru-us-journalist-fareed-zakaria-to-ndtv-9834156#publisher=newsstand"
+      },
+      {
+        "title": "1 Arrested In China-Linked Trading Scam, Had Duped Man of Rs 32 Lakh",
+        "link": "https://www.ndtv.com/india-news/1-arrested-in-china-linked-trading-scam-had-duped-man-of-rs-32-lakh-9834196#publisher=newsstand"
+      },
       {
         "title": "Delhiites Visit Dehradun To Escape Pollution, Only To Find AQI At 300",
         "link": "https://www.ndtv.com/india-news/delhi-air-pollution-dehradun-air-pollution-delhiites-visit-dehradun-to-escape-pollution-only-to-find-aqi-at-300-9833587#publisher=newsstand"
       },
       {
-        "title": "Row Over 'Missing' Nehru Papers Escalates, Minister Hits Out At Sonia Gandhi",
-        "link": "https://www.ndtv.com/india-news/row-over-missing-nehru-papers-escalates-minister-hits-out-at-sonia-gandhi-9833706#publisher=newsstand"
+        "title": "\"There's A Deal To Be Had\": Fareed Zakaria To NDTV On Trump, India-US Trade",
+        "link": "https://www.ndtv.com/india-news/theres-a-deal-to-be-had-fareed-zakaria-to-ndtv-on-donald-trump-india-us-trade-9833991#publisher=newsstand"
       },
       {
-        "title": "\"Can't Sell Gulmarg If I Dont Have Snow\": Omar Abdullah On Climate Change",
-        "link": "https://www.ndtv.com/india-news/can-t-sell-gulmarg-if-i-don-t-have-snow-omar-abdullah-9832398#publisher=newsstand"
-      },
-      {
-        "title": "\"We Are Family\": Trump Team In Damage Control After Top Aide Susie Wiles' Interview",
-        "link": "https://www.ndtv.com/world-news/we-are-family-trump-team-in-damage-control-after-explosive-wiles-interview-9832989#publisher=newsstand"
-      },
-      {
-        "title": "34 Congress Members Suspended From Chhattisgarh Assembly Amid Uproar Over Probe Agency 'Misuse'",
-        "link": "https://www.ndtv.com/india-news/34-congress-members-suspended-from-chhattisgarh-assembly-amid-uproar-over-probe-agency-misuse-9831398#publisher=newsstand"
+        "title": "Omar Abdullah's Anxious Hot Air Balloon Ride, And A Mishap Involving Father",
+        "link": "https://www.ndtv.com/india-news/omar-abdullahs-anxious-hot-air-balloon-ride-and-a-mishap-involving-father-9833920#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-17 15:33 UTC"
+  "last_updated": "2025-12-17 15:52 UTC"
 }
