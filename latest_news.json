@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Israel to advance plans for 9,000 houses in occupied East Jerusalem",
+        "link": "https://www.aljazeera.com/news/2025/12/17/israel-to-advance-plans-for-9000-houses-in-occupied-east-jerusalem?traffic_source=rss"
+      },
+      {
+        "title": "Why tech billionaires are quietly bankrolling Europe’s far-right",
+        "link": "https://www.aljazeera.com/video/pinch-point/2025/12/17/aje-onl-pp-the-great-replacement-v2-161225?traffic_source=rss"
+      },
+      {
+        "title": "Nigeria must not become America’s next battlefield",
+        "link": "https://www.aljazeera.com/opinions/2025/12/17/nigeria-must-not-become-americas-next-battlefield?traffic_source=rss"
+      },
+      {
         "title": "Morocco launches nationwide emergency relief after floods kill dozens",
         "link": "https://www.aljazeera.com/news/2025/12/17/morocco-launches-nationwide-emergency-relief-after-floods-kill-dozens?traffic_source=rss"
       },
       {
         "title": "Video: Mourners attend funeral of rabbi killed in Bondi shooting",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/17/video-mourners-attend-funeral-of-rabbi-killed-in-bondi-shooting?traffic_source=rss"
-      },
-      {
-        "title": "Rebels advance in eastern DR Congo despite recent peace deal",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/17/rebels-advance-in-eastern-dr-congo-despite-recent-peace-deal?traffic_source=rss"
-      },
-      {
-        "title": "Barcelona beat Guadalajara in Copa del Rey fourth round",
-        "link": "https://www.aljazeera.com/sports/2025/12/17/barcelona-beat-guadalajara-in-copa-del-rey-fourth-round?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Seventeen Palestinians, including children, die as buildings collapse in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seventeen-palestinians-including-children-die-buildings-collapse-gaza"
+      },
+      {
         "title": "Israeli army says killed one in southern Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-killed-one-southern-lebanon"
       },
@@ -135,32 +133,28 @@
       {
         "title": "Israeli forces raid Jenin neighbourhood, carry out widespread arrests",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-jenin-neighbourhood-carry-out-widespread-arrests"
-      },
-      {
-        "title": "UN warns of delay of humanitarian assistance in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-warns-delay-humanitarian-assistance-gaza"
       }
     ],
     "GeoTV": [
       {
-        "title": "Frankie Muniz finds joy in acting in 'Malcolm in the Middle' revival",
-        "link": "https://www.geo.tv/latest/639885-frankie-muniz-finds-joy-in-acting-in-malcolm-in-the-middle-revival"
+        "title": "Crown Prince Hussein shares proud football moment in Qatar",
+        "link": "https://www.geo.tv/latest/639888-crown-prince-hussein-shares-proud-football-moment-in-qatar"
       },
       {
-        "title": "Accept it or not, India faced absolute defeat by Pakistan in May conflict: Congress leader",
-        "link": "https://www.geo.tv/latest/639846-accept-it-or-not-india-faced-absolute-defeat-by-pakistan-in-may-conflict-congress-leader"
+        "title": "Who keeps Prince George, Princess Charlotte, Prince Louis in line?",
+        "link": "https://www.geo.tv/latest/639880-who-keeps-prince-george-princess-charlotte-prince-louis-in-line"
       },
       {
-        "title": "'Emily in Paris' season 5: Lilly Collins gets candid about filming struggles",
-        "link": "https://www.geo.tv/latest/639884-emily-in-paris-season-5-lilly-collins-gets-candid-about-filming-struggles"
+        "title": "What is ChatGPT Images? A look at OpenAI's new image generation, creativity pioneer",
+        "link": "https://www.geo.tv/latest/639894-what-is-chatgpt-images-a-look-at-openais-new-image-generation-creativity-pioneer"
       },
       {
-        "title": "Did comet 3I/ATLAS knock MAVEN offline? NASA faces questions",
-        "link": "https://www.geo.tv/latest/639887-did-comet-3iatlas-knock-maven-offline-nasa-faces-questions"
+        "title": "Pakistan to roll out WeChat-style 'Beep' platform for officials",
+        "link": "https://www.geo.tv/latest/639882-pakistan-to-roll-out-wechat-style-beep-platform-for-officials"
       },
       {
-        "title": "Prince William eases tension of British star with 'amazing' offer",
-        "link": "https://www.geo.tv/latest/639866-prince-william-eases-tension-of-british-star-with-amazing-offer"
+        "title": "Gwyneth Paltrow makes debut red carpet appearance with kids",
+        "link": "https://www.geo.tv/latest/639877-gwyneth-paltrow-makes-debut-red-carpet-appearance-with-kids"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-17 09:53 UTC"
+  "last_updated": "2025-12-17 10:18 UTC"
 }
