@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: PSG vs Flamengo – FIFA Intercontinental Cup final",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/17/live-psg-vs-flamengo-fifa-intercontinental-cup-final?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "How can Ukraine rebuild China ties scarred by Russia’s war?",
-        "link": "https://www.aljazeera.com/news/2025/12/17/how-can-ukraine-rebuild-china-ties-after-they-were-scarred-by-russias-war?traffic_source=rss"
+        "title": "US dramatically escalates air strikes on Somalia under Trump this year",
+        "link": "https://www.aljazeera.com/news/2025/12/17/us-dramatically-escalates-air-strikes-on-somalia-under-trump-this-year?traffic_source=rss"
       },
       {
-        "title": "Video: Thousands of dinosaur footprints discovered in Italy",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/17/video-thousands-of-dinosaur-footprints-discovered-in-italy?traffic_source=rss"
+        "title": "LIVE: PSG vs Flamengo – FIFA Intercontinental Cup final",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/17/live-psg-vs-flamengo-fifa-intercontinental-cup-final?traffic_source=rss"
       },
       {
-        "title": "Activists decry state of Tunisia’s democracy, 15 years after Arab Spring",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/17/activists-decry-fall-of-tunisias-democracy-15-years-after-arab-spring?traffic_source=rss"
+        "title": "Seizure of Uvira in DRC “will be a blow” to peace negotiations",
+        "link": "https://www.aljazeera.com/video/quotable/2025/12/17/seizure-of-uvira-in-drc-will-be-a-blow-to-peace-negotiations?traffic_source=rss"
       },
       {
-        "title": "Trump orders naval blockade targeting Venezuelan oil",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/17/trump-orders-naval-blockade-targeting-venezuelan-oil?traffic_source=rss"
+        "title": "Putin slams West’s ‘war hysteria’ as EU mulls Russian assets for Ukraine",
+        "link": "https://www.aljazeera.com/news/2025/12/17/putin-slams-wests-war-hysteria-as-eu-mulls-russian-assets-for-ukraine?traffic_source=rss"
       },
       {
-        "title": "Tracking rogue tankers carrying sanctioned oil near Singapore",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/17/tracking-rogue-tankers-carrying-sanctioned-oil-near-singapore?traffic_source=rss"
+        "title": "Satellite images reveal Israeli demolitions in Gaza during ceasefire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/17/satellite-images-reveal-israeli-demolitions-in-gaza-during-ceasefire?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli army uproots dozens of olive trees in West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-uproots-dozens-olive-trees-west-bank"
+      },
+      {
         "title": "Rights groups denounce ‘impunity’ in Tunisia after man dies following police brutality",
         "link": "https://www.middleeasteye.net/news/tunisia-rights-groups-denounce-impunity-after-man-dies-following-police-brutality"
       },
@@ -129,13 +139,21 @@
       {
         "title": "British police forces to make arrests over 'globalise the intifada' chants",
         "link": "https://www.middleeasteye.net/news/british-police-forces-make-arrests-over-globalise-intifada-chants"
-      },
-      {
-        "title": "Palestinian killed in Gaza City by Israeli air strikes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-killed-gaza-city-israeli-air-strikes"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Rob Reiner, wife murder investigation unveils new details",
+        "link": "https://www.geo.tv/latest/639938-rob-reiner-wife-murder-investigation-unveils-new-details"
+      },
+      {
+        "title": "Over 50,000 Pakistanis deported for begging this year, NA body told",
+        "link": "https://www.geo.tv/latest/639903-over-50000-pakistanis-deported-for-begging-this-year-na-body-told"
+      },
+      {
+        "title": "Bondi Beach attacker's 'Indian passport' emerges after Sydney attack",
+        "link": "https://www.geo.tv/latest/639956-bondi-beach-attackers-indian-passport-emerges-after-sydney-attack"
+      },
       {
         "title": "Princess Diana's family member on trial for strangling",
         "link": "https://www.geo.tv/latest/639943-princess-dianas-family-member-on-trial-for-strangling"
@@ -143,18 +161,6 @@
       {
         "title": "Prince Louis rocks Prince George's hand-me-down jumper for family lunch",
         "link": "https://www.geo.tv/latest/639953-prince-louis-rocks-prince-georges-hand-me-down-jumper-for-family-lunch"
-      },
-      {
-        "title": "Buckingham Palace makes announcement about Queen Camilla surprise exit",
-        "link": "https://www.geo.tv/latest/639939-buckingham-palace-makes-announcement-about-queen-camilla-surprise-exit"
-      },
-      {
-        "title": "Bondi Beach attack: FATF asked to examine Indian links to terrorist outfits",
-        "link": "https://www.geo.tv/latest/639940-bondi-beach-attack-fatf-asked-to-examine-indian-links-to-terrorist-outfits"
-      },
-      {
-        "title": "Dick Van Dyke wife recalls horrible ordeal after Rob, Michele murder",
-        "link": "https://www.geo.tv/latest/639941-dick-van-dyke-wife-recalls-horrible-ordeal-after-rob-michele-murder"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-17 13:50 UTC"
+  "last_updated": "2025-12-17 14:11 UTC"
 }
