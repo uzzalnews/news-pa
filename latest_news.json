@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Duke of Marlborough charged with intentional strangulation",
+        "link": "https://www.bbc.com/news/articles/cd9zv78dqzgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Boy, 15, charged with murder of girl, 9, as police name victim",
         "link": "https://www.bbc.com/news/articles/cvgj05x91yxo?at_medium=RSS&at_campaign=rss"
       },
@@ -11,19 +15,23 @@
         "link": "https://www.bbc.com/news/articles/cy7vjz3ngy7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Naveed Akram charged with 15 counts of murder over Bondi shooting",
-        "link": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Doctors start five-day strike as NHS bosses warn flu wave will cause extra disruption",
+        "title": "Streeting 'deeply regrets' doctors' strike as five-day walkout begins",
         "link": "https://www.bbc.com/news/articles/c98nqz29vg2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Left-wing candidate beats Starmer ally to lead UK's biggest union",
-        "link": "https://www.bbc.com/news/articles/ce3wdv7rg67o?at_medium=RSS&at_campaign=rss"
+        "title": "Police forces will make arrests over 'globalise the intifada' chants",
+        "link": "https://www.bbc.com/news/articles/cde65de81jgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "False spring: The end of Tunisia’s revolutionary hopes?",
+        "link": "https://www.aljazeera.com/news/2025/12/17/false-spring-the-end-of-tunisias-revolutionary-hopes?traffic_source=rss"
+      },
+      {
+        "title": "The Last Doctor Standing",
+        "link": "https://www.aljazeera.com/video/al-jazeera-world/2025/12/17/the-last-doctor-standing?traffic_source=rss"
+      },
       {
         "title": "How have India’s exports jumped 20 percent, despite Trump’s trade war?",
         "link": "https://www.aljazeera.com/news/2025/12/17/how-have-indias-exports-jumped-20-percent-despite-trumps-trade-war?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Israel to advance plans for 9,000 houses in occupied East Jerusalem",
         "link": "https://www.aljazeera.com/news/2025/12/17/israel-to-advance-plans-for-9000-houses-in-occupied-east-jerusalem?traffic_source=rss"
-      },
-      {
-        "title": "Why tech billionaires are quietly bankrolling Europe’s far-right",
-        "link": "https://www.aljazeera.com/video/pinch-point/2025/12/17/aje-onl-pp-the-great-replacement-v2-161225?traffic_source=rss"
-      },
-      {
-        "title": "Nigeria must not become America’s next battlefield",
-        "link": "https://www.aljazeera.com/opinions/2025/12/17/nigeria-must-not-become-americas-next-battlefield?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +70,16 @@
     ],
     "Dawn": [
       {
+        "title": "51,000 passengers offloaded after failing immigration checks this year, FIA tells NA panel",
+        "link": "https://www.dawn.com/news/1961655/51000-passengers-offloaded-after-failing-immigration-checks-this-year-fia-tells-na-panel"
+      },
+      {
         "title": "Campaign falsely linking Bondi shooting suspect to Pakistan launched from ‘hostile countries’: Tarar",
         "link": "https://www.dawn.com/news/1961654/campaign-falsely-linking-bondi-shooting-suspect-to-pakistan-launched-from-hostile-countries-tarar"
+      },
+      {
+        "title": "No evidence alleged Bondi gunmen received training in the Philippines: security adviser",
+        "link": "https://www.dawn.com/news/1961640/no-evidence-alleged-bondi-gunmen-received-training-in-the-philippines-security-adviser"
       },
       {
         "title": "Justice Jahangiri moves FCC against IHC order declaring plea challenging his law degree maintainable",
@@ -80,14 +88,6 @@
       {
         "title": "Imran’s sons planning to visit Pakistan in January, say ex-premier being held in ‘death cell’",
         "link": "https://www.dawn.com/news/1961637/imrans-sons-planning-to-visit-pakistan-in-january-say-ex-premier-being-held-in-death-cell"
-      },
-      {
-        "title": "Pakistan extends airspace ban for Indian aircraft till Jan 23",
-        "link": "https://www.dawn.com/news/1961650/pakistan-extends-airspace-ban-for-indian-aircraft-till-jan-23"
-      },
-      {
-        "title": "2.5m undocumented migrants left US in 2025 amid travel bans, security fears",
-        "link": "https://www.dawn.com/news/1961644/25m-undocumented-migrants-left-us-in-2025-amid-travel-bans-security-fears"
       }
     ],
     "APNews": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Opinion: Trump's national security plan declares end to Middle East wars. But is it for real?",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-trumps-national-security-plan-declares-end-middle-east-wars-it"
+      },
+      {
         "title": "Israeli forces arrest 40 Palestinians in West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-arrest-40-palestinians-west-bank"
       },
@@ -129,32 +133,28 @@
       {
         "title": "Seventeen Palestinians, including children, die as buildings collapse in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seventeen-palestinians-including-children-die-buildings-collapse-gaza"
-      },
-      {
-        "title": "Israeli army says killed one in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-killed-one-southern-lebanon"
       }
     ],
     "GeoTV": [
       {
-        "title": "Queen Camilla fears grow after Princess Kate quiet upgrade in monarchy",
-        "link": "https://www.geo.tv/latest/639919-queen-camilla-fears-grow-after-princess-kate-quiet-upgrade-in-monarchy"
+        "title": "Duke of Marlborough, relative of Diana, Princess of Wales, accused of intentional strangulation",
+        "link": "https://www.geo.tv/latest/639931-duke-of-marlborough-relative-of-diana-princess-of-wales-accused-of-intentional-strangulation"
       },
       {
-        "title": "Colin Farrell reveals what 'filmmaking' really means to him",
-        "link": "https://www.geo.tv/latest/639906-colin-farrell-reveals-what-filmmaking-really-means-to-him"
+        "title": "King Charles declares Beatrice, Eugenie are 'not on trial' period",
+        "link": "https://www.geo.tv/latest/639915-king-charles-declares-beatrice-eugenie-are-not-on-trial-period"
       },
       {
-        "title": "Duke of Kent returns to Palace for first Christmas without Duchess",
-        "link": "https://www.geo.tv/latest/639869-duke-of-kent-returns-to-palace-for-first-christmas-without-duchess"
+        "title": "Meghan Markle to face pushback from royals?",
+        "link": "https://www.geo.tv/latest/639895-meghan-markle-to-face-pushback-from-royals"
       },
       {
-        "title": "Who is Lil Toro? Find out how viral stabbing rumors fuel Northern California rapper's alleged death",
-        "link": "https://www.geo.tv/latest/639898-who-is-lil-toro-how-viral-stabbing-rumors-fuel-northern-california-rappers-alleged-death"
+        "title": "Cardi B, Stefon Diggs inspire with latest appearance after welcoming baby boy",
+        "link": "https://www.geo.tv/latest/639921-cardi-b-stefon-diggs-inspire-with-latest-appearance-after-welcoming-baby-boy"
       },
       {
-        "title": "Jake Paul vs Anthony Joshua: Everything you need to know",
-        "link": "https://www.geo.tv/latest/639917-jake-paul-vs-anthony-joshua-everything-you-need-to-know"
+        "title": "Second near mid-air collision with USAF jet reported near Venezuela",
+        "link": "https://www.geo.tv/latest/639925-second-near-mid-air-collision-with-usaf-jet-reported-near-venezuela"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-17 11:54 UTC"
+  "last_updated": "2025-12-17 12:40 UTC"
 }
