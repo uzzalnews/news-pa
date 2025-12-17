@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Another Gaza home caves in as Israel keeps blocking shelter supplies",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/17/live-another-gaza-home-caves-in-as-israel-keeps-blocking-shelter-supplies?traffic_source=rss"
+      },
+      {
         "title": "Video: Jane Austen fans celebrate 250th anniversary of her birth",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/17/video-jane-austen-fans-celebrate-250th-anniversary-of-her-birth?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Arctic sees hottest year since 1900 as climate crisis continues",
         "link": "https://www.aljazeera.com/news/2025/12/17/arctic-sees-hottest-year-since-1900-as-climate-crisis-continues?traffic_source=rss"
-      },
-      {
-        "title": "Australia police charge surviving Bondi Beach attacker as first funerals held",
-        "link": "https://www.aljazeera.com/news/2025/12/17/australian-police-charge-alleged-bondi-beach-gunman-as-first-funerals-held?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Trump's national security plan calls end to Middle East wars. But is it for real?",
+        "link": "https://www.middleeasteye.net/opinion/trump-national-security-end-middle-east-wars-is-for-real"
+      },
+      {
+        "title": "Two Palestinians injured in Israeli assault in Jenin",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-injured-israeli-assault-jenin"
+      },
+      {
         "title": "Israeli forces raid Jenin neighbourhood, carry out widespread arrests",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-jenin-neighbourhood-carry-out-widespread-arrests"
       },
@@ -125,36 +139,28 @@
       {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-479"
-      },
-      {
-        "title": "Evening recap",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-590"
-      },
-      {
-        "title": "Trump adds Palestinian Authority passports to US travel ban",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-adds-palestinian-authority-passports-us-travel-ban"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles approves Princess Kate's big move: ‘reshaping royal duties'",
-        "link": "https://www.geo.tv/latest/639871-king-charles-approves-princess-kates-big-move-reshaping-royal-duties"
+        "title": "Egypt restores 3,000-year-old Colossi of Memnon destroyed by ancient earthquake",
+        "link": "https://www.geo.tv/latest/639875-egypt-restores-3000-year-old-colossi-of-memnon-destroyed-by-ancient-earthquake"
       },
       {
-        "title": "'How do I deal with my interfering in-laws just months ahead of my marriage?'",
-        "link": "https://www.geo.tv/latest/639854-how-do-i-deal-with-my-interfering-in-laws-just-months-ahead-of-my-marriage"
+        "title": "Niall Horan releases statement following Aiden Ross' win at 'The Voice' season 28",
+        "link": "https://www.geo.tv/latest/639862-niall-horan-releases-statement-following-aiden-ross-win-at-the-voice-season-28"
       },
       {
-        "title": "Elon Musk's X updates terms to assert claim on 'Twitter' trademark against THIS rival",
-        "link": "https://www.geo.tv/latest/639863-elon-musks-x-updates-terms-to-assert-claim-on-twitter-trademark-against-this-rival"
+        "title": "Larian CEO clarifies generative AI use, vows final games will be ‘human made'",
+        "link": "https://www.geo.tv/latest/639868-larian-ceo-clarifies-generative-ai-use-vows-final-games-will-be-human-made"
       },
       {
-        "title": "Pakistan extends airspace ban on Indian aircraft until January 27",
-        "link": "https://www.geo.tv/latest/639860-pakistan-extends-airspace-ban-on-indian-aircraft-until-january-27"
+        "title": "'Camp Rock 3' director finally breaks silence on Demi Lovato cameo",
+        "link": "https://www.geo.tv/latest/639870-camp-rock-3-director-finally-breaks-silence-on-demi-lovato-cameo"
       },
       {
-        "title": "Hailey, Justin Bieber steal some me-time amid parenting duties",
-        "link": "https://www.geo.tv/latest/639852-hailey-justin-bieber-steal-some-me-time-amid-parenting-duties"
+        "title": "Gil Gerard, TV's Buck Rogers, dead after cancer battle",
+        "link": "https://www.geo.tv/latest/639873-gil-gerard-tvs-buck-rogers-dead-after-cancer-battle"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-17 08:38 UTC"
+  "last_updated": "2025-12-17 09:00 UTC"
 }
