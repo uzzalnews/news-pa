@@ -3,7 +3,7 @@
   "news": {
     "BBC": [
       {
-        "title": "Zelensky gives stark warning as EU leaders start crunch talks on Russia's frozen cash",
+        "title": "Zelensky gives stark warning as EU leaders start crunch talks on Russia's frozen assets",
         "link": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Angry farmers block Brussels roads with tractors over Mercosur trade deal",
+        "link": "https://www.aljazeera.com/news/2025/12/18/angry-farmers-block-brussels-roads-with-tractors-over-mercosur-trade-deal?traffic_source=rss"
+      },
+      {
         "title": "Why is the US claiming it owns Venezuelan oil and land?",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/18/why-is-the-us-claiming-it-owns-venezuelan-oil-and-land?traffic_source=rss"
       },
@@ -39,10 +43,6 @@
       {
         "title": "UK police arrest four people for pro-Palestine ‘Intifada’ calls",
         "link": "https://www.aljazeera.com/news/2025/12/18/uk-police-arrest-four-people-for-pro-palestine-intifada-calls?traffic_source=rss"
-      },
-      {
-        "title": "Video: Qatar PM urges Gaza aid surge in talks with US Secretary of State",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/18/video-qatar-pm-urges-gaza-aid-surge-in-talks-with-us-secretary-of-state?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,8 +74,8 @@
         "link": "https://www.dawn.com/news/1961848/fo-contradicts-media-reports-of-cdf-field-marshal-munir-visiting-the-us-says-no-plan-finalised"
       },
       {
-        "title": "IHC CJ Dogar-led bench orders Justice Jahangiri’s removal as judge ‘for having invalid degree at time of appointment’",
-        "link": "https://www.dawn.com/news/1961837/ihc-cj-dogar-led-bench-orders-justice-jahangiris-removal-as-judge-for-having-invalid-degree-at-time-of-appointment"
+        "title": "CJ Dogar-led bench removes Justice Jahangiri as IHC judge for having ‘invalid degree at time of appointment’",
+        "link": "https://www.dawn.com/news/1961837/cj-dogar-led-bench-removes-justice-jahangiri-as-ihc-judge-for-having-invalid-degree-at-time-of-appointment"
       },
       {
         "title": "FO says Pakistan has sought clarification from India over ‘abrupt variation’ in Chenab water flows",
@@ -109,11 +109,19 @@
         "link": "https://www.nytimes.com/2025/12/17/us/politics/fact-check-trump-economy-address.html"
       },
       {
-        "title": "How ‘Affordability’ Became a New Magic Word for Politicians",
-        "link": "https://www.nytimes.com/2025/12/18/magazine/affordability-economy.html"
+        "title": "‘Don’s Best Friend’: How Epstein and Trump Bonded Over the Pursuit of Women",
+        "link": "https://www.nytimes.com/2025/12/18/us/jeffrey-epstein-donald-trump.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Palestinian prisoners speak out about how they were raped in Israeli jails",
+        "link": "https://www.middleeasteye.net/big-story/palestinians-raped-israeli-jailers-speak-out"
+      },
+      {
+        "title": "Dozens of Israelis break into Gaza, raise Israeli flag",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/dozens-israelis-break-gaza-raise-israeli-flag"
+      },
       {
         "title": "'An Arab won't check me': Israeli police beat Palestinian security guard at football match",
         "link": "https://www.middleeasteye.net/news/palestinian-security-guard-beaten-israeli-police-officers-football-match"
@@ -125,36 +133,28 @@
       {
         "title": "55,000 Palestinian families in Gaza impacted by recent rains, says UN",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/55000-palestinian-families-gaza-impacted-recent-rains-says-un"
-      },
-      {
-        "title": "Three Palestinians wounded by Israeli gunfire in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-palestinians-wounded-israeli-gunfire-gaza"
-      },
-      {
-        "title": "Winter death toll in Gaza reaches 17 as calls on Israel to lift aid blockade grow",
-        "link": "https://www.middleeasteye.net/news/winter-death-toll-gaza-reaches-17-calls-israel-lift-aid-halt-grow"
       }
     ],
     "GeoTV": [
       {
-        "title": "Kim Kardashian shares emotional journey ahead of the bar exam",
-        "link": "https://www.geo.tv/latest/640160-kim-kardashian-shares-emotional-journey-ahead-of-the-bar-exam"
+        "title": "Sarah Ferguson faces fresh identity crisis after Duchess title stripped",
+        "link": "https://www.geo.tv/latest/640167-sarah-ferguson-faces-fresh-identity-crisis-after-duchess-title-stripped"
       },
       {
-        "title": "Bebe Rexha speaks out on love and personal standards",
-        "link": "https://www.geo.tv/latest/640158-bebe-rexha-speaks-out-on-love-and-personal-standards"
+        "title": "Amanda Seyfried shares unconventional opinion on 'Housemaid'",
+        "link": "https://www.geo.tv/latest/640162-amanda-seyfried-shares-unconventional-opinion-on-housemaid"
       },
       {
-        "title": "Jack Antonoff sets the mood for Christmas with Bleachers live performance",
-        "link": "https://www.geo.tv/latest/640157-jack-antonoff-sets-the-mood-for-christmas-with-bleachers-live-performance"
+        "title": "Protests in Bangladesh as India cites security concerns",
+        "link": "https://www.geo.tv/latest/640165-protests-in-bangladesh-as-india-cites-security-concerns"
       },
       {
-        "title": "King Willem Alexander gets active at Dutch talent school: watch",
-        "link": "https://www.geo.tv/latest/640110-king-willem-alexander-gets-active-at-dutch-talent-school-watch"
+        "title": "Defying US-backed odds, China develops machine to produce advanced AI chips",
+        "link": "https://www.geo.tv/latest/640168-defying-us-backed-odds-china-develops-machine-to-produce-advanced-ai-chips"
       },
       {
-        "title": "FIFA video game to return in 2026, but exclusively on Netflix",
-        "link": "https://www.geo.tv/latest/640155-fifa-video-game-to-return-in-2026-but-exclusively-on-netflix"
+        "title": "Mosque vandalised in Brisbane after deadly Bondi Beach attack",
+        "link": "https://www.geo.tv/latest/640163-mosque-vandalised-in-brisbane-after-deadly-bondi-beach-attack"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-18 14:01 UTC"
+  "last_updated": "2025-12-18 14:35 UTC"
 }
