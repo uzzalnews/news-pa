@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Bangladesh Protests LIVE Updates: Student Leader's Group Distances Itself From Violence",
+      "link": "https://www.ndtv.com/world-news/bangladesh-protests-updates-bangladesh-unrest-news-bangladesh-student-leader-sharif-osman-hadi-dies-violence-erupts-in-bangladesh-after-death-of-stude-9843721#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Which countries, besides Russia, have assets frozen by the EU?",
+        "link": "https://www.aljazeera.com/news/2025/12/19/which-countries-besides-russia-have-assets-frozen-by-the-eu?traffic_source=rss"
+      },
+      {
+        "title": "Bangladesh on edge after killing of 2024 uprising activist triggers unrest",
+        "link": "https://www.aljazeera.com/news/2025/12/19/bangladesh-on-edge-after-killing-of-2024-uprising-activist-triggers-unrest?traffic_source=rss"
+      },
+      {
         "title": "EU announces $105bn loan to fund Ukraine’s defence against Russia",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/19/eu-announces-105bn-loan-to-fund-ukraines-defence-against-russia?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "EU agrees hefty $105bn Ukraine loan without using Russian assets",
         "link": "https://www.aljazeera.com/news/2025/12/19/eu-agrees-hefty-105b-ukraine-loan-without-using-russian-assets?traffic_source=rss"
-      },
-      {
-        "title": "Five killed as US military destroys two more vessels in Pacific Ocean",
-        "link": "https://www.aljazeera.com/news/2025/12/19/five-killed-as-us-military-destroys-two-more-vessels-in-pacific-ocean?traffic_source=rss"
-      },
-      {
-        "title": "Somalia’s 2026 election risks a legitimacy crisis",
-        "link": "https://www.aljazeera.com/opinions/2025/12/19/somalias-2026-election-risks-a-legitimacy-crisis?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,12 +84,12 @@
         "link": "https://www.dawn.com/news/1962016/india-has-consistently-attempted-to-undermine-indus-waters-treaty-says-dar"
       },
       {
-        "title": "UN General Assembly adopts Pakistan-backed resolution reaffirming right to self-determination",
-        "link": "https://www.dawn.com/news/1962007/un-general-assembly-adopts-pakistan-backed-resolution-reaffirming-right-to-self-determination"
+        "title": "US Homeland Security chief pauses green card lottery programme, says it was used by Brown University shooting suspect",
+        "link": "https://www.dawn.com/news/1962018/us-homeland-security-chief-pauses-green-card-lottery-programme-says-it-was-used-by-brown-university-shooting-suspect"
       },
       {
-        "title": "Only 9pc of development budget used in five months",
-        "link": "https://www.dawn.com/news/1961941/only-9pc-of-development-budget-used-in-five-months"
+        "title": "UN General Assembly adopts Pakistan-backed resolution reaffirming right to self-determination",
+        "link": "https://www.dawn.com/news/1962007/un-general-assembly-adopts-pakistan-backed-resolution-reaffirming-right-to-self-determination"
       },
       {
         "title": "Bangladesh rocked by unrest after death of student leader",
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli forces carry out air and naval strikes across southern Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-carry-out-air-and-naval-strikes-across-southern-gaza"
+      },
+      {
+        "title": "Palestinian injured as Israeli settlers run over him in Nablus",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-injured-israeli-settlers-run-over-him-nablus"
+      },
+      {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-481"
       },
@@ -125,58 +139,50 @@
       {
         "title": "Israeli forces shoot Palestinian child in the leg",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-shoot-palestinian-child-leg"
-      },
-      {
-        "title": "Turkey asked Russia to take back S-400 system: Report",
-        "link": "https://www.middleeasteye.net/news/turkey-asked-russia-take-back-s-400-system-report"
-      },
-      {
-        "title": "US, Israel and UAE discussed using Gaza gas to fund reconstruction, sources say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israel-and-uae-discussed-using-gaza-gas-fund-reconstruction-sources"
       }
     ],
     "GeoTV": [
       {
-        "title": "India's manipulation of water threatens food, economic security of Pakistan, Dar tells foreign envoys",
-        "link": "https://www.geo.tv/latest/640283-indias-manipulation-of-water-threatens-food-economic-security-of-pakistan-dar-tells-foreign-envoys"
+        "title": "Pete Davidson's partner shares painful update hours after baby announcement",
+        "link": "https://www.geo.tv/latest/640276-pete-davidsons-partner-shares-painful-update-hours-after-baby-announcement"
       },
       {
-        "title": "Suspect linked to Brown University, MIT shootings dies by suicide",
-        "link": "https://www.geo.tv/latest/640282-suspect-linked-to-brown-university-mit-shootings-dies-by-suicide"
+        "title": "Ryan Lochte reveals why he sold his Olympic gold medals",
+        "link": "https://www.geo.tv/latest/640287-ryan-lochte-reveals-why-he-sold-his-olympic-gold-medals"
       },
       {
-        "title": "Keira Knightley makes bombshell claim about Christmas film 'Love Actually'",
-        "link": "https://www.geo.tv/latest/640279-keira-knightley-makes-bombshell-claim-about-christmas-film-love-actually"
+        "title": "Peter Greene's death: how did 'Pulp Fiction' actor die?",
+        "link": "https://www.geo.tv/latest/640284-peter-greens-cause-of-death-how-did-pulp-fiction-actor-die"
       },
       {
-        "title": "PCB to take over Multan Sultans after ownership deal ends",
-        "link": "https://www.geo.tv/latest/640266-pcb-to-take-over-multan-sultans-after-ownership-deal-ends"
+        "title": "1 in 5 young adults in US use cannabis or alcohol to sleep",
+        "link": "https://www.geo.tv/latest/640286-1-in-5-young-adults-in-us-use-cannabis-or-alcohol-to-sleep"
       },
       {
-        "title": "Justice Jahangiri planned to 'resign' next month after securing pensionary benefits",
-        "link": "https://www.geo.tv/latest/640265-justice-jahangiri-planned-to-resign-next-month-after-securing-pensionary-benefits"
+        "title": "James Cameron clears up Matt Damon's viral 'Avatar' casting story",
+        "link": "https://www.geo.tv/latest/640285-james-cameron-clears-up-matt-damons-viral-avatar-casting-story"
       }
     ],
     "NDTV": [
       {
-        "title": "Historic Afghan Cinema Demolished For Shopping Mall Amid Taliban Ban On Films",
-        "link": "https://www.ndtv.com/world-news/historic-afghan-cinema-in-kabul-demolished-for-shopping-mall-amid-taliban-ban-on-films-9844476#publisher=newsstand"
+        "title": "Why Anti-India Mob Attacked Bangladesh Media Houses, Mujibur Rahman's House",
+        "link": "https://www.ndtv.com/world-news/bangladesh-crisis-live-updates-why-anti-india-mob-attacked-bangladesh-media-houses-mujibur-rahmans-house-9845298#publisher=newsstand"
       },
       {
-        "title": "\"Anti-Village\": Rahul Gandhi Rips Into G RAM G Bill, Cleared By Parliament",
-        "link": "https://www.ndtv.com/india-news/rahul-gandhi-slams-g-ram-g-bill-to-replace-mgnrega-anti-village-anti-state-9844669#publisher=newsstand"
+        "title": "Bangladesh Protests LIVE Updates: Student Leader's Group Distances Itself From Violence",
+        "link": "https://www.ndtv.com/world-news/bangladesh-protests-updates-bangladesh-unrest-news-bangladesh-student-leader-sharif-osman-hadi-dies-violence-erupts-in-bangladesh-after-death-of-stude-9843721#publisher=newsstand"
       },
       {
-        "title": "In Rare Accident, Musk's Starlink Lost Communication With One Of Its Satellite",
-        "link": "https://www.ndtv.com/world-news/in-rare-accident-elon-musks-starlink-lost-communication-with-one-of-its-satellite-9844865#publisher=newsstand"
+        "title": "\"Baseless Attempt To Link My Name\": Shilpa Shetty On Rs 60 Crore Fraud Case",
+        "link": "https://www.ndtv.com/india-news/shilpa-shetty-rs-60-crore-fraud-case-baseless-mischievous-attempt-raj-kundra-9845163#publisher=newsstand"
       },
       {
-        "title": "Massive Protests In Bangladesh As Anti-India Leader Dies After Being Shot",
-        "link": "https://www.ndtv.com/world-news/bangladesh-crisis-live-updates-violent-anti-india-protests-dhaka-daily-start-prothom-alo-officers-set-on-fire-indian-assistant-high-commission-chittag-9843756#publisher=newsstand"
+        "title": "Amid PM Modi's Assam Visit, Congress To Launch Manifesto Consultations",
+        "link": "https://www.ndtv.com/india-news/amid-pm-narendra-modis-assam-visit-congress-to-launch-statewide-manifesto-consultations-9845195#publisher=newsstand"
       },
       {
-        "title": "Renaming MGNREGA \"Takes Out Heart\" Of Entire Scheme: Shashi Tharoor",
-        "link": "https://www.ndtv.com/india-news/renaming-mgnrega-takes-out-heart-of-entire-scheme-shashi-tharoor-9844211#publisher=newsstand"
+        "title": "Meet Michaela Benthaus, Set To Become The First Wheelchair User In Space",
+        "link": "https://www.ndtv.com/world-news/meet-michaela-benthaus-set-to-become-the-first-wheelchair-user-in-space-9844514#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-19 06:58 UTC"
+  "last_updated": "2025-12-19 07:29 UTC"
 }
