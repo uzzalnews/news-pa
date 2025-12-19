@@ -13,20 +13,20 @@
         "link": "https://www.bbc.com/news/articles/cev8p7d0gmgo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "US carries out 'massive' strike against IS in Syria",
+        "link": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Putin vows no more wars if West treats Russia with respect",
         "link": "https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Putin tells BBC Western leaders deceived Russia",
-        "link": "https://www.bbc.com/news/videos/cj01pdve7rpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Family of stabbed girl say 'our hearts are broken'",
-        "link": "https://www.bbc.com/news/articles/c33m2j4nnkro?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Harry and Meghan embrace their children in Christmas message",
         "link": "https://www.bbc.com/news/articles/c865dvn2l92o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Timothée Chalamet teams up with EsDeeKid to quash alter-ego rumours",
+        "link": "https://www.bbc.com/news/articles/c79x4yqx0ngo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
@@ -99,12 +99,16 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "He Said He Was Not Close With Epstein. His Emails Suggest Otherwise.",
-        "link": "https://www.nytimes.com/2025/12/19/nyregion/epstein-farkas-relationship-marina.html"
+        "title": "For Trump, Epstein is the story that won’t go away.",
+        "link": "https://www.nytimes.com/live/2025/12/19/us/epstein-files-release/for-trump-epstein-is-the-story-that-wont-go-away"
       },
       {
         "title": "What is the origin of the Epstein case?",
         "link": "https://www.nytimes.com/live/2025/12/19/us/epstein-files-release/what-is-the-origin-of-the-epstein-case"
+      },
+      {
+        "title": "How The Times is covering the latest release of Epstein files.",
+        "link": "https://www.nytimes.com/2025/12/19/us/how-the-times-is-covering-the-latest-release-of-epstein-files.html"
       },
       {
         "title": "Elise Stefanik Drops Out of N.Y. Governor’s Race and Will Leave Congress",
@@ -113,10 +117,6 @@
       {
         "title": "Suspected Killer of M.I.T. Professor Studied With Victim, Graduating Top of Their Class",
         "link": "https://www.nytimes.com/2025/12/19/us/mit-professor-shooting-suspect-portugal-lisbon-physics.html"
-      },
-      {
-        "title": "How a Reddit Post Helped the Police Identify a Suspect in the Brown University Shooting",
-        "link": "https://www.nytimes.com/2025/12/19/us/brown-mit-shooting-investigation-reddit.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,6 +143,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Prince Archie and Lilibet tipped for future roles in Sussex charity",
+        "link": "https://www.geo.tv/latest/640406-prince-archie-and-lilibet-tipped-for-future-roles-in-sussex-charity"
+      },
+      {
+        "title": "Taylor Swift reacts to backup singer's cancer diagnosis",
+        "link": "https://www.geo.tv/latest/640445-taylor-swift-reacts-to-backup-singers-cancer-diagnosis"
+      },
+      {
         "title": "Aaron Phypers calls ex Denise Richards same as murderer Nick Reiner",
         "link": "https://www.geo.tv/latest/640444-aaron-phypers-calls-ex-denise-richards-same-as-murderer-nick-reiner"
       },
@@ -153,20 +161,16 @@
       {
         "title": "Gwyneth Paltrow thinks Ethan Hawke has eating disorder",
         "link": "https://www.geo.tv/latest/640440-gwyneth-paltrow-thinks-ethan-hawke-has-eating-disorder"
-      },
-      {
-        "title": "Romeo Beckham escapes family drama with luxury French getaway",
-        "link": "https://www.geo.tv/latest/640437-romeo-beckham-escapes-family-drama-with-luxury-french-getaway"
-      },
-      {
-        "title": "Jessie Buckley confirms birth of first child",
-        "link": "https://www.geo.tv/latest/640433-jessie-buckley-confirms-birth-of-first-child"
       }
     ],
     "NDTV": [
       {
         "title": "Musk Wins Appeal And Restores 2018 Tesla Pay Deal Worth $56 Billion",
-        "link": "https://www.ndtv.com/india-news/musk-wins-appeal-and-restores-2018-tesla-pay-deal-worth-56-billion-9851760#publisher=newsstand"
+        "link": "https://www.ndtv.com/world-news/musk-wins-appeal-and-restores-2018-tesla-pay-deal-worth-56-billion-9851760#publisher=newsstand"
+      },
+      {
+        "title": "US Carries Out Large-Scale Retaliatory Strikes Against ISIS In Syria",
+        "link": "https://www.ndtv.com/world-news/us-carries-out-large-scale-retaliatory-strikes-against-isis-in-syria-9851900#publisher=newsstand"
       },
       {
         "title": "Russian Strike Kills 7 In Ukraine's Coastal Odesa Region",
@@ -179,10 +183,6 @@
       {
         "title": "Erika Kirk, Widow Of Right-Wing Activist, Endorses JD Vance For US President",
         "link": "https://www.ndtv.com/world-news/erika-kirk-widow-of-influential-activist-endorses-vance-for-us-president-9851601#publisher=newsstand"
-      },
-      {
-        "title": "Putin Warns Of 'Severe' Consequences If Frozen Russian Assets Used For Ukraine",
-        "link": "https://www.ndtv.com/world-news/putin-warns-of-severe-consequences-if-frozen-russian-assets-used-for-ukraine-9851504#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-19 22:56 UTC"
+  "last_updated": "2025-12-19 23:22 UTC"
 }
