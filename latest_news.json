@@ -1,17 +1,7 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Bangladesh Protests LIVE Updates: Student Leader's Body To Arrive Back This Evening",
-      "link": "https://www.ndtv.com/world-news/bangladesh-protests-updates-bangladesh-unrest-news-bangladesh-student-leader-sharif-osman-hadi-dies-violence-erupts-in-bangladesh-after-death-of-stude-9843721#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
-      {
-        "title": "EU agrees €90bn loan for Ukraine but without using Russian assets",
-        "link": "https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Stigma of Ukraine's forgotten soldiers who 'died the wrong way'",
         "link": "https://www.bbc.com/news/articles/cwypp1jwjz1o?at_medium=RSS&at_campaign=rss"
@@ -21,15 +11,27 @@
         "link": "https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Golfer Rory McIlroy wins Sports Personality of the Year",
-        "link": "https://www.bbc.com/sport/golf/articles/crrkpwk8vdjo?at_medium=RSS&at_campaign=rss"
+        "title": "£100 contactless card limit to be lifted",
+        "link": "https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Australia announces gun buyback scheme in wake of Bondi attack",
-        "link": "https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: Surfers and swimmers pay tribute to victims of Bondi shooting",
+        "link": "https://www.bbc.com/news/videos/cjdrpx4yjv5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Golfer Rory McIlroy wins Sports Personality of the Year",
+        "link": "https://www.bbc.com/sport/golf/articles/crrkpwk8vdjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "EU agrees hefty $105b Ukraine loan without using Russian assets",
+        "link": "https://www.aljazeera.com/news/2025/12/19/eu-agrees-hefty-105b-ukraine-loan-without-using-russian-assets?traffic_source=rss"
+      },
+      {
+        "title": "Five killed as US military destroys two more vessels in Pacific Ocean",
+        "link": "https://www.aljazeera.com/news/2025/12/19/five-killed-as-us-military-destroys-two-more-vessels-in-pacific-ocean?traffic_source=rss"
+      },
       {
         "title": "Somalia’s 2026 election risks a legitimacy crisis",
         "link": "https://www.aljazeera.com/opinions/2025/12/19/somalias-2026-election-risks-a-legitimacy-crisis?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Man suspected in Brown U shooting, MIT professor’s killing found dead",
         "link": "https://www.aljazeera.com/news/2025/12/19/man-suspected-in-brown-u-shooting-mit-professors-killing-found-dead?traffic_source=rss"
-      },
-      {
-        "title": "Australia PM Albanese launches gun ‘buyback’ plan after Bondi Beach attack",
-        "link": "https://www.aljazeera.com/news/2025/12/19/australia-pm-albanese-launches-gun-buyback-plan-after-bondi-beach-attack?traffic_source=rss"
-      },
-      {
-        "title": "EU delays trade deal with South America’s Mercosur bloc as farmers protest",
-        "link": "https://www.aljazeera.com/news/2025/12/19/eu-delays-trade-deal-with-south-americas-mercosur-bloc-as-farmers-protest?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1962009/4-militants-killed-as-security-forces-camp-comes-under-attack-in-north-waziristans-boya"
       },
       {
+        "title": "India has consistently attempted to undermine Indus Waters Treaty, says Dar",
+        "link": "https://www.dawn.com/news/1962016/india-has-consistently-attempted-to-undermine-indus-waters-treaty-says-dar"
+      },
+      {
         "title": "UN General Assembly adopts Pakistan-backed resolution reaffirming right to self-determination",
         "link": "https://www.dawn.com/news/1962007/un-general-assembly-adopts-pakistan-backed-resolution-reaffirming-right-to-self-determination"
       },
@@ -90,16 +88,16 @@
       {
         "title": "Brown University shooting suspect found dead, motive remains unclear",
         "link": "https://www.dawn.com/news/1962012/brown-university-shooting-suspect-found-dead-motive-remains-unclear"
-      },
-      {
-        "title": "Pakistan yet to decide whether to join Gaza force, or not",
-        "link": "https://www.dawn.com/news/1961940/pakistan-yet-to-decide-whether-to-join-gaza-force-or-not"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Europe Agrees to $105 Billion Funding Plan for Ukraine",
+        "title": "What We Know About the Suspect in the Brown and M.I.T. Killings",
+        "link": "https://www.nytimes.com/2025/12/19/us/neves-valente-supect-what-we-know.html"
+      },
+      {
+        "title": "Europe to Lend $105 Billion to Ukraine, Without Touching Russian Funds",
         "link": "https://www.nytimes.com/2025/12/18/world/europe/russia-eu-ukraine-frozen-assets.html"
       },
       {
@@ -113,10 +111,6 @@
       {
         "title": "Takeaways From the Trial of Wisconsin Judge Hannah Dugan",
         "link": "https://www.nytimes.com/2025/12/18/us/judge-hannah-dugan-trial-takeaways.html"
-      },
-      {
-        "title": "Kennedy Center Board Moves to Rename It the Trump-Kennedy Center",
-        "link": "https://www.nytimes.com/2025/12/18/us/politics/trump-kennedy-center-name.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,49 +137,53 @@
     ],
     "GeoTV": [
       {
-        "title": "Kate Winslet speaks out on gender bias amid her directorial debut",
-        "link": "https://www.geo.tv/latest/640264-kate-winslet-speaks-out-on-gender-bias-amid-her-directorial-debut"
+        "title": "Brown University, MIT shooting suspect, Claudio Neves Valente, found dead",
+        "link": "https://www.geo.tv/latest/640282-brown-university-mit-shooting-suspect-claudio-neves-valente-found-dead"
       },
       {
-        "title": "Dwayne Johnson talks about powerful message ‘The Smashing Machine' carries",
-        "link": "https://www.geo.tv/latest/640257-dwayne-johnson-talks-about-powerful-message-the-smashing-machine-carries"
+        "title": "Keira Knightley makes bombshell claim about Christmas film 'Love Actually'",
+        "link": "https://www.geo.tv/latest/640279-keira-knightley-makes-bombshell-claim-about-christmas-film-love-actually"
       },
       {
-        "title": "Who's using your phone?",
-        "link": "https://www.geo.tv/latest/640261-whos-using-your-phone"
+        "title": "PCB to take over Multan Sultans after ownership deal ends",
+        "link": "https://www.geo.tv/latest/640266-pcb-to-take-over-multan-sultans-after-ownership-deal-ends"
       },
       {
-        "title": "Keira Knightley reveals she's sold her French vineyard",
-        "link": "https://www.geo.tv/latest/640258-keira-knightley-reveals-shes-sold-her-french-vineyard"
+        "title": "Justice Jahangiri planned to 'resign' next month after securing pensionary benefits",
+        "link": "https://www.geo.tv/latest/640265-justice-jahangiri-planned-to-resign-next-month-after-securing-pensionary-benefits"
       },
       {
-        "title": "JI stages sit-ins against e-challans, damaged roads in Karachi today",
-        "link": "https://www.geo.tv/latest/640262-ji-stages-sit-ins-against-e-challans-damaged-roads-in-karachi-today"
+        "title": "Ryan Gosling enjoys family outing with Eva Mendes amid London move",
+        "link": "https://www.geo.tv/latest/640274-ryan-gosling"
       }
     ],
     "NDTV": [
       {
-        "title": "Delhi Man Shot Dead Over Family Fight, 69 Bullets Found Inside Body",
-        "link": "https://www.ndtv.com/india-news/delhi-crime-news-delhi-police-delhi-man-shot-dead-over-family-fight-69-bullets-found-inside-body-9844505#publisher=newsstand"
+        "title": "Historic Afghan Cinema Demolished For Shopping Mall Amid Taliban Ban On Films",
+        "link": "https://www.ndtv.com/world-news/historic-afghan-cinema-in-kabul-demolished-for-shopping-mall-amid-taliban-ban-on-films-9844476#publisher=newsstand"
       },
       {
-        "title": "Jitan Ram Manjhi vs RJD Over \"Tampered\" Video That \"Exposed Rigging\" In Bihar",
-        "link": "https://www.ndtv.com/india-news/bihar-jitan-ram-manjhi-rjd-vote-rigging-tikri-assembly-dm-abhishek-singh-2020-election-9844452#publisher=newsstand"
+        "title": "\"Anti-Village\": Rahul Gandhi Rips Into G RAM G Bill, Cleared By Parliament",
+        "link": "https://www.ndtv.com/india-news/rahul-gandhi-slams-g-ram-g-bill-to-replace-mgnrega-anti-village-anti-state-9844669#publisher=newsstand"
       },
       {
-        "title": "Bengaluru Doctor Molested While Returning Home After Duty",
-        "link": "https://www.ndtv.com/bangalore-news/bengaluru-doctor-molested-while-returning-home-after-duty-9844443#publisher=newsstand"
+        "title": "In Rare Accident, Musk's Starlink Lost Communication With One Of Its Satellite",
+        "link": "https://www.ndtv.com/world-news/in-rare-accident-elon-musks-starlink-lost-communication-with-one-of-its-satellite-9844865#publisher=newsstand"
       },
       {
-        "title": "Who Was Osman Hadi, Student Leader Whose Death Led To Bangladesh Protests",
-        "link": "https://www.ndtv.com/world-news/bangladesh-crisis-live-sharif-osman-hadi-radical-islamist-student-leader-death-led-to-bangladesh-protests-9844377#publisher=newsstand"
+        "title": "Massive Protests In Bangladesh As Anti-India Leader Dies After Being Shot",
+        "link": "https://www.ndtv.com/world-news/bangladesh-crisis-live-updates-violent-anti-india-protests-dhaka-daily-start-prothom-alo-officers-set-on-fire-indian-assistant-high-commission-chittag-9843756#publisher=newsstand"
       },
       {
-        "title": "Bangladesh Protests LIVE Updates: Student Leader's Body To Arrive Back This Evening",
-        "link": "https://www.ndtv.com/world-news/bangladesh-protests-updates-bangladesh-unrest-news-bangladesh-student-leader-sharif-osman-hadi-dies-violence-erupts-in-bangladesh-after-death-of-stude-9843721#publisher=newsstand"
+        "title": "Renaming MGNREGA \"Takes Out Heart\" Of Entire Scheme: Shashi Tharoor",
+        "link": "https://www.ndtv.com/india-news/renaming-mgnrega-takes-out-heart-of-entire-scheme-shashi-tharoor-9844211#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Colombian mercenaries in Sudan ‘recruited by UK-registered firms’",
+        "link": "https://www.theguardian.com/global-development/2025/dec/19/colombian-mercenaries-sudan-rsf-us-sanctions-recruited-uk-registered-firms-investigation"
+      },
       {
         "title": "Morocco accused of ‘horrific’ abuse of detained gen Z protesters",
         "link": "https://www.theguardian.com/global-development/2025/dec/18/morocco-genz212-protests-police-mass-arrests-beatings-detentions-rights"
@@ -201,12 +199,8 @@
       {
         "title": "Libya looks to its past to build a new future as national museum reopens",
         "link": "https://www.theguardian.com/world/2025/dec/16/libya-national-museum-reopens"
-      },
-      {
-        "title": "Ghanaian students at UK universities face deportation amid funding crisis",
-        "link": "https://www.theguardian.com/education/2025/dec/14/ghana-students-uk-universities-face-deportion-funding-crisis"
       }
     ]
   },
-  "last_updated": "2025-12-19 05:56 UTC"
+  "last_updated": "2025-12-19 06:37 UTC"
 }
