@@ -2,7 +2,7 @@
   "breaking": [
     {
       "source": "NDTV",
-      "title": "Bangladesh Protests LIVE Updates: Student Leader's Group Distances Itself From Violence",
+      "title": "Bangladesh Protests LIVE Updates: Dhaka Condemns Lynching Of Hindu Man In Protests",
       "link": "https://www.ndtv.com/world-news/bangladesh-protests-updates-bangladesh-unrest-news-bangladesh-student-leader-sharif-osman-hadi-dies-violence-erupts-in-bangladesh-after-death-of-stude-9843721#publisher=newsstand"
     }
   ],
@@ -13,8 +13,8 @@
         "link": "https://www.bbc.com/news/articles/cwypp1jwjz1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Brown University shooting suspect found dead, police say",
-        "link": "https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss"
+        "title": "Government data stolen in hack, minister confirms",
+        "link": "https://www.bbc.com/news/articles/cj4qpwprw9vo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "£100 contactless card limit to be lifted",
@@ -25,11 +25,15 @@
         "link": "https://www.bbc.com/news/videos/cjdrpx4yjv5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Millions head home for Christmas on busiest day of festive getaway",
-        "link": "https://www.bbc.com/news/articles/c5yjvnr655po?at_medium=RSS&at_campaign=rss"
+        "title": "Brown University shooting suspect found dead, police say",
+        "link": "https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Julian Assange files complaint against Nobel Foundation over Machado prize",
+        "link": "https://www.aljazeera.com/news/2025/12/19/julian-assange-files-complaint-against-nobel-foundation-over-machado-prize?traffic_source=rss"
+      },
       {
         "title": "How much is US support for Israel costing Donald Trump?",
         "link": "https://www.aljazeera.com/news/2025/12/19/how-much-is-us-support-for-israel-costing-donald-trump?traffic_source=rss"
@@ -45,10 +49,6 @@
       {
         "title": "Which countries, besides Russia, have assets frozen by the EU?",
         "link": "https://www.aljazeera.com/news/2025/12/19/which-countries-besides-russia-have-assets-frozen-by-the-eu?traffic_source=rss"
-      },
-      {
-        "title": "Bangladesh on edge after killing of 2024 uprising activist triggers unrest",
-        "link": "https://www.aljazeera.com/news/2025/12/19/bangladesh-on-edge-after-killing-of-2024-uprising-activist-triggers-unrest?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "India’s ‘unlawful use of force’ in Pakistan after Pahalgam attack violated rights to life, security: UN experts",
+        "link": "https://www.dawn.com/news/1962024/indias-unlawful-use-of-force-in-pakistan-after-pahalgam-attack-violated-rights-to-life-security-un-experts"
+      },
+      {
         "title": "Dar sounds alarm over India’s ‘weaponisation of water’ following variations in Chenab flow",
         "link": "https://www.dawn.com/news/1962016/dar-sounds-alarm-over-indias-weaponisation-of-water-following-variations-in-chenab-flow"
       },
@@ -90,10 +94,6 @@
       {
         "title": "UN General Assembly adopts Pakistan-backed resolution reaffirming right to self-determination",
         "link": "https://www.dawn.com/news/1962007/un-general-assembly-adopts-pakistan-backed-resolution-reaffirming-right-to-self-determination"
-      },
-      {
-        "title": "Bangladesh rocked by unrest after death of student leader",
-        "link": "https://www.dawn.com/news/1962015/bangladesh-rocked-by-unrest-after-death-of-student-leader"
       }
     ],
     "APNews": [],
@@ -121,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Was 2025 a good year for Netanyahu?",
+        "link": "https://www.middleeasteye.net/opinion/was-2025-good-year-netanyahu%3F"
+      },
+      {
         "title": "Israeli forces carry out air and naval strikes across southern Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-carry-out-air-and-naval-strikes-across-southern-gaza"
       },
@@ -135,54 +139,50 @@
       {
         "title": "Evening recap",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-592"
-      },
-      {
-        "title": "Israeli forces shoot Palestinian child in the leg",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-shoot-palestinian-child-leg"
       }
     ],
     "GeoTV": [
       {
+        "title": "Shawn Levy wraps up 'Star Wars: Firefighter' after filming for four months",
+        "link": "https://www.geo.tv/latest/640260-shawn-levy-wraps-up-star-wars-firefighter-after-filming-for-four-months"
+      },
+      {
+        "title": "To avoid US TikTok ban, ByteDance forms joint venture transferring control to American investors",
+        "link": "https://www.geo.tv/latest/640300-bytedance-forms-joint-venture-to-transfer-control-to-american-investors-avoid-us-tiktok-ban"
+      },
+      {
+        "title": "Erika Kirk endorses JD Vance for 2028 presidential race in apparent snub to Trump",
+        "link": "https://www.geo.tv/latest/640298-erika-kirk-endorses-jd-vance-for-2028-presidential-race-in-apparent-snub-to-trump"
+      },
+      {
+        "title": "King Charles expresses sadness in message as Prince Harry suffers injury",
+        "link": "https://www.geo.tv/latest/640290-king-charles-expresses-sadness-in-message-as-prince-harry-suffers-injury"
+      },
+      {
         "title": "Bianca Censori explains meaning behind her controversial public outfits",
         "link": "https://www.geo.tv/latest/640289-bianca-censori-explains-meaning-behind-her-controversial-public-outfits"
-      },
-      {
-        "title": "Pete Davidson's partner shares painful update hours after baby announcement",
-        "link": "https://www.geo.tv/latest/640276-pete-davidsons-partner-shares-painful-update-hours-after-baby-announcement"
-      },
-      {
-        "title": "From football to the Moon: Five things to keep an eye on in 2026",
-        "link": "https://www.geo.tv/latest/640288-from-football-to-the-moon-five-things-to-keep-an-eye-on-in-2026"
-      },
-      {
-        "title": "Ryan Lochte reveals why he sold his Olympic gold medals",
-        "link": "https://www.geo.tv/latest/640287-ryan-lochte-reveals-why-he-sold-his-olympic-gold-medals"
-      },
-      {
-        "title": "Peter Greene's death: how did 'Pulp Fiction' actor die?",
-        "link": "https://www.geo.tv/latest/640284-peter-greens-cause-of-death-how-did-pulp-fiction-actor-die"
       }
     ],
     "NDTV": [
       {
-        "title": "Why Anti-India Mob Attacked Bangladesh Media Houses, Mujibur Rahman's House",
-        "link": "https://www.ndtv.com/world-news/bangladesh-crisis-live-updates-why-anti-india-mob-attacked-bangladesh-media-houses-mujibur-rahmans-house-9845298#publisher=newsstand"
+        "title": "Agencies Launch Probe Into Bondi Shooter's India-Australia Trips, Visa Status",
+        "link": "https://www.ndtv.com/india-news/bondi-beach-attack-sajid-akram-agencies-launch-probe-into-bondi-shooters-india-australia-trips-visa-status-9845693#publisher=newsstand"
       },
       {
-        "title": "Bangladesh Protests LIVE Updates: Student Leader's Group Distances Itself From Violence",
+        "title": "Drunk Scorpio Driver Goes On Rampage In Faridabad, Hits Several Vehicles",
+        "link": "https://www.ndtv.com/india-news/drunk-scorpio-driver-goes-on-rampage-in-faridabad-hits-several-vehicles-9845607#publisher=newsstand"
+      },
+      {
+        "title": "Bangladesh Protests LIVE Updates: Dhaka Condemns Lynching Of Hindu Man In Protests",
         "link": "https://www.ndtv.com/world-news/bangladesh-protests-updates-bangladesh-unrest-news-bangladesh-student-leader-sharif-osman-hadi-dies-violence-erupts-in-bangladesh-after-death-of-stude-9843721#publisher=newsstand"
       },
       {
-        "title": "\"Baseless Attempt To Link My Name\": Shilpa Shetty On Rs 60 Crore Fraud Case",
-        "link": "https://www.ndtv.com/india-news/shilpa-shetty-rs-60-crore-fraud-case-baseless-mischievous-attempt-raj-kundra-9845163#publisher=newsstand"
+        "title": "Woman Lawyer Alleges Sexual Assault Inside Noida Police Station, Supreme Court Seeks CCTV Footage",
+        "link": "https://www.ndtv.com/india-news/supreme-court-seeks-cctv-footage-after-woman-lawyer-alleges-assault-in-noida-sector-126-police-station-9845545#publisher=newsstand"
       },
       {
-        "title": "Amid PM Modi's Assam Visit, Congress To Launch Manifesto Consultations",
-        "link": "https://www.ndtv.com/india-news/amid-pm-narendra-modis-assam-visit-congress-to-launch-statewide-manifesto-consultations-9845195#publisher=newsstand"
-      },
-      {
-        "title": "Meet Michaela Benthaus, Set To Become The First Wheelchair User In Space",
-        "link": "https://www.ndtv.com/world-news/meet-michaela-benthaus-set-to-become-the-first-wheelchair-user-in-space-9844514#publisher=newsstand"
+        "title": "How Waltons Reportedly Became The Richest Family In The World Through Walmart",
+        "link": "https://www.ndtv.com/world-news/how-waltons-reportedly-became-the-richest-family-in-the-world-through-walmart-9844693#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-19 07:54 UTC"
+  "last_updated": "2025-12-19 08:28 UTC"
 }
