@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Bangladesh Protests LIVE Updates: \"Deeply Sorry For Terror\": Yunus Condemns Mob Violence",
-      "link": "https://www.ndtv.com/world-news/bangladesh-protests-updates-bangladesh-unrest-news-bangladesh-student-leader-sharif-osman-hadi-dies-violence-erupts-in-bangladesh-after-death-of-stude-9843721#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Putin labels EU ‘robbers’ over plan to use frozen Russian assets",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/19/putin-labels-eu-robbers-over-plan-to-use-frozen-russian-assets?traffic_source=rss"
+      },
+      {
         "title": "Who was Osman Hadi; why is Bangladesh on fire over his death?",
         "link": "https://www.aljazeera.com/news/2025/12/19/who-was-osman-hadi-why-is-bangladesh-on-fire-over-his-death?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Putin takes aim at Zelenskyy in annual Q&A, says he won’t negotiate on land",
         "link": "https://www.aljazeera.com/news/2025/12/19/putin-takes-aim-at-zelenskyy-in-annual-qa-says-he-wont-negotiate-on-land?traffic_source=rss"
-      },
-      {
-        "title": "Demands for justice as mass protests return to Bangladesh",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/19/demands-for-justice-as-mass-protests-return-to-bangladesh?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1962015/body-of-bangladesh-student-leader-reaches-dhaka-amid-nationwide-unrest"
       },
       {
-        "title": "Dar sounds alarm over India’s ‘weaponisation of water’ following variations in Chenab flow",
-        "link": "https://www.dawn.com/news/1962016/dar-sounds-alarm-over-indias-weaponisation-of-water-following-variations-in-chenab-flow"
-      },
-      {
         "title": "4 militants killed as security forces’ camp comes under attack in North Waziristan’s Boya",
         "link": "https://www.dawn.com/news/1962009/4-militants-killed-as-security-forces-camp-comes-under-attack-in-north-waziristans-boya"
       },
       {
-        "title": "Over 1,000 patients have died awaiting evacuation from Gaza since July 2024: WHO",
-        "link": "https://www.dawn.com/news/1962036/over-1000-patients-have-died-awaiting-evacuation-from-gaza-since-july-2024-who"
+        "title": "Flights cancelled, roads flooded as rare storm soaks UAE",
+        "link": "https://www.dawn.com/news/1962039/flights-cancelled-roads-flooded-as-rare-storm-soaks-uae"
+      },
+      {
+        "title": "Pakistan targets January for inaugural panda bond tranche, says finance ministry",
+        "link": "https://www.dawn.com/news/1962034/pakistan-targets-january-for-inaugural-panda-bond-tranche-says-finance-ministry"
       }
     ],
     "APNews": [],
@@ -107,19 +101,27 @@
         "link": "https://www.nytimes.com/2025/12/19/us/mit-professor-brown-shooting-suspect-portugal.html"
       },
       {
-        "title": "A Reddit Post Led to a Breakthrough in the Brown Shooting Investigation",
-        "link": "https://www.nytimes.com/2025/12/19/us/brown-mit-shooting-investigation-reddit.html"
-      },
-      {
         "title": "Brown University Shooting Suspect Found Dead, and Trump Eases Marijuana Restrictions",
         "link": "https://www.nytimes.com/2025/12/19/podcasts/the-headlines/brown-university-suspect-trump-marijuana.html"
       },
       {
         "title": "Europe to Lend $105 Billion to Ukraine, Without Touching Russian Funds",
         "link": "https://www.nytimes.com/2025/12/18/world/europe/russia-eu-ukraine-frozen-assets.html"
+      },
+      {
+        "title": "With New E.U. Loan, Ukraine Avoids Budget Crunch and Can Plan War Effort",
+        "link": "https://www.nytimes.com/2025/12/19/world/europe/ukraine-russia-frozen-assets-loan.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "UN’s Lazzarini warns 1.6 million people in Gaza are hungry as Israel blocks aid",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uns-lazzarini-warns-16-million-people-gaza-are-hungry-israel-blocks-aid"
+      },
+      {
+        "title": "Palestinians face violence on the streets of Israel as racist attacks spread",
+        "link": "https://www.middleeasteye.net/news/palestinians-are-under-attack-israels-streets-too"
+      },
       {
         "title": "Gaza famine eases but more than 100,000 still face catastrophic hunger - report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-famine-eases-over-100000-still-face-catastrophic-hunger-report"
@@ -131,58 +133,50 @@
       {
         "title": "Unrwa turns wooden pallets into desks as Gaza’s classrooms lie in ruins",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/unrwa-turns-wooden-pallets-desks-gazas-classrooms-lie-ruins"
-      },
-      {
-        "title": "Four Palestinians killed in Israeli air strikes on Gaza's Bani Suheila",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-palestinians-killed-israeli-airstrikes-gazas-bani-suheila"
-      },
-      {
-        "title": "Erasing the Greek presence: The last of a historic community in Jerusalem are vanishing",
-        "link": "https://www.middleeasteye.net/discover/erasing-greek-presence-jerusalem-was-once-home-thousands-greeks-now-they-are-vanishing"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince Harry, Meghan Markle release surprise video alongside holiday cards",
-        "link": "https://www.geo.tv/latest/640373-prince-harry-meghan-markle-release-surprise-video-alongside-holiday-cards"
+        "title": "Jenna Ortega heats up romance with Elias Rønnenfelt in rare public outing",
+        "link": "https://www.geo.tv/latest/640365-jenna-ortega-heats-up-romance-with-elias-rnnenfelt-in-rare-public-outing"
       },
       {
-        "title": "Prince Harry, Meghan Markle invite wealthy fans to pay $100 for a plat",
-        "link": "https://www.geo.tv/latest/640367-dinner-with-prince-harry-meghan-markle-for-100k"
+        "title": "Registration opens for foreign players for ‘historic' PSL 11",
+        "link": "https://www.geo.tv/latest/640376-registration-opens-for-foreign-players-for-historic-psl-11"
       },
       {
-        "title": "King Charles celebrates as Prince Harry sends Archie, Lilibet update",
-        "link": "https://www.geo.tv/latest/640356-king-charles-celebrates-as-prince-harry-sends-archie-lilibet-update"
+        "title": "Mia Goth shares life changing career moment: watch inside",
+        "link": "https://www.geo.tv/latest/640338-mia-goth"
       },
       {
-        "title": "Rachel Zoe set to mark her comeback with Bravo",
-        "link": "https://www.geo.tv/latest/640340-rachel-zoe-set-to-mark-her-comeback-with-bravo"
+        "title": "Inside Kourtney Kardashian, Travis Barker family holiday dinner",
+        "link": "https://www.geo.tv/latest/640354-inside-kourtney-kardashian-travis-barker-family-holiday-dinner"
       },
       {
-        "title": "Prince Harry, Meghan Markle implement major name change for Archie, Lili",
-        "link": "https://www.geo.tv/latest/640363-prince-harry-meghan-markle-recruit-archie-lili-as-they-announce-expansion"
+        "title": "King Charles anchors royal visit to Dartmouth",
+        "link": "https://www.geo.tv/latest/640370-king-charles-anchors-royal-visit-to-dartmouth"
       }
     ],
     "NDTV": [
       {
-        "title": "Live Updates: NDTV Indian Of The Year Awards 2025 Begin",
+        "title": "Live Updates: Dr Ashish, Kavita Satav Win 'Health Leader Of The Year'",
         "link": "https://www.ndtv.com/india-news/ndtv-indian-of-the-year-2025-live-updates-sports-entertainment-science-ndtv-honours-ideas-inspiration-impact-9845570#publisher=newsstand"
       },
       {
-        "title": "Teen Kills Stranger For Refusing Rs 10 For Liquor In Andhra Pradesh: Cops",
-        "link": "https://www.ndtv.com/india-news/teen-kills-stranger-for-refusing-rs-10-for-liquor-in-andhra-pradesh-cops-9849189#publisher=newsstand"
+        "title": "BS Bhavesh Wins Social Impact Of The Year At NDTV Indian Of The Year",
+        "link": "https://www.ndtv.com/india-news/bs-bhavesh-wins-social-impact-of-the-year-at-ndtv-indian-of-the-year-9849495#publisher=newsstand"
       },
       {
-        "title": "Video: Bikers Ride On Footpath In Pune, Foreign Tourists Refuse To Give Way",
-        "link": "https://www.ndtv.com/india-news/video-bikers-ride-on-footpath-in-pune-foreign-tourists-refuse-to-give-way-9848374#publisher=newsstand"
+        "title": "'Dark Day For Journalism': Bangladesh Media Sound Alarm After Arson Attacks",
+        "link": "https://www.ndtv.com/world-news/dark-day-for-journalism-bangladesh-media-sound-alarm-after-arson-attacks-9849418#publisher=newsstand"
       },
       {
-        "title": "Court Orders Congress To Remove Deep Fake PM Modi, Gautam Adani Video",
-        "link": "https://www.ndtv.com/india-news/court-orders-congress-to-remove-deep-fake-pm-modi-gautam-adani-video-9849071#publisher=newsstand"
+        "title": "Assets Of Yuvraj Singh, Sonu Sood And Others Attached In Betting App Case",
+        "link": "https://www.ndtv.com/india-news/assets-of-yuvraj-singh-sonu-sood-and-others-attached-in-betting-app-case-9849361#publisher=newsstand"
       },
       {
-        "title": "Bangladesh Protests LIVE Updates: \"Deeply Sorry For Terror\": Yunus Condemns Mob Violence",
-        "link": "https://www.ndtv.com/world-news/bangladesh-protests-updates-bangladesh-unrest-news-bangladesh-student-leader-sharif-osman-hadi-dies-violence-erupts-in-bangladesh-after-death-of-stude-9843721#publisher=newsstand"
+        "title": "No Conclusive Data Linking Higher AQI To Lung Diseases: Centre",
+        "link": "https://www.ndtv.com/india-news/no-conclusive-data-linking-higher-aqi-to-lung-diseases-centre-9849386#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-19 13:10 UTC"
+  "last_updated": "2025-12-19 13:45 UTC"
 }
