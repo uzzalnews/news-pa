@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Tottenham vs Liverpool – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/20/live-tottenham-vs-liverpool-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Tottenham vs Liverpool – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/20/live-tottenham-vs-liverpool-premier-league?traffic_source=rss"
+      },
+      {
         "title": "Tens of thousands flood streets for Bangladeshi activist’s funeral",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/20/tens-of-thousands-flood-streets-for-bangladeshi-activists-funeral?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Russian attack on Ukraine’s Odesa kills at least 8 as peace talks lumber on",
         "link": "https://www.aljazeera.com/news/2025/12/20/russian-attack-on-ukraines-odesa-kills-at-least-8-as-peace-talks-lumber-on?traffic_source=rss"
-      },
-      {
-        "title": "MSF urges Israel to let critical aid into Gaza as children freeze to death",
-        "link": "https://www.aljazeera.com/news/2025/12/20/msf-urges-israel-to-let-critical-aid-into-gaza-as-children-freeze-to-death?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,6 +143,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Galaxy Z Flip 8 tipped to be Samsung's best flip phone with THIS Exynos chip",
+        "link": "https://www.geo.tv/latest/640579-galaxy-z-flip-8-tipped-to-be-samsungs-best-flip-phone-with-this-exynos-chip"
+      },
+      {
         "title": "Prince Harry, Meghan Markle pull off a major U-turn",
         "link": "https://www.geo.tv/latest/640575-prince-harry-meghan-markle-pull-off-a-major-u-turn"
       },
@@ -151,10 +161,6 @@
       {
         "title": "Imran Khan's sons raise concerns over father's prison conditions, limited contact",
         "link": "https://www.geo.tv/latest/640568-imran-khans-sons-raise-concerns-over-fathers-prison-conditions-limited-contact"
-      },
-      {
-        "title": "Taylor Swift fiancé Travis Kelce broke his silence after Chiefs elimination from playoffs",
-        "link": "https://www.geo.tv/latest/640567-taylor-swift-fiance-travis-kelce"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-20 14:49 UTC"
+  "last_updated": "2025-12-20 15:00 UTC"
 }
