@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Tottenham vs Liverpool – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/20/live-tottenham-vs-liverpool-premier-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Why has signing the EU-Mercosur deal been delayed?",
+        "link": "https://www.aljazeera.com/video/inside-story/2025/12/20/why-has-signing-the-eu-mercosur-deal-been-delayed?traffic_source=rss"
+      },
+      {
         "title": "Lebanon claims first phase of Hezbollah’s disarmament close to complete",
         "link": "https://www.aljazeera.com/news/2025/12/20/first-phase-of-hezbollahs-disarmament-close-to-complete-lebanons-salam?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Israel launches new raids in Syria’s Quneitra, establishes checkpoints",
         "link": "https://www.aljazeera.com/news/2025/12/20/israel-launches-fresh-raids-in-syrias-quneitra-establishes-checkpoints?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Tottenham vs Liverpool – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/20/live-tottenham-vs-liverpool-premier-league?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli forces kill young Palestinian near Jenin",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-young-palestinian-near-jenin"
+      },
+      {
         "title": "Lebanon close to completing disarmament of Hezbollah south of Litani River, says PM",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-close-completing-disarmament-hezbollah-south-litani-river-says"
       },
@@ -135,13 +133,17 @@
       {
         "title": "Turkey and Hamas discuss reaching second phase of Gaza peace plan, Turkish sources say",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-and-hamas-discuss-reaching-second-phase-gaza-peace-plan-turkish"
-      },
-      {
-        "title": "First phase of disarmament south of Litani River to end soon, says PM",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/first-phase-disarmament-south-litani-river-end-soon-says-pm"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Why Sylvester Stallone loses biggest blockbuster role?",
+        "link": "https://www.geo.tv/latest/640603-why-sylvester-stallone-loses-biggest-blockbuster-role"
+      },
+      {
+        "title": "Mohsin Naqvi likely to attend Pakistan-India U19 Asia Cup final",
+        "link": "https://www.geo.tv/latest/640601-mohsin-naqvi-likely-to-attend-pakistan-india-u19-asia-cup-final"
+      },
       {
         "title": "Kate Middleton, Queen Camilla's calculated power play unfolds",
         "link": "https://www.geo.tv/latest/640593-kate-middleton-queen-camillas-calculated-power-play-unfolds"
@@ -153,14 +155,6 @@
       {
         "title": "In a first, wheelchair user flies into space",
         "link": "https://www.geo.tv/latest/640591-in-a-first-wheelchair-user-flies-into-space"
-      },
-      {
-        "title": "Epstein files opened: famous faces, many blacked-out pages",
-        "link": "https://www.geo.tv/latest/640590-epstein-files-opened-famous-faces-many-blacked-out-pages"
-      },
-      {
-        "title": "Prince George joins William to embrace Diana's legacy in touching Christmas video",
-        "link": "https://www.geo.tv/latest/640588-prince-george-joins-william-to-embrace-dianas-legacy-in-touching-christmas-video"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-20 18:20 UTC"
+  "last_updated": "2025-12-20 18:44 UTC"
 }
