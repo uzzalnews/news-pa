@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel continues ceasefire violations; 1 Palestinian killed in Gaza",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/21/live-israel-continues-ceasefire-violations-1-palestinian-killed-in-gaza?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Palestinian family left homeless after house collapses in storm-hit Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/21/palestinian-family-left-homeless-after-house-collapses-in-storm-hit-gaza?traffic_source=rss"
+      },
+      {
         "title": "Russia-Ukraine war may “grind on for another 12 to 18 months”",
         "link": "https://www.aljazeera.com/video/quotable/2025/12/21/russia-ukraine-war-may-grind-on-for-another-12-to-18?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Israel’s yellow line in Gaza has become a “site of killing”",
         "link": "https://www.aljazeera.com/video/quotable/2025/12/21/aje-onl-gordon_quotable-211225?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel continues ceasefire violations; 1 Palestinian killed in Gaza",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/21/live-israel-continues-ceasefire-violations-1-palestinian-killed-in-gaza?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1962446/fcc-affirms-all-other-courts-including-sc-are-constitutionally-mandated-to-adhere-to-its-judgements"
       },
       {
+        "title": "EU welcomes Pakistan’s progress on implementing 27 conventions under GSP+ programme",
+        "link": "https://www.dawn.com/news/1962447/eu-welcomes-pakistans-progress-on-implementing-27-conventions-under-gsp-programme"
+      },
+      {
         "title": "TTP formations infiltrating into Pakistan mostly comprise Afghans: CDF Field Marshal Asim Munir",
         "link": "https://www.dawn.com/news/1962443/ttp-formations-infiltrating-into-pakistan-mostly-comprise-afghans-cdf-field-marshal-asim-munir"
       },
       {
         "title": "Karachi experiences foggy morning, ‘very unhealthy’ air, flight disruptions",
         "link": "https://www.dawn.com/news/1962436/karachi-experiences-foggy-morning-very-unhealthy-air-flight-disruptions"
-      },
-      {
-        "title": "PNS warship’s commissioning ceremony held in Turkiye; Erdogan stresses need for enhanced cooperation in defence production",
-        "link": "https://www.dawn.com/news/1962440/pns-warships-commissioning-ceremony-held-in-turkiye-erdogan-stresses-need-for-enhanced-cooperation-in-defence-production"
       }
     ],
     "APNews": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Egypt lifts travel ban on activist Alaa Abd el-Fattah",
+        "link": "https://www.middleeasteye.net/news/egypt-lifts-travel-ban-activist-alaa-abd-el-fattah"
+      },
+      {
         "title": "Israeli forces kill Palestinian teenager near Jenin",
         "link": "https://www.middleeasteye.net/news/israel-forces-kill-palestinian-teenager-jenin"
       },
@@ -135,32 +133,28 @@
       {
         "title": "Israel kills three Palestinians in Gaza drone attacks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-gaza-drone-attacks"
-      },
-      {
-        "title": "Three confirmed dead after house collapses in Sheikh Radwan",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-confirmed-dead-after-house-collapses-sheikh-radwan"
       }
     ],
     "GeoTV": [
       {
-        "title": "Lola Young gives health update after coming back from hiatus",
-        "link": "https://www.geo.tv/latest/640699-lola-young-gives-health-update-after-coming-back-from-hiatus"
+        "title": "WATCH: Pakistan's winning moment as Green Shirts clinch U19 Asia Cup title",
+        "link": "https://www.geo.tv/latest/640704-watch-moment-pakistan-clinch-u19-asia-cup-title-as-jubilant-players-storm-field"
       },
       {
-        "title": "‘Saturday Night Live' star raves over Bowen Yang amid midseason exit",
-        "link": "https://www.geo.tv/latest/640692-snl-star-raves-over-bowen-yang-amid-midseason-exit"
+        "title": "Prince Harry, Meghan Markle take protective measures as warning issued",
+        "link": "https://www.geo.tv/latest/640695-prince-harry-meghan-markle-take-protective-measures-as-warning-issued"
       },
       {
-        "title": "Australia probes security services after Bondi Beach attack",
-        "link": "https://www.geo.tv/latest/640685-australia-probes-security-services-after-bondi-beach-attack"
+        "title": "Prince William gushes to Prince George about Diana: 'That's my mum'",
+        "link": "https://www.geo.tv/latest/640711-prince-william-gushes-to-prince-george-about-diana-thats-my-mum"
       },
       {
-        "title": "Electricity outage hits San Francisco, thousands without power",
-        "link": "https://www.geo.tv/latest/640684-electricity-outage-hits-san-francisco-thousands-without-power"
+        "title": "Miley Cyrus experiences 'cold feet' amid wedding planning with Maxx Morando",
+        "link": "https://www.geo.tv/latest/640707-miley-cyrus-experiences-cold-feet-amid-wedding-planning-with-maxx-morando"
       },
       {
-        "title": "Queen Camilla ready to reclaim spotlight from Princess Kate in 2026",
-        "link": "https://www.geo.tv/latest/640693-queen-camilla-ready-to-reclaim-spotlight-from-princess-kate-in-2026"
+        "title": "'Fearlessness, maturity, belief:' Cricket fraternity hails Pakistan on U19 Asia Cup title",
+        "link": "https://www.geo.tv/latest/640705-u19-asia-cup-final-cricket-fraternity-hails-pakistans-historic-win-over-india"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-21 11:57 UTC"
+  "last_updated": "2025-12-21 12:51 UTC"
 }
