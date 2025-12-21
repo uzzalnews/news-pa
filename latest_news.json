@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Villarreal vs Barcelona – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/21/live-villarreal-vs-barcelona-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,15 @@
         "link": "https://www.bbc.com/news/videos/ceq1dvjpq4eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "This billionaire tested China's limits. It cost him his freedom",
-        "link": "https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss"
+        "title": "Weight-loss jabs: What happens when you stop?",
+        "link": "https://www.bbc.com/news/articles/cn98pdpyjz5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Villarreal vs Barcelona – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/21/live-villarreal-vs-barcelona-la-liga?traffic_source=rss"
+      },
       {
         "title": "Palestinian family left homeless after house collapses in storm-hit Gaza",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/21/palestinian-family-left-homeless-after-house-collapses-in-storm-hit-gaza?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Algeria bill seeks to criminalise French colonial rule: What to know",
         "link": "https://www.aljazeera.com/news/2025/12/21/algeria-bill-seeks-to-criminalise-french-colonial-rule-what-to-know?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s yellow line in Gaza has become a “site of killing”",
-        "link": "https://www.aljazeera.com/video/quotable/2025/12/21/aje-onl-gordon_quotable-211225?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/1962442/pakistan-rout-india-to-clinch-u-19-asia-cup-title-as-sameer-minhas-and-ali-raza-star"
       },
       {
+        "title": "Current levels of bilateral trade do not reflect the true potential of Pakistan-Iraq relations: President Zardari",
+        "link": "https://www.dawn.com/news/1962431/current-levels-of-bilateral-trade-do-not-reflect-the-true-potential-of-pakistan-iraq-relations-president-zardari"
+      },
+      {
         "title": "FCC affirms all other courts, including SC, are ‘constitutionally mandated’ to adhere to its judgements",
         "link": "https://www.dawn.com/news/1962446/fcc-affirms-all-other-courts-including-sc-are-constitutionally-mandated-to-adhere-to-its-judgements"
       },
@@ -84,10 +94,6 @@
       {
         "title": "TTP formations infiltrating into Pakistan mostly comprise Afghans: CDF Field Marshal Asim Munir",
         "link": "https://www.dawn.com/news/1962443/ttp-formations-infiltrating-into-pakistan-mostly-comprise-afghans-cdf-field-marshal-asim-munir"
-      },
-      {
-        "title": "Karachi experiences foggy morning, ‘very unhealthy’ air, flight disruptions",
-        "link": "https://www.dawn.com/news/1962436/karachi-experiences-foggy-morning-very-unhealthy-air-flight-disruptions"
       }
     ],
     "APNews": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Tucker Carlson and Steve Bannon blast 'Israel First' at fractious Maga conference",
+        "link": "https://www.middleeasteye.net/news/tucker-carlson-and-steve-bannon-blast-israel-first-fractious-maga-conference"
+      },
+      {
+        "title": "OIC condemns Israeli attack on shelter in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oic-condemns-israeli-attack-shelter-gaza"
+      },
+      {
         "title": "Egypt lifts travel ban on activist Alaa Abd el-Fattah",
         "link": "https://www.middleeasteye.net/news/egypt-lifts-travel-ban-activist-alaa-abd-el-fattah"
       },
@@ -125,17 +139,17 @@
       {
         "title": "Israeli security cabinet approves recognition of 19 new settlements",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-security-cabinet-approves-recognising-19-new-settlements"
-      },
-      {
-        "title": "Israeli bulldozers raze land near West Bank village",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-bulldozers-raze-land-near-west-bank-village"
-      },
-      {
-        "title": "Israel kills three Palestinians in Gaza drone attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-gaza-drone-attacks"
       }
     ],
     "GeoTV": [
+      {
+        "title": "King Charles reimagines gates that framed Queen Elizabeth's final moment",
+        "link": "https://www.geo.tv/latest/640717-king-charles-reimagines-gates-that-framed-queen-elizabeths-final-moment"
+      },
+      {
+        "title": "Kate Winslet admits being 'horrified' by 'Titanic' fame",
+        "link": "https://www.geo.tv/latest/640706-kate-winslet-admits-being-horrified-by-titanic-fame"
+      },
       {
         "title": "WATCH: Pakistan's winning moment as Green Shirts clinch U19 Asia Cup title",
         "link": "https://www.geo.tv/latest/640704-watch-moment-pakistan-clinch-u19-asia-cup-title-as-jubilant-players-storm-field"
@@ -147,36 +161,28 @@
       {
         "title": "Prince William gushes to Prince George about Diana: 'That's my mum'",
         "link": "https://www.geo.tv/latest/640711-prince-william-gushes-to-prince-george-about-diana-thats-my-mum"
-      },
-      {
-        "title": "Miley Cyrus experiences 'cold feet' amid wedding planning with Maxx Morando",
-        "link": "https://www.geo.tv/latest/640707-miley-cyrus-experiences-cold-feet-amid-wedding-planning-with-maxx-morando"
-      },
-      {
-        "title": "'Fearlessness, maturity, belief:' Cricket fraternity hails Pakistan on U19 Asia Cup title",
-        "link": "https://www.geo.tv/latest/640705-u19-asia-cup-final-cricket-fraternity-hails-pakistans-historic-win-over-india"
       }
     ],
     "NDTV": [
       {
+        "title": "Drunk Man Kills 4-Year-Old Son After Fight With Wife In UP's Bhadohi: Cops",
+        "link": "https://www.ndtv.com/india-news/drunk-man-kills-4-year-old-son-after-fight-with-wife-in-ups-bhadohi-cops-9860572#publisher=newsstand"
+      },
+      {
+        "title": "BJP-Led Mahayuti Alliance Dominates Maharashtra Local Body Polls",
+        "link": "https://www.ndtv.com/india-news/with-leads-in-129-seats-bjp-emerges-single-largest-party-in-maharashtra-local-body-polls-9860425#publisher=newsstand"
+      },
+      {
+        "title": "G RAM G Bill, Which Will Replace MNREGA, Gets President Murmu's Assent",
+        "link": "https://www.ndtv.com/india-news/g-ram-g-bill-gets-president-murmus-assent-9860498#publisher=newsstand"
+      },
+      {
+        "title": "Revanth Reddy's \"Christmas\" Credit To Sonia Gandhi Draws BJP Fire",
+        "link": "https://www.ndtv.com/telangana-news/revanth-reddys-christmas-credit-to-sonia-gandhi-draws-bjp-fire-9860346#publisher=newsstand"
+      },
+      {
         "title": "Bangladesh's Bengali Cultural Institutions Targeted, Pattern Points To Pak",
         "link": "https://www.ndtv.com/world-news/bangladeshs-bengali-cultural-institutions-targeted-pattern-points-to-pak-9860275#publisher=newsstand"
-      },
-      {
-        "title": "1-Year-Old Boy, Walking Behind Mother, Mauled To Death By Leopard In Gujarat",
-        "link": "https://www.ndtv.com/india-news/1-year-old-boy-walking-behind-mother-mauled-to-death-by-leopard-in-gujarat-9860179#publisher=newsstand"
-      },
-      {
-        "title": "Tout Clings To Moving Truck As Extortion Bid Backfires In Madhya Pradesh",
-        "link": "https://www.ndtv.com/india-news/in-dramatic-video-tout-seen-clinging-on-to-moving-truck-after-extortion-bid-in-madhya-pradesh-9859820#publisher=newsstand"
-      },
-      {
-        "title": "In A First, India's 'Baahubali' Rocket To Launch Big US Commercial Satellite",
-        "link": "https://www.ndtv.com/india-news/lvm3-m6-mission-in-a-first-big-us-commercial-satellite-bluebird-6-to-be-launched-on-indian-baahubali-rocket-9859881#publisher=newsstand"
-      },
-      {
-        "title": "Migrant Worker Lynched In Kerala After Being Mistaken As \"Bangladeshi\"",
-        "link": "https://www.ndtv.com/india-news/migrant-worker-lynched-in-kerala-after-being-mistaken-as-bangladeshi-9859919#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-21 12:51 UTC"
+  "last_updated": "2025-12-21 13:22 UTC"
 }
