@@ -1,10 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel continues ceasefire violations; 1 Palestinian killed in Gaza",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/21/live-israel-continues-ceasefire-violations-1-palestinian-killed-in-gaza?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
         "title": "Australian PM announces intelligence review as country mourns Bondi attack",
         "link": "https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why British Jews are experiencing their biggest change in 60 years",
+        "link": "https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Survivors 'nervous and sceptical' about release of remaining Epstein files",
@@ -15,15 +25,15 @@
         "link": "https://www.bbc.com/news/articles/c0mpy1ynnzzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Why British Jews are experiencing their biggest change in 60 years",
-        "link": "https://www.bbc.com/news/articles/c5ye91zxqv5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Booze, beach, beaten – how England lost the Ashes",
         "link": "https://www.bbc.com/sport/cricket/articles/c79xynw7e39o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Israel continues ceasefire violations; 1 Palestinian killed in Gaza",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/21/live-israel-continues-ceasefire-violations-1-palestinian-killed-in-gaza?traffic_source=rss"
+      },
       {
         "title": "Australia beat England to win third Test and retain Ashes",
         "link": "https://www.aljazeera.com/sports/2025/12/21/australia-beat-england-to-win-third-test-and-retain-ashes?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Kylian Mbappe equals Ronaldo record in Real Madrid win over Sevilla",
         "link": "https://www.aljazeera.com/sports/2025/12/21/kylian-mbappe-equals-ronaldo-record-in-real-madrid-win-over-sevilla?traffic_source=rss"
-      },
-      {
-        "title": "US seizes second oil tanker off Venezuela",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/21/us-seizes-second-oil-tanker-off-venezuela?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,12 +76,12 @@
     ],
     "Dawn": [
       {
-        "title": "No one other than the state can order jihad in an Islamic country: CDF Field Marshal Asim Munir",
-        "link": "https://www.dawn.com/news/1962443/no-one-other-than-the-state-can-order-jihad-in-an-islamic-country-cdf-field-marshal-asim-munir"
+        "title": "TTP formations infiltrating into Pakistan mostly comprise Afghans: CDF Field Marshal Asim Munir",
+        "link": "https://www.dawn.com/news/1962443/ttp-formations-infiltrating-into-pakistan-mostly-comprise-afghans-cdf-field-marshal-asim-munir"
       },
       {
-        "title": "Dollar shortage continues as exchanges run dry",
-        "link": "https://www.dawn.com/news/1962368/dollar-shortage-continues-as-exchanges-run-dry"
+        "title": "Sameer Minhas’ record ton powers Pakistan to 347-8 against India in U-19 Asia Cup final",
+        "link": "https://www.dawn.com/news/1962442/sameer-minhas-record-ton-powers-pakistan-to-347-8-against-india-in-u-19-asia-cup-final"
       },
       {
         "title": "Karachi experiences foggy morning, ‘very unhealthy’ air, flight disruptions",
@@ -86,8 +92,8 @@
         "link": "https://www.dawn.com/news/1962440/pns-warships-commissioning-ceremony-held-in-turkiye-erdogan-stresses-need-for-enhanced-cooperation-in-defence-production"
       },
       {
-        "title": "Sameer Minhas’ record ton powers Pakistan to 347-8 against India in U-19 Asia Cup final",
-        "link": "https://www.dawn.com/news/1962442/sameer-minhas-record-ton-powers-pakistan-to-347-8-against-india-in-u-19-asia-cup-final"
+        "title": "President Zardari reaches Baghdad on official visit, to hold bilateral meetings with Iraqi leadership",
+        "link": "https://www.dawn.com/news/1962431/president-zardari-reaches-baghdad-on-official-visit-to-hold-bilateral-meetings-with-iraqi-leadership"
       }
     ],
     "APNews": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli security cabinet approves recognition of 19 new settlements",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-security-cabinet-approves-recognising-19-new-settlements"
+      },
+      {
         "title": "Israeli bulldozers raze land near West Bank village",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-bulldozers-raze-land-near-west-bank-village"
       },
@@ -129,42 +139,42 @@
       {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-483"
-      },
-      {
-        "title": "Evening recap",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-594"
       }
     ],
     "GeoTV": [
       {
+        "title": "James Cameron reveals how he wanted audience to resonate with 'Avatar 3'",
+        "link": "https://www.geo.tv/latest/640677-james-cameron-reveals-how-he-wanted-audience-to-resonate-with-avatar-3"
+      },
+      {
+        "title": "Pete Davidson's girlfriend overwhelmed with love for baby girl: 'Crying'",
+        "link": "https://www.geo.tv/latest/640679-pete-davidsons-girlfriend-reflects-on-overwhelming-love-for-new-baby"
+      },
+      {
+        "title": "James Wessex keeps key royal honour after Edward, Duchess Sophie advice",
+        "link": "https://www.geo.tv/latest/640689-james-wessex-keeps-key-royal-honour-after-edward-duchess-sophie-advice"
+      },
+      {
+        "title": "Kim Woo-bin, Shin Min-ah tie knot in snowy wedding as first photo revealed",
+        "link": "https://www.geo.tv/latest/640676-kim-woo-bin-shin-min-ah-tie-knot-in-snowy-wedding-as-first-photo-revealed"
+      },
+      {
         "title": "Prince Harry, Meghan Markle face severe crisis after major announcement",
         "link": "https://www.geo.tv/latest/640673-prince-harry-meghan-markle-face-severe-crisis-after-major-announcement"
-      },
-      {
-        "title": "Anthropic's Claude chatbot released as Chrome extension, but only for paying subscribers",
-        "link": "https://www.geo.tv/latest/640682-anthropics-claude-chatbot-released-as-chrome-extension-but-only-for-paying-subscribers"
-      },
-      {
-        "title": "Royal siblings take over Palace kitchen after George's charity outing",
-        "link": "https://www.geo.tv/latest/640681-royal-siblings-take-over-palace-kitchen-after-georges-charity-outing"
-      },
-      {
-        "title": "'Karate Kid' star Ralph Macchio believes franchise needs 'reset'",
-        "link": "https://www.geo.tv/latest/640670-karate-kid-star-ralph-macchio-believes-franchise-needs-reset"
-      },
-      {
-        "title": "Will there be 'Emily in Paris' season 6? Creators tease what's next",
-        "link": "https://www.geo.tv/latest/640671-will-there-be-emily-in-paris-season-6-creators-tease-whats-next"
       }
     ],
     "NDTV": [
+      {
+        "title": "Tout Clings To Moving Truck As Extortion Bid Backfires In Madhya Pradesh",
+        "link": "https://www.ndtv.com/india-news/in-dramatic-video-tout-seen-clinging-on-to-moving-truck-after-extortion-bid-in-madhya-pradesh-9859820#publisher=newsstand"
+      },
       {
         "title": "In A First, India's 'Baahubali' Rocket To Launch Big US Commercial Satellite",
         "link": "https://www.ndtv.com/india-news/lvm3-m6-mission-in-a-first-big-us-commercial-satellite-bluebird-6-to-be-launched-on-indian-baahubali-rocket-9859881#publisher=newsstand"
       },
       {
-        "title": "In Dramatic Video, Tout Seen Clinging On To Moving Truck After Extortion Bid",
-        "link": "https://www.ndtv.com/india-news/in-dramatic-video-tout-seen-clinging-on-to-moving-truck-after-extortion-bid-in-madhya-pradesh-9859820#publisher=newsstand"
+        "title": "Migrant Worker Lynched In Kerala After Being Mistaken As \"Bangladeshi\"",
+        "link": "https://www.ndtv.com/india-news/migrant-worker-lynched-in-kerala-after-being-mistaken-as-bangladeshi-9859919#publisher=newsstand"
       },
       {
         "title": "\"Casteist Remarks, Unfathomable Threats\": Pilot Accused Of Assault Responds",
@@ -173,10 +183,6 @@
       {
         "title": "Explained: Why Aravalli Is In Spotlight And What Environmentalists Demand",
         "link": "https://www.ndtv.com/india-news/explained-why-aravalli-is-in-spotlight-and-what-environmentalists-demand-9859854#publisher=newsstand"
-      },
-      {
-        "title": "'No More Jago Maa, Sing Secular Song': Bengal Singer Harassed, Man Arrested",
-        "link": "https://www.ndtv.com/india-news/lagnajita-chakraborty-bengali-singer-alleges-she-was-abused-for-not-singing-secular-song-at-concert-9858234#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-21 10:10 UTC"
+  "last_updated": "2025-12-21 10:36 UTC"
 }
