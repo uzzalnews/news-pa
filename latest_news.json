@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,7 +21,7 @@
         "link": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Stone Roses Mani's star-studded Manchester send-off",
+        "title": "Stone Roses star Mani's coffin carried by Liam Gallagher as hundreds attend funeral",
         "link": "https://www.bbc.com/news/articles/cr5zj532002o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -24,6 +30,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss"
+      },
       {
         "title": "Germany charges ex-Syrian prison guard over Assad-era abuses",
         "link": "https://www.aljazeera.com/news/2025/12/22/germany-charges-ex-syrian-prison-guard-over-assad-era-abuses?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Voices of Gaza: The Great Omari Mosque’s 2,000‑year history lies in ruins",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/22/voices-of-gaza-the-great-omari-mosques-2000%e2%80%91year-history-lies-in-ruins?traffic_source=rss"
-      },
-      {
-        "title": "Syria’s government curbing once-booming Captagon industry: UN report",
-        "link": "https://www.aljazeera.com/news/2025/12/22/syrias-government-curbing-once-booming-captagon-industry-un-report?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Gaza genocide official death toll rises to 70,937",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-genocide-official-death-toll-rises-70937"
+      },
+      {
+        "title": "Pro-Israel groups target Miss Palestine Nadeen Ayoub after MEE interview",
+        "link": "https://www.middleeasteye.net/news/miss-palestine-contestant-nadeen-ayoub-targeted-after-middle-east-eye-interview"
+      },
+      {
         "title": "Miss Palestine breaks her silence on that chaotic Miss Universe pageant | Real Talk",
         "link": "https://www.middleeasteye.net/video/miss-palestine-breaks-her-silence-chaotic-miss-universe-pageant-real-talk"
       },
@@ -125,17 +139,21 @@
       {
         "title": "UK jails send Palestine Action hunger strikers to hospital",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-jails-send-palestine-action-hunger-strikers-hospital"
-      },
-      {
-        "title": "UK jails send Palestine Action hunger strikers to hospital",
-        "link": "https://www.middleeasteye.net/news/uk-jails-send-pro-palestine-hunger-strikers-hospital"
-      },
-      {
-        "title": "Jerusalem ministry urges international action to halt home demolitions by Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jerusalem-ministry-urges-international-action-halt-home-demolitions"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Miley Cyrus opens up about loss that changed her life 'forever'",
+        "link": "https://www.geo.tv/latest/640918-miley-cyrus-opens-up-about-loss-that-changed-her-life-forever"
+      },
+      {
+        "title": "Princess Mette-Marit's first public moment since transplant sparks emotional response",
+        "link": "https://www.geo.tv/latest/640924-princess-mette-marits-first-public-moment-since-transplant-sparks-emotional-response"
+      },
+      {
+        "title": "Rob Reiner, Michele's bereaved pals hold memorial after brutal murder",
+        "link": "https://www.geo.tv/latest/640905-rob-reiner-micheles-bereaved-pals-hold-memorial-after-brutal-murder"
+      },
       {
         "title": "Queen Camilla leads Royal Family's holiday partnership with Battersea",
         "link": "https://www.geo.tv/latest/640922-queen-camilla-leads-royal-familys-holiday-partnership-with-battersea"
@@ -143,18 +161,6 @@
       {
         "title": "Powerball reaches $1.6 billion: What happens if no one wins again?",
         "link": "https://www.geo.tv/latest/640917-powerball-reaches-16-billion-what-happens-if-no-one-wins-again"
-      },
-      {
-        "title": "David Beckham looked downcast after son Brooklyn blocked entire family",
-        "link": "https://www.geo.tv/latest/640916-david-beckham-looked-downcast-after-son-brooklyn-blocked-entire-family"
-      },
-      {
-        "title": "PCB to move ICC against 'provocation' by Indian players in Asia Cup final",
-        "link": "https://www.geo.tv/latest/640908-pcb-to-move-icc-against-provocative-conduct-by-u19-indian-cricketers"
-      },
-      {
-        "title": "New details and images of Bondi Beach attackers emerge",
-        "link": "https://www.geo.tv/latest/640914-new-details-and-images-of-bondi-beach-attackers-emerge"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-22 14:21 UTC"
+  "last_updated": "2025-12-22 14:42 UTC"
 }
