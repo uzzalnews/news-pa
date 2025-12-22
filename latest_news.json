@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "At least three killed in Israeli attack on southern Lebanon’s Sidon",
+        "link": "https://www.aljazeera.com/news/2025/12/22/at-least-three-killed-in-israeli-attack-on-southern-lebanons-sidon?traffic_source=rss"
+      },
+      {
+        "title": "Illegal settlement expansion: How Israel is redrawing occupied West Bank",
+        "link": "https://www.aljazeera.com/news/2025/12/22/illegal-settlement-expansion-how-israel-is-redrawing-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Clashes between Syrian army, Kurdish-led SDF break out in Aleppo",
+        "link": "https://www.aljazeera.com/news/2025/12/22/clashes-between-syrian-army-kurdish-led-sdf-break-out-in-aleppo?traffic_source=rss"
+      },
+      {
         "title": "Palestine Action hunger strikes: What are their demands?",
         "link": "https://www.aljazeera.com/news/2025/12/22/palestine-action-hunger-strikes-what-are-their-demands?traffic_source=rss"
       },
       {
         "title": "Situation in Sudan’s White Nile shows “increased disrespect” of the law",
         "link": "https://www.aljazeera.com/video/quotable/2025/12/22/situation-in-sudans-white-nile-shows-increased-disrespect-of-the-law?traffic_source=rss"
-      },
-      {
-        "title": "AFCON 2025: Nigeria vs Tanzania – team news, start time and lineups",
-        "link": "https://www.aljazeera.com/sports/2025/12/22/afcon-2025-nigeria-vs-tanzania-team-news-start-time-lineups-osimhen-lookman?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel escalates strikes on Lebanon, displaces dozens in Jerusalem",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-israel-escalates-strikes-on-lebanon-displaces-dozens-in-jerusalem?traffic_source=rss"
-      },
-      {
-        "title": "Germany charges ex-Syrian prison guard over Assad-era abuses",
-        "link": "https://www.aljazeera.com/news/2025/12/22/germany-charges-ex-syrian-prison-guard-over-assad-era-abuses?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,27 +93,31 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "At Turning Point Fest, Vance Refuses to Take Sides in Fight Over Bigotry",
-        "link": "https://www.nytimes.com/2025/12/21/us/politics/vance-republicans-trump-antisemitism.html"
+        "title": "Trump Halts Five Wind Farms Off the East Coast",
+        "link": "https://www.nytimes.com/2025/12/22/climate/trump-offshore-wind-farms.html"
       },
       {
-        "title": "Angering Denmark, Trump Appoints Special Envoy to Greenland",
-        "link": "https://www.nytimes.com/2025/12/22/world/europe/trump-special-envoy-greenland-denmark-landry.html"
+        "title": "How Trump’s First Year Reshaped U.S. Energy and Climate Policy",
+        "link": "https://www.nytimes.com/2025/12/22/climate/how-trumps-first-year-reshaped-us-energy-and-climate-policy.html"
+      },
+      {
+        "title": "The Economy Survived 2025, But Many Americans Are Reeling",
+        "link": "https://www.nytimes.com/2025/12/22/business/economy-unemployment-wages-affordability.html"
+      },
+      {
+        "title": "China Vanke Gets Temporary Lifeline to Prevent Debt Default",
+        "link": "https://www.nytimes.com/2025/12/22/business/china-vanke-real-estate-default.html"
       },
       {
         "title": "What to Know About the Latest Epstein Files, and a Flood of U.S. Guns to Canada",
         "link": "https://www.nytimes.com/2025/12/22/podcasts/the-headlines/epstein-files-american-guns-in-canada.html"
-      },
-      {
-        "title": "What We Know About U.S. Interceptions of Oil Tankers in Venezuela",
-        "link": "https://www.nytimes.com/2025/12/22/us/politics/trump-oil-tankers-venezuela.html"
-      },
-      {
-        "title": "Larry Ellison Personally Guarantees Paramount Bid for Warner Brothers",
-        "link": "https://www.nytimes.com/2025/12/22/business/larry-ellison-paramount-warner-brothers-bid.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Tucker Carlson named ‘Antisemite of the Year’ for opposing Israel’s genocide in Gaza",
+        "link": "https://www.middleeasteye.net/news/tucker-carlson-named-antisemite-year-opposing-israels-genocide-gaza"
+      },
       {
         "title": "‘Treated as criminals’: Gaza fishermen risk everything at sea",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/treated-criminals-gaza-fishermen-risk-everything-sea"
@@ -135,13 +133,17 @@
       {
         "title": "Gaza genocide official death toll rises to 70,937",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-genocide-official-death-toll-rises-70937"
-      },
-      {
-        "title": "Pro-Israel groups target Miss Palestine Nadeen Ayoub after MEE interview",
-        "link": "https://www.middleeasteye.net/news/miss-palestine-contestant-nadeen-ayoub-targeted-after-middle-east-eye-interview"
       }
     ],
     "GeoTV": [
+      {
+        "title": "King Charles and Diana resurface in Epstein's secret wardrobe find",
+        "link": "https://www.geo.tv/latest/640929-king-charles-and-diana-resurface-in-epsteins-secret-wardrobe-find"
+      },
+      {
+        "title": "Iran says missile programme defensive, non-negotiable",
+        "link": "https://www.geo.tv/latest/640933-iran-says-missile-programme-defensive-non-negotiable"
+      },
       {
         "title": "James Ransone's wife speaks out after actor's tragic suicide news",
         "link": "https://www.geo.tv/latest/640937-james-ransones-wife-speaks-out-after-actors-tragic-suicide-news"
@@ -153,36 +155,28 @@
       {
         "title": "Jennifer Aniston's first Christmas with Jim Curtis inside details revealed",
         "link": "https://www.geo.tv/latest/640932-jennifer-anistons-first-christmas-with-jim-curtis-inside-details-revealed"
-      },
-      {
-        "title": "Following feedback, Google reconsidering separate Wi-Fi and mobile data buttons in Android",
-        "link": "https://www.geo.tv/latest/640927-following-feedback-google-reconsidering-separate-wi-fi-and-mobile-data-buttons-in-android"
-      },
-      {
-        "title": "WATCH: Indian doctor thrashes patient after verbal exchange",
-        "link": "https://www.geo.tv/latest/640926-indian-doctor-thrashes-patient-visited-hospital-for-endoscopy"
       }
     ],
     "NDTV": [
       {
-        "title": "'Learn Hindi Or Else...': BJP Leader Threatens African Man, Then Clarifies",
-        "link": "https://www.ndtv.com/india-news/delhi-bjp-leaders-learn-hindi-warning-to-african-man-then-a-clarification-9875556#publisher=newsstand"
+        "title": "Over 500 Flights Delayed At Delhi Airport Due To Bad Weather, Low Visibility",
+        "link": "https://www.ndtv.com/india-news/over-500-flights-delayed-at-delhi-airport-due-to-bad-weather-low-visibility-9877656#publisher=newsstand"
       },
       {
-        "title": "Uber, Ola Buses, Big EV Push: What Delhi May Do To Curb Air Pollution",
-        "link": "https://www.ndtv.com/india-news/uber-ola-buses-big-ev-push-what-delhi-may-do-to-curb-air-pollution-9875473#publisher=newsstand"
+        "title": "Toxic Haze Hangs Over Delhi As 12 Stations Log 'Severe' Air Quality",
+        "link": "https://www.ndtv.com/india-news/toxic-haze-hangs-over-delhi-as-12-stations-log-severe-air-quality-9877531#publisher=newsstand"
       },
       {
-        "title": "Meitei And Kuki Doctors Work Together, Quietly, To Save Lives In Manipur",
-        "link": "https://www.ndtv.com/india-news/meitei-and-kuki-doctors-work-together-quietly-to-save-lives-in-manipur-9875407#publisher=newsstand"
+        "title": "Animals Bear Brunt As Delhi Air Pollution Shows No Signs Of Abatement",
+        "link": "https://www.ndtv.com/india-news/animals-bear-brunt-as-delhi-air-pollution-shows-no-signs-of-abatement-9877295#publisher=newsstand"
       },
       {
-        "title": "Snow Turns Gulmarg Into Winter Wonderland, Tourists Turn Skiers, Ride Gondola",
-        "link": "https://www.ndtv.com/india-news/snow-turns-gulmarg-into-winter-wonderland-tourists-turn-skiers-ride-gondola-9875336#publisher=newsstand"
+        "title": "'Congress Insiders Involved In 2013 Maoist Attack': JP Nadda's Big Claim",
+        "link": "https://www.ndtv.com/india-news/jp-nadda-slams-congress-over-2013-jhiram-ghati-maoist-attack-9876350#publisher=newsstand"
       },
       {
-        "title": "Engineering Student, 20, Dies By Suicide In Hostel In Chhattisgarh: Cops",
-        "link": "https://www.ndtv.com/india-news/engineering-student-20-dies-by-suicide-in-hostel-in-chhattisgarh-cops-9874841#publisher=newsstand"
+        "title": "\"Tourist Party\": Uddhav Sena Leader Slams Congress Ahead Of Mumbai Polls",
+        "link": "https://www.ndtv.com/india-news/tourist-party-uddhav-sena-leader-slams-congress-ahead-of-mumbai-polls-9870132#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-22 15:53 UTC"
+  "last_updated": "2025-12-22 16:20 UTC"
 }
