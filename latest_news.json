@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Thailand, Cambodia resume border clashes before talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-thailand-cambodia-resume-border-clashes-before-talks?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Thousands of Serbians protest government pressure on universities",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/22/thousands-of-serbians-protest-government-pressure-on-universities?traffic_source=rss"
+      },
+      {
         "title": "Japan set to restart world’s biggest nuclear power plant",
         "link": "https://www.aljazeera.com/news/2025/12/22/japan-set-to-restart-worlds-biggest-nuclear-power-plant?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Swiss court to hear Indonesian islanders’ climate case against cement giant",
         "link": "https://www.aljazeera.com/news/2025/12/22/swiss-court-to-hear-indonesian-islanders-climate-case-against-cement-giant?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Thailand, Cambodia resume border clashes before talks",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-thailand-cambodia-resume-border-clashes-before-talks?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,11 +109,15 @@
         "link": "https://www.nytimes.com/2025/12/21/world/europe/ukraine-peace-talks.html"
       },
       {
-        "title": "Michele Singer Reiner: A Life Rooted in Activism and Listening to Others",
-        "link": "https://www.nytimes.com/2025/12/21/us/michele-singer-reiner.html"
+        "title": "What to Know on the Initial Release of Materials From the Epstein Files",
+        "link": "https://www.nytimes.com/2025/12/19/us/politics/epstein-files-takeaways.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli forces destroy olive farmland west of Jenin, mayor says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-destroy-olive-farmland-west-jenin-mayor-says"
+      },
       {
         "title": "Israeli forces seal Ramallah town, set up checkpoints",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-seal-ramallah-town-set-checkpoints"
@@ -135,13 +133,21 @@
       {
         "title": "Israel to allow 10,000 reservists to keep military rifles at home, says report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-allow-10000-reservists-keep-military-rifles-home-says-report"
-      },
-      {
-        "title": "Israel releases six Palestinian prisoners as ICRC denied jail access",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-releases-six-palestinian-prisoners-icrc-denied-jail-access"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Kate Winslet admits being resistant to act in 'Goodbye June'",
+        "link": "https://www.geo.tv/latest/640834-kate-winslet-admits-being-resistant-to-act-in-goodbye-june"
+      },
+      {
+        "title": "Howard's Appliance files for chapter 11 bankruptcy, shuts all Southern California stores",
+        "link": "https://www.geo.tv/latest/640843-howards-appliance-files-for-chapter-11-bankruptcy-shuts-all-southern-california-stores"
+      },
+      {
+        "title": "Dwayne Johnson share details on how ‘Jumanji' honoured late Robin Williams",
+        "link": "https://www.geo.tv/latest/640798-dwayne-johnson-share-details-on-how-jumanji-honoured-late-robin-williams"
+      },
       {
         "title": "James Ransone leaves lasting legacy as fans pay tribute",
         "link": "https://www.geo.tv/latest/640836-james-ransone-leaves-lasting-legacy-as-fans-pay-tribute"
@@ -149,18 +155,6 @@
       {
         "title": "Kim Kardashian's Fortnite skin now among 100 most-used outfits",
         "link": "https://www.geo.tv/latest/640835-kim-kardashians-fortnite-skin-now-among-100-most-used-outfits"
-      },
-      {
-        "title": "Palace shares shocking update as Princess health deteriorates: ‘surgery'",
-        "link": "https://www.geo.tv/latest/640840-palace-shares-shocking-update-as-princess-health-deteriorates-surgery"
-      },
-      {
-        "title": "Punjab LG polls to be held on party basis, govt assures LHC",
-        "link": "https://www.geo.tv/latest/640825-punjab-lg-polls-to-be-on-party-basis-govt-assures-lhc"
-      },
-      {
-        "title": "King Charles, Kate Middleton jointly celebrate big news",
-        "link": "https://www.geo.tv/latest/640831-king-charles-kate-middleton-jointly-celebrate-big-news"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-22 08:40 UTC"
+  "last_updated": "2025-12-22 08:59 UTC"
 }
