@@ -1,14 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Thailand, Cambodia resume border clashes before talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-thailand-cambodia-resume-border-clashes-before-talks?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Puppy farm ban promised by animal welfare strategy",
-        "link": "https://www.bbc.com/news/articles/c93wxd27dvko?at_medium=RSS&at_campaign=rss"
+        "title": "Bondi gunmen threw explosives at start of attack, police allege",
+        "link": "https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Alleged Bondi gunmen threw 'tennis ball bomb', new documents say",
-        "link": "https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss"
+        "title": "Puppy farm ban promised in plans to improve animal welfare",
+        "link": "https://www.bbc.com/news/articles/c93wxd27dvko?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Why the railways often seem to be in such chaos over Christmas",
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Thailand, Cambodia resume border clashes before talks",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/22/live-thailand-cambodia-resume-border-clashes-before-talks?traffic_source=rss"
+      },
+      {
         "title": "Sudanese bloc declares Nairobi roadmap, but is it a civilian breakthrough?",
         "link": "https://www.aljazeera.com/news/2025/12/22/sudanese-bloc-declares-nairobi-roadmap-but-is-it-a-civilian-breakthrough?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "New clashes erupt on Thai-Cambodia border as ASEAN convenes peace talks",
         "link": "https://www.aljazeera.com/news/2025/12/22/fresh-clashes-erupt-on-thai-cambodia-border-as-asean-convenes-peace?traffic_source=rss"
-      },
-      {
-        "title": "Malaysian court rejects Najib’s bid to serve sentence under house arrest",
-        "link": "https://www.aljazeera.com/news/2025/12/22/malaysia-court-rejects-najibs-bid-to-serve-sentence-under-house-arrest?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1962594/cdf-field-marshal-munir-awarded-king-abdulaziz-medal-for-his-efforts-to-advance-pak-saudi-ties"
       },
       {
+        "title": "Alleged Bondi shooters conducted ‘tactical’ training in countryside, police say",
+        "link": "https://www.dawn.com/news/1962614/alleged-bondi-shooters-conducted-tactical-training-in-countryside-police-say"
+      },
+      {
         "title": "Tax-to-GDP ratio to stall over five years, IMF expects",
         "link": "https://www.dawn.com/news/1962570/tax-to-gdp-ratio-to-stall-over-five-years-imf-expects"
       },
       {
         "title": "Gold hits record high on US rate cut bets; silver joins rally to hit all-time peak",
         "link": "https://www.dawn.com/news/1962610/gold-hits-record-high-on-us-rate-cut-bets-silver-joins-rally-to-hit-all-time-peak"
-      },
-      {
-        "title": "Karachi Metropolitan Corporation told to stop breeding of exotic species at zoo",
-        "link": "https://www.dawn.com/news/1962509/karachi-metropolitan-corporation-told-to-stop-breeding-of-exotic-species-at-zoo"
       }
     ],
     "APNews": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli attorney general says Netanyahu government will influence 7 October investigation",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attorney-general-says-netanyahu-government-will-influence-7"
+      },
+      {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-484"
       },
@@ -129,54 +139,50 @@
       {
         "title": "Israeli forces shoot, injure 19-year-old in Qalqilya",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-shoot-injure-19-year-old-qalqilya"
-      },
-      {
-        "title": "The Israeli foreign minister calls on Jews to settle in Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-foreign-minister-calls-jews-settle-israel"
       }
     ],
     "GeoTV": [
       {
-        "title": "Dua Lipa enjoys beach break after emotional Mexico city concert",
-        "link": "https://www.geo.tv/latest/640803-dua-lipa-enjoys-beach-break-after-emotional-mexico-city-concert"
+        "title": "Sarah Ferguson issues apology in personal note to royals after downfall",
+        "link": "https://www.geo.tv/latest/640821-sarah-ferguson-issues-apology-in-personal-note-to-royals-after-downfall"
       },
       {
-        "title": "Nick Jonas gives unexpected shoutout to Pakistani pop legend",
-        "link": "https://www.geo.tv/latest/640794-nick-jonas-gives-unexpected-shoutout-to-pakistani-pop-legend"
+        "title": "Rob Reiner honoured by CBS in one-hour special",
+        "link": "https://www.geo.tv/latest/640819-rob-reiner-honoured-by-cbs-in-one-hour-special"
       },
       {
-        "title": "Pakistan's Gaza calculus",
-        "link": "https://www.geo.tv/latest/640800-pakistans-gaza-calculus"
+        "title": "Imran's protest call negates Achakzai's dialogue wish",
+        "link": "https://www.geo.tv/latest/640806-imrans-protest-call-negates-achakzais-dialogue-wish"
       },
       {
-        "title": "Saudi Arabia's ‘highest national honour' conferred upon CDF Munir: ISPR",
-        "link": "https://www.geo.tv/latest/640791-saudi-arabias-highest-national-honour-conferred-upon-cdf-munir-ispr"
+        "title": "Typing '6-7' makes your phone's home screen shake: here's how it works",
+        "link": "https://www.geo.tv/latest/640809-typing-67-makes-your-home-screen-shake-this-is-why"
       },
       {
-        "title": "Joe Alwyn looks 'DOWNCAST' during rare outing after Taylor Swift's confession",
-        "link": "https://www.geo.tv/latest/640796-joe-alwyn-looks-downcast-during-rare-outing-after-taylor-swifts-confession"
+        "title": "'Fight till last breath': Sarfaraz says belief, grit drove U19 Asia Cup triumph",
+        "link": "https://www.geo.tv/latest/640807-fight-till-last-breath-sarfaraz-says-belief-grit-drove-u19-asia-cup-triumph"
       }
     ],
     "NDTV": [
       {
-        "title": "Pune Local Polls Victory Celebrations Turn Tragic, Councilor Among 16 Injured In Fire",
-        "link": "https://www.ndtv.com/india-news/maharashtra-election-results-2025-pune-local-polls-victory-celebrations-turn-tragic-councilor-among-7-injured-in-fire-9863035#publisher=newsstand"
+        "title": "Chinese Technology Bypasses Bitter US-China Rivalry",
+        "link": "https://www.ndtv.com/world-news/chinese-technology-bypasses-bitter-us-china-rivalry-9862403#publisher=newsstand"
       },
       {
-        "title": "Bangladesh's \"Scale Back\" Threat As India Rejects Delhi Protest \"Propaganda\"",
-        "link": "https://www.ndtv.com/world-news/bangladesh-crisis-dhakas-scale-back-threat-after-india-rejects-propaganda-on-protests-in-delhi-9862997#publisher=newsstand"
+        "title": "Should 'Hindu Rashtra' Be Added To Constitution? What RSS Chief Said",
+        "link": "https://www.ndtv.com/india-news/rss-chief-mohan-bhagwat-says-india-a-hindu-nation-no-constitutional-approval-needed-9860740#publisher=newsstand"
       },
       {
-        "title": "Science Meets Faith: ISRO Team Seeks Blessings At Tirupati Temple Ahead Of Satellite Launch",
-        "link": "https://www.ndtv.com/india-news/isro-team-seeks-blessings-at-tirumala-tirupati-temple-in-andhra-pradesh-ahead-of-key-satellite-lvm3-m6-launch-9862963#publisher=newsstand"
+        "title": "\"Peace Will Prevail In Manipur, But It Will Take Time\": Mohan Bhagwat",
+        "link": "https://www.ndtv.com/india-news/peace-will-prevail-in-manipur-but-it-will-take-time-rss-chief-mohan-bhagwat-9863260#publisher=newsstand"
       },
       {
-        "title": "H-1B Visa Holders Who Returned To Renew Work Permits Stranded In India",
-        "link": "https://www.ndtv.com/world-news/h-1b-visa-holders-who-returned-to-renew-work-permits-stranded-in-india-9862769#publisher=newsstand"
+        "title": "BJP Got Rs 6,654 Crore In Donations In 2024-25, Congress Saw Huge Dip",
+        "link": "https://www.ndtv.com/india-news/bjp-got-rs-6-654-crore-in-donations-in-2024-25-congress-saw-huge-dip-9863251#publisher=newsstand"
       },
       {
-        "title": "South Korea Parliament Passes Bill To Launch Probe Into 2024 Jeju Air Crash",
-        "link": "https://www.ndtv.com/world-news/south-korea-parliament-passes-bill-to-launch-probe-into-2024-jeju-air-crash-9862556#publisher=newsstand"
+        "title": "Opinion: Opinion | Ten Reasons Why Modi Government Should Not Have Killed MGNREGA",
+        "link": "https://www.ndtv.com/opinion/ten-reasons-why-modi-should-not-have-killed-mgnrega-9863244#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-22 05:55 UTC"
+  "last_updated": "2025-12-22 06:38 UTC"
 }
