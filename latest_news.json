@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Nigeria vs Tanzania – AFCON 2025",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/23/live-nigeria-vs-tanzania-2025-africa-cup-of-nations?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Backlash after CBS pulls 60 Minutes report on Salvador’s CECOT prison",
+        "link": "https://www.aljazeera.com/news/2025/12/23/backlash-after-cbs-pulls-60-minutes-report-on-salvadors-cecot-prison?traffic_source=rss"
+      },
+      {
         "title": "British police detain Greta Thunberg at pro-Palestinian protest in London",
         "link": "https://www.aljazeera.com/news/2025/12/23/british-police-detain-greta-thunberg-at-pro-palestinian-protest-in?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Why is Russia escalating attacks on Ukraine’s Odesa?",
         "link": "https://www.aljazeera.com/news/2025/12/23/why-is-russia-escalating-attacks-on-ukraines-odesa?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Nigeria vs Tanzania – AFCON 2025",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/23/live-nigeria-vs-tanzania-2025-africa-cup-of-nations?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -88,12 +82,12 @@
         "link": "https://www.dawn.com/news/1962809/aleema-pti-workers-stage-sit-in-at-rawalpindis-factory-naka-after-being-stopped-from-reaching-adiala-jail-to-meet-imran"
       },
       {
-        "title": "Bangladesh summons Indian envoy over protests targeting its diplomatic facilities, vandalism at visa centre",
-        "link": "https://www.dawn.com/news/1962808/bangladesh-summons-indian-envoy-over-protests-targeting-its-diplomatic-facilities-vandalism-at-visa-centre"
+        "title": "Asif calls comparison of Islamabad’s action against Taliban with India’s unprovoked attacks ‘wrong and inappropriate’",
+        "link": "https://www.dawn.com/news/1962815/asif-calls-comparison-of-islamabads-action-against-taliban-with-indias-unprovoked-attacks-wrong-and-inappropriate"
       },
       {
-        "title": "Social media posts case against Imaan, Hadi: prosecution, defence nearly come to blows after heated courtroom exchange",
-        "link": "https://www.dawn.com/news/1962814/social-media-posts-case-against-imaan-hadi-prosecution-defence-nearly-come-to-blows-after-heated-courtroom-exchange"
+        "title": "Bangladesh summons Indian envoy over protests targeting its diplomatic facilities, vandalism at visa centre",
+        "link": "https://www.dawn.com/news/1962808/bangladesh-summons-indian-envoy-over-protests-targeting-its-diplomatic-facilities-vandalism-at-visa-centre"
       }
     ],
     "APNews": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Christians in Bethlehem face existential threat under Israel's occupation",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/christians-bethlehem-face-existential-threat-under-israels-occupation"
+      },
+      {
         "title": "The Met decision to criminalise intifada chant is a blunt attempt to muzzle anti-genocide activism",
         "link": "https://www.middleeasteye.net/opinion/uk-the-met-decision-criminalise-intifada-chant-blunt-attempt-muzzle-anti-genocide-activism"
       },
@@ -135,13 +133,21 @@
       {
         "title": "Christians in Bethlehem face existential threat under Israel's occupation",
         "link": "https://www.middleeasteye.net/news/christmas-christians-bethlehem-existential-threat-israel-occupation"
-      },
-      {
-        "title": "Palestinian man wounded as Israeli forces raid Qalandiya refugee camp",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-wounded-israeli-forces-raid-qalandiya-refugee-camp"
       }
     ],
     "GeoTV": [
+      {
+        "title": "No winner for $1.59 billion Powerball, Jackpot soars to $1.7 billion for Christmas eve",
+        "link": "https://www.geo.tv/latest/641134-no-winner-for-159-billion-powerball-jackpot-soars-to-17-billion-for-christmas-eve"
+      },
+      {
+        "title": "Which US regions will see ‘White Christmas' this year?",
+        "link": "https://www.geo.tv/latest/641133-which-us-regions-will-see-white-christmas-this-year"
+      },
+      {
+        "title": "Sigourney Weaver on why one ‘Avatar' scene felt different this time",
+        "link": "https://www.geo.tv/latest/641131-sigourney-weaver-on-why-one-avatar-scene-felt-different-this-time"
+      },
       {
         "title": "PML-N's Asghar confirms his granddaughter marrying Punjab CM Maryam's son",
         "link": "https://www.geo.tv/latest/641113-pml-ns-asghar-confirms-his-granddaughter-marrying-punjab-cm-maryams-son"
@@ -149,18 +155,6 @@
       {
         "title": "Prince Harry, Meghan Markle emotional compromise for Archie, Lilibet",
         "link": "https://www.geo.tv/latest/641128-prince-harry-meghan-markle-emotional-compromise-for-archie-lilibet"
-      },
-      {
-        "title": "Anyma sparks GTA 6 soundtrack buzz after viral photo with Rockstar Games' CEO Sam Houser",
-        "link": "https://www.geo.tv/latest/641116-anyma-sparfks-gta-6-soundtrack-buzz-after-photo-with-rockstar-ceo-sam-houser-goes-viral"
-      },
-      {
-        "title": "Hostile elements using proxies to ‘exploit internal fault lines': Field Marshal",
-        "link": "https://www.geo.tv/latest/641122-hostile-elements-using-proxies-to-exploit-internal-fault-lines-field-marshal"
-      },
-      {
-        "title": "Christopher Nolan breaks his own rules in ‘The Odyssey'",
-        "link": "https://www.geo.tv/latest/641127-christopher-nolan-breaks-his-own-rules-with-unexpected-first-in-the-odyssey"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-23 14:33 UTC"
+  "last_updated": "2025-12-23 14:51 UTC"
 }
