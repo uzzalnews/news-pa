@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Nigeria vs Tanzania – AFCON 2025",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/23/live-nigeria-vs-tanzania-2025-africa-cup-of-nations?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Nigeria vs Tanzania – AFCON 2025",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/23/live-nigeria-vs-tanzania-2025-africa-cup-of-nations?traffic_source=rss"
+      },
+      {
         "title": "How pro-war extremism is becoming mainstream in Israel",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/23/how-pro-war-extremism-is-becoming-mainstream-in-israel?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Should cities be reinvented entirely?",
         "link": "https://www.aljazeera.com/video/doha-debates/2025/12/23/should-cities-be-reinvented-entirely?traffic_source=rss"
-      },
-      {
-        "title": "Trump recalls dozens of career diplomats in ‘America First’ push",
-        "link": "https://www.aljazeera.com/news/2025/12/23/trump-recalls-30-career-diplomats-in-america-first-push?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,8 @@
     ],
     "Dawn": [
       {
-        "title": "Two prospective PIA buyers bid above reference price of Rs100bn; second round of auction underway",
-        "link": "https://www.dawn.com/news/1962791/two-prospective-pia-buyers-bid-above-reference-price-of-rs100bn-second-round-of-auction-underway"
+        "title": "Arif Habib consortium emerges victorious in PIA auction with Rs135bn bid",
+        "link": "https://www.dawn.com/news/1962791/arif-habib-consortium-emerges-victorious-in-pia-auction-with-rs135bn-bid"
       },
       {
         "title": "Aleema, PTI workers stage sit-in at Rawalpindi’s Factory Naka after being stopped from reaching Adiala jail to meet Imran",
@@ -93,68 +99,68 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "U.S. Economic Growth Surged in Third Quarter of 2025",
+        "link": "https://www.nytimes.com/2025/12/23/business/us-economy-consumer-spending.html"
+      },
+      {
+        "title": "Shoppers Spent Big This Holiday Season, Despite Economic Pressures",
+        "link": "https://www.nytimes.com/2025/12/23/business/holiday-spending-mastercard.html"
+      },
+      {
         "title": "Trump’s Greenland Strategy, and the New Promise of Weight-Loss Pills",
         "link": "https://www.nytimes.com/2025/12/23/podcasts/the-headlines/trump-greenland-weight-loss-pills.html"
       },
       {
-        "title": "The Pentagon and A.I. Giants Have a Weakness. Both Need China’s Batteries, Badly.",
-        "link": "https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html"
+        "title": "Turmoil at CBS News After Bari Weiss Pulls a ‘60 Minutes’ Segment",
+        "link": "https://www.nytimes.com/2025/12/22/business/media/cbs-news-bari-weiss-60-minutes.html"
       },
       {
-        "title": "Why the A.I. Rally (and the Bubble Talk) Could Continue Next Year",
-        "link": "https://www.nytimes.com/2025/12/23/business/dealbook/ai-rally-bubble-2026.html"
-      },
-      {
-        "title": "Trump Administration Orders Nearly 30 U.S. Ambassadors to Leave Their Posts",
-        "link": "https://www.nytimes.com/2025/12/22/us/politics/trump-administration-ambassadors-posts.html"
-      },
-      {
-        "title": "Trump Announces New ‘Trump Class’ of Warships",
-        "link": "https://www.nytimes.com/2025/12/22/us/politics/new-trump-class-warships.html"
+        "title": "The Best Photos From the NYT Styles Desk in 2025",
+        "link": "https://www.nytimes.com/2025/12/22/style/best-photos-2025-nyt-styles.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Palestinian worker succumbs to injuries sustained by Israeli forces in Jerusalem",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-worker-succumbs-injuries-sustained-israeli-forces-jerusalem"
+      },
+      {
+        "title": "Kurdish-led SDF and the Syrian government agree to stop deadly fighting in Aleppo",
+        "link": "https://www.middleeasteye.net/news/kurdish-led-sdf-and-syrian-government-agree-stop-deadly-fighting-aleppo"
+      },
+      {
+        "title": "Christians in Bethlehem face existential threat under Israel's occupation",
+        "link": "https://www.middleeasteye.net/news/christmas-christians-bethlehem-existential-threat-israel-occupation"
+      },
       {
         "title": "Palestinian man wounded as Israeli forces raid Qalandiya refugee camp",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-wounded-israeli-forces-raid-qalandiya-refugee-camp"
       },
       {
         "title": "Israel's propaganda machine endangers every Jew on the planet - including me",
-        "link": "https://www.middleeasteye.net/opinion/why-israel-behaviour-endangering-every-jew-on-planet-including-me"
-      },
-      {
-        "title": "Gaza health ministry reports five deaths in 24 hours",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-health-ministry-reports-five-deaths-24-hours"
-      },
-      {
-        "title": "Palestinian women subjected to abuse in Israeli prisons, media office says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-women-subjected-abuse-israeli-prisons-media-office-says"
-      },
-      {
-        "title": "Israeli defence minister announces settlement plans in north Gaza",
-        "link": "https://www.middleeasteye.net/news/israeli-defence-minister-announces-settlement-plans-north-gaza"
+        "link": "https://www.middleeasteye.net/opinion/israel-propaganda-machine-endangers-every-jew-on-planet-including-me"
       }
     ],
     "GeoTV": [
       {
+        "title": "Rob Reiner, Michele Singer kids share rare update after parents death",
+        "link": "https://www.geo.tv/latest/641115-rob-reiner-michele-singer-kids-share-rare-update-after-parents-death"
+      },
+      {
+        "title": "FDA approves Wegovy pill as first daily oral drug for obesity",
+        "link": "https://www.geo.tv/latest/641125-fda-approves-wegovy-pill-as-first-daily-oral-drug-for-obesity"
+      },
+      {
+        "title": "Fergie plans total transformation to reinvent herself in 2026?",
+        "link": "https://www.geo.tv/latest/641107-sarah-ferguson-plans-surgery-to-end-her-era-as-duchess-or-open-doors-to-new-man"
+      },
+      {
+        "title": "Prince William spoils Meghan Markle's secret plot: 'deadly serious'",
+        "link": "https://www.geo.tv/latest/641110-prince-william-spoils-meghan-markles-secret-plot-deadly-serious"
+      },
+      {
         "title": "Taylor Swift is pregnant? Sports personality sparks frenzy among fans",
         "link": "https://www.geo.tv/latest/641111-taylor-swift-is-pregnant-sports-personality-sparks-frenzy-among-fans"
-      },
-      {
-        "title": "Lily Allen opens up about addiction recovery following split",
-        "link": "https://www.geo.tv/latest/641114-lily-allen-opens-up-about-addiction-recovery-following-split"
-      },
-      {
-        "title": "A$AP Rocky lashes out on Reddit for deleting significant post",
-        "link": "https://www.geo.tv/latest/641108-aap-rocky-lashes-out-on-reddit-for-deleting-significant-post"
-      },
-      {
-        "title": "NFL Network's Jane Slater responds to viral death rumor: here's what you need to know",
-        "link": "https://www.geo.tv/latest/641104-nfl-networks-jane-slater-responds-to-viral-death-rumor-heres-every-detail-you-need-to-know"
-      },
-      {
-        "title": "Denmark rejects Trump's Greenland ambitions: ‘You cannot annex another country'",
-        "link": "https://www.geo.tv/latest/641112-denmark-rejects-trumps-greenland-ambitions-you-cannot-annex-another-country"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-23 13:20 UTC"
+  "last_updated": "2025-12-23 13:50 UTC"
 }
