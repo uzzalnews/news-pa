@@ -1,15 +1,9 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Bangladesh Protests LIVE Updates: Hundreds Gather Outside Bangladesh Missions In Delhi, Kolkata",
-      "link": "https://www.ndtv.com/india-news/dipu-chandra-das-lynched-bangladesh-protests-live-updates-hindus-being-killed-hundreds-gather-outside-bangladesh-high-commission-in-delhi-9892104#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Husband in court charged with drugging and raping ex-wife",
+        "title": "Husband in court charged with drugging and repeatedly raping ex-wife",
         "link": "https://www.bbc.com/news/articles/cdrnvvyy8kzo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,11 +19,19 @@
         "link": "https://www.bbc.com/news/articles/cj013m3q0mlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Royal Christmas cards portray families full of comfort and joy",
+        "title": "Royal Christmas cards show tenderness among families this year",
         "link": "https://www.bbc.com/news/articles/cvg80n2yxmko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "AFCON, more than just football",
+        "link": "https://www.aljazeera.com/video/africa-now/2025/12/23/afcon-more-than-just-football?traffic_source=rss"
+      },
+      {
+        "title": "Yemen government, Houthis agree to exchange thousands of prisoners",
+        "link": "https://www.aljazeera.com/news/2025/12/23/yemen-government-houthis-agree-to-exchange-thousands-of-prisoners?traffic_source=rss"
+      },
       {
         "title": "Ukraine “to create fear” with Russian General’s killing",
         "link": "https://www.aljazeera.com/video/quotable/2025/12/23/1809?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Isak faces two months out with injury after ‘reckless’ tackle: Slot",
         "link": "https://www.aljazeera.com/sports/2025/12/23/isak-faces-two-months-out-with-injury-after-reckless-tackle-slot?traffic_source=rss"
-      },
-      {
-        "title": "Call of Duty game cocreator Vince Zampella dies in car crash in the US",
-        "link": "https://www.aljazeera.com/news/2025/12/23/call-of-duty-game-cocreator-vince-zampella-dies-in-car-crash-in-the-us?traffic_source=rss"
-      },
-      {
-        "title": "Sudan’s PM Kamil Idris presents peace plan to UNSC to end war",
-        "link": "https://www.aljazeera.com/news/2025/12/23/sudans-pm-kamil-idris-presents-peace-plan-to-unsc-to-end-war?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,12 +86,16 @@
         "link": "https://www.dawn.com/news/1962798/it-minister-says-spectrum-auction-to-be-completed-early-next-year-will-pave-way-for-better-internet-services"
       },
       {
-        "title": "Five cops martyred as police vehicle comes under attack in KP’s Karak",
-        "link": "https://www.dawn.com/news/1962788/five-cops-martyred-as-police-vehicle-comes-under-attack-in-kps-karak"
+        "title": "Corruption charges spark protests against Albanian government",
+        "link": "https://www.dawn.com/news/1962812/corruption-charges-spark-protests-against-albanian-government"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "The Pentagon and A.I. Giants Have a Weakness. Both Need China’s Batteries, Badly.",
+        "link": "https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html"
+      },
       {
         "title": "Trump Announces New ‘Trump Class’ of Warships",
         "link": "https://www.nytimes.com/2025/12/22/us/politics/new-trump-class-warships.html"
@@ -111,15 +109,23 @@
         "link": "https://www.nytimes.com/2025/12/22/us/politics/white-house-donations-ballroom.html"
       },
       {
-        "title": "Lawmaker Sues to Remove Trump’s Name From the Kennedy Center",
-        "link": "https://www.nytimes.com/2025/12/22/us/politics/lawsuit-trump-name-removal-kennedy-center.html"
-      },
-      {
-        "title": "F.D.A. Approves Wegovy Weight-Loss Pill",
-        "link": "https://www.nytimes.com/2025/12/22/well/fda-approves-wegovy-weight-loss-pill.html"
+        "title": "Trump May Give SpaceX Some Land In A Texas Wildlife Refuge",
+        "link": "https://www.nytimes.com/2025/12/23/climate/spacex-land-exchange-texas.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli settlers beat sheep to death and wound Palestinian farmers in Hebron attack",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-beat-sheep-death-and-wound-palestinian-farmers-hebron"
+      },
+      {
+        "title": "Bloomberg: Washington may host Gaza reconstruction conference",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bloomberg-washington-may-host-gaza-reconstruction-conference"
+      },
+      {
+        "title": "Israel will establish settlement outposts in Gaza, defence minister says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-will-establish-settlement-outposts-gaza-defence-minister-says"
+      },
       {
         "title": "Parents of Palestine Action hunger striker ‘fear the worst’ as son remains on remand",
         "link": "https://www.middleeasteye.net/news/parents-palestine-action-hunger-striker-fear-worst-son-remains-remand"
@@ -127,62 +133,50 @@
       {
         "title": "Israeli settlers beat sheep to death and wound Palestinian farmers in Hebron attack",
         "link": "https://www.middleeasteye.net/news/settlers-storm-palestinian-agricultural-land-hebron-killing-sheep"
-      },
-      {
-        "title": "Azerbaijan expresses doubts about joining Gaza international force",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/azerbaijan-expresses-doubts-about-joining-gaza-international-force"
-      },
-      {
-        "title": "Israel will establish nuclear power plants in Gaza, defence minister says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-will-establish-nuclear-power-plants-gaza-defence-minister-says"
-      },
-      {
-        "title": "Azerbaijan expresses doubts about joining Gaza international force",
-        "link": "https://www.middleeasteye.net/news/azerbaijan-hesitates-join-gaza-force"
       }
     ],
     "GeoTV": [
       {
+        "title": "Taylor Swift gets emotional over Travis Kelce 'love letter' in docuseries finale",
+        "link": "https://www.geo.tv/latest/641081-taylor-swift-gets-emotional-over-travis-kelces-love-letter-in-docuseries-finale"
+      },
+      {
+        "title": "Palace shares update about social media account: ‘we hope you understand'",
+        "link": "https://www.geo.tv/latest/641085-palace-shares-update-about-social-media-account-we-hope-you-understand"
+      },
+      {
+        "title": "Kuwait signs $4.1 billion deal with China to build port",
+        "link": "https://www.geo.tv/latest/641082-kuwait-signs-41-billion-deal-with-china-to-build-port"
+      },
+      {
+        "title": "MGK flaunts tattooed body during Lost Americana Tour break",
+        "link": "https://www.geo.tv/latest/641079-mgk-flaunts-tattooed-body-during-lost-americana-tour-break"
+      },
+      {
         "title": "World's smartest person with IQ of 276 claims God's existence can be proven by Math",
         "link": "https://www.geo.tv/latest/641084-worlds-smartest-person-with-iq-of-276-claims-gods-existence-can-be-proven-by-math"
-      },
-      {
-        "title": "Bradley Cooper, Gigi Hadid's to tie the knot soon?",
-        "link": "https://www.geo.tv/latest/641076-bradley-cooper-gigi-hadids-to-tie-the-knot-soon"
-      },
-      {
-        "title": "Powerball's 1.7bn jackpot hits Christmas Eve—what happens if you win tomorrow?",
-        "link": "https://www.geo.tv/latest/641078-powerballs-17bn-jackpot-hits-christmas-evewhat-happens-if-you-win-tomorrow"
-      },
-      {
-        "title": "Field Marshal Munir hailed as leading middle power multi-aligner in British newspaper report",
-        "link": "https://www.geo.tv/latest/641074-field-marshal-munir-hailed-as-leading-middle-power-multi-aligner-in-leading-british-newspaper-report"
-      },
-      {
-        "title": "Inside Taylor Swift, Travis Kelce's extravagant ‘Swiftmas' preparations",
-        "link": "https://www.geo.tv/latest/641069-inside-taylor-swift-travis-kelces-extravagant-swiftmas-preparations"
       }
     ],
     "NDTV": [
       {
-        "title": "Younger Brother Or Frankenstein's Monster? Delhi-Dhaka 54 Years On",
-        "link": "https://www.ndtv.com/india-news/india-bangladesh-ties-dipu-chandra-das-osman-hadi-sheikh-hasina-younger-brother-or-frankensteins-monster-delhi-dhaka-50-years-after-1971-9895043#publisher=newsstand"
+        "title": "Husband, Mother Kill 2 Children, Then Die By Suicide Over Custody Battle",
+        "link": "https://www.ndtv.com/india-news/amid-custody-battle-4-of-family-found-dead-in-kerala-9896678#publisher=newsstand"
       },
       {
-        "title": "\"Anyone Who Attacks My Wife Can Eat...\": JD Vance Over Anti-Semitic Remarks",
-        "link": "https://www.ndtv.com/world-news/anyone-who-attacks-my-wife-can-eat-jd-vance-over-antisemtitic-remarks-9886562#publisher=newsstand"
+        "title": "US Teen Dies After Falling From Building Featured In Stranger Things",
+        "link": "https://www.ndtv.com/world-news/us-teen-dies-after-fall-from-abandoned-building-featured-in-stranger-things-9892765#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | 'Rahul Unapproachable', Struggling Congress Bets On Priyanka Gandhi",
-        "link": "https://www.ndtv.com/opinion/rahul-unapproachable-why-many-in-congress-want-priyanka-gandhi-to-take-the-lead-9892685#publisher=newsstand"
+        "title": "US-Based Kashmiri Separatist Nabi Fai's Properties Attached By Probe Agency NIA",
+        "link": "https://www.ndtv.com/india-news/us-based-kashmiri-separatist-nabi-fais-properties-attached-by-probe-agency-nia-9897287#publisher=newsstand"
       },
       {
-        "title": "Bangladesh Protests LIVE Updates: Hundreds Gather Outside Bangladesh Missions In Delhi, Kolkata",
-        "link": "https://www.ndtv.com/india-news/dipu-chandra-das-lynched-bangladesh-protests-live-updates-hindus-being-killed-hundreds-gather-outside-bangladesh-high-commission-in-delhi-9892104#publisher=newsstand"
+        "title": "Unnao Rape Case: Expelled BJP Leader Kuldeep Sengar's Jail Term Suspended",
+        "link": "https://www.ndtv.com/india-news/unnao-rape-case-expelled-bjp-leader-kuldeep-sengars-jail-term-suspended-9897034#publisher=newsstand"
       },
       {
-        "title": "Bhupesh Baghel's Son Got Rs 250 Crore In Liquor Scam: Chargesheet",
-        "link": "https://www.ndtv.com/india-news/bhupesh-baghels-son-got-rs-250-crore-in-liquor-scam-chargesheet-9884078#publisher=newsstand"
+        "title": "Five Labourers From UP Die of Suffocation At Haryana Resort",
+        "link": "https://www.ndtv.com/india-news/five-up-labourers-die-of-suffocation-at-haryana-resort-9896988#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-23 10:57 UTC"
+  "last_updated": "2025-12-23 11:26 UTC"
 }
