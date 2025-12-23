@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Bangladesh Protests LIVE Updates: Hundreds Gather Outside Bangladesh Missions In Delhi, Kolkata",
+      "link": "https://www.ndtv.com/india-news/dipu-chandra-das-lynched-bangladesh-protests-live-updates-hindus-being-killed-hundreds-gather-outside-bangladesh-high-commission-in-delhi-9892104#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,16 +13,16 @@
         "link": "https://www.bbc.com/news/articles/cz0ne0k70dro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Husband and five other men due in court charged with sex offences against ex-wife",
-        "link": "https://www.bbc.com/news/articles/c78vgm0e3zzo?at_medium=RSS&at_campaign=rss"
+        "title": "What the first release of Epstein documents means for Trump and Maga",
+        "link": "https://www.bbc.com/news/articles/cy95w0x9889o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Boaters stranded for Christmas after canal collapse",
+        "link": "https://www.bbc.com/news/articles/cj013m3q0mlo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Royal Christmas cards have a touchy-feely look this year",
         "link": "https://www.bbc.com/news/articles/cvg80n2yxmko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What the first release of Epstein documents means for Trump and Maga",
-        "link": "https://www.bbc.com/news/articles/cy95w0x9889o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'A miracle': Officer shot in head during Bondi attack home from hospital",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Clashes in Aleppo as deadline for SDF’s integration into army approaches",
+        "link": "https://www.aljazeera.com/features/2025/12/23/clashes-in-aleppo-as-deadline-for-sdfs-integration-into-army-approaches?traffic_source=rss"
+      },
+      {
+        "title": "A Ukraine reporter’s guide to managing wartime blackouts caused by Russia",
+        "link": "https://www.aljazeera.com/news/2025/12/23/a-ukraine-reporters-guide-to-managing-wartime-blackouts-caused-by-russia?traffic_source=rss"
+      },
+      {
+        "title": "Russian strikes trigger Ukraine power cuts, prompt Poland to scramble jets",
+        "link": "https://www.aljazeera.com/news/2025/12/23/russian-strikes-trigger-ukraine-power-cuts-prompt-poland-to-scramble-jets?traffic_source=rss"
+      },
+      {
         "title": "‘Peace prospects dire’: More tensions as M23 fights on in DRC despite deal",
         "link": "https://www.aljazeera.com/news/2025/12/23/peace-prospects-dire-more-tensions-as-m23-fights-on-in-drc-despite-deal?traffic_source=rss"
       },
       {
         "title": "I volunteered at camp for the displaced from el-Fasher. Here is what I saw",
         "link": "https://www.aljazeera.com/opinions/2025/12/23/i-volunteered-at-camp-for-the-displaced-from-el-fasher-here-is-what-i-saw?traffic_source=rss"
-      },
-      {
-        "title": "Gaza buildings bombed by Israel become refuge for Palestinians",
-        "link": "https://www.aljazeera.com/gallery/2025/12/23/gaza-families-rebuild-lives-amidst-ruins-struggle-for-normalcy?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers injure Palestinians, kill livestock in OWB",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/23/israeli-settlers-injure-palestinians-kill-livestock-in-owb?traffic_source=rss"
-      },
-      {
-        "title": "Video: Maduro rejects Trump’s warning against ‘acting tough’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/23/video-maduro-rejects-trumps-warning-against-acting-tough?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,27 +121,35 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Azerbaijan expresses doubts about joining Gaza international force",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/azerbaijan-expresses-doubts-about-joining-gaza-international-force"
+      },
+      {
+        "title": "Israel will establish nuclear power plants in Gaza, defence minister says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-will-establish-nuclear-power-plants-gaza-defence-minister-says"
+      },
+      {
+        "title": "Azerbaijan expresses doubts about joining Gaza international force",
+        "link": "https://www.middleeasteye.net/news/azerbaijan-hesitates-join-gaza-force"
+      },
+      {
         "title": "Israeli forces storm Jerusalem town, fire smoke bombs",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-storm-jerusalem-town-fire-smoke-bombs"
       },
       {
         "title": "Israeli army detains 43 Palestinians in mass arrest campaign across West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-detains-43-palestinians-mass-arrest-campaign-across-west"
-      },
-      {
-        "title": "Former Saudi intelligence chief ties Israel normalisation to Palestinian solution",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-saudi-intelligence-chief-ties-israel-normalisation-palestinian"
-      },
-      {
-        "title": "Israeli Knesset approves extension of law allowing closure of foreign media",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-knesset-approves-extension-law-allowing-closure-foreign-media"
-      },
-      {
-        "title": "Israel continues to violate ceasefire, bombs Gaza with artillery",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-continues-violate-ceasefire-bombs-gaza-artillery"
       }
     ],
     "GeoTV": [
+      {
+        "title": "William, Kate's firm step to shield children from ancient Christmas rule",
+        "link": "https://www.geo.tv/latest/641077-william-kates-firm-step-to-shield-children-from-ancient-christmas-rule"
+      },
+      {
+        "title": "Sydney Sweeney reacts to Taylor Swift's song in 'The Housemaid'",
+        "link": "https://www.geo.tv/latest/641071-sydney-sweeney-reacts-to-taylor-swifts-song-in-the-housemaid"
+      },
       {
         "title": "'Friends' famed Paul Rudd recalls audition that 'backfired' on him",
         "link": "https://www.geo.tv/latest/641051-friends-famed-paul-rudd-recalls-audition-that-backfired-on-him"
@@ -147,36 +161,28 @@
       {
         "title": "Andrew Mountbatten-Windsor delivered first major blow by Met Police",
         "link": "https://www.geo.tv/latest/641064-andrew-mountbatten-windsor-delivered-first-major-blow-by-met-police"
-      },
-      {
-        "title": "Inside Taylor Swift's grueling preparation for the Eras Tour",
-        "link": "https://www.geo.tv/latest/641062-inside-taylor-swifts-grueling-preparation-for-the-eras-tour"
-      },
-      {
-        "title": "Prince William promises ‘concrete results' for big mission as King approves",
-        "link": "https://www.geo.tv/latest/641070-prince-william-promises-concrete-results-for-big-mission-as-king-approves"
       }
     ],
     "NDTV": [
       {
-        "title": "Younger Brother Or Frankenstein's Monster? Delhi-Dhaka 54 Years After 1971",
+        "title": "Younger Brother Or Frankenstein's Monster? Delhi-Dhaka 54 Years On",
         "link": "https://www.ndtv.com/india-news/india-bangladesh-ties-dipu-chandra-das-osman-hadi-sheikh-hasina-younger-brother-or-frankensteins-monster-delhi-dhaka-50-years-after-1971-9895043#publisher=newsstand"
       },
       {
-        "title": "\"Unavoidable Circumstances\": Bangladesh Suspends Visa Services At Agartala Mission",
-        "link": "https://www.ndtv.com/world-news/bangladesh-suspends-visa-consular-services-at-agartala-mission-unavoidable-circumstances-9895229#publisher=newsstand"
-      },
-      {
-        "title": "India Announces Rs 4,000 Crore Reconstruction Package To Rebuild Sri Lanka",
-        "link": "https://www.ndtv.com/india-news/india-announces-rs-4-000-crore-reconstruction-package-to-rebuild-sri-lanka-cyclone-ditwah-9890120#publisher=newsstand"
-      },
-      {
-        "title": "India's 'Baahubali' Rocket To Launch Heaviest-Ever Satellite Tomorrow: 10 Points",
-        "link": "https://www.ndtv.com/india-news/indias-baahubali-rocket-to-launch-heaviest-ever-satellite-tomorrow-10-points-9894866#publisher=newsstand"
+        "title": "\"Anyone Who Attacks My Wife Can Eat...\": JD Vance Over Anti-Semitic Remarks",
+        "link": "https://www.ndtv.com/world-news/anyone-who-attacks-my-wife-can-eat-jd-vance-over-antisemtitic-remarks-9886562#publisher=newsstand"
       },
       {
         "title": "Opinion: Opinion | 'Rahul Unapproachable', Struggling Congress Bets On Priyanka Gandhi",
         "link": "https://www.ndtv.com/opinion/rahul-unapproachable-why-many-in-congress-want-priyanka-gandhi-to-take-the-lead-9892685#publisher=newsstand"
+      },
+      {
+        "title": "Bangladesh Protests LIVE Updates: Hundreds Gather Outside Bangladesh Missions In Delhi, Kolkata",
+        "link": "https://www.ndtv.com/india-news/dipu-chandra-das-lynched-bangladesh-protests-live-updates-hindus-being-killed-hundreds-gather-outside-bangladesh-high-commission-in-delhi-9892104#publisher=newsstand"
+      },
+      {
+        "title": "Bhupesh Baghel's Son Got Rs 250 Crore In Liquor Scam: Chargesheet",
+        "link": "https://www.ndtv.com/india-news/bhupesh-baghels-son-got-rs-250-crore-in-liquor-scam-chargesheet-9884078#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-23 09:54 UTC"
+  "last_updated": "2025-12-23 10:23 UTC"
 }
