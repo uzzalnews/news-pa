@@ -25,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "How will Syria deal with its growing security challenges?",
+        "link": "https://www.aljazeera.com/video/inside-story/2025/12/23/how-will-syria-deal-with-its-growing-security-challenges?traffic_source=rss"
+      },
+      {
+        "title": "Venezuela passes law enacting harsh penalties for supporters of US blockade",
+        "link": "https://www.aljazeera.com/news/2025/12/23/venezuela-passes-law-enacting-harsh-penalties-for-supporters-of-us-blockade?traffic_source=rss"
+      },
+      {
+        "title": "Trump administration to resume wage garnishment for student loan defaulters",
+        "link": "https://www.aljazeera.com/economy/2025/12/23/trump-administration-to-resume-wage-garnishment-for-student-loan-defaulters?traffic_source=rss"
+      },
+      {
+        "title": "Hindutva protest at Bangladesh High Commission over lynching of Hindu man",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/23/hindutva-protest-at-bangladesh-high-commission-over-lynching-of-hindu-man?traffic_source=rss"
+      },
+      {
         "title": "Wasteful Nigeria edge past Tanzania to make winning start to AFCON 2025",
         "link": "https://www.aljazeera.com/sports/2025/12/23/nigeria-beat-tanzania-to-make-winning-start-to-afcon-2025?traffic_source=rss"
-      },
-      {
-        "title": "UK police say comedian Russell Brand charged with two more sex offences",
-        "link": "https://www.aljazeera.com/news/2025/12/23/uk-police-say-comedian-russell-brand-charged-with-two-more-sex-offences?traffic_source=rss"
-      },
-      {
-        "title": "Libyan army chief killed in plane crash near Turkiye’s capital Ankara",
-        "link": "https://www.aljazeera.com/news/2025/12/23/signal-lost-with-jet-carrying-libyan-army-chief-over-ankara-turkiye-says?traffic_source=rss"
-      },
-      {
-        "title": "Brazilian Supreme Court says Bolsonaro can leave prison to undergo surgery",
-        "link": "https://www.aljazeera.com/news/2025/12/23/brazilian-supreme-court-says-bolsonaro-can-leave-prison-to-undergo-surgery?traffic_source=rss"
-      },
-      {
-        "title": "Cambodia’s economy squeezed by Thai conflict",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/23/cambodias-economy-squeezed-by-thai-conflict?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,7 +93,7 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Administration Live Updates: Supreme Court Refuses to Allow National Guard Deployment in Chicago",
+        "title": "Supreme Court Refuses to Allow National Guard Deployment in Chicago",
         "link": "https://www.nytimes.com/live/2025/12/23/us/trump-epstein-files-news"
       },
       {
@@ -109,11 +109,15 @@
         "link": "https://www.nytimes.com/2025/12/23/us/politics/trump-epstein-jet-flights.html"
       },
       {
-        "title": "U.S. GDP Grew 4.3%, Surging in Third Quarter of 2025",
-        "link": "https://www.nytimes.com/2025/12/23/business/us-economy-consumer-spending.html"
+        "title": "Pulled ’60 Minutes’ Report, Briefly Streamed in Canada, Is All Over the Internet Now",
+        "link": "https://www.nytimes.com/2025/12/23/business/media/60-minutes-cbs-news.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Nearly 50 US lawmakers call on Trump to address Israeli Gaza ceasefire violations",
+        "link": "https://www.middleeasteye.net/news/nearly-50-us-lawmakers-call-trump-address-israeli-gaza-ceasefire-violations"
+      },
       {
         "title": "Trump administration reviewing Israel's 'military edge' as it eyes Gulf arms deals, sources say",
         "link": "https://www.middleeasteye.net/news/trump-administration-reviewing-israels-military-edge-it-eyes-gulf-arms-deals-sources-say"
@@ -129,10 +133,6 @@
       {
         "title": "Iraqis left without power after Iran 'entirely' halts gas exports",
         "link": "https://www.middleeasteye.net/news/iraqis-left-without-power-after-iran-halts-gas-exports"
-      },
-      {
-        "title": "Activists protest in solidarity with pro-Palestine hunger strikers",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/activists-protest-solidarity-pro-palestine-hunger-strikers"
       }
     ],
     "GeoTV": [
@@ -153,11 +153,23 @@
         "link": "https://www.geo.tv/latest/641165-chris-evans-steve-rogers-becomes-father-mcu"
       },
       {
-        "title": "Turkiye authorities find crash site of jet carrying Libyan army chief: minister",
+        "title": "Libya says its army chief dies in plane crash in Turkiye",
         "link": "https://www.geo.tv/latest/641163-signal-lost-with-jet-carrying-libyan-army-chief-over-ankara-says-turkey"
       }
     ],
     "NDTV": [
+      {
+        "title": "Libya's Army Chief Killed In Plane Crash In Turkey",
+        "link": "https://www.ndtv.com/world-news/libyas-army-chief-mohammed-al-haddad-killed-in-plane-crash-in-turkey-9914524#publisher=newsstand"
+      },
+      {
+        "title": "\"Hope They Will Listen\": Pope Leo Calls For Global Truce On Christmas Day",
+        "link": "https://www.ndtv.com/india-news/pope-leo-calls-for-global-truce-on-christmas-day-9914151#publisher=newsstand"
+      },
+      {
+        "title": "\"Will Not Bow Down To Any Pressure\": Iran, US Spar Over Nuclear Talks At UN",
+        "link": "https://www.ndtv.com/world-news/iran-us-spar-over-nuclear-talks-at-un-9913411#publisher=newsstand"
+      },
       {
         "title": "Trump In New Epstein Files: Jet Flights To Mar-a-Lago Subpoena - 5 Takeaways",
         "link": "https://www.ndtv.com/world-news/trump-in-new-epstein-files-jet-flights-to-mar-a-lago-subpoena-5-takeaways-9912679#publisher=newsstand"
@@ -165,18 +177,6 @@
       {
         "title": "Shehbaz Sharif's Dialogue Offer To Imran Khan's Party To Ease Tensions",
         "link": "https://www.ndtv.com/world-news/shehbaz-sharifs-dialogue-offer-to-imran-khans-party-to-ease-tensions-9911724#publisher=newsstand"
-      },
-      {
-        "title": "Court Rejects Plea To Drop Mehul Choksi's Fugitive Economic Offender Tag",
-        "link": "https://www.ndtv.com/india-news/court-rejects-plea-to-drop-mehul-choksis-fugitive-economic-offender-tag-9911658#publisher=newsstand"
-      },
-      {
-        "title": "'Don't Object To India Action If...' Pak Leader Slams Own Country Over Kabul",
-        "link": "https://www.ndtv.com/world-news/from-lyari-pak-leader-maulana-fazlur-rehman-cites-operation-sindoor-calls-out-own-countrys-hypocrisy-9900566#publisher=newsstand"
-      },
-      {
-        "title": "\"People Are Angry\": Trump Says Epstein Files Are 'Ruining Reputations'",
-        "link": "https://www.ndtv.com/world-news/people-are-angry-donald-trump-says-epstein-files-are-ruining-reputations-9911324#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-23 20:57 UTC"
+  "last_updated": "2025-12-23 21:25 UTC"
 }
