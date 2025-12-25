@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Royal Family gather for Christmas service at Sandringham",
+        "link": "https://www.bbc.com/news/articles/c1w9xrx480wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Officials discover a million more documents potentially related to Epstein case",
         "link": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss"
       },
@@ -17,10 +21,6 @@
       {
         "title": "The time bombs in the new Archbishop of Canterbury's in-tray for 2026",
         "link": "https://www.bbc.com/news/articles/c4gekrwxg2qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Cold health alert as parts of UK set to freeze on Christmas Day",
-        "link": "https://www.bbc.com/news/articles/cr4dvgkvveyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
@@ -93,12 +93,16 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Tosses Lifelines to the Struggling Coal Industry",
-        "link": "https://www.nytimes.com/2025/12/24/climate/coal-plant-closures-indiana.html"
+        "title": "With Trump in Power, Democrats Try to Redefine Themselves as Disrupters",
+        "link": "https://www.nytimes.com/2025/12/25/us/politics/trump-democrats-washington-midterm-elections.html"
       },
       {
-        "title": "In Private Letters, Harvard and Trump Administration Escalate Duel",
-        "link": "https://www.nytimes.com/2025/12/24/us/trump-harvard-letters-deal.html"
+        "title": "Trump Says ‘Housing First’ Failed the Homeless. Here’s What the Evidence Says.",
+        "link": "https://www.nytimes.com/2025/12/25/us/trump-housing-first.html"
+      },
+      {
+        "title": "Republicans Who Backed Afghan Visas Are Mum as Trump Halts Them",
+        "link": "https://www.nytimes.com/2025/12/25/us/politics/republicans-afghan-visas.html"
       },
       {
         "title": "Kennedy Center’s Christmas Eve Jazz Show Canceled After Trump Name Added to Building",
@@ -107,13 +111,21 @@
       {
         "title": "Man Shot in ICE Confrontation in Maryland, Officials Say",
         "link": "https://www.nytimes.com/2025/12/24/us/immigrant-shot-maryland-ice.html"
-      },
-      {
-        "title": "A Million More Epstein Documents Have Been Found, Justice Dept. Says",
-        "link": "https://www.nytimes.com/2025/12/24/us/politics/epstein-files-documents-doj.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Archiving Gaza in the present: The quest to preserve Palestinian memory",
+        "link": "https://www.middleeasteye.net/opinion/archiving-gaza-present-quest-preserve-palestinian-memory"
+      },
+      {
+        "title": "Pope Leo decries suffering of Palestinians in Gaza in Christmas sermon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pope-leo-decries-suffering-palestinians-gaza-christmas-sermon"
+      },
+      {
+        "title": "Israeli forces kill Palestinian man in Gaza and wound another near Jerusalem",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-gaza-wound-another-jerusalem"
+      },
       {
         "title": "Israeli court allows army to demolish 25 residential buildings in West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-clears-army-demolish-25-residential-buildings-west-bank"
@@ -121,21 +133,17 @@
       {
         "title": "Gaza NGO says 90 percent of population lacks access to food amid shortages",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-ngo-says-90-palestinians-gaza-lack-access-food-amid-shortages"
-      },
-      {
-        "title": "Hospital in Gaza warns of collapse amid fuel shortages due to Israeli blockade",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hospital-gaza-warns-collapse-amid-fuel-shortages-due-israeli-blockade"
-      },
-      {
-        "title": "Bombed churches and air strikes: Celebrating Christmas in south Lebanon",
-        "link": "https://www.middleeasteye.net/news/bombed-churches-and-air-strikes-celebrating-christmas-south-lebanon"
-      },
-      {
-        "title": "Israeli settlers torch bulldozer near Bethlehem: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-torch-bulldozer-near-bethlehem-report"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Pakistan 'winner' of US foreign policy driven by Trump's 'personal' affinity for CDF Asim Munir",
+        "link": "https://www.geo.tv/latest/641456-pakistan-winner-of-us-foreign-policy-driven-by-trumps-personal-affinity-for-cdf-asim-munir"
+      },
+      {
+        "title": "Brooklyn Beckham remains unfazed amid Instagram fallout with family",
+        "link": "https://www.geo.tv/latest/641451-brooklyn-beckham-remains-unfazed-amid-instagram-fallout-with-family"
+      },
       {
         "title": "‘Bridgerton' stars Luke Thompson, Yerin Ha tease big surprise on Chirstmas",
         "link": "https://www.geo.tv/latest/641435-bridgerton-stars-luke-thompson-yerin-ha-tease-big-surprise-on-chirstmas"
@@ -147,14 +155,6 @@
       {
         "title": "George, Charlotte, Louis heartwarming gesture for King after health update",
         "link": "https://www.geo.tv/latest/641453-george-charlotte-louis-heartwarming-gesture-for-king-after-health-update"
-      },
-      {
-        "title": "Brad Pitt lands under fire with new legal troubles amid Angelina Jolie case",
-        "link": "https://www.geo.tv/latest/641452-brad-pitt-lands-under-fire-with-new-legal-troubles-amid-angelina-jolie-case"
-      },
-      {
-        "title": "'Peaky Blinders: The Immortal Man' trailer gives fans 'goosebumps'",
-        "link": "https://www.geo.tv/latest/641438-peaky-blinders-the-immortal-man-trailer-gives-fans-goosebumps"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-25 10:54 UTC"
+  "last_updated": "2025-12-25 11:16 UTC"
 }
