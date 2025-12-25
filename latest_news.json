@@ -3,8 +3,16 @@
   "news": {
     "BBC": [
       {
+        "title": "King's Christmas message urges communities to pull together in times of uncertainty",
+        "link": "https://www.bbc.com/news/articles/ce86x326y08o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Royal Family greet crowds after Christmas Day service",
         "link": "https://www.bbc.com/news/articles/c1w9xrx480wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two men believed missing as coast search continues",
+        "link": "https://www.bbc.com/news/articles/c4g41v0dekgo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Pope Leo urges 'courage' to end Ukraine war in first Christmas address",
@@ -13,17 +21,21 @@
       {
         "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
         "link": "https://www.bbc.com/news/articles/cdxwllqz1l0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Two men believed missing as coast search continues",
-        "link": "https://www.bbc.com/news/articles/c4g41v0dekgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What are professional footballers tucking into at Christmas?",
-        "link": "https://www.bbc.com/news/articles/c989005xj32o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Palestinian actor and filmmaker Mohammad Bakri dies at 72",
+        "link": "https://www.aljazeera.com/news/2025/12/25/palestinian-actor-and-filmmaker-mohammad-bakri-dies-at-72?traffic_source=rss"
+      },
+      {
+        "title": "Five people killed in firefight on Tajik-Afghan border, Tajikistan says",
+        "link": "https://www.aljazeera.com/news/2025/12/25/five-killed-at-tajikistan-afghanistan-border-in-armed-clash?traffic_source=rss"
+      },
+      {
+        "title": "Palestine Action: Prison hunger strikes that shaped history",
+        "link": "https://www.aljazeera.com/news/2025/12/25/palestine-action-prison-hunger-strikes-that-shaped-history?traffic_source=rss"
+      },
       {
         "title": "Rescue helicopter crashes, killing five on Tanzania’s Mount Kilimanjaro",
         "link": "https://www.aljazeera.com/news/2025/12/25/rescue-helicopter-crashes-killing-five-on-tanzanias-mount-kilimanjaro?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "The Ashes: Cricket’s Longest Argument",
         "link": "https://www.aljazeera.com/video/game-theory/2025/12/25/aje-onl-gt-ashes_v7-251225?traffic_source=rss"
-      },
-      {
-        "title": "Atmospheric river storm causes flooding across Southern California",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/25/atmospheric-river-storm-causes-flooding-across-southern-california?traffic_source=rss"
-      },
-      {
-        "title": "France must “pay for crimes committed” against Algeria",
-        "link": "https://www.aljazeera.com/video/quotable/2025/12/25/france-must-pay-for-crimes-committed-against-algeria?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine accepts demilitarised zone to end Russia war, but do DMZs work?",
-        "link": "https://www.aljazeera.com/news/2025/12/25/ukraine-accepts-demilitarised-zone-to-end-russia-war-but-do-dmzs-work?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli military says it killed Iranian Quds Force member in attack in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-said-it-killed-iranian-quds-force-member-lebanon-attack"
+      },
+      {
+        "title": "Israel ranks lowest in global brand index",
+        "link": "https://www.middleeasteye.net/news/israel-ranks-lowest-second-year-row-global-brand-index"
+      },
+      {
         "title": "Church of England archbishop says he was intimidated by Israeli militias in the West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/church-england-archbishop-says-he-was-intimidated-israeli-militias"
       },
@@ -125,17 +133,21 @@
       {
         "title": "PA accused of failing Palestinians at a time of genocide",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pa-accused-failing-palestinians-time-genocide"
-      },
-      {
-        "title": "Israeli forces abduct Palestinian researcher from his home in Jerusalem",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-abduct-palestinian-researcher-his-home-jerusalem"
-      },
-      {
-        "title": "PA accused of failing Palestinians at a time of genocide",
-        "link": "https://www.middleeasteye.net/news/pa-accused-failing-palestinians-time-genocide"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Amy Poehler jokes about hosting Martha Stewart on show",
+        "link": "https://www.geo.tv/latest/641514-amy-poehler-jokes-about-hosting-martha-stewart-on-show"
+      },
+      {
+        "title": "Why did Chris Evans lie about return as Steve Rogers in 'Avengers: Doomsday'?",
+        "link": "https://www.geo.tv/latest/641504-why-did-chris-evans-lie-about-his-return-as-steve-rogers-in-avengers-doomsday"
+      },
+      {
+        "title": "New York Times reporter sues Elon Musk's xAI, Google, OpenAI over copyright infringement",
+        "link": "https://www.geo.tv/latest/641512-new-york-times-reporter-sues-elon-musks-xai-google-openai-over-copyright-infringement"
+      },
       {
         "title": "NASA is hunting for Earth's critical minerals from 60,000 ft",
         "link": "https://www.geo.tv/latest/641513-nasa-is-hunting-for-earths-critical-minerals-from-60000-ft"
@@ -143,18 +155,6 @@
       {
         "title": "Music legends to iconic actors: Stars who passed away on Christmas",
         "link": "https://www.geo.tv/latest/641511-music-legends-to-iconic-actors-stars-who-passed-away-on-christmas"
-      },
-      {
-        "title": "Watch Christmas classics on Netflix with THESE secret movie codes",
-        "link": "https://www.geo.tv/latest/641491-watch-christmas-classics-on-netflix-with-these-secret-movie-codes"
-      },
-      {
-        "title": "Pakistan, ADB sign $730m agreements for power infrastructure, SOE transformation",
-        "link": "https://www.geo.tv/latest/641502-pakistan-adb-sign-730m-agreements-for-power-infrastructure-soe-transformation"
-      },
-      {
-        "title": "Princess Charlotte's video with Zara Tindall's daughter Mia sets internet ablaze",
-        "link": "https://www.geo.tv/latest/641499-princess-charlottes-video-with-zara-tindalls-daughter-mia-sets-internet-ablaze"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-25 14:56 UTC"
+  "last_updated": "2025-12-25 15:24 UTC"
 }
