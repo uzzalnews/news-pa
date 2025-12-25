@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +17,31 @@
         "link": "https://www.bbc.com/news/articles/cj4qzvy48g5o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "We invited a man into our home at Christmas and he stayed with us for 45 years",
+        "link": "https://www.bbc.com/news/articles/cdxwllqz1l0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "The time bombs in the new Archbishop of Canterbury's in-tray for 2026",
         "link": "https://www.bbc.com/news/articles/c4gekrwxg2qo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Catherine and Charlotte perform piano duet for Christmas carol concert",
         "link": "https://www.bbc.com/news/articles/c2ep0pz8emjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Quiz of the Year 2025, Part 1: Which star teased her engagement on the red carpet?",
-        "link": "https://www.bbc.com/news/articles/ce8n1l5vd5xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Eleven suspects arrested over deadly South African tavern shooting",
+        "link": "https://www.aljazeera.com/news/2025/12/25/eleven-suspects-arrested-over-deadly-south-africa-tavern-shooting?traffic_source=rss"
+      },
+      {
+        "title": "Jordan strikes drug, arms smugglers in Syria border region: Reports",
+        "link": "https://www.aljazeera.com/news/2025/12/25/jordan-strikes-drug-arms-smugglers-in-syria-border-region-reports?traffic_source=rss"
+      },
       {
         "title": "Algeria passes law declaring French colonisation a crime",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/25/algeria-passes-law-declaring-french-colonisation-a-crime?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "‘Half joy, half sadness’: Christmas celebrations resume in Bethlehem",
         "link": "https://www.aljazeera.com/features/2025/12/25/half-joy-half-sadness-christmas-celebrations-resume-bethlehem?traffic_source=rss"
-      },
-      {
-        "title": "US will focus on exerting economic pressure on Venezuela: Report",
-        "link": "https://www.aljazeera.com/news/2025/12/25/us-will-focus-on-exerting-economic-pressure-on-venezuela-report?traffic_source=rss"
-      },
-      {
-        "title": "Bangladesh opposition leader Tarique Rahman returns after 17 years in exile",
-        "link": "https://www.aljazeera.com/news/2025/12/25/bangladesh-opposition-leader-tarique-rahman-returns-after-17-years-in-exile?traffic_source=rss"
-      },
-      {
-        "title": "Christmas under occupation: Israeli attacks against Palestinian Christians",
-        "link": "https://www.aljazeera.com/news/2025/12/25/christmas-under-occupation-israeli-attacks-against-palestinian-christians?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +80,20 @@
         "link": "https://www.dawn.com/news/1963160/quaid-i-azams-vision-ideals-in-focus-as-nation-celebrates-his-149th-birth-anniversary"
       },
       {
-        "title": "Ex-SAPM Mirza Shahzad Akbar attacked in UK",
-        "link": "https://www.dawn.com/news/1963159/ex-sapm-mirza-shahzad-akbar-attacked-in-uk"
-      },
-      {
         "title": "Christian community an integral part of Pakistan’s national fabric, says PM Shehbaz in Christmas message",
         "link": "https://www.dawn.com/news/1963161/christian-community-an-integral-part-of-pakistans-national-fabric-says-pm-shehbaz-in-christmas-message"
       },
       {
-        "title": "Bangladesh leader considered top PM candidate returns after nearly 17 years in exile ahead of polls",
-        "link": "https://www.dawn.com/news/1963162/bangladesh-leader-considered-top-pm-candidate-returns-after-nearly-17-years-in-exile-ahead-of-polls"
+        "title": "Jinnah’s democratic legacy: challenges & prospects",
+        "link": "https://www.dawn.com/news/1963145/jinnahs-democratic-legacy-challenges-prospects"
       },
       {
-        "title": "Fauji Fertiliser Company joins winning consortium after PIA auction",
-        "link": "https://www.dawn.com/news/1963123/fauji-fertiliser-company-joins-winning-consortium-after-pia-auction"
+        "title": "M.A. Jinnah: fragments from an epochal life",
+        "link": "https://www.dawn.com/news/1963154/ma-jinnah-fragments-from-an-epochal-life"
+      },
+      {
+        "title": "Ex-SAPM Mirza Shahzad Akbar attacked in UK",
+        "link": "https://www.dawn.com/news/1963159/ex-sapm-mirza-shahzad-akbar-attacked-in-uk"
       }
     ],
     "APNews": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Gaza rescuers recover 14 bodies from rubble from previous Israeli strikes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-rescuers-recover-14-bodies-rubble-previous-israeli-strikes"
+      },
+      {
         "title": "Israeli strikes and demolitions reported in north and south Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-and-demolitions-reported-north-and-south-gaza"
       },
@@ -129,32 +139,28 @@
       {
         "title": "In photos: Christmas mass celebration in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/photos-christmas-mass-celebration-gaza"
-      },
-      {
-        "title": "With the exception of US, all G7 nations condemn newly-approved Israeli settlements",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/exception-us-all-g7-nations-condemn-newly-approved-israeli-settlements"
       }
     ],
     "GeoTV": [
       {
-        "title": "Fauji Fertiliser joins Arif Habib Consortium in PIA privatisation deal",
-        "link": "https://www.geo.tv/latest/641425-fauji-fertiliser-joins-arif-habib-consortium-in-pia-privatisation-deal"
+        "title": "Channing Tatum remembers late James Ransone in emotional statement",
+        "link": "https://www.geo.tv/latest/641427-channing-tatum-remembers-late-james-ransone-in-emotional-statement"
       },
       {
-        "title": "Niall Horan steps in new direction with professional career",
-        "link": "https://www.geo.tv/latest/641426-niall-horan-steps-in-new-direction-with-professional-career"
+        "title": "Fortnite login issue resolved as servers back up online during Christmas holiday",
+        "link": "https://www.geo.tv/latest/641433-fortnite-login-issue-resolved-as-servers-back-up-online-during-christmas-holiday"
       },
       {
-        "title": "Bangladesh leader considered top PM candidate returns from exile ahead of polls",
-        "link": "https://www.geo.tv/latest/641424-bangladesh-leader-considered-top-pm-candidate-returns-from-exile-ahead-of-polls"
+        "title": "Queen Camilla's meaningful Christmas present from King Charles unveiled",
+        "link": "https://www.geo.tv/latest/641431-queen-camillas-meaningful-christmas-present-from-king-charles-unveiled"
       },
       {
-        "title": "Leonardo DiCaprio, Vittoria Ceretti enjoy quiet date ahead of Christmas",
-        "link": "https://www.geo.tv/latest/641422-leonardo-dicaprio-vittoria-ceretti-enjoy-quiet-date-ahead-of-christmas"
+        "title": "Prince William's secret plan may spark royal divide, clash with King Charles",
+        "link": "https://www.geo.tv/latest/641407-prince-williams-secret-plan-may-spark-royal-divide-clash-with-king-charles"
       },
       {
-        "title": "PTA mandates registration of SIMs to users' own names, warns against violation",
-        "link": "https://www.geo.tv/latest/641406-pta-mandates-registration-of-sims-to-users-own-names-warns-against-violation"
+        "title": "Kristin Davis reveals THIS awkward scene in 'Sex and the City'",
+        "link": "https://www.geo.tv/latest/641429-kristin-davis-reveals-this-awkward-scene-in-sex-and-the-city"
       }
     ],
     "NDTV": [
@@ -181,6 +187,10 @@
     ],
     "TheGuardian": [
       {
+        "title": "Hundreds of thousands newly displaced as Islamic State insurgency expands in Mozambique",
+        "link": "https://www.theguardian.com/world/2025/dec/25/displaced-islamic-state-insurgency-mozambique"
+      },
+      {
         "title": "Algeria passes law declaring French colonisation a crime",
         "link": "https://www.theguardian.com/world/2025/dec/24/algeria-passes-law-declaring-french-colonisation-crime"
       },
@@ -195,12 +205,8 @@
       {
         "title": "Another 130 kidnapped schoolchildren released in Nigeria",
         "link": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria"
-      },
-      {
-        "title": "Manchester Museum seeks help to uncover hidden histories of African collection",
-        "link": "https://www.theguardian.com/uk-news/2025/dec/21/manchester-museum-uncover-hidden-histories-africa-hub"
       }
     ]
   },
-  "last_updated": "2025-12-25 07:55 UTC"
+  "last_updated": "2025-12-25 08:29 UTC"
 }
