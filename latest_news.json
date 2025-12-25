@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Photos: Global stories of 2025 in pictures",
+        "link": "https://www.aljazeera.com/gallery/2025/12/25/photos-global-stories-of-2025-in-pictures?traffic_source=rss"
+      },
+      {
+        "title": "Somali capital holds first direct election in five decades",
+        "link": "https://www.aljazeera.com/news/2025/12/25/somali-capital-holds-first-direct-election-in-five-decades?traffic_source=rss"
+      },
+      {
         "title": "Egypt vs South Africa: AFCON 2025 – Salah, team news, start and lineups",
         "link": "https://www.aljazeera.com/sports/2025/12/25/egypt-vs-south-africa-afcon-2025-salah-team-news-start-and-lineups?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Russia claims to have seized more than 5,100 square km of Ukraine in 2025",
         "link": "https://www.aljazeera.com/news/2025/12/25/russia-claims-to-have-seized-more-than-5100-square-km-of-ukraine-in-2025?traffic_source=rss"
-      },
-      {
-        "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
-        "link": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Sound of Israel’s bombs, hum of drones drown out Christmas in Gaza",
-        "link": "https://www.aljazeera.com/news/liveblog/2025/12/25/live-sound-of-israels-bombs-drone-hums-drown-out-christmas-in-gaza?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,12 +70,12 @@
     ],
     "Dawn": [
       {
-        "title": "Quaid-i-Azam’s vision, ideals in focus as nation celebrates his 149th birth anniversary",
-        "link": "https://www.dawn.com/news/1963160/quaid-i-azams-vision-ideals-in-focus-as-nation-celebrates-his-149th-birth-anniversary"
-      },
-      {
         "title": "8 terrorists killed in intelligence-based operation in Kalat: ISPR",
         "link": "https://www.dawn.com/news/1963171/8-terrorists-killed-in-intelligence-based-operation-in-kalat-ispr"
+      },
+      {
+        "title": "Quaid-i-Azam’s vision, ideals in focus as nation celebrates his 149th birth anniversary",
+        "link": "https://www.dawn.com/news/1963160/quaid-i-azams-vision-ideals-in-focus-as-nation-celebrates-his-149th-birth-anniversary"
       },
       {
         "title": "Christian community an integral part of Pakistan’s national fabric, says PM Shehbaz in Christmas message",
@@ -143,8 +137,16 @@
     ],
     "GeoTV": [
       {
+        "title": "Kim Kardashian festive photos raise eyebrows for THIS reason",
+        "link": "https://www.geo.tv/latest/641445-kim-kardashian-festive-photos-raise-eyebrows-for-this-reason"
+      },
+      {
         "title": "Security forces eliminate eight India-backed terrorists in Kalat IBO",
         "link": "https://www.geo.tv/latest/641440-security-forces-eliminate-eight-india-backed-terrorists-in-kalat-ibo"
+      },
+      {
+        "title": "Cyberattack on Aflac: Millions of US insurance customers' data stolen",
+        "link": "https://www.geo.tv/latest/641441-cyberattack-on-aflac-millions-of-us-insurance-customers-data-stolen"
       },
       {
         "title": "Diddy files new legal demand after sentence extension",
@@ -153,14 +155,6 @@
       {
         "title": "Christmas hits mint millions each December — from Mariah Carey to Wham!, this is why",
         "link": "https://www.geo.tv/latest/641409-christmas-hits-mint-millions-from-mariah-cary-to-whams"
-      },
-      {
-        "title": "North Korea unveils new nuclear-powered submarine amid regional tensions",
-        "link": "https://www.geo.tv/latest/641439-north-korea-unveils-new-nuclear-powered-submarine-amid-regional-tensions"
-      },
-      {
-        "title": "Travis Kelce gives heartwarming glimpse into Taylor Swift's kitchen secrets",
-        "link": "https://www.geo.tv/latest/641436-travis-kelce-gives-heartwarming-glimpse-into-taylor-swifts-kitchen-secrets"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-25 09:19 UTC"
+  "last_updated": "2025-12-25 09:40 UTC"
 }
