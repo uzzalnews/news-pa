@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Nigeria confirms US strikes on ISIL targets in its northwest",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/26/live-nigeria-confirms-joint-us-strikes-on-isil-targets-in-its-north-west?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,34 +21,34 @@
         "link": "https://www.bbc.com/news/articles/c4g41v0dekgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Why Britain has a deer problem - leaving damage that costs millions",
-        "link": "https://www.bbc.com/news/articles/c9d93xzey70o?at_medium=RSS&at_campaign=rss"
+        "title": "England rolled for 110 on chaotic day in Melbourne",
+        "link": "https://www.bbc.com/sport/cricket/articles/cly049z6m82o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US judge blocks detention of British social media campaigner",
-        "link": "https://www.bbc.com/news/articles/c33mx6j5jrvo?at_medium=RSS&at_campaign=rss"
+        "title": "Why Britain has a deer problem - leaving damage that costs millions",
+        "link": "https://www.bbc.com/news/articles/c9d93xzey70o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "North Korea’s Kim Jong Un pushes more missile production as ‘war deterrent’",
-        "link": "https://www.aljazeera.com/news/2025/12/26/north-koreas-kim-jong-un-pushes-more-missile-production-as-war-deterrent?traffic_source=rss"
+        "title": "LIVE: Nigeria confirms US strikes on ISIL targets in its northwest",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/26/live-nigeria-confirms-joint-us-strikes-on-isil-targets-in-its-north-west?traffic_source=rss"
       },
       {
-        "title": "US releases missile launch video after northwest Nigeria strike",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/26/us-releases-missile-launch-video-after-northwest-nigeria-strike?traffic_source=rss"
+        "title": "Court finds Malaysia’s former PM Najib Razak guilty of abuse of power",
+        "link": "https://www.aljazeera.com/news/2025/12/26/court-finds-malaysias-former-pm-najib-razak-guilty-of-abuse-of-power?traffic_source=rss"
       },
       {
-        "title": "Polish jets intercept Russian reconnaissance plane spotted near airspace",
-        "link": "https://www.aljazeera.com/news/2025/12/26/polish-jets-intercept-russian-reconnaissance-plane-spotted-near-airspace?traffic_source=rss"
+        "title": "Israeli settler runs over Palestinian man praying near Ramallah",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/26/israeli-settler-runs-over-palestinian-man-praying-near-ramallah?traffic_source=rss"
       },
       {
-        "title": "Russia-Ukraine war: List of key events, day 1,401",
-        "link": "https://www.aljazeera.com/news/2025/12/26/russia-ukraine-war-list-of-key-events-day-1401?traffic_source=rss"
+        "title": "Japan gov’t greenlights record $58bn defence budget amid regional tension",
+        "link": "https://www.aljazeera.com/news/2025/12/26/japan-govt-greenlights-record-58bn-defence-budget-amid-regional-tension?traffic_source=rss"
       },
       {
-        "title": "‘A comedy show’: Myanmar youth in exile slam military-run ‘sham’ election",
-        "link": "https://www.aljazeera.com/features/2025/12/26/a-comedy-show-myanmar-youth-in-exile-slam-military-run-sham-election?traffic_source=rss"
+        "title": "Palestinian economy faces critical downturn amid escalating fiscal crisis",
+        "link": "https://www.aljazeera.com/economy/2025/12/26/palestinian-economy-faces-critical-downturn-amid-escalating-fiscal-crisis?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1963362/hope-we-can-avoid-unnecessary-politicisation-ahsan-iqbal-on-speculation-about-disruption-of-his-ary-news-interview"
       },
       {
-        "title": "US launches Christmas Day strikes on IS targets in Nigeria",
-        "link": "https://www.dawn.com/news/1963355/us-launches-christmas-day-strikes-on-is-targets-in-nigeria"
-      },
-      {
         "title": "Tajikistan says 5 killed in armed clash on border with Afghanistan",
         "link": "https://www.dawn.com/news/1963365/tajikistan-says-5-killed-in-armed-clash-on-border-with-afghanistan"
       },
       {
         "title": "Alarm among immigration advocates as Trump administration mulls ramping up denaturalising of citizens",
         "link": "https://www.dawn.com/news/1963363/alarm-among-immigration-advocates-as-trump-administration-mulls-ramping-up-denaturalising-of-citizens"
+      },
+      {
+        "title": "US launches Christmas Day strikes on IS targets in Nigeria",
+        "link": "https://www.dawn.com/news/1963355/us-launches-christmas-day-strikes-on-is-targets-in-nigeria"
       }
     ],
     "APNews": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli warplanes carry out intense strikes in Khan Younis, continue shelling Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-warplanes-carry-out-out-intense-air-strikes-khan-younis-continue"
+      },
+      {
         "title": "Israeli forces raid farm near Ramallah, assault workers and steal 150 sheep",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-farm-near-ramallah-assault-workers-and-steal-150"
       },
@@ -129,13 +139,21 @@
       {
         "title": "Israeli soldier runs over Palestinian man during prayer in West Bank village",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-runs-over-palestinian-man-during-prayer-west-bank"
-      },
-      {
-        "title": "Israeli settlers expand outpost near Nablus, rights group says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-expand-outpost-near-nablus-rights-group-says"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Drew Barrymore embraces aging with makeup-free selfie",
+        "link": "https://www.geo.tv/latest/641596-drew-barrymore-embraces-aging-with-makeup-free-selfie"
+      },
+      {
+        "title": "Malaysia court finds ex-PM Najib Razak guilty of abuse of power in biggest 1MDB trial",
+        "link": "https://www.geo.tv/latest/641594-malaysia-court-finds-ex-pm-najib-razak-guilty-of-abuse-of-power-in-biggest-1mdb-trial"
+      },
+      {
+        "title": "Leonardo DiCaprio regrets one thing about working with Martin Scorsese",
+        "link": "https://www.geo.tv/latest/641579-leonardo-dicaprio-regrets-one-thing-about-working-with-martin-scorsese"
+      },
       {
         "title": "Kanye West, Bianca Censori spotted together for first time in months",
         "link": "https://www.geo.tv/latest/641585-kanye-west-bianca-censori-spotted-together-for-first-time-in-months"
@@ -143,18 +161,6 @@
       {
         "title": "Why 'Santa' sighting at Statue of Liberty went viral: festive hoax or mystery explained",
         "link": "https://www.geo.tv/latest/641587-why-santa-sighting-at-statue-of-liberty-went-viral-festive-hoax-or-mystery-explained"
-      },
-      {
-        "title": "Andrew sends message to Beatrice, Eugenie after sombre Christmas",
-        "link": "https://www.geo.tv/latest/641586-andrew-sends-message-to-beatrice-eugenie-after-sombre-christmas"
-      },
-      {
-        "title": "Australia plans National Bravery award for Bondi Beach heroes",
-        "link": "https://www.geo.tv/latest/641589-australia-plans-national-bravery-award-after-bondi-beach-terror-attack"
-      },
-      {
-        "title": "'Stranger Things' makers tease what to expect in finale episode",
-        "link": "https://www.geo.tv/latest/641570-stranger-things-makers-tease-what-to-expect-in-finale-episode"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-26 07:56 UTC"
+  "last_updated": "2025-12-26 08:31 UTC"
 }
