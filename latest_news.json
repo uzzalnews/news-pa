@@ -3,7 +3,7 @@
   "news": {
     "BBC": [
       {
-        "title": "US launches deadly strikes against Islamic State in Nigeria, says Trump",
+        "title": "US launches strikes against Islamic State in Nigeria",
         "link": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Jokic sets new NBA triple-double record in Nuggets OT victory over Wolves",
+        "link": "https://www.aljazeera.com/sports/2025/12/26/jokic-sets-new-nba-triple-double-record-in-nuggets-ot-victory-over-wolves?traffic_source=rss"
+      },
+      {
         "title": "What is remigration, the far-right fringe idea going mainstream?",
         "link": "https://www.aljazeera.com/news/2025/12/26/what-is-remigration-the-far-right-fringe-idea-going-mainstream?traffic_source=rss"
       },
@@ -39,10 +43,6 @@
       {
         "title": "Will the Russia-Ukraine war end in 2026?",
         "link": "https://www.aljazeera.com/news/2025/12/26/will-the-russia-ukraine-war-end-in-2026?traffic_source=rss"
-      },
-      {
-        "title": "Israel killed our dreams, but its genocide could not defeat us",
-        "link": "https://www.aljazeera.com/opinions/2025/12/26/israel-killed-our-dreams-but-its-genocide-could-not-defeat-us?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli air strikes hit Lebanon’s Tuffah region, Bekaa Valley",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-airstrikes-hit-lebanons-tuffah-region-bekaa-valley"
+      },
+      {
+        "title": "Israel attacks Khan Younis by air and sea in latest Gaza ceasefire violations",
+        "link": "https://www.middleeasteye.net/news/israel-attacks-khan-younis-air-and-sea-latest-ceasefire-violations"
+      },
+      {
         "title": "Israeli warplanes carry out intense strikes in Khan Younis, continue shelling Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-warplanes-carry-out-out-intense-air-strikes-khan-younis-continue"
       },
@@ -125,17 +133,17 @@
       {
         "title": "Israeli forces shut Atara checkpoint, disrupt movement north of Ramallah",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-shut-atara-checkpoint-disrupt-movement-north-ramallah"
-      },
-      {
-        "title": "Channel 12: US frustrated with Israel, may announce Gaza peace council next month",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/channel-12-us-frustrated-israel-may-announce-gaza-peace-council-next"
-      },
-      {
-        "title": "Israeli soldier runs over Palestinian man during prayer in West Bank village",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-runs-over-palestinian-man-during-prayer-west-bank"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince William, Princess Kate key plans for 2026 come to light",
+        "link": "https://www.geo.tv/latest/641592-prince-william-princess-kate-key-plans-for-2026-come-to-light"
+      },
+      {
+        "title": "Sabrina Carpenter treats fans to unseen childhood photo during holidays",
+        "link": "https://www.geo.tv/latest/641598-sabrina-carpenter-treats-fans-to-unseen-childhood-photo-during-holidays"
+      },
       {
         "title": "Which actor made surprise cameo in new 'Anaconda' movie?",
         "link": "https://www.geo.tv/latest/641603-which-actor-made-surprise-cameo-in-new-anaconda-movie"
@@ -147,36 +155,28 @@
       {
         "title": "Jensen Huang: How a former dishwasher made Nvidia a $4.46 trillion empire",
         "link": "https://www.geo.tv/latest/641599-jensen-huang-how-a-former-dishwasher-made-nvidia-a-446-trillion-empire"
-      },
-      {
-        "title": "Drew Barrymore embraces aging with makeup-free selfie",
-        "link": "https://www.geo.tv/latest/641596-drew-barrymore-embraces-aging-with-makeup-free-selfie"
-      },
-      {
-        "title": "Malaysia court finds ex-PM Najib Razak guilty of abuse of power in biggest 1MDB trial",
-        "link": "https://www.geo.tv/latest/641594-malaysia-court-finds-ex-pm-najib-razak-guilty-of-abuse-of-power-in-biggest-1mdb-trial"
       }
     ],
     "NDTV": [
       {
-        "title": "Case Against Saurabh Bhardwaj, Other AAP Leaders For 'Fainting' Santa Video",
-        "link": "https://www.ndtv.com/india-news/case-against-saurabh-bhardwaj-other-aap-leaders-for-fainting-santa-video-9959096#publisher=newsstand"
+        "title": "\"India Looks Good From All Sides\": Shubhanshu Shukla To NDTV",
+        "link": "https://www.ndtv.com/india-news/india-looks-good-from-all-sides-shubhanshu-shukla-to-ndtv-9973978#publisher=newsstand"
       },
       {
-        "title": "Telangana Teen Dies By Suicide After Losing Rs 1 Lakh In Online Betting",
-        "link": "https://www.ndtv.com/india-news/telangana-crime-news-online-betting-telangana-teen-dies-by-suicide-after-losing-rs-1-lakh-in-online-betting-9970728#publisher=newsstand"
+        "title": "US Tells Afghan Migrants to Report on Christmas, New Years Day",
+        "link": "https://www.ndtv.com/world-news/us-tells-afghan-migrants-to-report-on-christmas-new-years-day-9982096#publisher=newsstand"
       },
       {
-        "title": "\"Hospital Killed Him\": Indian Man's Wife In Canada Recalls 8-Hour Ordeal",
-        "link": "https://www.ndtv.com/world-news/hospital-killed-him-indian-man-prashant-sreekumars-wife-niharika-sreekumar-in-canada-recalls-8-hour-ordeal-9974834#publisher=newsstand"
+        "title": "Hyderabad Man Sets Wife Ablaze In Front Of Children, Pushes Daughter In Fire",
+        "link": "https://www.ndtv.com/india-news/hyderabad-man-sets-wife-on-fire-in-front-of-children-pushes-daughter-in-fire-9974304#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | SHANTI Bill Deserves Scrutiny - But Support, Too",
-        "link": "https://www.ndtv.com/opinion/shanti-bill-deserves-scrutiny-but-support-too-9978307#publisher=newsstand"
+        "title": "What To Know About Terrorists Targeted By US Airstrikes In Northwest Nigeria",
+        "link": "https://www.ndtv.com/world-news/what-to-know-about-terrorists-targeted-by-us-airstrikes-in-northwest-nigeria-9979352#publisher=newsstand"
       },
       {
-        "title": "H-1B Visa FAQs: All About Team Trump's Wage Policy, How It May Affect Indians",
-        "link": "https://www.ndtv.com/world-news/h-1b-visa-faqs-all-about-team-trumps-wage-policy-how-it-may-affect-indians-9929521#publisher=newsstand"
+        "title": "Brazil's Bolsonaro Releases Letter Backing Son for 2026 Presidential Race",
+        "link": "https://www.ndtv.com/world-news/brazils-bolsonaro-releases-letter-backing-son-for-2026-presidential-race-9981448#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-26 09:20 UTC"
+  "last_updated": "2025-12-26 09:40 UTC"
 }
