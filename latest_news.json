@@ -3,20 +3,20 @@
   "news": {
     "BBC": [
       {
-        "title": "King's Christmas message urges communities to pull together in times of uncertainty",
-        "link": "https://www.bbc.com/news/articles/ce86x326y08o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Royal Family greet crowds after Christmas Day service",
-        "link": "https://www.bbc.com/news/articles/c1w9xrx480wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "US launches 'powerful strikes' against Islamic State in Nigeria, says Trump",
         "link": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "King's Christmas message urges communities to pull together in times of uncertainty",
+        "link": "https://www.bbc.com/news/articles/ce86x326y08o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Two men still missing after Christmas swim as coastguard calls off search",
         "link": "https://www.bbc.com/news/articles/c4g41v0dekgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Britain has a deer problem - leaving damage that costs millions",
+        "link": "https://www.bbc.com/news/articles/c9d93xzey70o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
@@ -24,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump says US launched strike against ISIL in northwest Nigeria",
+        "link": "https://www.aljazeera.com/news/2025/12/25/trump-says-us-launched-strikes-against-isil-in-northwest-nigeria?traffic_source=rss"
+      },
       {
         "title": "Venezuela frees dozens detained during protests against Maduro",
         "link": "https://www.aljazeera.com/news/2025/12/25/venezuela-frees-dozens-detained-during-protests-against-maduro?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Syria says senior ISIL commander killed in Damascus countryside raid",
         "link": "https://www.aljazeera.com/news/2025/12/25/syria-says-senior-isil-commander-killed-in-damascus-countryside-raid?traffic_source=rss"
-      },
-      {
-        "title": "Photos: A Venezuelan family Christmas – from the US dream to poverty",
-        "link": "https://www.aljazeera.com/gallery/2025/12/25/photos-a-venezuelan-family-christmas-from-the-us-dream-to-poverty?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,12 +93,8 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "No Power, No Heat, No Water: Odesa’s Days of Hell Under Russian Fire",
-        "link": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html"
-      },
-      {
-        "title": "Why Russia Is Likely to Reject the New US-Ukrainian Peace Plan",
-        "link": "https://www.nytimes.com/2025/12/25/world/europe/russia-ukraine-peace-plan.html"
+        "title": "U.S. Strikes ISIS in Nigeria After Trump Warned of Attacks on Christians",
+        "link": "https://www.nytimes.com/2025/12/25/us/politics/trump-isis-nigeria-strike.html"
       },
       {
         "title": "Trump Says ‘Housing First’ Failed the Homeless. Here’s What the Evidence Says.",
@@ -111,9 +107,17 @@
       {
         "title": "Trump Has a New Auto Loan Tax Break. Here’s Who Could Benefit.",
         "link": "https://www.nytimes.com/2025/12/25/us/politics/trump-auto-loan-deduction-benefits.html"
+      },
+      {
+        "title": "Judge Blocks Detention of British Researcher Who Scrutinizes Online Hate",
+        "link": "https://www.nytimes.com/2025/12/25/us/politics/imran-ahmed-judge-order.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Five Israeli settlers arrested after they injure an eight-month-old in attack on Palestinian town",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/five-israeli-settlers-arrested-after-they-injure-eight-month-old-attack"
+      },
       {
         "title": "Israelis kill two additional Palestinians crossing the 'Yellow Line' on Christmas Day",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israelis-kill-two-additional-palestinians-crossing-yellow-line-christmas"
@@ -129,13 +133,13 @@
       {
         "title": "Pope Leo addresses suffering of Palestinians and others in his Christmas address",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pope-leo-addresses-suffering-palestinians-and-others-his-christmas"
-      },
-      {
-        "title": "Trump-backed candidate of Palestinian origin wins Honduras presidential election",
-        "link": "https://www.middleeasteye.net/news/trump-backed-candidate-palestinian-origin-wins-honduras-presidential-election"
       }
     ],
     "GeoTV": [
+      {
+        "title": "US launches strike against Daesh militants in northwest Nigeria",
+        "link": "https://www.geo.tv/latest/641557-us-launches-strike-against-daesh-militants-in-northwest-nigeria"
+      },
       {
         "title": "Helicopter crash on Tanzania's Mount Kilimanjaro kills five: aviation authority",
         "link": "https://www.geo.tv/latest/641556-helicopter-crash-on-tanzanias-mount-kilimanjaro-kills-five-aviation-authority"
@@ -151,13 +155,17 @@
       {
         "title": "Martin Scorsese opens up on Rob and Michele Reiner's deaths",
         "link": "https://www.geo.tv/latest/641553-martin-scorsese-opens-up-on-rob-and-michele-reiners-deaths"
-      },
-      {
-        "title": "Jennifer Lopez shares glimpse from Christmas Eve celebration",
-        "link": "https://www.geo.tv/latest/641549-jennifer-lopez-shares-glimpse-from-christmas-eve-celebration"
       }
     ],
     "NDTV": [
+      {
+        "title": "Trump Says US Launched \"Numerous\" Deadly Strikes On ISIS In Nigeria",
+        "link": "https://www.ndtv.com/world-news/us-launches-strikes-against-isis-terrorists-in-nigeria-donald-trump-9966992#publisher=newsstand"
+      },
+      {
+        "title": "VHP, Bajrang Dal Activists Arrested For Christmas Vandalism In Assam",
+        "link": "https://www.ndtv.com/india-news/vhp-bajrang-dal-activists-arrested-for-christmas-vandalism-in-assam-9967593#publisher=newsstand"
+      },
       {
         "title": "1 Killed, 5 Injured After Helium Balloon Cylinder Explodes In Mysuru: Cops",
         "link": "https://www.ndtv.com/india-news/1-killed-5-injured-after-helium-balloon-cylinder-explodes-in-mysuru-cops-9965604#publisher=newsstand"
@@ -169,17 +177,13 @@
       {
         "title": "\"Tyranny Is Booming\" In US: Jimmy Kimmel Slams Trump In Christmas Message",
         "link": "https://www.ndtv.com/world-news/tyranny-is-booming-in-us-jimmy-kimmel-slams-trump-in-christmas-message-9963718#publisher=newsstand"
-      },
-      {
-        "title": "16-Year-Old Girl Found Dead In Maharashtra Government School Hostel",
-        "link": "https://www.ndtv.com/india-news/16-year-old-girl-student-at-govt-run-school-for-tribal-children-dies-by-suicide-9962272#publisher=newsstand"
-      },
-      {
-        "title": "18-Year-Old Graphic Designer Arrested For Theft, Says He Lost Job Due To AI",
-        "link": "https://www.ndtv.com/india-news/18-year-old-graphic-designer-arrested-for-theft-says-he-lost-job-due-to-ai-9959601#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "US carries out strikes on Nigeria targeting Islamic State militants, Trump says",
+        "link": "https://www.theguardian.com/us-news/2025/dec/25/us-carries-out-airstrikes-against-islamic-state-terrorist-scum-in-nigeria-trump-says"
+      },
       {
         "title": "Hundreds of thousands newly displaced as Islamic State insurgency expands in Mozambique",
         "link": "https://www.theguardian.com/world/2025/dec/25/displaced-islamic-state-insurgency-mozambique"
@@ -195,12 +199,8 @@
       {
         "title": "Freed Nigerian schoolchildren to be reunited with families",
         "link": "https://www.theguardian.com/world/2025/dec/22/freed-nigerian-schoolchildren-set-to-be-reunited-with-families"
-      },
-      {
-        "title": "Another 130 kidnapped schoolchildren released in Nigeria",
-        "link": "https://www.theguardian.com/world/2025/dec/21/more-kidnapped-schoolchildren-freed-in-nigeria"
       }
     ]
   },
-  "last_updated": "2025-12-25 23:53 UTC"
+  "last_updated": "2025-12-26 01:20 UTC"
 }
