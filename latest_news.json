@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Nigeria vs Tunisia – AFCON 2025",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/27/live-nigeria-vs-tunisia-afcon-2025?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,19 @@
         "link": "https://www.bbc.com/news/articles/c62dyp9pgd2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Family cremates wrong body after hospital mistake",
-        "link": "https://www.bbc.com/news/articles/ce8q9y8z958o?at_medium=RSS&at_campaign=rss"
+        "title": "Both these influencers are successful - but only one is human",
+        "link": "https://www.bbc.com/news/articles/ce3wyplnev1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Saudi coalition will counter Yemen separatists undermining de-escalation",
+        "link": "https://www.aljazeera.com/news/2025/12/27/saudi-says-it-will-militarily-back-yemens-government-against-separatists?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Nigeria vs Tunisia – AFCON 2025",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/27/live-nigeria-vs-tunisia-afcon-2025?traffic_source=rss"
+      },
       {
         "title": "At least 15 dead, 19 injured in Guatemala as bus plunges into ravine",
         "link": "https://www.aljazeera.com/news/2025/12/27/at-least-15-dead-19-injured-in-guatemala-as-bus-plunges-into-ravine?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Israeli forces take over homes, impose curfew on West Bank’s Qabatiya",
         "link": "https://www.aljazeera.com/news/2025/12/27/israeli-forces-take-over-homes-impose-curfew-on-west-banks-qabatiya?traffic_source=rss"
-      },
-      {
-        "title": "Analysis: ISIL attacks could undermine US-Syria security collaboration",
-        "link": "https://www.aljazeera.com/features/2025/12/27/analysis-isil-attacks-could-undermine-us-syria-security-collaboration?traffic_source=rss"
-      },
-      {
-        "title": "A year on, Israel still holds Gaza doctor Hussam Abu Safia without charge",
-        "link": "https://www.aljazeera.com/news/2025/12/27/a-year-on-israel-still-holds-gaza-doctor-hussam-abu-safia-without-charge?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1963564/former-sbp-governor-dr-shamshad-akhtar-passes-away"
       },
       {
+        "title": "‘No connection with party’: PTI distances itself from UK protester as party faces backlash",
+        "link": "https://www.dawn.com/news/1963580/no-connection-with-party-pti-distances-itself-from-uk-protester-as-party-faces-backlash"
+      },
+      {
         "title": "KP CM Afridi doubts government’s talks offer, says efforts underway to start PTI street movement",
         "link": "https://www.dawn.com/news/1963556/kp-cm-afridi-doubts-governments-talks-offer-says-efforts-underway-to-start-pti-street-movement"
       },
       {
         "title": "Dar hails Pakistan’s success in May conflict with India",
         "link": "https://www.dawn.com/news/1963562/dar-hails-pakistans-success-in-may-conflict-with-india"
-      },
-      {
-        "title": "Netanyahu to meet Trump in US Monday: Israeli official",
-        "link": "https://www.dawn.com/news/1963578/netanyahu-to-meet-trump-in-us-monday-israeli-official"
       }
     ],
     "APNews": [],
@@ -137,6 +143,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Kris Jenner, Khloe Kardashian share highlights from annual grand party",
+        "link": "https://www.geo.tv/latest/641816-kris-jenner-khloe-kardashian-share-highlights-from-annual-grand-party"
+      },
+      {
         "title": "Princess Anne missed Peter Phillips the most as he flew the nest",
         "link": "https://www.geo.tv/latest/641819-princess-anne-missed-peter-phillips-the-most-as-he-flew-the-nest"
       },
@@ -151,10 +161,6 @@
       {
         "title": "Andrew wins royal lodge stay: No exit in sight",
         "link": "https://www.geo.tv/latest/641813-andrews-stay-at-royal-lodge-gets-extension"
-      },
-      {
-        "title": "'Emilia Perez' star names one trend which remained her focus in 2025",
-        "link": "https://www.geo.tv/latest/641814-emilia-perez-star-names-one-trend-which-remained-her-focus-in-2025"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-27 16:30 UTC"
+  "last_updated": "2025-12-27 16:49 UTC"
 }
