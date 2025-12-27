@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks",
+        "link": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Thailand and Cambodia agree ceasefire after weeks of deadly clashes",
         "link": "https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,13 @@
       {
         "title": "UK to offer military 'gap year' to boost recruitment",
         "link": "https://www.bbc.com/news/articles/c62dyp9pgd2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Family of man missing at sea pay tribute",
-        "link": "https://www.bbc.com/news/articles/cdrn84d0k82o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Thailand-Cambodia ceasefire starts, first 72 hours seen as critical test",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/27/thailand-cambodia-ceasefire-starts-first-72-hours-seen-as-critical-test?traffic_source=rss"
+      },
       {
         "title": "Turkiye holds military ceremony for Libyan army chief killed in crash",
         "link": "https://www.aljazeera.com/news/2025/12/27/turkiye-holds-military-ceremony-for-libyan-army-chief-killed-in-crash?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "UK youth to be offered military ‘gap year’ in bid to boost defence: Report",
         "link": "https://www.aljazeera.com/news/2025/12/27/uk-youth-to-be-offered-military-gap-year-in-bid-to-boost-defence-report?traffic_source=rss"
-      },
-      {
-        "title": "Central African Republic election: Who’s running and what’s at stake?",
-        "link": "https://www.aljazeera.com/news/2025/12/27/central-african-republic-election-whos-running-and-whats-at-stake?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -110,10 +110,18 @@
       },
       {
         "title": "Karoline Leavitt Says She’s Expecting Her Second Child",
-        "link": "https://www.nytimes.com/2025/12/26/us/karoline-leavitt-says-shes-expecting-her-second-child.html"
+        "link": "https://www.nytimes.com/2025/12/26/us/karoline-leavitt-pregnant-second-child.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Gaza live: Israeli forces kill Palestinian in Jabalia as violations continue",
+        "link": "https://www.middleeasteye.net/live/gaza-live-israeli-forces-kill-palestinian-jabalia-violations-continue"
+      },
+      {
+        "title": "Morning recap",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-129"
+      },
       {
         "title": "The African Union, Somalia and Saudi Arabia condemn Israel's recognition of Somaliland",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/african-union-somalia-and-saudi-arabia-condemn-israels-recognition"
@@ -125,36 +133,28 @@
       {
         "title": "Israeli soldiers kill Palestinian man sitting outside of a school near Gaza City",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-kill-palestinian-man-sitting-outside-school-near-gaza"
-      },
-      {
-        "title": "Israeli settlers attack farmers near Ramallah, following earlier attack near Tubas",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-farmers-near-ramallah-following-earlier-attack"
-      },
-      {
-        "title": "Hundreds protest at London shopping mall in support of imprisoned Pro-Palestine activists",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hundreds-protest-shopping-mall-london-support-imprisoned-pro-palestine"
       }
     ],
     "GeoTV": [
       {
+        "title": "Princess Charlotte reacts as fan tells George ‘Diana would be proud'",
+        "link": "https://www.geo.tv/latest/641769-princess-charlotte-reacts-as-fan-tells-george-diana-would-be-proud"
+      },
+      {
+        "title": "John Cusack shares rare insight on 'Say Anything' boombox moment",
+        "link": "https://www.geo.tv/latest/641767-john-cusack-shares-rare-insight-on-say-anything-boombox-moment"
+      },
+      {
+        "title": "WATCH: Leopard spotted at Islamabad varsity as wildlife officials confirm presence",
+        "link": "https://www.geo.tv/latest/641764-leopard-spotted-at-iiu-as-wildlife-officials-confirm-presence"
+      },
+      {
+        "title": "New York's new social media law mandates mental health warnings",
+        "link": "https://www.geo.tv/latest/641766-new-york-mandates-mental-health-warnings-on-social-media-platforms"
+      },
+      {
         "title": "The Cure guitarist Perry Bamonte dies at 65",
         "link": "https://www.geo.tv/latest/641761-the-cure-guitarist-perry-bamonte-dies-at-65"
-      },
-      {
-        "title": "Royal bloodline that faded by choice, not scandal",
-        "link": "https://www.geo.tv/latest/641760-royal-bloodline-that-faded-by-choice-not-scandal"
-      },
-      {
-        "title": "James Cameron makes important announcement regarding future of 'Avatar' series",
-        "link": "https://www.geo.tv/latest/641763-james-cameron-makes-important-announcement-regarding-future-of-avatar-series"
-      },
-      {
-        "title": "AI coding assistant Codex and Claude's usage limits increased amid Christmas holiday",
-        "link": "https://www.geo.tv/latest/641762-ai-coding-assistant-codex-and-claudes-usage-limits-increased-amid-christmas-holiday"
-      },
-      {
-        "title": "PTI deletes X post on 'provocative' remarks against CDF Munir during Bradford protest",
-        "link": "https://www.geo.tv/latest/641753-pti-deletes-x-post-on-provocative-remarks-against-cdf-munir-during-bradford-protest"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-27 09:53 UTC"
+  "last_updated": "2025-12-27 10:16 UTC"
 }
