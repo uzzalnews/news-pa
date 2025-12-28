@@ -1,10 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Sabalenka vs Kyrgios: ‘Battle of the Sexes’ tennis match",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/28/live-sabalenka-vs-kyrgios-battle-of-the-sexes-tennis-match?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
         "title": "The blonde bombshell who revolutionised cinema in the 1950s",
         "link": "https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Egyptian dissident should be deported from UK, Tories say",
+        "link": "https://www.bbc.com/news/articles/cg5mr0gdnmeo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Zelensky says Russia 'doesn't want peace', ahead of Florida meeting with Trump",
@@ -15,15 +25,23 @@
         "link": "https://www.bbc.com/news/articles/cx2e7w03067o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Starmer criticised for welcoming freed Egyptian activist to UK",
-        "link": "https://www.bbc.com/news/articles/cg5mr0gdnmeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Film lookahead: 20 highlights to watch out for in 2026",
         "link": "https://www.bbc.com/news/articles/cp8z60j7438o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Gaza storm kills Palestinian woman as Israeli curbs on aid compound misery",
+        "link": "https://www.aljazeera.com/news/2025/12/28/gaza-storm-kills-palestinian-woman-as-israeli-curbs-on-aid-compound-misery?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Sabalenka vs Kyrgios: ‘Battle of the Sexes’ tennis match",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/28/live-sabalenka-vs-kyrgios-battle-of-the-sexes-tennis-match?traffic_source=rss"
+      },
+      {
+        "title": "Somalia condemns Israel’s recognition of Somaliland as ‘naked invasion’",
+        "link": "https://www.aljazeera.com/news/2025/12/28/somalia-condemns-israels-recognition-of-somaliland-as-naked-invasion?traffic_source=rss"
+      },
       {
         "title": "Video: Israel slammed for recognising breakaway region of Somaliland",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/28/video-israel-slammed-for-recognising-breakaway-region-of-somaliland?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Libya lays army chief of staff to rest in Misrata",
         "link": "https://www.aljazeera.com/news/2025/12/28/libya-lays-army-chief-of-staff-to-rest-in-misrata?traffic_source=rss"
-      },
-      {
-        "title": "Defence spending has “fundamentally rebalanced” NATO",
-        "link": "https://www.aljazeera.com/video/quotable/2025/12/28/defence-spending-has-fundamentally-rebalanced-nato?traffic_source=rss"
-      },
-      {
-        "title": "UN’s Amina Mohammed: Why women pay the highest price in war",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2025/12/28/uns-amina-mohammed-why-women-pay-the-highest-price-in-war?traffic_source=rss"
-      },
-      {
-        "title": "Week in Pictures: From Gaza rains, France farmers protests to Myanmar vote",
-        "link": "https://www.aljazeera.com/gallery/2025/12/28/week-in-pictures-from-gaza-rains-france-farmers-protests-to-myanmar-vote?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/1963737/party-would-move-towards-dialogue-after-ensuring-level-playing-field-provided-through-street-movement-pti"
       },
       {
-        "title": "PCB to take over owner-less Multan Sultans for next PSL season",
-        "link": "https://www.dawn.com/news/1963738/pcb-to-take-over-owner-less-multan-sultans-for-next-psl-season"
+        "title": "Sikh activists clash with Hindu protesters outside Bangladeshi High Commission in London",
+        "link": "https://www.dawn.com/news/1963739/sikh-activists-clash-with-hindu-protesters-outside-bangladeshi-high-commission-in-london"
       },
       {
-        "title": "Bangladesh police say student leader’s killers fled to India",
-        "link": "https://www.dawn.com/news/1963734/bangladesh-police-say-student-leaders-killers-fled-to-india"
+        "title": "PCB to take over owner-less Multan Sultans for next PSL season",
+        "link": "https://www.dawn.com/news/1963738/pcb-to-take-over-owner-less-multan-sultans-for-next-psl-season"
       }
     ],
     "APNews": [],
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Taylor Swift's dad Scott Swift lands in backlash after viral clip",
+        "link": "https://www.geo.tv/latest/641931-taylor-swifts-dad-scott-swift-lands-in-backlash-after-viral-clip"
+      },
+      {
+        "title": "Best PlayStation 5 Games for 2026: The must-play adventures",
+        "link": "https://www.geo.tv/latest/641933-best-playstation-5-games-for-2026-the-must-play-adventures"
+      },
+      {
+        "title": "Meghan Markle father talks about Christmas gift in health update",
+        "link": "https://www.geo.tv/latest/641928-meghan-markle-father-talks-about-christmas-gift-in-health-update"
+      },
+      {
         "title": "Brigitte Bardot dies at 91 leaving behind legendary era",
         "link": "https://www.geo.tv/latest/641932-brigitte-bardot-dies-at-91-leaving-behind-legendary-era"
       },
       {
         "title": "Selena Gomez hits salon before ringing into the New Year",
         "link": "https://www.geo.tv/latest/641916-selena-gomez-hits-salon-before-ringing-into-the-new-year"
-      },
-      {
-        "title": "Kim Kardashian's daughter North gives glimpse into close bond with stepmom",
-        "link": "https://www.geo.tv/latest/641930-kim-kardashians-daughter-north-gives-glimpse-into-close-bond-with-stepmom"
-      },
-      {
-        "title": "King Charles 'keeps close eye' on Prince Harry, Meghan Markle amid PR crisis",
-        "link": "https://www.geo.tv/latest/641926-king-charles-keeps-close-eye-on-prince-harry-meghan-markle-amid-pr-crisis"
-      },
-      {
-        "title": "Pod of dolphins spotted in Gwadar amid Noctiluca bloom",
-        "link": "https://www.geo.tv/latest/641921-pod-of-dolphins-spotted-in-gwadar-amid-noctiluca-bloom"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-28 13:19 UTC"
+  "last_updated": "2025-12-28 13:43 UTC"
 }
