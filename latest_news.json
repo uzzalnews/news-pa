@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "24-Hour Wait For Urgent Appointment: Why Canada's Healthcare In Under Stress",
+      "link": "https://www.ndtv.com/world-news/prashant-sreekumar-case-aftermath-24-hour-wait-for-urgent-appointment-why-canadas-healthcare-in-under-stress-10052481#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,7 +13,7 @@
         "link": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Egyptian dissident sorry for tweets as Tories push for deportation from UK",
+        "title": "Egyptian dissident apologises for tweets as Tories push for UK deportation",
         "link": "https://www.bbc.com/news/articles/c0l93lx1rx3o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -19,11 +25,19 @@
         "link": "https://www.bbc.com/news/articles/cj4qp17e1lqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Claudia teases 'extraordinary' Traitors twist as fans speculate about new red cloak",
-        "link": "https://www.bbc.com/news/articles/cgexg75y4zgo?at_medium=RSS&at_campaign=rss"
+        "title": "Man shot dead by police after two-car crash",
+        "link": "https://www.bbc.com/news/articles/cz949nglvnlo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US slashes UN humanitarian aid to $2bn, huge cut as Trump demands reforms",
+        "link": "https://www.aljazeera.com/news/2025/12/29/us-slashes-un-humanitarian-aid-to-2bn-huge-cut-as-trump-demands-reforms?traffic_source=rss"
+      },
+      {
+        "title": "How monopolies caused havoc around the world in 2025",
+        "link": "https://www.aljazeera.com/economy/2025/12/29/how-monopolies-caused-havoc-around-the-world-in-2025?traffic_source=rss"
+      },
       {
         "title": "Syrian gov’t troops deployed to Latakia, Tartous after deadly clashes",
         "link": "https://www.aljazeera.com/news/2025/12/29/syrian-govt-troops-deployed-to-latakia-tartous-after-deadly-clashes?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "S Korea’s ex-first lady accused of taking bribes, meddling in state affairs",
         "link": "https://www.aljazeera.com/news/2025/12/29/s-koreas-ex-first-lady-accused-of-taking-bribes-meddling-in-state-affairs?traffic_source=rss"
-      },
-      {
-        "title": "Seven Turkish police officers wounded in clash with ISIL fighters: Report",
-        "link": "https://www.aljazeera.com/news/2025/12/29/seven-turkish-police-officers-wounded-in-clash-with-isil-fighters-report?traffic_source=rss"
-      },
-      {
-        "title": "How do you carry a home that keeps breaking?",
-        "link": "https://www.aljazeera.com/features/2025/12/29/how-do-you-carry-a-home-that-keeps-breaking?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,16 +80,16 @@
         "link": "https://www.dawn.com/news/1963908/weaponisation-of-water-neither-sane-nor-acceptable-sherry-says-after-india-approves-hydel-project-on-chenab"
       },
       {
+        "title": "Pakistan expresses concern over persecution of minorities in India following reports of vandalism marring Christmas festivities",
+        "link": "https://www.dawn.com/news/1963919/pakistan-expresses-concern-over-persecution-of-minorities-in-india-following-reports-of-vandalism-marring-christmas-festivities"
+      },
+      {
         "title": "YouTuber Rajab Butt physically assaulted at sessions court in Karachi",
         "link": "https://www.dawn.com/news/1963909/youtuber-rajab-butt-physically-assaulted-at-sessions-court-in-karachi"
       },
       {
-        "title": "NDMA tells authorities to ensure preparedness ahead of expected cold wave",
-        "link": "https://www.dawn.com/news/1963911/ndma-tells-authorities-to-ensure-preparedness-ahead-of-expected-cold-wave"
-      },
-      {
-        "title": "Muttahida groups in war of words over Dr Imran Farooq’s murder",
-        "link": "https://www.dawn.com/news/1963816/muttahida-groups-in-war-of-words-over-dr-imran-farooqs-murder"
+        "title": "Speaker says law enforcement agencies to probe chaos during KP CM’s visit to Punjab Assembly",
+        "link": "https://www.dawn.com/news/1963914/speaker-says-law-enforcement-agencies-to-probe-chaos-during-kp-cms-visit-to-punjab-assembly"
       },
       {
         "title": "Bondi Beach attack hero says wanted to protect ‘innocent people’",
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Houthis say any Israeli presence in Somalia would be targeted militarily",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-any-israeli-presence-somalia-would-be-targeted-militarily"
+      },
+      {
         "title": "Netanyahu arrives in Florida to meet Trump",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-arrives-florida-meet-trump"
       },
@@ -129,54 +139,50 @@
       {
         "title": "Palestinian media report Israeli strikes on Khan Younis, Rafah, Bureij camp",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-media-report-israeli-strikes-khan-younis-rafah-bureij-camp"
-      },
-      {
-        "title": "Gaza officials say 4,000 embryos destroyed in Israeli bombing, births down 40%",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-officials-say-4000-embryos-destroyed-israeli-bombing-births-down-40"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles emotional wish for Archie, Lilibet revealed",
-        "link": "https://www.geo.tv/latest/642030-king-charles-emotional-wish-for-archie-lilibet-revealed"
+        "title": "Inside Blake Lively's cozy Christmas with Ryan Reynolds amid Justin Baldoni drama",
+        "link": "https://www.geo.tv/latest/642042-inside-blake-livelys-cozy-christmas-with-ryan-reynolds-amid-justin-baldoni-drama"
       },
       {
-        "title": "Former rapper Balen Shah to run for Nepal PM in March 5 elections",
-        "link": "https://www.geo.tv/latest/642037-former-rapper-balen-shah-to-run-for-nepal-pm-in-march-5-elections"
+        "title": "'Weaponisation of water': PPP's Sherry Rehman slams India for approving hydropower project on Chenab",
+        "link": "https://www.geo.tv/latest/642040-weaponisation-of-water-ppps-shery-rehman-slams-india-for-approving-hydropower-project-on-chenab"
       },
       {
-        "title": "Cristiano Ronaldo bags Best Middle East Player award for third consecutive time",
-        "link": "https://www.geo.tv/latest/642020-cristiano-ronaldo-bags-bestmiddle-east-player-award-for-third-consecutive-time"
+        "title": "Palace confirms Princess Anne's prominent role as she leads royal duties",
+        "link": "https://www.geo.tv/latest/642043-palace-confirms-princess-annes-prominent-role-as-she-leads-royal-duties"
       },
       {
-        "title": "Enrique Iglesias shares first-ever photo of all four kids together",
-        "link": "https://www.geo.tv/latest/642028-enrique-iglesias-shares-first-ever-photo-of-all-four-kids-together"
+        "title": "Andrew Garfield reveals ONE underrated film that he is proud of",
+        "link": "https://www.geo.tv/latest/642039-andrew-garfield-reveals-one-underrated-film-that-he-is-proud-of"
       },
       {
-        "title": "NDMA issues alert as westerly wave set to enter Pakistan",
-        "link": "https://www.geo.tv/latest/642035-ndma-issues-alert-as-westerly-wave-set-to-enter-pakistan"
+        "title": "'Deport Nicki Minaj' petition goes viral amid MAGA backlash: here's how netizens react",
+        "link": "https://www.geo.tv/latest/642024-deport-nicki-minaj-petition-goes-viral-amid-maga-backlash"
       }
     ],
     "NDTV": [
       {
-        "title": "Live Updates: \"Public Servant Question Irrelevant,\" Says Chief Justice During Unnao Hearing",
-        "link": "https://www.ndtv.com/india-news/live-supreme-court-plea-against-unnao-rape-convict-kuldeep-singh-sengar-sentence-suspension-protests-10052304#publisher=newsstand"
+        "title": "Teachers In Delhi Have A New Job: Count Stray Dogs",
+        "link": "https://www.ndtv.com/delhi-news/teachers-in-delhi-have-a-new-job-count-stray-dogs-10052706#publisher=newsstand"
       },
       {
-        "title": "Delivery Man Arrested For Sexually Harassing Woman At Bengaluru Mall",
-        "link": "https://www.ndtv.com/bangalore-news/delivery-man-arrested-for-sexually-harassing-woman-during-christmas-celebration-in-bengaluru-mall-10052123#publisher=newsstand"
+        "title": "\"We're Answerable To Survivor\": What CBI, Supreme Court Said In Unnao Rape Case Hearing",
+        "link": "https://www.ndtv.com/india-news/kuldeep-singh-sengar-unnao-rape-case-what-cbi-supreme-court-said-during-hearing-were-accountable-to-survivor-10052467#publisher=newsstand"
       },
       {
-        "title": "Assam Minor Raped, Threatened With Acid Attack For Refusing Sexual Advances",
-        "link": "https://www.ndtv.com/india-news/assam-minor-raped-threatened-with-acid-attack-for-refusing-sexual-advances-10052305#publisher=newsstand"
+        "title": "24-Hour Wait For Urgent Appointment: Why Canada's Healthcare In Under Stress",
+        "link": "https://www.ndtv.com/world-news/prashant-sreekumar-case-aftermath-24-hour-wait-for-urgent-appointment-why-canadas-healthcare-in-under-stress-10052481#publisher=newsstand"
       },
       {
-        "title": "'Full-Scale War With West': Iran President Ahead Of Trump-Netanyahu Meet",
-        "link": "https://www.ndtv.com/world-news/full-scale-war-with-west-iran-president-ahead-of-trump-netanyahu-meet-10051922#publisher=newsstand"
+        "title": "'Adapt, Shrink Or Die': US Pledges $2 Billion For UN Aid As Trump Cuts Funds",
+        "link": "https://www.ndtv.com/world-news/adapt-shrink-or-die-us-pledges-2-billion-for-un-aid-as-trump-cuts-funds-10051807#publisher=newsstand"
       },
       {
-        "title": "128 Flights Cancelled, 8 Diverted Due To Fog At Delhi Airport",
-        "link": "https://www.ndtv.com/delhi-news/delhi-air-pollution-delhi-air-quality-delhi-fog-delhi-airport-delhi-flights-cancellation-128-flights-cancelled-8-diverted-due-to-fog-at-delhi-airport-10052114#publisher=newsstand"
+        "title": "Zohran Mamdani Has Bold Promises. Can He Fulfill Them As New York City Mayor?",
+        "link": "https://www.ndtv.com/world-news/zohran-mamdani-has-bold-promises-can-he-fulfill-them-as-new-york-city-mayor-10052503#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-29 07:53 UTC"
+  "last_updated": "2025-12-29 08:27 UTC"
 }
