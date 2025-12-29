@@ -3,7 +3,7 @@
   "news": {
     "BBC": [
       {
-        "title": "Trump says progress made in Ukraine talks but 'thorny issues' remain",
+        "title": "US offered Ukraine 15-year security guarantee, Zelensky says",
         "link": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -15,7 +15,7 @@
         "link": "https://www.bbc.com/news/articles/c0l93dpl6dyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Mother and two children killed in Boxing Day blaze",
+        "title": "Mother and two children die in Boxing Day blaze",
         "link": "https://www.bbc.com/news/articles/c0mpmw42jx4o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -24,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "DR Congo fan holds ‘Lumumba pose’ for full AFCON match",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/29/dr-congo-fan-holds-lumumba-pose-for-full-afcon-match?traffic_source=rss"
+      },
       {
         "title": "Thailand-Cambodia ceasefire holds as frontline shows aftermath of fighting",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/29/thailand-cambodia-ceasefire-holds-as-frontline-shows-aftermath-of-fighting?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Russia may gain more than lose from a US intervention in Venezuela",
         "link": "https://www.aljazeera.com/opinions/2025/12/29/russia-may-gain-more-than-lose-from-a-us-intervention-in-venezuela?traffic_source=rss"
-      },
-      {
-        "title": "Starvation, ‘ghost towns’ plague Sudan as al-Burhan demands RSF surrender",
-        "link": "https://www.aljazeera.com/news/2025/12/29/starvation-ghost-towns-plague-sudan-as-al-burhan-demands-rsf-surrender?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,8 +78,8 @@
         "link": "https://www.dawn.com/news/1963922/appeal-filed-against-ex-spymaster-faiz-hameeds-conviction-by-military-court-lawyer"
       },
       {
-        "title": "Lawyer requests inquiry into IHC judge for misconduct, abuse of power in son’s hit-and-run case",
-        "link": "https://www.dawn.com/news/1963931/lawyer-requests-inquiry-into-ihc-judge-for-misconduct-abuse-of-power-in-sons-hit-and-run-case"
+        "title": "Lawyer requests inquiry into IHC judge’s ‘misconduct, abuse of power’ in son’s hit-and-run case",
+        "link": "https://www.dawn.com/news/1963931/lawyer-requests-inquiry-into-ihc-judges-misconduct-abuse-of-power-in-sons-hit-and-run-case"
       },
       {
         "title": "‘Weaponisation of water neither sane nor acceptable,’ Sherry says after India approves hydel project on Chenab",
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Protests erupt in Somaliland after Israeli recognition, expressing solidarity with Palestine",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/protests-erupt-somaliland-after-israeli-recognition-expressing"
+      },
+      {
         "title": "Protests erupt in breakaway region of Somaliland after Israeli recognition",
         "link": "https://www.middleeasteye.net/news/protests-erupt-somaliland-after-israel-recognition"
       },
@@ -129,32 +133,28 @@
       {
         "title": "Three Palestinians wounded as Israeli strikes hit Jabalia, Gaza City, Rafah",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-palestinians-wounded-israeli-strikes-hit-jabalia-gaza-city-rafah"
-      },
-      {
-        "title": "Palestinians 'drowning' as rain and wind uproot more Gaza tents",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-drowning-rain-and-wind-uproot-more-gaza-tents"
       }
     ],
     "GeoTV": [
       {
+        "title": "Royal family issues update on Queen Camilla's beloved partner: 'Busy year'",
+        "link": "https://www.geo.tv/latest/642098-royal-family-issues-update-on-queen-camilla-beloved-partner-busy-year"
+      },
+      {
+        "title": "Travis Barker's daughter shows off 'crazy' Christmas gifts from Kardashians",
+        "link": "https://www.geo.tv/latest/642118-travis-barkers-daughter-shows-off-crazy-christmas-gifts-from-kardashians"
+      },
+      {
+        "title": "Anthony Joshua injured, two dead in Nigeria car crash after Jake Paul bout",
+        "link": "https://www.geo.tv/latest/642121-anthony-joshua-injured-two-dead-in-nigeria-car-crash-after"
+      },
+      {
+        "title": "Pakistan Army major martyred, five terrorists killed in KP IBO: ISPR",
+        "link": "https://www.geo.tv/latest/642119-pakistan-army-major-martyred-five-terrorists-killed-in-kp-ibo-ispr"
+      },
+      {
         "title": "Brigitte Bardot last Instagram post days before her passing",
         "link": "https://www.geo.tv/latest/642120-brigitte-bardot-last-instagram-post-days-before-her-passing"
-      },
-      {
-        "title": "Prince Harry, Meghan Markle skewered on TV show over huge mistake",
-        "link": "https://www.geo.tv/latest/642116-meghan-markles-car-crash-hollywood-mistake-which-could-cost-her-everything"
-      },
-      {
-        "title": "Who is mysterious GTA 6 character appearing twice in trailer 2? here's what you need to know",
-        "link": "https://www.geo.tv/latest/642105-who-is-mysterious-gta-6-character-appearing-twice-in-new-trailer-fans-puzzle"
-      },
-      {
-        "title": "Jen Affleck move to tears over thoughtful Christmas gift from husband",
-        "link": "https://www.geo.tv/latest/642081-jen-affleck-move-to-tears-over-thoughtful-christmas-gift-from-husband"
-      },
-      {
-        "title": "Meghan Markle's holiday rules leave Archie laughing",
-        "link": "https://www.geo.tv/latest/642112-meghan-markles-holiday-rules-leave-archie-laughing"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-29 13:26 UTC"
+  "last_updated": "2025-12-29 13:54 UTC"
 }
