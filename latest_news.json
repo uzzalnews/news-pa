@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Uganda vs Nigeria – AFCON 2025",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/30/live-uganda-vs-nigeria-afcon-2025?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Iran warns of ‘severe’ response in wake of Trump’s new strikes threat",
+        "link": "https://www.aljazeera.com/news/2025/12/30/iran-warns-of-severe-response-in-wake-of-trumps-new-strikes-threat?traffic_source=rss"
+      },
+      {
+        "title": "Have Russian claims of Ukraine attack on Putin home ended hopes for peace?",
+        "link": "https://www.aljazeera.com/news/2025/12/30/have-russian-claims-of-ukraine-attack-on-putin-home-ended-hopes-for-peace?traffic_source=rss"
+      },
+      {
+        "title": "Trump threatens Hamas while praising Israel on Gaza ceasefire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/30/trump-threatens-hamas-while-praising-israel-on-gaza-ceasefire?traffic_source=rss"
+      },
+      {
         "title": "New Syrian banknotes unveiled amid push to rebuild economy",
         "link": "https://www.aljazeera.com/video/newsfeed/2025/12/30/new-syrian-banknotes-unveiled-amid-push-to-rebuild-economy?traffic_source=rss"
       },
       {
         "title": "What is Lebanon’s ‘gap law’ that attempts to end the financial crisis?",
         "link": "https://www.aljazeera.com/news/2025/12/30/what-is-lebanons-gap-law-that-attempts-to-end-the-financial-crisis?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Uganda vs Nigeria – AFCON 2025",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/30/live-uganda-vs-nigeria-afcon-2025?traffic_source=rss"
-      },
-      {
-        "title": "Displaced Palestinians lose shelters as heavy rain floods camp",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/30/displaced-palestinians-lose-shelters-as-heavy-rain-floods-camp?traffic_source=rss"
-      },
-      {
-        "title": "Thailand delays release ‍of Cambodian troops over alleged truce breaches",
-        "link": "https://www.aljazeera.com/news/2025/12/30/thailand-delays-release-of-cambodian-troops-over-alleged-truce-breaches?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "UAE rebuffs Saudi accusations of shipping weapons to Yemen separatists as tensions flare between Gulf neighbours",
+        "link": "https://www.dawn.com/news/1964103/uae-rebuffs-saudi-accusations-of-shipping-weapons-to-yemen-separatists-as-tensions-flare-between-gulf-neighbours"
+      },
+      {
         "title": "Arif Habib sees PIA privatisation creating more jobs in airline",
         "link": "https://www.dawn.com/news/1964099/arif-habib-sees-pia-privatisation-creating-more-jobs-in-airline"
       },
@@ -90,10 +88,6 @@
       {
         "title": "US warns Indians of ‘significant criminal penalties’ for illegal migration",
         "link": "https://www.dawn.com/news/1964121/us-warns-indians-of-significant-criminal-penalties-for-illegal-migration"
-      },
-      {
-        "title": "Election tribunal dismisses Yasmin Rashid’s challenge to Nawaz’s NA-130 win in 2024 polls",
-        "link": "https://www.dawn.com/news/1964114/election-tribunal-dismisses-yasmin-rashids-challenge-to-nawazs-na-130-win-in-2024-polls"
       }
     ],
     "APNews": [],
@@ -111,7 +105,7 @@
         "link": "https://www.nytimes.com/2025/12/30/podcasts/the-headlines/cia-venezuela-un-agencies.html"
       },
       {
-        "title": "How Russia and Ukraine Are Fighting to Shape President Trump’s View of the War",
+        "title": "How Russia and Ukraine Are Fighting to Shape Trump’s View of the War",
         "link": "https://www.nytimes.com/2025/12/30/world/europe/russia-ukraine-trump-influence.html"
       },
       {
@@ -121,8 +115,16 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "The President’s Cake is our favourite movie of 2025. Here are 11 other standouts",
+        "link": "https://www.middleeasteye.net/discover/presidents-cake-our-favourite-movie-2025-here-are-11-other-standouts"
+      },
+      {
+        "title": "Israeli settlers invade Bedouin community in the West Bank and detain foreign activist",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-invade-bedouin-community-west-bank-and-detain-foreign"
+      },
+      {
         "title": "London activists replace UAE embassy plaque with 'United Arab Zionists'",
-        "link": "https://www.middleeasteye.net/trending/uae-embassy-plaque-replaced-with-united-arab-zionists"
+        "link": "https://www.middleeasteye.net/trending/uk-london-uae-embassy-plaque-replaced-with-united-arab-zionists"
       },
       {
         "title": "UN aid workers describe Sudan’s el-Fasher as a ‘crime scene’ after RSF takeover",
@@ -131,36 +133,28 @@
       {
         "title": "Israeli forces detain three foreign activists in village near Ramallah",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-three-foreign-activists-village-near-ramallah"
-      },
-      {
-        "title": "More than 100 Palestinian prisoners died in Israeli custody since October 2023, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-100-palestinian-prisoners-died-israeli-custody-october-2023-report"
-      },
-      {
-        "title": "Will 2026 open a new political horizon for Palestinians?",
-        "link": "https://www.middleeasteye.net/opinion/will-2026-open-new-political-horizon-palestinians"
       }
     ],
     "GeoTV": [
       {
-        "title": "How China's BYD dethrones Tesla in EV sales?",
-        "link": "https://www.geo.tv/latest/642301-how-chinas-byd-dethrones-tesla-in-ev-sales"
+        "title": "Pakistan, ADB ink two climate resilience initiatives worth over $300m",
+        "link": "https://www.geo.tv/latest/642309-pakistan-adb-ink-two-climate-resilience-initiatives-worth-over-300m"
       },
       {
-        "title": "Royal family moments highlight 2025 in new video message",
-        "link": "https://www.geo.tv/latest/642289-royal-family-moments-highlight-2025-in-new-video-message"
+        "title": "Cynthia Erivo share details on how she takes care of her vocal health",
+        "link": "https://www.geo.tv/latest/642240-cynthia-erivo-share-details-on-how-she-takes-care-of-her-vocal-health"
       },
       {
-        "title": "Who's Bobby Seagull? MBE-recipient who stumped teachers with viral math puzzle",
-        "link": "https://www.geo.tv/latest/642288-whos-bobby-seagull-honored-with-mbe"
+        "title": "Amanda Nguyen opens up on depression after historic Blue Origin mission",
+        "link": "https://www.geo.tv/latest/642306-amanda-nguyen-opens-up-on-depression-after-historic-blue-origin-mssion"
       },
       {
-        "title": "Eurostar halts all trains after major channel tunnel disruption: Everything you need to know",
-        "link": "https://www.geo.tv/latest/642299-eurostar-halts-all-trains-after-major-channel-tunnel-disruption-everything-you-need-to-know"
+        "title": "PA speaker proposes legal action over scuffle during KP CM's arrival",
+        "link": "https://www.geo.tv/latest/642295-pa-speaker-proposes-legal-action-over-scuffle-during-kp-cms-arrival"
       },
       {
-        "title": "Andrew 'Air Miles Andy' files fly back into turbulence",
-        "link": "https://www.geo.tv/latest/642298-andrew-air-miles-andy-files-fly-back-into-turbulence"
+        "title": "PSX climbs to all-time high in penultimate trading session of 2025",
+        "link": "https://www.geo.tv/latest/642302-psx-climbs-to-all-time-high-in-penultimate-trading-session-of-2025"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-30 13:58 UTC"
+  "last_updated": "2025-12-30 14:30 UTC"
 }
