@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Arsenal vs Aston Villa – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/30/live-arsenal-vs-aston-villa-english-premier-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Nigeria beat Uganda 3-1 to head into AFCON last 16 with perfect record",
+        "link": "https://www.aljazeera.com/sports/2025/12/30/nigeria-beat-uganda-3-1-to-head-into-afcon-last-16-with-perfect-record?traffic_source=rss"
+      },
+      {
+        "title": "How has Trump’s second term transformed the US Justice Department in 2025?",
+        "link": "https://www.aljazeera.com/news/longform/2025/12/30/how-has-trumps-second-term-transformed-the-us-justice-department-in-2025?traffic_source=rss"
+      },
+      {
         "title": "US issues Iran-Venezuela sanctions over alleged drone trade",
         "link": "https://www.aljazeera.com/news/2025/12/30/us-issues-iran-venezuela-sanctions-over-alleged-drone-trade?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Eurostar suspends all Europe trains over power issue during holiday travel",
         "link": "https://www.aljazeera.com/news/2025/12/30/eurostar-suspends-all-europe-trains-due-to-power-issue-amid-holiday-period?traffic_source=rss"
-      },
-      {
-        "title": "Netanyahu’s Mar-a-Lago win that wasn’t",
-        "link": "https://www.aljazeera.com/opinions/2025/12/30/netanyahus-mar-a-lago-win-that?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Arsenal vs Aston Villa – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/30/live-arsenal-vs-aston-villa-english-premier-league?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli attack wounds four Palestinians in the occupied West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-wounds-four-palestinians-occupied-west-bank"
+      },
+      {
         "title": "Boeing to make up to 50 new F-15 fighter jets for Israel",
         "link": "https://www.middleeasteye.net/news/boeing-make-50-new-f-15-fighter-jets-israel"
       },
@@ -135,13 +133,17 @@
       {
         "title": "Genocide behind bars: 32 Palestinians killed in Israeli detention in 2025",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/genocide-behind-bars-32-palestinians-killed-israeli-detention-2025"
-      },
-      {
-        "title": "Ten countries warn Israel’s Gaza blockade is worsening as winter deepens",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ten-countries-warn-israels-gaza-blockade-worsening-winter-deepens"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Gospel icon Richard Smallwood dies from kidney failure complications",
+        "link": "https://www.geo.tv/latest/642355-gospel-icon-richard-smallwood-dies-from-kidney-failure-complications"
+      },
+      {
+        "title": "Jessie J admits she's at her 'lowest' after cancer journey",
+        "link": "https://www.geo.tv/latest/642354-jessie-j-admits-shes-at-her-lowest-after-cancer-journey"
+      },
       {
         "title": "Jennifer Lopez to head into 2026 solo or with 'secret lover'?",
         "link": "https://www.geo.tv/latest/642350-jennifer-lopez-to-head-into-2026-solo-or-with-secret-lover"
@@ -153,14 +155,6 @@
       {
         "title": "Mel Gibson and Rosalind Ross announce split after 9 years together",
         "link": "https://www.geo.tv/latest/642348-mel-gibson-and-rosalind-ross-announce-split-after-9-years-together"
-      },
-      {
-        "title": "Why court ordered secrecy over Rob and Michele Reiners' death reports",
-        "link": "https://www.geo.tv/latest/642339-why-court-ordered-secrecy-over-rob-and-michele-reiners-death-reports"
-      },
-      {
-        "title": "Fire destroys Jeffersonville waterfront restaurant overnight",
-        "link": "https://www.geo.tv/latest/642344-fire-destroys-jeffersonville-waterfront-restaurant-overnight"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-30 18:37 UTC"
+  "last_updated": "2025-12-30 18:58 UTC"
 }
