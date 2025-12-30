@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Yemen’s presidential council cancels UAE defence deal",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/30/live-yemens-presidential-council-cancels-uae-defence-deal?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Saudi-led coalition strikes Yemeni port over unauthorised weapons shipment",
+        "title": "Iran’s president calls on gov’t to hear ‘legitimate demands’ of protesters",
+        "link": "https://www.aljazeera.com/news/2025/12/30/irans-president-calls-on-govt-to-hear-legitimate-demands-of-protesters?traffic_source=rss"
+      },
+      {
+        "title": "One in two children malnourished in parts of Sudan’s North Darfur, UN says",
+        "link": "https://www.aljazeera.com/news/2025/12/30/one-in-two-children-malnourished-in-parts-of-sudans-north-darfur-un-says?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Yemen’s presidential council cancels UAE defence deal",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/30/live-yemens-presidential-council-cancels-uae-defence-deal?traffic_source=rss"
+      },
+      {
+        "title": "Saudi Arabia says its national security a ‘red line’ after Yemen strike",
         "link": "https://www.aljazeera.com/news/2025/12/30/saudi-led-coalition-strikes-yemeni-port-over-unauthorised-weapons-shipment?traffic_source=rss"
       },
       {
         "title": "World reacts to death of Khaleda Zia, Bangladesh’s first female leader",
         "link": "https://www.aljazeera.com/news/2025/12/30/world-reacts-to-death-of-khaleda-zia-bangladeshs-first-female-leader?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,405",
-        "link": "https://www.aljazeera.com/news/2025/12/30/russia-ukraine-war-list-of-key-events-day-1405?traffic_source=rss"
-      },
-      {
-        "title": "China fires several rockets around Taiwan during live military drills",
-        "link": "https://www.aljazeera.com/news/2025/12/30/china-kicks-off-second-day-of-military-drills-around-taiwan?traffic_source=rss"
-      },
-      {
-        "title": "UN Security Council members condemn Israel’s recognition of Somaliland",
-        "link": "https://www.aljazeera.com/news/2025/12/30/un-security-council-members-condemn-israels-recognition-of-somaliland?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/1964101/case-registered-against-lawyers-after-youtuber-rajab-butt-roughed-up-during-court-appearance-in-karachi"
       },
       {
-        "title": "PM Shehbaz condemns reported targeting of Russian President Putin’s residence, calls it ‘heinous act’",
-        "link": "https://www.dawn.com/news/1964094/pm-shehbaz-condemns-reported-targeting-of-russian-president-putins-residence-calls-it-heinous-act"
-      },
-      {
         "title": "Yemen declares state of emergency as separatist conflict flares",
         "link": "https://www.dawn.com/news/1964103/yemen-declares-state-of-emergency-as-separatist-conflict-flares"
+      },
+      {
+        "title": "PM Shehbaz condemns reported targeting of Russian President Putin’s residence, calls it ‘heinous act’",
+        "link": "https://www.dawn.com/news/1964094/pm-shehbaz-condemns-reported-targeting-of-russian-president-putins-residence-calls-it-heinous-act"
       }
     ],
     "APNews": [],
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-30 07:46 UTC"
+  "last_updated": "2025-12-30 07:57 UTC"
 }
