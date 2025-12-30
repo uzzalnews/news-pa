@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Arsenal vs Aston Villa – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2025/12/30/live-arsenal-vs-aston-villa-english-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,15 +21,19 @@
         "link": "https://www.bbc.com/news/articles/cd0k0939dd3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Snow, ice and colder weather to bring in the new year with warnings issued",
-        "link": "https://www.bbc.com/weather/articles/c4g4gnw8e27o?at_medium=RSS&at_campaign=rss"
+        "title": "Thieves use drill to steal €30m in German bank heist",
+        "link": "https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Protests spread across Iran for third day after currency hits record low",
-        "link": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss"
+        "title": "Snow, ice and colder weather to bring in the new year with warnings issued",
+        "link": "https://www.bbc.com/weather/articles/c4g4gnw8e27o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Arsenal vs Aston Villa – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2025/12/30/live-arsenal-vs-aston-villa-english-premier-league?traffic_source=rss"
+      },
       {
         "title": "Judge blocks Trump effort to strip South Sudan deportation protections",
         "link": "https://www.aljazeera.com/news/2025/12/30/judge-blocks-trump-effort-to-strip-south-sudan-deportation-protections?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Bitter recriminations between Russia, Ukraine as war eclipses peace push",
         "link": "https://www.aljazeera.com/news/2025/12/30/bitter-recriminations-between-russia-ukraine-as-war-eclipses-peace-push?traffic_source=rss"
-      },
-      {
-        "title": "South Korea announces end to controversial bear bile farming",
-        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/30/south-korea-announces-end-to-controversial-bear-bile-farming?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,23 +103,31 @@
         "link": "https://www.nytimes.com/2025/12/30/world/europe/russia-ukraine-trump-influence.html"
       },
       {
-        "title": "New Year’s Eve Concerts at Kennedy Center Are Canceled",
-        "link": "https://www.nytimes.com/2025/12/29/arts/kennedy-center-new-years-eve-concerts-canceled.html"
-      },
-      {
-        "title": "C.I.A. Strikes Inside Venezuela, and U.S. Tells U.N. Agencies to ‘Adapt, Shrink or Die’",
-        "link": "https://www.nytimes.com/2025/12/30/podcasts/the-headlines/cia-venezuela-un-agencies.html"
-      },
-      {
         "title": "C.I.A. Conducted Drone Strike on Port in Venezuela",
         "link": "https://www.nytimes.com/2025/12/29/us/politics/cia-drone-strike-venezuela.html"
       },
       {
-        "title": "The Cover-Up: Inside the Plot to Conceal Assad’s Crimes",
-        "link": "https://www.nytimes.com/2025/12/30/world/middleeast/assad-regime-crimes-syria-documents.html"
+        "title": "Trump Upended the Federal Government. The Full Scope of the Impact Is Still Unclear.",
+        "link": "https://www.nytimes.com/2025/12/30/us/politics/trump-federal-government-fallout.html"
+      },
+      {
+        "title": "New Year’s Eve Concerts at Kennedy Center Are Canceled",
+        "link": "https://www.nytimes.com/2025/12/29/arts/kennedy-center-new-years-eve-concerts-canceled.html"
+      },
+      {
+        "title": "Cheap Solar Is Transforming Lives and Economies Across Africa",
+        "link": "https://www.nytimes.com/2025/12/30/climate/solar-south-africa-china.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Genocide behind bars: 32 Palestinians killed in Israeli detention in 2025",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/genocide-behind-bars-32-palestinians-killed-israeli-detention-2025"
+      },
+      {
+        "title": "Ten countries warn Israel’s Gaza blockade is worsening as winter deepens",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ten-countries-warn-israels-gaza-blockade-worsening-winter-deepens"
+      },
       {
         "title": "Syria’s new currency breaks with Assad imagery and divides opinion online",
         "link": "https://www.middleeasteye.net/trending/syrias-new-currency-breaks-assad-imagery-and-divides-opinion"
@@ -125,36 +139,28 @@
       {
         "title": "Israel to ban two dozen humanitarian organisations from operating in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-announces-it-will-ban-more-two-dozen-humanitarian-organisations"
-      },
-      {
-        "title": "Israel seizes equipment for operating a well in West Bank town",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-seize-equipment-operating-well-town-west-salfit"
-      },
-      {
-        "title": "'Genocide' behind bars: 32 Palestinians killed in Israeli detention in 2025",
-        "link": "https://www.middleeasteye.net/news/genocide-behind-bars-palestinians-killed-israeli-detention-2025"
       }
     ],
     "GeoTV": [
       {
-        "title": "Sean 'Diddy' Combs' New Year prison menu revealed: know every detail here",
-        "link": "https://www.geo.tv/latest/642300-sean-diddy-combs-to-ring-in-new-year-behind-bars-meal-is-revealed-here"
+        "title": "Which Christopher Nolan film tops 'Stranger Things' Cast list: watch",
+        "link": "https://www.geo.tv/latest/642284-stranger-things"
       },
       {
-        "title": "‘Super Flu' strain sparks concern as cases surge across US",
-        "link": "https://www.geo.tv/latest/642330-super-flu-strain-sparks-concern-as-cases-surge-across-us"
+        "title": "King Charles puts spotlight on doctors behind his health in new year honours",
+        "link": "https://www.geo.tv/latest/642334-king-charles-puts-spotlight-on-doctors-behind-his-health-in-new-year-honours"
       },
       {
-        "title": "Ian Ziering back to spotlight over assault allegations",
-        "link": "https://www.geo.tv/latest/642329-ian-ziering-back-to-spotlight-over-assault-allegations"
+        "title": "In meeting with UAE president, PM stresses elevating ties into strategic partnership",
+        "link": "https://www.geo.tv/latest/642332-in-meeting-with-uae-president-pm-stresses-elevating-ties-into-strategic-partnership"
       },
       {
-        "title": "Prince William's salary in 2025: How much the Prince of Wales earns annually",
-        "link": "https://www.geo.tv/latest/642327-prince-williams-salary-in-2025-how-much-the-prince-of-wales-earns-annually"
+        "title": "Simu Liu calls out Hollywood over limited roles for Asians",
+        "link": "https://www.geo.tv/latest/642331-simu-liu-calls-out-hollywood-over-limited-roles-for-asians"
       },
       {
-        "title": "Meghan Markle shares how she will ring 2026 with 'bubbly' and fans worldwide",
-        "link": "https://www.geo.tv/latest/642321-meghan-markle-shares-how-she-will-ring-2026-with-bubbly-and-rest-of-the-world"
+        "title": "Greer Grammer reveals painful comment from father Kelsey Grammer",
+        "link": "https://www.geo.tv/latest/642277-greer-grammer-reveals-painful-comment-from-father-kelsey-grammer"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-30 16:57 UTC"
+  "last_updated": "2025-12-30 17:26 UTC"
 }
