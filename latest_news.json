@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel’s ban on aid groups to have ‘horrific’ outcomes in Gaza",
+      "link": "https://www.aljazeera.com/news/liveblog/2025/12/31/live-israels-ban-on-aid-organisations-in-gaza?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "An A-Z list of 2025’s biggest stories",
+        "link": "https://www.aljazeera.com/news/longform/2025/12/31/an-a-z-list-of-2025s-biggest-stories?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Israel’s ban on aid groups to have ‘horrific’ outcomes in Gaza",
+        "link": "https://www.aljazeera.com/news/liveblog/2025/12/31/live-israels-ban-on-aid-organisations-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "After the floods of 2025, can we keep 2026 above water?",
+        "link": "https://www.aljazeera.com/news/2025/12/31/after-the-floods-of-2025-can-we-keep-2026-above-water?traffic_source=rss"
+      },
+      {
+        "title": "Thailand releases Cambodian soldiers as ceasefire holds",
+        "link": "https://www.aljazeera.com/video/newsfeed/2025/12/31/thailand-releases-cambodian-soldiers-as-ceasefire-holds?traffic_source=rss"
+      },
+      {
         "title": "China calls on Netherlands to correct ‘mistake’ over chipmaker Nexperia",
         "link": "https://www.aljazeera.com/economy/2025/12/31/china-calls-on-netherlands-to-correct-mistake-over-chipmaker-nexperia?traffic_source=rss"
-      },
-      {
-        "title": "Russia deploys hypersonic Oreshnik missiles in Belarus amid Europe tensions",
-        "link": "https://www.aljazeera.com/news/2025/12/31/russia-deploys-hypersonic-oreshnik-missiles-in-belarus-amid-europe-tensions?traffic_source=rss"
-      },
-      {
-        "title": "How Pakistan’s Asim Munir became Trump’s ‘favourite field marshal’",
-        "link": "https://www.aljazeera.com/news/2025/12/31/how-pakistans-asim-munir-became-trumps-favourite-field-marshal?traffic_source=rss"
-      },
-      {
-        "title": "Germany hunts Christmas thieves after Ocean’s Eleven-style bank heist",
-        "link": "https://www.aljazeera.com/news/2025/12/31/germany-hunts-christmas-thieves-after-oceans-eleven-style-bank-heist?traffic_source=rss"
-      },
-      {
-        "title": "Thailand releases 18 Cambodian soldiers as ceasefire holds",
-        "link": "https://www.aljazeera.com/news/2025/12/31/thailand-releases-18-cambodian-soldiers-as-ceasefire-holds?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli forces kill Palestinian child in Gaza as demolitions continue",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-child-gaza-demolitions-continue"
+      },
+      {
+        "title": "Child killed, three wounded in Gaza tent collapse amid Israeli operations",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/child-killed-three-wounded-gaza-tent-collapse-amid-israeli-operations"
+      },
+      {
         "title": "Britain, Canada, Japan warn of severe Gaza humanitarian crisis",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/britain-canada-japan-warn-severe-gaza-humanitarian-crisis"
       },
@@ -125,17 +139,17 @@
       {
         "title": "Israeli soldiers sentenced to prison for vandalising Palestinian cars",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-sentenced-prison-vandalising-palestinian-cars"
-      },
-      {
-        "title": "Boeing to make up to 50 new F-15 fighter jets for Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/boeing-make-50-new-f-15-fighter-jets-israel"
-      },
-      {
-        "title": "Israel is targeting and arresting Palestinian fishermen who attempt to fish",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-targeting-and-arresting-palestinian-fishermen-who-attempt-fish"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Trump issues first vetoes of second term, rejects bipartisan bills",
+        "link": "https://www.geo.tv/latest/642417-trump-issues-first-vetoes-of-second-term-rejects-bipartisan-bills"
+      },
+      {
+        "title": "Missing teen Camila Mendoza Olmos's final movements revealed in new video",
+        "link": "https://www.geo.tv/latest/642410-missing-teen-camila-mendoza-olmos-final-movements-revealed-in-new-video"
+      },
       {
         "title": "Dua Lipa marks baby brother's new milestone with sweet tribute: 'Proud'",
         "link": "https://www.geo.tv/latest/642405-dua-lipa-marks-brothers-new-milestone-with-sweet-tribute-proud"
@@ -147,14 +161,6 @@
       {
         "title": "PPP not consulted on potential govt-PTI talks, says KP governor",
         "link": "https://www.geo.tv/latest/642402-ppp-not-consulted-on-potential-govt-pti-talks-says-kp-governor"
-      },
-      {
-        "title": "Noah Schnapp reveals how 'Stranger Things' season 5 stayed secret",
-        "link": "https://www.geo.tv/latest/642396-noah-schnapp-reveals-how-stranger-things-season-5-stayed-secret"
-      },
-      {
-        "title": "Meghan Markle Hollywood comeback hits roadblock before it takes off",
-        "link": "https://www.geo.tv/latest/642407-meghan-markle-hollywood-comeback-hits-roadblock-before-it-takes-off"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-31 06:39 UTC"
+  "last_updated": "2025-12-31 07:00 UTC"
 }
