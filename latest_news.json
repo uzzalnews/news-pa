@@ -3,16 +3,16 @@
   "news": {
     "BBC": [
       {
-        "title": "Eurostar delays enter second day with passengers stuck onboard for hours overnight",
-        "link": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Chris Mason: Why 2026 is Keir Starmer's make or break year",
         "link": "https://www.bbc.com/news/articles/c8e98ykyywro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "My son was given world's most expensive gene therapy drug - now he can walk",
         "link": "https://www.bbc.com/news/articles/czj0wr012dxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Who died in 2025? Notable deaths of the year",
+        "link": "https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "UK company sends factory with 1,000C furnace into space",
@@ -25,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "China calls on Netherlands to correct ‘mistake’ over chipmaker Nexperia",
+        "link": "https://www.aljazeera.com/economy/2025/12/31/china-calls-on-netherlands-to-correct-mistake-over-chipmaker-nexperia?traffic_source=rss"
+      },
+      {
+        "title": "Russia deploys hypersonic Oreshnik missiles in Belarus amid Europe tensions",
+        "link": "https://www.aljazeera.com/news/2025/12/31/russia-deploys-hypersonic-oreshnik-missiles-in-belarus-amid-europe-tensions?traffic_source=rss"
+      },
+      {
+        "title": "How Pakistan’s Asim Munir became Trump’s ‘favourite field marshal’",
+        "link": "https://www.aljazeera.com/news/2025/12/31/how-pakistans-asim-munir-became-trumps-favourite-field-marshal?traffic_source=rss"
+      },
+      {
         "title": "Germany hunts Christmas thieves after Ocean’s Eleven-style bank heist",
         "link": "https://www.aljazeera.com/news/2025/12/31/germany-hunts-christmas-thieves-after-oceans-eleven-style-bank-heist?traffic_source=rss"
       },
       {
         "title": "Thailand releases 18 Cambodian soldiers as ceasefire holds",
         "link": "https://www.aljazeera.com/news/2025/12/31/thailand-releases-18-cambodian-soldiers-as-ceasefire-holds?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,406",
-        "link": "https://www.aljazeera.com/news/2025/12/31/russia-ukraine-war-list-of-key-events-day-1406?traffic_source=rss"
-      },
-      {
-        "title": "Israel’s recognition of Somaliland ‘strange, unexpected’: Somali president",
-        "link": "https://www.aljazeera.com/news/2025/12/31/israels-recognition-of-somaliland-strange-unexpected-somali-president?traffic_source=rss"
-      },
-      {
-        "title": "Disney to pay $10m over alleged breaches of US child privacy laws",
-        "link": "https://www.aljazeera.com/economy/2025/12/31/disney-to-pay-10m-over-alleged-breaches-of-us-child-privacy-laws?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +74,20 @@
         "link": "https://www.dawn.com/news/1963939/afghanistan-bears-heavier-economic-cost-as-pakistan-trade-suspension-bites-harder"
       },
       {
+        "title": "Decline in polio cases in Pakistan during 2025 even as 800,000 children missed in year’s last campaign",
+        "link": "https://www.dawn.com/news/1964273/decline-in-polio-cases-in-pakistan-during-2025-even-as-800000-children-missed-in-years-last-campaign"
+      },
+      {
         "title": "Pakistan to enter 2026 as fifth-most populous country",
         "link": "https://www.dawn.com/news/1964235/pakistan-to-enter-2026-as-fifth-most-populous-country"
       },
       {
+        "title": "Bangladesh mourns ex-PM Khaleda Zia with state funeral",
+        "link": "https://www.dawn.com/news/1964271/bangladesh-mourns-ex-pm-khaleda-zia-with-state-funeral"
+      },
+      {
         "title": "Afghans returning from Iran, Pakistan face different challenges: UN report",
         "link": "https://www.dawn.com/news/1964226/afghans-returning-from-iran-pakistan-face-different-challenges-un-report"
-      },
-      {
-        "title": "Doctors Without Borders expects to be barred from Gaza after missing Israel’s deadline for relief agencies",
-        "link": "https://www.dawn.com/news/1964270/doctors-without-borders-expects-to-be-barred-from-gaza-after-missing-israels-deadline-for-relief-agencies"
-      },
-      {
-        "title": "Imran’s sisters, PTI protesters again met with water cannons during sit-in outside Adiala jail",
-        "link": "https://www.dawn.com/news/1964129/imrans-sisters-pti-protesters-again-met-with-water-cannons-during-sit-in-outside-adiala-jail"
       }
     ],
     "APNews": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Britain, Canada, Japan warn of severe Gaza humanitarian crisis",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/britain-canada-japan-warn-severe-gaza-humanitarian-crisis"
+      },
+      {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-491"
       },
@@ -129,54 +133,50 @@
       {
         "title": "Israel is targeting and arresting Palestinian fishermen who attempt to fish",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-targeting-and-arresting-palestinian-fishermen-who-attempt-fish"
-      },
-      {
-        "title": "West Bank: Israeli settler raid Palestinian community near Jericho",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-settler-raid-palestinian-community-near-jericho"
       }
     ],
     "GeoTV": [
       {
-        "title": "Tom Hiddleston finally speaks about welcoming second child with Zawe Ashton",
-        "link": "https://www.geo.tv/latest/642399-tom-hiddleston-finally-speaks-about-welcoming-second-child-with-zawe-ashton"
+        "title": "Dua Lipa marks baby brother's new milestone with sweet tribute: 'Proud'",
+        "link": "https://www.geo.tv/latest/642405-dua-lipa-marks-brothers-new-milestone-with-sweet-tribute-proud"
       },
       {
-        "title": "Angelina Jolie inches closer to major life change",
-        "link": "https://www.geo.tv/latest/642393-angelina-jolie-inches-closer-to-major-life-change"
+        "title": "World bids farewell to 2025, a year of Trump, truces and turmoil",
+        "link": "https://www.geo.tv/latest/642404-world-bids-farewell-to-2025-a-year-of-trump-truces-and-turmoil"
       },
       {
-        "title": "Prince William breaks character in official ceremony: ‘couldn't believe it'",
-        "link": "https://www.geo.tv/latest/642398-prince-william-breaks-character-in-official-ceremony-couldnt-believe-it"
+        "title": "PPP not consulted on potential govt-PTI talks, says KP governor",
+        "link": "https://www.geo.tv/latest/642402-ppp-not-consulted-on-potential-govt-pti-talks-says-kp-governor"
       },
       {
-        "title": "Jared Leto's 'Tron: Ares' marks new chapter for Disney+ sci-fi",
-        "link": "https://www.geo.tv/latest/642397-jared-letos-tron-ares-marks-new-chapter-for-disney-sci-fi"
+        "title": "Noah Schnapp reveals how 'Stranger Things' season 5 stayed secret",
+        "link": "https://www.geo.tv/latest/642396-noah-schnapp-reveals-how-stranger-things-season-5-stayed-secret"
       },
       {
-        "title": "Kris Jenner's sparks buzz over wrinkled hands after $100k facelift",
-        "link": "https://www.geo.tv/latest/642388-kris-jenners-sparks-buzz-over-wrinkled-hands-after"
+        "title": "Meghan Markle Hollywood comeback hits roadblock before it takes off",
+        "link": "https://www.geo.tv/latest/642407-meghan-markle-hollywood-comeback-hits-roadblock-before-it-takes-off"
       }
     ],
     "NDTV": [
       {
-        "title": "Dense Fog Blankets Delhi, Over 100 Flights Affected Amid Low Visibility",
-        "link": "https://www.ndtv.com/delhi-news/dense-fog-blankets-delhi-airlines-warn-of-flight-delays-amid-low-visibility-delhi-ncr-fog-smog-delhi-winters-10121389#publisher=newsstand"
+        "title": "\"Don't Stop At One Child, Have 2-3\": Himanta Sarma To Hindu Couples",
+        "link": "https://www.ndtv.com/india-news/dont-stop-at-one-child-have-2-3-assam-chief-minister-himanta-biswa-sarma-to-hindu-couples-10129793#publisher=newsstand"
       },
       {
-        "title": "\"No Third-Party Intervention\": Sources On China's India-Pak Truce Claim",
-        "link": "https://www.ndtv.com/india-news/new-delhi-always-been-clear-india-rejects-chinas-india-pak-truce-claim-10125109#publisher=newsstand"
-      },
-      {
-        "title": "Thailand Frees 18 Cambodian Soldiers Held Since July Amid Renewed Ceasefire",
-        "link": "https://www.ndtv.com/world-news/thailand-frees-18-cambodian-soldiers-held-since-july-amid-renewed-ceasefire-10125221#publisher=newsstand"
-      },
-      {
-        "title": "Khaleda Zia Funeral Updates: Ex-Bangladesh PM To Be Buried Beside Ziaur Rahman",
+        "title": "Khaleda Zia Funeral Updates: Ex-Bangladesh PM's Family Pays Last Respects",
         "link": "https://www.ndtv.com/world-news/khaleda-zia-funeral-live-updates-bangladesh-violence-bangladesh-unrest-khaleda-zia-dies-former-bangladesh-pm-khaleda-zias-funeral-to-take-place-today-10124438#publisher=newsstand"
       },
       {
-        "title": "41 South African Men Dead In 2 Months From Circumcision Procedures",
-        "link": "https://www.ndtv.com/world-news/41-south-african-men-dead-in-2-months-from-circumcision-procedures-10122311#publisher=newsstand"
+        "title": "Pakistan Records Deadliest Year In Decade As Taliban Ties Worsen",
+        "link": "https://www.ndtv.com/world-news/pakistan-records-deadliest-year-in-decade-as-taliban-ties-worsen-10129128#publisher=newsstand"
+      },
+      {
+        "title": "Watch: Aviva Baig At Priyanka Gandhi's 2024 Wayanad Rally With Raihan Vadra",
+        "link": "https://www.ndtv.com/india-news/watch-aviva-baig-at-priyanka-gandhis-2024-wayanad-rally-with-fiance-raihan-vadra-10124708#publisher=newsstand"
+      },
+      {
+        "title": "Thieves Throw Chilli Powder In Madhya Pradesh Farmer's Eyes, Rob Rs 25 Lakh",
+        "link": "https://www.ndtv.com/india-news/thieves-throw-chilli-powder-in-madhya-pradesh-farmers-eyes-rob-rs-25-lakh-10108877#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2025-12-31 05:56 UTC"
+  "last_updated": "2025-12-31 06:39 UTC"
 }
