@@ -31,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "At least 10 killed in an explosion at Swiss ski resort town",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/1/at-least-10-killed-in-an-explosion-at-swiss-ski-resort-town?traffic_source=rss"
+      },
+      {
         "title": "The world is still failing its children. We can change that in 2026",
         "link": "https://www.aljazeera.com/opinions/2026/1/1/the-world-is-still-failing-its-children-we-can-change-that-in?traffic_source=rss"
       },
@@ -45,10 +49,6 @@
       {
         "title": "Israel escalates West Bank demolitions amid illegal settlement expansion",
         "link": "https://www.aljazeera.com/news/2026/1/1/israel-escalates-west-bank-demolitions-amid-illegal-settlement-expansion?traffic_source=rss"
-      },
-      {
-        "title": "Gaza’s new year begins with a struggle for survival and dignity",
-        "link": "https://www.aljazeera.com/features/2026/1/1/gazas-new-year-begins-with-a-struggle-for-survival-and-dignity?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,29 +76,58 @@
     ],
     "Dawn": [
       {
-        "title": "Zohran Mamdani sworn in as New York’s first Muslim mayor",
-        "link": "https://www.dawn.com/news/1964453/zohran-mamdani-sworn-in-as-new-yorks-first-muslim-mayor"
+        "title": "PTI seeks disqualification of Senator Saifullah Abro for voting in favour of 27th Amendment",
+        "link": "https://www.dawn.com/news/1964469/pti-seeks-disqualification-of-senator-saifullah-abro-for-voting-in-favour-of-27th-amendment"
       },
       {
-        "title": "We envision a promising future for Pakistan and Saudi Arabia, says PM Shehbaz after phone call with MBS",
-        "link": "https://www.dawn.com/news/1964432/we-envision-a-promising-future-for-pakistan-and-saudi-arabia-says-pm-shehbaz-after-phone-call-with-mbs"
+        "title": "‘Are you ready?’: KP CM Sohail Afridi says he will visit Karachi on January 9",
+        "link": "https://www.dawn.com/news/1964467/are-you-ready-kp-cm-sohail-afridi-says-he-will-visit-karachi-on-january-9"
       },
       {
         "title": "Several killed after fire in Swiss ski resort bar: police",
         "link": "https://www.dawn.com/news/1964459/several-killed-after-fire-in-swiss-ski-resort-bar-police"
       },
       {
-        "title": "CJP Afridi says judiciary to pursue ‘meaningful reforms’ in 2026 to improve accessibility, strengthen transparency",
-        "link": "https://www.dawn.com/news/1964460/cjp-afridi-says-judiciary-to-pursue-meaningful-reforms-in-2026-to-improve-accessibility-strengthen-transparency"
+        "title": "Zohran Mamdani sworn in as New York’s first Muslim mayor",
+        "link": "https://www.dawn.com/news/1964453/zohran-mamdani-sworn-in-as-new-yorks-first-muslim-mayor"
       },
       {
-        "title": "Aerial firing during New Year celebrations leaves at least 28 Karachiites injured",
-        "link": "https://www.dawn.com/news/1964457/aerial-firing-during-new-year-celebrations-leaves-at-least-28-karachiites-injured"
+        "title": "We envision a promising future for Pakistan and Saudi Arabia, says PM Shehbaz after phone call with MBS",
+        "link": "https://www.dawn.com/news/1964432/we-envision-a-promising-future-for-pakistan-and-saudi-arabia-says-pm-shehbaz-after-phone-call-with-mbs"
       }
     ],
     "APNews": [],
-    "NYTimes": [],
+    "NYTimes": [
+      {
+        "title": "Zohran Mamdani Is Sworn In as Mayor of New York City",
+        "link": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-mayor-swearing-in.html"
+      },
+      {
+        "title": "Mamdani Reverses Call to End Mayoral Control of NYC Public Schools",
+        "link": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-nyc-public-schools-mayoral-control.html"
+      },
+      {
+        "title": "Mamdani Names Transportation Chief With Job of Making Buses Fast and Free",
+        "link": "https://www.nytimes.com/2026/01/01/nyregion/mamdani-transportation-commissioner-mike-flynn.html"
+      },
+      {
+        "title": "Mamdani Is First New York Mayor to Use the Quran at His Swearing-In",
+        "link": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-quran-inauguration-muslim.html"
+      },
+      {
+        "title": "Trump Abandons Efforts to Deploy National Guard to 3 Major Cities",
+        "link": "https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html"
+      }
+    ],
     "MiddleEastEye": [
+      {
+        "title": "Warlords, sheikhs and politicians: The men at the heart of Sudan's bloodshed",
+        "link": "https://www.middleeasteye.net/explainers/sudan-war-whos-who"
+      },
+      {
+        "title": "Israel says it will enforce ban on NGOs for failing to disclose Palestinian staff",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-will-enforce-ban-ngos-failing-disclose-palestinian-staff"
+      },
       {
         "title": "Video: Children in Gaza light candles on New Year’s Eve",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-children-gaza-light-candles-new-years-eve"
@@ -110,58 +139,50 @@
       {
         "title": "Israeli army says it killed one Palestinian and shot two others in West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-killed-one-palestinian-and-shot-two-others-west"
-      },
-      {
-        "title": "MSF says renewal still pending amid Israeli restrictions on aid groups",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/msf-says-renewal-still-pending-amid-israeli-restrictions-aid-groups"
-      },
-      {
-        "title": "Guterres says Israeli rules blocking Unrwa violate international law",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/guterres-says-israeli-rules-blocking-unrwa-violate-international-law"
       }
     ],
     "GeoTV": [
       {
+        "title": "Deadly explosion rips through Swiss bar during New Year's celebrations, leaving multiple dead",
+        "link": "https://www.geo.tv/latest/642624-deadly-explosion-rips-through-bar-in-switzerland-amid-new-year-buzz-find-out-what-actually-happened"
+      },
+      {
+        "title": "Instagram CEO Adam Mosseri makes big disclosure about AI content on the app",
+        "link": "https://www.geo.tv/latest/642630-instagram-ceo-adam-mosseri-makes-big-disclosure-about-ai-content-on-the-app"
+      },
+      {
+        "title": "Glen Powell, Michelle Randolph relationship status revealed amid rumours",
+        "link": "https://www.geo.tv/latest/642616-glen-powell-michelle-randolph-relationship-status-revealed-amid-rumours"
+      },
+      {
+        "title": "Martha Stewart becomes part of action at Knicks Game",
+        "link": "https://www.geo.tv/latest/642599-martha-stewart-becomes-part-of-action-at-knicks-game"
+      },
+      {
         "title": "Celine Dion expresses heartfelt gratitude to fans in New Year's message",
         "link": "https://www.geo.tv/latest/642602-celine-dion-expresses-heartfelt-gratitude-to-fans-in-new-years-message"
-      },
-      {
-        "title": "Musk's Neuralink plans for 2026: Mass brain chip implants using automated procedures",
-        "link": "https://www.geo.tv/latest/642617-musks-neuralink-plans-for-2026-mass-brain-chip-implants-using-automated-procedures"
-      },
-      {
-        "title": "‘1/1/1' meme takes over internet as world welcomes new year",
-        "link": "https://www.geo.tv/latest/642622-111-meme-takes-over-internet-as-world-welcomes-new-year"
-      },
-      {
-        "title": "Pakistan's Happy New Year illuminates Dubai sky with dazzling drone display",
-        "link": "https://www.geo.tv/latest/642615-pakistans-happy-new-year-illuminates-dubai-sky-with-dazzling-drone-display"
-      },
-      {
-        "title": "Prince Archie, Princess Lilibet UK return ‘closer than ever'",
-        "link": "https://www.geo.tv/latest/642621-prince-archie-princess-lilibet-uk-return-closer-than-ever"
       }
     ],
     "NDTV": [
       {
-        "title": "Many Killed In Blast At Swiss Bar Where Over 100 People Were Partying",
+        "title": "All About Crans Montana, Swiss Ski Town Where Bar Fire Killed 40 People",
+        "link": "https://www.ndtv.com/world-news/all-about-crans-montana-swiss-ski-town-where-bar-fire-killed-40-people-10166972#publisher=newsstand"
+      },
+      {
+        "title": "Air India Issued Show Cause Notice For Operating Boeing Dreamliner Despite Snags",
+        "link": "https://www.ndtv.com/india-news/air-india-issued-show-cause-notice-for-operating-boeing-dreamliner-despite-snags-10166986#publisher=newsstand"
+      },
+      {
+        "title": "At Least 40 Killed In Blast At Swiss Bar Where Over 100 People Were Partying",
         "link": "https://www.ndtv.com/world-news/switzerland-blast-several-killed-in-explosion-at-luxury-swiss-ski-resort-town-crans-montana-10166389#publisher=newsstand"
       },
       {
-        "title": "Explosives, Ammunition Dropped By Pak Drone Recovered Near Line Of Control",
-        "link": "https://www.ndtv.com/india-news/explosives-ammunition-dropped-by-pak-drone-recovered-near-line-of-control-10166757#publisher=newsstand"
+        "title": "\"Never Lose Money...\": As Warren Buffett Retires From Berkshire, A Look At His Most Memorable Quotes",
+        "link": "https://www.ndtv.com/world-news/never-lose-money-as-warren-buffett-retires-from-berkshire-a-look-at-his-most-memorable-quotes-10166945#publisher=newsstand"
       },
       {
-        "title": "\"Traitor\": BJP Leader Slams Shah Rukh Khan As KKR Buys Bangladeshi Player",
-        "link": "https://www.ndtv.com/india-news/shah-rukh-khan-mustafizur-rahman-bjp-leader-sangeet-som-slams-kkr-boss-for-buying-bangladeshi-player-in-ipl-2026-10166405#publisher=newsstand"
-      },
-      {
-        "title": "Watch: Times Square Ball Drop Rings In 2026 In New York City",
-        "link": "https://www.ndtv.com/world-news/new-year-celebrations-times-square-ball-drop-watch-times-square-ball-drop-rings-in-2026-in-new-york-city-10166533#publisher=newsstand"
-      },
-      {
-        "title": "'Heavens Won't Fall If...': Allahabad High Court Slams Trial Court Decision",
-        "link": "https://www.ndtv.com/india-news/allahabad-high-court-slams-meerut-trial-court-decision-heavens-wont-fall-if-10166714#publisher=newsstand"
+        "title": "\"Spare Us His Crocodile Tears\": Trump Shares Editorial Critical Of Putin",
+        "link": "https://www.ndtv.com/world-news/spare-us-his-crocodile-tears-president-donald-trump-shares-editorial-critical-of-russian-president-vladimir-putin-10166797#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -187,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-01 08:57 UTC"
+  "last_updated": "2026-01-01 09:30 UTC"
 }
