@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel’s ban on 37 aid groups kicks in, Gaza starts 2026 with despair",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/1/live-israels-ban-on-37-aid-groups-kicks-in-gaza-starts-2026-with-despair?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,12 +17,12 @@
         "link": "https://www.bbc.com/news/articles/cjdr42ez3d2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "What are Russians hoping for in 2026, asks Steve Rosenberg",
-        "link": "https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "We fought for 33 years to abolish not proven verdict after our daughter's murder",
         "link": "https://www.bbc.com/news/articles/cze8elpzz40o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Zohran Mamdani sworn in as first Muslim New York City Mayor",
+        "link": "https://www.bbc.com/news/videos/c4glvg5yrlyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Detective and crime novelist among contestants on new Traitors series starting tonight",
@@ -24,6 +30,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Why are some African countries banning US citizens from entry?",
+        "link": "https://www.aljazeera.com/news/2026/1/1/why-are-some-african-countries-banning-us-citizens-from-entry?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Israel’s ban on 37 aid groups kicks in, Gaza starts 2026 with despair",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/1/live-israels-ban-on-37-aid-groups-kicks-in-gaza-starts-2026-with-despair?traffic_source=rss"
+      },
       {
         "title": "Israel escalates West Bank demolitions amid illegal settlement expansion",
         "link": "https://www.aljazeera.com/news/2026/1/1/israel-escalates-west-bank-demolitions-amid-illegal-settlement-expansion?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Palestine was the deadliest place to be a journalist in 2025: Media union",
         "link": "https://www.aljazeera.com/news/2026/1/1/palestine-was-the-deadliest-place-to-be-a-journalist-in-2025-media-union?traffic_source=rss"
-      },
-      {
-        "title": "Zohran Mamdani sworn in as New York City’s mayor",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/1/zohran-mamdani-sworn-in-as-new-york-citys-mayor?traffic_source=rss"
-      },
-      {
-        "title": "Photos: Zohran Mamdani becomes New York City’s first Muslim mayor",
-        "link": "https://www.aljazeera.com/gallery/2026/1/1/photos-zohran-mamdani-becomes-new-york-citys-first-muslim-mayor?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,8 +92,8 @@
         "link": "https://www.dawn.com/news/1964460/cjp-afridi-says-judiciary-to-pursue-meaningful-reforms-in-2026-to-improve-accessibility-strengthen-transparency"
       },
       {
-        "title": "Aerial firing during New Year celebrations injures at least 28 Karachiites",
-        "link": "https://www.dawn.com/news/1964457/aerial-firing-during-new-year-celebrations-injures-at-least-28-karachiites"
+        "title": "Aerial firing during New Year celebrations leaves at least 28 Karachiites injured",
+        "link": "https://www.dawn.com/news/1964457/aerial-firing-during-new-year-celebrations-leaves-at-least-28-karachiites-injured"
       }
     ],
     "APNews": [],
@@ -101,7 +107,7 @@
         "link": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-nyc-public-schools-mayoral-control.html"
       },
       {
-        "title": "Mamdani Names Transit Chief Tasked With Making Buses Fast and Free",
+        "title": "Mamdani Names Transportation Chief With Job of Making Buses Fast and Free",
         "link": "https://www.nytimes.com/2026/01/01/nyregion/mamdani-transportation-commissioner-mike-flynn.html"
       },
       {
@@ -114,6 +120,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "MSF says renewal still pending amid Israeli restrictions on aid groups",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/msf-says-renewal-still-pending-amid-israeli-restrictions-aid-groups"
+      },
       {
         "title": "Guterres says Israeli rules blocking Unrwa violate international law",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/guterres-says-israeli-rules-blocking-unrwa-violate-international-law"
@@ -129,54 +139,50 @@
       {
         "title": "Israeli forces detonate explosives in Nablus apartment, arrest four Palestinians",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detonate-explosives-nablus-apartment-arrest-four"
-      },
-      {
-        "title": "Netanyahu calls violent settlers attacking Palestinians 'a handful of kids'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-calls-violent-settlers-attacking-palestinians-handful-kids"
       }
     ],
     "GeoTV": [
       {
-        "title": "Keith Urban rings in 2026 without Nicole Kidman: 'You get what you give'",
-        "link": "https://www.geo.tv/latest/642604-keith-urban-rings-in-2026-without-nicole-kidman-you-get-what-you-give"
+        "title": "Pakistan's Happy New Year illuminates Dubai sky with dazzling drone display",
+        "link": "https://www.geo.tv/latest/642615-pakistans-happy-new-year-illuminates-dubai-sky-with-dazzling-drone-display"
       },
       {
-        "title": "Revenue gap widens as FBR faces Rs336bn shortfall in first six months",
-        "link": "https://www.geo.tv/latest/642603-revenue-gap-widens-as-fbr-faces-rs336bn-shortfall-in-first-six-months"
+        "title": "Prince Archie, Princess Lilibet UK return ‘closer than ever'",
+        "link": "https://www.geo.tv/latest/642621-prince-archie-princess-lilibet-uk-return-closer-than-ever"
       },
       {
-        "title": "Anderson Cooper reveals post–New Year's Eve worries about Andy Cohen",
-        "link": "https://www.geo.tv/latest/642611-anderson-cooper-reveals-postnew-years-eve-worries-about-andy-cohen"
+        "title": "Bari Weiss claps back at George Clooney over CBS News 'dismantling' remark",
+        "link": "https://www.geo.tv/latest/642620-bari-weiss-claps-back-at-george-clooney-over-cbs-news-dismantling-remark"
       },
       {
-        "title": "Did North Korea's Kim Jong Un hint at his successor on New Year's Eve?",
-        "link": "https://www.geo.tv/latest/642610-did-north-koreas-kim-jong-un-hint-at-his-successor-on-new-years-eve"
+        "title": "PSX opens 2026 higher as KSE-100 breaks 176,000 mark for first time",
+        "link": "https://www.geo.tv/latest/642606-psx-opens-2026-higher-as-kse-100-breaks-176000-for-first-time"
       },
       {
-        "title": "Several dead in explosion at Swiss ski resort town Crans Montana",
-        "link": "https://www.geo.tv/latest/642607-several-dead-in-explosion-at-swiss-ski-resort-town-crans-montana"
+        "title": "Chris Hemsworth celebrates New Year's Eve with Elsa Pataky on 'cruise'",
+        "link": "https://www.geo.tv/latest/642612-chris-hemsworth-celebrates-new-years-eve-with-elsa-pataky-on-cruise"
       }
     ],
     "NDTV": [
       {
-        "title": "Several Killed As Blast Rips Through Bar In Luxury Swiss Ski Resort Town",
+        "title": "Many Killed In Blast At Swiss Bar Where Over 100 People Were Partying",
         "link": "https://www.ndtv.com/world-news/switzerland-blast-several-killed-in-explosion-at-luxury-swiss-ski-resort-town-crans-montana-10166389#publisher=newsstand"
       },
       {
-        "title": "UAE Targets 5 World Records With New Years Eve Fireworks, Drone Shows",
-        "link": "https://www.ndtv.com/world-news/uae-targets-5-world-records-with-new-years-eve-fireworks-drone-shows-10166516#publisher=newsstand"
+        "title": "Explosives, Ammunition Dropped By Pak Drone Recovered Near Line Of Control",
+        "link": "https://www.ndtv.com/india-news/explosives-ammunition-dropped-by-pak-drone-recovered-near-line-of-control-10166757#publisher=newsstand"
       },
       {
-        "title": "Centre's Fiscal Deficit Crosses 62% Of Full-Year Budget Target In November",
-        "link": "https://www.ndtv.com/business-news/centres-fiscal-deficit-crosses-62-of-full-year-budget-target-in-november-10149408#publisher=newsstand"
+        "title": "\"Traitor\": BJP Leader Slams Shah Rukh Khan As KKR Buys Bangladeshi Player",
+        "link": "https://www.ndtv.com/india-news/shah-rukh-khan-mustafizur-rahman-bjp-leader-sangeet-som-slams-kkr-boss-for-buying-bangladeshi-player-in-ipl-2026-10166405#publisher=newsstand"
       },
       {
         "title": "Watch: Times Square Ball Drop Rings In 2026 In New York City",
         "link": "https://www.ndtv.com/world-news/new-year-celebrations-times-square-ball-drop-watch-times-square-ball-drop-rings-in-2026-in-new-york-city-10166533#publisher=newsstand"
       },
       {
-        "title": "Lal Chowk To Pahalgam: Kashmir Rings In 2026 Amid Freezing Cold",
-        "link": "https://www.ndtv.com/india-news/lal-chowk-to-pahalgam-kashmir-rings-in-2026-amid-freezing-cold-10166497#publisher=newsstand"
+        "title": "'Heavens Won't Fall If...': Allahabad High Court Slams Trial Court Decision",
+        "link": "https://www.ndtv.com/india-news/allahabad-high-court-slams-meerut-trial-court-decision-heavens-wont-fall-if-10166714#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-01 07:57 UTC"
+  "last_updated": "2026-01-01 08:36 UTC"
 }
