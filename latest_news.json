@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel’s ban on 37 aid groups kicks in, Gaza starts 2026 with despair",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/1/live-israels-ban-on-37-aid-groups-kicks-in-gaza-starts-2026-with-despair?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "BBC reports from the scene of Swiss resort bar fire",
+        "link": "https://www.bbc.com/news/videos/cq84xxxk840o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Dazzling spectacles in London, Edinburgh and across the UK",
         "link": "https://www.bbc.com/news/articles/cy594gkele3o?at_medium=RSS&at_campaign=rss"
@@ -23,13 +21,13 @@
       {
         "title": "Arctic blast to start new year with snow and ice warnings",
         "link": "https://www.bbc.com/weather/articles/ceqzn5rnz74o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Detective and crime novelist among contestants on new Traitors series starting tonight",
-        "link": "https://www.bbc.com/news/articles/c77klkrprd2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Can Syria’s new banknotes help rebuild the economy?",
+        "link": "https://www.aljazeera.com/video/money-works/2026/1/1/can-syrias-new-banknotes-help-rebuild-the-economy?traffic_source=rss"
+      },
       {
         "title": "Search for survivors after US military strike on alleged drug convoy",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/1/search-for-survivors-after-us-military-strike-on-alleged-drug-convoy?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "Why are some African countries banning US citizens from entry?",
         "link": "https://www.aljazeera.com/news/2026/1/1/why-are-some-african-countries-banning-us-citizens-from-entry?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel’s ban on 37 aid groups kicks in, Gaza starts 2026 with despair",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/1/live-israels-ban-on-37-aid-groups-kicks-in-gaza-starts-2026-with-despair?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "India cannot misuse its restricted allowance for unilaterally building hydroelectric projects on western rivers: FO",
+        "link": "https://www.dawn.com/news/1964473/india-cannot-misuse-its-restricted-allowance-for-unilaterally-building-hydroelectric-projects-on-western-rivers-fo"
+      },
+      {
         "title": "PTI seeks disqualification of Senator Saifullah Abro for voting in favour of 27th Amendment",
         "link": "https://www.dawn.com/news/1964469/pti-seeks-disqualification-of-senator-saifullah-abro-for-voting-in-favour-of-27th-amendment"
       },
@@ -90,10 +88,6 @@
       {
         "title": "Zohran Mamdani sworn in as New York’s first Muslim mayor",
         "link": "https://www.dawn.com/news/1964453/zohran-mamdani-sworn-in-as-new-yorks-first-muslim-mayor"
-      },
-      {
-        "title": "We envision a promising future for Pakistan and Saudi Arabia, says PM Shehbaz after phone call with MBS",
-        "link": "https://www.dawn.com/news/1964432/we-envision-a-promising-future-for-pakistan-and-saudi-arabia-says-pm-shehbaz-after-phone-call-with-mbs"
       }
     ],
     "APNews": [],
@@ -103,12 +97,12 @@
         "link": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-mayor-swearing-in.html"
       },
       {
-        "title": "Mamdani Reverses Call to End Mayoral Control of NYC Public Schools",
-        "link": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-nyc-public-schools-mayoral-control.html"
-      },
-      {
         "title": "Mamdani Names Transportation Chief With Job of Making Buses Fast and Free",
         "link": "https://www.nytimes.com/2026/01/01/nyregion/mamdani-transportation-commissioner-mike-flynn.html"
+      },
+      {
+        "title": "Mamdani Reverses Call to End Mayoral Control of NYC Public Schools",
+        "link": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-nyc-public-schools-mayoral-control.html"
       },
       {
         "title": "Mamdani Is First New York Mayor to Use the Quran at His Swearing-In",
@@ -120,6 +114,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli forces detain dozens of Palestinians, including child, in West Bank raids",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-detains-dozens-including-child-west-bank-raids"
+      },
       {
         "title": "Israeli attacks reported across Gaza as civil defence issues warnings",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-reported-across-gaza-civil-defence-issues-warnings"
@@ -135,32 +133,28 @@
       {
         "title": "Israel says it will enforce ban on NGOs for failing to disclose Palestinian staff",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-will-enforce-ban-ngos-failing-disclose-palestinian-staff"
-      },
-      {
-        "title": "Video: Children in Gaza light candles on New Year’s Eve",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-children-gaza-light-candles-new-years-eve"
       }
     ],
     "GeoTV": [
       {
-        "title": "Conan O'Brien revealed how does he want his last moments to be",
-        "link": "https://www.geo.tv/latest/642627-conan-obrien-revealed-how-does-he-want-his-last-moments-to-be"
+        "title": "Jennifer Aniston, Jim Curtis real marriage plans revealed",
+        "link": "https://www.geo.tv/latest/642628-jennifer-aniston-jim-curtis-real-marriage-plans-revealed"
       },
       {
-        "title": "Miley Cyrus sparks buzz with secret letter: '20 Years to Hannah Montana'",
-        "link": "https://www.geo.tv/latest/642625-miley-cyrus-sparks-buzz-with-secret-letter-20-years-to-hannah-montana"
+        "title": "Finn Wolfhard, Milli Bobby Brown finding hard to say goodbye to 'Stranger Things'",
+        "link": "https://www.geo.tv/latest/642626-finn-wolfhard-milli-bobby-brown-finding-hard-to-say-goodbye-to-stranger-things"
       },
       {
-        "title": "Sarah Ferguson: royal outsider long before the fall",
-        "link": "https://www.geo.tv/latest/642629-sarah-ferguson-royal-outsider-long-before-the-fall"
+        "title": "Pakistan, India share lists of nuclear installations, prisoners",
+        "link": "https://www.geo.tv/latest/642637-pakistan-india-share-lists-of-nuclear-installations-prisoners"
       },
       {
-        "title": "Deadly explosion rips through Swiss bar during New Year's celebrations, leaving multiple dead",
-        "link": "https://www.geo.tv/latest/642624-deadly-explosion-rips-through-bar-in-switzerland-amid-new-year-buzz-find-out-what-actually-happened"
+        "title": "Sarah Ferguson secretly packs ‘valuable asset' before leaving Royal Lodge",
+        "link": "https://www.geo.tv/latest/642640-sarah-ferguson-secretly-packs-valuable-asset-before-leaving-royal-lodge"
       },
       {
-        "title": "Instagram CEO Adam Mosseri makes big disclosure about AI content on the app",
-        "link": "https://www.geo.tv/latest/642630-instagram-ceo-adam-mosseri-makes-big-disclosure-about-ai-content-on-the-app"
+        "title": "Fire ravages Amsterdam church on 'unsettled' Dutch New Year",
+        "link": "https://www.geo.tv/latest/642635-fire-ravages-amsterdam-church-on-unsettled-dutch-new-year"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-01 09:59 UTC"
+  "last_updated": "2026-01-01 10:33 UTC"
 }
