@@ -3,8 +3,8 @@
   "news": {
     "BBC": [
       {
-        "title": "BBC reports from the scene of Swiss resort bar fire",
-        "link": "https://www.bbc.com/news/videos/cq84xxxk840o?at_medium=RSS&at_campaign=rss"
+        "title": "'I hid from a wall of heat': Eyewitnesses describe escape from bar inferno",
+        "link": "https://www.bbc.com/news/articles/clyml77ml7jo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Disbelief in Crans-Montana on New Year's Day",
@@ -15,15 +15,19 @@
         "link": "https://www.bbc.com/news/videos/cwy1l7jwgjvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "What we know so far",
-        "link": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss"
+        "title": "BBC reports from the scene of Swiss resort bar fire",
+        "link": "https://www.bbc.com/news/videos/cq84xxxk840o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Amber snow and ice warnings issued as Arctic air spreads across the UK",
-        "link": "https://www.bbc.com/weather/articles/ceqzn5rnz74o?at_medium=RSS&at_campaign=rss"
+        "title": "What we know so far",
+        "link": "https://www.bbc.com/news/articles/c9dvyyjyj18o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Donald Trump pauses US tariff hike on furniture, cabinets for one year",
+        "link": "https://www.aljazeera.com/news/2026/1/1/donald-trump-pauses-us-tariff-hike-on-furniture-cabinets-for-one-year?traffic_source=rss"
+      },
       {
         "title": "Israel faces widespread condemnation as NGO ban comes into effect",
         "link": "https://www.aljazeera.com/news/2026/1/1/israel-faces-widespread-condemnation-as-ngo-ban-comes-into-effect?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Somali president: Israel deal with Somaliland tied to hosting Palestinians",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/1/somali-president-israel-deal-with-somaliland-tied-to-hosting-palestinians?traffic_source=rss"
-      },
-      {
-        "title": "Enzo Maresca leaves Chelsea after just 18 months as manager",
-        "link": "https://www.aljazeera.com/sports/2026/1/1/chelsea-part-ways-with-manager-maresca?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +78,16 @@
         "link": "https://www.dawn.com/news/1964485/confidence-building-measures-between-five-big-players-can-improve-political-situation-says-sanaullah"
       },
       {
+        "title": "‘Govt should have shown a big heart’: PTI leaders again denied meeting with Imran",
+        "link": "https://www.dawn.com/news/1964486/govt-should-have-shown-a-big-heart-pti-leaders-again-denied-meeting-with-imran"
+      },
+      {
         "title": "Dozens killed, 100 injured in fire at Swiss ski resort bar, police say",
         "link": "https://www.dawn.com/news/1964459/dozens-killed-100-injured-in-fire-at-swiss-ski-resort-bar-police-say"
       },
       {
         "title": "Punjab bar suspends licence of lawyer representing TikToker Rajab Butt",
         "link": "https://www.dawn.com/news/1964483/punjab-bar-suspends-licence-of-lawyer-representing-tiktoker-rajab-butt"
-      },
-      {
-        "title": "446 lawmakers fail to submit asset statements; ECP issues revised deadline",
-        "link": "https://www.dawn.com/news/1964479/446-lawmakers-fail-to-submit-asset-statements-ecp-issues-revised-deadline"
       }
     ],
     "APNews": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "The real story is not Alaa Abd el-Fattah. It is Israel paralysing aid to Gaza",
+        "link": "https://www.middleeasteye.net/opinion/real-story-not-alaa-abd-el-fattah-it-israel-paralysing-aid-gaza"
+      },
+      {
         "title": "West Bank: More than 200 Israeli settlers storm the Al-Aqsa mosque",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-more-200-israeli-settlers-storm-al-aqsa-mosque"
       },
@@ -129,13 +133,13 @@
       {
         "title": "Hamas calls for absentee funerals for its killed senior commanders",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-calls-absentee-funerals-its-killed-senior-commanders"
-      },
-      {
-        "title": "Plunge in Iran's currency sparks strikes and protests: Press review",
-        "link": "https://www.middleeasteye.net/news/falling-national-currency-sparks-strikes-and-protests-iran-press-review"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince Harry, Meghan Markle drop interesting update on Archie, Lilibet",
+        "link": "https://www.geo.tv/latest/642741-prince-harry-meghan-markle-drop-interesting-update-on-archie-lilibet"
+      },
       {
         "title": "'Stranger Things' cast finally bids tearful farewell after a decade",
         "link": "https://www.geo.tv/latest/642740-stranger-things-cast-finally-bids-tearful-farewell-after-a-decade"
@@ -151,10 +155,6 @@
       {
         "title": "Dolly Parton shares uplifting New Year wish after a difficult 2025",
         "link": "https://www.geo.tv/latest/642739-dolly-parton-shares-uplifting-new-year-wish-after-a-difficult-2025"
-      },
-      {
-        "title": "Geo brings biggest love story of New Year — ‘Humrahi'",
-        "link": "https://www.geo.tv/latest/642731-geo-brings-biggest-love-story-of-new-year-humrahi"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-01 17:15 UTC"
+  "last_updated": "2026-01-01 17:36 UTC"
 }
