@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Survivors of Israel’s genocidal war on Gaza brace for harsh weather in tents",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-survivors-of-israels-war-on-gaza-brace-for-harsh-weather-in-tents?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,12 +13,12 @@
         "link": "https://www.bbc.com/news/articles/clyml77ml7jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Chickenpox vaccines for young children start across UK",
-        "link": "https://www.bbc.com/news/articles/cgexe201n81o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Ice and snow around UK in wintry start to 2026",
         "link": "https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Chickenpox vaccines for young children start across UK",
+        "link": "https://www.bbc.com/news/articles/cgexe201n81o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "The great debate about whether the NHS should use magic mushrooms to treat mental health",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Swiss officials face painful task of identifying victims of deadly bar fire",
+        "link": "https://www.aljazeera.com/news/2026/1/2/swiss-officials-face-painful-task-of-identifying-deadly-bar-fire-victims?traffic_source=rss"
+      },
+      {
+        "title": "AFCON 2025: The last 16",
+        "link": "https://www.aljazeera.com/video/game-theory/2026/1/2/aje-onl-africa-cup-of-nations-last-16-master-ver03-020126?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Survivors of Israel’s genocidal war on Gaza brace for harsh weather in tents",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-survivors-of-israels-war-on-gaza-brace-for-harsh-weather-in-tents?traffic_source=rss"
+      },
+      {
         "title": "Gaza cousins face lost youth, and family tragedy, after amputations",
         "link": "https://www.aljazeera.com/features/2026/1/2/gaza-cousins-face-lost-youth-and-family-tragedy-after-amputations?traffic_source=rss"
       },
       {
         "title": "South African activist uses history to highlight ongoing injustice",
         "link": "https://www.aljazeera.com/features/2026/1/2/south-african-activist-uses-history-to-highlight-ongoing-injustice?traffic_source=rss"
-      },
-      {
-        "title": "South Korean President Lee to visit Beijing for pivotal 2nd summit with Xi",
-        "link": "https://www.aljazeera.com/news/2026/1/2/south-korean-president-lee-to-visit-beijing-for-pivotal-2nd-summit-with-xi?traffic_source=rss"
-      },
-      {
-        "title": "Maduro says Venezuela open to talks with US, remains mum on dock attack",
-        "link": "https://www.aljazeera.com/news/2026/1/2/maduro-says-venezuela-open-to-talks-with-us-remains-mum-on-dock-attack?traffic_source=rss"
-      },
-      {
-        "title": "Handshake in Dhaka: Can India and Pakistan revive ties in 2026?",
-        "link": "https://www.aljazeera.com/news/2026/1/2/handshake-in-dhaka-can-india-and-pakistan-revive-ties-in-2026?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,8 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan hopes for diplomatic end to Yemen standoff",
-        "link": "https://www.dawn.com/news/1964567/pakistan-hopes-for-diplomatic-end-to-yemen-standoff"
+        "title": "Islamabad ATC hands double life sentences to YouTuber Adil Raja, others",
+        "link": "https://www.dawn.com/news/1964657/islamabad-atc-hands-double-life-sentences-to-youtuber-adil-raja-others"
       },
       {
         "title": "Ex-Imran aide Shahzad Akbar says UK residence subjected to ‘deliberate, targeted’ attack",
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli forces carry out arrests and raids across Hebron",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-carry-out-arrests-and-raids-across-hebron"
+      },
+      {
         "title": "Palestinian foreign ministry condemns Israeli takeover at Ibrahimi Mosque",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-foreign-ministry-condemns-israeli-takeover-ibrahimi-mosque"
       },
@@ -129,54 +139,50 @@
       {
         "title": "With Bahram Beizai's death, Iranian cinema is orphaned",
         "link": "https://www.middleeasteye.net/opinion/bahram-beizais-death-iranian-cinema-orphaned"
-      },
-      {
-        "title": "Scottish activists break into factory of company that produces arms",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/scottish-activists-break-factory-company-produces-arms"
       }
     ],
     "GeoTV": [
       {
-        "title": "Fact-check: Viral video of CM Maryam Nawaz Sharif supporting Rajab Butt is AI-generated",
-        "link": "https://www.geo.tv/latest/642795-fact-check-viral-video-of-cm-maryam-nawaz-sharif-supporting-rajab-butt-is-ai-generated"
+        "title": "Stephen Colbert shares ONE thing he learned from 2025",
+        "link": "https://www.geo.tv/latest/642811-stephen-colbert-shares-one-thing-he-learned-from-2025"
       },
       {
-        "title": "Anderson Cooper's viral CNN clip is peak SwiftTok: here's why it's buzzing",
-        "link": "https://www.geo.tv/latest/642787-anderson-coopers-viral-cnn-clip-is-peak-swifttok-find-out-whats-buzzing"
+        "title": "Prince Harry's pal calls out Meghan Markle's 'influence' on Archie, Lilibet",
+        "link": "https://www.geo.tv/latest/642816-prince-harrys-pal-calls-out-meghan-markles-influence-on-archie-lilibet"
       },
       {
-        "title": "Tommy Lee Jones' viral joke about daughter Victoria resurfaces after her death",
-        "link": "https://www.geo.tv/latest/642801-tommy-lee-jones-viral-joke-about-daughter-victoria-resurfaces-after-her-death"
+        "title": "Multiple life sentences awarded to Adil Raja, Haider Mehdi, others over 'digital terrorism'",
+        "link": "https://www.geo.tv/latest/642806-multiple-life-sentences-awarded-to-adil-raja-haider-mehdi-others-over-digital-terrorism"
       },
       {
-        "title": "Victoria Beckham welcomes New Year in her own gorgeous outfit",
-        "link": "https://www.geo.tv/latest/642780-victoria-beckham"
+        "title": "One-China policy: Islamabad reaffirms support for Beijing on Taiwan issue",
+        "link": "https://www.geo.tv/latest/642799-one-china-policy-islamabad-reaffirms-support-for-beijing-on-taiwan-issue"
       },
       {
-        "title": "Canada urges India to probe incident involving pilot being under alcohol influence",
-        "link": "https://www.geo.tv/latest/642796-canada-urges-india-to-probe-incident-involving-pilot-being-under-alcohol-influence"
+        "title": "Simon Cowell 'busier than ever' with new projects with Joe Jonas on board",
+        "link": "https://www.geo.tv/latest/642804-simon-cowell-busier-than-ever"
       }
     ],
     "NDTV": [
       {
-        "title": "Amid Indore Water Crisis, Locals Fear Using Tanker Water",
-        "link": "https://www.ndtv.com/india-news/indore-contaminated-water-amid-indore-water-crisis-locals-fear-using-tanker-water-10190771#publisher=newsstand"
+        "title": "Indian-Origin Cab Driver Picks Up Two Passengers, Drops 3 To Hospital",
+        "link": "https://www.ndtv.com/indians-abroad/hardeep-singh-toor-indian-origin-cab-driver-picks-up-two-passengers-drops-3-to-hospital-10194318#publisher=newsstand"
       },
       {
-        "title": "Water Contamination Behind Indore Health Crisis, Confirms Lab Test",
-        "link": "https://www.ndtv.com/india-news/water-contamination-behind-indore-health-crisis-confirms-lab-test-10190069#publisher=newsstand"
+        "title": "Railway Minister  Witnesses Final Bullet Train Tunnel Breakthrough In Maharahstra",
+        "link": "https://www.ndtv.com/india-news/vaishnaw-virtually-witnesses-final-bullet-train-tunnel-breakthrough-in-maharahstras-palghar-10192569#publisher=newsstand"
       },
       {
-        "title": "UP Man Scanned With Phone In Viral Video, Family Recounts What Cops Said",
-        "link": "https://www.ndtv.com/india-news/cops-said-phone-can-detect-bangladeshis-familys-claim-on-viral-up-video-10193065#publisher=newsstand"
+        "title": "Canada Seeks Air India Response Over 'Drunk Pilot', And A Jan 26 Deadline",
+        "link": "https://www.ndtv.com/world-news/canada-seeks-air-india-response-over-drunk-pilot-and-a-january-26-deadline-10194683#publisher=newsstand"
       },
       {
-        "title": "Will 2026 Bring An End To Karnataka Congress's Leadership Tussle?",
-        "link": "https://www.ndtv.com/india-news/siddaramaiah-dk-shivakumar-will-2026-bring-an-end-to-karnataka-congresss-leadership-tussle-10193411#publisher=newsstand"
+        "title": "Why Is China Taxing Condoms, Birth Control Pills Now? Policy Shift Explained",
+        "link": "https://www.ndtv.com/world-news/why-is-china-taxing-contraceptives-now-population-policy-shift-explained-10192094#publisher=newsstand"
       },
       {
-        "title": "UP Woman Says Husband Hid 1st Marriage, Alleges Assault By In-Laws",
-        "link": "https://www.ndtv.com/india-news/uttar-pradesh-woman-says-husband-hid-1st-marriage-alleges-assault-by-in-laws-10192498#publisher=newsstand"
+        "title": "\"Bad Neighbours\": S Jaishankar Shreds Pakistan, Then A Stern Warning",
+        "link": "https://www.ndtv.com/india-news/s-jaishankars-stern-warning-over-terrorism-to-pakistan-operation-sindoor-we-have-bad-neighbours-10193822#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-02 07:55 UTC"
+  "last_updated": "2026-01-02 08:32 UTC"
 }
