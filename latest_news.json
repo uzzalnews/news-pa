@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,23 @@
         "link": "https://www.bbc.com/news/articles/c87r05143dzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "The debate about whether the NHS should use magic mushrooms to treat depression",
-        "link": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&at_campaign=rss"
+        "title": "Record year for wind and solar power - but is it enough to stay on track for 2030 targets?",
+        "link": "https://www.bbc.com/news/articles/cz947djd3d3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "These are the competing groups controlling territory in Yemen",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/2/these-are-the-competing-groups-controlling-territory-in-yemen?traffic_source=rss"
+      },
+      {
+        "title": "Senegal vs Sudan: AFCON 2025 – team news, start time and lineups",
+        "link": "https://www.aljazeera.com/sports/2026/1/2/senegal-vs-sudan-afcon-2025-preview-team-news-start-time-lineups-mane-gueye-jackson?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Fighting breaks out in eastern Yemen along border with Saudi Arabia",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-fighting-breaks-out-in-eastern-yemen-along-border-with-saudi-arabia?traffic_source=rss"
+      },
       {
         "title": "Venus Williams gets Australian Open wildcard aged 45",
         "link": "https://www.aljazeera.com/sports/2026/1/2/venus-williams-gets-australian-open-wildcard-aged-45?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "The ceasefire did what it was meant to do – make Gaza invisible",
         "link": "https://www.aljazeera.com/opinions/2026/1/2/the-ceasefire-did-what-it-was-meant-to-do-make-gaza-invisible?traffic_source=rss"
-      },
-      {
-        "title": "Why I am on hunger strike in solidarity with Pal Action detainees",
-        "link": "https://www.aljazeera.com/opinions/2026/1/2/why-i-am-on-hunger-strike-in-solidarity-with-pal-action-detainees?traffic_source=rss"
-      },
-      {
-        "title": "Sudan’s el-Fasher now a “ghost town” after RSF takeover",
-        "link": "https://www.aljazeera.com/video/quotable/2026/1/2/sudans-el-fasher-now-a-ghost-town-after-rsf-takeover?traffic_source=rss"
-      },
-      {
-        "title": "Corruption & sanctions “work together” to cripple Iran’s economy",
-        "link": "https://www.aljazeera.com/video/quotable/2026/1/2/corruption-sanctions-work-together-to-cripple-irans-economy?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Gaza is an early warning. Will the world heed it?",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-early-warning-will-world-heed-it"
+      },
+      {
         "title": "Gaza genocide: By halting aid, Israel escalates its war on survival",
         "link": "https://www.middleeasteye.net/opinion/gaza-genocide-halting-aid-israel-escalates-its-war-survival"
       },
@@ -129,54 +139,50 @@
       {
         "title": "Israeli forces uproot olive trees and bulldoze land near Ramallah",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-uproot-olive-trees-and-bulldoze-land-near-ramallah"
-      },
-      {
-        "title": "Jordan condemns Israeli move to seize control at Ibrahimi Mosque",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-condemns-israeli-move-seize-control-ibrahimi-mosque"
       }
     ],
     "GeoTV": [
       {
-        "title": "Lily Collins walks into 2026 laughing alongside husband Charlie McDowell",
-        "link": "https://www.geo.tv/latest/642860-lily-collins-walks-into-2026-laughing-alongside-husband-charlie-mcdowell"
+        "title": "Este Haim steps into fitting that changes everything",
+        "link": "https://www.geo.tv/latest/642862-este-haim-steps-into-fitting-that-changes-everything"
       },
       {
-        "title": "Prince George to take crucial step for future monarchy",
-        "link": "https://www.geo.tv/latest/642833-prince-george-to-take-crucial-step-for-future-monarchy"
+        "title": "Novak Djokovic sets retirement date—but could exit sooner: here's what we know",
+        "link": "https://www.geo.tv/latest/642859-novak-djokovic-sets-retirement-datebut-could-exit-sooner-find-out-why"
       },
       {
-        "title": "Tommy Lee Jonas' daughter's death: Final moments comes to light",
-        "link": "https://www.geo.tv/latest/642855-tommy-lee-jonas-daughters-death-final-moments-comes-to-light"
+        "title": "King Charles drops bombshell warning amid Meghan's biopic plans",
+        "link": "https://www.geo.tv/latest/642856-king-charles-drops-bombshell-warning-amid-meghans-biopic-plans"
       },
       {
-        "title": "Violinist Brian King Joseph sues actor Will Smith over 'grooming' allegations: here's why",
-        "link": "https://www.geo.tv/latest/642849-violinist-brian-king-joseph-sues-will-smith-over-grooming-allegations"
+        "title": "CES 2026: A sneak peek into AI, laptops, GPUs, and smart home innovations",
+        "link": "https://www.geo.tv/latest/642851-ces-2026-a-sneak-peek-into-ai-laptops-gpus-and-smart-home-innovations"
       },
       {
-        "title": "Kelly Osbourne hit by another tragedy soon after Ozzy Osbourne death",
-        "link": "https://www.geo.tv/latest/642857-kelly-osbourne-hit-by-another-tragedy-soon-after-ozzy-osbourne-death"
+        "title": "Scott Wolf opens up about 'hardest year' of his life",
+        "link": "https://www.geo.tv/latest/642865-scott-wolf-opens-up-about-hardest-year-of-his-life"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Take Care Of Your Own Soldiers\": Iran On Trump's 'Locked And Loaded' Threat",
-        "link": "https://www.ndtv.com/world-news/take-care-of-your-own-soldiers-iran-on-trumps-locked-and-loaded-threat-10199700#publisher=newsstand"
+        "title": "Pollution Curbs Under GRAP-3 Lifted in Delhi-NCR as Air Quality Improves",
+        "link": "https://www.ndtv.com/india-news/pollution-curbs-under-grap-3-lifted-in-delhi-ncr-as-air-quality-improves-10201346#publisher=newsstand"
       },
       {
-        "title": "8 Journalists, YouTubers Sentenced To Life By Pakistan Anti-Terror Court",
-        "link": "https://www.ndtv.com/world-news/8-journalists-youtubers-sentenced-to-life-by-pakistan-anti-terror-court-10199696#publisher=newsstand"
+        "title": "In Video Before Death, Student Who Died After Sex Assault Recounts Horror",
+        "link": "https://www.ndtv.com/india-news/himachal-student-death-dharamshala-death-in-video-before-death-student-who-died-after-sex-assault-recounts-horror-10200612#publisher=newsstand"
       },
       {
-        "title": "Japanese Man Strips Naked, Climbs Barrier During Emperor's New Year Greeting",
-        "link": "https://www.ndtv.com/world-news/japanese-man-strips-naked-climbs-barrier-during-emperors-new-year-greeting-10199692#publisher=newsstand"
+        "title": "Canada Seeks Air India Response After Pilot Detained Over Liquor Smell",
+        "link": "https://www.ndtv.com/world-news/canada-seeks-air-india-response-over-drunk-pilot-and-a-january-26-deadline-10194683#publisher=newsstand"
       },
       {
-        "title": "Indore Municipal Officials Removed After Water Contamination Deaths",
-        "link": "https://www.ndtv.com/india-news/indore-water-contamination-deaths-senior-municipal-officials-removed-from-posts-10198907#publisher=newsstand"
+        "title": "Adani Enterprises Announces Third Rs 1,000 Crore NCD, Issue Opens Jan 6",
+        "link": "https://www.ndtv.com/india-news/adani-enterprises-launches-third-rs-1-000-crore-ncd-issue-offers-up-to-8-90-pc-per-annum-10200459#publisher=newsstand"
       },
       {
-        "title": "Himachal College Student Dies After Sexual Assault, Professor Among 4 Charged",
-        "link": "https://www.ndtv.com/india-news/himachal-pradesh-dharamshala-college-student-dies-of-sexual-assault-4-including-professor-charged-10198848#publisher=newsstand"
+        "title": "Kilos Of Gold, Silver, Cash Seized In Gujarat In Stock Market Scam Probe",
+        "link": "https://www.ndtv.com/india-news/kilos-of-gold-silver-cash-seized-in-gujarat-in-stock-market-scam-probe-10199830#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-02 12:20 UTC"
+  "last_updated": "2026-01-02 13:06 UTC"
 }
