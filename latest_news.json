@@ -3,11 +3,15 @@
   "news": {
     "BBC": [
       {
+        "title": "Sparklers on champagne bottles likely cause of deadly Swiss bar fire",
+        "link": "https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "What images and videos tell us about why Swiss bar fire spread so quickly",
         "link": "https://www.bbc.com/news/articles/c20gjlpw9l3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Weather warnings extended as ice and snow blanket parts of UK",
+        "title": "Weather warnings extended as snow and ice blanket parts of UK",
         "link": "https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -15,15 +19,15 @@
         "link": "https://www.bbc.com/news/articles/c5y2jrdnnqyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Two missing after getting 'into difficulty' in sea",
+        "title": "Man dies after being recovered from sea",
         "link": "https://www.bbc.com/news/articles/ce3ewqew4weo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump warns US will intervene if Iran kills protesters",
-        "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Palestine advocates praise NYC’s Mamdani for revoking pro-Israel decrees",
+        "link": "https://www.aljazeera.com/news/2026/1/2/palestine-advocates-praise-nycs-mamdani-for-revoking-pro-israel-decrees?traffic_source=rss"
+      },
       {
         "title": "South Carolina measles outbreak grows to 185 cases amid vaccination worries",
         "link": "https://www.aljazeera.com/news/2026/1/2/south-carolina-measles-outbreak-grows-to-185-cases-amid-vaccination-worries?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Iran faces growing protests amid deepening economic crisis",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/2/iran-faces-growing-protests-amid-deepening-economic-crisis?traffic_source=rss"
-      },
-      {
-        "title": "Angelina Jolie visits Egypt’s Rafah crossing that’s delivering aid to Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/2/angelina-jolie-visits-egypts-rafah-crossing-thats-delivering-aid-to-gaza?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -101,19 +101,23 @@
         "link": "https://www.nytimes.com/2026/01/02/us/politics/president-trump-powers-watergate.html"
       },
       {
+        "title": "Swiss Bar Fire Likely Caused By Sparklers, Authorities Say",
+        "link": "https://www.nytimes.com/2026/01/02/world/europe/switzerland-ski-resort-bar-fire-crans-montana.html"
+      },
+      {
         "title": "There Was Probably a Flashover in the Swiss Bar Fire. Here’s What That Means.",
         "link": "https://www.nytimes.com/2026/01/02/world/europe/switzerland-resort-bar-fire-flashover.html"
       },
       {
         "title": "Israeli Government Accuses Mamdani of Antisemitism Over Canceled Orders",
         "link": "https://www.nytimes.com/2026/01/02/nyregion/mamdani-israel-executive-orders.html"
-      },
-      {
-        "title": "Democratic Socialists Celebrate Mayor Mamdani With a Rave in Brooklyn",
-        "link": "https://www.nytimes.com/2026/01/02/style/mamdani-paragon-brooklyn-democratic-socialist.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "West Bank: Israeli army raids village near Hebron and opens fires on residents, injuring one",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-army-raids-village-near-hebron-and-opens-fires"
+      },
       {
         "title": "Israeli soldiers wound four civilians in attack on town in Gaza Strip",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-wound-four-civilians-attack-town-gaza-strip"
@@ -129,10 +133,6 @@
       {
         "title": "'Locked and loaded': Trump threatens Iran over protester deaths",
         "link": "https://www.middleeasteye.net/news/locked-and-loaded-trump-threatens-iran-over-protester-deaths"
-      },
-      {
-        "title": "Eight countries urge Israel to allow 'permanent and dignified shelter' into Gaza as weather worsens",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-countries-urge-israel-allow-permanent-and-dignified-shelter-gaza"
       }
     ],
     "GeoTV": [
@@ -159,6 +159,10 @@
     ],
     "NDTV": [
       {
+        "title": "Zelensky Says He Wants To Replace Ukraine's Defence Minister",
+        "link": "https://www.ndtv.com/world-news/zelensky-says-wants-to-replace-ukraines-defence-minister-10218154#publisher=newsstand"
+      },
+      {
         "title": "Man Arrested In Bihar For Circulating AI-Generated Fake Videos Of PM, President",
         "link": "https://www.ndtv.com/india-news/man-arrested-in-bihar-for-circulating-ai-generated-fake-videos-of-pm-modi-president-10213257#publisher=newsstand"
       },
@@ -173,10 +177,6 @@
       {
         "title": "\"Will Do Jihad Soon\": What We Know About ISIS-Inspired Plotter In US",
         "link": "https://www.ndtv.com/world-news/who-is-christian-sturdivant-accused-of-planning-isis-inspired-attack-in-us-north-carolina-10209640#publisher=newsstand"
-      },
-      {
-        "title": "Bhupesh Baghel's Son Granted Bail In Chhattisgarh Liquor Scam",
-        "link": "https://www.ndtv.com/india-news/bhupesh-baghels-son-chaitanya-baghel-granted-bail-in-chhattisgarh-liquor-scam-10200552#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-02 21:41 UTC"
+  "last_updated": "2026-01-02 21:52 UTC"
 }
