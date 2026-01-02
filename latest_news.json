@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Survivors of Israel’s genocidal war on Gaza brace for harsh weather in tents",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-survivors-of-israels-war-on-gaza-brace-for-harsh-weather-in-tents?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,11 +19,19 @@
         "link": "https://www.bbc.com/news/articles/cgexe201n81o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Should the NHS use magic mushrooms to treat mental health?",
+        "title": "The debate about whether the NHS should use magic mushrooms to treat depression",
         "link": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump and top Iranian official exchange threats over protests in Iran",
+        "link": "https://www.aljazeera.com/news/2026/1/2/trump-and-top-iranian-official-exchange-threats-over-protests-in-iran?traffic_source=rss"
+      },
+      {
+        "title": "Yemeni province launches operation to take bases back from separatist STC",
+        "link": "https://www.aljazeera.com/news/2026/1/2/yemeni-province-launches-operation-to-take-bases-back-from-separatist-stc?traffic_source=rss"
+      },
       {
         "title": "Belfast rallies for Palestine hunger strikers as memories of 1981 return",
         "link": "https://www.aljazeera.com/features/2026/1/2/belfast-rallies-for-palestine-hunger-strikers-as-memories-of-1981-return?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Swiss officials face painful task of identifying victims of deadly bar fire",
         "link": "https://www.aljazeera.com/news/2026/1/2/swiss-officials-face-painful-task-of-identifying-deadly-bar-fire-victims?traffic_source=rss"
-      },
-      {
-        "title": "AFCON 2025: The last 16",
-        "link": "https://www.aljazeera.com/video/game-theory/2026/1/2/aje-onl-africa-cup-of-nations-last-16-master-ver03-020126?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Survivors of Israel’s genocidal war on Gaza brace for harsh weather in tents",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/2/live-survivors-of-israels-war-on-gaza-brace-for-harsh-weather-in-tents?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -103,10 +97,6 @@
         "link": "https://www.nytimes.com/2026/01/01/world/europe/switzerland-fire-scene.html"
       },
       {
-        "title": "Switzerland’s Burn Centers Are Overwhelmed After New Year’s Fire",
-        "link": "https://www.nytimes.com/2026/01/01/world/europe/switzerland-fire-burn-centers-hospitals.html"
-      },
-      {
         "title": "Swiss Alps Ski Resort Fire: What We Know",
         "link": "https://www.nytimes.com/2026/01/01/world/europe/what-happened-fire-switzerland-ski-resort.html"
       },
@@ -117,6 +107,10 @@
       {
         "title": "Mamdani Lays Out Agenda of ‘Affordability and Abundance’ on First Day in Office",
         "link": "https://www.nytimes.com/2026/01/01/nyregion/mamdani-inauguration-takeaways.html"
+      },
+      {
+        "title": "Mamdani’s First Orders Focus on Housing and Undoing Adams’s Decisions",
+        "link": "https://www.nytimes.com/2026/01/01/nyregion/mamdani-housing-executive-orders.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,24 +137,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Man arrested for 'filming' women in Rawalpindi hospital washroom",
+        "link": "https://www.geo.tv/latest/642843-man-arrested-for-filming-women-in-rawalpindi-hospital-washroom"
+      },
+      {
+        "title": "'Stranger Things' creators teases popular fan theory about spin-off series",
+        "link": "https://www.geo.tv/latest/642835-stranger-things-creators-teases-popular-fan-theory-about-spin-off-series"
+      },
+      {
+        "title": "Queen Mary makes golden statement in historic night: watch",
+        "link": "https://www.geo.tv/latest/642831-queen-mary-makes-golden-statement-in-historic-night-watch"
+      },
+      {
         "title": "Fact-check: Claim that Iran blamed Pakistan's ISI for Bondi Beach attack is fake",
         "link": "https://www.geo.tv/latest/642794-fact-check-claim-that-iran-blamed-pakistans-isi-for-bondi-beach-attack-is-fake"
       },
       {
         "title": "Bryan Adams rings in New Year by announcing two new albums",
         "link": "https://www.geo.tv/latest/642848-bryan-adams-rings-in-new-year-by-announcing-two-new-albums"
-      },
-      {
-        "title": "AJK govt fully implementing pact with JAAC, says PM Rathore",
-        "link": "https://www.geo.tv/latest/642839-ajk-govt-fully-implementing-pact-with-jaac-says-pm-rathore"
-      },
-      {
-        "title": "Prince Harry gets King Charles nod, William's concerns stall reunion",
-        "link": "https://www.geo.tv/latest/642817-prince-harry-gets-king-charles-nod-williams-concerns-stall-reunion"
-      },
-      {
-        "title": "National Trust bans volunteer for pointing out spelling mistakes on website",
-        "link": "https://www.geo.tv/latest/642844-national-trust-bans-volunteer-for-pointing-out-spelling-mistakes-on-website"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-02 10:48 UTC"
+  "last_updated": "2026-01-02 10:59 UTC"
 }
