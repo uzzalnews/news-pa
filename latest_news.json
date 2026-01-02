@@ -3,10 +3,6 @@
   "news": {
     "BBC": [
       {
-        "title": "Around 40 dead in Swiss ski resort bar fire, police say",
-        "link": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "'I hid from a wall of heat': Eyewitnesses describe escape from Swiss bar inferno",
         "link": "https://www.bbc.com/news/articles/clyml77ml7jo?at_medium=RSS&at_campaign=rss"
       },
@@ -21,6 +17,10 @@
       {
         "title": "The great debate about whether the NHS should use magic mushrooms to treat mental health",
         "link": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Deadly clashes between protesters and security forces as Iran unrest grows",
+        "link": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
@@ -97,7 +97,7 @@
         "link": "https://www.nytimes.com/2026/01/01/nyregion/mamdani-inauguration-mayor.html"
       },
       {
-        "title": "7 Takeaways From the Inauguration of Mayor Zohran Mamdani",
+        "title": "Mamdani Lays Out Agenda of ‘Affordability and Abundance’ on First Day in Office",
         "link": "https://www.nytimes.com/2026/01/01/nyregion/mamdani-inauguration-takeaways.html"
       },
       {
@@ -137,46 +137,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Swiss investigators rush to identify victims of New Year's fire",
+        "link": "https://www.geo.tv/latest/642775-swiss-investigators-rush-to-identify-victims-of-new-years-fire"
+      },
+      {
+        "title": "Will Smith faces new lawsuit from touring violinist",
+        "link": "https://www.geo.tv/latest/642779-will-smith-faces-new-lawsuit-from-touring-violinist"
+      },
+      {
+        "title": "Emily Andre shares romantic Paris moment with Peter in 2025 recap",
+        "link": "https://www.geo.tv/latest/642770-emily-andre-shares-romantic-paris-moment-with-peter-in-2025-recap"
+      },
+      {
         "title": "Meghan Markle signals fresh start with Prince Harry in New Year collage",
         "link": "https://www.geo.tv/latest/642777-meghan-markle-signals-fresh-start-with-prince-harry-in-new-year-collage"
       },
       {
         "title": "A stray dog fight, millions of views and a question for real news",
         "link": "https://www.geo.tv/latest/642769-a-stray-dog-fight-millions-of-views-and-a-question-for-real-news"
-      },
-      {
-        "title": "Taylor Swift brings mirrorball glam to Este Haim's wedding",
-        "link": "https://www.geo.tv/latest/642774-taylor-swift-brings-mirrorball-glam-to-este-haims-wedding"
-      },
-      {
-        "title": "Deconstructing PIA's privatisation",
-        "link": "https://www.geo.tv/latest/642767-deconstructing-pias-privatisation"
-      },
-      {
-        "title": "King Charles speaks out after New Year celebration turns fatal",
-        "link": "https://www.geo.tv/latest/642764-king-charles-speaks-out-after-new-year-celebration-turns-fatal"
       }
     ],
     "NDTV": [
       {
+        "title": "\"I Think Of Your Words\": Umar Khalid's Partner Shares Mamdani's Letter To Him",
+        "link": "https://www.ndtv.com/world-news/i-think-of-your-words-umar-khalids-partner-shares-zohran-mamdanis-letter-to-activist-10190428#publisher=newsstand"
+      },
+      {
+        "title": "Friends' Vrindavan Trip On New Year Ends In Car Crash In Faridabad, 1 Dead",
+        "link": "https://www.ndtv.com/india-news/friends-vrindavan-trip-on-new-year-ends-in-car-crash-in-faridabad-1-dead-10190314#publisher=newsstand"
+      },
+      {
+        "title": "Ex-Air Force Officer Asks Sons To Vacate Ghaziabad Home, They Get Him Killed",
+        "link": "https://www.ndtv.com/ghaziabad-news/ex-air-force-officer-asks-sons-to-vacate-ghaziabad-home-they-get-him-killed-10184335#publisher=newsstand"
+      },
+      {
+        "title": "'He Has Turned To God': Fake Video Shows Javed Akhtar In 'Topi', He Reacts",
+        "link": "https://www.ndtv.com/india-news/javed-akhtar-warns-of-action-against-creators-for-making-deepfake-video-10189876#publisher=newsstand"
+      },
+      {
         "title": "\"We Added Water To Packaged Milk\": Indore Family Loses 5-Month-Old",
         "link": "https://www.ndtv.com/india-news/we-added-water-to-packaged-milk-indore-family-loses-5-month-old-10180819#publisher=newsstand"
-      },
-      {
-        "title": "\"Mullahs Must Leave\": Why Anti-Khamenei Protests Have Erupted In Iran",
-        "link": "https://www.ndtv.com/world-news/explained-why-massive-anti-khamenei-protests-have-erupted-in-iran-10190093#publisher=newsstand"
-      },
-      {
-        "title": "Man Dies, 11 Hospitalised After New Year's Party In Hyderabad, Probe On",
-        "link": "https://www.ndtv.com/hyderabad-news/man-dies-11-hospitalised-after-new-years-party-in-hyderabad-probe-on-10190231#publisher=newsstand"
-      },
-      {
-        "title": "Indian Student Killed In Germany On New Year, Was Trying To Escape Fire",
-        "link": "https://www.ndtv.com/world-news/indian-student-dies-in-germany-after-jumping-from-building-to-escape-fire-on-new-year-10190047#publisher=newsstand"
-      },
-      {
-        "title": "\"Give Land Rights To Workers Or...\": Assam Government Warns Tea Estates",
-        "link": "https://www.ndtv.com/india-news/give-land-rights-to-workers-or-assam-government-warns-tea-estates-10190042#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-02 05:00 UTC"
+  "last_updated": "2026-01-02 05:35 UTC"
 }
