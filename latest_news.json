@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Reporter in Caracas describes hearing loud bangs and planes",
+        "link": "https://www.bbc.com/news/videos/cx2x7e6xlwwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "'Living a nightmare': Families of teens missing after ski resort fire desperate for news",
         "link": "https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,32 +21,28 @@
       {
         "title": "Weather warnings in place as snow and ice blanket parts of UK",
         "link": "https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump warning over Iran protests 'reckless' says foreign minister",
-        "link": "https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "World reacts to reported US bombing of Venezuela",
+        "title": "Deadly earthquake rattles southern and central Mexico",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/3/deadly-earthquake-rattles-southern-and-central-mexico?traffic_source=rss"
+      },
+      {
+        "title": "Trump strikes Venezuela “to force Maduro out”",
+        "link": "https://www.aljazeera.com/video/quotable/2026/1/3/trump-strikes-venezuela-to-force-maduro-out?traffic_source=rss"
+      },
+      {
+        "title": "Venezuelan journalist describes moment of ‘targeted airstrikes’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/3/venezuelan-journalist-describes-moment-of-targeted-airstrikes?traffic_source=rss"
+      },
+      {
+        "title": "World reacts to US bombing of Venezuela",
         "link": "https://www.aljazeera.com/news/2026/1/3/world-reacts-to-reported-us-bombing-of-venezuela?traffic_source=rss"
       },
       {
         "title": "A New Year for Gaza: Will life return?",
         "link": "https://www.aljazeera.com/features/2026/1/3/a-new-year-for-gaza-will-life-return?traffic_source=rss"
-      },
-      {
-        "title": "Video shows aftermath of explosions in Venezuela",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/3/video-shows-aftermath-of-explosions-in-venezuela?traffic_source=rss"
-      },
-      {
-        "title": "Saudi Arabia welcomes request from Yemen to help resolve southern battle",
-        "link": "https://www.aljazeera.com/news/2026/1/3/saudi-arabia-welcomes-request-from-yemen-to-help-resolve-southern-battle?traffic_source=rss"
-      },
-      {
-        "title": "Iranians face mounting hardship as protests intensify",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/3/iranians-face-mounting-hardship-as-protests-intensify?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "Trump says US carried out large-scale strike against Venezuela, has captured President Maduro and his wife",
-        "link": "https://www.dawn.com/news/1964860/trump-says-us-carried-out-large-scale-strike-against-venezuela-has-captured-president-maduro-and-his-wife"
+        "title": "Trump says US carried out large-scale strike against Venezuela, captured President Maduro and his wife",
+        "link": "https://www.dawn.com/news/1964860/trump-says-us-carried-out-large-scale-strike-against-venezuela-captured-president-maduro-and-his-wife"
       },
       {
         "title": "Pakistan rejects Indian FM Jaishankar’s ‘irresponsible assertions’ following ‘bad neighbours’ jibe",
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "In Gaza, my family once lived by the land. Now survival is all that remains",
+        "link": "https://www.middleeasteye.net/opinion/gaza-my-family-once-lived-land-now-survival-all-remains"
+      },
+      {
+        "title": "US air strikes on Venezuela: Trump's 'peace' means war in 2026",
+        "link": "https://www.middleeasteye.net/opinion/us-air-strikes-venezuela-trump-peace-means-war-2026"
+      },
+      {
         "title": "Trump says Maduro ‘captured’ as US bombs Venezuela",
         "link": "https://www.middleeasteye.net/news/trump-claims-maduro-captured-us-bombs-venezuela"
       },
@@ -125,17 +133,21 @@
       {
         "title": "This live blog is now closed",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/live-blog-now-closed"
-      },
-      {
-        "title": "Israel asked Qatar to increase amount of funds it gave to Hamas month before October 7",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-asked-qatar-increase-amount-funds-it-gave-hamas-month-october-7"
-      },
-      {
-        "title": "UN chief says Israel's decision to suspend almost 40 NGOs from Gaza will exacerbate crisis",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-says-israels-decision-suspend-almost-40-ngos-gaza-will"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Swiss ski resort bar fire probe finds candles on wine bottles to blame — here's what we know",
+        "link": "https://www.geo.tv/latest/643014-fatal-bar-fire-ignited-by-candles-on-wine-bottles-swiss-probe-finds"
+      },
+      {
+        "title": "Prince William, Kate overcome crucial challenge ahead of milestone",
+        "link": "https://www.geo.tv/latest/643017-prince-william-kate-overcome-crucial-challenge-ahead-of-milestone"
+      },
+      {
+        "title": "Backlash mounts on Shah Rukh Khan as BCCI asks KKR to drop Bangladeshi pacer",
+        "link": "https://www.geo.tv/latest/643002-backlash-mounts-on-shah-rukh-khan-as-kkr-ordered-to-drop-bangladesh-pacer"
+      },
       {
         "title": "Trump says Venezuelan President Maduro ‘captured' in US operation",
         "link": "https://www.geo.tv/latest/643015-trump-says-venezuelan-president-maduro-captured-in-us-operation"
@@ -143,18 +155,6 @@
       {
         "title": "When is Genshin Impact 6.3 releasing? Keep watch on Jan 14",
         "link": "https://www.geo.tv/latest/642997-when-is-genshin-impact-63-releasing-keep-watch-on-jan-14"
-      },
-      {
-        "title": "Kylie Jenner appears gloomy without Timothée Chalamet in New Year snaps",
-        "link": "https://www.geo.tv/latest/642998-kylie-jenner-appears-gloomy-without-timothee-chalamet-in-new-year-snaps"
-      },
-      {
-        "title": "Ryan Condal reveals 'House of the Dragon' final season plans",
-        "link": "https://www.geo.tv/latest/643004-ryan-condal-reveals-house-of-the-dragon-final-season-plans"
-      },
-      {
-        "title": "Matthew Lawrence broke his silence on his divorce from Cheryl Burke",
-        "link": "https://www.geo.tv/latest/643013-matthew-lawrence-broke-his-silence-on-his-divorce-from-cheryl-burke"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-03 09:54 UTC"
+  "last_updated": "2026-01-03 10:19 UTC"
 }
