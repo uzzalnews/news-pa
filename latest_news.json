@@ -25,7 +25,15 @@
     ],
     "AlJazeera": [
       {
-        "title": "Live: Series of explosions reported in Venezuela’s capital amid US tensions",
+        "title": "Helicopters seen over Venezuelan capital as explosions rock city",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/3/helicopters-seen-over-venezuelan-capital-as-explosions-rock-city?traffic_source=rss"
+      },
+      {
+        "title": "Sudan sources say South Sudanese among captured RSF members as war rages",
+        "link": "https://www.aljazeera.com/news/2026/1/3/sudan-sources-say-south-sudanese-among-captured-rsf-members-as-war-rages?traffic_source=rss"
+      },
+      {
+        "title": "Live: Venezuela’s capital hit by explosions, Caracas blames the US",
         "link": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-loud-noises-heard-in-venezuelas-capital-amid-us-tensions?traffic_source=rss"
       },
       {
@@ -35,14 +43,6 @@
       {
         "title": "Explosions heard over Venezuelan capital Caracas amid US tensions",
         "link": "https://www.aljazeera.com/news/2026/1/3/explosions-heard-over-venezuelan-capital-caracas-amid-us-tensions?traffic_source=rss"
-      },
-      {
-        "title": "Live: Saudi Arabia invites Yemeni factions for ‘dialogue’ amid fighting",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-saudi-arabia-invites-yemeni-factions-for-dialogue-amid-fighting?traffic_source=rss"
-      },
-      {
-        "title": "US Coast Guard suspends search for survivors of Pacific boat strike",
-        "link": "https://www.aljazeera.com/news/2026/1/3/us-coast-guard-suspends-search-for-survivors-of-pacific-boat-strike?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,8 +74,12 @@
         "link": "https://www.dawn.com/news/1964861/pakistan-rejects-indian-fm-jaishankars-irresponsible-assertions-following-bad-neighbours-jibe"
       },
       {
-        "title": "Explosions heard in Venezuela’s capital",
-        "link": "https://www.dawn.com/news/1964860/explosions-heard-in-venezuelas-capital"
+        "title": "Venezuela’s capital hit by explosions, smoke seen",
+        "link": "https://www.dawn.com/news/1964860/venezuelas-capital-hit-by-explosions-smoke-seen"
+      },
+      {
+        "title": "Pakistan Air Force successfully tests indigenously developed air-launched cruise missile",
+        "link": "https://www.dawn.com/news/1964858/pakistan-air-force-successfully-tests-indigenously-developed-air-launched-cruise-missile"
       },
       {
         "title": "Fresh talks on Gaza stabilisation force to focus on mandate as Pakistan maintains caution",
@@ -84,22 +88,10 @@
       {
         "title": "Dar heads to Beijing to co-chair strategic dialogue with China",
         "link": "https://www.dawn.com/news/1964856/dar-heads-to-beijing-to-co-chair-strategic-dialogue-with-china"
-      },
-      {
-        "title": "Signs of torture found on 4 bodies recovered from pit in Karachi’s Mai Kolachi",
-        "link": "https://www.dawn.com/news/1964857/signs-of-torture-found-on-4-bodies-recovered-from-pit-in-karachis-mai-kolachi"
       }
     ],
     "APNews": [],
     "NYTimes": [
-      {
-        "title": "Coast Guard Suspends Search for Survivors of Latest Boat Strikes",
-        "link": "https://www.nytimes.com/2026/01/02/us/politics/coast-guard-survivors-boat-strikes.html"
-      },
-      {
-        "title": "Oil Tanker Fleeing U.S. Coast Guard Broadcasts Location in North Atlantic",
-        "link": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html"
-      },
       {
         "title": "Swiss Bar Fire Likely Caused By Sparklers, Authorities Say",
         "link": "https://www.nytimes.com/2026/01/02/world/europe/switzerland-ski-resort-bar-fire-crans-montana.html"
@@ -111,6 +103,14 @@
       {
         "title": "In Trump’s Second Year, Congress Weighs How to Reassert Its Power",
         "link": "https://www.nytimes.com/2026/01/02/us/politics/trump-congress-power-republicans-democrats.html"
+      },
+      {
+        "title": "After Watergate, the Presidency Was Tamed. Trump Is Unleashing It.",
+        "link": "https://www.nytimes.com/2026/01/02/us/politics/president-trump-powers-watergate.html"
+      },
+      {
+        "title": "Stephen Schwartz Criticizes Kennedy Center, Saying He Won’t Host Gala",
+        "link": "https://www.nytimes.com/2026/01/02/arts/stephen-schwartz-kennedy-center-opera-gala.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,6 +137,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Harry Styles, Zoë Kravitz spark serious romance after casual dating phase",
+        "link": "https://www.geo.tv/latest/642995-harry-styles-zo-kravitz-spark-serious-romance-after-casual-dating-phase"
+      },
+      {
+        "title": "LG to debut ‘world's lightest 17-inch RTX laptop' at CES 2026",
+        "link": "https://www.geo.tv/latest/642990-lg-to-debut-worlds-lightest-17-inch-rtx-laptop-at-ces-2026"
+      },
+      {
         "title": "Did US attack Caracas, Venezuela? massive explosions raise alarm",
         "link": "https://www.geo.tv/latest/642992-did-us-attack-caracas-venezuela-massive-explosions-raise-alarm"
       },
@@ -147,14 +155,6 @@
       {
         "title": "Duchess Sophie receives special title in ‘unforgettable moment'",
         "link": "https://www.geo.tv/latest/642989-duchess-sophie-receives-special-title-in-unforgettable-moment"
-      },
-      {
-        "title": "Finn Wolfhard addresses potential return to 'It' franchise",
-        "link": "https://www.geo.tv/latest/642981-finn-wolfhard-addresses-potential-return-to-it-franchise"
-      },
-      {
-        "title": "Sarah Shahi reflects on toll of public romance after Adam Demos breakup",
-        "link": "https://www.geo.tv/latest/642980-sarah-shahi-reflects-on-toll-of-public-romance-after-adam-demos-breakup"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-03 07:51 UTC"
+  "last_updated": "2026-01-03 08:16 UTC"
 }
