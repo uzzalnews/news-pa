@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Venezuela’s Maduro arrives in New York after ‘capture’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-venezuelas-maduro-arrives-in-new-york-after-capture?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,8 +21,8 @@
         "link": "https://www.bbc.com/news/articles/cx2x70k2q26o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: How the US attack on Venezuela unfolded",
-        "link": "https://www.bbc.com/news/videos/cx2x7dqek9lo?at_medium=RSS&at_campaign=rss"
+        "title": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry",
+        "link": "https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Why has Trump attacked Venezuela and taken Maduro?",
@@ -24,6 +30,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Venezuela temporarily closes border with Brazil following US strike",
+        "link": "https://www.aljazeera.com/news/2026/1/4/venezuela-temporarily-closes-border-with-brazil-following-us-strike?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Venezuela’s Maduro arrives in New York after ‘capture’",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-venezuelas-maduro-arrives-in-new-york-after-capture?traffic_source=rss"
+      },
       {
         "title": "What are the implications of US ‘capture’ of Nicolas Maduro?",
         "link": "https://www.aljazeera.com/video/inside-story/2026/1/3/what-are-the-implications-of-the-us-capture-of-nicolas-maduro?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Swiss launch criminal investigation over deadly fire at ski resort bar",
         "link": "https://www.aljazeera.com/news/2026/1/3/swiss-launch-criminal-investigation-over-deadly-fire-at-ski-resort-bar?traffic_source=rss"
-      },
-      {
-        "title": "Ten-man Mali beat Tunisia on penalties to book AFCON quarterfinal place",
-        "link": "https://www.aljazeera.com/sports/2026/1/3/ten-man-mali-beat-tunisia-on-penalties-to-book-afcon-quarterfinal-place?traffic_source=rss"
-      },
-      {
-        "title": "Internet disruption, several arrests made as Iran protests continue",
-        "link": "https://www.aljazeera.com/news/2026/1/3/internet-disruption-several-arrests-made-as-iran-protests-continue?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -145,21 +151,21 @@
         "link": "https://www.geo.tv/latest/643105-andy-cohen-speaks-out-on-surgery-rumours-amid-cnn-exit-talks"
       },
       {
-        "title": "‘Stranger Things' creators redefine Vecna's choices in finale",
-        "link": "https://www.geo.tv/latest/643037-stranger-things-creators-redefine-vecnas-choices-in-finale"
-      },
-      {
         "title": "Inside Este Haim, Jonathan Levin post NYE wedding celebrations",
         "link": "https://www.geo.tv/latest/643099-inside-este-haim-jonathan-levin-post-nye-wedding-celebrations"
       },
       {
         "title": "Evangeline Lilly left with lasting brain injury following accident",
         "link": "https://www.geo.tv/latest/643104-evangeline-lilly-left-with-lasting-brain-injury-following-accident"
+      },
+      {
+        "title": "Taylor Swift dethroned from number 1 spot by Djo after 78-Day run",
+        "link": "https://www.geo.tv/latest/643092-taylor-swift-dethroned-from-number-1-spot-by-djo-after-78-day-run"
       }
     ],
     "NDTV": [
       {
-        "title": "Live Updates: Maria Machado Doesn't Have \"Support Or Respect\" To Run Venezuela: Trump",
+        "title": "Live Updates: Venezuela’s Maduro Taken To New York To Face Trial After Capture",
         "link": "https://www.ndtv.com/world-news/venezuela-explosions-live-updates-caracas-us-tensions-explosions-in-venezuelas-caracas-airstrikes-after-us-trumps-warning-us-venezuela-caracas-explosi-10238931#publisher=newsstand"
       },
       {
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-03 23:56 UTC"
+  "last_updated": "2026-01-04 02:05 UTC"
 }
