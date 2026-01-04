@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: South Africa vs Cameroon – AFCON 2025",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/4/live-south-africa-vs-cameroon-afcon-2025?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Here’s how the US imposed regime change overnight in Venezuela",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/4/heres-how-the-us-imposed-regime-change-overnight-in-venezuela?traffic_source=rss"
+      },
+      {
+        "title": "Venezuela’s oil, not alleged drug trafficking, caught Trump’s eye",
+        "link": "https://www.aljazeera.com/news/2026/1/4/venezuelas-oil-not-alleged-drug-trafficking-caught-trumps-eye?traffic_source=rss"
+      },
+      {
         "title": "Spanish Empire: Sword and Cross",
         "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/1/4/spanish-empire-sword-and-cross?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Has the US made peace with the rise of China?",
         "link": "https://www.aljazeera.com/video/the-bottom-line/2026/1/4/has-the-us-made-peace-with-the-rise-of-china?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: South Africa vs Cameroon – AFCON 2025",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/4/live-south-africa-vs-cameroon-afcon-2025?traffic_source=rss"
-      },
-      {
-        "title": "Nigeria vs Mozambique: AFCON 2025 – team news, start time and lineups",
-        "link": "https://www.aljazeera.com/sports/2026/1/4/nigeria-vs-mozambique-afcon-2025-team-news-start-time-lineups-lookman-osimhen?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-04 20:17 UTC"
+  "last_updated": "2026-01-04 20:40 UTC"
 }
