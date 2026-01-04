@@ -1,22 +1,7 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Maduro at New York detention centre; Trump says US to ‘run’ Venezuela",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-venezuelas-maduro-arrives-in-new-york-after-capture?traffic_source=rss"
-    },
-    {
-      "source": "NDTV",
-      "title": "US Venezuela Attack LIVE: Venezuela Vice President To Assume Presidency 'Temporarily' After Maduro's Capture",
-      "link": "https://www.ndtv.com/world-news/venezuela-explosions-live-updates-caracas-us-tensions-explosions-in-venezuelas-caracas-airstrikes-after-us-trumps-warning-us-venezuela-caracas-explosi-10238931#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
-      {
-        "title": "Trump says US will 'run' Venezuela and 'fix oil infrastructure'",
-        "link": "https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Spies, drones and blowtorches: How the US captured Maduro",
         "link": "https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss"
@@ -30,11 +15,19 @@
         "link": "https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "What we know about Maduro's capture and US plan to 'run' Venezuela",
+        "link": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Why has Trump attacked Venezuela and taken Maduro?",
         "link": "https://www.bbc.com/news/articles/c93n4nx5yqro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump says US will take Venezuela’s oil",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/4/trump-says-us-will-take-venezuelas-oil?traffic_source=rss"
+      },
       {
         "title": "UK, France carry out joint strike on ISIL target near Syria’s Palmyra",
         "link": "https://www.aljazeera.com/news/2026/1/4/uk-france-carry-out-joint-strike-on-isil-target-near-syrias-palmyra?traffic_source=rss"
@@ -50,10 +43,6 @@
       {
         "title": "Venezuela temporarily closes border with Brazil following US strike",
         "link": "https://www.aljazeera.com/news/2026/1/4/venezuela-temporarily-closes-border-with-brazil-following-us-strike?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Maduro at New York detention centre; Trump says US to ‘run’ Venezuela",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/3/live-venezuelas-maduro-arrives-in-new-york-after-capture?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -85,6 +74,10 @@
         "link": "https://www.dawn.com/news/1965043/maduro-now-in-new-york-jail-as-trump-says-us-to-run-venezuela"
       },
       {
+        "title": "UNSC to meet on Monday amid mounting alarm over US action in Venezuela, concerns about risks to international system",
+        "link": "https://www.dawn.com/news/1965054/unsc-to-meet-on-monday-amid-mounting-alarm-over-us-action-in-venezuela-concerns-about-risks-to-international-system"
+      },
+      {
         "title": "PIA privatisation challenged in Lahore High Court",
         "link": "https://www.dawn.com/news/1965004/pia-privatisation-challenged-in-lahore-high-court"
       },
@@ -95,10 +88,6 @@
       {
         "title": "Chip shortage pushes up smartphone prices",
         "link": "https://www.dawn.com/news/1964994/chip-shortage-pushes-up-smartphone-prices"
-      },
-      {
-        "title": "Ex-PTI leaders plan multi-party conference to ease political tensions",
-        "link": "https://www.dawn.com/news/1965009/ex-pti-leaders-plan-multi-party-conference-to-ease-political-tensions"
       }
     ],
     "APNews": [],
@@ -148,24 +137,24 @@
     ],
     "GeoTV": [
       {
+        "title": "FIA establishes pre-departure facilitation desks to guide, assist international travellers",
+        "link": "https://www.geo.tv/latest/643124-fia-establishes-pre-departure-facilitation-desks-to-guide-assist-international-travellers"
+      },
+      {
+        "title": "Leonardo DiCaprio unable to attend Palm Springs Awards: Here's why",
+        "link": "https://www.geo.tv/latest/643118-leonardo-dicaprio-unable-to-attend-palm-springs-awards-heres-why"
+      },
+      {
+        "title": "Suspect 'confesses' to killing woman, three children in Karachi's Mai Kolachi case",
+        "link": "https://www.geo.tv/latest/643120-suspect-confesses-to-killing-woman-three-children-in-karachis-mai-kolachi-case"
+      },
+      {
+        "title": "Duke of Gloucester leaves key royal behind in earning special rank",
+        "link": "https://www.geo.tv/latest/643126-duke-of-gloucester-leaves-key-royal-behind-in-earning-special-rank"
+      },
+      {
         "title": "Fans react to how Victoria Beckham feels about Adam Peaty's wedding speech",
         "link": "https://www.geo.tv/latest/643123-fans-react-to-how-victoria-beckham-feels-about-adam-peatys-wedding-speech"
-      },
-      {
-        "title": "Bondi shooting responders honoured at Sydney Ashes Test",
-        "link": "https://www.geo.tv/latest/643122-bondi-shooting-responders-honoured-at-sydney-ashes-test"
-      },
-      {
-        "title": "Cynthia Erivo explains why she won't play Elphaba anymore",
-        "link": "https://www.geo.tv/latest/643119-cynthia-erivo-explains-why-she-wont-play-elphaba-anymore"
-      },
-      {
-        "title": "Nicola Peltz makes loyalties clear with New Year message",
-        "link": "https://www.geo.tv/latest/643114-nicola-peltz-makes-loyalties-clear-with-new-year-message"
-      },
-      {
-        "title": "Maduro in New York jail; Trump 'designating people' to be in charge of Venezuela",
-        "link": "https://www.geo.tv/latest/643112-maduro-in-new-york-jail-trump-designating-people-to-be-in-charge-of-venezuela"
       }
     ],
     "NDTV": [
@@ -174,20 +163,20 @@
         "link": "https://www.ndtv.com/world-news/zohran-mamdani-donald-trump-nicolas-maduro-us-strikes-in-venezuela-act-of-war-mamdani-slams-us-action-in-venezuela-nicolas-maduros-capture-10270640#publisher=newsstand"
       },
       {
-        "title": "US Venezuela Attack LIVE: Venezuela Vice President To Assume Presidency 'Temporarily' After Maduro's Capture",
-        "link": "https://www.ndtv.com/world-news/venezuela-explosions-live-updates-caracas-us-tensions-explosions-in-venezuelas-caracas-airstrikes-after-us-trumps-warning-us-venezuela-caracas-explosi-10238931#publisher=newsstand"
+        "title": "Use Of Power Banks For Charging Devices On Flights Banned Over Fire Risk",
+        "link": "https://www.ndtv.com/india-news/use-of-power-banks-for-charging-devices-on-flights-banned-over-fire-risk-10277824#publisher=newsstand"
       },
       {
-        "title": "'Watch Your A**': Trump Warns Colombian President After Maduro's Capture",
-        "link": "https://www.ndtv.com/world-news/trump-warns-colombian-president-nicolas-maduro-venezuela-operation-absolute-resolve-10272759#publisher=newsstand"
+        "title": "\"Might Is Right\": Shashi Tharoor Assesses Trump's Kinetic Move On Maduro",
+        "link": "https://www.ndtv.com/india-news/might-is-right-shashi-tharoor-assesses-donald-trump-kinetic-move-on-venezuela-nicolas-maduro-10278214#publisher=newsstand"
       },
       {
-        "title": "Adjustable Window Shades, Deep Wash Basins: Inside First Vande Bharat Sleeper Train",
-        "link": "https://www.ndtv.com/india-news/ashwini-vaishnaw-vande-bharat-sleeper-train-railway-minister-inspects-guwahati-howrah-vande-bharat-sleeper-train-in-delhi-10272137#publisher=newsstand"
+        "title": "Eknath Shinde Calls Thackeray Cousins' Love For Marathi People \"Fake\"",
+        "link": "https://www.ndtv.com/india-news/eknath-shinde-calls-thackeray-cousins-love-for-marathi-people-fake-10258994#publisher=newsstand"
       },
       {
-        "title": "\"Happy New Year\": Venezuela's Maduro's First Remark After Capture By US",
-        "link": "https://www.ndtv.com/world-news/venezuela-video-shows-captured-president-nicolas-maduro-inside-us-drug-agency-office-donald-trump-why-us-attacked-venezuela-10271030#publisher=newsstand"
+        "title": "US Lifts Caribbean Airspace Restrictions After Venezuela Strike",
+        "link": "https://www.ndtv.com/world-news/us-lifts-caribbean-airspace-restrictions-after-venezuela-strike-10277232#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-04 05:57 UTC"
+  "last_updated": "2026-01-04 06:41 UTC"
 }
