@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Government forces control multiple cities in southern Yemen",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/4/live-government-forces-control-multiple-cities-in-southern-yemen?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Government forces control multiple cities in southern Yemen",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/4/live-government-forces-control-multiple-cities-in-southern-yemen?traffic_source=rss"
+      },
+      {
         "title": "China urges US to ‘stop toppling’ Venezuelan government, release Maduro",
         "link": "https://www.aljazeera.com/news/2026/1/4/china-urges-us-to-stop-toppling-venezuelan-government-release-maduro?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "How the US attack on Venezuela, abduction of Maduro unfolded",
         "link": "https://www.aljazeera.com/news/2026/1/4/how-the-us-attack-on-venezuela-abduction-of-maduro-unfolded?traffic_source=rss"
-      },
-      {
-        "title": "Notion of “taking over Venezuela” will explode in our face",
-        "link": "https://www.aljazeera.com/video/quotable/2026/1/4/aje-onl-qt_harlan_ullman-040126?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Venezuela’s acting president says US attack had 'Zionist undertones'",
+        "link": "https://www.middleeasteye.net/news/venezuelas-acting-president-says-us-attack-had-zionist-undertones"
+      },
+      {
         "title": "Israel is waging a reproductive genocide against Palestinian mothers in Gaza",
         "link": "https://www.middleeasteye.net/opinion/israel-waging-reproductive-genocide-against-palestinian-mothers-gaza"
       },
@@ -129,13 +139,13 @@
       {
         "title": "Iran protests: What is driving the unrest?",
         "link": "https://www.middleeasteye.net/news/iran-protests-what-driving-unrest"
-      },
-      {
-        "title": "In Gaza, my family once lived by the land. Now survival is all that remains",
-        "link": "https://www.middleeasteye.net/opinion/gaza-my-family-once-lived-land-now-survival-all-remains"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Nicola Peltz shares 'grateful' message after Brooklyn Beckham fallout",
+        "link": "https://www.geo.tv/latest/643168-nicola-peltz-shares-grateful-message-after-brooklyn-beckham-fallout"
+      },
       {
         "title": "William, Kate take new measures for Prince George ahead of key life event",
         "link": "https://www.geo.tv/latest/643172-william-kate-take-new-measures-for-prince-george-ahead-of-key-event"
@@ -151,10 +161,6 @@
       {
         "title": "Brianna LaPaglia reacts to ex Zach Bryan's wedding in Taylor Swift style",
         "link": "https://www.geo.tv/latest/643160-brianna-lapaglia-reacts-to-ex-zach-bryans-wedding-in-taylor-swift-style"
-      },
-      {
-        "title": "Lily Allen reveals how big life changes affecting her daughters",
-        "link": "https://www.geo.tv/latest/643165-lily-allen-reveals-how-big-life-changes-affecting-her-daughters"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-04 10:40 UTC"
+  "last_updated": "2026-01-04 10:52 UTC"
 }
