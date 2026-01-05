@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Nigeria vs Mozambique – AFCON 2025",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/5/live-nigeria-vs-mozambique-afcon-2025?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Colombia can be “part of solution” for Venezuela transition",
+        "link": "https://www.aljazeera.com/video/quotable/2026/1/5/colombia-can-be-part-of-solution-for-venezuela-transition?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Nigeria vs Mozambique – AFCON 2025",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/5/live-nigeria-vs-mozambique-afcon-2025?traffic_source=rss"
+      },
+      {
         "title": "Israeli settlers consume water seven times more than Palestinians",
         "link": "https://www.aljazeera.com/features/2026/1/5/israeli-settlers-consume-water-seven-times-more-than-palestinians?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "Venezuela’s Maduro to appear in New York court: What to expect",
         "link": "https://www.aljazeera.com/news/2026/1/5/maduro-to-appear-in-new-york-court-what-to-expect?traffic_source=rss"
-      },
-      {
-        "title": "Bangladesh bans IPL broadcast amid growing tensions with India",
-        "link": "https://www.aljazeera.com/sports/2026/1/5/bangladesh-bans-ipl-broadcast-amid-growing-tensions-with-india?traffic_source=rss"
-      },
-      {
-        "title": "Abducted Venezuelan leader Nicolas Maduro taken to NYC courthouse",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/5/abducted-venezuelan-leader-nicolas-maduro-taken-to-nyc-courthouse?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,8 +92,8 @@
         "link": "https://www.dawn.com/news/1965268/greenland-says-no-more-fantasies-about-annexation-after-trump-remarks"
       },
       {
-        "title": "Lahore court grants pre-arrest bail to qawwal booked for song linked to Imran Khan",
-        "link": "https://www.dawn.com/news/1965272/lahore-court-grants-pre-arrest-bail-to-qawwal-booked-for-song-linked-to-imran-khan"
+        "title": "Palestinian embassy in UK officially inaugurated",
+        "link": "https://www.dawn.com/news/1965280/palestinian-embassy-in-uk-officially-inaugurated"
       }
     ],
     "APNews": [],
@@ -101,16 +107,16 @@
         "link": "https://www.nytimes.com/2026/01/05/world/americas/oil-tankers-venezuela-blockade.html"
       },
       {
-        "title": "After Venezuela, Trump Says Cuba Is ‘Ready to Fall’",
-        "link": "https://www.nytimes.com/2026/01/05/world/americas/trump-venezuela-cuba.html"
-      },
-      {
         "title": "Maduro to Be Arraigned, and Trump Threatens Venezuela’s New Leadership",
         "link": "https://www.nytimes.com/2026/01/05/podcasts/the-headlines/maduro-arraigned-trump-threatens-venezuela.html"
       },
       {
         "title": "Hochul to Press for New Safeguards to Protect Children Online",
         "link": "https://www.nytimes.com/2026/01/05/nyregion/hocul-social-media-children-protections.html"
+      },
+      {
+        "title": "Minnesota Gov. Tim Walz Abandons Re-election Bid and Amy Klobuchar May Run Instead",
+        "link": "https://www.nytimes.com/2026/01/05/us/walz-governor-fraud-klobuchar.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
+        "title": "How Prince William calmed Princess Kate's nerves before big moment",
+        "link": "https://www.geo.tv/latest/643409-how-prince-william-calmed-princess-kates-nerves-before-big-moment"
+      },
+      {
+        "title": "Kim Kardashian mocks Christmas backlash with fresh update",
+        "link": "https://www.geo.tv/latest/643382-kim-kardashian-mocks-christmas-backlash-with-fresh-update"
+      },
+      {
+        "title": "Record-breaking bluefin tuna sells for $3.2m at Tokyo auction",
+        "link": "https://www.geo.tv/latest/643406-record-breaking-bluefin-tuna-sells-for-32-m-at-tokyo-auction"
+      },
+      {
         "title": "King Charles considers Harry's emotional request for Archie, Lilibet?",
         "link": "https://www.geo.tv/latest/643395-king-charles-considers-harrys-emotional-request-for-archie-lilibet"
       },
       {
         "title": "Self-driving tech, AI to steal CES 2026's spotlight amid EV expansion slowdown",
         "link": "https://www.geo.tv/latest/643404-self-driving-tech-ai-to-steal-ces-2026s-spotlight-amid-ev-expansion-slowdown"
-      },
-      {
-        "title": "Maduro arrives for first US court appearance after capture",
-        "link": "https://www.geo.tv/latest/643401-maduro-arrives-for-first-us-court-appearance-after-capture"
-      },
-      {
-        "title": "Rhea Seehorn, Sarah Snook shakes 2026 Emmy race after Critics Choice Awards",
-        "link": "https://www.geo.tv/latest/643346-rhea-seehorn-sarah-snook-shakes-2026-emmy-race-after-critics-choice-awards"
-      },
-      {
-        "title": "New AI browsers emerge as AI startups target Google Chrome's dominance",
-        "link": "https://www.geo.tv/latest/643400-new-ai-browsers-emerge-as-ai-startups-target-google-chromes-dominance"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-05 15:34 UTC"
+  "last_updated": "2026-01-05 15:52 UTC"
 }
