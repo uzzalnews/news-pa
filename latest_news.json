@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US Attacks Venezuela LIVE: Maduro Pleads Not Guilty To Federal Drug Trafficking Charges In US Court",
-      "link": "https://www.ndtv.com/world-news/us-strikes-venezuela-live-updates-nicolas-maduro-captured-donald-trump-caracas-attack-10324394#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Venezuela’s abducted leader Nicolas Maduro, wife appear in NYC court",
+        "link": "https://www.aljazeera.com/news/2026/1/5/venezuelas-abducted-leader-maduro-wife-to-appear-in-nyc-court?traffic_source=rss"
+      },
+      {
         "title": "Timeline of protests in Iran after the 1979 Islamic revolution",
         "link": "https://www.aljazeera.com/news/2026/1/5/a-timeline-of-protests-in-iran-after-the-1979-islamic-revolution?traffic_source=rss"
       },
@@ -43,12 +41,8 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/5/un-questions-legality-of-us-operation-in-venezuela?traffic_source=rss"
       },
       {
-        "title": "Israel bombs Lebanon saying it targeted Hezbollah and Hamas",
+        "title": "Israel bombs Lebanon, saying it targeted Hezbollah and Hamas",
         "link": "https://www.aljazeera.com/news/2026/1/5/israel-bombs-southern-lebanon-saying-it-targeted-hezbollah-and-hamas?traffic_source=rss"
-      },
-      {
-        "title": "Colombia’s Petro promises to defend homeland amid Trump threats",
-        "link": "https://www.aljazeera.com/news/2026/1/5/colombias-petro-promises-to-defend-homeland-amid-trump-threats?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,10 +93,6 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "After Venezuela, Trump Offers Hints About What Could Be Next",
-        "link": "https://www.nytimes.com/2026/01/05/us/politics/trump-venezuela-monroe-doctrine.html"
-      },
-      {
         "title": "Sanctioned Oil Tankers Flee Venezuela in Defiance of U.S. Blockade",
         "link": "https://www.nytimes.com/2026/01/05/world/americas/oil-tankers-venezuela-blockade.html"
       },
@@ -117,6 +107,10 @@
       {
         "title": "Republican Lawmakers Like MTG Have Criticized Trump as They Depart Congress",
         "link": "https://www.nytimes.com/article/trump-republican-critics-lawmakers-exit.html"
+      },
+      {
+        "title": "The Key Senate Races to Watch in 2026",
+        "link": "https://www.nytimes.com/2026/01/05/us/politics/the-key-senate-races-to-watch-in-2026.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,6 +137,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Chelsea Handler pays tribute to Rob and Michele Reiner during Critics Choice",
+        "link": "https://www.geo.tv/latest/643441-chelsea-handler-pays-tribute-to-rob-and-michele-reiner-during-critics-choice"
+      },
+      {
+        "title": "'Dangerous precedent': At UNSC, Pakistan warns unilateral action in Venezuela risks 'unpredictable outcomes'",
+        "link": "https://www.geo.tv/latest/643433-dangerous-precedent-at-unsc-pakistan-warns-unilateral-action-in-venezuela-risks-unpredictable-outcomes"
+      },
+      {
         "title": "Karachi man sentenced to 10 years for raping daughter",
         "link": "https://www.geo.tv/latest/643429-karachi-man-sentenced-to-10-years-for-raping-daughter"
       },
@@ -153,36 +155,28 @@
       {
         "title": "Why Minnesota Governor Tim Walz ends bid for third term?",
         "link": "https://www.geo.tv/latest/643432-why-minnesota-governor-tim-walz-ends-bid-for-third-term"
-      },
-      {
-        "title": "Jessica Biel stands proudly as Justin Timberlake's top fan",
-        "link": "https://www.geo.tv/latest/643428-jessica-biel-stands-proudly-as-justin-timberlakes-top-fan"
-      },
-      {
-        "title": "Prince William, Harry's pal shares big news in latest announcement",
-        "link": "https://www.geo.tv/latest/643416-prince-william-harrys-pal-shares-big-news-in-latest-announcement"
       }
     ],
     "NDTV": [
-      {
-        "title": "Tamil Nadu To Give 20 Lakh Free Laptops To College Students",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-to-give-20-lakh-free-laptops-to-college-students-10350103#publisher=newsstand"
-      },
-      {
-        "title": "US Attacks Venezuela LIVE: Maduro Pleads Not Guilty To Federal Drug Trafficking Charges In US Court",
-        "link": "https://www.ndtv.com/world-news/us-strikes-venezuela-live-updates-nicolas-maduro-captured-donald-trump-caracas-attack-10324394#publisher=newsstand"
-      },
       {
         "title": "'I Was Kidnapped, I Am A Decent Man': Maduro In 1st US Court Appearance",
         "link": "https://www.ndtv.com/world-news/i-was-kidnapped-i-am-a-decent-man-maduro-in-1st-us-court-appearance-10354794#publisher=newsstand"
       },
       {
-        "title": "\"Concerning Precedent\": UN Chief Warns Of Instability After US Venezuela Op",
-        "link": "https://www.ndtv.com/world-news/concerning-precedent-un-chief-warns-of-instability-after-us-venezuela-op-10354022#publisher=newsstand"
+        "title": "Video: Deposed Venezuelan President Maduro's 'Limp-Walk' To Court House",
+        "link": "https://www.ndtv.com/world-news/venezuelan-president-nicolas-maduro-new-york-court-house-maduro-trial-us-venezuela-operation-news-10357658#publisher=newsstand"
       },
       {
-        "title": "Devotees Line Up To Pray As 33-Foot, 210-Tonne Shiva Lingam Rolls Into Bihar",
-        "link": "https://www.ndtv.com/india-news/devotees-line-up-to-pray-as-33-foot-210-tonne-shiva-lingam-rolls-into-bihar-10345624#publisher=newsstand"
+        "title": "2 Presidents, Same Crime, Different Outcomes: The Trump Contradiction",
+        "link": "https://www.ndtv.com/world-news/nicolas-maduro-trial-juan-orlando-hernandez-donald-trump-us-venezuela-updates-drug-trafficking-10351301#publisher=newsstand"
+      },
+      {
+        "title": "\"Thick Hair\" Promise Broken As Woman Accuses Husband Of Hiding Baldness",
+        "link": "https://www.ndtv.com/india-news/thick-hair-promise-broken-as-woman-accuses-husband-of-hiding-baldness-in-noida-10348793#publisher=newsstand"
+      },
+      {
+        "title": "PM Modi To Host German Chancellor Friedrich Merz On His 1st India Visit",
+        "link": "https://www.ndtv.com/india-news/pm-modi-to-host-german-chancellor-friedrich-merz-on-his-1st-india-visit-10351403#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-05 18:29 UTC"
+  "last_updated": "2026-01-05 18:57 UTC"
 }
