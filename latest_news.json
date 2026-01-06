@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: US abduction of Venezuela’s Maduro prompts global outcry",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/6/live-un-security-council-members-slam-us-abduction-of-venezuelas-maduro?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Venezuela’s Machado says she hasn’t spoken to Trump since October",
+        "link": "https://www.aljazeera.com/news/2026/1/6/venezuelas-machado-says-she-hasnt-spoken-to-trump-since-october?traffic_source=rss"
+      },
+      {
+        "title": "‘New phase’: India eyes Bangladesh thaw with BNP before elections",
+        "link": "https://www.aljazeera.com/features/2026/1/6/new-phase-india-eyes-bangladesh-thaw-with-bnp-before-elections?traffic_source=rss"
+      },
+      {
+        "title": "A US drug policy contrast",
+        "link": "https://www.aljazeera.com/video/compare-contrast/2026/1/6/a-us-drug-policy-contrast?traffic_source=rss"
+      },
+      {
+        "title": "Danish PM says US attack on Greenland would be the end of NATO",
+        "link": "https://www.aljazeera.com/news/2026/1/6/danish-pm-says-us-attack-on-greenland-would-be-the-end-of-nato?traffic_source=rss"
+      },
+      {
         "title": "Sabalenka credits ‘Battle of the Sexes’ tennis match for ‘great fitness’",
         "link": "https://www.aljazeera.com/sports/2026/1/6/sabalenka-credits-battle-of-the-sexes-tennis-match-for-great-fitness?traffic_source=rss"
-      },
-      {
-        "title": "Israeli army vehicles enter Quneitra countryside village in southern Syria",
-        "link": "https://www.aljazeera.com/news/2026/1/6/israeli-army-vehicles-enter-quneitra-countryside-village-in-southern-syria?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: US abduction of Venezuela’s Maduro prompts global outcry",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/6/live-un-security-council-members-slam-us-abduction-of-venezuelas-maduro?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills two in Gaza as Palestinians call for Rafah crossing to open",
-        "link": "https://www.aljazeera.com/news/2026/1/6/israel-kills-two-in-gaza-as-palestinians-call-for-rafah-crossing-to-open?traffic_source=rss"
-      },
-      {
-        "title": "US critics and allies condemn Maduro’s abduction at UN Security Council",
-        "link": "https://www.aljazeera.com/news/2026/1/6/us-critics-and-allies-condemn-maduros-abduction-at-un-security-council?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,12 +74,12 @@
         "link": "https://www.dawn.com/news/1965443/amnesty-says-27th-amendment-part-of-sustained-attack-on-judicial-independence-calls-for-urgent-review"
       },
       {
-        "title": "Venezuelan opposition leader vows to return home ‘as soon as possible’, rejects country’s interim president",
-        "link": "https://www.dawn.com/news/1965438/venezuelan-opposition-leader-vows-to-return-home-as-soon-as-possible-rejects-countrys-interim-president"
+        "title": "Ex-nazim injured in IED blast outside his office in Bannu",
+        "link": "https://www.dawn.com/news/1965445/ex-nazim-injured-in-ied-blast-outside-his-office-in-bannu"
       },
       {
-        "title": "Ex-nazim of Bannu’s Domel tehsil injured in IED blast",
-        "link": "https://www.dawn.com/news/1965445/ex-nazim-of-bannus-domel-tehsil-injured-in-ied-blast"
+        "title": "Venezuelan opposition leader vows to return home ‘as soon as possible’, rejects country’s interim president",
+        "link": "https://www.dawn.com/news/1965438/venezuelan-opposition-leader-vows-to-return-home-as-soon-as-possible-rejects-countrys-interim-president"
       },
       {
         "title": "Despite risks, most Muslim states still back Gaza force",
@@ -115,8 +109,8 @@
         "link": "https://www.nytimes.com/2026/01/05/world/americas/un-security-council.html"
       },
       {
-        "title": "Health Dept. to Freeze $10 Billion in Funding to 5 Democratic States",
-        "link": "https://www.nytimes.com/2026/01/06/us/politics/child-care-funding-cuts-trump.html"
+        "title": "RFK Jr. Scales Back the Number of Vaccines Recommended for Children",
+        "link": "https://www.nytimes.com/2026/01/05/health/children-vaccines-cdc-kennedy.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,46 +137,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Cardi B deletes post defending Stefon Diggs after assault charges",
+        "link": "https://www.geo.tv/latest/643519-cardi-b-deletes-post-defending-stefon-diggs-after-assault-charges"
+      },
+      {
+        "title": "Prince Harry unshakeable resolve changes tune of critics: ‘He was right'",
+        "link": "https://www.geo.tv/latest/643518-prince-harry-unshakeable-resolve-changes-tune-of-critics-he-was-right"
+      },
+      {
+        "title": "US cuts broad recommendation for four childhood vaccines",
+        "link": "https://www.geo.tv/latest/643515-us-cuts-broad-recommendation-for-four-childhood-vaccines"
+      },
+      {
         "title": "Karachi temperature likely to drop to single digit",
         "link": "https://www.geo.tv/latest/643513-karachi-temperature-likely-to-drop-to-single-digit"
       },
       {
         "title": "Zayn Malik to play 'new music' at upcoming Las Vegas residency",
         "link": "https://www.geo.tv/latest/643509-zayn-malik-to-play-new-music-at-upcoming-las-vegas-residency"
-      },
-      {
-        "title": "Where is Venezuelan opposition leader Maria Corina Machado? details inside",
-        "link": "https://www.geo.tv/latest/643502-where-is-venezuelan-opposition-leader-maria-corina-machado"
-      },
-      {
-        "title": "Channing Tatum completely smitten by Inka Williams: See photos",
-        "link": "https://www.geo.tv/latest/643512-channing-tatum-completely-smitten-by-inka-williams-see-photos"
-      },
-      {
-        "title": "Jennifer Aniston's relationship with Jim Curtis is 'different' from her past",
-        "link": "https://www.geo.tv/latest/643508-jennifer-anistons-relationship-with-jim-curtis-is-different-from-her-past"
       }
     ],
     "NDTV": [
       {
-        "title": "Mining Vehicles Must Be Fitted With GPS For Tracking: Uttarakhand High Court",
-        "link": "https://www.ndtv.com/india-news/uttarakhand-high-court-mining-vehicles-must-be-fitted-with-gps-for-tracking-10359379#publisher=newsstand"
+        "title": "Boy, 15, Detained For Spying, Sharing Information With Pak's ISI From J&K",
+        "link": "https://www.ndtv.com/india-news/boy-15-detained-for-spying-sharing-information-with-paks-isi-from-jammu-and-kashmir-punjab-police-10389828#publisher=newsstand"
       },
       {
-        "title": "Rana Pratap, Sarat Mani: The 2 Hindu Men Killed Within Hours In Bangladesh",
-        "link": "https://www.ndtv.com/world-news/rana-pratap-bairagi-sarat-mani-chakraborty-the-2-hindu-men-killed-within-hours-in-bangladesh-10383207#publisher=newsstand"
+        "title": "Nicolas Maduro's Capture Has A Puerto Rico Angle",
+        "link": "https://www.ndtv.com/world-news/nicolas-maduros-capture-has-a-puerto-rico-angle-10386514#publisher=newsstand"
       },
       {
-        "title": "Jagan Reddy Alleges \"Democracy Being Murdered\" In Andhra Local Body Polls",
-        "link": "https://www.ndtv.com/india-news/jagan-reddy-alleges-democracy-being-murdered-in-andhra-local-body-polls-10383729#publisher=newsstand"
+        "title": "Trinamool Congress Moves Supreme Court Against Election Commission Over SIR",
+        "link": "https://www.ndtv.com/india-news/trinamool-congress-moves-supreme-court-against-election-commission-over-special-intensive-revision-sir-in-west-bengal-10389080#publisher=newsstand"
       },
       {
-        "title": "Slogans At JNU Against PM After Umar Khalid Denied Bail, BJP Reacts",
-        "link": "https://www.ndtv.com/india-news/slogans-at-jnu-threaten-pm-narendra-modi-after-no-bail-to-umar-khalid-sharjeel-imam-10381192#publisher=newsstand"
+        "title": "Opinion: Opinion | Five Questions About Money to Ponder in 2026",
+        "link": "https://www.ndtv.com/opinion/five-questions-about-money-to-ponder-in-2026-10389028#publisher=newsstand"
       },
       {
-        "title": "\"Lamp Can Be Lit On Hilltop\": High Court Upholds Order In Deepam Row",
-        "link": "https://www.ndtv.com/india-news/petitioner-can-light-lamp-on-ancient-pillar-high-court-upholds-deepam-verdict-10382652#publisher=newsstand"
+        "title": "Meet Barry Pollack, WikiLeaks Founder's Lawyer Defending Nicolas Maduro",
+        "link": "https://www.ndtv.com/world-news/barry-pollack-the-wikileaks-founder-julian-assanges-lawyer-defending-nicolas-maduro-in-us-10388533#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-06 07:31 UTC"
+  "last_updated": "2026-01-06 07:48 UTC"
 }
