@@ -3,12 +3,12 @@
   "news": {
     "BBC": [
       {
-        "title": "The painful questions for Nato and the EU as Trump threatens Greenland",
-        "link": "https://www.bbc.com/news/articles/cpwn2wjzwndo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Venezuelan security forces detain journalists from foreign news organisations",
         "link": "https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The painful questions for Nato and the EU as Trump threatens Greenland",
+        "link": "https://www.bbc.com/news/articles/cpwn2wjzwndo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Elon Musk's X should deal with 'appalling' Grok AI deepfakes, government demands",
@@ -19,11 +19,15 @@
         "link": "https://www.bbc.com/news/articles/clyzvrxyxnxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Swiss ski bar not inspected for five years before deadly fire, mayor says",
-        "link": "https://www.bbc.com/news/articles/cdx4zxk1np0o?at_medium=RSS&at_campaign=rss"
+        "title": "Lego unveils tech-filled Smart Bricks - to play experts' dismay",
+        "link": "https://www.bbc.com/news/articles/crmlnmnwzk2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Israeli forces raid Birzeit University in the occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/6/israeli-forces-raid-birzeit-university-in-the-occupied-west-bank?traffic_source=rss"
+      },
       {
         "title": "Real Madrid’s Mbappe out of Spanish Super Cup derby with Atletico",
         "link": "https://www.aljazeera.com/sports/2026/1/6/real-madrids-mbappe-out-of-spanish-super-cup-derby-with-atletico?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Orthodox Christians celebrate Christmas in Bethlehem",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/6/orthodox-christians-celebrate-christmas-in-bethlehem?traffic_source=rss"
-      },
-      {
-        "title": "World safety at risk after US military intervention in Venezuela",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/6/world-safety-at-risk-after-us-military-intervention-in-venezuela?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -105,12 +105,12 @@
         "link": "https://www.nytimes.com/2026/01/05/world/europe/trump-greenland-denmark.html"
       },
       {
-        "title": "In China, a Debate About Political Power Ignites After Maduro’s Capture",
-        "link": "https://www.nytimes.com/2026/01/06/business/venezuela-china-maduro.html"
+        "title": "For Many Jan. 6 Rioters, a Pardon From Trump Wasn’t Enough",
+        "link": "https://www.nytimes.com/2026/01/05/us/politics/trump-jan-6-pardons-rioters.html"
       },
       {
-        "title": "U.S. Faces Uproar Over Venezuela Attack, and Kennedy Scales Back Childhood Vaccine Recommendations",
-        "link": "https://www.nytimes.com/2026/01/06/podcasts/the-headlines/us-venezuela-attack-kennedy-childhood-vaccines.html"
+        "title": "Tim Walz’s 17 Months in Politics Before Ending His Re-election Bid",
+        "link": "https://www.nytimes.com/2026/01/06/us/tim-walz-governor-minnesota.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "SZA auctions one-on-one fan hangout to raise awareness for Sudan crisis",
+        "link": "https://www.geo.tv/latest/643640-sza-auctions-one-on-one-fan-hangout-to-raise-awareness-for-sudan-crisis"
+      },
+      {
         "title": "Kensington Palace declines to comment as Princess Kate caught in AI scandal",
         "link": "https://www.geo.tv/latest/643636-kensington-palace-declines-to-comment-as-princess-kate-caught-in-ai-scandal"
       },
@@ -151,32 +155,28 @@
       {
         "title": "Karachi court orders compensation over faulty 'lifetime warranty' refrigerator",
         "link": "https://www.geo.tv/latest/643601-karachi-court-orders-compensation-over-faulty-lifetime-warranty-refrigerator"
-      },
-      {
-        "title": "King Charles rushes back to duty as death bell looms",
-        "link": "https://www.geo.tv/latest/643628-king-charles-rushes-back-to-duty-as-death-bell-looms"
       }
     ],
     "NDTV": [
       {
-        "title": "After \"PM Kidnap\" Remark, Congress Leader's \"Warning\" Defence",
-        "link": "https://www.ndtv.com/india-news/prithviraj-chavan-nicolas-maduro-trump-pm-modi-bjp-after-pm-kidnap-remark-congress-leaders-warning-defence-10415699#publisher=newsstand"
+        "title": "ONGC Top Brass In Andhra To Control Raging Mori-5 Oil Well Blaze",
+        "link": "https://www.ndtv.com/india-news/ongc-top-brass-in-andhra-to-control-raging-mori-5-oil-well-blaze-10420973#publisher=newsstand"
       },
       {
-        "title": "Amartya Sen Sent SIR Hearing Notice, Claims Trinamool. Poll Official Reacts",
-        "link": "https://www.ndtv.com/india-news/after-abhishek-banerjees-amartya-sen-sir-claim-poll-officials-clarify-10414248#publisher=newsstand"
+        "title": "Slogans At JNU Against PM After Umar Khalid Denied Bail, BJP Reacts",
+        "link": "https://www.ndtv.com/india-news/slogans-at-jnu-threaten-pm-narendra-modi-after-no-bail-to-umar-khalid-sharjeel-imam-10381192#publisher=newsstand"
       },
       {
-        "title": "Sleeping Outside AIIMS, Patients, Relatives Battle Cold, Pollution And Rats",
-        "link": "https://www.ndtv.com/india-news/sleeping-outside-aiims-patients-relatives-battle-cold-pollution-and-rats-10411443#publisher=newsstand"
+        "title": "Chased Over Theft Suspicion, Bangladeshi Hindu Man Jumps Into Canal, Dies",
+        "link": "https://www.ndtv.com/world-news/chased-over-theft-suspicion-bangladeshi-hindu-man-jumps-into-canal-dies-10420480#publisher=newsstand"
       },
       {
-        "title": "'Free Maduro': US Teacher Criticising Trump's Venezuela Op Arrested On TV",
-        "link": "https://www.ndtv.com/world-news/free-maduro-us-teacher-criticising-trumps-venezuela-op-arrested-on-tv-10413929#publisher=newsstand"
+        "title": "\"Fight Bangladesh Government, Not Cricketer\": Omar Abdullah On IPL Player Row",
+        "link": "https://www.ndtv.com/india-news/fight-bangladesh-government-not-cricketer-omar-abdullah-on-ipl-player-row-10418088#publisher=newsstand"
       },
       {
-        "title": "Hybrid War Between Russia, NATO To Intensify In 2026: Report",
-        "link": "https://www.ndtv.com/world-news/hybrid-war-between-russia-nato-to-intensify-in-2026-report-10400368#publisher=newsstand"
+        "title": "\"It's Not Regime Change, It's Regime Roulette\": Ian Bremmer On US' Venezuela Op",
+        "link": "https://www.ndtv.com/world-news/its-not-regime-change-its-regime-roulette-ian-bremmer-on-us-venezuela-op-10416888#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-06 16:50 UTC"
+  "last_updated": "2026-01-06 17:13 UTC"
 }
