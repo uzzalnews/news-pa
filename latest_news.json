@@ -1,16 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss"
-    },
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Trump says Venezuela to hand over up to 50m barrels of oil to US",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-trump-says-venezuela-to-hand-over-up-to-50mn-barrels-of-oil-to-us?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -36,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Seoul calls for freeze of North’s nuclear programme, Chinese mediation",
+        "link": "https://www.aljazeera.com/news/2026/1/7/seoul-calls-for-freeze-of-norths-nuclear-programme-chinese-mediation?traffic_source=rss"
+      },
+      {
+        "title": "Manner in which the US abducted Maduro “was a shock” to China",
+        "link": "https://www.aljazeera.com/video/quotable/2026/1/7/manner-in-which-the-us-abducted-maduro-was-a-shock-to-china?traffic_source=rss"
+      },
+      {
         "title": "Survivors recount RSF gang rape in Sudan; infants among victims",
         "link": "https://www.aljazeera.com/features/2026/1/7/survivors-recount-rsf-gang-rape-in-sudan-infants-among-victims?traffic_source=rss"
       },
@@ -46,14 +43,6 @@
       {
         "title": "Which teams are in the AFCON 2025 quarterfinals, and what’s the schedule?",
         "link": "https://www.aljazeera.com/sports/2026/1/7/which-teams-are-in-the-afcon-2025-quarterfinals-and-whats-the-schedule?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Yemen’s STC leader al-Zubaidi dismissed after ‘fleeing’ overnight",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-yemens-stc-leader-al-zubaidi-dismissed-after-fleeing-overnight?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Trump says Venezuela to hand over up to 50m barrels of oil to US",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-trump-says-venezuela-to-hand-over-up-to-50mn-barrels-of-oil-to-us?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,12 +82,12 @@
         "link": "https://www.dawn.com/news/1965618/5-killed-24-others-injured-as-bus-plunges-into-ravine-near-talagang"
       },
       {
-        "title": "Did India lobby with Trump over Pakistan conflict?",
-        "link": "https://www.dawn.com/news/1965551/did-india-lobby-with-trump-over-pakistan-conflict"
+        "title": "Hospital sources say 4 killed in airstrikes on Yemen; separatist leader flees",
+        "link": "https://www.dawn.com/news/1965624/hospital-sources-say-4-killed-in-airstrikes-on-yemen-separatist-leader-flees"
       },
       {
-        "title": "PTI, Imran’s sisters end sit-in outside Adiala jail",
-        "link": "https://www.dawn.com/news/1965611/pti-imrans-sisters-end-sit-in-outside-adiala-jail"
+        "title": "Did India lobby with Trump over Pakistan conflict?",
+        "link": "https://www.dawn.com/news/1965551/did-india-lobby-with-trump-over-pakistan-conflict"
       }
     ],
     "APNews": [],
@@ -148,24 +137,24 @@
     ],
     "GeoTV": [
       {
+        "title": "What is Mirumi? 2026's first viral obsession replacing Labubu — Know everything here",
+        "link": "https://www.geo.tv/latest/643720-mirumi-setting-internet-oin-fire-as-first-viral-obsession-of-2026"
+      },
+      {
+        "title": "What is Conformity Gate theory in 'Stranger Things'",
+        "link": "https://www.geo.tv/latest/643724-what-is-conformity-gate-theory-in-stranger-things"
+      },
+      {
+        "title": "Joel Edgerton receives special email from Michael Keaton after 'Train Dreams'",
+        "link": "https://www.geo.tv/latest/643718-joel-edgerton-receives-special-email-from-michael-keaton-after-train-dreams"
+      },
+      {
+        "title": "Imran Khan 'meets' Bushra Bibi in Adiala jail",
+        "link": "https://www.geo.tv/latest/643721-imran-khan-meets-bushra-bibi-in-adiala-jail"
+      },
+      {
         "title": "'Truth matters': Indian presenter breaks silence on being 'dropped' from BPL",
         "link": "https://www.geo.tv/latest/643723-truth-matters-indian-presenter-ridhima-pathak-breaks-silence-on-being-dropped-from-bpl"
-      },
-      {
-        "title": "‘Sir, may I see you please': Trump recalls meeting with India's Modi",
-        "link": "https://www.geo.tv/latest/643714-sir-may-i-see-you-please-trump-recalls-meeting-with-indias-modi"
-      },
-      {
-        "title": "Jennifer Aniston reveals secret about her signature blonde hair",
-        "link": "https://www.geo.tv/latest/643716-jennifer-aniston-reveals-secret-about-her-signature-blonde-hair"
-      },
-      {
-        "title": "Trump warns GOP: Lose midterms, face third impeachment",
-        "link": "https://www.geo.tv/latest/643719-trump-warns-gop-lose-midterms-face-third-impeachment"
-      },
-      {
-        "title": "King Charles orders new plans for beloved royal home amid Andrew eviction",
-        "link": "https://www.geo.tv/latest/643717-king-charles-orders-new-plans-for-beloved-royal-home-amid-andrew-eviction"
       }
     ],
     "NDTV": [
@@ -213,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-07 07:51 UTC"
+  "last_updated": "2026-01-07 08:16 UTC"
 }
