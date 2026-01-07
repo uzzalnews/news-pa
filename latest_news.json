@@ -3,16 +3,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Trump actively discussing potentially buying Greenland, White House says",
-        "link": "https://www.bbc.com/news/articles/cly39pgmvrzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How could Trump 'take' Greenland?",
-        "link": "https://www.bbc.com/news/articles/c0q4w1xnv35o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Young people say new driving rules are condescending and expensive",
         "link": "https://www.bbc.com/news/articles/c4gr3rlpgnqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump actively discussing potentially buying Greenland, White House says",
+        "link": "https://www.bbc.com/news/articles/cly39pgmvrzo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Former England boss Keegan diagnosed with cancer",
@@ -21,28 +17,32 @@
       {
         "title": "More snow and ice across UK as cold snap continues",
         "link": "https://www.bbc.com/news/articles/cly39n1vejpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Beach hut owners hit back at council over 'second home' tax plan",
+        "link": "https://www.bbc.com/news/articles/cvgje1pkr2po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Rubio: Seizing Greenland by ‘military means’ an option for US",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/rubio-seizing-greenland-by-military-means-an-option-for-us?traffic_source=rss"
+      },
+      {
+        "title": "Saudi-led coalition targets Yemen separatists after leader skips talks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/saudi-led-coalition-targets-yemen-separatists-after-leader-skips-talks?traffic_source=rss"
+      },
+      {
+        "title": "Israel ‘asphyxiating’ Palestinians for ‘apartheid system’ in West Bank: UN",
+        "link": "https://www.aljazeera.com/news/2026/1/7/israel-asphyxiating-palestinians-for-apartheid-system-in-west-bank-un?traffic_source=rss"
+      },
+      {
+        "title": "Gaza babies ‘suffering from severe cold’ as Israel keeps blocking aid",
+        "link": "https://www.aljazeera.com/news/2026/1/7/gaza-babies-suffering-from-severe-cold-as-israel-keeps-blocking-aid-msf?traffic_source=rss"
+      },
+      {
         "title": "Ultra-Orthodox fury over military enlistment turns deadly in Israel",
         "link": "https://www.aljazeera.com/news/2026/1/7/ultra-orthodox-fury-over-military-enlistment-turns-deadly-in-israel?traffic_source=rss"
-      },
-      {
-        "title": "White House: Seized tankers violated sanctions, crews can be prosecuted",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/white-house-seized-tankers-violated-sanctions-crews-can-be-prosecuted?traffic_source=rss"
-      },
-      {
-        "title": "ICE agent shoots and kills woman during Minneapolis immigration raid",
-        "link": "https://www.aljazeera.com/news/2026/1/7/ice-agent-shoots-and-kills-woman-during-minneapolis-raid?traffic_source=rss"
-      },
-      {
-        "title": "Warner Bros again rejects latest hostile bid from Paramount",
-        "link": "https://www.aljazeera.com/economy/2026/1/7/warner-bros-again-rejects-latest-hostile-bid-from-paramount?traffic_source=rss"
-      },
-      {
-        "title": "Iran leaders warn protesters and foreign foes as deadly unrest ramps up",
-        "link": "https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Ashley Tisdale's husband adds fuel to 'toxic mom group' drama",
+        "link": "https://www.geo.tv/latest/643846-ashley-tisdales-husband-adds-fuel-to-toxic-mom-group-drama"
+      },
+      {
         "title": "Does new US food pyramid put too much steak on your plate?",
         "link": "https://www.geo.tv/latest/643842-does-new-us-food-pyramid-put-too-much-steak-on-your-plate"
       },
@@ -151,13 +155,13 @@
       {
         "title": "Prince Harry embarks on secret mission in feud with William",
         "link": "https://www.geo.tv/latest/643833-prince-harry-embarks-on-secret-mission-in-feud-with-william"
-      },
-      {
-        "title": "Officer Stephen LaPorta, 43, identified as victim in fatal Uxbridge crash",
-        "link": "https://www.geo.tv/latest/643836-officer-stephen-laporta-43-identified-as-victim-in-fatal-uxbridge-crash"
       }
     ],
     "NDTV": [
+      {
+        "title": "India, Europe Can Stabilise Global Economy: S Jaishankar In France",
+        "link": "https://www.ndtv.com/world-news/india-europe-can-stabilise-global-economy-s-jaishankar-in-france-10493032#publisher=newsstand"
+      },
       {
         "title": "Bangladesh Interested In Procuring JF-17 Jets Developed With China: Pakistan",
         "link": "https://www.ndtv.com/world-news/bangladesh-interested-in-procuring-jf-17-jets-developed-with-china-pakistan-10490855#publisher=newsstand"
@@ -173,10 +177,6 @@
       {
         "title": "White House Says Greenland Critical To Counter Russia, Chinese In Arctic",
         "link": "https://www.ndtv.com/world-news/white-house-says-greenland-critical-to-counter-russia-chinese-in-arctic-10490674#publisher=newsstand"
-      },
-      {
-        "title": "Cabinet Panel Proposes Presenting Budget On Sunday, February 1",
-        "link": "https://www.ndtv.com/india-news/cabinet-panel-proposes-presenting-budget-on-sunday-february-1-10490658#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-07 20:00 UTC"
+  "last_updated": "2026-01-07 20:35 UTC"
 }
