@@ -1,11 +1,13 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Syria to launch military operation against SDF in Aleppo",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-syria-to-launch-military-operation-against-sdf-in-aleppo?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
-      {
-        "title": "Russia sends navy to guard oil tanker being pursued by US forces",
-        "link": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Learner drivers face longer wait for tests and a lower drink-drive limit",
         "link": "https://www.bbc.com/news/articles/clym5jvgdepo?at_medium=RSS&at_campaign=rss"
@@ -19,30 +21,34 @@
         "link": "https://www.bbc.com/news/articles/c87rdl1zrwwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Families shocked Swiss ski bar was not inspected for years before deadly fire",
-        "link": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss"
+        "title": "MPs would vote on using troops in Ukraine, Starmer says",
+        "link": "https://www.bbc.com/news/articles/ckgln3lgl3jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jesy Nelson will 'shout from the rooftops' about baby muscle disease campaign",
+        "link": "https://www.bbc.com/news/articles/cp80k92kkedo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "US attempting to seize Venezuela-linked Russian oil tanker: Reports",
+        "link": "https://www.aljazeera.com/news/2026/1/7/us-attempting-to-seize-venezuela-linked-russian-oil-tanker-reports?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine reports ‘concrete results’ from talks with Western allies",
+        "link": "https://www.aljazeera.com/news/2026/1/7/ukraine-reports-concrete-results-from-talks-with-western-allies?traffic_source=rss"
+      },
+      {
+        "title": "Syrian army closes Aleppo’s Kurdish areas as clashes persist",
+        "link": "https://www.aljazeera.com/news/2026/1/7/syria-designates-aleppos-kurdish-areas-closed-military-zones-as-clashes-persist?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Syria to launch military operation against SDF in Aleppo",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-syria-to-launch-military-operation-against-sdf-in-aleppo?traffic_source=rss"
+      },
+      {
         "title": "Thousands of refugees fleeing DR Congo arrive at Burundi camps",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/thousands-of-refugees-fleeing-dr-congo-arrive-at-burundi-camps?traffic_source=rss"
-      },
-      {
-        "title": "Thousands flee fighting in Syria’s Aleppo",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/thousands-flee-fighting-in-syrias-aleppo?traffic_source=rss"
-      },
-      {
-        "title": "Yemen’s separatist leader feared being “possibly imprisoned” in Riyadh",
-        "link": "https://www.aljazeera.com/video/quotable/2026/1/7/yemens-separatist-leader-feared-being-possibly-imprisoned-in-riyadh?traffic_source=rss"
-      },
-      {
-        "title": "Peace as policy: Mediation is the core sense of modern diplomacy",
-        "link": "https://www.aljazeera.com/opinions/2026/1/7/peace-as-policy-mediation-is-the-core-sense-of-modern-diplomacy?traffic_source=rss"
-      },
-      {
-        "title": "Refugees return to ruined Nigerian town despite threats from armed groups",
-        "link": "https://www.aljazeera.com/features/2026/1/7/refugees-return-to-ruined-nigerian-town-despite-threats-from-armed-groups?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,16 +88,20 @@
         "link": "https://www.dawn.com/news/1965633/journalist-aslam-shah-arrested-over-defamation-charges"
       },
       {
-        "title": "UN accuses Israel of West Bank ‘apartheid’",
-        "link": "https://www.dawn.com/news/1965637/un-accuses-israel-of-west-bank-apartheid"
+        "title": "Iranian president orders security forces not to crackdown on peaceful protesters, distinguish them from rioters",
+        "link": "https://www.dawn.com/news/1965641/iranian-president-orders-security-forces-not-to-crackdown-on-peaceful-protesters-distinguish-them-from-rioters"
       },
       {
-        "title": "‘Contradiction in democracy’: Raza Rabbani urges NA speaker, Senate chairman to appoint opposition leaders",
-        "link": "https://www.dawn.com/news/1965625/contradiction-in-democracy-raza-rabbani-urges-na-speaker-senate-chairman-to-appoint-opposition-leaders"
+        "title": "UN accuses Israel of West Bank ‘apartheid’",
+        "link": "https://www.dawn.com/news/1965637/un-accuses-israel-of-west-bank-apartheid"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Live Updates: U.S. Forces Intercept Oil Tanker That Defied Blockade of Venezuela",
+        "link": "https://www.nytimes.com/live/2026/01/07/world/venezuela-us-trump"
+      },
       {
         "title": "Europe Tries to Come to Terms With Trump’s Intervention in Venezuela",
         "link": "https://www.nytimes.com/2026/01/07/world/europe/trump-venezuela-greenland-ukraine-europe.html"
@@ -99,10 +109,6 @@
       {
         "title": "Buy Greenland? Take It? Why? An Old Pact Already Gives Trump a Free Hand.",
         "link": "https://www.nytimes.com/2026/01/07/world/europe/trump-greenland-denmark-us-defense-pact.html"
-      },
-      {
-        "title": "Why Trump Wants Greenland",
-        "link": "https://www.nytimes.com/2026/01/05/world/europe/trump-greenland-why.html"
       },
       {
         "title": "Trump Claims Venezuela Will Hand Over Oil, and L.A. Wildfires Leave Behind Toxic Homes",
@@ -114,6 +120,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Syrian army shells Kurdish areas of Aleppo declared 'closed military zones'",
+        "link": "https://www.middleeasteye.net/news/syrian-army-declares-kurdish-areas-aleppo-closed-military-zones"
+      },
       {
         "title": "British columnist Melanie Phillips slammed for Palestinian 'final solution' comments",
         "link": "https://www.middleeasteye.net/trending/british-columnist-melanie-phillips-slammed-palestinian-final-solution-comments"
@@ -129,32 +139,28 @@
       {
         "title": "Leader of UAE-backed Yemen separatists 'flees' and is accused of treason",
         "link": "https://www.middleeasteye.net/news/leader-uae-backed-separatist-forces-accused-treason-yemens-government-1"
-      },
-      {
-        "title": "'Spectacle of empire': US has no day-after plan for Venezuela, experts say",
-        "link": "https://www.middleeasteye.net/news/spectacle-empire-us-has-no-day-after-plan-venezuela-experts-say"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince William sends bold message to Prince Harry as tides shift in feud",
-        "link": "https://www.geo.tv/latest/643773-prince-william-sends-bold-message-to-prince-harry-as-tides-shift-in-feud"
+        "title": "Natalie Portman caught in travel nightmare after Caribbean trip",
+        "link": "https://www.geo.tv/latest/643774-natalie-portman-caught-in-travel-nightmare-after-caribbean-trip"
       },
       {
-        "title": "Mia Goth opens up about 'profound' experience of working on 'The Odyssey'",
-        "link": "https://www.geo.tv/latest/643784-mia-goth-opens-up-about-profound-experience-of-working-on-the-odyssey"
+        "title": "Ex-PTI leaders-hosted confab urges govt bigwigs to enter dialogue with opposition",
+        "link": "https://www.geo.tv/latest/643790-ex-pti-leaders-hosted-confab-urges-govt-bigwigs-to-enter-political-dialogue-with-opposition"
       },
       {
-        "title": "Sydney Sweeney sparks backlash with bold look amid longstanding controversy",
-        "link": "https://www.geo.tv/latest/643783-sydney-sweeney-sparks-backlash-with-bold-look-amid-longstanding-controversy"
+        "title": "Amazon selling products from outside retailers without consent part of Shop Direct feature",
+        "link": "https://www.geo.tv/latest/643797-amazon-selling-products-from-outside-retailers-without-consent-part-of-shop-direct-feature"
       },
       {
-        "title": "Who is Georgia resident who won $983M Mega Millions jackpot, largest ever in state history?",
-        "link": "https://www.geo.tv/latest/643787-who-is-georgia-resident-who-won-983m-mega-millions-jackpot-largest-ever-in-state-history"
+        "title": "Why WBD rejects latest Paramount Skydance offer, reaffirms Netflix merger?",
+        "link": "https://www.geo.tv/latest/643796-why-wbd-rejects-latest-paramount-skydance-offer-reaffirms-netflix-merger"
       },
       {
-        "title": "CM Afridi urges inclusion of KP govt in anti-terror policymaking",
-        "link": "https://www.geo.tv/latest/643779-cm-afridi-urges-inclusion-of-kp-govt-in-anti-terror-policymaking"
+        "title": "Travis Kelce receives good news after devastating NFL loss",
+        "link": "https://www.geo.tv/latest/643795-travis-kelce-receives-good-news-after-devastating-nfl-loss"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-07 13:03 UTC"
+  "last_updated": "2026-01-07 13:48 UTC"
 }
