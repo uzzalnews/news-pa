@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Trump says Venezuela to hand over up to 50mn barrels of oil to US",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-trump-says-venezuela-to-hand-over-up-to-50mn-barrels-of-oil-to-us?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Trump says Venezuela to hand over up to 50mn barrels of oil to US",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-trump-says-venezuela-to-hand-over-up-to-50mn-barrels-of-oil-to-us?traffic_source=rss"
+      },
+      {
         "title": "China bans export of dual-use items to Japan amid tensions over Taiwan",
         "link": "https://www.aljazeera.com/news/2026/1/7/china-bans-export-of-dual-use-items-to-japan-amid-tensions-over-taiwan?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Saudi-led coalition strikes Yemen, says STC leader al-Zubaidi has fled",
         "link": "https://www.aljazeera.com/news/2026/1/7/saudi-led-coalition-strikes-yemen-says-stc-leader-al-zubaidi-has-fled?traffic_source=rss"
-      },
-      {
-        "title": "Fact-checking Trump on promised US oil company investment in Venezuela",
-        "link": "https://www.aljazeera.com/news/2026/1/7/fact-checking-trump-on-promised-us-oil-company-investment-in-venezuela?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,6 +143,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Prince William, Kate quietly welcome unexpected family member at Palace",
+        "link": "https://www.geo.tv/latest/643707-prince-william-kate-quietly-welcome-unexpected-family-member-at-palace"
+      },
+      {
+        "title": "Avatar: Fire and Ash proves its power with $1 billion global run",
+        "link": "https://www.geo.tv/latest/643697-avatar-fire-and-ash-proves-its-power-with"
+      },
+      {
         "title": "National Rifle Association sues own charitable arm over alleged misuse of $160m",
         "link": "https://www.geo.tv/latest/643705-national-rifle-association-sues-own-charitable-arm-over-alleged-misuse-of-160m"
       },
@@ -147,14 +161,6 @@
       {
         "title": "Meghan Markle camp responds after astonishing As Ever glitch",
         "link": "https://www.geo.tv/latest/643702-meghan-markle-camp-responds-after-astonishing-as-ever-glitch"
-      },
-      {
-        "title": "Venezuela to export $2 billion worth of oil to US in deal with Washington",
-        "link": "https://www.geo.tv/latest/643698-venezuela-to-export-2-billion-worth-of-oil-to-us-in-deal-with-washington"
-      },
-      {
-        "title": "Emma Stone reveals her obsession for 'Real Housewives' drama",
-        "link": "https://www.geo.tv/latest/643700-emma-stone-reveals-her-obsession-for-real-housewives-drama"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-07 05:46 UTC"
+  "last_updated": "2026-01-07 05:57 UTC"
 }
