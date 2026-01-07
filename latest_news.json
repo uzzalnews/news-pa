@@ -3,27 +3,35 @@
   "news": {
     "BBC": [
       {
+        "title": "UK forces helped US seizure of tanker, says Ministry of Defence",
+        "link": "https://www.bbc.com/news/articles/ckglnprzk72o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "US says it will discuss Greenland ownership with Denmark next week",
         "link": "https://www.bbc.com/news/articles/cly39pgmvrzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Prisoners who absconded on New Year's Day caught",
-        "link": "https://www.bbc.com/news/articles/ce9yg59y5r0o?at_medium=RSS&at_campaign=rss"
+        "title": "More snow and ice across UK as cold snap continues",
+        "link": "https://www.bbc.com/news/articles/cly39n1vejpo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Young people say new driving rules are condescending and expensive",
         "link": "https://www.bbc.com/news/articles/c4gr3rlpgnqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Venezuela's interim leader sacks general in charge of Maduro's guard",
-        "link": "https://www.bbc.com/news/articles/c8e5d9j66l0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ex-Tottenham and England forward Chivers dies aged 80",
-        "link": "https://www.bbc.com/sport/football/articles/c0r4q22pe4lo?at_medium=RSS&at_campaign=rss"
+        "title": "Beach hut owners hit back at council over 'second home' tax plan",
+        "link": "https://www.bbc.com/news/articles/cvgje1pkr2po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Iran leaders warn protesters and foreign foes as deadly unrest ramps up",
+        "link": "https://www.aljazeera.com/news/2026/1/7/iran-warns-protesters-foreign-foes-as-unrest-persists?traffic_source=rss"
+      },
+      {
+        "title": "US seizes two Venezuela-linked oil tankers in Caribbean, North Atlantic",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/us-seizes-two-venezuela-linked-oil-tankers-in-caribbean-north-atlantic?traffic_source=rss"
+      },
       {
         "title": "Extreme flooding submerges Kosovo cities, villages",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/extreme-flooding-submerges-kosovo-cities-villages?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Trump says he wants to free up Venezuelan oil flow. What was blocking it?",
         "link": "https://www.aljazeera.com/news/2026/1/7/trump-says-he-wants-to-free-up-venezuelan-oil-flow-what-was-blocking-it?traffic_source=rss"
-      },
-      {
-        "title": "New video said to show US forces shadowing Russian oil tanker",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/new-video-said-to-show-us-forces-shadowing-russian-oil-tanker?traffic_source=rss"
-      },
-      {
-        "title": "Al Jazeera reporter witnesses fighting in Aleppo as thousands flee",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/al-jazeera-reporter-witnesses-fighting-in-aleppo-as-thousands-flee?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,16 +97,16 @@
         "link": "https://www.nytimes.com/live/2026/01/07/world/venezuela-us-trump"
       },
       {
-        "title": "U.S. to Control Venezuela Oil Sales ‘Indefinitely,’ Energy Secretary Says",
-        "link": "https://www.nytimes.com/2026/01/07/business/energy-environment/us-venezuela-oil-control.html"
-      },
-      {
         "title": "Maduro Is Gone, but Repression in Venezuela Has Intensified",
         "link": "https://www.nytimes.com/2026/01/07/world/americas/venezuela-repression.html"
       },
       {
         "title": "After Maduro Ouster, Trump’s Venezuela Moves Pose a Challenge for GOP in Congress",
         "link": "https://www.nytimes.com/2026/01/07/us/politics/trump-venezuela-congress-republicans.html"
+      },
+      {
+        "title": "New Dietary Guidelines Abandon Longstanding Advice on Alcohol",
+        "link": "https://www.nytimes.com/2026/01/07/health/dietary-guidelines-alcohol.html"
       },
       {
         "title": "Warner Bros. Board Rebuffs Paramount’s Latest Buyout Offer",
@@ -137,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Officer Stephen LaPorta, 43, identified as victim in fatal Uxbridge crash",
+        "link": "https://www.geo.tv/latest/643836-officer-stephen-laporta-43-identified-as-victim-in-fatal-uxbridge-crash"
+      },
+      {
         "title": "Prince William secures his future as king with major win",
         "link": "https://www.geo.tv/latest/643822-prince-william-secures-his-future-as-king-with-major-win"
       },
@@ -151,10 +155,6 @@
       {
         "title": "US seizes Russia-flagged oil tanker chased to North Atlantic",
         "link": "https://www.geo.tv/latest/643826-us-seizes-russia-flagged-oil-tanker-chased-to-north-atlantic"
-      },
-      {
-        "title": "Meghan Markle reveals her 'intention' amid Prince Harry's travel plans",
-        "link": "https://www.geo.tv/latest/643830-meghan-markle-reveals-her-intention-amid-prince-harrys-travel-plans"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-07 17:32 UTC"
+  "last_updated": "2026-01-07 17:52 UTC"
 }
