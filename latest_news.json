@@ -1,35 +1,41 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Syria to launch military operation against SDF in Aleppo",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-syria-to-launch-military-operation-against-sdf-in-aleppo?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Fear and uncertainty: Venezuelans face up to future without Maduro",
+        "title": "'Fear in the streets': Venezuelans uncertain about what might happen next",
         "link": "https://www.bbc.com/news/articles/c62077l3m7eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Murderer who absconded from prison is caught",
+        "link": "https://www.bbc.com/news/articles/ce9yg59y5r0o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "US discussing options to acquire Greenland, including use of military, White House says",
         "link": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Man jailed for selling chemicals online to help people kill themselves",
-        "link": "https://www.bbc.com/news/articles/c87rdl1zrwwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "I would have been selfish not to share twins' muscle disease diagnosis, Jesy Nelson says",
         "link": "https://www.bbc.com/news/articles/cp80k92kkedo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "MPs would vote on using troops in Ukraine, Starmer says",
-        "link": "https://www.bbc.com/news/articles/ckgln3lgl3jo?at_medium=RSS&at_campaign=rss"
+        "title": "Man jailed for selling chemicals online to help people kill themselves",
+        "link": "https://www.bbc.com/news/articles/c87rdl1zrwwo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump says he wants to free up Venezuelan oil flow. What was blocking it?",
+        "link": "https://www.aljazeera.com/news/2026/1/7/trump-says-he-wants-to-free-up-venezuelan-oil-flow-what-was-blocking-it?traffic_source=rss"
+      },
+      {
+        "title": "New video said to show US forces shadowing Russian oil tanker",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/new-video-said-to-show-us-forces-shadowing-russian-oil-tanker?traffic_source=rss"
+      },
+      {
+        "title": "Al Jazeera reporter witnesses fighting in Aleppo as thousands flee",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/al-jazeera-reporter-witnesses-fighting-in-aleppo-as-thousands-flee?traffic_source=rss"
+      },
       {
         "title": "Arsenal vs Liverpool: Premier League – team news, start time, lineups",
         "link": "https://www.aljazeera.com/sports/2026/1/7/arsenal-vs-liverpool-premier-league-team-news-start-time-lineups?traffic_source=rss"
@@ -37,18 +43,6 @@
       {
         "title": "US military seizes Venezuela-linked Russian oil tanker",
         "link": "https://www.aljazeera.com/news/2026/1/7/us-attempting-to-seize-venezuela-linked-russian-oil-tanker-reports?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine reports ‘concrete results’ from talks with Western allies",
-        "link": "https://www.aljazeera.com/news/2026/1/7/ukraine-reports-concrete-results-from-talks-with-western-allies?traffic_source=rss"
-      },
-      {
-        "title": "Syrian army closes Aleppo’s Kurdish areas as clashes persist",
-        "link": "https://www.aljazeera.com/news/2026/1/7/syria-designates-aleppos-kurdish-areas-closed-military-zones-as-clashes-persist?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Syria to launch military operation against SDF in Aleppo",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/7/live-syria-to-launch-military-operation-against-sdf-in-aleppo?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,16 +70,16 @@
     ],
     "Dawn": [
       {
-        "title": "Politicos urge govt-opposition talks, seek release of political workers as ‘confidence-building measures’",
-        "link": "https://www.dawn.com/news/1965639/politicos-urge-govt-opposition-talks-seek-release-of-political-workers-as-confidence-building-measures"
+        "title": "Politicos urge govt-opposition talks, seek release of political workers as ‘confidence-building measure’",
+        "link": "https://www.dawn.com/news/1965639/politicos-urge-govt-opposition-talks-seek-release-of-political-workers-as-confidence-building-measure"
       },
       {
         "title": "Special protection unit being set up in Islamabad for security of Chinese nationals, says Naqvi",
         "link": "https://www.dawn.com/news/1965630/special-protection-unit-being-set-up-in-islamabad-for-security-of-chinese-nationals-says-naqvi"
       },
       {
-        "title": "KP CM takes aim at Centre, says if govt wanted to eradicate terrorism ‘they would sit with us’",
-        "link": "https://www.dawn.com/news/1965642/kp-cm-takes-aim-at-centre-says-if-govt-wanted-to-eradicate-terrorism-they-would-sit-with-us"
+        "title": "KP CM calls for ‘policy shift’, urges consultation with province on counter-terrorism measures",
+        "link": "https://www.dawn.com/news/1965642/kp-cm-calls-for-policy-shift-urges-consultation-with-province-on-counter-terrorism-measures"
       },
       {
         "title": "Social media posts case: Imaan, Hadi file application seeking to summon DG ISPR as a witness",
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Report reveals 'secret web' of unlisted sites linked to pro-Israel doxxing company",
+        "link": "https://www.middleeasteye.net/news/report-reveals-secret-web-unlisted-sites-linked-pro-israel-doxxing-company"
+      },
+      {
+        "title": "Corbyn slams UK for £240m deal with Israel-linked US tech giant Palantir",
+        "link": "https://www.middleeasteye.net/news/corbyn-slams-uk-ps240m-deal-israeli-military-linked-tech-giant-palantir"
+      },
+      {
         "title": "Who is Aidarous al-Zubaidi, Yemen’s southern separatist leader?",
         "link": "https://www.middleeasteye.net/news/who-aidarous-al-zubaidi-yemens-separatist-leader"
       },
@@ -131,17 +133,13 @@
       {
         "title": "Yemen's STC says delegation in Riyadh disappeared onto bus and all contact lost",
         "link": "https://www.middleeasteye.net/news/stc-yemen-delegation-saudi-arabia-disappeared-contact"
-      },
-      {
-        "title": "Fifa urged to stop Israeli demolition of West Bank refugee camp football pitch",
-        "link": "https://www.middleeasteye.net/news/fifa-urged-stop-israel-demolishing-west-bank-refugee-camp-football-pitch"
-      },
-      {
-        "title": "Senior Labour MP meets Muslim Council of Britain despite 'disengagement' policy",
-        "link": "https://www.middleeasteye.net/news/senior-labour-mp-meets-muslim-council-britain-despite-disengagement-policy"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Mia Goth gets candid about her time on ‘Star Wars: Starfighter'",
+        "link": "https://www.geo.tv/latest/643811-mia-goth-gets-candid-about-her-time-on-star-wars-starfighter"
+      },
       {
         "title": "Roblox mandates age verification through camera to access chat, comms features globally",
         "link": "https://www.geo.tv/latest/643805-roblox-mandates-age-verification-through-camera-to-access-chat-comms-features-globally"
@@ -157,32 +155,28 @@
       {
         "title": "Sydney Sweeney gives rare insight into her filming process",
         "link": "https://www.geo.tv/latest/643793-sydney-sweeney-gives-rare-insight-into-her-filming-process"
-      },
-      {
-        "title": "Travis Kelce hints at plans for 'regular' life after marrying Taylor Swift",
-        "link": "https://www.geo.tv/latest/643799-travis-kelce-hints-at-plans-for-regular-life-after-marrying-taylor-swift"
       }
     ],
     "NDTV": [
       {
-        "title": "'Won't Get Into Numbers': Chief Minister Amid Confusion Over Indore Deaths",
-        "link": "https://www.ndtv.com/india-news/wont-get-into-numbers-chief-minister-amid-confusion-over-indore-deaths-10471793#publisher=newsstand"
+        "title": "Madhya Pradesh Artisans Allege Fraud After 'Fake' Stole Gifted To JP Nadda",
+        "link": "https://www.ndtv.com/india-news/madhya-pradesh-artisans-allege-fraud-after-fake-stole-gifted-to-jp-nadda-10475110#publisher=newsstand"
+      },
+      {
+        "title": "Narrow Escape For MK Stalin As His Vehicle's Tyre Burst On Way To Airport",
+        "link": "https://www.ndtv.com/india-news/narrow-escape-for-mk-stalin-as-his-vehicles-tyre-burst-on-way-to-airport-10473898#publisher=newsstand"
       },
       {
         "title": "US Forces Seize Russia-Flagged Oil Tanker In Atlantic After Dramatic Chase",
         "link": "https://www.ndtv.com/world-news/marinera-bella-1-days-after-venezuela-op-us-forces-prepare-to-board-russia-flagged-tanker-10470414#publisher=newsstand"
       },
       {
-        "title": "2 Sandalwood Trees Worth Lakhs Stolen From Kerala Police Academy",
-        "link": "https://www.ndtv.com/india-news/2-sandalwood-trees-worth-lakhs-stolen-from-kerala-police-academy-10471656#publisher=newsstand"
+        "title": "Russia Offered US A Secret Deal To Swap Venezuela For Ukraine In 2019",
+        "link": "https://www.ndtv.com/world-news/russia-offered-us-a-secret-deal-to-swap-venezuela-for-ukraine-in-2019-10473781#publisher=newsstand"
       },
       {
-        "title": "150 Jets, Delta Force, CIA: How US Captured Maduro In Abbottabad-Like Raid",
-        "link": "https://www.ndtv.com/world-news/150-jets-delta-force-cia-how-us-captured-nicolas-maduro-in-abbottabad-type-raid-10471062#publisher=newsstand"
-      },
-      {
-        "title": "\"Will Remain In Politics Until I Have People's Blessings\": Siddaramaiah",
-        "link": "https://www.ndtv.com/karnataka-news/will-remain-in-politics-until-i-have-peoples-blessings-karnataka-chief-minister-siddaramaiah-10470319#publisher=newsstand"
+        "title": "'Won't Get Into Numbers': Chief Minister Amid Confusion Over Indore Deaths",
+        "link": "https://www.ndtv.com/india-news/wont-get-into-numbers-chief-minister-amid-confusion-over-indore-deaths-10471793#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-07 14:59 UTC"
+  "last_updated": "2026-01-07 15:35 UTC"
 }
