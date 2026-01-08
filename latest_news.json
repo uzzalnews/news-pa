@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Arsenal vs Liverpool – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/8/live-arsenal-vs-liverpool-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,23 @@
         "link": "https://www.bbc.com/news/articles/c20g11y4dywo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fourteen clifftop homes face 'imminent' collapse",
-        "link": "https://www.bbc.com/news/articles/crkre16j128o?at_medium=RSS&at_campaign=rss"
+        "title": "Nasa considers whether to bring sick crew member back to Earth",
+        "link": "https://www.bbc.com/news/articles/cx2l9perw68o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Protesters scream ‘ICE out’ one day after fatal shooting in Minneapolis",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/8/protesters-scream-ice-out-one-day-after-fatal-shooting-in-minneapolis?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Arsenal vs Liverpool – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/8/live-arsenal-vs-liverpool-premier-league?traffic_source=rss"
+      },
+      {
+        "title": "Senate advances resolution to curb Trump’s military authority in Venezuela",
+        "link": "https://www.aljazeera.com/news/2026/1/8/us-senate-passes-measure-to-restrict-trumps-military-actions-in-venezuela?traffic_source=rss"
+      },
       {
         "title": "Why Trump says getting Greenland is about defence",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/8/why-trump-says-getting-greenland-is-about-defence?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Cameroon vs Morocco: AFCON 2025 – team news, start time and lineups",
         "link": "https://www.aljazeera.com/sports/2026/1/8/cameroon-vs-morocco-preview-afcon-2025-team-news-start-time-lineups-diaz-mbeumo?traffic_source=rss"
-      },
-      {
-        "title": "Photos: Civilians flee Aleppo amid intensified fighting",
-        "link": "https://www.aljazeera.com/gallery/2026/1/8/photos-civilians-flee-aleppo-amid-intensified-fighting?traffic_source=rss"
-      },
-      {
-        "title": "Abduction of Venezuela’s Maduro illegal despite US charges, experts say",
-        "link": "https://www.aljazeera.com/news/2026/1/8/abduction-of-venezuelas-maduro-illegal-despite-us-charges-experts-say?traffic_source=rss"
-      },
-      {
-        "title": "At least 100 people killed in US attack on Venezuela, minister says",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/8/at-least-100-people-killed-in-us-attack-on-venezuela-minister-says?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/1965821/historic-rs185bn-bid-buys-sialkot-as-new-psl-franchise-hyderabad-snapped-up-for-rs175bn"
       },
       {
+        "title": "Pakistan, Muslim countries ‘express strong condemnation’ of Israeli FM’s visit to Somaliland",
+        "link": "https://www.dawn.com/news/1965837/pakistan-muslim-countries-express-strong-condemnation-of-israeli-fms-visit-to-somaliland"
+      },
+      {
         "title": "‘Negotiations do not happen in jail’: PTI’s Raja says talks with govt will not happen in Imran’s absence",
         "link": "https://www.dawn.com/news/1965825/negotiations-do-not-happen-in-jail-ptis-raja-says-talks-with-govt-will-not-happen-in-imrans-absence"
       },
@@ -84,10 +94,6 @@
       {
         "title": "Trump says US oversight of Venezuela could last years",
         "link": "https://www.dawn.com/news/1965826/trump-says-us-oversight-of-venezuela-could-last-years"
-      },
-      {
-        "title": "Only ‘bilateral dispute’ with Kabul is terrorism emanating from Afghan soil: FO",
-        "link": "https://www.dawn.com/news/1965823/only-bilateral-dispute-with-kabul-is-terrorism-emanating-from-afghan-soil-fo"
       }
     ],
     "APNews": [],
@@ -97,16 +103,16 @@
         "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-interview-venezuela.html"
       },
       {
-        "title": "Trump Sits Down With Times Reporters for Two-Hour Interview",
-        "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-new-york-times-reporter-interview.html"
-      },
-      {
         "title": "An Oval Office Viewing",
         "link": "https://www.nytimes.com/2026/01/08/briefing/an-oval-office-viewing.html"
       },
       {
-        "title": "The Latest on the ICE Killing in Minneapolis, and a Shadow Fleet of Oil Tankers",
-        "link": "https://www.nytimes.com/2026/01/08/podcasts/the-headlines/ice-minneapolis-oil-tanker.html"
+        "title": "Minn. Officials Say They’re Being Blocked From Investigating Fatal ICE Shooting",
+        "link": "https://www.nytimes.com/2026/01/08/us/minnesota-ice-shooting-news.html"
+      },
+      {
+        "title": "We Pressed Trump on His Conclusion About the ICE Shooting in Minneapolis. Here’s What He Said.",
+        "link": "https://www.nytimes.com/2026/01/08/us/politics/trump-minnesota-ice-shooting-video.html"
       },
       {
         "title": "Minnesota’s Dispute With Trump Administration Boils Over After ICE Shooting",
@@ -114,6 +120,14 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Australia: Boycott calls after art festival pulls Palestinian author in wake of Bondi attack",
+        "link": "https://www.middleeasteye.net/trending/calls-boycott-australian-writers-festival-after-palestinian-author-pulled-lineup"
+      },
+      {
+        "title": "Why Arab rulers remained silent over US seizure of Maduro",
+        "link": "https://www.middleeasteye.net/opinion/why-arab-rulers-silent-us-seizure-maduro-chilling-lesson"
+      },
       {
         "title": "Reform's Laila Cunningham claimed Shabana Mahmood protects Pakistani vote base",
         "link": "https://www.middleeasteye.net/news/reforms-laila-cunningham-claimed-shabana-mahmood-protecting-pakistani-voters"
@@ -125,58 +139,50 @@
       {
         "title": "‘Appalling’: Samoa to open Israel embassy in Jerusalem, sparking criticism",
         "link": "https://www.middleeasteye.net/news/appalling-samoa-open-israel-embassy-jerusalem-sparking-criticism"
-      },
-      {
-        "title": "Israeli FA to charge Palestinian club over chants against banned extremist Kahane",
-        "link": "https://www.middleeasteye.net/news/israeli-fa-charge-palestinian-club-over-chants-against-banned-extremist-kahane"
-      },
-      {
-        "title": "UK anti-protest laws may be 'in breach' of international human rights obligations",
-        "link": "https://www.middleeasteye.net/news/human-rights-watch-uk-anti-protest-laws-may-be-breach-international-human-rights-obligations"
       }
     ],
     "GeoTV": [
       {
+        "title": "Fujifilm unveils hybrid ‘Instax mini evo cinema' camera that prints video links",
+        "link": "https://www.geo.tv/latest/644025-fujifilm-unveils-hybrid-instax-mini-evo-cinema-camera-that-prints-video-links"
+      },
+      {
+        "title": "'Illegal': Pakistan, other nations condemn Israeli official's visit to Somaliland",
+        "link": "https://www.geo.tv/latest/644026-illegal-pakistan-other-nations-condemn-israeli-officials-visit-to-somaliland"
+      },
+      {
+        "title": "Prince Harry, Meghan Markle mute Kate, William's buzz with first blow of 2026",
+        "link": "https://www.geo.tv/latest/644023-princess-kate-william-receive-first-blow-of-2026-from-meghan-harry"
+      },
+      {
+        "title": "Iranian police rescue pregnant Pakistani woman from ‘abductor'",
+        "link": "https://www.geo.tv/latest/644027-iranian-police-rescue-pregnant-pakistani-woman-from-abductor"
+      },
+      {
         "title": "Sophie Turner can't watch ‘Game of Thrones' after trauma",
         "link": "https://www.geo.tv/latest/644024-sophie-turner-cant-watch-game-of-thrones-after-trauma"
-      },
-      {
-        "title": "Prince William makes rare comment about 'Catherine's health journey'",
-        "link": "https://www.geo.tv/latest/644021-prince-william-makes-rare-comment-about-catherines-health-journey"
-      },
-      {
-        "title": "Protesters, US law enforcement clash after immigration officer kills woman",
-        "link": "https://www.geo.tv/latest/644016-protesters-us-law-enforcement-clash-after-immigration-officer-kills-woman"
-      },
-      {
-        "title": "Which crew member is ill? NASA evaluates early ISS mission end after medical issue",
-        "link": "https://www.geo.tv/latest/644018-which-crew-member-is-ill-nasa-evaluates-early-iss-mission-end-after-medical-issue"
-      },
-      {
-        "title": "What happened in Case No.9's final episode?",
-        "link": "https://www.geo.tv/latest/644017-what-happened-in-case-no9s-final-episode"
       }
     ],
     "NDTV": [
       {
-        "title": "6 Accused In Manipur Gang-Rape Case Charged By Special CBI Court",
-        "link": "https://www.ndtv.com/india-news/special-cbi-court-frames-charges-on-15-counts-against-6-accused-in-manipur-gang-rape-case-10520649#publisher=newsstand"
+        "title": "No Damage To Delhi Mosque, Drone Footage From Demolition Site Reveals",
+        "link": "https://www.ndtv.com/india-news/turkman-gate-faiz-e-elahi-masjid-delhi-mcd-no-damage-to-delhi-mosque-drone-footage-from-demolition-site-reveals-10542545#publisher=newsstand"
       },
       {
-        "title": "Between Akal Takht And The Ballot Box: Punjab's Politics Of Belief",
-        "link": "https://www.ndtv.com/india-news/between-akal-takht-and-the-ballot-box-punjabs-politics-of-belief-10538201#publisher=newsstand"
+        "title": "Fake Marriage, Fake Divorce: UK Visa Plot Unravelled In Gujarat",
+        "link": "https://www.ndtv.com/india-news/fake-marriage-fake-divorce-uk-visa-plot-unravelled-in-gujarat-10532923#publisher=newsstand"
       },
       {
-        "title": "\"Mamata Banerjee Obstructed Probe\": Probe Agency Approaches High Court",
-        "link": "https://www.ndtv.com/india-news/probe-agency-eds-big-charge-against-mamata-banerjee-after-raids-on-i-pac-10523782#publisher=newsstand"
+        "title": "Bangladeshi Muslims To Hit 40% Of Assam Population In Census: Himanta Sarma",
+        "link": "https://www.ndtv.com/india-news/bangladeshi-muslims-to-hit-40-of-assam-population-in-census-himanta-sarma-10542475#publisher=newsstand"
       },
       {
-        "title": "\"Documents Stolen\": I-PAC Head's Family's Big Charge Against Probe Agency ED",
-        "link": "https://www.ndtv.com/india-news/documents-stolen-i-pac-heads-familys-big-charge-against-probe-agency-ed-10530805#publisher=newsstand"
+        "title": "Mamata Banerjee To Lead Protest March Tomorrow Against Probe Agency Raid",
+        "link": "https://www.ndtv.com/india-news/mamata-banerjee-to-lead-protest-march-tomorrow-against-probe-agency-raid-10542435#publisher=newsstand"
       },
       {
-        "title": "'Will Shoot First, Ask Questions Later': Denmark Warns US Over Greenland Invasion",
-        "link": "https://www.ndtv.com/world-news/shoot-first-ask-questions-later-denmark-warns-us-over-greenland-invasion-10537683#publisher=newsstand"
+        "title": "1,104 Infiltration Attempts Detected Along India-Bangladesh Border",
+        "link": "https://www.ndtv.com/india-news/1-104-infiltration-attempts-detected-along-india-bangladesh-border-10542395#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-08 16:59 UTC"
+  "last_updated": "2026-01-08 17:36 UTC"
 }
