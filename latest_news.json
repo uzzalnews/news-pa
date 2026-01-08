@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Syria’s army shells SDF positions in Aleppo neighbourhoods",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/8/live-syrias-army-shells-sdf-positions-in-aleppo-neighbourhoods?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,7 +7,7 @@
         "link": "https://www.bbc.com/news/articles/c1jepdjy256o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Video shows how deadly shooting unfolded, second by second",
+        "title": "Eyewitness video shows how deadly shooting unfolded, second by second",
         "link": "https://www.bbc.com/news/videos/ceqzj9932wjo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Witnesses film ICE killing of US citizen in Minneapolis",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/8/witnesses-film-ice-killing-of-us-citizen-in-minneapolis?traffic_source=rss"
+      },
+      {
+        "title": "Is the US unlocking Venezuela’s oil wealth or exploiting it?",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/1/8/is-the-us-unlocking-venezuelas-oil-wealth-or-exploiting-it?traffic_source=rss"
+      },
+      {
         "title": "DR Congo superfan Mboladinga ‘Lumumba Vea’ leaves AFCON as a hero",
         "link": "https://www.aljazeera.com/sports/2026/1/8/dr-congo-superfan-mboladinga-lumumba-vea-leaves-afcon-as-a-hero?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "US says it will control Venezuelan oil indefinitely",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/8/us-says-it-will-control-venezuelan-oil-indefinitely?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Syria’s army shells SDF positions in Aleppo neighbourhoods",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/8/live-syrias-army-shells-sdf-positions-in-aleppo-neighbourhoods?traffic_source=rss"
-      },
-      {
-        "title": "Who was Renee Nicole Good, the woman killed in ICE Minneapolis shooting?",
-        "link": "https://www.aljazeera.com/news/2026/1/8/who-is-renee-nicole-good-the-woman-killed-in-the-ice-minneapolis-shooting?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,20 +74,20 @@
         "link": "https://www.dawn.com/news/1965821/historic-rs185bn-bid-buys-sialkot-as-new-psl-franchise-hyderabad-snapped-up-for-rs175bn"
       },
       {
-        "title": "TTAP says PTI, MWM workers taken into custody by Punjab police; convoy en route to Lahore",
-        "link": "https://www.dawn.com/news/1965801/ttap-says-pti-mwm-workers-taken-into-custody-by-punjab-police-convoy-en-route-to-lahore"
-      },
-      {
-        "title": "PTI takes offence to being labelled ‘terrorist facilitators’, says there should be no politics on the issue",
-        "link": "https://www.dawn.com/news/1965815/pti-takes-offence-to-being-labelled-terrorist-facilitators-says-there-should-be-no-politics-on-the-issue"
+        "title": "Only ‘bilateral dispute’ with Kabul is terrorism emanating from Afghan soil: FO",
+        "link": "https://www.dawn.com/news/1965823/only-bilateral-dispute-with-kabul-is-terrorism-emanating-from-afghan-soil-fo"
       },
       {
         "title": "CDF Field Marshal Munir emphasises army’s zero-tolerance policy towards threats to national security",
         "link": "https://www.dawn.com/news/1965793/cdf-field-marshal-munir-emphasises-armys-zero-tolerance-policy-towards-threats-to-national-security"
       },
       {
-        "title": "In Quetta, PM Shehbaz stresses ‘brotherhood and cooperation’ with provinces, especially those facing challenges",
-        "link": "https://www.dawn.com/news/1965818/in-quetta-pm-shehbaz-stresses-brotherhood-and-cooperation-with-provinces-especially-those-facing-challenges"
+        "title": "PTI takes offence to being labelled ‘terrorist facilitators’, says there should be no politics on the issue",
+        "link": "https://www.dawn.com/news/1965815/pti-takes-offence-to-being-labelled-terrorist-facilitators-says-there-should-be-no-politics-on-the-issue"
+      },
+      {
+        "title": "TTAP says PTI, MWM workers taken into custody by Punjab police; convoy en route to Lahore",
+        "link": "https://www.dawn.com/news/1965801/ttap-says-pti-mwm-workers-taken-into-custody-by-punjab-police-convoy-en-route-to-lahore"
       }
     ],
     "APNews": [],
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Why Princess Anne remains the royal family's ultimate grafter",
+        "link": "https://www.geo.tv/latest/643986-why-princess-anne-remains-the-royal-familys-ultimate-grafter"
+      },
+      {
         "title": "Cynthia Erivo, Wagner Moura shockingly left out of 2026 Actor Awards",
         "link": "https://www.geo.tv/latest/643984-cynthia-erivo-wagner-moura-shockingly-left-out-of-2026-actor-awards"
       },
@@ -157,32 +155,28 @@
       {
         "title": "Finneas' fiancée Claudia Sulewski spills the tea on wedding plans",
         "link": "https://www.geo.tv/latest/643931-finneas-oconnell-fiance-spill-details-about-their-wedding-plans"
-      },
-      {
-        "title": "Nell Fisher looks back on ‘Stranger Things' audition",
-        "link": "https://www.geo.tv/latest/643951-nell-fisher-looks-back-on-stranger-things-audition"
       }
     ],
     "NDTV": [
       {
-        "title": "Opinion: Blog | Madhav Gadgil: The 'Durable Optimist' Who Believed Science, Too, Has Obligations",
-        "link": "https://www.ndtv.com/opinion/madhav-gadgil-the-durable-optimist-who-believed-science-too-has-obligations-10529100#publisher=newsstand"
+        "title": "How Illegal Coal Mining Case Put I-PAC Under Probe Agency Radar, Led To Raids",
+        "link": "https://www.ndtv.com/india-news/how-illegal-coal-mining-case-put-i-pac-under-probe-agency-radar-led-to-raids-10530812#publisher=newsstand"
       },
       {
-        "title": "Main Accused In Bangladeshi Hindu Man Dipu Das' Lynching Arrested",
-        "link": "https://www.ndtv.com/world-news/bangladesh-police-arrest-prime-accused-in-hindu-worker-dipu-chandra-das-killing-10528167#publisher=newsstand"
+        "title": "Global Cooperation Is Changing, Not Declining: World Economic Forum",
+        "link": "https://www.ndtv.com/india-news/global-cooperation-is-changing-not-declining-world-economic-forum-10527850#publisher=newsstand"
       },
       {
-        "title": "Rogan Josh To Paneer Tikka: Delhi Government's Menu For Official Events",
-        "link": "https://www.ndtv.com/india-news/rogan-josh-to-paneer-tikka-delhi-governments-menu-for-official-events-10528772#publisher=newsstand"
+        "title": "Trump Wants Venezuela's Oil. What It Means For Climate",
+        "link": "https://www.ndtv.com/world-news/trump-wants-venezuelas-oil-what-it-means-for-climate-10527294#publisher=newsstand"
       },
       {
-        "title": "Forcing Woman To Continue Pregnancy Violates Bodily Integrity: Delhi Court",
-        "link": "https://www.ndtv.com/india-news/forcing-woman-to-continue-pregnancy-violates-bodily-integrity-delhi-court-10528382#publisher=newsstand"
+        "title": "Adani's Mundra Port Becomes Indias 1st To Berth Fully Laden Crude Carrier",
+        "link": "https://www.ndtv.com/india-news/adanis-mundra-port-becomes-indias-1st-to-berth-fully-laden-crude-carrier-10526242#publisher=newsstand"
       },
       {
-        "title": "Two Indian Truck Drivers Caught In US With Cocaine 'Enough To Kill 1,13,000 People'",
-        "link": "https://www.ndtv.com/world-news/two-indian-truck-drivers-caught-in-us-with-cocaine-enough-to-kill-1-13-000-people-10528352#publisher=newsstand"
+        "title": "\"Documents Stolen\": I-PAC Head's Family's Big Charge Against Probe Agency ED",
+        "link": "https://www.ndtv.com/india-news/documents-stolen-i-pac-heads-familys-big-charge-against-probe-agency-ed-10530805#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-08 13:49 UTC"
+  "last_updated": "2026-01-08 14:13 UTC"
 }
