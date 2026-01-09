@@ -3,7 +3,7 @@
   "news": {
     "BBC": [
       {
-        "title": "Limiting Grok AI image edits to paid users 'insulting' to victims, says No 10",
+        "title": "Changes to Elon Musk's AI tool Grok 'insulting' to sexual violence victims, No 10 says",
         "link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Iran cuts internet as protesters plan more rallies",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/9/iran-cuts-internet-as-protesters-plan-more-rallies?traffic_source=rss"
+      },
+      {
+        "title": "Yemen’s southern separatists disband amid Riyadh talks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/9/yemens-southern-separatists-disband-amid-riyadh-talks?traffic_source=rss"
+      },
+      {
         "title": "EU states’ nod on Mercosur trade deal ends 25-year wait",
         "link": "https://www.aljazeera.com/news/2026/1/9/eu-states-nod-on-mercosur-trade-deal-ends-25-year-wait?traffic_source=rss"
       },
@@ -35,14 +43,6 @@
       {
         "title": "Trump cancels second wave of attacks on Venezuela after ‘cooperation’",
         "link": "https://www.aljazeera.com/news/2026/1/9/trump-cancels-second-wave-of-attacks-on-venezuela-after-cooperation?traffic_source=rss"
-      },
-      {
-        "title": "US to support Cambodian-Thai ceasefire with $45m aid pledge",
-        "link": "https://www.aljazeera.com/news/2026/1/9/us-to-support-cambodian-thai-ceasefire-with-45m-aid-pledge?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strikes kill Palestinians across Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/9/israeli-strikes-kill-palestinians-across-gaza?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,28 +70,36 @@
     ],
     "Dawn": [
       {
-        "title": "Sindh minister welcomes KP CM Afridi upon arrival at Karachi airport",
-        "link": "https://www.dawn.com/news/1965987/sindh-minister-welcomes-kp-cm-afridi-upon-arrival-at-karachi-airport"
+        "title": "Sindh minister welcomes KP CM upon arrival at Karachi airport",
+        "link": "https://www.dawn.com/news/1965987/sindh-minister-welcomes-kp-cm-upon-arrival-at-karachi-airport"
       },
       {
-        "title": "Iran’s supreme leader tells Trump to focus on problems in his own country",
-        "link": "https://www.dawn.com/news/1965993/irans-supreme-leader-tells-trump-to-focus-on-problems-in-his-own-country"
+        "title": "Iran cuts internet amid expanding protests over economy; supreme leaders tells Trump to focus on problems in US",
+        "link": "https://www.dawn.com/news/1965993/iran-cuts-internet-amid-expanding-protests-over-economy-supreme-leaders-tells-trump-to-focus-on-problems-in-us"
       },
       {
         "title": "India-US trade deal stalled after Modi did not call Trump, says US commerce secretary",
         "link": "https://www.dawn.com/news/1965990/india-us-trade-deal-stalled-after-modi-did-not-call-trump-says-us-commerce-secretary"
       },
       {
-        "title": "Russia fires hypersonic Oreshnik missile near Ukraine’s EU border",
-        "link": "https://www.dawn.com/news/1966001/russia-fires-hypersonic-oreshnik-missile-near-ukraines-eu-border"
+        "title": "Punjab schools and colleges will open from Jan 12, says education minister",
+        "link": "https://www.dawn.com/news/1965994/punjab-schools-and-colleges-will-open-from-jan-12-says-education-minister"
       },
       {
-        "title": "Grok to offer image generation only to paid subscribers after backlash",
-        "link": "https://www.dawn.com/news/1966000/grok-to-offer-image-generation-only-to-paid-subscribers-after-backlash"
+        "title": "Russia fires hypersonic Oreshnik missile near Ukraine’s EU border",
+        "link": "https://www.dawn.com/news/1966001/russia-fires-hypersonic-oreshnik-missile-near-ukraines-eu-border"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Fed Keeps Close Eye on Labor Market as It Assesses Further Cuts",
+        "link": "https://www.nytimes.com/2026/01/09/business/economy/federal-reserve-labor-market-rate-cuts.html"
+      },
+      {
+        "title": "Border Patrol Agents Shoot 2 in Oregon, and Trump Says, ‘I Don’t Need International Law’",
+        "link": "https://www.nytimes.com/2026/01/09/podcasts/the-headlines/border-patrol-agents-shooting-oregon-trump-international-law.html"
+      },
       {
         "title": "Wary of Investing in Venezuela, Big Oil Heads to the White House",
         "link": "https://www.nytimes.com/2026/01/09/business/energy-environment/venezuela-oil-trump.html"
@@ -101,16 +109,8 @@
         "link": "https://www.nytimes.com/2026/01/09/us/politics/trump-venezuela-republican-voters.html"
       },
       {
-        "title": "Border Patrol Agents Shoot 2 in Oregon, and Trump Says, ‘I Don’t Need International Law’",
-        "link": "https://www.nytimes.com/2026/01/09/podcasts/the-headlines/border-patrol-agents-shooting-oregon-trump-international-law.html"
-      },
-      {
         "title": "Iran’s Supreme Leader Vows to ‘Not Back Down’ as Protests Swell",
         "link": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests-ayatollah-khamenei.html"
-      },
-      {
-        "title": "Iran Is Cut Off From Internet as Protests Calling for Regime Change Intensify",
-        "link": "https://www.nytimes.com/2026/01/08/world/middleeast/iran-protests-internet-shutdown.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,46 +137,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Netflix wins early praise for 'People We Meet on Vacation' movie",
-        "link": "https://www.geo.tv/latest/644181-netflix-wins-early-praise-for-people-we-meet-on-vacation-movie"
+        "title": "The most bizarre AI product launches at CES 2026: Full list revealed inside",
+        "link": "https://www.geo.tv/latest/644187-the-most-bizarre-ai-product-launches-at-ces-2026-full-list-revealed-inside"
       },
       {
-        "title": "Lil Durk's 'unusual' punishment raises fears about justice system",
-        "link": "https://www.geo.tv/latest/644177-lil-durks-unusual-punishment-raises-fears-about-justice-system"
+        "title": "Princess Kate reassures fans on missing ring with loving reminder",
+        "link": "https://www.geo.tv/latest/644184-princess-kate-reassures-fans-on-missing-ring-with-loving-reminder"
       },
       {
-        "title": "Hospital staff to wear body cams as Punjab tightens rules",
-        "link": "https://www.geo.tv/latest/644171-hospital-staff-to-wear-body-cams-as-punjab-tightens-rules"
+        "title": "Elon Musk's xAI limits Grok image generation after misuse outcry",
+        "link": "https://www.geo.tv/latest/644185-elon-musks-xai-limits-grok-image-generation-after-misuse-outcry"
       },
       {
-        "title": "Nick Reiner faces unexpected challenges in health",
-        "link": "https://www.geo.tv/latest/644162-nick-reiner-faces-unexpected-challenges-in-health"
+        "title": "King Charles sends clear message to Prince William about Kate",
+        "link": "https://www.geo.tv/latest/644159-king-charles-sends-clear-message-to-prince-william-about-kate"
       },
       {
-        "title": "Google reinvents photo editing app Snapseed to compete with Adobe Lightroom: Discover insights here",
-        "link": "https://www.geo.tv/latest/644173-google-reinvents-photo-editing-app-snapseed-to-compete-with-adobe-lightroom"
+        "title": "Sarah Michelle Gellar reveals reason behind acting hiatus",
+        "link": "https://www.geo.tv/latest/644183-sarah-michelle-gellar-reveals-reason-behind-acting-hiatus"
       }
     ],
     "NDTV": [
       {
-        "title": "Grok Turns Off Image Creation Feature For Non-Payers After Deepfake Backlash",
-        "link": "https://www.ndtv.com/world-news/grok-elon-musk-grok-turns-off-image-creation-feature-for-non-payers-after-deepfake-backlash-10565939#publisher=newsstand"
+        "title": "\"Recurring Attacks On Minorities\": India On Hindus Attacked In Bangladesh",
+        "link": "https://www.ndtv.com/world-news/recurring-attacks-on-minorities-india-on-hindus-attacked-in-bangladesh-10566664#publisher=newsstand"
       },
       {
-        "title": "\"Cancer Research\" Project In Madhya Pradesh Under Scanner Over Financial Irregularities",
-        "link": "https://www.ndtv.com/india-news/cancer-research-project-in-madhya-pradesh-under-scanner-over-financial-irregularities-10566369#publisher=newsstand"
-      },
-      {
-        "title": "Opinion: Opinion | The Pawars Are Talking Again, And So Are Thackerays. Here's Why",
-        "link": "https://www.ndtv.com/opinion/maharashtra-the-pawars-are-talking-again-and-so-are-thackerays-heres-why-10566184#publisher=newsstand"
+        "title": "Rats Behind Rs 8-Crore Chhattisgarh Heist? 26,000 Quintals Of Paddy Missing",
+        "link": "https://www.ndtv.com/india-news/rats-behind-rs-8-crore-chhattisgarh-heist-26-000-quintals-of-paddy-missing-10566754#publisher=newsstand"
       },
       {
         "title": "Mamata Banerjee Leads Rally, Judge Leaves Courtroom Amid I-PAC Raid Hearing",
         "link": "https://www.ndtv.com/india-news/ed-trinamool-congress-bjp-mamata-banerjee-leads-rally-judge-leaves-courtroom-amid-i-pac-raid-hearing-10566024#publisher=newsstand"
       },
       {
-        "title": "Russia Hits Ukraine With Oreshnik Missile That Travels At 10 Times Speed Of Sound",
-        "link": "https://www.ndtv.com/world-news/russia-hits-ukraine-with-oreshnik-missile-reaches-10-times-speed-of-sound-10566153#publisher=newsstand"
+        "title": "Women Without Hijab, Kings In Western Suits: Iran During Pahlavi Dynasty Rule",
+        "link": "https://www.ndtv.com/world-news/women-without-hijab-kings-in-western-suits-iran-during-pahlavi-dynasty-rule-10566608#publisher=newsstand"
+      },
+      {
+        "title": "Delhi Assembly To Streets: BJP Protests Atishi's 'Insensitive' Sikh Guru Remark",
+        "link": "https://www.ndtv.com/india-news/delhi-assembly-to-streets-bjp-protests-atishis-insensitive-sikh-guru-remark-10566595#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-09 12:58 UTC"
+  "last_updated": "2026-01-09 13:42 UTC"
 }
