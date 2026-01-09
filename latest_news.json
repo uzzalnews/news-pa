@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Cameroon vs Morocco – 2025 AFCON quarterfinal",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/9/live-cameroon-vs-morocco-2025-afcon-quarterfinal?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -21,7 +15,7 @@
         "link": "https://www.bbc.com/news/articles/cdxj2pnj757o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "The continued mysteries surrounding the intelligence operation to capture Maduro",
+        "title": "The continued mysteries surrounding the intelligence operation to seize Maduro",
         "link": "https://www.bbc.com/news/articles/cp37yr2xq7no?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Kurdish leader urges dialogue to avoid ‘real disaster in Aleppo’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/9/kurdish-leader-urges-dialogue-to-avoid-real-disaster-in?traffic_source=rss"
+      },
+      {
+        "title": "Aleppo clashes highlight challenge of SDF integration for Syria",
+        "link": "https://www.aljazeera.com/news/2026/1/9/aleppo-clashes-highlight-challenge-of-sdf-integration-for-syria?traffic_source=rss"
+      },
+      {
+        "title": "Chinese, Russian and Iranian warships arrive for drills in South Africa",
+        "link": "https://www.aljazeera.com/news/2026/1/9/chinese-russian-and-iranian-warships-arrive-for-drills-in-south-africa?traffic_source=rss"
+      },
+      {
         "title": "Dissolution of Yemen’s separatists was “only a matter of time”",
         "link": "https://www.aljazeera.com/video/quotable/2026/1/9/dissolution-of-yemens-separatists-was-only-a-matter-of?traffic_source=rss"
       },
       {
         "title": "Nigeria coach steers clear of Osimhen fallout and unpaid bonus rumours",
         "link": "https://www.aljazeera.com/sports/2026/1/9/nigeria-coach-steers-clear-of-osimhen-fall-out-and-unpaid-bonuses-rumours?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Cameroon vs Morocco – 2025 AFCON quarterfinal",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/9/live-cameroon-vs-morocco-2025-afcon-quarterfinal?traffic_source=rss"
-      },
-      {
-        "title": "“Very fragile security situation” in Syria amid rising tensions",
-        "link": "https://www.aljazeera.com/video/quotable/2026/1/9/very-fragile-security-situation-in-syria-amid-rising-tensions?traffic_source=rss"
-      },
-      {
-        "title": "Elon Musk’s AI bot Grok limits image generation amid deepfakes backlash",
-        "link": "https://www.aljazeera.com/news/2026/1/9/elon-musks-ai-bot-grok-limits-image-generation-amid-deepfakes-backlash?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/1965990/india-us-trade-deal-stalled-after-modi-did-not-call-trump-says-us-commerce-secretary"
       },
       {
-        "title": "Police official allegedly kills wife for ‘honour’ in Karachi’s Shadman Town",
-        "link": "https://www.dawn.com/news/1966009/police-official-allegedly-kills-wife-for-honour-in-karachis-shadman-town"
+        "title": "Prioritising patient care, Punjab CM orders hospital staffers to wear body cameras",
+        "link": "https://www.dawn.com/news/1966010/prioritising-patient-care-punjab-cm-orders-hospital-staffers-to-wear-body-cameras"
       }
     ],
     "APNews": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "UK government co-owns Somaliland port at centre of Horn of Africa crisis",
+        "link": "https://www.middleeasteye.net/news/uk-government-co-owns-somaliland-port-spotlight-over-horn-africa-crisis"
+      },
+      {
+        "title": "Workers at Israeli-owned New York bakery demand end to company 'support for genocide'",
+        "link": "https://www.middleeasteye.net/news/workers-top-nyc-bakery-establish-union-demanding-end-company-support-genocide-palestine"
+      },
+      {
         "title": "Celtic fans urge club to cancel proposed £2m transfer deal with Israeli club",
         "link": "https://www.middleeasteye.net/trending/celtic-fans-urge-club-cancel-ps2m-transfer-deal-israeli-club"
       },
@@ -131,36 +133,28 @@
       {
         "title": "Off-duty Israeli soldier shoots dead Palestinian citizen over road dispute",
         "link": "https://www.middleeasteye.net/news/duty-israeli-soldier-shoots-dead-palestinian-citizen-over-road-dispute"
-      },
-      {
-        "title": "JK Rowling shares post saying 'Iranians are rejecting Islam'",
-        "link": "https://www.middleeasteye.net/news/jk-rowling-shares-post-saying-iranians-are-rejecting-islam"
-      },
-      {
-        "title": "Pakistan on verge of $1.5bn deal to provide weapons and jets to Sudan",
-        "link": "https://www.middleeasteye.net/news/pakistan-verge-sealing-15bn-deal-provide-weapons-and-jets-sudan"
       }
     ],
     "GeoTV": [
       {
-        "title": "Jodie Foster isn't impressed with AI: Here's why",
-        "link": "https://www.geo.tv/latest/644207-jodie-foster-isnt-impressed-with-ai-heres-why"
+        "title": "Kate's wedding bells ring across London: Iconic vanue erupts in celebration",
+        "link": "https://www.geo.tv/latest/644222-kates-wedding-bells-ring-across-london-iconic-vanue-erupts-in-celebration"
       },
       {
-        "title": "Gracie Abrams draws backlash from Taylor Swift fans for 'backstabbing'",
-        "link": "https://www.geo.tv/latest/644191-gracie-abrams-draws-backlash-from-taylor-swift-fans-for-backstabbing"
+        "title": "Turkiye 'in advanced talks' to join Pak-Saudi strategic defence pact",
+        "link": "https://www.geo.tv/latest/644216-turkiye-in-advanced-talks-to-join-pakistan-saudi-strategic-defence-pact"
       },
       {
-        "title": "Princess Alexandra's modest style in timeless elegance",
-        "link": "https://www.geo.tv/latest/644197-princess-alexandras-modest-style-in-timeless-elegance"
+        "title": "Minneapolis asks to join probe into woman's killing by immigration officer",
+        "link": "https://www.geo.tv/latest/644219-minneapolis-asks-to-join-probe-into-womans-killing-by-immigration-officer"
       },
       {
-        "title": "Jennifer Lawrence's funny texts to Emma Stone go viral after SAG snub",
-        "link": "https://www.geo.tv/latest/644212-jennifer-lawrences-funny-texts-to-emma-stone-go-viral-after-sag-snub"
+        "title": "Police arrest man for arson attempt at Shahzad Akbar's Cambridge home",
+        "link": "https://www.geo.tv/latest/644221-police-arrest-man-for-arson-attempt-at-shahzad-akbars-cambridge-home"
       },
       {
-        "title": "Families set to evacuate Tirah's Maidan from Jan 10 ahead of operation",
-        "link": "https://www.geo.tv/latest/644196-families-set-to-evacuate-tirahs-maidan-from-jan-10-ahead-of-operation"
+        "title": "'Heated Rivalry' fans brace for season 2 drama, surprises",
+        "link": "https://www.geo.tv/latest/644215-heated-rivalry-fans-brace-for-season-2-drama-surprises"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-09 16:38 UTC"
+  "last_updated": "2026-01-09 17:00 UTC"
 }
