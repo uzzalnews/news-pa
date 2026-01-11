@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Barcelona vs Real Madrid – El Clasico Supercopa final 2026",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/11/live-barcelona-vs-real-madrid-supercopa-final?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "How volatile is the situation in Iran?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/1/11/how-volatile-is-the-situation-in-iran?traffic_source=rss"
+      },
+      {
+        "title": "How Israel is shifting Gaza’s yellow line",
+        "link": "https://www.aljazeera.com/video/birds-eye-view/2026/1/11/how-israel-is-shifting-gazas-yellow-line?traffic_source=rss"
+      },
+      {
         "title": "After Maduro: Is the US driving global instability?",
         "link": "https://www.aljazeera.com/video/the-bottom-line/2026/1/11/after-maduro-is-the-us-driving-global-instability?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Trump says no more Venezuelan oil or money to go to Cuba, demands ‘deal’",
         "link": "https://www.aljazeera.com/news/2026/1/11/trump-says-no-more-venezuelan-oil-or-money-to-go-to-cuba-and-demands-deal?traffic_source=rss"
-      },
-      {
-        "title": "Germany’s double standard on peaceful protests",
-        "link": "https://www.aljazeera.com/video/compare-contrast/2026/1/11/germanys-double-standard-on-peaceful-protests?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Barcelona vs Real Madrid – El Clasico Supercopa final 2026",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/11/live-barcelona-vs-real-madrid-supercopa-final?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -107,16 +101,16 @@
         "link": "https://www.nytimes.com/2026/01/11/us/politics/minnesota-shooting-immigration-facilities-congressional-visits.html"
       },
       {
-        "title": "Who Was Renee Good, the Woman Killed by an ICE Agent in Minneapolis?",
-        "link": "https://www.nytimes.com/2026/01/10/us/rennee-good-ice-shooting-minnesota.html"
-      },
-      {
         "title": "As Death Toll Surges in Iran, Leaders Take Tough Line Against Protesters",
         "link": "https://www.nytimes.com/2026/01/11/world/middleeast/iran-president-protests-economy-response.html"
       },
       {
         "title": "Trump Is Briefed on Options for Striking Iran as Protests Continue",
         "link": "https://www.nytimes.com/2026/01/10/us/politics/trump-iran-strikes.html"
+      },
+      {
+        "title": "Trump’s ‘Superstar’ Appellate Judges Have Voted 133 to 12 in His Favor",
+        "link": "https://www.nytimes.com/2026/01/11/us/politics/trumps-appeals-court-judges.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,24 +137,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Meghan Markle asked to 'tone herself down' for staying with Prince Harry",
+        "link": "https://www.geo.tv/latest/644520-meghan-markle-asked-to-tone-herself-down-for-staying-with-prince-harry"
+      },
+      {
+        "title": "Blake Shelton breaks silence on Gwen Stefani breakup rumours",
+        "link": "https://www.geo.tv/latest/644541-blake-shelton-breaks-silence-on-gwen-stefani-breakup-rumours"
+      },
+      {
+        "title": "Duchess Sophie prepares for major move as she helps charity pack up",
+        "link": "https://www.geo.tv/latest/644535-duchess-sophie-prepares-for-major-move-as-she-helps-charity-pack-up"
+      },
+      {
         "title": "Hailey Bieber hits back at social media debate surrounding her marriage",
         "link": "https://www.geo.tv/latest/644524-hailey-bieber-hits-back-at-social-media-debate-surrounding-her-marriage"
       },
       {
         "title": "Nick Reiner's new documentary drops unheard clues about Rob, Michele murder",
         "link": "https://www.geo.tv/latest/644521-nick-reiners-new-documentary-drops-unheard-clues-about-rob-michele-murder"
-      },
-      {
-        "title": "Prince Harry's place in the family can't be shaken by public opinion",
-        "link": "https://www.geo.tv/latest/644513-prince-harrys-place-in-the-family-cant-be-shaken-by-public-opinion"
-      },
-      {
-        "title": "72 Pakistani students head home as protests rage in Iran, confirms envoy",
-        "link": "https://www.geo.tv/latest/644518-72-students-leave-for-pakistan-amid-protests-in-iran-confirms-envoy"
-      },
-      {
-        "title": "Rhea Seehorn reflects on being casted in ‘Pluribus' after major win",
-        "link": "https://www.geo.tv/latest/644485-rhea-seehorn-reflects-on-being-casted-in-pluribus-after-major-win"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-11 19:53 UTC"
+  "last_updated": "2026-01-11 20:17 UTC"
 }
