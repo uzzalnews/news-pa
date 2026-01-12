@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Watch: Mortuary videos show how deadly protests have become",
+        "link": "https://www.bbc.com/news/videos/c2e134xz2rjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Former Tory Chancellor Nadhim Zahawi defects to Reform UK",
         "link": "https://www.bbc.com/news/articles/c0lxn75gw1do?at_medium=RSS&at_campaign=rss"
       },
@@ -17,10 +21,6 @@
       {
         "title": "Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes",
         "link": "https://www.bbc.com/news/articles/cwy875j28k0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Revolutionary eye injection saved my sight, says first-ever patient",
-        "link": "https://www.bbc.com/news/articles/c89qyv98lzdo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
@@ -86,8 +86,8 @@
         "link": "https://www.dawn.com/news/1966559/6-martyred-as-police-come-under-attack-in-kps-tank-lakki-marwat"
       },
       {
-        "title": "Info ministry rubbishes claims of Pakistan being used as a base for possible US strike on Iran",
-        "link": "https://www.dawn.com/news/1966572/info-ministry-rubbishes-claims-of-pakistan-being-used-as-a-base-for-possible-us-strike-on-iran"
+        "title": "Greenland rejects US takeover ‘under any circumstance’",
+        "link": "https://www.dawn.com/news/1966583/greenland-rejects-us-takeover-under-any-circumstance"
       }
     ],
     "APNews": [],
@@ -97,12 +97,8 @@
         "link": "https://www.nytimes.com/2026/01/12/business/federal-reserve-changes-course-trump-administration.html"
       },
       {
-        "title": "Under Trump, U.S. Adds Fuel to a Heating Planet",
-        "link": "https://www.nytimes.com/2026/01/12/climate/trump-climate-change-emissions-fuel.html"
-      },
-      {
-        "title": "The Justice Department’s New Target in D.C., and a Surge of Federal Agents in Minnesota",
-        "link": "https://www.nytimes.com/2026/01/12/podcasts/the-headlines/jerome-powellfederal-agents-minnesota.html"
+        "title": "Two Hours, Scores of Questions, 23,000 Words: Our Interview With President Trump",
+        "link": "https://www.nytimes.com/2026/01/11/us/politics/trump-interview-transcript.html"
       },
       {
         "title": "As Death Toll Surges in Iran, Leaders Take Tough Line Against Protesters",
@@ -111,9 +107,17 @@
       {
         "title": "Iran Says It Is Prepared for War but Ready to Negotiate After Trump’s Warnings",
         "link": "https://www.nytimes.com/2026/01/12/world/middleeast/iran-protests-trump-us.html"
+      },
+      {
+        "title": "U.S. Citizens Are Joining the Military to Protect Undocumented Parents",
+        "link": "https://www.nytimes.com/2026/01/12/us/politics/oregon-guard-undocumented-parents.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "International law died in Gaza. Why is the world mourning it in Greenland?",
+        "link": "https://www.middleeasteye.net/opinion/international-law-died-gaza-why-world-mourning-it-greenland"
+      },
       {
         "title": "UK pays Guantanamo detainee Abu Zubaydah 'substantial' sum over torture complicity",
         "link": "https://www.middleeasteye.net/news/uk-settles-out-court-guantanamo-detainee-abu-zubaydah-over-torture-complicity"
@@ -129,13 +133,21 @@
       {
         "title": "How Turkey sees the protests in Iran",
         "link": "https://www.middleeasteye.net/news/how-turkey-sees-protests-iran"
-      },
-      {
-        "title": "Academics and intellectuals sign letter in support of Palestine Action prisoners",
-        "link": "https://www.middleeasteye.net/news/academics-and-intellectuals-sign-letter-support-palestine-action-prisoners"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Jennifer Lopez faces awkward tension with Jennifer Garner at Golden Globes",
+        "link": "https://www.geo.tv/latest/644718-jennifer-lopez-faces-awkward-tension-with-jennifer-garner-at-golden-globes"
+      },
+      {
+        "title": "Siri's AI brain will be Google Gemini, Apple announces",
+        "link": "https://www.geo.tv/latest/644719-siris-ai-brain-will-be-google-gemini-apple-announces"
+      },
+      {
+        "title": "Meghan Markle could shake up Britain's summer social calendar",
+        "link": "https://www.geo.tv/latest/644702-meghan-markle-could-shake-up-britains-summer-social-calendar"
+      },
       {
         "title": "LEGO's first Pokemon sets arrive with eye-watering price tags",
         "link": "https://www.geo.tv/latest/644717-legos-first-pokemon-sets-arrive-with-eye-watering-price-tags"
@@ -143,18 +155,6 @@
       {
         "title": "Pakistan, Indonesia closing in on jets and drones defence deal: sources",
         "link": "https://www.geo.tv/latest/644715-pakistan-indonesia-closing-in-on-jets-and-drones-defence-deal-say-sources"
-      },
-      {
-        "title": "Teyana Taylor's journey from music star to Hollywood icon",
-        "link": "https://www.geo.tv/latest/644711-teyana-taylors-journey-from-music-star-to-hollywood-icon"
-      },
-      {
-        "title": "Bangladeshi students to study in Pakistan under 'fully funded scholarship'",
-        "link": "https://www.geo.tv/latest/644716-bangladeshi-students-to-study-in-pakistan-under-fully-funded-scholarship"
-      },
-      {
-        "title": "'Final warning': Alizeh Shah mulls legal action against Yasir Nawaz",
-        "link": "https://www.geo.tv/latest/644714-final-warning-alizeh-shah-mulls-legal-action-against-yasir-nawaz"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-12 16:50 UTC"
+  "last_updated": "2026-01-12 17:13 UTC"
 }
