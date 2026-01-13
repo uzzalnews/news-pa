@@ -3,15 +3,15 @@
   "news": {
     "BBC": [
       {
-        "title": "New Birmingham-Manchester rail link to be proposed",
+        "title": "Government to commit to building new Birmingham-Manchester rail line",
         "link": "https://www.bbc.com/news/articles/c75xrwlw5n2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Stop saying we can't make things work, Streeting urges Labour colleagues",
-        "link": "https://www.bbc.com/news/articles/c89qel4d4lno?at_medium=RSS&at_campaign=rss"
+        "title": "Three men guilty of harassing BBC journalist over A Very British Cult documentary",
+        "link": "https://www.bbc.com/news/articles/c86vg999g1zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Red Arrows get first woman leader",
+        "title": "Red Arrows get first female leader",
         "link": "https://www.bbc.com/news/articles/cedwg1g04zjo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -19,11 +19,19 @@
         "link": "https://www.bbc.com/news/articles/c79rqzv1e7ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Three men guilty of harassing BBC journalist over A Very British Cult documentary",
-        "link": "https://www.bbc.com/news/articles/c86vg999g1zo?at_medium=RSS&at_campaign=rss"
+        "title": "Stop saying we can't make things work, Streeting urges Labour colleagues",
+        "link": "https://www.bbc.com/news/articles/c89qel4d4lno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘We choose Denmark’ over joining US, says Greenland PM Nielsen",
+        "link": "https://www.aljazeera.com/news/2026/1/13/we-choose-denmark-over-joining-us-says-greenland-pm-nielsen?traffic_source=rss"
+      },
+      {
+        "title": "Somali minister explains why UAE ‘smuggling’ of fugitive was ‘last straw’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/13/somali-minister-explains-why-uae-smuggling-of-fugitive-was-last?traffic_source=rss"
+      },
       {
         "title": "Video: Greenland PM dodges question on Donald Trump rhetoric",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/13/video-greenland-pm-dodges-question-on-donald-trump-rhetoric?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Trump announces new 25% tariff: How will it impact Iran’s trading partners?",
         "link": "https://www.aljazeera.com/news/2026/1/13/trump-announces-new-25-tariff-how-will-it-impact-irans-trading-partners?traffic_source=rss"
-      },
-      {
-        "title": "US labels Muslim Brotherhood in Egypt, Lebanon, Jordan as ‘terrorists’",
-        "link": "https://www.aljazeera.com/news/2026/1/13/us-labels-muslim-brotherhood-orgs-in-egypt-lebanon-jordan-as-terrorist?traffic_source=rss"
-      },
-      {
-        "title": "Why Iran is not repeating 1979",
-        "link": "https://www.aljazeera.com/opinions/2026/1/13/why-iran-is-not-repeating-1979?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +78,16 @@
         "link": "https://www.dawn.com/news/1966758/wwf-pakistan-says-removal-of-trees-in-islamabad-also-linked-to-infrastructure-development"
       },
       {
+        "title": "Imran’s sisters, PTI workers stage sit-in near Adiala jail",
+        "link": "https://www.dawn.com/news/1966763/imrans-sisters-pti-workers-stage-sit-in-near-adiala-jail"
+      },
+      {
         "title": "Social media platform X recovers after outage hits thousands globally",
         "link": "https://www.dawn.com/news/1966761/social-media-platform-x-recovers-after-outage-hits-thousands-globally"
       },
       {
-        "title": "PTI formally nominates Mehmood Khan Achakzai as NA opposition leader",
-        "link": "https://www.dawn.com/news/1966740/pti-formally-nominates-mehmood-khan-achakzai-as-na-opposition-leader"
-      },
-      {
-        "title": "Polio sample from North Waziristan tests positive, taking 2025’s tally to 31",
-        "link": "https://www.dawn.com/news/1966760/polio-sample-from-north-waziristan-tests-positive-taking-2025s-tally-to-31"
+        "title": "Pakistan at important stage in shaping its digital asset ecosystem: Aurangzeb",
+        "link": "https://www.dawn.com/news/1966755/pakistan-at-important-stage-in-shaping-its-digital-asset-ecosystem-aurangzeb"
       }
     ],
     "APNews": [],
@@ -109,11 +109,19 @@
         "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protester-deaths.html"
       },
       {
-        "title": "Trump Urges Iranians to Keep Up Antigovernment Protests",
+        "title": "Trump Urges Antigovernment Protesters in Iran to ‘Take Over’",
         "link": "https://www.nytimes.com/2026/01/13/world/middleeast/trump-iran-antigovernment-protests.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "US designates Muslim Brotherhood branches in Egypt, Jordan and Lebanon as 'terror' groups",
+        "link": "https://www.middleeasteye.net/news/us-designates-muslim-brotherhood-branches-egypt-jordan-and-lebanon-terror-groups"
+      },
+      {
+        "title": "Social media erupts with support for Iranian protesters, trepidation about foreign interference",
+        "link": "https://www.middleeasteye.net/trending/iran-deserves-democracy-us-and-israel-are-not-their-saviours"
+      },
       {
         "title": "Turkey hunts for new security alliances as regional tensions rise",
         "link": "https://www.middleeasteye.net/news/turkey-hunts-new-security-partners-regional-tensions-rise"
@@ -125,58 +133,50 @@
       {
         "title": "Egypt shared intelligence with Saudi Arabia on UAE activities in Yemen, sources say",
         "link": "https://www.middleeasteye.net/news/egypt-shared-intelligence-saudi-arabia-uae-activities-yemen-and-sudan"
-      },
-      {
-        "title": "Gaza 'dying slowly' amid collapsing buildings and severe cold",
-        "link": "https://www.middleeasteye.net/news/gaza-dying-slowly-amid-collapsing-buildings-and-severe-cold"
-      },
-      {
-        "title": "Why Starmer should say no to Trump's 'board of peace' offer",
-        "link": "https://www.middleeasteye.net/opinion/uk-why-starmer-should-say-no-trump-board-of-peace-offer"
       }
     ],
     "GeoTV": [
       {
-        "title": "Nikki Glaser's Hollywood connection with Apatow family revealed",
-        "link": "https://www.geo.tv/latest/644920-nikki-glasers-hollywood-connection-with-apatow-family-revealed"
+        "title": "Inside Colleen Hoover's 'Reminders of Him' movie, cast, plot and surprises",
+        "link": "https://www.geo.tv/latest/644922-inside-colleen-hoovers-reminders-of-him-movie-cast-plot-and-surprises"
       },
       {
-        "title": "Pakistan-origin cricketers 'denied' Indian visas ahead of T20 World Cup",
-        "link": "https://www.geo.tv/latest/644908-india-denies-to-issue-visa-to-pakistan-born-usa-cricketer"
+        "title": "Anti-minority hate speech in India rose by 13% in 2025: US research group",
+        "link": "https://www.geo.tv/latest/644924-anti-minority-hate-speech-in-india-rose-by-13-in-2025-us-research-group"
       },
       {
-        "title": "Hugh Jackman, Ryan Reynolds team up again outside Marvel",
-        "link": "https://www.geo.tv/latest/644889-hugh-jackman-ryan-reynolds-team-up-again-outside-marvel"
+        "title": "X (formerly Twitter) recovers after brief global outage affects thousands",
+        "link": "https://www.geo.tv/latest/644923-x-formerly-twitter-recovers-after-brief-global-outage-affects-thousands"
       },
       {
-        "title": "Prince Harry makes big claim about King Charles, Camilla, William, Kate",
-        "link": "https://www.geo.tv/latest/644915-prince-harry-makes-big-claim-about-king-charles-camilla-william-kate"
+        "title": "Pooh Shiesty denies rumours of Dallas arrest",
+        "link": "https://www.geo.tv/latest/644849-pooh-shiesty-denies-rumours-of-dallas-arrest"
       },
       {
-        "title": "Harry and Meghan's family project has found a new home",
-        "link": "https://www.geo.tv/latest/644914-harry-and-meghans-family-project-has-found-a-new-home"
+        "title": "Pet deaths mystery in Lahore's Green Town solved",
+        "link": "https://www.geo.tv/latest/644911-pet-deaths-mystery-in-lahores-green-town-solved"
       }
     ],
     "NDTV": [
       {
-        "title": "There Were 16 'Passengers' On Failed PSLV Mission, Only 'KID' Survived",
-        "link": "https://www.ndtv.com/india-news/isro-orbital-paradigm-there-were-16-passengers-on-failed-pslv-mission-only-kid-survived-10744046#publisher=newsstand"
+        "title": "Multiple Drone Sightings Reported Near LoC In J&K, 2nd Time In 48 hours",
+        "link": "https://www.ndtv.com/india-news/multiple-drone-sightings-reported-in-j-ks-keri-sector-along-the-line-of-control-2nd-time-in-48-hours-10744147#publisher=newsstand"
       },
       {
-        "title": "World Stocks Diverge As Iran Worries Push Up Oil Price",
-        "link": "https://www.ndtv.com/world-news/iran-worries-push-up-oil-price-as-world-stocks-diverge-10742380#publisher=newsstand"
+        "title": "\"Markets Will Determine Prices\": RBI Governor To NDTV On Falling Rupee",
+        "link": "https://www.ndtv.com/india-news/markets-will-determine-prices-rbi-governor-to-ndtv-on-falling-rupee-10743122#publisher=newsstand"
       },
       {
-        "title": "Bhopal Literature Fest Cancels Session On Babur Amid Fear Of Protest",
-        "link": "https://www.ndtv.com/india-news/bhopal-literature-fest-cancels-session-on-babur-amid-fear-of-protest-10743732#publisher=newsstand"
+        "title": "'MGNREGA Was Guarantee Of Loot, No Corruption In VB-G RAM G': Kiren Rijiju",
+        "link": "https://www.ndtv.com/india-news/mgnrega-was-guarantee-of-loot-no-corruption-in-vb-g-ram-g-kiren-rijiju-10744269#publisher=newsstand"
       },
       {
-        "title": "Vijay Summoned By CBI Again On Jan 19 For Questioning In Karur Stampede Case",
-        "link": "https://www.ndtv.com/india-news/vijay-summoned-by-cbi-again-on-jan-19-for-questioning-in-karur-stampede-case-10743188#publisher=newsstand"
+        "title": "Maharashtra Zila Parishads, Panchayat Samitis Polls On February 5",
+        "link": "https://www.ndtv.com/india-news/maharashtra-zila-parishads-panchayat-samitis-polls-on-february-5-10744261#publisher=newsstand"
       },
       {
-        "title": "Danish, Greenlandic Envoys To Meet Vance, Rubio Tomorrow",
-        "link": "https://www.ndtv.com/world-news/denmark-greenland-officials-to-meet-vance-rubio-on-wednesday-10742436#publisher=newsstand"
+        "title": "Why Is North India Experiencing Severe Cold? Weather Body Scientist Explains",
+        "link": "https://www.ndtv.com/india-news/why-is-north-india-experiencing-severe-cold-weather-body-scientist-explains-10744234#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-13 15:56 UTC"
+  "last_updated": "2026-01-13 16:37 UTC"
 }
