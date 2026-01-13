@@ -25,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "‘Greenland will not be part of the USA,’ territory’s PM asserts",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/13/greenland-will-not-be-part-of-the-usa-territorys-pm-asserts?traffic_source=rss"
+      },
+      {
         "title": "Syrian army declares military zones in rural Aleppo as SDF destroys bridges",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/13/syrian-army-declares-military-zones-in-rural-aleppo-as-sdf-destroys-bridges?traffic_source=rss"
       },
@@ -39,10 +43,6 @@
       {
         "title": "‘We choose Denmark’ over joining US, says Greenland PM Nielsen",
         "link": "https://www.aljazeera.com/news/2026/1/13/we-choose-denmark-over-joining-us-says-greenland-pm-nielsen?traffic_source=rss"
-      },
-      {
-        "title": "Somali minister explains why UAE ‘smuggling’ of fugitive was ‘last straw’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/13/somali-minister-explains-why-uae-smuggling-of-fugitive-was-last?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,19 +82,27 @@
         "link": "https://www.dawn.com/news/1966763/imrans-sisters-pti-workers-stage-sit-in-near-pindis-adiala-jail"
       },
       {
-        "title": "WWF-Pakistan says removal of trees in Islamabad also linked to infrastructure development",
-        "link": "https://www.dawn.com/news/1966758/wwf-pakistan-says-removal-of-trees-in-islamabad-also-linked-to-infrastructure-development"
+        "title": "President Zardari arrives in Bahrain’s capital on 4-day official visit",
+        "link": "https://www.dawn.com/news/1966765/president-zardari-arrives-in-bahrains-capital-on-4-day-official-visit"
       },
       {
-        "title": "Social media platform X recovers after outage hits thousands globally",
-        "link": "https://www.dawn.com/news/1966761/social-media-platform-x-recovers-after-outage-hits-thousands-globally"
+        "title": "WWF-Pakistan says removal of trees in Islamabad also linked to infrastructure development",
+        "link": "https://www.dawn.com/news/1966758/wwf-pakistan-says-removal-of-trees-in-islamabad-also-linked-to-infrastructure-development"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "CPI Report Shows Food Prices Rose Sharply in December",
-        "link": "https://www.nytimes.com/2026/01/13/business/economy/inflation-cpi-report-food-prices.html"
+        "title": "3 Prosecutors Quit After Push to Investigate ICE Shooting Victim’s Widow",
+        "link": "https://www.nytimes.com/2026/01/13/us/3-prosecutors-quit-after-push-to-investigate-ice-shooting-victims-widow.html"
+      },
+      {
+        "title": "FBI’s ICE Shooting Inquiry Examines Renee Good’s Possible Ties to Activist Groups",
+        "link": "https://www.nytimes.com/2026/01/12/us/politics/fbi-renee-good-ice-shooting.html"
+      },
+      {
+        "title": "Trump Suggests Renee Good’s ‘Disrespectful’ Attitude Justified Fatal ICE Shooting",
+        "link": "https://www.nytimes.com/2026/01/12/us/politics/trump-shooting-renee-good-ice.html"
       },
       {
         "title": "Facing Contempt Threat, Clintons Refuse to Testify in Epstein Inquiry",
@@ -103,17 +111,13 @@
       {
         "title": "As Iran’s Government Tries to Quell Protests, Accounts of Brutal Crackdown Emerge",
         "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protester-deaths.html"
-      },
-      {
-        "title": "Trump Urges Antigovernment Protesters in Iran to ‘Take Over’",
-        "link": "https://www.nytimes.com/2026/01/13/world/middleeast/trump-iran-antigovernment-protests.html"
-      },
-      {
-        "title": "Son of Deposed Shah of Iran Seeks Center Stage Amid Protests",
-        "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protests-shah-son-pahlavi.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "US opens 'air defence coordination cell' in Qatar as Iran tensions rise",
+        "link": "https://www.middleeasteye.net/news/us-opens-air-defence-coordination-cell-qatar-iran-tensions-rise"
+      },
       {
         "title": "Iranian protesters reject US and Israeli interference",
         "link": "https://www.middleeasteye.net/news/we-want-change-not-destruction-iranian-protesters-reject-us-israeli-interference"
@@ -129,13 +133,13 @@
       {
         "title": "Turkey hunts for new security alliances as regional tensions rise",
         "link": "https://www.middleeasteye.net/news/turkey-hunts-new-security-partners-regional-tensions-rise"
-      },
-      {
-        "title": "Egyptian army holds billions in secret cash as country misses debt deadline, officials say",
-        "link": "https://www.middleeasteye.net/news/egypt-army-holds-billions-dollars-secret-cash-country-misses-debt-deadline-sources-say"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Princess Kate's style powers Jennifer Lawrence's jaw-dropping Golden Globes look",
+        "link": "https://www.geo.tv/latest/644927-jennifer-lawrence"
+      },
       {
         "title": "Four India-backed terrorists killed in Kalat IBO: ISPR",
         "link": "https://www.geo.tv/latest/644932-four-india-backed-terrorists-killed-in-kalat-ibo-ispr"
@@ -151,10 +155,6 @@
       {
         "title": "Duffer Brothers in hot water as fans notice major detail about finale",
         "link": "https://www.geo.tv/latest/644860-duffer-brothers-in-hot-water-as-fans-notice-major-detail-about-finale"
-      },
-      {
-        "title": "Khalistani activist's life at risk from India, warns UK intelligence",
-        "link": "https://www.geo.tv/latest/644930-khalistani-activists-life-at-risk-from-india-warns-uk-intelligence"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-13 17:38 UTC"
+  "last_updated": "2026-01-13 17:55 UTC"
 }
