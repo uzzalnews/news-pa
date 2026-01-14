@@ -1,18 +1,29 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Trump says control of Greenland ‘vital’ amid White House talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/14/live-trump-says-control-of-greenland-vital-ahead-of-white-house-meeting?traffic_source=rss"
+    },
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Senegal vs Egypt – AFCON 2025 semifinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/14/live-senegal-vs-egypt-afcon-2025-semifinal?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "X to comply with UK law over Grok deepfakes, Starmer says",
-        "link": "https://www.bbc.com/news/articles/ceqz7pyd303o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Greenlanders brace for summit that could shape the Arctic's future - and their own",
-        "link": "https://www.bbc.com/news/articles/cpqyn58v0dxo?at_medium=RSS&at_campaign=rss"
+        "title": "US reducing personnel at Qatar air base, official tells CBS",
+        "link": "https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "After U-turn on mandatory digital IDs, how have Labour MPs responded?",
         "link": "https://www.bbc.com/news/articles/c4gw8x2gw01o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "X to comply with UK law over Grok deepfakes, Starmer says",
+        "link": "https://www.bbc.com/news/articles/ceqz7pyd303o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Trump vows 'very strong action' if Iran executes protesters",
@@ -25,24 +36,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Why Somalia drew a line with the UAE",
+        "link": "https://www.aljazeera.com/opinions/2026/1/14/why-somalia-drew-a-line-with-the-uae?traffic_source=rss"
+      },
+      {
+        "title": "Iran, Gaza and the politics of counting the dead",
+        "link": "https://www.aljazeera.com/opinions/2026/1/14/iran-gaza-and-the-politics-of-counting-the-dead?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Trump says control of Greenland ‘vital’ amid White House talks",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/14/live-trump-says-control-of-greenland-vital-ahead-of-white-house-meeting?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Senegal vs Egypt – AFCON 2025 semifinal",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/14/live-senegal-vs-egypt-afcon-2025-semifinal?traffic_source=rss"
+      },
+      {
         "title": "Russia turning occupied Donbas into ‘huge military base to frighten Europe’",
         "link": "https://www.aljazeera.com/news/2026/1/14/russia-turning-occupied-donbas-into-huge-military-base-to-frighten-europe?traffic_source=rss"
-      },
-      {
-        "title": "Trump’s neo-con turn on Iran",
-        "link": "https://www.aljazeera.com/opinions/2026/1/14/trumps-neo-con-turn-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Amateur Smith upsets Sinner to win ‘One Point Slam’ before Australian Open",
-        "link": "https://www.aljazeera.com/sports/2026/1/14/amateur-smith-upsets-sinner-to-win-one-point-slam-before-australian-open?traffic_source=rss"
-      },
-      {
-        "title": "Geoeconomic confrontation world’s top threat, global leaders say",
-        "link": "https://www.aljazeera.com/news/2026/1/14/geoeconomic-confrontation-worlds-top-threat-global-leaders-say?traffic_source=rss"
-      },
-      {
-        "title": "Funerals in Iran for civilians and security forces killed during protests",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/14/funerals-in-iran-for-civilians-and-security-forces-killed-during-protests?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +81,8 @@
     ],
     "Dawn": [
       {
-        "title": "Iran vows fast trials over protests despite Trump’s warning of ‘very strong action’ against hangings",
-        "link": "https://www.dawn.com/news/1966899/iran-vows-fast-trials-over-protests-despite-trumps-warning-of-very-strong-action-against-hangings"
+        "title": "Qatar says some personnel departing US-run Al Udeid Air Base in response to ‘current regional tensions’",
+        "link": "https://www.dawn.com/news/1966899/qatar-says-some-personnel-departing-us-run-al-udeid-air-base-in-response-to-current-regional-tensions"
       },
       {
         "title": "‘Some powers’ want Sindh’s rights and resources transferred to Islamabad, alleges Bilawal",
@@ -93,20 +104,20 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "China Announces Record Trade Surplus as Its Exports Flood World Markets",
-        "link": "https://www.nytimes.com/2026/01/13/business/china-trade-surplus-exports.html"
+        "title": "How ICE Crackdowns Set Off a Resistance in American Cities",
+        "link": "https://www.nytimes.com/2026/01/14/us/ice-protests-activism.html"
       },
       {
-        "title": "A Top Fed Official Says the Trump Administration’s Threats Are ‘About Monetary Policy’",
-        "link": "https://www.nytimes.com/2026/01/14/us/politics/kashkari-fed-interest-rates.html"
+        "title": "Videos Show Increasingly Aggressive Federal Crackdown in Minneapolis",
+        "link": "https://www.nytimes.com/2026/01/13/us/ice-videos-minnesota-trump-immigration.html"
       },
       {
-        "title": "Trump Credits ‘Mister Tariff’ for the Country’s Strength. Economists Beg to Differ.",
-        "link": "https://www.nytimes.com/2026/01/14/us/politics/trump-tariffs-economists.html"
+        "title": "Minneapolis Mayor Jacob Frey, Who Cussed Out ICE, Is No Stranger to Crisis",
+        "link": "https://www.nytimes.com/2026/01/13/us/politics/minneapolis-mayor-jacob-frey-ice.html"
       },
       {
-        "title": "As Trump Pushes Housing Affordability, His Mortgage Chief Undermines It",
-        "link": "https://www.nytimes.com/2026/01/14/business/economy/housing-pulte-fannie-freddie.html"
+        "title": "Ask The Morning: ICE and Deportations",
+        "link": "https://www.nytimes.com/2026/01/13/us/ask-the-morning-ice-and-deportations.html"
       },
       {
         "title": "Prosecutors Resign Over ICE Investigation, and Israel Is Still Demolishing Gaza",
@@ -137,24 +148,24 @@
     ],
     "GeoTV": [
       {
-        "title": "US national hunts Kashmir Markhor in Chitral",
-        "link": "https://www.geo.tv/latest/645105-us-national-hunts-kashmir-markhor-in-chitral"
+        "title": "Andrew's moving trucks arrive at Royal Lodge as eviction gets fast-tracked",
+        "link": "https://www.geo.tv/latest/645111-andrews-moving-trucks-arrive-at-royal-lodge-as-eviction-gets-fast-tracked"
       },
       {
-        "title": "Indian e-commerce services urged to remove '10-minute' delivery promise: Here's why",
-        "link": "https://www.geo.tv/latest/645104-indian-e-commerce-services-urged-to-remove-10-minute-delivery-promise-heres-why"
+        "title": "TikTok confirmed as FIFA's preferred platform for World Cup 2026's exclusive coverage",
+        "link": "https://www.geo.tv/latest/645108-tiktok-confirmed-as-fifas-preferred-platform-for-world-cup-2026s-exclusive-coverage"
       },
       {
-        "title": "Mystic Baba Vanga's 2026 WW3 prediction: Find out why it's viral now",
-        "link": "https://www.geo.tv/latest/645100-mystic-baba-vangas-2026-ww3-prediction-find-out-why-its-viral-now"
+        "title": "REVOO Introduces A11 LFP and A12 LFP Lithium Electric Bikes in Pakistan",
+        "link": "https://www.geo.tv/latest/645107-revoo-introduces-a11-lfp-and-a12-lfp-lithium-electric-bikes-in-pakistan"
       },
       {
-        "title": "Ariana Grande, Jonathan Bailey send fans wild by confirming rumours",
-        "link": "https://www.geo.tv/latest/645097-ariana-grande-jonathan-bailey-send-fans-wild-by-confirming-rumours"
+        "title": "Andrew Mountbatten-Windsor's next move has King Charles on alert",
+        "link": "https://www.geo.tv/latest/645063-andrew-mountbatten-windsors-next-move-has-king-charles-on-alert"
       },
       {
-        "title": "Pakistan in talks with multiple countries over fighter jet sales: PM Shehbaz",
-        "link": "https://www.geo.tv/latest/645102-pakistan-in-talks-with-multiple-countries-over-fighter-jet-sales-pm-shehbaz"
+        "title": "UAE passport ranks among five most powerful in world",
+        "link": "https://www.geo.tv/latest/645106-uae-passport-ranks-among-five-most-powerful-in-world"
       }
     ],
     "NDTV": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-14 14:30 UTC"
+  "last_updated": "2026-01-14 14:55 UTC"
 }
