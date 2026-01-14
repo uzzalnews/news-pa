@@ -3,10 +3,6 @@
   "news": {
     "BBC": [
       {
-        "title": "Ministers drop plans for mandatory digital ID to work in UK",
-        "link": "https://www.bbc.com/news/articles/c3385zrrx73o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Trump vows 'very strong action' if Iran executes protesters",
         "link": "https://www.bbc.com/news/articles/cqj2qgw8w08o?at_medium=RSS&at_campaign=rss"
       },
@@ -19,8 +15,12 @@
         "link": "https://www.bbc.com/news/articles/cpqyn58v0dxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Rail upgrade in north of England 'will actually happen', says chancellor",
-        "link": "https://www.bbc.com/news/articles/c20dw4yrxnlo?at_medium=RSS&at_campaign=rss"
+        "title": "Tennis player exits Australian Open qualifying after celebrating victory too early",
+        "link": "https://www.bbc.com/sport/tennis/articles/cpdy1yzyjvlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "It Ends With Us author Colleen Hoover reveals 'successful' cancer surgery",
+        "link": "https://www.bbc.com/news/articles/c8d065l34eqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
@@ -115,11 +115,15 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Trump administration to unveil US-led Palestinian committee to run Gaza",
+        "link": "https://www.middleeasteye.net/news/us-moves-impose-technocrat-rule-gaza-israel-keeps-siege"
+      },
+      {
         "title": "In the shadow of the live feed: Avi Shlaim’s ‘Genocide in Gaza’",
         "link": "https://www.middleeasteye.net/discover/shadow-live-feed-avi-shlaims-genocide-gaza"
       },
       {
-        "title": "How the 'Islamist' label is used to delegitimise UK Muslims",
+        "title": "How ‘Islamist’ conspiracy theories are weaponised in UK politics and media",
         "link": "https://www.middleeasteye.net/opinion/how-islamist-label-used-delegitimise-uk-muslims"
       },
       {
@@ -129,13 +133,17 @@
       {
         "title": "Iran urges UN to condemn US ‘destabilisation’ after Trump posts",
         "link": "https://www.middleeasteye.net/news/iran-calls-un-confront-us-over-trumps-incitement-overthrow-government"
-      },
-      {
-        "title": "Far-right Jewish-American group Betar to wind down operations after investigation",
-        "link": "https://www.middleeasteye.net/news/far-right-jewish-american-group-betar-wind-down-operations-after-investigation"
       }
     ],
     "GeoTV": [
+      {
+        "title": "King Charles, Prince Harry cosmic showdown: ‘Expect big announcements'",
+        "link": "https://www.geo.tv/latest/645067-king-charles-prince-harry-cosmic-showdown-expect-big-announcements"
+      },
+      {
+        "title": "Expert unviels royal family's biggest fear about 'untrustworthy' Harry",
+        "link": "https://www.geo.tv/latest/645058-expert-unviels-royal-familys-biggest-fear-about-untrustworthy-harry"
+      },
       {
         "title": "What is Apple's Creator Studio? Offering top apps for iPhones, iPads, and Macs in one subscription",
         "link": "https://www.geo.tv/latest/645072-what-is-apples-creator-studio-offering-top-apps-for-iphones-ipads-and-macs-in-one-subscription"
@@ -147,14 +155,6 @@
       {
         "title": "Buying Greenland could cost US $700 billion, estimates suggest",
         "link": "https://www.geo.tv/latest/645069-buying-greenland-could-cost-us-700-billion-estimates-suggest"
-      },
-      {
-        "title": "Late Queen became shield for William and Harry while UK mourned",
-        "link": "https://www.geo.tv/latest/645060-late-queen-became-shield-for-william-and-harry-while-uk-mourned"
-      },
-      {
-        "title": "Gisele Bündchen gives rare insight in her new life with husband Joaquim Valente",
-        "link": "https://www.geo.tv/latest/645068-gisele-bundchen-gives-rare-insight-in-her-new-life-with-husband-joaquim-valente"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-14 11:39 UTC"
+  "last_updated": "2026-01-14 11:52 UTC"
 }
