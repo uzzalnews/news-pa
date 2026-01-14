@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "Iran protests LIVE: Tehran says Trump encouraging political destabilisation",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Iran protests LIVE: Tehran says Trump encouraging political destabilisation",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss"
+      },
+      {
+        "title": "Unsung US civil rights pioneer Claudette Colvin dies, aged 86",
+        "link": "https://www.aljazeera.com/news/2026/1/14/unsung-us-civil-rights-pioneer-claudette-colvin-dies-aged-86?traffic_source=rss"
+      },
+      {
         "title": "Russia-Ukraine war: List of key events, day 1,420",
         "link": "https://www.aljazeera.com/news/2026/1/14/russia-ukraine-war-list-of-key-events-day-1420?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "US to end deportation protections for Somalis",
         "link": "https://www.aljazeera.com/news/2026/1/13/us-to-end-deportation-protections-for-somalis?traffic_source=rss"
-      },
-      {
-        "title": "UN chief warns he could refer Israel to ICJ over laws targeting UNRWA",
-        "link": "https://www.aljazeera.com/news/2026/1/13/un-chief-warns-he-could-refer-israel-to-icj-over-laws-targetting-unrwa?traffic_source=rss"
-      },
-      {
-        "title": "Trump says trade agreement with Mexico, Canada ‘irrelevant’ to US",
-        "link": "https://www.aljazeera.com/economy/2026/1/13/trump-says-trade-agreement-with-mexico-canada-irrelevant-to-us?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "‘Help is on its way’: Trump tells Iranians to keep protesting",
-        "link": "https://www.dawn.com/news/1966762/help-is-on-its-way-trump-tells-iranians-to-keep-protesting"
+        "title": "JCP confirms 10 additional high court judges",
+        "link": "https://www.dawn.com/news/1966870/jcp-confirms-10-additional-high-court-judges"
       },
       {
-        "title": "4 terrorists killed in intelligence-based operation in Kalat: ISPR",
-        "link": "https://www.dawn.com/news/1966764/4-terrorists-killed-in-intelligence-based-operation-in-kalat-ispr"
+        "title": "Govt allows re-export of transit cargo",
+        "link": "https://www.dawn.com/news/1966847/govt-allows-re-export-of-transit-cargo"
       },
       {
-        "title": "Imran’s sisters, PTI workers stage sit-in near Pindi’s Adiala jail",
-        "link": "https://www.dawn.com/news/1966763/imrans-sisters-pti-workers-stage-sit-in-near-pindis-adiala-jail"
+        "title": "Petrol, diesel set for price cut",
+        "link": "https://www.dawn.com/news/1966841/petrol-diesel-set-for-price-cut"
       },
       {
-        "title": "President Zardari arrives in Bahrain’s capital on 4-day official visit",
-        "link": "https://www.dawn.com/news/1966765/president-zardari-arrives-in-bahrains-capital-on-4-day-official-visit"
+        "title": "Trump eggs on protesters as Iran presses charges",
+        "link": "https://www.dawn.com/news/1966886/trump-eggs-on-protesters-as-iran-presses-charges"
       },
       {
-        "title": "WWF-Pakistan says removal of trees in Islamabad also linked to infrastructure development",
-        "link": "https://www.dawn.com/news/1966758/wwf-pakistan-says-removal-of-trees-in-islamabad-also-linked-to-infrastructure-development"
+        "title": "Federal govt allows Punjab farmers to export potatoes, kinno via alternative routes",
+        "link": "https://www.dawn.com/news/1966868/federal-govt-allows-punjab-farmers-to-export-potatoes-kinno-via-alternative-routes"
       }
     ],
     "APNews": [],
@@ -105,12 +111,12 @@
         "link": "https://www.nytimes.com/2026/01/13/us/prosecutors-doj-resignation-ice-shooting.html"
       },
       {
-        "title": "Trump Administration Will End Deportation Protections for Somalis",
-        "link": "https://www.nytimes.com/2026/01/13/us/politics/trump-deportation-protections-somalis.html"
+        "title": "Minneapolis Mayor Jacob Frey, Who Cussed Out ICE, Is No Stranger to Crisis",
+        "link": "https://www.nytimes.com/2026/01/13/us/politics/minneapolis-mayor-jacob-frey-ice.html"
       },
       {
-        "title": "Supreme Court Appears Inclined to Allow States to Bar Transgender Athletes",
-        "link": "https://www.nytimes.com/2026/01/13/us/politics/supreme-court-transgender-athletes.html"
+        "title": "In Secret Testimony, Republicans Derided Trump’s Stolen Election Claims",
+        "link": "https://www.nytimes.com/2026/01/13/us/georgia-election-republicans-trump-transcripts.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Andrew Garfield debuts new hairdo",
+        "link": "https://www.geo.tv/latest/644966-andrew-garfield-debuts-new-hairdo"
+      },
+      {
+        "title": "Kiefer Sutherland taken in police custody for assaulting driver",
+        "link": "https://www.geo.tv/latest/644965-kiefer-sutherland-taken-in-police-custody-for-assaulting-driver"
+      },
+      {
+        "title": "US designates three Muslim Brotherhood chapters as global terrorists",
+        "link": "https://www.geo.tv/latest/644963-us-designates-three-muslim-brotherhood-chapters-as-global-terrorists"
+      },
+      {
         "title": "Trump expects China to open its markets to US goods",
         "link": "https://www.geo.tv/latest/644962-trump-expects-china-to-open-its-markets-to-us-goods"
       },
       {
         "title": "Chris Noth slams ‘SATC' co-star Sarah Jessica Parker",
         "link": "https://www.geo.tv/latest/644961-chris-noth-slams-satc-co-star-sarah-jessica-parker"
-      },
-      {
-        "title": "UK 'drops' plans for mandatory digital ID for workers in latest U-turn",
-        "link": "https://www.geo.tv/latest/644960-uk-drops-plans-for-mandatory-digital-id-for-workers-in-latest-u-turn"
-      },
-      {
-        "title": "Trump says US will respond 'strongly ' if Iran hangs protesters",
-        "link": "https://www.geo.tv/latest/644959-trump-says-us-will-respond-strongly-if-iran-hangs-protesters"
-      },
-      {
-        "title": "Mark Ruffalo reunites with ‘13 Going on 30' costar at 2026 Golden Globes",
-        "link": "https://www.geo.tv/latest/644956-mark-ruffalo-reunites-with-13-going-on-30-costar-at-2026-golden-globes"
       }
     ],
     "NDTV": [
       {
-        "title": "After US, Israel Cuts Ties With Several UN Bodies",
-        "link": "https://www.ndtv.com/world-news/after-us-israel-cuts-ties-with-several-un-bodies-10745788#publisher=newsstand"
+        "title": "Trump Abuses, Shows Middle Finger To Man Who Called Him \"Pedophile Protector\"",
+        "link": "https://www.ndtv.com/world-news/on-camera-trump-abuses-shows-middle-finger-to-man-who-called-him-pedophile-protector-10745737#publisher=newsstand"
       },
       {
-        "title": "Saudi Money, Pak Nukes, Turkish Military: India Takes Note Of 'Islamic NATO'",
-        "link": "https://www.ndtv.com/world-news/saudi-money-pakistan-nukes-turkish-military-india-takes-note-of-islamic-nato-10745226#publisher=newsstand"
+        "title": "Abu Salem Can Be Released On 2-Day Parole: Government Tells Bombay High Court",
+        "link": "https://www.ndtv.com/india-news/abu-salem-can-be-released-on-2-day-parole-maharashtra-government-tells-bombay-high-court-10745890#publisher=newsstand"
       },
       {
-        "title": "Delhi Police Arrest 2 More In Turkman Gate Violence, 20 Arrested So Far",
-        "link": "https://www.ndtv.com/delhi-news/delhi-police-arrest-2-more-in-turkman-gate-violence-20-arrested-so-far-10745731#publisher=newsstand"
+        "title": "Row Erupts In Kerala Over Halting Of Bridge Construction For 'Kumbh Mela'",
+        "link": "https://www.ndtv.com/india-news/row-erupts-over-stop-memo-on-bridge-construction-for-kerala-festival-10745289#publisher=newsstand"
       },
       {
-        "title": "Trump Asked If He Wants To See Democracy In Iran. His Reply",
-        "link": "https://www.ndtv.com/world-news/donald-trump-asked-if-he-wants-to-see-democracy-in-iran-his-reply-10745713#publisher=newsstand"
+        "title": "At Poll Rally, Abhishek Banerjee Presents 10 \"Dead Voters\" To Debunk SIR",
+        "link": "https://www.ndtv.com/india-news/trinamool-congresss-abhishek-banerjee-presents-10-dead-voters-at-poll-rally-in-cooch-behar-to-debunk-sir-10745862#publisher=newsstand"
       },
       {
-        "title": "More Migrants Are Dying In US Immigration Custody Under Trump: Report",
-        "link": "https://www.ndtv.com/world-news/more-migrants-are-dying-in-us-immigration-custody-under-trump-report-10745704#publisher=newsstand"
+        "title": "All About Muslim Brotherhood Branches Labelled Terrorist Organisations By US",
+        "link": "https://www.ndtv.com/world-news/all-about-muslim-brotherhood-branches-labelled-terrorist-organisations-by-us-10745605#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-14 01:24 UTC"
+  "last_updated": "2026-01-14 03:21 UTC"
 }
