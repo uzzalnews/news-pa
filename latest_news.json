@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Trump says control of Greenland ‘vital’ amid White House talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/14/live-trump-says-control-of-greenland-vital-ahead-of-white-house-meeting?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Are western leaders guilty of hypocrisy over calls for free speech in Iran?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/14/are-western-leaders-guilty-of-hypocrisy-over-calls-for-free-speech-in-iran?traffic_source=rss"
+      },
+      {
+        "title": "Is the Yemeni government getting ready to attack the Houthis?",
+        "link": "https://www.aljazeera.com/news/2026/1/14/is-yemeni-government-getting-ready-to-attack-the-houthis?traffic_source=rss"
+      },
+      {
         "title": "Somali minister blames UAE support for ‘fragmentation’ of Somalia",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/14/somali-minister-blames-uae-support-for-fragmentation-of-somalia?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Why Somalia drew a line with the UAE",
         "link": "https://www.aljazeera.com/opinions/2026/1/14/why-somalia-drew-a-line-with-the-uae?traffic_source=rss"
-      },
-      {
-        "title": "Iran, Gaza and the politics of counting the dead",
-        "link": "https://www.aljazeera.com/opinions/2026/1/14/iran-gaza-and-the-politics-of-counting-the-dead?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Trump says control of Greenland ‘vital’ amid White House talks",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/14/live-trump-says-control-of-greenland-vital-ahead-of-white-house-meeting?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "UK grants asylum to Palestinian citizen of Israel over fear of persecution",
+        "link": "https://www.middleeasteye.net/news/uk-grants-asylum-palestinian-citizen-israel-over-fear-persecution"
+      },
+      {
         "title": "Palestine Action trial: Jury retires to consider verdict in Elbit Systems case",
         "link": "https://www.middleeasteye.net/news/palestine-action-trial-jury-retires-consider-verdict-elbit-systems-case"
       },
@@ -135,13 +133,17 @@
       {
         "title": "Trump administration 'to unveil' US-led Palestinian committee to run Gaza",
         "link": "https://www.middleeasteye.net/news/us-moves-impose-technocrat-rule-gaza-israel-keeps-siege"
-      },
-      {
-        "title": "In the shadow of the live feed: Avi Shlaim’s ‘Genocide in Gaza’",
-        "link": "https://www.middleeasteye.net/discover/shadow-live-feed-avi-shlaims-genocide-gaza"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Microsoft rolls out community-first energy plan to prevent higher electricity bills",
+        "link": "https://www.geo.tv/latest/645098-microsoft-rolls-out-community-first-energy-plan-to-prevent-higher-electricity-bills"
+      },
+      {
+        "title": "Connor Storrie gives rare insight into 'Heated Rivalry' viral success",
+        "link": "https://www.geo.tv/latest/645115-connor-storrie-gives-rare-insight-into-heated-rivalry-viral-success"
+      },
       {
         "title": "‘Glee' star criticizes Hilary Duff husband on ‘toxic mom group' drama",
         "link": "https://www.geo.tv/latest/645117-glee-star-criticizes-hilary-duff-husband-on-toxic-mom-group-drama"
@@ -153,14 +155,6 @@
       {
         "title": "Prince Harry extremely misses Britons",
         "link": "https://www.geo.tv/latest/645109-prince-harry-extremely-misses-britons"
-      },
-      {
-        "title": "Matthew McConaughey makes stance clear on AI with latest move",
-        "link": "https://www.geo.tv/latest/645103-matthew-mcconaughey-makes-stance-clear-on-ai-with-latest-move"
-      },
-      {
-        "title": "Andrew's moving trucks arrive at Royal Lodge as eviction gets fast-tracked",
-        "link": "https://www.geo.tv/latest/645111-andrews-moving-trucks-arrive-at-royal-lodge-as-eviction-gets-fast-tracked"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-14 15:47 UTC"
+  "last_updated": "2026-01-14 16:00 UTC"
 }
