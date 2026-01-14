@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Nigeria vs Morocco – AFCON semifinal",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/14/live-nigeria-vs-morocco-afcon-2025-semifinal?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Mapping who controls what in Yemen in 2026",
+        "link": "https://www.aljazeera.com/news/2026/1/14/mapping-who-controls-what-in-yemen-in-2026?traffic_source=rss"
+      },
+      {
+        "title": "Video shows moment anti-ICE protester is shot in face with projectile",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/14/video-shows-moment-anti-ice-protester-is-shot-in-face-with-projectile?traffic_source=rss"
+      },
+      {
+        "title": "Greenlanders worry over Trump’s threats as they welcome back the sun",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/14/greenlanders-worry-over-trumps-threats-as-they-welcome-back-the-sun?traffic_source=rss"
+      },
+      {
+        "title": "Musk denies knowledge of Grok producing sexualised images of minors",
+        "link": "https://www.aljazeera.com/economy/2026/1/14/musk-denies-knowledge-of-grok-producing-sexualised-images-of-minors?traffic_source=rss"
+      },
+      {
         "title": "What happened in the deadly Thailand rail accident?",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/14/what-happened-in-the-deadly-thailand-rail-accident?traffic_source=rss"
-      },
-      {
-        "title": "Trump envoy announces launch of ‘phase two’ of plan to end Gaza war",
-        "link": "https://www.aljazeera.com/news/2026/1/14/trump-envoy-announces-launch-of-second-phase-of-gaza-plan?traffic_source=rss"
-      },
-      {
-        "title": "Uganda faces mounting calls to end internet blackout before elections",
-        "link": "https://www.aljazeera.com/news/2026/1/14/uganda-faces-mounting-calls-to-end-internet-blackout-before-elections?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Nigeria vs Morocco – AFCON semifinal",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/14/live-nigeria-vs-morocco-afcon-2025-semifinal?traffic_source=rss"
-      },
-      {
-        "title": "Are western leaders guilty of hypocrisy over calls for free speech in Iran?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/14/are-western-leaders-guilty-of-hypocrisy-over-calls-for-free-speech-in-iran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1966899/qatar-says-some-personnel-departing-us-run-al-udeid-air-base-in-response-to-current-regional-tensions"
       },
       {
-        "title": "‘Some powers’ want Sindh’s rights and resources transferred to Islamabad, alleges Bilawal",
-        "link": "https://www.dawn.com/news/1966939/some-powers-want-sindhs-rights-and-resources-transferred-to-islamabad-alleges-bilawal"
-      },
-      {
         "title": "‘Imran Khan-804’ among personalised vehicle numbers to be auctioned by KP govt on Jan 27",
         "link": "https://www.dawn.com/news/1966943/imran-khan-804-among-personalised-vehicle-numbers-to-be-auctioned-by-kp-govt-on-jan-27"
       },
       {
-        "title": "President Zardari meets Bahrain’s king in Manama, discusses defence cooperation, regional and global matters",
-        "link": "https://www.dawn.com/news/1966937/president-zardari-meets-bahrains-king-in-manama-discusses-defence-cooperation-regional-and-global-matters"
+        "title": "‘Some powers’ want Sindh’s rights and resources transferred to Islamabad, alleges Bilawal",
+        "link": "https://www.dawn.com/news/1966939/some-powers-want-sindhs-rights-and-resources-transferred-to-islamabad-alleges-bilawal"
+      },
+      {
+        "title": "US says ‘phase two’ of Gaza plan beginning with goal of Hamas demilitarisation",
+        "link": "https://www.dawn.com/news/1966947/us-says-phase-two-of-gaza-plan-beginning-with-goal-of-hamas-demilitarisation"
       }
     ],
     "APNews": [],
@@ -107,19 +101,23 @@
         "link": "https://www.nytimes.com/2026/01/14/us/politics/us-base-qatar-iran.html"
       },
       {
-        "title": "Iran’s Leaders May Survive Protests. But Anger Will Likely Persist.",
-        "link": "https://www.nytimes.com/2026/01/14/world/middleeast/iran-protests-government.html"
-      },
-      {
         "title": "Why Greenland Matters for a Warming World",
         "link": "https://www.nytimes.com/2026/01/14/world/europe/greenland-climate.html"
       },
       {
         "title": "‘We’re Not Stupid’: What Greenlanders Would Say to Trump",
         "link": "https://www.nytimes.com/2026/01/14/world/americas/greenland-fear-trump-us-takeover.html"
+      },
+      {
+        "title": "Trump’s Threats to Greenland Raise Serious Questions for NATO",
+        "link": "https://www.nytimes.com/2026/01/14/world/europe/trump-greenland-nato.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Trump administration says phase two of Gaza ceasefire has begun",
+        "link": "https://www.middleeasteye.net/news/trump-administration-says-phase-two-gaza-ceasefire-has-begun"
+      },
       {
         "title": "From Venezuela to Iran, Trump's 'Donroe Doctrine' is a push to control the world's oil",
         "link": "https://www.middleeasteye.net/opinion/venezuela-iran-trumps-donroe-doctrine-escalates-us-push-control-worlds-oil"
@@ -135,13 +133,21 @@
       {
         "title": "Palestine Action trial: Jury retires to consider verdict in Elbit Systems case",
         "link": "https://www.middleeasteye.net/news/palestine-action-trial-jury-retires-consider-verdict-elbit-systems-case"
-      },
-      {
-        "title": "Anger at UK media for framing cancellation of school visit by pro-Israel MP as antisemitic",
-        "link": "https://www.middleeasteye.net/news/anger-uk-media-framing-after-school-cancels-visit-pro-israel-mp-damien-egan"
       }
     ],
     "GeoTV": [
+      {
+        "title": "How to get 2028 Olympics tickets: LA28 opens registration for lottery",
+        "link": "https://www.geo.tv/latest/645138-how-to-get-2028-olympics-tickets-la28-opens-registration-for-lottery"
+      },
+      {
+        "title": "Timothée Chalamet breaks free from Kardashian curse?",
+        "link": "https://www.geo.tv/latest/645125-timothe-chalamet-breaks-free-from-kardashian-curse"
+      },
+      {
+        "title": "Economic confrontation replaces armed conflict as top risk in WEF survey",
+        "link": "https://www.geo.tv/latest/645131-economic-confrontation-replaces-armed-conflict-as-top-risk-in-wef-survey"
+      },
       {
         "title": "Kylie Jenner, Timothee Chalamet's moms share sweet exchange",
         "link": "https://www.geo.tv/latest/645130-kylie-jenner-timothee-chalamets-moms-share-sweet-exchange"
@@ -149,40 +155,28 @@
       {
         "title": "King Felipe leaves Queen Letizia in diplomatic mission to France",
         "link": "https://www.geo.tv/latest/645114-king-felipe-leaves-queen-letizia-in-diplomatic-mission-to-france"
-      },
-      {
-        "title": "US halts visa processing for 75 nations: See full list here",
-        "link": "https://www.geo.tv/latest/645126-us-halts-visa-processing-for-75-nations-see-full-list-here"
-      },
-      {
-        "title": "Pakistan to introduce new banknotes with enhanced security features",
-        "link": "https://www.geo.tv/latest/645124-pakistan-to-introduce-new-banknotes-with-enhanced-security-features"
-      },
-      {
-        "title": "Travis, Jason Kelce react to mom's reality TV debut after digs to exes",
-        "link": "https://www.geo.tv/latest/645119-travis-jason-kelce-react-to-moms-reality-tv-debut-after-digs-to-exes"
       }
     ],
     "NDTV": [
       {
-        "title": "Father Calls 21-Year-Old Home To \"Forgive\" Her For Marriage, Then Shoots Her",
-        "link": "https://www.ndtv.com/india-news/father-calls-21-year-old-home-to-forgive-her-for-marriage-then-shoots-her-10751492#publisher=newsstand"
+        "title": "Marathi Identity vs Hindutva: Thackerays, BJP Engage In Social Media War",
+        "link": "https://www.ndtv.com/india-news/thackeray-cousins-bjp-engage-in-social-media-war-over-marathi-identity-hindutva-10748151#publisher=newsstand"
       },
       {
-        "title": "Driving On National Highways? You'll Now Get Alerts For Stray Cattle Movement",
-        "link": "https://www.ndtv.com/india-news/driving-on-national-highways-youll-now-get-alerts-for-stray-cattle-movement-10751420#publisher=newsstand"
+        "title": "'We Shouldn't Let This Moment Go': Ex-US NSA To NDTV On Action Against Iran",
+        "link": "https://www.ndtv.com/world-news/we-shouldnt-let-this-moment-go-ex-us-nsa-to-ndtv-on-action-against-iran-10751976#publisher=newsstand"
       },
       {
-        "title": "Iran Conducts Gunfire Drills As Trump Threatens Military Action",
-        "link": "https://www.ndtv.com/world-news/iran-conducts-gunfire-drills-as-trump-threatens-military-action-10749874#publisher=newsstand"
+        "title": "'Operation Sindoor Ongoing, Keeping Close Watch On Enemy': Army Chief",
+        "link": "https://www.ndtv.com/india-news/operation-sindoor-ongoing-keeping-close-watch-on-enemy-army-chief-10751944#publisher=newsstand"
       },
       {
-        "title": "Saudi Territory Off-Limits For US Action Against Iran: Riyadh Tells Tehran",
-        "link": "https://www.ndtv.com/world-news/saudi-arabia-tells-iran-its-land-airspace-wont-be-used-in-strike-sources-10750981#publisher=newsstand"
+        "title": "Court Refuses To Stay Trial Against Lalu Yadav, Son Tejashwi In IRCTC Case",
+        "link": "https://www.ndtv.com/india-news/court-refuses-to-stay-trial-against-lalu-yadav-son-tejashwi-in-irctc-case-10751942#publisher=newsstand"
       },
       {
-        "title": "Violence At Voter Roll Hearing In Bengal. BLOs Hold Sit-In Protest, Resign",
-        "link": "https://www.ndtv.com/india-news/violence-at-voter-roll-hearing-in-farakka-blos-hold-sit-in-protest-resign-10751250#publisher=newsstand"
+        "title": "Raghav Chadha Celebrates With Gig Workers Over 10-Minute Delivery Halt",
+        "link": "https://www.ndtv.com/india-news/raghav-chadha-celebrates-with-gig-workers-over-10-minute-delivery-halt-blinkit-delivery-10751934#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-14 17:58 UTC"
+  "last_updated": "2026-01-14 18:46 UTC"
 }
