@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: US seizes oil tanker in Caribbean Sea ahead of Trump, Machado meeting",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/15/live-us-seizes-oil-tanker-in-caribbean-sea-ahead-of-trump-machado-meeting?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Canada’s Carney hails improving ties with China",
+        "link": "https://www.aljazeera.com/economy/2026/1/15/canadas-carney-hails-improving-ties-with-china?traffic_source=rss"
+      },
+      {
+        "title": "US seizes another Venezuela-linked oil tanker",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/15/us-seizes-another-venezuela-linked-oil-tanker-2?traffic_source=rss"
+      },
+      {
+        "title": "Fifteen former NCAA players charged in US-China basketball rigging case",
+        "link": "https://www.aljazeera.com/sports/2026/1/15/prosecutors-charge-15-former-ncaa-players-in-latest-basketball-rigging-case?traffic_source=rss"
+      },
+      {
         "title": "Timeline of Israel’s genocide on Gaza",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/15/timeline-of-israels-genocide-on-gaza?traffic_source=rss"
       },
       {
         "title": "What lies ahead for Venezuelan opposition leader Maria Corina Machado?",
         "link": "https://www.aljazeera.com/news/longform/2026/1/15/what-lies-ahead-for-venezuelan-opposition-leader-maria-corina-machado?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: US seizes oil tanker in Caribbean Sea ahead of Trump, Machado meeting",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/15/live-us-seizes-oil-tanker-in-caribbean-sea-ahead-of-trump-machado-meeting?traffic_source=rss"
-      },
-      {
-        "title": "US court hands Trump victory against pro-Palestine activist Mahmoud Khalil",
-        "link": "https://www.aljazeera.com/news/2026/1/15/us-court-hands-trump-victory-against-pro-palestine-activist-mahmoud-khalil?traffic_source=rss"
-      },
-      {
-        "title": "Trump threatens to use Insurrection Act to end Minneapolis protests",
-        "link": "https://www.aljazeera.com/news/2026/1/15/trump-threatens-to-use-insurrection-act-to-end-minneapolis?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1967120/pakistan-saudi-turkiye-defence-deal-in-pipeline-minister-confirms"
       },
       {
+        "title": "Govt keeps petrol, diesel prices unchanged for next fortnight",
+        "link": "https://www.dawn.com/news/1967128/govt-keeps-petrol-diesel-prices-unchanged-for-next-fortnight"
+      },
+      {
         "title": "US imposes sanctions on Iran over crackdown on protesters",
         "link": "https://www.dawn.com/news/1967052/us-imposes-sanctions-on-iran-over-crackdown-on-protesters"
       },
@@ -90,17 +88,13 @@
       {
         "title": "Pakistan’s strategic geographic connectivity complements Bahrain’s financial expertise: President Zardari",
         "link": "https://www.dawn.com/news/1967116/pakistans-strategic-geographic-connectivity-complements-bahrains-financial-expertise-president-zardari"
-      },
-      {
-        "title": "‘Don’t know whether his country will accept his leadership’: Trump questions support for Reza Pahlavi in Iran",
-        "link": "https://www.dawn.com/news/1967118/dont-know-whether-his-country-will-accept-his-leadership-trump-questions-support-for-reza-pahlavi-in-iran"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
         "title": "Under Trump, a Shift Toward ‘Absolute Immunity’ for ICE",
-        "link": "https://www.nytimes.com/2026/01/15/us/politics/trump-ice-immunity.html"
+        "link": "https://www.nytimes.com/live/2026/01/15/us/trump-news/trump-ice-immunity"
       },
       {
         "title": "Federal Agent Shoots Man in Minneapolis, Prompting Tense Protests",
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Christian schools in Jerusalem suspend classes to protest at Israeli restrictions",
+        "link": "https://www.middleeasteye.net/news/christian-schools-jerusalem-suspend-classes-protest-israeli-restrictions"
+      },
+      {
         "title": "Rare protest held at Manchester City over UAE owner’s link to Sudan war",
         "link": "https://www.middleeasteye.net/news/rare-protest-held-manchester-city-uae-owner-link-sudan-war"
       },
@@ -135,32 +133,28 @@
       {
         "title": "Tunisia: Families of political detainees form collective to unite opposition to Saied",
         "link": "https://www.middleeasteye.net/news/tunisia-families-political-prisoners-form-collective-unite-opposition-saied"
-      },
-      {
-        "title": "Children expected to die of hunger in Darfur ‘within days’, says UN Sudan chief",
-        "link": "https://www.middleeasteye.net/news/darfur-children-expected-die-hunger-within-days-says-un-top-sudan-official"
       }
     ],
     "GeoTV": [
       {
+        "title": "Who is Madison Sheahan? ICE deputy director resigns to run for Congress in Ohio",
+        "link": "https://www.geo.tv/latest/645361-who-is-madison-sheahan-ice-deputy-director-resigns-to-run-for-congress-in-ohio"
+      },
+      {
+        "title": "Meghan's slip-up may derail Prince Harry's royal comeback",
+        "link": "https://www.geo.tv/latest/645355-meghans-slip-up-may-derail-prince-harrys-royal-comeback"
+      },
+      {
+        "title": "Govt keeps petrol price unchanged for next fortnight",
+        "link": "https://www.geo.tv/latest/645349-govt-keeps-petrol-price-unchanged-for-next-fortnight"
+      },
+      {
+        "title": "What BTS's new album means for their epic comeback?",
+        "link": "https://www.geo.tv/latest/645360-what-btss-new-album-means-for-their-epic-comeback"
+      },
+      {
         "title": "Back from Iran, Pakistani students say they heard gunshots while confined to campus",
         "link": "https://www.geo.tv/latest/645357-back-from-iran-pakistani-students-say-they-heard-gunshots-while-confined-to-campus"
-      },
-      {
-        "title": "New UK passport rule could block dual citizens from entry: Here's everything to know",
-        "link": "https://www.geo.tv/latest/645359-new-uk-passport-rule-could-block-dual-citizens-from-entry-heres-everything-to-know"
-      },
-      {
-        "title": "Fiza Ali extends heartwarming wishes to ex-husband on his second marriage",
-        "link": "https://www.geo.tv/latest/645348-fiza-ali-extends-heartwarming-wishes-to-ex-husband-on-his-second-marriage"
-      },
-      {
-        "title": "Prince William caught 'dirty handed' in Herefordshire",
-        "link": "https://www.geo.tv/latest/645347-prince-william-caught-dirty-handed-in-herefordshire"
-      },
-      {
-        "title": "Pakistani passport ranking improved in Henley Index 2026",
-        "link": "https://www.geo.tv/latest/645353-pakistani-passport-ranking-improved-in-henley-index-2026"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-15 17:21 UTC"
+  "last_updated": "2026-01-15 17:54 UTC"
 }
