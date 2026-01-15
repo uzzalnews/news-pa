@@ -7,12 +7,12 @@
         "link": "https://www.bbc.com/news/articles/cwyrpdy42n1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
-        "link": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
         "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
+        "link": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Swiss bar employee who reportedly held sparkler unaware of dangers, family says",
@@ -24,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Israel kills 8 in Gaza as US declares phase two of ceasefire deal launched",
+        "link": "https://www.aljazeera.com/news/2026/1/15/israel-kills-six-in-gaza-as-us-declares-phase-two-of-peace-plan-launched?traffic_source=rss"
+      },
       {
         "title": "Trump unveils healthcare plan without clear funding or execution timeline",
         "link": "https://www.aljazeera.com/economy/2026/1/15/trump-unveils-healthcare-plan-without-clear-funding-or-execution-timeline?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Cuba pays tribute to 32 soldiers killed in US attack on Venezuela",
         "link": "https://www.aljazeera.com/news/2026/1/15/cuba-pays-tribute-to-soldiers-killed-in-us-attack-on-venezuela?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s key leaders",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/15/irans-key-leaders?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "'The weave': Trump believes time is on his side to attack Iran, sources say",
+        "link": "https://www.middleeasteye.net/news/weave-trump-believes-time-his-side-attack-iran-sources-say"
+      },
+      {
+        "title": "'Betrayal': US to close Qatar camp housing Afghans awaiting US resettlement",
+        "link": "https://www.middleeasteye.net/news/us-close-qatar-camp-housing-afghans-awaiting-us-resettlement"
+      },
+      {
         "title": "US appeals court opens door to re-arrest Palestinian activist Mahmoud Khalil",
         "link": "https://www.middleeasteye.net/news/us-appeals-court-opens-door-re-arrest-palestinian-activist-mahmoud-khalil"
       },
@@ -125,17 +133,13 @@
       {
         "title": "Rare protest held at Manchester City over UAE owner’s link to Sudan war",
         "link": "https://www.middleeasteye.net/news/rare-protest-held-manchester-city-uae-owner-link-sudan-war"
-      },
-      {
-        "title": "Technocratic committee overseeing Gaza transition revealed",
-        "link": "https://www.middleeasteye.net/news/gaza-technocratic-committee-overseeing-transition-announced"
-      },
-      {
-        "title": "Gulf leaders convinced Trump to go easy on Iran, say officials",
-        "link": "https://www.middleeasteye.net/news/gulf-leaders-convinced-trump-go-easy-iran-say-officials"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Teyana Taylor, Leonardo DiCaprio Golden Globes drama sees new twist",
+        "link": "https://www.geo.tv/latest/645388-teyana-taylor-leonardo-dicaprio-golden-globes-drama-sees-new-twist"
+      },
       {
         "title": "Trump threatens military action over Minnesota protests",
         "link": "https://www.geo.tv/latest/645387-trump-threatens-military-action-over-minnesota-protests"
@@ -151,13 +155,17 @@
       {
         "title": "Pakistani tennis player recognised by Guinness World Record for 59 serves in one minute",
         "link": "https://www.geo.tv/latest/645379-pakistani-tennis-player-recognised-by-guinness-world-record-for-59-serves-in-one-minute"
-      },
-      {
-        "title": "Leonardo DiCaprio's onscreen daughter praises his 'gentle leadership'",
-        "link": "https://www.geo.tv/latest/645378-leonardo-dicaprios-onscreen-daughter-praises-his-gentle-leadership"
       }
     ],
     "NDTV": [
+      {
+        "title": "Oil Prices Slump After Trump Eases Concerns Over Iran",
+        "link": "https://www.ndtv.com/world-news/oil-prices-slump-after-trump-eases-concerns-over-iran-10761013#publisher=newsstand"
+      },
+      {
+        "title": "Denmark Says US Acquisition Of Greenland \"Out Of Question\"",
+        "link": "https://www.ndtv.com/world-news/denmark-says-us-acquisition-of-greenland-out-of-question-10760995#publisher=newsstand"
+      },
       {
         "title": "Trump Meets Venezuelan Opposition Leader Maria Corina Machado",
         "link": "https://www.ndtv.com/world-news/donald-trump-meets-venezuelan-opposition-leader-mara-corina-machad-10760759#publisher=newsstand"
@@ -169,14 +177,6 @@
       {
         "title": "US-Backed Gaza Ceasefire Enters Phase 2 Despite Unresolved Issues",
         "link": "https://www.ndtv.com/world-news/us-backed-gaza-ceasefire-enters-phase-2-despite-unresolved-issues-10760695#publisher=newsstand"
-      },
-      {
-        "title": "Iran Halted 800 Protester Executions: White House",
-        "link": "https://www.ndtv.com/world-news/iran-halted-800-protester-executions-white-house-10760696#publisher=newsstand"
-      },
-      {
-        "title": "\"Betrayed By A Great Partner\": Greenland Minister To NDTV On Trump Threats",
-        "link": "https://www.ndtv.com/world-news/betrayed-by-a-great-partner-greenland-minister-naaja-nathanielsen-to-ndtv-on-trump-threats-10760664#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-15 21:56 UTC"
+  "last_updated": "2026-01-15 22:27 UTC"
 }
