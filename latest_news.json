@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Iran US Tension News LIVE Updates: Trump Convinced 'To Give Iran A Chance' After Threats",
+      "link": "https://www.ndtv.com/world-news/iran-us-tension-live-iran-vows-to-defend-itself-amid-us-threats-10757466#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Trump threatens to use Insurrection Act to end Minneapolis protests",
+        "link": "https://www.aljazeera.com/news/2026/1/15/trump-threatens-to-use-insurrection-act-to-end-minneapolis?traffic_source=rss"
+      },
+      {
+        "title": "Reza Pahlavi vows to recognise Israel, end nuclear programme if he led Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/15/reza-pahlavi-vows-to-recognise-israel-end-nuclear-programme-if-he-led-iran?traffic_source=rss"
+      },
+      {
+        "title": "Trump’s bluffs: Why US strike on Iran remains real threat",
+        "link": "https://www.aljazeera.com/news/2026/1/15/trumps-bluffs-why-us-strike-on-iran-remains-real-threat?traffic_source=rss"
+      },
+      {
         "title": "Network linked to Israel pushes to shape external Iran protest narrative",
         "link": "https://www.aljazeera.com/features/2026/1/15/network-linked-to-israel-pushes-to-shape-external-iran-protest-narrative?traffic_source=rss"
       },
       {
         "title": "Why are Bangladesh’s cricketers boycotting games before the T20 World Cup?",
         "link": "https://www.aljazeera.com/sports/2026/1/15/why-are-bangladeshs-cricketers-boycotting-games-before-the-t20-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "French double Olympic champion Agnel faces rape trial after appeal rejected",
-        "link": "https://www.aljazeera.com/sports/2026/1/15/french-double-olympic-champion-agnel-faces-rape-trial-after-appeal-rejected?traffic_source=rss"
-      },
-      {
-        "title": "Israeli military attacks village in Lebanon’s Bekaa Valley",
-        "link": "https://www.aljazeera.com/news/2026/1/15/israeli-military-attacks-village-in-lebanons-bekaa-valley?traffic_source=rss"
-      },
-      {
-        "title": "What is HRANA, the US-based group behind Iran’s death toll figures?",
-        "link": "https://www.aljazeera.com/news/2026/1/15/what-is-hrana-the-us-based-group-behind-irans-death-toll-figures?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,12 +76,16 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan-Saudi-Turkiye defence deal in pipeline, defence production minister confirms",
-        "link": "https://www.dawn.com/news/1967120/pakistan-saudi-turkiye-defence-deal-in-pipeline-defence-production-minister-confirms"
+        "title": "Pakistan-Saudi-Turkiye defence deal in pipeline, minister confirms",
+        "link": "https://www.dawn.com/news/1967120/pakistan-saudi-turkiye-defence-deal-in-pipeline-minister-confirms"
       },
       {
         "title": "Pakistan’s strategic geographic connectivity complements Bahrain’s financial expertise: President Zardari",
         "link": "https://www.dawn.com/news/1967116/pakistans-strategic-geographic-connectivity-complements-bahrains-financial-expertise-president-zardari"
+      },
+      {
+        "title": "‘Don’t know whether his country will accept his leadership’: Trump questions support for Reza Pahlavi in Iran",
+        "link": "https://www.dawn.com/news/1967118/dont-know-whether-his-country-will-accept-his-leadership-trump-questions-support-for-reza-pahlavi-in-iran"
       },
       {
         "title": "Security forces kill 13 terrorists in KP operations: ISPR",
@@ -84,10 +94,6 @@
       {
         "title": "Rustam Bazaar in KP’s Wana temporarily closed due to security threats: police",
         "link": "https://www.dawn.com/news/1967122/rustam-bazaar-in-kps-wana-temporarily-closed-due-to-security-threats-police"
-      },
-      {
-        "title": "Pakistan hopes routine processing of US immigrant visas will resume ‘soon’ after internal review: FO",
-        "link": "https://www.dawn.com/news/1967097/pakistan-hopes-routine-processing-of-us-immigrant-visas-will-resume-soon-after-internal-review-fo"
       }
     ],
     "APNews": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Gulf leaders convinced Trump to go easy on Iran, says officials",
+        "link": "https://www.middleeasteye.net/news/gulf-leaders-convinced-trump-go-easy-iran-says-officials"
+      },
+      {
         "title": "Tunisia: Families of political detainees form collective to unite opposition to Saied",
         "link": "https://www.middleeasteye.net/news/tunisia-families-political-prisoners-form-collective-unite-opposition-saied"
       },
@@ -129,13 +139,17 @@
       {
         "title": "Iranian press review: Fears grow for thousands of detainees whose fate remains unknown",
         "link": "https://www.middleeasteye.net/news/iranian-press-review-fears-grow-thousands-detainees-fate-unknown"
-      },
-      {
-        "title": "After occupying Palestine, the messianic settlers have captured Israel",
-        "link": "https://www.middleeasteye.net/opinion/after-occupying-palestine-fascist-settlers-capture-israel-itself"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Inside Princess Anne's untold story of love and duty",
+        "link": "https://www.geo.tv/latest/645285-inside-princess-annes-untold-story-of-love-and-duty"
+      },
+      {
+        "title": "Coronation Street marks 15 years since Julia Haworth's exit",
+        "link": "https://www.geo.tv/latest/645338-coronation-street-marks-15-years-since-julia-haworths-exit"
+      },
       {
         "title": "Beatrice, Eugenie's anger reaches boiling point after major loss",
         "link": "https://www.geo.tv/latest/645333-beatrice-eugenies-anger-reaches-boiling-point-after-major-loss"
@@ -147,36 +161,28 @@
       {
         "title": "13 India-backed terrorists killed in two separate KP IBOs: ISPR",
         "link": "https://www.geo.tv/latest/645341-13-india-backed-terrorists-killed-in-two-separate-kp-ibos-ispr"
-      },
-      {
-        "title": "Ted Sarandos snubbed by the Queen as royals slam streaming series",
-        "link": "https://www.geo.tv/latest/645331-ted-sarandos-snubbed-by-the-queen-as-royals-slam-streaming-series"
-      },
-      {
-        "title": "Pakistan-Saudi-Turkiye defence deal in pipeline, says minister",
-        "link": "https://www.geo.tv/latest/645339-pakistan-saudi-turkiye-defence-deal-in-pipeline-says-minister"
       }
     ],
     "NDTV": [
       {
-        "title": "On A Freezing Sankranti, Dahi Chuda Flavoured With Politics In Bihar",
-        "link": "https://www.ndtv.com/india-news/on-a-freezing-sankranti-dahi-chuda-flavoured-with-politics-in-bihar-10759489#publisher=newsstand"
+        "title": "Bihar Woman, Her 3 Kids Found Dead 5 Days After They Went Missing",
+        "link": "https://www.ndtv.com/india-news/bihar-woman-her-3-kids-found-dead-5-days-after-they-went-missing-10759771#publisher=newsstand"
       },
       {
-        "title": "Petrol Poured On Man's Private Parts In Custody, 3 Bihar Cops Suspended",
-        "link": "https://www.ndtv.com/india-news/bihar-samastipur-petrol-poured-on-mans-private-parts-in-custody-3-cops-suspended-10759416#publisher=newsstand"
+        "title": "Authorities Killed Canadian Citizen In Iran, Says Foreign Minister",
+        "link": "https://www.ndtv.com/world-news/authorities-killed-canadian-citizen-in-iran-says-foreign-minister-10759768#publisher=newsstand"
       },
       {
-        "title": "Trump Threatens To Deploy Military In Minnesota Over Anti-ICE Protests",
-        "link": "https://www.ndtv.com/world-news/trump-threatens-to-deploy-military-in-minnesota-over-anti-ice-protests-10759371#publisher=newsstand"
+        "title": "'Death Threats, Vandalism By Kuki Insurgents': Naga Body Files Police Case In Manipur",
+        "link": "https://www.ndtv.com/india-news/death-threats-vandalism-by-kuki-insurgents-of-knf-ireng-naga-village-authority-says-in-manipur-fir-10759765#publisher=newsstand"
       },
       {
-        "title": "India, US Trade Deal \"Very Near\", But Can't Put Deadline: Commerce Secretary",
-        "link": "https://www.ndtv.com/india-news/india-us-trade-deal-near-but-cant-put-deadline-commerce-secretary-10755913#publisher=newsstand"
+        "title": "Government Office Vandalised, Police Officer Injured In Bengal SIR Protests",
+        "link": "https://www.ndtv.com/india-news/government-office-vandalised-police-officer-injured-in-bengal-sir-protests-10759665#publisher=newsstand"
       },
       {
-        "title": "Coast Guard Seizes Pak Boat With 9 Crew Members Inside Indian Waters",
-        "link": "https://www.ndtv.com/india-news/coast-guard-seizes-pak-boat-with-9-crew-members-inside-indian-waters-10759237#publisher=newsstand"
+        "title": "Iran US Tension News LIVE Updates: Trump Convinced 'To Give Iran A Chance' After Threats",
+        "link": "https://www.ndtv.com/world-news/iran-us-tension-live-iran-vows-to-defend-itself-amid-us-threats-10757466#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-15 15:36 UTC"
+  "last_updated": "2026-01-15 15:59 UTC"
 }
