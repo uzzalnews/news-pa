@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "BMC Election Results LIVE: BJP-Shiv Sena Alliance Crosses Halfway Mark In Mumbai",
-      "link": "https://www.ndtv.com/india-news/maharashtra-bmc-election-results-live-updates-maharashtra-civic-polls-results-live-bmc-results-2026-live-bjp-devendra-fadnavis-eknath-shinde-shiv-sena-10761264#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,16 +7,16 @@
         "link": "https://www.bbc.com/news/articles/ce3ejzz78gxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
-        "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
-        "link": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss"
+        "title": "US Congress members visit Denmark as Trump's pressure on Greenland rises",
+        "link": "https://www.bbc.com/news/articles/c9qpy952xvno?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'What are you showing our children?': Bereaved parents take on TikTok",
         "link": "https://www.bbc.com/news/articles/cn8j1rgj07ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I was hit in the face by pellets': Iranians on border describe violence and more protests",
+        "link": "https://www.bbc.com/news/articles/cj3vlgrl4r2o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Landscape beneath Antarctica's icy surface revealed in unprecedented detail",
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Bulgaria set for another snap election after protests oust government",
+        "link": "https://www.aljazeera.com/news/2026/1/16/bulgaria-set-for-another-snap-election-after-protests-oust-government?traffic_source=rss"
+      },
+      {
+        "title": "Residents flee as fire devastates Seoul shanty town",
+        "link": "https://www.aljazeera.com/gallery/2026/1/16/photos-fire-breaks-out-in-seouls-last-remaining-shanty-town?traffic_source=rss"
+      },
+      {
+        "title": "Why The Gambia wants Myanmar punished for Rohingya genocide",
+        "link": "https://www.aljazeera.com/news/2026/1/16/why-the-gambia-wants-myanmar-punished-for-rohingya-genocide?traffic_source=rss"
+      },
+      {
         "title": "Cuba receives remains of soldiers killed during Maduro capture",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/16/cuba-receives-remains-of-soldiers-killed-during-maduro-capture?traffic_source=rss"
       },
       {
         "title": "Why is Iran’s economy failing, prompting deadly protests?",
         "link": "https://www.aljazeera.com/features/2026/1/16/why-is-irans-economy-failing-prompting-deadly-protests?traffic_source=rss"
-      },
-      {
-        "title": "What does Israel want in Somaliland?",
-        "link": "https://www.aljazeera.com/features/2026/1/16/what-does-israel-want-in-somaliland?traffic_source=rss"
-      },
-      {
-        "title": "Why Israel’s recognition of Somaliland backfired",
-        "link": "https://www.aljazeera.com/opinions/2026/1/16/why-israels-recognition-of-somaliland-backfired?traffic_source=rss"
-      },
-      {
-        "title": "Salah will be welcomed back at Liverpool after AFCON, says Slot",
-        "link": "https://www.aljazeera.com/sports/2026/1/16/slot-happy-to-welcome-salah-back-at-liverpool-after-afcon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "PM Shehbaz relaunches Sehat Card health insurance scheme in ICT, AJK and GB",
+        "link": "https://www.dawn.com/news/1967312/pm-shehbaz-relaunches-sehat-card-health-insurance-scheme-in-ict-ajk-and-gb"
+      },
+      {
         "title": "Achakzai named opposition leader in National Assembly after months-long delay",
         "link": "https://www.dawn.com/news/1967299/achakzai-named-opposition-leader-in-national-assembly-after-months-long-delay"
       },
@@ -90,10 +88,6 @@
       {
         "title": "ECP suspends membership of 152 lawmakers over non-filing of assets",
         "link": "https://www.dawn.com/news/1967306/ecp-suspends-membership-of-152-lawmakers-over-non-filing-of-assets"
-      },
-      {
-        "title": "Social media posts case: Court directs Islamabad DIG to arrest Imaan, Hadi ‘within 24 hours’",
-        "link": "https://www.dawn.com/news/1967301/social-media-posts-case-court-directs-islamabad-dig-to-arrest-imaan-hadi-within-24-hours"
       }
     ],
     "APNews": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Yemen appoints new prime minister amid Saudi-UAE tensions",
+        "link": "https://www.middleeasteye.net/news/yemen-government-reshuffles-amid-saudi-uae-tensions"
+      },
+      {
+        "title": "‘Utensils for olive oil’: Inside the West Bank’s deepening economic collapse",
+        "link": "https://www.middleeasteye.net/news/utensils-olive-oil-inside-west-banks-deepening-economic-collapse"
+      },
+      {
         "title": "Israeli troops steal 250 goats from Syria and smuggle them to occupied West Bank",
         "link": "https://www.middleeasteye.net/news/israeli-troops-steal-250-goats-syria-and-smuggle-them-occupied-west-bank"
       },
@@ -131,17 +133,13 @@
       {
         "title": "For Gaza's orphans, the safety of childhood vanished with their parents",
         "link": "https://www.middleeasteye.net/opinion/i-want-my-father-back-gazas-orphans-safety-has-become-distant-memory"
-      },
-      {
-        "title": "'The weave': Trump believes time is on his side to attack Iran, sources say",
-        "link": "https://www.middleeasteye.net/news/weave-trump-believes-time-his-side-attack-iran-sources-say"
-      },
-      {
-        "title": "'Betrayal': US to close Qatar camp housing Afghans awaiting US resettlement",
-        "link": "https://www.middleeasteye.net/news/us-close-qatar-camp-housing-afghans-awaiting-us-resettlement"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Tyler Perry film left Jill Scott feeling ‘humiliated'",
+        "link": "https://www.geo.tv/latest/645498-tyler-perry-film-left-jill-scott-feeling-humiliated"
+      },
       {
         "title": "Princess Anne officially opens Gloucestershire's city campus",
         "link": "https://www.geo.tv/latest/645499-princess-anne-officially-opens-gloucestershires-city-campus"
@@ -157,32 +155,28 @@
       {
         "title": "Prince William turns simple day into special outing",
         "link": "https://www.geo.tv/latest/645485-prince-william-turns-simple-day-into-special-outing"
-      },
-      {
-        "title": "South Korean court sentences former President Yoon to five years in prison",
-        "link": "https://www.geo.tv/latest/645496-south-korean-court-sentences-former-president-yoon-to-five-years-in-prison"
       }
     ],
     "NDTV": [
       {
-        "title": "BMC Election Results LIVE: BJP-Shiv Sena Alliance Crosses Halfway Mark In Mumbai",
-        "link": "https://www.ndtv.com/india-news/maharashtra-bmc-election-results-live-updates-maharashtra-civic-polls-results-live-bmc-results-2026-live-bjp-devendra-fadnavis-eknath-shinde-shiv-sena-10761264#publisher=newsstand"
+        "title": "Putin Speaks To Israel, Iran Leaders, Says Russia Willing To Mediate",
+        "link": "https://www.ndtv.com/world-news/vladimir-putin-israel-iran-conflict-putin-speaks-to-israel-iran-leaders-says-russia-willing-to-mediate-10764224#publisher=newsstand"
       },
       {
-        "title": "How Failed Thackeray Reunion May Have Cost 1 Cousin More Than The Other",
-        "link": "https://www.ndtv.com/india-news/uddhav-thackeray-raj-thackeray-bmc-elections-shiv-sena-mns-mumbai-how-failed-thackeray-reunion-may-have-cost-1-cousin-more-than-the-other-10764010#publisher=newsstand"
+        "title": "BJP Repeats 2017 Performance On RSS Turf Nagpur, Deja Vu For Congress",
+        "link": "https://www.ndtv.com/india-news/nagpur-municipal-corporation-maharashtra-local-body-elections-live-bmc-bjp-repeats-2017-performance-on-rss-turf-nagpur-deja-vu-for-congress-10764330#publisher=newsstand"
       },
       {
-        "title": "Karisma Kapoor Calls Priya Kapur's Bid In Supreme Court To See Divorce Papers \"Frivolous\"",
-        "link": "https://www.ndtv.com/india-news/karisma-kapoor-calls-priya-kapurs-bid-in-supreme-court-to-see-sunjay-kapur-divorce-paper-frivolous-10763957#publisher=newsstand"
+        "title": "What's Next For Raj Thackeray As Reunion Fails To Impress Mumbai Voters",
+        "link": "https://www.ndtv.com/india-news/bmc-election-results-2026-whats-next-for-raj-thackeray-as-reunion-fails-to-impress-mumbai-voters-10764291#publisher=newsstand"
       },
       {
-        "title": "Only 20 Days Of Fuel Reserves Remain In Ukraine As Russia Strikes Continue",
-        "link": "https://www.ndtv.com/world-news/only-20-days-of-fuel-reserves-remain-in-ukraine-as-russia-strikes-continue-10763621#publisher=newsstand"
+        "title": "750 Bulls, 500 Tamers Take Part In Trichy's Jallikattu, Winner To Get Car",
+        "link": "https://www.ndtv.com/india-news/750-bulls-500-tamers-take-part-in-trichys-jallikattu-winner-to-get-car-10764278#publisher=newsstand"
       },
       {
-        "title": "Bihar Boy, 13, Dies In Crash, Crowd Loots Fish As His Body Lies On Side",
-        "link": "https://www.ndtv.com/india-news/bihar-boy-13-dies-in-crash-crowd-loots-fish-as-his-body-lies-on-side-10763683#publisher=newsstand"
+        "title": "Andhra Pradesh To Present Growth Story At Davos 2026",
+        "link": "https://www.ndtv.com/india-news/andhra-pradesh-to-present-growth-story-at-world-economic-forum-davos-2026-10764220#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16 11:50 UTC"
+  "last_updated": "2026-01-16 12:19 UTC"
 }
