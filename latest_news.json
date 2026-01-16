@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Maharashtra Civic Body Election Results LIVE: Counting Of Votes To Begin At 10 AM",
+      "link": "https://www.ndtv.com/india-news/maharashtra-bmc-election-results-live-updates-maharashtra-civic-polls-results-live-bmc-results-2026-live-bjp-devendra-fadnavis-eknath-shinde-shiv-sena-10761264#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,19 @@
         "link": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Swiss bar employee who reportedly held sparkler unaware of dangers, family says",
-        "link": "https://www.bbc.com/news/articles/ckgvjnxpp9zo?at_medium=RSS&at_campaign=rss"
+        "title": "The landscape beneath Antarctica's icy surface revealed in unprecedented detail",
+        "link": "https://www.bbc.com/news/articles/c9qpx2qqeq7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "UN Security Council holds emergency meeting on deadly protests in Iran",
+        "link": "https://www.aljazeera.com/news/2026/1/16/un-security-council-holds-emergency-meeting-on-deadly-protests-in-iran?traffic_source=rss"
+      },
+      {
+        "title": "Trump welcomes Venezuela’s Maria Corina Machado in closed-door meeting",
+        "link": "https://www.aljazeera.com/news/2026/1/16/trump-welcomes-venezuelas-maria-corina-machado-in-closed-door-meeting?traffic_source=rss"
+      },
       {
         "title": "Russia-Ukraine war: List of key events, day 1,422",
         "link": "https://www.aljazeera.com/news/2026/1/16/russia-ukraine-war-list-of-key-events-day-1422?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Trump unveils healthcare plan without clear funding or execution timeline",
         "link": "https://www.aljazeera.com/economy/2026/1/15/trump-unveils-healthcare-plan-without-clear-funding-or-execution-timeline?traffic_source=rss"
-      },
-      {
-        "title": "US says ‘all options on the table’ if Iran protest killings continue",
-        "link": "https://www.aljazeera.com/news/2026/1/15/us-says-all-options-on-the-table-if-iran-protest-killings-continue?traffic_source=rss"
-      },
-      {
-        "title": "Palestinians ‘not optimistic’ about second phase of Gaza ceasefire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/15/palestinians-not-optimistic-about-second-phase-of-gaza-ceasefire?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan-Saudi-Turkiye defence deal in pipeline, minister confirms",
-        "link": "https://www.dawn.com/news/1967120/pakistan-saudi-turkiye-defence-deal-in-pipeline-minister-confirms"
+        "title": "Govt targets 0.8m overseas jobs this year: minister",
+        "link": "https://www.dawn.com/news/1967206/govt-targets-08m-overseas-jobs-this-year-minister"
       },
       {
-        "title": "Govt keeps petrol, diesel prices unchanged for next fortnight",
-        "link": "https://www.dawn.com/news/1967128/govt-keeps-petrol-diesel-prices-unchanged-for-next-fortnight"
+        "title": "Saudi Arabia pledges $500m for southern Yemen’s uplift",
+        "link": "https://www.dawn.com/news/1967251/saudi-arabia-pledges-500m-for-southern-yemens-uplift"
       },
       {
-        "title": "US immigrant visa processing pause: Pakistanis will still be able to submit applications, attend scheduled interviews",
-        "link": "https://www.dawn.com/news/1967126/us-immigrant-visa-processing-pause-pakistanis-will-still-be-able-to-submit-applications-attend-scheduled-interviews"
+        "title": "KP narcotics law undermines federal powers, FCC told",
+        "link": "https://www.dawn.com/news/1967252/kp-narcotics-law-undermines-federal-powers-fcc-told"
       },
       {
-        "title": "Pakistan-born Asad Ayaz named Disney’s first-ever chief marketing and brand officer",
-        "link": "https://www.dawn.com/news/1967129/pakistan-born-asad-ayaz-named-disneys-first-ever-chief-marketing-and-brand-officer"
+        "title": "Exchange companies allowed to use Raast",
+        "link": "https://www.dawn.com/news/1967209/exchange-companies-allowed-to-use-raast"
       },
       {
-        "title": "US imposes sanctions on Iran over crackdown on protesters",
-        "link": "https://www.dawn.com/news/1967052/us-imposes-sanctions-on-iran-over-crackdown-on-protesters"
+        "title": "No more imports of ‘personal’ used cars",
+        "link": "https://www.dawn.com/news/1967208/no-more-imports-of-personal-used-cars"
       }
     ],
     "APNews": [],
@@ -97,20 +103,20 @@
         "link": "https://www.nytimes.com/2026/01/15/technology/iran-online-starlink.html"
       },
       {
-        "title": "Why Israel Is Wary of Intervening in Iran",
-        "link": "https://www.nytimes.com/2026/01/15/world/middleeast/israel-iran-protests-netanyahu.html"
+        "title": "Israel and Arab Nations Ask Trump to Refrain From Attacking Iran",
+        "link": "https://www.nytimes.com/2026/01/15/us/politics/trump-iran-israel-us.html"
       },
       {
-        "title": "Under Trump, a Shift Toward ‘Absolute Immunity’ for ICE",
-        "link": "https://www.nytimes.com/2026/01/15/us/politics/trump-ice-immunity.html"
+        "title": "Many Fiery Remarks, Little Clarity on What’s Next at Security Council Meeting on Iran",
+        "link": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-security-council.html"
       },
       {
-        "title": "Inside an ICE Confrontation in Minneapolis",
-        "link": "https://www.nytimes.com/video/us/100000010643550/how-we-photographed-an-ice-confrontation-in-minneapolis.html"
+        "title": "Live Updates: Venezuelan Opposition Leader Gives Trump Her Peace Prize",
+        "link": "https://www.nytimes.com/live/2026/01/15/us/trump-news"
       },
       {
-        "title": "Did a Supreme Court Loss Embolden Trump on the Insurrection Act?",
-        "link": "https://www.nytimes.com/2026/01/15/us/politics/supreme-court-trump-insurrection-act.html"
+        "title": "Venezuela’s Interim Leader Delivers State of the Union Address",
+        "link": "https://www.nytimes.com/2026/01/15/world/americas/venezuela-rodriguez-maduro-trump.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Ashton Kutcher says ex Demi Moore ‘killed it'",
+        "link": "https://www.geo.tv/latest/645405-ashton-kutcher-says-ex-demi-moore-killed-it"
+      },
+      {
+        "title": "Pamela Anderson reacts to seeing Seth Rogen at Golden Globes",
+        "link": "https://www.geo.tv/latest/645403-pamela-anderson-reacts-to-seeing-seth-rogen-at-golden-globes"
+      },
+      {
+        "title": "Ben Affleck thinks ‘acting' is a ‘waste' of time",
+        "link": "https://www.geo.tv/latest/645401-ben-affleck-jennifer-garner-thinks-acting-is-a-waste-of-time"
+      },
+      {
         "title": "New trade deal cuts tariff and boosts Taiwan's chip exports to US",
         "link": "https://www.geo.tv/latest/645397-new-trade-deal-cuts-tariff-and-boosts-taiwans-chip-exports-to-us"
       },
       {
         "title": "‘Ponies' creators on casting Emilia Clarke, Haley Lu Richardson in series",
         "link": "https://www.geo.tv/latest/645393-ponies-creators-on-casting-emilia-clarke-haley-lu-richardson-in-series"
-      },
-      {
-        "title": "Pakistan calls for diplomacy over Iran as tensions escalate",
-        "link": "https://www.geo.tv/latest/645395-pakistan-calls-for-diplomacy-over-iran-as-tensions-escalate"
-      },
-      {
-        "title": "This is how Tish Cyrus tried to heal during Billy Ray Cyrus divorce",
-        "link": "https://www.geo.tv/latest/645391-this-is-how-tish-cyrus-tried-to-heal-during-billy-ray-cyrus-divorce"
-      },
-      {
-        "title": "Teyana Taylor, Leonardo DiCaprio Golden Globes drama sees new twist",
-        "link": "https://www.geo.tv/latest/645388-teyana-taylor-leonardo-dicaprio-golden-globes-drama-sees-new-twist"
       }
     ],
     "NDTV": [
       {
-        "title": "Venezuela's Machado Presents Nobel Peace Prize To Trump During Meeting",
-        "link": "https://www.ndtv.com/world-news/venezuelas-machado-presents-nobel-peace-prize-to-donald-trump-during-white-house-meeting-10760759#publisher=newsstand"
+        "title": "Gates Foundation Unveils $9 Billion Budget And Plans To Cut Staff",
+        "link": "https://www.ndtv.com/world-news/gates-foundation-unveils-9-billion-budget-and-plans-to-cut-staff-10761356#publisher=newsstand"
       },
       {
-        "title": "Anti-Terror Agency Arrests Accused In 2021 CPI Maoist Conspiracy Case",
-        "link": "https://www.ndtv.com/india-news/nia-nabs-absconder-in-cpi-maoist-magadh-zone-revival-conspiracy-case-10760678#publisher=newsstand"
+        "title": "\"Wonderful Gesture\": Trump As Machado Presents Him Nobel Peace Prize",
+        "link": "https://www.ndtv.com/world-news/wonderful-gesture-trump-as-machado-presents-him-nobel-peace-prize-10761329#publisher=newsstand"
       },
       {
-        "title": "'Lawlessness If...': Supreme Court Jolt To Mamata Banerjee In ED Raid Case",
-        "link": "https://www.ndtv.com/india-news/supreme-court-jolt-to-mamata-banerjee-in-probe-agency-ed-raid-case-fir-stayed-10754882#publisher=newsstand"
+        "title": "Maharashtra Civic Body Election Results LIVE: Counting Of Votes To Begin At 10 AM",
+        "link": "https://www.ndtv.com/india-news/maharashtra-bmc-election-results-live-updates-maharashtra-civic-polls-results-live-bmc-results-2026-live-bjp-devendra-fadnavis-eknath-shinde-shiv-sena-10761264#publisher=newsstand"
       },
       {
-        "title": "NEET Aspirant's Suspicious Death In Patna Hostel Sparks Tension; 1 Arrested",
-        "link": "https://www.ndtv.com/india-news/neet-aspirants-suspicious-death-in-patna-hostel-sparks-tension-one-arrested-10760653#publisher=newsstand"
+        "title": "\"No Hesitation, No Compromise\": Zubeen Garg's Wife Seeks Full Truth",
+        "link": "https://www.ndtv.com/india-news/zubeen-gargs-wife-seeks-full-truth-10761278#publisher=newsstand"
       },
       {
-        "title": "IMF Says \"India Is A Key Growth Engine For The World\"",
-        "link": "https://www.ndtv.com/india-news/imf-says-india-is-a-key-growth-engine-for-the-world-10761178#publisher=newsstand"
+        "title": "Delhi Increases Night Shelter Capacity Near AIIMS, GB Pant Amid Severe Cold",
+        "link": "https://www.ndtv.com/delhi-news/delhi-increases-night-shelter-capacity-near-aiims-gb-pant-amid-severe-cold-10761257#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16 01:52 UTC"
+  "last_updated": "2026-01-16 03:25 UTC"
 }
