@@ -14,12 +14,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
-        "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "'We'd been on high alert' - How Jenrick's dramatic sacking and defection unfolded",
         "link": "https://www.bbc.com/news/articles/ce3ejzz78gxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
+        "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
@@ -36,6 +36,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Trump threatens to use Insurrection Act in Minnesota: What it means",
+        "link": "https://www.aljazeera.com/news/2026/1/16/trump-threatens-to-use-insurrection-act-in-minnesota-what-it-means?traffic_source=rss"
+      },
+      {
+        "title": "Gulf countries gear up diplomacy to stave off US-Iran escalation",
+        "link": "https://www.aljazeera.com/news/2026/1/16/gulf-countries-gear-up-diplomacy-to-stave-off-us-iran-escalation?traffic_source=rss"
+      },
+      {
         "title": "Scepticism and hope: Gaza reacts to Trump’s ‘Board of Peace’",
         "link": "https://www.aljazeera.com/features/2026/1/16/scepticism-hope-gaza-reacts-trump-board-of-peace?traffic_source=rss"
       },
@@ -46,14 +54,6 @@
       {
         "title": "LIVE: Israel continues deadly Gaza attacks as deal moves into phase two",
         "link": "https://www.aljazeera.com/news/liveblog/2026/1/16/live-israel-continues-deadly-gaza-attacks-as-deal-moves-into-phase-two?traffic_source=rss"
-      },
-      {
-        "title": "South Korea court sentences ex-president to 5 years in martial law case",
-        "link": "https://www.aljazeera.com/news/2026/1/16/south-korea-court-finds-disgraced-ex-president-guilty-in-martial-law-case?traffic_source=rss"
-      },
-      {
-        "title": "Syrian swimmer Sarah Mardini cleared by Greek court over migrant rescues",
-        "link": "https://www.aljazeera.com/news/2026/1/16/syrian-swimmer-sarah-mardini-cleared-by-greek-court-over-migrant-rescues?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -89,16 +89,16 @@
         "link": "https://www.dawn.com/news/1967301/social-media-posts-case-court-directs-islamabad-dig-to-arrest-imaan-hadi-within-24-hours"
       },
       {
-        "title": "No more imports of ‘personal’ used cars",
-        "link": "https://www.dawn.com/news/1967208/no-more-imports-of-personal-used-cars"
-      },
-      {
         "title": "Netanyahu urged Trump not to attack Iran: report",
         "link": "https://www.dawn.com/news/1967300/netanyahu-urged-trump-not-to-attack-iran-report"
       },
       {
         "title": "Trump says he supports transitional Palestinian panel in Gaza",
         "link": "https://www.dawn.com/news/1967302/trump-says-he-supports-transitional-palestinian-panel-in-gaza"
+      },
+      {
+        "title": "Bushra Bibi’s daughter petitions LHC for visitation rights to her mother",
+        "link": "https://www.dawn.com/news/1967303/bushra-bibis-daughter-petitions-lhc-for-visitation-rights-to-her-mother"
       }
     ],
     "APNews": [],
@@ -148,24 +148,24 @@
     ],
     "GeoTV": [
       {
-        "title": "Kelly Osbourne recent appearance sparks fans concern",
-        "link": "https://www.geo.tv/latest/645435-kelly-osbourne-recent-appearance-sparks-fans-concern"
+        "title": "Texas Senator Ted Cruz warns Trump could nuke Denmark",
+        "link": "https://www.geo.tv/latest/645455-texas-senator-ted-cruz-warns-trump-could-nuke-denmark"
       },
       {
-        "title": "Ishrat Fatima joins PTV as mentor a day after quitting Radio Pakistan",
-        "link": "https://www.geo.tv/latest/645436-ishrat-fatima-joins-ptv-as-mentor-a-day-after-quitting-radio-pakistan"
+        "title": "Desmond Scott packs on PDA with mystery woman after Kristy files for divorce",
+        "link": "https://www.geo.tv/latest/645441-desmond-scott-packs-on-pda-with-mystery-woman-after-kristy-files-for-divorce"
       },
       {
-        "title": "Tom Brady makes rare confession about Gisele Bundchen divorce",
-        "link": "https://www.geo.tv/latest/645428-tom-brady-makes-rare-confession-about-gisele-bundchen-divorce"
+        "title": "Molly-Mae Hague hints at possible future split from Tommy Fury?",
+        "link": "https://www.geo.tv/latest/645442-molly-mae-hague-hints-at-possible-future-split-from-tommy-fury"
       },
       {
-        "title": "After AI cameras, Karachi traffic police officers to issue e-challans via mobile app",
-        "link": "https://www.geo.tv/latest/645425-after-ai-cameras-karachi-traffic-police-officers-to-issue-e-challans-via-mobile-app"
+        "title": "Elon Musk says solar power can meet global energy demand of all humanity",
+        "link": "https://www.geo.tv/latest/645447-elon-musk-says-solar-power-can-meet-global-energy-demand-of-all-humanity"
       },
       {
-        "title": "SpaceX sending email invites for free Starlink Mini dish to residential subscribers",
-        "link": "https://www.geo.tv/latest/645443-spacex-sending-email-invites-for-free-starlink-mini-dish-to-residential-subscribers"
+        "title": "Matt Damon accuses Ben Affleck of 'vanity' after crucial scene in new movie",
+        "link": "https://www.geo.tv/latest/645446-matt-damon-accuses-ben-affleck-of-vanity-after-crucial-scene-in-new-movie"
       }
     ],
     "NDTV": [
@@ -213,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16 07:21 UTC"
+  "last_updated": "2026-01-16 07:42 UTC"
 }
