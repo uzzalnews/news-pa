@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel continues deadly Gaza attacks as deal moves into phase two",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/16/live-israel-continues-deadly-gaza-attacks-as-deal-moves-into-phase-two?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Israel continues deadly Gaza attacks as deal moves into phase two",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/16/live-israel-continues-deadly-gaza-attacks-as-deal-moves-into-phase-two?traffic_source=rss"
+      },
+      {
+        "title": "South Korea court finds disgraced ex-president guilty in martial law case",
+        "link": "https://www.aljazeera.com/news/2026/1/16/south-korea-court-finds-disgraced-ex-president-guilty-in-martial-law-case?traffic_source=rss"
+      },
+      {
         "title": "Syrian swimmer Sarah Mardini cleared by Greek court over migrant rescues",
         "link": "https://www.aljazeera.com/news/2026/1/16/syrian-swimmer-sarah-mardini-cleared-by-greek-court-over-migrant-rescues?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "S Korean firefighters tackle huge blaze in last of Seoul’s ‘shanty towns’",
         "link": "https://www.aljazeera.com/news/2026/1/16/south-korean-firefighters-tackle-huge-blaze-in-seouls-last-shanty-town?traffic_source=rss"
-      },
-      {
-        "title": "US seizes sixth tanker as Venezuela’s interim leader vows oil sector reform",
-        "link": "https://www.aljazeera.com/news/2026/1/16/us-seizes-sixth-tanker-as-venezuelas-interim-leader-vows-oil-sector-reform?traffic_source=rss"
-      },
-      {
-        "title": "UN Security Council holds emergency meeting on deadly protests in Iran",
-        "link": "https://www.aljazeera.com/news/2026/1/16/un-security-council-holds-emergency-meeting-on-deadly-protests-in-iran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
-        "title": "Mindy Kaling gives fans sneak peek into her past",
-        "link": "https://www.geo.tv/latest/645426-mindy-kaling-gives-fans-sneak-peek-into-her-past"
+        "title": "'BBC' thinks Alison Hammond could be 'comedy gold' like Traitors' Alan Carr",
+        "link": "https://www.geo.tv/latest/645427-bbc-thinks-alison-hammond-could-be-comedy-gold-like-traitors-alan-carr"
       },
       {
-        "title": "PSX rebounds on rate cut hopes, US-Iran de-escalation talk",
-        "link": "https://www.geo.tv/latest/645420-psx-rebounds-on-rate-cut-hopes-us-iran-de-escalation-talk"
+        "title": "Kathleen Kennedy resigns, Dave Filoni to lead 'Star Wars' franchise",
+        "link": "https://www.geo.tv/latest/645437-kathleen-kennedy-resigns-dave-filoni-to-lead-star-wars-franchise"
       },
       {
-        "title": "'Titanic' fan goes viral for turning apartment into infamous ship",
-        "link": "https://www.geo.tv/latest/645419-titanic-fan-goes-viral-for-turning-apartment-into-infamous-ship"
+        "title": "BBC to produce exclusive bespoke shows for YouTube under new agreement",
+        "link": "https://www.geo.tv/latest/645430-bbc-to-produce-exclusive-bespoke-shows-for-youtube-under-new-agreement"
       },
       {
-        "title": "Australian social media ban hits 4.7m teen accounts in first month",
-        "link": "https://www.geo.tv/latest/645418-australia-social-media-ban-hits-47-million-teen-accounts-in-first-month"
+        "title": "Prince George gains significant advantage over Charlotte and Louis",
+        "link": "https://www.geo.tv/latest/645434-prince-george-gains-significant-advantage-over-charlotte-and-louis"
       },
       {
-        "title": "Prince Edward, Duchess Sophie have emotional reunion after long year",
-        "link": "https://www.geo.tv/latest/645424-prince-edward-duchess-sophie-have-emotional-reunion-after-long-year"
+        "title": "Lo Bosworth Natale shares first photo of new born baby",
+        "link": "https://www.geo.tv/latest/645429-lo-bosworth-natale-shares-first-photo-of-new-born-baby"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16 06:20 UTC"
+  "last_updated": "2026-01-16 06:53 UTC"
 }
