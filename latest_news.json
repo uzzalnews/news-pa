@@ -1,11 +1,6 @@
 {
   "breaking": [
     {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel continues deadly Gaza attacks as deal moves into phase two",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/16/live-israel-continues-deadly-gaza-attacks-as-deal-moves-into-phase-two?traffic_source=rss"
-    },
-    {
       "source": "NDTV",
       "title": "Maharashtra Civic Body Election Results LIVE: BJP-Shiv Sena Alliance Near Half-Way Mark",
       "link": "https://www.ndtv.com/india-news/maharashtra-bmc-election-results-live-updates-maharashtra-civic-polls-results-live-bmc-results-2026-live-bjp-devendra-fadnavis-eknath-shinde-shiv-sena-10761264#publisher=newsstand"
@@ -30,11 +25,23 @@
         "link": "https://www.bbc.com/news/articles/cn8j1rgj07ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "The landscape beneath Antarctica's icy surface revealed in unprecedented detail",
+        "title": "Landscape beneath Antarctica's icy surface revealed in unprecedented detail",
         "link": "https://www.bbc.com/news/articles/c9qpx2qqeq7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Photos: Power outages leave people in freezing conditions in Kyiv",
+        "link": "https://www.aljazeera.com/gallery/2026/1/16/photos-residents-of-kyiv-endure-freezing-conditions-due-to-power-outages?traffic_source=rss"
+      },
+      {
+        "title": "South Korea’s former president found guilty in martial law case",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/16/south-koreas-former-president-found-guilty-in-martial-law?traffic_source=rss"
+      },
+      {
+        "title": "Why access to Venezuela’s ‘heavy’ oil is ‘tremendous’ news for US refiners",
+        "link": "https://www.aljazeera.com/news/2026/1/16/why-access-to-venezuelas-heavy-oil-is-tremendous-news-for-us-refiners?traffic_source=rss"
+      },
       {
         "title": "Trump threatens to use Insurrection Act in Minnesota: What it means",
         "link": "https://www.aljazeera.com/news/2026/1/16/trump-threatens-to-use-insurrection-act-in-minnesota-what-it-means?traffic_source=rss"
@@ -42,18 +49,6 @@
       {
         "title": "Gulf countries gear up diplomacy to stave off US-Iran escalation",
         "link": "https://www.aljazeera.com/news/2026/1/16/gulf-countries-gear-up-diplomacy-to-stave-off-us-iran-escalation?traffic_source=rss"
-      },
-      {
-        "title": "Scepticism and hope: Gaza reacts to Trump’s ‘Board of Peace’",
-        "link": "https://www.aljazeera.com/features/2026/1/16/scepticism-hope-gaza-reacts-trump-board-of-peace?traffic_source=rss"
-      },
-      {
-        "title": "Yemen’s Saudi-backed government appoints new prime minister",
-        "link": "https://www.aljazeera.com/news/2026/1/16/yemens-saudi-backed-government-appoints-new-prime-minister-2?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel continues deadly Gaza attacks as deal moves into phase two",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/16/live-israel-continues-deadly-gaza-attacks-as-deal-moves-into-phase-two?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -148,24 +143,24 @@
     ],
     "GeoTV": [
       {
+        "title": "ECP suspends membership of 159 lawmakers over failure to submit financial statements",
+        "link": "https://www.geo.tv/latest/645457-ecp-suspends-membership-of-159-lawmakers-over-failure-to-submit-financial-statements"
+      },
+      {
+        "title": "Robert Downey Jr. hails Timothée Chalamet as 'one of the greats'",
+        "link": "https://www.geo.tv/latest/645439-robert-downey-jr-hails-timothe-chalamet-as-one-of-the-greats"
+      },
+      {
+        "title": "Bird droppings halt India Open match twice",
+        "link": "https://www.geo.tv/latest/645450-bird-droppings-halt-india-open-match-twice"
+      },
+      {
+        "title": "Amy Robach, TJ Holmes make shocking guest list for their wedding",
+        "link": "https://www.geo.tv/latest/645444-amy-robach-tj-holmes-make-shocking-guest-list-for-their-wedding"
+      },
+      {
         "title": "Kate Middleton's cowboy shuffle steals show: Palace shares update",
         "link": "https://www.geo.tv/latest/645445-princess-kate-dances-in"
-      },
-      {
-        "title": "Imran Khan-nominated Mahmood Achakzai notified as NA opposition leader",
-        "link": "https://www.geo.tv/latest/645449-imran-khan-nominated-mahmood-achakzai-notified-as-na-opposition-leader"
-      },
-      {
-        "title": "Desmond Scott packs on PDA with mystery woman after Kristy files for divorce",
-        "link": "https://www.geo.tv/latest/645441-desmond-scott-packs-on-pda-with-mystery-woman-after-kristy-files-for-divorce"
-      },
-      {
-        "title": "Texas Senator Ted Cruz warns Trump could nuke Denmark",
-        "link": "https://www.geo.tv/latest/645455-texas-senator-ted-cruz-warns-trump-could-nuke-denmark"
-      },
-      {
-        "title": "Molly-Mae Hague hints at possible future split from Tommy Fury?",
-        "link": "https://www.geo.tv/latest/645442-molly-mae-hague-hints-at-possible-future-split-from-tommy-fury"
       }
     ],
     "NDTV": [
@@ -213,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16 07:54 UTC"
+  "last_updated": "2026-01-16 08:28 UTC"
 }
