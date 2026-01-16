@@ -9,16 +9,16 @@
   "news": {
     "BBC": [
       {
-        "title": "Jenrick defects to Reform UK after being sacked by Tories",
+        "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
+        "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Conservatives 'broke' the country says Jenrick as he defects to Reform",
         "link": "https://www.bbc.com/news/articles/cwyrpdy42n1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'We'd been on high alert' - How Jenrick's dramatic defection unfolded",
         "link": "https://www.bbc.com/news/articles/ce3ejzz78gxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
-        "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
@@ -30,6 +30,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US seizes sixth tanker as Venezuela’s interim leader vows oil sector reform",
+        "link": "https://www.aljazeera.com/news/2026/1/16/us-seizes-sixth-tanker-as-venezuelas-interim-leader-vows-oil-sector-reform?traffic_source=rss"
+      },
       {
         "title": "UN Security Council holds emergency meeting on deadly protests in Iran",
         "link": "https://www.aljazeera.com/news/2026/1/16/un-security-council-holds-emergency-meeting-on-deadly-protests-in-iran?traffic_source=rss"
@@ -45,10 +49,6 @@
       {
         "title": "Israel kills 10 in Gaza as US declares phase two of ceasefire deal launched",
         "link": "https://www.aljazeera.com/news/2026/1/15/israel-kills-six-in-gaza-as-us-declares-phase-two-of-peace-plan-launched?traffic_source=rss"
-      },
-      {
-        "title": "Trump unveils healthcare plan without clear funding or execution timeline",
-        "link": "https://www.aljazeera.com/economy/2026/1/15/trump-unveils-healthcare-plan-without-clear-funding-or-execution-timeline?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,47 +76,47 @@
     ],
     "Dawn": [
       {
-        "title": "Govt targets 0.8m overseas jobs this year: minister",
-        "link": "https://www.dawn.com/news/1967206/govt-targets-08m-overseas-jobs-this-year-minister"
-      },
-      {
-        "title": "Saudi Arabia pledges $500m for southern Yemen’s uplift",
-        "link": "https://www.dawn.com/news/1967251/saudi-arabia-pledges-500m-for-southern-yemens-uplift"
-      },
-      {
-        "title": "KP narcotics law undermines federal powers, FCC told",
-        "link": "https://www.dawn.com/news/1967252/kp-narcotics-law-undermines-federal-powers-fcc-told"
-      },
-      {
-        "title": "Exchange companies allowed to use Raast",
-        "link": "https://www.dawn.com/news/1967209/exchange-companies-allowed-to-use-raast"
+        "title": "Taliban leader’s speech lays bare ‘Kandahar vs Kabul’ divide",
+        "link": "https://www.dawn.com/news/1967267/taliban-leaders-speech-lays-bare-kandahar-vs-kabul-divide"
       },
       {
         "title": "No more imports of ‘personal’ used cars",
         "link": "https://www.dawn.com/news/1967208/no-more-imports-of-personal-used-cars"
+      },
+      {
+        "title": "Govt targets 0.8m overseas jobs this year: minister",
+        "link": "https://www.dawn.com/news/1967206/govt-targets-08m-overseas-jobs-this-year-minister"
+      },
+      {
+        "title": "Under construction house hit by rocket in Bannu’s Defence Colony",
+        "link": "https://www.dawn.com/news/1967287/under-construction-house-hit-by-rocket-in-bannus-defence-colony"
+      },
+      {
+        "title": "Saudi Arabia pledges $500m for southern Yemen’s uplift",
+        "link": "https://www.dawn.com/news/1967251/saudi-arabia-pledges-500m-for-southern-yemens-uplift"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "How Activists in Iran Are Using Starlink to Stay Online",
-        "link": "https://www.nytimes.com/2026/01/15/technology/iran-online-starlink.html"
+        "title": "Video Analysis of ICE Shooting Sheds Light on Contested Moments",
+        "link": "https://www.nytimes.com/2026/01/15/video/ice-shooting-renee-good-minneapolis-videos.html"
       },
       {
-        "title": "Israel and Arab Nations Ask Trump to Refrain From Attacking Iran",
-        "link": "https://www.nytimes.com/2026/01/15/us/politics/trump-iran-israel-us.html"
+        "title": "Was Renee Good Obligated to Comply With an ICE Agent’s Orders?",
+        "link": "https://www.nytimes.com/2026/01/15/us/renee-good-ice-agent-comply-legal.html"
       },
       {
-        "title": "Many Fiery Remarks, Little Clarity on What’s Next at Security Council Meeting on Iran",
-        "link": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-security-council.html"
+        "title": "Did a Supreme Court Loss Embolden Trump on the Insurrection Act?",
+        "link": "https://www.nytimes.com/2026/01/15/us/politics/supreme-court-trump-insurrection-act.html"
       },
       {
-        "title": "Live Updates: Venezuelan Opposition Leader Gives Trump Her Peace Prize",
+        "title": "Under Trump, a Shift Toward ‘Absolute Immunity’ for ICE",
+        "link": "https://www.nytimes.com/2026/01/15/us/politics/trump-ice-immunity.html"
+      },
+      {
+        "title": "Venezuelan Opposition Leader Gives Trump Her Peace Prize",
         "link": "https://www.nytimes.com/live/2026/01/15/us/trump-news"
-      },
-      {
-        "title": "Venezuela’s Interim Leader Delivers State of the Union Address",
-        "link": "https://www.nytimes.com/2026/01/15/world/americas/venezuela-rodriguez-maduro-trump.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,46 +143,46 @@
     ],
     "GeoTV": [
       {
+        "title": "A spectre of confrontation",
+        "link": "https://www.geo.tv/latest/645410-a-spectre-of-confrontation"
+      },
+      {
+        "title": "US imposes tariffs: Nvidia's H200 among AI chips facing 25% duties on China exports",
+        "link": "https://www.geo.tv/latest/645409-us-imposes-tariffs-nvidias-h200-among-ai-chips-facing-25-duties-on-china-exports"
+      },
+      {
+        "title": "Trump accepts Nobel medal from Venezuelan opposition leader Machado",
+        "link": "https://www.geo.tv/latest/645407-trump-accepts-nobel-medal-from-venezuelan-opposition-leader-machado"
+      },
+      {
+        "title": "Gracie Abrams steers career into a new direction amid album buzz",
+        "link": "https://www.geo.tv/latest/645406-gracie-abrams-surprises-fans-with-film-debut-in-new-a24-movie"
+      },
+      {
         "title": "Ashton Kutcher says ex Demi Moore ‘killed it'",
         "link": "https://www.geo.tv/latest/645405-ashton-kutcher-says-ex-demi-moore-killed-it"
-      },
-      {
-        "title": "Pamela Anderson reacts to seeing Seth Rogen at Golden Globes",
-        "link": "https://www.geo.tv/latest/645403-pamela-anderson-reacts-to-seeing-seth-rogen-at-golden-globes"
-      },
-      {
-        "title": "Ben Affleck thinks ‘acting' is a ‘waste' of time",
-        "link": "https://www.geo.tv/latest/645401-ben-affleck-jennifer-garner-thinks-acting-is-a-waste-of-time"
-      },
-      {
-        "title": "New trade deal cuts tariff and boosts Taiwan's chip exports to US",
-        "link": "https://www.geo.tv/latest/645397-new-trade-deal-cuts-tariff-and-boosts-taiwans-chip-exports-to-us"
-      },
-      {
-        "title": "‘Ponies' creators on casting Emilia Clarke, Haley Lu Richardson in series",
-        "link": "https://www.geo.tv/latest/645393-ponies-creators-on-casting-emilia-clarke-haley-lu-richardson-in-series"
       }
     ],
     "NDTV": [
-      {
-        "title": "Gates Foundation Unveils $9 Billion Budget And Plans To Cut Staff",
-        "link": "https://www.ndtv.com/world-news/gates-foundation-unveils-9-billion-budget-and-plans-to-cut-staff-10761356#publisher=newsstand"
-      },
-      {
-        "title": "\"Wonderful Gesture\": Trump As Machado Presents Him Nobel Peace Prize",
-        "link": "https://www.ndtv.com/world-news/wonderful-gesture-trump-as-machado-presents-him-nobel-peace-prize-10761329#publisher=newsstand"
-      },
       {
         "title": "Maharashtra Civic Body Election Results LIVE: Counting Of Votes To Begin At 10 AM",
         "link": "https://www.ndtv.com/india-news/maharashtra-bmc-election-results-live-updates-maharashtra-civic-polls-results-live-bmc-results-2026-live-bjp-devendra-fadnavis-eknath-shinde-shiv-sena-10761264#publisher=newsstand"
       },
       {
-        "title": "\"No Hesitation, No Compromise\": Zubeen Garg's Wife Seeks Full Truth",
-        "link": "https://www.ndtv.com/india-news/zubeen-gargs-wife-seeks-full-truth-10761278#publisher=newsstand"
+        "title": "\"Wonderful Gesture\": Trump As Machado Presents Him Her Nobel Peace Prize",
+        "link": "https://www.ndtv.com/world-news/wonderful-gesture-trump-as-machado-presents-him-nobel-peace-prize-10761329#publisher=newsstand"
       },
       {
-        "title": "Delhi Increases Night Shelter Capacity Near AIIMS, GB Pant Amid Severe Cold",
-        "link": "https://www.ndtv.com/delhi-news/delhi-increases-night-shelter-capacity-near-aiims-gb-pant-amid-severe-cold-10761257#publisher=newsstand"
+        "title": "BJP, Thackerays, Or Pawars? Crucial Maharashtra Civic Poll Results Today",
+        "link": "https://www.ndtv.com/india-news/bmc-elections-results-2026-pune-civic-body-results-maharashtra-municipal-elections-raj-thackeray-uddhav-thackeray-devendra-fadnavis-eknath-shinde-10761392#publisher=newsstand"
+      },
+      {
+        "title": "Gates Foundation Unveils $9 Billion Budget And Plans To Cut Staff",
+        "link": "https://www.ndtv.com/world-news/gates-foundation-unveils-9-billion-budget-and-plans-to-cut-staff-10761356#publisher=newsstand"
+      },
+      {
+        "title": "\"No Hesitation, No Compromise\": Zubeen Garg's Wife Seeks Full Truth",
+        "link": "https://www.ndtv.com/india-news/zubeen-gargs-wife-seeks-full-truth-10761278#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-16 03:25 UTC"
+  "last_updated": "2026-01-16 04:24 UTC"
 }
