@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Gaza death toll rises by Israeli raids, Trump names ‘Board of Peace’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/17/live-gaza-death-toll-rises-by-israeli-raids-trump-names-board-of-peace?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,19 +11,27 @@
         "link": "https://www.bbc.com/news/articles/c9vx7kn33elo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Paracetamol is safe in pregnancy, says study refuting US president's claims about autism",
-        "link": "https://www.bbc.com/news/articles/c74vdgkw1kzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Lammy blocks Jimmy Mizen killer's open prison move",
         "link": "https://www.bbc.com/news/articles/ckgle83e4llo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "A faceless hacker stole my therapy notes – now my deepest secrets are online forever",
-        "link": "https://www.bbc.com/news/articles/c62nzxqw45eo?at_medium=RSS&at_campaign=rss"
+        "title": "Under fire from the sea, families in Odesa try to escape Russian barrage",
+        "link": "https://www.bbc.com/news/articles/cnvg70v1z0ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jenrick's move is massive - but could it cause a bigger fight on the right?",
+        "link": "https://www.bbc.com/news/articles/cy9yxwqwjxgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "AFCON, Colonialism and Lumumba",
+        "link": "https://www.aljazeera.com/video/game-theory/2026/1/17/afcon-colonialism-and-lumumba?traffic_source=rss"
+      },
+      {
+        "title": "Minneapolis mayor says reported DOJ probe ‘intimidation’ amid ICE raids",
+        "link": "https://www.aljazeera.com/news/2026/1/17/minneapolis-mayor-says-reported-doj-probe-intimidation-amid-ice-raids?traffic_source=rss"
+      },
       {
         "title": "Floods kill more than 100 across southern Africa as rains intensify",
         "link": "https://www.aljazeera.com/news/2026/1/17/floods-kill-more-than-100-across-southern-africa-as-rains-intensify?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Can the US afford Trump’s $1.5 trillion ‘dream military’?",
         "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/17/can-the-us-afford-trumps-1-5-trillion-dream?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Gaza death toll rises by Israeli raids, Trump names ‘Board of Peace’",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/17/live-gaza-death-toll-rises-by-israeli-raids-trump-names-board-of-peace?traffic_source=rss"
-      },
-      {
-        "title": "Myanmar military-backed party leads after second round of election voting",
-        "link": "https://www.aljazeera.com/news/2026/1/17/myanmar-military-backed-party-leads-after-second-round-of-election-voting?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -143,46 +137,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Mike Flanagan's ‘The Exorcist' with Scarlett Johansson eyes new release",
+        "link": "https://www.geo.tv/latest/645627-mike-flanagans-the-exorcist-with-scarlett-johansson-eyes-new-release"
+      },
+      {
+        "title": "YouTube just added over 100 episodes of Sesame Street: Here's how to watch",
+        "link": "https://www.geo.tv/latest/645642-youtube-just-added-over-100-episodes-of-sesame-street-heres-how-to-watch"
+      },
+      {
+        "title": "Blake Shelton makes come back to eliminate ‘dry January'",
+        "link": "https://www.geo.tv/latest/645634-blake-shelton-makes-come-back-to-eliminate-dry-january"
+      },
+      {
+        "title": "Buckingham Palace shares King Charles emotional message with error",
+        "link": "https://www.geo.tv/latest/645641-buckingham-palace-shares-king-charles-emotional-message-with-error"
+      },
+      {
         "title": "Venezuela interim leader sacks industry minister allied with ousted president Maduro",
         "link": "https://www.geo.tv/latest/645625-venezuela-interim-leader-sacks-industry-minister-allied-with-deposed-president-maduro"
-      },
-      {
-        "title": "Jennifer Garner teases Ben Affleck over Beyoncé' 'Halo' story",
-        "link": "https://www.geo.tv/latest/645619-jennifer-garner-teases-ben-affleck-over-beyonc-halo-story"
-      },
-      {
-        "title": "What is God AI: Nvidia CEO Jensen Huang says the concept could exist in distant future",
-        "link": "https://www.geo.tv/latest/645636-what-is-god-ai-nvidia-ceo-jensen-huang-predicts-the-concept-to-exist-in-distant-future"
-      },
-      {
-        "title": "NHS widens Prostate cancer drug access in England, saving thousands of lives",
-        "link": "https://www.geo.tv/latest/645629-nhs-widens-prostate-cancer-drug-access-to-thousands-more"
-      },
-      {
-        "title": "Hailey Bieber shares throwback PDA-filled photos of her, Justin Bieber",
-        "link": "https://www.geo.tv/latest/645628-hailey-bieber-shares-throwback-pda-filled-photos-of-her-justin-bieber"
       }
     ],
     "NDTV": [
       {
-        "title": "Viral Video Shows Rajasthan Students Checking Answer Sheets, Prompts Action",
-        "link": "https://www.ndtv.com/india-news/viral-video-shows-rajasthan-students-checking-answer-sheets-prompts-action-10768038#publisher=newsstand"
+        "title": "PM Modi To Witness 10,000 Bodo Dancers Perform Bagurumba During Assam Visit",
+        "link": "https://www.ndtv.com/india-news/pm-modi-to-witness-10-000-bodo-dancers-perform-bagurumba-during-assam-visit-10768826#publisher=newsstand"
       },
       {
-        "title": "\"Want To Come Back\": Indian Woman Sarabjeet Kaur's Viral Audio After Pak Marriage",
-        "link": "https://www.ndtv.com/world-news/want-to-come-back-indian-woman-sarabjeet-kaurs-viral-audio-after-pak-marriage-10768386#publisher=newsstand"
+        "title": "Opinion: Opinion | Mumbai Polls: How The 'Marathi Manoos' Campaign Ended Up Uniting Others Against It",
+        "link": "https://www.ndtv.com/opinion/bmc-polls-how-the-marathi-manoos-campaign-ended-up-uniting-mumbais-non-maharashtrians-10768801#publisher=newsstand"
       },
       {
-        "title": "Tylenol Pregnancy Study Contradicts Trump Claims On Autism Link",
-        "link": "https://www.ndtv.com/world-news/tylenol-pregnancy-study-contradicts-trump-claims-on-autism-link-10768414#publisher=newsstand"
+        "title": "Team Trump To Repeal Basis For US Climate Rules: What To Know",
+        "link": "https://www.ndtv.com/world-news/team-trump-to-repeal-basis-for-us-climate-rules-what-to-know-10768805#publisher=newsstand"
       },
       {
-        "title": "Assam Can Supply Electricity To Bangladesh, Says Tripura Chief Minister",
-        "link": "https://www.ndtv.com/india-news/assam-can-supply-electricity-to-bangladesh-says-tripura-chief-minister-10768408#publisher=newsstand"
+        "title": "Rahul Gandhi Meets Patients, Families Of Indore Water Contamination Victims",
+        "link": "https://www.ndtv.com/india-news/rahul-gandhi-meets-patients-families-of-indore-water-contamination-victims-10768584#publisher=newsstand"
       },
       {
-        "title": "\"Beautiful Girl Can Distract A Man\": Congress MLA's \"Rape Theory\" Sparks Row",
-        "link": "https://www.ndtv.com/india-news/beautiful-girl-can-distract-a-man-congress-mla-phool-singh-baraiyas-rape-theory-sparks-row-10768305#publisher=newsstand"
+        "title": "All About UN Biodiversity Treaty That Aims To Protect 30% Of Oceans By 2030",
+        "link": "https://www.ndtv.com/world-news/all-about-un-biodiversity-treaty-that-aims-to-protect-30-of-oceans-by-2030-10768778#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-17 07:51 UTC"
+  "last_updated": "2026-01-17 08:15 UTC"
 }
