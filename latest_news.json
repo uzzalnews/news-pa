@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Manchester United vs Manchester City – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/17/live-manchester-united-vs-manchester-city-premier-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Iran restores SMS as phased rollback of internet blackout begins",
+        "link": "https://www.aljazeera.com/news/2026/1/17/iran-restores-sms-as-phased-rollback-of-internet-blackout-begins?traffic_source=rss"
+      },
+      {
+        "title": "Ceasefire in Palestine? What ceasefire?",
+        "link": "https://www.aljazeera.com/opinions/2026/1/17/ceasefire-in-palestine-what-ceasefire?traffic_source=rss"
+      },
+      {
         "title": "AFCON final: Senegal criticises lack of ‘fair play’ ahead of Morocco clash",
         "link": "https://www.aljazeera.com/sports/2026/1/17/afcon-final-senegal-criticizes-lack-of-fair-play-ahead-of-morocco-clash?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Sudan: A truce of separation",
         "link": "https://www.aljazeera.com/opinions/2026/1/17/sudan-a-truce-of-separation?traffic_source=rss"
-      },
-      {
-        "title": "Photos: Syrian army enters Deir Hafer after SDF withdrawal",
-        "link": "https://www.aljazeera.com/gallery/2026/1/17/photos-syrian-army-enters-deir-hafer-after-sdf-withdrawal?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Manchester United vs Manchester City – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/17/live-manchester-united-vs-manchester-city-premier-league?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,27 +93,31 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Trump Administration Begins Criminal Inquiry Into Minnesota Leaders",
+        "link": "https://www.nytimes.com/2026/01/16/us/politics/tim-walz-jacob-frey-investigation-trump.html"
+      },
+      {
         "title": "Judge Restricts Immigration Agents’ Actions Toward Minnesota Protesters",
         "link": "https://www.nytimes.com/2026/01/16/us/minnesota-ice-immigration-agents-protests.html"
       },
       {
-        "title": "Trump Administration Begins Criminal Inquiry Into Minnesota Leaders",
-        "link": "https://www.nytimes.com/2026/01/16/us/politics/tim-walz-jacob-frey-investigation-trump.html"
+        "title": "The People of Minneapolis vs. ICE: A Street-Level View",
+        "link": "https://www.nytimes.com/2026/01/17/us/minneapolis-protests-ice.html"
       },
       {
         "title": "Video Analysis of ICE Shooting Sheds Light on Contested Moments",
         "link": "https://www.nytimes.com/2026/01/15/video/ice-shooting-renee-good-minneapolis-videos.html"
       },
       {
-        "title": "Trump Backs Down on Insurrection Act as Democrats Take the Offensive",
-        "link": "https://www.nytimes.com/2026/01/16/us/minnesota-democrats-ice-hearing.html"
-      },
-      {
-        "title": "Trump Sets Fraudster Free From Prison for a Second Time",
-        "link": "https://www.nytimes.com/2026/01/16/us/politics/trump-fraudster-pardon.html"
+        "title": "How Wall Street Turned Its Back on Climate Change",
+        "link": "https://www.nytimes.com/2026/01/17/climate/how-wall-street-turned-its-back-on-climate-change.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Trump appoints Tony Blair to Gaza 'board of peace'",
+        "link": "https://www.middleeasteye.net/news/trump-appoints-tony-blair-gaza-board-peace"
+      },
       {
         "title": "US invites Erdogan to join Gaza 'Board of Peace'",
         "link": "https://www.middleeasteye.net/news/us-invites-erdogan-join-gaza-board-peace"
@@ -135,54 +133,50 @@
       {
         "title": "Why Pakistan's war with India led to a boom in arms sales and defence ties",
         "link": "https://www.middleeasteye.net/news/why-pakistans-war-india-led-boon-arms-sales-and-defence-ties"
-      },
-      {
-        "title": "House of Representatives approves $3.3bn in military aid to Israel",
-        "link": "https://www.middleeasteye.net/news/house-representatives-approves-33bn-military-aid-israel"
       }
     ],
     "GeoTV": [
       {
-        "title": "Princess Kate's brother James Middleton shares truth about secret love",
-        "link": "https://www.geo.tv/latest/645666-princess-kates-brother-james-middleton-shares-truth-about-secret-love"
+        "title": "Who's Sienna Rose? Olivia Dean's rival or a digital phantom—here's what you need to know",
+        "link": "https://www.geo.tv/latest/645674-whos-sienna-rose-olivia-deans-rival-who-might-be-a-phantom-heres-every-detail-you-need-to-know"
       },
       {
-        "title": "Ben Affleck reveals Matt Damon movie he is glad he passed on",
-        "link": "https://www.geo.tv/latest/645667-ben-affleck-reveals-matt-damon-movie-he-is-glad-he-passed-on"
+        "title": "Charli XCX releases dramatic new single 'Wall of Sound'",
+        "link": "https://www.geo.tv/latest/645672-charli-xcs-releases-dramatic-new-single-wall-of-sound"
       },
       {
-        "title": "Elon Musk demanding $134 billion from OpenAI and Microsoft: Here's why",
-        "link": "https://www.geo.tv/latest/645673-elon-musk-demanding-134-billion-from-openai-and-microsoft-heres-why"
+        "title": "Matt Damon makes shocking claim about ‘cancel culture'",
+        "link": "https://www.geo.tv/latest/645664-matt-damon-makes-shocking-claim-about-cancel-culture"
       },
       {
-        "title": "Musk seeks up to $134bn from OpenAI, Microsoft in 'wrongful gains'",
-        "link": "https://www.geo.tv/latest/645669-musk-seeks-up-to-134bn-from-openai-microsoft-in-wrongful-gains"
+        "title": "Meghan Markle ignores Prince Harry's warnings as key issue deepens",
+        "link": "https://www.geo.tv/latest/645675-meghan-markle-ignores-prince-harrys-warnings-as-key-issue-deepens"
       },
       {
-        "title": "Peter Andre's wife Emily sets positive example for daughter Millie",
-        "link": "https://www.geo.tv/latest/645651-peter-andres-wife-emily-sets-postive-example"
+        "title": "Salma Hayek steals the show in R-rated movie with bad reviews",
+        "link": "https://www.geo.tv/latest/645670-salma-hayek-steals-the-show-in-r-rated-movie-with-bad-reviews"
       }
     ],
     "NDTV": [
       {
-        "title": "She Was Shot In Head, Buried By Roadside: Tragedy Of An Iranian Protester",
-        "link": "https://www.ndtv.com/world-news/she-was-shot-in-head-buried-by-roadside-tragedy-of-an-iranian-protester-10769500#publisher=newsstand"
+        "title": "Resort Politics In Mumbai Again: Shinde Camp's Big Move After BMC Results",
+        "link": "https://www.ndtv.com/india-news/resort-politics-in-mumbai-again-eknath-shinde-big-move-after-bmc-results-10769689#publisher=newsstand"
       },
       {
-        "title": "\"India's Gen Z Believes In BJP\": PM Modi Cites Big BMC Victory In Bengal",
-        "link": "https://www.ndtv.com/india-news/indias-gen-z-believes-in-bjp-pm-narendra-modi-cites-big-bmc-victory-in-bengal-10769339#publisher=newsstand"
+        "title": "'God Willing, Will Have Our Party's Mayor In Mumbai': Uddhav Thackeray",
+        "link": "https://www.ndtv.com/mumbai-news/god-willing-will-have-our-partys-mayor-in-mumbai-uddhav-thackeray-10769601#publisher=newsstand"
       },
       {
-        "title": "'She's Bleeding': 911 Transcripts Reveal Horror After US Woman Was Shot",
-        "link": "https://www.ndtv.com/india-news/shes-bleeding-911-transcripts-reveal-horror-after-us-woman-was-shot-renee-good-immigration-agents-10768645#publisher=newsstand"
+        "title": "\"I Strangled Her, Body Is Wrapped In Blanket\": UP Man Kills Wife, Surrenders",
+        "link": "https://www.ndtv.com/india-news/i-strangled-her-body-is-wrapped-in-blanket-up-man-kills-wife-surrenders-10769691#publisher=newsstand"
       },
       {
-        "title": "Why US Cities Are Reverting 1-Way Streets Back To Original 2-Way Design",
-        "link": "https://www.ndtv.com/world-news/why-us-cities-are-reverting-1-way-streets-back-to-original-2-way-design-10769362#publisher=newsstand"
+        "title": "Delhi Gets 'Zero-Tolerance' Zones To Ease Traffic Congestion In Busy Areas",
+        "link": "https://www.ndtv.com/delhi-news/delhi-gets-zero-tolerance-zones-to-ease-traffic-congestion-in-busy-areas-10769543#publisher=newsstand"
       },
       {
-        "title": "Musk Seeks $134 Billion From OpenAI, Microsoft In 'Wrongful Gains'",
-        "link": "https://www.ndtv.com/world-news/musk-seeks-134-billion-from-openai-microsoft-in-wrongful-gains-10769207#publisher=newsstand"
+        "title": "All About UN Biodiversity Treaty That Aims To Protect 30% Of Oceans By 2030",
+        "link": "https://www.ndtv.com/world-news/all-about-un-biodiversity-treaty-that-aims-to-protect-30-of-oceans-by-2030-10768778#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-17 10:52 UTC"
+  "last_updated": "2026-01-17 11:11 UTC"
 }
