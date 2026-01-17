@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Manchester United vs Manchester City – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/17/live-manchester-united-vs-manchester-city-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,34 +21,34 @@
         "link": "https://www.bbc.com/news/articles/ckgle83e4llo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Under fire from the sea, families in Odesa try to escape Russian barrage",
-        "link": "https://www.bbc.com/news/articles/cnvg70v1z0ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Jenrick's move is massive - but could it cause a bigger fight on the right?",
         "link": "https://www.bbc.com/news/articles/cy9yxwqwjxgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Faisal Islam: The one measure that can tell us a lot about the state of the UK economy",
+        "link": "https://www.bbc.com/news/articles/c150leql9pgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Photos: Syrian army enters Deir Hafer after SDF withdrawal",
+        "link": "https://www.aljazeera.com/gallery/2026/1/17/photos-syrian-army-enters-deir-hafer-after-sdf-withdrawal?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Manchester United vs Manchester City – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/17/live-manchester-united-vs-manchester-city-premier-league?traffic_source=rss"
+      },
+      {
+        "title": "Syria decree grants Kurds new rights, formally recognising Kurdish language",
+        "link": "https://www.aljazeera.com/news/2026/1/17/syria-decree-grants-kurds-new-rights-formally-recognising-kurdish-language?traffic_source=rss"
+      },
       {
         "title": "US judge orders curbs on ICE agents’ actions against Minnesota protesters",
         "link": "https://www.aljazeera.com/news/2026/1/17/us-judge-orders-curbs-on-ice-agents-actions-against-minnesota-protesters?traffic_source=rss"
       },
       {
-        "title": "Syria live news: Army takes control of Deir Hafer as SDF pulls out",
+        "title": "Syria live news: Army takes control of Deir Hafer, Maskana as SDF pulls out",
         "link": "https://www.aljazeera.com/news/liveblog/2026/1/17/syria-live-news-army-takes-control-of-deir-hafer-as-sdf-withdraws?traffic_source=rss"
-      },
-      {
-        "title": "AFCON, Colonialism and Lumumba",
-        "link": "https://www.aljazeera.com/video/game-theory/2026/1/17/afcon-colonialism-and-lumumba?traffic_source=rss"
-      },
-      {
-        "title": "Minneapolis mayor says reported DOJ probe ‘intimidation’ amid ICE raids",
-        "link": "https://www.aljazeera.com/news/2026/1/17/minneapolis-mayor-says-reported-doj-probe-intimidation-amid-ice-raids?traffic_source=rss"
-      },
-      {
-        "title": "Floods kill more than 100 across southern Africa as rains intensify",
-        "link": "https://www.aljazeera.com/news/2026/1/17/floods-kill-more-than-100-across-southern-africa-as-rains-intensify?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/1967477/23-dead-24-injured-in-separate-road-accidents-in-punjab-balochistan"
       },
       {
+        "title": "Karachi police arrest suspect allegedly involved in assault of 100 boys over past 25 years",
+        "link": "https://www.dawn.com/news/1967484/karachi-police-arrest-suspect-allegedly-involved-in-assault-of-100-boys-over-past-25-years"
+      },
+      {
         "title": "Pakistan, US expand military engagement amid renewed defence ties",
         "link": "https://www.dawn.com/news/1967468/pakistan-us-expand-military-engagement-amid-renewed-defence-ties"
       },
@@ -84,10 +94,6 @@
       {
         "title": "Dar expresses hope for peace, stability in Iran in phone call with Araghchi: FO",
         "link": "https://www.dawn.com/news/1967480/dar-expresses-hope-for-peace-stability-in-iran-in-phone-call-with-araghchi-fo"
-      },
-      {
-        "title": "Iran protest movement subsides after crackdown by security forces",
-        "link": "https://www.dawn.com/news/1967476/iran-protest-movement-subsides-after-crackdown-by-security-forces"
       }
     ],
     "APNews": [],
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Princess Lilibet's secret obsession with Kate Middleton revealed by Meghan",
-        "link": "https://www.geo.tv/latest/645653-princess-lilibets-secret-obsession-with-kate-middleton-revealed-by-meghan"
+        "title": "Punjab police submit 27-point safety plan to LHC for Basant celebration",
+        "link": "https://www.geo.tv/latest/645654-punjab-police-submit-27-point-safety-plan-to-lhc-for-basant-celebration"
       },
       {
-        "title": "Ben Affleck recalls unique experience that made 1998 film's ‘scene better'",
-        "link": "https://www.geo.tv/latest/645649-ben-affleck-recalls-unique-experience-that-made-1998-films-scene-better"
+        "title": "John Mellencamp urges daughter Teddi to leave Hollywood amid cancer battle",
+        "link": "https://www.geo.tv/latest/645635-john-mellencamp-urges-daughter-teddi-to-leave-hollywood-amid-cancer-battle-r"
       },
       {
-        "title": "‘Euphoria' Season 3 sets major record ahead of highly anticipated release",
-        "link": "https://www.geo.tv/latest/645643-euphoria-season-3-sets-major-record-ahead-of-highly-anticipated-release"
+        "title": "Dua Lipa hops on viral trend with 'elite' choker collection",
+        "link": "https://www.geo.tv/latest/645623-dua-lipa-hops-on-viral-trend-with-elite-choker-collection"
       },
       {
-        "title": "Jelly Roll shares how fitness has boosted his love life",
-        "link": "https://www.geo.tv/latest/645647-jelly-roll-shares-how-fitness-has-boosted-his-love-life"
+        "title": "Grand Duke of Luxembourg takes unique initiative with technology",
+        "link": "https://www.geo.tv/latest/645631-grand-duke-of-luxembourg-takes-unique-initiative-with-technology"
       },
       {
-        "title": "Britons give Prince William go ahead for his 'change' plan as future monarch",
-        "link": "https://www.geo.tv/latest/645638-prince-williams-change-plan-makes-him-most-popular-royal-in-britain"
+        "title": "Max George posts updates from hospital after chest scan",
+        "link": "https://www.geo.tv/latest/645646-max-george"
       }
     ],
     "NDTV": [
       {
-        "title": "PM Modi To Witness 10,000 Bodo Dancers Perform Bagurumba During Assam Visit",
-        "link": "https://www.ndtv.com/india-news/pm-modi-to-witness-10-000-bodo-dancers-perform-bagurumba-during-assam-visit-10768826#publisher=newsstand"
+        "title": "After BMC Drubbing, Uddhav Sena's Balasaheb Post, Raj Thackeray's Open Letter",
+        "link": "https://www.ndtv.com/india-news/bmc-election-results-2026-uddhav-thackeray-raj-thackeray-say-fight-isnt-over-yet-10768478#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Mumbai Polls: How The 'Marathi Manoos' Campaign Ended Up Uniting Others Against It",
-        "link": "https://www.ndtv.com/opinion/bmc-polls-how-the-marathi-manoos-campaign-ended-up-uniting-mumbais-non-maharashtrians-10768801#publisher=newsstand"
+        "title": "DK Shivakumar Meets Rahul Gandhi As Karnataka Power Signals Grow Louder",
+        "link": "https://www.ndtv.com/karnataka-news/dk-shivakumar-meets-rahul-gandhi-as-karnataka-power-signals-grow-louder-10769099#publisher=newsstand"
       },
       {
-        "title": "Team Trump To Repeal Basis For US Climate Rules: What To Know",
-        "link": "https://www.ndtv.com/world-news/team-trump-to-repeal-basis-for-us-climate-rules-what-to-know-10768805#publisher=newsstand"
+        "title": "Women Votes To Local Issues, How AIMIM Emerged Big In Maharashtra Civic Polls",
+        "link": "https://www.ndtv.com/india-news/women-votes-to-local-issues-how-asaduddin-owaisis-aimim-emerged-big-in-maharashtra-civic-polls-10769075#publisher=newsstand"
       },
       {
-        "title": "Rahul Gandhi Meets Patients, Families Of Indore Water Contamination Victims",
-        "link": "https://www.ndtv.com/india-news/rahul-gandhi-meets-patients-families-of-indore-water-contamination-victims-10768584#publisher=newsstand"
+        "title": "Federal Officers In Minneapolis Can't Detain Protesters: US Court Rules",
+        "link": "https://www.ndtv.com/world-news/federal-officers-in-minneapolis-cant-detain-protesters-us-court-rules-10769042#publisher=newsstand"
       },
       {
-        "title": "All About UN Biodiversity Treaty That Aims To Protect 30% Of Oceans By 2030",
-        "link": "https://www.ndtv.com/world-news/all-about-un-biodiversity-treaty-that-aims-to-protect-30-of-oceans-by-2030-10768778#publisher=newsstand"
+        "title": "India Gets New Vande Bharat Sleeper Trains. Check Out Its Features",
+        "link": "https://www.ndtv.com/india-news/pm-modi-flags-off-indias-first-howrah-guwahati-vande-bharat-sleeper-train-10768905#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-17 08:57 UTC"
+  "last_updated": "2026-01-17 09:27 UTC"
 }
