@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Gaza death toll rises by Israeli raids, Trump names ‘Board of Peace’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/17/live-gaza-death-toll-rises-by-israeli-raids-trump-names-board-of-peace?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Can the US afford Trump’s $1.5 trillion ‘dream military’?",
+        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/17/can-the-us-afford-trumps-1-5-trillion-dream?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Gaza death toll rises by Israeli raids, Trump names ‘Board of Peace’",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/17/live-gaza-death-toll-rises-by-israeli-raids-trump-names-board-of-peace?traffic_source=rss"
+      },
+      {
         "title": "Myanmar military-backed party leads after second round of election voting",
         "link": "https://www.aljazeera.com/news/2026/1/17/myanmar-military-backed-party-leads-after-second-round-of-election-voting?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "US air authority warns of ‘military activities’ over Mexico, South America",
         "link": "https://www.aljazeera.com/news/2026/1/17/us-air-authority-warns-of-military-activities-over-mexico-south-america?traffic_source=rss"
-      },
-      {
-        "title": "US-Iran tensions: Trump has no path to an easy ‘win’ despite Tehran’s woes",
-        "link": "https://www.aljazeera.com/news/2026/1/17/us-iran-tensions-trump-has-no-path-to-an-easy-win-despite-tehrans-woes?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,423",
-        "link": "https://www.aljazeera.com/news/2026/1/17/russia-ukraine-war-list-of-key-events-day-1423?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "At least 14 killed after truck falls into Sargodha canal due to fog",
-        "link": "https://www.dawn.com/news/1967477/at-least-14-killed-after-truck-falls-into-sargodha-canal-due-to-fog"
+        "title": "14 killed after truck falls into Sargodha canal due to fog",
+        "link": "https://www.dawn.com/news/1967477/14-killed-after-truck-falls-into-sargodha-canal-due-to-fog"
       },
       {
         "title": "Pakistan, US expand military engagement amid renewed defence ties",
         "link": "https://www.dawn.com/news/1967468/pakistan-us-expand-military-engagement-amid-renewed-defence-ties"
       },
       {
-        "title": "US launches phase two of Gaza peace plan, names ‘Board of Peace’",
-        "link": "https://www.dawn.com/news/1967471/us-launches-phase-two-of-gaza-peace-plan-names-board-of-peace"
+        "title": "President Trump announces Gaza ‘Board of Peace’ members, launches phase two of peace plan",
+        "link": "https://www.dawn.com/news/1967471/president-trump-announces-gaza-board-of-peace-members-launches-phase-two-of-peace-plan"
       },
       {
         "title": "Iran protest movement subsides after crackdown by security forces",
         "link": "https://www.dawn.com/news/1967476/iran-protest-movement-subsides-after-crackdown-by-security-forces"
       },
       {
-        "title": "Power sector interventions fail to spark growth",
-        "link": "https://www.dawn.com/news/1967418/power-sector-interventions-fail-to-spark-growth"
+        "title": "Pension is a right, not employer’s largesse: Supreme Court",
+        "link": "https://www.dawn.com/news/1967433/pension-is-a-right-not-employers-largesse-supreme-court"
       }
     ],
     "APNews": [],
@@ -137,49 +143,53 @@
     ],
     "GeoTV": [
       {
-        "title": "Tyler Hilton, Megan Park split after 11 years of marriage",
-        "link": "https://www.geo.tv/latest/645612-tyler-hilton-megan-park-split-after-11-years-of-marriage"
+        "title": "Michelle Pfeiffer, Kurt Russell to lead ‘Yellowstone' spinoff ‘The Madison'",
+        "link": "https://www.geo.tv/latest/645608-michelle-pfeiffer-kurt-russell-to-lead-yellowstone-spinoff-the-madison"
       },
       {
-        "title": "Subway Surfers City, Subway Surfers sequel, to release in Feb: Pre-orders now open",
-        "link": "https://www.geo.tv/latest/645607-subway-surfers-city-subway-surfers-sequel-to-release-in-feb-pre-orders-now-open"
+        "title": "Court bars ICE from retaliating, pepper spraying peaceful protesters in Minnesota",
+        "link": "https://www.geo.tv/latest/645622-court-bars-ice-from-retaliating-pepper-spraying-peaceful-protesters-in-minnesota"
       },
       {
-        "title": "King Charles honours Prince Edward, Duchess Sophie for loyalty to mission",
-        "link": "https://www.geo.tv/latest/645613-king-charles-honours-prince-edward-duchess-sophie-for-loyalty-to-mission"
+        "title": "ChatGPT Go rolling out in US at dirt-cheap rates: Here's how much it costs",
+        "link": "https://www.geo.tv/latest/645620-chatgpt-go-rolling-out-in-us-at-dirt-cheap-rates-heres-how-much-it-costs"
       },
       {
-        "title": "Rhetoric is not reform",
-        "link": "https://www.geo.tv/latest/645602-rhetoric-is-not-reform"
+        "title": "Zayn Malik excites fans with preview of unreleased song",
+        "link": "https://www.geo.tv/latest/645610-zayn-malik-excites-fans-with-preview-of-unreleased-song"
       },
       {
-        "title": "Chris Pratt addresses rumours about ‘Avengers: Doomsday' appearance",
-        "link": "https://www.geo.tv/latest/645600-chris-pratt-addresses-rumours-about-avengers-doomsday-appearance"
+        "title": "Prince William sacrifices key privilege in exchange for Forest Lodge",
+        "link": "https://www.geo.tv/latest/645617-prince-william-sacrifices-key-privilege-in-exchange-for-forest-lodge"
       }
     ],
     "NDTV": [
       {
-        "title": "\"No Internet, Dangerous Protests\": First Flights From Iran Land In Delhi",
-        "link": "https://www.ndtv.com/india-news/iran-protests-first-flights-from-iran-land-in-delhi-indians-back-from-iran-thank-government-10768102#publisher=newsstand"
+        "title": "Viral Video Shows Rajasthan Students Checking Answer Sheets, Prompts Action",
+        "link": "https://www.ndtv.com/india-news/viral-video-shows-rajasthan-students-checking-answer-sheets-prompts-action-10768038#publisher=newsstand"
       },
       {
-        "title": "BJP's 'Kashmir-Style Exodus' Jibe At Telangana Government Over Temple Attacks",
-        "link": "https://www.ndtv.com/telangana-news/bjps-kashmir-style-exodus-jibe-at-telangana-government-over-temple-attacks-10768094#publisher=newsstand"
+        "title": "\"Want To Come Back\": Indian Woman Sarabjeet Kaur's Viral Audio After Pak Marriage",
+        "link": "https://www.ndtv.com/world-news/want-to-come-back-indian-woman-sarabjeet-kaurs-viral-audio-after-pak-marriage-10768386#publisher=newsstand"
       },
       {
-        "title": "Dense Fog Blankets Delhi-NCR Amid Cold Wave, Air Quality 'Severe'",
-        "link": "https://www.ndtv.com/delhi-news/dense-fog-blankets-delhi-ncr-amid-cold-wave-air-quality-severe-10767760#publisher=newsstand"
+        "title": "Tylenol Pregnancy Study Contradicts Trump Claims On Autism Link",
+        "link": "https://www.ndtv.com/world-news/tylenol-pregnancy-study-contradicts-trump-claims-on-autism-link-10768414#publisher=newsstand"
       },
       {
-        "title": "Pacifier Gag To Spoof Video, Late-Night Hosts Roast Trump Over Nobel Prize",
-        "link": "https://www.ndtv.com/world-news/pacifier-gag-to-spoof-video-late-night-hosts-roast-trump-over-nobel-peace-prize-medal-jimmy-kimmel-jimmy-fallon-venezuela-maria-machado-10767956#publisher=newsstand"
+        "title": "Assam Can Supply Electricity To Bangladesh, Says Tripura Chief Minister",
+        "link": "https://www.ndtv.com/india-news/assam-can-supply-electricity-to-bangladesh-says-tripura-chief-minister-10768408#publisher=newsstand"
       },
       {
-        "title": "Norovirus Infects Over 100 Students At South China School",
-        "link": "https://www.ndtv.com/world-news/norovirus-news-norovirus-in-china-norovirus-infects-over-100-students-at-south-china-school-10767748#publisher=newsstand"
+        "title": "\"Beautiful Girl Can Distract A Man\": Congress MLA's \"Rape Theory\" Sparks Row",
+        "link": "https://www.ndtv.com/india-news/beautiful-girl-can-distract-a-man-congress-mla-phool-singh-baraiyas-rape-theory-sparks-row-10768305#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Rare twins born in DRC raise cautious hope for endangered mountain gorillas",
+        "link": "https://www.theguardian.com/environment/2026/jan/17/twin-baby-mountain-gorilla-virunga-drc-survival-conservation-aoe"
+      },
       {
         "title": "Uganda’s opposition leader ‘taken by army’ as Museveni nears re-election",
         "link": "https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported"
@@ -195,12 +205,8 @@
       {
         "title": "Cloth wraps treated with ‘dirt cheap’ insecticide cut malaria cases in babies",
         "link": "https://www.theguardian.com/global-development/2026/jan/16/cloth-wraps-treated-with-insecticide-cut-malaria-cases-in-babies"
-      },
-      {
-        "title": "Death of Chimamanda Ngozi Adichie’s son prompts calls for overhaul of Nigeria’s healthcare sector",
-        "link": "https://www.theguardian.com/world/2026/jan/16/nigeria-call-overhaul-healthcare-sector-death-bestselling-author-toddler"
       }
     ]
   },
-  "last_updated": "2026-01-17 06:00 UTC"
+  "last_updated": "2026-01-17 06:42 UTC"
 }
