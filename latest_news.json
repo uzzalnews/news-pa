@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Senegal vs Morocco – AFCON final",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/18/live-senegal-vs-morocco-afcon-final?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Senegal vs Morocco – AFCON final",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/18/live-senegal-vs-morocco-afcon-final?traffic_source=rss"
+      },
+      {
+        "title": "Sudan’s people endure ‘horror and hell’ in war, says UN rights chief",
+        "link": "https://www.aljazeera.com/news/2026/1/18/sudans-people-endure-horror-and-hell-in-war-says-un-rights-chief?traffic_source=rss"
+      },
+      {
         "title": "Jagan Chapagain: Is the global humanitarian system breaking down?",
         "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/1/18/jagan-chapagain-is-the-global-humanitarian-system-breaking-down?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "Recent fighting in Syria is “a nightmare scenario for the US”",
         "link": "https://www.aljazeera.com/video/quotable/2026/1/18/recent-fighting-in-syria-is-a-nightmare-scenario-for-the?traffic_source=rss"
-      },
-      {
-        "title": "The threat against Greenland shows that we need to stop appeasing Trump",
-        "link": "https://www.aljazeera.com/opinions/2026/1/18/the-threat-against-greenland-shows-that-we-need-to-stop-appeasing-trump?traffic_source=rss"
-      },
-      {
-        "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -159,24 +165,24 @@
     ],
     "NDTV": [
       {
-        "title": "12 Detained In UP For Offering Namaz In Empty House 'Without Permission'",
-        "link": "https://www.ndtv.com/india-news/12-detained-in-up-for-offering-namaz-in-empty-house-without-permission-10773573#publisher=newsstand"
+        "title": "Trump Invites India To Be Part Of Gaza's \"Board Of Peace\", Say Sources",
+        "link": "https://www.ndtv.com/world-news/trump-invites-india-to-be-part-of-gazas-board-of-peace-say-sources-10775405#publisher=newsstand"
       },
       {
-        "title": "5 Dead, 25 Injured After Bus Carrying Wedding Guests Overturns In Jharkhand",
-        "link": "https://www.ndtv.com/india-news/5-dead-25-injured-after-bus-carrying-wedding-guests-overturns-in-jharkhand-10774683#publisher=newsstand"
+        "title": "Bhopal Man Caught By Woman's Family Forced To Drink Urine, Thrashed",
+        "link": "https://www.ndtv.com/india-news/bhopal-man-caught-by-rajasthan-woman-family-forced-to-drink-urine-thrashed-10775384#publisher=newsstand"
       },
       {
-        "title": "Devendra Fadnavis Represents 'Magnetic Maharashtra' At World Economic Forum",
-        "link": "https://www.ndtv.com/india-news/devendra-fadnavis-represents-magnetic-maharashtra-at-world-economic-forum-10774421#publisher=newsstand"
+        "title": "7 Soldiers Injured During Gunbattle With Terrorists In J&K",
+        "link": "https://www.ndtv.com/india-news/7-soldiers-injured-during-gunbattle-with-terrorists-in-j-k-10775273#publisher=newsstand"
       },
       {
-        "title": "Partner With Bharat, Subscribe To Future: India's Pitch At Davos Summit",
-        "link": "https://www.ndtv.com/india-news/partner-with-bharat-subscribe-to-future-indias-pitch-at-davos-summit-10774461#publisher=newsstand"
+        "title": "Telangana Chief Minister Revanth Reddy Enrolls For 5-Day Global Leadership Course At Harvard",
+        "link": "https://www.ndtv.com/india-news/telangana-chief-minister-revanth-reddy-enrolls-for-5-day-global-leadership-course-at-harvard-10775200#publisher=newsstand"
       },
       {
-        "title": "2 Dead, 11 Injured After Speeding Car Rams Labourers In Jabalpur",
-        "link": "https://www.ndtv.com/india-news/2-dead-11-injured-after-speeding-car-rams-labourers-in-jabalpur-10774498#publisher=newsstand"
+        "title": "Opinion: Opinion | Is Vijay's TVK Reacting Like A Fan Club Or A Political Party?",
+        "link": "https://www.ndtv.com/opinion/is-vijays-tvk-acting-like-a-fan-club-or-a-political-party-10775187#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-18 15:42 UTC"
+  "last_updated": "2026-01-18 15:53 UTC"
 }
