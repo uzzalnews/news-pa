@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Senegal vs Morocco – AFCON final",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/18/live-senegal-vs-morocco-afcon-final?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,8 +25,12 @@
     ],
     "AlJazeera": [
       {
+        "title": "Trump announces new tariffs over Greenland: How have EU allies responded?",
+        "link": "https://www.aljazeera.com/news/2026/1/18/trump-announces-new-tariffs-over-greenland-how-have-eu-allies-responded?traffic_source=rss"
+      },
+      {
         "title": "Who is part of Trump’s ‘Board of Peace’ for Gaza?",
-        "link": "https://www.aljazeera.com/features/2026/1/18/who-is-part-of-trumps-board-of-peace-for-gaza?traffic_source=rss"
+        "link": "https://www.aljazeera.com/news/2026/1/18/who-is-part-of-trumps-board-of-peace-for-gaza?traffic_source=rss"
       },
       {
         "title": "Benin’s opposition loses all parliamentary seats, provisional results show",
@@ -45,10 +43,6 @@
       {
         "title": "Syria announces ceasefire agreement with Kurd-led SDF after heavy fighting",
         "link": "https://www.aljazeera.com/news/2026/1/18/syria-announces-ceasefire-agreement-with-kurd-led-sdf-after-heavy-fighting?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Senegal vs Morocco – AFCON final",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/18/live-senegal-vs-morocco-afcon-final?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "Search operation begins at Karachi’s Gul Plaza as fire doused after 24 hours",
-        "link": "https://www.dawn.com/news/1967505/search-operation-begins-at-karachis-gul-plaza-as-fire-doused-after-24-hours"
+        "title": "Search operation begins to locate over 50 missing people at Karachi’s Gul Plaza as fire doused after 24 hours",
+        "link": "https://www.dawn.com/news/1967505/search-operation-begins-to-locate-over-50-missing-people-at-karachis-gul-plaza-as-fire-doused-after-24-hours"
       },
       {
         "title": "TTAP demands ‘independent probe’ into Feb 8 elections, punishment for those responsible for alleged rigging under Article 6",
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-18 17:38 UTC"
+  "last_updated": "2026-01-18 17:50 UTC"
 }
