@@ -3,16 +3,16 @@
   "news": {
     "BBC": [
       {
-        "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
-        "link": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Starmer holds phone call with Trump over Greenland tariff threat",
         "link": "https://www.bbc.com/news/articles/cwyn90l1dneo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Andrew Rosindell quits Tories and defects to Reform UK",
         "link": "https://www.bbc.com/news/articles/c98jn1wywdyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five dead after high-speed trains collide in Spain",
+        "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Government pulls Hillsborough Law amendment after backlash",
@@ -93,7 +93,7 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "After Trump Reignites a Trade War Over Greenland, Europe Weighs Going All-Out",
+        "title": "After Trump Reignites a Trade War Over Greenland, Europe Weighs Hitting Back",
         "link": "https://www.nytimes.com/2026/01/18/world/europe/greenland-us-trade-war.html"
       },
       {
@@ -101,12 +101,12 @@
         "link": "https://www.nytimes.com/2026/01/18/world/europe/denmark-greenland-trump.html"
       },
       {
-        "title": "D.H.S.’s Role Questioned as Immigration Officers Flood U.S. Cities",
-        "link": "https://www.nytimes.com/2026/01/18/us/dhs-cities-bush-sept-11.html"
-      },
-      {
         "title": "Inside Trump’s Deportation Machine",
         "link": "https://www.nytimes.com/video/us/politics/100000010652139/inside-trumps-deportation-machine.html"
+      },
+      {
+        "title": "Noem Denies Use of Chemical Agents in Minnesota Protests, Then Backtracks",
+        "link": "https://www.nytimes.com/2026/01/18/us/politics/noem-chemical-agents-minnesota.html"
       },
       {
         "title": "Pentagon Tells 1,500 Troops to Prepare for Possible Deployment to Minnesota",
@@ -114,6 +114,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Syria: SDF left weakened, short of territory and oil after ceasefire, experts say",
+        "link": "https://www.middleeasteye.net/news/syria-ceasefire-leaves-sdf-weakened-short-territory-and-oil-say-experts"
+      },
       {
         "title": "Libya signs $2.7bn deal to expand Misurata Free Zone, in diversification push",
         "link": "https://www.middleeasteye.net/news/libya-signs-27bn-deal-expand-misurata-free-zone-diversification-push"
@@ -129,13 +133,17 @@
       {
         "title": "Jerusalem Christian leaders warn against Christian Zionist 'interference'",
         "link": "https://www.middleeasteye.net/news/jerusalem-christian-leaders-warn-against-christian-zionist-interference"
-      },
-      {
-        "title": "Syrian government and SDF agree ceasefire after heavy fighting in northeast",
-        "link": "https://www.middleeasteye.net/news/syrian-army-gains-ground-kurdish-forces-withdraw-key-oil-field"
       }
     ],
     "GeoTV": [
+      {
+        "title": "At least seven die after two high-speed trains derail in Spain",
+        "link": "https://www.geo.tv/latest/645883-at-least-seven-die-after-two-high-speed-trains-derail-in-spain"
+      },
+      {
+        "title": "‘The Lion King' creator Roger Allers dies at 76",
+        "link": "https://www.geo.tv/latest/645882-the-lion-king-creator-roger-allers-dies-at-76"
+      },
       {
         "title": "Shania Twain returns with new album after 3 years",
         "link": "https://www.geo.tv/latest/645880-shania-twain-returns-with-new-album-after-3-years"
@@ -147,14 +155,6 @@
       {
         "title": "Meghan Markle shares Sunday funday with Prince Harry, Archie, Lilibet",
         "link": "https://www.geo.tv/latest/645879-meghan-markle-shares-sunday-funday-with-prince-harry-archie-lilibet"
-      },
-      {
-        "title": "Iran president says any attack on supreme leader would be declaration of war",
-        "link": "https://www.geo.tv/latest/645875-iran-president-says-any-attack-on-supreme-leader-would-be-declaration-of-war"
-      },
-      {
-        "title": "Rihanna glows with pride as A$AP Rocky celebrated after SNL",
-        "link": "https://www.geo.tv/latest/645874-rihanna-glows-with-pride-as-aap-rocky-celebrated-after-snl"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-18 21:55 UTC"
+  "last_updated": "2026-01-18 22:20 UTC"
 }
