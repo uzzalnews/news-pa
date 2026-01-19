@@ -3,7 +3,7 @@
   "news": {
     "BBC": [
       {
-        "title": "At least 21 killed in Spain after crash involving high-speed trains",
+        "title": "High-speed train collision in Spain kills at least 21",
         "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "DOJ says won’t investigate ICE agent’s fatal shooting of Renee Good",
+        "link": "https://www.aljazeera.com/news/2026/1/19/doj-says-wont-investigate-ice-agents-fatal-shooting-of-renee-good?traffic_source=rss"
+      },
+      {
         "title": "European leaders slam Trump’s tariff threats over Greenland",
         "link": "https://www.aljazeera.com/news/2026/1/19/dangerous-downward-spiral-european-leaders-slam-trumps-tariff-threat?traffic_source=rss"
       },
@@ -39,10 +43,6 @@
       {
         "title": "Russia-Ukraine war: List of key events, day 1,425",
         "link": "https://www.aljazeera.com/news/2026/1/18/russia-ukraine-war-list-of-key-events-day-1425?traffic_source=rss"
-      },
-      {
-        "title": "‘Night of deep pain’: Train collision in southern Spain leaves 21 dead",
-        "link": "https://www.aljazeera.com/news/2026/1/18/two-high-speed-trains-collide-in-spain-killing?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,12 +86,24 @@
         "link": "https://www.dawn.com/news/1967793/joint-katcha-operation-launched-using-drones-apcs"
       },
       {
-        "title": "Fighting ends after Syrian, Kurdish forces agree on ceasefire",
-        "link": "https://www.dawn.com/news/1967801/fighting-ends-after-syrian-kurdish-forces-agree-on-ceasefire"
+        "title": "Pentagon readies 1,500 troops for potential Minnesota deployment",
+        "link": "https://www.dawn.com/news/1967798/pentagon-readies-1500-troops-for-potential-minnesota-deployment"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Real Estate Crash Weighs on China’s Economic Growth",
+        "link": "https://www.nytimes.com/2026/01/18/business/china-gdp-economy.html"
+      },
+      {
+        "title": "What Vietnam’s Communist Party Congress Hopes to Achieve",
+        "link": "https://www.nytimes.com/2026/01/19/world/asia/vietnam-communist-party-congress-economy.html"
+      },
+      {
+        "title": "China’s Population Shrinks Again as Policies Fail to Reverse Decline",
+        "link": "https://www.nytimes.com/2026/01/18/business/china-population-data.html"
+      },
       {
         "title": "European Union Officials Lean Toward Negotiating, Not Retaliating, Over Trump Tariff Threat",
         "link": "https://www.nytimes.com/2026/01/18/world/europe/european-union-respond-trump-greenland.html"
@@ -99,18 +111,6 @@
       {
         "title": "Danes Feel Betrayed and Bewildered by Trump Amid Greenland Threats",
         "link": "https://www.nytimes.com/2026/01/18/world/europe/denmark-greenland-trump.html"
-      },
-      {
-        "title": "Real Estate Crash Weighs on China’s Economic Growth",
-        "link": "https://www.nytimes.com/2026/01/18/business/china-gdp-economy.html"
-      },
-      {
-        "title": "China’s Population Shrinks Again as Policies Fail to Reverse Decline",
-        "link": "https://www.nytimes.com/2026/01/18/business/china-population-data.html"
-      },
-      {
-        "title": "In Minneapolis, a Pattern of Misconduct Toward Protesters",
-        "link": "https://www.nytimes.com/2026/01/18/us/minneapolis-federal-agents-misconduct-protesters.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,24 +137,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Prince Harry quietly lands in UK before William, Kate leave for Scotland",
+        "link": "https://www.geo.tv/latest/645905-prince-harry-quietly-lands-in-uk-before-william-kate-leave-for-scotland"
+      },
+      {
+        "title": "David Beckham snapped removing parking ticket after Rolex spree",
+        "link": "https://www.geo.tv/latest/645900-david-beckham-snapped-removing-parking-ticket-after-rolex-spree"
+      },
+      {
+        "title": "Busting the conspiracy of silence",
+        "link": "https://www.geo.tv/latest/645901-busting-the-conspiracy-of-silence"
+      },
+      {
+        "title": "Britney Spears makes emotional confession about lifelong friend Madonna",
+        "link": "https://www.geo.tv/latest/645898-britney-spears-makes-emotional-confession-about-lifelong-friend-madonna"
+      },
+      {
         "title": "Netflix's Ted Sarandos' big disclosure about theatrical releases revealed here",
         "link": "https://www.geo.tv/latest/645895-netflixs-ted-sarandos-big-disclosure-about-theatrical-releases-revealed-here"
-      },
-      {
-        "title": "Bangladesh to make final decision on T20 World Cup participation on Jan 21: report",
-        "link": "https://www.geo.tv/latest/645888-bangladesh-to-make-final-decision-on-t20-world-cup-participation-on-jan-21-report"
-      },
-      {
-        "title": "Australia announce 17-member squad for T20I series against Pakistan",
-        "link": "https://www.geo.tv/latest/645894-australia-announce-17-member-squad-for-t20i-series-against-pakistan"
-      },
-      {
-        "title": "Gold and silver hit record highs on fresh tariff fears",
-        "link": "https://www.geo.tv/latest/645892-gold-and-silver-hit-record-highs-on-fresh-tariff-fears"
-      },
-      {
-        "title": "Gul Plaza inferno doused, fatalities rise to 14 as rescuers expand search for missing",
-        "link": "https://www.geo.tv/latest/645891-gul-plaza-inferno-doused-fatalities-rise-to-14-as-rescuers-expand-search-for-missing"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-19 04:58 UTC"
+  "last_updated": "2026-01-19 05:38 UTC"
 }
