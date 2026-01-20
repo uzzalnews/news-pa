@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Inter Milan vs Arsenal – UEFA Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/20/live-inter-milan-vs-arsenal-uefa-champions-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,11 +19,23 @@
         "link": "https://www.bbc.com/news/articles/c5yxdgl21nko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Prince Harry 'clutching at straws' with claim against Mail publisher, court told",
-        "link": "https://www.bbc.com/news/articles/cm2j8e9p2pgo?at_medium=RSS&at_campaign=rss"
+        "title": "Shock and confusion as Spain struggles for answers after deadly train crash",
+        "link": "https://www.bbc.com/news/articles/crle9k2gw6jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Macron: Europe won’t be ‘intimidated’ by US’ Greenland threats",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/20/macron-europe-wont-be-intimidated-by-us-greenland-threats?traffic_source=rss"
+      },
+      {
+        "title": "How can Europe respond to Trump’s Greenland tariffs threat?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs?traffic_source=rss"
+      },
+      {
+        "title": "US envoy says SDF’s role in Syria has ‘largely expired’ after ISIL",
+        "link": "https://www.aljazeera.com/news/2026/1/20/us-envoy-says-sdfs-role-in-syria-has-largely-expired-after-isil?traffic_source=rss"
+      },
       {
         "title": "Museveni’s son threatens Bobi Wine after Uganda election",
         "link": "https://www.aljazeera.com/news/2026/1/20/musevenis-son-threatens-bobi-wine-after-uganda-election?traffic_source=rss"
@@ -37,18 +43,6 @@
       {
         "title": "Marseille vs Liverpool: Champions League – Salah, team news, start, lineup",
         "link": "https://www.aljazeera.com/sports/2026/1/20/marseille-vs-liverpool-champions-league-salah-team-news-start-lineup?traffic_source=rss"
-      },
-      {
-        "title": "Doha hosts maritime defence exhibition amid rising regional tensions",
-        "link": "https://www.aljazeera.com/gallery/2026/1/20/doha-hosts-maritime-defence-exhibition-amid-rising-regional-tensions?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Inter Milan vs Arsenal – UEFA Champions League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/20/live-inter-milan-vs-arsenal-uefa-champions-league?traffic_source=rss"
-      },
-      {
-        "title": "‘A deal is a deal’: EU blasts Trump’s Greenland tariffs in Davos",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/20/a-deal-is-a-deal-eu-blasts-trumps-greenland-tariffs-in-davos?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1968018/death-toll-of-fire-at-karachis-gul-plaza-reaches-28"
       },
       {
+        "title": "UAE, Bahrain and Belarus join US President Trump’s ‘Board of Peace’",
+        "link": "https://www.dawn.com/news/1968053/uae-bahrain-and-belarus-join-us-president-trumps-board-of-peace"
+      },
+      {
         "title": "Imran’s sisters abandon sit-in near Pindi’s Adiala jail, head to Islamabad for protest rally",
         "link": "https://www.dawn.com/news/1968058/imrans-sisters-abandon-sit-in-near-pindis-adiala-jail-head-to-islamabad-for-protest-rally"
       },
@@ -90,10 +88,6 @@
       {
         "title": "Senate opposition leader Abbas expresses solidarity with Imaan, Hadi; says dissent has been made a crime",
         "link": "https://www.dawn.com/news/1968033/senate-opposition-leader-abbas-expresses-solidarity-with-imaan-hadi-says-dissent-has-been-made-a-crime"
-      },
-      {
-        "title": "Diplomatic row between India and Poland after Jaishankar criticises minister’s visit to Pakistan: report",
-        "link": "https://www.dawn.com/news/1968051/diplomatic-row-between-india-and-poland-after-jaishankar-criticises-ministers-visit-to-pakistan-report"
       }
     ],
     "APNews": [],
@@ -143,46 +137,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Elon Musk hints at buying Ryanair amid Starlink spat",
+        "link": "https://www.geo.tv/latest/646275-elon-musk-hints-at-buying-ryanair-amid-starlink-spat"
+      },
+      {
+        "title": "Is it time to remove Trump? Calls grow via 25th Amendment over Greenland crisis",
+        "link": "https://www.geo.tv/latest/646276-is-it-time-to-remove-trump-calls-grow-via-25th-amendment-over-greenland-crisis"
+      },
+      {
+        "title": "ASAP Rocky announces 'Don't Be Dumb' world tour: See dates",
+        "link": "https://www.geo.tv/latest/646274-asap-rocky-announces-dont-be-dumb-world-tour-see-dates"
+      },
+      {
         "title": "‘Sovereignty is non negotiable': EU chief draws line on Greenland amid US pressure",
         "link": "https://www.geo.tv/latest/646272-sovereignty-is-non-negotiable-eu-chief-draws-line-on-greenland-amid-us-pressure"
       },
       {
         "title": "'We don't give in to bullies', Macron says after Trump salvo",
         "link": "https://www.geo.tv/latest/646264-after-trump-salvo-macron-says-we-dont-give-in-to-bullies"
-      },
-      {
-        "title": "‘Lorraine' star Dr Hilary Jones rushed to hospital after health scare",
-        "link": "https://www.geo.tv/latest/646269-lorraine-star-dr-hilary-jones-rushed-to-hospital-after-health-scare"
-      },
-      {
-        "title": "Palace issues statement as Prince William, Kate send emotional nod to Harry",
-        "link": "https://www.geo.tv/latest/646267-palace-issues-statement-as-prince-william-kate-send-emotional-nod-to-harry"
-      },
-      {
-        "title": "Kate Middleton's brother gets his 'wagging tail' opportunity in UK",
-        "link": "https://www.geo.tv/latest/646262-kate-middletons-brother-gets-his-wagging-tail-opportunity-in-uk"
       }
     ],
     "NDTV": [
       {
-        "title": "'No Accountability': Rahul Gandhi Blames Techie's Death On Culture Of Greed",
-        "link": "https://www.ndtv.com/india-news/no-accountability-rahul-gandhi-blames-techies-death-on-culture-of-greed-10794589#publisher=newsstand"
+        "title": "SIR Of Electoral Rolls Is Legislative In Nature: Poll Body To Top Court",
+        "link": "https://www.ndtv.com/india-news/sir-of-electoral-rolls-is-legislative-in-nature-poll-body-tells-top-court-10795173#publisher=newsstand"
       },
       {
-        "title": "77-Year-Old's Body Found 10 Days After Falling Into Lift Shaft In Bhopal",
-        "link": "https://www.ndtv.com/india-news/77-year-olds-body-found-10-days-after-falling-into-lift-shaft-in-bhopal-10793452#publisher=newsstand"
+        "title": "In Nitin Nabin's 1st Decision As Chief, Possible Glimpse Into BJP's Future",
+        "link": "https://www.ndtv.com/india-news/in-nitin-nabins-1st-decision-as-chief-possible-glimpse-into-bjps-future-10795276#publisher=newsstand"
       },
       {
-        "title": "PhD Scholar, 25, Dies By Suicide At IIT Kanpur, 2nd Incident In 3 Weeks",
-        "link": "https://www.ndtv.com/india-news/phd-scholar-25-dies-by-suicide-at-iit-kanpur-2nd-incident-in-3-weeks-10794576#publisher=newsstand"
+        "title": "Won't Cancel Any Flights Under New Rules: IndiGo Tells Aviation Regulator",
+        "link": "https://www.ndtv.com/india-news/wont-cancel-any-flights-under-new-rules-indigo-tells-aviation-regulator-10795263#publisher=newsstand"
       },
       {
-        "title": "Rajasthan Youth Congress Dissolved, 344 Office Bearers Sacked",
-        "link": "https://www.ndtv.com/india-news/rajasthan-youth-congress-dissolved-344-office-bearers-sacked-10792118#publisher=newsstand"
+        "title": "India Recalls Diplomats' Families From Bangladesh Ahead Of Polls",
+        "link": "https://www.ndtv.com/india-news/india-recalls-diplomats-families-from-bangladesh-ahead-of-polls-10794403#publisher=newsstand"
       },
       {
-        "title": "India Blocks Vehicle Transfers And Fitness Certificates For Toll Defaulters",
-        "link": "https://www.ndtv.com/india-news/india-blocks-vehicle-transfers-and-fitness-certificates-for-toll-defaulters-10793189#publisher=newsstand"
+        "title": "Satellite Images Show Noida Pit Existed For 3 Years Before Techie's Death",
+        "link": "https://www.ndtv.com/india-news/satellite-images-show-noida-pit-existed-for-3-years-before-techies-death-10794604#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-20 18:17 UTC"
+  "last_updated": "2026-01-20 19:16 UTC"
 }
