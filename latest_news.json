@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Inter Milan vs Arsenal – UEFA Champions League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/20/live-inter-milan-vs-arsenal-uefa-champions-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Marseille vs Liverpool: Champions League – Salah, team news, start, lineup",
+        "link": "https://www.aljazeera.com/sports/2026/1/20/marseille-vs-liverpool-champions-league-salah-team-news-start-lineup?traffic_source=rss"
+      },
+      {
+        "title": "Doha hosts maritime defence exhibition amid rising regional tensions",
+        "link": "https://www.aljazeera.com/gallery/2026/1/20/doha-hosts-maritime-defence-exhibition-amid-rising-regional-tensions?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Inter Milan vs Arsenal – UEFA Champions League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/20/live-inter-milan-vs-arsenal-uefa-champions-league?traffic_source=rss"
+      },
+      {
         "title": "‘A deal is a deal’: EU blasts Trump’s Greenland tariffs in Davos",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/20/a-deal-is-a-deal-eu-blasts-trumps-greenland-tariffs-in-davos?traffic_source=rss"
       },
       {
         "title": "Baby girl in Gaza dies from cold amid Israeli aid restrictions",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/20/baby-girl-in-gaza-dies-from-cold-amid-israeli-aid-restrictions?traffic_source=rss"
-      },
-      {
-        "title": "‘Act fast’: How speed defined the start of Donald Trump’s second term",
-        "link": "https://www.aljazeera.com/news/longform/2026/1/20/act-fast-how-speed-defined-the-start-of-trumps-second-term?traffic_source=rss"
-      },
-      {
-        "title": "AFCON: To walk or not to walk?",
-        "link": "https://www.aljazeera.com/video/game-theory/2026/1/20/afcon-to-walk-or-not-to-walk?traffic_source=rss"
-      },
-      {
-        "title": "A year in images: Donald Trump’s return to the White House",
-        "link": "https://www.aljazeera.com/news/longform/2026/1/20/a-year-in-images-donald-trumps-return-to-the-white-house?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,12 +80,12 @@
         "link": "https://www.dawn.com/news/1968018/death-toll-of-fire-at-karachis-gul-plaza-reaches-28"
       },
       {
-        "title": "PM Shehbaz arrives in Davos for World Economic Forum",
-        "link": "https://www.dawn.com/news/1968025/pm-shehbaz-arrives-in-davos-for-world-economic-forum"
-      },
-      {
         "title": "Imran’s sisters abandon sit-in near Pindi’s Adiala jail, head to Islamabad for protest rally",
         "link": "https://www.dawn.com/news/1968058/imrans-sisters-abandon-sit-in-near-pindis-adiala-jail-head-to-islamabad-for-protest-rally"
+      },
+      {
+        "title": "PM Shehbaz arrives in Davos for World Economic Forum",
+        "link": "https://www.dawn.com/news/1968025/pm-shehbaz-arrives-in-davos-for-world-economic-forum"
       },
       {
         "title": "Senate opposition leader Abbas expresses solidarity with Imaan, Hadi; says dissent has been made a crime",
@@ -115,7 +121,7 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "US envoy accused SDF chief of trying to drag Israel into internal Syria matters, sources say",
+        "title": "Exclusive: US envoy accused SDF chief of trying to drag Israel into internal Syria matters, sources say",
         "link": "https://www.middleeasteye.net/news/us-envoy-accused-sdf-chief-trying-drag-israel-internal-syria-matters-sources-say"
       },
       {
@@ -137,6 +143,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Palace issues statement as Prince William, Kate send emotional nod to Harry",
+        "link": "https://www.geo.tv/latest/646267-palace-issues-statement-as-prince-william-kate-send-emotional-nod-to-harry"
+      },
+      {
+        "title": "Kate Middleton's brother gets his 'wagging tail' opportunity in UK",
+        "link": "https://www.geo.tv/latest/646262-kate-middletons-brother-gets-his-wagging-tail-opportunity-in-uk"
+      },
+      {
         "title": "Spotify's new feature sync audiobooks with paper books",
         "link": "https://www.geo.tv/latest/646265-spotifys-new-feature-sync-audiobooks-with-paper-books"
       },
@@ -147,39 +161,35 @@
       {
         "title": "Prince Harry, Meghan Markle stay silent as Piers Morgan rushes to hospital",
         "link": "https://www.geo.tv/latest/646252-prince-harry-meghan-markle-stay-silent-as-piers-morgan-rushes-to-hospital"
-      },
-      {
-        "title": "Prince Harry turns full bench into empty seats by skipping afternoon court session",
-        "link": "https://www.geo.tv/latest/646261-prince-harry-turns-full-bench-into-empty-seats-by-skipping-afternoon-court-session"
-      },
-      {
-        "title": "Princess Kate beats Prince William in friendly curling competition",
-        "link": "https://www.geo.tv/latest/646258-princess-kate-beats-prince-william-in-friendly-curling-competition"
       }
     ],
     "NDTV": [
       {
-        "title": "UP Man Kills Parents, Wife, And Daughter Over Financial Stress",
-        "link": "https://www.ndtv.com/india-news/up-man-kills-parents-wife-and-daughter-over-financial-stress-10793356#publisher=newsstand"
+        "title": "'No Accountability': Rahul Gandhi Blames Techie's Death On Culture Of Greed",
+        "link": "https://www.ndtv.com/india-news/no-accountability-rahul-gandhi-blames-techies-death-on-culture-of-greed-10794589#publisher=newsstand"
       },
       {
-        "title": "Assam's Kokrajhar Tense After Mob Kills Man Over Cattle Theft Suspicion",
-        "link": "https://www.ndtv.com/india-news/kokrajhar-assam-town-tensed-after-mob-kills-man-over-cattle-theft-suspicion-10791237#publisher=newsstand"
+        "title": "77-Year-Old's Body Found 10 Days After Falling Into Lift Shaft In Bhopal",
+        "link": "https://www.ndtv.com/india-news/77-year-olds-body-found-10-days-after-falling-into-lift-shaft-in-bhopal-10793452#publisher=newsstand"
       },
       {
-        "title": "\"International Gangster\": UK Leader Blasts Trump Over Greenland 'Bullying'",
-        "link": "https://www.ndtv.com/world-news/international-gangster-uk-leader-ed-davey-blasts-donald-trump-over-greenland-bullying-10794315#publisher=newsstand"
+        "title": "PhD Scholar, 25, Dies By Suicide At IIT Kanpur, 2nd Incident In 3 Weeks",
+        "link": "https://www.ndtv.com/india-news/phd-scholar-25-dies-by-suicide-at-iit-kanpur-2nd-incident-in-3-weeks-10794576#publisher=newsstand"
       },
       {
-        "title": "'Would Love To Go To The Moon, But Husband Would Kill Me': Sunita Williams To NDTV",
-        "link": "https://www.ndtv.com/india-news/would-love-to-go-to-the-moon-but-husband-would-kill-me-sunita-williams-to-ndtv-10794257#publisher=newsstand"
+        "title": "Rajasthan Youth Congress Dissolved, 344 Office Bearers Sacked",
+        "link": "https://www.ndtv.com/india-news/rajasthan-youth-congress-dissolved-344-office-bearers-sacked-10792118#publisher=newsstand"
       },
       {
-        "title": "Davos Live Updates: Trump Heads To Davos With \"Largest\" US Delegation Yet",
-        "link": "https://www.ndtv.com/world-news/davos-live-updates-donald-trump-heads-to-davos-with-largest-us-delegation-yet-10793517#publisher=newsstand"
+        "title": "India Blocks Vehicle Transfers And Fitness Certificates For Toll Defaulters",
+        "link": "https://www.ndtv.com/india-news/india-blocks-vehicle-transfers-and-fitness-certificates-for-toll-defaulters-10793189#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "US diplomats urged to remind African leaders of US ‘generosity’ despite USAID closing",
+        "link": "https://www.theguardian.com/us-news/2026/jan/20/us-diplomats-urged-to-remind-african-leaders-of-us-generosity-despite-usaid-closing"
+      },
       {
         "title": "‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam",
         "link": "https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam"
@@ -195,12 +205,8 @@
       {
         "title": "Confidence runs high in London’s Little Morocco as Afcon glory beckons",
         "link": "https://www.theguardian.com/uk-news/2026/jan/17/afcon-little-morocco-london-confidence-high"
-      },
-      {
-        "title": "Rare twins born in DRC raise cautious hope for endangered mountain gorillas",
-        "link": "https://www.theguardian.com/environment/2026/jan/17/twin-baby-mountain-gorilla-virunga-drc-survival-conservation-aoe"
       }
     ]
   },
-  "last_updated": "2026-01-20 17:17 UTC"
+  "last_updated": "2026-01-20 17:49 UTC"
 }
