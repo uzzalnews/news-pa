@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Marseille vs Liverpool – UEFA Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/21/live-marseille-vs-liverpool-uefa-champions-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Spain’s train drivers call for strike as deadly derailments fuel concern",
+        "link": "https://www.aljazeera.com/news/2026/1/21/spains-train-drivers-call-for-strike-as-deadly-derailments-fuel-concern?traffic_source=rss"
+      },
+      {
         "title": "Qatar, Saudi Arabia among eight countries joining Trump’s ‘board of peace’",
         "link": "https://www.aljazeera.com/news/2026/1/21/qatar-saudi-arabia-among-eight-countries-joining-trumps-board-of-peace?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Trump rules out using force to take over Greenland, calls for negotiations",
         "link": "https://www.aljazeera.com/news/2026/1/21/trump-rules-out-using-force-to-take-over-greenland-calls-for-negotiations?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Marseille vs Liverpool – UEFA Champions League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/21/live-marseille-vs-liverpool-uefa-champions-league?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,7 +93,7 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Here’s a Look at Everything (and Everyone) Trump Assailed at Davos",
+        "title": "Here’s a Look at Everything (and Everyone) Trump Targeted at Davos",
         "link": "https://www.nytimes.com/2026/01/21/us/politics/trump-davos-speech-takeaways.html"
       },
       {
@@ -107,16 +101,16 @@
         "link": "https://www.nytimes.com/2026/01/21/climate/epa-human-life-value.html"
       },
       {
-        "title": "Investigations and a Billion-Dollar ‘Shakedown’: How Trump Targeted Higher Education",
-        "link": "https://www.nytimes.com/2026/01/21/us/politics/trump-higher-education-2025.html"
+        "title": "U.S. Pivot in Syria Leaves an Old Ally in the Lurch",
+        "link": "https://www.nytimes.com/2026/01/21/world/middleeast/us-pivot-in-syria-leaves-an-old-ally-in-the-lurch.html"
       },
       {
-        "title": "Halligan Leaves as U.S. Attorney After Mounting Pressure From Judges",
-        "link": "https://www.nytimes.com/2026/01/20/us/politics/virginia-us-attorney-halligan.html"
+        "title": "U.S. Starts Moving ISIS Detainees From Syria to Iraq",
+        "link": "https://www.nytimes.com/2026/01/21/world/middleeast/isis-syria-prisons-iraq.html"
       },
       {
-        "title": "Court Denies Lawmakers Seeking Independent Monitor of Epstein Files",
-        "link": "https://www.nytimes.com/2026/01/21/nyregion/epstein-independent-monitor.html"
+        "title": "Israeli Strikes in Gaza Kill 11, Including Three Journalists",
+        "link": "https://www.nytimes.com/2026/01/21/world/middleeast/israel-gaza-strikes-journalists.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,24 +137,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Zendaya set to rule 2026 with ‘Euphoria,' ‘Spider-Man,' ‘Dune 3'",
+        "link": "https://www.geo.tv/latest/646469-zendaya-set-to-rule-2026-with-euphoria-spider-man-dune-3"
+      },
+      {
+        "title": "Bangladesh reiterates stance about India travel after ICC rejects request",
+        "link": "https://www.geo.tv/latest/646470-bangladesh-reiterates-stance-about-india-travel-after-icc-rejects-request"
+      },
+      {
+        "title": "Queen Camilla spends time with Spice Girl after Victoria Beckham's heartbreak",
+        "link": "https://www.geo.tv/latest/646467-queen-camilla-spends-time-with-spice-girl-after-victoria-beckhams-heartbreak"
+      },
+      {
         "title": "YouTube to match OpenAI with AI likeness feature",
         "link": "https://www.geo.tv/latest/646468-youtube-to-match-openai-with-ai-likeness-feature"
       },
       {
         "title": "Politicians behind 18th Amendment responsible for its non-execution: Khawaja Asif",
         "link": "https://www.geo.tv/latest/646465-politicians-behind-18th-amendment-responsible-for-its-non-execution-khawaja-asif"
-      },
-      {
-        "title": "Greenland releases 'crisis' guidelines as Trump threat looms",
-        "link": "https://www.geo.tv/latest/646464-greenland-releases-crisis-guidelines-as-trump-threat-looms"
-      },
-      {
-        "title": "Blake Lively, Taylor Swift's friendship was 'strained' before 'IEWU' drama",
-        "link": "https://www.geo.tv/latest/646463-blake-lively-taylor-swifts-friendship-was-strained-before-iewu-drama"
-      },
-      {
-        "title": "Buckingham Palace honours Queen Camilla after Harry's tearful admission",
-        "link": "https://www.geo.tv/latest/646459-buckingham-palace-honours-queen-camilla-after-harrys-tearful-addmission"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-21 18:23 UTC"
+  "last_updated": "2026-01-21 19:04 UTC"
 }
