@@ -1,10 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Davos LIVE Updates: Trump Lands In Switzerland For World Economic Forum Amid Greenland Chaos",
+      "link": "https://www.ndtv.com/world-news/davos-live-updates-donald-trump-heads-to-davos-with-largest-us-delegation-yet-10793517#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Watch: What sort of welcome will Trump get at Davos?",
-        "link": "https://www.bbc.com/news/videos/c5y2qv39r3qo?at_medium=RSS&at_campaign=rss"
+        "title": "How the NHS became the battleground in the trans debate facing workplaces",
+        "link": "https://www.bbc.com/news/articles/c7v0l25mr2ro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown",
@@ -15,34 +21,34 @@
         "link": "https://www.bbc.com/news/articles/cx2g30wwmnno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK inflation rises for first time in five months - but one-off factors blamed",
-        "link": "https://www.bbc.com/news/articles/cnvg251g25yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Beckham v Peltz Beckham: Could Brooklyn torpedo the family brand?",
         "link": "https://www.bbc.com/news/articles/c3ve1r2674zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK inflation rises for first time in five months - but one-off factors blamed",
+        "link": "https://www.bbc.com/news/articles/cnvg251g25yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "‘Barbaric new era’: Palestinians, UN slam Israeli demolition of UNRWA HQ",
-        "link": "https://www.aljazeera.com/news/2026/1/21/barbaric-new-era-palestinians-un-slam-israeli-demolition-of-unrwa-hq?traffic_source=rss"
+        "title": "Europol busts Europe-wide drug ring in ‘largest-ever’ operation",
+        "link": "https://www.aljazeera.com/news/2026/1/21/europol-busts-europe-wide-drug-ring-in-largest-ever-op?traffic_source=rss"
       },
       {
-        "title": "US allies unite against Trump’s threats to take over Greenland at Davos",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/us-allies-unite-against-trumps-threats-to-take-over-greenland-at-davos?traffic_source=rss"
+        "title": "Trump live news: US president in Davos as Greenland threats spark outrage",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/21/trump-live-news-us-president-in-davos-as-greenland-threats-spark-outrage?traffic_source=rss"
       },
       {
-        "title": "Syrian forces make gains against SDF: What it means for country’s Kurds",
-        "link": "https://www.aljazeera.com/features/2026/1/21/syrian-forces-makes-gains-against-sdf-what-it-means-for-countrys-kurds?traffic_source=rss"
+        "title": "AI’s growing thirst for water is becoming a public health risk",
+        "link": "https://www.aljazeera.com/opinions/2026/1/21/ais-growing-thirst-for-water-is-becoming-a-public-health-risk?traffic_source=rss"
       },
       {
-        "title": "Live: Israel launches strikes as Netanyahu joins Gaza ‘board of peace’",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/21/live-israel-launches-strikes-as-netanyahu-joins-gaza-board-of-peace?traffic_source=rss"
+        "title": "UN condemns Israel’s demolition of UNRWA HQ in occupied East Jerusalem",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/un-condemns-israels-demolition-of-unrwa-hq-in-occupied-east-jerusalem?traffic_source=rss"
       },
       {
-        "title": "Japan to restart world’s biggest nuclear plant after 15-year shutdown",
-        "link": "https://www.aljazeera.com/news/2026/1/21/japan-to-restart-worlds-biggest-nuclear-plant-after-15-year-shutdown?traffic_source=rss"
+        "title": "Killer of Japan’s former PM Shinzo Abe sentenced to life in prison",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/killer-of-japans-former-pm-shinzo-abe-sentenced-to-life-in-prison?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,16 +76,16 @@
     ],
     "Dawn": [
       {
+        "title": "At least 20 bodies found at single shop as rescuers comb through wreckage of Karachi’s Gul Plaza",
+        "link": "https://www.dawn.com/news/1968203/at-least-20-bodies-found-at-single-shop-as-rescuers-comb-through-wreckage-of-karachis-gul-plaza"
+      },
+      {
         "title": "NA passes bill seeking amendments to Elections Act for secrecy of parliamentarians’ assets",
         "link": "https://www.dawn.com/news/1968225/na-passes-bill-seeking-amendments-to-elections-act-for-secrecy-of-parliamentarians-assets"
       },
       {
         "title": "Indian Air Force training aircraft crashes in Uttar Pradesh, pilots escape unhurt",
         "link": "https://www.dawn.com/news/1968227/indian-air-force-training-aircraft-crashes-in-uttar-pradesh-pilots-escape-unhurt"
-      },
-      {
-        "title": "Edhi says more body parts recovered from Gul Plaza debris as search operation continues",
-        "link": "https://www.dawn.com/news/1968203/edhi-says-more-body-parts-recovered-from-gul-plaza-debris-as-search-operation-continues"
       },
       {
         "title": "IHC grants pre-arrest bail to Imaan, Hadi in case dating back to July",
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "'Blowback': Iran's foreign minister says EU gets what it deserves as Trump threatens trade deal",
+        "link": "https://www.middleeasteye.net/news/blowback-aragchi-says-eu-meeting-same-fate-iran-deal-after-broken-us-promises"
+      },
+      {
         "title": "They survived the bombs, but not the virus: Fatal illness spreads in Gaza",
         "link": "https://www.middleeasteye.net/news/gaza-survived-bombs-not-virus-fatal-illness-spreads"
       },
@@ -129,54 +139,50 @@
       {
         "title": "Exclusive: UAE flights linked to Sudan war tracked from Israel to Ethiopia",
         "link": "https://www.middleeasteye.net/news/uae-flights-linked-sudan-war-tracked-israel-ethiopia"
-      },
-      {
-        "title": "Rapid unravelling of SDF removes 'main irritant' in US-Turkey ties",
-        "link": "https://www.middleeasteye.net/news/rapid-unravelling-sdf-removes-main-irritant-us-turkey-ties"
       }
     ],
     "GeoTV": [
       {
-        "title": "Noah Kahan releases first teaser of upcoming album after announcement",
-        "link": "https://www.geo.tv/latest/646411-noah-kahan-releases-first-teaser-of-upcoming-album-after-announcement"
+        "title": "Top alternatives for manga readers after Bato.to shut down",
+        "link": "https://www.geo.tv/latest/646424-top-alternatives-for-manga-readers-after-batoto-shut-down"
       },
       {
-        "title": "Bradley Cooper steps out in style for London premiere of new film",
-        "link": "https://www.geo.tv/latest/646401-bradley-cooper-steps-out-in-style-for-london-premiere-of-new-film"
+        "title": "Billy Ray Cyrus relationship turns into major dilemma for Elizabeth Hurley",
+        "link": "https://www.geo.tv/latest/646414-billy-ray-cyrus-relationship-turns-into-major-dilemma-for-elizabeth-hurley"
       },
       {
-        "title": "Meet world's smartest animals: Tool-using cow to word-savvy dogs",
-        "link": "https://www.geo.tv/latest/646408-meet-worlds-smartest-animals-tool-using-cow-to-word-savvy-dogs"
+        "title": "Gold hits record high as Trump's Davos visit fuels market uncertainty",
+        "link": "https://www.geo.tv/latest/646419-gold-hits-record-high-as-trumps-davos-visit-fuels-market-uncertainty"
       },
       {
-        "title": "King Charles beloved estate initiates new plans as Harry appears in court",
-        "link": "https://www.geo.tv/latest/646404-king-charles-beloved-estate-initiates-new-plans-as-harry-appears-in-court"
+        "title": "J.K. Rowling dubs Hans Zimmer as ‘genius' after HBO series news",
+        "link": "https://www.geo.tv/latest/646412-jk-rowling-dubs-hans-zimmer-as-genius-after-hbo-series-news"
       },
       {
-        "title": "Brooklyn Beckham cut off his family but not his love for Harper",
-        "link": "https://www.geo.tv/latest/646400-brooklyn"
+        "title": "David Beckham sweeps Brooklyn's claims under the carpet",
+        "link": "https://www.geo.tv/latest/646381-david-beckham-sweeps-brooklyns-claims-under-the-carpet"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Aur Kitna Sukhaoge\": Chief Justice On Chandigarh's Sukhna Lake Drying",
-        "link": "https://www.ndtv.com/india-news/aur-kitna-sukhaoge-chief-justice-surya-kant-on-drying-of-chandigarh-lake-10798510#publisher=newsstand"
+        "title": "Davos LIVE Updates: Trump Lands In Switzerland For World Economic Forum Amid Greenland Chaos",
+        "link": "https://www.ndtv.com/world-news/davos-live-updates-donald-trump-heads-to-davos-with-largest-us-delegation-yet-10793517#publisher=newsstand"
       },
       {
-        "title": "'If My Flag Was Orange...': AIMIM Corporator On \"Paint Mumbra Green\" Remark",
-        "link": "https://www.ndtv.com/india-news/sahar-yunus-shaikh-if-my-flag-was-orange-aimim-corporator-on-paint-mumbra-green-remark-10798774#publisher=newsstand"
+        "title": "Kerala Woman Arrested Over Suicide Of Man She Accused Of Sexual Harassment",
+        "link": "https://www.ndtv.com/india-news/shimjitha-musthafa-arrested-kerala-woman-arrested-over-suicide-of-man-she-accused-of-sexual-harassment-10798998#publisher=newsstand"
       },
       {
-        "title": "Video: Air Force's 2-Seater Microlite Aircraft Crash Lands In UP's Prayagraj",
-        "link": "https://www.ndtv.com/india-news/small-aircraft-crashes-into-pond-in-uttar-pradeshs-prayagraj-10797510#publisher=newsstand"
+        "title": "\"Don't Let Your Loved Ones Use It\": Elon Musk, Sam Altman's Latest Showdown",
+        "link": "https://www.ndtv.com/world-news/dont-let-your-loved-ones-use-it-elon-musk-sam-altmans-latest-showdown-10796638#publisher=newsstand"
       },
       {
-        "title": "Supreme Court Extends Stay On Revised Aravalli Hills Definition",
-        "link": "https://www.ndtv.com/india-news/supreme-court-extends-stay-on-revised-aravalli-hills-definition-10798700#publisher=newsstand"
+        "title": "Rupee Falls To Record Low Of 91.74 Against US Dollar",
+        "link": "https://www.ndtv.com/india-news/rupee-falls-to-record-low-of-91-74-against-us-dollar-10799219#publisher=newsstand"
       },
       {
-        "title": "\"Jalsa With Public Money\": BRS Leader Flags Revanth Reddy's Clothes, Shoes",
-        "link": "https://www.ndtv.com/india-news/revanth-reddy-jalsa-with-public-money-brs-leader-flags-revanth-reddys-clothes-shoes-10798477#publisher=newsstand"
+        "title": "Video: A Cow Just Used A Tool. Meet Itch-Scratching Veronika",
+        "link": "https://www.ndtv.com/world-news/video-a-cow-just-used-a-tool-meet-itch-scratching-veronika-10798772#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-21 11:53 UTC"
+  "last_updated": "2026-01-21 12:42 UTC"
 }
