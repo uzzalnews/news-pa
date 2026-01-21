@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Davos LIVE Updates: Canada, France Flag 'Rupture' In US-Led Order Before Trump's Address",
+      "link": "https://www.ndtv.com/world-news/davos-live-updates-donald-trump-heads-to-davos-with-largest-us-delegation-yet-10793517#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,12 +17,12 @@
         "link": "https://www.bbc.com/news/articles/cx2lej7d52po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Train driver killed in second deadly Spain rail crash in days",
-        "link": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Driving test cheating soars as candidates turn to Bluetooth headsets and impersonators",
         "link": "https://www.bbc.com/news/articles/cx2g30wwmnno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK homes to get £15bn for solar and green tech to cut energy bills",
+        "link": "https://www.bbc.com/news/articles/ckgj7me00p0o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Beckham vs Peltz Beckham: Could Brooklyn torpedo the family brand?",
@@ -24,6 +30,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Japan to restart world’s biggest nuclear plant after 15-year shutdown",
+        "link": "https://www.aljazeera.com/news/2026/1/21/japan-to-restart-worlds-biggest-nuclear-plant-after-15-year-shutdown?traffic_source=rss"
+      },
       {
         "title": "Syrian Government, SDF agree on four-day ceasefire",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/syrian-government-sdf-agree-on-four-day-ceasefire?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Alcaraz, Sabalenka, Gauff cruise into Australian Open third round",
         "link": "https://www.aljazeera.com/sports/2026/1/21/alcaraz-sabalenka-gauff-cruise-into-australian-open-third-round?traffic_source=rss"
-      },
-      {
-        "title": "US, Iran exchange threats of broadscale war in latest sabre rattling",
-        "link": "https://www.aljazeera.com/news/2026/1/21/us-iran-threaten-broadscale-wars-in-heated-exchange-of-threats?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1968203/search-operation-continues-at-karachis-gul-plaza-death-toll-rises-to-29"
       },
       {
+        "title": "IHC asks how Imran Khan’s X account case can proceed without lawyer access",
+        "link": "https://www.dawn.com/news/1968217/ihc-asks-how-imran-khans-x-account-case-can-proceed-without-lawyer-access"
+      },
+      {
         "title": "Israel’s Netanyahu accepts Trump invitation to join ‘Board of Peace’",
         "link": "https://www.dawn.com/news/1968215/israels-netanyahu-accepts-trump-invitation-to-join-board-of-peace"
       },
       {
         "title": "Lahore again emerges as most polluted city in the world",
         "link": "https://www.dawn.com/news/1968206/lahore-again-emerges-as-most-polluted-city-in-the-world"
-      },
-      {
-        "title": "Maxwell and Waugh among franchise owners in Bollywood-backed European T20 league",
-        "link": "https://www.dawn.com/news/1968213/maxwell-and-waugh-among-franchise-owners-in-bollywood-backed-european-t20-league"
       }
     ],
     "APNews": [],
@@ -137,6 +143,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Adele's '21' sets new record in music industry",
+        "link": "https://www.geo.tv/latest/646364-adeles-21-sets-new-record-in-music-industry"
+      },
+      {
+        "title": "Justin Bieber puts Benny Blanco to test with love message to Selena",
+        "link": "https://www.geo.tv/latest/646357-justin-bieber-puts-benny-blanco-to-test-with-love-message-to-selena"
+      },
+      {
         "title": "Spanish royals make emotional statement amid Queen Sofia's loss",
         "link": "https://www.geo.tv/latest/646355-spanish-royals-make-emotional-statement-amid-queen-sofias-loss"
       },
@@ -147,36 +161,28 @@
       {
         "title": "Katie Price hints at new romance as JJ Slater focuses on fitness",
         "link": "https://www.geo.tv/latest/646358-katie-price-hints-at-new-romance-as-jj-slater-focuses-on-fitness"
-      },
-      {
-        "title": "Trump-appointed Virginia prosecutor Lindsey Halligan resigns after scathing court rulings",
-        "link": "https://www.geo.tv/latest/646360-trump-appointed-virginia-prosecutor-lindsey-halligan-resigns-after-scathing-court-rulings"
-      },
-      {
-        "title": "Trump signs order blocking Wall Street investors from buying single-family homes",
-        "link": "https://www.geo.tv/latest/646351-trump-signs-order-blocking-wall-street-investors-from-buying-single-family-homes"
       }
     ],
     "NDTV": [
       {
-        "title": "UK Approves China's Plan For Its Largest Embassy In Europe In London",
-        "link": "https://www.ndtv.com/world-news/uk-approves-chinas-plan-for-its-largest-embassy-in-europe-in-london-10795139#publisher=newsstand"
+        "title": "Davos LIVE Updates: Canada, France Flag 'Rupture' In US-Led Order Before Trump's Address",
+        "link": "https://www.ndtv.com/world-news/davos-live-updates-donald-trump-heads-to-davos-with-largest-us-delegation-yet-10793517#publisher=newsstand"
       },
       {
-        "title": "Video: Small Aircraft Crashes Into Pond In UP's Prayagraj",
-        "link": "https://www.ndtv.com/india-news/small-aircraft-crashes-into-pond-in-uttar-pradeshs-prayagraj-10797510#publisher=newsstand"
+        "title": "Woman Arrested for Husband's Murder After Autopsy Reveals He Was Strangled",
+        "link": "https://www.ndtv.com/hyderabad-news/hyderabad-woman-arrested-for-murder-of-husband-after-autopsy-reveals-he-was-strangled-10797820#publisher=newsstand"
       },
       {
-        "title": "Raids At Telangana Deputy Collector's Home In Disproportionate Assets Case",
-        "link": "https://www.ndtv.com/india-news/raids-at-telangana-deputy-collectors-home-in-disproportionate-assets-case-10797505#publisher=newsstand"
+        "title": "\"If Not At Table, We're On Menu\": Canada PM's Warning To \"Middle Powers\"",
+        "link": "https://www.ndtv.com/world-news/if-not-at-table-were-on-menu-canada-pms-warning-to-middle-powers-10797804#publisher=newsstand"
       },
       {
-        "title": "Pakistan's Khawaja Asif Inaugurates Fake 'Pizza Hut'. Real One Responds",
-        "link": "https://www.ndtv.com/world-news/pakistans-khawaja-asif-inaugurates-fake-pizza-hut-outlet-gets-trolled-10797221#publisher=newsstand"
+        "title": "UAE To Partner With Telangana To Develop India's First Net-Zero Smart City",
+        "link": "https://www.ndtv.com/world-news/uae-to-partner-with-telangana-to-develop-indias-first-net-zero-smart-city-davos-10797118#publisher=newsstand"
       },
       {
-        "title": "Water Bankruptcy Era Has Begun For Billions, Scientists Say",
-        "link": "https://www.ndtv.com/world-news/water-bankruptcy-era-has-begun-for-billions-scientists-say-10797403#publisher=newsstand"
+        "title": "Woman Stabs One-Year-Old Daughter After Dispute With Husband In Maharashtra",
+        "link": "https://www.ndtv.com/india-news/woman-stabs-one-year-old-daughter-after-dispute-with-husband-in-maharashtra-10797645#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-21 08:43 UTC"
+  "last_updated": "2026-01-21 09:16 UTC"
 }
