@@ -3,10 +3,6 @@
   "news": {
     "BBC": [
       {
-        "title": "UK holds off joining Trump's Board of Peace over Putin concerns",
-        "link": "https://www.bbc.com/news/articles/cp9jj1j74ggo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "What we know about Trump's  'framework of future deal' over Greenland",
         "link": "https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss"
       },
@@ -15,34 +11,38 @@
         "link": "https://www.bbc.com/news/articles/c14rrez0mr4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Liz Hurley 'crushed' by invasion of privacy, court told",
+        "title": "Liz Hurley 'crushed' by alleged home phone tapping, court told",
         "link": "https://www.bbc.com/news/articles/cdjnnyp79rwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Two dead and several missing in New Zealand landslides",
-        "link": "https://www.bbc.com/news/articles/cje11x527n4o?at_medium=RSS&at_campaign=rss"
+        "title": "Weather warnings issued for heavy rain and strong winds in parts of UK",
+        "link": "https://www.bbc.com/weather/articles/cn821qp029po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "First asylum seekers moved into former army camp",
+        "link": "https://www.bbc.com/news/articles/ce3kkvkdpw0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Japan shuts reactor at world’s biggest nuclear plant a day after restart",
-        "link": "https://www.aljazeera.com/news/2026/1/22/japan-shuts-reactor-at-worlds-biggest-nuclear-plant-a-day-after-restart?traffic_source=rss"
+        "title": "Trump’s Greenland pact will demand allies boost Arctic security: NATO chief",
+        "link": "https://www.aljazeera.com/news/2026/1/22/trumps-greenland-pact-will-demand-allies-boost-arctic-security-nato-chief?traffic_source=rss"
       },
       {
-        "title": "Former government insider takes aim at US’s policy on Israel",
-        "link": "https://www.aljazeera.com/video/centre-stage/2026/1/22/aje-onl-cs-josh_paul-220126?traffic_source=rss"
+        "title": "Bangladesh adamant on playing T20 World Cup in Sri Lanka despite ICC threat",
+        "link": "https://www.aljazeera.com/sports/2026/1/22/bangladesh-adamant-on-playing-t20-world-cup-in-sri-lanka-despite-icc-threat?traffic_source=rss"
       },
       {
-        "title": "Sinner, Osaka through to the third round at Australian Open",
-        "link": "https://www.aljazeera.com/sports/2026/1/22/sinner-osaka-through-to-the-third-round-at-australian-open?traffic_source=rss"
+        "title": "Israeli settlers forcibly displacing largest Palestinian Bedouin village",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/22/israeli-settlers-forcibly-displacing-largest-palestinian-bedouin-village?traffic_source=rss"
       },
       {
-        "title": "Several missing after landslide at popular tourist spot in New Zealand",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/22/several-missing-after-landslide-at-popular-tourist-spot-in-new-zealand?traffic_source=rss"
+        "title": "Trump opens ‘Board of Peace’ by listing countries the US has bombed",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/22/trump-opens-board-of-peace-by-listing-countries-the-us-has-bombed?traffic_source=rss"
       },
       {
-        "title": "Mapping the 10 countries with the most overseas territories",
-        "link": "https://www.aljazeera.com/news/2026/1/22/mapping-the-10-countries-with-the-most-overseas-territories?traffic_source=rss"
+        "title": "Gaza’s Rafah crossing with Egypt to open next week: Palestinian official",
+        "link": "https://www.aljazeera.com/news/2026/1/22/gazas-rafah-crossing-with-egypt-to-open-next-week-palestinian-official?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +74,10 @@
         "link": "https://www.dawn.com/news/1968433/pm-shehbaz-other-world-leaders-sign-charter-for-trump-led-board-of-peace"
       },
       {
+        "title": "PTI slams govt’s decision to join Trump’s Board of Peace",
+        "link": "https://www.dawn.com/news/1968444/pti-slams-govts-decision-to-join-trumps-board-of-peace"
+      },
+      {
         "title": "Bangladesh firm on not playing T20 World Cup in India",
         "link": "https://www.dawn.com/news/1968413/bangladesh-firm-on-not-playing-t20-world-cup-in-india"
       },
@@ -84,10 +88,6 @@
       {
         "title": "Sindh home minister orders inquiry as journalist arrested for allegedly firing, injuring citizen in Karachi",
         "link": "https://www.dawn.com/news/1968437/sindh-home-minister-orders-inquiry-as-journalist-arrested-for-allegedly-firing-injuring-citizen-in-karachi"
-      },
-      {
-        "title": "PM Shehbaz, CDF Munir hold meetings with US secretary of state, Azerbaijan president on sidelines of the WEF",
-        "link": "https://www.dawn.com/news/1968428/pm-shehbaz-cdf-munir-hold-meetings-with-us-secretary-of-state-azerbaijan-president-on-sidelines-of-the-wef"
       }
     ],
     "APNews": [],
@@ -115,27 +115,39 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "UK lawyers seek travel and financial sanctions against Netanyahu",
+        "link": "https://www.middleeasteye.net/news/uk-lawyers-seek-travel-and-financial-sanctions-against-netanyahu"
+      },
+      {
+        "title": "Iran says 3,117 people killed during nationwide protests",
+        "link": "https://www.middleeasteye.net/news/iran-says-people-killed-during-nationwide-protests"
+      },
+      {
         "title": "Egypt and Saudi Arabia pressure Libya’s Haftar to stop UAE supplies to Sudan’s RSF",
         "link": "https://www.middleeasteye.net/news/egypt-and-saudi-arabia-pressure-libyas-haftar-stop-uae-supplies-sudans-rsf"
       },
       {
-        "title": "UK court ruling a threat to jurors who acquit pro-Palestine activists on moral grounds",
+        "title": "How the UK government is trying to tackle juries who may acquit pro-Palestine activists on moral grounds",
         "link": "https://www.middleeasteye.net/news/uk-threat-jurors-prison-acquitting-pro-palestine-why"
       },
       {
         "title": "Egyptian Relief Committee and AFP slam Israeli attack that killed three journalists in Gaza",
         "link": "https://www.middleeasteye.net/news/gaza-egyptian-relief-committee-and-afp-slam-israeli-attack-killed-journalists"
-      },
-      {
-        "title": "US military starts moving Islamic State prisoners from Syria to Iraq",
-        "link": "https://www.middleeasteye.net/news/us-military-starts-moving-islamic-state-prisoners-syria-iraq"
-      },
-      {
-        "title": "US sanctions six Palestinian aid groups it accuses of ties to Qassam Brigades",
-        "link": "https://www.middleeasteye.net/news/us-sanctions-six-palestinian-aid-groups-it-accuses-ties-qassam-brigades"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Suspended labour MP Andrew Gwynne set to resign following WhatsApp messages scandal",
+        "link": "https://www.geo.tv/latest/646619-suspended-labour-mp-andrew-gwynne-set-to-resign-following-whatsapp-messages-scandal"
+      },
+      {
+        "title": "Inside Charlie Puth's multi-billion net-worth",
+        "link": "https://www.geo.tv/latest/646616-inside-charlie-puths-multi-billion-net-worth"
+      },
+      {
+        "title": "Kim Kardashian clears the air on animal cruelty backlash months later",
+        "link": "https://www.geo.tv/latest/646607-kim-kardashian-clears-the-air-on-animal-cruelty-backlash"
+      },
       {
         "title": "Antoni Porowski responds to ‘Queer Eye' drama comment amid Karamo Brown tension",
         "link": "https://www.geo.tv/latest/646599-antoni-porowski-responds-to-queer-eye-drama-comment-amid-karamo-brown-tension"
@@ -143,18 +155,6 @@
       {
         "title": "Severe Arctic cold triggers warnings across parts of United States",
         "link": "https://www.geo.tv/latest/646609-severe-arctic-cold-triggers-warnings-across-parts-of-united-states"
-      },
-      {
-        "title": "Travis Scott hopes Houston can welcome him back after Astroworld",
-        "link": "https://www.geo.tv/latest/646612-travis-scott-hopes-houston-can-welcome-him-back-after-astroworld"
-      },
-      {
-        "title": "Zach Bryan remembers his mother in lovely social media post",
-        "link": "https://www.geo.tv/latest/646605-zach-bryan-remember-his-mother-in-lovely-social-media-post"
-      },
-      {
-        "title": "Dylan Efron weighs in on 'DWTS' co-star Alix Earle, Tom Brady rumours",
-        "link": "https://www.geo.tv/latest/646595-dylan-efron-weighs-in-on-dwts-co-star-alix-earle-tom-brady-rumours"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-22 13:09 UTC"
+  "last_updated": "2026-01-22 13:55 UTC"
 }
