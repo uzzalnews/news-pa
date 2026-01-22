@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Trump to lead signing of charter for Gaza ‘Board of Peace’ in Davos",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/22/live-trump-to-lead-signing-of-charter-for-gaza-board-of-peace-in-davos?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,19 @@
         "link": "https://www.bbc.com/news/articles/ce9yx4d3kjzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Seven more countries agree to join Trump's Board of Peace",
-        "link": "https://www.bbc.com/news/articles/cn8jek4vv8ko?at_medium=RSS&at_campaign=rss"
+        "title": "Gymnast Alice Kinsella making rare return to elite competition after baby",
+        "link": "https://www.bbc.com/sport/gymnastics/articles/ckgzjyj4jkqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "French firm Lactalis latest to recall baby formula amid contamination scare",
+        "link": "https://www.aljazeera.com/news/2026/1/22/french-firm-lactalis-latest-to-recall-baby-formula-amid-contamination-scare?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Trump to lead signing of charter for Gaza ‘Board of Peace’ in Davos",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/22/live-trump-to-lead-signing-of-charter-for-gaza-board-of-peace-in-davos?traffic_source=rss"
+      },
       {
         "title": "‘If you sleep, settlers will burn your house’: fear in the West Bank",
         "link": "https://www.aljazeera.com/features/2026/1/22/if-you-sleep-settlers-will-burn-your-house-fear-in-the-west-bank?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Bangladesh’s latest election battlegrounds: TikTok, Facebook, YouTube",
         "link": "https://www.aljazeera.com/features/2026/1/22/tiktok-facebook-youtube-bangladeshs-latest-election-battlegrounds?traffic_source=rss"
-      },
-      {
-        "title": "Rescuers search for survivors after landslide at New Zealand campsite",
-        "link": "https://www.aljazeera.com/news/2026/1/22/rescuers-search-for-survivors-after-landslide-at-new-zealand-campsite?traffic_source=rss"
-      },
-      {
-        "title": "Five killed in ‘treacherous’ attack on military convoy in Yemen",
-        "link": "https://www.aljazeera.com/news/2026/1/22/five-killed-in-treacherous-attack-on-military-convoy-in-yemen?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/1968409/search-operation-continues-at-karachis-gul-plaza-after-deadly-inferno"
       },
       {
-        "title": "In Davos speech, Trump repeatedly refers to Greenland as ‘Iceland’",
-        "link": "https://www.dawn.com/news/1968410/in-davos-speech-trump-repeatedly-refers-to-greenland-as-iceland"
+        "title": "President approves confirmations, tenure extensions of additional judges of Sindh, Lahore and Peshawar high courts",
+        "link": "https://www.dawn.com/news/1968412/president-approves-confirmations-tenure-extensions-of-additional-judges-of-sindh-lahore-and-peshawar-high-courts"
       },
       {
-        "title": "After two-year delay, SBCA issues fire safety directives",
-        "link": "https://www.dawn.com/news/1968262/after-two-year-delay-sbca-issues-fire-safety-directives"
+        "title": "Bangladesh seek ‘miracle’ to secure T20 World Cup participation",
+        "link": "https://www.dawn.com/news/1968413/bangladesh-seek-miracle-to-secure-t20-world-cup-participation"
       }
     ],
     "APNews": [],
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
-        "title": "Apple's Siri to become AI chatbot integrated into iOS 17 in major overhaul",
-        "link": "https://www.geo.tv/latest/646517-apples-siri-to-become-ai-chatbot-integrated-into-ios-17-in-major-overhaul"
+        "title": "Mario Kart update features Knockout Tour team races: Here's everything you need to know",
+        "link": "https://www.geo.tv/latest/646520-mario-kart-update-features-knockout-tour-team-races-heres-everything-you-need-to-know"
       },
       {
-        "title": "New twist in Brooklyn's wedding sparks Beckhams' concerns",
-        "link": "https://www.geo.tv/latest/646519-new-twist-in-brooklyns-wedding-sparks-beckhams-concerns"
+        "title": "Pakistan 'may boycott T20 World Cup 2026' if Bangladesh decides against participation",
+        "link": "https://www.geo.tv/latest/646527-pakistan-may-boycott-t20-world-cup-2026-if-bangladesh-decides-against-participation"
       },
       {
-        "title": "Apple developing AI wearable: Here's all we know about Humane AI-like pin",
-        "link": "https://www.geo.tv/latest/646514-apple-developing-ai-wearable-heres-all-we-know-about-humane-ai-like-ai-pin"
+        "title": "Queen Camilla sends message to King Charles as crucial chapter begins",
+        "link": "https://www.geo.tv/latest/646522-queen-camilla-sends-message-to-king-charles-as-crucial-chapter-begins"
       },
       {
-        "title": "Meghan Markle launches into risky plans despite Prince Harry's warnings",
-        "link": "https://www.geo.tv/latest/646515-meghan-markle-launches-into-risky-plans-despite-prince-harrys-warnings"
+        "title": "Cruz Beckham recent move adds to ongoing Beckham family drama",
+        "link": "https://www.geo.tv/latest/646524-cruz-beckham-recent-move-adds-to-ongoing-beckham-family-drama"
       },
       {
-        "title": "Authorities prepare Gul Plaza fire timeline using CCTV footage",
-        "link": "https://www.geo.tv/latest/646508-authorities-prepares-gul-plaza-fire-timeline-using-cctv-footage"
+        "title": "'Enough is enough': MQM-P demands Karachi be declared federal territory after Gul Plaza tragedy",
+        "link": "https://www.geo.tv/latest/646525-enough-is-enough-mqm-p-demands-karachi-be-declared-federal-territory-after-gul-plaza-tragedy"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-22 06:28 UTC"
+  "last_updated": "2026-01-22 07:01 UTC"
 }
