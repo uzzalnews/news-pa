@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Attacks continue in Russia, Ukraine before talks in Abu Dhabi",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/23/ukraine-talks-live?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "Former councillor pleads guilty to drugging and raping ex-wife over 13 years",
+        "link": "https://www.bbc.com/news/articles/c4grr3368n3o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "High stakes but low expectations ahead of Ukraine talks with Russia and US",
         "link": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&at_campaign=rss"
@@ -23,13 +21,13 @@
       {
         "title": "Brooklyn Beckham's wedding DJ speaks about 'awkward' dance",
         "link": "https://www.bbc.com/news/articles/cp8220err46o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Heathrow scraps 100ml liquid limit and says devices can stay in luggage for scans",
-        "link": "https://www.bbc.com/news/articles/c1evvx89559o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Ice cloaks Lake Michigan ahead of US polar vortex",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/23/ice-cloaks-lake-michigan-ahead-of-us-polar-vortex?traffic_source=rss"
+      },
       {
         "title": "Russia targets Ukraine’s energy as trilateral talks loom",
         "link": "https://www.aljazeera.com/features/2026/1/23/russia-targets-ukraines-energy-as-trilateral-talks-loom?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "Venezuela: In the Shadow of the US",
         "link": "https://www.aljazeera.com/video/featured-documentaries/2026/1/23/venezuela-in-the-shadow-of-the-us?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Attacks continue in Russia, Ukraine before talks in Abu Dhabi",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/23/ukraine-talks-live?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "Barbs fly in Senate as PTI’s Ali Zafar demands probe into ‘institutional overreach, election fraud’",
+        "link": "https://www.dawn.com/news/1968629/barbs-fly-in-senate-as-ptis-ali-zafar-demands-probe-into-institutional-overreach-election-fraud"
+      },
+      {
         "title": "Death toll from Karachi’s Gul Plaza inferno reaches 71; search operation in ‘final stages’",
         "link": "https://www.dawn.com/news/1968619/death-toll-from-karachis-gul-plaza-inferno-reaches-71-search-operation-in-final-stages"
       },
@@ -90,10 +88,6 @@
       {
         "title": "Snow blankets parts of KP, Murree; Met Office forecasts more rain, snow from Jan 25-27",
         "link": "https://www.dawn.com/news/1968615/snow-blankets-parts-of-kp-murree-met-office-forecasts-more-rain-snow-from-jan-25-27"
-      },
-      {
-        "title": "‘This is not a joke’: Punjab CM warns against violating rules ahead of Basant festivities in Lahore",
-        "link": "https://www.dawn.com/news/1968626/this-is-not-a-joke-punjab-cm-warns-against-violating-rules-ahead-of-basant-festivities-in-lahore"
       }
     ],
     "APNews": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Spain refuses to join Trump's Gaza 'Board of Peace' over breach of international law",
+        "link": "https://www.middleeasteye.net/news/trump-board-peace-plan-spain-rejects-invitation-join-while-trump-rescinds-canadian-invitation"
+      },
+      {
         "title": "Jailbreaks and confusion in Syrian IS prisons after sudden SDF pullout",
         "link": "https://www.middleeasteye.net/news/jailbreaks-confusion-syrian-is-prisons-sudden-sdf-pullout"
       },
@@ -135,13 +133,21 @@
       {
         "title": "Trump and Israel demolished the US-led global order. At Davos the West woke up",
         "link": "https://www.middleeasteye.net/opinion/trump-and-israel-demolished-us-led-global-order-davos-west-woke"
-      },
-      {
-        "title": "Last Palestine Action-linked hunger striker to launch ‘thirst strike’",
-        "link": "https://www.middleeasteye.net/news/last-palestine-action-linked-hunger-striker-launch-thirst-strike"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince William and Kate's private retreat comes to light after years of secrecy",
+        "link": "https://www.geo.tv/latest/646816-prince-william-and-kates-private-retreat-comes-to-light-after-years-of-secrecy"
+      },
+      {
+        "title": "Harry Styles reveals second choice for album title 'Kiss All The Time'",
+        "link": "https://www.geo.tv/latest/646815-harry-styles-reveals-second-choice-for-album-title-hs4"
+      },
+      {
+        "title": "When US actually dropped nuclear bombs on Greenland: Inside a Cold War incident",
+        "link": "https://www.geo.tv/latest/646820-when-us-actually-dropped-nuclear-bombs-on-greenland-inside-a-cold-war-incident"
+      },
       {
         "title": "Toronto man accused of major airline fraud, flew free for four years",
         "link": "https://www.geo.tv/latest/646818-toronto-man-accused-of-major-airline-fraud-flew-free-for-four-years"
@@ -149,40 +155,28 @@
       {
         "title": "Jana Duggar welcomes first child with husband Stephen Wissmann",
         "link": "https://www.geo.tv/latest/646817-jana-duggar-welcomes-first-child-with-husband-stephen-wissmann"
-      },
-      {
-        "title": "Prince Harry's female admirers are many but no wedding rings",
-        "link": "https://www.geo.tv/latest/646814-prince-harrys-female-admirers-are-many-but-no-wedding-rings"
-      },
-      {
-        "title": "Kate Hudson reveals how she celebrated Oscar nomination",
-        "link": "https://www.geo.tv/latest/646808-kate-hudson-revealed-how-she-celebrated-oscar-nomination"
-      },
-      {
-        "title": "Jennifer Lawrence recalls Golden Globes ‘proud' moment",
-        "link": "https://www.geo.tv/latest/646796-jennifer-lawrence-recalls-golden-globes-proud-moment"
       }
     ],
     "NDTV": [
       {
-        "title": "On Camera, 2 Die As Speeding Bike Veers, Rams Highway Railing In Telangana",
-        "link": "https://www.ndtv.com/india-news/on-camera-2-die-as-speeding-bike-veers-rams-highway-railing-in-telangana-10864437#publisher=newsstand"
+        "title": "Hindus Perform Puja, Muslims Offer Namaz In Madhya Pradesh's Bhojshala",
+        "link": "https://www.ndtv.com/india-news/hindus-perform-puja-muslims-offer-namaz-in-madhya-pradeshs-bhojshala-10865747#publisher=newsstand"
       },
       {
-        "title": "High Ammonia Levels In Yamuna To Disrupt Water Supply In Delhi Till Feb 4",
-        "link": "https://www.ndtv.com/india-news/high-ammonia-levels-in-yamuna-to-disrupt-water-supply-in-delhi-till-feb-4-10862801#publisher=newsstand"
+        "title": "Indian Armed Forces To Display Operation Sindoor Tableau On Republic Day",
+        "link": "https://www.ndtv.com/india-news/indian-armed-forces-to-display-operation-sindoor-tableau-on-republic-day-10863123#publisher=newsstand"
       },
       {
-        "title": "Trump Accuses NATO Allies Of 'Staying Back', Avoiding Afghanistan Frontline",
-        "link": "https://www.ndtv.com/world-news/donald-trump-accuses-nato-allies-of-staying-back-avoiding-afghanistan-frontline-10864077#publisher=newsstand"
+        "title": "Danish PM To Meet Greenland Counterpart After Trump's Latest Comments",
+        "link": "https://www.ndtv.com/world-news/danish-pm-to-meet-greenland-counterpart-after-trumps-latest-comments-10865082#publisher=newsstand"
       },
       {
-        "title": "\"DMK Being Called CMC Government - Corruption, Mafia, Crime\": PM Modi",
-        "link": "https://www.ndtv.com/india-news/dmk-being-called-cmc-government-corruption-mafia-crime-pm-modi-in-tamil-nadu-10858760#publisher=newsstand"
+        "title": "Russia Demands Ukraine Pull Out Of Donbas Region Ahead Of Abu Dhabi Talks",
+        "link": "https://www.ndtv.com/world-news/russia-demands-ukraine-pull-out-of-donbas-region-ahead-of-abu-dhabi-talks-10864982#publisher=newsstand"
       },
       {
-        "title": "Bail Should Not Be Linked To Monetary Deposits Or Undertakings: Top Court",
-        "link": "https://www.ndtv.com/india-news/bail-should-not-be-linked-to-monetary-deposits-or-undertakings-top-court-10863641#publisher=newsstand"
+        "title": "\"Donbas Is Key\": Zelensky On Territorial Discussions At Trilateral Talks",
+        "link": "https://www.ndtv.com/world-news/donbas-is-key-zelensky-on-territorial-discussions-at-trilateral-talks-10864970#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-23 15:37 UTC"
+  "last_updated": "2026-01-23 15:56 UTC"
 }
