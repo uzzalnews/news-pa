@@ -1,14 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Attacks continue in Russia, Ukraine before talks in Abu Dhabi",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/23/ukraine-talks-live?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Hundreds of illegal waste tips operating in England - including 11 'super sites'",
-        "link": "https://www.bbc.com/news/articles/c1ev4yg1j1lo?at_medium=RSS&at_campaign=rss"
+        "title": "High stakes but low expectations ahead of Ukraine talks with Russia and US",
+        "link": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Heathrow scraps 100ml liquid limit and says devices can stay in luggage for scans",
-        "link": "https://www.bbc.com/news/articles/c1evvx89559o?at_medium=RSS&at_campaign=rss"
+        "title": "Hundreds of illegal waste tips operating in England - including 11 'super sites'",
+        "link": "https://www.bbc.com/news/articles/c1ev4yg1j1lo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Driver admits killing teen freed from Dubai jail",
@@ -19,11 +25,23 @@
         "link": "https://www.bbc.com/news/articles/cp8220err46o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Why so many women end up 'menopause masking' - but it can have consequences, as I discovered",
-        "link": "https://www.bbc.com/news/articles/c23e1n3ge29o?at_medium=RSS&at_campaign=rss"
+        "title": "Heathrow scraps 100ml liquid limit and says devices can stay in luggage for scans",
+        "link": "https://www.bbc.com/news/articles/c1evvx89559o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Does the World Economic Forum still matter in a fractured global economy?",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/1/23/does-the-world-economic-forum-still-matter-in-a-fractured-global-economy?traffic_source=rss"
+      },
+      {
+        "title": "Venezuela: In the Shadow of the US",
+        "link": "https://www.aljazeera.com/video/featured-documentaries/2026/1/23/venezuela-in-the-shadow-of-the-us?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Attacks continue in Russia, Ukraine before talks in Abu Dhabi",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/23/ukraine-talks-live?traffic_source=rss"
+      },
       {
         "title": "‘Imperial’ agenda: What’s Trump’s Gaza development plan, unveiled in Davos?",
         "link": "https://www.aljazeera.com/news/2026/1/23/imperial-agenda-whats-trumps-gaza-development-plan-unveiled-in-davos?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Who controls TikTok’s US platform under new deal?",
         "link": "https://www.aljazeera.com/news/2026/1/23/who-controls-tiktoks-us-platform-under-new-deal?traffic_source=rss"
-      },
-      {
-        "title": "Trump claim on NATO role in Afghanistan draws UK condemnation",
-        "link": "https://www.aljazeera.com/news/2026/1/23/trump-claim-on-nato-role-in-afghanistan-draws-condemnation?traffic_source=rss"
-      },
-      {
-        "title": "Why is Rodman signing and highest female soccer salary controversial?",
-        "link": "https://www.aljazeera.com/sports/2026/1/23/why-is-trinity-rodman-signing-at-washington-spirit-and-highest-paid-female-salary-controversial-in-nwsl?traffic_source=rss"
-      },
-      {
-        "title": "Militarising the Sahel will not defeat terrorism",
-        "link": "https://www.aljazeera.com/opinions/2026/1/23/militarising-the-sahel-will-not-defeat-terrorism?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,8 +92,8 @@
         "link": "https://www.dawn.com/news/1968615/snow-blankets-parts-of-kp-murree-met-office-forecasts-more-rain-snow-from-jan-25-27"
       },
       {
-        "title": "Outrage after Trump claims Nato troops avoided Afghan front line",
-        "link": "https://www.dawn.com/news/1968627/outrage-after-trump-claims-nato-troops-avoided-afghan-front-line"
+        "title": "‘This is not a joke’: Punjab CM warns against violating rules ahead of Basant festivities in Lahore",
+        "link": "https://www.dawn.com/news/1968626/this-is-not-a-joke-punjab-cm-warns-against-violating-rules-ahead-of-basant-festivities-in-lahore"
       }
     ],
     "APNews": [],
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Victoria Beckham takes subtle jab at Brooklyn Beckham amid rift",
+        "link": "https://www.geo.tv/latest/646809-victoria-beckham-takes-subtle-jab-at-brooklyn-beckham-amid-rift"
+      },
+      {
+        "title": "'Prince Harry, Meghan Markle are no longer part of royal family': Historic announcement",
+        "link": "https://www.geo.tv/latest/646805-prince-harry-meghan-markle-are-no-longer-part-of-royal-family-historic-announcement"
+      },
+      {
+        "title": "UFC Head Dana White credits Trump for putting UFC ‘on the map'",
+        "link": "https://www.geo.tv/latest/646810-ufc-head-dana-white-credits-trump-for-putting-ufc-on-the-map"
+      },
+      {
+        "title": "Elizabeth Hurley tears up during ‘helpless' trial against privacy invasion",
+        "link": "https://www.geo.tv/latest/646807-elizabeth-hurley-tears-up-during-helpless-trial-against-privacy-invasion"
+      },
+      {
         "title": "How Oscar-nominated ‘Bugonia' designed to help Emma Stone get into character",
         "link": "https://www.geo.tv/latest/646797-how-oscar-nominated-bugonia-designed-to-help-emma-stone-get-into-character"
-      },
-      {
-        "title": "Gracie Abrams drops first snippet of unreleased song amid new album buzz",
-        "link": "https://www.geo.tv/latest/646794-gracie-abrams-drops-first-snippet-of-unreleased-song-amid-new-album-buzz"
-      },
-      {
-        "title": "Chinese New Year 2026: Why this year is so rare?",
-        "link": "https://www.geo.tv/latest/646806-chinese-new-year-2026-why-this-year-is-so-rare"
-      },
-      {
-        "title": "Fury over five-year-old's detention in US immigration crackdown",
-        "link": "https://www.geo.tv/latest/646790-fury-over-five-year-olds-detention-in-us-immigration-crackdown"
-      },
-      {
-        "title": "King Charles savours notes of toffee, 'wishing' Harry were sharing it",
-        "link": "https://www.geo.tv/latest/646800-king-charles-savours-notes-of-toffee-wishing-harry-were-sharing-it"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-23 14:16 UTC"
+  "last_updated": "2026-01-23 14:47 UTC"
 }
