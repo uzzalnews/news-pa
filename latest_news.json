@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Villarreal vs Real Madrid – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/24/live-villarreal-vs-real-madrid-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,19 +11,27 @@
         "link": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Video shows moments around fatal shooting in Minneapolis",
+        "link": "https://www.bbc.com/news/videos/cp372pqq2rlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Pier washes away and railway sea wall crumbles in storm",
         "link": "https://www.bbc.com/news/articles/c9qp5ydq0zqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Labour wants to shake up the police - but will that solve 'everyday crime epidemic'?",
-        "link": "https://www.bbc.com/news/articles/c2k98jw3xnxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Two days of peace talks end as Russia continues Ukraine attacks",
-        "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss"
+        "title": "'British FBI' to take over terror and fraud probes in reforms to police",
+        "link": "https://www.bbc.com/news/articles/cm2yr95md71o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Will TikTok deal satisfy security concerns in US?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/1/24/will-tiktok-deal-satisfy-security-concerns-in-us?traffic_source=rss"
+      },
+      {
+        "title": "Iraq Shia alliance nominates former PM Nouri al-Maliki as its candidate",
+        "link": "https://www.aljazeera.com/news/2026/1/24/iraq-shia-alliance-nominates-former-pm-nouri-al-maliki-as-its-candidate?traffic_source=rss"
+      },
       {
         "title": "US federal agents shoot and kill US citizen in Minneapolis",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "US-brokered Russia-Ukraine talks close with no breakthrough",
         "link": "https://www.aljazeera.com/news/2026/1/24/us-brokered-talks-on-ukraine-close-with-no-breakthrough?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Villarreal vs Real Madrid – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/24/live-villarreal-vs-real-madrid-la-liga?traffic_source=rss"
-      },
-      {
-        "title": "US federal agents shoot and kill another person in Minneapolis",
-        "link": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -103,6 +97,10 @@
         "link": "https://www.nytimes.com/2026/01/24/us/minneapolis-shooting-federal-agents-video.html"
       },
       {
+        "title": "Alex Jeffrey Pretti Was an I.C.U. Nurse at the V.A. Hospital",
+        "link": "https://www.nytimes.com/2026/01/24/us/alex-jeffrey-pretti-was-an-icu-nurse-at-the-va-hospital.html"
+      },
+      {
         "title": "What We Know About a Second Fatal ICE Shooting in Minneapolis",
         "link": "https://www.nytimes.com/2026/01/24/us/politics/second-ice-shooting-minneapolis.html"
       },
@@ -113,10 +111,6 @@
       {
         "title": "Why the Power May Not Go Out Until After the Storm Has Passed",
         "link": "https://www.nytimes.com/2026/01/24/business/energy-environment/storm-power-outages.html"
-      },
-      {
-        "title": "Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues",
-        "link": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Channing Tatum shares favourite ‘beautiful scene' in ‘Josephine'",
+        "link": "https://www.geo.tv/latest/647031-channing-tatum-shares-favourite-beautiful-scene-in-josephine"
+      },
+      {
         "title": "Natasha Lyonne fails at sobriety after 20 years",
         "link": "https://www.geo.tv/latest/647027-natasha-lyonne-fails-at-sobriety-after-20-years"
       },
@@ -157,10 +155,6 @@
       {
         "title": "King Charles being 'more brutal' to Andrew than royal family expected",
         "link": "https://www.geo.tv/latest/647017-king-charles-being-more-brutal-to-andrew-than-royal-family-expected"
-      },
-      {
-        "title": "Will Sam Raimi's ‘Spider-Man 4' starring Tobey Maguire ever happen?",
-        "link": "https://www.geo.tv/latest/647023-will-sam-raimis-spider-man-4-starring-tobey-maguire-ever-happen"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-24 22:19 UTC"
+  "last_updated": "2026-01-24 22:40 UTC"
 }
