@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Villarreal vs Real Madrid – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/24/live-villarreal-vs-real-madrid-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,19 @@
         "link": "https://www.bbc.com/news/articles/c9qp5ydq0zqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Andy Burnham faces Saturday deadline on by-election decision",
-        "link": "https://www.bbc.com/news/articles/ckgy13vlxk5o?at_medium=RSS&at_campaign=rss"
+        "title": "The Traitors best moments: From explosive bust-ups to secret relationships",
+        "link": "https://www.bbc.com/news/articles/cq84dp4zvy1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Villarreal vs Real Madrid – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/24/live-villarreal-vs-real-madrid-la-liga?traffic_source=rss"
+      },
+      {
+        "title": "US federal agents shoot another person in Minneapolis: Governor",
+        "link": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss"
+      },
       {
         "title": "Trump threatens 100 percent tariff on Canada over China deal",
         "link": "https://www.aljazeera.com/news/2026/1/24/trump-threatens-100-percent-tariff-on-canada-over-china-deal?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Bangladesh out of T20 World Cup after ICC’s refusal to change venues",
         "link": "https://www.aljazeera.com/sports/2026/1/24/bangladesh-out-of-t20-world-cup-after-iccs-refusal-to-change-venues?traffic_source=rss"
-      },
-      {
-        "title": "Israeli drone strike kills two children collecting firewood in Gaza",
-        "link": "https://www.aljazeera.com/news/2026/1/24/israeli-drone-strike-kills-two-children-collecting-firewood-in-gaza?traffic_source=rss"
-      },
-      {
-        "title": "‘Remote coercion’: What has US approach been since abduction of Maduro?",
-        "link": "https://www.aljazeera.com/news/2026/1/24/remote-coercion-what-has-us-approach-been-since-abduction-of-maduro?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,6 +143,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Charli XCX gives a glimpse into 'nice' side amid Taylor Swift feud",
+        "link": "https://www.geo.tv/latest/646998-charli-xcx-gives-a-glimpse-into-nice-side-amid-taylor-swift-feud"
+      },
+      {
+        "title": "New Minneapolis shooting involving federal agents captured on video",
+        "link": "https://www.geo.tv/latest/647001-new-minneapolis-shooting-involving-federal-agents-captured-on-video"
+      },
+      {
         "title": "Dua Lipa urges fans to stay alert amid growing global concern",
         "link": "https://www.geo.tv/latest/646999-dua-lipa-urges-fans-to-stay-alert-amid-growing-global-concern"
       },
@@ -147,14 +161,6 @@
       {
         "title": "Why is Trump threatening 100% tariff on Canada?",
         "link": "https://www.geo.tv/latest/646996-why-is-trump-threatening-100-tariff-on-canada"
-      },
-      {
-        "title": "Netflix, Warner Bros' merger threatens to transform Hollywood",
-        "link": "https://www.geo.tv/latest/646990-netflix-warner-bros-merger-threatens-to-transform-hollywood"
-      },
-      {
-        "title": "Dil Ka Rishta: Where a Match Is Not Just a Profile, but a Responsibility",
-        "link": "https://www.geo.tv/latest/646994-dil-ka-rishta-where-a-match-is-not-just-a-profile-but-a-responsibility"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-24 16:52 UTC"
+  "last_updated": "2026-01-24 17:13 UTC"
 }
