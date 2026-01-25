@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Arsenal vs Manchester United – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/25/live-arsenal-vs-manchester-united-premier-league-2?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,23 @@
         "link": "https://www.bbc.com/news/articles/c99kkerr93ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Climber Alex Honnold scales 101-floor skyscraper without safety gear",
-        "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss"
+        "title": "How weight-loss jabs are changing our spending habits",
+        "link": "https://www.bbc.com/news/articles/cj6wy85l3x5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Outrage after US agents kill ICU nurse Alex Pretti in Minnesota",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/25/outrage-after-us-agents-kill-icu-nurse-alex-pretti-in-minnesota?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Arsenal vs Manchester United – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/25/live-arsenal-vs-manchester-united-premier-league-2?traffic_source=rss"
+      },
+      {
+        "title": "Trump says ‘US armada’ moving towards Iran as tensions escalate",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/25/trump-says-us-armada-moving-towards-iran-as-tensions-escalate?traffic_source=rss"
+      },
       {
         "title": "‘Invoking Insurrection Act would escalate conflict with private citizens’",
         "link": "https://www.aljazeera.com/video/quotable/2026/1/25/invoking-insurrection-act-would-escalate-conflict-with-private-citizens?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Clashes erupt at antigovernment protest in Albanian capital Tirana",
         "link": "https://www.aljazeera.com/gallery/2026/1/25/clashes-erupt-at-antigovernment-protest-in-albanian-capital-tirana?traffic_source=rss"
-      },
-      {
-        "title": "Dozens arrested in support of Palestine hunger strikers at London prison",
-        "link": "https://www.aljazeera.com/news/2026/1/25/dozens-arrested-in-support-of-palestine-hunger-strikers-at-london-prison?traffic_source=rss"
-      },
-      {
-        "title": "Myanmar holds final stage of disputed election as rebels continue fighting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/25/myanmar-holds-final-stage-of-disputed-election-as-rebels-continue-fighting?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces kill Palestinian man in occupied West Bank",
-        "link": "https://www.aljazeera.com/news/2026/1/25/israeli-forces-kill-palestinian-man-in-occupied-west-bank-10?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,10 +103,6 @@
         "link": "https://www.nytimes.com/2026/01/24/us/alex-jeffrey-pretti-was-an-icu-nurse-at-the-va-hospital.html"
       },
       {
-        "title": "What We Know About a Second Fatal Shooting in Minneapolis",
-        "link": "https://www.nytimes.com/2026/01/24/us/politics/second-ice-shooting-minneapolis.html"
-      },
-      {
         "title": "Scenes From the Winter Storm",
         "link": "https://www.nytimes.com/2026/01/24/us/winter-storm-snow-photos-videos.html"
       },
@@ -111,9 +113,17 @@
       {
         "title": "The Woman Who Stands Between Donald Trump and Greenland",
         "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html"
+      },
+      {
+        "title": "Trump Pushes A.I. Data Centers, but the G.O.P. Is Cool to One in Alabama",
+        "link": "https://www.nytimes.com/2026/01/25/us/politics/trump-ai.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli soldier fakes kidnapping of Palestinian to extort family",
+        "link": "https://www.middleeasteye.net/news/israeli-soldier-fakes-kidnapping-palestinian-extort-family"
+      },
       {
         "title": "Israeli settlers wound elderly Christian Palestinian woman in West Bank attack",
         "link": "https://www.middleeasteye.net/news/israeli-settlers-wound-elderly-christian-palestinian-woman-west-bank-attack"
@@ -129,54 +139,50 @@
       {
         "title": "Israeli soldier’s videos show continued demolitions in Gaza after ceasefire",
         "link": "https://www.middleeasteye.net/news/israeli-soldiers-videos-show-continued-home-demolitions-gaza-after-ceasefire"
-      },
-      {
-        "title": "US pressure fuels Israel's expanding influence in Latin America, experts say",
-        "link": "https://www.middleeasteye.net/news/us-political-pressure-fuels-israel-influence-latin-america-experts-say"
       }
     ],
     "GeoTV": [
       {
-        "title": "Meghan Markle meeting called 'crazy' by her executively produced drama actor",
-        "link": "https://www.geo.tv/latest/647123-meghan-markle-meeting-called-crazy-by-her-executively-produced-drama-actor"
+        "title": "Eric Dane pulls out of awards show last minute as his health takes turn",
+        "link": "https://www.geo.tv/latest/647131-eric-dane-pulls-out-of-awards-show-last-minute-as-his-health-takes-turn"
+      },
+      {
+        "title": "PCB announces player auction date for PSL 11",
+        "link": "https://www.geo.tv/latest/647127-pcb-announces-players-auction-date-for-psl-11"
+      },
+      {
+        "title": "Victoria Beckham shifts focus from Brooklyn feud to Spice Girls reunion",
+        "link": "https://www.geo.tv/latest/647128-victoria-beckham-shifts-focus-from-brooklyn-feud-to-spice-girls-reunion"
+      },
+      {
+        "title": "Meghan Markle meeting called 'crazy' by her executively produced documentary actor",
+        "link": "https://www.geo.tv/latest/647123-meghan-markle-meeting-called-crazy-by-her-executively-produced-documentary-actor"
       },
       {
         "title": "Sindh issues update on winter school timings",
         "link": "https://www.geo.tv/latest/647126-sindh-issues-update-on-winter-school-timings"
-      },
-      {
-        "title": "Harry Styles sparks 'Saturday Night Live' rumours amid new album buzz",
-        "link": "https://www.geo.tv/latest/647121-harry-styles-sparks-saturday-night-live-rumours-amid-new-album-buzz"
-      },
-      {
-        "title": "Pakistan players 'back' PCB's principled stance on T20 WC participation",
-        "link": "https://www.geo.tv/latest/647124-pakistan-players-back-pcbs-principled-stance-on-t20-wc-participation"
-      },
-      {
-        "title": "Gillespie 'abused' for questioning Bangladesh's T20 World Cup exclusion",
-        "link": "https://www.geo.tv/latest/647122-gillespie-abused-for-questioning-bangladeshs-t20-world-cup-exclusion"
       }
     ],
     "NDTV": [
+      {
+        "title": "Over 600,000 Lose Power As Massive Winter Storm Hits US",
+        "link": "https://www.ndtv.com/world-news/over-600-000-lose-power-as-massive-winter-storm-hits-us-10883364#publisher=newsstand"
+      },
       {
         "title": "Dharmendra, Adman Piyush Pandey, Cricketer Rohit Sharma Among Padma Awardees",
         "link": "https://www.ndtv.com/india-news/dharmendra-honoured-with-padma-vibhushan-posthumous-rohit-sharma-with-padma-shri-see-full-list-10882921#publisher=newsstand"
       },
       {
-        "title": "Probe Agency ED Files Complaint Against Winzo, Alleges Rs 3,522 Crore Scam",
-        "link": "https://www.ndtv.com/india-news/probe-agency-files-complaint-against-winzo-alleges-rs-3-522-crore-gaming-scam-10882907#publisher=newsstand"
+        "title": "Padma Awards 2026: See Full List",
+        "link": "https://www.ndtv.com/india-news/77th-republic-day-padma-awards-2026-see-full-list-10883194#publisher=newsstand"
       },
       {
-        "title": "Leh's Bactrian Camels Galwan And Nubra To Walk Down Delhi's Kartavya Path",
-        "link": "https://www.ndtv.com/india-news/lehs-bactrian-camels-galwan-and-nubra-to-walk-down-delhis-kartavya-path-10882913#publisher=newsstand"
+        "title": "4 Anti-Terror Ops, 13 Officers: Gallantry Awards For Delhi Police Special Cell",
+        "link": "https://www.ndtv.com/india-news/4-anti-terror-ops-13-officers-gallantry-for-delhi-police-special-cell-10883101#publisher=newsstand"
       },
       {
-        "title": "75-Year-Old's 300 Km Rickshaw Odyssey To Get Wife Treated",
-        "link": "https://www.ndtv.com/india-news/odisha-man-75-pedals-300-km-by-rickshaw-to-get-paralysed-wife-treated-10882440#publisher=newsstand"
-      },
-      {
-        "title": "\"Paying With Health\": Rahul Gandhi Urges Action Against Air Pollution",
-        "link": "https://www.ndtv.com/india-news/paying-with-health-rahul-gandhi-urges-action-against-air-pollution-10882346#publisher=newsstand"
+        "title": "Man, 60, Dragged Behind Bike After Resisting Robbery",
+        "link": "https://www.ndtv.com/india-news/man-60-dragged-behind-bike-after-resisting-robbery-10882172#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-25 13:59 UTC"
+  "last_updated": "2026-01-25 14:23 UTC"
 }
