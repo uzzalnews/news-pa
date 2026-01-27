@@ -1,14 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Trump to pitch affordability amid outrage over protest killings",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-trump-to-pitch-affordability-amid-outrage-over-protest-killings?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Tearful Carol Kirkwood announces she is to leave BBC",
-        "link": "https://www.bbc.com/news/articles/cedwp8w1j24o?at_medium=RSS&at_campaign=rss"
+        "title": "Pubs given support package after business rates backlash",
+        "link": "https://www.bbc.com/news/articles/c78vqj99168o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Emotional moment weather presenter reveals she is leaving",
-        "link": "https://www.bbc.com/news/videos/ckgxpdww0qvo?at_medium=RSS&at_campaign=rss"
+        "title": "Tearful Carol Kirkwood announces she is to leave BBC",
+        "link": "https://www.bbc.com/news/articles/cedwp8w1j24o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "One Battle After Another leads Bafta nominations",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Iraq presidential vote delayed as Kurdish blocs struggle to pick candidate",
+        "link": "https://www.aljazeera.com/news/2026/1/27/iraq-presidential-vote-delayed-as-kurdish-blocs-struggle-to-pick-candidate?traffic_source=rss"
+      },
+      {
+        "title": "Trump’s ‘Board of Peace’ puts rights abusers in charge of global order",
+        "link": "https://www.aljazeera.com/opinions/2026/1/27/trumps-board-of-peace-puts-rights-abusers-in-charge-of-global-order?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Trump to pitch affordability amid outrage over protest killings",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-trump-to-pitch-affordability-amid-outrage-over-protest-killings?traffic_source=rss"
+      },
+      {
+        "title": "Is Trump’s ‘Board of Peace’ a threat to the United Nations?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/is-trumps-board-of-peace-a-threat-to-the-united-nations?traffic_source=rss"
+      },
+      {
         "title": "Meta, TikTok and YouTube face landmark trial over youth addiction claims",
         "link": "https://www.aljazeera.com/news/2026/1/27/meta-tiktok-and-youtube-face-landmark-trial-over-youth-addiction-claims?traffic_source=rss"
-      },
-      {
-        "title": "Have universities begun to favor ideology over truth?",
-        "link": "https://www.aljazeera.com/video/doha-debates/2026/1/27/have-universities-begun-to-favor-ideology-over-truth?traffic_source=rss"
-      },
-      {
-        "title": "Why Japan’s economic plans are sending jitters through global markets",
-        "link": "https://www.aljazeera.com/economy/2026/1/27/why-japans-economic-plans-are-sending-jitters-through-global-markets?traffic_source=rss"
-      },
-      {
-        "title": "Spain to host 2030 World Cup final, its football federation president says",
-        "link": "https://www.aljazeera.com/sports/2026/1/27/spanish-football-president-declares-it-will-host-2030-world-cup-final?traffic_source=rss"
-      },
-      {
-        "title": "Somalis in Minnesota",
-        "link": "https://www.aljazeera.com/video/africa-now/2026/1/27/somalis-in-minnesota?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Iran's rial hits new low after unrest sparked by economic crisis",
+        "link": "https://www.geo.tv/latest/647528-irans-rial-hits-new-low-after-unrest-sparked-by-economic-crisis"
+      },
+      {
+        "title": "Jason Biggs reflects on Eugene influence ahead of 'American Pie 2' anniversary",
+        "link": "https://www.geo.tv/latest/647529-jason-biggs-reflects-on-eugene-levy-influence-ahead-of-american-pie-2-anniversary"
+      },
+      {
+        "title": "King Charles, Queen Camilla return to Bruckingham Palace with tears",
+        "link": "https://www.geo.tv/latest/647524-king-charles-queen-camilla-return-to-bruckingham-palace-with-tears"
+      },
+      {
         "title": "Taylor Russell reaction to Rihanna mix-up at Paris Fashion week wins hearts",
         "link": "https://www.geo.tv/latest/647523-taylor-russell-reaction-to-rihanna-mix-up-at-paris-fashion-week-wins-hearts"
       },
       {
         "title": "Finance Division expects inflation to remain in 5-6% range in January",
         "link": "https://www.geo.tv/latest/647519-finance-division-expects-inflation-to-remain-in-5-6-range-in-january"
-      },
-      {
-        "title": "Margot Robbie celebrates ‘Wuthering Heights' character with playful party",
-        "link": "https://www.geo.tv/latest/647522-margot-robbie-celebrates-wuthering-heights-character-with-playful-party"
-      },
-      {
-        "title": "Ryan Wedding, former Olympian pleads not guilty to drug ring charges: What was his defense?",
-        "link": "https://www.geo.tv/latest/647513-former-olympian-ryan-wedding-pleads-not-guilty-to-drug-ring-charges"
-      },
-      {
-        "title": "PTI voices concern over reports of Imran Khan's 'serious' eye ailment",
-        "link": "https://www.geo.tv/latest/647508-pti-voices-concern-over-reports-of-imran-khans-serious-eye-ailment"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-27 14:48 UTC"
+  "last_updated": "2026-01-27 15:17 UTC"
 }
