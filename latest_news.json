@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Trump to pitch affordability amid outrage over protest killings",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-trump-to-pitch-affordability-amid-outrage-over-protest-killings?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Meet Hamza Al-Rubaie, one of Gaza’s 17,000 orphaned children",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/meet-hamza-al-rubaie-one-of-gazas-17000-orphaned-children?traffic_source=rss"
+      },
+      {
         "title": "‘Mother of all deals’: How India-EU trade deal creates $27 trillion market",
         "link": "https://www.aljazeera.com/economy/2026/1/27/mother-of-all-deals-how-india-eu-trade-deal-creates-27-trillion-market?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Trump’s ‘Board of Peace’ puts rights abusers in charge of global order",
         "link": "https://www.aljazeera.com/opinions/2026/1/27/trumps-board-of-peace-puts-rights-abusers-in-charge-of-global-order?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Trump to pitch affordability amid outrage over protest killings",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-trump-to-pitch-affordability-amid-outrage-over-protest-killings?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,12 +93,12 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Judge Orders ICE Chief to Appear in Court Over Potential Contempt",
-        "link": "https://www.nytimes.com/2026/01/27/us/politics/ice-director-minnesota-contempt.html"
-      },
-      {
         "title": "After Alex Pretti’s Killing, A Divided America Wonders What’s Next",
         "link": "https://www.nytimes.com/2026/01/27/us/alex-pretti-shooting-minneapolis-reaction.html"
+      },
+      {
+        "title": "Florida Republican Says Immigration Crackdown Has ‘Gone Too Far’",
+        "link": "https://www.nytimes.com/2026/01/27/us/florida-republican-says-immigration-crackdown-has-gone-too-far.html"
       },
       {
         "title": "Trump Changes Course in Minneapolis, and Social Media Giants Face Big Tobacco-Style Lawsuits",
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Scottish court approves legal challenge to UK's Palestine Action ban",
+        "link": "https://www.middleeasteye.net/news/court-approves-scottish-legal-challenge-palestine-action-ban"
+      },
+      {
         "title": "Last Palestine Action hunger striker ends protest following organ failure",
         "link": "https://www.middleeasteye.net/news/final-palestine-action-hunger-striker-ends-protest-following-organ-failure"
       },
@@ -135,13 +133,17 @@
       {
         "title": "Australia cancels visa of British-Israeli influencer for 'spreading hatred'",
         "link": "https://www.middleeasteye.net/news/australia-cancels-visa-israeli-influencer-spreading-hatred"
-      },
-      {
-        "title": "Mukaab: Saudi Arabia suspends construction of controversial cube structure",
-        "link": "https://www.middleeasteye.net/news/mukaab-saudi-arabia-suspends-construction-controversial-cube-structure"
       }
     ],
     "GeoTV": [
+      {
+        "title": "‘Doomsday Clock' moves closer to midnight, a year into Trump term",
+        "link": "https://www.geo.tv/latest/647537-doomsday-clock-moves-closer-to-midnight-a-year-into-trump-term"
+      },
+      {
+        "title": "Oscar frontrunner ‘Sinners' misses top spot at BAFTA nominations 2026",
+        "link": "https://www.geo.tv/latest/647536-oscar-frontrunner-sinners-misses-top-spot-at-bafta-nominations-2026"
+      },
       {
         "title": "Federal Constitutional Court upholds super tax",
         "link": "https://www.geo.tv/latest/647526-federal-constitutional-court-upholds-super-tax"
@@ -153,14 +155,6 @@
       {
         "title": "Billie Eilish criticises 'fellow celebs' who remain silent on ICE",
         "link": "https://www.geo.tv/latest/647535-billie-eilish-criticises-fellow-celebs-who-remain-silent-on-ice"
-      },
-      {
-        "title": "‘Heated Rivalry' teases fans with special episode before season 2",
-        "link": "https://www.geo.tv/latest/647530-heated-rivalry-teases-fans-with-special-episode-before-season-2"
-      },
-      {
-        "title": "Iran's rial hits new low after unrest sparked by economic crisis",
-        "link": "https://www.geo.tv/latest/647528-irans-rial-hits-new-low-after-unrest-sparked-by-economic-crisis"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-27 15:47 UTC"
+  "last_updated": "2026-01-27 16:01 UTC"
 }
