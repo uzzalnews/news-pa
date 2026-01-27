@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: US, Iran ratchet up rhetoric as ‘big armada’ forms in the Middle East",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-us-iran-ratchet-up-rhetoric-as-big-armada-forms-in-the-middle-east?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -21,8 +15,8 @@
         "link": "https://www.bbc.com/news/articles/ce3e53e34klo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "NI to become first in the UK to introduce graduated driving licences",
-        "link": "https://www.bbc.com/news/articles/cew87q890pyo?at_medium=RSS&at_campaign=rss"
+        "title": "Cap for ground rent in England and Wales announced",
+        "link": "https://www.bbc.com/news/articles/cdjn7jdvn7no?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Menopause linked to Alzheimer's-like brain changes",
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Ceremony for last Israeli captive returned from Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/ceremony-for-last-israeli-captive-returned-from-gaza?traffic_source=rss"
+      },
+      {
+        "title": "French MPs approve law seeking ban on social media for children below 15",
+        "link": "https://www.aljazeera.com/news/2026/1/27/french-mps-approve-law-seeking-ban-on-social-media-for-children-below-15?traffic_source=rss"
+      },
+      {
+        "title": "Sabalenka sweeps aside teen sensation Jovic to enter Australian Open semis",
+        "link": "https://www.aljazeera.com/sports/2026/1/27/sabalenka-sweeps-aside-teen-sensation-jovic-to-enter-australian-open-semis?traffic_source=rss"
+      },
+      {
         "title": "US dollar: ‘Wounded hegemon’ or secure as most powerful currency on earth?",
         "link": "https://www.aljazeera.com/news/2026/1/27/us-dollar-wounded-hegemon-or-secure-as-most-powerful-currency-on-earth?traffic_source=rss"
       },
       {
         "title": "Who is Iraq’s former leader Nouri al-Maliki?",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/who-is-iraqs-former-leader-nouri-al-maliki?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: US, Iran ratchet up rhetoric as ‘big armada’ forms in the Middle East",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-us-iran-ratchet-up-rhetoric-as-big-armada-forms-in-the-middle-east?traffic_source=rss"
-      },
-      {
-        "title": "Trump’s approval on immigration falls to record low, new poll finds",
-        "link": "https://www.aljazeera.com/news/2026/1/27/trumps-approval-on-immigration-falls-to-record-low-new-poll-finds?traffic_source=rss"
-      },
-      {
-        "title": "Australia cancels visa of Israeli influencer accused of ‘spreading hatred’",
-        "link": "https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -88,12 +82,12 @@
         "link": "https://www.dawn.com/news/1969338/2-killed-10-injured-in-accident-on-islamabad-peshawar-motorway"
       },
       {
-        "title": "Pakistan, Ghana hold first formal bilateral talks; reaffirm commitment to strengthen ties",
-        "link": "https://www.dawn.com/news/1969346/pakistan-ghana-hold-first-formal-bilateral-talks-reaffirm-commitment-to-strengthen-ties"
+        "title": "KSE-100 slips during intraday trading to 188,00 points",
+        "link": "https://www.dawn.com/news/1969347/kse-100-slips-during-intraday-trading-to-18800-points"
       },
       {
-        "title": "Extreme cold grips millions as US digs out of deadly snowstorm",
-        "link": "https://www.dawn.com/news/1969339/extreme-cold-grips-millions-as-us-digs-out-of-deadly-snowstorm"
+        "title": "Pakistan, Ghana hold first formal bilateral talks; reaffirm commitment to strengthen ties",
+        "link": "https://www.dawn.com/news/1969346/pakistan-ghana-hold-first-formal-bilateral-talks-reaffirm-commitment-to-strengthen-ties"
       }
     ],
     "APNews": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel kills TV presenter, two others in Lebanon",
+        "link": "https://www.middleeasteye.net/news/israel-kills-tv-presenter-two-others-lebanon"
+      },
+      {
         "title": "Why did Egypt's January uprising fail, and what remains of it?",
         "link": "https://www.middleeasteye.net/opinion/why-did-egypts-january-uprising-fail-and-what-remains-it"
       },
@@ -135,13 +133,13 @@
       {
         "title": "US weighs 'precision strikes' on Iranian officials as military build-up surges, sources say",
         "link": "https://www.middleeasteye.net/news/us-weighs-precision-strikes-iranian-officials-military-build-surges-sources"
-      },
-      {
-        "title": "Exclusive: Syria's president reaches out to Kobane's Kurds after SDF leader rattles US envoy",
-        "link": "https://www.middleeasteye.net/news/syria-ahmed-al-sharaa-reaches-out-kobane-kurds-after-sdf-leader-rattles-us-envoy"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Victoria, David Beckham replace Brooklyn, Nicola with two new members?",
+        "link": "https://www.geo.tv/latest/647446-victoria-david-beckham-replace-brooklyn-nicola-with-two-new-members"
+      },
       {
         "title": "Greg Bovino to leave Minneapolis in ICE leadership shake-up",
         "link": "https://www.geo.tv/latest/647451-greg-bovino-to-leave-minneapolis-in-ice-leadership-shake-up"
@@ -157,10 +155,6 @@
       {
         "title": "Prince Harry team makes exciting announcement after King Charles bold move",
         "link": "https://www.geo.tv/latest/647440-prince-harry-team-makes-exciting-announcement-after-king-charles-bold-move"
-      },
-      {
-        "title": "'Police shortage in Karachi' may have led to MQM-P security withdrawal",
-        "link": "https://www.geo.tv/latest/647438-police-shortage-in-karachi-may-have-led-to-mqm-p-security-withdrawal"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-27 07:45 UTC"
+  "last_updated": "2026-01-27 07:58 UTC"
 }
