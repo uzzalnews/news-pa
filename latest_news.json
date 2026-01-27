@@ -1,14 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: US, Iran ratchet up rhetoric as ‘big armada’ forms in the Middle East",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-us-iran-ratchet-up-rhetoric-as-big-armada-forms-in-the-middle-east?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Fifty Labour MPs sign letter objecting to Burnham decision",
-        "link": "https://www.bbc.com/news/articles/ce3e53e34klo?at_medium=RSS&at_campaign=rss"
+        "title": "Immigration chief at centre of Trump's crackdown set to leave Minneapolis",
+        "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Immigration chief at centre of Trump's crackdown departing Minneapolis",
-        "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss"
+        "title": "Fifty Labour MPs sign letter objecting to Burnham decision",
+        "link": "https://www.bbc.com/news/articles/ce3e53e34klo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "I accused a police officer of rape, but I ended up on trial",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "US dollar: ‘Wounded hegemon’ or secure as most powerful currency on earth?",
+        "link": "https://www.aljazeera.com/news/2026/1/27/us-dollar-wounded-hegemon-or-secure-as-most-powerful-currency-on-earth?traffic_source=rss"
+      },
+      {
+        "title": "Who is Iraq’s former leader Nouri al-Maliki?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/who-is-iraqs-former-leader-nouri-al-maliki?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: US, Iran ratchet up rhetoric as ‘big armada’ forms in the Middle East",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/27/live-us-iran-ratchet-up-rhetoric-as-big-armada-forms-in-the-middle-east?traffic_source=rss"
+      },
+      {
         "title": "Trump’s approval on immigration falls to record low, new poll finds",
         "link": "https://www.aljazeera.com/news/2026/1/27/trumps-approval-on-immigration-falls-to-record-low-new-poll-finds?traffic_source=rss"
       },
       {
         "title": "Australia cancels visa of Israeli influencer accused of ‘spreading hatred’",
         "link": "https://www.aljazeera.com/news/2026/1/27/australia-cancels-visa-of-israeli-influencer-accused-of-spreading-hatred?traffic_source=rss"
-      },
-      {
-        "title": "‘Frightening situation’: Bangladesh elections haunted by political violence",
-        "link": "https://www.aljazeera.com/features/2026/1/27/fear-and-hope-in-bangladesh-how-political-violence-is-haunting-elections?traffic_source=rss"
-      },
-      {
-        "title": "Lives on hold for two years: Hope, fear stuck behind Gaza’s Rafah crossing",
-        "link": "https://www.aljazeera.com/news/2026/1/27/lives-on-hold-for-two-years-some-hope-stuck-behind-gazas-rafah-crossing?traffic_source=rss"
-      },
-      {
-        "title": "TV presenter killed in Israeli strike in southern Lebanon: Hezbollah",
-        "link": "https://www.aljazeera.com/news/2026/1/27/tv-presenter-killed-in-israeli-strike-in-southern-lebanon-hezbollah?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,10 +76,6 @@
     ],
     "Dawn": [
       {
-        "title": "Opposition chalks out plans for Feb 8 protest",
-        "link": "https://www.dawn.com/news/1969299/opposition-chalks-out-plans-for-feb-8-protest"
-      },
-      {
         "title": "Westerly wave to persist until tomorrow, says NWFC; northern areas experience below-freezing temperatures",
         "link": "https://www.dawn.com/news/1969344/westerly-wave-to-persist-until-tomorrow-says-nwfc-northern-areas-experience-below-freezing-temperatures"
       },
@@ -88,6 +90,10 @@
       {
         "title": "European countries including UK lose measles elimination status",
         "link": "https://www.dawn.com/news/1969341/european-countries-including-uk-lose-measles-elimination-status"
+      },
+      {
+        "title": "UK’s ex-chancellor sparks controversy by ‘opposing entry of his own parents’",
+        "link": "https://www.dawn.com/news/1969289/uks-ex-chancellor-sparks-controversy-by-opposing-entry-of-his-own-parents"
       }
     ],
     "APNews": [],
@@ -95,6 +101,10 @@
       {
         "title": "How The New York Times Investigated Videos of ICE Agents Killing Alex Pretti",
         "link": "https://www.nytimes.com/2026/01/26/insider/minneapolis-ice-shooting-videos-investigation.html"
+      },
+      {
+        "title": "White House Distances Trump From Initial Response to Minnesota Killing",
+        "link": "https://www.nytimes.com/2026/01/26/us/politics/trump-minneapolis-nurse-shooting-video.html"
       },
       {
         "title": "Winter Storm Debilitates the South, Encasing Cities in Ice and Snow",
@@ -107,10 +117,6 @@
       {
         "title": "How Does Climate Change Affect Winter Storms?",
         "link": "https://www.nytimes.com/2026/01/26/weather/winter-storm-climate-change-snow.html"
-      },
-      {
-        "title": "Winter Storm Linked to at Least 22 Deaths in the US",
-        "link": "https://www.nytimes.com/2026/01/26/weather/winter-storm-death-toll-snow.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
+        "title": "'Police shortage in Karachi' may have led to MQM-P security withdrawal",
+        "link": "https://www.geo.tv/latest/647438-police-shortage-in-karachi-may-have-led-to-mqm-p-security-withdrawal"
+      },
+      {
+        "title": "U19 World Cup: Pakistan win toss, bowl first against New Zealand",
+        "link": "https://www.geo.tv/latest/647441-u19-world-cup-pakistan-win-toss-bowl-first-against-new-zealand"
+      },
+      {
+        "title": "Who was Sly Dunbar? Inside the legacy of the iconic Jamaican drummer",
+        "link": "https://www.geo.tv/latest/647437-who-was-sly-dunbar-inside-the-legacy-of-the-iconic-jamaican-drummer"
+      },
+      {
+        "title": "‘SNL' star Marcello Hernández says no to Sabrina Carpenter romance buzz",
+        "link": "https://www.geo.tv/latest/647434-snl-star-marcello-hernndez-says-no-to-sabrina-carpenter-romance-buzz"
+      },
+      {
         "title": "Govt approves rebasing National Accounts to 2025-26",
         "link": "https://www.geo.tv/latest/647433-govt-approves-rebasing-national-accounts-to-2025-26"
-      },
-      {
-        "title": "Sindh schools receive new direction after Gul Plaza tragedy",
-        "link": "https://www.geo.tv/latest/647432-sindh-schools-receive-new-direction-after-gul-plaza-tragedy"
-      },
-      {
-        "title": "‘The Kelly Clarkson Show' issues statement amid cancellation rumours",
-        "link": "https://www.geo.tv/latest/647424-the-kelly-clarkson-show-issues-statement-amid-cancellation-rumours"
-      },
-      {
-        "title": "FBR abolishes role of local agents in assessing duties, taxes on vehicles' import",
-        "link": "https://www.geo.tv/latest/647428-millions-across-us-dig-out-of-snowstorm-forecast-warn-of-below-freezing-temperatures-till-feb-1"
-      },
-      {
-        "title": "ICC rejects T20 World Cup accreditation bids from Bangladeshi journalists",
-        "link": "https://www.geo.tv/latest/647426-icc-rejects-t20-world-cup-accreditation-bids-from-bangladeshi-journalists"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-27 06:51 UTC"
+  "last_updated": "2026-01-27 07:19 UTC"
 }
