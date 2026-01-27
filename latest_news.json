@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Prime minister flies to China for three-day visit",
+        "link": "https://www.bbc.com/news/articles/cy8p2re7gj5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Storm Chandra brings heavy rain, flooding and travel disruption to UK",
         "link": "https://www.bbc.com/news/articles/cy8p2yey0gdo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,10 +21,6 @@
       {
         "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
         "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "UK has removed 281 migrants under France deal, minister says",
-        "link": "https://www.bbc.com/news/articles/cn56pkdl6lvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
@@ -159,24 +159,24 @@
     ],
     "NDTV": [
       {
+        "title": "Inequality On Rise, Welfare In Retreat: Congress Slams Government",
+        "link": "https://www.ndtv.com/india-news/inequality-on-rise-welfare-in-retreat-congress-slams-government-10896587#publisher=newsstand"
+      },
+      {
+        "title": "Trump Says \"Cuba Will Be Failing Pretty Soon\"",
+        "link": "https://www.ndtv.com/world-news/trump-says-cuba-will-be-failing-pretty-soon-10896560#publisher=newsstand"
+      },
+      {
+        "title": "Trump Says Will 'De-Escalate A Little Bit' In Minneapolis",
+        "link": "https://www.ndtv.com/world-news/donald-trump-says-will-de-escalate-a-little-bit-in-minneapolis-10896523#publisher=newsstand"
+      },
+      {
         "title": "One Injured In Shooting Involving US Border Patrol In Arizona",
         "link": "https://www.ndtv.com/world-news/one-injured-in-shooting-involving-us-border-patrol-in-arizona-10896396#publisher=newsstand"
       },
       {
         "title": "US Says Taking First Steps To Possibly Reopen Embassy In Venezuela",
         "link": "https://www.ndtv.com/world-news/us-says-taking-first-steps-to-possibly-reopen-embassy-in-venezuela-10896353#publisher=newsstand"
-      },
-      {
-        "title": "Netanyahu Says Israel Focusing On Disarming Hamas, Demilitarising Gaza",
-        "link": "https://www.ndtv.com/world-news/benjamin-netanyahu-says-israel-focusing-on-disarming-hamas-demilitarising-gaza-10896338#publisher=newsstand"
-      },
-      {
-        "title": "Iran Warns Against \"Instability\" After US Strike Group Arrives",
-        "link": "https://www.ndtv.com/world-news/iran-warns-against-instability-after-us-strike-group-arrives-10896319#publisher=newsstand"
-      },
-      {
-        "title": "IndiGo Flights To Tbilisi, Almaty, Tashkent, Baku Now Cancelled Till Feb 11",
-        "link": "https://www.ndtv.com/world-news/indigo-flights-to-tbilisi-almaty-tashkent-baku-now-cancelled-till-feb-11-10896278#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-27 22:32 UTC"
+  "last_updated": "2026-01-27 22:50 UTC"
 }
