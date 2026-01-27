@@ -1,7 +1,21 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "India-EU Summit 2026 LIVE: PM Modi Hails India-EU Trade Pact As \"Mother Of All Deals\"",
+      "link": "https://www.ndtv.com/world-news/india-eu-summit-2026-live-updates-india-eu-trade-deal-free-trade-agreement-talks-conclude-10890614#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Ground rents to be capped at £250 a year for leaseholders",
+        "link": "https://www.bbc.com/news/articles/cdjn7jdvn7no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Weather presenter Carol Kirkwood to leave BBC",
+        "link": "https://www.bbc.com/news/articles/cedwp8w1j24o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Immigration chief at centre of Trump's crackdown set to leave Minneapolis",
         "link": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss"
@@ -13,36 +27,28 @@
       {
         "title": "Fifty Labour MPs sign letter objecting to Burnham decision",
         "link": "https://www.bbc.com/news/articles/ce3e53e34klo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Cap for ground rent in England and Wales announced",
-        "link": "https://www.bbc.com/news/articles/cdjn7jdvn7no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Menopause linked to Alzheimer's-like brain changes",
-        "link": "https://www.bbc.com/news/articles/c9qpp1g5ylvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Minnesota candidate bows out over Republican response to Pretti shooting",
+        "link": "https://www.aljazeera.com/news/2026/1/27/minnesota-candidate-bows-out-over-republican-response-to-pretti-shooting?traffic_source=rss"
+      },
+      {
+        "title": "Syrian army offensive overjoys some, leaves others with ‘existential’ fear",
+        "link": "https://www.aljazeera.com/features/2026/1/27/syrian-army-offensive-overjoys-some-leaves-others-with-existential-fear?traffic_source=rss"
+      },
+      {
+        "title": "How private AI tech is reshaping warfare",
+        "link": "https://www.aljazeera.com/video/digital-dilemma/2026/1/27/how-private-ai-tech-is-reshaping-warfare?traffic_source=rss"
+      },
+      {
+        "title": "Health professionals pay tribute to Alex Pretti",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/health-professionals-pay-tribute-to-alex-pretti?traffic_source=rss"
+      },
+      {
         "title": "Ceremony for last Israeli captive returned from Gaza",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/ceremony-for-last-israeli-captive-returned-from-gaza?traffic_source=rss"
-      },
-      {
-        "title": "French MPs approve law seeking ban on social media for children below 15",
-        "link": "https://www.aljazeera.com/news/2026/1/27/french-mps-approve-law-seeking-ban-on-social-media-for-children-below-15?traffic_source=rss"
-      },
-      {
-        "title": "Sabalenka sweeps aside teen sensation Jovic to enter Australian Open semis",
-        "link": "https://www.aljazeera.com/sports/2026/1/27/sabalenka-sweeps-aside-teen-sensation-jovic-to-enter-australian-open-semis?traffic_source=rss"
-      },
-      {
-        "title": "US dollar: ‘Wounded hegemon’ or secure as most powerful currency on earth?",
-        "link": "https://www.aljazeera.com/news/2026/1/27/us-dollar-wounded-hegemon-or-secure-as-most-powerful-currency-on-earth?traffic_source=rss"
-      },
-      {
-        "title": "Who is Iraq’s former leader Nouri al-Maliki?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/who-is-iraqs-former-leader-nouri-al-maliki?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,20 +76,20 @@
     ],
     "Dawn": [
       {
-        "title": "‘Mother of all deals’: India, EU finalise landmark trade deal, PM Modi says",
-        "link": "https://www.dawn.com/news/1969348/mother-of-all-deals-india-eu-finalise-landmark-trade-deal-pm-modi-says"
-      },
-      {
         "title": "Westerly wave to persist until tomorrow, says NWFC; northern areas experience below-freezing temperatures",
         "link": "https://www.dawn.com/news/1969344/westerly-wave-to-persist-until-tomorrow-says-nwfc-northern-areas-experience-below-freezing-temperatures"
+      },
+      {
+        "title": "‘Mother of all deals’: India, EU finalise landmark trade deal, PM Modi says",
+        "link": "https://www.dawn.com/news/1969348/mother-of-all-deals-india-eu-finalise-landmark-trade-deal-pm-modi-says"
       },
       {
         "title": "2 killed, 10 injured in accident on Islamabad-Peshawar Motorway",
         "link": "https://www.dawn.com/news/1969338/2-killed-10-injured-in-accident-on-islamabad-peshawar-motorway"
       },
       {
-        "title": "KSE-100 slips during intraday trading to 188,00 points",
-        "link": "https://www.dawn.com/news/1969347/kse-100-slips-during-intraday-trading-to-18800-points"
+        "title": "KSE-100 slips during intraday trading to 188,000 points",
+        "link": "https://www.dawn.com/news/1969347/kse-100-slips-during-intraday-trading-to-188000-points"
       },
       {
         "title": "Pakistan, Ghana hold first formal bilateral talks; reaffirm commitment to strengthen ties",
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Victoria, David Beckham replace Brooklyn, Nicola with two new members?",
-        "link": "https://www.geo.tv/latest/647446-victoria-david-beckham-replace-brooklyn-nicola-with-two-new-members"
+        "title": "Harry Styles receives backlash over insane 'Together, Together' ticket prices",
+        "link": "https://www.geo.tv/latest/647452-harry-styles-receives-backlash-over-insane-together-together-ticket-prices"
       },
       {
-        "title": "Greg Bovino to leave Minneapolis in ICE leadership shake-up",
-        "link": "https://www.geo.tv/latest/647451-greg-bovino-to-leave-minneapolis-in-ice-leadership-shake-up"
+        "title": "'American Idol' 2026 returns with a bang: Here's everything to know about Season 24",
+        "link": "https://www.geo.tv/latest/647455-american-idol-2026-returns-with-a-bang-heres-every-detail"
       },
       {
-        "title": "Princess Charlotte's launch into royal duties ‘in discussion'",
-        "link": "https://www.geo.tv/latest/647448-princess-charlottes-launch-into-royal-duties-in-discussion"
+        "title": "EU, India agree 'mother of all' trade deals",
+        "link": "https://www.geo.tv/latest/647459-eu-india-agree-mother-of-all-trade-deals"
       },
       {
-        "title": "'The Last of Us' star drops major update about season 3",
-        "link": "https://www.geo.tv/latest/647439-the-last-of-us-star-drops-major-update-about-season-3"
+        "title": "Sindh reports first rabies death of 2026 after 8-year-old dies",
+        "link": "https://www.geo.tv/latest/647454-sindh-reports-first-rabies-death-of-2026-after-8-year-old-dies"
       },
       {
-        "title": "Prince Harry team makes exciting announcement after King Charles bold move",
-        "link": "https://www.geo.tv/latest/647440-prince-harry-team-makes-exciting-announcement-after-king-charles-bold-move"
+        "title": "Mountain lion spotted in San Francisco's Pacific Heights, authorities urge caution",
+        "link": "https://www.geo.tv/latest/647460-mountain-lion-spotted-in-san-franciscos-pacific-heights-authorities-urge-caution"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Co-Founders Pledged To Donate 80% Of Our Wealth\": Anthropic CEO Dario Amodei",
-        "link": "https://www.ndtv.com/world-news/co-founders-pledged-to-donate-80-of-our-wealth-anthropic-ceo-dario-amodei-10890858#publisher=newsstand"
+        "title": "India-EU Seal Historic Trade Deal Amid Global Turmoil. Why It Matters",
+        "link": "https://www.ndtv.com/world-news/india-eu-to-seal-historic-trade-deal-amid-global-turmoil-why-it-matters-10891312#publisher=newsstand"
       },
       {
-        "title": "50 Carcasses Of Migratory Birds Found In Assam District, Poisoning Suspected",
-        "link": "https://www.ndtv.com/india-news/50-carcasses-of-migratory-birds-found-in-assams-majuli-district-poisoning-suspected-10891191#publisher=newsstand"
+        "title": "Fought Over Lighter, Bengaluru Man Hangs On Friend's Car, Dies After Crash",
+        "link": "https://www.ndtv.com/bangalore-news/fought-over-lighter-bengaluru-man-hangs-on-friends-car-dies-after-crashing-into-tree-10891486#publisher=newsstand"
       },
       {
-        "title": "India-EU \"Mother Of All Deals\" Will Boost Manufacturing, Support Services: PM Modi",
-        "link": "https://www.ndtv.com/india-news/india-eu-agreement-being-called-mother-of-all-deals-pm-modi-10890822#publisher=newsstand"
+        "title": "22-Year-Old Andhra Engineering Student Saves 6 Lives Through Organ Donation",
+        "link": "https://www.ndtv.com/andhra-pradesh-news/22-year-old-andhra-pradesh-engineering-student-saves-6-lives-through-organ-donation-10891634#publisher=newsstand"
       },
       {
-        "title": "Who Was Ran Gvili, 24-Year-Old Cop & Last Israeli Hostage To Return From Gaza",
-        "link": "https://www.ndtv.com/world-news/who-was-ran-gvili-24-year-old-cop-and-last-israeli-hostage-to-return-from-gaza-10891140#publisher=newsstand"
+        "title": "India-EU Summit 2026 LIVE: PM Modi Hails India-EU Trade Pact As \"Mother Of All Deals\"",
+        "link": "https://www.ndtv.com/world-news/india-eu-summit-2026-live-updates-india-eu-trade-deal-free-trade-agreement-talks-conclude-10890614#publisher=newsstand"
       },
       {
-        "title": "Son Of Jharkhand Industrialist, Kidnapped On January 13, Recovered Safely",
-        "link": "https://www.ndtv.com/india-news/kairav-gandhi-son-of-jharkhand-industrialist-devang-gandhi-kidnapped-on-january-13-recovered-safely-10890604#publisher=newsstand"
+        "title": "Limits On ICE Agents In Minnesota Blocked By US Appeals Court",
+        "link": "https://www.ndtv.com/world-news/limits-on-ice-agents-in-minnesota-blocked-by-us-appeals-court-10891441#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-27 07:58 UTC"
+  "last_updated": "2026-01-27 08:44 UTC"
 }
