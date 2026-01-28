@@ -1,11 +1,13 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Gaza ‘desperate’ as Israel aid blocks hit children hardest, UN says",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-rafah-crossing-reopens-as-israel-keeps-launching-deadly-attacks-on-gaza?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
-      {
-        "title": "Starmer heads to Beijing with business leaders as UK seeks to reboot China relationship",
-        "link": "https://www.bbc.com/news/articles/cy8p2re7gj5o?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
         "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss"
@@ -15,15 +17,31 @@
         "link": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Storm Chandra brings heavy rain, flooding and travel disruption to UK",
+        "title": "Storm Chandra brings second day of flooding and travel disruption",
         "link": "https://www.bbc.com/news/articles/cy8p2yey0gdo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "EasyJet warned over 'misleading' £5.99 cabin bag fee",
         "link": "https://www.bbc.com/news/articles/cddgp9jgjz1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five prisoners serving indefinite sentences to be referred to Court of Appeal",
+        "link": "https://www.bbc.com/news/articles/c89q3keee79o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "South Korea’s former first lady sentenced to jail term in bribery case",
+        "link": "https://www.aljazeera.com/news/2026/1/28/south-koreas-former-first-lady-sentenced-to-jail-term-in-bribery-case?traffic_source=rss"
+      },
+      {
+        "title": "US congresswoman Ilhan Omar sprayed with liquid at town hall meeting",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/us-congresswoman-ilhan-omar-sprayed-with-liquid-at-town-hall-meeting?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Gaza ‘desperate’ as Israel aid blocks hit children hardest, UN says",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-rafah-crossing-reopens-as-israel-keeps-launching-deadly-attacks-on-gaza?traffic_source=rss"
+      },
       {
         "title": "As Western powers crack down on migrants, Spain embraces 500,000",
         "link": "https://www.aljazeera.com/news/2026/1/28/as-western-powers-crack-down-on-migrants-spain-embraces-500000?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "One family’s daily struggle reflects alarming food shortages in Yemen",
         "link": "https://www.aljazeera.com/features/2026/1/28/one-familys-struggle-aid-agencies-warn-of-alarming-food-shortages-in-yemen?traffic_source=rss"
-      },
-      {
-        "title": "Trump promises to ‘de-escalate’ Minnesota crisis after Alex Pretti shooting",
-        "link": "https://www.aljazeera.com/news/2026/1/28/trump-promises-to-de-escalate-minnesota-crisis-after-alex-pretti-shooting?traffic_source=rss"
-      },
-      {
-        "title": "India curbs ‘grocery under 10 minutes’. But riders must still fatally race",
-        "link": "https://www.aljazeera.com/features/2026/1/28/india-curbs-grocery-under-10-minutes-but-riders-must-still-fatally-race?traffic_source=rss"
-      },
-      {
-        "title": "Plane crash kills prominent Indian politician Ajit Pawar",
-        "link": "https://www.aljazeera.com/news/2026/1/28/plane-crash-kills-prominent-indian-politician-ajit-pawar?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
-        "title": "Joe Alwyn celebrates as Taylor Swift sends Travis Kelce wedding invites",
-        "link": "https://www.geo.tv/latest/647634-joe-alwyn-celebrates-as-taylor-swift-sends-travis-kelce-wedding-invites"
+        "title": "Japan-born pandas Xiao Xiao and Lei Lei arrive home in China's Sichuan",
+        "link": "https://www.geo.tv/latest/647639-japan-born-pandas-xiao-xiao-and-lei-lei-arrive-home-in-chinas-sichuan"
       },
       {
-        "title": "Tom Cruise makes Ethan Hawke 'angry': Here's why!",
-        "link": "https://www.geo.tv/latest/647630-tom-cruise-makes-ethan-hawke-angry-heres-why"
+        "title": "Jacob Elordi admits having self-doubts when cast in 'Wuthering Heights'",
+        "link": "https://www.geo.tv/latest/647635-jacob-elordi-admits-having-self-doubts-when-cast-in-wuthering-heights"
       },
       {
-        "title": "80-year-old man killed in another deadly Karachi fire",
-        "link": "https://www.geo.tv/latest/647623-80-year-old-man-killed-in"
+        "title": "Sydney Sweeney accused of stealing trademark amid brand launch",
+        "link": "https://www.geo.tv/latest/647626-sydney-sweeney-accused-of-stealing-trademark-amid-brand-launch"
       },
       {
-        "title": "PCB announces major update for players ahead of PSL 11",
-        "link": "https://www.geo.tv/latest/647628-pcb-announces-major-update-for-players-ahead-of-psl-11"
+        "title": "Novak Djokovic argues with umpire over warning at Australian Open",
+        "link": "https://www.geo.tv/latest/647632-novak-djokovic-argues-with-umpire-over-warning-at-australian-open"
       },
       {
-        "title": "Amazon announces closure of fresh grocery stores amid renewed focus on online delivery",
-        "link": "https://www.geo.tv/latest/647631-amazon-to-shut-amazon-go-amazon-fresh-stores-focus-on-online-grocery"
+        "title": "Kate Middleton responds to Prince Harry's cry for help: Watch",
+        "link": "https://www.geo.tv/latest/647638-kate-middleton-responds-to-prince-harrys-cry-for-help-watch"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-28 07:04 UTC"
+  "last_updated": "2026-01-28 07:37 UTC"
 }
