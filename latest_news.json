@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Benfica vs Real Madrid – UEFA Champions League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/28/live-benfica-vs-real-madrid-uefa-champions-league-coverage-commentary-stream?traffic_source=rss"
+    },
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Iran says it will ‘respond like never before’ after Trump’s threats",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-iran-says-it-will-respond-like-never-before-after-trumps-threats?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +36,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "March to honour Cuban national hero expresses solidarity against Trump",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/march-to-honour-cuban-national-hero-expresses-solidarity-against-trump?traffic_source=rss"
+        "title": "Trump says US ready to attack Iran with ‘speed and violence’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/trump-says-us-ready-to-attack-iran-with-speed-and?traffic_source=rss"
       },
       {
-        "title": "Israel’s phase one Gaza ceasefire violations",
-        "link": "https://www.aljazeera.com/video/birds-eye-view/2026/1/28/israels-phase-one-gaza-ceasefire-violations?traffic_source=rss"
+        "title": "Rubio testifies before US Senate on abduction of Venezuela’s Maduro",
+        "link": "https://www.aljazeera.com/news/2026/1/28/rubio-testifies-before-us-senate-on-abduction-of-venezuelas-maduro?traffic_source=rss"
       },
       {
-        "title": "Al-Sharaa meets Putin as Russia seeks to secure military bases in Syria",
-        "link": "https://www.aljazeera.com/news/2026/1/28/syrias-al-sharaa-discusses-fate-of-russian-military-bases-with-putin?traffic_source=rss"
+        "title": "LIVE: Benfica vs Real Madrid – UEFA Champions League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/28/live-benfica-vs-real-madrid-uefa-champions-league-coverage-commentary-stream?traffic_source=rss"
       },
       {
-        "title": "What we know about plane crash that killed Ajit Pawar",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/what-we-know-about-plane-crash-that-killed-ajit-pawar?traffic_source=rss"
+        "title": "UK police to use AI facial recognition tech linked to Israel’s war on Gaza",
+        "link": "https://www.aljazeera.com/news/2026/1/28/uk-police-to-use-ai-facial-recognition-tech-linked-to-israels-war-on-gaza?traffic_source=rss"
       },
       {
-        "title": "China pitches itself as a reliable partner as Trump alienates US allies",
-        "link": "https://www.aljazeera.com/news/2026/1/28/china-pitches-itself-as-a-reliable-partner-as-trump-alienates-us-allies?traffic_source=rss"
+        "title": "LIVE: Iran says it will ‘respond like never before’ after Trump’s threats",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-iran-says-it-will-respond-like-never-before-after-trumps-threats?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +93,12 @@
         "link": "https://www.dawn.com/news/1969532/governor-kundi-blames-barrage-of-statements-by-kp-govt-for-tirah-exodus"
       },
       {
-        "title": "Trump threatens Iran over nuclear talks, says ‘time is running out’",
-        "link": "https://www.dawn.com/news/1969541/trump-threatens-iran-over-nuclear-talks-says-time-is-running-out"
+        "title": "President Zardari, UAE vice president discuss economic, trade ties",
+        "link": "https://www.dawn.com/news/1969547/president-zardari-uae-vice-president-discuss-economic-trade-ties"
       },
       {
-        "title": "PTI demands meeting between Imran and his family amid reports of ex-premier being taken to hospital",
-        "link": "https://www.dawn.com/news/1969537/pti-demands-meeting-between-imran-and-his-family-amid-reports-of-ex-premier-being-taken-to-hospital"
+        "title": "Trump threatens Iran over nuclear talks, says ‘time is running out’",
+        "link": "https://www.dawn.com/news/1969541/trump-threatens-iran-over-nuclear-talks-says-time-is-running-out"
       }
     ],
     "APNews": [],
@@ -101,19 +112,23 @@
         "link": "https://www.nytimes.com/2026/01/28/us/stephen-miller-alex-pretti-shooting.html"
       },
       {
-        "title": "Democrats Push to Impeach Kristi Noem, and Ilhan Omar Is Attacked in Minneapolis",
-        "link": "https://www.nytimes.com/2026/01/28/podcasts/the-headlines/democrats-impeach-noem-ilhan-omar-attacked.html"
-      },
-      {
         "title": "Fed Meeting Comes at Pivotal Moment for Central Bank’s Independence",
         "link": "https://www.nytimes.com/2026/01/28/business/economy/fed-trump-powell-interest-rates.html"
       },
       {
         "title": "A Municipal Debt Boom Is Driving Public Projects and Tax Breaks for Investors",
         "link": "https://www.nytimes.com/2026/01/28/business/economy/municipal-debt-market.html"
+      },
+      {
+        "title": "What to Watch as the Federal Reserve Meets",
+        "link": "https://www.nytimes.com/2026/01/28/business/economy/fed-interest-rates.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "French tech giant under scrutiny over work with ICE",
+        "link": "https://www.middleeasteye.net/trending/french-tech-giant-under-scrutiny-over-work-ice"
+      },
       {
         "title": "Inside Syria’s largest oilfield after the battle for control",
         "link": "https://www.middleeasteye.net/news/inside-syria-largest-oil-field-after-battle-control"
@@ -129,54 +144,50 @@
       {
         "title": "Exclusive: UK didn't disclose second Tory peer on Cameron-Karim Khan 'threat' call",
         "link": "https://www.middleeasteye.net/news/exclusive-uk-didnt-disclose-second-tory-peer-cameron-karim-khan-threat-call"
-      },
-      {
-        "title": "Iran's battle for survival is the Arab world's fight too",
-        "link": "https://www.middleeasteye.net/opinion/irans-battle-survival-arab-worlds-fight-too"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Laura Dern praises late mom Diane Ladd's 'bravery' in touching tribute",
+        "link": "https://www.geo.tv/latest/647736-laura-dern-praises-late-mom-diane-ladds-bravery-in-touching-tribute"
+      },
+      {
+        "title": "Harry Styles breaks ex-girlfriend Taylor Swift's record with 'Together' tour",
+        "link": "https://www.geo.tv/latest/647754-harry-styles-breaks-ex-girlfriend-taylor-swifts-record-with-together-tour"
+      },
       {
         "title": "UK aims to train 10 million workers in AI by 2030",
         "link": "https://www.geo.tv/latest/647749-uk-aims-to-train-10-million-workers-in-ai-by-2030"
       },
       {
+        "title": "Prince William shares sweetest joke about forever home with Princess Kate",
+        "link": "https://www.geo.tv/latest/647746-prince-william-shares-sweetest-joke-about-forever-home-with-princess-kate"
+      },
+      {
         "title": "Dua Lipa brings fiery elegance to Paris Fashion Week with jaw-dropping look",
         "link": "https://www.geo.tv/latest/647745-dua-lipa-brings-fiery-elegance-to-paris-fashion-week-with-jaw-dropping-look"
-      },
-      {
-        "title": "King Charles witnesses Mullally's ambitious plan to shepherd the flock",
-        "link": "https://www.geo.tv/latest/647744-king-charles-witnesses-mullallys-ambitious-plan-to-shepherd-the-flock"
-      },
-      {
-        "title": "Pakistan orders strict screening of travellers to stop Nipah virus spread",
-        "link": "https://www.geo.tv/latest/647734-pakistan-orders-strict-screening-of-travellers-to-stop-nipah-virus-spread"
-      },
-      {
-        "title": "Net metering credit issue resolved, clarifies Power Division",
-        "link": "https://www.geo.tv/latest/647742-net-metering-credit-issue-resolved-clarifies-power-division"
       }
     ],
     "NDTV": [
       {
-        "title": "New Video Shows Ajit Pawar's Plane Tilting To The Left Before Crash",
-        "link": "https://www.ndtv.com/india-news/baramati-ajit-pawar-plane-crash-updates-new-video-shows-ajit-pawars-plane-tilting-to-the-left-before-crash-10901755#publisher=newsstand"
+        "title": "Adani Power Boosts Electricity Supply To Bangladesh To Ease Shortages",
+        "link": "https://www.ndtv.com/india-news/adani-power-boosts-electricity-supply-to-bangladesh-to-ease-shortages-10899351#publisher=newsstand"
       },
       {
-        "title": "\"Very Significant Progress\": India Says US Trade Pact Nearing Closure",
-        "link": "https://www.ndtv.com/world-news/very-significant-progress-india-says-us-trade-pact-nearing-closure-10902096#publisher=newsstand"
+        "title": "Indian-Origin Man Charged With Murder Of Woman In London",
+        "link": "https://www.ndtv.com/world-news/indian-origin-man-charged-with-murder-of-woman-in-london-10902545#publisher=newsstand"
       },
       {
-        "title": "Poll Body vs Trinamool To Escalate? 25 Bengal Officers Made Central Observers",
-        "link": "https://www.ndtv.com/india-news/election-commission-vs-trinamool-to-escalate-25-bengal-officers-made-central-observers-10901433#publisher=newsstand"
+        "title": "\"Nothing On The Table\": India Says It Is Not Joining China-Backed Trade Pact",
+        "link": "https://www.ndtv.com/world-news/nothing-on-the-table-india-says-it-is-not-joining-china-backed-trade-pact-10902365#publisher=newsstand"
       },
       {
-        "title": "Ajit Pawar Plane Crash Live Updates: Ajit Pawar Dies In Plane Crash, Aviation Minister Says Probe Will Be Conducted In \"Transparent\" Manner",
-        "link": "https://www.ndtv.com/india-news/ajit-pawar-plane-crash-live-updates-emergency-landing-of-ncp-leaders-aircraft-in-baramati-maharashtra-deputy-chief-minister-10897305#publisher=newsstand"
+        "title": "India's First Budget And What Was Allocated To Pakistan In 1947-48",
+        "link": "https://www.ndtv.com/india-news/union-budget-2026-indias-first-budget-and-what-was-allocated-to-pakistan-in-1947-48-10858283#publisher=newsstand"
       },
       {
-        "title": "\"Gone Full Retard\": Musk Abuses Indian-Origin Billionaire Over Racism Claims",
-        "link": "https://www.ndtv.com/world-news/gone-full-retard-elon-musk-abuses-indian-origin-billionaire-over-racism-claims-10897335#publisher=newsstand"
+        "title": "\"Building Castles In Air\": Top Court To States In Stray Dogs Case",
+        "link": "https://www.ndtv.com/india-news/building-castles-in-air-top-court-to-states-in-stray-dogs-case-10902342#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-28 16:18 UTC"
+  "last_updated": "2026-01-28 17:01 UTC"
 }
