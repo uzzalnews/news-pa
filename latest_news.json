@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Benfica vs Real Madrid – UEFA Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/1/28/live-benfica-vs-real-madrid-uefa-champions-league-coverage-commentary-stream?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,7 +7,7 @@
         "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Don't take us to a hospital': Iran protesters treated in secret to avoid arrest",
+        "title": "Iran protesters treated in secret to avoid arrest",
         "link": "https://www.bbc.com/news/articles/c5yx015nkplo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,11 +19,15 @@
         "link": "https://www.bbc.com/news/articles/c3wz2x7ppz7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "I will speak out on misogyny, first female Archbishop of Canterbury says",
-        "link": "https://www.bbc.com/news/articles/c7v0948vm9go?at_medium=RSS&at_campaign=rss"
+        "title": "King's film reveals his personal philosophy",
+        "link": "https://www.bbc.com/news/articles/c62wepw43k3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Iran delegates import powers as US war threats keep economy unstable",
+        "link": "https://www.aljazeera.com/news/2026/1/28/iran-delegates-import-powers-as-us-war-threats-keep-economy-unstable?traffic_source=rss"
+      },
       {
         "title": "Amazon cuts thousands of jobs amid AI push",
         "link": "https://www.aljazeera.com/economy/2026/1/28/amazon-cuts-thousands-of-jobs-amid-ai-push?traffic_source=rss"
@@ -43,12 +41,8 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/trump-says-us-ready-to-attack-iran-with-speed-and?traffic_source=rss"
       },
       {
-        "title": "Rubio testifies before US Senate on abduction of Venezuela’s Maduro",
+        "title": "Rubio says Maduro abduction ‘strategic’ necessity, downplays future attacks",
         "link": "https://www.aljazeera.com/news/2026/1/28/rubio-testifies-before-us-senate-on-abduction-of-venezuelas-maduro?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Benfica vs Real Madrid – UEFA Champions League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/1/28/live-benfica-vs-real-madrid-uefa-champions-league-coverage-commentary-stream?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,39 +78,39 @@
         "link": "https://www.dawn.com/news/1969546/26-countries-including-pakistan-named-founding-members-of-trump-led-board-of-peace"
       },
       {
-        "title": "Woman, daughter fall into open sewer in Lahore; rescue operation underway",
-        "link": "https://www.dawn.com/news/1969550/woman-daughter-fall-into-open-sewer-in-lahore-rescue-operation-underway"
+        "title": "Woman, daughter fall into open sewerage line in Lahore",
+        "link": "https://www.dawn.com/news/1969550/woman-daughter-fall-into-open-sewerage-line-in-lahore"
+      },
+      {
+        "title": "US agents involved in latest Minneapolis shooting put on leave: reports",
+        "link": "https://www.dawn.com/news/1969551/us-agents-involved-in-latest-minneapolis-shooting-put-on-leave-reports"
       },
       {
         "title": "Governor Kundi blames ‘barrage of statements’ by KP govt for Tirah exodus",
         "link": "https://www.dawn.com/news/1969532/governor-kundi-blames-barrage-of-statements-by-kp-govt-for-tirah-exodus"
-      },
-      {
-        "title": "President Zardari, UAE vice president discuss economic, trade ties",
-        "link": "https://www.dawn.com/news/1969547/president-zardari-uae-vice-president-discuss-economic-trade-ties"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "As Minneapolis Rages, Legislators Move to Restrict ICE in Their States",
-        "link": "https://www.nytimes.com/2026/01/28/us/politics/minneapolis-ice-states.html"
+        "title": "Man Rushes Ilhan Omar at Minneapolis Town Hall and Sprays Her",
+        "link": "https://www.nytimes.com/2026/01/27/us/ilhan-omar-town-hall-minnesota.html"
       },
       {
         "title": "Stephen Miller Suggests Federal Agents May Have Diverted From ‘Protocol’ Before Minneapolis Shooting",
         "link": "https://www.nytimes.com/2026/01/28/us/stephen-miller-alex-pretti-shooting.html"
       },
       {
+        "title": "Trump Officials’ Use of ‘Domestic Terrorist’ in Minnesota Shootings Doesn’t Match Legal Reality",
+        "link": "https://www.nytimes.com/2026/01/28/us/trump-minnesota-protesters-domestic-terrorists.html"
+      },
+      {
+        "title": "Trump Threatens Iran With ‘Massive Armada’ and Presses a Set of Demands",
+        "link": "https://www.nytimes.com/2026/01/28/us/politics/trump-iran-armada.html"
+      },
+      {
         "title": "Iran Killed Thousands of Protesters. Here Are Five of Their Stories.",
         "link": "https://www.nytimes.com/2026/01/28/world/middleeast/iran-protester-deaths.html"
-      },
-      {
-        "title": "Iraq’s Nominee for Prime Minister Rejects Trump Threats",
-        "link": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html"
-      },
-      {
-        "title": "Fed Meeting Comes at Pivotal Moment for Central Bank’s Independence",
-        "link": "https://www.nytimes.com/2026/01/28/business/economy/fed-trump-powell-interest-rates.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,46 +137,46 @@
     ],
     "GeoTV": [
       {
+        "title": "BCB hits out at ICC for 'unfair' schedule after U19 World Cup exit",
+        "link": "https://www.geo.tv/latest/647768-bcb-hits-out-at-icc-for-unfair-schedule-after-u19-world-cup-exit"
+      },
+      {
+        "title": "King Charles reveals heartbreaking truth in new film",
+        "link": "https://www.geo.tv/latest/647767-king-charles-reveals-heartbreaking-truth-in-new-film"
+      },
+      {
+        "title": "Meghan Markle, Prince Harry's 'U-turn' exposed by Kim Kardashian",
+        "link": "https://www.geo.tv/latest/647765-meghan-markle-prince-harrys-u-turn-exposed-by-kim-kardashian"
+      },
+      {
         "title": "ICE protest strike goes national, with CT on board",
         "link": "https://www.geo.tv/latest/647762-ice-protest-strike-goes-national-with-ct-on-board"
       },
       {
         "title": "King Charles office releases exciting video with update on Windsor Castle event",
         "link": "https://www.geo.tv/latest/647756-king-charles-office-releases-exciting-video-with-update-on-windsor-castle-event"
-      },
-      {
-        "title": "Pakistan among 26 countries named founding members of Trump's Gaza 'Board of Peace'",
-        "link": "https://www.geo.tv/latest/647757-pakistan-among-26-nations-named-founding-members-of-gaza-board-of-peace"
-      },
-      {
-        "title": "British Airways jet landed safely after losing one of its main landing gear wheels",
-        "link": "https://www.geo.tv/latest/647759-british-airways-jet-landed-safely-after-losing-one-of-its-main-landing-gear-wheels"
-      },
-      {
-        "title": "Laura Dern praises late mom Diane Ladd's 'bravery' in touching tribute",
-        "link": "https://www.geo.tv/latest/647736-laura-dern-praises-late-mom-diane-ladds-bravery-in-touching-tribute"
       }
     ],
     "NDTV": [
       {
-        "title": "Adani Power Boosts Electricity Supply To Bangladesh To Ease Shortages",
-        "link": "https://www.ndtv.com/india-news/adani-power-boosts-electricity-supply-to-bangladesh-to-ease-shortages-10899351#publisher=newsstand"
+        "title": "BJP Leader Objects To Padma Shri Awardee's Name In Voter List, Then Clarifies",
+        "link": "https://www.ndtv.com/india-news/bjp-leader-objects-to-padma-shri-awardees-name-in-gujarat-voter-list-then-clarifies-10903014#publisher=newsstand"
       },
       {
-        "title": "Indian-Origin Man Charged With Murder Of Woman In London",
-        "link": "https://www.ndtv.com/world-news/indian-origin-man-charged-with-murder-of-woman-in-london-10902545#publisher=newsstand"
+        "title": "Washington State Senate's Resolution Honours India's Traditions Of Democracy",
+        "link": "https://www.ndtv.com/world-news/washington-state-senates-resolution-honours-indias-traditions-of-democracy-10903011#publisher=newsstand"
       },
       {
-        "title": "\"Nothing On The Table\": India Says It Is Not Joining China-Backed Trade Pact",
-        "link": "https://www.ndtv.com/world-news/nothing-on-the-table-india-says-it-is-not-joining-china-backed-trade-pact-10902365#publisher=newsstand"
+        "title": "\"Very Significant Progress\": India Says US Trade Pact Nearing Closure",
+        "link": "https://www.ndtv.com/world-news/very-significant-progress-india-says-us-trade-pact-nearing-closure-10902096#publisher=newsstand"
       },
       {
-        "title": "India's First Budget And What Was Allocated To Pakistan In 1947-48",
-        "link": "https://www.ndtv.com/india-news/union-budget-2026-indias-first-budget-and-what-was-allocated-to-pakistan-in-1947-48-10858283#publisher=newsstand"
+        "title": "Budget Session 2026 Live Updates: President Droupadi Murmu Addresses Joint Sitting",
+        "link": "https://www.ndtv.com/india-news/budget-session-2026-live-updates-president-droupadi-murmu-lok-sabha-rajya-sabha-finance-jobs-taxes-deficit-bills-nirmala-sitharaman-10897123#publisher=newsstand"
       },
       {
-        "title": "\"Building Castles In Air\": Top Court To States In Stray Dogs Case",
-        "link": "https://www.ndtv.com/india-news/building-castles-in-air-top-court-to-states-in-stray-dogs-case-10902342#publisher=newsstand"
+        "title": "\"Brought In Culture Of Accountability\": Ajit Pawar's Adviser On His Legacy",
+        "link": "https://www.ndtv.com/india-news/ajit-pawar-plane-crash-brought-in-culture-of-accountability-ajit-pawars-adviser-on-his-legacy-10902818#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-28 18:01 UTC"
+  "last_updated": "2026-01-28 18:52 UTC"
 }
