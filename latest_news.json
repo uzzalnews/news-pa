@@ -1,10 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Iran warns of quick retaliation as Trump revives US threats",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/29/live-iran-warns-of-quick-retaliation-as-trump-revives-us-threats?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-        "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss"
+        "title": "What could happen if the US strikes Iran? Here are seven scenarios",
+        "link": "https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Water bills to rise again: Use our tool to find out by how much",
@@ -19,11 +25,19 @@
         "link": "https://www.bbc.com/news/videos/cj6wgelw62do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Assisted dying bill 'no hope' of passing unless Lords change approach, warns peer",
-        "link": "https://www.bbc.com/news/articles/cr57j47811yo?at_medium=RSS&at_campaign=rss"
+        "title": "Keep suspended pupils in school, ministers say",
+        "link": "https://www.bbc.com/news/articles/c0r425pyl57o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Banks shut, futures uncertain one year after M23 rebels seized DRC’s Goma",
+        "link": "https://www.aljazeera.com/features/2026/1/29/banks-shut-futures-uncertain-one-year-after-m23-rebels-seized-drcs-goma?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Iran warns of quick retaliation as Trump revives US threats",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/1/29/live-iran-warns-of-quick-retaliation-as-trump-revives-us-threats?traffic_source=rss"
+      },
       {
         "title": "Bangladesh election: Is the military still a power behind the scenes?",
         "link": "https://www.aljazeera.com/features/2026/1/29/bangladesh-election-is-the-military-still-a-power-behind-the-scenes?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "China warns Australia against taking back control of key port in Darwin",
         "link": "https://www.aljazeera.com/news/2026/1/29/china-warns-australia-against-taking-back-control-of-key-port-in-darwin?traffic_source=rss"
-      },
-      {
-        "title": "Venezuela’s police, military pledge loyalty to interim President Rodriguez",
-        "link": "https://www.aljazeera.com/news/2026/1/29/venezuelas-police-military-pledge-loyalty-to-interim-president-rodriguez?traffic_source=rss"
-      },
-      {
-        "title": "How does US military build-up off Iran compare to the June 2025 strikes?",
-        "link": "https://www.aljazeera.com/news/2026/1/29/how-does-us-military-build-up-off-iran-compare-to-the-june-2025-strikes?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,16 @@
     ],
     "Dawn": [
       {
+        "title": "Imran Khan underwent ‘20-minute medical procedure’ at Islamabad’s Pims, confirms info minister",
+        "link": "https://www.dawn.com/news/1969716/imran-khan-underwent-20-minute-medical-procedure-at-islamabads-pims-confirms-info-minister"
+      },
+      {
         "title": "Pakistan armed forces undergoing major transformation in multiple domains: CDF Munir",
         "link": "https://www.dawn.com/news/1969710/pakistan-armed-forces-undergoing-major-transformation-in-multiple-domains-cdf-munir"
+      },
+      {
+        "title": "Sri Lanka boosts T20 World Cup security with eye on India-Pakistan matches",
+        "link": "https://www.dawn.com/news/1969712/sri-lanka-boosts-t20-world-cup-security-with-eye-on-india-pakistan-matches"
       },
       {
         "title": "At the UN Security Council, Pakistan reaffirms support for Palestinian statehood",
@@ -80,37 +94,29 @@
       {
         "title": "US urges citizens to reconsider travel to Pakistan",
         "link": "https://www.dawn.com/news/1969624/us-urges-citizens-to-reconsider-travel-to-pakistan"
-      },
-      {
-        "title": "Security forces launch large-scale operation in Bannu’s Domel",
-        "link": "https://www.dawn.com/news/1969709/security-forces-launch-large-scale-operation-in-bannus-domel"
-      },
-      {
-        "title": "Minister overturns order depriving solar users of net metering credits",
-        "link": "https://www.dawn.com/news/1969654/minister-overturns-order-depriving-solar-users-of-net-metering-credits"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Attack on Ilhan Omar Follows Years of Trump’s Targeting Her",
-        "link": "https://www.nytimes.com/2026/01/28/us/politics/ilhan-omar-trump-attack.html"
+        "title": "Shooting Aftermath Leaves Homeland Security Department in Turmoil",
+        "link": "https://www.nytimes.com/2026/01/28/us/politics/shooting-dhs-turmoil.html"
       },
       {
         "title": "Trump and Schumer Move Toward Possible Deal to Avert a Shutdown",
         "link": "https://www.nytimes.com/2026/01/28/us/trump-schumer-deal-shutdown.html"
       },
       {
-        "title": "America at a Boiling Point: From ICE Protests to an Attack on Rep. Omar",
-        "link": "https://www.nytimes.com/2026/01/28/us/politics/trump-ice-protests-omar-attack.html"
-      },
-      {
-        "title": "Who Is the Man That Attacked Ilhan Omar at a Town Hall in Minneapolis?",
-        "link": "https://www.nytimes.com/2026/01/28/us/ilhan-omar-attacker-what-we-know.html"
+        "title": "Judge in Minnesota Says ICE Has Violated Nearly 100 Court Orders",
+        "link": "https://www.nytimes.com/2026/01/28/us/politics/judge-minnesota-ice-court-orders.html"
       },
       {
         "title": "F.B.I. Agents Search Georgia Election Center",
         "link": "https://www.nytimes.com/2026/01/28/us/politics/fbi-search-election-center-georgia.html"
+      },
+      {
+        "title": "Another Top Kennedy Center Official Resigns",
+        "link": "https://www.nytimes.com/2026/01/28/us/politics/trump-kennedy-center-resignation.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Tesla plans $20 billion investment to build beyond-EV ambitions like Cybercab, Optimus, more",
-        "link": "https://www.geo.tv/latest/647821-tesla-plans-20-billion-investment-to-build-beyond-ev-ambitions-like-cybercab-optimus-more"
+        "title": "Who was Shirley Raines? Founder of 'Beauty 2 The Streetz' dies at 58",
+        "link": "https://www.geo.tv/latest/647830-who-was-shirley-raines-beauty-2-the-streetz-founder-dies-at-58"
       },
       {
-        "title": "Katie Price looks downcast as new marriage faces dark allegations",
-        "link": "https://www.geo.tv/latest/647818-katie-price-looks-downcast-as-new-marriage-faces-dark-allegations"
+        "title": "Boxer Gervonta Davis arrested in Miami on kidnapping, battery charges",
+        "link": "https://www.geo.tv/latest/647837-boxer-gervonta-davis-arrested-in-miami-on-kidnapping-battery-charges"
       },
       {
-        "title": "Rosé gives rare insights into meeting Taylor Swift early in solo career",
-        "link": "https://www.geo.tv/latest/647814-ros-gives-rare-insights-into-meeting-taylor-swift-early-in-solo-career"
+        "title": "Info minister confirms Imran Khan inspected at PIMS hospital",
+        "link": "https://www.geo.tv/latest/647835-info-minister-confirms-imran-khan-inspected-at-pims-hospital"
       },
       {
-        "title": "King Charles teaches Prince Harry, Meghan key lesson about Hollywood",
-        "link": "https://www.geo.tv/latest/647817-king-charles-teaches-prince-harry-meghan-key-lesson-about-hollywood"
+        "title": "What causes Charity Pierce's death?",
+        "link": "https://www.geo.tv/latest/647820-what-causes-my-600-lb-life-star-charity-pierces-death"
       },
       {
-        "title": "Britain's Starmer seeks fresh start with China, economic wins",
-        "link": "https://www.geo.tv/latest/647810-britains-starmer-seeks-fresh-start-with-china-economic-wins"
+        "title": "OpenAI to get enormous boost as Nvidia, Microsoft, and Amazon plan $60 billion injection",
+        "link": "https://www.geo.tv/latest/647825-openai-to-get-enormous-boost-as-nvidia-microsoft-and-amazon-plan-60-billion-injection"
       }
     ],
     "NDTV": [
       {
-        "title": "Black Box Of Crashed Learjet Aircraft Recovered A Day After Ajit Pawar's Death",
-        "link": "https://www.ndtv.com/india-news/ajit-pawar-plane-crash-black-box-recovered-black-box-of-crashed-learjet-aircraft-recovered-a-day-after-ajit-pawars-death-10904369#publisher=newsstand"
+        "title": "How the Son of Iran's Supreme Leader Built a Global Property Empire",
+        "link": "https://www.ndtv.com/world-news/how-the-son-of-irans-supreme-leader-built-a-global-property-empire-10904830#publisher=newsstand"
       },
       {
-        "title": "Silver Breaches 4 Lakh Mark, Gold Jumps To Record Rs 1.75 Lakh Per 10 Grams",
-        "link": "https://www.ndtv.com/india-news/silver-breaches-4-lakh-mark-gold-jumps-to-record-rs-1-75-869-per-10-grams-10904287#publisher=newsstand"
+        "title": "Trump Warns Iran Time Is Running Out As US Warships Enter Region",
+        "link": "https://www.ndtv.com/world-news/donald-trump-warns-iran-time-is-running-out-as-us-warships-enter-region-10904828#publisher=newsstand"
       },
       {
-        "title": "Ajit Pawar's Funeral Procession Route Changed Due To Uncontrollable Crowd",
-        "link": "https://www.ndtv.com/india-news/ajit-pawar-plane-crash-live-updates-emergency-landing-of-ncp-leaders-aircraft-in-baramati-maharashtra-deputy-chief-minister-10897305#publisher=newsstand"
+        "title": "Delhi SWAT Commando Brutally Murdered With Dumbbell By Husband",
+        "link": "https://www.ndtv.com/india-news/delhi-swat-commando-brutally-murdered-with-dumbbell-by-husband-10904455#publisher=newsstand"
       },
       {
-        "title": "Budget Session 2026 Live Updates: PM Modi Likely To Address Media At Parliament House",
-        "link": "https://www.ndtv.com/india-news/parliament-budget-session-2026-live-updates-day-2-nirmala-sitharaman-economic-survey-lok-sabha-pm-modi-address-media-ajit-pawar-death-10904247#publisher=newsstand"
+        "title": "Bankrupt Restaurant Chain's CEO Looted Funds For Trips, Jets, Lenders Allege",
+        "link": "https://www.ndtv.com/world-news/bankrupt-restaurant-chains-ceo-looted-funds-for-trips-jets-lenders-allege-10904794#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Ajit Pawar: The Politician Who Didn't Pretend",
-        "link": "https://www.ndtv.com/opinion/ajit-pawar-the-politician-who-chased-power-but-kept-his-red-lines-10904170#publisher=newsstand"
+        "title": "Union Budget 2026 Explained: How Interim And Full Budgets Differ",
+        "link": "https://www.ndtv.com/india-news/union-budget-2026-explained-how-interim-and-full-budgets-differ-10899019#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-29 06:02 UTC"
+  "last_updated": "2026-01-29 07:02 UTC"
 }
