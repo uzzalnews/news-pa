@@ -25,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Bombardier stock dives on Trump threats of 50% tariff on Canadian planes",
+        "link": "https://www.aljazeera.com/economy/2026/1/30/bombardier-stock-dives-on-trump-threats-of-50-tariff-on-canadian-planes?traffic_source=rss"
+      },
+      {
+        "title": "US judge rules Luigi Mangione won’t face death penalty in CEO killing case",
+        "link": "https://www.aljazeera.com/news/2026/1/30/us-judge-rules-mangione-will-not-face-death-penalty-for-ceo-murder?traffic_source=rss"
+      },
+      {
         "title": "Vonn says Winter Olympics comeback dream ‘not over’ despite injury in crash",
         "link": "https://www.aljazeera.com/sports/2026/1/30/vonn-says-winter-olympics-comeback-dream-not-over-despite-crash?traffic_source=rss"
       },
@@ -35,14 +43,6 @@
       {
         "title": "Journalist Don Lemon arrested in connection to Minnesota ICE protest",
         "link": "https://www.aljazeera.com/news/2026/1/30/journalist-don-lemon-arrested-in-connection-to-minnesota-ice-protest?traffic_source=rss"
-      },
-      {
-        "title": "MSF says it will not hand over staff details to Israeli authorities",
-        "link": "https://www.aljazeera.com/news/2026/1/30/msf-says-it-will-not-hand-over-staff-details-to-israeli-authorities?traffic_source=rss"
-      },
-      {
-        "title": "Can Trump’s ‘madman theory’ reshape Iran and the Middle East?",
-        "link": "https://www.aljazeera.com/news/2026/1/30/can-trumps-madman-theory-reshape-iran-and-the-middle-east?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,8 +93,12 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Will Kevin Warsh Do What Trump Wants?",
-        "link": "https://www.nytimes.com/2026/01/30/business/dealbook/warsh-fed-trump.html"
+        "title": "Kevin Warsh, Trump’s Choice for Fed Chair, Could Find It Difficult to Deliver",
+        "link": "https://www.nytimes.com/2026/01/30/business/trump-kevin-warsh-fed-rates.html"
+      },
+      {
+        "title": "Stock Market Takes Kevin Warsh’s Fed Nomination in Stride",
+        "link": "https://www.nytimes.com/2026/01/30/us/politics/stock-market-kevin-warsh-fed.html"
       },
       {
         "title": "Federal Agents Arrest Don Lemon Over Minnesota Church Protest",
@@ -107,13 +111,13 @@
       {
         "title": "Federal Judge Drops Death Penalty Charge Against Luigi Mangione",
         "link": "https://www.nytimes.com/2026/01/30/nyregion/death-penalty-luigi-mangione.html"
-      },
-      {
-        "title": "Pizza Cutter and a Fork: A Bizarre Bid to Break Mangione Out of Jail",
-        "link": "https://www.nytimes.com/2026/01/29/nyregion/luigi-mangione-break-out-blade.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Why are some Iranians boycotting Huda Beauty?",
+        "link": "https://www.middleeasteye.net/trending/why-are-some-iranians-boycotting-huda-beauty-1"
+      },
       {
         "title": "US envoys blocked warning of 'apocalyptic wasteland' in Gaza, says report",
         "link": "https://www.middleeasteye.net/news/us-envoys-israel-blocked-warning-apocalyptic-wasteland-gaza"
@@ -129,32 +133,28 @@
       {
         "title": "Palestinians in Israel amongst poorest amid increasing poverty rates, report says",
         "link": "https://www.middleeasteye.net/news/palestinians-israel-amongst-poorest-amid-increasing-poverty-rates-report"
-      },
-      {
-        "title": "What is the meaning of 'globalise the intifada' and when did it first appear?",
-        "link": "https://www.middleeasteye.net/news/what-meaning-globalize-intifada-and-when-did-it-first-appear"
       }
     ],
     "GeoTV": [
       {
+        "title": "Epstein files 2026 release: What's in latest document drop?",
+        "link": "https://www.geo.tv/latest/648137-epstein-files-2026-release-whats-in-latest-document-drop"
+      },
+      {
+        "title": "Intending pilgrims urged to complete biometric for Hajj visa endorsement",
+        "link": "https://www.geo.tv/latest/648135-intending-pilgrims-urged-to-complete-biometric-for-hajj-visa-endorsement"
+      },
+      {
+        "title": "How Zayn Malik's dig at Harry Styles reveals truth about longstanding feud",
+        "link": "https://www.geo.tv/latest/648133-how-zayn-maliks-dig-at-harry-styles-reveals-truth-about-longstanding-feud"
+      },
+      {
+        "title": "'Feel the Thrill': ICC releases official song for Men's T20 World Cup 2026",
+        "link": "https://www.geo.tv/latest/648134-feel-the-thrill-icc-releases-official-song-for-mens-t20-world-cup-2026"
+      },
+      {
         "title": "Lady Gaga returns to 2026 Grammys after stirring controversy in Tokyo",
         "link": "https://www.geo.tv/latest/648132-lady-gaga-returns-to-2026-grammys-after-stirring-controversy-in-tokyo"
-      },
-      {
-        "title": "Josh Allen details preparations to welcome baby with Hailee Steinfeld",
-        "link": "https://www.geo.tv/latest/648131-josh-allen-details-preparations-to-welcome-baby-with-hailee-steinfeld"
-      },
-      {
-        "title": "Prince Harry reveals Princess Diana's truth in new book",
-        "link": "https://www.geo.tv/latest/648130-prince-harry-mentions-princess-diana-in-new-book"
-      },
-      {
-        "title": "Grammys 2026: Everything to know about music's biggest night",
-        "link": "https://www.geo.tv/latest/648128-grammys-2026-everything-to-know-about-musics-biggest-night"
-      },
-      {
-        "title": "'The Beatles' film first look revealed with striking Paul Mescal appearance",
-        "link": "https://www.geo.tv/latest/648126-the-beatles-film-first-look-revealed-with-striking-paul-mescal-appearance"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-30 17:23 UTC"
+  "last_updated": "2026-01-30 17:57 UTC"
 }
