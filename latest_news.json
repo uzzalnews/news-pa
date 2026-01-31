@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Iran announces live-fire naval drills near US warships amid tensions",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/31/live-iran-announces-live-fire-naval-drills-near-us-warships-amid-tensions?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Gaza’s collapsing economy drives youth to create unconventional solutions",
+        "link": "https://www.aljazeera.com/features/2026/1/31/gazas-collapsing-economy-drives-youth-to-create-unconventional-solutions?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces kill 12 Palestinians across Gaza, attacks reported in Rafah",
+        "link": "https://www.aljazeera.com/news/2026/1/31/israeli-forces-kill-12-palestinians-across-gaza-attacks-reported-in-rafah?traffic_source=rss"
+      },
+      {
         "title": "Shipping giant Maersk to take over Panama Canal ports after court ruling",
         "link": "https://www.aljazeera.com/news/2026/1/31/shipping-giant-maersk-to-take-over-panama-canal-ports-after-court-ruling?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Venezuela’s acting President Delcy Rodriguez announces prisoner amnesty",
         "link": "https://www.aljazeera.com/news/2026/1/31/venezuelas-acting-president-delcy-rodriguez-announces-prisoner-amnesty?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Iran announces live-fire naval drills near US warships amid tensions",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/31/live-iran-announces-live-fire-naval-drills-near-us-warships-amid-tensions?traffic_source=rss"
-      },
-      {
-        "title": "How does ICE spend its budget? And who profits?",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/1/31/how-does-ice-spend-its-budget-and-who-profits?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1970095/imrans-procedure-completed-smoothly-vitals-remained-stable-pims-executive-director"
       },
       {
+        "title": "Attacks at multiple locations across Balochistan thwarted: provincial govt",
+        "link": "https://www.dawn.com/news/1970100/attacks-at-multiple-locations-across-balochistan-thwarted"
+      },
+      {
         "title": "United States approves major arms deals to Saudi Arabia, Israel",
         "link": "https://www.dawn.com/news/1970098/united-states-approves-major-arms-deals-to-saudi-arabia-israel"
       },
@@ -88,12 +86,8 @@
         "link": "https://www.dawn.com/news/1970099/lahore-manhole-deaths-court-approves-4-day-physical-remand-of-accused"
       },
       {
-        "title": "Local gold plunges by Rs35,500 per tola",
-        "link": "https://www.dawn.com/news/1970054/local-gold-plunges-by-rs35500-per-tola"
-      },
-      {
-        "title": "Centre, KP government deny permitting Tirah operation",
-        "link": "https://www.dawn.com/news/1970083/centre-kp-government-deny-permitting-tirah-operation"
+        "title": "More than 200 killed in coltan mine collapse in east Congo, official says",
+        "link": "https://www.dawn.com/news/1970105/more-than-200-killed-in-coltan-mine-collapse-in-east-congo-official-says"
       }
     ],
     "APNews": [],
@@ -143,24 +137,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Robert Pattinson offers exciting updates about his daughter",
+        "link": "https://www.geo.tv/latest/648204-robert-pattinson-offers-exciting-updates-about-his-daughter"
+      },
+      {
+        "title": "Katie Price's sister hints at disapproval of glamour model's shotgun wedding",
+        "link": "https://www.geo.tv/latest/648206-katie-prices-sister-hints-at-disapproval-of-glamour-models-shotgun-wedding"
+      },
+      {
+        "title": "Prince William puts end to Harry's feud for greater cause?",
+        "link": "https://www.geo.tv/latest/648199-prince-william-puts-end-to-harrys-feud-for-greater-cause"
+      },
+      {
         "title": "Swishahouse founder Michael '5000' Watts dead at 52, cause of death revealed",
         "link": "https://www.geo.tv/latest/648207-swishahouse-founder-michael-5000-watts-dead-at-52-cause-of-death-revealed"
       },
       {
-        "title": "Princess Kate shares exciting update on mini royals' musical mayhem",
+        "title": "Future queen spills on mini royals' musical mayhem",
         "link": "https://www.geo.tv/latest/648200-princess-kate-shares-exciting-update-on-mini-royals-musical-mayhem"
-      },
-      {
-        "title": "Junior Andre denies engagement after fans spot ring in TikTok video",
-        "link": "https://www.geo.tv/latest/648201-junior-andre-denies-engagement-after-fans-spot-ring-in-tiktok-video"
-      },
-      {
-        "title": "Did NASA fake first Moon landing? Here's what landing footage and photos tell",
-        "link": "https://www.geo.tv/latest/648205-did-nasa-fake-first-moon-landing-heres-what-landing-footage-and-photos-tell"
-      },
-      {
-        "title": "US approves multibillion-dollar arms deals to Saudi Arabia, Israel",
-        "link": "https://www.geo.tv/latest/648202-us-approves-multibillion-dollar-arms-deals-to-saudi-arabia-israe"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-31 07:40 UTC"
+  "last_updated": "2026-01-31 07:56 UTC"
 }
