@@ -1,13 +1,8 @@
 {
   "breaking": [
     {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel kills 19, including 6 children, in new Gaza ceasefire breach",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/1/31/live-israel-kills-12-palestinians-in-gaza-as-rafah-crossing-set-to-open?traffic_source=rss"
-    },
-    {
       "source": "NDTV",
-      "title": "Sunetra Pawar Oath Ceremony LIVE Updates: Sunetra Pawar Attends NCP Party Meeting At Vidhan Bhavan",
+      "title": "Sunetra Pawar Oath Ceremony LIVE Updates: Sunetra Pawar Named Leader Of NCP Legislature Party",
       "link": "https://www.ndtv.com/india-news/sunetra-pawar-oath-taking-ceremony-maharashtra-deputy-chief-minister-live-updates-ajit-pawar-death-in-plane-crash-10919099#publisher=newsstand"
     }
   ],
@@ -26,15 +21,23 @@
         "link": "https://www.bbc.com/news/articles/cj6w3zgden0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'A vaccine against murder'? Israel split over return of death penalty",
-        "link": "https://www.bbc.com/news/articles/clymp8v7ye2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
         "link": "https://www.bbc.com/news/articles/czejk8pnk82o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'A vaccine against murder'? Israel split over return of death penalty",
+        "link": "https://www.bbc.com/news/articles/clymp8v7ye2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘Like judgement day’: Sudanese doctor recounts escape from el-Fasher",
+        "link": "https://www.aljazeera.com/news/2026/1/31/like-judgment-day-sudanese-doctor-recounts-escape-from-el-fasher?traffic_source=rss"
+      },
+      {
+        "title": "Officials defend conditions at pre-Olympic race after Vonn crash",
+        "link": "https://www.aljazeera.com/sports/2026/1/31/officials-defend-conditions-at-pre-olympic-race-after-vonn-crash?traffic_source=rss"
+      },
       {
         "title": "Why attacking UNRWA is attacking Gaza’s survival",
         "link": "https://www.aljazeera.com/opinions/2026/1/31/why-attacking-unrwa-is-attacking-gazas-survival?traffic_source=rss"
@@ -46,14 +49,6 @@
       {
         "title": "Has Brexit achieved its objectives six years on?",
         "link": "https://www.aljazeera.com/video/money-works/2026/1/31/has-brexit-achieved-its-objectives-six-years-on?traffic_source=rss"
-      },
-      {
-        "title": "Suspected separatists kill 8 Pakistani policemen in ‘coordinated’ attacks",
-        "link": "https://www.aljazeera.com/news/2026/1/31/suspected-separatists-kill-8-pakistani-policemen-in-coordinated-attacks?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel kills 19, including 6 children, in new Gaza ceasefire breach",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/1/31/live-israel-kills-12-palestinians-in-gaza-as-rafah-crossing-set-to-open?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,34 +92,38 @@
         "link": "https://www.dawn.com/news/1970099/lahore-manhole-deaths-court-approves-4-day-physical-remand-of-suspects"
       },
       {
-        "title": "Injured Cummins out of T20 World Cup, Dwarshuis in Australia squad",
-        "link": "https://www.dawn.com/news/1970106/injured-cummins-out-of-t20-world-cup-dwarshuis-in-australia-squad"
+        "title": "Hosts Pakistan win toss, opt to bat first in 2nd Lahore T20 against Australia",
+        "link": "https://www.dawn.com/news/1970108/hosts-pakistan-win-toss-opt-to-bat-first-in-2nd-lahore-t20-against-australia"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "How Europe Is Moving to Reduce Dependence on Trump",
-        "link": "https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html"
+        "title": "Kevin Warsh Has a Tough Job Ahead. It’s Not the First Time.",
+        "link": "https://www.nytimes.com/2026/01/31/business/kevin-warsh-fed-chair.html"
       },
       {
-        "title": "U.S. Allies Are Drawing Closer to China, but on Beijing’s Terms",
-        "link": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html"
+        "title": "A Hawkish Kevin Warsh at the Fed Could Haunt Bessent",
+        "link": "https://www.nytimes.com/2026/01/31/business/scott-bessent-kevin-warsh-trump.html"
+      },
+      {
+        "title": "For Hassett, Loyalty to Trump Became a Liability in Fed Race",
+        "link": "https://www.nytimes.com/2026/01/31/business/kevin-hassett-trump-loyalty-fed.html"
+      },
+      {
+        "title": "Sell America Is the New Trade on Wall Street",
+        "link": "https://www.nytimes.com/2026/01/31/business/sell-america-dollar-financial-markets.html"
       },
       {
         "title": "ICE Expands Power of Agents to Arrest People Without Warrants",
         "link": "https://www.nytimes.com/2026/01/30/us/politics/ice-expands-power-agents-warrants.html"
-      },
-      {
-        "title": "Trump Called for ‘De-Escalation’ in Minneapolis. It Didn’t Last Long.",
-        "link": "https://www.nytimes.com/2026/01/30/us/politics/trump-minneapolis-dueling-messages.html"
-      },
-      {
-        "title": "Release of Three Million Epstein Pages Falls Short, Survivors Say",
-        "link": "https://www.nytimes.com/2026/01/30/us/politics/epstein-files-release.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iranian armed forces on high alert, warns Tehran",
+        "link": "https://www.middleeasteye.net/news/iranian-armed-forces-high-alert-warns-tehran"
+      },
       {
         "title": "'Frantic lobbying:' Does Trump have a favourite in the UAE-Saudi rift",
         "link": "https://www.middleeasteye.net/news/frantic-lobbying-does-trump-have-favourite-uae-saudi-rift"
@@ -140,54 +139,50 @@
       {
         "title": "Rights group threatens legal challenge to New York's purchase of Israel bonds",
         "link": "https://www.middleeasteye.net/news/rights-group-threatens-legal-challenge-new-yorks-purchase-israel-bonds"
-      },
-      {
-        "title": "Pakistan's arms deals position it squarely within growing Saudi-UAE rift",
-        "link": "https://www.middleeasteye.net/news/pakistans-arms-deals-position-it-squarely-within-growing-saudi-uae-rift"
       }
     ],
     "GeoTV": [
       {
-        "title": "Harry Styles, Louis Tomlinson unlock major milestone post One Direction",
-        "link": "https://www.geo.tv/latest/648225-harry-styles-louis-tomlinson-unlock-major-milestone-post-one-direction"
+        "title": "Jeannie Mai sheds light on divorce from Jeezy",
+        "link": "https://www.geo.tv/latest/648239-jeannie-mai-sheds-light-on-divorce-from-jeezy"
       },
       {
-        "title": "Ben Affleck teases return in Super Bowl ad with Jennifer Lopez?",
-        "link": "https://www.geo.tv/latest/648233-ben-affleck-teases-return-in-super-bowl-ad-with-jennifer-lopez"
+        "title": "Jessica Alba, Eva Longoria join forces for Latin artists in Hollywood",
+        "link": "https://www.geo.tv/latest/648229-jessica-alba-eva-longoria-join-forces-for-latin-artists-in-hollywood"
       },
       {
-        "title": "Is India banning social media for under-16 users?",
-        "link": "https://www.geo.tv/latest/648228-is-india-banning-social-media-for-under-16-users"
+        "title": "Android 16 makes Android theft protection stronger with new features",
+        "link": "https://www.geo.tv/latest/648230-android-16-makes-android-theft-protection-stronger-with-new-features"
       },
       {
-        "title": "Mariah Carey kicks off Grammy season with major honour",
-        "link": "https://www.geo.tv/latest/648217-mariah-carey-kicks-off-grammy-season-with-major-honour"
+        "title": "King Charles team issues statement after Andrew, Epstein 'Palace' meeting",
+        "link": "https://www.geo.tv/latest/648234-king-charles-team-issues-statement-after-andrew-epstein-palace-meeting"
       },
       {
-        "title": "Princess Charlotte caught in crossfire of uncle Harry's royal rift?",
-        "link": "https://www.geo.tv/latest/648219-princess-charlotte-facing-difficulty-over-prince-harry-problem"
+        "title": "France tightens infant milk rules after recalls",
+        "link": "https://www.geo.tv/latest/648236-france-tightens-infant-milk-rules-after-recalls"
       }
     ],
     "NDTV": [
       {
-        "title": "Blog: Blog | \"Hamberder\" To \"Furniture Of Children\", Donald Trump And The Art Of The Vowel",
-        "link": "https://www.ndtv.com/blog/donald-trump-and-the-art-of-the-vowel-10919105#publisher=newsstand"
+        "title": "Analysis: Why NCP Hurriedly Appointed Sunetra Pawar As Deputy Chief Minister",
+        "link": "https://www.ndtv.com/india-news/sunetra-pawar-oath-ceremony-live-ajit-pawar-analysis-why-ncp-hurriedly-appointed-sunetra-pawar-as-deputy-chief-minister-10919397#publisher=newsstand"
       },
       {
-        "title": "Sunetra Pawar Oath Ceremony LIVE Updates: Sunetra Pawar Attends NCP Party Meeting At Vidhan Bhavan",
+        "title": "Ghislaine Maxwell Claims 25 Epstein Accomplices Made \"Secret Settlements\"",
+        "link": "https://www.ndtv.com/world-news/ghislaine-maxwell-claims-25-jeffrey-epstein-accomplices-reached-secret-settlements-after-abuse-allegations-court-papers-10918362#publisher=newsstand"
+      },
+      {
+        "title": "'Name Cockroach After Ex': Poland Zoo Offers Unique Valentine's Day Revenge",
+        "link": "https://www.ndtv.com/world-news/name-a-cockroach-after-your-ex-and-feed-to-meerkat-polish-zoo-offers-unique-valentine-039-s-day-revenge-option-10919196#publisher=newsstand"
+      },
+      {
+        "title": "Sunetra Pawar Oath Ceremony LIVE Updates: Sunetra Pawar Named Leader Of NCP Legislature Party",
         "link": "https://www.ndtv.com/india-news/sunetra-pawar-oath-taking-ceremony-maharashtra-deputy-chief-minister-live-updates-ajit-pawar-death-in-plane-crash-10919099#publisher=newsstand"
       },
       {
-        "title": "Elon Musk Planned To Visit 'Pedo Island', Show Epstein Files",
-        "link": "https://www.ndtv.com/world-news/elon-musk-planned-to-visit-pedo-island-show-epstein-files-10917949#publisher=newsstand"
-      },
-      {
-        "title": "Rapido Driver Created Fake Profiles Of Women, Posed As Cop To Extort Money",
-        "link": "https://www.ndtv.com/india-news/rapido-driver-created-fake-profiles-of-women-posed-as-cop-to-extort-money-10919067#publisher=newsstand"
-      },
-      {
-        "title": "\"Wanted To Speak To His Mother\": Bengaluru Tycoon's Final Moments In Office",
-        "link": "https://www.ndtv.com/bangalore-news/wanted-to-speak-to-his-mother-bengaluru-real-estate-tycoon-dr-cj-roy-final-moments-in-office-dies-by-suicide-10918784#publisher=newsstand"
+        "title": "Mustard To Mud: Inspection Reveals MSP Procurement Scam In Madhya Pradesh",
+        "link": "https://www.ndtv.com/india-news/mustard-to-mud-inspection-reveals-msp-procurement-scam-in-madhya-pradesh-10919328#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-01-31 10:24 UTC"
+  "last_updated": "2026-01-31 10:51 UTC"
 }
