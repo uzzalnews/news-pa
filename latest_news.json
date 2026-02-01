@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel to partially open Rafah in Gaza as dozens killed in attacks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/1/live-israel-to-partially-open-rafah-in-gaza-as-dozens-killed-in-attacks?traffic_source=rss"
+    },
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Novak Djokovic vs Carlos Alcaraz – Australian Open 2026 final",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/1/novak-djokovic-vs-carlos-alcaraz-australian-open-2026?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +36,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Israel to partially open Rafah in Gaza as dozens killed in attacks",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/2/1/live-israel-to-partially-open-rafah-in-gaza-as-dozens-killed-in-attacks?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Novak Djokovic vs Carlos Alcaraz – Australian Open 2026 final",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/1/novak-djokovic-vs-carlos-alcaraz-australian-open-2026?traffic_source=rss"
+      },
+      {
         "title": "Fela Kuti becomes first African to get Grammys Lifetime Achievement Award",
         "link": "https://www.aljazeera.com/news/2026/2/1/fela-kuti-becomes-first-african-to-get-grammys-lifetime-achievement-award?traffic_source=rss"
       },
@@ -35,14 +54,6 @@
       {
         "title": "US judge orders release of five-year-old and father from ICE detention",
         "link": "https://www.aljazeera.com/news/2026/2/1/us-judge-orders-release-of-five-year-old-and-father-from-ice-detention?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war: List of key events, day 1,438",
-        "link": "https://www.aljazeera.com/news/2026/2/1/russia-ukraine-war-list-of-key-events-day-1438?traffic_source=rss"
-      },
-      {
-        "title": "Trump orders federal agents to stay away from protests in Democrat cities",
-        "link": "https://www.aljazeera.com/news/2026/2/1/trump-orders-federal-agents-to-stay-away-from-protests-in-democrat-cities?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,8 +89,8 @@
         "link": "https://www.dawn.com/news/1970309/parliament-meets-tomorrow-likely-to-amend-nab-law"
       },
       {
-        "title": "UN faces ‘imminent financial collapse’, says Guterres",
-        "link": "https://www.dawn.com/news/1970287/un-faces-imminent-financial-collapse-says-guterres"
+        "title": "Trump says India will buy oil from Venezuela, not Iran",
+        "link": "https://www.dawn.com/news/1970404/trump-says-india-will-buy-oil-from-venezuela-not-iran"
       },
       {
         "title": "Naqvi holds India responsible for spate of attacks in Balochistan; ISPR says 92 terrorists killed",
@@ -137,46 +148,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Meghan Markle receives good news about new film",
-        "link": "https://www.geo.tv/latest/648332-meghan-markle-receives-good-news-about-new-film"
+        "title": "Gordon Ramsay reacts to daughter Holly's wedding dress price",
+        "link": "https://www.geo.tv/latest/648338-gordon-ramsay-reacts-to-daughter-hollys-wedding-dress-price"
       },
       {
-        "title": "After ads, will ChatGPT responses remain trustworthy? OpenAI says yes",
-        "link": "https://www.geo.tv/latest/648329-will-chatgpt-ads-affect-responses-to-user-queries-openai-says-no"
+        "title": "Trump says India will buy oil from Venezuela, not Iran",
+        "link": "https://www.geo.tv/latest/648340-trump-says-india-will-buy-oil-from-venezuela-not-iran"
       },
       {
-        "title": "India-US reset",
-        "link": "https://www.geo.tv/latest/648321-india-us-reset"
+        "title": "Sale of kites, strings for Lahore Basant begins today",
+        "link": "https://www.geo.tv/latest/648331-sale-of-kites-strings-for-lahore-basant-begins-today"
       },
       {
-        "title": "Snoop Dogg's daughter Cori Broadus grieves tragic family loss",
-        "link": "https://www.geo.tv/latest/648323-snoop-doggs-daughter-cori-broadus-grieves-tragic-family-loss"
+        "title": "Google takes down IPIDEA proxy network in bid to protect Androids worldwide",
+        "link": "https://www.geo.tv/latest/648336-google-takes-down-ipidea-proxy-network-in-bid-to-protect-androids-worldwide"
       },
       {
-        "title": "David Beckham makes dig at Brooklyn amid family rift: ‘Watch and learn'",
-        "link": "https://www.geo.tv/latest/648326-david-beckham-makes-dig-at-brooklyn-amid-family-rift-watch-and-learn"
+        "title": "Zara Tindall eases King Charles tensions as royals battle another storm",
+        "link": "https://www.geo.tv/latest/648335-zara-tindall-eases-king-charles-tensions-as-royals-battle-another-storm"
       }
     ],
     "NDTV": [
       {
-        "title": "Markets Swing Ahead Of Budget, Exchanges Open On Rare Sunday",
-        "link": "https://www.ndtv.com/india-news/markets-live-budget-2026-live-markets-open-marginally-lower-ahead-of-nirmala-sitharamans-ninth-budget-10922692#publisher=newsstand"
+        "title": "Rs 40,000 Crore For Semi-Conductor Push, Says Nirmala Sitharaman",
+        "link": "https://www.ndtv.com/india-news/union-budget-2026-live-rs-40-000-crore-for-semi-conductor-push-says-nirmala-sitharaman-10923219#publisher=newsstand"
       },
       {
-        "title": "Finance Minister Poses With Budget Tablet In Red Sleeve, Meets President",
-        "link": "https://www.ndtv.com/india-news/union-budget-2026-finance-minister-n-sitharaman-poses-with-budget-tablet-in-red-sleeve-meets-president-10922736#publisher=newsstand"
-      },
-      {
-        "title": "Nirmala Sitharaman's 9th Budget Soon, Focus On Reforms: 10 Points",
+        "title": "Chosen Action Over Ambivalence, Reforms Over Rhetoric: Nirmala Sitharaman's Budget",
         "link": "https://www.ndtv.com/india-news/nirmala-sitharaman-to-present-her-9th-straight-budget-today-10-points-union-budget-2026-india-economy-10921557#publisher=newsstand"
       },
       {
-        "title": "Budget 2026 Live Updates: Finance Minister Nirmala Sitharaman Reaches Parliament, To Present Union Budget Shortly",
-        "link": "https://www.ndtv.com/india-news/union-budget-2026-live-updates-finance-minister-nirmala-sitharaman-speech-live-new-income-tax-regime-old-regime-10919500#publisher=newsstand"
+        "title": "Sitharaman Announces Rare Earth Corridors In 4 States, Including Tamil Nadu",
+        "link": "https://www.ndtv.com/india-news/union-budget-2026-live-nirmala-sitharaman-announces-rare-earth-corridors-in-4-states-including-tamil-nadu-10923258#publisher=newsstand"
       },
       {
-        "title": "9 Budgets, 9 Sarees: A Look At Nirmala Sitharaman's Budget Day Attire",
-        "link": "https://www.ndtv.com/india-news/union-budget-2026-budget-2026-9-budgets-9-sarees-a-look-at-nirmala-sitharamans-budget-day-attire-10922770#publisher=newsstand"
+        "title": "Budget 2026 'Yuva Shakti' Driven, Inspired By 3 'Kartavyas': Nirmala Sitharaman",
+        "link": "https://www.ndtv.com/india-news/union-budget-2026-live-budget-2026-yuva-shakti-driven-inspired-by-3-kartavyas-nirmala-sitharaman-10923163#publisher=newsstand"
+      },
+      {
+        "title": "Income Tax Slabs Budget 2026 Live: Salaried, Middle-Class Taxpayers Keep Close Eye On Speech",
+        "link": "https://www.ndtv.com/india-news/income-tax-slabs-2026-27-live-updates-budget-2026-latest-income-tax-slab-changes-tax-announcements-new-tax-regime-vs-old-regime-tax-rates-standard-sec-10923111#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-01 05:35 UTC"
+  "last_updated": "2026-02-01 06:28 UTC"
 }
