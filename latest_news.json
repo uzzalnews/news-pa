@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Wounded Palestinians prepare to leave Gaza as Israel opens Rafah",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/2/live-wounded-palestinians-prepare-to-leave-gaza-as-israel-opens-checkpoint?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,8 +21,8 @@
         "link": "https://www.bbc.com/news/articles/cddgv9nvj9zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Families take legal action after British tourists die following Cape Verde holiday illness",
-        "link": "https://www.bbc.com/news/articles/c3015q8jqero?at_medium=RSS&at_campaign=rss"
+        "title": "Men covertly filming women at night and profiting from footage, BBC finds",
+        "link": "https://www.bbc.com/news/articles/c9wxx97jlveo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Bad Bunny makes Grammy history as he wins best album",
@@ -25,11 +31,15 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Wounded Palestinians prepare to leave Gaza as Israel opens Rafah",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/2/2/live-wounded-palestinians-prepare-to-leave-gaza-as-israel-opens-checkpoint?traffic_source=rss"
+      },
+      {
         "title": "Pakistani forces kill 145 fighters in Balochistan after deadly attacks",
         "link": "https://www.aljazeera.com/news/2026/2/2/pakistani-forces-kill-145-fighters-in-balochistan-after-deadly-attacks?traffic_source=rss"
       },
       {
-        "title": "Laura Fernandez nears victory in Costa Rica’s presidential election",
+        "title": "Laura Fernandez declares victory in Costa Rica’s presidential election",
         "link": "https://www.aljazeera.com/news/2026/2/2/laura-fernandez-leads-early-results-in-costa-ricas-presidential-election?traffic_source=rss"
       },
       {
@@ -39,10 +49,6 @@
       {
         "title": "Russia-Ukraine war: List of key events, day 1,439",
         "link": "https://www.aljazeera.com/news/2026/2/2/russia-ukraine-war-list-of-key-events-day-1439?traffic_source=rss"
-      },
-      {
-        "title": "UK’s ex-ambassador Mandelson quits Labour over Epstein links, reports say",
-        "link": "https://www.aljazeera.com/economy/2026/2/2/uks-ex-ambassador-mandelson-quits-labour-over-epstein-links-reports-say?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1970582/mqm-founder-altaf-hussain-hospitalised-in-london"
       },
       {
+        "title": "India unveils record $85bn defence budget",
+        "link": "https://www.dawn.com/news/1970528/india-unveils-record-85bn-defence-budget"
+      },
+      {
+        "title": "Former UK minister Mandelson quits Labour after new Epstein revelations, media say",
+        "link": "https://www.dawn.com/news/1970591/former-uk-minister-mandelson-quits-labour-after-new-epstein-revelations-media-say"
+      },
+      {
         "title": "Over 180 workers picked up in night-long sweeps, claims PTI",
         "link": "https://www.dawn.com/news/1970488/over-180-workers-picked-up-in-night-long-sweeps-claims-pti"
-      },
-      {
-        "title": "AJK president laid to rest with state honours",
-        "link": "https://www.dawn.com/news/1970556/ajk-president-laid-to-rest-with-state-honours"
-      },
-      {
-        "title": "NFC hits pause as working groups fail to meet",
-        "link": "https://www.dawn.com/news/1970466/nfc-hits-pause-as-working-groups-fail-to-meet"
       }
     ],
     "APNews": [],
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Katie Price's new husband 'served time in Dubai jail' before wedding",
-        "link": "https://www.geo.tv/latest/648515-katie-prices-new-husband-served-time-in-dubai-jail-before-wedding"
+        "title": "Grammys 2026: The stars who took aim at ICE—here's what was said",
+        "link": "https://www.geo.tv/latest/648527-grammys-2026-the-stars-who-took-aim-at-iceheres-what-was-said"
       },
       {
-        "title": "Grammys 2026: Best dressed celebrities at a glance",
-        "link": "https://www.geo.tv/latest/648504-grammys-2026-best-dressed-celebrities-at-a-glance"
+        "title": "Djokovic hints at retirement as time seeps away on history bid",
+        "link": "https://www.geo.tv/latest/648510-djokovic-hints-at-retirement-as-time-seeps-away-on-history-bid"
       },
       {
-        "title": "King Charles receives delightful message as crucial mission gets update",
-        "link": "https://www.geo.tv/latest/648514-king-charles-receives-delightful-message-as-crucial-mission-gets-update"
+        "title": "Truth behind Sarah Ferguson's marriage proposal to Jeffery Epstein",
+        "link": "https://www.geo.tv/latest/648533-truth-behind-sarah-fergusons-marriage-proposal-to-jeffery-epstein"
       },
       {
-        "title": "Grammys 2026: Winners revealed",
-        "link": "https://www.geo.tv/latest/648508-grammys-2026-winners-revealed"
+        "title": "Don Lemon steals spotlight at Clive Davis' pre-Grammys gala",
+        "link": "https://www.geo.tv/latest/648532-don-lemon-steals-spotlight-at-clive-davis-pre-grammys-gala"
       },
       {
-        "title": "Lola Young pulls off first Grammy win months after multiple health scares",
-        "link": "https://www.geo.tv/latest/648503-lola-young-pulls-off-first-grammy-win-months-after-multiple-health-scares"
+        "title": "Billie Eilish makes sure she raises awareness against ICE at Grammy 2026",
+        "link": "https://www.geo.tv/latest/648530-billie-eilish-makes-sure-she-raises-awareness-against-ice-at-grammy-2026"
       }
     ],
     "NDTV": [
       {
-        "title": "Top US-India Industry Bodies Cheer Union Budget 2026, Call For Faster Executions",
-        "link": "https://www.ndtv.com/world-news/top-us-india-industry-bodies-cheer-budget-2026-call-for-faster-executions-10929253#publisher=newsstand"
+        "title": "\"Something Fishy About The Crash\": Shiv Sena, Congress On Ajit Pawar's Death",
+        "link": "https://www.ndtv.com/india-news/ajit-pawar-sunetra-pawar-something-fishy-about-the-crash-shiv-sena-congress-on-ajit-pawars-death-10929637#publisher=newsstand"
       },
       {
-        "title": "\"Victory Is Certain\": Vijay's Message On TVK's 3rd Anniversary Ahead Of Tamil Nadu Polls",
-        "link": "https://www.ndtv.com/tamil-nadu-news/victory-is-certain-vijays-message-on-tvks-3rd-anniversary-ahead-of-tamil-nadu-polls-10929131#publisher=newsstand"
+        "title": "Opinion: Opinion | How Budget 2026 Renders Kerala Invisible",
+        "link": "https://www.ndtv.com/opinion/budget-2026-is-kerala-paying-the-price-for-being-unaligned-10929611#publisher=newsstand"
       },
       {
         "title": "Women 'Fidayeens', IED Attacks: How Baloch Rebels Killed '200 Pakistan Personnel'",
         "link": "https://www.ndtv.com/world-news/women-fidayeens-ied-attacks-how-baloch-rebels-killed-200-pakistan-personnel-10928976#publisher=newsstand"
       },
       {
-        "title": "\"Felt Sick To My Stomach\": Bryan Johnson On Call With Jeffrey Epstein 8 Years Ago",
-        "link": "https://www.ndtv.com/world-news/bryan-johnson-on-video-call-with-jeffrey-epstein-8-years-ago-felt-sick-to-my-stomach-10929130#publisher=newsstand"
+        "title": "Kerala Businessman Shot At, Robbed Of Rs 6 Lakh Outside SBI ATM In Hyderabad",
+        "link": "https://www.ndtv.com/india-news/kerala-businessman-shot-at-robbed-of-rs-6-lakh-outside-sbi-atm-in-hyderabad-10929597#publisher=newsstand"
       },
       {
-        "title": "Gold Falls 1.5%, Silver Rises 1.6% After Over 3-Week Low",
-        "link": "https://www.ndtv.com/world-news/gold-falls-1-5-silver-rises-1-6-after-over-3-week-low-us-president-donald-trump-kevin-warsh-dollar-10929180#publisher=newsstand"
+        "title": "Woman, 65, Dies Of Contaminated Water In Indore, Death Count Rises To 32",
+        "link": "https://www.ndtv.com/india-news/indore-water-tragedy-woman-65-dies-of-contaminated-water-in-indore-death-count-rises-to-32-10929605#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-02 05:37 UTC"
+  "last_updated": "2026-02-02 06:42 UTC"
 }
