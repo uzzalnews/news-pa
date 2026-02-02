@@ -3,10 +3,6 @@
   "news": {
     "BBC": [
       {
-        "title": "'Marry me' and £20,000 for rent - key Sarah Ferguson revelations in Epstein emails",
-        "link": "https://www.bbc.com/news/articles/cddgv9nvj9zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Serial killer Steve Wright admits murder of teenager Victoria Hall in 1999",
         "link": "https://www.bbc.com/news/articles/cpdy7q1yn3xo?at_medium=RSS&at_campaign=rss"
       },
@@ -15,8 +11,12 @@
         "link": "https://www.bbc.com/news/articles/c1ev5dq4xvdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Bad Bunny makes Grammy history as stars protest against ICE",
-        "link": "https://www.bbc.com/news/articles/ce8g7q4ymrvo?at_medium=RSS&at_campaign=rss"
+        "title": "Captain guilty of North Sea tanker crash death",
+        "link": "https://www.bbc.com/news/articles/c9dv240w0w3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Drivers can compare fuel prices at different petrol stations - how does it work?",
+        "link": "https://www.bbc.com/news/articles/cp80dpzdg37o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "MP arrested over more alleged sexual offences",
@@ -24,6 +24,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Iran’s economy falters as internet shutdown hits people, businesses hard",
+        "link": "https://www.aljazeera.com/news/2026/2/2/irans-economy-falters-as-internet-shutdown-hits-people-businesses-hard?traffic_source=rss"
+      },
+      {
+        "title": "Bangladesh court sentences ex-PM Hasina, UK lawmaker niece in graft case",
+        "link": "https://www.aljazeera.com/news/2026/2/2/bangladesh-court-sentences-ex-pm-hasina-uk-lawmaker-niece-in-graft-case?traffic_source=rss"
+      },
       {
         "title": "Balochistan to Bangladesh: Why Pakistan is boycotting India World Cup match",
         "link": "https://www.aljazeera.com/news/2026/2/2/balochistan-to-bangladesh-why-pakistan-is-boycotting-india-world-cup-match?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Iran eyes progress towards US nuclear talks as tension eases",
         "link": "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases?traffic_source=rss"
-      },
-      {
-        "title": "Videos prompt concern about ICE raids in California",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/2/videos-prompt-concern-about-ice-raids-in-california?traffic_source=rss"
-      },
-      {
-        "title": "Video: Gaza’s Rafah crossing reopening came too late for this 3-year-old",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/2/video-gazas-rafah-crossing-reopening-came-too-late-for-this-3-year-old?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +74,20 @@
         "link": "https://www.dawn.com/news/1970628/nobody-in-pakistan-will-be-allowed-to-rationalise-violence-says-asif-after-attacks-in-balochistan"
       },
       {
+        "title": "CDF Munir vows to strengthen Pakistan-Libya ties",
+        "link": "https://www.dawn.com/news/1970630/cdf-munir-vows-to-strengthen-pakistan-libya-ties"
+      },
+      {
+        "title": "Air India grounds Boeing Dreamliner plane after pilot flags fuel control switch issue",
+        "link": "https://www.dawn.com/news/1970632/air-india-grounds-boeing-dreamliner-plane-after-pilot-flags-fuel-control-switch-issue"
+      },
+      {
         "title": "In meeting with CM Afridi, PM emphasises need for cooperation between Centre, KP govt",
         "link": "https://www.dawn.com/news/1970596/in-meeting-with-cm-afridi-pm-emphasises-need-for-cooperation-between-centre-kp-govt"
       },
       {
         "title": "Senate adopts resolution condemning terrorist attacks in Balochistan",
         "link": "https://www.dawn.com/news/1970627/senate-adopts-resolution-condemning-terrorist-attacks-in-balochistan"
-      },
-      {
-        "title": "Iranian president orders start of talks with US: local media",
-        "link": "https://www.dawn.com/news/1970620/iranian-president-orders-start-of-talks-with-us-local-media"
-      },
-      {
-        "title": "Security forces kill 22 more terrorists in Balochistan, taking 48-hour total tally to 177",
-        "link": "https://www.dawn.com/news/1970602/security-forces-kill-22-more-terrorists-in-balochistan-taking-48-hour-total-tally-to-177"
       }
     ],
     "APNews": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "They were forced to hand one son over to the Israeli army in return for another. Eight months later he was dead in prison",
+        "link": "https://www.middleeasteye.net/news/forced-choose-one-son-israel-army-return-another-eight-months-later-dead"
+      },
+      {
         "title": "Epstein advised former Israeli PM Ehud Barak to 'look at' Palantir",
         "link": "https://www.middleeasteye.net/news/epstein-advised-former-israeli-prime-minister-ehud-barak-look-palantir"
       },
@@ -129,13 +133,17 @@
       {
         "title": "Epstein and Steve Bannon discuss Tommy Robinson in newly released files",
         "link": "https://www.middleeasteye.net/news/epstein-and-steve-bannon-discuss-tommy-robinson"
-      },
-      {
-        "title": "Dozens of Cambridge academics urge university to divest from arms industry",
-        "link": "https://www.middleeasteye.net/news/dozens-cambridge-academics-urge-university-divest-arms-industry"
       }
     ],
     "GeoTV": [
+      {
+        "title": "CDF Munir, Libyan military chief discuss security, professional cooperation",
+        "link": "https://www.geo.tv/latest/648644-cdf-munir-libyan-military-chief-discuss-security-professional-cooperation"
+      },
+      {
+        "title": "Andrew caught in 'panic stage' over Libyan loan",
+        "link": "https://www.geo.tv/latest/648643-andrew-caught-in-panic-stage-over-libyan-loan"
+      },
       {
         "title": "Duke of Edinburgh brings royal inspiration to mangroves and youth",
         "link": "https://www.geo.tv/latest/648629-duke-of-edinburgh-brings-royal-inspiration-to-mangroves-and-youth"
@@ -147,36 +155,28 @@
       {
         "title": "Kanye West approved Kim Kardashian's romance with Lewis Hamilton?",
         "link": "https://www.geo.tv/latest/648640-kanye-west-approved-kim-kardashians-romance-with-lewis-hamilton"
-      },
-      {
-        "title": "Kate Middleton gets new title in major royal shift amid Ferguson fallout",
-        "link": "https://www.geo.tv/latest/648626-kate-middleton-gets-new-title-in-major-royal-shift-amid-ferguson-fallout"
-      },
-      {
-        "title": "UK ‘Fuel Finder Scheme' goes live: Here's how you can save £40 a year",
-        "link": "https://www.geo.tv/latest/648641-uk-fuel-finder-scheme-goes-live-heres-how-you-can-save-40-a-year"
       }
     ],
     "NDTV": [
       {
-        "title": "Man Slits Woman's Throat In Dehradun, Arrested: Cops",
-        "link": "https://www.ndtv.com/india-news/man-slits-womans-throat-in-dehradun-arrested-9803936#publisher=newsstand"
+        "title": "Air India Ahmedabad Crash And Fuel Switch Controversy That Followed",
+        "link": "https://www.ndtv.com/india-news/air-india-boeing-787-8-dreamliner-air-india-ahmedabad-crash-and-fuel-switch-controversy-that-followed-10933015#publisher=newsstand"
       },
       {
-        "title": "\"Can Get Lakhs Of People To Delhi\": Mamata Banerjee Targets Poll Body Over SIR",
+        "title": "2 Tigers Electrocuted In Madhya Pradesh, 9 Big Cat Deaths Reported In 2026",
+        "link": "https://www.ndtv.com/india-news/2-tigers-electrocuted-in-madhya-pradesh-9-big-cat-deaths-reported-in-2026-10933019#publisher=newsstand"
+      },
+      {
+        "title": "Air India Dreamliner Grounded After Fuel Switch Moves From 'Run' To 'Cutoff'",
+        "link": "https://www.ndtv.com/india-news/air-india-dreamliner-grounded-after-fuel-switch-moves-from-run-to-cutoff-10932403#publisher=newsstand"
+      },
+      {
+        "title": "TVK Is The Top Engine: Vijay Takes Dig At DMK And BJP, Downplays AIADMK",
+        "link": "https://www.ndtv.com/india-news/tvk-is-the-top-engine-vijay-takes-dig-at-dmk-and-bjp-downplays-aiadmk-10932810#publisher=newsstand"
+      },
+      {
+        "title": "Mamata Banerjee Calls Poll Chief \"Liar\", Sources Say She Banged Table",
         "link": "https://www.ndtv.com/india-news/can-get-lakhs-of-people-to-delhi-mamata-banerjee-targets-poll-body-over-sir-10932011#publisher=newsstand"
-      },
-      {
-        "title": "Before Real Estate Tycoon CJ Roy's Suicide, Petition Against Tax Raids, Then 'U-Turn'",
-        "link": "https://www.ndtv.com/india-news/before-real-estate-tycoon-suicide-petition-against-tax-raids-then-u-turn-10932239#publisher=newsstand"
-      },
-      {
-        "title": "Father, Compounder, Help: 3 Men At Centre Of Jodhpur Sadhvi's Death Probe",
-        "link": "https://www.ndtv.com/india-news/sadhvi-prem-baisa-father-compounder-help-3-men-at-centre-of-jodhpur-sadhvis-death-probe-10932005#publisher=newsstand"
-      },
-      {
-        "title": "Opinion: Opinion | The Real Reason Mamata Has Taken The SIR Fight To Delhi",
-        "link": "https://www.ndtv.com/opinion/why-mamata-has-taken-the-sir-fight-to-delhi-10931754#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-02 14:26 UTC"
+  "last_updated": "2026-02-02 15:08 UTC"
 }
