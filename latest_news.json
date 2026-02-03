@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel kills Palestinian as 5 allowed to exit Gaza for medical care",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Palestinians return to Gaza after limited Rafah crossing reopening",
+        "link": "https://www.aljazeera.com/video/2026/2/3/palestinians-return-to-gaza-after-limited-rafah-crossing-reopening?traffic_source=rss"
+      },
+      {
+        "title": "Trump announces plan to sue Harvard for $1bn damages",
+        "link": "https://www.aljazeera.com/news/2026/2/3/trump-announces-plan-to-sue-harvard-for-1bn?traffic_source=rss"
+      },
+      {
+        "title": "Uruguay President Orsi deepens ties with China’s Xi despite Trump threats",
+        "link": "https://www.aljazeera.com/news/2026/2/3/uruguay-president-orsi-deepens-ties-with-chinas-xi-despite-trump-threats?traffic_source=rss"
+      },
+      {
         "title": "Record-breaking snow blankets Japan, killing at least 30 people",
         "link": "https://www.aljazeera.com/news/2026/2/3/record-breaking-snow-blankets-japan-killing-at-least-30-people?traffic_source=rss"
       },
       {
         "title": "Trickle of Palestinians get to leave, enter Gaza as Rafah crossing reopens",
         "link": "https://www.aljazeera.com/news/2026/2/3/trickle-of-palestinians-get-to-leave-enter-gaza-as-rafah-crossing-reopens?traffic_source=rss"
-      },
-      {
-        "title": "The drones being used in Sudan: 1,000 attacks since April 2023",
-        "link": "https://www.aljazeera.com/news/longform/2026/2/3/drone-warfare-in-sudan-tracking-1000-aerial-attacks-since-april-2023?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel kills Palestinian as 5 allowed to exit Gaza for medical care",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/2/3/live-israel-kills-palestinian-as-few-allowed-to-exit-gaza-for-medical-care?traffic_source=rss"
-      },
-      {
-        "title": "Jobs, cash, loans: Can Bangladesh’s parties deliver on election promises?",
-        "link": "https://www.aljazeera.com/features/2026/2/3/jobs-cash-loans-can-bangladeshs-parties-deliver-on-election-promises?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,12 @@
     ],
     "Dawn": [
       {
-        "title": "Trump warns of ‘bad things’ if no deal reached with Iran",
-        "link": "https://www.dawn.com/news/1970788/trump-warns-of-bad-things-if-no-deal-reached-with-iran"
+        "title": "NA adopts resolution calling for ‘aggressive’ national response against terrorism’s sponsors, facilitators",
+        "link": "https://www.dawn.com/news/1970806/na-adopts-resolution-calling-for-aggressive-national-response-against-terrorisms-sponsors-facilitators"
+      },
+      {
+        "title": "Shireen Mazari moves IHC for meeting with Imaan, Hadi",
+        "link": "https://www.dawn.com/news/1970812/shireen-mazari-moves-ihc-for-meeting-with-imaan-hadi"
       },
       {
         "title": "‘American colony’: Indian opposition slams Modi’s BJP government for US-India trade deal",
@@ -88,12 +86,8 @@
         "link": "https://www.dawn.com/news/1970697/back-channel-talks-underway-after-pakistan-decide-to-skip-india-t20-world-cup-clash"
       },
       {
-        "title": "Pakistan, Azerbaijan naval chiefs pledge to strengthen bilateral defence ties: ISPR",
-        "link": "https://www.dawn.com/news/1970804/pakistan-azerbaijan-naval-chiefs-pledge-to-strengthen-bilateral-defence-ties-ispr"
-      },
-      {
-        "title": "Pakistan to participate in US critical minerals moot, seeks strategic partnerships and investment",
-        "link": "https://www.dawn.com/news/1970792/pakistan-to-participate-in-us-critical-minerals-moot-seeks-strategic-partnerships-and-investment"
+        "title": "Trump warns of ‘bad things’ if no deal reached with Iran",
+        "link": "https://www.dawn.com/news/1970788/trump-warns-of-bad-things-if-no-deal-reached-with-iran"
       }
     ],
     "APNews": [],
@@ -143,46 +137,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Andrew's illicit activities in Buckingham Palace exposed: Shocking details",
-        "link": "https://www.geo.tv/latest/648755-andrews-illicit-activities-in-buckingham-palace-exposed-shocking-details"
+        "title": "Savannah Guthrie's mother missing; Sheriff reveals alarming twist—here's what we know",
+        "link": "https://www.geo.tv/latest/648761-savannah-guthries-mother-missing-sheriff-reveals-alarming-twistheres-what-we-know"
       },
       {
-        "title": "Meghan Markle extends support to Brooklyn Beckham: 'How hurtful it is'",
-        "link": "https://www.geo.tv/latest/648742-meghan-markle-extends-support-to-brooklyn-beckham-how-hurtful-it-is"
+        "title": "Ricky Gervais calls out stars for turning awards into political platforms",
+        "link": "https://www.geo.tv/latest/648746-ricky-gervais-calls-out-stars-for-turning-awards-into-political-platforms"
       },
       {
-        "title": "Royal Princess photo emerges in Epstein files weeks after Palace notice",
-        "link": "https://www.geo.tv/latest/648748-royal-princess-photo-emerges-in-epstein-files-weeks-after-palace-notice"
+        "title": "Ian McKellen didn't realize popularity of Magneto until 'Avengers: Doomsday'",
+        "link": "https://www.geo.tv/latest/648759-ian-mckellen-didnt-knew-the-popularity-of-magneto-until-avengers-doomsday"
       },
       {
-        "title": "Indian opposition blasts Modi-led BJP govt over US trade deal announcement",
-        "link": "https://www.geo.tv/latest/648743-indian-opposition-blasts-modi-led-bjp-govt-over-us-trade-deal-announcement"
+        "title": "Fact-check: No, PTI supporter did not offer his wife and daughters to Imran Khan. The video is fake",
+        "link": "https://www.geo.tv/latest/648747-fact-checkno-pti-supporter-did-not-offer-his-wife-and-daughters-to-imran-khan-the-video-is-fake"
       },
       {
-        "title": "‘Love Story' trailer unveils dramatic spin on doomed Kennedy romance",
-        "link": "https://www.geo.tv/latest/648733-love-story-trailer-unveils-dramatic-spin-on-doomed-kennedy-romance"
+        "title": "‘Michael' trailer captures King of Pop's thrilling rise to stardom",
+        "link": "https://www.geo.tv/latest/648750-michael-trailer-captures-king-of-pops-thrilling-rise-to-stardom"
       }
     ],
     "NDTV": [
       {
-        "title": "Trump Says India Pledged 'Zero-Tariff Barriers' In US Trade Deal: What It Means",
-        "link": "https://www.ndtv.com/world-news/trump-says-india-pledged-zero-tariff-barriers-in-us-trade-deal-what-it-means-10936719#publisher=newsstand"
+        "title": "\"Farmers Protected, Will Buy Oil From Non-Sanctioned Nations\": Sources On India-US Deal",
+        "link": "https://www.ndtv.com/india-news/india-us-trade-deal-live-updates-farmers-protected-will-buy-oil-from-non-sanctioned-nations-sources-on-us-deal-10936979#publisher=newsstand"
       },
       {
-        "title": "Trump Seeks $1 Billion In Damages From Harvard University",
-        "link": "https://www.ndtv.com/world-news/us-president-donald-trump-seeks-1-billion-in-damages-from-harvard-university-10936823#publisher=newsstand"
+        "title": "Parliament Budget Session 2026 Day 2 Live Updates: Amid Chaos In Lok Sabha, Proceedings Adjourned Till 3:00 PM",
+        "link": "https://www.ndtv.com/india-news/parliament-budget-session-2026-live-lok-sabha-opens-today-with-debate-on-droupadi-murmus-address-18-hour-discussion-pm-modi-nirmala-sitharaman-10929064#publisher=newsstand"
       },
       {
-        "title": "Air India Re-inspects Fuel Switches On Boeing 787s After Reported Defect",
-        "link": "https://www.ndtv.com/india-news/air-india-boeing-787-dreamliner-air-india-vice-presidents-letter-to-pilots-after-fuel-switch-controversy-10936699#publisher=newsstand"
+        "title": "Move Over Regular Snake Catchers, This Odisha Man Uses Mouth, Not Hands",
+        "link": "https://www.ndtv.com/india-news/fearless-odisha-man-handles-giant-snake-with-bare-hands-and-mouth-10936034#publisher=newsstand"
       },
       {
-        "title": "After \"Watch His Ass\" Remark, Trump To Host Columbian President At White House",
-        "link": "https://www.ndtv.com/world-news/after-watch-his-ass-remark-us-president-trump-to-host-columbian-president-gustavo-petro-at-white-house-for-meeting-10936795#publisher=newsstand"
+        "title": "Russian Captain Found Guilty Of Manslaughter Over North Sea Ship Collision",
+        "link": "https://www.ndtv.com/world-news/russian-captain-found-guilty-of-manslaughter-over-north-sea-ship-collision-10937082#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Ambition vs Reality: The Paradox Of India's Defence Spending",
-        "link": "https://www.ndtv.com/opinion/ambition-vs-reality-the-paradox-of-indias-defence-spending-10936762#publisher=newsstand"
+        "title": "Trump's Board Of Peace Could See US Firm Gain 300% Profits In Gaza: Report",
+        "link": "https://www.ndtv.com/world-news/us-president-donald-trump-board-of-peace-could-see-us-firm-gothams-llc-gain-300-profits-in-gaza-report-10937024#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-03 08:02 UTC"
+  "last_updated": "2026-02-03 08:54 UTC"
 }
