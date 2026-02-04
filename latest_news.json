@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Israeli attacks kill 10 Palestinians; restrictions at Rafah crossing",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/2/4/live-israeli-forces-kill-10-palestinians-in-overnight-attacks-across-gaza?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,38 +11,38 @@
         "link": "https://www.bbc.com/news/articles/ce8erj6z8x5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Three quarters of patients will survive cancer by 2035, government promises",
-        "link": "https://www.bbc.com/news/articles/cly139el05go?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Inside Reform: Laura Kuenssberg follows Farage's party as it experiences the glare of scrutiny",
         "link": "https://www.bbc.com/news/articles/cjdjm1j34gko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: BBC on the front line with Colombia's war on drugs",
-        "link": "https://www.bbc.com/news/videos/cp9jg1kr9pjo?at_medium=RSS&at_campaign=rss"
+        "title": "Three quarters of patients will survive cancer by 2035, government promises",
+        "link": "https://www.bbc.com/news/articles/cly139el05go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian attacks on Ukraine energy sites 'particularly depraved', UK PM Starmer says",
+        "link": "https://www.bbc.com/news/articles/crley6x0dgzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Israel suspends evacuation of Palestinians via Rafah crossing: Red Crescent",
+        "link": "https://www.aljazeera.com/news/2026/2/4/israel-suspends-evacuation-of-palestinians-via-rafah-crossing-red-crescent?traffic_source=rss"
+      },
+      {
+        "title": "Yamal scores as Barcelona beat Albacete to reach Copa del Rey semifinals",
+        "link": "https://www.aljazeera.com/sports/2026/2/4/yamal-scores-as-barcelona-beat-albacete-to-reach-copa-del-rey-semifinals?traffic_source=rss"
+      },
+      {
+        "title": "James Harden traded from Clippers to Cavaliers for Darius Garland: Reports",
+        "link": "https://www.aljazeera.com/sports/2026/2/4/james-harden-traded-from-clippers-to-cavaliers-for-darius-garland-reports?traffic_source=rss"
+      },
+      {
+        "title": "Man City’s Guardiola says he will continue to stand up for Palestine",
+        "link": "https://www.aljazeera.com/sports/2026/2/4/man-citys-guardiola-says-he-will-continue-to-stand-up-for-palestine?traffic_source=rss"
+      },
+      {
         "title": "‘Heavily armed’: Greece, Israel boost military ties amid Gaza genocide",
         "link": "https://www.aljazeera.com/news/2026/2/4/greece-woos-israel-for-joint-production-of-weapons-systems?traffic_source=rss"
-      },
-      {
-        "title": "‘No expectations’: Bangladesh election means little to 1m Rohingya refugees",
-        "link": "https://www.aljazeera.com/features/2026/2/4/no-expectations-bangladesh-election-means-little-to-1m-rohingya-refugees?traffic_source=rss"
-      },
-      {
-        "title": "Trump says talks with Iran continuing amid tensions",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/4/trump-says-talks-with-iran-continuing-amid-tensions?traffic_source=rss"
-      },
-      {
-        "title": "Russia-Ukraine war: Second round of peace talks set to begin in Abu Dhabi",
-        "link": "https://www.aljazeera.com/news/2026/2/4/russia-ukraine-war-second-round-of-peace-talks-set-to-begin-in-abu-dhabi?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israeli attacks kill 10 Palestinians; restrictions at Rafah crossing",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/2/4/live-israeli-forces-kill-10-palestinians-in-overnight-attacks-across-gaza?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -88,12 +82,12 @@
         "link": "https://www.dawn.com/news/1971007/spin-heavy-pakistan-hit-form-but-india-boycott-risks-early-t20-exit"
       },
       {
-        "title": "Bulls sustain rally, with KSE-100 up over 1,000 points during early trading on Wednesday",
-        "link": "https://www.dawn.com/news/1971005/bulls-sustain-rally-with-kse-100-up-over-1000-points-during-early-trading-on-wednesday"
+        "title": "Punjab government notifies public holidays on Feb 6, 7 for Basant",
+        "link": "https://www.dawn.com/news/1971014/punjab-government-notifies-public-holidays-on-feb-6-7-for-basant"
       },
       {
-        "title": "Human Rights Watch warns US heading to ‘authoritarianism’",
-        "link": "https://www.dawn.com/news/1971008/human-rights-watch-warns-us-heading-to-authoritarianism"
+        "title": "Bulls sustain rally, with KSE-100 up over 1,000 points during early trading on Wednesday",
+        "link": "https://www.dawn.com/news/1971005/bulls-sustain-rally-with-kse-100-up-over-1000-points-during-early-trading-on-wednesday"
       }
     ],
     "APNews": [],
@@ -107,16 +101,16 @@
         "link": "https://www.nytimes.com/2026/02/03/business/jeffrey-epstein-trust-inherit-karyna-shuliak.html"
       },
       {
-        "title": "Catherine O’Hara, Star of ‘Best in Show,’ Honored in Westminster Tribute",
-        "link": "https://www.nytimes.com/2026/02/03/style/catherine-ohara-westminster-dog-show.html"
-      },
-      {
         "title": "Trump, Changing Course, Throws Harvard Deal Talks Into Chaos",
         "link": "https://www.nytimes.com/2026/02/03/us/politics/trump-changing-course-throws-harvard-deal-talks-into-chaos.html"
       },
       {
         "title": "Trump Repeats Call to ‘Nationalize’ Elections, as White House Walks It Back",
         "link": "https://www.nytimes.com/2026/02/03/us/politics/trump-save-act-elections.html"
+      },
+      {
+        "title": "Trump Scolds CNN’s Kaitlan Collins for ‘Not Smiling’",
+        "link": "https://www.nytimes.com/2026/02/03/us/politics/kaitlan-collins-smile-trump.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,46 +137,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Pak Suzuki Unveils Its New Brand Tagline 'By Your Side'",
-        "link": "https://www.geo.tv/latest/648945-pak-suzuki-unveils-its-new-brand-tagline-by-your-side"
+        "title": "Andrew to face real reckoning under William's reign: watch",
+        "link": "https://www.geo.tv/latest/648940-andrew-to-face-real-reckoning-under-williams-reign-watch"
       },
       {
-        "title": "Princess Kate makes statement beyond fashion in Wales visit",
-        "link": "https://www.geo.tv/latest/648936-princess-kate-makes-statement-beyond-fashion-in-wales-visit"
+        "title": "'Mismatched' nears the end as Netflix drops teaser for final season",
+        "link": "https://www.geo.tv/latest/648939-mismatched-nears-the-end-as-netflix-drops-teaser-for-final-season"
       },
       {
-        "title": "Human Rights Watch warns US heading to 'authoritarianism'",
-        "link": "https://www.geo.tv/latest/648927-human-rights-watch-warns-us-heading-to-authoritarianism"
+        "title": "Ellen Pompeo details emotional chat with Eric Dane after ALS diagnosis",
+        "link": "https://www.geo.tv/latest/648943-ellen-pompeo-details-emotional-chat-with-eric-dane-after-als-diagnosis"
       },
       {
-        "title": "Prince Harry's ‘unlawful' claims strengthened by new testimony in UK court",
-        "link": "https://www.geo.tv/latest/648938-prince-harrys-unlawful-claims-strengthened-by-new-testimony-in-uk-court"
+        "title": "T20 World Cup: ICC seeks 'backchannel talks' after Pakistan boycotts India match",
+        "link": "https://www.geo.tv/latest/648937-t20-world-cup-icc-seeks-backchannel-talks-after-pakistan-boycotts-india-match"
       },
       {
-        "title": "Shocking new leads uncovered in missing case of Savannah Guthrie's mother",
-        "link": "https://www.geo.tv/latest/648933-shocking-new-leads-uncovered-in-missing-case-of-savannah-guthries-mother"
+        "title": "Charli XCX says she doesn't want kids: 'Maybe I'm not ready'",
+        "link": "https://www.geo.tv/latest/648949-charli-xcx-says-she-doesnt-want-kids-maybe-im-not-ready"
       }
     ],
     "NDTV": [
       {
-        "title": "Opinion: Chinese AI Videos Used To Look Fake. Now They Look Like Money",
-        "link": "https://www.ndtv.com/opinion/chinese-ai-videos-used-to-look-fake-now-they-look-like-money-10943634#publisher=newsstand"
+        "title": "Bengal Man Jumps From Bridge, Dies By Electrocution After Falling On Train",
+        "link": "https://www.ndtv.com/india-news/west-bengal-man-jumps-from-bridge-dies-by-electrocution-after-falling-on-train-10943976#publisher=newsstand"
       },
       {
-        "title": "Rahul Gandhi's \"Traitor\" Jab At BJP's Ravneet Bittu, Then A Handshake Snub",
-        "link": "https://www.ndtv.com/india-news/rahul-gandhi-traitor-jab-at-bjp-leader-ravneet-singh-bittu-then-a-handshake-snub-10943508#publisher=newsstand"
+        "title": "Operation KIYA: 2 Jaish Terrorists Killed In Encounter In J&K's Udhampur",
+        "link": "https://www.ndtv.com/india-news/operation-kiya-2-jaish-e-mohammad-terrorists-killed-in-encounter-in-jammu-and-kashmirs-udhampur-10943903#publisher=newsstand"
       },
       {
         "title": "On Camera, Teen House Help Rescued From Bed Box, Man Was Sleeping On Top",
         "link": "https://www.ndtv.com/india-news/guwahati-news-on-camera-teen-house-help-rescued-from-bed-box-man-was-sleeping-on-top-10943466#publisher=newsstand"
       },
       {
-        "title": "Indian Man, Illegally In US, Gropes Woman On Flight. Then Pretends To Sleep",
-        "link": "https://www.ndtv.com/world-news/indian-man-illegally-in-us-gropes-woman-on-flight-then-pretends-to-sleep-10943473#publisher=newsstand"
+        "title": "\"Traitor Friend\": Rahul Gandhi's Dig At BJP's Ravneet Bittu Sparks Huge Row",
+        "link": "https://www.ndtv.com/india-news/rahul-gandhi-traitor-jab-at-bjp-leader-ravneet-singh-bittu-then-a-handshake-snub-10943508#publisher=newsstand"
       },
       {
-        "title": "Vedanta Chairman Anil Agarwal To Donate 75% Wealth For Social Causes",
-        "link": "https://www.ndtv.com/india-news/vedanta-chairman-anil-agarwal-to-donate-75-wealth-for-social-causes-10943008#publisher=newsstand"
+        "title": "Elon Musk's X Under Investigation In France: What Are The Charges",
+        "link": "https://www.ndtv.com/world-news/elon-musks-x-under-investigation-in-france-what-are-the-charges-10943027#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-04 07:56 UTC"
+  "last_updated": "2026-02-04 08:47 UTC"
 }
