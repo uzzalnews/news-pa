@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: After barrage of threats, US and Iran set to hold talks on Friday",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/5/live-after-barrage-of-threats-us-and-iran-set-to-hold-talks-on-friday?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "MPs back plan to release Mandelson files after Labour anger forces climbdown",
-        "link": "https://www.bbc.com/news/articles/clyw0050p99o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Email appears to confirm Andrew and Virginia Giuffre photo is real",
-        "link": "https://www.bbc.com/news/articles/cvgp2xx7gxjo?at_medium=RSS&at_campaign=rss"
+        "title": "Naked images remained in Epstein files despite outcry",
+        "link": "https://www.bbc.com/news/articles/c5yd10yp2m1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "US must be prudent when supplying arms to Taiwan, Xi tells Trump",
         "link": "https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fearing Russia will seize her town, war widow moves husband's grave to Kyiv",
-        "link": "https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: Inside Gaza hospital struggling to provide care to newborn babies",
+        "link": "https://www.bbc.com/news/videos/c62wpd7wj3ro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Period blood test could offer less invasive alternative to cervical screening",
         "link": "https://www.bbc.com/news/articles/cly90d21qexo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We are ready to talk' - US news anchor pleads for return of her abducted mother",
+        "link": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "UN warns of humanitarian collapse in Cuba as US seeks to block oil supplies",
-        "link": "https://www.aljazeera.com/news/2026/2/5/un-warns-of-humanitarian-collapse-in-cuba-as-us-seeks-to-block-oil-supplies?traffic_source=rss"
+        "title": "Bitcoin plunge continues, erasing gains since Trump’s election",
+        "link": "https://www.aljazeera.com/economy/2026/2/5/bitcoin-plunge-continues-erasing-gains-since-trumps-election?traffic_source=rss"
       },
       {
-        "title": "‘Country of the blind’: How will Bangladesh remember Muhammad Yunus?",
-        "link": "https://www.aljazeera.com/news/2026/2/5/country-of-the-blind-how-will-bangladesh-remember-muhammad-yunus?traffic_source=rss"
+        "title": "‘We have to rebuild’: Mozambique flood victims persevere in face of loss",
+        "link": "https://www.aljazeera.com/features/2026/2/5/we-have-to-rebuild-mozambique-flood-victims-persevere-in-face-of-loss?traffic_source=rss"
       },
       {
-        "title": "Zelenskyy reveals 55,000 Ukrainian soldiers killed fighting against Russia",
-        "link": "https://www.aljazeera.com/news/2026/2/5/zelenskyy-reveals-55000-ukrainian-soldiers-killed-fighting-against-russia?traffic_source=rss"
+        "title": "LIVE: After barrage of threats, US and Iran set to hold talks on Friday",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/2/5/live-after-barrage-of-threats-us-and-iran-set-to-hold-talks-on-friday?traffic_source=rss"
       },
       {
-        "title": "Australia charges teen over online threat as Israeli president due to visit",
-        "link": "https://www.aljazeera.com/news/2026/2/5/australia-charges-teen-over-online-threat-as-israeli-president-due-to-visit?traffic_source=rss"
+        "title": "Who are the past winners, and what’s the history of the T20 World Cup?",
+        "link": "https://www.aljazeera.com/sports/2026/2/5/who-are-the-past-winners-and-whats-the-history-of-the-t20-world-cup?traffic_source=rss"
       },
       {
-        "title": "Nike probed by Trump appointee over claims of bias against white workers",
-        "link": "https://www.aljazeera.com/economy/2026/2/5/nike-probed-by-trump-appointee-over-claims-of-bias-against-white-workers?traffic_source=rss"
+        "title": "Italy probes suspect in Sarajevo ‘sniper tourism’ during Bosnia war: Report",
+        "link": "https://www.aljazeera.com/news/2026/2/5/italy-probes-suspect-in-sarajevo-sniper-tourism-during-bosnia-war-report?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,20 +76,20 @@
     ],
     "Dawn": [
       {
-        "title": "Govt ready to collect Rs217bn super tax arrears in instalments",
-        "link": "https://www.dawn.com/news/1971144/govt-ready-to-collect-rs217bn-super-tax-arrears-in-instalments"
-      },
-      {
         "title": "Kashmir Solidarity Day: Pakistani leadership reaffirms support for Kashmiris’ just struggle",
         "link": "https://www.dawn.com/news/1971201/kashmir-solidarity-day-pakistani-leadership-reaffirms-support-for-kashmiris-just-struggle"
+      },
+      {
+        "title": "Govt ready to collect Rs217bn super tax arrears in instalments",
+        "link": "https://www.dawn.com/news/1971144/govt-ready-to-collect-rs217bn-super-tax-arrears-in-instalments"
       },
       {
         "title": "CDF Munir says terrorists, facilitators will not be spared; no one can rationalise violence on any pretext",
         "link": "https://www.dawn.com/news/1971048/cdf-munir-says-terrorists-facilitators-will-not-be-spared-no-one-can-rationalise-violence-on-any-pretext"
       },
       {
-        "title": "UN rapporteurs alarmed by Imaan, Hadi convictions",
-        "link": "https://www.dawn.com/news/1971143/un-rapporteurs-alarmed-by-imaan-hadi-convictions"
+        "title": "Iran-US talks ‘back on track’ after setbacks",
+        "link": "https://www.dawn.com/news/1971148/iran-us-talks-back-on-track-after-setbacks"
       },
       {
         "title": "US floats price floor plan for critical minerals",
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
-        "title": "Katie Price stands by new husband despite explosive claims from his exes",
-        "link": "https://www.geo.tv/latest/649122-katie-price-stands-by-new-husband-despite-explosive-claims-from-his-exes"
+        "title": "Paul Weiss Chairman 'Brad Karp' resigns after name appears in Epstein files",
+        "link": "https://www.geo.tv/latest/649134-paul-weiss-chairman-brad-karp-resigns-after-name-appears-in-epstein-files"
       },
       {
-        "title": "Andrew Mountbatten-Windsor receives humiliating welcome in new home",
-        "link": "https://www.geo.tv/latest/649125-andrew-mountbatten-windsor-receives-humiliating-welcome-in-new-home"
+        "title": "Former England captain urges ICC consistency, backs Pakistan's stance",
+        "link": "https://www.geo.tv/latest/649127-former-england-captain-urges-icc-consistency-backs-pakistans-stance"
       },
       {
-        "title": "King Charles introduces strict rule for Andrew: Details inside",
-        "link": "https://www.geo.tv/latest/649118-king-charles-introduces-strict-rule-for-andrew-details-inside"
+        "title": "Trump declines to take sides between Vance, Rubio in 2028 successor debate",
+        "link": "https://www.geo.tv/latest/649110-trump-declines-to-take-sides-between-vance-rubio-in-2028-successor-debate"
       },
       {
-        "title": "Chappell Roan takes over Fortnite after scene-stealing Grammys appearance",
-        "link": "https://www.geo.tv/latest/649114-chappell-roan-takes-over-fortnite-after-scene-stealing-grammys-appearance"
+        "title": "‘The Crown' star Claire Foy reveals health scare that ended her caffeine habit",
+        "link": "https://www.geo.tv/latest/649130-the-crown-star-claire-foy-reveals-health-scare-that-ended-her-caffeine-habit"
       },
       {
-        "title": "Uneven playing field",
-        "link": "https://www.geo.tv/latest/649120-uneven-playing-field"
+        "title": "Kylie Kelce teases Travis Kelce as 'super mystery guest' in new podcast",
+        "link": "https://www.geo.tv/latest/649124-kylie-kelce-teases-travis-kelce-as-super-mystery-guest-in-new-podcast"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-05 05:40 UTC"
+  "last_updated": "2026-02-05 06:37 UTC"
 }
