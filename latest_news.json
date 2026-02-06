@@ -1,14 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "\"Leave Iran Now\": US' Urgent Warning To Americans Amid Trump's Attack Threat",
+      "link": "https://www.ndtv.com/world-news/leave-iran-now-us-urgent-warning-to-americans-amid-trumps-attack-threat-10956929#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
         "title": "US and Iran talks to begin as fears of direct conflict continue",
         "link": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Top government figures to hand over private messages with Mandelson",
-        "link": "https://www.bbc.com/news/articles/c0q4jk5pnl9o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "We had sex in a Chinese hotel, then found we had been broadcast to thousands",
@@ -19,30 +21,34 @@
         "link": "https://www.bbc.com/news/articles/cy9y3n43192o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US healthcare needs fixing, but there's no agreement on how to do it",
-        "link": "https://www.bbc.com/news/articles/cn0k6d6z7j3o?at_medium=RSS&at_campaign=rss"
+        "title": "Statin pills much safer than advertised, major review finds",
+        "link": "https://www.bbc.com/news/articles/c80142p2g00o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jacob Elordi: I practised my Northern accent in the bath",
+        "link": "https://www.bbc.com/news/articles/c07xyp5rxl3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Demonstrators arrested over ICE protest at Columbia University",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/6/demonstrators-arrested-over-ice-protest-at-columbia-university?traffic_source=rss"
+      },
+      {
+        "title": "Gold fluctuations baffle Lebanese jewellers, gold market",
+        "link": "https://www.aljazeera.com/features/2026/2/6/gold-fluctuations-baffle-lebanese-jewellers-gold-market?traffic_source=rss"
+      },
+      {
+        "title": "Iran foreign minister arrives in Oman for talks with US",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/6/iran-foreign-minister-arrives-in-oman-for-talks-with-us?traffic_source=rss"
+      },
+      {
+        "title": "‘It matters’: Can Bangladeshi voters in Britain impact country’s election?",
+        "link": "https://www.aljazeera.com/features/2026/2/6/election-matters-bangladesh-vote-reaches-britain-but-some-feel-excluded?traffic_source=rss"
+      },
+      {
         "title": "Thailand election 2026: What are the main parties? What do polls suggest?",
         "link": "https://www.aljazeera.com/news/2026/2/6/thailand-election-2026-what-are-the-main-parties-what-do-polls-suggest?traffic_source=rss"
-      },
-      {
-        "title": "Norway police investigate former PM Jagland over Epstein ties",
-        "link": "https://www.aljazeera.com/economy/2026/2/6/norway-police-probes-former-pm-jagland-over-epstein-ties?traffic_source=rss"
-      },
-      {
-        "title": "Elderly Palestinians determined to stay in Gaza despite terrible conditions",
-        "link": "https://www.aljazeera.com/features/2026/2/6/elderly-palestinians-determined-stay-gaza-despite-terrible-conditions?traffic_source=rss"
-      },
-      {
-        "title": "Trump’s ‘maximalist demands’ for Iran put talks in Oman on uncertain ground",
-        "link": "https://www.aljazeera.com/news/2026/2/6/trumps-maximalist-demands-for-iran-put-talks-in-oman-on-uncertain-ground?traffic_source=rss"
-      },
-      {
-        "title": "US-Iran talks live: Critical talks to begin in Oman in push to prevent war",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/2/6/us-iran-talks-live-critical-negotiations-set-to-begin-in-oman?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1971383/iran-us-to-negotiate-in-oman-today-amid-deep-rifts-and-mounting-war-fears"
       },
       {
+        "title": "US condemns ‘horrific’ acts of terrorism in Balochistan, stands ‘steadfast’ with Pakistan",
+        "link": "https://www.dawn.com/news/1971404/us-condemns-horrific-acts-of-terrorism-in-balochistan-stands-steadfast-with-pakistan"
+      },
+      {
+        "title": "At least two injured by stray kite string as Basant festivities kick off in Lahore",
+        "link": "https://www.dawn.com/news/1971406/at-least-two-injured-by-stray-kite-string-as-basant-festivities-kick-off-in-lahore"
+      },
+      {
         "title": "Moonis Alvi tenders resignation as KE CEO",
         "link": "https://www.dawn.com/news/1971391/moonis-alvi-tenders-resignation-as-ke-ceo"
-      },
-      {
-        "title": "PMDC urged to lower MDCAT passing marks to fill vacant seats in Sindh’s private medical colleges",
-        "link": "https://www.dawn.com/news/1971286/pmdc-urged-to-lower-mdcat-passing-marks-to-fill-vacant-seats-in-sindhs-private-medical-colleges"
-      },
-      {
-        "title": "Mani urges ICC chief to personally address Pakistan’s grievances",
-        "link": "https://www.dawn.com/news/1971305/mani-urges-icc-chief-to-personally-address-pakistans-grievances"
       }
     ],
     "APNews": [],
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Brooklyn Beckham covers up 'dad' tattoo amid family fallout: Pictures",
-        "link": "https://www.geo.tv/latest/649319-brooklyn-beckham-covers-up-dad-tattoo-amid-family-fallout-pictures"
+        "title": "Kristen Stewart reveals Princess Diana still ‘haunts' her",
+        "link": "https://www.geo.tv/latest/649330-kristen-stewart-reveals-princess-diana-still-haunts-her"
       },
       {
-        "title": "Bad Bunny teases fans with rare Super Bowl 2026 cameo update",
-        "link": "https://www.geo.tv/latest/649320-bad-bunny-teases-fans-with-rare-super-bowl-2026-cameo-update"
+        "title": "AI tools fabricate Epstein images 'in seconds', says study",
+        "link": "https://www.geo.tv/latest/649321-ai-tools-fabricate-epstein-images-in-seconds-study-says"
       },
       {
-        "title": "24 India-backed terrorists killed in two KP operations: ISPR",
-        "link": "https://www.geo.tv/latest/649318-24-india-backed-terrorists-killed-in-two-kp-operations-ispr"
+        "title": "Travis Kelce pins Taylor Swift for one MAJOR thing",
+        "link": "https://www.geo.tv/latest/649328-travis-kelce-pins-taylor-swift-for-one-major-thing"
       },
       {
-        "title": "PSX slips on super tax worries, US-India trade deal news",
-        "link": "https://www.geo.tv/latest/649314-psx-slips-on-super-tax-worries-us-india-trade-deal-headlines"
+        "title": "Andrew refuses to 'lie low' despite King Charles orders",
+        "link": "https://www.geo.tv/latest/649332-andrew-refuses-to-lie-low-despite-king-charles-orders"
       },
       {
-        "title": "Jesy Nelson says breakup was 'like EastEnders drama'",
-        "link": "https://www.geo.tv/latest/649313-jesy-nelson-says-breakup-was-like-eastenders-drama-after-twins-sma-diagnosis"
+        "title": "Emily Osment has surprise 'Hannah Montana' reunion: 'Starting to freak out'",
+        "link": "https://www.geo.tv/latest/649336-emily-osment-has-surprise-hannah-montana-reunion-starting-to-freak-out"
       }
     ],
     "NDTV": [
       {
-        "title": "RBI Keeps Repo Rate Unchanged In First Policy Decision After Budget",
-        "link": "https://www.ndtv.com/india-news/rbi-keeps-repo-rate-unchanged-in-first-policy-decision-after-budget-10956425#publisher=newsstand"
+        "title": "Delhi Biker Falls To Death In Pool-Sized Pit Dug Up On Road By Water Board",
+        "link": "https://www.ndtv.com/india-news/delhi-biker-falls-to-death-in-massive-pit-dug-up-on-road-by-water-board-10957121#publisher=newsstand"
       },
       {
-        "title": "The Sale Of xAI Comes With Tax, Financial And Legal Benefits For Investors",
-        "link": "https://www.ndtv.com/world-news/the-sale-of-xai-comes-with-tax-financial-and-legal-benefits-for-investors-10955724#publisher=newsstand"
+        "title": "Who Was Lucky Oberoi, AAP Leader Shot Dead In Punjab",
+        "link": "https://www.ndtv.com/india-news/who-was-lucky-oberoi-aap-leader-shot-dead-in-punjab-10956754#publisher=newsstand"
       },
       {
-        "title": "\"Will Thank Centre For Good Work, Even If Congress Gets Upset\": Omar Abdullah",
-        "link": "https://www.ndtv.com/india-news/will-thank-centre-for-good-work-even-if-congress-gets-upset-omar-abdullah-10956344#publisher=newsstand"
+        "title": "Video: Malayalam Actor Speeds Away After Biker Falls In Crash With His Car",
+        "link": "https://www.ndtv.com/india-news/malayalam-actor-maniyanpilla-raju-involved-in-hit-and-run-2-injured-10956354#publisher=newsstand"
       },
       {
-        "title": "Is Gulf The Next Big Market For India? Mega Trade Deal With 6 Nations In Talks",
-        "link": "https://www.ndtv.com/world-news/is-gulf-the-next-big-market-for-india-mega-trade-deal-with-6-nations-uae-qatar-kuwait-oman-bahrain-in-talks-10956357#publisher=newsstand"
+        "title": "\"Leave Iran Now\": US' Urgent Warning To Americans Amid Trump's Attack Threat",
+        "link": "https://www.ndtv.com/world-news/leave-iran-now-us-urgent-warning-to-americans-amid-trumps-attack-threat-10956929#publisher=newsstand"
       },
       {
-        "title": "Trump Accepts UK Deal On Indian Ocean Islands With Key Military Base",
-        "link": "https://www.ndtv.com/world-news/donald-trump-accepts-uk-deal-on-indian-ocean-islands-with-key-military-base-10955262#publisher=newsstand"
+        "title": "On Camera, Woman Groped, Dragged, Assaulted For 15 Minutes In Maharashtra",
+        "link": "https://www.ndtv.com/india-news/maharashtra-crime-news-on-camera-woman-groped-dragged-assaulted-for-15-minutes-in-maharashtra-10957147#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-06 06:30 UTC"
+  "last_updated": "2026-02-06 07:30 UTC"
 }
