@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: India vs United States – T20 World Cup",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/7/live-india-vs-united-states-t20-world-cup?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Dinosaurs for sale: Is the global fossil market harming science?",
+        "link": "https://www.aljazeera.com/video/101-east/2026/2/7/dinosaurs-for-sale-is-the-global-fossil-market-harming-science?traffic_source=rss"
+      },
+      {
         "title": "Deadly Islamabad bombing sharpens focus on cross-border attacks in Pakistan",
         "link": "https://www.aljazeera.com/news/2026/2/7/deadly-islamabad-bombing-sharpens-focus-on-cross-border-attacks-in-pakistan?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Faheem leads Pakistan to nervy win over Netherlands in T20 World Cup opener",
         "link": "https://www.aljazeera.com/sports/2026/2/7/ashraf-leads-pakistan-to-nervy-win-over-netherlands-as-t20-world-cup-begins?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: India vs United States – T20 World Cup",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/7/live-india-vs-united-states-t20-world-cup?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -143,24 +137,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Zayn Malik, Louis docuseries spark confusion, producer sets record straight",
+        "link": "https://www.geo.tv/latest/649578-zayn-malik-louis-tomlinson-documentary-producer-sets-record-straight"
+      },
+      {
+        "title": "Beatrice, Eugenie left devastated by Andrew-Fergie storm",
+        "link": "https://www.geo.tv/latest/649568-princesses-beatrice-eugenie-having-tough-time"
+      },
+      {
+        "title": "Teyana Taylor set to launch directorial debut in 2027",
+        "link": "https://www.geo.tv/latest/649585-teyana-taylor-set-to-launch-directorial-debut-in-2027"
+      },
+      {
         "title": "Ex-NFL star Darron Lee charged in girlfriend's murder: Here's what we know",
         "link": "https://www.geo.tv/latest/649579-ex-nfl-star-darren-lee-charged-in-girlfriends-murder-heres-what-we-know"
       },
       {
         "title": "Rahmanullah Gurbaz pulls out of PSL 11, citing 'personal commitments'",
         "link": "https://www.geo.tv/latest/649580-rahmanullah-gurbaz-pulls-out-of-psl-11-citing-personal-commitments"
-      },
-      {
-        "title": "Alex Warren teases new song 'Fever Dream' release date: 'Really soon'",
-        "link": "https://www.geo.tv/latest/649574-alex-warren-teases-new-song-fever-dream-release-date-really-soon"
-      },
-      {
-        "title": "Heavy snowfall leaves 45 dead, more than 500 injured across Japan",
-        "link": "https://www.geo.tv/latest/649583-heavy-snowfall-leaves-45-dead-more-than-500-injured-across-japan"
-      },
-      {
-        "title": "Bianca Censori shares unexpected details about Kanye West",
-        "link": "https://www.geo.tv/latest/649549-bianca-censori-shares-unexpected-details-about-kanye-west"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-07 11:48 UTC"
+  "last_updated": "2026-02-07 11:59 UTC"
 }
