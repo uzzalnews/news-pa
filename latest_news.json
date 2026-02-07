@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: India vs United States – T20 World Cup",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/7/live-india-vs-united-states-t20-world-cup?traffic_source=rss"
+    },
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Manchester United vs Tottenham Hotspur – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/7/live-manchester-united-vs-tottenham-hotspur-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,7 +18,7 @@
         "link": "https://www.bbc.com/news/articles/c99k9yzzvm4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Their parents are in disgrace, what now for Beatrice and Eugenie?",
+        "title": "Their parents are in disgrace - what now for Beatrice and Eugenie?",
         "link": "https://www.bbc.com/news/articles/ce8r5pjlgv7o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,24 +36,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "India now sets the terms of global cricket",
-        "link": "https://www.aljazeera.com/opinions/2026/2/7/india-now-sets-the-terms-of-global-cricket?traffic_source=rss"
+        "title": "LIVE: India vs United States – T20 World Cup",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/7/live-india-vs-united-states-t20-world-cup?traffic_source=rss"
       },
       {
-        "title": "France to investigate former culture minister Lang over Epstein links",
-        "link": "https://www.aljazeera.com/news/2026/2/7/france-to-investigate-former-culture-minister-lang-over-epstein-links?traffic_source=rss"
+        "title": "LIVE: Manchester United vs Tottenham Hotspur – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/7/live-manchester-united-vs-tottenham-hotspur-premier-league?traffic_source=rss"
       },
       {
-        "title": "Iran’s foreign minister slams hypocrisy over Israeli military expansion",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss"
+        "title": "What you need to know about Portugal’s presidential run-off",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/7/what-you-need-to-know-about-portugals-presidential-run-off?traffic_source=rss"
       },
       {
-        "title": "In Japan’s election, voters hope for relief from rising prices",
-        "link": "https://www.aljazeera.com/economy/2026/2/7/in-japans-election-voters-hope-for-relief-from-rising-prices?traffic_source=rss"
+        "title": "Reporter’s Notebook: Portugal’s far right surges in presidential election",
+        "link": "https://www.aljazeera.com/features/2026/2/7/portugal-far-right-presidential-election-historic-victory?traffic_source=rss"
       },
       {
-        "title": "UN, US condemn RSF drone strikes on aid deliveries in famine-hit Sudan",
-        "link": "https://www.aljazeera.com/news/2026/2/7/un-us-condemn-rsf-drone-strikes-on-aid-deliveries-in-famine-hit-sudan?traffic_source=rss"
+        "title": "Thousands mourn 32 victims of Islamabad Shia mosque bombing in Pakistan",
+        "link": "https://www.aljazeera.com/news/2026/2/7/thousands-mourn-32-victims-of-islamabad-shia-mosque-bombing-in-pakistan?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,8 +85,8 @@
         "link": "https://www.dawn.com/news/1971626/death-toll-from-islamabad-imambargah-attack-rises-to-36-victims-laid-to-rest"
       },
       {
-        "title": "Police official martyred, constable injured during Nowshera raid",
-        "link": "https://www.dawn.com/news/1971655/police-official-martyred-constable-injured-during-nowshera-raid"
+        "title": "Cop martyred, another injured during Nowshera raid to arrest Islamabad attack facilitators",
+        "link": "https://www.dawn.com/news/1971655/cop-martyred-another-injured-during-nowshera-raid-to-arrest-islamabad-attack-facilitators"
       },
       {
         "title": "Two Pakistani candidates shortlisted to train for China space station mission",
@@ -115,6 +126,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "What has happened in a year of US foreign aid cuts?",
+        "link": "https://www.middleeasteye.net/news/what-has-happened-year-us-foreign-aid-cuts"
+      },
+      {
+        "title": "The deadly landmine legacy of Syria’s war",
+        "link": "https://www.middleeasteye.net/news/the-deadly-landmine-legacy-syria-war"
+      },
+      {
         "title": "US deported Palestinians to Israel on private jet twice: Report",
         "link": "https://www.middleeasteye.net/news/us-twice-deported-palestinians-israel-private-jet-report"
       },
@@ -125,36 +144,28 @@
       {
         "title": "UAE drafted map to build 'temporary UAE housing complex' in Israel-controlled Gaza",
         "link": "https://www.middleeasteye.net/news/uae-drafted-map-build-temporary-uae-housing-complex-israel-controlled-gaza"
-      },
-      {
-        "title": "Republican senator demands Mamdani explain antisemitism strategy or risk federal funding",
-        "link": "https://www.middleeasteye.net/news/republican-senator-demands-zohran-mamdani-explain-antisemitism-strategy-or-risk-federal"
-      },
-      {
-        "title": "Lawyers say jury-tampering claims in Palestine Action trial ‘dangerous’ and ‘misleading’",
-        "link": "https://www.middleeasteye.net/news/palestine-action-lawyers-trial-say-jury-tampering-claims-dangerous-misleading"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince William left in crucial dilemma as he receives urgent plea",
-        "link": "https://www.geo.tv/latest/649550-prince-william-left-in-crucial-dilemma-as-he-receives-urgent-plea"
+        "title": "How to watch Taylor Swift's new 'Opalite' music video ahead of YouTube release",
+        "link": "https://www.geo.tv/latest/649556-how-to-watch-taylor-swifts-new-opalite-music-video-ahead-of-youtube-release"
       },
       {
-        "title": "Michael B. Jordan honors Chadwick Boseman with touching 'Black Panther' tribute",
-        "link": "https://www.geo.tv/latest/649548-michael-jordan-honors-chadwick-boseman-with-touching-black-panther-tribute"
+        "title": "Princess Diana made choice no one saw coming: watch",
+        "link": "https://www.geo.tv/latest/649539-princess-diana-made-choice-no-one-saw-coming-watch"
       },
       {
-        "title": "Pakistani astronauts shortlisted for China's space station mission",
-        "link": "https://www.geo.tv/latest/649544-pakistani-astronauts-shortlisted-for-chinas-space-station-mission"
+        "title": "China develops microwave weapon to attack satellites in space",
+        "link": "https://www.geo.tv/latest/649559-china-develops-microwave-weapon-to-attack-satellites-in-space"
       },
       {
-        "title": "White House deletes video after blaming staffer for Obama 'apes' post: report claims",
-        "link": "https://www.geo.tv/latest/649547-white-house-deletes-video-after-blaming-staffer-for-obama-apes-post-report-claims"
+        "title": "Timothy Busfield put on trial for child abuse with official charges",
+        "link": "https://www.geo.tv/latest/649555-timothy-busfield-put-on-trial-for-child-abuse-with-official-charges"
       },
       {
-        "title": "Chris Hemsworth gets candid about 'money-driven' movie choices",
-        "link": "https://www.geo.tv/latest/649545-chris-hemsworth-gets-candid-about-money-driven-career-choices"
+        "title": "Billionaire Grant Cardone selling private jet after recent Bitcoin crash",
+        "link": "https://www.geo.tv/latest/649554-billionaire-grant-cardone-selling-private-jet-after-recent-bitcoin-crash"
       }
     ],
     "NDTV": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-07 09:14 UTC"
+  "last_updated": "2026-02-07 09:47 UTC"
 }
