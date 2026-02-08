@@ -1,14 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Liverpool vs Manchester City – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/8/live-liverpool-vs-manchester-city-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
         "title": "Foreign Office to review Mandelson's US ambassador pay-off",
         "link": "https://www.bbc.com/news/articles/cz9v9d0xj8qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Don't drop PM over Mandelson, minister urges Labour MPs",
-        "link": "https://www.bbc.com/news/articles/cy03nd2yxzdo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "My car was stolen. Here are six important things I learned",
@@ -21,28 +23,32 @@
       {
         "title": "US news anchor Savannah Guthrie says 'we will pay' in plea for mother's return",
         "link": "https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russia names three suspects over shooting of general",
+        "link": "https://www.bbc.com/news/articles/cy7j6xe8862o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "England beat Nepal by 4 runs; avoid shock at T20 World Cup",
+        "link": "https://www.aljazeera.com/sports/2026/2/8/england-beat-nepal-by-4-runs-avoid-shock-at-t20-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "US federal agent breaks pet dog’s rib in Tennessee",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/8/us-federal-agent-breaks-pet-dogs-rib-in-tennessee?traffic_source=rss"
+      },
+      {
+        "title": "Trump won’t apologise despite backlash over video depicting Obamas as apes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/8/trump-wont-apologise-despite-backlash-over-video-depicting-obamas-as-apes?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Liverpool vs Manchester City – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/8/live-liverpool-vs-manchester-city-premier-league?traffic_source=rss"
+      },
+      {
         "title": "India and Malaysia pledge to bolster trade, defence collaborations",
         "link": "https://www.aljazeera.com/news/2026/2/8/india-and-malaysia-pledge-to-bolster-trade-defence-collaborations?traffic_source=rss"
-      },
-      {
-        "title": "From blackouts to food shortages: How US blockade is crippling life in Cuba",
-        "link": "https://www.aljazeera.com/economy/2026/2/8/from-blackouts-to-food-shortages-how-us-blockade-is-crippling-life-in-cuba?traffic_source=rss"
-      },
-      {
-        "title": "Lindsey Vonn ⁠crashes out; Breezy Johnson wins downhill at Winter Olympics",
-        "link": "https://www.aljazeera.com/sports/2026/2/8/lindsey-vonn-%e2%81%a0crashes-out-breezy-johnson-wins-downhill-at-winter-olympics?traffic_source=rss"
-      },
-      {
-        "title": "Video: Israel returns unidentified Palestinian bodies to Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/8/video-israel-returns-unidentified-palestinian-bodies-to-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Protests against ICE and Israel at Winter Olympics in Milan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/8/protests-against-ice-and-israel-at-winter-olympics-in-milan?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,8 @@
     ],
     "Dawn": [
       {
-        "title": "ICC deputy chair, Bangladesh Cricket Board president land in Lahore; both set to meet Naqvi",
-        "link": "https://www.dawn.com/news/1971869/icc-deputy-chair-bangladesh-cricket-board-president-land-in-lahore-both-set-to-meet-naqvi"
+        "title": "ICC, PCB officials meet in Lahore to discuss Pakistan’s boycotted match with India on Feb 15",
+        "link": "https://www.dawn.com/news/1971869/icc-pcb-officials-meet-in-lahore-to-discuss-pakistans-boycotted-match-with-india-on-feb-15"
       },
       {
         "title": "President Zardari says Afghan Taliban have created situation ‘similar to or worse than pre-9/11’",
@@ -137,6 +143,14 @@
     ],
     "GeoTV": [
       {
+        "title": "President Zardari says 'some neighbouring nations' aiding terrorists against Pakistan",
+        "link": "https://www.geo.tv/latest/649753-president-zardari-says-some-neighbouring-nations-aiding-terrorists-against-pakistan"
+      },
+      {
+        "title": "Beatrice, Eugenie's official royal roles: Major details revealed",
+        "link": "https://www.geo.tv/latest/649749-beatrice-eugenies-official-royal-roles-major-details-revealed"
+      },
+      {
         "title": "Leonardo DiCaprio's ‘One Battle After Another' takes over 2026 DGA Awards",
         "link": "https://www.geo.tv/latest/649752-leonardo-dicaprios-one-battle-after-another-takes-over-2026-dga-awards"
       },
@@ -147,14 +161,6 @@
       {
         "title": "Princess Anne Spotted on the production lines in Lancashire",
         "link": "https://www.geo.tv/latest/649745-princess-anne-spotted-on-the-production-lines-in-lancashire"
-      },
-      {
-        "title": "New Zealand to hear Christchurch mosque shooter's appeal against sentence",
-        "link": "https://www.geo.tv/latest/649747-new-zealand-to-hear-christchurch-mosque-shooters-appeal-against-sentence"
-      },
-      {
-        "title": "T20 World Cup 2026: England hold off Lokesh Bam to beat Nepal by four runs",
-        "link": "https://www.geo.tv/latest/649744-t20-world-cup-2026-england-hold-off-lokesh-bam-to-beat-nepal-by-four-runs"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-08 14:03 UTC"
+  "last_updated": "2026-02-08 14:42 UTC"
 }
