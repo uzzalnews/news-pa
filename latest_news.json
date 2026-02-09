@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel approves measures to expand its powers in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/9/live-israel-approves-measures-to-expand-its-powers-in-occupied-west-bank?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,7 +21,7 @@
         "link": "https://www.bbc.com/sport/american-football/articles/cjen2n5ql3zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Bad Bunny piles on Puerto Rican patriotism at Super Bowl half-time show",
+        "title": "'Together we are America' - Bad Bunny sends message at Super Bowl half-time show",
         "link": "https://www.bbc.com/news/articles/c394g7nnzmzo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -24,6 +30,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Israel approves measures to expand its powers in occupied West Bank",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/2/9/live-israel-approves-measures-to-expand-its-powers-in-occupied-west-bank?traffic_source=rss"
+      },
       {
         "title": "Japan’s Takaichi vows to deliver on tax cuts after LDP’s ‘historic’ win",
         "link": "https://www.aljazeera.com/news/2026/2/9/japans-takaichi-vows-to-deliver-on-tax-cuts-after-ldps-historic-win?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Super Bowl 2026: Seahawks ride defence, Walker to beat Patriots",
         "link": "https://www.aljazeera.com/sports/2026/2/9/super-bowl-2026-seahawks-ride-defence-walker-to-super-bowl-lx-win?traffic_source=rss"
-      },
-      {
-        "title": "Thailand’s Bhumjaithai set for coalition talks after surprise election win",
-        "link": "https://www.aljazeera.com/news/2026/2/9/thailands-bhumjaithai-set-for-coalition-talks-after-surprise-election-win?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel kills Palestinians in Gaza as cabinet deepens West Bank annexation measures",
+        "link": "https://www.middleeasteye.net/news/israel-kills-palestinians-gaza-cabinet-deepens-west-bank-annexation-measures"
+      },
+      {
         "title": "India seizes three oil tankers linked to Iran’s shadow fleet",
         "link": "https://www.middleeasteye.net/news/india-seizes-three-oil-tankers-linked-irans-shadow-fleet"
       },
@@ -129,32 +139,28 @@
       {
         "title": "Why Israel's recognition of Somaliland risks further destabilising the Red Sea",
         "link": "https://www.middleeasteye.net/opinion/why-israels-recognition-somaliland-risks-further-destabilising-red-sea"
-      },
-      {
-        "title": "Noam Chomsky's wife says he was 'ensnared' and 'manipulated' by Epstein",
-        "link": "https://www.middleeasteye.net/news/noam-chomskys-wife-says-he-was-ensnared-and-manipulated-epstein"
       }
     ],
     "GeoTV": [
       {
-        "title": "Trump lashes out as Bad Bunny sends message to America during halftime show",
-        "link": "https://www.geo.tv/latest/649855-trump-lashes-out-as-bad-bunny-sends-message-to-america-during-halftime-show"
+        "title": "Iran sentences Nobel laureate Nargis Mohammadi seven more years in prison",
+        "link": "https://www.geo.tv/latest/649876-iran-sentences-nobel-laureate-nargis-mohammadi-seven-more-years-in-prison"
       },
       {
-        "title": "'Fantastic Four' crossover at Super Bowl Halftime show steals spotlight",
-        "link": "https://www.geo.tv/latest/649849-fantastic-four-crossover-at-super-bowl-halftime-show-steals-spotlight"
+        "title": "Katie Price opens up about feeling unsupported amid family concerns",
+        "link": "https://www.geo.tv/latest/649864-katie-price-opens-up-about-feeling-unsupported-amid-family-concerns"
       },
       {
-        "title": "Couple marries on-air during Bad Bunny's Super Bowl performance",
-        "link": "https://www.geo.tv/latest/649850-couple-marries-on-air-during-bad-bunnys-super-bowl-performance"
+        "title": "Super Bowl Halftime gets wild with Bad Bunny hosting Wedding, Gaga, Martin & more",
+        "link": "https://www.geo.tv/latest/649862-super-bowl-halftime-gets-wild-with-bad-bunny-hosting-wedding-gaga-martin-more"
       },
       {
-        "title": "Katie Price sparks outrage by monitising honeymoon footages",
-        "link": "https://www.geo.tv/latest/649840-katie-price-sparks-outrage-by-monitising-honeymoon-footages"
+        "title": "Travis Kelce surprises Super Bowl crowd as NFL extends career lifeline",
+        "link": "https://www.geo.tv/latest/649845-travis-kelce-surprises-super-bowl-crowd-as-nfl-extends-career-lifeline"
       },
       {
-        "title": "Sarah Ferguson departure from Royal Lodge: Unusual details unveiled",
-        "link": "https://www.geo.tv/latest/649832-sarah-ferguson-departure-from-royal-lodge-unusual-details-unveiled"
+        "title": "Apple to ditch traditional SMS, expand RCS support with iOS 26.4",
+        "link": "https://www.geo.tv/latest/649860-apple-to-ditch-traditional-sms-expand-rcs-support-with-ios-264"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-09 07:34 UTC"
+  "last_updated": "2026-02-09 08:26 UTC"
 }
