@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Pakistan vs USA – T20 World Cup",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/10/live-pakistan-vs-united-states-t20-world-cup?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Heavy gunfire heard in Guinea’s capital, Conakry: Reports",
-        "link": "https://www.aljazeera.com/news/2026/2/10/heavy-gunfire-heard-in-guineas-capital-conakry?traffic_source=rss"
+        "title": "Macron warns US trade ‘threats, intimidation’ towards EU not over",
+        "link": "https://www.aljazeera.com/news/2026/2/10/macron-warns-us-trade-threats-and-intimidation-towards-eu-are-not-over?traffic_source=rss"
       },
       {
-        "title": "Anticorruption efforts declining in democracies around the world: Watchdog",
-        "link": "https://www.aljazeera.com/news/2026/2/10/anticorruption-efforts-declining-in-democracies-around-the-world-watchdog?traffic_source=rss"
+        "title": "Australian police under scrutiny after protesters beaten",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/10/australian-police-under-scrutiny-after-protesters-beaten?traffic_source=rss"
       },
       {
-        "title": "Israel used weapons in Gaza that made thousands of Palestinians evaporate",
-        "link": "https://www.aljazeera.com/features/2026/2/10/israel-used-weapons-in-gaza-that-made-thousands-of-palestinians-evaporate?traffic_source=rss"
+        "title": "Israel accused of spraying chemicals to poison Syrian farmland",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/10/israel-accused-of-spraying-chemicals-to-poison-syrian-farmland?traffic_source=rss"
       },
       {
-        "title": "LIVE: Pakistan vs USA – T20 World Cup",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/10/live-pakistan-vs-united-states-t20-world-cup?traffic_source=rss"
+        "title": "A coup that never was: Why UK’s Starmer faced major leadership challenge",
+        "link": "https://www.aljazeera.com/news/2026/2/10/a-coup-that-never-was-why-uks-starmer-faced-a-major-leadership-challenge?traffic_source=rss"
       },
       {
-        "title": "People displaced by South Sudan fighting wait for aid at remote camp",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/10/people-displaced-by-south-sudan-fighting-wait-for-aid-at-remote-camp?traffic_source=rss"
+        "title": "Why did Pakistan end its India boycott at T20 World Cup?",
+        "link": "https://www.aljazeera.com/sports/2026/2/10/why-did-pakistan-end-its-india-boycott-at-t20-world-cup?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,20 +74,20 @@
         "link": "https://www.dawn.com/news/1972277/only-purpose-was-to-get-respect-for-bangladesh-says-pcb-chief-naqvi-after-talks-with-icc"
       },
       {
+        "title": "PTI lawyer Salman Safdar meets Imran at Adiala jail, says party founder appeared healthy",
+        "link": "https://www.dawn.com/news/1972247/pti-lawyer-salman-safdar-meets-imran-at-adiala-jail-says-party-founder-appeared-healthy"
+      },
+      {
+        "title": "Special committee formed to monitor development work, review any security operations in KP districts",
+        "link": "https://www.dawn.com/news/1972284/special-committee-formed-to-monitor-development-work-review-any-security-operations-in-kp-districts"
+      },
+      {
         "title": "‘Hats off to you’: Maryam assures Bugti of Punjab’s full support for Balochistan",
         "link": "https://www.dawn.com/news/1972276/hats-off-to-you-maryam-assures-bugti-of-punjabs-full-support-for-balochistan"
       },
       {
-        "title": "SC allows PTI counsel Salman Safdar to meet Imran, declares lawyer ‘friend of court’",
-        "link": "https://www.dawn.com/news/1972247/sc-allows-pti-counsel-salman-safdar-to-meet-imran-declares-lawyer-friend-of-court"
-      },
-      {
-        "title": "Workers’ remittances total $3.5bn in January, up 11.3pc in Jul–Jan FY26",
-        "link": "https://www.dawn.com/news/1972268/workers-remittances-total-35bn-in-january-up-113pc-in-jul-jan-fy26"
-      },
-      {
-        "title": "Iran warns of ‘destructive’ influence on diplomacy ahead of Netanyahu’s US trip",
-        "link": "https://www.dawn.com/news/1972266/iran-warns-of-destructive-influence-on-diplomacy-ahead-of-netanyahus-us-trip"
+        "title": "Police officer suspended for illegally detaining suspect in Lahore",
+        "link": "https://www.dawn.com/news/1972282/police-officer-suspended-for-illegally-detaining-suspect-in-lahore"
       }
     ],
     "APNews": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel denies cancer treatment for Palestinian child over Gaza address",
+        "link": "https://www.middleeasteye.net/news/israel-denies-life-saving-treatment-five-year-old-palestinian-cancer-patient"
+      },
+      {
+        "title": "Indonesia prepares to send up to 8,000 troops to Gaza",
+        "link": "https://www.middleeasteye.net/news/indonesia-prepares-send-troops-gaza"
+      },
+      {
         "title": "Rafah e-wallet plan highlights Israel's deepening financial occupation",
         "link": "https://www.middleeasteye.net/opinion/rafah-e-wallet-plan-highlights-israels-deepening-financial-occupation"
       },
@@ -131,58 +133,50 @@
       {
         "title": "Saudi Arabia in talks with US company for AI-powered drones, sources say",
         "link": "https://www.middleeasteye.net/news/saudi-arabia-talks-us-company-ai-powered-drones-sources-say"
-      },
-      {
-        "title": "Netanyahu heads to Washington to lobby amid 'very good' US talks with Iran",
-        "link": "https://www.middleeasteye.net/news/netanyahu-heads-washington-lobby-amid-very-good-us-talks-iran"
-      },
-      {
-        "title": "Wes Streeting privately said Israel committing war crimes, backed sanctions on 'rogue state'",
-        "link": "https://www.middleeasteye.net/news/wes-streeting-privately-said-israel-was-committing-war-crimes-backed-sanctions"
       }
     ],
     "GeoTV": [
       {
-        "title": "‘Harry Potter' star David Thewlis doesn't want you to ask him THIS question",
-        "link": "https://www.geo.tv/latest/650109-harry-potter-star-david-thewlis-doesnt-want-you-to-ask-him-this-question"
+        "title": "Palace releases future monarch's video after King Charles shocking decision",
+        "link": "https://www.geo.tv/latest/650127-palace-releases-future-monarchs-video-after-king-charles-shocking-decision"
       },
       {
-        "title": "Sindh announces photography ban in girls' colleges",
-        "link": "https://www.geo.tv/latest/650107-sindh-announces-photography-ban-in-girls-colleges"
+        "title": "Princess Beatrice's son jets off as family pressure mounts",
+        "link": "https://www.geo.tv/latest/650132-princess-beatrices-son-jets-off-as-family-pressure-mounts"
       },
       {
-        "title": "DHS internal report shows 86% of ICE detainees have no violent criminal history",
-        "link": "https://www.geo.tv/latest/650108-dhs-internal-report-shows-86-of-ice-detainees-have-no-violent-criminal-history"
+        "title": "High-level security huddle greenlights PSL 11 matches in Peshawar",
+        "link": "https://www.geo.tv/latest/650136-high-level-security-huddle-greenlights-psl-11-matches-in-peshawar"
       },
       {
-        "title": "Lindsey Vonn's injury history revealed after severe tibia fracture at Olympics",
-        "link": "https://www.geo.tv/latest/650102-lindsey-vonns-injury-history-is-revealed-here-after-horrific-tibia-fracture-at-2026-olympics"
+        "title": "Binance removes several spot trading pairs: Here's full list",
+        "link": "https://www.geo.tv/latest/650139-binance-removes-several-spot-trading-pairs-heres-full-list"
       },
       {
-        "title": "Chris Hemsworth shares surprising detail behind playing 'Thor' in Marvel",
-        "link": "https://www.geo.tv/latest/650101-chris-hemsworth-shares-surprising-detail-behind-playing-thor-in-marvel"
+        "title": "Kanye West set to make major comeback as fans await a big night",
+        "link": "https://www.geo.tv/latest/650138-kanye-west-set-to-make-major-comeback-as-fans-await-a-big-night"
       }
     ],
     "NDTV": [
       {
-        "title": "Hindu Businessman Hacked To Death In Bangladesh, 3 Days Before Polls",
-        "link": "https://www.ndtv.com/world-news/hindu-businessman-hacked-to-death-in-bangladesh-3-days-before-polls-10981404#publisher=newsstand"
+        "title": "Ranveer Singh Gets Extortion Demand For Crores Over Voice Note On WhatsApp",
+        "link": "https://www.ndtv.com/india-news/ranveer-singh-gets-extortion-demand-for-crores-over-voice-note-on-whatsapp-10982445#publisher=newsstand"
       },
       {
-        "title": "1999 BMW Crash To 2026 Lamborghini Horror: Case Status Of Luxury Car Crashes",
-        "link": "https://www.ndtv.com/india-news/lamborghini-crash-shivam-mishra-1999-bmw-crash-to-2026-lamborghini-horror-case-status-of-luxury-car-crashes-10981535#publisher=newsstand"
+        "title": "Opinion: Opinion | Lamborghini Crash To Dying In Pits, Many Ways To Cheapen Life In India",
+        "link": "https://www.ndtv.com/opinion/lamborghini-crash-to-dying-in-pits-the-many-faces-of-apathy-in-india-10982279#publisher=newsstand"
       },
       {
-        "title": "Violence In Manipur Again, Houses Set Ablaze In Litan As Naga, Kukis Clash",
-        "link": "https://www.ndtv.com/india-news/violence-in-manipur-again-houses-set-ablaze-in-litan-as-naga-kukis-clash-10981454#publisher=newsstand"
+        "title": "Himanta Sarma Files Rs 500 Crore Defamation Case Against Congress Leaders",
+        "link": "https://www.ndtv.com/india-news/himanta-sarma-files-rs-500-crore-defamation-case-against-congress-leaders-10982452#publisher=newsstand"
       },
       {
-        "title": "Shubhanshu Shukla Shows How Basic Lab Tasks Become Complex In Microgravity",
-        "link": "https://www.ndtv.com/india-news/shubhanshu-shukla-shows-how-basic-lab-tasks-become-complex-in-microgravity-10980435#publisher=newsstand"
+        "title": "Tech, Defence, Security: What's On Macron's India Visit Agenda",
+        "link": "https://www.ndtv.com/world-news/tech-defence-security-whats-on-emmanuel-macrons-india-visit-agenda-10982429#publisher=newsstand"
       },
       {
-        "title": "Karnataka Firm Seeks Rs 90 Lakh In Name Dispute With Anthropic",
-        "link": "https://www.ndtv.com/india-news/karnataka-firm-seeks-rs-90-lakh-in-name-dispute-with-anthropic-10980318#publisher=newsstand"
+        "title": "\"This Is The Status\": Ex-Army Chief Breaks Silence Amid Row Over Memoir",
+        "link": "https://www.ndtv.com/india-news/ex-army-chief-gen-mm-naravane-breaks-silence-amid-row-over-memoir-shares-penguins-note-10982153#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-10 12:00 UTC"
+  "last_updated": "2026-02-10 13:46 UTC"
 }
