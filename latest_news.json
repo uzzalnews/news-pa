@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Bangladesh Election 2026 LIVE: Voting Closes In Bangladesh Polls",
+      "link": "https://www.ndtv.com/world-news/bangladesh-election-2026-live-updates-bangladesh-polls-voting-bangladesh-election-results-bnp-tarique-rahman-jamaat-muhammad-yunus-sheikh-hasina-10987418#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,12 +17,12 @@
         "link": "https://www.bbc.com/news/articles/ckglv1n4dzeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK economy grew by 0.1% in final quarter of 2025",
+        "title": "UK economy grew by 'subdued' 0.1% at end of 2025",
         "link": "https://www.bbc.com/news/articles/c4gjmm7dlggo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Boy, 13, charged after two boys stabbed in school",
-        "link": "https://www.bbc.com/news/articles/cd6zq1xqndlo?at_medium=RSS&at_campaign=rss"
+        "title": "Snow and ice warnings issued for UK after relentless rain",
+        "link": "https://www.bbc.com/weather/articles/cy9gje95w5zo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Katie Holmes leads tributes to Dawson's Creek star James Van Der Beek",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Compromised peace? Oslo Accords figure deeply linked to Epstein network",
-        "link": "https://www.aljazeera.com/features/2026/2/12/compromised-peace-oslo-accords-figure-deeply-linked-to-epstein-network?traffic_source=rss"
+        "title": "Can the US challenge China’s dominance in critical minerals?",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/2/12/can-the-us-challenge-chinas-dominance-in-critical-minerals?traffic_source=rss"
       },
       {
-        "title": "Kosovo parliament backs Albin Kurti-led government ending deadlock",
-        "link": "https://www.aljazeera.com/news/2026/2/12/kosovos-parliament-approves-new-govt-ending-yearlong-political-deadlock?traffic_source=rss"
+        "title": "Locked Out, Locked In: Witnessing the Gaza War from afar",
+        "link": "https://www.aljazeera.com/video/witness/2026/2/12/locked-out-locked-in-witnessing-the-gaza-war-from-afar?traffic_source=rss"
       },
       {
-        "title": "Virginia’s Law: How Democrat proposal could spark flood of sex abuse claims",
-        "link": "https://www.aljazeera.com/news/2026/2/12/virginias-law-how-democrat-proposal-could-spark-flood-of-sex-abuse-claims?traffic_source=rss"
+        "title": "Bangladeshis turn out for historic election after Hasina’s downfall",
+        "link": "https://www.aljazeera.com/gallery/2026/2/12/bangladeshis-turn-out-for-historic-election-after-hasinas-downfall?traffic_source=rss"
       },
       {
-        "title": "Israeli forces demolish Palestinian homes in occupied West Bank",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/12/israeli-forces-demolish-palestinian-homes-in-occupied-west-bank-2?traffic_source=rss"
+        "title": "Bangladesh election live results 2026: By the numbers",
+        "link": "https://www.aljazeera.com/news/2026/2/12/live-results-bangladesh-election-2026?traffic_source=rss"
       },
       {
-        "title": "Argentinian security forces fire water cannon and tear gas at protesters",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/12/argentinian-security-forces-fire-water-cannon-and-tear-gas-at-protesters?traffic_source=rss"
+        "title": "Bangladesh election results live: Polls formally close, counting under way",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/2/12/bangladesh-election-results-live-polls-formally-close-counting-under-way?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +80,20 @@
         "link": "https://www.dawn.com/news/1972699/imran-claims-only-15pc-vision-left-in-right-eye-sc-forms-medical-team-to-examine-pti-founder"
       },
       {
-        "title": "Bangladesh votes in landmark election after Gen Z revolution",
-        "link": "https://www.dawn.com/news/1972693/bangladesh-votes-in-landmark-election-after-gen-z-revolution"
+        "title": "Net-metering changes are about ‘fair pricing, not anti-solar’, says power minister in NA",
+        "link": "https://www.dawn.com/news/1972716/net-metering-changes-are-about-fair-pricing-not-anti-solar-says-power-minister-in-na"
+      },
+      {
+        "title": "‘State has committed a crime against Imran’: PTI lashes out over party founder’s reported vision loss",
+        "link": "https://www.dawn.com/news/1972713/state-has-committed-a-crime-against-imran-pti-lashes-out-over-party-founders-reported-vision-loss"
+      },
+      {
+        "title": "High turnout as Bangladeshis vote in landmark election after Gen Z revolution",
+        "link": "https://www.dawn.com/news/1972693/high-turnout-as-bangladeshis-vote-in-landmark-election-after-gen-z-revolution"
       },
       {
         "title": "Pakistan’s second earth observation satellite launched from China’s space centre",
         "link": "https://www.dawn.com/news/1972715/pakistans-second-earth-observation-satellite-launched-from-chinas-space-centre"
-      },
-      {
-        "title": "Pakistan key US partner in region, official tells Congress",
-        "link": "https://www.dawn.com/news/1972690/pakistan-key-us-partner-in-region-official-tells-congress"
-      },
-      {
-        "title": "Israel has joined Trump’s ‘Board of Peace’, Netanyahu says",
-        "link": "https://www.dawn.com/news/1972698/israel-has-joined-trumps-board-of-peace-netanyahu-says"
       }
     ],
     "APNews": [],
@@ -105,15 +111,19 @@
         "link": "https://www.nytimes.com/2026/02/11/us/weapons-used-to-fight-drones-dont-mix-well-with-civilian-airspace.html"
       },
       {
-        "title": "Lawmakers Question Bondi Over Justice Dept. Under Her Watch",
-        "link": "https://www.nytimes.com/2026/02/11/us/politics/bondi-testimony-epstein-files.html"
+        "title": "Trump’s Director of Election Security Is an Election Denier",
+        "link": "https://www.nytimes.com/2026/02/12/us/politics/trump-kurt-olsen-election-denialism.html"
       },
       {
-        "title": "Casey Wasserman Will Stay as Head of 2028 Olympics Despite Epstein Ties, Organizers Say",
-        "link": "https://www.nytimes.com/2026/02/11/us/wasserman-epstein-la-olympics-2028.html"
+        "title": "House Passes Strict Voter ID Bill, Amplifying Trump’s Claims of Fraud",
+        "link": "https://www.nytimes.com/2026/02/11/us/politics/house-passes-voter-id-bill.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Hebrew Orientalism: How Jewish scholarship on the Arab world helped colonise Palestine",
+        "link": "https://www.middleeasteye.net/discover/hebrew-orientalism-how-ottoman-jewish-scholarship-arab-world-helped-colonise-palestine"
+      },
       {
         "title": "Indonesia’s president to attend ‘Board of Peace’ meeting in US",
         "link": "https://www.middleeasteye.net/news/indonesian-president-confirms-attendance-trumps-board-peace-talks"
@@ -129,54 +139,50 @@
       {
         "title": "Gaza: Palestinians living along the 'Yellow Line' endure daily Israeli attacks",
         "link": "https://www.middleeasteye.net/news/palestinians-along-gaza-yellow-line-endure-daily-israeli-attacks"
-      },
-      {
-        "title": "Member of White House religious committee removed for questioning Zionism",
-        "link": "https://www.middleeasteye.net/trending/member-white-house-religious-committee-removed-questioning-zionism"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince William plays esports in Riyadh during three-day diplomatic visit",
-        "link": "https://www.geo.tv/latest/650457-prince-william-plays-esports-in-riyadh-during-three-day-diplomatic-visit"
+        "title": "Taylor Swift joins Madonna in rare achievement after two decades of music",
+        "link": "https://www.geo.tv/latest/650458-taylor-swift-joins-madonna-in-rare-achievement-after-two-decades-in-music"
       },
       {
-        "title": "Sarah Ferguson plans to start new life without Andrew",
-        "link": "https://www.geo.tv/latest/650429-sarah-ferguson-plans-to-start-new-life-without-andrew"
+        "title": "Chile launches Latam-GPT as Latin American AI to combat US-centric bias",
+        "link": "https://www.geo.tv/latest/650465-chile-launches-latam-gpt-as-latin-american-ai-to-combat-us-centric-bias"
       },
       {
-        "title": "‘XO, Kitty': Netflix drops bombshell update about upcoming season",
-        "link": "https://www.geo.tv/latest/650455-xo-kitty-netflix-drops-bombshell-update-about-upcoming-season"
+        "title": "Prince William team declines to comment as bombshell drops on Earthshot",
+        "link": "https://www.geo.tv/latest/650450-prince-william-team-declines-to-comment-as-bombshell-drops-on-earthshot"
       },
       {
-        "title": "Savannah Guthrie mom kidnapping case sees breakthrough with FBI glove find",
-        "link": "https://www.geo.tv/latest/650454-savannah-guthrie-mom-kidnapping-case-sees-breakthrough-with-fbi-glove-find"
+        "title": "Paul Mescal, Harris Dickinson split viewers with latest ‘Beatles' shots",
+        "link": "https://www.geo.tv/latest/650453-paul-mescal-harris-dickinson-split-viewers-with-latest-beatles-shots"
       },
       {
-        "title": "Pakistan launches second indigenous electro-optical satellite EO-2",
-        "link": "https://www.geo.tv/latest/650439-pakistan-launches-second-indigenous-electro-optical-satellite-eo-2"
+        "title": "Why Ukraine's Heraskevych was disqualified from 2026 Winter Olympics? Details inside",
+        "link": "https://www.geo.tv/latest/650460-why-ukraines-heraskevych-was-disqualified-from-winter-olympics-2026"
       }
     ],
     "NDTV": [
       {
-        "title": "Opinion: Opinion | The JF-17 'Hype': How Pak Is Pushing A Jet That's More Noise Than Substance",
-        "link": "https://www.ndtv.com/opinion/the-jf-17-hype-how-pak-may-be-pushing-a-jet-thats-more-noise-than-substance-10993394#publisher=newsstand"
+        "title": "Bangladesh Election 2026 LIVE: Voting Closes In Bangladesh Polls",
+        "link": "https://www.ndtv.com/world-news/bangladesh-election-2026-live-updates-bangladesh-polls-voting-bangladesh-election-results-bnp-tarique-rahman-jamaat-muhammad-yunus-sheikh-hasina-10987418#publisher=newsstand"
       },
       {
-        "title": "Rajpal Yadav Seeks Bail, Court Says Actor Didn't Honour \"Own Commitment\"",
-        "link": "https://www.ndtv.com/india-news/rajpal-yadav-seeks-bail-court-says-actor-didnt-honour-own-commitment-10993386#publisher=newsstand"
+        "title": "4 Days To Arrest Shivam Mishra After Lamborghini Crash, Bail Within Hours",
+        "link": "https://www.ndtv.com/india-news/lamborghini-crash-shivam-mishra-bail-tycoons-son-shivam-mishra-gets-bail-just-hours-after-arrest-10993537#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Inside India's High-Stakes Push For Buying A Record 114 Rafales",
-        "link": "https://www.ndtv.com/opinion/inside-the-high-stakes-push-for-114-rafales-that-would-change-indian-skies-10993307#publisher=newsstand"
+        "title": "'Return To India If You Want Your Case Heard': High Court To Vijay Mallya",
+        "link": "https://www.ndtv.com/india-news/return-to-india-if-you-want-your-case-heard-bombay-high-court-to-vijay-mallya-10993613#publisher=newsstand"
       },
       {
-        "title": "Parliament Budget Session Day 12 Live Updates: BJP MP Files Notice To Terminate Rahul Gandhi's Parliament Membership",
-        "link": "https://www.ndtv.com/india-news/parliament-budget-session-live-updates-day-11-rahul-gandhi-to-address-lok-sabha-10986058#publisher=newsstand"
+        "title": "India's Energy Shift, Defence Ties Seen As Win Against China: Top US Official",
+        "link": "https://www.ndtv.com/world-news/indias-energy-shift-defence-ties-seen-as-win-against-china-top-us-official-10993569#publisher=newsstand"
       },
       {
-        "title": "About Exile Act, Republican Bill That Can End H-1B Visa Programme In US",
-        "link": "https://www.ndtv.com/world-news/about-exile-act-republican-bill-that-can-end-h-1b-visa-programme-in-us-10993326#publisher=newsstand"
+        "title": "BJP MP Makes 1st Move In Bid To Disqualify Rahul Gandhi From Parliament",
+        "link": "https://www.ndtv.com/india-news/bjp-mp-nishikant-dubey-makes-first-move-in-bid-to-disqualify-rahul-gandhi-from-lok-sabha-10992650#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-12 10:03 UTC"
+  "last_updated": "2026-02-12 11:03 UTC"
 }
