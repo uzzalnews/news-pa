@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Real Madrid vs Real Sociedad – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/14/live-real-madrid-vs-real-sociedad-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,12 +13,12 @@
         "link": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
-        "link": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&at_campaign=rss"
+        "title": "Europe must be ready to fight, PM tells Munich Security Conference",
+        "link": "https://www.bbc.com/news/articles/cp853p5g9meo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: 'I am a survivor' Gisèle Pelicot tells BBC Newsnight",
-        "link": "https://www.bbc.com/news/videos/c80jvkem8lro?at_medium=RSS&at_campaign=rss"
+        "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
+        "link": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "One giant boys' club? Why Westminster can still feel like a man's world",
@@ -24,6 +30,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Real Madrid vs Real Sociedad – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/14/live-real-madrid-vs-real-sociedad-la-liga?traffic_source=rss"
+      },
       {
         "title": "India’s Suryakumar shrugs off rain threat to Pakistan T20 World Cup game",
         "link": "https://www.aljazeera.com/sports/2026/2/14/indias-suryakumar-shrugs-off-rain-threat-to-pakistan-t20-world-cup-game?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Deadly drone strikes cloud US-brokered Russia-Ukraine talks in Geneva",
         "link": "https://www.aljazeera.com/news/2026/2/14/deadly-drone-strikes-cloud-us-brokered-russia-ukraine-talks-in-geneva?traffic_source=rss"
-      },
-      {
-        "title": "Bangladeshi PM-in-waiting urges opposition to work with BNP",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/14/bangladeshi-pm-in-waiting-urges-opposition-to-work-with-bnp?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,6 +143,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Sabrina Carpenter, Olivia Rodrigo 'working it out on the remix' after feud",
+        "link": "https://www.geo.tv/latest/650872-sabrina-carpenter-olivia-rodrigo-working-it-out-on-the-remix-after-feud"
+      },
+      {
         "title": "Miley Cyrus builds anticipation for 'Hannah Montana' return in new update",
         "link": "https://www.geo.tv/latest/650865-miley-cyrus-builds-anticipation-for-hannah-montana-return-in-new-update"
       },
@@ -151,10 +161,6 @@
       {
         "title": "Justin Bieber, Hailey launch new collaboration after surviving split rumours",
         "link": "https://www.geo.tv/latest/650858-justin-bieber-hailey-launch-new-collaboration-after-surviving-split-rumours"
-      },
-      {
-        "title": "Prince Harry, Meghan Markle welcome break from Andrew's scandal",
-        "link": "https://www.geo.tv/latest/650854-prince-harry-meghan-markle-welcome-break-from-andrews-scandal"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-14 17:38 UTC"
+  "last_updated": "2026-02-14 17:56 UTC"
 }
