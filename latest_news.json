@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: World leaders gather in Munich for 2nd day of security conference",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/2/14/live-world-leaders-gather-in-munich-for-2nd-day-of-security-conference?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,12 +7,12 @@
         "link": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: 'I am a survivor' Gisèle Pelicot tells BBC Newsnight",
-        "link": "https://www.bbc.com/news/videos/c80jvkem8lro?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Queen's letter of support left Pelicot 'overwhelmed'",
         "link": "https://www.bbc.com/news/articles/ckgl9vljk13o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK basks in sunshine ahead of snow and ice weather warnings",
+        "link": "https://www.bbc.com/weather/articles/cvgv6ede327o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Police activity under way near Nancy Guthrie's home",
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Two hurt after high-speed New Zealand-France crash at Auckland SailGP race",
+        "link": "https://www.aljazeera.com/sports/2026/2/14/two-hurt-as-auckland-sailing-abandoned-with-major-black-foils-france-crash?traffic_source=rss"
+      },
+      {
+        "title": "Are lasers the future of anti-drone warfare?",
+        "link": "https://www.aljazeera.com/economy/2026/2/14/are-lasers-the-future-of-anti-drone-warfare?traffic_source=rss"
+      },
+      {
+        "title": "AU calls for end to ‘extermination’ of Palestinians, decries African wars",
+        "link": "https://www.aljazeera.com/news/2026/2/14/au-calls-for-end-to-extermination-of-palestinians-decries-african-wars?traffic_source=rss"
+      },
+      {
+        "title": "Tarique Rahman: From 17-year exile to landslide win in Bangladesh election",
+        "link": "https://www.aljazeera.com/news/2026/2/14/tarique-rahman-from-17-year-exile-to-landslide-win-in-bangladesh-election?traffic_source=rss"
+      },
+      {
         "title": "In Munich, Rubio urges transatlantic unity but lashes Europe on migration",
         "link": "https://www.aljazeera.com/news/2026/2/14/in-munich-rubio-urges-transatlantic-unity-but-lashes-europe-on-migration?traffic_source=rss"
-      },
-      {
-        "title": "‘Bangladesh will be better’: BNP victory puts nation at crossroads",
-        "link": "https://www.aljazeera.com/features/2026/2/14/bangladesh-will-be-better-bnp-victory-puts-nation-at-crossroads?traffic_source=rss"
-      },
-      {
-        "title": "Two Philippine senators named ‘co-perpetrators’ in Duterte ICC case",
-        "link": "https://www.aljazeera.com/news/2026/2/14/two-philippine-senators-named-co-perpetrators-in-duterte-icc-case?traffic_source=rss"
-      },
-      {
-        "title": "Indian national admits role in plot to assassinate US Sikh leader",
-        "link": "https://www.aljazeera.com/news/2026/2/14/indian-national-admits-role-in-us-sikh-leaders-assassination-plot?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: World leaders gather in Munich for 2nd day of security conference",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/2/14/live-world-leaders-gather-in-munich-for-2nd-day-of-security-conference?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,12 +70,16 @@
     ],
     "Dawn": [
       {
-        "title": "TTAP continues sit-in at Parliament House over Imran’s health, demands he be moved to hospital for treatment",
-        "link": "https://www.dawn.com/news/1973162/ttap-continues-sit-in-at-parliament-house-over-imrans-health-demands-he-be-moved-to-hospital-for-treatment"
-      },
-      {
         "title": "Imran, Bushra move IHC to suspend Toshakhana-2 sentences on medical, legal grounds",
         "link": "https://www.dawn.com/news/1973180/imran-bushra-move-ihc-to-suspend-toshakhana-2-sentences-on-medical-legal-grounds"
+      },
+      {
+        "title": "PM Shehbaz announces Rs38bn Ramazan package for 1.21m deserving families",
+        "link": "https://www.dawn.com/news/1973178/pm-shehbaz-announces-rs38bn-ramazan-package-for-121m-deserving-families"
+      },
+      {
+        "title": "TTAP sit-in at Parliament House over Imran’s health continues for 2nd day",
+        "link": "https://www.dawn.com/news/1973162/ttap-sit-in-at-parliament-house-over-imrans-health-continues-for-2nd-day"
       },
       {
         "title": "Pakistan ‘always ready’ for India despite late green light: Agha",
@@ -90,10 +88,6 @@
       {
         "title": "Bangladesh’s Tarique Rahman poised to be PM as Jamaat-i-Islami concedes",
         "link": "https://www.dawn.com/news/1973173/bangladeshs-tarique-rahman-poised-to-be-pm-as-jamaat-i-islami-concedes"
-      },
-      {
-        "title": "Pakistani-American found dead in Washington with blunt-force injuries",
-        "link": "https://www.dawn.com/news/1973158/pakistani-american-found-dead-in-washington-with-blunt-force-injuries"
       }
     ],
     "APNews": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "EU leaders condemn Trump’s Gaza ‘Board of Peace’ at Munich conference",
+        "link": "https://www.middleeasteye.net/news/eu-leaders-slam-trumps-gaza-board-peace-security-conference"
+      },
+      {
         "title": "Why Israel's expanding occupation in Syria presents a critical legal test",
         "link": "https://www.middleeasteye.net/opinion/israel-expanding-occupation-syria-presents-legal-test-why"
       },
@@ -135,13 +133,21 @@
       {
         "title": "Columbia University, Cuny most 'hostile' campuses for Muslims: Cair",
         "link": "https://www.middleeasteye.net/news/columbia-university-cuny-university-most-hostile-campus-cair"
-      },
-      {
-        "title": "UAE influencers defend Emiratis mentioned in Epstein files",
-        "link": "https://www.middleeasteye.net/news/uae-influencers-come-defence-emiratis-mentioned-epstein-files"
       }
     ],
     "GeoTV": [
+      {
+        "title": "King Charles mulls over severe action as pressure grows",
+        "link": "https://www.geo.tv/latest/650800-king-charles-mulls-over-severe-action-as-pressure-grows"
+      },
+      {
+        "title": "Victoria, David Beckham melt hearts with Valentine's Day tributes",
+        "link": "https://www.geo.tv/latest/650825-david-victoria-beckham-melt-hearts-with-valentines-day-tributes"
+      },
+      {
+        "title": "Babar stresses calmness ahead of T20 World Cup clash with India",
+        "link": "https://www.geo.tv/latest/650818-babar-stresses-calmness-ahead-of-t20-world-cup-clash-with-india"
+      },
       {
         "title": "Anne Hathaway shares intriguing warning about ‘Wuthering Heights' movie",
         "link": "https://www.geo.tv/latest/650815-anne-hathaway-shares-intriguing-warning-about-wuthering-heights-movie"
@@ -149,40 +155,28 @@
       {
         "title": "Govt unveils Rs38bn Ramadan package for 12m deserving families across country",
         "link": "https://www.geo.tv/latest/650817-govt-unveils-rs38bn-ramadan-package-for-12m-deserving-families-across-country"
-      },
-      {
-        "title": "Jesy Nelson emotional as SMA1 petition hits milestone",
-        "link": "https://www.geo.tv/latest/650822-jesy-nelson-emotional-as-sma1-petition-hits-milestone"
-      },
-      {
-        "title": "Jessica Alba restores name as divorce from Cash Warren finalises",
-        "link": "https://www.geo.tv/latest/650821-jessica-alba-restores-name-as-divorce-from-cash-warren-finalizes"
-      },
-      {
-        "title": "Matt Weston ends Team GB's long wait with historic skeleton gold",
-        "link": "https://www.geo.tv/latest/650814-matt-weston-ends-team-gbs-long-wait-with-historic-skeleton-gold"
       }
     ],
     "NDTV": [
       {
-        "title": "Video: PM Modi Makes Lands Aboard C-130J Aircraft On Assam Highway",
+        "title": "How 'Project Empathy' Helps Preserve Nagaland's Oral History Collections",
+        "link": "https://www.ndtv.com/india-news/weaves-of-empathy-how-project-empathy-helps-preserve-nagaland-oral-history-collections-11003375#publisher=newsstand"
+      },
+      {
+        "title": "1 Killed, 3 Injured After Portion Of Mumbai Metro Pillar Falls On Vehicles",
+        "link": "https://www.ndtv.com/mumbai-news/portion-of-mumbai-metro-pillar-falls-on-vehicles-2-injured-11002779#publisher=newsstand"
+      },
+      {
+        "title": "'BJP' Makes Its Mark In Bangladesh Elections, Wins 1 Seat",
+        "link": "https://www.ndtv.com/world-news/bjp-bangladesh-jatiya-party-makes-its-mark-in-bangladesh-general-elections-wins-1-seat-andaleeve-rahman-partho-bnp-tarique-rahman-11002179#publisher=newsstand"
+      },
+      {
+        "title": "'Want Ties With India Based On Mutual Respect': Tarique Rahman's Top Aide To NDTV",
+        "link": "https://www.ndtv.com/world-news/want-india-ties-based-on-mutual-respect-tarique-rahman-top-aide-to-ndtv-11003188#publisher=newsstand"
+      },
+      {
+        "title": "Video: PM Modi Lands Aboard C-130J Aircraft On Assam Highway",
         "link": "https://www.ndtv.com/india-news/pm-modi-makes-historic-landing-aboard-c-130j-aircraft-on-assam-highway-11002283#publisher=newsstand"
-      },
-      {
-        "title": "\"You Captured My Heart\": Valentine's Day Message For Maduro From White House",
-        "link": "https://www.ndtv.com/world-news/you-captured-my-heart-valentines-day-message-for-maduro-from-white-house-11003098#publisher=newsstand"
-      },
-      {
-        "title": "Tarique Rahman's Pakistan Test: Dhaka's Gameplan After Yunus Reset",
-        "link": "https://www.ndtv.com/world-news/tarique-rahmans-pakistan-test-dhakas-gameplan-after-yunus-reset-11002554#publisher=newsstand"
-      },
-      {
-        "title": "311 Endangered Turtles Seized From AC First-Class Coach In Bhopal",
-        "link": "https://www.ndtv.com/india-news/311-endangered-crowned-river-turtles-indian-tent-turtles-and-indian-roofed-turtles-seized-from-ac-first-class-coach-in-bhopal-madhya-pradesh-11003076#publisher=newsstand"
-      },
-      {
-        "title": "333 CCTVs, Sensors: How Delhi Civic Body Keeps Watch On 17 Public Services",
-        "link": "https://www.ndtv.com/india-news/333-cctvs-sensors-how-delhi-civic-body-keeps-watch-on-17-public-services-11003066#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-14 11:00 UTC"
+  "last_updated": "2026-02-14 11:31 UTC"
 }
