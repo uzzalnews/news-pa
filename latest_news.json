@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: World leaders gather in Munich for 2nd day of security conference",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/14/live-world-leaders-gather-in-munich-for-2nd-day-of-security-conference?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: World leaders gather in Munich for 2nd day of security conference",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/2/14/live-world-leaders-gather-in-munich-for-2nd-day-of-security-conference?traffic_source=rss"
+      },
+      {
+        "title": "US ends temporary protected status for Yemeni refugees, asylum seekers",
+        "link": "https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers?traffic_source=rss"
+      },
+      {
         "title": "This Valentine’s Day, chocolate comes with new risks",
         "link": "https://www.aljazeera.com/opinions/2026/2/14/this-valentines-day-chocolate-comes-with-new-risks?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "US pressures Vanuatu at UN over ICJ’s landmark climate change ruling",
         "link": "https://www.aljazeera.com/news/2026/2/14/us-pressures-vanuatu-at-un-over-icjs-landmark-climate-change-ruling?traffic_source=rss"
-      },
-      {
-        "title": "BNP wins Bangladesh polls, Tarique Rahman set to be prime minister: Results",
-        "link": "https://www.aljazeera.com/news/2026/2/14/bnp-wins-bangladesh-election-tarique-rahman-set-to-be-prime-minister?traffic_source=rss"
-      },
-      {
-        "title": "Could BNP’s landslide win open a new geopolitical chapter for Bangladesh?",
-        "link": "https://www.aljazeera.com/news/2026/2/14/could-bnps-landslide-win-open-a-new-geopolitical-chapter-for-bangladesh?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,8 +92,8 @@
         "link": "https://www.dawn.com/news/1973165/trump-says-iran-regime-change-could-be-best-thing-as-second-carrier-heads-to-middle-east"
       },
       {
-        "title": "SOEs drain Rs2.1tr of tax revenue in FY25",
-        "link": "https://www.dawn.com/news/1973083/soes-drain-rs21tr-of-tax-revenue-in-fy25"
+        "title": "Punjab CTD claims arrest of 26 suspected terrorists over past month",
+        "link": "https://www.dawn.com/news/1973169/punjab-ctd-claims-arrest-of-26-suspected-terrorists-over-past-month"
       }
     ],
     "APNews": [],
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
-        "title": "Pima County Sheriff's Department drops bombshell in Nancy Guthrie case: Mystery DNA found",
-        "link": "https://www.geo.tv/latest/650767-pima-county-drops-bombshell-in-nancy-guthrie-case-mystery-dna-found"
+        "title": "South Africa clinch T20I series against Pakistan in rain-hit match",
+        "link": "https://www.geo.tv/latest/650773-south-africa-clinch-t20i-series-against-pakistan-in-rain-hit-match"
       },
       {
-        "title": "Elon Musk lashes out at LinkedIn founder Reid Hoffman over Epstein links on X",
-        "link": "https://www.geo.tv/latest/650765-elon-musk-lashes-out-at-linkedin-founder-reid-hoffman-over-epstein-links-on-x"
+        "title": "Galaxy S26 launch just days away: Specs, pricing and all goodies you can expect",
+        "link": "https://www.geo.tv/latest/650777-galaxy-s26-ultra-launch-just-days-away-specs-pricing-and-all-you-should-know"
       },
       {
-        "title": "From sisters to strangers: Jesy Nelson on painful Little Mix fallout",
-        "link": "https://www.geo.tv/latest/650768-from-sisters-to-strangersvjesy-nelson-on-painful-little-mix-fallout"
+        "title": "PlayStation announces Keanu Reeves-inspired John Wick AAA game for PS5",
+        "link": "https://www.geo.tv/latest/650778-playstation-announces-keanu-reeves-inspired-john-wick-aaa-game-for-ps5"
       },
       {
-        "title": "Handshake or hard line?",
-        "link": "https://www.geo.tv/latest/650770-handshake-or-hard-line"
+        "title": "Travis Kelce's emerging role in Taylor Swift's creative process",
+        "link": "https://www.geo.tv/latest/650775-travis-kelces-emerging-role-in-taylor-swifts-creative-process"
       },
       {
-        "title": "'Possibility of homicide': Pathologist calls for fresh probe into Jeffrey Epstein's death",
-        "link": "https://www.geo.tv/latest/650762-possibility-of-homicide-pathologist-calls-for-fresh-probe-into-jeffrey-epsteins-death"
+        "title": "Imran Khan's vision: Opposition sit-in at Parliament House enters second day",
+        "link": "https://www.geo.tv/latest/650764-imran-khans-vision-opposition-sit-in-at-parliament-house-enters-second-day"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-14 07:02 UTC"
+  "last_updated": "2026-02-14 07:42 UTC"
 }
