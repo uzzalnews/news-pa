@@ -3,27 +3,31 @@
   "news": {
     "BBC": [
       {
+        "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
+        "link": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: 'I am a survivor' Gisèle Pelicot tells BBC Newsnight in an in-depth interview",
+        "link": "https://www.bbc.com/news/videos/c80jvkem8lro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Queen's letter of support left Pelicot 'overwhelmed'",
+        "link": "https://www.bbc.com/news/articles/ckgl9vljk13o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "How Weston handled pressure to win Olympic gold and GB's first medal",
         "link": "https://www.bbc.com/sport/articles/cgml91gx27go?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Trump says Iran regime change is 'best thing that could happen'",
         "link": "https://www.bbc.com/news/articles/c8egwywkkd1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'We are not protected' says Hebron mayor as Israel expands West Bank control",
-        "link": "https://www.bbc.com/news/articles/crl4ne5er5zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Officials investigate DNA found in Nancy Guthrie's home",
-        "link": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: How Andrew's BBC interview compares to what Epstein emails tell us now",
-        "link": "https://www.bbc.com/news/videos/c20jepq911zo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "BNP wins Bangladesh polls, Tarique Rahman set to be prime minister: Reports",
+        "link": "https://www.aljazeera.com/news/2026/2/14/bnp-wins-bangladesh-election-tarique-rahman-set-to-be-prime-minister?traffic_source=rss"
+      },
       {
         "title": "Could BNP’s landslide win open a new geopolitical chapter for Bangladesh?",
         "link": "https://www.aljazeera.com/news/2026/2/14/could-bnps-landslide-win-open-a-new-geopolitical-chapter-for-bangladesh?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Danish PM says more Greenland talks due after meeting US’s Marco Rubio",
         "link": "https://www.aljazeera.com/news/2026/2/14/danish-pm-says-more-greenland-talks-due-after-meeting-uss-marco-rubio?traffic_source=rss"
-      },
-      {
-        "title": "Trauma and defiance: Life and death of 17-year-old killed fighting Israel",
-        "link": "https://www.aljazeera.com/features/2026/2/14/trauma-and-defiance-life-and-death-of-17-year-old-killed-fighting-israel?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +82,12 @@
         "link": "https://www.dawn.com/news/1973164/indian-national-pleads-guilty-in-plot-to-kill-sikh-leader-in-us"
       },
       {
-        "title": "SOEs drain Rs2.1tr of tax revenue in FY25",
-        "link": "https://www.dawn.com/news/1973083/soes-drain-rs21tr-of-tax-revenue-in-fy25"
+        "title": "Trump says Iran regime change could be ‘best thing’ as second carrier heads to Middle East",
+        "link": "https://www.dawn.com/news/1973165/trump-says-iran-regime-change-could-be-best-thing-as-second-carrier-heads-to-middle-east"
       },
       {
-        "title": "Fallout from Epstein files reaches Wall Street, Dubai",
-        "link": "https://www.dawn.com/news/1973090/fallout-from-epstein-files-reaches-wall-street-dubai"
+        "title": "SOEs drain Rs2.1tr of tax revenue in FY25",
+        "link": "https://www.dawn.com/news/1973083/soes-drain-rs21tr-of-tax-revenue-in-fy25"
       }
     ],
     "APNews": [],
@@ -137,6 +137,14 @@
     ],
     "GeoTV": [
       {
+        "title": "iPhone 18 Pro may offer satellite-enabled 5G, thanks to Apple's A20 chipset",
+        "link": "https://www.geo.tv/latest/650756-iphone-18-pro-may-offer-satellite-enabled-5g-thanks-to-apples-a20-chipset"
+      },
+      {
+        "title": "Tom Cruise vs Brad Pitt: Screenwriters after fight say ‘it's over for us'",
+        "link": "https://www.geo.tv/latest/650757-tom-cruise-vs-brad-pitt-screenwriters-after-fight-say-its-over-for-us"
+      },
+      {
         "title": "Musk's AI chatbot Grok gains US market share amid sexualised images backlash, data shows",
         "link": "https://www.geo.tv/latest/650760-musks-ai-chatbot-grok-gains-us-market-share-amid-sexualised-images-backlash-data-shows"
       },
@@ -147,36 +155,28 @@
       {
         "title": "SOEs witness 300% surge in FY25 net losses; 25 post Rs832bn in aggregate losses",
         "link": "https://www.geo.tv/latest/650752-soes-witness-300-surge-in-fy25-net-losses-25-post-rs832bn-in-aggregate-losses"
-      },
-      {
-        "title": "Good Luck, BNP",
-        "link": "https://www.geo.tv/latest/650754-good-luck-bnp"
-      },
-      {
-        "title": "Death toll rises to 14 in M9 Motorway crash as victims succumb to injuries",
-        "link": "https://www.geo.tv/latest/650758-death-toll-rises-to-14-in-m9-motorway-crash-as-victims-succumb-to-injuries"
       }
     ],
     "NDTV": [
       {
-        "title": "70% Bangladeshis Voted 'Yes' To July Charter. What Does It Mean?",
-        "link": "https://www.ndtv.com/world-news/70-bangladeshis-voted-yes-to-july-charter-what-does-it-mean-11001022#publisher=newsstand"
+        "title": "The China Factor Behind Northeast's First Emergency Runway On Highway",
+        "link": "https://www.ndtv.com/india-news/the-china-factor-behind-northeasts-first-emergency-runway-on-highway-11002344#publisher=newsstand"
+      },
+      {
+        "title": "PM Modi Makes Historic Landing Aboard C-130J Aircraft On Assam Highway",
+        "link": "https://www.ndtv.com/india-news/pm-modi-makes-historic-landing-aboard-c-130j-aircraft-on-assam-highway-11002283#publisher=newsstand"
+      },
+      {
+        "title": "Who Is Sultan Bin Sulayem, Emirati Billionaire Named In Epstein Files",
+        "link": "https://www.ndtv.com/world-news/who-is-sultan-bin-sulayem-emirati-billionaire-named-in-epstein-files-sex-offender-jeffrey-epstein-11001099#publisher=newsstand"
+      },
+      {
+        "title": "\"I'm Still A Woman Who Stands Tall\": French Mass Rape Survivor Gisele Pelicot In Memoir",
+        "link": "https://www.ndtv.com/world-news/im-still-a-woman-who-stands-tall-french-mass-rape-survivor-gisele-pelicot-in-memoir-dominique-pelicot-11002114#publisher=newsstand"
       },
       {
         "title": "Indian Student Missing In California, Search Enters 5th Day",
         "link": "https://www.ndtv.com/india-news/indian-student-from-karnataka-saketh-sreenivasaiah-missing-in-california-search-underway-11002072#publisher=newsstand"
-      },
-      {
-        "title": "BJP Makes Its Mark In Bangladesh Elections, Wins 1 Seat",
-        "link": "https://www.ndtv.com/world-news/bjp-bangladesh-jatiya-party-makes-its-mark-in-bangladesh-general-elections-wins-1-seat-andaleeve-rahman-partho-bnp-tarique-rahman-11002179#publisher=newsstand"
-      },
-      {
-        "title": "Rahul Gandhi Meets Farmers On India-US Deal. \"Stage-Managed,\" Says BJP",
-        "link": "https://www.ndtv.com/india-news/rahul-gandhi-meets-farmers-on-india-us-deal-stage-managed-says-bjp-11002175#publisher=newsstand"
-      },
-      {
-        "title": "2 Anti-India Terror Accused Among 3 Ex-Convicts Who Won Bangladesh Polls",
-        "link": "https://www.ndtv.com/world-news/2-anti-india-terror-accused-among-3-ex-convicts-who-won-bangladesh-polls-11002067#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-14 05:29 UTC"
+  "last_updated": "2026-02-14 06:07 UTC"
 }
