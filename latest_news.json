@@ -1,10 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Israel kills at least nine Palestinians in Gaza since dawn",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/15/live-israel-kills-at-least-nine-palestinians-in-gaza-since-dawn?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
-        "link": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss"
+        "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
+        "link": "https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Europe must be ready to fight, PM tells Munich Security Conference",
@@ -15,15 +21,19 @@
         "link": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Obama addresses racist video shared by Trump depicting him as an ape",
-        "link": "https://www.bbc.com/news/articles/c74754j7qwgo?at_medium=RSS&at_campaign=rss"
+        "title": "Children 'weaponised' by both sides of trans debate, says author of report into gender identity services",
+        "link": "https://www.bbc.com/news/articles/c0k1vkmxgd6o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "GB women shock curling world champions Canada",
-        "link": "https://www.bbc.com/sport/articles/clyzgpw725qo?at_medium=RSS&at_campaign=rss"
+        "title": "Obama addresses racist video shared by Trump depicting him as an ape",
+        "link": "https://www.bbc.com/news/articles/c74754j7qwgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Israel kills at least nine Palestinians in Gaza since dawn",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/2/15/live-israel-kills-at-least-nine-palestinians-in-gaza-since-dawn?traffic_source=rss"
+      },
       {
         "title": "Cyclone Gezani kills four in Mozambique as Madagascar assesses damage",
         "link": "https://www.aljazeera.com/news/2026/2/15/cyclone-gezani-kills-four-in-mozambique-as-madagascar-assesses-damage?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Russia-Ukraine war: List of key events, day 1,452",
         "link": "https://www.aljazeera.com/news/2026/2/15/russia-ukraine-war-list-of-key-events-day-1452?traffic_source=rss"
-      },
-      {
-        "title": "US army launches retaliatory strikes on dozens of ISIL targets in Syria",
-        "link": "https://www.aljazeera.com/news/2026/2/14/us-army-launches-retaliatory-strikes-on-dozens-of-isil-targets-in-syria?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "Arif Habib-led group to gain full control of PIA",
-        "link": "https://www.dawn.com/news/1973316/arif-habib-led-group-to-gain-full-control-of-pia"
+        "title": "CDF Munir discusses ‘global and regional security dynamics’ with US’s Rubio in Germany",
+        "link": "https://www.dawn.com/news/1973366/cdf-munir-discusses-global-and-regional-security-dynamics-with-uss-rubio-in-germany"
+      },
+      {
+        "title": "11 killed, 8 injured in bus-trailer collision on National Highway in Khairpur: motorway police",
+        "link": "https://www.dawn.com/news/1973369/11-killed-8-injured-in-bus-trailer-collision-on-national-highway-in-khairpur-motorway-police"
       },
       {
         "title": "After off-field uproar settled, Pakistan set to clash with India",
         "link": "https://www.dawn.com/news/1973295/after-off-field-uproar-settled-pakistan-set-to-clash-with-india"
       },
       {
-        "title": "CDF Munir discusses ‘global and regional security dynamics’ with US’s Rubio in Germany",
-        "link": "https://www.dawn.com/news/1973366/cdf-munir-discusses-global-and-regional-security-dynamics-with-uss-rubio-in-germany"
+        "title": "Obama deplores lack of shame after Trump’s racist monkey clip",
+        "link": "https://www.dawn.com/news/1973370/obama-deplores-lack-of-shame-after-trumps-racist-monkey-clip"
       },
       {
-        "title": "Karachi property gains but gold, stocks steal limelight",
-        "link": "https://www.dawn.com/news/1973318/karachi-property-gains-but-gold-stocks-steal-limelight"
-      },
-      {
-        "title": "Jail is a place for worship, Zardari tells Imran",
-        "link": "https://www.dawn.com/news/1973265/jail-is-a-place-for-worship-zardari-tells-imran"
+        "title": "Arif Habib-led group to gain full control of PIA",
+        "link": "https://www.dawn.com/news/1973316/arif-habib-led-group-to-gain-full-control-of-pia"
       }
     ],
     "APNews": [],
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Travis Kelce hilarious referencing to Taylor Swift songs leave fans in fits",
-        "link": "https://www.geo.tv/latest/650911-travis-kelce-hilarious-referencing-to-taylor-swift-songs-leave-fans-in-fits"
+        "title": "King Charles receives new calls for Andrew action as royals make key error",
+        "link": "https://www.geo.tv/latest/650918-king-charles-receives-new-calls-for-andrew-action-as-royals-make-key-error"
       },
       {
-        "title": "Pentagon threatens to cut off Anthropic in AI safeguards dispute",
-        "link": "https://www.geo.tv/latest/650907-pentagon-threatens-to-cut-off-anthropic-in-ai-safeguards-dispute"
+        "title": "Jacob Elordi, Margot Robbie's 'Wuthering Heights' controversial scene explained",
+        "link": "https://www.geo.tv/latest/650915-jacob-elordi-margot-robbies-wuthering-heights-controversial-scene-explained"
       },
       {
-        "title": "All set for Pakistan-India high-voltage clash at ICC Men's T20 World Cup",
-        "link": "https://www.geo.tv/latest/650904-all-set-for-pakistan-india-high-voltage-clash-at-icc-mens-t20-world-cup"
+        "title": "Usman Tariq in focus as India 'copy' Pakistan spinner ahead of World Cup clash",
+        "link": "https://www.geo.tv/latest/650913-usman-tariq-in-focus-as-india-copy-pakistan-spinner-ahead-of-world-cup-clash"
       },
       {
-        "title": "Did US military use Anthropic's Claude during Venezuela raid to capture Maduro?",
-        "link": "https://www.geo.tv/latest/650909-did-us-military-use-anthropics-claude-during-venezuela-raid-to-capture-maduro"
+        "title": "AT&T finds T-Mobile's Easy Switch tool misleading, files lawsuit: Here's more",
+        "link": "https://www.geo.tv/latest/650916-att-finds-t-mobiles-easy-switch-tool-misleading-files-lawsuit-heres-more"
       },
       {
-        "title": "‘Wuthering Heights' movie experiences early concern at box office",
-        "link": "https://www.geo.tv/latest/650902-wuthering-heights-movie-experiences-early-concern-at-box-office"
+        "title": "Opposition sit-in enters third day despite govt's decision to shift Imran Khan to hospital",
+        "link": "https://www.geo.tv/latest/650906-opposition-sit-in-enters-third-day-despite-govts-decision-to-shift-imran-khan-to-hospital"
       }
     ],
     "NDTV": [
       {
-        "title": "Road To Cut Through Rajaji National Park, Commercial Vehicles Won't Be Allowed",
-        "link": "https://www.ndtv.com/india-news/metalling-of-laldhang-chillarkhal-road-through-rajaji-national-park-gets-top-court-nod-11005819#publisher=newsstand"
+        "title": "As Bangladesh Shifts To Elected Government, Is It Going To Be President Yunus?",
+        "link": "https://www.ndtv.com/world-news/as-bangladesh-shifts-to-elected-government-is-it-going-to-be-president-muhammad-yunus-bnp-tarique-rahman-bangladesh-new-pm-humayun-kabir-11005949#publisher=newsstand"
       },
       {
-        "title": "Yogi Adityanath Says Delhi 'Like A Gas Chamber', Praises UP's Environment",
-        "link": "https://www.ndtv.com/india-news/yogi-adityanath-says-delhi-like-a-gas-chamber-praises-ups-environment-11004196#publisher=newsstand"
+        "title": "Couple Married For 58 Years Seeks Divorce. Court Says No. Here's Why",
+        "link": "https://www.ndtv.com/india-news/couple-married-for-58-years-seeks-divorce-court-says-no-heres-why-11005950#publisher=newsstand"
       },
       {
         "title": "India To Build Its 1st Underwater Road-Rail Tunnel At Rs 18,000 Crore",
         "link": "https://www.ndtv.com/india-news/india-to-build-its-1st-underwater-road-rail-tunnel-at-rs-18-000-crore-11005793#publisher=newsstand"
       },
       {
-        "title": "What Anil Ambani, Jeffrey Epstein Discussed Over Meals At Luxury Home",
-        "link": "https://www.ndtv.com/india-news/what-anil-ambani-jeffrey-epstein-discussed-over-meals-at-luxury-home-11005761#publisher=newsstand"
+        "title": "Video: 'Show ID' - Pak Army Chief Asim Munir Nearly Stopped At Munich Event",
+        "link": "https://www.ndtv.com/world-news/video-show-id-pakistan-army-chief-asim-munir-nearly-stopped-at-munich-event-11005886#publisher=newsstand"
       },
       {
-        "title": "France's Emmanuel Macron To Meet PM Modi On February 17 During India Visit",
-        "link": "https://www.ndtv.com/world-news/frances-emmanuel-macron-to-meet-pm-modi-on-february-17-during-india-visit-11005096#publisher=newsstand"
+        "title": "All-Weather Road To Cut Through Rajaji National Park, Commercial Vehicles Won't Be Allowed",
+        "link": "https://www.ndtv.com/india-news/rajaji-national-park-uttarakhand-all-weather-road-gets-supreme-court-nod-commercial-vehicles-wont-be-allowed-11005819#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-15 05:40 UTC"
+  "last_updated": "2026-02-15 06:32 UTC"
 }
