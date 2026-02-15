@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Team GB's Bankes & Nightingale win historic snowboard cross gold",
+        "link": "https://www.bbc.com/sport/articles/cx245x1xnxlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "UK wants action taken on Russia after Navalny frog poisoning, Cooper says",
         "link": "https://www.bbc.com/news/articles/c8r15e4ek2vo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,10 +21,6 @@
       {
         "title": "What the Nigella Lawson effect will mean for the Great British Bake Off",
         "link": "https://www.bbc.com/news/articles/cgmlvl48202o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "This rail line caused travel chaos during storms. £165m later, it's happened again",
-        "link": "https://www.bbc.com/news/articles/c0q4j9e78jzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
@@ -101,19 +101,23 @@
         "link": "https://www.nytimes.com/2026/02/15/us/politics/minneapolis-videos-killings-artificial-intellingence.html"
       },
       {
-        "title": "In First Public Comments Since Trump’s Racist Video, Obama Laments Lost Decorum",
-        "link": "https://www.nytimes.com/2026/02/15/us/politics/obama-trump-video.html"
-      },
-      {
-        "title": "Texas Students Protest ICE Despite Gov. Greg Abbott’s Threats",
-        "link": "https://www.nytimes.com/2026/02/15/us/student-protests-walkouts-ice-texas.html"
-      },
-      {
         "title": "Shivering Americans Snap Up Firewood as Winter Grinds On",
         "link": "https://www.nytimes.com/2026/02/14/us/firewood-sales-boom-winter.html"
+      },
+      {
+        "title": "Republican State Legislators Rush to Limit Their Own Regulators",
+        "link": "https://www.nytimes.com/2026/02/15/us/politics/states-deregulation.html"
+      },
+      {
+        "title": "Making the Dancing Lions for Lunar New York Celebrations",
+        "link": "https://www.nytimes.com/2026/02/15/arts/design/lion-dancing-chinese-lunar-new-years-san-francisco.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "'Erasing history': British Museum criticised for removing references to ‘Palestine' from exhibits",
+        "link": "https://www.middleeasteye.net/news/british-museum-removal-term-palestine-displays-part-systematic-attempt-erase-it-history"
+      },
       {
         "title": "Israel’s West Bank annexation moves raise security alarm in Jordan",
         "link": "https://www.middleeasteye.net/news/why-jordan-fears-soft-transfer-west-bank-after-israeli-annexation-steps"
@@ -129,54 +133,50 @@
       {
         "title": "Iran’s foreign minister calls Munich Security Conference a ‘circus’",
         "link": "https://www.middleeasteye.net/news/irans-foreign-minister-calls-munich-security-conference-circus-amid-nuclear-tensions"
-      },
-      {
-        "title": "Thousands of western nationals serve in Israel’s army amid Gaza genocide: Report",
-        "link": "https://www.middleeasteye.net/news/thousands-foreign-national-soldiers-serve-israels-army-amid-gaza-genocide"
       }
     ],
     "GeoTV": [
       {
+        "title": "Pakistan register new bowling record in T20 World Cup clash against India",
+        "link": "https://www.geo.tv/latest/651012-pakistan-register-new-bowling-record-in-t20-world-cup-clash-with-india"
+      },
+      {
+        "title": "Iran says potential energy, mining and aircraft deals on table in talks with US",
+        "link": "https://www.geo.tv/latest/651011-iran-says-potential-energy-mining-and-aircraft-deals-on-table-in-talks-with-us"
+      },
+      {
+        "title": "What will happen when Kanye West team up with Travis Scott? Havoc revealed",
+        "link": "https://www.geo.tv/latest/651010-what-will-happen-when-kanye-west-team-up-with-travis-scott-havoc-revealed"
+      },
+      {
+        "title": "Wiz Khalifa announces sudden death of father 8 years after sister's death",
+        "link": "https://www.geo.tv/latest/651009-wiz-khalifa-announces-sudden-death-of-father-8-years-after-sisters-death"
+      },
+      {
         "title": "King Charles puts his touch on mother of pearl, leaving artisan 'proud'",
         "link": "https://www.geo.tv/latest/650991-king-charles-puts-his-touch-on-mother-of-pearl-leaving-artisan-proud"
-      },
-      {
-        "title": "Hilary Duff, Matthew Koma give sweet glimpse into marriage on special day",
-        "link": "https://www.geo.tv/latest/651002-hilary-duff-matthew-koma-give-sweet-glimpse-into-marriage-on-special-day"
-      },
-      {
-        "title": "'Difficult but not impossible': Fans react as India set 176-run target for Pakistan",
-        "link": "https://www.geo.tv/latest/651005-difficult-but-not-impossible-fans-react-as-india-set-176-run-target-for-pakistan"
-      },
-      {
-        "title": "Stellan Skarsgård reveals truth behind Robin Williams' constant humour",
-        "link": "https://www.geo.tv/latest/651003-stellan-skarsgrd-reveals-truth-behind-robin-williams-constant-humour"
-      },
-      {
-        "title": "Jennifer Aniston, Jim Curtis mark first Valentine's Day with sweet posts",
-        "link": "https://www.geo.tv/latest/651001-jennifer-aniston-jim-curtis-mark-first-valentines-day-with-sweet-posts"
       }
     ],
     "NDTV": [
       {
-        "title": "Freshly Dug Soil, Raw Meat Found At 3-Year-Old's Grave In Chhattisgarh",
-        "link": "https://www.ndtv.com/india-news/freshly-dug-soil-raw-meat-found-at-3-year-olds-grave-in-chhattisgarh-11007399#publisher=newsstand"
+        "title": "\"Malicious\": Imran Khan's Eye Exam Inside Pak Jail Slammed By His Party",
+        "link": "https://www.ndtv.com/world-news/jailed-pak-ex-pm-imran-khan-examined-by-doctors-his-party-rejects-check-up-11007809#publisher=newsstand"
       },
       {
         "title": "PM On How India Settled Recent Trade Deals, Then A Jab At Congress-Led UPA",
         "link": "https://www.ndtv.com/india-news/india-us-trade-deal-pm-modi-on-how-india-negotiated-trade-pacts-from-position-of-strength-11007010#publisher=newsstand"
       },
       {
-        "title": "\"Reforms, Innovation, Simpler Governance\": PM Modi's 3 Priorities For Next Decade",
-        "link": "https://www.ndtv.com/india-news/reforms-innovation-simpler-governance-pm-modis-3-priorities-for-next-decade-11007360#publisher=newsstand"
+        "title": "After Rahul Gandhi's Questions To PM On Trade Deals, An Amit Shah Counter",
+        "link": "https://www.ndtv.com/india-news/after-rahul-gandhis-questions-to-pm-on-trade-deals-an-amit-shah-counter-11007696#publisher=newsstand"
       },
       {
-        "title": "Bodies Go Missing From Odisha Burial Ground, Probe Ordered: Cops",
-        "link": "https://www.ndtv.com/india-news/bodies-go-missing-from-odisha-burial-ground-probe-ordered-cops-11007340#publisher=newsstand"
+        "title": "Congress MP Renuka Chowdhury Served Privilege Notice Over 'Dog In Parliament' Row",
+        "link": "https://www.ndtv.com/india-news/congress-mp-renuka-chowdhury-served-privilege-notice-over-dog-in-parliament-row-11007736#publisher=newsstand"
       },
       {
-        "title": "Budget Shunned Populism, Bets On Capex To Power Jobs, Growth: PM Modi",
-        "link": "https://www.ndtv.com/india-news/budget-shunned-populism-bets-on-capex-to-power-jobs-growth-pm-modi-11007285#publisher=newsstand"
+        "title": "Ahead Of Ramadan, Muslim Leaders Ask Centre To Ensure Freedom Of Religion",
+        "link": "https://www.ndtv.com/india-news/ahead-of-ramadan-muslim-leaders-ask-centre-to-ensure-freedom-of-religion-11007722#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-15 15:59 UTC"
+  "last_updated": "2026-02-15 16:42 UTC"
 }
