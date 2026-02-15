@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: India vs Pakistan – T20 World Cup",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/15/live-india-vs-pakistan-t20-world-cup?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,11 +19,23 @@
         "link": "https://www.bbc.com/news/articles/cev7edxxzm7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Could Manchester be a model for the UK to kickstart growth?",
-        "link": "https://www.bbc.com/news/articles/c0ljgzjwjx3o?at_medium=RSS&at_campaign=rss"
+        "title": "'Trump will be gone in three years': Top US Democrats try to reassure Europe",
+        "link": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘Very hopeful’: Cautious optimism among Gen Z Bangladeshis after key vote",
+        "link": "https://www.aljazeera.com/news/2026/2/15/very-hopeful-cautious-optimism-among-gen-z-bangladeshis-after-key-vote?traffic_source=rss"
+      },
+      {
+        "title": "UN chief tells Al Jazeera that Security Council needs permanent Africa seat",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/15/un-chief-tells-al-jazeera-that-security-council-needs-permanent-africa-seat?traffic_source=rss"
+      },
+      {
+        "title": "Ramadan 2026: Fasting hours, suhoor and iftar times around the world",
+        "link": "https://www.aljazeera.com/news/2026/2/15/ramadan-2026-fasting-hours-suhoor-and-iftar-times-around-the-world?traffic_source=rss"
+      },
       {
         "title": "West Indies beat Nepal, become first team into T20 World Cup Super Eights",
         "link": "https://www.aljazeera.com/sports/2026/2/15/west-indies-beat-nepal-become-first-team-into-t20-world-cup-super-eights?traffic_source=rss"
@@ -37,18 +43,6 @@
       {
         "title": "Brazil wins first gold medal for South America at Winter Olympics",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/2/15/brazil-wins-first-gold-medal-for-south-america-at-winter-olympics?traffic_source=rss"
-      },
-      {
-        "title": "Nigeria’s Argungu fishing contest returns after years of pause",
-        "link": "https://www.aljazeera.com/gallery/2026/2/15/nigerias-argungu-fishing-contest-marks-return-after-years-of-pause?traffic_source=rss"
-      },
-      {
-        "title": "The Palestinian cause cannot speak only to the left",
-        "link": "https://www.aljazeera.com/opinions/2026/2/15/the-palestinian-cause-cannot-speak-only-to-the-left?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: India vs Pakistan – T20 World Cup",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/15/live-india-vs-pakistan-t20-world-cup?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,12 +78,12 @@
         "link": "https://www.dawn.com/news/1973377/west-indies-beat-nepal-to-become-first-team-into-t20-world-cup-super-eights"
       },
       {
-        "title": "TTAP sit-in at Parliament House over Imran’s health concerns enters 3rd day",
-        "link": "https://www.dawn.com/news/1973372/ttap-sit-in-at-parliament-house-over-imrans-health-concerns-enters-3rd-day"
+        "title": "Pakistan set to clash with India in T20 World Cup after off-field tumult calms",
+        "link": "https://www.dawn.com/news/1973382/pakistan-set-to-clash-with-india-in-t20-world-cup-after-off-field-tumult-calms"
       },
       {
-        "title": "‘Spin options make Pakistan strong title contenders at T20 World Cup’",
-        "link": "https://www.dawn.com/news/1973297/spin-options-make-pakistan-strong-title-contenders-at-t20-world-cup"
+        "title": "TTAP sit-in at Parliament House over Imran’s health concerns enters 3rd day",
+        "link": "https://www.dawn.com/news/1973372/ttap-sit-in-at-parliament-house-over-imrans-health-concerns-enters-3rd-day"
       },
       {
         "title": "CM Maryam wants ‘grooming’ of Punjab Police to deal with citizens respectfully",
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel kills 10 Palestinians in Gaza bombing ahead of 'Board of Peace' meeting",
+        "link": "https://www.middleeasteye.net/news/least-10-palestinians-killed-israeli-ceasefire-violations-continue"
+      },
+      {
         "title": "The voice and the rifle: How Umm Kulthum became a target of the Mossad",
         "link": "https://www.middleeasteye.net/opinion/voice-rifle-umm-kulthum-became-target-mossad"
       },
@@ -135,54 +133,50 @@
       {
         "title": "'Repay debt to martyrs': Bangladesh embraces change but fears return to past excesses",
         "link": "https://www.middleeasteye.net/news/repay-debt-martyrs-bangladesh-embraces-change-fears-return-past-excesses"
-      },
-      {
-        "title": "US preparing for potential weeks-long military campaign against Iran: Report",
-        "link": "https://www.middleeasteye.net/news/us-preparing-potential-weeks-long-military-campaign-against-iran-amid-ratcheting-tensions"
       }
     ],
     "GeoTV": [
       {
-        "title": "Holly Ramsay, Adam Peaty celebrate first Valentine's Day as newlyweds",
-        "link": "https://www.geo.tv/latest/650947-holly-ramsay"
+        "title": "Berlinale responds after uproar over festival's politics ban",
+        "link": "https://www.geo.tv/latest/650952-berlinale-responds-after-uproar-over-festivals-politics-ban"
       },
       {
-        "title": "iOS 26.3 brings extra iPhone security: Find out if your iPhone is compatible",
-        "link": "https://www.geo.tv/latest/650948-ios-263-brings-extra-iphone-security-find-out-if-you-make-the-cut"
+        "title": "Donkeys 'tie the knot' in India on Valentine's Day",
+        "link": "https://www.geo.tv/latest/650944-donkeys-tie-the-knot-in-india-as-valentines-day"
       },
       {
-        "title": "Adele arrives in Italy to begin working on acting debut",
-        "link": "https://www.geo.tv/latest/650951-adele-arrives-in-italy-to-begin-working-on-acting-debut"
+        "title": "Popular rapper reacts to song collaboration with Jill Scott: 'lose my mind'",
+        "link": "https://www.geo.tv/latest/650954-popular-rapper-reacts-to-song-collaboration-with-jill-scott-on-new-album"
       },
       {
-        "title": "Andrew, Fergie crisis tears apart sisters Beatrice, Eugenie: ‘complicated'",
-        "link": "https://www.geo.tv/latest/650949-andrew-fergie-crisis-tears-apart-sisters-beatrice-eugenie-complicated"
+        "title": "Kate Cassidy pays heartfelt Valentine's tribute to Liam Payne",
+        "link": "https://www.geo.tv/latest/650953-kate-cassidy-pays-heartfelt-valentines-tribute-to-liam-payne"
       },
       {
-        "title": "Helen Skelton confirms Gethin Jones 'is just friend' ahead of Valentine's Day",
-        "link": "https://www.geo.tv/latest/650945-helen-skelton-confirms-gethin-jones-is-just-friend-ahead-of-valentines-day"
+        "title": "Chris Hemsworth weighs every word he says about Thor in 'Avengers: Doomsday'",
+        "link": "https://www.geo.tv/latest/650946-chris-hemsworth-weighs-every-word-he-says-about-thor-in-avengers-doomsday"
       }
     ],
     "NDTV": [
       {
-        "title": "For AI, By AI: Hi-Tech Security At Delhi Summit",
+        "title": "Iran Says \"Ready To Discuss\" Nuclear Programme Issues With US, Then A Rider",
+        "link": "https://www.ndtv.com/world-news/ball-is-in-americas-court-iran-minister-on-nuclear-deal-agreement-11006472#publisher=newsstand"
+      },
+      {
+        "title": "Amid Probe Into Ajit Pawar's Death, New Video Of Crash Site Emerges",
+        "link": "https://www.ndtv.com/india-news/amid-probe-into-ajit-pawars-death-new-video-of-crash-site-emerges-11006496#publisher=newsstand"
+      },
+      {
+        "title": "AI-Enabled Security To Keep An Eye On India's Mega AI Summit",
         "link": "https://www.ndtv.com/india-news/for-ai-by-ai-hi-tech-security-at-delhi-summit-11006346#publisher=newsstand"
       },
       {
-        "title": "Thar Breaks Through Barricade, Rams Police Vehicle Near Nitish Kumar's Home",
-        "link": "https://www.ndtv.com/patna-news/thar-breaks-through-barricade-rams-police-patrol-vehicle-near-nitish-kumars-home-11006358#publisher=newsstand"
+        "title": "Award-Winning Kerala Farmer Dies By Suicide Over Debt",
+        "link": "https://www.ndtv.com/india-news/award-winning-farmer-ends-life-over-debt-in-kerala-11006065#publisher=newsstand"
       },
       {
-        "title": "\"Trump Is Temporary, Will Be Gone In 3 Years\": California Governor",
-        "link": "https://www.ndtv.com/world-news/trump-is-temporary-will-be-gone-in-3-years-california-governor-gavin-newsom-munich-security-conference-11001679#publisher=newsstand"
-      },
-      {
-        "title": "Zelensky Calls Putin \"Slave to War,\" Says All Ukrainian Power Plants Damaged",
-        "link": "https://www.ndtv.com/world-news/ukraines-president-volodymyr-zelensky-calls-russias-vladimir-putin-slave-to-war-says-all-ukrainian-power-plants-damaged-in-attacks-11006252#publisher=newsstand"
-      },
-      {
-        "title": "What's Next For Yunus As His Term As Bangladesh Chief Adviser Comes To An End?",
-        "link": "https://www.ndtv.com/world-news/as-bangladesh-shifts-to-elected-government-is-it-going-to-be-president-muhammad-yunus-bnp-tarique-rahman-bangladesh-new-pm-humayun-kabir-11005949#publisher=newsstand"
+        "title": "Noida Couple's Death Mystery: Bodies With Gunshots In Car, A WhatsApp Note",
+        "link": "https://www.ndtv.com/india-news/noidas-valentines-day-murder-bodies-with-gunshots-in-car-a-whatsapp-note-11005687#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-15 10:00 UTC"
+  "last_updated": "2026-02-15 10:39 UTC"
 }
