@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Government abandons plans to delay 30 council elections",
+        "link": "https://www.bbc.com/news/articles/c70ne31d884o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Students begin Covid compensation claim against 36 more universities",
         "link": "https://www.bbc.com/news/articles/cq6qge7rmm1o?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,21 @@
       {
         "title": "PM orders investigation into claims Labour think tank paid firm to look into journalist",
         "link": "https://www.bbc.com/news/articles/c0q3wx2j3x1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Intermittent fasting may make little difference to weight loss, review finds",
-        "link": "https://www.bbc.com/news/articles/c4ge7n3pq62o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Dozens of Australian ISIL relatives freed from Syria’s Roj camp",
+        "link": "https://www.aljazeera.com/news/2026/2/16/dozens-of-australian-isil-relatives-freed-from-syrias-roj-camp?traffic_source=rss"
+      },
+      {
+        "title": "UN staffers back Francesca Albanese, condemn European ministers for attacks",
+        "link": "https://www.aljazeera.com/news/2026/2/16/un-staffers-back-francesca-albanese-condemn-european-ministers-for-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Israel to restart land registration in West Bank. What that means",
+        "link": "https://www.aljazeera.com/news/2026/2/16/israel-to-restart-land-registration-in-west-bank-what-that-means?traffic_source=rss"
+      },
       {
         "title": "Real Madrid play Benfica in Champions League playoff: Team news and lineups",
         "link": "https://www.aljazeera.com/sports/2026/2/16/real-madrid-play-benfica-in-champions-league-playoff-team-news-and-lineups?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Savannah Guthrie appeals to mom’s abductor: ‘It’s not too late’",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/2/16/savannah-guthrie-appeals-to-moms-abductor-its-not-too?traffic_source=rss"
-      },
-      {
-        "title": "How shipping company MSC facilitates trade from Israeli settlements through",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/16/how-shipping-company-msc-facilitates-trade-from-israeli-settlements-through?traffic_source=rss"
-      },
-      {
-        "title": "‘Rats run over our faces’: Gaza’s displaced forced to live on infested land",
-        "link": "https://www.aljazeera.com/features/2026/2/16/rats-run-over-our-faces-gazas-displaced-forced-to-live-on-infested-land?traffic_source=rss"
-      },
-      {
-        "title": "The Epstein files cover-up: Botched or calculated?",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/2/16/the-epstein-files-cover-up-botched-or-calculated?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,27 +93,35 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "With Latest Rollback, the U.S. Essentially Has No Clean-Car Rules",
-        "link": "https://www.nytimes.com/2026/02/16/climate/endangerment-finding-auto-emissions-regulations.html"
+        "title": "Despite Epstein’s Toxicity, Steve Bannon Stood by Him, Texts Indicate",
+        "link": "https://www.nytimes.com/2026/02/16/us/politics/jeffrey-epstein-steve-bannon.html"
       },
       {
-        "title": "What to Know About the Homeland Security Shutdown",
-        "link": "https://www.nytimes.com/2026/02/15/us/politics/homeland-security-shutdown.html"
+        "title": "Epstein’s Ties With Academics Show the Seedy Side of College Fund-Raising",
+        "link": "https://www.nytimes.com/2026/02/16/us/epstein-files-academic-funding-colleges.html"
       },
       {
-        "title": "Teddy Roosevelt’s Family Urges G.O.P. to Protect Public Lands",
-        "link": "https://www.nytimes.com/2026/02/16/climate/theodore-roosevelt-family-boundary-waters.html"
+        "title": "Epstein Files Hint at His Ties to the Supermodel Naomi Campbell",
+        "link": "https://www.nytimes.com/2026/02/15/style/epstein-files-naomi-campbell.html"
       },
       {
         "title": "D.H.S. Pushes Social Media Sites to Expose Anti-ICE Accounts, and U.S. Troops Land in Nigeria",
         "link": "https://www.nytimes.com/2026/02/16/podcasts/the-headlines/dhs-social-media-ice-us-troops-nigeria.html"
       },
       {
-        "title": "Epstein’s Ties With Academics Show the Seedy Side of College Fund-Raising",
-        "link": "https://www.nytimes.com/2026/02/16/us/epstein-files-academic-funding-colleges.html"
+        "title": "With Latest Rollback, the U.S. Essentially Has No Clean-Car Rules",
+        "link": "https://www.nytimes.com/2026/02/16/climate/endangerment-finding-auto-emissions-regulations.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "'Blurring the green line': Israel advances plan to expand boundary into West Bank",
+        "link": "https://www.middleeasteye.net/news/israel-moves-expand-beyond-1967-west-bank-boundary-report"
+      },
+      {
+        "title": "Australian families released by SDF forced to 'head back' to camp in Syria",
+        "link": "https://www.middleeasteye.net/news/australian-families-released-sdf-forced-head-back-syria-camp"
+      },
       {
         "title": "Sudan war: Sanctions and donor pledges do not fix the catastrophe on the ground",
         "link": "https://www.middleeasteye.net/opinion/sudan-war-sanctions-and-donor-pledges-do-not-fix-catastrophe-ground"
@@ -125,58 +133,50 @@
       {
         "title": "Occupation, PA inaction and financial troubles drive education crisis in Palestine",
         "link": "https://www.middleeasteye.net/news/occupation-pa-inaction-and-financial-crisis-drive-education-collapse-palestine"
-      },
-      {
-        "title": "El Sett: Why did the Saudi-backed biopic about Umm Kulthum flop?",
-        "link": "https://www.middleeasteye.net/discover/el-sett-why-did-saudi-backed-biopic-about-umm-kulthum-flop"
-      },
-      {
-        "title": "PA forces kill Palestinian toddler and teenager in West Bank shooting",
-        "link": "https://www.middleeasteye.net/news/pa-forces-kill-two-palestinian-children"
       }
     ],
     "GeoTV": [
       {
-        "title": "Who is 'Stranger Things' star Maya Hawke married to?",
-        "link": "https://www.geo.tv/latest/651190-who-did-stranger-things-star-maya-hawke-marry"
+        "title": "T20 World Cup: Australia post 182-run target for Sri Lanka as Marsh, Head hit fifties",
+        "link": "https://www.geo.tv/latest/651203-t20-world-cup-australia-post-182-run-target-for-sri-lanka-as-marsh-head-hit-fifties"
       },
       {
-        "title": "Kendall Jenner's ex Devin Booker shades her other ex Bad Bunny",
-        "link": "https://www.geo.tv/latest/651194-kendall-jenners-ex-devin-booker-shades-her-other-ex-bad-bunny"
+        "title": "'The Simpsons' legend makes stern statement against AI use",
+        "link": "https://www.geo.tv/latest/651198-the-simpsons-legend-makes-stern-statement-against-ai-use"
       },
       {
-        "title": "Why Millie Bobby Brown didn't go to Maya Hawke's wedding?",
-        "link": "https://www.geo.tv/latest/651187-why-millie-bobby-brown-didnt-go-to-maya-hawkes-wedding"
+        "title": "Pakistan plans to launch club-based football league",
+        "link": "https://www.geo.tv/latest/651197-pakistan-plans-to-launch-club-based-football-league"
       },
       {
-        "title": "Why AI researchers are quitting their jobs?",
-        "link": "https://www.geo.tv/latest/651188-why-ai-researchers-are-quitting-their-jobs"
+        "title": "'Knight of Seven Kingdoms' showrunner explains omission of iconic scene",
+        "link": "https://www.geo.tv/latest/651201-knight-of-seven-kingdoms-showrunner-explains-omission-of-iconic-scene"
       },
       {
-        "title": "Charli XCX loses 'war' against Taylor Swift after 'The Moment' jabs",
-        "link": "https://www.geo.tv/latest/651173-charli-xcx-loses-war-against-taylor-swift-after-the-moment-jabs"
+        "title": "Lana Del Rey sparks allegations of 'copying' Ethel Cain with new single",
+        "link": "https://www.geo.tv/latest/651195-lana-del-rey-sparks-allegations-of-copying-ethel-cain-with-new-single"
       }
     ],
     "NDTV": [
       {
-        "title": "Children Back At Odisha Anganwadi After BJP MP Eats Meal By Dalit Cook",
-        "link": "https://www.ndtv.com/india-news/children-back-at-odisha-anganwadi-after-bjp-mp-jay-panda-eats-meal-by-dalit-cook-11011041#publisher=newsstand"
+        "title": "On Camera, Train Stops Just In Time As Drunk Teen Sleeps On Tracks",
+        "link": "https://www.ndtv.com/india-news/on-camera-train-stops-just-in-time-as-drunk-teen-sleeps-on-tracks-11011638#publisher=newsstand"
       },
       {
         "title": "A Doctor's Death And Rs 60-Crore Property Without Legal Heirs",
         "link": "https://www.ndtv.com/india-news/madhya-pradesh-doctor-dr-hemlata-srivastavas-death-sparks-high-stakes-battle-over-rs-60-crore-land-11010643#publisher=newsstand"
       },
       {
-        "title": "'Look To Finalise It In March': Top Official To NDTV On India-US Trade Deal",
-        "link": "https://www.ndtv.com/india-news/look-to-finalise-it-in-march-top-official-to-ndtv-on-india-us-trade-deal-11010876#publisher=newsstand"
+        "title": "'Tehran' TV Series Producer Dana Eden Found Dead In Athens Hotel Room",
+        "link": "https://www.ndtv.com/world-news/tehran-tv-series-producer-dana-eden-found-dead-in-athens-hotel-room-11011364#publisher=newsstand"
       },
       {
-        "title": "Ontario Bets Big On India At AI Impact Summit, Seeks Deeper Tech Ties",
-        "link": "https://www.ndtv.com/india-news/ai-impact-summit-2026-canadas-ontario-bets-big-on-india-at-ai-impact-summit-seeks-deeper-tech-ties-11010935#publisher=newsstand"
+        "title": "X Down For Thousands Of Users Worldwide, Including India",
+        "link": "https://www.ndtv.com/world-news/x-down-for-thousands-of-users-worldwide-including-india-11011466#publisher=newsstand"
       },
       {
-        "title": "Watch: 22-Year-Old's Reel Attempt Ends Up In Police Rescue",
-        "link": "https://www.ndtv.com/india-news/not-the-reel-she-planned-on-camera-police-pull-woman-out-after-gutter-fall-11010822#publisher=newsstand"
+        "title": "Who Is Irina Ghose, Former Microsoft MD Now Leading Anthropic India?",
+        "link": "https://www.ndtv.com/india-news/who-is-irina-ghose-former-microsoft-md-now-leading-anthropic-india-11011078#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-16 14:34 UTC"
+  "last_updated": "2026-02-16 15:24 UTC"
 }
