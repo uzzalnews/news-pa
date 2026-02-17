@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Benfica vs Real Madrid – Champions League playoff",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/17/live-benfica-vs-real-madrid-champions-league-playoff?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,23 +13,35 @@
         "link": "https://www.bbc.com/news/videos/cvg4y9ee16go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Dual nationals face scramble for UK passports as new rules come into force",
-        "link": "https://www.bbc.com/news/articles/cx2d9yk2kpjo?at_medium=RSS&at_campaign=rss"
+        "title": "'The search is soul-destroying': Young jobseekers on the struggle to find work",
+        "link": "https://www.bbc.com/news/articles/c3wl17l3ggqo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Cold health alert issued as temperatures fall across the UK",
         "link": "https://www.bbc.com/news/articles/cdxgew324r9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Reform names Robert Jenrick as pick for chancellor",
-        "link": "https://www.bbc.com/news/articles/c33j7m7y17xo?at_medium=RSS&at_campaign=rss"
+        "title": "Dual nationals face scramble for British passports as new rules come into force",
+        "link": "https://www.bbc.com/news/articles/cx2d9yk2kpjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK unemployment hits highest rate for nearly five years",
-        "link": "https://www.bbc.com/news/articles/c1l7pedyzjeo?at_medium=RSS&at_campaign=rss"
+        "title": "Reform names Robert Jenrick as pick for chancellor",
+        "link": "https://www.bbc.com/news/articles/c33j7m7y17xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Benfica vs Real Madrid – Champions League playoff",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/17/live-benfica-vs-real-madrid-champions-league-playoff?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s Khamenei maintains tough rhetoric with US despite nuclear talks",
+        "link": "https://www.aljazeera.com/news/2026/2/17/irans-khamenei-maintains-tough-rhetoric-with-us-despite-nuclear-talks?traffic_source=rss"
+      },
+      {
+        "title": "Latin America: In the Shadow of the US | Ep 2 – Wars",
+        "link": "https://www.aljazeera.com/video/featured-documentaries/2026/2/17/latin-america-in-the-shadow-of-the-us-ep-2-wars?traffic_source=rss"
+      },
       {
         "title": "EU opens probe into online global retailer Shein after sex-doll scandal",
         "link": "https://www.aljazeera.com/news/2026/2/17/eu-opens-probe-into-online-global-retailer-shein-after-sex-doll-scandal?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Glacier grafting: How an Indigenous art is countering water scarcity",
         "link": "https://www.aljazeera.com/news/2026/2/17/glacier-grafting-how-an-indigenous-art-is-countering-water-scarcity?traffic_source=rss"
-      },
-      {
-        "title": "Has Bangladesh’s new PM named student leaders to his cabinet?",
-        "link": "https://www.aljazeera.com/news/2026/2/17/has-bangladeshs-new-pm-named-student-leaders-to-his-cabinet?traffic_source=rss"
-      },
-      {
-        "title": "Jesse Jackson, civil rights icon, dies at age 84",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/17/jesse-jackson-civil-rights-icon-dies-at-age-84?traffic_source=rss"
-      },
-      {
-        "title": "Missiles fly as 3rd round of Russia-Ukraine peace talks kick off in Geneva",
-        "link": "https://www.aljazeera.com/news/2026/2/17/missiles-fly-as-3rd-round-of-russia-ukraine-peace-talks-kick-off-in-geneva?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,8 @@
     ],
     "Dawn": [
       {
-        "title": "Govt does not want to politicise Imran’s health, says interior minister",
-        "link": "https://www.dawn.com/news/1973897/govt-does-not-want-to-politicise-imrans-health-says-interior-minister"
+        "title": "Imran’s sisters, TTAP reject Naqvi’s account of events surrounding PTI founder’s medical examination",
+        "link": "https://www.dawn.com/news/1973897/imrans-sisters-ttap-reject-naqvis-account-of-events-surrounding-pti-founders-medical-examination"
       },
       {
         "title": "Ramazan moon sighted in Saudi Arabia, UAE",
@@ -93,27 +99,31 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Trump Sought Vast Budget Cuts. Congress Granted Few.",
+        "link": "https://www.nytimes.com/2026/02/17/us/politics/trump-congress-budget-cuts.html"
+      },
+      {
+        "title": "Obama Took On Recession, Health Care and Iraq. What He Didn’t See Coming Was Trump.",
+        "link": "https://www.nytimes.com/2026/02/17/us/politics/obama-trump-oral-history.html"
+      },
+      {
+        "title": "Hegseth Is Said to Have Ordered Pentagon Spokesman’s Firing",
+        "link": "https://www.nytimes.com/2026/02/17/us/politics/hegseth-pentagon-spokesman-fired.html"
+      },
+      {
         "title": "Jesse Jackson, Charismatic Champion of Civil Rights, Dies at 84",
         "link": "https://www.nytimes.com/2026/02/17/us/jesse-jackson-dead.html"
       },
       {
         "title": "Jesse Jackson: A Life in Pictures",
         "link": "https://www.nytimes.com/2026/02/17/us/politics/jesse-jackson-photos.html"
-      },
-      {
-        "title": "The Expanding Fallout From the Epstein Files, and Jesse Jackson Dies at 84",
-        "link": "https://www.nytimes.com/2026/02/17/podcasts/the-headlines/epstein-files-jesse-jackson.html"
-      },
-      {
-        "title": "Iranians Defy Government Crackdown at Memorials for Slain Protesters",
-        "link": "https://www.nytimes.com/2026/02/17/world/middleeast/iran-memorials-protesters-crackdown.html"
-      },
-      {
-        "title": "Warner Bros. Discovery Restarts Deal Talks With Paramount",
-        "link": "https://www.nytimes.com/2026/02/17/business/warner-bros-discovery-paramount.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Saudi Arabia starts Ramadan on Wednesday, but many others to begin a day later",
+        "link": "https://www.middleeasteye.net/news/saudi-announces-ramadan-wednesday-most-others-start-day-later"
+      },
       {
         "title": "Ramadan 2026: When does it start and everything else you need to know",
         "link": "https://www.middleeasteye.net/news/ramadan-2026-when-does-it-start-and-everything-else-you-need-know"
@@ -129,32 +139,28 @@
       {
         "title": "Macron says French nationals fighting for Israel in Gaza can't be ‘genociders’",
         "link": "https://www.middleeasteye.net/news/macron-says-french-israeli-nationals-should-never-be-called-genociders-0"
-      },
-      {
-        "title": "UAE scrubbing Hind al-Owais from internet after Epstein emails uncovered",
-        "link": "https://www.middleeasteye.net/news/uae-wiping-mentions-hind-al-owais-after-epstein-emails-uncovered"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles opens 2026 Investitures after backlash over waste piles",
-        "link": "https://www.geo.tv/latest/651411-king-charles-opens-2026-investitures-after-backlash-over-waste-piles"
+        "title": "PM takes notice of mismanagement in hockey team's Australia visit",
+        "link": "https://www.geo.tv/latest/651427-pm-takes-notice-of-mismanagement-in-hockey-teams-australia-visit"
       },
       {
-        "title": "Andrew's secret suite uncovered, new revelations shock Britons",
-        "link": "https://www.geo.tv/latest/651413-andrews-secret-suite-uncovered-new-revelations-shock-britons"
+        "title": "Duke of Edinburgh kicks off Milan tour focused on youth",
+        "link": "https://www.geo.tv/latest/651424-duke-of-edinburgh-kicks-off-milan-tour-focused-on-youth"
       },
       {
-        "title": "Banks to remain closed for public dealing on 1st Ramadan: SBP",
-        "link": "https://www.geo.tv/latest/651419-banks-to-remain-closed-for-public-dealing-on-1st-ramadan-sbp"
+        "title": "Nepal wrap up T20 World Cup campaign with Scotland triumph",
+        "link": "https://www.geo.tv/latest/651423-nepal-wrap-up-t20-world-cup-campaign-with-scotland-triumph"
       },
       {
-        "title": "What to expect from Apple's special event scheduled for March 4?",
-        "link": "https://www.geo.tv/latest/651421-what-to-expect-from-apples-special-event-scheduled-for-march-4"
+        "title": "Brad Pitt finally ends 10 years long legal battle with Angelina Jolie",
+        "link": "https://www.geo.tv/latest/651422-brad-pitt-finally-ends-10-years-long-legal-battle-with-angelina-jolie"
       },
       {
-        "title": "Netflix un-cancels biggest fight in women's MMA history is finally happening",
-        "link": "https://www.geo.tv/latest/651420-netflix-un-cancels-biggest-fight-in-womens-mma-history-is-finally-happening"
+        "title": "Duke of Kent's granddaughter discovers serenity in Somerset",
+        "link": "https://www.geo.tv/latest/651389-duke-of-kents-granddaughter-discovers-serenity-in-somerset"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-17 16:35 UTC"
+  "last_updated": "2026-02-17 17:38 UTC"
 }
