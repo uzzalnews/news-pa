@@ -1,11 +1,6 @@
 {
   "breaking": [
     {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel steps up attacks, land takeover across occupied West Bank",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/2/18/live-israel-steps-up-attacks-land-takeover-across-occupied-west-bank?traffic_source=rss"
-    },
-    {
       "source": "NDTV",
       "title": "NDTV AI Summit 2026 LIVE Updates: OpenAI's Chris Lehane On India's AI Capabilities",
       "link": "https://www.ndtv.com/india-news/ndtv-ai-impact-summit-2026-live-updates-day-3-itc-maurya-new-delhi-global-tech-leaders-ndtv-ai-impact-summit-itc-maurya-rishi-sunak-pm-modi-bharat-man-11051597#publisher=newsstand"
@@ -14,12 +9,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Firm assessing Covid vaccine harm replaced after costs spiral to £48m",
-        "link": "https://www.bbc.com/news/articles/c5yrvyv4zlzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "'Just push us into the sea': The frustration of an area failed by politics",
         "link": "https://www.bbc.com/news/articles/cm2136jnjx1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Plan to increase youth minimum wage could be delayed",
+        "link": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
@@ -30,30 +25,30 @@
         "link": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Police assessing Stansted Airport private flights over Epstein ties",
-        "link": "https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&at_campaign=rss"
+        "title": "Real Madrid tie halted over Vinicius racism allegation",
+        "link": "https://www.bbc.com/sport/football/articles/cpv843x1zgzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Philippine VP Sara Duterte announces run for president in 2028",
-        "link": "https://www.aljazeera.com/news/2026/2/18/philippine-vp-sara-duterte-announces-run-for-president-in-2028?traffic_source=rss"
+        "title": "Ronda Rousey, Gina Carano end MMA retirements to fight in May",
+        "link": "https://www.aljazeera.com/sports/2026/2/18/ronda-rousey-gina-carano-end-mma-retirements-to-fight-in-may?traffic_source=rss"
       },
       {
-        "title": "LIVE: Israel steps up attacks, land takeover across occupied West Bank",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/2/18/live-israel-steps-up-attacks-land-takeover-across-occupied-west-bank?traffic_source=rss"
+        "title": "Palestinians in Gaza face food shortages, restrictions as Ramadan begins",
+        "link": "https://www.aljazeera.com/news/2026/2/18/palestinians-in-gaza-face-food-shortages-restrictions-as-ramadan-begins?traffic_source=rss"
       },
       {
-        "title": "Washington appoints new US envoy on Tibetan human rights",
-        "link": "https://www.aljazeera.com/news/2026/2/18/washington-appoints-new-us-envoy-on-tibetan-human-rights?traffic_source=rss"
+        "title": "Ten skiers missing, 6 trapped after avalanche in north California mountains",
+        "link": "https://www.aljazeera.com/news/2026/2/18/ten-skiers-missing-6-trapped-after-avalanche-in-north-california-mountains?traffic_source=rss"
       },
       {
-        "title": "Over 80 UN member states condemn Israel’s de facto annexation of West Bank",
-        "link": "https://www.aljazeera.com/news/2026/2/18/over-80-un-member-states-condemn-israels-de-facto-annexation-of-west-bank?traffic_source=rss"
+        "title": "Global pressure does little to stop Israel’s anti-Palestinian policies",
+        "link": "https://www.aljazeera.com/features/2026/2/18/global-pressure-does-little-to-stop-israels-anti-palestinian-policies?traffic_source=rss"
       },
       {
-        "title": "Iran says ‘good progress’ made in nuclear talks with US in Geneva",
-        "link": "https://www.aljazeera.com/news/2026/2/18/irans-araghchi-hails-good-progress-in-nuclear-talks-with-us?traffic_source=rss"
+        "title": "Gaza welcomes Ramadan amid fragile ‘ceasefire’ and fears of renewed war",
+        "link": "https://www.aljazeera.com/features/2026/2/18/gaza-welcomes-ramadan-amid-fragile-ceasefire-and-fears-of-renewed-war?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -81,8 +76,8 @@
     ],
     "Dawn": [
       {
-        "title": "‘Board of Peace’ meeting to test Pakistan’s balancing act",
-        "link": "https://www.dawn.com/news/1974061/board-of-peace-meeting-to-test-pakistans-balancing-act"
+        "title": "TTAP leadership reaches SC for hearings of Imran’s cases; alliance insists on personal physicians’ access",
+        "link": "https://www.dawn.com/news/1974086/ttap-leadership-reaches-sc-for-hearings-of-imrans-cases-alliance-insists-on-personal-physicians-access"
       },
       {
         "title": "Two officials martyred in militant attack on police station, customs office in Dera Ismail Khan",
@@ -97,8 +92,8 @@
         "link": "https://www.dawn.com/news/1974080/israeli-police-arrest-al-aqsa-mosque-imam-ahead-of-ramazan"
       },
       {
-        "title": "PHF, PSB trade blame after Pro League mismanagement",
-        "link": "https://www.dawn.com/news/1973985/phf-psb-trade-blame-after-pro-league-mismanagement"
+        "title": "Bangladesh PM Tarique Rahman names cabinet after election win",
+        "link": "https://www.dawn.com/news/1974089/bangladesh-pm-tarique-rahman-names-cabinet-after-election-win"
       }
     ],
     "APNews": [],
@@ -148,24 +143,24 @@
     ],
     "GeoTV": [
       {
-        "title": "CTD guns down 14 terrorists in two Quetta operations",
-        "link": "https://www.geo.tv/latest/651514-ctd-guns-down-14"
+        "title": "Ruet-e-Hilal Committee to meet in Peshawar for Ramadan 2026 moon sighting today",
+        "link": "https://www.geo.tv/latest/651528-ruet-e-hilal-committee-to-meet-in-peshawar-for-ramadan-2026-moon-sighting-today"
       },
       {
-        "title": "Kung Fu robots steal spotlight at China's Spring Festival gala: Watch",
-        "link": "https://www.geo.tv/latest/651523-kung-fu-robots-steal-spotlight-at-chinas-spring-festival-gala-watch"
+        "title": "Ramadan 2026: Karachi school timings announced",
+        "link": "https://www.geo.tv/latest/651533-ramadan-2026-karachi-school-timings-announced"
       },
       {
-        "title": "Priyanka Chopra, Nick Jonas serve couple goals at ‘The Bluff' premiere",
-        "link": "https://www.geo.tv/latest/651522-priyanka-chopra-nick-jonas-serve-couple-goals-at-the-bluff-premiere"
+        "title": "Hassan Ali, wife welcome newest addition to family",
+        "link": "https://www.geo.tv/latest/651526-hassan-ali-wife-welcome-newest-addition-to-family"
       },
       {
-        "title": "Alysa Liu keeps individual medal hopes alive after US team's setback",
-        "link": "https://www.geo.tv/latest/651520-alysa-liu-keeps-individual-medal-hopes-alive-after-us-teams-setback"
+        "title": "Whole Pakistan to begin fasting on same day this year: Maulana Khabeer Azad",
+        "link": "https://www.geo.tv/latest/651530-whole-pakistan-to-begin-fasting-on-same-day-this-year-maulana-khabeer-azad"
       },
       {
-        "title": "Dubai keeps Ramadan tradition alive with daily cannon fire",
-        "link": "https://www.geo.tv/latest/651516-dubai-keeps-ramadan-tradition-alive-with-daily-cannon-fire"
+        "title": "Jessica Alba, Danny Ramirez turn up heat after Cash Warren divorce filing",
+        "link": "https://www.geo.tv/latest/651527-jessica-alba-danny-ramirez-turn-up-heat-after-cash-warren-divorce-filing"
       }
     ],
     "NDTV": [
@@ -213,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-18 07:12 UTC"
+  "last_updated": "2026-02-18 07:59 UTC"
 }
