@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Bodo/Glimt vs Inter Milan – Champions League playoff",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/18/live-bodo-glimt-vs-inter-milan-champions-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "‘Board of Peace’: Reality vs Rhetoric",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/18/board-of-peace-reality-vs-rhetoric?traffic_source=rss"
+      },
+      {
         "title": "After health rumours, UAE President MBZ seen meeting with US lawmaker",
         "link": "https://www.aljazeera.com/news/2026/2/18/after-health-rumours-uae-president-mbz-seen-meeting-with-us-lawmaker?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "US says that it will review Moderna flu vaccine it previously declined",
         "link": "https://www.aljazeera.com/news/2026/2/18/us-says-that-it-will-review-moderna-flu-vaccine-it-previously-declined?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Bodo/Glimt vs Inter Milan – Champions League playoff",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/18/live-bodo-glimt-vs-inter-milan-champions-league?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -143,6 +137,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Taylor Swift to face ex Harry Styles in Britain: Know more",
+        "link": "https://www.geo.tv/latest/651657-taylor-swift-to-face-ex-harry-styles-in-britain-know-more"
+      },
+      {
+        "title": "Google's Lyria 3: Complete guide to crafting perfect AI music prompts",
+        "link": "https://www.geo.tv/latest/651656-googles-lyria-3-complete-guide-to-crafting-perfect-ai-music-prompts"
+      },
+      {
         "title": "Jennifer Aniston uses hilarious 'Friends' scene to review 'Wuthering Heights'",
         "link": "https://www.geo.tv/latest/651655-jennifer-aniston-uses-hilarious-friends-scene-to-review-wuthering-heights"
       },
@@ -153,36 +155,28 @@
       {
         "title": "Colossal's dire wolves are now living as pack for first time in 10,000 years",
         "link": "https://www.geo.tv/latest/651652-colossals-dire-wolves-are-now-living-as-pack-for-first-time-in-10000-years"
-      },
-      {
-        "title": "Jason Bateman reacts to Charli XCX podcast criticism over 'invasive' joke",
-        "link": "https://www.geo.tv/latest/651651-jason-bateman-reacts-to-charli-xcx-podcast-criticism-over-invasive-joke"
-      },
-      {
-        "title": "'They couldn't achieve what we have': Shadab hits back at ex-cricketers over criticism",
-        "link": "https://www.geo.tv/latest/651648-they-couldnt-achieve-what-we-have-shadab-hits-back-at-ex-cricketers-over-criticism"
       }
     ],
     "NDTV": [
       {
-        "title": "40 Tonnes A Day: Delhi To Build New Biomedical Waste Treatment Plants",
-        "link": "https://www.ndtv.com/india-news/40-tonnes-a-day-delhi-to-build-new-biomedical-waste-treatment-plants-11055780#publisher=newsstand"
+        "title": "India Will Lead Global South One Day: Mohan Bhagwat In Lucknow",
+        "link": "https://www.ndtv.com/india-news/india-will-lead-global-south-one-day-mohan-bhagwat-in-lucknow-11055938#publisher=newsstand"
       },
       {
-        "title": "FedEx To Invest Rs 2,500 Crore For Automated Cargo Hub At Navi Mumbai Airport",
-        "link": "https://www.ndtv.com/india-news/fedex-to-invest-rs-2-500-crore-for-automated-cargo-hub-at-navi-mumbai-airport-11055779#publisher=newsstand"
+        "title": "Former Ukraine Army Chief Opens Up About Rift With Zelensky",
+        "link": "https://www.ndtv.com/world-news/former-army-chief-opens-up-about-rift-with-volodymyr-zelensky-seen-as-his-top-rival-11055683#publisher=newsstand"
       },
       {
-        "title": "PM Modi, Bhutan PM Tobgay Discuss Boosting Partnership In Key Sectors",
-        "link": "https://www.ndtv.com/india-news/pm-modi-bhutan-pm-tobgay-discuss-boosting-partnership-in-key-sectors-11055771#publisher=newsstand"
+        "title": "Ajit Pawar's Son Seeks Detailed Probe In Baramati Plane Crash",
+        "link": "https://www.ndtv.com/india-news/ajit-pawars-son-seeks-detailed-probe-in-baramati-plane-crash-11055912#publisher=newsstand"
       },
       {
-        "title": "India Sets World Record For Most AI Responsibility Pledges In 24 Hours",
-        "link": "https://www.ndtv.com/india-news/india-sets-world-record-for-most-ai-responsibility-pledges-in-24-hours-11055765#publisher=newsstand"
+        "title": "Google Unveils India-US Subsea Cable To Boost AI Connectivity",
+        "link": "https://www.ndtv.com/india-news/google-unveils-india-us-subsea-cable-to-boost-ai-connectivity-11055911#publisher=newsstand"
       },
       {
-        "title": "Assam Ex Congress Chief Bhupen Borah Tells NDTV Why He Decided To Join BJP",
-        "link": "https://www.ndtv.com/india-news/assam-ex-congress-chief-bhupen-borah-tells-ndtv-why-he-decided-to-join-bjp-11053321#publisher=newsstand"
+        "title": "Ajit Pawar's Son Jay Demands Thorough, Impartial Probe Into Plane Crash",
+        "link": "https://www.ndtv.com/india-news/ajit-pawars-son-jay-demands-thorough-impartial-probe-into-plane-crash-11055910#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-18 19:30 UTC"
+  "last_updated": "2026-02-18 20:05 UTC"
 }
