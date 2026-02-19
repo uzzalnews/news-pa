@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "OpenAI CEO Says AI Regulation 'Urgently' Needed At India Summit",
-      "link": "https://www.ndtv.com/india-news/openai-ceo-says-ai-regulation-urgently-needed-at-india-summit-11071538#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,19 +11,23 @@
         "link": "https://www.bbc.com/news/articles/cd6zjl58734o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Vehicles arrive at Sandringham Estate",
-        "link": "https://www.bbc.com/news/videos/cpqw7pj2lyeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Andrew in custody as police search two addresses",
         "link": "https://www.bbc.com/news/articles/cx28yel4811o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Detained British woman describes life in Iran jail hours before being sentenced to 10 years",
         "link": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man guilty of XL bully offence after dog killed mother-in-law in his home",
+        "link": "https://www.bbc.com/news/articles/c1e98d8l2l3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump’s ‘Board of Peace’ convenes for first time",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/19/trumps-board-of-peace-convenes-for-first-time?traffic_source=rss"
+      },
       {
         "title": "UN says Israel is stoking ‘ethnic cleansing’ fears in Gaza, West Bank",
         "link": "https://www.aljazeera.com/news/2026/2/19/un-says-israel-is-stoking-ethnic-cleansing-fears-in-gaza-west-bank?traffic_source=rss"
@@ -43,12 +41,8 @@
         "link": "https://www.aljazeera.com/news/2026/2/19/bangladesh-referendum-the-big-post-election-flashpoint?traffic_source=rss"
       },
       {
-        "title": "Trump’s Board of Peace live: Representatives converge for inaugural meeting",
+        "title": "Trump’s Board of Peace live: US president addresses inaugural meeting",
         "link": "https://www.aljazeera.com/news/liveblog/2026/2/19/trumps-board-of-peace-live-representatives-converge-for-inaugural-meeting?traffic_source=rss"
-      },
-      {
-        "title": "What we know so far about arrest of UK’s former Prince Andrew",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/19/what-we-know-so-far-about-arrest-of-uks-former-prince-andrew?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,12 @@
     ],
     "Dawn": [
       {
-        "title": "PM Shehbaz in attendance as leaders gather in Washington for inaugural Board of Peace meeting",
-        "link": "https://www.dawn.com/news/1974340/pm-shehbaz-in-attendance-as-leaders-gather-in-washington-for-inaugural-board-of-peace-meeting"
+        "title": "‘I like this guy’: Trump to PM Shehbaz at inaugural Board of Peace meeting",
+        "link": "https://www.dawn.com/news/1974340/i-like-this-guy-trump-to-pm-shehbaz-at-inaugural-board-of-peace-meeting"
+      },
+      {
+        "title": "Pakistan, US sign pact to redevelop New York’s Roosevelt Hotel",
+        "link": "https://www.dawn.com/news/1974378/pakistan-us-sign-pact-to-redevelop-new-yorks-roosevelt-hotel"
       },
       {
         "title": "4 terrorists killed in intelligence-based operation in KP’s Lakki Marwat: ISPR",
@@ -90,10 +88,6 @@
       {
         "title": "At least 15 killed in Karachi Soldier Bazaar building collapse following gas explosion",
         "link": "https://www.dawn.com/news/1974336/at-least-15-killed-in-karachi-soldier-bazaar-building-collapse-following-gas-explosion"
-      },
-      {
-        "title": "PMDC takes notice of student’s death at Fatima Jinnah Medical University, advises varsities to hire mental health professionals",
-        "link": "https://www.dawn.com/news/1974368/pmdc-takes-notice-of-students-death-at-fatima-jinnah-medical-university-advises-varsities-to-hire-mental-health-professionals"
       }
     ],
     "APNews": [],
@@ -101,6 +95,10 @@
       {
         "title": "The Epstein Files and the Hidden World of an Unaccountable Elite",
         "link": "https://www.nytimes.com/2026/02/12/us/politics/epstein-files.html"
+      },
+      {
+        "title": "How The Times Is Digging Into Millions of Pages of Epstein Files",
+        "link": "https://www.nytimes.com/2026/02/12/insider/jeffrey-epstein-files-documents.html"
       },
       {
         "title": "An A.I. Fight at the Pentagon, and Former Prince Andrew Is Arrested Over Epstein Ties",
@@ -113,76 +111,72 @@
       {
         "title": "Trump Mulls a North American Trade Pact Without Canada",
         "link": "https://www.nytimes.com/2026/02/19/business/economy/trump-canada-mexico-usmca-trade.html"
-      },
-      {
-        "title": "Europe Worries About Another Trump Blowup, This One on Tech",
-        "link": "https://www.nytimes.com/2026/02/19/world/europe/europe-united-states-trump-digital-services-act.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Rubio declared a return to brutal western colonialism - and Europe applauded",
+        "link": "https://www.middleeasteye.net/opinion/us-rubio-declared-war-humanitys-future-and-europe-applauded"
+      },
+      {
+        "title": "Police complaint filed against Elbit Systems UK over Gaza atrocities",
+        "link": "https://www.middleeasteye.net/news/campaigners-file-police-complaint-against-elbit-systems-over-gaza-atrocities"
+      },
+      {
+        "title": "Leila Shahid, the first female Palestinian diplomat, dies aged 76",
+        "link": "https://www.middleeasteye.net/news/leila-shahid-first-female-palestinian-diplomat-dies-aged-76"
+      },
+      {
+        "title": "‘Returned from hell’: Press monitor exposes torture of Palestinian journalists by Israel",
+        "link": "https://www.middleeasteye.net/news/we-returned-hell-report-exposes-torture-palestinian-journalists-israeli-prisons"
+      },
+      {
         "title": "'Missing the beauty': Israel bans Ramadan decorations in Jerusalem",
         "link": "https://www.middleeasteye.net/news/israel-bans-ramadan-decorations-jerusalem"
-      },
-      {
-        "title": "Making sense of a world going to sh*t: Epstein, Israel, & US decline | Hasan Piker",
-        "link": "https://www.middleeasteye.net/video/making-sense-world-going-sht-epstein-israel-us-decline-hasan-piker"
-      },
-      {
-        "title": "The rise of white nationalism in Canada: What you need to know | Rachel Gilmore",
-        "link": "https://www.middleeasteye.net/video/rise-white-nationalism-canada-what-you-need-know-rachel-gilmore-real-talk"
-      },
-      {
-        "title": "Is Sudan 'too complicated' for your newsfeed? | Khalid Albaih",
-        "link": "https://www.middleeasteye.net/video/sudan-too-complicated-your-newsfeed-khalid-albaih-real-talk"
-      },
-      {
-        "title": "Ecuador’s former FM: Why Trump’s Venezuela attack is deeply rooted in colonialism",
-        "link": "https://www.middleeasteye.net/video/ecuadors-former-fm-why-trumps-venezuela-attack-deeply-rooted-colonialism"
       }
     ],
     "GeoTV": [
       {
-        "title": "Selena Gomez shares throwback picture from Taylor Swift's 'Eras Tour' show",
-        "link": "https://www.geo.tv/latest/651812-selena-gomez-shares-throwback-picture-from-taylor-swifts-eras-tour-show"
+        "title": "Former Google insider warns AI could lead to global disaster",
+        "link": "https://www.geo.tv/latest/651826-former-google-insider-warns-ai-could-lead-to-global-disaster"
       },
       {
-        "title": "Apple likely to showcase immersive F1 for Vision Pro during March 4 event",
-        "link": "https://www.geo.tv/latest/651806-apple-likely-to-showcase-immersive-f1-for-vision-pro-during-march-4-event"
+        "title": "King Charles steps out while Camilla lets wave speak on Andrew queries",
+        "link": "https://www.geo.tv/latest/651822-king-charles-steps-out-while-camilla-lets-wave-speak-on-andrew-queries"
       },
       {
-        "title": "Summerfest 2026: Ed Sheeran, Post Malone to headline event with others",
-        "link": "https://www.geo.tv/latest/651810-summerfest-2026-ed-sheeran-post-malone-to-headline-event-with-others"
+        "title": "Hailey Bieber details health scares after rare heart condition diagnosis",
+        "link": "https://www.geo.tv/latest/651817-hailey-bieber-details-health-scares-after-rare-heart-condition-diagnosis"
       },
       {
-        "title": "Virginia Giuffre's family speaks out: ‘He was not Prince' amid Andrew arrest",
-        "link": "https://www.geo.tv/latest/651807-virginia-giuffres-family-speaks-out-he-was-not-prince-amid-andrew-arrest"
+        "title": "Trump hails PM Shehbaz, ‘tough fighter' CDF Munir at inaugural Board of Peace meeting",
+        "link": "https://www.geo.tv/latest/651821-trump-hails-pm-shehbaz-tough-fighter-cdf-munir-at-inaugural-board-of-peace-meeting"
       },
       {
-        "title": "‘Spider-Man: Brand New Day' first synopsis teases plot of the movie",
-        "link": "https://www.geo.tv/latest/651804-spider-man-brand-new-day-first-synopsis-teases-plot-of-the-movie"
+        "title": "Four India-sponsored terrorists killed in Lakki Marwat IBO: ISPR",
+        "link": "https://www.geo.tv/latest/651814-four-indian-sponsored-terrorists-killed-in-lakki-marwat-ibo-ispr"
       }
     ],
     "NDTV": [
       {
-        "title": "On India's Wishlist, Independent AI With Full Control, \"Kill Switch\"",
-        "link": "https://www.ndtv.com/india-news/on-indias-wishlist-independent-ai-with-full-control-kill-switch-11071701#publisher=newsstand"
+        "title": "Switzerland To Host Next AI Summit, Keen To Learn From India Says Top Official",
+        "link": "https://www.ndtv.com/india-news/switzerland-to-host-next-ai-summit-keen-to-learn-from-india-says-top-official-11072458#publisher=newsstand"
       },
       {
-        "title": "Thai Cops Go Undercover As Lion Dancers To Catch Thief Who Stole Buddhist Items",
-        "link": "https://www.ndtv.com/world-news/thai-cops-go-undercover-as-lion-dancers-to-catch-thief-who-stole-buddhist-items-11071713#publisher=newsstand"
+        "title": "Next Round of SIR, Including in Delhi, Maharashtra, To Begin in April",
+        "link": "https://www.ndtv.com/india-news/special-intensive-revision-next-round-of-sir-including-in-delhi-maharashtra-to-begin-in-april-11072434#publisher=newsstand"
       },
       {
-        "title": "Andrew To Princess Anne: Royals Who Have Faced Fines, Trials, And Executions",
-        "link": "https://www.ndtv.com/world-news/as-andrew-gets-arrested-here-are-other-royal-figures-who-faced-legal-action-11071440#publisher=newsstand"
+        "title": "In Reply To NDTV Query On India Ties, Macron's Rafale Deal Mention",
+        "link": "https://www.ndtv.com/india-news/in-pm-narendra-modi-and-emmanuel-macron-talks-big-focus-on-global-strategic-relationship-11071972#publisher=newsstand"
       },
       {
-        "title": "OpenAI CEO Says AI Regulation 'Urgently' Needed At India Summit",
-        "link": "https://www.ndtv.com/india-news/openai-ceo-says-ai-regulation-urgently-needed-at-india-summit-11071538#publisher=newsstand"
+        "title": "Next Decade To See Energy-Efficient AI Systems Operating Locally: NXP Top Official To NDTV",
+        "link": "https://www.ndtv.com/india-news/next-decade-to-see-energy-efficient-ai-systems-operating-locally-nxp-top-official-lars-reger-to-ndtv-11072333#publisher=newsstand"
       },
       {
-        "title": "Russia Calls On Iran To \"Exercise Restraint\" Amid US Military Buildup",
-        "link": "https://www.ndtv.com/world-news/russia-calls-on-iran-to-exercise-restraint-amid-us-military-buildup-11071451#publisher=newsstand"
+        "title": "Salon Owner By Day, 'Madam Zeher' By Night: Delhi Lady Don's Dual Life",
+        "link": "https://www.ndtv.com/india-news/parlour-owner-by-day-madam-zeher-by-night-delhi-lady-dons-dual-life-11072153#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-19 14:35 UTC"
+  "last_updated": "2026-02-19 15:28 UTC"
 }
