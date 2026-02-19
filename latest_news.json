@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: South Korea convicts ex-President Yoon Suk Yeol for insurrection",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/19/live-south-korea-convicts-ex-president-yoon-suk-yeol-for-insurrection?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,12 +17,12 @@
         "link": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Tech firms will have 48 hours to remove abusive images under new law",
-        "link": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Major special education support shake-up risks political backlash",
         "link": "https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tech firms will have 48 hours to remove abusive images under new law",
+        "link": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Gas explosion kills 13 in Pakistan’s Karachi, collapsing building",
+        "link": "https://www.aljazeera.com/news/2026/2/19/gas-explosion-kills-13-in-pakistans-karachi-collapsing-building?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: South Korea convicts ex-President Yoon Suk Yeol for insurrection",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/2/19/live-south-korea-convicts-ex-president-yoon-suk-yeol-for-insurrection?traffic_source=rss"
+      },
+      {
+        "title": "South Korea’s ex-President Yoon given life in prison for insurrection",
+        "link": "https://www.aljazeera.com/news/2026/2/19/south-koreas-ex-president-yoon-suk-yeol-found-guilty-of-insurrection?traffic_source=rss"
+      },
+      {
+        "title": "World leaders discuss AI future at India’s global summit in New Delhi",
+        "link": "https://www.aljazeera.com/news/2026/2/19/world-leaders-discuss-ai-future-at-indias-global-summit-in-new-delhi?traffic_source=rss"
+      },
+      {
         "title": "Aid reaches Sudan’s Kordofan as over 30 countries alarmed by drone attacks",
         "link": "https://www.aljazeera.com/news/2026/2/19/aid-reaches-sudans-kordofan-as-over-30-countries-alarmed-by-drone-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Les Wexner says he was conned by Epstein; Democrats push back on testimony",
-        "link": "https://www.aljazeera.com/news/2026/2/19/les-wexner-says-he-was-conned-by-epstein-democrats-push-back-on-testimony?traffic_source=rss"
-      },
-      {
-        "title": "Twelve killed in China fireworks shop blast during Lunar New Year",
-        "link": "https://www.aljazeera.com/news/2026/2/19/twelve-killed-in-china-fireworks-shop-blast-during-lunar-new-year?traffic_source=rss"
-      },
-      {
-        "title": "‘Proof of concept’? What Trump can achieve in first Board of Peace meeting",
-        "link": "https://www.aljazeera.com/news/2026/2/19/proof-of-concept-what-trump-can-achieve-in-first-board-of-peace-meeting?traffic_source=rss"
-      },
-      {
-        "title": "Houthi threats and US-Iran conflict escalate Ramadan fears in Yemen",
-        "link": "https://www.aljazeera.com/news/2026/2/19/houthi-threats-and-us-iran-conflict-escalate-ramadan-fears-in-yemen?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/1974341/no-leniency-attaullah-tarar-refutes-reports-of-deal-offered-to-pti-founder-imran-khan"
       },
       {
-        "title": "White House tells Iran to do deal as Trump hints at US strikes",
-        "link": "https://www.dawn.com/news/1974344/white-house-tells-iran-to-do-deal-as-trump-hints-at-us-strikes"
+        "title": "IHC issues notices to NCCIA on Imaan, Hadi’s appeals against convictions in social media post case",
+        "link": "https://www.dawn.com/news/1974351/ihc-issues-notices-to-nccia-on-imaan-hadis-appeals-against-convictions-in-social-media-post-case"
       },
       {
-        "title": "Eight backcountry skiers perish in California avalanche, ninth presumed dead",
-        "link": "https://www.dawn.com/news/1974348/eight-backcountry-skiers-perish-in-california-avalanche-ninth-presumed-dead"
+        "title": "Pakistan extends airspace closure for Indian aircraft until March 23",
+        "link": "https://www.dawn.com/news/1974349/pakistan-extends-airspace-closure-for-indian-aircraft-until-march-23"
       }
     ],
     "APNews": [],
@@ -101,19 +107,23 @@
         "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-iran-us-military-maps.html"
       },
       {
+        "title": "After Avalanche Warnings, a Sierra Nevada Tragedy",
+        "link": "https://www.nytimes.com/2026/02/19/nyregion/avalanche-lake-tahoe-deaths.html"
+      },
+      {
         "title": "Sugar Bowl Academy Says Multiple Victims Were Tied to Its Ski Resort School",
         "link": "https://www.nytimes.com/2026/02/18/us/tahoe-avalanche-skiers-sugar-bowl-school.html"
       },
       {
         "title": "Satellite Feature on iPhone Allowed Skiers to Seek Help After Avalanche",
         "link": "https://www.nytimes.com/2026/02/18/us/apple-iphone-sos-satellite-rescue.html"
-      },
-      {
-        "title": "As ICE Buys Up Warehouses, Even Some Trump Voters Say No",
-        "link": "https://www.nytimes.com/2026/02/18/us/politics/ice-warehouses-trump-voters.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Tucker Carlson interrogated in Israel, passport seized after US ambassador interview",
+        "link": "https://www.middleeasteye.net/news/tucker-carlson-interrogated-israel-passport-seized-after-us-ambassador-interview-0"
+      },
       {
         "title": "Trump's 'Board of Peace' for Gaza to hold first meeting in Washington",
         "link": "https://www.middleeasteye.net/news/board-peace-gaza-hold-first-meeting-washington"
@@ -129,54 +139,50 @@
       {
         "title": "More than 80 filmmakers denounce 'censorship' over Gaza at Berlinale",
         "link": "https://www.middleeasteye.net/news/more-80-filmmakers-denounce-censorship-over-gaza-berlinale"
-      },
-      {
-        "title": "Explained: The Israeli measures imposing de facto annexation in the West Bank",
-        "link": "https://www.middleeasteye.net/explainers/what-do-israels-latest-measures-west-bank-mean"
       }
     ],
     "GeoTV": [
       {
+        "title": "King Charles, Queen Camilla give weight to Prince William's big move",
+        "link": "https://www.geo.tv/latest/651740-king-charles-queen-camilla-give-weight-to-prince-williams-big-move"
+      },
+      {
+        "title": "Queen Camilla drops shocking truth about childhood partner in latest confession",
+        "link": "https://www.geo.tv/latest/651728-queen-camilla-drops-shocking-truth-in-latest-confession"
+      },
+      {
+        "title": "Deen the Great elbowed by former MMA fighter Tiki Ghosn during brawl",
+        "link": "https://www.geo.tv/latest/651733-deen-the-great-elbowed-by-former-mma-fighter-tiki-ghosn-during"
+      },
+      {
+        "title": "Imaan Mazari, Hadi Ali Chattha granted bail in police scuffle case",
+        "link": "https://www.geo.tv/latest/651724-imaan-mazari-hadi-ali-chattha-granted-bail-in-police-scuffle-case"
+      },
+      {
         "title": "US military 'ready to strike' Iran as Tehran, Moscow plan joint naval drills",
         "link": "https://www.geo.tv/latest/651731-us-military-ready-to-strike-iran-as-tehran-moscow-plan-joint-naval-drills"
-      },
-      {
-        "title": "Lady Louise's heartthrob reveals how he won over Duchess Sophie",
-        "link": "https://www.geo.tv/latest/651735-lady-louises-heartthrob-reveals-how-he-won-over-duchess-sophie"
-      },
-      {
-        "title": "King Charles, Queen Camilla witness proud milestone in meaningful tour",
-        "link": "https://www.geo.tv/latest/651713-king-charles-queen-camilla-witness-proud-milestone-in-meaningful-tour"
-      },
-      {
-        "title": "Jason Bateman almost quit Hollywood in early 20s: Here's why",
-        "link": "https://www.geo.tv/latest/651729-jason-bateman-almost-quit-hollywood-in-early-20s-heres-why"
-      },
-      {
-        "title": "Deep-sea fish break the mold with novel visual system",
-        "link": "https://www.geo.tv/latest/651730-deep-sea-fish-break-the-mold-with-novel-visual-system"
       }
     ],
     "NDTV": [
       {
-        "title": "Bengaluru Woman Slaughtered In Bed As Husband Lies Clueless Inches Away",
-        "link": "https://www.ndtv.com/india-news/bengaluru-woman-slaughtered-in-bed-as-husband-lies-clueless-inches-away-11057302#publisher=newsstand"
+        "title": "Galgotias Rep Neha Singh's \"Open To Work\" LinkedIn Pic Viral After Robot Row",
+        "link": "https://www.ndtv.com/india-news/neha-singh-galgotias-university-ai-summit-galgotias-rep-neha-singhs-open-to-work-linkedin-pic-viral-after-robot-row-11063664#publisher=newsstand"
       },
       {
-        "title": "'Stop Invasion': MAGA Leader Questions Presence Of Hanuman Statue In US",
-        "link": "https://www.ndtv.com/world-news/3rd-world-aliens-maga-leader-carlos-turcios-remark-on-hanuman-statue-in-us-sparks-row-11056721#publisher=newsstand"
+        "title": "F-22 Raptors, F-35 Lightnings: US Unleashes Massive Air Armada, Iran Watches",
+        "link": "https://www.ndtv.com/world-news/f-22-raptors-f-35-lightnings-us-unleashes-massive-air-armada-in-middle-east-iran-watches-11061589#publisher=newsstand"
       },
       {
-        "title": "Rs 50,000 Cash, And Signal Chats: Revelations In Rohit Shetty House Firing",
-        "link": "https://www.ndtv.com/india-news/rohit-shetty-lawrence-bishnoi-rs-50-000-cash-and-signal-chats-revelations-in-rohit-shetty-house-firing-11057242#publisher=newsstand"
+        "title": "AI Cold War On Stage: OpenAI, Anthropic CEOs' Awkward Moment At Delhi Summit",
+        "link": "https://www.ndtv.com/india-news/sam-altman-dario-amodei-india-ai-impact-summit-pm-modi-ai-cold-war-on-stage-openai-anthropic-ceos-awkward-moment-at-delhi-summit-11058324#publisher=newsstand"
       },
       {
-        "title": "57% Conviction, 14% FIRs, 0.6% Courtroom Guilt: Inside Madhya Pradesh's Anti-Corruption Paradox",
-        "link": "https://www.ndtv.com/india-news/inside-madhya-pradeshs-anti-corruption-paradox-57-conviction-14-firs-0-6-courtroom-guilt-11057244#publisher=newsstand"
+        "title": "Girls, Some As Young As 14, Forced Into Sex To Clear Debts In London: Report",
+        "link": "https://www.ndtv.com/world-news/girls-some-as-young-as-14-forced-into-sex-to-clear-debts-in-london-report-11057402#publisher=newsstand"
       },
       {
-        "title": "\"Still Working On That, Dad\": Sundar Pichai On Driverless Cabs On Indian Roads",
-        "link": "https://www.ndtv.com/india-news/sundar-pichai-india-ai-impact-summit-2026-google-ceo-on-driverless-cabs-on-indian-roads-still-working-on-that-11057043#publisher=newsstand"
+        "title": "South Korea Court Gives Ex-President Life In Prison For Insurrection",
+        "link": "https://www.ndtv.com/world-news/south-korea-court-gives-ex-president-yoon-suk-yeol-life-in-prison-for-insurrection-11061572#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-19 07:18 UTC"
+  "last_updated": "2026-02-19 08:01 UTC"
 }
