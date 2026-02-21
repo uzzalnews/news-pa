@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Manchester City vs Newcastle United – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/21/live-manchester-city-vs-newcastle-united-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Pakistan-New Zealand Super Eights opener abandoned at T20 World Cup",
+        "link": "https://www.aljazeera.com/sports/2026/2/21/pakistan-new-zealand-super-eights-opener-abandoned-at-t20-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Manchester City vs Newcastle United – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/21/live-manchester-city-vs-newcastle-united-premier-league?traffic_source=rss"
+      },
+      {
         "title": "Russian attack on Kharkiv kills two, Ukraine hits missile plant",
         "link": "https://www.aljazeera.com/news/2026/2/21/russian-attack-on-kharkiv-kills-two-ukraine-hits-missile-plant?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "Two soldiers killed during military operation in Pakistan’s northwest: Army",
         "link": "https://www.aljazeera.com/news/2026/2/21/2-soldiers-dead-5-militants-killed-in-pakistans-bannu?traffic_source=rss"
-      },
-      {
-        "title": "Giant tortoises return to Galapagos island after 150 years",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/21/giant-tortoises-return-to-galapagos-island-after-150-years?traffic_source=rss"
-      },
-      {
-        "title": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
-        "link": "https://www.aljazeera.com/news/2026/2/21/iran-demands-evidence-as-trump-un-experts-highlight-protest-killings?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "How a Jewish day school fabricated an antisemitism scandal in South Africa",
+        "link": "https://www.middleeasteye.net/opinion/how-jewish-day-school-fabricated-antisemitism-scandal-south-africa"
+      },
+      {
+        "title": "Jordan and Egypt slam US ambassador remarks that Israel can take over all Middle East",
+        "link": "https://www.middleeasteye.net/news/palestine-jordan-egypt-slam-us-ambassador-huckabees-israel-take-over-remarks"
+      },
+      {
         "title": "Trump open to 'token' Iran nuclear deal if every path to a bomb is blocked",
         "link": "https://www.middleeasteye.net/news/trump-open-token-iran-enrichment-deal-axios-report"
       },
@@ -125,17 +139,21 @@
       {
         "title": "Lebanon: Israeli strike kills at least 10, including Hezbollah leader",
         "link": "https://www.middleeasteye.net/news/lebanon-israeli-strike-kills-least-10-including-hezbollah-leader"
-      },
-      {
-        "title": "‘Vassalage’: Deepening Tunisia-Algeria ties spark mounting scrutiny and backlash",
-        "link": "https://www.middleeasteye.net/news/vassalage-deepening-tunisia-algeria-ties-spark-mounting-scrutiny-and-backlash"
-      },
-      {
-        "title": "US ambassador Huckabee says Israel has right to take over ‘all' of Middle East",
-        "link": "https://www.middleeasteye.net/news/us-ambassador-huckabee-israel-has-right-to-take-over-all-middle-east"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Trump defies Supreme Court, hikes global tariffs to 15%",
+        "link": "https://www.geo.tv/latest/652205-trump-defies-supreme-court-hikes-global-tariffs-to-15"
+      },
+      {
+        "title": "Sombr causes stir among Taylor Swift fans with major hint at collaboration",
+        "link": "https://www.geo.tv/latest/652203-sombr-causes-stir-among-taylor-swift-fans-with-major-hint-at-collaboration"
+      },
+      {
+        "title": "Anonymous donor gifts 21kg gold to repair Osaka's aging water pipes",
+        "link": "https://www.geo.tv/latest/652202-anonymous-donor-gifts-21kg-gold-to-repair-osakas-aging-water-pipes"
+      },
       {
         "title": "Polish skater Kamila Sellier posts hospital selfie after her face sliced in horror Olympics injury",
         "link": "https://www.geo.tv/latest/652199-polish-skater-kamila-sellier-posts-hospital-selfie-after-her-face-sliced-in-horror-olympics-injury"
@@ -143,18 +161,6 @@
       {
         "title": "Trump announces hike in US global tariff rate from 10 to 15%",
         "link": "https://www.geo.tv/latest/652198-trump-announces-hike-in-us-global-tariff-rate-from-10-to-15"
-      },
-      {
-        "title": "Iran won't bow to pressure amid US nuclear talks: President Pezeshkian",
-        "link": "https://www.geo.tv/latest/652193-iran-wont-bow-to-pressure-amid-us-nuclear-talks-president-pezeshkian"
-      },
-      {
-        "title": "Hilary Duff finally addresses on mom group fallout after husband's support",
-        "link": "https://www.geo.tv/latest/652196-hilary-duff-finally-addresses-on-mom-group-fallout-after-husbands-support"
-      },
-      {
-        "title": "Princess Kate shatters silence with daring Rugby appearance after Andrew arrest",
-        "link": "https://www.geo.tv/latest/652195-princess-kate-shatters-silence-with-daring-rugby-appearance-after-andrew-arrest"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-21 16:55 UTC"
+  "last_updated": "2026-02-21 17:26 UTC"
 }
