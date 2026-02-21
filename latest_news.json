@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Pakistan vs New Zealand – T20 World Cup Super Eights",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/21/live-pakistan-vs-new-zealand-t20-world-cup-super-eights?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +17,23 @@
         "link": "https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Andrew and King Charles: A personal battle of royal brothers",
-        "link": "https://www.bbc.com/news/articles/czx4y1l1nq4o?at_medium=RSS&at_campaign=rss"
+        "title": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
+        "link": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Why fake AI videos of UK urban decline are taking over social media",
         "link": "https://www.bbc.com/news/articles/c4g8r23yv71o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Civilians to soldiers: how four years of war has changed ordinary Ukrainians",
-        "link": "https://www.bbc.com/news/articles/cddn2e11zm8o?at_medium=RSS&at_campaign=rss"
+        "title": "'It's ruined my life': Hundreds tell BBC how medication triggered gambling and other addictions",
+        "link": "https://www.bbc.com/news/articles/ce948d9gxevo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Pakistan vs New Zealand – T20 World Cup Super Eights",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/21/live-pakistan-vs-new-zealand-t20-world-cup-super-eights?traffic_source=rss"
+      },
       {
         "title": "Tottenham Hotspur vs Arsenal: Premier League – team news, start, lineups",
         "link": "https://www.aljazeera.com/sports/2026/2/21/tottenham-hotspur-vs-arsenal-premier-league-team-news-start?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Farmers in Gaza risk Israeli bullets to bring their fields back to life",
         "link": "https://www.aljazeera.com/features/2026/2/21/farmers-in-gaza-risk-israeli-bullets-to-bring-their-fields-back-to-life?traffic_source=rss"
-      },
-      {
-        "title": "Videos show aftermath of deadly Israeli attacks in Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/21/videos-show-aftermath-of-deadly-israeli-attacks-in-lebanon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,8 +88,8 @@
         "link": "https://www.dawn.com/news/1974778/youth-abducted-released-after-filming-viral-cricket-video-of-aina-wazir-in-north-waziristan"
       },
       {
-        "title": "US ambassador says ‘would be fine’ if Israel takes over large swathes of Middle East",
-        "link": "https://www.dawn.com/news/1974790/us-ambassador-says-would-be-fine-if-israel-takes-over-large-swathes-of-middle-east"
+        "title": "US ambassador says it ‘would be fine’ if Israel takes over large swathes of Middle East",
+        "link": "https://www.dawn.com/news/1974790/us-ambassador-says-it-would-be-fine-if-israel-takes-over-large-swathes-of-middle-east"
       },
       {
         "title": "Islamabad court indicts former KP CM Ali Amin Gandapur in audio leaks case",
@@ -93,20 +99,20 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "After Supreme Court Loss, Trump Plans to Impose Global Tariffs Using Different Laws",
-        "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-tariffs-plans.html"
-      },
-      {
-        "title": "Even After Supreme Court Ruling, Trump Insists He Can Do as He Wishes",
-        "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-justices-gorsuch-barrett-roberts.html"
+        "title": "‘Murky Waters’ for Global Businesses After Trump’s Tariff Loss",
+        "link": "https://www.nytimes.com/2026/02/21/business/economy/tariffs-supreme-court-global-busines-reaction.html"
       },
       {
         "title": "Trump Doubles Down on Closing Tax Loophole on Cheap Imports",
         "link": "https://www.nytimes.com/2026/02/21/business/trump-deminimis-loophole-closed.html"
       },
       {
-        "title": "With Tariff Changes, Consumers May Be Stuck in a Waiting Game",
-        "link": "https://www.nytimes.com/2026/02/20/business/economy/tariff-ruling-consumer-prices.html"
+        "title": "In Gorsuch’s Homage to Legislative Power, a Subtle Reproach of a Neutered Congress",
+        "link": "https://www.nytimes.com/2026/02/21/us/politics/gorsuch-congress-trump-tariffs.html"
+      },
+      {
+        "title": "For India, Buying Russian Oil Just Got More Complicated",
+        "link": "https://www.nytimes.com/2026/02/21/business/india-russia-oil-trump-tariffs.html"
       },
       {
         "title": "Bench Presses, Pull Ups … Kid Rock? The White House Had a Very Manly Week.",
@@ -114,6 +120,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Lebanon: Israeli strike kills at least 10, including Hezbollah leader",
+        "link": "https://www.middleeasteye.net/news/lebanon-israeli-strike-kills-least-10-including-hezbollah-leader"
+      },
       {
         "title": "‘Vassalage’: Deepening Tunisia-Algeria ties spark mounting scrutiny and backlash",
         "link": "https://www.middleeasteye.net/news/vassalage-deepening-tunisia-algeria-ties-spark-mounting-scrutiny-and-backlash"
@@ -129,32 +139,28 @@
       {
         "title": "'Board of Peace' debut sparks fears for Gaza’s future",
         "link": "https://www.middleeasteye.net/trending/inaugural-board-peace-meeting-prompts-concern-and-criticism-online"
-      },
-      {
-        "title": "Israeli settlers kill another teenaged US citizen in occupied West Bank",
-        "link": "https://www.middleeasteye.net/news/israeli-settlers-kill-another-teenaged-us-citizen-occupied-west-bank"
       }
     ],
     "GeoTV": [
       {
+        "title": "Conor Benn signs with Dana White for 'legacy fights' after leaving Matchroom",
+        "link": "https://www.geo.tv/latest/652147-conor-benn-signs-with-dana-white-for-legacy-fights-after-leaving-matchroom"
+      },
+      {
+        "title": "Liza Minnelli reveals why Oscars gig with Lady Gaga left her ‘heartbroken'",
+        "link": "https://www.geo.tv/latest/652139-liza-minnelli-reveals-why-oscars-gig-with-lady-gaga-left-her-heartbroken"
+      },
+      {
+        "title": "PayPal data breach confirmed: Users urged to reset passwords",
+        "link": "https://www.geo.tv/latest/652146-paypal-data-breach-confirmedusers-urged-to-reset-passwords"
+      },
+      {
+        "title": "Priyanka Chopra reveals three‑word rule that keeps marriage with Nick Jonas strong",
+        "link": "https://www.geo.tv/latest/652145-priyanka-chopra-reveals-threeword-rule-that-keeps-marriage-with-nick-jonas-strong"
+      },
+      {
         "title": "'Little Mix' Perrie Edwards faces business crisis following heavy losses",
         "link": "https://www.geo.tv/latest/652142-little-mix-perrie-edwards-faces-business-crisis-following-heavy-losses"
-      },
-      {
-        "title": "Stephen Amell leads Baywatch comeback with major twist",
-        "link": "https://www.geo.tv/latest/652136-stephen-amell-leads-baywatch-comeback-with-major-twist"
-      },
-      {
-        "title": "Camila Cabello receives intense backlash after emotional statement",
-        "link": "https://www.geo.tv/latest/652123-camila-cabello-receives-intense-backlash-after-emotional-statement"
-      },
-      {
-        "title": "Jennifer Garner reflects on 'crazy things' she did for acting",
-        "link": "https://www.geo.tv/latest/652133-jennifer-garner-reflects-on-crazy-things-she-did-for-acting"
-      },
-      {
-        "title": "Princess Anne pushed down in line of throne",
-        "link": "https://www.geo.tv/latest/652121-princess-anne-pushed-down-in-line-of-throne"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-21 10:55 UTC"
+  "last_updated": "2026-02-21 11:22 UTC"
 }
