@@ -3,10 +3,6 @@
   "news": {
     "BBC": [
       {
-        "title": "Trump ups tariffs day after Supreme Court ruling against him",
-        "link": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "MPs to discuss inquiry into trade envoy role after Andrew arrest",
         "link": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&at_campaign=rss"
       },
@@ -21,6 +17,10 @@
       {
         "title": "'It's ruined my life': Hundreds tell BBC how medication triggered gambling and other addictions",
         "link": "https://www.bbc.com/news/articles/ce948d9gxevo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Baby monkey Punch cuddles soft toy after being abandoned by mother",
+        "link": "https://www.bbc.com/news/videos/c1d6ell32weo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
@@ -70,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "Pezeshkian says Iran will not bow to pressure amid US nuclear talks",
-        "link": "https://www.dawn.com/news/1974815/pezeshkian-says-iran-will-not-bow-to-pressure-amid-us-nuclear-talks"
+        "title": "‘Effective immediately’: Trump announces hike in US global tariff rate from 10pc to 15pc",
+        "link": "https://www.dawn.com/news/1974820/effective-immediately-trump-announces-hike-in-us-global-tariff-rate-from-10pc-to-15pc"
       },
       {
         "title": "Inaugural Board of Peace meeting comes under discussion during call between Dar, Azerbaijan foreign minister",
@@ -86,12 +86,16 @@
         "link": "https://www.dawn.com/news/1974812/england-captain-brook-says-a-shame-if-pakistan-players-snubbed-for-hundred-competition"
       },
       {
-        "title": "Kidnapping case registered against unidentified suspects after Canadian national reportedly goes missing in Lahore",
-        "link": "https://www.dawn.com/news/1974811/kidnapping-case-registered-against-unidentified-suspects-after-canadian-national-reportedly-goes-missing-in-lahore"
+        "title": "Pezeshkian says Iran will not bow to pressure amid US nuclear talks",
+        "link": "https://www.dawn.com/news/1974815/pezeshkian-says-iran-will-not-bow-to-pressure-amid-us-nuclear-talks"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Trump Says He Will Raise Global Tariff to 15 Percent",
+        "link": "https://www.nytimes.com/2026/02/21/business/trump-tariffs.html"
+      },
       {
         "title": "Divide Among Supreme Court’s Conservatives Could Test Trump’s Agenda",
         "link": "https://www.nytimes.com/2026/02/21/us/politics/supreme-court-tariffs-conservatives.html"
@@ -107,10 +111,6 @@
       {
         "title": "Bench Presses, Pull Ups … Kid Rock? The White House Had a Very Manly Week.",
         "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-hegseth-rfk-manliness.html"
-      },
-      {
-        "title": "Bridge Owner Donated $1 Million to MAGA Group Before Trump Blasted Competitor",
-        "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-canada-bridge-maga-inc-donation.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,27 +137,35 @@
     ],
     "GeoTV": [
       {
+        "title": "Polish skater Kamila Sellier posts hospital selfie after her face sliced in horror Olympics injury",
+        "link": "https://www.geo.tv/latest/652199-polish-skater-kamila-sellier-posts-hospital-selfie-after-her-face-sliced-in-horror-olympics-injury"
+      },
+      {
+        "title": "Trump announces hike in US global tariff rate from 10 to 15%",
+        "link": "https://www.geo.tv/latest/652198-trump-announces-hike-in-us-global-tariff-rate-from-10-to-15"
+      },
+      {
+        "title": "Iran won't bow to pressure amid US nuclear talks: President Pezeshkian",
+        "link": "https://www.geo.tv/latest/652193-iran-wont-bow-to-pressure-amid-us-nuclear-talks-president-pezeshkian"
+      },
+      {
+        "title": "Hilary Duff finally addresses on mom group fallout after husband's support",
+        "link": "https://www.geo.tv/latest/652196-hilary-duff-finally-addresses-on-mom-group-fallout-after-husbands-support"
+      },
+      {
         "title": "Princess Kate shatters silence with daring Rugby appearance after Andrew arrest",
         "link": "https://www.geo.tv/latest/652195-princess-kate-shatters-silence-with-daring-rugby-appearance-after-andrew-arrest"
-      },
-      {
-        "title": "Netflix vs HBO: The shows that won the streaming wars",
-        "link": "https://www.geo.tv/latest/652186-netflix-vs-hbo-the-shows-that-won-the-streaming-wars"
-      },
-      {
-        "title": "Hilary Duff sings praises of Taylor Swift for reinventing pop music",
-        "link": "https://www.geo.tv/latest/652183-hilary-duff-sings-praises-of-taylor-swift-for-reinventing-pop-music"
-      },
-      {
-        "title": "WhatsApp rolling out 'Scheduled Messages' feature",
-        "link": "https://www.geo.tv/latest/652191-whatsapp-rolling-out-scheduled-messages-feature"
-      },
-      {
-        "title": "Everything to know about 2026 BAFTA film awards ceremony",
-        "link": "https://www.geo.tv/latest/652192-everything-to-know-about-2026-bafta-film-awards-ceremony"
       }
     ],
     "NDTV": [
+      {
+        "title": "Trump Hikes Global Tariffs From 10% To 15% Day After Big Supreme Court Order",
+        "link": "https://www.ndtv.com/world-news/trump-raises-global-tariffs-from-10-to-15-day-after-big-supreme-court-ruling-11118639#publisher=newsstand"
+      },
+      {
+        "title": "Karnataka BJP MLA Chandru Lamani Arrested In Bribery Case",
+        "link": "https://www.ndtv.com/india-news/karnataka-bjp-mla-chandru-lamani-arrested-in-bribery-case-11118529#publisher=newsstand"
+      },
       {
         "title": "PM Modi's Pitch For Made In India Chips For Developed Nation",
         "link": "https://www.ndtv.com/india-news/pm-modis-pitch-for-made-in-india-chips-for-developed-nation-11118309#publisher=newsstand"
@@ -169,14 +177,6 @@
       {
         "title": "Stopping Exodus, Finalising Allies: Priyanka Gandhi's Key Challenges In Assam",
         "link": "https://www.ndtv.com/india-news/assam-assembly-elections-congress-bjp-stopping-exodus-finalising-allies-priyanka-gandhis-key-challenges-in-assam-11118178#publisher=newsstand"
-      },
-      {
-        "title": "Adani Group Working To Restart F1 In Greater Noida, Says Karan Adani",
-        "link": "https://www.ndtv.com/india-news/adani-group-working-to-restart-f1-in-greater-noida-says-karan-adani-11118136#publisher=newsstand"
-      },
-      {
-        "title": "Police Case Against UP Seer To Probe Sexual Abuse Allegations Against Him",
-        "link": "https://www.ndtv.com/india-news/police-case-against-up-seer-swami-avimukteshwaranand-saraswati-to-probe-sexual-abuse-allegations-against-him-11118120#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-21 16:26 UTC"
+  "last_updated": "2026-02-21 16:55 UTC"
 }
