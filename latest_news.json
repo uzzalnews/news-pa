@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+        "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Met officers working for Andrew told to guard Epstein's home, emails show",
         "link": "https://www.bbc.com/news/articles/cz9qkjvg033o?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,17 @@
       {
         "title": "William in tribute to Tik Tok medic found dead at barracks",
         "link": "https://www.bbc.com/news/articles/cvgvn0j0egpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Greenland says 'no thanks' to Trump US hospital boat",
-        "link": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Yoga classes aim to bring moments of peace to Gaza’s traumatised children",
+        "link": "https://www.aljazeera.com/news/2026/2/22/yoga-school-aims-to-bring-moments-of-peace-to-gazas-traumatised-children?traffic_source=rss"
+      },
+      {
+        "title": "Iranian students rally as universities reopen after nationwide protests",
+        "link": "https://www.aljazeera.com/news/2026/2/22/iranian-students-rally-as-universities-reopen-after-nationwide-protests?traffic_source=rss"
+      },
       {
         "title": "Trump’s Push for Greenland",
         "link": "https://www.aljazeera.com/video/featured-documentaries/2026/2/22/trumps-push-for-greenland?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Has BRICS given up on challenging Western economic dominance?",
         "link": "https://www.aljazeera.com/video/the-bottom-line/2026/2/22/has-brics-given-up-on-challenging-western-economic-dominance?traffic_source=rss"
-      },
-      {
-        "title": "Sudan condemns RSF chief’s visit to Uganda as minimising ‘human values’",
-        "link": "https://www.aljazeera.com/news/2026/2/22/sudan-condemns-rsf-chiefs-visit-to-uganda-as-minimising-human-values?traffic_source=rss"
-      },
-      {
-        "title": "Man killed after entering perimeter of Trump’s Mar-a-Lago resort",
-        "link": "https://www.aljazeera.com/news/2026/2/22/man-killed-after-entering-perimeter-of-trumps-mar-a-lago-resort?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,12 +70,12 @@
     ],
     "Dawn": [
       {
-        "title": "MQM-P terms resolution passed by Sindh Assembly against any new province ‘unconstitutional’",
-        "link": "https://www.dawn.com/news/1974999/mqm-p-terms-resolution-passed-by-sindh-assembly-against-any-new-province-unconstitutional"
+        "title": "Over 80 terrorists killed as armed forces strike 7 camps along Pakistan-Afghanistan border",
+        "link": "https://www.dawn.com/news/1974894/over-80-terrorists-killed-as-armed-forces-strike-7-camps-along-pakistan-afghanistan-border"
       },
       {
-        "title": "’Over 80 terrorists killed as armed forces strike 7 camps along Pakistan-Afghanistan border",
-        "link": "https://www.dawn.com/news/1974894/over-80-terrorists-killed-as-armed-forces-strike-7-camps-along-pakistan-afghanistan-border"
+        "title": "MQM-P terms resolution passed by Sindh Assembly against any new province ‘unconstitutional’",
+        "link": "https://www.dawn.com/news/1974999/mqm-p-terms-resolution-passed-by-sindh-assembly-against-any-new-province-unconstitutional"
       },
       {
         "title": "Claim about Pakistan paying interest on external loans of up to 8pc is ‘misleading’: finance ministry",
@@ -137,6 +137,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Iran vows to defend itself but sees diplomatic solution to US standoff",
+        "link": "https://www.geo.tv/latest/652329-iran-vows-to-defend-itself-but-sees-diplomatic-solution-to-us-standoff"
+      },
+      {
+        "title": "Paul Mescal, Gracie Abrams make their red carpet debut at BAFTAs",
+        "link": "https://www.geo.tv/latest/652327-paul-mescal-gracie-abrams-make-their-red-carpet-debut-at-baftas"
+      },
+      {
         "title": "Princess Kate casts rosy spell at the BAFTAs in a shimmery pink",
         "link": "https://www.geo.tv/latest/652330-princess-kate-casts-rosy-spell-at-the-baftas-in-a-shimmery-pink"
       },
@@ -147,36 +155,28 @@
       {
         "title": "Leonardo DiCaprio steps out alone at BAFTAs despite recent romance reveal",
         "link": "https://www.geo.tv/latest/652326-leonardo-dicaprio-steps-out-alone-at-baftas-despite-recent-romance-reveal"
-      },
-      {
-        "title": "Gisele Bündchen's confidence speaks volumes amid Tom Brady drama",
-        "link": "https://www.geo.tv/latest/652320-gisele-bundchens-confidence-speaks-volumes-amid-tom-brady-drama"
-      },
-      {
-        "title": "Prince William, Princess Kate make surprise comeback to BAFTAs",
-        "link": "https://www.geo.tv/latest/652325-prince-william-princess-kate-make-surprise-comeback-to-baftas"
       }
     ],
     "NDTV": [
       {
+        "title": "Iran's Gen-Z Rallies For Second Day As Fears Of War With US Mount",
+        "link": "https://www.ndtv.com/world-news/irans-gen-z-rallies-for-second-day-as-fears-of-war-with-us-mount-11122289#publisher=newsstand"
+      },
+      {
+        "title": "\"Why Are You Protecting The Congress?\" PM Modi Asks Media",
+        "link": "https://www.ndtv.com/india-news/why-are-you-protecting-the-congress-pm-modi-asks-media-11122283#publisher=newsstand"
+      },
+      {
+        "title": "2 Arrested In Bengal's Murshidabad For Sharing Indian SIM OTPs To Pakistan",
+        "link": "https://www.ndtv.com/india-news/2-arrested-in-bengals-murshidabad-for-sharing-indian-sim-otps-to-pakistan-11122278#publisher=newsstand"
+      },
+      {
+        "title": "'SIR In Manipur Must Check Abnormal Growth': Ex Union Minister",
+        "link": "https://www.ndtv.com/india-news/sir-in-manipur-must-check-abnormal-growth-ex-union-minister-rajkumar-ranjan-singh-11122200#publisher=newsstand"
+      },
+      {
         "title": "21 Priests To Bring Soil From Ayodhya For Bengal Ram Temple",
         "link": "https://www.ndtv.com/india-news/21-priests-to-bring-soil-from-ayodhya-for-bengal-ram-temple-11122161#publisher=newsstand"
-      },
-      {
-        "title": "Mamata Banerjee INDIA Bloc Chief: Mani Shankar Aiyar's Message To Rahul Gandhi",
-        "link": "https://www.ndtv.com/india-news/mamata-banerjee-india-bloc-chief-mani-shankar-aiyars-message-to-rahul-gandhi-11121956#publisher=newsstand"
-      },
-      {
-        "title": "Armed Man Shot Dead After Forced Entry Into Donald Trump's Florida Home",
-        "link": "https://www.ndtv.com/world-news/intruder-shot-dead-after-unauthorised-entry-into-donald-trumps-mar-a-lago-resort-in-florida-11121537#publisher=newsstand"
-      },
-      {
-        "title": "Telangana BJP Chief Taken Into \"Preventive Custody\", Later Released",
-        "link": "https://www.ndtv.com/india-news/telangana-bjp-chief-taken-into-preventive-custody-later-released-11122032#publisher=newsstand"
-      },
-      {
-        "title": "2 Policemen Found Dead With Bullet Wounds At Border Outpost In Punjab",
-        "link": "https://www.ndtv.com/india-news/2-policemen-found-dead-with-bullet-wounds-at-border-outpost-in-punjab-11122028#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-22 17:50 UTC"
+  "last_updated": "2026-02-22 18:16 UTC"
 }
