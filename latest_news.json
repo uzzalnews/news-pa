@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Tottenham Hotspur vs Arsenal – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/22/live-tottenham-hotspur-vs-arsenal-premier-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,19 +11,23 @@
         "link": "https://www.bbc.com/news/articles/clygnnz6d9lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Explosions kill police officer and injure 25 in western Ukraine",
-        "link": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss"
+        "title": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
+        "link": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "We thought Gen Z had started going to church in droves. But the truth is more complicated",
         "link": "https://www.bbc.com/news/articles/c0k1jddl51no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Devastated' GB miss out on bobsleigh medal",
-        "link": "https://www.bbc.com/sport/articles/c3dz1p23p0jo?at_medium=RSS&at_campaign=rss"
+        "title": "In Pictures: The best of the Winter Olympics - day by day",
+        "link": "https://www.bbc.com/sport/articles/c78v857elp9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Sudan condemns RSF chief’s visit to Uganda as minimising ‘human values’",
+        "link": "https://www.aljazeera.com/news/2026/2/22/sudan-condemns-rsf-chiefs-visit-to-uganda-as-minimising-human-values?traffic_source=rss"
+      },
       {
         "title": "Man killed after entering perimeter of Trump’s Mar-a-Lago resort",
         "link": "https://www.aljazeera.com/news/2026/2/22/man-killed-after-entering-perimeter-of-trumps-mar-a-lago-resort?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "Iran-US tensions: What would blocking Strait of Hormuz mean for oil, LNG?",
         "link": "https://www.aljazeera.com/news/2026/2/22/iran-us-tensions-what-would-blocking-strait-of-hormuz-mean-for-oil-lng?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Tottenham Hotspur vs Arsenal – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/22/live-tottenham-hotspur-vs-arsenal-premier-league?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -103,16 +97,16 @@
         "link": "https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html"
       },
       {
-        "title": "Trump’s Trade Gamble Will Continue, Despite Supreme Court Rebuke",
-        "link": "https://www.nytimes.com/2026/02/21/business/economy/trump-tariffs-trade-war.html"
-      },
-      {
-        "title": "Man Is Fatally Shot at Mar-a-Lago, Secret Service Says",
+        "title": "Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says",
         "link": "https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html"
       },
       {
         "title": "Denmark Rejects Trump’s Plan to Send Hospital Boat to Greenland",
         "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-greenland-hospital-ship.html"
+      },
+      {
+        "title": "Arab Leaders Condemn Remarks by U.S. Ambassador to Israel",
+        "link": "https://www.nytimes.com/2026/02/22/world/middleeast/huckabee-israel-tucker-carlson.html"
       },
       {
         "title": "How the Times Weather Team Tracks Big Storms: More Data, Less Hype",
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-22 15:32 UTC"
+  "last_updated": "2026-02-22 15:52 UTC"
 }
