@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: India vs South Africa – T20 World Cup",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/22/live-india-vs-south-africa-t20-world-cup?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "How four years of Ukraine war have changed Russia",
+        "link": "https://www.aljazeera.com/news/2026/2/22/how-four-years-of-ukraine-war-have-changed-russia?traffic_source=rss"
+      },
+      {
+        "title": "UEFA and FIFA may get a red card at the ICC for ignoring Israeli violations",
+        "link": "https://www.aljazeera.com/opinions/2026/2/22/uefa-and-fifa-may-get-a-red-card-at-the-icc-for-ignoring-israeli-violations?traffic_source=rss"
+      },
+      {
+        "title": "Rafael Grossi on nuclear risk and reforming the UN",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/2/22/rafael-grossi-on-nuclear-risk-and-reforming-the-un?traffic_source=rss"
+      },
+      {
         "title": "At least one killed in widescale Russian attacks on Ukraine’s energy sector",
         "link": "https://www.aljazeera.com/news/2026/2/22/at-least-one-killed-in-russian-widescale-attacks-on-ukraines-energy-sector?traffic_source=rss"
       },
       {
         "title": "Somaliland minister says US may access its minerals, military bases: Report",
         "link": "https://www.aljazeera.com/news/2026/2/22/somaliland-minister-says-us-may-access-its-minerals-military-bases-report?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: India vs South Africa – T20 World Cup",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/22/live-india-vs-south-africa-t20-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "Elderly men beaten up ‘for being Muslim’ in India",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/elderly-men-beaten-up-for-being-muslim-in-india?traffic_source=rss"
-      },
-      {
-        "title": "The aftermath of Pakistan’s air strikes in Afghanistan",
-        "link": "https://www.aljazeera.com/gallery/2026/2/22/the-aftermath-of-pakistan-air-strikes-in-in-afghanistan?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -111,15 +105,19 @@
         "link": "https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html"
       },
       {
-        "title": "Shutdown at D.H.S. Extends to Cyber Agency, Adding to Setbacks",
-        "link": "https://www.nytimes.com/2026/02/22/us/politics/cyber-agency-dhs-security-setbacks.html"
+        "title": "How the Times Weather Team Tracks Big Storms: More Data, Less Hype",
+        "link": "https://www.nytimes.com/2026/02/22/insider/weather-team-forecast-blizzard.html"
       },
       {
-        "title": "Inside Iran’s Preparations for War and Plans for Survival",
-        "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html"
+        "title": "Here Are the Five Biggest Snowstorms in New York City Since 1869",
+        "link": "https://www.nytimes.com/2026/02/22/weather/here-are-the-five-biggest-snowstorms-in-new-york-city-since-1869.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iran's leader 'entrusts' security chief to run country in case of war, assassination",
+        "link": "https://www.middleeasteye.net/news/report-irans-supreme-leader-lays-out-plans-case-war-assassination"
+      },
       {
         "title": "Ramadan in ruins: Gaza's Palestinians mark third holy month amid grief and displacement",
         "link": "https://www.middleeasteye.net/news/palestinians-grief-and-displacement-mark-gaza-ramadan-genocide"
@@ -135,54 +133,50 @@
       {
         "title": "How a Jewish day school fabricated an antisemitism scandal in South Africa",
         "link": "https://www.middleeasteye.net/opinion/how-jewish-day-school-fabricated-antisemitism-scandal-south-africa"
-      },
-      {
-        "title": "Egypt, Saudi Arabia and other Arab states slam US ambassador remarks on Israel's divine right to all Middle East",
-        "link": "https://www.middleeasteye.net/news/palestine-jordan-egypt-slam-us-ambassador-huckabees-israel-take-over-remarks"
       }
     ],
     "GeoTV": [
       {
-        "title": "Pakistani strikes along Afghan border neutralise nearly 70 terrorists: state minister",
-        "link": "https://www.geo.tv/latest/652285-pakistani-strikes-along-afghan-border-neutralise-nearly-70-terrorists-state-minister"
+        "title": "Meghan Markle takes stern action as Prince Harry receives odd offer from UK",
+        "link": "https://www.geo.tv/latest/652281-meghan-markle-takes-stern-action-as-prince-harry-receives-odd-offer-from-uk"
       },
       {
-        "title": "KATSEYE controversy deepens as Manon's hiatus sparks backlash",
-        "link": "https://www.geo.tv/latest/652282-katseye-controversy-deepens-as-manons-hiatus-sparks-backlash"
+        "title": "Salsa icon Willie Colon dies at 75: Bad Bunny leads tributes despite 'feud'",
+        "link": "https://www.geo.tv/latest/652289-salsa-icon-willie-colon-dies-at-75-bad-bunny-leads-tributes-despite-feud"
       },
       {
-        "title": "Kelly Osbourne reflects on 'endless' grief after Ozzy's death",
-        "link": "https://www.geo.tv/latest/652279-kelly-osbourne-reflects-on-endless-grief-after-ozzys-death"
+        "title": "Samsung releases updated Bixby AI assistant with One UI 8.5, challenging OpenAI, Google",
+        "link": "https://www.geo.tv/latest/652287-samsung-releases-updated-bixby-ai-assistant-with-one-ui-8-5-challenging-openai-google"
       },
       {
-        "title": "Iran and US views on sanctions relief differ, says Iranian official",
-        "link": "https://www.geo.tv/latest/652276-iran-and-us-views-on-sanctions-relief-differ-iranian-official-tells-reuters"
+        "title": "Hollywood power struggle erupts over Netflix's billion dollar studio move",
+        "link": "https://www.geo.tv/latest/652286-hollywood-power-struggle-erupts-over-netflixs-billion-dollar-studio-move"
       },
       {
-        "title": "Princess Andre drops bombshell why dad Peter steps back from series two",
-        "link": "https://www.geo.tv/latest/652275-princess-andre-drops-bombshell-why-dad-peter-steps-back-from-series-two"
+        "title": "Rebecca Gayheart issues first statement after husband Eric Dane's death",
+        "link": "https://www.geo.tv/latest/652283-rebecca-gayheart-issues-first-statement-after-husband-eric-danes-death"
       }
     ],
     "NDTV": [
       {
-        "title": "Inside Delhi Police's 10-Day Op To Bring Down Hammer On Lashkar Module",
-        "link": "https://www.ndtv.com/india-news/inside-delhi-polices-10-day-op-to-bring-down-hammer-on-lashkar-module-11120868#publisher=newsstand"
-      },
-      {
-        "title": "Bride Kidnapped At Gunpoint By Ex-Lover, Groom Left Stranded On Odisha Road",
+        "title": "Newlywed Couple Was On Way Home, Bride's Ex Lover Kidnaps Her At Gunpoint",
         "link": "https://www.ndtv.com/india-news/odisha-bride-kidnapped-at-gunpoint-by-ex-lover-while-returning-from-own-wedding-11120855#publisher=newsstand"
       },
       {
-        "title": "Trump Was In A Meeting During Top Court Tariff Setback. How He Reacted",
-        "link": "https://www.ndtv.com/world-news/how-donald-trump-reacted-on-supreme-courts-tariff-setback-so-its-a-loss-then-trump-tariffs-11120185#publisher=newsstand"
+        "title": "How Nearly 20,000 ISIS-Linked Individuals Vanished In Syria Security Collapse",
+        "link": "https://www.ndtv.com/world-news/how-nearly-20-000-isis-linked-individuals-vanished-in-syria-security-collapse-11120887#publisher=newsstand"
       },
       {
-        "title": "While Big Corporations Stayed Quiet, 1 Wine Merchant Took On Trump Tariffs",
-        "link": "https://www.ndtv.com/world-news/small-business-owner-beats-trump-in-supreme-court-tariff-case-11120419#publisher=newsstand"
+        "title": "16 SIMs, 8 Phones, 1 Deadly Plot: How Pak-Backed Terror Plot Was Busted",
+        "link": "https://www.ndtv.com/india-news/inside-delhi-polices-10-day-op-to-bring-down-hammer-on-lashkar-module-11120868#publisher=newsstand"
       },
       {
-        "title": "\"Stupid F**ing Fool\": Vince McMahon On Camera After 2025 High-Speed Crash",
-        "link": "https://www.ndtv.com/world-news/stupid-f-ing-fool-vince-mcmahon-on-camera-after-2025-high-speed-crash-11120560#publisher=newsstand"
+        "title": "Battle For Purvanchal Votes: Haryana Chief Minister To Campaign In Ludhiana",
+        "link": "https://www.ndtv.com/india-news/battle-for-purvanchal-votes-haryana-chief-minister-to-campaign-in-ludhiana-11121047#publisher=newsstand"
+      },
+      {
+        "title": "'Congress Has No Funds To Contest Assam Polls': Ex State Chief Joins BJP",
+        "link": "https://www.ndtv.com/india-news/bhupen-borah-gaurav-gogoi-congress-has-no-funds-to-contest-assam-polls-ex-state-chief-joins-bjp-11120968#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-22 11:53 UTC"
+  "last_updated": "2026-02-22 12:41 UTC"
 }
