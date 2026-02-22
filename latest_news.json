@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: India vs South Africa – T20 World Cup",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/22/live-india-vs-south-africa-t20-world-cup?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,7 +21,7 @@
         "link": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Government aims to halve attainment gap for disadvantaged students",
+        "title": "'Effective' SEND support won't be taken away, minister says",
         "link": "https://www.bbc.com/news/articles/clygnnz6d9lo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "At least one killed in widescale Russian attacks on Ukraine’s energy sector",
+        "link": "https://www.aljazeera.com/news/2026/2/22/at-least-one-killed-in-russian-widescale-attacks-on-ukraines-energy-sector?traffic_source=rss"
+      },
+      {
+        "title": "Somaliland minister says US may access its minerals, military bases: Report",
+        "link": "https://www.aljazeera.com/news/2026/2/22/somaliland-minister-says-us-may-access-its-minerals-military-bases-report?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: India vs South Africa – T20 World Cup",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/22/live-india-vs-south-africa-t20-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Elderly men beaten up ‘for being Muslim’ in India",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/elderly-men-beaten-up-for-being-muslim-in-india?traffic_source=rss"
+      },
+      {
         "title": "The aftermath of Pakistan’s air strikes in Afghanistan",
         "link": "https://www.aljazeera.com/gallery/2026/2/22/the-aftermath-of-pakistan-air-strikes-in-in-afghanistan?traffic_source=rss"
-      },
-      {
-        "title": "Ryan Garcia defeats Mario Barrios to win WBC welterweight title",
-        "link": "https://www.aljazeera.com/sports/2026/2/22/ryan-garcia-defeats-mario-barrios-to-win-wbc-welterweight-title?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan ‘kills dozens’ in air strikes on Afghanistan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/pakistan-kills-dozens-in-air-strikes-on-afghanistan?traffic_source=rss"
-      },
-      {
-        "title": "Sean Strickland ends Anthony Hernandez’s win streak with TKO victory",
-        "link": "https://www.aljazeera.com/sports/2026/2/22/sean-strickland-ends-anthony-hernandezs-win-streak-with-tko-victory?traffic_source=rss"
-      },
-      {
-        "title": "Video: Deadly ‘terrorist attack’ in Ukraine’s Lviv",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/video-deadly-terrorist-attack-in-ukraines-lviv?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,8 +92,8 @@
         "link": "https://www.dawn.com/news/1974997/suspension-of-5-cops-ordered-over-mans-custodial-torture-at-karachis-sharifabad-police-station"
       },
       {
-        "title": "Imran’s release in his own hands, dependent on PTI’s attitude: Sharjeel Memon",
-        "link": "https://www.dawn.com/news/1974990/imrans-release-in-his-own-hands-dependent-on-ptis-attitude-sharjeel-memon"
+        "title": "Danish minister says Greenland does not need US hospital ship after Trump’s statement",
+        "link": "https://www.dawn.com/news/1974985/danish-minister-says-greenland-does-not-need-us-hospital-ship-after-trumps-statement"
       }
     ],
     "APNews": [],
@@ -101,16 +107,16 @@
         "link": "https://www.nytimes.com/2026/02/22/world/asia/trump-xi-jinping-meeting-china.html"
       },
       {
-        "title": "Trump Says He Will Raise Global Tariff to 15 Percent",
-        "link": "https://www.nytimes.com/2026/02/21/business/trump-tariffs.html"
+        "title": "They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.",
+        "link": "https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html"
       },
       {
-        "title": "Trump Pulls Support From House Republican Who Opposed Tariffs",
-        "link": "https://www.nytimes.com/2026/02/21/us/trump-pulls-endorsement-hurd-tariffs.html"
+        "title": "Shutdown at D.H.S. Extends to Cyber Agency, Adding to Setbacks",
+        "link": "https://www.nytimes.com/2026/02/22/us/politics/cyber-agency-dhs-security-setbacks.html"
       },
       {
-        "title": "Senate G.O.P. Faces Pressure to Force ‘Talking Filibuster’ for Voter ID Bill",
-        "link": "https://www.nytimes.com/2026/02/21/us/politics/senate-republicans-talking-filibuster.html"
+        "title": "Inside Iran’s Preparations for War and Plans for Survival",
+        "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Princess Andre drops bombshell why dad Peter steps back from series two",
+        "link": "https://www.geo.tv/latest/652275-princess-andre-drops-bombshell-why-dad-peter-steps-back-from-series-two"
+      },
+      {
+        "title": "Prince William unveils new title in sad statement mourning key figure",
+        "link": "https://www.geo.tv/latest/652274-prince-william-unveils-new-title-in-sad-statement-mourning-key-figure"
+      },
+      {
+        "title": "Real reason why Andrew chose Jeffery Epstein over royal family",
+        "link": "https://www.geo.tv/latest/652273-real-reason-why-andrew-chose-jeffery-epstein-over-royal-family"
+      },
+      {
         "title": "Dua Lipa drops new photo dump from fiance Callum Turner's birthday week",
         "link": "https://www.geo.tv/latest/652272-dua-lipa-drops-new-photo-dump-from-fiance-callum-turners-birthday-week"
       },
       {
         "title": "Priyanka Chopra out do Captain Hook? Check out who wore it better",
         "link": "https://www.geo.tv/latest/652270-has-priyanka-chopra-out-do-captain-hook-check-out-who-wore-it-better"
-      },
-      {
-        "title": "Kate Middleton delivers King Charles message in hour of need",
-        "link": "https://www.geo.tv/latest/652265-kate-middleton-delivers-king-charles-message-in-hour-of-need"
-      },
-      {
-        "title": "Duchess Sophie daughter earns special position to carry on royal legacy",
-        "link": "https://www.geo.tv/latest/652268-duchess-sophie-daughter-earns-special-position-to-carry-on-royal-legacy"
-      },
-      {
-        "title": "Olivia Rodrigo shares one ecstatic moment from birthday celebrations",
-        "link": "https://www.geo.tv/latest/652266-olivia-rodrigo-shares-one-ecstatic-moment-from-birthday-celebrations"
       }
     ],
     "NDTV": [
       {
-        "title": "'Used Global Event For Dirty Politics': PM Modi Slams Congress' Shirtless Protest",
-        "link": "https://www.ndtv.com/india-news/pm-modi-slams-congress-over-shirtless-protests-at-ai-impact-summit-turned-global-event-into-platform-for-its-dirty-politics-11120542#publisher=newsstand"
+        "title": "Inside Delhi Police's 10-Day Op To Bring Down Hammer On Lashkar Module",
+        "link": "https://www.ndtv.com/india-news/inside-delhi-polices-10-day-op-to-bring-down-hammer-on-lashkar-module-11120868#publisher=newsstand"
       },
       {
-        "title": "LPG Explodes During Op To Control Fire At Delhi Home, Cops Among 13 Injured",
-        "link": "https://www.ndtv.com/delhi-news/lpg-explodes-during-op-to-control-fire-in-delhi-majlis-park-cops-among-13-injured-11120583#publisher=newsstand"
+        "title": "Bride Kidnapped At Gunpoint By Ex-Lover, Groom Left Stranded On Odisha Road",
+        "link": "https://www.ndtv.com/india-news/odisha-bride-kidnapped-at-gunpoint-by-ex-lover-while-returning-from-own-wedding-11120855#publisher=newsstand"
       },
       {
-        "title": "Sabarimala Tantri's Bail Raises Questions: Did Investigation Lose Direction?",
-        "link": "https://www.ndtv.com/india-news/sabarimala-tantris-bail-raises-questions-did-investigation-lose-direction-11120447#publisher=newsstand"
+        "title": "Trump Was In A Meeting During Top Court Tariff Setback. How He Reacted",
+        "link": "https://www.ndtv.com/world-news/how-donald-trump-reacted-on-supreme-courts-tariff-setback-so-its-a-loss-then-trump-tariffs-11120185#publisher=newsstand"
       },
       {
-        "title": "\"Serious Lack Of Judgement\": Academics On Youth Congress' AI Summit Protest",
-        "link": "https://www.ndtv.com/india-news/ai-summit-youth-congress-serious-lack-of-judgement-academics-on-youth-congress-ai-summit-protest-11120442#publisher=newsstand"
+        "title": "While Big Corporations Stayed Quiet, 1 Wine Merchant Took On Trump Tariffs",
+        "link": "https://www.ndtv.com/world-news/small-business-owner-beats-trump-in-supreme-court-tariff-case-11120419#publisher=newsstand"
       },
       {
-        "title": "5 Live Cartridges Seized From IIT Bombay Hostel, Bihar Link Under Probe",
-        "link": "https://www.ndtv.com/india-news/5-live-cartridges-seized-from-indian-institute-of-technology-iit-bombay-hostel-bihar-link-under-probe-11120320#publisher=newsstand"
+        "title": "\"Stupid F**ing Fool\": Vince McMahon On Camera After 2025 High-Speed Crash",
+        "link": "https://www.ndtv.com/world-news/stupid-f-ing-fool-vince-mcmahon-on-camera-after-2025-high-speed-crash-11120560#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-22 10:52 UTC"
+  "last_updated": "2026-02-22 11:14 UTC"
 }
