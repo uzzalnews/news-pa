@@ -1,11 +1,13 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Tottenham Hotspur vs Arsenal – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/22/live-tottenham-hotspur-vs-arsenal-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
-      {
-        "title": "Iran students stage first large anti-government protests since deadly crackdown",
-        "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Met Police officers working for Andrew told to guard Epstein's home, emails show",
         "link": "https://www.bbc.com/news/articles/cz9qkjvg033o?at_medium=RSS&at_campaign=rss"
@@ -13,6 +15,10 @@
       {
         "title": "'Effective' SEND support won't be taken away, minister says",
         "link": "https://www.bbc.com/news/articles/clygnnz6d9lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran students stage first large anti-government protests since deadly crackdown",
+        "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Explosions kill police officer and injure 25 in western Ukraine",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Iran-US tensions: What would blocking Strait of Hormuz mean for oil, LNG?",
+        "link": "https://www.aljazeera.com/news/2026/2/22/iran-us-tensions-what-would-blocking-strait-of-hormuz-mean-for-oil-lng?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Tottenham Hotspur vs Arsenal – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/22/live-tottenham-hotspur-vs-arsenal-premier-league?traffic_source=rss"
+      },
+      {
+        "title": "Trump tariff chaos: What does 15% levy mean for trade deals the US signed?",
+        "link": "https://www.aljazeera.com/news/2026/2/22/trump-tariff-chaos-what-does-15-levy-mean-for-trade-deals-the-us-signed?traffic_source=rss"
+      },
+      {
+        "title": "England bowlers crush Sri Lanka in T20 World Cup Super Eight opener",
+        "link": "https://www.aljazeera.com/sports/2026/2/22/england-bowlers-crush-sri-lanka-in-t20-world-cup-super-eight-opener?traffic_source=rss"
+      },
+      {
         "title": "Small but mighty: Colombia’s Muslim community celebrates Ramadan",
         "link": "https://www.aljazeera.com/news/2026/2/22/small-but-mighty-colombias-muslim-community-celebrates-ramadan?traffic_source=rss"
-      },
-      {
-        "title": "Attackers kill dozens, abduct women and children in Nigeria",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/attackers-kill-dozens-abduct-women-and-children-in-nigeria?traffic_source=rss"
-      },
-      {
-        "title": "Palestine Action activists reunited with family after granted bail",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/palestine-action-activists-reunited-with-family-after-granted-bail?traffic_source=rss"
-      },
-      {
-        "title": "How four years of Ukraine war have changed Russia",
-        "link": "https://www.aljazeera.com/news/2026/2/22/how-four-years-of-ukraine-war-have-changed-russia?traffic_source=rss"
-      },
-      {
-        "title": "UEFA and FIFA may get a red card at the ICC for ignoring Israeli violations",
-        "link": "https://www.aljazeera.com/opinions/2026/2/22/uefa-and-fifa-may-get-a-red-card-at-the-icc-for-ignoring-israeli-violations?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,6 +99,10 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.",
+        "link": "https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html"
+      },
+      {
         "title": "Trump’s Trade Gamble Will Continue, Despite Supreme Court Rebuke",
         "link": "https://www.nytimes.com/2026/02/21/business/economy/trump-tariffs-trade-war.html"
       },
@@ -101,12 +111,8 @@
         "link": "https://www.nytimes.com/2026/02/22/world/asia/trump-xi-jinping-meeting-china.html"
       },
       {
-        "title": "They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.",
-        "link": "https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html"
-      },
-      {
-        "title": "Shutdown at D.H.S. Extends to Cyber Agency, Adding to Setbacks",
-        "link": "https://www.nytimes.com/2026/02/22/us/politics/cyber-agency-dhs-security-setbacks.html"
+        "title": "Denmark Rejects Trump’s Plan to Send Hospital Boat to Greenland",
+        "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-greenland-hospital-ship.html"
       },
       {
         "title": "How the Times Weather Team Tracks Big Storms: More Data, Less Hype",
@@ -159,24 +165,24 @@
     ],
     "NDTV": [
       {
-        "title": "Newlywed Couple Was On Way Home, Bride's Ex Lover Kidnaps Her At Gunpoint",
-        "link": "https://www.ndtv.com/india-news/odisha-bride-kidnapped-at-gunpoint-by-ex-lover-while-returning-from-own-wedding-11120855#publisher=newsstand"
+        "title": "Posters Threaten Terror Attacks, Kashmiri Pandits Seek Security In J&K",
+        "link": "https://www.ndtv.com/india-news/posters-threaten-terror-attacks-kashmiri-pandits-seek-security-in-jammu-and-kashmir-11121338#publisher=newsstand"
       },
       {
-        "title": "How Nearly 20,000 ISIS-Linked Individuals Vanished In Syria Security Collapse",
+        "title": "Pak's Jaish Terrorist Who Evaded Endgame 20 Times Among 3 Shot Dead In J&K",
+        "link": "https://www.ndtv.com/india-news/2-terrorists-killed-in-operation-in-j-ks-kishtwar-2-ak-47-rifles-recovered-11120639#publisher=newsstand"
+      },
+      {
+        "title": "Video: US Sets Up Massive \"Air Bridge\" To Move Forces Towards Middle East",
+        "link": "https://www.ndtv.com/world-news/video-flightradar-data-shows-us-air-forces-039-quot-air-bridge-quot-to-support-potential-iran-strike-11121287#publisher=newsstand"
+      },
+      {
+        "title": "Gautam Adani Reviews Projects Worth Over Rs 40,000 Crore In Jharkhand, Bihar",
+        "link": "https://www.ndtv.com/india-news/gautam-adani-reviews-projects-worth-over-rs-40-000-crore-in-jharkhand-bihar-11121320#publisher=newsstand"
+      },
+      {
+        "title": "How Guards Abandoned Posts, Let 20,000 ISIS Affiliates Escape Syria Camp",
         "link": "https://www.ndtv.com/world-news/how-nearly-20-000-isis-linked-individuals-vanished-in-syria-security-collapse-11120887#publisher=newsstand"
-      },
-      {
-        "title": "16 SIMs, 8 Phones, 1 Deadly Plot: How Pak-Backed Terror Plot Was Busted",
-        "link": "https://www.ndtv.com/india-news/inside-delhi-polices-10-day-op-to-bring-down-hammer-on-lashkar-module-11120868#publisher=newsstand"
-      },
-      {
-        "title": "Battle For Purvanchal Votes: Haryana Chief Minister To Campaign In Ludhiana",
-        "link": "https://www.ndtv.com/india-news/battle-for-purvanchal-votes-haryana-chief-minister-to-campaign-in-ludhiana-11121047#publisher=newsstand"
-      },
-      {
-        "title": "'Congress Has No Funds To Contest Assam Polls': Ex State Chief Joins BJP",
-        "link": "https://www.ndtv.com/india-news/bhupen-borah-gaurav-gogoi-congress-has-no-funds-to-contest-assam-polls-ex-state-chief-joins-bjp-11120968#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-22 13:32 UTC"
+  "last_updated": "2026-02-22 14:01 UTC"
 }
