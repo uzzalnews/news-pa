@@ -1,10 +1,24 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Mexico Cartel Leader Killed LIVE: Indian Embassy Issues Advisory For Citizens In Mexico After Killing Of Drug Lord 'El Mencho'",
+      "link": "https://www.ndtv.com/world-news/el-mencho-mexico-jalisco-new-generation-cartel-cjng-leader-killed-live-updates-military-us-canada-mexican-soldiers-violence-erupts-in-mexico-11122871#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
         "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
         "link": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Andrew charged taxpayers for massage when envoy, claim ex-civil servants",
+        "link": "https://www.bbc.com/news/articles/cdr232j8kgvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Billions in SEND funding to make schools in England more inclusive, ministers say",
+        "link": "https://www.bbc.com/news/articles/c8r1pmz3zgzo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Hamnet's Jessie Buckley and I Swear's Robert Aramayo win big at the Baftas",
@@ -13,17 +27,21 @@
       {
         "title": "Mescal and Abrams go red carpet official, a 'strong language' apology and other key Bafta moments",
         "link": "https://www.bbc.com/news/articles/c86ygl6821go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Billions in SEND funding to make schools in England more inclusive, ministers say",
-        "link": "https://www.bbc.com/news/articles/c8r1pmz3zgzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
-        "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "How Modi ‘broke down walls’ between India, Israel – at Palestine’s expense",
+        "link": "https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines?traffic_source=rss"
+      },
+      {
+        "title": "Hong Kong court rejects appeal in landmark subversion case",
+        "link": "https://www.aljazeera.com/news/2026/2/23/hong-kong-court-rejects-appeal-in-landmark-subversion-case?traffic_source=rss"
+      },
+      {
+        "title": "One Battle After Another triumphs at UK’s BAFTA film awards",
+        "link": "https://www.aljazeera.com/news/2026/2/23/one-battle-after-another-triumphs-at-uks-bafta-film-awards?traffic_source=rss"
+      },
       {
         "title": "Russia-Ukraine war: List of key events, day 1,460",
         "link": "https://www.aljazeera.com/news/2026/2/23/russia-ukraine-war-list-of-key-events-day-1460?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "North Korea’s Kim Jong Un re-elected as chief of Workers’ Party",
         "link": "https://www.aljazeera.com/news/2026/2/22/north-koreas-kim-jong-un-re-elected-as-chief-of-workers?traffic_source=rss"
-      },
-      {
-        "title": "White House post after US hockey win over Canada stirs controversy",
-        "link": "https://www.aljazeera.com/news/2026/2/22/white-house-post-after-us-hockey-win-over-canada-stirs-controversy?traffic_source=rss"
-      },
-      {
-        "title": "Brazil does not want ‘a new Cold War’, says President Lula",
-        "link": "https://www.aljazeera.com/news/2026/2/22/brazil-does-not-want-a-new-cold-war-says-lula?traffic_source=rss"
-      },
-      {
-        "title": "Violence erupts in Mexico after killing of drug cartel kingpin ‘El Mencho’",
-        "link": "https://www.aljazeera.com/news/2026/2/22/mexico-announces-killing-of-drug-cartel-kingpin-el-mencho?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
-        "title": "T20 World Cup: 'India lack unity, which is why they lost so badly'",
-        "link": "https://www.geo.tv/latest/652370-t20-world-cup-india-lacks-unity-which-is-why-they-lost-so-badly"
+        "title": "Coronation Street's Vicky Myers leaves fans stunned as she turns 50",
+        "link": "https://www.geo.tv/latest/652378-coronation-streets-vicky-myers-leaves-fans-stunned-as-she-turns-50"
       },
       {
-        "title": "Pakistan in an AI world",
-        "link": "https://www.geo.tv/latest/652366-pakistan-in-an-ai-world"
+        "title": "Timothée Chalamet's big loss as ‘Marty Supreme' sets unwanted BAFTA record",
+        "link": "https://www.geo.tv/latest/652373-timothee-chalamets-big-loss-as-marty-supreme-sets-unwanted-bafta-record"
       },
       {
-        "title": "Millie Bobby Brown shockingly celebrates 22nd birthday with David Harbour",
-        "link": "https://www.geo.tv/latest/652365-millie-bobby-brown-shockingly-celebrates-22nd-birthday-with-david-harbour"
+        "title": "Unidentified armed men gun down female doctor in Kohat",
+        "link": "https://www.geo.tv/latest/652372-unidentified-armed-men-gun-down-female-doctor-in-kohat"
       },
       {
-        "title": "Jennifer Lopez pays sweet tribute to twins on 18th birthday",
-        "link": "https://www.geo.tv/latest/652362-jennifer-lopez-pays-sweet-tribute-to-twins-on-18th-birthday"
+        "title": "Beatrice, Eugenie follow Andrew, Fergie example in shocking turn of events",
+        "link": "https://www.geo.tv/latest/652371-beatrice-eugenie-follow-andrew-fergie-example-in-shocking-turn-of-events"
       },
       {
-        "title": "King Charles steps out in beige, but shadows of Andrew follow close behind",
-        "link": "https://www.geo.tv/latest/652364-king-charles-steps-out-in-beige-but-shadows-of-andrew-follow-close-behind"
+        "title": "Five terrorists killed during operation in Balochistan's Pishin: ISPR",
+        "link": "https://www.geo.tv/latest/652374-five-terrorists-killed-during-operation-in-balochistans-pishin-ispr"
       }
     ],
     "NDTV": [
       {
-        "title": "Gold, Silver Prices On February 23: Silver Rises By Rs 23,820, Gold Crosses Rs 1,59,000 On MCX",
-        "link": "https://www.ndtv.com/india-news/gold-silver-prices-on-february-23-silver-rises-by-rs-23-820-gold-crosses-rs-1-59-000-on-multi-commodity-exchange-mcx-today-11123160#publisher=newsstand"
+        "title": "From Trinamool Founding Member To BJP MLA: All About Mukul Roy",
+        "link": "https://www.ndtv.com/india-news/who-was-mukul-roy-former-railway-minister-trinamool-congress-founding-member-who-later-joined-bjp-11123309#publisher=newsstand"
       },
       {
-        "title": "Mexico Decapitates Its Most Powerful Drug Cartel Amid Pressure From Trump",
-        "link": "https://www.ndtv.com/world-news/mexico-el-mencho-killed-most-powerful-drug-cartel-decapitated-chaos-erupts-11122784#publisher=newsstand"
+        "title": "Mexico Cartel Leader Killed LIVE: Indian Embassy Issues Advisory For Citizens In Mexico After Killing Of Drug Lord 'El Mencho'",
+        "link": "https://www.ndtv.com/world-news/el-mencho-mexico-jalisco-new-generation-cartel-cjng-leader-killed-live-updates-military-us-canada-mexican-soldiers-violence-erupts-in-mexico-11122871#publisher=newsstand"
       },
       {
-        "title": "\"Many Want Stalin To Lead\": Udhayanidhi Amid Opposition Leadership Row",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-elections-udhayanidhi-mk-stalin-pitches-for-father-mk-stalin-in-india-bloc-leadership-tussle-11123173#publisher=newsstand"
+        "title": "What To Know About The Killing Of A Powerful Cartel Leader In Mexico",
+        "link": "https://www.ndtv.com/world-news/mexico-el-mencho-what-to-know-about-the-killing-of-a-powerful-cartel-leader-11123076#publisher=newsstand"
       },
       {
-        "title": "Cop-Turned-Drug Lord, Mexico's 'El Mencho' Leaves Bloody Legacy",
-        "link": "https://www.ndtv.com/world-news/who-was-el-mencho-mexicos-most-wanted-drug-lord-with-15-million-bounty-jalisco-new-generation-drug-cartel-cjng-boss-nemesio-ruben-oseguera-cervantes-11122921#publisher=newsstand"
+        "title": "Netherland's Youngest And First Openly Gay Prime Minister To Take Oath",
+        "link": "https://www.ndtv.com/world-news/netherlands-youngest-and-first-openly-gay-prime-minister-rob-jetten-to-take-oath-11122948#publisher=newsstand"
       },
       {
-        "title": "Mumbai-Pune Expressway Jam: 1 Lakh Vehicles To Get Rs 5.16 Crore Toll Refund",
-        "link": "https://www.ndtv.com/india-news/mumbai-pune-expressway-jam-1-lakh-vehicles-to-get-rs-5-16-crore-toll-refund-11121670#publisher=newsstand"
+        "title": "9-Month Pregnant Woman Allegedly Assaulted By Husband, In-Laws In Bengaluru",
+        "link": "https://www.ndtv.com/bangalore-news/9-month-pregnant-woman-allegedly-assaulted-by-husband-in-laws-in-bengaluru-11123359#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-23 04:36 UTC"
+  "last_updated": "2026-02-23 05:51 UTC"
 }
