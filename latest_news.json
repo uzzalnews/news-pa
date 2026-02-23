@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Mexico Cartel Leader Killed LIVE: Violence In Mexico After Army Kills Notorious Cartel Boss 'El Mencho'",
+      "link": "https://www.ndtv.com/world-news/el-mencho-mexico-jalisco-new-generation-cartel-cjng-leader-killed-live-updates-military-us-canada-mexican-soldiers-violence-erupts-in-mexico-11122871#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,34 +21,34 @@
         "link": "https://www.bbc.com/news/articles/c86ygl6821go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Milan-Cortina 2026 closes with ceremony in Verona",
-        "link": "https://www.bbc.com/sport/articles/cgl5z5xg303o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Billions in SEND funding to make schools in England more inclusive, ministers say",
         "link": "https://www.bbc.com/news/articles/c8r1pmz3zgzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
+        "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Russia-Ukraine war: List of key events, day 1,460",
+        "link": "https://www.aljazeera.com/news/2026/2/23/russia-ukraine-war-list-of-key-events-day-1460?traffic_source=rss"
+      },
+      {
+        "title": "North Korea’s Kim Jong Un re-elected as chief of Workers’ Party",
+        "link": "https://www.aljazeera.com/news/2026/2/22/north-koreas-kim-jong-un-re-elected-as-chief-of-workers?traffic_source=rss"
+      },
+      {
+        "title": "White House post after US hockey win over Canada stirs controversy",
+        "link": "https://www.aljazeera.com/news/2026/2/22/white-house-post-after-us-hockey-win-over-canada-stirs-controversy?traffic_source=rss"
+      },
       {
         "title": "Brazil does not want ‘a new Cold War’, says President Lula",
         "link": "https://www.aljazeera.com/news/2026/2/22/brazil-does-not-want-a-new-cold-war-says-lula?traffic_source=rss"
       },
       {
-        "title": "Mexico announces killing of drug cartel kingpin ‘El Mencho’",
+        "title": "Violence erupts in Mexico after killing of drug cartel kingpin ‘El Mencho’",
         "link": "https://www.aljazeera.com/news/2026/2/22/mexico-announces-killing-of-drug-cartel-kingpin-el-mencho?traffic_source=rss"
-      },
-      {
-        "title": "What will Trump’s latest sweeping tariffs mean for the world?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/2/22/what-will-trumps-latest-sweeping-tariffs-mean-for-the-world?traffic_source=rss"
-      },
-      {
-        "title": "Syria moves out last residents of ISIL-linked desert camp",
-        "link": "https://www.aljazeera.com/news/2026/2/22/syria-moves-out-last-residents-of-isil-linked-desert-camp?traffic_source=rss"
-      },
-      {
-        "title": "The Carlson-Huckabee interview may be the wake-up call Americans needed",
-        "link": "https://www.aljazeera.com/opinions/2026/2/22/the-carlson-huckabee-interview-may-be-the-wake-up-call-americans-needed?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "Ogra seeks input on dollarised return for oil project",
+        "link": "https://www.dawn.com/news/1975095/ogra-seeks-input-on-dollarised-return-for-oil-project"
+      },
+      {
         "title": "Over 80 terrorists killed as armed forces strike 7 camps along Pakistan-Afghanistan border",
         "link": "https://www.dawn.com/news/1974894/over-80-terrorists-killed-as-armed-forces-strike-7-camps-along-pakistan-afghanistan-border"
       },
@@ -84,14 +94,14 @@
       {
         "title": "Claim about Pakistan paying interest on external loans of up to 8pc is ‘misleading’: finance ministry",
         "link": "https://www.dawn.com/news/1975003/claim-about-pakistan-paying-interest-on-external-loans-of-up-to-8pc-is-misleading-finance-ministry"
-      },
-      {
-        "title": "Nadra to issue CNICs for first-time registrants without birth certificate",
-        "link": "https://www.dawn.com/news/1975000/nadra-to-issue-cnics-for-first-time-registrants-without-birth-certificate"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "New York City Faces Its Second Big Storm in Weeks",
+        "link": "https://www.nytimes.com/2026/02/22/weather/storm-nyc-preparations-mamdani.html"
+      },
       {
         "title": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
         "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html"
@@ -99,10 +109,6 @@
       {
         "title": "Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn",
         "link": "https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html"
-      },
-      {
-        "title": "Iran Students Protest for Second Day Despite State Crackdown",
-        "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html"
       },
       {
         "title": "Inside Iran’s Preparations for War and Plans for Survival",
@@ -137,6 +143,14 @@
     ],
     "GeoTV": [
       {
+        "title": "BAFTAs 2025: John Davidson's Tourette outburst, Alan Cumming apologises",
+        "link": "https://www.geo.tv/latest/652361-baftas-2025-john-davidsons-tourette-outburst-alan-cumming-apologises"
+      },
+      {
+        "title": "King Charles and Queen Camilla throw royal love at Milan medal winners",
+        "link": "https://www.geo.tv/latest/652359-king-charles-and-queen-camilla-throw-royal-love-at-milan-medal-winners"
+      },
+      {
         "title": "Prince William's unexpected joke becomes standout moment of his speech",
         "link": "https://www.geo.tv/latest/652358-prince-williams-unexpected-joke-becomes-standout-moment-of-his-speech"
       },
@@ -147,17 +161,21 @@
       {
         "title": "New York Mayor Zohran Mamdani orders citywide travel ban ahead of major US storm",
         "link": "https://www.geo.tv/latest/652355-new-york-mayor-zohran-mamdani-orders-citywide-travel-ban-ahead-of-major-us-storm"
-      },
-      {
-        "title": "Jennifer Garner shares how fans react to seeing her with Judy Greer",
-        "link": "https://www.geo.tv/latest/652354-jennifer-garner-shares-how-fans-react-to-seeing-her-with-judy-greer"
-      },
-      {
-        "title": "Princess Kate reminisces about Harry Potter spells while pregnant with George",
-        "link": "https://www.geo.tv/latest/652347-princess-kate-reminisces-about-harry-potter-spells-while-pregnant-with-george"
       }
     ],
     "NDTV": [
+      {
+        "title": "Mexico El Mencho Killed: Most Powerful Drug Cartel Decapitated, Chaos Erupts",
+        "link": "https://www.ndtv.com/world-news/mexico-el-mencho-killed-most-powerful-drug-cartel-decapitated-chaos-erupts-11122784#publisher=newsstand"
+      },
+      {
+        "title": "New US Military-Led Group Aided Mexico's Hunt For 'El Mencho' Cartel Boss",
+        "link": "https://www.ndtv.com/world-news/mexico-cartel-leader-killed-live-updates-new-us-military-led-group-aided-mexicos-hunt-for-el-mencho-cartel-boss-11122654#publisher=newsstand"
+      },
+      {
+        "title": "Mexico Cartel Leader Killed LIVE: Violence In Mexico After Army Kills Notorious Cartel Boss 'El Mencho'",
+        "link": "https://www.ndtv.com/world-news/el-mencho-mexico-jalisco-new-generation-cartel-cjng-leader-killed-live-updates-military-us-canada-mexican-soldiers-violence-erupts-in-mexico-11122871#publisher=newsstand"
+      },
       {
         "title": "India Desires To Build Ties With Bangladesh's New Government, Says Indian Envoy",
         "link": "https://www.ndtv.com/india-news/india-desires-to-build-ties-with-bangladeshs-new-government-says-indian-envoy-11122428#publisher=newsstand"
@@ -165,18 +183,6 @@
       {
         "title": "Probe Agency ED Sets Target Of Filing 500 Chargesheets In FY26",
         "link": "https://www.ndtv.com/india-news/probe-agency-ed-sets-target-of-filing-500-chargesheets-in-fy26-11122423#publisher=newsstand"
-      },
-      {
-        "title": "Report On Ajit Pawar Plane Crash To Be Released By Saturday: Union Minister",
-        "link": "https://www.ndtv.com/india-news/report-on-ajit-pawar-plane-crash-to-be-released-by-saturday-union-minister-11122414#publisher=newsstand"
-      },
-      {
-        "title": "Attempt To \"Externalise\" Failures: India Slams Pak's Strikes On Afghanistan",
-        "link": "https://www.ndtv.com/india-news/attempt-to-externalise-failures-india-slams-paks-strikes-on-afghanistan-11122413#publisher=newsstand"
-      },
-      {
-        "title": "\"Looking Forward To Our Discussions\": PM Modi To Israel PM Netanyahu",
-        "link": "https://www.ndtv.com/world-news/looking-forward-to-our-discussions-pm-modi-to-israel-pm-netanyahu-11122395#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-22 23:56 UTC"
+  "last_updated": "2026-02-23 02:29 UTC"
 }
