@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Pakistan vs England – T20 World Cup",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/24/live-pakistan-vs-england-t20-world-cup-today-commentary-score-stream?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -21,17 +15,21 @@
         "link": "https://www.bbc.com/news/articles/cd9g2ggq4epo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Lord Mandelson released on bail after arrest on suspicion of misconduct in public office",
-        "link": "https://www.bbc.com/news/articles/c8xy5jzrrxzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "First British baby born using transplanted womb from dead donor",
         "link": "https://www.bbc.com/news/articles/cvg53xp5857o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Chocolate kept in anti-theft boxes as shops warn it's being stolen to order",
+        "link": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "New Trump tariffs take effect days after Supreme Court decision",
+        "title": "Russia-Ukraine four years of war",
+        "link": "https://www.aljazeera.com/video/between-us/2026/2/24/russia-ukraine-four-years-of-war?traffic_source=rss"
+      },
+      {
+        "title": "New Trump tariffs take effect days after Supreme Court ruling",
         "link": "https://www.aljazeera.com/news/2026/2/24/new-trump-tariffs-take-effect-days-after-supreme-court-decision?traffic_source=rss"
       },
       {
@@ -45,10 +43,6 @@
       {
         "title": "Blast kills policeman in Moscow train station on Ukraine war anniversary",
         "link": "https://www.aljazeera.com/video/2026/2/24/blast-kills-policeman-in-moscow-train-station-on-ukraine-war-anniversary?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Pakistan vs England – T20 World Cup",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/24/live-pakistan-vs-england-t20-world-cup-today-commentary-score-stream?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1975395/pti-objects-to-secrecy-after-imran-khan-undergoes-follow-up-eye-treatment-at-pims"
       },
       {
-        "title": "PM Shehbaz to meet Qatari emir, senior leadership in Doha today",
-        "link": "https://www.dawn.com/news/1975399/pm-shehbaz-to-meet-qatari-emir-senior-leadership-in-doha-today"
+        "title": "PM Shehbaz stresses importance of ‘enhancing trade volume’ in meeting with Qatar’s minister of state for trade",
+        "link": "https://www.dawn.com/news/1975399/pm-shehbaz-stresses-importance-of-enhancing-trade-volume-in-meeting-with-qatars-minister-of-state-for-trade"
+      },
+      {
+        "title": "Senate deplores Netanyahu’s plan to forge alliances with India, others against Muslim nations",
+        "link": "https://www.dawn.com/news/1975415/senate-deplores-netanyahus-plan-to-forge-alliances-with-india-others-against-muslim-nations"
       },
       {
         "title": "Unidentified attackers blow up school in South Waziristan, no casualties reported",
         "link": "https://www.dawn.com/news/1975412/unidentified-attackers-blow-up-school-in-south-waziristan-no-casualties-reported"
-      },
-      {
-        "title": "Bloodbath continues as KSE-100 sheds over 1,400 points on Tuesday",
-        "link": "https://www.dawn.com/news/1975392/bloodbath-continues-as-kse-100-sheds-over-1400-points-on-tuesday"
       }
     ],
     "APNews": [],
@@ -111,15 +105,19 @@
         "link": "https://www.nytimes.com/2026/02/24/podcasts/the-headlines/ice-whistleblower-openai-mass-shooter.html"
       },
       {
-        "title": "These Ukrainians Don’t Want to Be Traded to Russia for Peace",
-        "link": "https://www.nytimes.com/2026/02/24/world/europe/ukraine-war-donetsk.html"
-      },
-      {
         "title": "How Russia Put Its Future at Risk by Remaking Its Economy for War",
         "link": "https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html"
+      },
+      {
+        "title": "These Ukrainians Don’t Want to Be Traded to Russia for Peace",
+        "link": "https://www.nytimes.com/2026/02/24/world/europe/ukraine-war-donetsk.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Western forces in Erbil relocate ahead of possible US strikes on Iran",
+        "link": "https://www.middleeasteye.net/news/western-forces-erbil-relocate-ahead-possible-us-strikes-iran"
+      },
       {
         "title": "Why Israel is joining hands with Europe's far right",
         "link": "https://www.middleeasteye.net/opinion/why-israel-joining-hands-europes-far-right"
@@ -135,54 +133,50 @@
       {
         "title": "DNC’s secret 2024 report finds Gaza war stance was ‘net-negative’ for Harris campaign",
         "link": "https://www.middleeasteye.net/trending/dncs-secret-2024-autopsy-finds-gaza-war-stance-was-net-negative-harris-campaign"
-      },
-      {
-        "title": "Contrary to US policy, ambassador Huckabee says West Bank's Area C 'is Israel'",
-        "link": "https://www.middleeasteye.net/news/us-ambassador-israel-says-west-banks-area-c-israel"
       }
     ],
     "GeoTV": [
       {
+        "title": "Andrew's envoy past reopens wounds as Davey demands full accountability",
+        "link": "https://www.geo.tv/latest/652664-andrews-envoy-past-reopens-wounds-as-davey-demands-full-accountability"
+      },
+      {
+        "title": "Daniel Radcliffe finally addresses Wolverine casting rumours",
+        "link": "https://www.geo.tv/latest/652649-daniel-radcliffe-finally-addresses-wolverine-casting-rumours"
+      },
+      {
+        "title": "Michael B. Jordan furious after BAFTA outburst sparks backlash debate",
+        "link": "https://www.geo.tv/latest/652656-michael-b-jordan-furious-after-bafta-outburst-sparks-backlash-debate"
+      },
+      {
+        "title": "Kelly Osbourne claps back at trollers: 'Disgusting'",
+        "link": "https://www.geo.tv/latest/652657-kelly-osbourne-claps-back-at-trollers-disgusting"
+      },
+      {
         "title": "Who's who at Trump's State of the Union address: Here's full visual guide",
         "link": "https://www.geo.tv/latest/652654-whos-who-at-trumps-state-of-the-union-address-heres-full-visual-guide"
-      },
-      {
-        "title": "Martha Plimpton pays tribute to ‘Lizzie McGuire' star Robert Carradine after death",
-        "link": "https://www.geo.tv/latest/652655-martha-plimpton-pays-tribute-to-lizzie-mcguire-star-robert-carradine-after-death"
-      },
-      {
-        "title": "King Charles omits Prince Harry from important plan",
-        "link": "https://www.geo.tv/latest/652650-king-charles-omits-prince-harry-from-important-plan"
-      },
-      {
-        "title": "Food delivery rider dies after speeding car crash in Karachi's DHA",
-        "link": "https://www.geo.tv/latest/652645-food-delivery-rider-dies-after-speeding-car-crash-in-karachis-dha"
-      },
-      {
-        "title": "Nicki Minaj trends amid claims of massive bot support on social media",
-        "link": "https://www.geo.tv/latest/652653-nicki-minaj-trends-amid-claims-of-massive-bot-support-on-social-media"
       }
     ],
     "NDTV": [
       {
-        "title": "From Slum To Villa: Bhopal Sisters Arrested In Alleged Conversion-Sex Racket",
-        "link": "https://www.ndtv.com/india-news/from-slum-to-villa-bhopal-sisters-arrested-in-alleged-conversion-sex-racket-scandal-11128922#publisher=newsstand"
+        "title": "Blackmailed By Lover, Surat Man Shoots Self Days Before Daughter's Wedding",
+        "link": "https://www.ndtv.com/india-news/blackmailed-by-lover-surat-man-shoots-self-days-before-daughters-wedding-11129768#publisher=newsstand"
       },
       {
-        "title": "Woman Killed By Sister, 'Adopted' Son. Her Lover Helped Solve Murder",
-        "link": "https://www.ndtv.com/karnataka-news/woman-killed-by-sister-adopted-son-her-lover-helped-solve-murder-11129209#publisher=newsstand"
+        "title": "Jewel Thief, Ravan Fan: Lucknow Man Who Chopped Father Had Disturbing Past",
+        "link": "https://www.ndtv.com/india-news/akshat-pratap-singh-lucknow-murder-jewel-thief-ravan-fan-lucknow-man-who-chopped-father-had-disturbing-past-11129750#publisher=newsstand"
       },
       {
-        "title": "Karnataka Jewellery Shop Looted Using Chilli Powder, 4 Arrested After Drone Search",
-        "link": "https://www.ndtv.com/karnataka-news/karnataka-jewellery-shop-looted-using-chilli-powder-4-arrested-after-drone-search-11129112#publisher=newsstand"
+        "title": "'Protest Not Anarchy Licence': Ex Judges Slam Shirtless Protest At AI Event",
+        "link": "https://www.ndtv.com/india-news/youth-congress-protest-ai-summit-protest-protest-not-anarchy-licence-ex-judges-slam-shirtless-protest-at-ai-event-11129738#publisher=newsstand"
       },
       {
-        "title": "Police vs Police: Haryana Cop's Anti-Drug Campaign Backfires",
-        "link": "https://www.ndtv.com/india-news/haryana-cops-anti-drug-campaign-backfires-alleges-threats-from-senior-officer-11129176#publisher=newsstand"
+        "title": "Kerala Is Now Keralam. Big Decision Before State Polls",
+        "link": "https://www.ndtv.com/kerala-news/kerala-to-be-renamed-keralam-big-decision-before-state-polls-likely-today-11128286#publisher=newsstand"
       },
       {
-        "title": "\"Money Recovered Within 24 Hours\": Nayab Saini On Rs 578 Crore Fraud At IDFC First Bank",
-        "link": "https://www.ndtv.com/india-news/money-recovered-within-24-hours-nayab-saini-on-rs-578-crore-fraud-at-idfc-first-bank-11129230#publisher=newsstand"
+        "title": "Need For Sovereign AI Sparks Swadeshi Data Centre Surge In India",
+        "link": "https://www.ndtv.com/india-news/need-for-sovereign-ai-sparks-swadeshi-data-centre-surge-in-india-11129710#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-24 11:23 UTC"
+  "last_updated": "2026-02-24 11:59 UTC"
 }
