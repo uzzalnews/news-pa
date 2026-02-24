@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Russia-Ukraine war enters fifth year as strikes hit Zaporizhzhia",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/2/24/live-russia-ukraine-war-enters-fifth-year-as-strikes-hit-zaporizhzhia?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,7 +13,7 @@
         "link": "https://www.bbc.com/news/articles/c8xy5jzrrxzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Peter Mandelson arrives at home after being released on bail",
+        "title": "Watch: Lord Mandelson arrives at home after being released on bail",
         "link": "https://www.bbc.com/news/videos/cx2d7rgj8l9o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -15,15 +21,23 @@
         "link": "https://www.bbc.com/news/articles/cvg53xp5857o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
-        "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Chocolate kept in anti-theft boxes as retailers warn it's being stolen to order",
         "link": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "GPs to get £3,000 bonus to maximise  weight loss drug prescriptions",
+        "link": "https://www.bbc.com/news/articles/cddn399l4r9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Russia-Ukraine war enters fifth year as strikes hit Zaporizhzhia",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/2/24/live-russia-ukraine-war-enters-fifth-year-as-strikes-hit-zaporizhzhia?traffic_source=rss"
+      },
+      {
+        "title": "FedEx sues US government for tariff refund after Supreme Court ruling",
+        "link": "https://www.aljazeera.com/news/2026/2/24/fedex-sues-us-government-for-tariff-refund-after-supreme-court-ruling?traffic_source=rss"
+      },
       {
         "title": "North Korea promotes Kim Jong Un’s sister as he vows to boost economy",
         "link": "https://www.aljazeera.com/news/2026/2/24/north-korea-promotes-kim-jong-uns-sister-as-he-vows-to-boost-economy?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Moscow policeman killed in bomb attack on Ukraine war anniversary",
         "link": "https://www.aljazeera.com/news/2026/2/24/moscow-policeman-killed-in-bomb-attack-on-ukraine-war-anniversary?traffic_source=rss"
-      },
-      {
-        "title": "Australian PM backs removal of ex-Prince Andrew from succession line",
-        "link": "https://www.aljazeera.com/news/2026/2/24/australian-pm-backs-removal-of-ex-prince-andrew-from-succession-line?traffic_source=rss"
-      },
-      {
-        "title": "Heavy rains, deadly floods hit southern Peru; thousands seek shelter",
-        "link": "https://www.aljazeera.com/news/2026/2/24/heavy-rains-deadly-floods-hit-southern-peru-thousands-seek-shelter?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,16 +80,16 @@
         "link": "https://www.dawn.com/news/1975351/tariq-jahangiris-appointment-annulled"
       },
       {
+        "title": "Imran receives follow-up eye treatment at PIMS",
+        "link": "https://www.dawn.com/news/1975350/imran-receives-follow-up-eye-treatment-at-pims"
+      },
+      {
         "title": "Rising mercury to heighten melting, Glof risk up north",
         "link": "https://www.dawn.com/news/1975353/rising-mercury-to-heighten-melting-glof-risk-up-north"
       },
       {
         "title": "Global security order shifting rapidly, UN chief warns",
         "link": "https://www.dawn.com/news/1975337/global-security-order-shifting-rapidly-un-chief-warns"
-      },
-      {
-        "title": "Imran receives follow-up eye treatment at PIMS",
-        "link": "https://www.dawn.com/news/1975350/imran-receives-follow-up-eye-treatment-at-pims"
       },
       {
         "title": "Court orders to unfreeze YouTuber Ducky Bhai’s bank accounts",
@@ -93,8 +99,16 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
+        "link": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html"
+      },
+      {
         "title": "Mexican Forces Say They Tracked El Mencho to Cabin by Following His Lover",
         "link": "https://www.nytimes.com/2026/02/23/world/americas/el-mencho-mexico-cartel-military-raid.html"
+      },
+      {
+        "title": "After Six Decades of the War on Drugs, What Works?",
+        "link": "https://www.nytimes.com/2026/02/24/world/americas/mexico-war-on-drugs.html"
       },
       {
         "title": "After Chaos Rips Across Mexico, the Remnants of Cartel Violence Haunt Residents",
@@ -103,14 +117,6 @@
       {
         "title": "What Travelers Need to Know as Cartel Violence Rattles Mexico",
         "link": "https://www.nytimes.com/2026/02/23/travel/cartel-violence-mexico-el-mencho-travel-flights.html"
-      },
-      {
-        "title": "Even in a Blizzard, Food Delivery in New York City Continues",
-        "link": "https://www.nytimes.com/2026/02/23/nyregion/nyc-winter-storm-deliverista.html"
-      },
-      {
-        "title": "Snowstorm Is ‘as Bad as I’ve Seen It,’ Massachusetts Governor Says",
-        "link": "https://www.nytimes.com/2026/02/23/weather/massachusetts-boston-blizzard-snow-storm.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Beatrice, Eugenie decide to take major risk: 'Upsetting for King Charles'Â",
-        "link": "https://www.geo.tv/latest/652569-beatrice-eugenie-decide-to-take-major-risk-upsetting-for-king-charles"
+        "title": "King Charles team sparks reactions after shocking mistake amid Andrew probe",
+        "link": "https://www.geo.tv/latest/652573-king-charles-team-sparks-reactions-after-shocking-mistake-amid-andrew-probe"
       },
       {
-        "title": "Pakistan to take on England in crucial T20 World Cup Super Eights clash",
-        "link": "https://www.geo.tv/latest/652567-pakistan-to-take-on-england-in-crucial-t20-world-cup-super-eight-fixture"
+        "title": "Floyd Mayweather to fight  Manny Pacquiao in Las Vegas in September",
+        "link": "https://www.geo.tv/latest/652571-floyd-mayweather-to-fight-manny-pacquiao-in-las-vegas-in-september"
       },
       {
-        "title": "Dialogue is not indulgence",
-        "link": "https://www.geo.tv/latest/652568-dialogue-is-not-indulgence"
+        "title": "Taylor Swift celebrates new career high after 12 years in major update",
+        "link": "https://www.geo.tv/latest/652574-taylor-swift-celebrates-new-career-high-after-12-years-in-major-update"
       },
       {
-        "title": "Lisa Rinna makes serious claims about ‘Traitors' premiere party",
-        "link": "https://www.geo.tv/latest/652566-lisa-rinna-makes-serious-claims-about-traitors-premiere-party"
+        "title": "PTI Chairman Gohar 'moves to block' Imran Release Force",
+        "link": "https://www.geo.tv/latest/652572-gohar-moves-to-block-imran-release-force"
       },
       {
-        "title": "Bella Hadid talks about job crisis amid Lyme disease",
-        "link": "https://www.geo.tv/latest/652565-bella-hadid-talks-about-job-crisis-amid-lyme-disease"
+        "title": "Canada PM to push trade, rebuild fractured ties in India trip",
+        "link": "https://www.geo.tv/latest/652570-canada-pm-to-push-trade-rebuild-fractured-ties-in-india-trip"
       }
     ],
     "NDTV": [
       {
+        "title": "Massive Irregularities At Madhya Pradesh's Only Medical University: Auditor",
+        "link": "https://www.ndtv.com/india-news/after-ndtvs-expose-audit-report-confirms-massive-irregularities-at-madhya-pradeshs-only-medical-university-11127938#publisher=newsstand"
+      },
+      {
+        "title": "First Ex-Prince Andrew, Then Ex-UK Ambassador Mandelson: Keir Starmer Can't Catch A Break",
+        "link": "https://www.ndtv.com/world-news/first-ex-prince-andrew-then-ex-uk-ambassador-mandelson-uk-pm-keir-starmer-cant-catch-a-break-jeffrey-epstein-investigation-11128031#publisher=newsstand"
+      },
+      {
+        "title": "'You May Leave If You Want': Karnataka Minister vs Party Leader At Key Meet",
+        "link": "https://www.ndtv.com/india-news/you-may-leave-if-you-want-karnataka-minister-santosh-lad-vs-congress-leader-at-key-meet-11128061#publisher=newsstand"
+      },
+      {
+        "title": "How El Mencho's Girlfriend Was Key In Taking Down The Drug Lord",
+        "link": "https://www.ndtv.com/world-news/mexican-jalisco-new-generation-cartel-leader-el-mencho-spent-night-with-girlfriend-before-raid-mexico-was-tracking-her-11127801#publisher=newsstand"
+      },
+      {
         "title": "One Dead After DMK Leader's Son Rams Family In Tamil Nadu Road Rage Shocker",
         "link": "https://www.ndtv.com/india-news/one-dead-after-dmk-leaders-son-rams-family-in-tamil-nadu-road-rage-shocker-11127854#publisher=newsstand"
-      },
-      {
-        "title": "Delhi's Hot February Points To India's Deepening Climate Shift",
-        "link": "https://www.ndtv.com/delhi-news/delhis-hot-february-points-to-indias-deepening-climate-shift-11127831#publisher=newsstand"
-      },
-      {
-        "title": "All 7 On Board Air Ambulance Flying To Delhi Die In Crash In Jharkhand",
-        "link": "https://www.ndtv.com/india-news/jharkhand-air-ambulance-crash-all-7-on-board-an-air-ambulance-die-in-crash-in-jharkhands-chatra-11127545#publisher=newsstand"
-      },
-      {
-        "title": "Ex-UK Ambassador Peter Mandelson Released On Bail Hours After Arrest In Epstein Files Case",
-        "link": "https://www.ndtv.com/world-news/ex-uk-ambassador-peter-mandelson-released-on-bail-hours-after-arrest-in-epstein-files-case-disgraced-us-sex-offender-jeffrey-epstein-scandal-11127827#publisher=newsstand"
-      },
-      {
-        "title": "A Food Queue Photo Leads To Online Racist Attacks Against Indians In Ireland",
-        "link": "https://www.ndtv.com/world-news/a-food-queue-photo-leads-to-online-racist-attacks-on-indians-in-ireland-11127738#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-24 04:43 UTC"
+  "last_updated": "2026-02-24 05:47 UTC"
 }
