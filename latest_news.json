@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "PM Modi Israel visit LIVE: PM Modi To Become 1st Indian PM To Address Israeli Parliament",
+      "link": "https://www.ndtv.com/world-news/pm-modi-israel-visit-live-updates-knesset-parliament-address-benjamin-netanyahu-india-israel-biltaeral-defence-security-talks-tel-aviv-11134478#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,23 +13,31 @@
         "link": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "President issues patriotic rallying cry with eye on crucial elections",
+        "title": "Trump's theatrical State of the Union address offers little hint of any change in course",
         "link": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fact-checking Trump's longest ever State of the Union",
+        "link": "https://www.bbc.com/news/articles/cgmlzg0p8k2o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "One in four councils to miss food waste collection deadline - find out if yours is one",
         "link": "https://www.bbc.com/news/articles/cpv8ye887e4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "What is the UK's new travel system and how are dual nationals affected?",
+        "title": "New travel rules kick in - how are dual nationals affected?",
         "link": "https://www.bbc.com/news/articles/cy57p1v61d1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Disabled woman, 33, put in nursing home against her will feels 'betrayed'",
-        "link": "https://www.bbc.com/news/articles/czj1ndzz9xyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Which countries are urging citizens to leave Iran amid US threat of force?",
+        "link": "https://www.aljazeera.com/news/2026/2/25/which-countries-are-urging-citizens-to-leave-iran-amid-us-threat-of-force?traffic_source=rss"
+      },
+      {
+        "title": "Israeli army, settlers attack Palestinians in Hebron area of West Bank",
+        "link": "https://www.aljazeera.com/news/2026/2/25/israeli-army-settlers-attack-palestinians-in-hebron-area-of-west-bank?traffic_source=rss"
+      },
       {
         "title": "Key takeaways from Trump’s State of the Union address",
         "link": "https://www.aljazeera.com/video/2026/2/25/key-takeaways-from-trumps-state-of-the-union-address?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Syria faces twin battles as Assad loyalists and ISIL attack in west, east",
         "link": "https://www.aljazeera.com/news/2026/2/25/syria-faces-twin-battles-as-assad-loyalists-and-isil-attack-in-west-east?traffic_source=rss"
-      },
-      {
-        "title": "Rescuers search for missing after storm deluge kills 30 in Brazil",
-        "link": "https://www.aljazeera.com/gallery/2026/2/25/rescuers-search-for-missing-after-storm-deluge-kills-30-in-brazil?traffic_source=rss"
-      },
-      {
-        "title": "Fact-checking Donald Trump’s State of the Union address",
-        "link": "https://www.aljazeera.com/news/2026/2/25/fact-checking-donald-trumps-state-of-the-union-address?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,50 +76,54 @@
     ],
     "Dawn": [
       {
-        "title": "Aleema assails PTI leadership, IHC for decisions regarding Imran’s health, delay in fixing of cases",
-        "link": "https://www.dawn.com/news/1975671/aleema-assails-pti-leadership-ihc-for-decisions-regarding-imrans-health-delay-in-fixing-of-cases"
+        "title": "Aleema assails PTI leadership for decisions regarding Imran’s health, IHC for delay in fixing of cases",
+        "link": "https://www.dawn.com/news/1975671/aleema-assails-pti-leadership-for-decisions-regarding-imrans-health-ihc-for-delay-in-fixing-of-cases"
       },
       {
-        "title": "India’s Modi heads to Israel to ‘strengthen cooperation’",
-        "link": "https://www.dawn.com/news/1975656/indias-modi-heads-to-israel-to-strengthen-cooperation"
+        "title": "India’s Modi lands in Israel to ‘strengthen cooperation’",
+        "link": "https://www.dawn.com/news/1975656/indias-modi-lands-in-israel-to-strengthen-cooperation"
       },
       {
         "title": "PTI moves SC for Imran’s treatment at hospital of choice, access to personal doctors",
         "link": "https://www.dawn.com/news/1975667/pti-moves-sc-for-imrans-treatment-at-hospital-of-choice-access-to-personal-doctors"
       },
       {
-        "title": "Trump keeps the world guessing on his Iran options during annual State of the Union speech",
-        "link": "https://www.dawn.com/news/1975653/trump-keeps-the-world-guessing-on-his-iran-options-during-annual-state-of-the-union-speech"
+        "title": "Punjab govt imposes 30-day ban on flying drones outdoors over risk to public safety",
+        "link": "https://www.dawn.com/news/1975675/punjab-govt-imposes-30-day-ban-on-flying-drones-outdoors-over-risk-to-public-safety"
       },
       {
-        "title": "17 deaths reported during Basant in Lahore, says Punjab Home Department report submitted to LHC",
-        "link": "https://www.dawn.com/news/1975664/17-deaths-reported-during-basant-in-lahore-says-punjab-home-department-report-submitted-to-lhc"
+        "title": "Trump keeps the world guessing on his Iran options during annual State of the Union speech",
+        "link": "https://www.dawn.com/news/1975653/trump-keeps-the-world-guessing-on-his-iran-options-during-annual-state-of-the-union-speech"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Trump Puts On a Show, Casting Democrats as the Villains",
+        "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-state-of-the-union-speech.html"
+      },
+      {
         "title": "‘Stand Up’: With One Maneuver, Trump Tries to Box In Democrats",
         "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-state-of-the-union-scene.html"
       },
       {
-        "title": "Abigail Spanberger, in Democratic Response, Asks if Trump Is Working for Americans",
-        "link": "https://www.nytimes.com/2026/02/25/us/politics/spanberger-democratic-response-trump-sotu.html"
+        "title": "6 Takeaways From Trump’s State of the Union",
+        "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-state-of-the-union-takeaways.html"
       },
       {
-        "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
-        "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html"
+        "title": "Inside Nicolás Maduro’s Last Days as Venezuela’s Leader",
+        "link": "https://www.nytimes.com/2026/02/25/world/americas/maduro-venezuela-us-capture-trump.html"
       },
       {
-        "title": "House Narrowly Rejects Air Safety Bill After Pentagon Opposition",
-        "link": "https://www.nytimes.com/2026/02/24/us/politics/house-rotor-act-dc-plane-crash.html"
-      },
-      {
-        "title": "Mexico Is Caught Between Trump and the Cartels",
-        "link": "https://www.nytimes.com/2026/02/24/world/americas/trump-sheinbaum-us-mexico-cartel.html"
+        "title": "Thanks, Ukrainians Say, but Please Stop Calling Us Resilient",
+        "link": "https://www.nytimes.com/2026/02/25/world/europe/ukrainian-war-resilience.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Aid groups petition Israeli court to halt work bans in Gaza, West Bank",
+        "link": "https://www.middleeasteye.net/news/aid-groups-petition-israeli-supreme-court-israels-ngo-bans-gaza-west-bank-nears"
+      },
       {
         "title": "Exclusive: Cambridge put £140m in fund with stakes in firms linked to Israeli abuses",
         "link": "https://www.middleeasteye.net/news/exclusive-cambridge-put-ps140m-fund-owning-shares-companies-linked-israeli-rights-abuses"
@@ -129,54 +139,50 @@
       {
         "title": "'Don't hold out to come to the US': Advocates urge Afghans to seek new lives elsewhere",
         "link": "https://www.middleeasteye.net/news/dont-hold-out-come-us-advocates-urge-afghans-seek-new-lives-elsewhwere"
-      },
-      {
-        "title": "'Toilet wars’: US naval crews face plumbing chaos en route to Middle East",
-        "link": "https://www.middleeasteye.net/trending/missed-funerals-toilet-wars-us-naval-crews-strained-en-route-middle-east"
       }
     ],
     "GeoTV": [
       {
-        "title": "Bridesmaids co-stars Rose Byrne And Kristen Wiig share rejoicing moment",
-        "link": "https://www.geo.tv/latest/652821-bridesmaids-co-stars-rose-byrne-and-kristen-wiig-share-rejoicing-moment"
+        "title": "Katie Price links weight gain to married bliss: 'can't stop eating'",
+        "link": "https://www.geo.tv/latest/652845-katie-price"
       },
       {
-        "title": "Prince William, Princess Kate land in difficult situation after King's order",
-        "link": "https://www.geo.tv/latest/652818-prince-william-princess-kate-land-in-difficult-situation-after-kings-order"
+        "title": "What time is the Samsung event today? Here's how and where to watch",
+        "link": "https://www.geo.tv/latest/652841-what-time-is-the-samsung-event-today-heres-how-and-where-to-watch"
       },
       {
-        "title": "Sinitta admits she married for revenge after Simon Cowell refused to settle down",
-        "link": "https://www.geo.tv/latest/652826-sinitta-admits-she-married-for-revenge-after-simon-cowell-refused-to-settledown"
+        "title": "Molly Mae Hague debuts baby bump on luxury Dubai work trip",
+        "link": "https://www.geo.tv/latest/652839-molly-mae-hague-debuts-baby-bump-on-luxury-dubai-work-trip"
       },
       {
-        "title": "Jacob Elordi ‘James Bond' chances fade despite strong rumours: Here's why",
-        "link": "https://www.geo.tv/latest/652823-jacob-elordi-james-bond-chances-fade-despite-strong-rumours-heres-why"
+        "title": "Neve Campbell turned down ‘Scream 6' - Here's why",
+        "link": "https://www.geo.tv/latest/652838-neve-campbell-reveals-why-she-turned-down-scream-6"
       },
       {
-        "title": "Usman Tariq, Sahibzada Farhan shine in latest T20I rankings",
-        "link": "https://www.geo.tv/latest/652819-usman-tariq-sahibzada-farhan-shine-in-latest-t20i-rankings"
+        "title": "Sean Diddy Combs, Jeffrey Epstein hidden connection details laid bare",
+        "link": "https://www.geo.tv/latest/652844-sean-diddy-combs-jeffrey-epstein-hidden-connection-details-laid-bare"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Did Nothing Illicit\": Bill Gates On 'Sex With Russian Girls' Claim In Epstein Files",
-        "link": "https://www.ndtv.com/world-news/bill-gates-on-sex-with-russian-girls-claim-in-epstein-files-did-nothing-illicit-bill-gates-apologises-to-gates-foundation-11133459#publisher=newsstand"
+        "title": "'Killed For Rs 20,000, ISI Behind It': Punjab Police On Cops' Killing",
+        "link": "https://www.ndtv.com/india-news/gurdaspur-killed-for-rs-20-000-isi-behind-it-punjab-police-on-cops-killing-11134527#publisher=newsstand"
       },
       {
-        "title": "Pakistan's 'Muslim Ummah' Concern Over Israel's 'Hexagon Alliance' Plan With India",
-        "link": "https://www.ndtv.com/world-news/paks-muslim-ummah-concern-over-israels-hexagon-alliance-plan-with-india-11134348#publisher=newsstand"
+        "title": "Inside Mumbai's Worsening Air Pollution Crisis",
+        "link": "https://www.ndtv.com/mumbai-news/mumbai-air-pollution-crisp-coastal-breeze-to-smell-of-dust-mumbais-air-pollution-crisis-worsens-11134462#publisher=newsstand"
       },
       {
-        "title": "Russian Soldiers Allege Torture, Execution For Refusing Orders In Ukraine War",
-        "link": "https://www.ndtv.com/world-news/russia-ukraine-war-russian-soldiers-allege-torture-execution-for-refusing-orders-in-ukraine-war-11133124#publisher=newsstand"
+        "title": "India Is Israel's Largest Arms Buyer, Their Defence Partnership In Numbers",
+        "link": "https://www.ndtv.com/india-news/india-is-israels-largest-arms-buyer-their-defence-partnership-in-numbers-11134512#publisher=newsstand"
       },
       {
-        "title": "\"Would've Cremated Him Alone\": Lucknow Man Who Murdered Father To Cops",
-        "link": "https://www.ndtv.com/india-news/lucknow-blue-drum-murder-case-lucknow-man-who-murdered-father-tells-cops-wouldve-cremated-him-alone-11134156#publisher=newsstand"
+        "title": "PM Modi Israel visit LIVE: PM Modi To Become 1st Indian PM To Address Israeli Parliament",
+        "link": "https://www.ndtv.com/world-news/pm-modi-israel-visit-live-updates-knesset-parliament-address-benjamin-netanyahu-india-israel-biltaeral-defence-security-talks-tel-aviv-11134478#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | How Israel Once Defied Its Biggest Ally To Help India",
-        "link": "https://www.ndtv.com/opinion/how-israel-once-defied-its-biggest-ally-to-help-india-11134288#publisher=newsstand"
+        "title": "How An Ex Branch Manager Masterminded 590-Crore Fraud At IDFC FIRST Bank",
+        "link": "https://www.ndtv.com/india-news/idfc-first-bank-fraud-how-an-ex-branch-manager-masterminded-590-crore-fraud-at-idfc-first-bank-11134471#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-25 10:09 UTC"
+  "last_updated": "2026-02-25 11:08 UTC"
 }
