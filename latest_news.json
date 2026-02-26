@@ -1,10 +1,24 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: India vs Zimbabwe – T20 World Cup",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/26/live-india-vs-zimbabwe-t20-world-cup-commentary-stream-playing-11-score?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
+        "title": "Jersey approves assisted dying law",
+        "link": "https://www.bbc.com/news/articles/c62dnwwgryeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Racism and staff shortages factors in 'failing' maternity care, report finds",
         "link": "https://www.bbc.com/news/articles/c30968817q3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: BBC on streets of Mexican city gripped by deadly cartel violence",
+        "link": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Cuba says it shot dead four people on US-registered speedboat",
@@ -13,36 +27,28 @@
       {
         "title": "This coastal idyll banned 'harmful' holiday lets. Eight years on, has it worked?",
         "link": "https://www.bbc.com/news/articles/cy59gznnz0zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: BBC on streets of Mexican city gripped by deadly cartel violence",
-        "link": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Royal Mail bosses to be called to Parliament over letter delivery failures",
-        "link": "https://www.bbc.com/news/articles/c9dnx445w4do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "When is the Champions League last 16 draw? Date, format, seeding explained",
-        "link": "https://www.aljazeera.com/sports/2026/2/26/when-is-the-champions-league-last-16-draw-date-format-seeding-explained?traffic_source=rss"
+        "title": "Kenya arrests suspect in duping men to fight for Russia in Ukraine war",
+        "link": "https://www.aljazeera.com/news/2026/2/26/kenya-arrests-suspect-in-duping-men-to-fight-for-russia-in-ukraine-war?traffic_source=rss"
       },
       {
-        "title": "UN approves first carbon credits under Paris Agreement market mechanism",
-        "link": "https://www.aljazeera.com/news/2026/2/26/un-approves-first-carbon-credits-under-paris-agreement-market-mechanism?traffic_source=rss"
+        "title": "What to know about US-Iran nuclear talks in Geneva",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/what-to-know-about-us-iran-nuclear-talks-in-geneva?traffic_source=rss"
       },
       {
-        "title": "Rubio warns of Iran’s missile threat ahead of US-Iran talks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/26/rubio-warns-of-irans-missile-threat-ahead-of-us-iran-talks?traffic_source=rss"
+        "title": "Real Madrid ban club member who did Nazi salute during Benfica match",
+        "link": "https://www.aljazeera.com/sports/2026/2/26/real-madrid-ban-club-member-who-did-nazi-salute-during-benfica-match?traffic_source=rss"
       },
       {
-        "title": "Near-blind Rohingya refugee dies after US agents left him far from home",
-        "link": "https://www.aljazeera.com/news/2026/2/26/near-blind-rohingya-refugee-dies-after-us-agents-left-him-far-from-home?traffic_source=rss"
+        "title": "Mosques attacked, children racially abused as hard right rises in UK",
+        "link": "https://www.aljazeera.com/news/2026/2/26/mosques-attacked-children-racially-abused-as-hard-right-rises-in-uk?traffic_source=rss"
       },
       {
-        "title": "Germany’s Merz eyes business opportunities at Chinese tech hub in Hangzhou",
-        "link": "https://www.aljazeera.com/news/2026/2/26/germanys-merz-eyes-business-opportunities-at-chinese-tech-hub-in-hangzhou?traffic_source=rss"
+        "title": "LIVE: India vs Zimbabwe – T20 World Cup",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/26/live-india-vs-zimbabwe-t20-world-cup-commentary-stream-playing-11-score?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "IHC to hear Imran, Bushra’s pleas for sentence suspensions in £190m graft case on March 11",
-        "link": "https://www.dawn.com/news/1975889/ihc-to-hear-imran-bushras-pleas-for-sentence-suspensions-in-ps190m-graft-case-on-march-11"
+        "title": "IT secretary denies reports about shutdown of internet ‘firewall’ ahead of 5G spectrum auction",
+        "link": "https://www.dawn.com/news/1975898/it-secretary-denies-reports-about-shutdown-of-internet-firewall-ahead-of-5g-spectrum-auction"
       },
       {
-        "title": "Local administration imposes Section 144, 12-hour daily curfew in South Waziristan",
-        "link": "https://www.dawn.com/news/1975857/local-administration-imposes-section-144-12-hour-daily-curfew-in-south-waziristan"
+        "title": "Iran-US talks mediated by Oman begin in Geneva in push to avert war",
+        "link": "https://www.dawn.com/news/1975874/iran-us-talks-mediated-by-oman-begin-in-geneva-in-push-to-avert-war"
+      },
+      {
+        "title": "IHC to hear Imran, Bushra’s pleas for sentence suspensions in £190m graft case on March 11",
+        "link": "https://www.dawn.com/news/1975889/ihc-to-hear-imran-bushras-pleas-for-sentence-suspensions-in-ps190m-graft-case-on-march-11"
       },
       {
         "title": "Dar lands in Saudi Arabia for OIC moot on Israel’s annexation of West Bank areas",
         "link": "https://www.dawn.com/news/1975897/dar-lands-in-saudi-arabia-for-oic-moot-on-israels-annexation-of-west-bank-areas"
       },
       {
-        "title": "Karachi ATC frames charges against Armaghan, co-accused Sheraz in Mustafa Amir murder case",
-        "link": "https://www.dawn.com/news/1975884/karachi-atc-frames-charges-against-armaghan-co-accused-sheraz-in-mustafa-amir-murder-case"
-      },
-      {
-        "title": "Concerns about Imran’s health echo across UK Parliament",
-        "link": "https://www.dawn.com/news/1975881/concerns-about-imrans-health-echo-across-uk-parliament"
+        "title": "Punjab CM launches e-taxi scheme, says initiative part of efforts for establishing ‘e-mobility ecosystem’",
+        "link": "https://www.dawn.com/news/1975900/punjab-cm-launches-e-taxi-scheme-says-initiative-part-of-efforts-for-establishing-e-mobility-ecosystem"
       }
     ],
     "APNews": [],
@@ -105,12 +111,12 @@
         "link": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-nuclear-talks.html"
       },
       {
-        "title": "Trump’s Push for Election Power Raises Fears He Will ‘Subvert’ Midterms",
-        "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html"
+        "title": "The Missing Records From the Epstein Files, and a Gun Battle Off the Coast of Cuba",
+        "link": "https://www.nytimes.com/2026/02/26/podcasts/the-headlines/epstein-files-cuba-us-boat.html"
       },
       {
-        "title": "New A.C.A. Plans Could Increase Family Deductibles to $31,000",
-        "link": "https://www.nytimes.com/2026/02/26/health/obamacare-health-insurance-rollbacks.html"
+        "title": "Trump’s Push for Election Power Raises Fears He Will ‘Subvert’ Midterms",
+        "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,46 +143,46 @@
     ],
     "GeoTV": [
       {
-        "title": "Mary Cosby's son Robert Jr. dead at 23",
-        "link": "https://www.geo.tv/latest/653055-mary-cosbys-son-robert-jr-dead-at-23"
+        "title": "FDA recalls frozen blueberries in 4 states at most severe risk level",
+        "link": "https://www.geo.tv/latest/653067-fda-recalls-frozen-blueberries-in-4-states-at-most-severe-risk-level"
       },
       {
-        "title": "What are Iran's ballistic missile capabilities?",
-        "link": "https://www.geo.tv/latest/653051-what-are-irans-ballistic-missile-capabilities"
+        "title": "'Dune 3' takes over IMAX screens ahead of Marvel box office clash",
+        "link": "https://www.geo.tv/latest/653068-dune-3-takes-over-imax-screens-ahead-of-marvel-box-office-clash"
       },
       {
-        "title": "'Bridgerton' season 5 prediction: Which sibling is next?",
-        "link": "https://www.geo.tv/latest/653046-bridgerton-season-5-prediction-which-sibling-is-next"
+        "title": "India's reaction to Balochistan attack ‘effectively corroborates' Pakistan's stance: FO",
+        "link": "https://www.geo.tv/latest/653066-indias-reaction-to-balochistan-attack-effectively-corroborates-pakistans-stance-fo"
       },
       {
-        "title": "Connor Storrie reveals why SNL might test him like never before",
-        "link": "https://www.geo.tv/latest/653030-connor-storrie-reveals-why-snl-might-test-him-like-never-before"
+        "title": "Travis Kelce struggles to hide 'baby plans' with Taylor Swift in new show",
+        "link": "https://www.geo.tv/latest/653052-travis-kelce-struggles-to-hide-baby-plans-with-taylor-swift-in-new-show"
       },
       {
-        "title": "Jason Bateman breaks silence on 'clickbait articles' about him on internet",
-        "link": "https://www.geo.tv/latest/653025-jason-bateman-breaks-silence-on-clickbait-articles-about-him-on-internet"
+        "title": "Prince Harry, Meghan ignite hope for a brighter tomorrow",
+        "link": "https://www.geo.tv/latest/653047-prince-harry-meghan-ignite-hope-for-a-brighter-tomorrow"
       }
     ],
     "NDTV": [
       {
-        "title": "Centre Had No Intention Of Disrespecting Judiciary: Minister On NCERT Row",
-        "link": "https://www.ndtv.com/india-news/centre-had-no-intention-of-disrespecting-judiciary-minister-on-ncert-row-11139611#publisher=newsstand"
+        "title": "World Economic Forum CEO Borge Brende Quits Amid Probe Over Epstein Ties",
+        "link": "https://www.ndtv.com/world-news/world-economic-forum-ceo-borge-brende-quits-amid-probe-over-epstein-ties-11140029#publisher=newsstand"
       },
       {
-        "title": "Indian-Origin Doctor Told 911 Daughter Drowned In Pool. Autopsy Nailed Her",
-        "link": "https://www.ndtv.com/world-news/indian-origin-doctor-neha-gupta-told-911-daughter-drowned-in-pool-autopsy-nailed-her-11139683#publisher=newsstand"
+        "title": "As Bride Who Was Shot Fights for Life, Father Worries: \"Who Will Marry Her?\"",
+        "link": "https://www.ndtv.com/india-news/as-bride-who-was-shot-fights-for-life-father-worries-who-will-marry-her-11140078#publisher=newsstand"
       },
       {
-        "title": "No Fee For Air Ticket Changes Within 48 Hours: Aviation Body",
-        "link": "https://www.ndtv.com/india-news/no-fee-for-air-ticket-changes-within-48-hours-aviation-body-11139592#publisher=newsstand"
+        "title": "Delhi Police vs Himachal Police Face-Off: What Law Says About Such A Clash",
+        "link": "https://www.ndtv.com/india-news/delhi-police-vs-himachal-police-face-off-what-law-says-about-such-a-clash-11140069#publisher=newsstand"
       },
       {
-        "title": "\"I Know He's Not Mine\": Hyderabad YouTuber Wrote Before Killing Herself",
-        "link": "https://www.ndtv.com/india-news/i-know-hes-not-mine-hyderabad-youtuber-wrote-before-killing-herself-11139067#publisher=newsstand"
+        "title": "AIADMK's Contempt Notice Against Anti-Corruption Body Over \"Cash-For-Jobs\" Row",
+        "link": "https://www.ndtv.com/india-news/aiadmks-contempt-notice-against-anti-corruption-body-over-cash-for-jobs-row-11140013#publisher=newsstand"
       },
       {
-        "title": "Snake-Like Robot Unveiled For Fukushima Debris Removal",
-        "link": "https://www.ndtv.com/world-news/snake-like-robot-unveiled-for-fukushima-debris-removal-11139052#publisher=newsstand"
+        "title": "Opinion: Opinion | Congress's 'Jamaat' Experiment In Kerala Can Backfire Badly. But Does It Care?",
+        "link": "https://www.ndtv.com/opinion/congress-and-its-dangerous-dance-with-the-jamaat-in-kerala-11139759#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-26 11:00 UTC"
+  "last_updated": "2026-02-26 11:48 UTC"
 }
