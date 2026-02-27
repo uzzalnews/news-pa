@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Pakistan declares ‘open war’ on Afghanistan, fighter jets bomb Kabul",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/2/27/live-kabul-bombed-as-pakistan-declares-open-war-on-afghanistan?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "Watch: 'Working hard used to get you something', says Green Party's Hannah Spencer",
+        "link": "https://www.bbc.com/news/videos/clyz4ellkd7o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
         "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss"
@@ -23,32 +21,28 @@
       {
         "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
         "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "UK winter nowhere near a record breaker despite floods and storms",
-        "link": "https://www.bbc.com/weather/articles/c1e9d20pg2lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Canadian PM Carney heads to India on ‘significant’ trip to consolidate ties",
+        "link": "https://www.aljazeera.com/economy/2026/2/27/canadian-pm-carney-heads-to-india-on-significant-trip-to-consolidate-ties?traffic_source=rss"
+      },
+      {
+        "title": "When money is scarce, every choice counts: Bank, cash, or credit?",
+        "link": "https://www.aljazeera.com/economy/2026/2/27/when-money-is-scarce-every-choice-counts-bank-cash-or-credit?traffic_source=rss"
+      },
       {
         "title": "Russia-Ukraine war: List of key events, day 1,464",
         "link": "https://www.aljazeera.com/news/2026/2/27/russia-ukraine-war-list-of-key-events-day-1464?traffic_source=rss"
       },
       {
-        "title": "LIVE: Pakistan declares ‘open war’ on Afghanistan, fighter jets bomb Kabul",
+        "title": "Pakistan-Afghanistan live: Islamabad says ‘open war’ between neighbours",
         "link": "https://www.aljazeera.com/news/liveblog/2026/2/27/live-kabul-bombed-as-pakistan-declares-open-war-on-afghanistan?traffic_source=rss"
       },
       {
-        "title": "Pakistan says ‘patience has run out’ as it bombs Taliban across Afghanistan",
+        "title": "‘Open war’: Pakistan says ‘patience has run out’ as it bombs Afghanistan",
         "link": "https://www.aljazeera.com/news/2026/2/27/pakistan-warplanes-bomb-kabul-as-clashes-with-afghanistan-intensify?traffic_source=rss"
-      },
-      {
-        "title": "US tax agency broke privacy law ‘approximately 42,695 times’, judge says",
-        "link": "https://www.aljazeera.com/news/2026/2/27/us-tax-agency-broke-privacy-law-approximately-42695-times-judge-says?traffic_source=rss"
-      },
-      {
-        "title": "Cuba says speedboat attackers from Florida planned to destabilise country",
-        "link": "https://www.aljazeera.com/news/2026/2/26/cuba-says-speedboat-attackers-from-florida-planned-to-destabilise-country?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/1976044/govt-to-eradicate-terrorism-at-all-costs-vows-pm"
       },
       {
-        "title": "Taliban expand executions, deepen repression: UN",
-        "link": "https://www.dawn.com/news/1976070/taliban-expand-executions-deepen-repression-un"
+        "title": "UN says Israel aims to bring about demographic change in Palestine",
+        "link": "https://www.dawn.com/news/1976063/un-says-israel-aims-to-bring-about-demographic-change-in-palestine"
       }
     ],
     "APNews": [],
@@ -111,12 +105,12 @@
         "link": "https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html"
       },
       {
-        "title": "Justice Department Exposed Cooperating Witnesses in Epstein Files",
-        "link": "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
+        "title": "Hillary Clinton Denies Knowing Epstein or His Crimes in a Tense Deposition",
+        "link": "https://www.nytimes.com/2026/02/26/us/politics/hillary-clinton-epstein-deposition-lauren-boebert.html"
       },
       {
-        "title": "How a Close Associate of Epstein’s Found Career Redemption in Japan",
-        "link": "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
+        "title": "Justice Department Exposed Cooperating Witnesses in Epstein Files",
+        "link": "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,6 +137,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Beyond the hype",
+        "link": "https://www.geo.tv/latest/653171-beyond-the-hype"
+      },
+      {
+        "title": "US-Iran talks end with no deal but potential signs of progress",
+        "link": "https://www.geo.tv/latest/653169-us-iran-talks-end-with-no-deal-but-potential-signs-of-progress"
+      },
+      {
         "title": "Burden of proximity",
         "link": "https://www.geo.tv/latest/653168-burden-of-proximity"
       },
@@ -153,36 +155,28 @@
       {
         "title": "Ed Sheeran, Chris Hemsworth face off: Who won?",
         "link": "https://www.geo.tv/latest/653163-ed-sheeran-chris-hemsworth-face-off-who-won"
-      },
-      {
-        "title": "‘Back to the Future' actor Crispin Glover accused of severe crimes",
-        "link": "https://www.geo.tv/latest/653162-back-to-the-future-actor-crispin-glover-accused-of-severe-crimes"
-      },
-      {
-        "title": "Eiza González advocates ‘honouring your body' in new post",
-        "link": "https://www.geo.tv/latest/653161-eiza-gonzlez-advocates-honouring-your-body-in-new-post"
       }
     ],
     "NDTV": [
       {
-        "title": "Columbia Student Detained By US Immigration Agents Released After Mamdani Meets Trump",
-        "link": "https://www.ndtv.com/world-news/ellie-aghayeva-columbia-student-detained-by-us-immigration-agents-released-after-mamdani-meets-trump-11142930#publisher=newsstand"
+        "title": "Expelled From AIADMK, Panneerselvam Joins Rival DMK Ahead Of Assembly Polls",
+        "link": "https://www.ndtv.com/tamil-nadu-news/ops-panneerselvam-expelled-from-aiadmk-reaches-dmk-office-to-join-party-tamil-nadu-assembly-elections-11143248#publisher=newsstand"
       },
       {
-        "title": "'Pak Will Crush Aggressive Ambitions': Shehbaz Sharif Warns Afghanistan",
-        "link": "https://www.ndtv.com/world-news/afghanistan-pakistan-war-pak-will-crush-aggressive-ambitions-shehbaz-sharif-warns-afghanistan-11143028#publisher=newsstand"
+        "title": "No, Pakistan Did Not Lose Another F-16 Fighter. Afghan's Big Claim Debunked",
+        "link": "https://www.ndtv.com/world-news/afghanistan-pakistan-war-news-pakistans-f-16-fighter-jet-shot-down-kabuls-big-claim-11143030#publisher=newsstand"
       },
       {
-        "title": "Pak Declares \"Open War\", Bombs Kabul After Afghan Attack, Claims 133 Killed",
-        "link": "https://www.ndtv.com/world-news/pak-declares-open-war-bombs-kabul-kandahar-after-afghanistan-attacks-11142824#publisher=newsstand"
+        "title": "Grok Says Fake Video After Afghanistan Claims It Downed Pak Fighter Jet",
+        "link": "https://www.ndtv.com/world-news/video-afghanistan-shares-wreckage-of-pakistan-precious-white-elephant-f-16-11143091#publisher=newsstand"
       },
       {
-        "title": "26-Year-Old Nepali Woman Allegedly Gang-Raped In Gurugram, 1 Arrested",
-        "link": "https://www.ndtv.com/gurgaon-news/26-year-old-nepali-woman-allegedly-gang-raped-in-gurugram-1-arrested-11142952#publisher=newsstand"
+        "title": "Video: Targeting Cameras Record Pak Airstrikes On Afghanistan",
+        "link": "https://www.ndtv.com/world-news/video-targeting-cameras-record-pakistani-airstrikes-on-afghanistan-11143185#publisher=newsstand"
       },
       {
-        "title": "9 Arrested In Rs 1,500-Crore Multi-States Cyber Fraud Case",
-        "link": "https://www.ndtv.com/india-news/9-arrested-in-rs-1-500-crore-multi-states-cyber-fraud-case-11142909#publisher=newsstand"
+        "title": "Justice Dharmadhikari, Who Heard 'Kerala Story 2' Case, Gets A Promotion",
+        "link": "https://www.ndtv.com/india-news/justice-dharmadhikari-who-heard-kerala-story-2-case-gets-a-promotion-to-become-chief-justice-of-madras-high-court-11143169#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-27 04:27 UTC"
+  "last_updated": "2026-02-27 05:36 UTC"
 }
