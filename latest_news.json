@@ -2,16 +2,12 @@
   "breaking": [
     {
       "source": "AlJazeera",
-      "title": "LIVE: Kabul bombed as Pakistan declares ‘open war’ on Afghanistan",
+      "title": "LIVE: Pakistan declares ‘open war’ on Afghanistan, fighter jets bomb Kabul",
       "link": "https://www.aljazeera.com/news/liveblog/2026/2/27/live-kabul-bombed-as-pakistan-declares-open-war-on-afghanistan?traffic_source=rss"
     }
   ],
   "news": {
     "BBC": [
-      {
-        "title": "Chris Mason: Gorton and Denton by-election could be a three-way tussle",
-        "link": "https://www.bbc.com/news/articles/cvg3qg20544o?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
         "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss"
@@ -25,13 +21,21 @@
         "link": "https://www.bbc.com/news/articles/cge82vq9x9ro?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
+        "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "UK winter nowhere near a record breaker despite floods and storms",
         "link": "https://www.bbc.com/weather/articles/c1e9d20pg2lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "LIVE: Kabul bombed as Pakistan declares ‘open war’ on Afghanistan",
+        "title": "Russia-Ukraine war: List of key events, day 1,464",
+        "link": "https://www.aljazeera.com/news/2026/2/27/russia-ukraine-war-list-of-key-events-day-1464?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Pakistan declares ‘open war’ on Afghanistan, fighter jets bomb Kabul",
         "link": "https://www.aljazeera.com/news/liveblog/2026/2/27/live-kabul-bombed-as-pakistan-declares-open-war-on-afghanistan?traffic_source=rss"
       },
       {
@@ -45,10 +49,6 @@
       {
         "title": "Cuba says speedboat attackers from Florida planned to destabilise country",
         "link": "https://www.aljazeera.com/news/2026/2/26/cuba-says-speedboat-attackers-from-florida-planned-to-destabilise-country?traffic_source=rss"
-      },
-      {
-        "title": "Why are many Western leaders visiting China?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/2/26/why-are-many-western-leaders-visiting-china?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,12 +76,12 @@
     ],
     "Dawn": [
       {
-        "title": "Tax authorities can raid without notice, FCC rules",
-        "link": "https://www.dawn.com/news/1976046/tax-authorities-can-raid-without-notice-fcc-rules"
+        "title": "Forces repel ‘miscalculated’ attacks by Afghan Taliban",
+        "link": "https://www.dawn.com/news/1976050/forces-repel-miscalculated-attacks-by-afghan-taliban"
       },
       {
-        "title": "Strikes in Afghanistan carried out to ensure safety of Pakistani citizens, prevent imminent terrorist attacks: FO",
-        "link": "https://www.dawn.com/news/1975910/strikes-in-afghanistan-carried-out-to-ensure-safety-of-pakistani-citizens-prevent-imminent-terrorist-attacks-fo"
+        "title": "Tax authorities can raid without notice, FCC rules",
+        "link": "https://www.dawn.com/news/1976046/tax-authorities-can-raid-without-notice-fcc-rules"
       },
       {
         "title": "Fuel cost adjustment row erupts over PM’s power package",
@@ -92,12 +92,20 @@
         "link": "https://www.dawn.com/news/1976044/govt-to-eradicate-terrorism-at-all-costs-vows-pm"
       },
       {
-        "title": "India thrash Zimbabwe in T20 World Cup; South Africa reserve spot in semi-finals",
-        "link": "https://www.dawn.com/news/1975920/india-thrash-zimbabwe-in-t20-world-cup-south-africa-reserve-spot-in-semi-finals"
+        "title": "Taliban expand executions, deepen repression: UN",
+        "link": "https://www.dawn.com/news/1976070/taliban-expand-executions-deepen-repression-un"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Regime Change in Cuba Appeals to Trump but Carries Risks",
+        "link": "https://www.nytimes.com/2026/02/26/us/politics/trump-cuba-regime-change.html"
+      },
+      {
+        "title": "After a Speedboat Shootout in Cuba, There are More Questions Than Answers",
+        "link": "https://www.nytimes.com/2026/02/26/world/americas/cuba-gunfight-boat-miami.html"
+      },
       {
         "title": "Netflix Backs Out of Bid for Warner Bros., Paving Way for Paramount Takeover",
         "link": "https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html"
@@ -109,14 +117,6 @@
       {
         "title": "How a Close Associate of Epstein’s Found Career Redemption in Japan",
         "link": "https://www.nytimes.com/2026/02/26/business/jeffrey-epstein-joichi-ito-japan.html"
-      },
-      {
-        "title": "World Economic Forum Chief Resigns Over Epstein Ties",
-        "link": "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html"
-      },
-      {
-        "title": "Trump Declared Victory in Minneapolis. But What Did He Accomplish?",
-        "link": "https://www.nytimes.com/2026/02/26/us/politics/trump-minneapolis-ice-immigration.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,6 +143,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Burden of proximity",
+        "link": "https://www.geo.tv/latest/653168-burden-of-proximity"
+      },
+      {
+        "title": "Prince William and Princess Kate receive new title as they delight kids",
+        "link": "https://www.geo.tv/latest/653167-prince-william-and-princess-kate-receive-new-title-as-they-delight-kids"
+      },
+      {
         "title": "Ed Sheeran, Chris Hemsworth face off: Who won?",
         "link": "https://www.geo.tv/latest/653163-ed-sheeran-chris-hemsworth-face-off-who-won"
       },
@@ -153,14 +161,6 @@
       {
         "title": "Eiza González advocates ‘honouring your body' in new post",
         "link": "https://www.geo.tv/latest/653161-eiza-gonzlez-advocates-honouring-your-body-in-new-post"
-      },
-      {
-        "title": "Princess Kate shares special necklace moment with fans",
-        "link": "https://www.geo.tv/latest/653159-princess-kate-shares-special-necklace-moment-with-fans"
-      },
-      {
-        "title": "Sylvester Stallone remembers tough training for ‘Rocky'",
-        "link": "https://www.geo.tv/latest/653157-sylvester-stallone-remembers-tough-training-for-rocky"
       }
     ],
     "NDTV": [
@@ -169,20 +169,20 @@
         "link": "https://www.ndtv.com/world-news/ellie-aghayeva-columbia-student-detained-by-us-immigration-agents-released-after-mamdani-meets-trump-11142930#publisher=newsstand"
       },
       {
-        "title": "Pak Declares \"Open War\", Bombs Kabul, Kandahar After Afghanistan Attack",
+        "title": "'Pak Will Crush Aggressive Ambitions': Shehbaz Sharif Warns Afghanistan",
+        "link": "https://www.ndtv.com/world-news/afghanistan-pakistan-war-pak-will-crush-aggressive-ambitions-shehbaz-sharif-warns-afghanistan-11143028#publisher=newsstand"
+      },
+      {
+        "title": "Pak Declares \"Open War\", Bombs Kabul After Afghan Attack, Claims 133 Killed",
         "link": "https://www.ndtv.com/world-news/pak-declares-open-war-bombs-kabul-kandahar-after-afghanistan-attacks-11142824#publisher=newsstand"
       },
       {
-        "title": "How Google Exposed Chinese Spy Network That Targeted Victims In 42 Countries",
-        "link": "https://www.ndtv.com/world-news/unc2814-gallium-how-google-exposed-chinese-spy-network-that-targeted-victims-in-42-countries-11139902#publisher=newsstand"
+        "title": "26-Year-Old Nepali Woman Allegedly Gang-Raped In Gurugram, 1 Arrested",
+        "link": "https://www.ndtv.com/gurgaon-news/26-year-old-nepali-woman-allegedly-gang-raped-in-gurugram-1-arrested-11142952#publisher=newsstand"
       },
       {
-        "title": "\"Intelligence Tools Have Changed\": Jack Dorsey's Block Cuts Over 4,000 Jobs Amid AI Boom",
-        "link": "https://www.ndtv.com/world-news/jack-dorseys-block-to-cut-over-4-000-jobs-as-ai-use-expands-11142872#publisher=newsstand"
-      },
-      {
-        "title": "\"Cannot In Good Conscience\": Anthropic Rejects Pentagon's Demands",
-        "link": "https://www.ndtv.com/world-news/anthropic-ceo-turns-down-pentagons-demands-says-ai-company-cannot-in-good-conscience-accede-to-them-11142800#publisher=newsstand"
+        "title": "9 Arrested In Rs 1,500-Crore Multi-States Cyber Fraud Case",
+        "link": "https://www.ndtv.com/india-news/9-arrested-in-rs-1-500-crore-multi-states-cyber-fraud-case-11142909#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-27 02:47 UTC"
+  "last_updated": "2026-02-27 04:27 UTC"
 }
