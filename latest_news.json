@@ -1,16 +1,18 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Pakistan vs Sri Lanka – T20 World Cup Super Eights",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/28/live-pakistan-vs-sri-lanka-t20-world-cup-super-eights?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "What we know about the joint US-Israel attack on Iran",
+        "title": "What we know so far",
         "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bowen: A dangerous moment, but US and Israel see opportunity not to be missed",
+        "link": "https://www.bbc.com/news/articles/cn0z9012291o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
+        "link": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Starmer chairs Cobra meeting over US-Israeli strikes on Iran",
@@ -19,36 +21,28 @@
       {
         "title": "Polanski and Farage don't agree. But they have more in common than you might think",
         "link": "https://www.bbc.com/news/articles/cd037p0z1gxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The third man who links Andrew with Jeffrey Epstein",
-        "link": "https://www.bbc.com/news/articles/c98gne0z0rxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
-        "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Al Jazeera reporter on the streets of Tehran as missiles hit the city",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/al-jazeera-reporter-on-the-streets-of-tehran-as-missiles-hit-the-city?traffic_source=rss"
+      },
+      {
+        "title": "Airspace closed, airlines halt flights as US, Israel attack, Iran responds",
+        "link": "https://www.aljazeera.com/news/2026/2/28/airspace-closed-airlines-halt-flights-as-us-israel-attack-iran-responds?traffic_source=rss"
+      },
+      {
+        "title": "US, Israel bomb Iran: A timeline of talks and threats leading up to attacks",
+        "link": "https://www.aljazeera.com/news/2026/2/28/us-israel-bomb-iran-a-timeline-of-talks-and-threats-leading-up-to-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Kazakhstan’s train hospital brings healthcare to remote regions",
+        "link": "https://www.aljazeera.com/video/101-east/2026/2/28/kazakhstans-train-hospital-brings-healthcare-to-remote-regions?traffic_source=rss"
+      },
+      {
         "title": "Multiple Gulf Arab states that host US assets targeted in Iran retaliation",
         "link": "https://www.aljazeera.com/news/2026/2/28/multiple-gulf-arab-states-that-host-us-assets-targeted-in-iran-retaliation?traffic_source=rss"
-      },
-      {
-        "title": "Moment of Iran strike on US military base in Bahrain",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/moment-of-iran-strike-on-us-military-base-in-bahrain?traffic_source=rss"
-      },
-      {
-        "title": "Emergency alert interrupts Al Jazeera broadcast before attack in Qatar",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/emergency-alert-interrupts-al-jazeera-broadcast-before-attack-in-qatar?traffic_source=rss"
-      },
-      {
-        "title": "Iran strikes US military base in Bahrain as explosions heard across Gulf",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/iran-strikes-us-military-base-in-bahrain-as-explosions-heard-across-gulf?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Pakistan vs Sri Lanka – T20 World Cup Super Eights",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/28/live-pakistan-vs-sri-lanka-t20-world-cup-super-eights?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,14 @@
     ],
     "Dawn": [
       {
+        "title": "Dar strongly condemns ‘unwarranted attacks’ against Iran in phone call with FM Araghchi",
+        "link": "https://www.dawn.com/news/1976494/dar-strongly-condemns-unwarranted-attacks-against-iran-in-phone-call-with-fm-araghchi"
+      },
+      {
+        "title": "PIA suspends operations to Gulf countries following strikes on Iran by Israel, US",
+        "link": "https://www.dawn.com/news/1976493/pia-suspends-operations-to-gulf-countries-following-strikes-on-iran-by-israel-us"
+      },
+      {
         "title": "PTA urges citizens to avoid sharing ‘unverified, inflammatory’ information amid heightened geopolitical tensions",
         "link": "https://www.dawn.com/news/1976446/pta-urges-citizens-to-avoid-sharing-unverified-inflammatory-information-amid-heightened-geopolitical-tensions"
       },
@@ -86,14 +88,6 @@
       {
         "title": "Trump directs US agencies to toss Anthropic’s AI as Pentagon calls startup a supply risk",
         "link": "https://www.dawn.com/news/1976371/trump-directs-us-agencies-to-toss-anthropics-ai-as-pentagon-calls-startup-a-supply-risk"
-      },
-      {
-        "title": "Written reasons must for offloading passengers, rules LHC",
-        "link": "https://www.dawn.com/news/1976348/written-reasons-must-for-offloading-passengers-rules-lhc"
-      },
-      {
-        "title": "FBR forms committee to address taxpayers’ concerns",
-        "link": "https://www.dawn.com/news/1976347/fbr-forms-committee-to-address-taxpayers-concerns"
       }
     ],
     "APNews": [],
@@ -121,46 +115,46 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Retired teacher in Tehran: 'I have never seen a war lead to anything good'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/retired-teacher-tehran-i-have-never-seen-war-lead-anything-good"
+        "title": "Death toll from air strike on Iranian girls school rises to 51",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-air-strike-iranian-girls-school-rises-51"
       },
       {
-        "title": "In photos: Israelis flee to shelters amid Iranian retaliatory strikes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/photos-israelis-flee-shelters-amid-iranian-retaliatory-strikes"
+        "title": "Four people killed in Syria by Iranian missile, says state media",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-people-killed-syria-iranian-missile-says-state-media"
       },
       {
-        "title": "Iranian strike hits runway at Kuwait base hosting Italian troops",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-strike-hits-runway-kuwait-base-hosting-italian-troops"
+        "title": "Russia's Lavrov condemns strikes on Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russias-lavrov-condemns-strikes-iran"
       },
       {
-        "title": "Kurdish-Iranian separatist group welcomes US and Israel attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kurdish-iranian-separatist-group-welcomes-us-and-israel-attacks"
+        "title": "Kurdish-Iranian group 'trying to turn current situation into an opportunity'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kurdish-iranian-group-trying-turn-current-situation-opportunity"
       },
       {
-        "title": "Which Iranian officials have been targeted?",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/which-iranian-officials-have-been-targeted"
+        "title": "Watch live: Trump strikes Iran - what now?",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-live-trump-strikes-iran-what-now"
       }
     ],
     "GeoTV": [
       {
-        "title": "Liam Payne fans question Kate Cassidy's 'loyalty' with late singer",
-        "link": "https://www.geo.tv/latest/653398-liam-payne-fans-question-kate-cassidys-loyalty-with-late-singer"
+        "title": "Michael Jackson's estate hit with serious allegations from family",
+        "link": "https://www.geo.tv/latest/653406-michael-jacksons-estate-hit-with-serious-allegations-from-family"
       },
       {
-        "title": "Amazon signs $50 billion deal with OpenAI to optimise AI infrastructure for AWS users",
-        "link": "https://www.geo.tv/latest/653401-amazon-signs-50-billion-deal-with-openai-to-optimise-ai-infrastructure-for-aws-users"
+        "title": "Christopher Nolan shares honest opinion about 'Fast & Furious' movies",
+        "link": "https://www.geo.tv/latest/653405-christopher-nolan-shares-honest-opinion-about-fast-furious-movies"
       },
       {
-        "title": "Rihanna's night unfolds in ways fans did not expect",
-        "link": "https://www.geo.tv/latest/653368-rihannas-night-unfolds-in-ways-fans-did-not-expect"
+        "title": "Pakistan condemns unwarranted attacks against Iran, calls for halt to escalation",
+        "link": "https://www.geo.tv/latest/653409-pakistan-condemns-unwarranted-attacks-against-iran-calls-for-halt-to-escalation"
       },
       {
-        "title": "Sydney Sweeney brings Hollywood energy to a football stadium in Lisbon",
-        "link": "https://www.geo.tv/latest/653397-sydney-sweeney-brings-hollywood-energy-to-a-football-stadium-in-lisbon"
+        "title": "Prince William, Kate take reins to steer monarchy through stormy waters",
+        "link": "https://www.geo.tv/latest/653350-prince-william-kate-take-reins-to-steer-monarchy-through-stormy-waters"
       },
       {
-        "title": "OpenAI working with Pentagon after Trump banned Anthropic from agencies",
-        "link": "https://www.geo.tv/latest/653396-openai-working-with-pentagon-after-trump-banned-anthropic-from-agencies"
+        "title": "THIS game-changing Galaxy S26 feature sure to make iPhone 17 users envy",
+        "link": "https://www.geo.tv/latest/653402-this-killer-galaxy-s26-feature-is-to-make-iphone-17-envy"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-28 11:54 UTC"
+  "last_updated": "2026-02-28 12:42 UTC"
 }
