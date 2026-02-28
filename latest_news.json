@@ -9,12 +9,8 @@
   "news": {
     "BBC": [
       {
-        "title": "What we know so far",
+        "title": "What we know about the joint US-Israel attack on Iran",
         "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Smoke rises in Tehran as explosions heard across country",
-        "link": "https://www.bbc.com/news/videos/clyx9eprwreo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Mahmood to press on with immigration reforms despite by-election defeat",
@@ -27,13 +23,13 @@
       {
         "title": "The mystery man who links Andrew with Jeffrey Epstein",
         "link": "https://www.bbc.com/news/articles/c98gne0z0rxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
+        "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
-      {
-        "title": "US and Israel attack Iran: What we know so far",
-        "link": "https://www.aljazeera.com/news/2026/2/28/us-and-israel-attack-iran-what-we-know-so-far?traffic_source=rss"
-      },
       {
         "title": "OpenAI strikes deal with Pentagon to use tech in ‘classified network’",
         "link": "https://www.aljazeera.com/news/2026/2/28/openai-strikes-deal-with-pentagon-to-use-tech-in-classified-network?traffic_source=rss"
@@ -49,6 +45,10 @@
       {
         "title": "How Serbia’s President Aleksandar Vucic sees the world",
         "link": "https://www.aljazeera.com/features/2026/2/28/how-serbias-president-aleksandar-vucic-sees-the-world?traffic_source=rss"
+      },
+      {
+        "title": "Trump says “major combat operations” in Iran have begun",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/trump-says-major-combat-operations-in-iran-have-begun?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -103,6 +103,10 @@
         "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html"
       },
       {
+        "title": "An attack on Iran carries risks for the U.S., experts say.",
+        "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/iran-attack-us-risk"
+      },
+      {
         "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
         "link": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
       },
@@ -113,13 +117,17 @@
       {
         "title": "Pentagon-Anthropic Standoff Is a Decisive Moment for How A.I. Will Be Used in War",
         "link": "https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html"
-      },
-      {
-        "title": "Silicon Valley Rallies Behind Anthropic in A.I. Clash With Trump",
-        "link": "https://www.nytimes.com/2026/02/27/technology/anthropic-trump-pentagon-silicon-valley.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Eyewitness: Explosions rock Tehran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eyewitness-explosions-rock-tehran"
+      },
+      {
+        "title": "Qatar says it intercepted all missiles as Gulf reports explosions",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-it-intercepted-all-missiles-gulf-reports-explosions"
+      },
       {
         "title": "Abu Dhabi rocked by explosion as Iran issues warning",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/abu-dhabi-rocked-explosion-iran-issues-warning"
@@ -131,14 +139,6 @@
       {
         "title": "Explosions heard in Bahrain, local media reports",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/exlopsions-heard-bahrain-local-media-reports"
-      },
-      {
-        "title": "NYT: Israel to hit missiles, US to target Iran nuclear sites and key figures",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nyt-israel-hit-missiles-us-target-iran-nuclear-sites-and-key-figures"
-      },
-      {
-        "title": "Iranian missile downed using Patriot system, says Qatar",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-missile-downed-using-patriot-system-says-qatar"
       }
     ],
     "GeoTV": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-28 09:35 UTC"
+  "last_updated": "2026-02-28 09:52 UTC"
 }
