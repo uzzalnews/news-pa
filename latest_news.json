@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Israel Attacks Iran LIVE Updates: 85 Students Die In Strike On Girls' School By US-Israel, Says Iran",
+      "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,7 +13,7 @@
         "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Panic in the streets, but relief for some: The mood in Iran",
+        "title": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
         "link": "https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Mapping US and Israeli attacks on Iran and Tehran’s retaliatory strikes",
+        "link": "https://www.aljazeera.com/news/2026/2/28/mapping-us-and-israeli-attacks-on-iran-and-tehrans-retaliatory-strikes?traffic_source=rss"
+      },
+      {
+        "title": "Backpacks, schoolbooks seen amid rubble of Iranian girls’ school",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/backpacks-schoolbooks-seen-amid-rubble-of-iranian-girls-school?traffic_source=rss"
+      },
+      {
+        "title": "The fantasy of an easy victory in the war on Iran",
+        "link": "https://www.aljazeera.com/opinions/2026/2/28/the-fantasy-of-an-easy-victory-in-the-war-on-iran?traffic_source=rss"
+      },
+      {
         "title": "Scenes of destruction in Iran after US-Israeli strikes",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/scenes-of-destruction-in-iran-after-us-israeli-strikes?traffic_source=rss"
       },
       {
         "title": "Inside Israel’s ‘normal’: Triumphalism and calm mix after attack on Iran",
         "link": "https://www.aljazeera.com/news/2026/2/28/inside-israels-normal-triumphalism-and-calm-mix-after-attack-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Over 50 killed in strike on girls’ elementary school in Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/over-50-killed-in-strike-on-girls-elementary-school-in-iran?traffic_source=rss"
-      },
-      {
-        "title": "World reacts to US, Israel attack on Iran, Tehran retaliation",
-        "link": "https://www.aljazeera.com/news/2026/2/28/world-reacts-to-us-israel-attack-on-iran-tehran-retaliation?traffic_source=rss"
-      },
-      {
-        "title": "Arsenal vs Chelsea: Premier League – preview, team news, start, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/2/28/arsenal-vs-chelsea-premier-league-preview-team-news-start-lineups?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,10 +103,6 @@
         "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-reaction-us-attack-tehran.html"
       },
       {
-        "title": "What to Know About the U.S. Attacks on Iran",
-        "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html"
-      },
-      {
         "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
         "link": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
       },
@@ -111,72 +113,76 @@
       {
         "title": "Taiwan Arms Sale Approved by Congress Is Delayed as Trump Plans Visit to Beijing",
         "link": "https://www.nytimes.com/2026/02/27/us/politics/trump-taiwan-arms-sale.html"
+      },
+      {
+        "title": "Pentagon Watchdog Stalls Proposal to Review Targeting in Trump’s Boat Strikes",
+        "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-boat-strikes-pentagon.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "IRGC says 'no ship allowed to pass Strait of Hormuz', according to EU official",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-no-ship-allowed-pass-strait-hormuz-according-eu-official"
+        "title": "Video: Fire erupts at hotel in Dubai's Palm",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-fire-erupts-hotel-dubais-palm"
       },
       {
-        "title": "'This will be a long war with unimaginable consequences,' says Walid Joumblatt",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/will-be-long-war-unimaginable-consequences-says-walid-joumblatt"
+        "title": "Jordan says it intercepted 13 ballistic missiles, downs drones",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-says-it-intercepted-13-ballistic-missiles-downs-drones"
       },
       {
-        "title": "Death toll from attack on Iranian girls school rises to 85, says judiciary",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-attack-iranian-girls-school-rises-85-says-judiciary"
+        "title": "All US, Israeli assets in region are legitimate military targets, Iran tells UN",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/all-us-israeli-assets-region-are-legitimate-military-targets-iran-tells"
       },
       {
-        "title": "Khamenei is alive 'as far as I know', says minister amid reports of his killing",
-        "link": "https://www.middleeasteye.net/news/iran-khamenei-alive-far-i-know-says-foreign-minister-after-us-israel-strikes"
+        "title": "Hezbollah expresses 'solidarity' with Iran but doesn't say if it will act",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-expresses-solidarity-iran-doesnt-say-if-it-will-act"
       },
       {
-        "title": "Eyewitness tells MEE girls aged seven to 12 seen lying dead across school",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eyewitness-tells-mee-girls-aged-seven-12-seen-lying-dead-across-school"
+        "title": "UK 'forces are active' and British planes involved in 'defensive operations' in Middle East",
+        "link": "https://www.middleeasteye.net/news/uk-forces-are-active-and-british-planes-involved-defensive-operations-middle-east"
       }
     ],
     "GeoTV": [
       {
-        "title": "Meghan Markle's £14 bookmark breaks the internet",
-        "link": "https://www.geo.tv/latest/653415-meghan-markles-14-bookmark-breaks-the-internet"
+        "title": "Bruno Mars leaves wedding bells ringing after releasing 'The Romantic'",
+        "link": "https://www.geo.tv/latest/653443-bruno-mars-leaves-wedding-bells-ringing-after-releasing-the-romantic"
       },
       {
-        "title": "'Scream' movies: Don't miss these must re-watch moments",
-        "link": "https://www.geo.tv/latest/653436-scream-movies-dont-miss-these-must-re-watch-moments"
+        "title": "William's coronation oath: Will it change Britain forever?",
+        "link": "https://www.geo.tv/latest/653442-williams-coronation-oath-will-it-change-britain-forever"
       },
       {
-        "title": "How Margot Robbie's old neighborhood inspires Raye's new song",
-        "link": "https://www.geo.tv/latest/653427-how-margot-robbies-old-neighborhood-inspires-rayes-new-song"
+        "title": "Bitcoin slides down $64,000 as Iran conflicts sends investors fleeing to safety",
+        "link": "https://www.geo.tv/latest/653446-bitcoin-slides-down-64000-as-iran-conflicts-sends-investors-fleeing-to-safety"
       },
       {
-        "title": "Pakistani national killed in Iranian missile strikes on UAE: diplomatic officials",
-        "link": "https://www.geo.tv/latest/653426-pakistani-national-killed-in-iranian-missile-strikes-on-uae-diplomatic-officials"
+        "title": "Ethan Hawke calls latest Oscar nod gratifying career milestone",
+        "link": "https://www.geo.tv/latest/653441-ethan-hawke-calls-latest-oscar-nod-gratifying-career-milestone"
       },
       {
-        "title": "Xiaomi 17 Ultra launched along with AirTag-like tracker, Xiaomi Watch 5 ahead of MWC 2026",
-        "link": "https://www.geo.tv/latest/653434-xiaomi-17-ultra-launched-along-with-airtag-like-tracker-xiaomi-watch-5-ahead-of-mwc-2026"
+        "title": "Katherine Schwarzenegger shares the ONE message that changed her life forever",
+        "link": "https://www.geo.tv/latest/653444-katherine-schwarzenegger-shares-the-one-message-that-changed-her-life-forever"
       }
     ],
     "NDTV": [
       {
-        "title": "Khamenei Dead Or Alive? Israeli Claim Meets Iran's \"As Far As I Know\" Reply",
-        "link": "https://www.ndtv.com/world-news/iran-news-ayatollah-ali-khamenei-dead-or-alive-still-alive-says-iran-minister-as-israel-media-claims-he-may-be-killed-11150560#publisher=newsstand"
+        "title": "Explosion At The Palm In Dubai, Smoke Seen Rising From Building",
+        "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-news-explosion-at-the-palm-in-dubai-smoke-seen-rising-from-hotel-11150960#publisher=newsstand"
       },
       {
-        "title": "Burj Khalifa Evacuated As Israel-Iran Conflict Reaches Dubai: Reports",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-strikes-live-updates-burj-khalifa-evacuated-as-israel-iran-conflict-reaches-dubais-doorstep-11150407#publisher=newsstand"
+        "title": "Video Shows Iranian Shahed Drone Striking Dubai, Huge Explosion",
+        "link": "https://www.ndtv.com/world-news/dubai-news-dubai-explosion-video-shows-iranian-shahed-drone-striking-dubai-huge-explosion-11151063#publisher=newsstand"
       },
       {
-        "title": "Indian Nationals Take Shelter Inside Israeli Bunkers Amid Iran Missile Threat",
-        "link": "https://www.ndtv.com/world-news/iran-attacks-israel-israel-attacks-iran-dubai-abu-dhabi-uae-bahrain-middle-east-indian-nationals-take-shelter-inside-israeli-bunkers-amid-iran-missile-11150495#publisher=newsstand"
+        "title": "18 Killed In Massive Explosion At Andhra Fireworks Factory",
+        "link": "https://www.ndtv.com/india-news/18-killed-in-massive-explosion-at-andhra-fireworks-factory-11151004#publisher=newsstand"
       },
       {
-        "title": "A Count Of Iran's Missile Arsenal And How Many Can Reach All Of Israel",
-        "link": "https://www.ndtv.com/world-news/a-count-of-irans-missile-arsenal-and-how-many-can-reach-israel-5-points-11150626#publisher=newsstand"
+        "title": "Trump Was Told Iran Attack Was 'High Risk, High Reward' Ahead Of Strikes",
+        "link": "https://www.ndtv.com/world-news/israel-attacks-iran-trump-was-told-iran-attack-was-high-risk-high-reward-ahead-of-strikes-11150957#publisher=newsstand"
       },
       {
-        "title": "What Preliminary Report On Plane Crash That Killed Ajit Pawar Found",
-        "link": "https://www.ndtv.com/india-news/what-preliminary-report-on-plane-crash-that-killed-ajit-pawar-found-11150691#publisher=newsstand"
+        "title": "US-Israel Attacks Iran LIVE Updates: 85 Students Die In Strike On Girls' School By US-Israel, Says Iran",
+        "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-28 15:58 UTC"
+  "last_updated": "2026-02-28 16:36 UTC"
 }
