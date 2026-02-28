@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Israel Attacks Iran LIVE Updates: Signs Khamenei Has Been Killed, Says Israel PM Netanyahu",
-      "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Trump: ‘Khamenei is dead’, no official Iranian confirmation",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-khamenei-dead-no-official-iranian-confirmation"
+      },
+      {
         "title": "Missile strike in Tel Aviv injures 21",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-strike-tel-aviv-injures-21"
       },
@@ -135,10 +133,6 @@
       {
         "title": "Explosion rocks central Israel after Iran missile barrage",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-rocks-central-israel-after-iran-missile-barrage"
-      },
-      {
-        "title": "Qatar says eight injured by falling missile debris",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-eight-injured-falling-missile-debris"
       }
     ],
     "GeoTV": [
@@ -165,6 +159,14 @@
     ],
     "NDTV": [
       {
+        "title": "\"Khamenei, One Of The Most Evil People In History, Is Dead\": Donald Trump",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-attacks-israel-dubai-uae-bahrain-netanyahu-tehran-feel-thats-correct-trump-on-reports-claiming-irans-khamenei-is-dead-11151885#publisher=newsstand"
+      },
+      {
+        "title": "Lift Plunges From Bhopal Building Days After Body Found In Shaft, 2 Injured",
+        "link": "https://www.ndtv.com/india-news/bhopal-lift-collapse-11151846#publisher=newsstand"
+      },
+      {
         "title": "Photo Of Khamenei's Body Shown To Trump, Netanyahu: Israeli Media",
         "link": "https://www.ndtv.com/world-news/two-israeli-tv-networks-report-photo-of-khameneis-body-shown-to-trump-netanyahu-11151731#publisher=newsstand"
       },
@@ -175,14 +177,6 @@
       {
         "title": "Man Killed, Body Burnt And Buried Over Land Dispute In Gujarat's Morbi",
         "link": "https://www.ndtv.com/india-news/morbi-cops-unearth-charred-remains-of-man-buried-by-family-execution-squad-11151689#publisher=newsstand"
-      },
-      {
-        "title": "Ahead Of Iran Attack, CIA Assessed Khamenei Would Be Replaced If Killed",
-        "link": "https://www.ndtv.com/world-news/ahead-of-iran-attack-cia-assessed-khamenei-would-be-replaced-if-killed-11151624#publisher=newsstand"
-      },
-      {
-        "title": "US-Israel Attacks Iran LIVE Updates: Signs Khamenei Has Been Killed, Says Israel PM Netanyahu",
-        "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-28 21:45 UTC"
+  "last_updated": "2026-02-28 21:56 UTC"
 }
