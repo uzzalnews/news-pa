@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Barcelona vs Villarreal – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/28/live-barcelona-vs-villarreal-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "India vs West Indies: T20 World Cup Super Eights – teams, start, lineups",
+        "link": "https://www.aljazeera.com/sports/2026/2/28/india-vs-west-indies-t20-world-cup-super-eights-teams-start-lineups?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Barcelona vs Villarreal – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/2/28/live-barcelona-vs-villarreal-la-liga?traffic_source=rss"
+      },
+      {
+        "title": "Israeli defence system intercepts Iranian missiles over Haifa",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/israeli-defence-system-intercepts-iranian-missiles-over-haifa?traffic_source=rss"
+      },
+      {
         "title": "Al Jazeera reporter on the streets of Tehran as missiles hit the city",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/al-jazeera-reporter-on-the-streets-of-tehran-as-missiles-hit-the-city?traffic_source=rss"
       },
       {
         "title": "Airspace closed, airlines halt flights as US, Israel attack, Iran responds",
         "link": "https://www.aljazeera.com/news/2026/2/28/airspace-closed-airlines-halt-flights-as-us-israel-attack-iran-responds?traffic_source=rss"
-      },
-      {
-        "title": "US, Israel bomb Iran: A timeline of talks and threats leading up to attacks",
-        "link": "https://www.aljazeera.com/news/2026/2/28/us-israel-bomb-iran-a-timeline-of-talks-and-threats-leading-up-to-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Kazakhstan’s train hospital brings healthcare to remote regions",
-        "link": "https://www.aljazeera.com/video/101-east/2026/2/28/kazakhstans-train-hospital-brings-healthcare-to-remote-regions?traffic_source=rss"
-      },
-      {
-        "title": "Multiple Gulf Arab states that host US assets targeted in Iran retaliation",
-        "link": "https://www.aljazeera.com/news/2026/2/28/multiple-gulf-arab-states-that-host-us-assets-targeted-in-iran-retaliation?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/1976494/dar-strongly-condemns-unwarranted-attacks-against-iran-in-phone-call-with-fm-araghchi"
       },
       {
+        "title": "Information ministry rubbishes claim about Pakistani jet being shot down in Afghanistan’s Nangarhar",
+        "link": "https://www.dawn.com/news/1976509/information-ministry-rubbishes-claim-about-pakistani-jet-being-shot-down-in-afghanistans-nangarhar"
+      },
+      {
         "title": "PIA suspends operations to Gulf countries following strikes on Iran by Israel, US",
         "link": "https://www.dawn.com/news/1976493/pia-suspends-operations-to-gulf-countries-following-strikes-on-iran-by-israel-us"
       },
@@ -84,10 +94,6 @@
       {
         "title": "Taliban now ‘amenable to talks’ as world urges de-escalation",
         "link": "https://www.dawn.com/news/1976349/taliban-now-amenable-to-talks-as-world-urges-de-escalation"
-      },
-      {
-        "title": "Trump directs US agencies to toss Anthropic’s AI as Pentagon calls startup a supply risk",
-        "link": "https://www.dawn.com/news/1976371/trump-directs-us-agencies-to-toss-anthropics-ai-as-pentagon-calls-startup-a-supply-risk"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Death toll from air strike on Iranian girls school rises to 51",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-air-strike-iranian-girls-school-rises-51"
+        "title": "Watch: Missile fragments fall and explode in Doha",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-missile-fragments-fall-and-explode-doha"
       },
       {
-        "title": "Four people killed in Syria by Iranian missile, says state media",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-people-killed-syria-iranian-missile-says-state-media"
+        "title": "Dubai suspends all flights at its international airports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/dubai-suspends-all-flights-its-international-airports"
       },
       {
-        "title": "Russia's Lavrov condemns strikes on Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russias-lavrov-condemns-strikes-iran"
+        "title": "'Will not go unanswered': Iran condemns air strike on girls’ school",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/will-not-go-unanswered-iran-condemns-air-strike-girls-school"
       },
       {
-        "title": "Kurdish-Iranian group 'trying to turn current situation into an opportunity'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kurdish-iranian-group-trying-turn-current-situation-opportunity"
+        "title": "UK: Reform's Farage urges entry into war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-reforms-farage-urges-entry-war"
       },
       {
-        "title": "Watch live: Trump strikes Iran - what now?",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-live-trump-strikes-iran-what-now"
+        "title": "'I just hope for a miracle,' Tehran resident tells MEE after parents home bombed",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/i-just-hope-miracle-tehran-resident-tells-mee-after-parents-home-bombed"
       }
     ],
     "GeoTV": [
       {
-        "title": "Michael Jackson's estate hit with serious allegations from family",
-        "link": "https://www.geo.tv/latest/653406-michael-jacksons-estate-hit-with-serious-allegations-from-family"
+        "title": "Apple confirms new product announcements to start March 2: See what to expect",
+        "link": "https://www.geo.tv/latest/653421-apple-confirms-new-product-announcements-to-start-march-2-see-what-to-expect"
       },
       {
-        "title": "Christopher Nolan shares honest opinion about 'Fast & Furious' movies",
-        "link": "https://www.geo.tv/latest/653405-christopher-nolan-shares-honest-opinion-about-fast-furious-movies"
+        "title": "PTA urges responsible social media use amid 'prevailing sensitive situation'",
+        "link": "https://www.geo.tv/latest/653416-pta-urges-responsible-social-media-use-amid-prevailing-sensitive-situation"
       },
       {
-        "title": "Pakistan condemns unwarranted attacks against Iran, calls for halt to escalation",
-        "link": "https://www.geo.tv/latest/653409-pakistan-condemns-unwarranted-attacks-against-iran-calls-for-halt-to-escalation"
+        "title": "Selena Gomez recalls when she broke down just before her big day",
+        "link": "https://www.geo.tv/latest/653419-selena-gomez-recalls-when-she-broke-down-just-before-her-big-day"
       },
       {
-        "title": "Prince William, Kate take reins to steer monarchy through stormy waters",
-        "link": "https://www.geo.tv/latest/653350-prince-william-kate-take-reins-to-steer-monarchy-through-stormy-waters"
+        "title": "T20 World Cup: Sri Lanka win toss, opt to bowl first against Pakistan",
+        "link": "https://www.geo.tv/latest/653413-t20-world-cup-sri-lanka-win-toss-opt-to-bowl-first-against-pakistan"
       },
       {
-        "title": "THIS game-changing Galaxy S26 feature sure to make iPhone 17 users envy",
-        "link": "https://www.geo.tv/latest/653402-this-killer-galaxy-s26-feature-is-to-make-iphone-17-envy"
+        "title": "Kendall Jenner's closet holds more than fashion secrets",
+        "link": "https://www.geo.tv/latest/653357-kendall-jenners-closet-holds-more-than-fashion-secrets"
       }
     ],
     "NDTV": [
       {
-        "title": "Tomahawks, Bunker-Busters, Ballistic Missiles: Weapons Driving Israel-Iran War",
-        "link": "https://www.ndtv.com/world-news/tomahawks-bunker-busters-ballistic-missiles-weapons-driving-israel-iran-war-11149808#publisher=newsstand"
+        "title": "Dubai International Airport, World's Busiest, Shuts Down Amid Iran Strikes",
+        "link": "https://www.ndtv.com/world-news/israel-iran-attack-iran-attacks-dubai-dubai-news-iran-attacks-abu-dhabi-dubai-international-airport-worlds-busiest-shuts-down-amid-iran-strikes-11150162#publisher=newsstand"
       },
       {
-        "title": "Tehran Hit, Gulf Rattled: Inside The Rapid Escalation Across The Middle East",
-        "link": "https://www.ndtv.com/world-news/israel-attacks-iran-dubai-abu-dhabi-tehran-doha-iran-attacks-israel-uae-israel-iran-live-updates-tehran-hit-gulf-rattled-inside-the-rapid-escalation-a-11149821#publisher=newsstand"
+        "title": "'Leave Now', 'Stay Calm': Dubai, Abu Dhabi Residents React To Iran Strikes",
+        "link": "https://www.ndtv.com/world-news/israel-attacks-iran-leave-now-stay-calm-dubai-abu-dhabi-residents-react-to-iran-strikes-11150179#publisher=newsstand"
       },
       {
-        "title": "Missile Attack On US Navy Base In Bahrain As Chaos Grips Middle East",
-        "link": "https://www.ndtv.com/world-news/israel-attack-iran-emergency-sirens-in-bahrain-which-hosts-us-navys-fifth-fleet-after-attacks-on-iran-11148981#publisher=newsstand"
+        "title": "As US-Israel Rain Fire On Iran, A 2013 Trump Post Returns To Haunt Him",
+        "link": "https://www.ndtv.com/world-news/israel-iran-strikes-news-live-updates-as-us-israel-rain-fire-on-iran-a-2013-trump-post-returns-to-haunt-him-11150043#publisher=newsstand"
       },
       {
-        "title": "Iran Supreme Leader Ayatollah Ali Khamenei Targeted In Strikes: Israel",
+        "title": "First Visual Of US-Israel Strike On Iran Supreme Leader Khamenei's Compound",
         "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-news-iran-supreme-leader-ayatollah-ali-khamenei-targeted-in-strikes-israel-11149405#publisher=newsstand"
       },
       {
-        "title": "Top Iran IRGC Commander Mohammad Pakpour Killed In Strikes: Israel",
-        "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-news-top-iran-irgc-commander-mohammad-pakpour-killed-in-strikes-israel-11149625#publisher=newsstand"
+        "title": "Israel Releases First Visuals Of Airstrikes On \"Hundreds Of Sites\" In Iran",
+        "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-news-israel-releases-first-visuals-of-airstrikes-on-hundreds-of-sites-in-iran-11149825#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-28 12:42 UTC"
+  "last_updated": "2026-02-28 13:26 UTC"
 }
