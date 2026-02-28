@@ -1,23 +1,22 @@
 {
   "breaking": [
     {
-      "source": "AlJazeera",
-      "title": "LIVE: Israel attacks Iran, US official says US took part in strikes",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/2/28/live-israel-launches-attacks-on-iran-multiple-explosions-heard-in-tehran?traffic_source=rss"
-    },
-    {
       "source": "MiddleEastEye",
-      "title": "LIVE: US and Israel attack Iran",
+      "title": "LIVE: US and Israel attack Iran as Trump calls for regime change",
       "link": "https://www.middleeasteye.net/live/live-us-and-israel-attack-iran"
     },
     {
       "source": "NDTV",
-      "title": "Israel Iran Attack LIVE: Indian Embassy Urges Citizens In Israel To Stay Vigilant Amid Tensions With Iran",
+      "title": "Israel Attacks Iran LIVE Updates: \"Take Over Your Government\": Trump As US-Israel Launches Strikes On Iran",
       "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
     }
   ],
   "news": {
     "BBC": [
+      {
+        "title": "Watch: Smoke rises in Tehran as explosions heard across country",
+        "link": "https://www.bbc.com/news/videos/clyx9eprwreo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Mahmood to press on with immigration reforms despite by-election defeat",
         "link": "https://www.bbc.com/news/articles/cwyx55nkxg9o?at_medium=RSS&at_campaign=rss"
@@ -27,38 +26,34 @@
         "link": "https://www.bbc.com/news/articles/cn0egryw20yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Man charged after Churchill statue defaced, police say",
-        "link": "https://www.bbc.com/news/articles/cr5le06lq03o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Boy assaulted by birth parents wins campaign for UK child cruelty register",
-        "link": "https://www.bbc.com/news/articles/ce3gxkn453ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "The mystery man who links Andrew with Jeffrey Epstein",
         "link": "https://www.bbc.com/news/articles/c98gne0z0rxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
+        "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Trump says “major combat operations” in Iran have begun",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/trump-says-major-combat-operations-in-iran-have-begun?traffic_source=rss"
+      },
+      {
+        "title": "Trump talks of ‘annihilation’, ‘elimination’ as US, Israel attack Iran",
+        "link": "https://www.aljazeera.com/news/2026/2/28/trump-talks-of-annihilation-elimination-as-us-israel-attack-iran?traffic_source=rss"
+      },
+      {
+        "title": "Bill Clinton says he did ‘nothing wrong’ in House Epstein inquiry",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/bill-clinton-says-he-did-nothing-wrong-in-house-epstein-inquiry?traffic_source=rss"
+      },
+      {
+        "title": "Explosions heard in Tehran as Israeli launches attacks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/explosions-heard-in-tehran-as-israeli-launches-attacks?traffic_source=rss"
+      },
+      {
         "title": "Sirens sound across Israel after the country launched an attack on Iran",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/sirens-sound-across-israel-after-the-country-launched-an-attack-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Israel launches what it calls a ‘preventative’ attack against Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/israel-launches-what-it-calls-a-preventative-attack-against-iran?traffic_source=rss"
-      },
-      {
-        "title": "Argentina Senate approves contentious Milei-backed labour reforms",
-        "link": "https://www.aljazeera.com/news/2026/2/28/argentina-senate-approves-contentious-milei-backed-labour-reforms?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan says ‘no dialogue’ with Afghanistan as attacks persist",
-        "link": "https://www.aljazeera.com/news/2026/2/28/pakistan-says-no-dialogue-with-afghanistan-as-attacks-persist?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Israel attacks Iran, US official says US took part in strikes",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/2/28/live-israel-launches-attacks-on-iran-multiple-explosions-heard-in-tehran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,10 +81,6 @@
     ],
     "Dawn": [
       {
-        "title": "United States, Israel commence strikes against Iran",
-        "link": "https://www.dawn.com/news/1976377/united-states-israel-commence-strikes-against-iran"
-      },
-      {
         "title": "Taliban now ‘amenable to talks’ as world urges de-escalation",
         "link": "https://www.dawn.com/news/1976349/taliban-now-amenable-to-talks-as-world-urges-de-escalation"
       },
@@ -104,6 +95,10 @@
       {
         "title": "FBR forms committee to address taxpayers’ concerns",
         "link": "https://www.dawn.com/news/1976347/fbr-forms-committee-to-address-taxpayers-concerns"
+      },
+      {
+        "title": "Donation boxes ‘escape’ action against illicit charities in Punjab",
+        "link": "https://www.dawn.com/news/1976345/donation-boxes-escape-action-against-illicit-charities-in-punjab"
       }
     ],
     "APNews": [],
@@ -131,68 +126,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "LIVE: US and Israel attack Iran",
+        "title": "Netanyahu: Time has come for Iranians to 'cast off yoke of tyranny'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahutime-has-come-iranians-cast-yoke-tyranny"
+      },
+      {
+        "title": "Israeli army says missiles launched from Iran heading towards Israel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-missiles-launched-iran-heading-towards-israel"
+      },
+      {
+        "title": "LIVE: US and Israel attack Iran as Trump calls for regime change",
         "link": "https://www.middleeasteye.net/live/live-us-and-israel-attack-iran"
       },
       {
-        "title": "US-Israel strike Iran in joint attack, Khamenei moved to 'safe place'",
+        "title": "US-Israel strike Iran in joint attack as Trump calls for regime change",
         "link": "https://www.middleeasteye.net/news/us-israel-strike-iran-joint-attack"
       },
       {
         "title": "US-Israel strike Iran in joint attack, Khamenei moved to 'safe place'",
         "link": "https://www.middleeasteye.net/news/breaking-israel-announces-strike-iran"
-      },
-      {
-        "title": "China has sent attack drones to Iran, as it discusses ballistic missile sales",
-        "link": "https://www.middleeasteye.net/news/china-has-sent-attack-drones-iran-it-discusses-ballistic-missile-sales"
-      },
-      {
-        "title": "'Not superficial': Support for Palestinians in US surpasses sympathy for Israelis",
-        "link": "https://www.middleeasteye.net/news/support-palestinians-us-surpasses-sympathies-for-israelis"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince Harry, Meghan make exciting announcement from Montecito",
-        "link": "https://www.geo.tv/latest/653363-prince-harry-meghan-make-exciting-announcement-from-montecito"
+        "title": "Katie Price emotional as Harvey gives stepfather Lee Andrews handmade gift",
+        "link": "https://www.geo.tv/latest/653366-katie-price-emotional-as-harvey-gives-stepfather-lee-andrews-handmade-gift"
       },
       {
-        "title": "Prince William, Kate take reins to steer monarchy through stormy waters",
-        "link": "https://www.geo.tv/latest/653350-prince-william-kate-take-reins-to-steer-monarchy-through-stormy-waters"
+        "title": "What happened to Jim Carrey? Fans left in shock after Paris appearance",
+        "link": "https://www.geo.tv/latest/653360-what-happened-to-jim-carrey-fans-notice-change-in-latest-paris-outing"
       },
       {
-        "title": "‘Star Wars: Starfighter' Ryan Gosling reveals why he finally joined franchise",
-        "link": "https://www.geo.tv/latest/653358-star-wars-starfighter-ryan-gosling-reveals-why-he-finally-joined-franchise"
+        "title": "One Direction reunion 'inevitable': New streaming milestone sparks hype",
+        "link": "https://www.geo.tv/latest/653359-one-direction-reunion-inevitable-new-streaming-milestone-sparks-hype"
       },
       {
-        "title": "Cillian Murphy shares what fans may expect from 'Peaky Blinders' film",
-        "link": "https://www.geo.tv/latest/653352-cillian-murphy-shares-what-fans-may-expect-from-peaky-blinders-film"
+        "title": "Cruz Beckham calls Jackie Apostel band's 'hidden' powerhouse",
+        "link": "https://www.geo.tv/latest/653362-cruz-beckham-calls-jackie-apostel-bands-hidden-powerhouse"
       },
       {
-        "title": "Israel, US launch pre-emptive attack against Iran; multiple explosions heard in Tehran",
-        "link": "https://www.geo.tv/latest/653356-israel-launches-pre-emptive-attack-against-iran-multiple-explosions-heard-in-tehran"
+        "title": "Jennifer Garner makes rare comment about 'love of my life' Ben Affleck",
+        "link": "https://www.geo.tv/latest/653364-jennifer-garner-makes-rare-comment-about-love-of-my-life-ben-affleck"
       }
     ],
     "NDTV": [
       {
-        "title": "Israel, US Strike Iran After Weeks Of Warning, Explosions Heard In Tehran",
+        "title": "US, Israel Launch 'Pre-Emptive' Air Strikes On Iran: What We Know So Far",
+        "link": "https://www.ndtv.com/world-news/us-israel-launch-pre-emptive-air-strikes-on-iran-what-we-know-so-far-11148644#publisher=newsstand"
+      },
+      {
+        "title": "'Drop Arms Or Face Death': Donald Trump Warns Iranian Troops",
+        "link": "https://www.ndtv.com/world-news/donald-trump-warns-iranian-troops-as-us-israel-attack-iran-drop-arms-or-face-death-11148660#publisher=newsstand"
+      },
+      {
+        "title": "Israel, US Attack Iran To \"Remove Threats\", Trump Confirms \"Major Combat Ops\"",
         "link": "https://www.ndtv.com/world-news/iran-israel-tensions-explosion-in-tehran-sirens-in-tel-aviv-as-israel-warns-of-possibility-of-missiles-11148335#publisher=newsstand"
       },
       {
-        "title": "Israel Struck Areas Near Ayatollah Ali Khamenei's Offices In Tehran: Report",
-        "link": "https://www.ndtv.com/world-news/israel-iran-conflict-israel-struck-areas-near-ayatollah-ali-khameneis-offices-in-tehran-report-11148448#publisher=newsstand"
+        "title": "\"Objective Is To Defend American People\": Trump As US, Israel Attack Iran",
+        "link": "https://www.ndtv.com/world-news/israel-attacks-iran-objective-is-to-defend-american-people-by-removing-imminent-threats-trump-on-iran-strikes-11148628#publisher=newsstand"
       },
       {
-        "title": "US Participating In Israeli Strikes On Iran: Report",
-        "link": "https://www.ndtv.com/world-news/israel-iran-conflict-us-participating-in-israeli-strikes-on-iran-report-11148478#publisher=newsstand"
-      },
-      {
-        "title": "Israel Iran Attack LIVE: Indian Embassy Urges Citizens In Israel To Stay Vigilant Amid Tensions With Iran",
+        "title": "Israel Attacks Iran LIVE Updates: \"Take Over Your Government\": Trump As US-Israel Launches Strikes On Iran",
         "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
-      },
-      {
-        "title": "Video: Thick Smoke, Panic On Streets In Tehran After Israeli Strikes",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-thick-smoke-panic-on-streets-in-tehran-amid-multiple-explosions-11148435#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -218,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-02-28 07:58 UTC"
+  "last_updated": "2026-02-28 08:39 UTC"
 }
