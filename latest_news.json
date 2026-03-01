@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: India vs West Indies – T20 World Cup Super Eights",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/1/live-india-vs-west-india-t20-world-cup-super-eights?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "The US-Israeli war on Iran could rewrite Gulf security calculations",
+        "link": "https://www.aljazeera.com/opinions/2026/3/1/the-us-israeli-war-on-iran-could-rewrite-gulf-security-calculations?traffic_source=rss"
+      },
+      {
+        "title": "Under the shadow of the Iran war, Israel finds another way to punish Gaza",
+        "link": "https://www.aljazeera.com/opinions/2026/3/1/under-the-shadow-of-the-iran-war-israel-finds-another-way-to-punish-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Analysis: Will Iran’s establishment collapse after the killing of Khamenei?",
+        "link": "https://www.aljazeera.com/features/2026/3/1/analysis-will-irans-establishment-collapse-after-the-killing-of-khamenei?traffic_source=rss"
+      },
+      {
         "title": "Man accuses Israel of war crimes as he holds remains of girl killed in Iran",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/man-accuses-israel-of-war-crimes-as-he-holds-remains-of-girl-killed-in-iran?traffic_source=rss"
       },
       {
         "title": "‘US and Israel’s war on Iran is based on a flawed strategy’",
         "link": "https://www.aljazeera.com/video/quotable/2026/3/1/us-and-israels-war-on-iran-is-based-on-a-flawed-strategy?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: India vs West Indies – T20 World Cup Super Eights",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/1/live-india-vs-west-india-t20-world-cup-super-eights?traffic_source=rss"
-      },
-      {
-        "title": "Israel closes Gaza’s Rafah crossing amid attacks on Iran",
-        "link": "https://www.aljazeera.com/news/2026/3/1/israel-closes-gazas-rafah-crossing-amid-attacks-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Iran forms interim council to oversee transition after Khamenei’s killing",
-        "link": "https://www.aljazeera.com/news/2026/3/1/iran-to-form-interim-council-to-oversee-transition-after-khameneis-killing?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,27 +115,35 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iraqi protesters attempt to enter Green Zone to reach US embassy in Baghdad",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-protesters-attempt-enter-green-zone-reach-us-embassy-baghdad"
+      },
+      {
+        "title": "With Khamenei's killing, US-Iran relations have crossed a threshold. How far are they both willing to go?",
+        "link": "https://www.middleeasteye.net/opinion/khamenei-killing-crossed-threshold-us-iran-relations-willing-go"
+      },
+      {
+        "title": "US urges staff to avoid embassy in Jordan over potential attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-urges-staff-avoid-embassy-jordan-over-potential-attacks"
+      },
+      {
         "title": "Iran: Thousands take to streets to mourn Ali Khamenei's killing",
         "link": "https://www.middleeasteye.net/news/iran-thousands-take-streets-mourn-ali-khameneis-killing"
       },
       {
         "title": "Israeli army says 'unaware' of strike on school that killed at least 115",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-unaware-strike-school-killed-least-115"
-      },
-      {
-        "title": "Putin offers condolences to Iran over Khamenei killing",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/putin-offers-condolences-iran-over-khamenei-killing"
-      },
-      {
-        "title": "Interim leadership council to be formed following Khamenei killing: Iran's security chief",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/interim-leadership-council-be-formed-following-khamenei-killing-larijani"
-      },
-      {
-        "title": "Iran security chief vows strikes against US, Israel 'never experienced before'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-security-chief-vows-strikes-against-us-israel-never-experienced"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Microsoft Login Scam stealing accounts: All you need to know",
+        "link": "https://www.geo.tv/latest/653541-microsoft-login-scam-stealing-accounts-all-you-need-to-know"
+      },
+      {
+        "title": "Cillian Murphy breaks silence on rumoured casting as Voldemort new series",
+        "link": "https://www.geo.tv/latest/653521-cillian-murphy-set-rumours-straight-about-his-casting-as-voldemort-new-series"
+      },
       {
         "title": "Anna Cathcart teases big changes in 'XO, Kitty' season 3",
         "link": "https://www.geo.tv/latest/653538-anna-cathcart-teases-big-changes-in-xo-kitty-season-3"
@@ -153,14 +155,6 @@
       {
         "title": "Beatrice, Eugenie get 'helpful' suggestion as royal position weakensÂ",
         "link": "https://www.geo.tv/latest/653526-beatrice-eugenie-get-helpful-suggestion-as-royal-position-weakens"
-      },
-      {
-        "title": "Katie Price all smiles on UK shopping trip as Lee Andrews stays in Dubai",
-        "link": "https://www.geo.tv/latest/653527-katie-price-all-smiles-on-uk-shopping-trip-as-lee-andrews-stays-in-dubai"
-      },
-      {
-        "title": "Justin Bieber celebrates 32nd birthday quietly as fans await 2026 comeback",
-        "link": "https://www.geo.tv/latest/653532-justin-bieber-celebrates-32nd-birthday-quietly-as-fans-await-comeback"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-01 11:35 UTC"
+  "last_updated": "2026-03-01 11:50 UTC"
 }
