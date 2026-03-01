@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Israel Attacks Iran LIVE Updates: More Explosions Heard In Dubai, Doha And Manama",
+      "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Moment Iranian drone hits UAE naval base",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/moment-iranian-drone-hits-uae-naval-base?traffic_source=rss"
+      },
+      {
         "title": "Who are the council members temporarily in charge of Iran?",
         "link": "https://www.aljazeera.com/news/2026/3/1/who-are-the-council-members-temporarily-in-charge-of-iran?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Who are Iran’s senior figures killed in US-Israeli attacks?",
         "link": "https://www.aljazeera.com/news/2026/3/1/who-are-irans-senior-figures-killed-in-us-israeli-attacks?traffic_source=rss"
-      },
-      {
-        "title": "US-Israel attacks on Iran: Death toll and injuries live tracker",
-        "link": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,12 +103,12 @@
         "link": "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
       },
       {
-        "title": "Trump, the Self-Declared Peace President, Goes to War Seeking Regime Change",
-        "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-peace-president-war.html"
+        "title": "Iran’s Regime May Survive, but the Middle East Will Be Changed",
+        "link": "https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html"
       },
       {
-        "title": "See a Breakdown of Ayatollah Khamenei and Other Top Iranian Leaders",
-        "link": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html"
+        "title": "Maps: Where the U.S-Led Strikes Hit Iran and Tehran’s Retaliation",
+        "link": "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html"
       },
       {
         "title": "Ayatollah Ali Khamenei, Hard-Line Cleric Who Made Iran a Regional Power, Is Dead at 86",
@@ -114,6 +120,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Unconfirmed reports in state media suggest Mahmoud Ahmadinejad killed",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/unconfirmed-reports-state-media-suggest-mahmoud-ahmadinejad-killed"
+      },
       {
         "title": "Trump says 48 Iranian 'leaders' killed in US attack",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-48-iranian-leaders-killed-us-attack"
@@ -129,13 +139,17 @@
       {
         "title": "Netanyahu: Israel is striking at the 'heart' of Tehran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-israel-striking-heart-tehran"
-      },
-      {
-        "title": "Israelis unite across political divides in support of ‘justified’ war against Iran",
-        "link": "https://www.middleeasteye.net/news/israelis-unite-political-divides-support-justified-war-iran"
       }
     ],
     "GeoTV": [
+      {
+        "title": "'Marshals': Everything to know about 'Yellowstone' spinoff",
+        "link": "https://www.geo.tv/latest/653567-marshals"
+      },
+      {
+        "title": "Rosé gives nod to BLACKPINK, 'best friend' Bruno Mars after 1st BRITs win",
+        "link": "https://www.geo.tv/latest/653568-ros-gives-nod-to-blackpink-best-friend-bruno-mars-after-1st-brits-win"
+      },
       {
         "title": "Maggie Gyllenhaal details emotional reunion with brother Jake Gyllenhaal",
         "link": "https://www.geo.tv/latest/653566-maggie-gyllenhaal-details-emotional-reunion-with-brother-jake-gyllenhaal"
@@ -147,36 +161,28 @@
       {
         "title": "Many viral Punch the monkey videos found to be AI-generated",
         "link": "https://www.geo.tv/latest/653560-many-viral-punch-the-monkey-videos-found-to-be-ai-generated"
-      },
-      {
-        "title": "Amid Anthropic Pentagon dispute, Claude becomes top-rated app on US App Store",
-        "link": "https://www.geo.tv/latest/653564-amid-anthropic-pentagon-dispute-claude-becomes-top-rated-app-on-app-store"
-      },
-      {
-        "title": "Bhad Bhabie's cancer takes turn for the worse: ‘Bad news from my doctor'",
-        "link": "https://www.geo.tv/latest/653558-bhad-bhabies-cancer-takes-turn-for-the-worse-bad-news-from-my-doctor"
       }
     ],
     "NDTV": [
       {
-        "title": "US Carrier Abraham Lincoln Struck By 4 Ballistic Missiles, Claims Iran",
+        "title": "Iran Claims Carrier Abraham Lincoln \"Struck\" By Missiles. Not Hit, Says US",
         "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-us-aircraft-carrier-uss-abraham-lincoln-struck-by-4-ballistic-missiles-iran-revolutionary-guards-11154854#publisher=newsstand"
       },
       {
-        "title": "\"Will Forcefully Crush Enemy's Bases\": Iran President After Khamenei's Death",
-        "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-iran-will-forcefully-crush-enemys-bases-president-masoud-pezeshkian-after-khameneis-death-11154744#publisher=newsstand"
+        "title": "Israel Hacked Iranian Prayer App, Urged IRGC To Betray The Regime: Report",
+        "link": "https://www.ndtv.com/world-news/iran-israel-live-updates-tehran-ayatollah-khamenei-mossad-trump-israel-hacked-iranian-prayer-app-urged-irgc-to-betray-the-regime-report-11155098#publisher=newsstand"
       },
       {
-        "title": "8 Dead In Fresh Iran Strikes On Israel's Beit Shemesh In Response To Khamenei's Killing",
-        "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-4-dead-in-fresh-iran-strikes-on-israels-beit-shemesh-in-response-to-khameneis-killing-11154470#publisher=newsstand"
+        "title": "165 Ballistic Missiles And 541 Drones: UAE Counts What Iran Sent",
+        "link": "https://www.ndtv.com/world-news/165-ballistic-missiles-and-541-drones-uae-counts-what-iran-sent-11155069#publisher=newsstand"
       },
       {
-        "title": "Why Ayatollah Khamenei Kept One Hand Hidden Beneath His Cloak For 45 Years",
-        "link": "https://www.ndtv.com/world-news/us-israel-attacks-iran-live-updates-ayatollah-ali-khamenei-israel-iran-war-news-burj-khalifa-news-dubai-attack-tehran-bombing-why-ayatollah-khamenei-k-11154828#publisher=newsstand"
+        "title": "US-Israel Attacks Iran LIVE Updates: More Explosions Heard In Dubai, Doha And Manama",
+        "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
       },
       {
-        "title": "When Khamenei Said He Was \"Truly Not Worthy\" Of Supreme Leadership",
-        "link": "https://www.ndtv.com/world-news/i-am-truly-not-worthy-how-khamenei-responded-after-becoming-iran-s-supreme-leader-in-1989-11154410#publisher=newsstand"
+        "title": "Will India Have Enough Oil If Iran War Escalates? Oil Reserves At A Glance",
+        "link": "https://www.ndtv.com/india-news/will-india-have-enough-oil-if-iran-war-escalates-oil-reserves-at-a-glance-11155006#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-01 16:00 UTC"
+  "last_updated": "2026-03-01 16:40 UTC"
 }
