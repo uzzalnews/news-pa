@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Israel Attacks Iran LIVE Updates: \"Khamenei Killing Declaration Of War Against Muslims\": Iran President",
+      "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,8 +21,8 @@
         "link": "https://www.bbc.com/news/articles/c98g91wgdd8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "How Ayatollah Khamenei kept an iron grip on power for almost 40 years",
-        "link": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss"
+        "title": "At least 148 dead after reported strike on school, Iran says",
+        "link": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "What we know so far about the US-Israeli attacks and Iran's retaliation",
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iranian missile warhead landed near Jerusalem's Old City, say police",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-missile-warhead-landed-near-jerusalems-old-city-say-police"
+      },
+      {
         "title": "Iraqi protesters attempt to enter Green Zone to reach US embassy in Baghdad",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-protesters-attempt-enter-green-zone-reach-us-embassy-baghdad"
       },
@@ -129,13 +139,17 @@
       {
         "title": "Iran: Thousands take to streets to mourn Ali Khamenei's killing",
         "link": "https://www.middleeasteye.net/news/iran-thousands-take-streets-mourn-ali-khameneis-killing"
-      },
-      {
-        "title": "Israeli army says 'unaware' of strike on school that killed at least 115",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-unaware-strike-school-killed-least-115"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Taylor Swift fans urge Spotify to publicly apologise for 'disgusting' move",
+        "link": "https://www.geo.tv/latest/653531-taylor-swift-fans-urge-spotify-to-publicly-apologise-for-disgusting-move"
+      },
+      {
+        "title": "PM Shehbaz postpones Russia visit amid regional, domestic tensions",
+        "link": "https://www.geo.tv/latest/653540-pm-shehbaz-postpones-russia-visit-amid-regional-domestic-tensions"
+      },
       {
         "title": "Microsoft Login Scam stealing accounts: All you need to know",
         "link": "https://www.geo.tv/latest/653541-microsoft-login-scam-stealing-accounts-all-you-need-to-know"
@@ -147,36 +161,28 @@
       {
         "title": "Anna Cathcart teases big changes in 'XO, Kitty' season 3",
         "link": "https://www.geo.tv/latest/653538-anna-cathcart-teases-big-changes-in-xo-kitty-season-3"
-      },
-      {
-        "title": "Austin shooting leaves around 20 dead, suspect killed by police",
-        "link": "https://www.geo.tv/latest/653536-austin-shooting-leaves-around-20-dead-suspect-killed-by-police"
-      },
-      {
-        "title": "Beatrice, Eugenie get 'helpful' suggestion as royal position weakensÂ",
-        "link": "https://www.geo.tv/latest/653526-beatrice-eugenie-get-helpful-suggestion-as-royal-position-weakens"
       }
     ],
     "NDTV": [
       {
-        "title": "\"We Belong To God\": Iran Embassy In Pak Shares Post With Khamenei's Robe",
-        "link": "https://www.ndtv.com/world-news/we-belong-to-god-iran-embassy-in-islamabad-posts-image-with-khamenei-s-robe-scarf-on-empty-chair-11153466#publisher=newsstand"
+        "title": "Bahrain's 5-Star Hotel Complex Shrouded In Smoke Amid Iran's Retaliation",
+        "link": "https://www.ndtv.com/world-news/dubai-abu-dhabi-khameini-israel-attacks-iran-bahrains-5-star-hotel-complex-crowne-plaza-manama-shrouded-in-smoke-amid-irans-retaliation-11154220#publisher=newsstand"
       },
       {
-        "title": "After Khamenei's Death, Iran Regime's India Connection Back In Focus",
-        "link": "https://www.ndtv.com/world-news/after-khameneis-death-irans-regimes-india-connection-back-in-focus-ayatollah-ruhollah-musavi-khomeini-kintoor-barabanki-up-11152865#publisher=newsstand"
+        "title": "Israel Shares Aerial Footage Of Bombing \"Iran's Terror Regime\" In Tehran",
+        "link": "https://www.ndtv.com/world-news/iran-news-israel-shares-aerial-footage-of-bombing-irans-terror-regime-in-tehran-11153884#publisher=newsstand"
       },
       {
-        "title": "1,200 Kashmiris, 84 Students Stranded: Middle East Chaos' Impact On Indians",
-        "link": "https://www.ndtv.com/world-news/iran-israel-news-1-200-kashmiris-84-students-stranded-middle-east-chaos-impact-on-indians-11153744#publisher=newsstand"
+        "title": "Iran Attacks Oil Tanker In Strait Of Hormuz, 15 Indian Crew Members On Board",
+        "link": "https://www.ndtv.com/world-news/iran-news-iran-attacks-oil-tanker-passing-through-strait-of-hormuz-near-coast-of-oman-11153819#publisher=newsstand"
       },
       {
-        "title": "Rajiv Gandhi To George Bush, World Leaders In Power When Iran's Khamenei Took Over",
-        "link": "https://www.ndtv.com/world-news/rajiv-gandhi-to-george-bush-world-leaders-in-power-when-irans-ayatollah-khamenei-took-over-11153151#publisher=newsstand"
+        "title": "US-Israel Attacks Iran LIVE Updates: \"Khamenei Killing Declaration Of War Against Muslims\": Iran President",
+        "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
       },
       {
-        "title": "\"Seek Shelter\": Dubai's Fresh Emergency Alerts To Residents Over \"Missile Threats\"",
-        "link": "https://www.ndtv.com/world-news/dubai-news-israel-iran-war-ayatollah-ali-khamenei-burj-khalifa-dubais-emergency-alerts-to-residents-over-missile-threat-seek-shelter-11153592#publisher=newsstand"
+        "title": "Khamenei Dead But Is Trump's Iran Problem Over? New US Challeges Explained",
+        "link": "https://www.ndtv.com/world-news/khamenei-is-dead-but-is-trumps-iran-problem-over-new-us-challeges-explained-11153794#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-01 11:50 UTC"
+  "last_updated": "2026-03-01 12:00 UTC"
 }
