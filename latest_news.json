@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Israel Attacks Iran LIVE Updates: \"Khamenei Killing Declaration Of War Against Muslims\": Iran President",
-      "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Smoke rises above Qatar capital Doha after Iranian missiles shot down",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/smoke-rises-above-qatar-capital-doha-after-iranian-missiles-shot-down?traffic_source=rss"
+      },
+      {
+        "title": "World reacts to killing of Iran’s Khamenei by US, Israel forces",
+        "link": "https://www.aljazeera.com/news/2026/3/1/world-reacts-to-killing-of-irans-khamenei-by-us-israel-forces?traffic_source=rss"
+      },
+      {
         "title": "Who could succeed Ayatollah Ali Khamenei to lead Iran?",
         "link": "https://www.aljazeera.com/news/2026/3/1/who-could-succeed-ayatollah-ali-khamenei-to-lead-iran?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "How US-Israel attacks on Iran threaten the Strait of Hormuz, oil markets",
         "link": "https://www.aljazeera.com/news/2026/3/1/how-us-israel-attacks-on-iran-threaten-the-strait-of-hormuz-oil-markets?traffic_source=rss"
-      },
-      {
-        "title": "The US-Israeli war on Iran could rewrite Gulf security calculations",
-        "link": "https://www.aljazeera.com/opinions/2026/3/1/the-us-israeli-war-on-iran-could-rewrite-gulf-security-calculations?traffic_source=rss"
-      },
-      {
-        "title": "Under the shadow of the Iran war, Israel finds another way to punish Gaza",
-        "link": "https://www.aljazeera.com/opinions/2026/3/1/under-the-shadow-of-the-iran-war-israel-finds-another-way-to-punish-gaza?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1976965/protests-erupt-in-different-cities-across-pakistan-9-dead-in-violent-clashes-near-us-consulate-in-karachi"
       },
       {
+        "title": "PM Shehbaz voices concern at violation of international law after Iranian supreme leader’s assassination",
+        "link": "https://www.dawn.com/news/1977064/pm-shehbaz-voices-concern-at-violation-of-international-law-after-iranian-supreme-leaders-assassination"
+      },
+      {
         "title": "PM Shehbaz postpones official visit to Russia citing regional, internal situation",
         "link": "https://www.dawn.com/news/1977044/pm-shehbaz-postpones-official-visit-to-russia-citing-regional-internal-situation"
       },
@@ -88,12 +86,8 @@
         "link": "https://www.dawn.com/news/1977027/foreign-office-activates-crisis-management-unit-advises-pakistani-nationals-in-gulf-region-to-exercise-utmost-caution"
       },
       {
-        "title": "Pakistan maintains delicate balancing act in UNSC meeting on Iran",
-        "link": "https://www.dawn.com/news/1976902/pakistan-maintains-delicate-balancing-act-in-unsc-meeting-on-iran"
-      },
-      {
-        "title": "Pakistan cricket’s lack of T20 evolution exposed by World Cup exit",
-        "link": "https://www.dawn.com/news/1977021/pakistan-crickets-lack-of-t20-evolution-exposed-by-world-cup-exit"
+        "title": "South Africa beat plucky Zimbabwe ahead of New Zealand semi-final",
+        "link": "https://www.dawn.com/news/1977063/south-africa-beat-plucky-zimbabwe-ahead-of-new-zealand-semi-final"
       }
     ],
     "APNews": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel closes Rafah crossing and all other checkpoints in the West Bank and Gaza Strip",
+        "link": "https://www.middleeasteye.net/news/israel-closes-rafah-crossing-checkpoint-west-bank-gaza-strip"
+      },
+      {
         "title": "Indian authorities crackdown on protests in Kashmir",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/indian-authorities-crackdown-protests-kashmir"
       },
@@ -135,13 +133,21 @@
       {
         "title": "Four people killed in Iranian strike west of Jerusalem",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-critically-injured-iranian-strike-west-jerusalem"
-      },
-      {
-        "title": "How Iran erupted with screams and cheers as news of Khamenei’s killing hit the streets",
-        "link": "https://www.middleeasteye.net/news/how-iran-erupted-screams-and-cheers-news-khameneis-killing-hit-streets"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Shia LaBeouf, Mia Goth's marriage crumpled despite 'endless' efforts",
+        "link": "https://www.geo.tv/latest/653554-how-shia-labeouf-mia-goths-marriage-crumpled-despite-endless-efforts"
+      },
+      {
+        "title": "Keanu Reeves 'The Matrix 5' gets promising update two years after confirmation",
+        "link": "https://www.geo.tv/latest/653543-keanu-reeves-the-matrix-5-gets-promising-update-two-years-after-confirmation"
+      },
+      {
+        "title": "T20 World Cup 2026: India win toss, opt to bowl against West Indies",
+        "link": "https://www.geo.tv/latest/653553-t20-world-cup-2026-india-win-toss-opt-to-bowl-against-west-indies"
+      },
       {
         "title": "Mumford & Sons shock fans with surprise guest on 'SNL' performance",
         "link": "https://www.geo.tv/latest/653549-mumford-and-sons"
@@ -149,40 +155,28 @@
       {
         "title": "Most visited websites of 2026 so far: ChatGPT outshines renowned platforms",
         "link": "https://www.geo.tv/latest/653552-most-visited-websites-in-2026-so-far-chatgpt-outshines-renowned-platforms"
-      },
-      {
-        "title": "PM Shehbaz terms Khamenei's martyrdom 'violation of international law'",
-        "link": "https://www.geo.tv/latest/653550-pm-shehbaz-terms-khameneis-martyrdom-violation-of-international-law"
-      },
-      {
-        "title": "Hudson Williams, Connor Storrie surprise fans with bromantic cameo on 'SNL'",
-        "link": "https://www.geo.tv/latest/653545-hudson-williams-surprises-connor-storrie-with-bromantic-cameo-on-snl"
-      },
-      {
-        "title": "Tech that ensures Galaxy S26 Ultra's powerful wireless charging disclosed",
-        "link": "https://www.geo.tv/latest/653548-tech-that-ensures-galaxy-s26-ultras-powerful-wireless-charging-disclosed"
       }
     ],
     "NDTV": [
       {
-        "title": "Bahrain's 5-Star Hotel Complex Shrouded In Smoke Amid Iran's Retaliation",
-        "link": "https://www.ndtv.com/world-news/dubai-abu-dhabi-khameini-israel-attacks-iran-bahrains-5-star-hotel-complex-crowne-plaza-manama-shrouded-in-smoke-amid-irans-retaliation-11154220#publisher=newsstand"
+        "title": "When Khamenei Said He Was \"Truly Not Worthy\" Of Supreme Leadership",
+        "link": "https://www.ndtv.com/world-news/i-am-truly-not-worthy-how-khamenei-responded-after-becoming-iran-s-supreme-leader-in-1989-11154410#publisher=newsstand"
       },
       {
-        "title": "Israel Shares Aerial Footage Of Bombing \"Iran's Terror Regime\" In Tehran",
-        "link": "https://www.ndtv.com/world-news/iran-news-israel-shares-aerial-footage-of-bombing-irans-terror-regime-in-tehran-11153884#publisher=newsstand"
+        "title": "6 Dead In Fresh Iran Strikes On Israel's Beit Shemesh In Response To Khamenei's Killing",
+        "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-4-dead-in-fresh-iran-strikes-on-israels-beit-shemesh-in-response-to-khameneis-killing-11154470#publisher=newsstand"
       },
       {
-        "title": "Iran Attacks Oil Tanker In Strait Of Hormuz, 15 Indian Crew Members On Board",
-        "link": "https://www.ndtv.com/world-news/iran-news-iran-attacks-oil-tanker-passing-through-strait-of-hormuz-near-coast-of-oman-11153819#publisher=newsstand"
+        "title": "When Young Ali Khamenei, Before He Took On Ayatollah Role, Visited Karnataka",
+        "link": "https://www.ndtv.com/world-news/when-young-ali-khamenei-before-he-took-on-ayatollah-role-visited-karnataka-11154570#publisher=newsstand"
       },
       {
-        "title": "US-Israel Attacks Iran LIVE Updates: \"Khamenei Killing Declaration Of War Against Muslims\": Iran President",
-        "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
+        "title": "New Explosions In Dubai, Abu Dhabi, Doha, Manama As Iran Retaliates",
+        "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-new-explosions-in-dubai-abu-dhabi-doha-manama-as-iran-retaliates-11154278#publisher=newsstand"
       },
       {
-        "title": "Khamenei Dead But Is Trump's Iran Problem Over? New US Challeges Explained",
-        "link": "https://www.ndtv.com/world-news/khamenei-is-dead-but-is-trumps-iran-problem-over-new-us-challeges-explained-11153794#publisher=newsstand"
+        "title": "3 Killed, 14 Injured After Shooting At Texas Bar, Suspect Among Those Dead",
+        "link": "https://www.ndtv.com/world-news/3-killed-14-injured-after-shooting-at-texas-bar-suspect-among-those-dead-11154492#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-01 13:07 UTC"
+  "last_updated": "2026-03-01 13:47 UTC"
 }
