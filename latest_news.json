@@ -2,7 +2,7 @@
   "breaking": [
     {
       "source": "NDTV",
-      "title": "US-Israel Attacks Iran LIVE Updates: UN Nuclear Agency To Hold Emergency Meeting After US-Israeli Strikes On Iran",
+      "title": "US-Israel Attacks Iran LIVE Updates: \"Your War Is Not With Your Neighbours\": UAE Official Tells Iran",
       "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
     }
   ],
@@ -17,11 +17,11 @@
         "link": "https://www.bbc.com/news/articles/c98g91wgdd8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "What we know so far: Supreme Leader Khamenei killed, as Iran launches retaliatory strikes",
+        "title": "What we know so far about the US-Israeli attacks and Iran's retaliation",
         "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
+        "title": "How Ayatollah Khamenei kept an iron grip on power for almost 40 years",
         "link": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -30,6 +30,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US-Israel attacks on Iran, day 2: Khamenei is killed, Iran retaliates",
+        "link": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-day-2-khamenei-is-killed-iran-retaliates?traffic_source=rss"
+      },
       {
         "title": "More blasts rock Dubai, Doha and Manama as Iran targets US assets in Gulf",
         "link": "https://www.aljazeera.com/news/2026/3/1/more-blasts-rock-dubai-doha-and-manama-as-iran-targets-us-assets-in-gulf?traffic_source=rss"
@@ -45,10 +49,6 @@
       {
         "title": "Thousands in Iran mourn Khamenei’s killing",
         "link": "https://www.aljazeera.com/gallery/2026/3/1/thousands-in-iran-mourn-khameneis-killing?traffic_source=rss"
-      },
-      {
-        "title": "Despite antiwar MAGA wing, Trump gets Republican support for Iran strikes",
-        "link": "https://www.aljazeera.com/news/2026/3/1/despite-antiwar-maga-wing-trump-gets-republican-support-for-iran-strikes?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,12 +76,12 @@
     ],
     "Dawn": [
       {
-        "title": "Ayatollah Khamenei’s assassination: A new chapter for Iran, a region at a crossroads",
-        "link": "https://www.dawn.com/news/1976910/ayatollah-khameneis-assassination-a-new-chapter-for-iran-a-region-at-a-crossroads"
-      },
-      {
         "title": "At least 9 dead after protests erupt near US Consulate in Karachi",
         "link": "https://www.dawn.com/news/1976965/at-least-9-dead-after-protests-erupt-near-us-consulate-in-karachi"
+      },
+      {
+        "title": "Ayatollah Khamenei’s assassination: A new chapter for Iran, a region at a crossroads",
+        "link": "https://www.dawn.com/news/1976910/ayatollah-khameneis-assassination-a-new-chapter-for-iran-a-region-at-a-crossroads"
       },
       {
         "title": "Pakistan maintains delicate balancing act in UNSC meeting on Iran",
@@ -121,27 +121,35 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran confirms deaths of four senior military officials",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-confirms-deaths-four-senior-military-officials"
+      },
+      {
+        "title": "Explosions heard in east of Saudi capital Riyadh: AFP",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-east-saudi-capital-riyadh-afp"
+      },
+      {
+        "title": "Iran's president brands Khamenei killing 'declaration of war against Muslims'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-president-brands-khamenei-killing-declaration-war-against-muslims"
+      },
+      {
+        "title": "Recap",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/recap-7"
+      },
+      {
         "title": "Iran says US vessel targeted in Indian Ocean, military assets in Gulf attacked",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-vessel-targeted-indian-ocean-military-assets-gulf-attacked"
-      },
-      {
-        "title": "Six killed as protestors storm US Consulate in Karachi after Khamenei assassination",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/six-killed-protestors-storm-us-consulate-karachi-after-khamenei"
-      },
-      {
-        "title": "Iranian strikes damage dozens of buildings in Tel Aviv, residents evacuated",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-strikes-damage-dozens-buildings-tel-aviv-residents-evacuated"
-      },
-      {
-        "title": "Protesters in Isfahan 'seek revenge' after US-Israel attacks kill Khamenei",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/protesters-isfahan-seek-revenge-after-us-israel-attacks-kill-khamenei"
-      },
-      {
-        "title": "Pakistan: Protestors storm US Consulate in Karachi after Khamenei assassination",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-protestors-storm-us-consulate-karachi-after-khamenei"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Jamie Laing, Sophie Habboo exude power couple vibes at BRIT Awards",
+        "link": "https://www.geo.tv/latest/653512-jamie-laing-sophie-habboo-exude-power-couple-vibes-at-brit-awards"
+      },
+      {
+        "title": "Blast at India explosives factory kills 17",
+        "link": "https://www.geo.tv/latest/653514-blast-at-india-explosives-factory-kills-17"
+      },
       {
         "title": "Harry Styles leave fans suspicious as new album ads feature Netflix logo",
         "link": "https://www.geo.tv/latest/653503-harry-styles-leave-fans-suspicious-as-new-album-ads-feature-netflix-logo"
@@ -153,36 +161,28 @@
       {
         "title": "What the CJP told the PTI chairman",
         "link": "https://www.geo.tv/latest/653491-what-the-cjp-told-the-pti-chairman"
-      },
-      {
-        "title": "Jeff Brazier celebrates Bobby's Gucci runway moment",
-        "link": "https://www.geo.tv/latest/653508-jeff-brazier-celebrates-bobbys-gucci-runway-moment"
-      },
-      {
-        "title": "Bruno Mars reacts as Rosé wins BRIT Award for  global hit 'APT.'",
-        "link": "https://www.geo.tv/latest/653509-bruno-mars-reacts-as-rose-wins-brit-award-for-global-hit-apt"
       }
     ],
     "NDTV": [
       {
-        "title": "17 Killed In Blast At Explosives Manufacturing Company Near Nagpur",
-        "link": "https://www.ndtv.com/india-news/sbl-energy-limited-17-killed-in-blast-at-explosives-manufacturing-company-near-nagpur-11153212#publisher=newsstand"
-      },
-      {
-        "title": "Opinion: Opinion | Who Gets The 'Peace Prize' Now, Mr Trump - The Drones Or The Bombers?",
-        "link": "https://www.ndtv.com/opinion/us-israel-iran-war-who-gets-the-peace-prize-now-mr-trump-11153300#publisher=newsstand"
-      },
-      {
-        "title": "Inside CIA's Plan To Eliminate Iran's Ayatollah Ali Khamenei",
-        "link": "https://www.ndtv.com/world-news/how-attack-on-irans-ayatollah-ali-khamenei-unfolded-11152990#publisher=newsstand"
-      },
-      {
-        "title": "From Pak To Iraq, Protesters Storm US Consulates Over Khamenei's Death",
-        "link": "https://www.ndtv.com/world-news/mob-barges-into-us-consulate-in-pak-sets-portions-of-building-afire-over-iran-11153134#publisher=newsstand"
-      },
-      {
-        "title": "US-Israel Attacks Iran LIVE Updates: UN Nuclear Agency To Hold Emergency Meeting After US-Israeli Strikes On Iran",
+        "title": "US-Israel Attacks Iran LIVE Updates: \"Your War Is Not With Your Neighbours\": UAE Official Tells Iran",
         "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
+      },
+      {
+        "title": "Multiple Explosions In Tehran, Israel Says Targeting \"Heart\" Of City",
+        "link": "https://www.ndtv.com/world-news/israel-us-iran-conflict-khamenei-tehran-massive-explosion-in-tehran-israel-says-targeting-heart-of-city-11153426#publisher=newsstand"
+      },
+      {
+        "title": "8 Dead In Pro-Iran Protest At US Consulate In Pak, Most Had Bullet Wounds",
+        "link": "https://www.ndtv.com/world-news/8-dead-in-pro-iran-protest-at-us-consulate-in-pak-most-had-bullet-wounds-11153364#publisher=newsstand"
+      },
+      {
+        "title": "Saudi Prince Called Trump To Strike Iran Despite Public Push For Peace: Report",
+        "link": "https://www.ndtv.com/world-news/us-israel-attack-iran-iran-israel-tensions-news-explosion-in-tehran-saudi-prince-called-donald-trump-to-strike-iran-despite-public-push-for-peace-repo-11153456#publisher=newsstand"
+      },
+      {
+        "title": "In Pictures: How Trump Monitored \"Operation Epic Fury\" Against Iran",
+        "link": "https://www.ndtv.com/world-news/in-pictures-how-trump-monitored-operation-epic-fury-against-iran-that-killed-ayatollah-ali-khamenei-11153377#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-01 08:58 UTC"
+  "last_updated": "2026-03-01 09:38 UTC"
 }
