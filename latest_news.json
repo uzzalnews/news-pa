@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Israel Attacks Iran LIVE Updates: \"Your War Is Not With Your Neighbours\": UAE Official Tells Iran",
-      "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "One killed and 11 injured at Dubai and Abu Dhabi airports as Iran strikes region",
+        "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Trump's bet on Iranian regime change could be his biggest gamble yet",
         "link": "https://www.bbc.com/news/articles/cn48dwm818no?at_medium=RSS&at_campaign=rss"
@@ -15,10 +13,6 @@
       {
         "title": "Lyse Doucet: This is an extraordinary moment Iran has been preparing for",
         "link": "https://www.bbc.com/news/articles/c98g91wgdd8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "One killed and 11 injured at Dubai and Abu Dhabi airports as Iran strikes region",
-        "link": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "How Ayatollah Khamenei kept an iron grip on power for almost 40 years",
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Israel closes Gaza’s Rafah crossing amid attacks on Iran",
+        "link": "https://www.aljazeera.com/news/2026/3/1/israel-closes-gazas-rafah-crossing-amid-attacks-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Iran to form interim council to oversee transition after Khamenei’s killing",
+        "link": "https://www.aljazeera.com/news/2026/3/1/iran-to-form-interim-council-to-oversee-transition-after-khameneis-killing?traffic_source=rss"
+      },
+      {
         "title": "Video: Smoke seen rising from Dubai’s main shipping port after Iran attack",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/1/video-smoke-seen-rising-from-dubais-main-shipping-port-after-iran-attack?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "More blasts rock Dubai, Doha and Manama as Iran targets US assets in Gulf",
         "link": "https://www.aljazeera.com/news/2026/3/1/more-blasts-rock-dubai-doha-and-manama-as-iran-targets-us-assets-in-gulf?traffic_source=rss"
-      },
-      {
-        "title": "Iran begins 40-day mourning after Khamenei killed in US-Israeli attack",
-        "link": "https://www.aljazeera.com/news/2026/3/1/iran-begins-40-day-mourning-after-khamenei-killed-in-us-israeli-attack?traffic_source=rss"
-      },
-      {
-        "title": "At least 9 killed in pro-Iran protest at US consulate in Pakistan’s Karachi",
-        "link": "https://www.aljazeera.com/news/2026/3/1/at-least-9-killed-in-pro-iran-protest-at-us-consulate-in-pakistans-karachi?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "10 dead after protests erupt near US Consulate in Karachi: hospital official",
-        "link": "https://www.dawn.com/news/1976965/10-dead-after-protests-erupt-near-us-consulate-in-karachi-hospital-official"
+        "title": "Protests erupt in different cities of Pakistan; 10 dead in violent clashes near US Consulate in Karachi",
+        "link": "https://www.dawn.com/news/1976965/protests-erupt-in-different-cities-of-pakistan-10-dead-in-violent-clashes-near-us-consulate-in-karachi"
       },
       {
         "title": "Ayatollah Khamenei’s assassination: A new chapter for Iran, a region at a crossroads",
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Interim leadership council to be formed following Khamenei killing: Larijani",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/interim-leadership-council-be-formed-following-khamenei-killing-larijani"
+      },
+      {
+        "title": "Iran security chief vows strikes against US, Israel 'never experienced before'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-security-chief-vows-strikes-against-us-israel-never-experienced"
+      },
+      {
         "title": "Oman port targeted by Iranian drones: state media",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-port-targeted-iranian-drones-state-media"
       },
@@ -131,58 +133,50 @@
       {
         "title": "Explosions heard in east of Saudi capital Riyadh: AFP",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-east-saudi-capital-riyadh-afp"
-      },
-      {
-        "title": "Iran's president brands Khamenei killing 'declaration of war against Muslims'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-president-brands-khamenei-killing-declaration-war-against-muslims"
-      },
-      {
-        "title": "Recap",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/recap-7"
       }
     ],
     "GeoTV": [
       {
-        "title": "Brit Awards 2026: Crowd breaks in cheers at Andrew Mountbatten-Windsor joke",
-        "link": "https://www.geo.tv/latest/653519-brit-awards-2026-crowd-breaks-in-cheers-at-andrew-mountbatten-windsor-joke"
+        "title": "UAE warns of fake calls and cyber scams during heightened alert",
+        "link": "https://www.geo.tv/latest/653528-uae-warns-of-fake-calls-and-cyber-scams-during-heightened-alert"
       },
       {
-        "title": "Jamie Laing, Sophie Habboo exude power couple vibes at BRIT Awards",
-        "link": "https://www.geo.tv/latest/653512-jamie-laing-sophie-habboo-exude-power-couple-vibes-at-brit-awards"
+        "title": "Holly Willoughby could be next big digital star after Gordon Ramsay",
+        "link": "https://www.geo.tv/latest/653522-holly-ramsay-could-be-next-digital-star-after-gordon-ramsay"
       },
       {
-        "title": "Blast at India explosives factory kills 17",
-        "link": "https://www.geo.tv/latest/653514-blast-at-india-explosives-factory-kills-17"
+        "title": "Emergency helplines announced for Pakistanis in Gulf states",
+        "link": "https://www.geo.tv/latest/653523-emergency-helplines-announced-for-pakistanis-in-gulf-states"
       },
       {
-        "title": "Harry Styles leave fans suspicious as new album ads feature Netflix logo",
-        "link": "https://www.geo.tv/latest/653503-harry-styles-leave-fans-suspicious-as-new-album-ads-feature-netflix-logo"
+        "title": "Sabrina Carpenter absence at BRITs 2026 triggers fan outrage: Here's why",
+        "link": "https://www.geo.tv/latest/653511-sabrina-carpenter-absence-at-brits-2026-triggers-fan-outrage"
       },
       {
-        "title": "Beatrice, Eugenie excluded from royal gathering: 'completely blindsided'",
-        "link": "https://www.geo.tv/latest/653510-beatrice-eugenie-excluded-from-royal-gathering-completely-blindsided"
+        "title": "Prince William, Princess Kate make historic move in joint video message",
+        "link": "https://www.geo.tv/latest/653517-prince-william-princess-kate-make-historic-move-in-joint-video-message"
       }
     ],
     "NDTV": [
       {
-        "title": "US-Israel Attacks Iran LIVE Updates: \"Your War Is Not With Your Neighbours\": UAE Official Tells Iran",
-        "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
+        "title": "\"We Belong To God\": Iran Embassy In Pak Shares Post With Khamenei's Robe",
+        "link": "https://www.ndtv.com/world-news/we-belong-to-god-iran-embassy-in-islamabad-posts-image-with-khamenei-s-robe-scarf-on-empty-chair-11153466#publisher=newsstand"
       },
       {
-        "title": "Multiple Explosions In Tehran, Israel Says Targeting \"Heart\" Of City",
-        "link": "https://www.ndtv.com/world-news/israel-us-iran-conflict-khamenei-tehran-massive-explosion-in-tehran-israel-says-targeting-heart-of-city-11153426#publisher=newsstand"
+        "title": "After Khamenei's Death, Iran Regime's India Connection Back In Focus",
+        "link": "https://www.ndtv.com/world-news/after-khameneis-death-irans-regimes-india-connection-back-in-focus-ayatollah-ruhollah-musavi-khomeini-kintoor-barabanki-up-11152865#publisher=newsstand"
       },
       {
-        "title": "8 Dead In Pro-Iran Protest At US Consulate In Pak, Most Had Bullet Wounds",
-        "link": "https://www.ndtv.com/world-news/8-dead-in-pro-iran-protest-at-us-consulate-in-pak-most-had-bullet-wounds-11153364#publisher=newsstand"
+        "title": "1,200 Kashmiris, 84 Students Stranded: Middle East Chaos' Impact On Indians",
+        "link": "https://www.ndtv.com/world-news/iran-israel-news-1-200-kashmiris-84-students-stranded-middle-east-chaos-impact-on-indians-11153744#publisher=newsstand"
       },
       {
-        "title": "Saudi Prince Called Trump To Strike Iran Despite Public Push For Peace: Report",
-        "link": "https://www.ndtv.com/world-news/us-israel-attack-iran-iran-israel-tensions-news-explosion-in-tehran-saudi-prince-called-donald-trump-to-strike-iran-despite-public-push-for-peace-repo-11153456#publisher=newsstand"
+        "title": "Rajiv Gandhi To George Bush, World Leaders In Power When Iran's Khamenei Took Over",
+        "link": "https://www.ndtv.com/world-news/rajiv-gandhi-to-george-bush-world-leaders-in-power-when-irans-ayatollah-khamenei-took-over-11153151#publisher=newsstand"
       },
       {
-        "title": "In Pictures: How Trump Monitored \"Operation Epic Fury\" Against Iran",
-        "link": "https://www.ndtv.com/world-news/in-pictures-how-trump-monitored-operation-epic-fury-against-iran-that-killed-ayatollah-ali-khamenei-11153377#publisher=newsstand"
+        "title": "\"Seek Shelter\": Dubai's Fresh Emergency Alerts To Residents Over \"Missile Threats\"",
+        "link": "https://www.ndtv.com/world-news/dubai-news-israel-iran-war-ayatollah-ali-khamenei-burj-khalifa-dubais-emergency-alerts-to-residents-over-missile-threat-seek-shelter-11153592#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-01 09:56 UTC"
+  "last_updated": "2026-03-01 10:28 UTC"
 }
