@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Israel Attacks Iran LIVE Updates: More Explosions Heard In Dubai, Doha And Manama",
-      "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -107,7 +101,7 @@
         "link": "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html"
       },
       {
-        "title": "Maps: Where the U.S-Led Strikes Hit Iran and Tehran’s Retaliation",
+        "title": "Maps: Where the U.S.-Led Strikes Hit Iran and Tehran’s Retaliation",
         "link": "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html"
       },
       {
@@ -121,27 +115,31 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "US troop deaths ignite anger over ‘war for Israel’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-troop-deaths-ignite-anger-over-war-israel"
+      },
+      {
+        "title": "UAE shuts Tehran embassy after Iran missile strikes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-shuts-tehran-embassy-after-iran-missile-strikes"
+      },
+      {
+        "title": "Deadly strikes hit Israel as Iran promises to avenge Khamenei's killing",
+        "link": "https://www.middleeasteye.net/news/deadly-strikes-hit-israel-iran-promises-avenge-khameneis-killing"
+      },
+      {
         "title": "Lindsey Graham met Saudi leader to 'bring him on board' a week before Iran attack",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lindsey-graham-met-saudi-leader-bring-him-board-week-iran-attack"
       },
       {
         "title": "US troop deaths ignite anger over ‘war for Israel’",
         "link": "https://www.middleeasteye.net/news/us-troop-deaths-ignite-anger-over-war-israel"
-      },
-      {
-        "title": "Lindsey Graham met Saudi leader to 'bring him on board' a week before Iran attack",
-        "link": "https://www.middleeasteye.net/news/lindsey-graham-met-saudi-leader-bring-him-board-week-attack"
-      },
-      {
-        "title": "Iran foreign minister says ‘no limit’ to self-defence after US warning",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-says-no-limit-self-defence-after-us-warning"
-      },
-      {
-        "title": "At least 11 Israelis missing after Iranian missile strike",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-11-israelis-missing-after-iranian-missile-strike"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Harry Styles, Louis Tomlinson fuel flames of One Direction reunion rumours",
+        "link": "https://www.geo.tv/latest/653584-harry-styles-louis-tomlinson-fuel-flames-of-one-direction-reunion-rumours"
+      },
       {
         "title": "When We Were Young Festival announces 2026 hiatus: 'See you in 2027'",
         "link": "https://www.geo.tv/latest/653582-when-we-were-young-festival-announces-2026-hiatus-see-you-in-2027"
@@ -157,32 +155,28 @@
       {
         "title": "Timothée Chalamet desperately trying to fix 'grumpy' boyfriend image?",
         "link": "https://www.geo.tv/latest/653563-timothe-chalamet-desperately-trying-to-fix-grumpy-boyfriend-image"
-      },
-      {
-        "title": "Geo News broadcast faces repeated disruptions, has nothing to do with message aired after screen hack",
-        "link": "https://www.geo.tv/latest/653574-geo-news-says-aired-message-after-hack-not-linked-to-channel"
       }
     ],
     "NDTV": [
       {
-        "title": "Iran Claims Carrier Abraham Lincoln \"Struck\" By Missiles. Not Hit, Says US",
-        "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-us-aircraft-carrier-uss-abraham-lincoln-struck-by-4-ballistic-missiles-iran-revolutionary-guards-11154854#publisher=newsstand"
+        "title": "Adani Group Confirms Israel-Based Haifa Port Fully Secure, Operational",
+        "link": "https://www.ndtv.com/world-news/adani-group-confirms-israel-based-haifa-port-fully-secure-operational-11155795#publisher=newsstand"
       },
       {
-        "title": "Israel Hacked Iranian Prayer App, Urged IRGC To Betray The Regime: Report",
-        "link": "https://www.ndtv.com/world-news/iran-israel-live-updates-tehran-ayatollah-khamenei-mossad-trump-israel-hacked-iranian-prayer-app-urged-irgc-to-betray-the-regime-report-11155098#publisher=newsstand"
+        "title": "Why Ayatollah Khamenei Kept One Hand Hidden Beneath His Cloak For 45 Years",
+        "link": "https://www.ndtv.com/world-news/us-israel-attacks-iran-live-updates-ayatollah-ali-khamenei-israel-iran-war-news-burj-khalifa-news-dubai-attack-tehran-bombing-why-ayatollah-khamenei-k-11154828#publisher=newsstand"
       },
       {
-        "title": "165 Ballistic Missiles And 541 Drones: UAE Counts What Iran Sent",
-        "link": "https://www.ndtv.com/world-news/165-ballistic-missiles-and-541-drones-uae-counts-what-iran-sent-11155069#publisher=newsstand"
+        "title": "US Sunk 9 Iranian Ships, Going After The Rest: Trump's Big Claim",
+        "link": "https://www.ndtv.com/world-news/iran-news-us-sunk-9-iranian-ships-going-after-the-rest-trumps-big-claim-11155637#publisher=newsstand"
       },
       {
-        "title": "US-Israel Attacks Iran LIVE Updates: More Explosions Heard In Dubai, Doha And Manama",
-        "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
+        "title": "Death Count Rises To 165 From Strike On Girls' School: Iranian Media",
+        "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-death-count-rises-to-165-from-strike-on-girls-school-iranian-media-11155609#publisher=newsstand"
       },
       {
-        "title": "Will India Have Enough Oil If Iran War Escalates? Oil Reserves At A Glance",
-        "link": "https://www.ndtv.com/india-news/will-india-have-enough-oil-if-iran-war-escalates-oil-reserves-at-a-glance-11155006#publisher=newsstand"
+        "title": "Amid Strikes By Iran, \"Misinformation On War\" Warning For Dubai Residents",
+        "link": "https://www.ndtv.com/india-news/dubai-abu-dhabi-amid-strikes-by-iran-uaes-misinformation-on-war-warning-for-residents-11155558#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-01 18:52 UTC"
+  "last_updated": "2026-03-01 19:18 UTC"
 }
