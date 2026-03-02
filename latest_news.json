@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Israel Attacks Iran LIVE Updates:PM Modi Expresses 'Deep Concern' Over Middle East Crisis, Calls for Dialogue",
+      "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,7 +21,7 @@
         "link": "https://www.bbc.com/news/videos/cvgk8vj56v1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Oil prices rise after ships attacked near Strait of Hormuz",
+        "title": "Oil prices jump after attack on Iran threatens crucial Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -24,6 +30,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "What we know on day three of US-Israeli attacks on Iran",
+        "link": "https://www.aljazeera.com/news/2026/3/2/what-we-know-on-day-three-of-us-israeli-attacks-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "British military base in Cyprus targeted in suspected drone attack",
+        "link": "https://www.aljazeera.com/news/2026/3/2/british-military-base-in-cyprus-targeted-in-suspected-drone-attack?traffic_source=rss"
+      },
       {
         "title": "Blasts shake Qatar, UAE, Kuwait as Iran’s retaliatory strikes continue",
         "link": "https://www.aljazeera.com/news/2026/3/2/blasts-shake-qatar-uae-kuwait-as-irans-retaliatory-strikes-continue?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Analysis: Khamenei’s killing leaves Iran’s ‘axis’ in disarray",
         "link": "https://www.aljazeera.com/features/2026/3/2/hold-analysis-khameneis-killing-leaves-irans-axis-in-disarray?traffic_source=rss"
-      },
-      {
-        "title": "After Iran’s salvo hit their skylines, will Gulf states enter the war?",
-        "link": "https://www.aljazeera.com/features/2026/3/2/after-irans-salvo-hit-their-skylines-will-the-gulf-states-enter-the-war?traffic_source=rss"
-      },
-      {
-        "title": "Al Jazeera reports from Beirut as residents flee following Israeli strikes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/al-jazeera-reports-from-beirut-as-residents-flee-following-israeli-strikes?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,8 +80,12 @@
         "link": "https://www.dawn.com/news/1977366/multiple-roads-closed-in-karachis-west-south-districts-over-prevailing-security-situation"
       },
       {
-        "title": "Market jitters hit KSE-100, index down 13,000 midday",
-        "link": "https://www.dawn.com/news/1977356/market-jitters-hit-kse-100-index-down-13000-midday"
+        "title": "Market jitters hit KSE-100, index down over 16,000 points",
+        "link": "https://www.dawn.com/news/1977356/market-jitters-hit-kse-100-index-down-over-16000-points"
+      },
+      {
+        "title": "Pentagon tells Congress no sign that Iran was going to attack US first, sources say",
+        "link": "https://www.dawn.com/news/1977395/pentagon-tells-congress-no-sign-that-iran-was-going-to-attack-us-first-sources-say"
       },
       {
         "title": "Oil surges as Iran conflict disrupts Middle Eastern supply flow",
@@ -84,10 +94,6 @@
       {
         "title": "$60bn Indian plan for river storage raises alarm",
         "link": "https://www.dawn.com/news/1977295/60bn-indian-plan-for-river-storage-raises-alarm"
-      },
-      {
-        "title": "Three die after consuming illicit liquor in Karachi’s Nazimabad",
-        "link": "https://www.dawn.com/news/1977341/three-die-after-consuming-illicit-liquor-in-karachis-nazimabad"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "China calls for ceasefire, diplomacy to end Middle East conflict",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-calls-ceasefire-diplomacy-end-middle-east-conflict"
+        "title": "At least 131 Iranian cities affected by US-Israeli attacks, Red Crescent says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-131-iranian-cities-affected-us-israeli-attacks-red-crescent-says"
       },
       {
-        "title": "At least 25 killed at Pakistan's pro-Iran weekend protests",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-25-killed-pakistans-pro-iran-weekend-protests"
+        "title": "Iran army says targeted US Ali Al Salem airbase in Kuwait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-army-says-targeted-us-ali-al-salem-airbase-kuwait"
       },
       {
-        "title": "UK sending rapid teams to help citizens leave Middle East",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-sending-rapid-teams-help-citizens-leave-middle-east"
+        "title": "Iran Guards say launched missile attack on Tel Aviv, Haifa and east Jerusalem",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-guards-say-launched-missile-attack-tel-aviv-haifa-and-east"
       },
       {
-        "title": "US-Israeli strikes kill at least 27 in the northwestern Iran, official says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-strikes-kill-least-27-northwestern-iran-official-says"
+        "title": "Iran Red Crescent says 555 people killed in Iran since start of war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-red-crescent-says-555-people-killed-iran-start-war"
       },
       {
-        "title": "Three killed in US-Israeli strikes on western Iran, state media says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-us-israeli-strikes-western-iran-state-media-says"
+        "title": "Iran condemns ‘shameful’ silence after Israeli attacks on Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-condemns-shameful-silence-after-israeli-attacks-lebanonesmaeil"
       }
     ],
     "GeoTV": [
       {
-        "title": "Nostradamus' modern muse predicts royal family upheaval: 'Shocking'",
-        "link": "https://www.geo.tv/latest/653647-fortune-teller-predicts-upsetting-futue-for-royal-family"
+        "title": "El Nino may return in 2026 and make planet even hotter",
+        "link": "https://www.geo.tv/latest/653659-el-nino-may-return-in-2026-and-make-planet-even-hotter"
       },
       {
-        "title": "Who killed Swedish Prime Minister Olof Palme? Amateur sleuths ask AI for help",
-        "link": "https://www.geo.tv/latest/653656-who-killed-swedish-pm-olof-palme-amateur-sleuths-ask-ai-for-help"
+        "title": "Vin Diesel shares exciting news on 25th anniversary of 'Fast & Furious'",
+        "link": "https://www.geo.tv/latest/653658-vin-diesel-shares-exciting-news-on-25th-anniversary-of-fast-furious"
       },
       {
-        "title": "King Felipe presides over historic opening night of tech summit",
-        "link": "https://www.geo.tv/latest/653646-king-felipe-presides-over-historic-opening-night-of-tech-summit"
+        "title": "Beatrice, Eugenie await new verdict after explosive notice from King Charles",
+        "link": "https://www.geo.tv/latest/653664-beatrice-eugenie-await-new-verdict-after-explosive-notice-from-king-charles"
       },
       {
-        "title": "Archie, Lilibet likely to receive sad update from grandpa King Charles",
-        "link": "https://www.geo.tv/latest/653654-archie-lilibet-likely-to-receive-sad-update-from-grandpa-king-charles"
+        "title": "Colorado QB Dominiq Ponder's life ends in tragic car crash at 23",
+        "link": "https://www.geo.tv/latest/653660-colorado-qb-dominiq-ponders-life-ends-in-tragic-car-crash-at-23"
       },
       {
-        "title": "Meghan ditches luxurious staple in thoughtful move for important mission",
-        "link": "https://www.geo.tv/latest/653651-meghan-ditches-luxurious-staple-in-thoughtful-move-for-important-mission"
+        "title": "Live on air: Iranian news anchor breaks down while announcing supreme leader's death",
+        "link": "https://www.geo.tv/latest/653662-live-on-air-iranian-news-anchor-breaks-down-while-announcing-supreme-leaders-death"
       }
     ],
     "NDTV": [
       {
-        "title": "'Scary, Surreal': UK Influencers Shelter In Dubai Basements Amid Iran Strikes",
-        "link": "https://www.ndtv.com/world-news/scary-surreal-uk-influencers-kate-ferdinand-luisa-zissman-shelter-in-dubai-basements-amid-iran-strikes-iran-israel-us-conflict-11156994#publisher=newsstand"
+        "title": "On Camera: Iran's Drones Hit Aramco Oil Refinery In Saudi Arabia",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-ras-tanura-irans-drones-hit-aramco-oil-refinery-in-saudi-arabia-11157608#publisher=newsstand"
       },
       {
-        "title": "31 Killed As Israel Strikes Beirut After Hezbollah Fires Rockets, Drones",
-        "link": "https://www.ndtv.com/world-news/israeli-strikes-target-beiruts-southern-suburbs-after-hezbollah-fires-rockets-and-drones-over-ayatollah-khameneis-killing-11156408#publisher=newsstand"
+        "title": "Khamenei Is Dead, So Who Is Directing Attacks By Iran On Gulf Countries?",
+        "link": "https://www.ndtv.com/world-news/ayatollah-ali-khamenei-iran-attacks-israel-irgc-islamic-revolutionary-guard-corps-khamenei-is-dead-so-who-is-directing-attacks-by-iran-on-gulf-countri-11157800#publisher=newsstand"
       },
       {
-        "title": "Son Of Iran's Last Shah Urges People To 'Shout' Down Government",
-        "link": "https://www.ndtv.com/world-news/middle-east-tensions-son-of-irans-last-shah-urges-people-to-shout-down-government-11155804#publisher=newsstand"
+        "title": "Opinion: Opinion | 'Worst Day Of My Life': How Khamenei's Killing Has United Shias, Sunnis Globally",
+        "link": "https://www.ndtv.com/opinion/israel-iran-war-how-khameneis-killing-has-ended-up-uniting-the-muslim-world-11157461#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Signal To US Or Something Deeper? Why Iran Is Attacking Dubai And Abu Dhabi",
-        "link": "https://www.ndtv.com/opinion/iran-israel-war-this-is-why-tehran-is-really-attacking-dubai-and-abu-dhabi-11157150#publisher=newsstand"
+        "title": "US-Israel Attacks Iran LIVE Updates:PM Modi Expresses 'Deep Concern' Over Middle East Crisis, Calls for Dialogue",
+        "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
       },
       {
-        "title": "Update 4- Conflict closes Dubai, Abu Dhabi stock markets 'until further notice'",
-        "link": "https://www.ndtv.com/world-news/iran-israel-conflict-closes-dubai-abu-dhabi-stock-markets-until-further-notice-11155923#publisher=newsstand"
+        "title": "How Iran Transformed From Secular Monarchy To Shia Islamic Republic",
+        "link": "https://www.ndtv.com/world-news/how-iran-transformed-from-secular-monarchy-to-shia-islamic-republic-iran-us-israel-conflict-11157548#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-02 07:57 UTC"
+  "last_updated": "2026-03-02 08:55 UTC"
 }
