@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Will petrol and diesel prices go up now?",
+        "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Starmer seeks to carve out distinct UK approach to this conflict",
         "link": "https://www.bbc.com/news/articles/c0rj4nvw07do?at_medium=RSS&at_campaign=rss"
       },
@@ -15,15 +19,23 @@
         "link": "https://www.bbc.com/news/videos/ce8wed33e07o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'They hit so hard the house was shaking': Iranians describe impact of US-Israel attacks",
-        "link": "https://www.bbc.com/news/articles/cx2jyv3jp01o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Will petrol and diesel prices go up now?",
-        "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+        "title": "Limited flights leave UAE but disruption continues amid Iran strikes",
+        "link": "https://www.bbc.com/news/articles/c3v7ele1k4zo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "What is Iran’s military strategy? How has it changed since June 2025 war?",
+        "link": "https://www.aljazeera.com/news/2026/3/2/what-is-irans-military-strategy-how-it-has-changed-since-june-2025-war?traffic_source=rss"
+      },
+      {
+        "title": "Hegseth: US didn’t start war with Iran, but we are ‘finishing it’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/hegseth-us-didnt-start-war-with-iran-but-we-are-finishing?traffic_source=rss"
+      },
+      {
+        "title": "Video shows Iranian missile strike hit Beersheba, Israel",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/video-shows-iranian-missile-strike-hit-beersheba-israel?traffic_source=rss"
+      },
       {
         "title": "‘Outrage over US-Israel attacks on Iran may have sparked violence in Texas’",
         "link": "https://www.aljazeera.com/video/quotable/2026/3/2/outrage-over-us-israel-attacks-on-iran-may-have-sparked-violence-in?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Pakistan calls troops, orders 3-day curfew as 24 killed in pro-Iran rallies",
         "link": "https://www.aljazeera.com/news/2026/3/2/pakistan-calls-troops-orders-3-day-curfew-as-24-killed-in-pro-iran-rallies?traffic_source=rss"
-      },
-      {
-        "title": "Will the US-Israeli attacks impact Iran’s participation in World Cup 2026?",
-        "link": "https://www.aljazeera.com/sports/2026/3/2/will-the-us-israeli-attacks-impact-irans-participation-in-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "Gas prices soar as QatarEnergy halts LNG production after Iran attacks",
-        "link": "https://www.aljazeera.com/news/2026/3/2/qatarenergy-worlds-largest-lng-firm-halts-production-after-iran-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Israel intensifies war on Lebanon after Hezbollah attack",
-        "link": "https://www.aljazeera.com/features/2026/3/2/israel-intensifies-war-on-lebanon-after-hezbollah-attack?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,8 +82,8 @@
         "link": "https://www.dawn.com/news/1977511/talks-between-pakistan-imf-mission-go-virtual-amid-regional-volatility"
       },
       {
-        "title": "Pakistan’s stocks of petroleum products at ‘comfortable levels’, committee told",
-        "link": "https://www.dawn.com/news/1977522/pakistans-stocks-of-petroleum-products-at-comfortable-levels-committee-told"
+        "title": "Pakistan’s stock of petroleum products at ‘comfortable levels’, committee told",
+        "link": "https://www.dawn.com/news/1977522/pakistans-stock-of-petroleum-products-at-comfortable-levels-committee-told"
       },
       {
         "title": "Kuwait shoots down US jets in friendly-fire incident, US Centcom says",
@@ -115,8 +115,12 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Beirut residents: 'We are very tired of wars'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/beirut-residents-we-are-very-tired-wars"
+      },
+      {
         "title": "Israel shuts Al-Aqsa Mosque and bans Ramadan prayer for third consecutive day",
-        "link": "https://www.middleeasteye.net/news/strikes-pummel-iran-israel-shuts-al-aqsa-mosque-during-ramadan"
+        "link": "https://www.middleeasteye.net/news/iran-war-israel-shuts-aqsa-mosque-ramadan"
       },
       {
         "title": "Israeli settlers shoot dead two Palestinian brothers in Nablus attack",
@@ -129,13 +133,21 @@
       {
         "title": "US defence secretary says aim of Iran attacks to target missiles",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-defense-secretary-says-aim-iran-attacks-target-missiles"
-      },
-      {
-        "title": "Israeli army issues expulsion orders for 18 Lebanese towns",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-issues-expulsion-orders-18-lebanese-towns"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Apple launches iPhone 17e at $599 with satellite messaging",
+        "link": "https://www.geo.tv/latest/653724-apple-launches-iphone-17e-at-599-with-satellite-messaging"
+      },
+      {
+        "title": "Rosanna Pansino accuses MrBeast of buying YouTube views",
+        "link": "https://www.geo.tv/latest/653718-rosanna-pansino-accuses-mrbeast-of-buying-youtube-views"
+      },
+      {
+        "title": "Michelle Williams pays tribute to James Van Der Beek at Actor Awards 2026",
+        "link": "https://www.geo.tv/latest/653717-michelle-williams-pays-tribute-to-james-van-der-beek-at-actor-awards-2026"
+      },
       {
         "title": "Anthropic's Claude hit by disruptions days after Pentagon dispute",
         "link": "https://www.geo.tv/latest/653719-anthropics-claude-hit-by-disruptions-days-after-pentagon-dispute"
@@ -143,18 +155,6 @@
       {
         "title": "Which Muslim countries are supporting ‘Operation Epic Fury' against Iran?",
         "link": "https://www.geo.tv/latest/653686-which-muslim-countries-are-supporting-operation-epic-fury-against-iran"
-      },
-      {
-        "title": "Cardi B shuts down haters on stage with savage clapback",
-        "link": "https://www.geo.tv/latest/653700-cardi-b-shuts-down-haters-on-stage-with-savage-clapback"
-      },
-      {
-        "title": "Prince William's worries grow about George after latest incident",
-        "link": "https://www.geo.tv/latest/653708-prince-williams-worries-grow-about-george-after-latest-incident"
-      },
-      {
-        "title": "Bowen Yang held back by surprising circumstances to attend SAG Awards",
-        "link": "https://www.geo.tv/latest/653709-bowen-yang-held-back-by-surprising-circumstances-to-attend-sag-awards"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-02 14:30 UTC"
+  "last_updated": "2026-03-02 15:09 UTC"
 }
