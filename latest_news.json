@@ -1,21 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "MiddleEastEye",
-      "title": "Breaking: US fighter jet crashes in Kuwait",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/breaking-us-fighter-jet-crashes-kuwait"
-    },
-    {
-      "source": "MiddleEastEye",
-      "title": "Breaking: US fighter jet crashes in Kuwait",
-      "link": "https://www.middleeasteye.net/news/breaking-us-fighter-jet-crashes-kuwait"
-    },
-    {
-      "source": "NDTV",
-      "title": "US-Israel Attacks Iran LIVE Updates: Blasts Across Dubai, Doha, Sirens In Tel Aviv As Iran Launches Missiles Again",
-      "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -41,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Analysis: Khamenei’s killing leaves Iran’s ‘axis’ in disarray",
+        "link": "https://www.aljazeera.com/features/2026/3/2/hold-analysis-khameneis-killing-leaves-irans-axis-in-disarray?traffic_source=rss"
+      },
+      {
+        "title": "After Iran’s salvo hit their skylines, will Gulf states enter the war?",
+        "link": "https://www.aljazeera.com/features/2026/3/2/after-irans-salvo-hit-their-skylines-will-the-gulf-states-enter-the-war?traffic_source=rss"
+      },
+      {
         "title": "Al Jazeera reports from Beirut as residents flee following Israeli strikes",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/al-jazeera-reports-from-beirut-as-residents-flee-following-israeli-strikes?traffic_source=rss"
       },
@@ -51,14 +43,6 @@
       {
         "title": "Israel bombs Beirut after Hezbollah fires rockets in Iran war retaliation",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/israel-bombs-beirut-after-hezbollah-fires-rockets-in-iran-war-retaliation?traffic_source=rss"
-      },
-      {
-        "title": "Netanyahu vows increasing strikes on Tehran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/netanyahu-vows-increasing-strikes-on-tehran?traffic_source=rss"
-      },
-      {
-        "title": "Poll suggests only a quarter of Americans support attacks on Iran",
-        "link": "https://www.aljazeera.com/news/2026/3/2/poll-suggests-only-a-quarter-of-americans-support-attacks-on-iran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,24 +70,24 @@
     ],
     "Dawn": [
       {
-        "title": "KSE-100 crashes over 15,000 points during early trading",
-        "link": "https://www.dawn.com/news/1977356/kse-100-crashes-over-15000-points-during-early-trading"
+        "title": "Market jitters hit KSE-100, index down 13,000 midday",
+        "link": "https://www.dawn.com/news/1977356/market-jitters-hit-kse-100-index-down-13000-midday"
       },
       {
-        "title": "Khamenei’s assassination brings world to precipice of chaos",
-        "link": "https://www.dawn.com/news/1977286/khameneis-assassination-brings-world-to-precipice-of-chaos"
-      },
-      {
-        "title": "Pakistan urges restraint as missiles rain down on Gulf",
-        "link": "https://www.dawn.com/news/1977281/pakistan-urges-restraint-as-missiles-rain-down-on-gulf"
-      },
-      {
-        "title": "Death toll from girls’ school attack in Iran surges to 148",
-        "link": "https://www.dawn.com/news/1977275/death-toll-from-girls-school-attack-in-iran-surges-to-148"
+        "title": "Multiple roads closed in Karachi’s West, South districts over prevailing security situation",
+        "link": "https://www.dawn.com/news/1977366/multiple-roads-closed-in-karachis-west-south-districts-over-prevailing-security-situation"
       },
       {
         "title": "$60bn Indian plan for river storage raises alarm",
         "link": "https://www.dawn.com/news/1977295/60bn-indian-plan-for-river-storage-raises-alarm"
+      },
+      {
+        "title": "Three die after consuming illicit liquor in Karachi’s Nazimabad",
+        "link": "https://www.dawn.com/news/1977341/three-die-after-consuming-illicit-liquor-in-karachis-nazimabad"
+      },
+      {
+        "title": "Khamenei’s assassination brings world to precipice of chaos",
+        "link": "https://www.dawn.com/news/1977286/khameneis-assassination-brings-world-to-precipice-of-chaos"
       }
     ],
     "APNews": [],
@@ -131,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Turkey's trade minister says day-trip crossings halted at Iranian border",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkeys-trade-minister-says-day-trip-crossings-halted-iranian-border"
+        "title": "Three killed in US-Israeli strikes on western Iran, state media says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-us-israeli-strikes-western-iran-state-media-says"
       },
       {
-        "title": "Breaking: US fighter jet crashes in Kuwait",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/breaking-us-fighter-jet-crashes-kuwait"
+        "title": "In photos: Aftermath of Israeli strikes on Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/photos-aftermath-israeli-strikes-lebanon"
       },
       {
-        "title": "Explosions heard in Dubai, Doha and Manama",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-dubai-doha-and-manama"
+        "title": "EU stands with member states in face of any threat, von der Leyen says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-stands-member-states-face-any-threat-von-der-leyen-says"
       },
       {
-        "title": "Breaking: US fighter jet crashes in Kuwait",
-        "link": "https://www.middleeasteye.net/news/breaking-us-fighter-jet-crashes-kuwait"
+        "title": "Report: Small fire under control at Saudi Aramco refinery after apparent drone strike",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-small-fire-under-control-saudi-aramco-refinery-after-apparent"
       },
       {
-        "title": "Larijani: Trump has turned ‘America First’ to ‘Israel first’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/larijani-trump-has-turned-america-first-israel-first"
+        "title": "Explosions heard near Iraq's Erbil airport",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-near-iraqs-erbil-airport"
       }
     ],
     "GeoTV": [
       {
-        "title": "Robbie Williams suffers horror injury before BRITs performance",
-        "link": "https://www.geo.tv/latest/653633-robbie-williams-suffers-horror-injury-before-brits-performance"
+        "title": "Seth Rogen spills funny secret about 'The Studio' co-star Catherine O'Hara",
+        "link": "https://www.geo.tv/latest/653645-seth-rogen-spills-funny-secret-about-the-studio-co-star-catherine-ohara"
       },
       {
-        "title": "Tensions grow at Buckingham Palace as Prince William takes quiet step",
-        "link": "https://www.geo.tv/latest/653631-tensions-grow-at-buckingham-palace-as-prince-william-takes-quiet-step"
+        "title": "'No intelligence suggests' Iran planned to attack US first, Pentagon tells Congress",
+        "link": "https://www.geo.tv/latest/653644-no-intelligence-suggests-iran-planned-to-attack-us-first-pentagon-tells-congress"
       },
       {
-        "title": "Love Island's Anna Vakili reflects on miscarriage and pregnancy shock",
-        "link": "https://www.geo.tv/latest/653629-love-island-star-anna-vakili-reflects-on-miscarriage-and-pregnancy-shock"
+        "title": "Who was Austin shooting suspect Ndiaga Diagne? Here's what we know",
+        "link": "https://www.geo.tv/latest/653639-who-was-austin-shooting-suspect-ndiaga-diagne-heres-what-we-know"
       },
       {
-        "title": "Prince William turns deaf ear to Andrew's public apologyÂ",
-        "link": "https://www.geo.tv/latest/653627-prince-william-turns-deaf-ear-to-andrews-public-apology"
+        "title": "Australia says it may go after app stores, search engines in AI age crackdown",
+        "link": "https://www.geo.tv/latest/653628-australia-it-could-go-after-app-stores-search-engines-in-ai-age-crackdown"
       },
       {
-        "title": "Noel Gallagher parties until 4am after BRITS Songwriter of Year win",
-        "link": "https://www.geo.tv/latest/653626-noel-gallagher-parties-until-4am-after-brits-songwriter-of-year-win"
+        "title": "Indian news channel hacked, airs pro-Pakistan slogans",
+        "link": "https://www.geo.tv/latest/653642-indian-news-channel-hacked-airs-pro-pakistan-slogans"
       }
     ],
     "NDTV": [
       {
-        "title": "US-Israel Attacks Iran LIVE Updates: Blasts Across Dubai, Doha, Sirens In Tel Aviv As Iran Launches Missiles Again",
-        "link": "https://www.ndtv.com/world-news/iran-us-tensions-live-updates-explosion-rocks-iran-amid-heightened-nuclear-tensions-with-us-iran-israel-tensions-tehran-tel-aviv-tensions-11148388#publisher=newsstand"
+        "title": "'Scary, Surreal': UK Influencers Shelter In Dubai Basements Amid Iran Strikes",
+        "link": "https://www.ndtv.com/world-news/scary-surreal-uk-influencers-kate-ferdinand-luisa-zissman-shelter-in-dubai-basements-amid-iran-strikes-iran-israel-us-conflict-11156994#publisher=newsstand"
       },
       {
-        "title": "Mohammad Raad, Head Of Hezbollah's Political Wing, Killed In Israeli Strikes",
-        "link": "https://www.ndtv.com/world-news/israel-strikes-beirut-iran-israel-tensions-iran-news-mohammad-raad-head-of-hezbollahs-political-wing-killed-in-israeli-strikes-11157044#publisher=newsstand"
+        "title": "31 Killed As Israel Strikes Beirut After Hezbollah Fires Rockets, Drones",
+        "link": "https://www.ndtv.com/world-news/israeli-strikes-target-beiruts-southern-suburbs-after-hezbollah-fires-rockets-and-drones-over-ayatollah-khameneis-killing-11156408#publisher=newsstand"
       },
       {
-        "title": "\"Deepfake\": Tirumala Temple Board Chief On His Objectionable Video",
-        "link": "https://www.ndtv.com/india-news/deepfake-tirumala-temple-board-chief-br-naidu-on-his-objectionable-video-11156965#publisher=newsstand"
+        "title": "Son Of Iran's Last Shah Urges People To 'Shout' Down Government",
+        "link": "https://www.ndtv.com/world-news/middle-east-tensions-son-of-irans-last-shah-urges-people-to-shout-down-government-11155804#publisher=newsstand"
       },
       {
-        "title": "\"Stand Up To Your Army\": Pak News Channels Hacked Amid Khamenei Death Protests",
-        "link": "https://www.ndtv.com/world-news/iran-israel-middle-east-news-stand-up-to-your-army-pak-news-channels-hacked-amid-khamenei-death-stir-11156990#publisher=newsstand"
+        "title": "Opinion: Opinion | Signal To US Or Something Deeper? Why Iran Is Attacking Dubai And Abu Dhabi",
+        "link": "https://www.ndtv.com/opinion/iran-israel-war-this-is-why-tehran-is-really-attacking-dubai-and-abu-dhabi-11157150#publisher=newsstand"
       },
       {
-        "title": "Cheated Death On A Saturday, It Got Him On Another: The Ali Khamenei Story",
-        "link": "https://www.ndtv.com/world-news/ayatollah-ali-khameini-us-attacks-iran-iran-airstrikes-cheated-death-on-a-saturday-it-got-him-on-another-the-ali-khamenei-story-11153110#publisher=newsstand"
+        "title": "Update 4- Conflict closes Dubai, Abu Dhabi stock markets 'until further notice'",
+        "link": "https://www.ndtv.com/world-news/iran-israel-conflict-closes-dubai-abu-dhabi-stock-markets-until-further-notice-11155923#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -218,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-02 06:05 UTC"
+  "last_updated": "2026-03-02 07:13 UTC"
 }
