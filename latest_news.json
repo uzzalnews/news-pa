@@ -3,16 +3,16 @@
   "news": {
     "BBC": [
       {
-        "title": "Starmer criticises Trump, saying UK 'does not believe in regime change from skies'",
-        "link": "https://www.bbc.com/news/articles/cj0dnq2v0e2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Jeremy Bowen: Three days in, we still have no idea where this war is heading",
-        "link": "https://www.bbc.com/news/articles/c178z0p902vo?at_medium=RSS&at_campaign=rss"
+        "title": "Chris Mason: Starmer at odds with Trump in biggest disagreement yet",
+        "link": "https://www.bbc.com/news/articles/cy4wgpdllleo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Texas Trump supporters react to US strikes on Iran",
         "link": "https://www.bbc.com/news/videos/c3wlzn25yj9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jeremy Bowen: Three days in, we still have no idea where this war is heading",
+        "link": "https://www.bbc.com/news/articles/c178z0p902vo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "What is behind the strategy to take out Iran's leadership?",
@@ -25,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "As bombing continues, Israel’s war aim in Iran becomes clear: Regime change",
+        "link": "https://www.aljazeera.com/news/2026/3/3/as-bombing-continues-israels-war-aim-in-iran-becomes-clear-regime-change?traffic_source=rss"
+      },
+      {
+        "title": "Who is Ali Larijani, the Iranian official promising a ‘lesson’ to the US?",
+        "link": "https://www.aljazeera.com/features/2026/3/3/who-is-ali-larijani-the-iranian-official-promising-a-lesson-to-the-us?traffic_source=rss"
+      },
+      {
+        "title": "UAE resumes limited flights amid travel chaos across Middle East",
+        "link": "https://www.aljazeera.com/economy/2026/3/3/uae-resumes-limited-flights-amid-travel-chaos-across-middle-east?traffic_source=rss"
+      },
+      {
+        "title": "Iran to do ‘utmost’ to protect China’s citizens amid US-Israel attacks: FM",
+        "link": "https://www.aljazeera.com/news/2026/3/3/iran-to-do-utmost-to-protect-chinas-citizens-amid-us-israel-attacks-fm?traffic_source=rss"
+      },
+      {
         "title": "Shutdown of Hormuz Strait raises fears of soaring oil prices",
         "link": "https://www.aljazeera.com/economy/2026/3/3/shutdown-of-hormuz-strait-raises-fears-of-soaring-oil-prices?traffic_source=rss"
-      },
-      {
-        "title": "Israeli attacks kill dozens of people across Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/israeli-attacks-kill-dozens-of-people-across-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "US Embassy in Saudi capital Riyadh hit by drones, fire reported: Ministry",
-        "link": "https://www.aljazeera.com/news/2026/3/3/us-embassy-in-saudi-capital-riyadh-hit-by-drones-fire-reported-ministry?traffic_source=rss"
-      },
-      {
-        "title": "US kamikaze drone found on farmland in Iraq",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/us-kamikaze-drone-found-on-farmland-in-iraq?traffic_source=rss"
-      },
-      {
-        "title": "How much could the Iran war cost the US? Here’s what we know",
-        "link": "https://www.aljazeera.com/news/2026/3/3/how-much-could-the-iran-war-cost-the-us-heres-what-we-know?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +70,14 @@
     ],
     "Dawn": [
       {
+        "title": "KSE-100 gains over 3,000 points after Monday’s largest single-session decline",
+        "link": "https://www.dawn.com/news/1977795/kse-100-gains-over-3000-points-after-mondays-largest-single-session-decline"
+      },
+      {
+        "title": "Karachi’s MT Khan Road again closed in view of security situation",
+        "link": "https://www.dawn.com/news/1977799/karachis-mt-khan-road-again-closed-in-view-of-security-situation"
+      },
+      {
         "title": "Trump’s flitting stance on Iran war fuels uncertainty",
         "link": "https://www.dawn.com/news/1977695/trumps-flitting-stance-on-iran-war-fuels-uncertainty"
       },
@@ -80,14 +88,6 @@
       {
         "title": "Strait of Hormuz crisis triggers cost surge fears",
         "link": "https://www.dawn.com/news/1977728/strait-of-hormuz-crisis-triggers-cost-surge-fears"
-      },
-      {
-        "title": "Funerals held for protesters killed in Skardu, Gilgit",
-        "link": "https://www.dawn.com/news/1977707/funerals-held-for-protesters-killed-in-skardu-gilgit"
-      },
-      {
-        "title": "Amid Gulf turmoil, PM seeks space for diplomacy to work",
-        "link": "https://www.dawn.com/news/1977691/amid-gulf-turmoil-pm-seeks-space-for-diplomacy-to-work"
       }
     ],
     "APNews": [],
@@ -97,8 +97,8 @@
         "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-military-power.html"
       },
       {
-        "title": "How Trump Decided to Go to War With Iran",
-        "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html"
+        "title": "‘Pray We Make It Through the Night’: Iran’s Capital Under Siege",
+        "link": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-tehran-strikes.html"
       },
       {
         "title": "U.S. Sends More Troops to the Mideast as Iran War Expands",
@@ -115,27 +115,39 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Iranian National Broadcaster in Tehran hit by US-Israeli strikes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-national-broadcaster-tehran-hit-us-israeli-strikes"
+        "title": "Netanyahu invokes genocidal ‘Amalek’ call amid war on Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-invokes-genocidal-amalek-call-amid-war-iran"
       },
       {
-        "title": "Evacuate immediately, Israel tells residents in 50 Lebanon locations",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evacuate-immediately-israel-tells-residents-50-lebanon-locations"
+        "title": "Morning recap",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-131"
       },
       {
-        "title": "Iran struck Dubai base used by Australian military, says minister",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-struck-dubai-base-used-australian-military-minister-says"
+        "title": "Video: Rubio says US attacked Iran anticipating retaliation for being attacked",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-rubio-says-us-attacked-iran-anticipating-retaliation-being"
       },
       {
-        "title": "Reuters: US Marines fired on protesters at Karachi consulate",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/reuters-us-marines-fired-protesters-karachi-consulate"
+        "title": "US Centcom says IRGC 'command and control facilities' destroyed",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-irgc-command-and-control-facilities-destroyed"
       },
       {
-        "title": "US suspends visa appointments in Pakistan after deadly Karachi protests",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-suspends-visa-appointments-pakistan-after-deadly-karachi-protests"
+        "title": "IRGC says it carried out 'massive attack' on US air base in Bahrain",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-carried-out-massive-attack-us-air-base-bahrain"
       }
     ],
     "GeoTV": [
+      {
+        "title": "PSX rebounds as market recovers over 2,000 points after steep slide",
+        "link": "https://www.geo.tv/latest/653803-psx-rebounds-as-market-recovers-over-2000-points-after-steep-slide"
+      },
+      {
+        "title": "US Embassy, consulates in Pakistan pause visa operations",
+        "link": "https://www.geo.tv/latest/653798-us-embassy-consulates-in-pakistan-pause-visa-operations"
+      },
+      {
+        "title": "Seven police officers suspended over negligence in aftermath of US consulate incident in Karachi",
+        "link": "https://www.geo.tv/latest/653797-seven-police-officers-suspended-over-negligence-in-aftermath-of-us-consulate-incident-in-karachi"
+      },
       {
         "title": "Trade deficit up 25% to $25bn in 8 months",
         "link": "https://www.geo.tv/latest/653795-trade-deficit-up-25-to-25bn-in-8-months"
@@ -143,40 +155,28 @@
       {
         "title": "Will Iran's missiles drain US interceptor stocks?",
         "link": "https://www.geo.tv/latest/653794-will-irans-missiles-drain-us-interceptor-stocks"
-      },
-      {
-        "title": "Inflation surges to 16-month high in February",
-        "link": "https://www.geo.tv/latest/653793-inflation-surges-to-16-month-high-in-february"
-      },
-      {
-        "title": "Duke of Edinburgh rallies Commonwealth spirit ahead of Glasgow 2026",
-        "link": "https://www.geo.tv/latest/653791-duke-of-edinburgh-rallies-commonwealth-spirit-ahead-of-glasgow-2026"
-      },
-      {
-        "title": "King Charles honours musical greats with message of inspiration",
-        "link": "https://www.geo.tv/latest/653790-king-charles-honours-musical-greats-with-message-of-inspiration"
       }
     ],
     "NDTV": [
       {
-        "title": "Zuckerberg Buys $170 Million Mansion In Miami, Breaks Record. Pic Inside",
-        "link": "https://www.ndtv.com/world-news/mark-zuckerberg-buys-170-million-mansion-in-miami-breaks-record-11161549#publisher=newsstand"
+        "title": "Israel Iran War Live Updates: Iran’s Revolutionary Guards Launch Missile Strike On US Base In Bahrain",
+        "link": "https://www.ndtv.com/world-news/israel-iran-war-live-updates-middle-east-crisis-missile-attacks-drone-strikes-tehran-death-toll-oil-market-news-khamenei-death-11157956#publisher=newsstand"
       },
       {
-        "title": "\"Silence Not Neutral\": Sonia Gandhi Slams Centre's Stand On Khamenei Death",
-        "link": "https://www.ndtv.com/india-news/iran-israel-war-sonia-gandhi-ayatollah-ali-khamenei-silence-not-neutral-sonia-gandhi-slams-centres-silence-on-khamenei-death-11161558#publisher=newsstand"
+        "title": "From Nuke Talks To Air Force One Flight, What Led Up To Trump's Iran Order",
+        "link": "https://www.ndtv.com/world-news/iran-israel-news-from-doubts-about-nuke-talks-to-an-air-force-one-flight-what-led-up-to-trumps-order-to-strike-iran-11161197#publisher=newsstand"
       },
       {
-        "title": "Elon Musk Is On Trial Over His Tweets Ahead Of Twitter Purchase",
-        "link": "https://www.ndtv.com/world-news/elon-musk-is-on-trial-over-his-tweets-ahead-of-twitter-purchase-11161593#publisher=newsstand"
+        "title": "Nepal's Gen-Z Uprising Took Their Loved Ones. Now They Hope For Change",
+        "link": "https://www.ndtv.com/world-news/nepals-gen-z-uprising-took-their-loved-ones-now-they-hope-for-change-11161190#publisher=newsstand"
       },
       {
-        "title": "Iran's Double Strike In Dubai: US Army Building, Australian Base Hit",
-        "link": "https://www.ndtv.com/world-news/dubai-news-us-iran-israel-war-middle-east-war-irans-double-strike-in-dubai-us-army-building-australian-base-hit-11161508#publisher=newsstand"
+        "title": "Saudi Arabia Intercepts 8 Iranian Drones Near Cities Of Riyadh, Al-Kharj",
+        "link": "https://www.ndtv.com/world-news/iran-us-israel-conflict-middle-east-saudi-arabia-claims-it-intercepted-8-iranian-drones-near-riyadh-al-kharj-11161624#publisher=newsstand"
       },
       {
-        "title": "Trump's U-Turn On \"Boots On Ground\" After US Embassy In Riyadh Attacked",
-        "link": "https://www.ndtv.com/world-news/iran-israel-news-trumps-u-turn-on-boots-on-ground-after-us-embassy-in-riyadh-attacked-11161379#publisher=newsstand"
+        "title": "Bill Clinton Says Trump Told Him Of 'Some Great Times' With Jeffrey Epstein",
+        "link": "https://www.ndtv.com/world-news/bill-clinton-says-trump-told-him-of-some-great-times-with-jeffrey-epstein-11161450#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-03 04:27 UTC"
+  "last_updated": "2026-03-03 05:34 UTC"
 }
