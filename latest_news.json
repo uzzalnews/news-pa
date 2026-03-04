@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: South Africa vs New Zealand – T20 World Cup semifinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/4/live-south-africa-vs-new-zealand-t20-world-cup?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,15 +21,27 @@
         "link": "https://www.bbc.com/news/articles/c4gqqdy847jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fears over food shortages in Tehran as residents worry about length of war",
-        "link": "https://www.bbc.com/news/articles/cdr2ep48r33o?at_medium=RSS&at_campaign=rss"
+        "title": "'All red lines have been crossed': Gulf states weigh response to Iranian strikes",
+        "link": "https://www.bbc.com/news/articles/cjrqqd8lw2wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Mahmood to stop study visas from four countries due to 'abuse'",
-        "link": "https://www.bbc.com/news/articles/cx2jy74895eo?at_medium=RSS&at_campaign=rss"
+        "title": "'No to war': Pedro Sánchez hits back as Trump threatens full trade embargo on Spain",
+        "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: South Africa vs New Zealand – T20 World Cup semifinal",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/4/live-south-africa-vs-new-zealand-t20-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Iranians to bid farewell to Khamenei as Israel threatens to kill successor",
+        "link": "https://www.aljazeera.com/news/2026/3/4/iranians-to-bid-farewell-to-khamenei-as-israel-threatens-to-kill-successor?traffic_source=rss"
+      },
+      {
+        "title": "Hundreds of drones target Kuwait, Iraq, Saudi Arabia, UAE amid Iran war",
+        "link": "https://www.aljazeera.com/news/2026/3/4/hundreds-of-drones-target-kuwait-iraq-saudi-arabia-uae-amid-iran-war?traffic_source=rss"
+      },
       {
         "title": "Analyst says interest in Epstein files plummeted after war on Iran launched",
         "link": "https://www.aljazeera.com/news/2026/3/4/analyst-says-interest-in-epstein-files-plummeted-after-war-on-iran-launched?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Will the US put ‘boots on the ground’ in Iran?",
         "link": "https://www.aljazeera.com/features/2026/3/4/will-the-us-put-boots-on-the-ground-in-iran?traffic_source=rss"
-      },
-      {
-        "title": "What we know on day five of US-Israeli attacks on Iran",
-        "link": "https://www.aljazeera.com/news/2026/3/4/what-we-know-on-day-five-of-us-israeli-attacks-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "IRGC says Iran in ‘complete control’ of Strait of Hormuz amid Trump threats",
-        "link": "https://www.aljazeera.com/news/2026/3/4/irgc-says-iran-in-complete-control-of-strait-of-hormuz-amid-trump-threats?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iran leader alternatives mostly killed",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/trump-says-iran-leader-alternatives-mostly-killed?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "In-camera briefing on regional situation underway at PM House",
+        "link": "https://www.dawn.com/news/1978263/in-camera-briefing-on-regional-situation-underway-at-pm-house"
+      },
+      {
         "title": "Pakistan requests alternative oil supply route from Saudi Arabia after closure of Hormuz Strait",
         "link": "https://www.dawn.com/news/1978232/pakistan-requests-alternative-oil-supply-route-from-saudi-arabia-after-closure-of-hormuz-strait"
       },
@@ -84,21 +94,21 @@
       {
         "title": "Pakistan Embassy in UAE halts in-person services ‘until further notice’",
         "link": "https://www.dawn.com/news/1978206/pakistan-embassy-in-uae-halts-in-person-services-until-further-notice"
-      },
-      {
-        "title": "KSE-100 plummets over 1,300 points to close in red after early gains",
-        "link": "https://www.dawn.com/news/1978209/kse-100-plummets-over-1300-points-to-close-in-red-after-early-gains"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Who’s in Charge of Iran’s Government After Khamenei’s Killing?",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000010746505/iran-government-leader.html"
+      },
+      {
         "title": "Ayatollah Ali Khamenei’s Son Emerges as Leading Choice to Be His Successor",
         "link": "https://www.nytimes.com/2026/03/03/world/middleeast/iran-mojtaba-khamenei-successor.html"
       },
       {
-        "title": "These American Service Members Died in the Iran Conflict",
-        "link": "https://www.nytimes.com/2026/03/03/world/middleeast/the-4-americans-killed-in-the-iran-war-who-have-been-identified.html"
+        "title": "U.S. and Israel Striking Iran Security Agencies That Helped Crush Protests",
+        "link": "https://www.nytimes.com/2026/03/03/world/middleeast/us-israel-strikes-iran-state-security-police.html"
       },
       {
         "title": "Dan Crenshaw Loses to Steve Toth for Texas District 2",
@@ -107,13 +117,17 @@
       {
         "title": "Roy Cooper and Michael Whatley Advance in North Carolina Senate Race",
         "link": "https://www.nytimes.com/2026/03/03/us/elections/north-carolina-senate-primary-whatley-cooper.html"
-      },
-      {
-        "title": "U.S. Takes Military Action in Ecuador Against ‘Terrorist Organizations’",
-        "link": "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Five killed in overnight strikes on Iran’s Isfahan",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/five-killed-overnight-strikes-irans-isfahan"
+      },
+      {
+        "title": "Bahrain says air defences shot down 74 missiles and 95 drones",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-says-air-defences-shot-down-74-missiles-and-95-drones"
+      },
       {
         "title": "Labour Together: How McSweeney's shadowy think tank went to 'war' against journalists",
         "link": "https://www.middleeasteye.net/news/labour-together-shadowy-thinktank-heart-british-government-accused-investigating-journalists"
@@ -125,36 +139,28 @@
       {
         "title": "Spain warns Trump’s Middle East war risks ‘Russian roulette with millions’",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spain-warns-trumps-middle-east-war-risks-russian-roulette-millions"
-      },
-      {
-        "title": "Israel declares tenth wave of attacks in Tehran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-declares-tenth-wave-attacks-tehran"
-      },
-      {
-        "title": "France plans repatriation flights from Middle East",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/france-plans-repatriation-flights-middle-east"
       }
     ],
     "GeoTV": [
       {
-        "title": "Demi Lovato reflects on constant comparison with Miley Cyrus, Selena Gomez",
-        "link": "https://www.geo.tv/latest/654025-demi-lovato-reflects-on-constant-comparison-with-miley-cyrus-selena-gomez"
+        "title": "Pakistan seeks alternative oil supply route via Saudi Arabia after Hormuz Strait closure",
+        "link": "https://www.geo.tv/latest/654034-pakistan-seeks-alternative-oil-supply-route-from-saudi-arabia-after-strait-of-hormuz-closure"
       },
       {
-        "title": "Cruz Beckham stops for fans to sign autographs ahead of Glasgow gig",
-        "link": "https://www.geo.tv/latest/654024-cruz-beckham-stops-for-fans-to-sign-autographs-ahead-of-glasgow-gig"
+        "title": "King Charles paves way for Prince William without public drama",
+        "link": "https://www.geo.tv/latest/654019-king-charles-paves-way-for-prince-william-without-public-drama"
       },
       {
-        "title": "BTS 'ARIRANG': Tracklist, release date and more surprises",
-        "link": "https://www.geo.tv/latest/654026-bts-arirang-tracklist-release-date-and-more-surprises"
+        "title": "Prince William master plan to lead royal family revealed amid speculations",
+        "link": "https://www.geo.tv/latest/654029-prince-william-master-plan-to-lead-royal-family-unveiled-amid-speculations"
       },
       {
-        "title": "King Charles team releases statement after unfortunate incident",
-        "link": "https://www.geo.tv/latest/654020-king-charles-team-releases-statement-after-unfortunate-incident"
+        "title": "Prince Harry, Meghan Markle spark anger with bold decision: 'Nonsense'",
+        "link": "https://www.geo.tv/latest/654028-prince-harry-meghan-markle-spark-anger-with-bold-decision-nonsense"
       },
       {
-        "title": "Katie Price's husband embroiled in ex drama over edited payment claims",
-        "link": "https://www.geo.tv/latest/654023-katie-prices-husband-embroiled-in-ex-drama-over-edited-payment-claims"
+        "title": "Iran women's team have 'so much concern' about families at home",
+        "link": "https://www.geo.tv/latest/654035-iran-womens-team-have-so-much-concern-about-families-at-home"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-04 09:01 UTC"
+  "last_updated": "2026-03-04 09:54 UTC"
 }
