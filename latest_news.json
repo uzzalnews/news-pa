@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: South Africa vs New Zealand – T20 World Cup semifinal",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/4/live-south-africa-vs-new-zealand-t20-world-cup?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,7 +7,7 @@
         "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Asia stock markets slump and oil rises on fears Iran war may drag on",
+        "title": "UK stock market calms but oil prices rise over fears Iran war may drag on",
         "link": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "LIVE: South Africa vs New Zealand – T20 World Cup semifinal",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/4/live-south-africa-vs-new-zealand-t20-world-cup?traffic_source=rss"
+        "title": "Israeli air attack hits Beirut during live report",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/israeli-air-attack-hits-beirut-during-live-report?traffic_source=rss"
       },
       {
-        "title": "Iranians to bid farewell to Khamenei as Israel threatens to kill successor",
-        "link": "https://www.aljazeera.com/news/2026/3/4/iranians-to-bid-farewell-to-khamenei-as-israel-threatens-to-kill-successor?traffic_source=rss"
+        "title": "How Iran fights an imposed war",
+        "link": "https://www.aljazeera.com/opinions/2026/3/4/how-iran-fights-an-imposed-war?traffic_source=rss"
       },
       {
-        "title": "Hundreds of drones target Kuwait, Iraq, Saudi Arabia, UAE amid Iran war",
-        "link": "https://www.aljazeera.com/news/2026/3/4/hundreds-of-drones-target-kuwait-iraq-saudi-arabia-uae-amid-iran-war?traffic_source=rss"
+        "title": "Iranian missile hits base housing US troops in Qatar",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/iranian-missile-hits-base-housing-us-troops-in-qatar?traffic_source=rss"
       },
       {
-        "title": "Analyst says interest in Epstein files plummeted after war on Iran launched",
-        "link": "https://www.aljazeera.com/news/2026/3/4/analyst-says-interest-in-epstein-files-plummeted-after-war-on-iran-launched?traffic_source=rss"
+        "title": "‘We were just praying’: Pakistani students recount escape from war-hit Iran",
+        "link": "https://www.aljazeera.com/news/2026/3/4/we-were-just-praying-pakistani-students-recount-escape-from-war-hit-iran?traffic_source=rss"
       },
       {
-        "title": "Will the US put ‘boots on the ground’ in Iran?",
-        "link": "https://www.aljazeera.com/features/2026/3/4/will-the-us-put-boots-on-the-ground-in-iran?traffic_source=rss"
+        "title": "Huge column of smoke seen over western Tehran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/huge-column-of-smoke-seen-over-western-tehran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "In-camera briefing on regional situation underway at PM House",
-        "link": "https://www.dawn.com/news/1978263/in-camera-briefing-on-regional-situation-underway-at-pm-house"
+        "title": "In-camera briefing on regional situation concludes at PM House",
+        "link": "https://www.dawn.com/news/1978263/in-camera-briefing-on-regional-situation-concludes-at-pm-house"
       },
       {
         "title": "Pakistan requests alternative oil supply route from Saudi Arabia after closure of Hormuz Strait",
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Saudi Arabia intercepts drone targeting oil refinery",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-intercepts-drone-targeting-oil-refinery"
+      },
+      {
+        "title": "Nine explosions reported east of Tehran: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nine-explosions-reported-east-tehran-report"
+      },
+      {
+        "title": "Eight hospitals hit since start of war: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eight-hospitals-hit-start-war-report"
+      },
+      {
         "title": "Five killed in overnight strikes on Iran’s Isfahan",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/five-killed-overnight-strikes-irans-isfahan"
       },
       {
         "title": "Bahrain says air defences shot down 74 missiles and 95 drones",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-says-air-defences-shot-down-74-missiles-and-95-drones"
-      },
-      {
-        "title": "Labour Together: How McSweeney's shadowy think tank went to 'war' against journalists",
-        "link": "https://www.middleeasteye.net/news/labour-together-shadowy-thinktank-heart-british-government-accused-investigating-journalists"
-      },
-      {
-        "title": "Spain’s Sanchez says world cannot solve crises with bombs",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spains-sanchez-says-world-cannot-solve-crises-bombs"
-      },
-      {
-        "title": "Spain warns Trump’s Middle East war risks ‘Russian roulette with millions’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spain-warns-trumps-middle-east-war-risks-russian-roulette-millions"
       }
     ],
     "GeoTV": [
       {
-        "title": "Pakistan seeks alternative oil supply route via Saudi Arabia after Hormuz Strait closure",
-        "link": "https://www.geo.tv/latest/654034-pakistan-seeks-alternative-oil-supply-route-from-saudi-arabia-after-strait-of-hormuz-closure"
+        "title": "'Dallas' actor, 80's icon Annabel Schofield dies aged 62 following brain cancer battle",
+        "link": "https://www.geo.tv/latest/654044-dalls-actor-80s-icon-annabel-schofield-dies-aged-62-following-brain-cancer-battle"
       },
       {
-        "title": "King Charles paves way for Prince William without public drama",
-        "link": "https://www.geo.tv/latest/654019-king-charles-paves-way-for-prince-william-without-public-drama"
+        "title": "Val Chmerkovskiy, DWTS winner gets diagnosis following sudden hospitalization",
+        "link": "https://www.geo.tv/latest/654039-val-chmerkovskiy-dwts-winner-gets-diagnosis-following-sudden-hospitalization"
       },
       {
-        "title": "Prince William master plan to lead royal family revealed amid speculations",
-        "link": "https://www.geo.tv/latest/654029-prince-william-master-plan-to-lead-royal-family-unveiled-amid-speculations"
+        "title": "Sienna Miller gets candid about Hollywood's age standards",
+        "link": "https://www.geo.tv/latest/654042-sienna-miller-gets-candid-about-hollywoods-age-standards"
       },
       {
-        "title": "Prince Harry, Meghan Markle spark anger with bold decision: 'Nonsense'",
-        "link": "https://www.geo.tv/latest/654028-prince-harry-meghan-markle-spark-anger-with-bold-decision-nonsense"
+        "title": "Kate Middleton makes powerful gesture to heal King Charles wounds",
+        "link": "https://www.geo.tv/latest/654040-kate-middleton-makes-powerful-gesture-to-heal-king-charles-wounds"
       },
       {
-        "title": "Iran women's team have 'so much concern' about families at home",
-        "link": "https://www.geo.tv/latest/654035-iran-womens-team-have-so-much-concern-about-families-at-home"
+        "title": "'Freaky Friday,' 'Cruella' producer Andrew Gunn dies at 56",
+        "link": "https://www.geo.tv/latest/654036-freaky-friday-cruella-producer-andrew-gunn-dies-at-56"
       }
     ],
     "NDTV": [
       {
-        "title": "CIA Station In Saudi Arabia Hit By Suspected Iranian Drone: Report",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-cia-station-in-saudi-arabia-hit-by-suspected-iranian-drone-report-11165769#publisher=newsstand"
+        "title": "Israeli Air Force F-35 Shoots Down Iranian Jet Over Tehran",
+        "link": "https://www.ndtv.com/world-news/israeli-air-force-f-35-shoots-down-iranian-jet-over-tehran-11167486#publisher=newsstand"
       },
       {
-        "title": "DMK-Congress To Seal The Deal Today, M Kharge Clears 28-29 Seat Formula",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-elections-dmk-congress-to-seal-the-deal-today-m-kharge-clears-28-29-seat-formula-11167149#publisher=newsstand"
+        "title": "Stock Market March 4 Highlights: Sensex, Nifty Crash, Rupee Hits Records Low",
+        "link": "https://www.ndtv.com/india-news/stock-market-today-march-4-market-live-updates-markets-open-in-deep-red-sensex-nifty-crash-rupee-hits-records-low-11166595#publisher=newsstand"
       },
       {
-        "title": "Behind Mojtaba Khamenei's Rise To Top Post, A Push By Iran's Elite Force",
-        "link": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-news-khamenei-islamic-revolutionary-guard-corps-irgc-behind-mojtaba-khameneis-rise-to-top-post-a-push-by-irans-elite-force-11167130#publisher=newsstand"
+        "title": "Israel-Iran War Live Updates: Israel Army Says Shot Down Iranian Fighter Jet Over Tehran",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-dubai-news-middle-east-crisis-iran-live-missile-attacks-drone-strikes-oil-market-news-ayatollah-ali-khamenei-death-11166125#publisher=newsstand"
       },
       {
-        "title": "Nepal Elections 2026: Families That Still Control Constituencies",
-        "link": "https://www.ndtv.com/world-news/nepal-elections-2026-families-that-still-control-constituencies-11133916#publisher=newsstand"
+        "title": "Is Khamenei's Son Mojtaba New Supreme Leader? Reports Claim, Iran Denies",
+        "link": "https://www.ndtv.com/world-news/mojtaba-son-of-ayatollah-ali-khamenei-elected-irans-new-supreme-leader-report-11165865#publisher=newsstand"
       },
       {
-        "title": "All About Kuwait's 'Top Gun 2' Jet That Downed 3 US Friendlies By Mistake",
-        "link": "https://www.ndtv.com/world-news/all-about-kuwaits-top-gun-2-jet-fa-18-super-hornet-that-downed-3-us-friendlies-f15e-by-mistake-11167095#publisher=newsstand"
+        "title": "600 Units, 4 Lakh Workers: The Iran War Impact On Gujarat Tiles Industry",
+        "link": "https://www.ndtv.com/india-news/iran-war-middle-east-war-morbi-ceramic-tiles-600-units-4-lakh-workers-the-iran-war-impact-on-gujarat-tiles-industry-11167455#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-04 09:54 UTC"
+  "last_updated": "2026-03-04 10:34 UTC"
 }
