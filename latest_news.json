@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Iris Dena LIVE Updates: Iran Ship Sunk By US Submarine Was Returning From India After Naval Exercise",
+      "link": "https://www.ndtv.com/world-news/iris-dena-news-live-updates-us-submarine-iranian-warship-indian-ocean-iran-israel-us-war-naval-exercise-11168461#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Satellite images show Iranian navy and nuclear sites hit by US-Israeli strikes",
-        "link": "https://www.bbc.com/news/articles/cdxzzkkkwjqo?at_medium=RSS&at_campaign=rss"
+        "title": "Video of US torpedo hitting Iranian warship released by Pentagon",
+        "link": "https://www.bbc.com/news/videos/cd6zzg2g7vno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump's war on Iran: Shifting stories and unanswered questions",
+        "title": "Shifting stories and unanswered questions about Trump's war on Iran",
         "link": "https://www.bbc.com/news/videos/cd6zzyg64zqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Satellite images show Iranian navy and nuclear sites hit by US-Israeli strikes",
+        "link": "https://www.bbc.com/news/articles/cdxzzkkkwjqo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "First government flight for UK nationals due to leave Middle East tonight",
         "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Footage from across Iran shows scale of strikes",
-        "link": "https://www.bbc.com/news/videos/cd70zp0v3g4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'No to war': Pedro Sánchez hits back as Trump threatens full trade embargo on Spain",
-        "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss"
+        "title": "How has Iran responded and which countries has it attacked?",
+        "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Why are the US and Israel framing the ongoing conflict as a religious war?",
-        "link": "https://www.aljazeera.com/news/2026/3/4/why-are-the-us-and-israel-framing-the-ongoing-conflict-as-a-religious-war?traffic_source=rss"
+        "title": "Iran’s place in World Cup 2026 in doubt amid conflict, Trump’s dismissal",
+        "link": "https://www.aljazeera.com/sports/2026/3/4/irans-place-in-world-cup-2026-in-doubt-amid-conflict-trumps-dismissal?traffic_source=rss"
       },
       {
-        "title": "‘Israel at its peak power in the Middle East and it’s downhill from here’",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/4/israel-is-at-its-peak-power-in-the-middle-east-and-its-downhill-from-here?traffic_source=rss"
+        "title": "Debris from NATO’s missile interception falls on Turkish soil",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/debris-from-natos-missile-interception-falls-on-turkish-soil?traffic_source=rss"
       },
       {
-        "title": "Nepal election 2026: Who are the contenders and what’s at stake?",
-        "link": "https://www.aljazeera.com/news/2026/3/4/nepal-election-2026-who-are-the-contenders-and-whats-at-stake?traffic_source=rss"
+        "title": "India vs England – T20 World Cup semifinal: Predicted XI, time, stream",
+        "link": "https://www.aljazeera.com/sports/2026/3/4/india-vs-england-t20-world-cup-semifinal-teams-start-stream?traffic_source=rss"
       },
       {
-        "title": "An outlier for condemning Israel’s Gaza genocide, Spain says no to Iran war",
-        "link": "https://www.aljazeera.com/news/2026/3/4/spain-no-to-israel-us-war-iran?traffic_source=rss"
+        "title": "Over 100 people missing after US sinks Iranian military ship off Sri Lanka",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/over-100-people-missing-after-us-sinks-iranian-military-ship-off-sri-lanka?traffic_source=rss"
       },
       {
-        "title": "Is the CIA planning to arm Kurdish forces to spark an uprising in Iran?",
-        "link": "https://www.aljazeera.com/news/2026/3/4/is-the-cia-planning-to-arm-kurdish-forces-to-spark-an-uprising-in-iran?traffic_source=rss"
+        "title": "Are the US and Israel planning an ethnic civil war in Iran?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/4/are-the-us-and-israel-planning-an-ethnic-civil-war-in-iran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,11 +99,15 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "How Trump Decided to Go to War",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000010747206/how-trump-decided-to-go-to-war.html"
+      },
+      {
         "title": "Iran Made Secret Outreach After Strikes, Highlighting Trump’s Challenge",
         "link": "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html"
       },
       {
-        "title": "U.S. Struck Iranian Warship Off Sri Lanka, With Dozens Missing",
+        "title": "U.S. Submarine Torpedoed Iranian Warship Off Sri Lanka as Conflict Widens",
         "link": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html"
       },
       {
@@ -105,78 +115,74 @@
         "link": "https://www.nytimes.com/2026/03/04/podcasts/the-headlines/trump-iran-texas-primary.html"
       },
       {
-        "title": "Talarico Beats Crockett as G.O.P. Heads to Runoff: Texas Primary Election Takeaways",
-        "link": "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html"
-      },
-      {
-        "title": "Cornyn and Paxton Head to Runoff in Bitter Texas Senate Primary",
-        "link": "https://www.nytimes.com/2026/03/03/us/elections/texas-senate-republican-primary-cornyn-paxton-runoff.html"
+        "title": "Talarico’s Win in Texas Shows That Nice Guys Can Finish First",
+        "link": "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "‘Isolated’ Iranian forces suspected of firing missile towards Turkey",
-        "link": "https://www.middleeasteye.net/news/isolated-iranian-forces-suspected-missile-towards-turkey"
+        "title": "Turkey summons Iranian envoy over missiles fired towards airspace",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-summons-iranian-envoy-over-missiles-heading-towards-airspace"
       },
       {
-        "title": "Hegseth confirms US sinking of Iranian warship off Sri Lanka coast",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-confirms-us-sinking-iranian-warship-sri-lanka-coast"
+        "title": "Oman rescues 24 people from ship following attack",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-rescues-24-people-ship-following-attack"
+      },
+      {
+        "title": "Explosions heard over Jerusalem: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-over-jerusalem-report"
       },
       {
         "title": "Turkey says Iranian missile over its airspace destroyed by Nato defences",
-        "link": "https://www.middleeasteye.net/news/turkey-says-iranian-missile-over-its-airspace-destroyed-nato-defences"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-iranian-missile-over-its-airspace-destroyed-nato-defences"
       },
       {
         "title": "Armed Iranian Kurds weigh role in potential US-backed ground assault",
-        "link": "https://www.middleeasteye.net/news/iranian-kurdish-opposition-groups-weigh-role-potential-us-backed-ground-assault"
-      },
-      {
-        "title": "UK: Piers Morgan says pro-Israel lawyer suing him for defamation",
-        "link": "https://www.middleeasteye.net/news/uk-piers-morgan-says-pro-israel-lawyer-suing-him-defamation"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/armed-iranian-kurds-weigh-role-potential-us-backed-ground-assault"
       }
     ],
     "GeoTV": [
       {
-        "title": "Apple debuts $599 MacBook Neo to challenge Chromebooks, Windows PCs",
-        "link": "https://www.geo.tv/latest/654080-apple-debuts-599-macbook-neo-to-challenge-chromebooks-windows-pcs"
+        "title": "Elon Musk to testify in Twitter shareholder lawsuit over stock price manipulation claims",
+        "link": "https://www.geo.tv/latest/654081-elon-musk-to-testify-in-twitter-shareholder-lawsuit-over-stock-price-manipulation-claims"
       },
       {
-        "title": "Taylor Swift fiancée Travis Kelce podcast gets cameo that shocked fans",
-        "link": "https://www.geo.tv/latest/654077-taylor-swift-fiance-travis-kelce-podcast-gets-cameo-that-shocked-fans"
+        "title": "Cristiano Ronaldo leaves Saudi Arabia after Iran launches missiles at Riyadh",
+        "link": "https://www.geo.tv/latest/654088-cristiano-ronaldo-leaves-saudi-arabia-after-iran-launches-missiles-at-riyadh"
       },
       {
-        "title": "‘America is winning': Pete Hegseth vows US-Israel will control Iran's skies in ‘under a week'",
-        "link": "https://www.geo.tv/latest/654075-america-is-winning-pete-hegseth-vows-us-israel-will-control-irans-skies-in-under-a-week"
+        "title": "Liam Neeson son Daniel reveals heart surgery journey",
+        "link": "https://www.geo.tv/latest/654086-liam-neeson-son-daniel-reveals-heart-surgery-journey"
       },
       {
-        "title": "BTS ‘Arirang' scavenger hunt is live on Google: Here's how to answer every trivia question",
-        "link": "https://www.geo.tv/latest/654071-bts-arirang-scavenger-hunt-is-live-on-google-heres-how-to-answer-every-trivia-question"
+        "title": "Who is Mojtaba Khamenei, frontrunner to be Iran's supreme leader?",
+        "link": "https://www.geo.tv/latest/654079-who-is-mojtaba-khamenei-frontrunner-to-be-irans-supreme-leader"
       },
       {
-        "title": "Pakistan working to dissuade Iran from striking Saudi Arabia: Sanaullah",
-        "link": "https://www.geo.tv/latest/654067-pakistan-working-to-dissuade-iran-from-striking-saudi-arabia-sanaullah"
+        "title": "Martin Short's daughter Katherine's shocking cause of death confirmed",
+        "link": "https://www.geo.tv/latest/654085-martin-shorts-daughter-katherines-shocking-cause-of-death-confirmed"
       }
     ],
     "NDTV": [
       {
-        "title": "Sharad Pawar Opposition's Pick For Its Lone Maharashtra Rajya Sabha Seat",
-        "link": "https://www.ndtv.com/india-news/sharad-pawar-oppositions-pick-for-its-lone-maharashtra-rajya-sabha-seat-11168206#publisher=newsstand"
+        "title": "Russia Ready To Divert Oil To India As Iran War Disrupts Energy Flows: Report",
+        "link": "https://www.ndtv.com/world-news/israel-iran-war-news-russia-ready-to-divert-oil-to-india-as-iran-war-disrupts-energy-flows-report-11168683#publisher=newsstand"
       },
       {
-        "title": "DMK's Sharp Attack At Centre After Hindi Board At Tamil Nadu Railway Office",
-        "link": "https://www.ndtv.com/india-news/dmks-sharp-attack-at-centre-after-hindi-board-at-tamil-nadu-railway-office-11168256#publisher=newsstand"
+        "title": "Nitish Kumar To Quit As Bihar Chief Minister, Move To Rajya Sabha: Sources",
+        "link": "https://www.ndtv.com/india-news/rajya-sabha-bihar-nitish-kumar-may-quit-as-bihar-chief-minister-son-to-get-deputy-post-sources-11167773#publisher=newsstand"
       },
       {
-        "title": "Presidential Palace, Iran Guards HQ Hit: Satellite Pics Show Tehran Damage",
-        "link": "https://www.ndtv.com/world-news/iran-war-iran-israel-war-tehran-middle-east-trump-dubai-uae-us-presidential-palace-iran-guards-hq-hit-satellite-pics-show-tehran-damage-11168153#publisher=newsstand"
+        "title": "Iran Warship Sunk By US Was In India For 2024 Exercise Too",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-warship-iris-dena-sunk-by-us-submarine-was-in-india-for-2024-milan-exercise-too-11168639#publisher=newsstand"
       },
       {
-        "title": "\"Next Mission Is Waiting For You\": Israel Commander To F-35 Pilot On Radio",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-next-mission-waiting-for-you-israel-air-force-commander-to-f-35-pilot-on-radio-11168141#publisher=newsstand"
+        "title": "Iris Dena LIVE Updates: Iran Ship Sunk By US Submarine Was Returning From India After Naval Exercise",
+        "link": "https://www.ndtv.com/world-news/iris-dena-news-live-updates-us-submarine-iranian-warship-indian-ocean-iran-israel-us-war-naval-exercise-11168461#publisher=newsstand"
       },
       {
-        "title": "US Struck Iranian Warship Off Sri Lanka Coast: Report",
-        "link": "https://www.ndtv.com/world-news/us-struck-iranian-warship-off-sri-lanka-coast-report-11168113#publisher=newsstand"
+        "title": "80 Killed As US Sinks Iran Ship Headed Back From India After Naval Exercise",
+        "link": "https://www.ndtv.com/world-news/80-killed-in-us-submarine-strike-on-iran-ship-near-sri-lanka-report-11168301#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-04 14:55 UTC"
+  "last_updated": "2026-03-04 15:40 UTC"
 }
