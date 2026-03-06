@@ -1,28 +1,22 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Celta Vigo vs Real Madrid – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/6/live-celta-vigo-vs-real-madrid-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
+        "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Iranian schools, hospital and landmarks among civilian sites hit during US-Israeli strikes",
         "link": "https://www.bbc.com/news/articles/cpw004xqxnjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Oil price jumps after Qatar warns all Gulf production could stop within days",
-        "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss"
+        "title": "Flight paths squeezed as Iran conflict closes more airspace",
+        "link": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
         "link": "https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Emirates resumes some Dubai flights – what's the latest on travel to UK?",
-        "link": "https://www.bbc.com/news/articles/c4ge52x4w37o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Four arrested on suspicion of assisting Iran's intelligence service",
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Video shows explosions near Tehran’s Azadi Tower",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/video-shows-explosions-near-tehrans-azadi-tower?traffic_source=rss"
+      },
+      {
+        "title": "Calls grow for independent probe into deadly Iranian girls’ school attack",
+        "link": "https://www.aljazeera.com/news/2026/3/6/calls-grow-for-independent-probe-into-deadly-iranian-girls-school-attack?traffic_source=rss"
+      },
+      {
+        "title": "White House posts ‘American justice’ video days after Iran school attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/white-house-posts-american-justice-video-days-after-iran-school-attack?traffic_source=rss"
+      },
+      {
         "title": "Has Donald Trump failed to sell the Iran war to the world?",
         "link": "https://www.aljazeera.com/video/inside-story/2026/3/6/has-donald-trump-failed-to-sell-the-iran-war-to-the-world?traffic_source=rss"
       },
       {
         "title": "How will the Middle East conflict affect global energy prices?",
         "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/6/how-will-the-middle-east-conflict-affect-global-energy-prices?traffic_source=rss"
-      },
-      {
-        "title": "US job market stalls, unemployment rate rises before Fed decision",
-        "link": "https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Celta Vigo vs Real Madrid – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/6/live-celta-vigo-vs-real-madrid-la-liga?traffic_source=rss"
-      },
-      {
-        "title": "Israel extending ‘Gaza playbook’ to Lebanon, charity warns",
-        "link": "https://www.aljazeera.com/news/2026/3/6/israel-extending-gaza-playbook-to-lebanon-charity-warns?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,16 @@
     ],
     "Dawn": [
       {
+        "title": "Govt hikes petrol, high-speed diesel prices by Rs55 per litre each",
+        "link": "https://www.dawn.com/news/1979182/govt-hikes-petrol-high-speed-diesel-prices-by-rs55-per-litre-each"
+      },
+      {
         "title": "PM tells provincial govts to take strict action against those hoarding petroleum products",
         "link": "https://www.dawn.com/news/1979067/pm-tells-provincial-govts-to-take-strict-action-against-those-hoarding-petroleum-products"
+      },
+      {
+        "title": "Pakistan edge Japan 4-3 to qualify for Hockey World Cup after 8 years",
+        "link": "https://www.dawn.com/news/1979179/pakistan-edge-japan-4-3-to-qualify-for-hockey-world-cup-after-8-years"
       },
       {
         "title": "1 dead, 19 injured in blast on Bannu–Miranshah road in KP’s North Waziristan: officials",
@@ -86,21 +88,17 @@
       {
         "title": "Qatar energy minister warns Iran war will force Gulf to halt energy exports within weeks: report",
         "link": "https://www.dawn.com/news/1979108/qatar-energy-minister-warns-iran-war-will-force-gulf-to-halt-energy-exports-within-weeks-report"
-      },
-      {
-        "title": "ECP rejects KP govt’s plea, refuses to put off delimitation exercise in 24 districts",
-        "link": "https://www.dawn.com/news/1979119/ecp-rejects-kp-govts-plea-refuses-to-put-off-delimitation-exercise-in-24-districts"
-      },
-      {
-        "title": "‘Mortgaged to American interests’: US approval for Russian oil sparks outrage from Indian opposition",
-        "link": "https://www.dawn.com/news/1979056/mortgaged-to-american-interests-us-approval-for-russian-oil-sparks-outrage-from-indian-opposition"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "U.S. Gas Prices, Up 11% in a Week, Pile Pressure on Trump",
+        "title": "U.S. Gas Prices Jump Again as Oil Tops $90 for First Time in Years",
         "link": "https://www.nytimes.com/2026/03/06/business/aaa-gas-prices.html"
+      },
+      {
+        "title": "How Trump’s Base Is Reacting to His War Message",
+        "link": "https://www.nytimes.com/video/us/politics/100000010749958/how-trumps-base-is-reacting-to-his-war-message.html"
       },
       {
         "title": "With Iran, Trump Takes the U.S. to War Without the Public’s Support",
@@ -113,13 +111,21 @@
       {
         "title": "Weak Jobs Data Underscores Fed’s Dilemma as War Stokes Inflation Risk",
         "link": "https://www.nytimes.com/2026/03/06/business/economy/federal-reserve-jobs-inflation.html"
-      },
-      {
-        "title": "Democrats Blame Trump For Jobs Report as Republicans Play Defense",
-        "link": "https://www.nytimes.com/2026/03/06/business/economy/jobs-report-unemployment-democrats-republicans-midterms.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israel claims it hit Hezbollah command centres in Beirut’s Dahiyeh",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-claims-it-hit-hezbollah-command-centres-beiruts-dahiyeh"
+      },
+      {
+        "title": "Germany withdraws more troops from Middle East",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-withdraws-more-troops-middle-east"
+      },
+      {
+        "title": "At least two killed in strike on residential building in Iran’s Qom",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-2-killed-strike-residential-building-irans-qom"
+      },
       {
         "title": "Trump to meet defence contractors to speed up weapons deliveries",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-meet-defence-contractors-speed-weapons-deliveries"
@@ -127,21 +133,17 @@
       {
         "title": "Hezbollah says it targeted Israeli base in Israeli-occupied Golan Heights",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-targeted-israeli-base-occupied-golan-heights"
-      },
-      {
-        "title": "Hezbollah says it attacked Israel's Omeid airbase",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-attacked-israels-omeid-airbase"
-      },
-      {
-        "title": "Schools, hospitals, playgrounds: Iran's civilian sites hit by US-Israeli strikes",
-        "link": "https://www.middleeasteye.net/news/iran-civilian-sites-hit-us-israeli-strikes"
-      },
-      {
-        "title": "Israeli strike on southern Lebanon home kills nine",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-southern-lebanon-home-kills-9"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Inside Brooklyn Beckham's feud with family after reconciliation attempt",
+        "link": "https://www.geo.tv/latest/654452-inside-brooklyn-beckhams-feud-with-family-after-reconciliation-attempt"
+      },
+      {
+        "title": "Govt increases petrol, diesel prices by Rs55 per litre amid Middle East tensions",
+        "link": "https://www.geo.tv/latest/654454-govt-increases-petrol-diesel-prices-by-rs55-per-litre-amid-middle-east-tensions"
+      },
       {
         "title": "Travis Kelce sparks curiosity in strange fun moment in Florida",
         "link": "https://www.geo.tv/latest/654370-videoid6390478999112"
@@ -153,36 +155,28 @@
       {
         "title": "Harry Styles releases new music video for second 'Kiss All The Time' single",
         "link": "https://www.geo.tv/latest/654438-harry-styles-releases-new-music-video-for-second-kiss-all-the-time-single"
-      },
-      {
-        "title": "US may use ‘mother of all bombs' in potential strike on Iran",
-        "link": "https://www.geo.tv/latest/654451-us-may-use-mother-of-all-bombs-in-potential-strike-on-iran"
-      },
-      {
-        "title": "Stranger Things, Heated Rivalry and Traitors dominate GLAAD Awards",
-        "link": "https://www.geo.tv/latest/654449-stranger-things-heated-rivalry-and-traitors-dominate-glaad-awards"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Too Many Ill-Wishers\": Russia To Not Disclose Data On Oil Export To India",
-        "link": "https://www.ndtv.com/world-news/too-many-ill-wishers-russia-to-not-disclose-data-on-oil-export-to-india-11179379#publisher=newsstand"
+        "title": "'Trump, Netanyahu Greatest Tag Team In History': Israel PM's Adviser To NDTV",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-war-israel-war-us-trump-netanyahu-greatest-tag-team-in-history-israel-pms-adviser-to-ndtv-11179572#publisher=newsstand"
       },
       {
-        "title": "India Allowed Another Iran Ship To Dock Days Before US Sank IRIS Dena: Sources",
-        "link": "https://www.ndtv.com/world-news/iran-war-iran-israel-war-news-days-before-iran-ship-was-sunk-india-allowed-another-vessel-to-dock-in-kochi-sources-11179093#publisher=newsstand"
+        "title": "Nepal Election 2026 Results Live Updates: Balen Shah's RSP Close To Victory, Celebrations On Streets",
+        "link": "https://www.ndtv.com/world-news/nepal-election-2026-results-live-updates-balendra-shah-gagan-thapa-kp-sharma-oli-nepal-to-count-votes-shortly-for-first-polls-held-after-gen-z-protest-11175123#publisher=newsstand"
       },
       {
-        "title": "US Economy Sheds 92,000 Jobs In February As Unemployment Ticks Up",
-        "link": "https://www.ndtv.com/world-news/us-economy-sheds-92-000-jobs-in-february-as-unemployment-ticks-up-11179249#publisher=newsstand"
+        "title": "US Pressing Sri Lanka Not To Repatriate Iranian Ship's Crew: Report",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-us-pressing-sri-lanka-not-to-repatriate-iranian-ships-crew-report-11179565#publisher=newsstand"
       },
       {
-        "title": "\"Cuba Will Fall Soon, They Badly Want A Deal\": Trump Amid Iran War",
-        "link": "https://www.ndtv.com/world-news/cuba-will-fall-soon-they-badly-want-a-deal-trump-amid-iran-war-11179244#publisher=newsstand"
+        "title": "Drugs Worth Rs 10 Crore Seized As Cops Bust Network Linking Nepal, Lanka",
+        "link": "https://www.ndtv.com/india-news/drugs-worth-rs-10-crore-seized-as-cops-bust-network-linking-nepal-lanka-11179553#publisher=newsstand"
       },
       {
-        "title": "Private Jets Emerge As Costly Escape Route From Gulf Amid Iran War",
-        "link": "https://www.ndtv.com/world-news/israel-iran-private-jets-emerge-as-costly-escape-route-from-gulf-amid-iran-war-11179170#publisher=newsstand"
+        "title": "Rajasthan Passes Bill Restricting Property Transfers In 'Disturbed Areas'",
+        "link": "https://www.ndtv.com/india-news/rajasthan-passes-bill-restricting-property-transfers-in-disturbed-areas-11179497#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-06 18:04 UTC"
+  "last_updated": "2026-03-06 19:01 UTC"
 }
