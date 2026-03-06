@@ -1,10 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates: GIFT Nifty Trades Lower, Hints Low Opening",
+      "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-nifty50-today-gift-nifty-trades-lower-hints-low-opening-amid-dow-sell-off-11175170#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
         "title": "PM stands by decision not to join strikes on Iran and sends more jets to Qatar",
         "link": "https://www.bbc.com/news/articles/cdr2214nmk8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "First UK government flight from Middle East lands at Stansted Airport",
+        "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'This is war': BBC speaks to Iranians at border",
@@ -15,34 +25,30 @@
         "link": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
-        "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Labour MP 'voluntarily suspends herself' after husband arrested in China spy probe",
         "link": "https://www.bbc.com/news/articles/cvg8edz1ng2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Suspected Iranian missile debris ignites fires in central Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/suspected-iranian-missile-debris-ignites-fires-in-central-israel?traffic_source=rss"
+        "title": "Video shows projectile exploding near Ali al-Salem Air Base in Kuwait",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/video-shows-projectile-exploding-near-ali-al-salem-air-base-in-kuwait?traffic_source=rss"
       },
       {
-        "title": "Trump offers immunity to IRGC, Iranian police who ‘lay down their arms’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/trump-offers-immunity-to-irgc-iranian-police-who-lay-down-their?traffic_source=rss"
+        "title": "How US sinking of Iranian warship blew hole in Modi’s ‘guardian’ claims",
+        "link": "https://www.aljazeera.com/features/2026/3/6/how-us-sinking-of-iranian-warship-blew-hole-in-modis-guardian-claims?traffic_source=rss"
       },
       {
-        "title": "US House narrowly rejects resolution to end Trump’s Iran war",
-        "link": "https://www.aljazeera.com/news/2026/3/5/us-house-narrowly-rejects-resolution-to-end-trumps-iran-war?traffic_source=rss"
+        "title": "Who is Ahmad Vahidi, the IRGC’s new commander?",
+        "link": "https://www.aljazeera.com/news/2026/3/6/who-is-ahmad-vahidi-the-irgcs-new-commander?traffic_source=rss"
       },
       {
-        "title": "Trump says regime change in Cuba is ‘question of time’ after Iran",
-        "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-regime-change-in-cuba-is-question-of-time-after-iran?traffic_source=rss"
+        "title": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers?traffic_source=rss"
       },
       {
-        "title": "Trump says he must be ‘involved’ in choosing Iran’s next supreme leader",
-        "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-he-must-be-involved-in-choosing-irans-next-supreme-leader?traffic_source=rss"
+        "title": "Iran war live: Trump says Iran being ‘demolished’ as Gulf attacks continue",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/6/iran-live-trump-says-iran-being-demolished-tehran-keeps-up-gulf-attacks?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,16 @@
     ],
     "Dawn": [
       {
+        "title": "Work from home, online classes ‘to conserve fuel’",
+        "link": "https://www.dawn.com/news/1978919/work-from-home-online-classes-to-conserve-fuel"
+      },
+      {
         "title": "Pakistan expresses concern over attacks targeting Turkiye, Azerbaijan during ongoing Middle East conflict",
         "link": "https://www.dawn.com/news/1978817/pakistan-expresses-concern-over-attacks-targeting-turkiye-azerbaijan-during-ongoing-middle-east-conflict"
+      },
+      {
+        "title": "While raining bombs, Trump wants to pick new Iran leader",
+        "link": "https://www.dawn.com/news/1978918/while-raining-bombs-trump-wants-to-pick-new-iran-leader"
       },
       {
         "title": "Trump ousts Kristi Noem, names Oklahoma senator as homeland security nominee",
@@ -80,29 +94,21 @@
       {
         "title": "Afghan Taliban aware of Pakistan’s concerns, must take verifiable steps for ceasefire: senior security official",
         "link": "https://www.dawn.com/news/1978718/afghan-taliban-aware-of-pakistans-concerns-must-take-verifiable-steps-for-ceasefire-senior-security-official"
-      },
-      {
-        "title": "President Zardari gives assent to bill for extending NAB chairman’s term by 3 years",
-        "link": "https://www.dawn.com/news/1978688/president-zardari-gives-assent-to-bill-for-extending-nab-chairmans-term-by-3-years"
-      },
-      {
-        "title": "Indian Air Force says fighter jet on training mission crashed in Assam",
-        "link": "https://www.dawn.com/news/1978801/indian-air-force-says-fighter-jet-on-training-mission-crashed-in-assam"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "FEMA Delays Under Kristi Noem Angered Republicans",
-        "link": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-fema-disaster.html"
+        "title": "Timeline: The Rise and Fall of Kristi Noem as Trump’s DHS Secretary",
+        "link": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
       },
       {
         "title": "As Noem Speaks in Nashville, Senate Swarms Mullin",
         "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-fires-noem-gop-split-mullin.html"
       },
       {
-        "title": "Who Is Markwayne Mullin, Trump’s Pick for Homeland Security Secretary?",
-        "link": "https://www.nytimes.com/2026/03/05/us/politics/markwayne-mullin-trump-homeland-security.html"
+        "title": "Senator Blumenthal Pushes to Investigate Kristi Noem for Perjury",
+        "link": "https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html"
       },
       {
         "title": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base",
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Kuwait says air defences intercept missile as sirens sound in Bahrain",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-says-air-defences-intercept-missile-sirens-sound-bahrain"
+        "title": "Israeli jets bomb areas in Lebanon’s Bekaa Valley",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-bomb-areas-lebanons-bekaa-valley"
       },
       {
-        "title": "US stocks fall as oil prices climb amid war on Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-stocks-fall-oil-prices-climb-amid-war-iran"
+        "title": "Hezbollah warns Israelis near Lebanon border to evacuate settlements",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-warns-israelis-near-lebanon-border-evacuate-settlements"
       },
       {
-        "title": "UK defence secretary does not rule out joining strikes on Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-defence-secretary-does-not-rule-out-joining-strikes-iran"
+        "title": "US military: Attack leaves Iranian drone carrier vessel on fire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-attack-leaves-iranian-drone-carrier-vessel-fire"
       },
       {
-        "title": "WHO says war on Iran disrupting $18m in humanitarian health supplies",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/who-says-war-iran-disrupting-18m-humanitarian-health-supplies"
+        "title": "Israel says 'broad wave' of airstrikes targeting infrastructure in Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-broad-wave-airstrikes-targeting-infrastructure-iran"
       },
       {
-        "title": "US says it struck 200 targets across Iran in past 72 hours",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-struck-200-targets-across-iran-past-72-hours"
+        "title": "Security threat level elevated in Qatar, alert issued",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/security-threat-level-elevated-qatar-alert-issued"
       }
     ],
     "GeoTV": [
       {
-        "title": "US Senate backs Trump's Iran operations after House vote",
-        "link": "https://www.geo.tv/latest/654300-us-senate-backs-trumps-iran-operations-after-house-vote"
+        "title": "Britney Spears contacted by people close to her after DUI arrest",
+        "link": "https://www.geo.tv/latest/654309-britney-spears-contacted-by-people-close-to-her-after-dui-arrest"
       },
       {
-        "title": "Eric Dane to get memoir released after death",
-        "link": "https://www.geo.tv/latest/654299-eric-dane-to-get-memoir-released-after-death"
+        "title": "Maisie Peters surprises fans in Australia with Ed Sheeran",
+        "link": "https://www.geo.tv/latest/654307-maisie-peters-surprises-fans-in-australia-with-ed-sheeran"
       },
       {
-        "title": "Prince Edward cuts ribbon on PFE Express's Mega HQ in Witham",
-        "link": "https://www.geo.tv/latest/654298-prince-edward-cuts-ribbon-on-pfe-expresss-mega-hq-in-witham"
+        "title": "Britney Spears DUI arrest update: Still under investigation",
+        "link": "https://www.geo.tv/latest/654306-britney-spears-dui-arrest-update-still-under-investigation"
       },
       {
-        "title": "Nostradamus warned of a ‘seven-month war' — is it happening now?",
-        "link": "https://www.geo.tv/latest/654297-nostradamus-warned-of-a-seven-month-war-is-it-happening-now"
+        "title": "Hegseth warns Iran miscalculating US ability to sustain war",
+        "link": "https://www.geo.tv/latest/654304-hegseth-warns-iran-miscalculating-us-ability-to-sustain-war"
       },
       {
-        "title": "Delroy Lindo reveals first thought he had after BAFTAs racial slur",
-        "link": "https://www.geo.tv/latest/654294-delroy-lindo-reveals-first-thought-he-had-after-baftas-racial-slur"
+        "title": "Nicola Coughlan remembers terrible experience with ‘Bridgerton' fan",
+        "link": "https://www.geo.tv/latest/654302-nicola-coughlan-remembers-terrible-experience-with-bridgerton-fan"
       }
     ],
     "NDTV": [
       {
-        "title": "Trump Says He Wants To Finish Iran Then Cuba \"Just Question Of Time\"",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-trump-says-he-wants-to-finish-iran-then-cuba-just-question-of-time-11175016#publisher=newsstand"
+        "title": "Pentagon Designates Anthropic A 'Supply Chain Risk' After Deal Turndown",
+        "link": "https://www.ndtv.com/world-news/pentagon-designates-ai-company-anthropic-a-supply-chain-risk-after-deal-turndown-11175220#publisher=newsstand"
       },
       {
-        "title": "US Says It Has Destroyed More Than 30 Iranian ships Since War Began",
-        "link": "https://www.ndtv.com/world-news/us-says-it-has-destroyed-more-than-30-iranian-ships-since-war-began-11174991#publisher=newsstand"
+        "title": "Warm Spell Grips Delhi As City Sizzles At 34.3 Degrees Celsius",
+        "link": "https://www.ndtv.com/delhi-news/warm-spell-grips-delhi-as-city-records-its-highest-average-minimum-since-2023-11175204#publisher=newsstand"
       },
       {
-        "title": "Trump Says Iran Calling US About A Deal Amid War",
-        "link": "https://www.ndtv.com/world-news/donald-trump-says-iran-calling-us-about-a-deal-amid-war-11174967#publisher=newsstand"
+        "title": "US, Israel-Iran War News Live Updates: Middle East War Enters Day 7, Israel Strikes Beirut, Iran Attacks Bahrain",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-news-live-updates-donald-trump-netanyahu-iris-dena-middle-east-war-enters-day-7-11175202#publisher=newsstand"
       },
       {
-        "title": "US House Votes Down Bid To Rein In Trump's Iran War Powers",
-        "link": "https://www.ndtv.com/world-news/us-house-votes-down-bid-to-rein-in-trumps-iran-war-powers-11174931#publisher=newsstand"
+        "title": "India Gets 30-Day Waiver From US To Buy Russian Oil Amid Iran War",
+        "link": "https://www.ndtv.com/world-news/india-gets-30-day-waiver-from-us-to-buy-russian-oil-amid-iran-war-11175087#publisher=newsstand"
       },
       {
-        "title": "Air Force's Sukhoi Su-30 Crashes In Assam, Search Ops Underway",
-        "link": "https://www.ndtv.com/india-news/air-forces-sukhoi-su-30-crashes-in-assams-karbi-anglong-search-ops-underway-11174850#publisher=newsstand"
+        "title": "Stock Market LIVE Updates: GIFT Nifty Trades Lower, Hints Low Opening",
+        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-nifty50-today-gift-nifty-trades-lower-hints-low-opening-amid-dow-sell-off-11175170#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-06 00:01 UTC"
+  "last_updated": "2026-03-06 02:47 UTC"
 }
