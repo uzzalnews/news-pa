@@ -1,29 +1,43 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Celta Vigo vs Real Madrid – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/6/live-celta-vigo-vs-real-madrid-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
-        "link": "https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&at_campaign=rss"
+        "title": "Iranian schools, hospital and landmarks among civilian sites hit during US-Israeli strikes",
+        "link": "https://www.bbc.com/news/articles/cpw004xqxnjo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Emirates resumes some Dubai flights – what's the latest on travel to UK?",
         "link": "https://www.bbc.com/news/articles/c4ge52x4w37o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
+        "link": "https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Four arrested on suspicion of assisting Iran's intelligence service",
         "link": "https://www.bbc.com/news/articles/cz6e7g96890o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Five ways the Iran war could affect you - in charts",
-        "link": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Man who murdered ex's sister and her children in revenge attack given whole-life sentence",
-        "link": "https://www.bbc.com/news/articles/cvg88v948d8o?at_medium=RSS&at_campaign=rss"
+        "title": "Oil price jumps after Qatar warns all Gulf production could stop within days",
+        "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US job market stalls, unemployment rate rises before Fed decision",
+        "link": "https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Celta Vigo vs Real Madrid – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/6/live-celta-vigo-vs-real-madrid-la-liga?traffic_source=rss"
+      },
       {
         "title": "Israel extending ‘Gaza playbook’ to Lebanon, charity warns",
         "link": "https://www.aljazeera.com/news/2026/3/6/israel-extending-gaza-playbook-to-lebanon-charity-warns?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Thousands of Syrian refugees flee Lebanon after Israeli strikes",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/thousands-of-syrian-refugees-flee-lebanon-after-israeli-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Kurdish opposition mulls whether to trust Trump after Iran uprising call",
-        "link": "https://www.aljazeera.com/news/2026/3/6/kurdish-opposition-mulls-whether-to-trust-trump-after-iran-uprising-call?traffic_source=rss"
-      },
-      {
-        "title": "‘No deal with Iran except unconditional surrender,’ Trump says",
-        "link": "https://www.aljazeera.com/news/2026/3/6/no-deal-with-iran-except-unconditional-surrender-trump-says?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -109,11 +115,23 @@
         "link": "https://www.nytimes.com/2026/03/06/business/economy/federal-reserve-jobs-inflation.html"
       },
       {
-        "title": "Kristi Noem’s Firing, and the Boom of American Billionaires",
-        "link": "https://www.nytimes.com/2026/03/06/podcasts/the-headlines/kristi-noems-firing-american-billionaires.html"
+        "title": "Democrats Blame Trump For Jobs Report as Republicans Play Defense",
+        "link": "https://www.nytimes.com/2026/03/06/business/economy/jobs-report-unemployment-democrats-republicans-midterms.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Hezbollah says it attacked Israel's Omeid airbase",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-attacked-israels-omeid-airbase"
+      },
+      {
+        "title": "Schools, hospitals, playgrounds: Iran's civilian sites hit by US-Israeli strikes",
+        "link": "https://www.middleeasteye.net/news/iran-civilian-sites-hit-us-israeli-strikes"
+      },
+      {
+        "title": "Israeli strike on southern Lebanon home kills nine",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-southern-lebanon-home-kills-9"
+      },
       {
         "title": "What 'special relationship'? Ten other occasions when the US and UK fell out",
         "link": "https://www.middleeasteye.net/explainers/special-relationship-ten-occasions-when-us-and-uk-fell-out"
@@ -121,21 +139,21 @@
       {
         "title": "US considering plan to move ships through Strait of Hormuz",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-considering-plan-move-ships-through-strait-hormuz"
-      },
-      {
-        "title": "Pranksters dressed as Hitler trick Reza Pahlavi into believing Germany 'ready' to bomb Iran",
-        "link": "https://www.middleeasteye.net/news/pranksters-dressed-hitler-trick-reza-pahlavi-believing-germany-ready-bomb-iran"
-      },
-      {
-        "title": "Fire breaks out at UAE oil facility after drone interception",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-breaks-out-uae-oil-facility-after-drone-interception"
-      },
-      {
-        "title": "These videos and images of the Iran war are AI generated",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/these-videos-and-images-iran-war-are-ai-generated"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Phoenix Suns' Dillon Brooks released after DUI arrest in Arizona",
+        "link": "https://www.geo.tv/latest/654453-phoenix-suns-dillon-brooks-released-after-dui-arrest-in-arizona"
+      },
+      {
+        "title": "Harry Styles releases new music video for second 'Kiss All The Time' single",
+        "link": "https://www.geo.tv/latest/654438-harry-styles-releases-new-music-video-for-second-kiss-all-the-time-single"
+      },
+      {
+        "title": "US may use ‘mother of all bombs' in potential strike on Iran",
+        "link": "https://www.geo.tv/latest/654451-us-may-use-mother-of-all-bombs-in-potential-strike-on-iran"
+      },
       {
         "title": "Stranger Things, Heated Rivalry and Traitors dominate GLAAD Awards",
         "link": "https://www.geo.tv/latest/654449-stranger-things-heated-rivalry-and-traitors-dominate-glaad-awards"
@@ -143,18 +161,6 @@
       {
         "title": "Russia 'providing Iran intelligence' to target US forces: report",
         "link": "https://www.geo.tv/latest/654447-russia-providing-iran-intelligence-to-target-us-forces-reports-washington-post"
-      },
-      {
-        "title": "Axel Springer buys UK's Telegraph for $766m, ending ownership limbo",
-        "link": "https://www.geo.tv/latest/654434-axel-springer-buys-uks-telegraph-for-766m-ending-ownership-limbo"
-      },
-      {
-        "title": "Princess Anne caught stepping out of Cumberland Hotel in London",
-        "link": "https://www.geo.tv/latest/654439-princess-anne-caught-stepping-out-of-cumberland-hotel-in-london"
-      },
-      {
-        "title": "Pakistan edge Japan to qualify for FIH Hockey World Cup after eight years",
-        "link": "https://www.geo.tv/latest/654441-pakistan-edge-japan-to-qualify-for-fih-hockey-world-cup-after-eight-years"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-06 16:56 UTC"
+  "last_updated": "2026-03-06 17:38 UTC"
 }
