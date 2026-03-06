@@ -3,6 +3,14 @@
   "news": {
     "BBC": [
       {
+        "title": "Trump wants to pick Iran's new leader - will a hostile regime under fire agree?",
+        "link": "https://www.bbc.com/news/articles/c2k8339xn9jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Huge US bomber lands at UK air base",
+        "link": "https://www.bbc.com/news/articles/c75ekve9yq9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
         "link": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss"
       },
@@ -13,36 +21,28 @@
       {
         "title": "Flight paths squeezed as Iran conflict closes more airspace",
         "link": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'We couldn't sleep because of fear': Residents flee as Israel pounds south Beirut",
-        "link": "https://www.bbc.com/news/articles/cwy9xlp46zgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Four arrested on suspicion of assisting Iran's intelligence service",
-        "link": "https://www.bbc.com/news/articles/cz6e7g96890o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Mexico’s Sheinbaum pledges robust World Cup security in visit to Jalisco",
+        "link": "https://www.aljazeera.com/news/2026/3/6/mexicos-sheinbaum-pledges-robust-world-cup-security-in-visit-to-jalisco?traffic_source=rss"
+      },
+      {
+        "title": "Qatar partially reopens airspace as Iranian strikes continue to hit Gulf",
+        "link": "https://www.aljazeera.com/news/2026/3/6/qatar-partially-reopens-airspace-as-iranian-strikes-continue-to-hit-gulf?traffic_source=rss"
+      },
+      {
+        "title": "Why did the US torpedo Iran’s ‘prize’ warship?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/why-did-the-us-torpedo-irans-prize-warship?traffic_source=rss"
+      },
+      {
+        "title": "People are tracking this shepherd fleeing Israeli strikes in Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/people-are-tracking-this-shepherd-fleeing-israeli-strikes-in-lebanon?traffic_source=rss"
+      },
+      {
         "title": "US issues limited licence for Venezuelan gold following high-level visit",
         "link": "https://www.aljazeera.com/news/2026/3/6/us-issues-limited-licence-for-venezuelan-gold-following-high-level-visit?traffic_source=rss"
-      },
-      {
-        "title": "Strikes on Iran to last ‘four to six weeks’, White House says",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/strikes-on-iran-to-last-four-to-six-weeks-white-house-says?traffic_source=rss"
-      },
-      {
-        "title": "US and Israel attacking Iran at ‘record pace’, war monitor says",
-        "link": "https://www.aljazeera.com/news/2026/3/6/us-and-israel-attacking-iran-at-record-pace-war-monitor-says?traffic_source=rss"
-      },
-      {
-        "title": "Human rights court orders reparations for forced sterilisation case in Peru",
-        "link": "https://www.aljazeera.com/news/2026/3/6/human-rights-court-orders-reparations-for-forced-sterilisation-case-in-peru?traffic_source=rss"
-      },
-      {
-        "title": "Spanish politician slams those using ‘feminism’ as excuse for Iran war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/spanish-politician-slams-those-using-feminism-as-excuse-for-iran-war?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,10 +97,6 @@
         "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html"
       },
       {
-        "title": "How Trump’s Base Is Reacting to His War Message",
-        "link": "https://www.nytimes.com/video/us/politics/100000010749958/how-trumps-base-is-reacting-to-his-war-message.html"
-      },
-      {
         "title": "With Iran, Trump Takes the U.S. to War Without the Public’s Support",
         "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-public-support.html"
       },
@@ -111,31 +107,39 @@
       {
         "title": "Markwayne Mullin, Trump’s Pick to Replace Noem at DHS, Learned to Spar in Oklahoma",
         "link": "https://www.nytimes.com/2026/03/06/us/markwayne-mullin-trump-oklahoma.html"
+      },
+      {
+        "title": "Top National Symphony Leader Quits in New Blow to Kennedy Center",
+        "link": "https://www.nytimes.com/2026/03/06/arts/music/kennedy-center-national-symphony-orchestra-leader-quits.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Qatar Airways to run repatriation flights after airspace corridor approved",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-airways-run-repatriation-flights-after-airspace-corridor-approved"
+      },
+      {
+        "title": "In first week of war on Iran, Gulf states shutter energy production and oil soars",
+        "link": "https://www.middleeasteye.net/news/first-week-war-iran-gulf-states-shutter-energy-production-and-oil-soars"
+      },
+      {
+        "title": "WHO Dubai hub to resumes aid shipments after pause",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/who-dubai-hub-resumes-aid-shipments-after-pause-0"
+      },
+      {
+        "title": "Russia likely behind Iran's increased precision in hitting Gulf targets",
+        "link": "https://www.middleeasteye.net/news/russia-likely-behind-irans-increased-precision-hitting-gulf-targets"
+      },
+      {
         "title": "Satellite firm delays release of images over Gulf states",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/satellite-firm-delays-release-images-over-gulf-states-0"
-      },
-      {
-        "title": "Trump's 'fine' with another religious leader ruling Iran",
-        "link": "https://www.middleeasteye.net/news/trump-said-he-fine-another-religious-leader-ruling-iran-democracy-not-necessary-report"
-      },
-      {
-        "title": "Kurdish fighters say they would join US ground invasion of Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kurdish-fighters-say-they-would-join-us-ground-invasion-iran-0"
-      },
-      {
-        "title": "Why India's Narendra Modi chose to back Israel over Iran",
-        "link": "https://www.middleeasteye.net/news/why-indias-narendra-modi-chose-back-israel-over-iran"
-      },
-      {
-        "title": "Iran says it will not close Strait of Hormuz but warns US and Israeli ships",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-will-not-close-strait-hormuz-warns-us-and-israeli-ships"
       }
     ],
     "GeoTV": [
+      {
+        "title": "King Charles to make wild entry in international cricket match",
+        "link": "https://www.geo.tv/latest/654446-king-charles-to-make-wild-entry-in-international-cricket-match"
+      },
       {
         "title": "James G. Robinson dies: Major entertainment company founder was 90",
         "link": "https://www.geo.tv/latest/654465-james-g-robinson-dies-major-entertainment-company-founder-was-90"
@@ -151,32 +155,28 @@
       {
         "title": "Next-gen Xbox ‘Project Helix': Specs, price rumours, release date predictions",
         "link": "https://www.geo.tv/latest/654461-next-gen-xbox-project-helix-specs-price-rumours-release-date-predictions"
-      },
-      {
-        "title": "Deadly storms hammer Oklahoma as millions brace for monster hail, tornadoes",
-        "link": "https://www.geo.tv/latest/654457-deadly-storms-hammer-oklahoma-as-millions-brace-for-monster-hail-tornadoes"
       }
     ],
     "NDTV": [
       {
+        "title": "Security Tightened In Delhi After Man Killed In Holi Clash; 4 Arrested",
+        "link": "https://www.ndtv.com/delhi-news/security-tightened-in-delhi-after-man-killed-in-holi-clash-4-arrested-11179900#publisher=newsstand"
+      },
+      {
+        "title": "Mamata Banerjee Launches Protest Against Bengal Voter Roll Deletions",
+        "link": "https://www.ndtv.com/india-news/mamata-banerjee-launches-protest-against-bengal-voter-roll-deletions-11179819#publisher=newsstand"
+      },
+      {
+        "title": "Noida International Airport Gets Key Licence, To Begin Operations Soon",
+        "link": "https://www.ndtv.com/india-news/noida-international-airport-gets-key-licence-to-begin-operations-soon-11179815#publisher=newsstand"
+      },
+      {
+        "title": "'Reached Out To India To Buy Russian Oil To Ease Global Markets': US",
+        "link": "https://www.ndtv.com/world-news/reached-out-to-india-to-buy-russian-oil-to-ease-global-markets-us-11179810#publisher=newsstand"
+      },
+      {
         "title": "US Loses 92,000 Jobs In February As Unemployment Rate Ticked Up To 4.4%",
         "link": "https://www.ndtv.com/world-news/us-loses-92-000-jobs-in-february-as-unemployment-rate-ticked-up-to-4-4-11179767#publisher=newsstand"
-      },
-      {
-        "title": "Evidence Suggests Deadly Blast At Iranian School Was Likely A US Airstrike",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-evidence-suggests-deadly-blast-at-iranian-school-was-likely-a-us-airstrike-11179667#publisher=newsstand"
-      },
-      {
-        "title": "'Trump, Netanyahu Greatest Tag Team In History': Israel PM's Adviser To NDTV",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-war-israel-war-us-trump-netanyahu-greatest-tag-team-in-history-israel-pms-adviser-to-ndtv-11179572#publisher=newsstand"
-      },
-      {
-        "title": "Nepal Election 2026 Results Live Updates: Balen Shah's RSP Close To Victory, Celebrations On Streets",
-        "link": "https://www.ndtv.com/world-news/nepal-election-2026-results-live-updates-balendra-shah-gagan-thapa-kp-sharma-oli-nepal-to-count-votes-shortly-for-first-polls-held-after-gen-z-protest-11175123#publisher=newsstand"
-      },
-      {
-        "title": "US Pressing Sri Lanka Not To Repatriate Iranian Ship's Crew: Report",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-us-pressing-sri-lanka-not-to-repatriate-iranian-ships-crew-report-11179565#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-06 22:01 UTC"
+  "last_updated": "2026-03-06 22:41 UTC"
 }
