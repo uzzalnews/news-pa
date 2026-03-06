@@ -1,20 +1,14 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates: Sensex Falls 500 Points, Nifty Opens 150 Lower After Dow Sell-Off",
-      "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-nifty50-today-gift-nifty-trades-lower-hints-low-opening-amid-dow-sell-off-11175170#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "PM stands by decision not to join strikes on Iran and sends more jets to Qatar",
-        "link": "https://www.bbc.com/news/articles/cdr2214nmk8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "First UK government flight from Middle East lands at Stansted Airport",
         "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "PM stands by decision not to join strikes on Iran and sends more jets to Qatar",
+        "link": "https://www.bbc.com/news/articles/cdr2214nmk8o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'This is war': BBC speaks to Iranians at border",
@@ -25,11 +19,15 @@
         "link": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Labour MP 'voluntarily suspends herself' after husband arrested in China spy probe",
-        "link": "https://www.bbc.com/news/articles/cvg8edz1ng2o?at_medium=RSS&at_campaign=rss"
+        "title": "'I'm still haunted that he died alone': The last voices of the Covid inquiry",
+        "link": "https://www.bbc.com/news/articles/c93wxxe9410o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Iran targets Israeli embassy in Bahrain, Saudi Arabia intercepts missile",
+        "link": "https://www.aljazeera.com/news/2026/3/6/iran-targets-israeli-embassy-in-bahrain-saudi-arabia-intercepts-missile?traffic_source=rss"
+      },
       {
         "title": "US House joins Senate to vote down war powers resolution",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-house-joins-senate-to-vote-down-war-powers-resolution?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "Who is Ahmad Vahidi, the IRGC’s new commander?",
         "link": "https://www.aljazeera.com/news/2026/3/6/who-is-ahmad-vahidi-the-irgcs-new-commander?traffic_source=rss"
-      },
-      {
-        "title": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,12 +86,24 @@
         "link": "https://www.dawn.com/news/1978915/gb-security-site-attackers-to-be-tried-in-military-courts"
       },
       {
-        "title": "Pakistani man claims Iran ‘forced him’ into plot to kill Trump",
-        "link": "https://www.dawn.com/news/1978907/pakistani-man-claims-iran-forced-him-into-plot-to-kill-trump"
+        "title": "Video of armed men torturing teenage girl in KP’s Domel goes viral",
+        "link": "https://www.dawn.com/news/1978875/video-of-armed-men-torturing-teenage-girl-in-kps-domel-goes-viral"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base",
+        "link": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
+      },
+      {
+        "title": "As Trump Out-Putins Putin, Russia’s Global Influence Erodes",
+        "link": "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html"
+      },
+      {
+        "title": "With War in the Gulf, India Turns Back to Russian Oil",
+        "link": "https://www.nytimes.com/2026/03/05/business/india-russian-oil.html"
+      },
       {
         "title": "Timeline: The Rise and Fall of Kristi Noem as Trump’s DHS Secretary",
         "link": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html"
@@ -105,43 +111,39 @@
       {
         "title": "As Noem Speaks in Nashville, Senate Swarms Mullin",
         "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-fires-noem-gop-split-mullin.html"
-      },
-      {
-        "title": "Senator Blumenthal Pushes to Investigate Kristi Noem for Perjury",
-        "link": "https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html"
-      },
-      {
-        "title": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base",
-        "link": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html"
-      },
-      {
-        "title": "House Turns Back Bid to Restrict Trump’s War Powers in Iran",
-        "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-war-powers-iran-house-vote.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Video: Smotrich says Lebanon's Dahiyeh 'will look like Khan Younis'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-smotrich-says-lebanons-dahiyeh-will-look-khan-younis"
+      },
+      {
+        "title": "Residential areas hit in latest US-Israeli strikes on Tehran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/residential-areas-hit-latest-us-israeli-strikes-tehran"
+      },
+      {
+        "title": "Satellite images show damage at Iranian military, nuclear sites after strikes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/satellite-images-show-damage-iranian-military-nuclear-sites-after"
+      },
+      {
+        "title": "IRGC says Iran ready for prolonged war, threatens ‘painful blows’ with new weaponry",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-iran-ready-prolonged-war-threatens-painful-blows-new-weaponry"
+      },
+      {
         "title": "Hegseth: US won’t take new wave of Middle East refugees",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-us-wont-take-new-wave-middle-east-refugees"
-      },
-      {
-        "title": "Iraqi armed group claims 27 attacks on US targets",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-armed-group-claims-27-attacks-us-targets"
-      },
-      {
-        "title": "US likely responsible for Iran school attack, military investigation says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-likely-responsible-iran-school-attack-military-investigation-says"
-      },
-      {
-        "title": "Nato raises ballistic missile defence posture after Turkey attack",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nato-raises-ballistic-missile-defence-posture-after-turkey-attack"
-      },
-      {
-        "title": "Israeli jets bomb areas in Lebanon’s Bekaa Valley",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-bomb-areas-lebanons-bekaa-valley"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Brooklyn Beckham praises Nicola Peltz's 'talent' after her cameo in 'The Beauty'",
+        "link": "https://www.geo.tv/latest/654316-brooklyn-beckham-praises-nicola-peltzs-talent-after-her-cameo-in-the-beauty"
+      },
+      {
+        "title": "Princess hopes parents Katie Price and Peter Andre will reunite on her show",
+        "link": "https://www.geo.tv/latest/654314-princess-hopes-parents-katie-price-and-peter-andre-will-reunite-on-her-show"
+      },
       {
         "title": "Prince William honours Storm Goretti emergency responders with sweet gesture",
         "link": "https://www.geo.tv/latest/654312-prince-william-honours-storm-goretti-emergency-responders-with-sweet-gesture"
@@ -153,36 +155,28 @@
       {
         "title": "US approves temporary sale of stranded Russian oil to India",
         "link": "https://www.geo.tv/latest/654311-us-approves-temporary-sale-of-stranded-russian-oil-to-india"
-      },
-      {
-        "title": "Britney Spears contacted by people close to her after DUI arrest",
-        "link": "https://www.geo.tv/latest/654309-britney-spears-contacted-by-people-close-to-her-after-dui-arrest"
-      },
-      {
-        "title": "Maisie Peters surprises fans in Australia with Ed Sheeran",
-        "link": "https://www.geo.tv/latest/654307-maisie-peters-surprises-fans-in-australia-with-ed-sheeran"
       }
     ],
     "NDTV": [
       {
-        "title": "2 Air Force Pilots Killed In Sukhoi Su-30 Crash In Assam",
-        "link": "https://www.ndtv.com/india-news/2-air-force-pilots-killed-in-sukhoi-su-30-crash-in-assam-11175516#publisher=newsstand"
+        "title": "Trump Finds He Needs Europe Now That He's Waging War in Iran",
+        "link": "https://www.ndtv.com/world-news/us-iran-israel-war-trump-finds-he-needs-europe-now-that-hes-waging-war-in-iran-11175833#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates: Sensex Falls 500 Points, Nifty Opens 150 Lower After Dow Sell-Off",
-        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-nifty50-today-gift-nifty-trades-lower-hints-low-opening-amid-dow-sell-off-11175170#publisher=newsstand"
+        "title": "Ahead Of PM Modi's Rally, BJP Fine Tunes Bengal Strategy Amid Voter Roll Row",
+        "link": "https://www.ndtv.com/india-news/bengal-elections-2026-ahead-of-pm-modis-kolkata-rally-bjp-fine-tunes-bengal-strategy-amid-voter-roll-row-11175817#publisher=newsstand"
       },
       {
-        "title": "Trump's 'Rocky IV' Moment On Oil Prices During Iran Op: \"If They Rise, They Rise\"",
-        "link": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-tensions-trumps-rocky-iv-moment-on-oil-prices-during-iran-op-if-they-rise-they-rise-11175418#publisher=newsstand"
-      },
-      {
-        "title": "Nepal Election 2026 Results Live Updates: Rastriya Swatantra Party Wins 1 Seat, Leads In 36 Across Nepal",
+        "title": "Nepal Election 2026 Results Live Updates: Balen Shah's Rastriya Swatantra Party Leads In 45 Constituencies",
         "link": "https://www.ndtv.com/world-news/nepal-election-2026-results-live-updates-balendra-shah-gagan-thapa-kp-sharma-oli-nepal-to-count-votes-shortly-for-first-polls-held-after-gen-z-protest-11175123#publisher=newsstand"
       },
       {
-        "title": "A Happy Nitish Kumar Is Key To BJP's Bihar Equation",
-        "link": "https://www.ndtv.com/india-news/rajya-sabha-election-2026-bihar-a-happy-nitish-kumar-is-key-to-bjps-bihar-equation-11174671#publisher=newsstand"
+        "title": "US Waiver On India's Russian Oil Purchase: What It Means For Economy",
+        "link": "https://www.ndtv.com/india-news/iran-war-us-grants-india-30-day-waiver-for-russian-oil-purchase-what-it-means-for-economy-11175429#publisher=newsstand"
+      },
+      {
+        "title": "\"I Think It's Wonderful\": Trump Backs Possible Kurdish Offensive In Iran",
+        "link": "https://www.ndtv.com/world-news/i-think-its-wonderful-trump-backs-possible-kurdish-offensive-in-iran-11175632#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-06 04:23 UTC"
+  "last_updated": "2026-03-06 05:30 UTC"
 }
