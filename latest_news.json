@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Video: Satellite images reveal damage to several Iranian military bases",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/video-satellite-images-reveal-damage-to-several-iranian-military-bases?traffic_source=rss"
+      },
+      {
+        "title": "Cuba says electricity plant successfully repaired after large blackout",
+        "link": "https://www.aljazeera.com/news/2026/3/7/cuba-says-electricity-plant-successfully-repaired-after-large-blackout?traffic_source=rss"
+      },
+      {
+        "title": "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
+        "link": "https://www.aljazeera.com/news/2026/3/7/uae-president-says-prepared-to-confront-threats-as-iran-attacks-continue?traffic_source=rss"
+      },
+      {
+        "title": "Russia kills 10 in Ukraine strike including children with new missile",
+        "link": "https://www.aljazeera.com/news/2026/3/7/russia-kills-10-in-kharkiv-strike-including-children-using-new-missile?traffic_source=rss"
+      },
+      {
         "title": "Smoke rises from a Dubai tower after attack",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/smoke-rises-from-a-dubai-tower-after?traffic_source=rss"
-      },
-      {
-        "title": "More than 30 injured in nightclub bombing in northern Peru",
-        "link": "https://www.aljazeera.com/news/2026/3/7/more-than-30-injured-in-nightclub-bombing-in-northern-peru?traffic_source=rss"
-      },
-      {
-        "title": "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
-        "link": "https://www.aljazeera.com/news/2026/3/7/theyre-a-cancer-trump-threatens-cartels-cuba-at-latin-american-summit?traffic_source=rss"
-      },
-      {
-        "title": "Israel launches raid in Lebanon searching for missing pilot",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/israel-launches-raid-in-lebanon-searching-for-missing-pilot?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Duchess Sophie impresses in lilac while tackling rare skin disorder",
+        "link": "https://www.geo.tv/latest/654599-duchess-sophie-impresses-in-lilac-while-tackling-rare-skin-disorder"
+      },
+      {
         "title": "Fake Iran war videos amass millions of views as AI misinformation explodes",
         "link": "https://www.geo.tv/latest/654605-fake-iran-war-videos-amass-millions-of-views-as-ai-misinformation-explodes"
       },
@@ -157,13 +155,13 @@
       {
         "title": "Cristiano Ronaldo breaks silence after hamstring injury: ‘I'm recovering'",
         "link": "https://www.geo.tv/latest/654598-cristiano-ronaldo-breaks-silence-after-hamstring-injury-im-recovering"
-      },
-      {
-        "title": "Prince Harry refuses empathy for Princess Beatrice, Princess Eugenie",
-        "link": "https://www.geo.tv/latest/654593-r"
       }
     ],
     "NDTV": [
+      {
+        "title": "\"Desperately Needed Love\": YouTuber Anurag Dobhal Livestreams Crash At 150kmph",
+        "link": "https://www.ndtv.com/india-news/uk07-rider-bigg-boss-toyota-fortuner-desperately-needed-love-youtuber-anurag-dobhal-livestreams-crash-at-150kmph-11183633#publisher=newsstand"
+      },
       {
         "title": "Trump Started War Against Iran. He's Still Figuring Out How It Ends",
         "link": "https://www.ndtv.com/world-news/iran-israel-war-dubai-strikes-live-updates-donald-trumps-endgame-in-iran-his-statements-suggest-even-he-doesnt-know-11183343#publisher=newsstand"
@@ -179,10 +177,6 @@
       {
         "title": "\"Indian Ocean Must Remain Peace Zone\": Lankan Opposition Leader To NDTV",
         "link": "https://www.ndtv.com/world-news/iran-war-news-indian-ocean-must-remain-peace-zone-sri-lankan-opposition-leader-sajith-premadasa-to-ndtv-11183578#publisher=newsstand"
-      },
-      {
-        "title": "Smoke Rises From Tower In Dubai Marina As Iran Continues Gulf Attacks",
-        "link": "https://www.ndtv.com/world-news/iran-war-iran-israel-us-war-dubai-news-smoke-rises-from-tower-in-dubai-marina-as-iran-continues-gulf-attacks-11183521#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-07 20:32 UTC"
+  "last_updated": "2026-03-07 20:52 UTC"
 }
