@@ -9,6 +9,14 @@
   "news": {
     "BBC": [
       {
+        "title": "Navy readying aircraft carrier for deployment as Iran conflict deepens",
+        "link": "https://www.bbc.com/news/articles/c39w2nj1rk8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK to charter flight for British nationals out of Dubai",
+        "link": "https://www.bbc.com/news/articles/c0432n5gl1zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Soham murderer Ian Huntley dies after prison attack",
         "link": "https://www.bbc.com/news/articles/c80jmm00379o?at_medium=RSS&at_campaign=rss"
       },
@@ -17,19 +25,15 @@
         "link": "https://www.bbc.com/news/articles/c9wnn8nn5p8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Navy readying aircraft carrier for deployment as Iran conflict deepens",
-        "link": "https://www.bbc.com/news/articles/c39w2nj1rk8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Canada's PM calls for Andrew to be removed from line of succession",
         "link": "https://www.bbc.com/news/articles/czd87d0jq37o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Timothée Chalamet triggers backlash over ballet and opera remarks",
-        "link": "https://www.bbc.com/news/articles/cx281xz2qjqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Israel launches raid in Lebanon searching for missing pilot",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/israel-launches-raid-in-lebanon-searching-for-missing-pilot?traffic_source=rss"
+      },
       {
         "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
         "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss"
@@ -45,10 +49,6 @@
       {
         "title": "War against Iran: How far will it go?",
         "link": "https://www.aljazeera.com/video/upfront/2026/3/7/war-against-iran-how-far-will-it-go?traffic_source=rss"
-      },
-      {
-        "title": "India vs New Zealand: T20 World Cup final – ‘No pressure, no fun’ for hosts",
-        "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-no-pressure-no-fun-for-hosts?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,20 +80,20 @@
         "link": "https://www.dawn.com/news/1979501/2-policemen-martyred-5-more-among-31-injured-in-ied-blast-in-kps-wana"
       },
       {
+        "title": "‘They are extremely accurate’: Trump offers Latin American leaders US missile strikes to hit drug cartels",
+        "link": "https://www.dawn.com/news/1979526/they-are-extremely-accurate-trump-offers-latin-american-leaders-us-missile-strikes-to-hit-drug-cartels"
+      },
+      {
+        "title": "Govt hikes kerosene price by Rs130 to Rs318.81 per litre",
+        "link": "https://www.dawn.com/news/1979534/govt-hikes-kerosene-price-by-rs130-to-rs31881-per-litre"
+      },
+      {
         "title": "Kuwait’s national oil company cuts production as precaution amid Iran tensions",
         "link": "https://www.dawn.com/news/1979510/kuwaits-national-oil-company-cuts-production-as-precaution-amid-iran-tensions"
       },
       {
         "title": "PM tells ministers to prepare strategy for conserving petroleum products, ensuring uninterrupted supply",
         "link": "https://www.dawn.com/news/1979462/pm-tells-ministers-to-prepare-strategy-for-conserving-petroleum-products-ensuring-uninterrupted-supply"
-      },
-      {
-        "title": "Jailed PTI leaders call for putting aside ‘personal ambitions, political grudges’ for Pakistan’s sake",
-        "link": "https://www.dawn.com/news/1979482/jailed-pti-leaders-call-for-putting-aside-personal-ambitions-political-grudges-for-pakistans-sake"
-      },
-      {
-        "title": "KP finance dept orders adoption of fuel conservation measures due to ‘anticipated disruptions’",
-        "link": "https://www.dawn.com/news/1979478/kp-finance-dept-orders-adoption-of-fuel-conservation-measures-due-to-anticipated-disruptions"
       }
     ],
     "APNews": [],
@@ -111,37 +111,49 @@
         "link": "https://www.nytimes.com/video/world/middleeast/100000010750321/how-we-analyzed-the-strike-on-the-iranian-school.html"
       },
       {
-        "title": "Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line.",
-        "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html"
+        "title": "ICE Arrests Slowed as Trump Backed Off After Minneapolis",
+        "link": "https://www.nytimes.com/2026/03/07/us/politics/ice-arrests-slowdown.html"
       },
       {
-        "title": "At Trump’s Summit in Miami, Bolivia Makes a Political U-turn Toward the U.S.",
-        "link": "https://www.nytimes.com/2026/03/07/world/americas/bolivia-us-relations-trump-paz.html"
+        "title": "Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line.",
+        "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iranian body to meet within a day to choose next supreme leader, local media says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-body-meet-within-day-choose-next-supreme-leader-local-media-says"
+        "title": "Israeli settler fatally shoots Palestinian in West Bank, health ministry says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-fatally-shoots-palestinian-west-bank-health-ministry"
       },
       {
-        "title": "Iranian foreign minister condemns US attack on freshwater desalination plant",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-minister-condemns-us-attack-freshwater-desalination"
+        "title": "Report: Explosions heard in Baghdad",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-explosions-heard-baghdad"
       },
       {
-        "title": "Strike hits Iraqi Popular Mobilisation Forces base near Mosul, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/strike-hits-iraqi-popular-mobilisation-forces-base-near-mosul-pmf"
+        "title": "Over 150 Iranian nationals leave Lebanon including diplomats, Lebanese security source says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-150-iranian-nationals-leave-lebanon-including-diplomats-lebanese"
       },
       {
-        "title": "Loud explosion heard in Dubai: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/loud-explosion-heard-dubai-report"
+        "title": "UAE says it is responding to incoming missiles",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-responding-incoming-missile-threats"
       },
       {
-        "title": "Israeli army orders forced evacuation of residents in Beirut’s southern suburbs",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-orders-forced-evacuation-order-remaining-residents-beiruts"
+        "title": "Turkey may deploy F-16s to north Cyprus amid Mideast war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-may-deploy-f-16s-north-cyprus-amid-mideast-war"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Princess Kate's surprise decision alarmed her parents",
+        "link": "https://www.geo.tv/latest/654592-princess-kates-surprise-decision-alarmed-her-parents"
+      },
+      {
+        "title": "Harry and Meghan's tracks in Middle East sends careful message amid war",
+        "link": "https://www.geo.tv/latest/654568-harry-and-meghans-tracks-in-middle-east-sends-careful-message-amid-war"
+      },
+      {
+        "title": "Nicola Peltz maintains silence on Beckhams feud after Brooklyn's birthday",
+        "link": "https://www.geo.tv/latest/654584-nicola-peltz-maintains-silence-on-beckhams-feud-after-brooklyns-birthday"
+      },
       {
         "title": "Priyanka Chopra speaks out on streaming vs cinema debate",
         "link": "https://www.geo.tv/latest/654585-priyanka-chopra-speaks-out-on-streaming-vs-cinema-debate"
@@ -149,18 +161,6 @@
       {
         "title": "Prince Edward issues statement after Harry's emotional message",
         "link": "https://www.geo.tv/latest/654576-prince-edward-issues-statement-after-harrys-emotional-message"
-      },
-      {
-        "title": "Timothee Chalamet's 'insensitive' joke sparks response from Met Opera",
-        "link": "https://www.geo.tv/latest/654580-timothee-chalamet"
-      },
-      {
-        "title": "Katie Price's husband Lee finally leaves Dubai after missile strikes",
-        "link": "https://www.geo.tv/latest/654582-katie-prices-husband-lee-finally-leaves-dubai-after-missile-strike"
-      },
-      {
-        "title": "Prince Harry releases surprise video message amid royal turmoil",
-        "link": "https://www.geo.tv/latest/654579-prince-harry-releases-surprise-video-message-amid-royal-turmoil"
       }
     ],
     "NDTV": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-07 17:58 UTC"
+  "last_updated": "2026-03-07 18:45 UTC"
 }
