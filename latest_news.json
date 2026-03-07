@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Athletic Bilbao vs Barcelona – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/7/live-athletic-bilbao-vs-barcelona-la-liga?traffic_source=rss"
+      },
+      {
         "title": "What people in Gaza are saying about the closure of the Rafah crossing",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/7/what-people-in-gaza-are-saying-about-the-closure-of-the-rafah-crossing?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "India vs New Zealand: T20 World Cup final – ‘No pressure, no fun’ for hosts",
         "link": "https://www.aljazeera.com/sports/2026/3/7/india-vs-new-zealand-t20-world-cup-final-no-pressure-no-fun-for-hosts?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
-        "link": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,6 +143,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Priyanka Chopra speaks out on streaming vs cinema debate",
+        "link": "https://www.geo.tv/latest/654585-priyanka-chopra-speaks-out-on-streaming-vs-cinema-debate"
+      },
+      {
+        "title": "Prince Edward issues statement after Harry's emotional message",
+        "link": "https://www.geo.tv/latest/654576-prince-edward-issues-statement-after-harrys-emotional-message"
+      },
+      {
         "title": "Timothee Chalamet's 'insensitive' joke sparks response from Met Opera",
         "link": "https://www.geo.tv/latest/654580-timothee-chalamet"
       },
@@ -147,36 +161,28 @@
       {
         "title": "Prince Harry releases surprise video message amid royal turmoil",
         "link": "https://www.geo.tv/latest/654579-prince-harry-releases-surprise-video-message-amid-royal-turmoil"
-      },
-      {
-        "title": "UAE president says country is well and 'no easy prey' in first public comments since Iran strikes",
-        "link": "https://www.geo.tv/latest/654581-uae-president-says-country-is-well-and-no-easy-prey-in-first-public-comments-since-iran-strikes"
-      },
-      {
-        "title": "Andrew and Sarah's bond grew stronger after going separate ways",
-        "link": "https://www.geo.tv/latest/654562-andrew-and-sarahs-bond-grew-stronger-after-going-separate-ways"
       }
     ],
     "NDTV": [
       {
-        "title": "Hours After President's Apology, A Warning To Neighbours From Iran",
+        "title": "Overweight To Ace Athlete: Air Force Squadron Leader's Big Transformation",
+        "link": "https://www.ndtv.com/india-news/overweight-to-trailblazing-athlete-a-big-transformation-story-in-air-force-11183164#publisher=newsstand"
+      },
+      {
+        "title": "What's Trump's Endgame In Iran? His Statements Suggest Even He Doesn't Know",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-dubai-strikes-live-updates-donald-trumps-endgame-in-iran-his-statements-suggest-even-he-doesnt-know-11183343#publisher=newsstand"
+      },
+      {
+        "title": "Iran's Warning To Neighbours Hours After President's Apology",
         "link": "https://www.ndtv.com/world-news/iran-news-iran-israel-us-war-news-middle-east-news-hours-after-presidents-apology-a-warning-to-neighbours-from-iran-11183104#publisher=newsstand"
       },
       {
-        "title": "Iran Accuses US Of Attacking Freshwater Desalination Plant On Gulf Island",
-        "link": "https://www.ndtv.com/world-news/iran-accuses-us-of-attacking-freshwater-desalination-plant-on-gulf-island-11183072#publisher=newsstand"
+        "title": "90-Year-Old Woman Raped By 4 Masked Men In Madhya Pradesh: Cops",
+        "link": "https://www.ndtv.com/india-news/90-year-old-woman-raped-by-4-masked-men-in-madhya-pradesh-cops-11183315#publisher=newsstand"
       },
       {
-        "title": "\"Is She Upset With Me?\" President Jabs Mamata Banerjee, Her \"Politics\" Reply",
-        "link": "https://www.ndtv.com/india-news/west-bengal-elections-bengal-polls-droupadi-murmu-is-mamata-banerjee-upset-with-me-president-jabs-11182594#publisher=newsstand"
-      },
-      {
-        "title": "US Intel Warned Iran Regime Change 'Unlikely' Even After War: Report",
-        "link": "https://www.ndtv.com/world-news/us-intel-warned-iran-regime-change-unlikely-even-after-war-report-11182926#publisher=newsstand"
-      },
-      {
-        "title": "Rs 2,500 Per Month For Women Among Vijay's \"Sample\" Election Promises",
-        "link": "https://www.ndtv.com/india-news/vijay-announces-sample-poll-promises-for-women-ahead-of-2026-elections-11182775#publisher=newsstand"
+        "title": "Assam Group Stuck In Dubai Posts Video, Appeals For Help",
+        "link": "https://www.ndtv.com/india-news/assam-group-stranded-in-dubai-posts-video-in-social-media-asking-for-help-11183269#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-07 17:25 UTC"
+  "last_updated": "2026-03-07 17:45 UTC"
 }
