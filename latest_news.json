@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: India vs New Zealand – T20 World Cup final",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/8/live-india-vs-new-zealand-t20-world-cup-final?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,12 +17,12 @@
         "link": "https://www.bbc.com/news/articles/cp9m8zmxe25o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "How I've learned that certainty is the thing to really fear",
-        "link": "https://www.bbc.com/news/articles/c1w5z1d447lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Jessie Buckley says acting helped her overcome eating disorder as a teenager",
         "link": "https://www.bbc.com/news/articles/c3rz2d2xr8go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How I've learned that certainty is the thing to really fear",
+        "link": "https://www.bbc.com/news/articles/c1w5z1d447lo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "King reflects on 'pressures of conflict' in Commonwealth message",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "‘No popular support’: China warns against government change in Iran",
+        "link": "https://www.aljazeera.com/news/2026/3/8/no-popular-support-china-warns-against-government-change-in-iran?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: India vs New Zealand – T20 World Cup final",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/8/live-india-vs-new-zealand-t20-world-cup-final?traffic_source=rss"
+      },
+      {
+        "title": "Children wounded in the US-Israeli strikes receive treatment in Tehran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/children-wounded-in-the-us-israeli-strikes-receive-treatment-in-tehran?traffic_source=rss"
+      },
+      {
         "title": "Israel strikes Iran’s oil facilities for first time as war enters ninth day",
         "link": "https://www.aljazeera.com/news/2026/3/8/israel-strikes-irans-oil-facilities-for-first-time-as-war-enters-ninth-day?traffic_source=rss"
       },
       {
         "title": "Iran war: What is happening on day nine of US-Israel attacks?",
         "link": "https://www.aljazeera.com/news/2026/3/8/iran-war-what-is-happening-on-day-nine-of-us-israel-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Israeli attack on hotel in Lebanon’s Beirut kills four",
-        "link": "https://www.aljazeera.com/news/2026/3/8/israeli-strike-on-hotel-in-lebanons-beirut-kills-four-people?traffic_source=rss"
-      },
-      {
-        "title": "Palestinians risk life and limb to fish in Gaza’s Israeli-controlled sea",
-        "link": "https://www.aljazeera.com/features/2026/3/8/palestinians-risk-life-and-limb-to-fish-in-gazas-israeli-controlled-sea?traffic_source=rss"
-      },
-      {
-        "title": "Israel strikes busy Beirut hotel in assassination attempt",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/israel-strikes-busy-beirut-hotel-in-assassination-attempt?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Inside the secret US-led talks to solve the Western Sahara conflict",
+        "link": "https://www.middleeasteye.net/news/inside-secret-us-led-talks-solve-western-sahara-conflict"
+      },
+      {
         "title": "Iran war: Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-war-morning-update"
       },
@@ -129,13 +139,17 @@
       {
         "title": "Video: Iranian attack drone hitting radar tower at US base in Gulf",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-iranian-attack-drone-hitting-radar-tower-us-base-gulf"
-      },
-      {
-        "title": "Iran cleric says leadership choice nearing announcement",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-cleric-says-leadership-choice-nearing-announcement"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Demi Moore shares words of wisdom: ‘Perfection doesn't exist'",
+        "link": "https://www.geo.tv/latest/654641-demi-moore-shares-words-of-wisdom-perfection-doesnt-exist"
+      },
+      {
+        "title": "Prince William, Kate declare distance from Beatrice, Eugenie at royal event",
+        "link": "https://www.geo.tv/latest/654639-prince-william-kate-declare-distance-from-beatrice-eugenie-at-royal-event"
+      },
       {
         "title": "Buckingham Palace shares update after King Charles US tour mystery",
         "link": "https://www.geo.tv/latest/654640-buckingham-palace-shares-update-amid-king-charles-us-tour-mystery"
@@ -147,14 +161,6 @@
       {
         "title": "Sony faces $2.7bn class action from UK PlayStation users",
         "link": "https://www.geo.tv/latest/654638-sony-faces-27bn-class-action-from-uk-playstation-users"
-      },
-      {
-        "title": "Christian Bale makes shocking confession about Jacob Elordi's ‘Frankenstein'",
-        "link": "https://www.geo.tv/latest/654636-christian-bale-makes-shocking-confession-about-jacob-elordis-frankenstein"
-      },
-      {
-        "title": "Beatrice, Eugenie make huge sacrifice for royal family: 'No sympathy'",
-        "link": "https://www.geo.tv/latest/654634-beatrice-eugenie-make-huge-sacrifice-for-royal-family-no-sympathy"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-08 08:34 UTC"
+  "last_updated": "2026-03-08 08:59 UTC"
 }
