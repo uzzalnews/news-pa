@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE: Sensex Crashes 2,200 Points, Nifty Drops Below 24,000",
+      "link": "https://www.ndtv.com/india-news/stock-marketlive-updates-sensex-nifty-likely-to-crash-as-oil-crosses-105-mark-11187870#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Parliament Budget Session LIVE Updates: Opposition To Move No-Trust Motion Against Lok Sabha Speaker Om Birla",
+      "link": "https://www.ndtv.com/india-news/parliament-budget-session-live-updates-lok-sabha-pm-modi-speaker-om-birla-impeachment-middle-east-tension-s-jaishankar-address-iran-war-11188126#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,7 +36,7 @@
     ],
     "AlJazeera": [
       {
-        "title": "Oil soars past $100 a barrel amid Iran war",
+        "title": "Oil soars past $100 a barrel as US-Israel war on Iran rages",
         "link": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss"
       },
       {
@@ -70,72 +81,84 @@
     ],
     "Dawn": [
       {
+        "title": "Mojtaba Khamenei’s appointment as supreme leader draws measured US response, sharp Israeli warning",
+        "link": "https://www.dawn.com/news/1980052/mojtaba-khameneis-appointment-as-supreme-leader-draws-measured-us-response-sharp-israeli-warning"
+      },
+      {
         "title": "PM to unveil austerity plan today to cope with war fallout",
         "link": "https://www.dawn.com/news/1979989/pm-to-unveil-austerity-plan-today-to-cope-with-war-fallout"
+      },
+      {
+        "title": "US, Israel accused of ‘war crimes’ after deadly strikes on civilian targets",
+        "link": "https://www.dawn.com/news/1979984/us-israel-accused-of-war-crimes-after-deadly-strikes-on-civilian-targets"
       },
       {
         "title": "‘Oil rain’ falls on Tehran after apocalyptic strikes on refineries",
         "link": "https://www.dawn.com/news/1979990/oil-rain-falls-on-tehran-after-apocalyptic-strikes-on-refineries"
       },
       {
-        "title": "Khamenei’s son, Mojtaba, named new supreme leader",
-        "link": "https://www.dawn.com/news/1979991/khameneis-son-mojtaba-named-new-supreme-leader"
-      },
-      {
         "title": "India crush New Zealand to win third T20 World Cup title",
         "link": "https://www.dawn.com/news/1979853/india-crush-new-zealand-to-win-third-t20-world-cup-title"
-      },
-      {
-        "title": "Civilian killed, cop injured as armed men open fire on police in KP’s Lakki Marwat",
-        "link": "https://www.dawn.com/news/1979866/civilian-killed-cop-injured-as-armed-men-open-fire-on-police-in-kps-lakki-marwat"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Mojtaba Khamenei, Son of Iran’s Slain Supreme Leader, Is a Mysterious Figure",
-        "link": "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
-      },
-      {
         "title": "U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows",
         "link": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html"
       },
       {
-        "title": "Trump Executive Order Protected Weedkiller Roundup and a Munition, White Phosphorus",
-        "link": "https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html"
+        "title": "Mojtaba Khamenei, Son of Iran’s Slain Supreme Leader, Is a Mysterious Figure",
+        "link": "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html"
       },
       {
-        "title": "U.S. Carries Out Another Boat Strike, Killing Six",
-        "link": "https://www.nytimes.com/2026/03/08/us/politics/boat-strike-eastern-pacific-six-killed.html"
+        "title": "Pentagon Announces Seventh U.S. Death in War With Iran",
+        "link": "https://www.nytimes.com/2026/03/08/world/middleeast/american-soldier-killed-iran-war.html"
       },
       {
-        "title": "White House Removes Republican Member of N.T.S.B.",
-        "link": "https://www.nytimes.com/2026/03/08/us/politics/todd-inman-fired-national-transportation-safety-board.html"
+        "title": "On the Road With Zelensky, Weathered, Weary and Fighting On",
+        "link": "https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html"
+      },
+      {
+        "title": "Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says",
+        "link": "https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Trump says he is 'not happy' with Mojtaba Khamenei appointment",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-not-happy-mojtaba-khamenei-appointment-0"
+        "title": "Israeli military planning month-long war, local media says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-planning-month-long-war-local-media-says"
       },
       {
-        "title": "Trump says he is 'not happy' with Mojtaba Khamenei appointment",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-not-happy-mojtaba-khamenei-appointment"
+        "title": "Seven killed, 30 wounded in Israeli strikes on south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-killed-30-wounded-israeli-strikes-south-lebanon"
       },
       {
-        "title": "Bahrain says Iranian drone attack wounds 32",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-says-iranian-drone-attack-wounds-32"
+        "title": "Bangladesh shuts universities as Middle East conflict strains energy",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bangladesh-shuts-universities-middle-east-conflict-strains-energy"
       },
       {
-        "title": "Explosions heard in Doha as Iran attacks multiple targets in Gulf",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-doha-iran-attacks-multiple-targets-gulf"
+        "title": "Video: Blinken says Israel tried to pressure Obama to strike Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-blinken-says-israel-tried-pressure-obama-strike-iran"
       },
       {
-        "title": "Oil surges above $100 as Middle East conflict rattles markets",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-surges-above-100-middle-east-conflict-rattles-markets"
+        "title": "Araghchi says appointment of Mojtaba Khamenei ensures Iranian unity",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-appointment-mojtaba-khamenei-ensures-iranian-unity"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Riding the oil shock",
+        "link": "https://www.geo.tv/latest/654752-riding-the-oil-shock"
+      },
+      {
+        "title": "Middle East war triggers PSX sell-off, market plunges over 9,000 points",
+        "link": "https://www.geo.tv/latest/654755-mideast-war-triggers-psx-sell-off-market-plunges-over-9000-points"
+      },
+      {
+        "title": "Who is Jessica Alba dating? Danny Ramirez or Joe Burrow?",
+        "link": "https://www.geo.tv/latest/654750-who-is-jessica-alba-dating-danny-ramirez-or-joe-burrow"
+      },
       {
         "title": "Rihanna faces heavy gunfire attack at Beverly Hills home",
         "link": "https://www.geo.tv/latest/654749-rihanna-faces-heavy-gunfire-attack-at-beverly-hills-home"
@@ -143,40 +166,28 @@
       {
         "title": "Jennifer Runyon dies: ‘Ghostbusters' star was 65",
         "link": "https://www.geo.tv/latest/654747-jennifer-runyon-dies-ghostbusters-star-was-65"
-      },
-      {
-        "title": "Bruno Mars' ‘The Romantic' takes singer to new heights",
-        "link": "https://www.geo.tv/latest/654745-bruno-mars-the-romantic-takes-singer-to-new-heights"
-      },
-      {
-        "title": "Oil prices surge 20% to $110 as expanding US-Israeli war with Iran cuts Mideast supplies",
-        "link": "https://www.geo.tv/latest/654743-oil-surges-17-to-108-after-28-weekly-rally-rattling-asian-markets-as"
-      },
-      {
-        "title": "King Charles urges unity, brighter future, wishing Happy Commonwealth Day",
-        "link": "https://www.geo.tv/latest/654742-king-charles-urges-unity-brighter-future-wishing-happy-commonwealth-day"
       }
     ],
     "NDTV": [
       {
-        "title": "Mojtaba Khamenei: Iran's New Supreme Leader, Often Seen As A 'Gatekeeper'",
-        "link": "https://www.ndtv.com/world-news/mojtaba-khamenei-irans-new-supreme-leader-often-seen-as-a-gatekeeper-ayatollah-ali-khamenei-iran-war-iran-israel-war-11187888#publisher=newsstand"
+        "title": "Stock Market LIVE: Sensex Crashes 2,200 Points, Nifty Drops Below 24,000",
+        "link": "https://www.ndtv.com/india-news/stock-marketlive-updates-sensex-nifty-likely-to-crash-as-oil-crosses-105-mark-11187870#publisher=newsstand"
       },
       {
-        "title": "\"Matter Of Relief\": India Says No Indian Killed In Saudi Strike",
-        "link": "https://www.ndtv.com/world-news/iran-war-matter-of-relief-india-says-no-indian-killed-in-saudi-strike-11187857#publisher=newsstand"
+        "title": "Opposition's Numbers Game As Speaker Likely To Face No-Trust Motion Today",
+        "link": "https://www.ndtv.com/india-news/how-numbers-game-plays-out-in-oppositions-no-trust-motion-against-speaker-om-birla-11187221#publisher=newsstand"
       },
       {
-        "title": "Why Tehran Saw Black Clouds, Oil Rain After Israel Struck Fuel Depots?",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-why-tehran-saw-black-clouds-oil-rain-after-israel-struck-fuel-depots-11187788#publisher=newsstand"
+        "title": "'President Standing, You're Sitting': Mamata Banerjee's Photo Attack On PM",
+        "link": "https://www.ndtv.com/india-news/president-droupadi-murmu-pm-narendra-modi-mamata-banerjee-president-row-spirals-mamata-banerjees-targets-pm-modi-with-photo-proof-11188113#publisher=newsstand"
       },
       {
-        "title": "Khamenei's Son Mojtaba Named Iran's New Supreme Leader Hours After Trump's Warning",
-        "link": "https://www.ndtv.com/world-news/iran-israel-us-war-news-live-khameneis-son-mojtaba-khamenei-named-irans-new-supreme-leader-11187447#publisher=newsstand"
+        "title": "Parliament Budget Session LIVE Updates: Opposition To Move No-Trust Motion Against Lok Sabha Speaker Om Birla",
+        "link": "https://www.ndtv.com/india-news/parliament-budget-session-live-updates-lok-sabha-pm-modi-speaker-om-birla-impeachment-middle-east-tension-s-jaishankar-address-iran-war-11188126#publisher=newsstand"
       },
       {
-        "title": "US-Israel-Iran War Highlights: Mojtaba Appointed Supreme Leader By Decisive Vote, Says Iran Body",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-news-live-updates-donald-trump-netanyahu-iris-dena-middle-east-war-enters-day-7-11175202#publisher=newsstand"
+        "title": "Iran's New Supreme Leader Mojtaba Khamenei Fights Trump, Israel, Anger At Home",
+        "link": "https://www.ndtv.com/world-news/irans-new-supreme-leader-mojtaba-khamenei-fights-donald-trump-israel-anger-at-home-middle-east-conflict-11188134#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-09 02:49 UTC"
+  "last_updated": "2026-03-09 04:44 UTC"
 }
