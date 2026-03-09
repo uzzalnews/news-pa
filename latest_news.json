@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Iran-Israel War LIVE Updates: Putin, Trump Discuss Iran War Over Call, Says Kremlin",
+      "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "World reacts to appointment of Mojtaba Khamenei as Iran’s supreme leader",
+        "link": "https://www.aljazeera.com/news/2026/3/9/world-reacts-to-appointment-of-mojtaba-khamenei-as-irans-supreme-leader?traffic_source=rss"
+      },
+      {
+        "title": "Qatar releases video of interception of Iranian missiles",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/qatar-releases-video-of-interception-of-iranian-missiles?traffic_source=rss"
+      },
+      {
+        "title": "Trump slams Mojtaba Khamenei’s appointment as Iran projects defiance",
+        "link": "https://www.aljazeera.com/news/2026/3/9/trump-slams-mojtaba-khameneis-appointment-as-iran-projects-defiance?traffic_source=rss"
+      },
+      {
         "title": "Who is Iran’s new supreme leader, Mojtaba Khamenei?",
         "link": "https://www.aljazeera.com/video/inside-story/2026/3/9/who-is-irans-new-supreme-leader?traffic_source=rss"
       },
       {
         "title": "Putin says Russia can supply oil, gas to Europe as energy prices soar",
         "link": "https://www.aljazeera.com/news/2026/3/9/putin-says-russia-can-supply-oil-gas-to-europe-amid-global-energy-crisis?traffic_source=rss"
-      },
-      {
-        "title": "Why Israel’s war on Hezbollah keeps returning",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/9/aje-onl-tt_lbn_50yearsofisrinvasions_av_v3-090326?traffic_source=rss"
-      },
-      {
-        "title": "What is Trump’s endgame in Iran as the US-Israel war escalates?",
-        "link": "https://www.aljazeera.com/news/2026/3/9/what-is-the-us-endgame-in-iran-as-the-war-escalates?traffic_source=rss"
-      },
-      {
-        "title": "What to know about Iran’s new Supreme Leader Mojtaba Khamenei",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/what-to-know-about-irans-new-supreme-leader-mojtaba-khamenei?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/1980219/higher-education-goes-online-schools-shut-for-2-weeks-4-day-work-week-announced-as-austerity-measures"
       },
       {
+        "title": "Trump says Iran war ‘pretty much’ over, progressing ahead of schedule",
+        "link": "https://www.dawn.com/news/1980326/trump-says-iran-war-pretty-much-over-progressing-ahead-of-schedule"
+      },
+      {
         "title": "Pakistan Navy launches Operation Muhafizul Bahr to counter threats to shipping, maritime trade: ISPR",
         "link": "https://www.dawn.com/news/1980190/pakistan-navy-launches-operation-muhafizul-bahr-to-counter-threats-to-shipping-maritime-trade-ispr"
       },
@@ -84,10 +94,6 @@
       {
         "title": "Islamabad police release Aurat March activists a day after detention; probe demanded into ‘manhandling’ of detainees",
         "link": "https://www.dawn.com/news/1980248/islamabad-police-release-aurat-march-activists-a-day-after-detention-probe-demanded-into-manhandling-of-detainees"
-      },
-      {
-        "title": "T20 World Cup: Sahibzada Farhan makes it to ICC’s Team of the Tournament",
-        "link": "https://www.dawn.com/news/1980203/t20-world-cup-sahibzada-farhan-makes-it-to-iccs-team-of-the-tournament"
       }
     ],
     "APNews": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "UK government unveils new definition of anti-Muslim hatred",
+        "link": "https://www.middleeasteye.net/news/uk-government-reed-unveils-new-definition-anti-muslim-hatred-months-consultation"
+      },
+      {
+        "title": "Iran says regional strikes are defensive",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-regional-strikes-are-defensive"
+      },
+      {
         "title": "Iran war fuel crisis forces Pakistan to close schools, take austerity measures",
         "link": "https://www.middleeasteye.net/news/iran-war-fuel-crisis-forces-pakistan-closes-schools-austerity-measures"
       },
@@ -125,17 +139,13 @@
       {
         "title": "Oman’s sultan congratulates Iran’s new supreme leader",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/omans-sultan-congratulates-irans-new-supreme-leader"
-      },
-      {
-        "title": "Lindsey Graham threatens Saudi Arabia if they do not join war on Iran",
-        "link": "https://www.middleeasteye.net/news/lindsey-graham-threatens-saudi-arabia-if-they-do-not-join-war-iran"
-      },
-      {
-        "title": "US logistics site near Baghdad airport targeted",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-logistics-site-near-baghdad-airport-targeted"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Kensington Palace issues statement after special Royal Family reunion",
+        "link": "https://www.geo.tv/latest/654944-kensington-palace-issues-statement-after-special-royal-family-reunion"
+      },
       {
         "title": "Margot Robbie stuns in new hairstyle during Paris Fashion Week",
         "link": "https://www.geo.tv/latest/654940-margot-robbie-stuns-in-new-hairstyle-during-paris-fashion-week"
@@ -151,32 +161,28 @@
       {
         "title": "Oil drops to $85 per barrel after Trump signals Iran war nearing end",
         "link": "https://www.geo.tv/latest/654935-oil-drops-to-85-per-barrel-after-trump-signals-iran-war-nearing-end"
-      },
-      {
-        "title": "FA Cup quarter-final draw sets up blockbuster Manchester City vs Liverpool clash",
-        "link": "https://www.geo.tv/latest/654933-fa-cup-quarter-final-draw-sets-up-blockbuster-manchester-city-vs-liverpool-clash"
       }
     ],
     "NDTV": [
       {
-        "title": "Putin Says Russia Will Supply Energy To Europe If It Asks",
-        "link": "https://www.ndtv.com/world-news/putin-says-russia-will-supply-energy-to-europe-if-it-asks-11192136#publisher=newsstand"
+        "title": "\"Nowhere Near\": Trump Says US Not Planning To Send Troops To Iran",
+        "link": "https://www.ndtv.com/world-news/israel-iran-war-donald-trump-says-us-not-planning-to-send-troops-to-iran-11192420#publisher=newsstand"
       },
       {
-        "title": "Cheetah Count Hits 53 After Jwala Gives Birth To 5 Cubs In Madhya Pradesh's Kuno",
-        "link": "https://www.ndtv.com/world-news/cheetah-count-hits-53-after-jwala-gives-birth-to-5-cubs-in-madhya-pradeshs-kuno-11192133#publisher=newsstand"
+        "title": "Trump Calls Iran War \"Very Complete\", Threatens To Take Over Hormuz Strait",
+        "link": "https://www.ndtv.com/world-news/israel-iran-war-donald-trump-calls-iran-war-very-complete-threatens-to-take-over-hormuz-strait-11192357#publisher=newsstand"
       },
       {
-        "title": "Balen Shah's RSP Sweeps Nepal Polls, Winning 125 Of 165 Seats",
-        "link": "https://www.ndtv.com/world-news/nepal-elections-2026-balen-shahs-rsp-sweeps-nepal-polls-winning-125-of-165-seats-11192109#publisher=newsstand"
+        "title": "Iran-Israel War LIVE Updates: Putin, Trump Discuss Iran War Over Call, Says Kremlin",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
       },
       {
-        "title": "After Khamenei's Death, Iran Sent A Signal To Activate Sleeper Cells: Report",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-after-khameneis-death-iran-sent-a-signal-to-activate-sleeper-cells-report-11192094#publisher=newsstand"
+        "title": "Putin, Trump Hold Phone Call, Discuss Iran And Ukraine Wars",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-vladimir-putin-donald-trump-hold-phone-call-discuss-iran-and-ukraine-wars-11192269#publisher=newsstand"
       },
       {
-        "title": "Fuel Prices Up, Salaries Cut: Energy Shock To Pakistan Amid Iran War",
-        "link": "https://www.ndtv.com/world-news/iran-war-live-fuel-prices-up-salaries-cut-energy-shock-to-pakistan-amid-iran-war-11192085#publisher=newsstand"
+        "title": "2 Charged With Terrorism After Bomb Attack On Anti-Islam Protest In New York",
+        "link": "https://www.ndtv.com/world-news/2-charged-with-terrorism-after-bomb-attack-on-anti-islam-protest-in-new-york-11192253#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-09 20:57 UTC"
+  "last_updated": "2026-03-09 21:38 UTC"
 }
