@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Iran-Israel War LIVE Updates: Jaishankar Speaks To Iran's Foreign Minister About Middle East War",
-      "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Unexploded missile extracted from house in western Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/unexploded-missile-extracted-from-house-in-western-iran?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese priest killed by Israeli tank fire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/lebanese-priest-killed-by-israeli-tank-fire?traffic_source=rss"
+      },
+      {
         "title": "Aviation will feel effect for the rest of the year ‘even if conflict ends t",
         "link": "https://www.aljazeera.com/video/quotable/2026/3/10/aviation-will-feel-effect-for-the-rest-of-the-year-even-if-conflict-ends-t?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Is control of Iran’s natural resources a factor in US strategy?",
         "link": "https://www.aljazeera.com/video/inside-story/2026/3/10/is-control-of-irans-natural-resources-a-factor-in-us-strategy?traffic_source=rss"
-      },
-      {
-        "title": "German Chancellor concerned US-Israel have no exit plan for Iran war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/german-chancellor-concerned-us-israel-have-no-exit-plan-for-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "Five stories you may have missed amid US-Israeli war on Iran",
-        "link": "https://www.aljazeera.com/news/2026/3/10/five-stories-you-may-have-missed-amid-us-israeli-war-on-iran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Close to 10,000 civilian sites destroyed by US-Israeli bombing, Iran's UN envoy says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/close-10000-civilian-sites-destroyed-us-israeli-bombing-irans-un-envoy"
+      },
+      {
         "title": "Netanyahu: Israel will create special budget for Iran war",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-israel-will-create-special-budget-iran-war"
       },
@@ -135,13 +133,17 @@
       {
         "title": "At least 150 US troops wounded so far in war on Iran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/150-us-troops-wounded-so-far-iran-war"
-      },
-      {
-        "title": "US energy secretary deletes post about Navy escorting vessel through Strait of Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-energy-secretary-deletes-post-about-navy-escorting-vessel-through"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Cardi B feels ‘sorry' after ruining fans hair during concert",
+        "link": "https://www.geo.tv/latest/655118-cardi-b-feels-sorry-after-ruining-fans-hair-during-concert"
+      },
+      {
+        "title": "Google Gemini AI features in Docs, Sheets, Slides: What's new?",
+        "link": "https://www.geo.tv/latest/655116-google-gemini-ai-features-in-docs-sheets-slides-whats-new"
+      },
       {
         "title": "Plastic surgeon supports ‘poor' Jim Carrey amid controversy over new look",
         "link": "https://www.geo.tv/latest/655111-plastic-surgeon-supports-poor-jim-carrey-amid-controversy-over-new-look"
@@ -153,17 +155,21 @@
       {
         "title": "King Charles welcomes Caribbean leaders to St James's Palace",
         "link": "https://www.geo.tv/latest/655101-king-charles-welcomes-caribbean-leaders-to-st-jamess-palace"
-      },
-      {
-        "title": "$5.6 billion in 48 hours: How much is Iran War costing US?",
-        "link": "https://www.geo.tv/latest/655113-56-billion-in-48-hours-how-much-is-iran-war-costing-us"
-      },
-      {
-        "title": "Kathryn Hahn's Instagram confirms she's mother Gothel in live action ‘Tangled'",
-        "link": "https://www.geo.tv/latest/655110-kathryn-hahns-instagram-confirms-shes-mother-gothel-in-live-action-tangled"
       }
     ],
     "NDTV": [
+      {
+        "title": "\"Absolutely No Shortage Of Fuel\": Minister Amid Global Energy Uncertainty",
+        "link": "https://www.ndtv.com/india-news/absolutely-no-shortage-of-fuel-minister-piyush-goyal-amid-uncertainty-in-global-energy-supply-11197491#publisher=newsstand"
+      },
+      {
+        "title": "Trump Warns Of Severe Military Consequences If Iran Mines Strait Of Hormuz",
+        "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-warns-of-severe-military-consequences-if-iran-mines-strait-of-hormuz-11197468#publisher=newsstand"
+      },
+      {
+        "title": "\"Aggressor Must Be Punished\": Iran Says Not Seeking Ceasefire",
+        "link": "https://www.ndtv.com/world-news/iran-war-iran-says-not-seeking-ceasefire-as-war-intensifies-in-middle-east-11197432#publisher=newsstand"
+      },
       {
         "title": "About 140 US Military Personnel Injured In Iran War: Pentagon",
         "link": "https://www.ndtv.com/world-news/iran-war-about-140-us-military-personnel-injured-in-iran-war-pentagon-11197395#publisher=newsstand"
@@ -171,18 +177,6 @@
       {
         "title": "In Khamenei's Will, He Didn't Want Son To Be Iran's Supreme Leader: Report",
         "link": "https://www.ndtv.com/world-news/iran-war-live-ayatollah-ali-khamenei-did-not-want-mojtaba-khamenei-as-irans-leader-iran-guards-forced-him-in-11197322#publisher=newsstand"
-      },
-      {
-        "title": "Iran-Israel War LIVE Updates: Jaishankar Speaks To Iran's Foreign Minister About Middle East War",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
-      },
-      {
-        "title": "Rajasthan To Drop 2-Child Norm, But Only For Candidates In Local Bodies Polls",
-        "link": "https://www.ndtv.com/india-news/rajasthan-to-drop-2-child-norm-but-only-for-candidates-in-local-body-polls-11197336#publisher=newsstand"
-      },
-      {
-        "title": "In A First, J&K Government Sacks 3 Jal Shakti Workers Over Terror Links",
-        "link": "https://www.ndtv.com/india-news/in-a-first-jammu-and-kashmir-government-sacks-3-jal-shakti-workers-over-terror-links-11197335#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-10 20:17 UTC"
+  "last_updated": "2026-03-10 20:52 UTC"
 }
