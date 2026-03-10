@@ -2,16 +2,12 @@
   "breaking": [
     {
       "source": "NDTV",
-      "title": "Parliament Budget Session LIVE Updates: Gaurav Gogoi Launches Opposition Attack On Speaker In Lok Sabha Debate",
-      "link": "https://www.ndtv.com/india-news/parliament-budget-session-live-updates-lok-sabha-pm-modi-speaker-om-birla-impeachment-middle-east-tension-s-jaishankar-address-iran-war-11188126#publisher=newsstand"
+      "title": "Iran-Israel War LIVE Updates: \"We Are Not Done Yet In Iran,\" Warns Israel PM Netanyahu",
+      "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
     }
   ],
   "news": {
     "BBC": [
-      {
-        "title": "Chris Mason: The cost of living is catapulted centre stage yet again",
-        "link": "https://www.bbc.com/news/articles/c4gqyp8q594o?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Five Iranian footballers granted Australian visas after anthem protest",
         "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss"
@@ -21,15 +17,27 @@
         "link": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Faisal Islam: Trump comments may have eased oil price surge, but havoc remains",
-        "link": "https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&at_campaign=rss"
+        "title": "Chris Mason: The cost of living is catapulted centre stage yet again",
+        "link": "https://www.bbc.com/news/articles/c4gqyp8q594o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "US missile hit military base near Iran school, video analysis shows",
         "link": "https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Faisal Islam: Trump comments may have eased oil price surge, but havoc remains",
+        "link": "https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "As Israel intensifies Lebanon attacks, Hezbollah disarmament takes backseat",
+        "link": "https://www.aljazeera.com/features/2026/3/10/as-israel-intensifies-lebanon-attacks-hezbollah-disarmament-takes-backseat?traffic_source=rss"
+      },
+      {
+        "title": "Iranian strike kills Bahraini woman after hitting residential building",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/10/iranian-strike-kills-bahraini-woman-after-hitting-residential-building?traffic_source=rss"
+      },
       {
         "title": "Trump threatens Cuba again, says island nation may face ‘friendly takeover’",
         "link": "https://www.aljazeera.com/news/2026/3/10/trump-threatens-cuba-again-says-island-nation-may-face-friendly-takeover?traffic_source=rss"
@@ -41,14 +49,6 @@
       {
         "title": "Afghanistan vs Sri Lanka cricket series called off due to Iran war",
         "link": "https://www.aljazeera.com/sports/2026/3/10/afghanistan-vs-sri-lanka-cricket-series-called-off-due-to-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "US to end prosecution of Turkiye’s Halkbank over alleged business with Iran",
-        "link": "https://www.aljazeera.com/economy/2026/3/10/us-to-end-prosecution-of-turkiyes-halkbank-over-alleged-business-with-iran?traffic_source=rss"
-      },
-      {
-        "title": "Gaza food prices soar as border closures deepen shortages amid Iran war",
-        "link": "https://www.aljazeera.com/news/2026/3/10/gaza-food-prices-soar-as-border-closures-deepen-shortages-amid-iran-war?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +84,16 @@
         "link": "https://www.dawn.com/news/1980473/faster-cheaper-better-5g-spectrum-auction-enters-second-bidding-round"
       },
       {
+        "title": "In phone call with Bahrain’s FM, Dar reiterates Pakistan’s call for de-escalation in Iran war",
+        "link": "https://www.dawn.com/news/1980499/in-phone-call-with-bahrains-fm-dar-reiterates-pakistans-call-for-de-escalation-in-iran-war"
+      },
+      {
         "title": "KSE-100 surges past 11,000 points after earlier market halt",
         "link": "https://www.dawn.com/news/1980474/kse-100-surges-past-11000-points-after-earlier-market-halt"
       },
       {
         "title": "US designates Afghanistan ‘State Sponsor of Wrongful Detention’",
         "link": "https://www.dawn.com/news/1980478/us-designates-afghanistan-state-sponsor-of-wrongful-detention"
-      },
-      {
-        "title": "Trump declines to say if Iran’s new supreme leader has ‘target on his back’",
-        "link": "https://www.dawn.com/news/1980326/trump-declines-to-say-if-irans-new-supreme-leader-has-target-on-his-back"
       }
     ],
     "APNews": [],
@@ -121,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel warns of imminent strikes in Tyre and Sidon in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-warns-imminent-strikes-tyre-and-sidon-south-lebanon"
+      },
+      {
+        "title": "India diverts gas to priority sectors after Strait of Hormuz closure",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/india-diverts-gas-priority-sectors-after-strait-hormuz-closure"
+      },
+      {
         "title": "Pro-Israel US congressman says ‘Muslims don’t belong in America’",
         "link": "https://www.middleeasteye.net/news/us-congressman-says-muslims-dont-belong-american-society-0"
       },
@@ -131,17 +139,21 @@
       {
         "title": "Saudi Aramco CEO warns prolonged conflict risks oil supply",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-aramco-ceo-warns-prolonged-conflict-risks-oil-supply"
-      },
-      {
-        "title": "Israel warns Lebanon residents to evacuate, head north of Litani River",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-warns-lebanon-residents-evacuate-head-north-litani-river"
-      },
-      {
-        "title": "Video: US sanctions murdered 38 million people, political scientist says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/vide-us-sanctions-murdered-38-million-people-political-scientist-says"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Kate Middleton puts peace talks on hold after Meghan's bold move",
+        "link": "https://www.geo.tv/latest/654993-kate-middleton-puts-peace-talks-on-hold-after-meghans-bold-move"
+      },
+      {
+        "title": "Govt appears to be ignoring ECP, local bodies system: CEC",
+        "link": "https://www.geo.tv/latest/655003-govt-appears-to-be-ignoring-ecp-local-bodies-system-cec"
+      },
+      {
+        "title": "Chris Hemsworth's 'Extraction 3' finally gets production update",
+        "link": "https://www.geo.tv/latest/654992-chris-hemsworths-extraction-3-finally-get-production-update"
+      },
       {
         "title": "Prince Edward celebrates as he is set for royal boost: ‘New honour'",
         "link": "https://www.geo.tv/latest/655001-prince-edward-celebrates-as-he-is-set-for-royal-boost-new-honour"
@@ -149,40 +161,28 @@
       {
         "title": "Eva Mendes shares rare glimpse of getting ready for Ryan Gosling's surprise",
         "link": "https://www.geo.tv/latest/654991-eva-mendes-shares-rare-glimpse-of-getting-ready-for-ryan-goslings-surprise"
-      },
-      {
-        "title": "Beatrice, Eugenie saved by King Charles from 'uncomfortable' situation",
-        "link": "https://www.geo.tv/latest/654985-beatrice-eugenie-saved-by-king-charles-from-uncomfortable-situation"
-      },
-      {
-        "title": "February fifth warmest on record, extreme rain in Europe: EU monitor",
-        "link": "https://www.geo.tv/latest/654977-february-fifth-warmest-on-record-extreme-rain-in-europe-eu-monitor"
-      },
-      {
-        "title": "Alan Ritchson shares important update about 'Reacher' season 4",
-        "link": "https://www.geo.tv/latest/654980-alan-ritchson-shares-important-update-about-reacher-season-4"
       }
     ],
     "NDTV": [
       {
-        "title": "Parliament Budget Session LIVE Updates: Gaurav Gogoi Launches Opposition Attack On Speaker In Lok Sabha Debate",
-        "link": "https://www.ndtv.com/india-news/parliament-budget-session-live-updates-lok-sabha-pm-modi-speaker-om-birla-impeachment-middle-east-tension-s-jaishankar-address-iran-war-11188126#publisher=newsstand"
+        "title": "Trump Asked US Military Why They Didn't Capture Iranian Ships. Their \"It's More Fun\" Reply",
+        "link": "https://www.ndtv.com/world-news/iran-war-us-military-told-donald-trump-on-iranian-ship-attacks-its-more-fun-to-sink-them-11193846#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | China Might Just Be The 'Only' Economy Ready For The Gulf Oil Meltdown",
-        "link": "https://www.ndtv.com/opinion/iran-israel-war-will-the-oil-field-attack-push-china-closer-to-russia-11193799#publisher=newsstand"
+        "title": "Iran-Israel War LIVE Updates: \"We Are Not Done Yet In Iran,\" Warns Israel PM Netanyahu",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
       },
       {
-        "title": "2 Killed In Meghalaya Curfew Firing Linked To Tensions Over Garo Hills Polls",
-        "link": "https://www.ndtv.com/world-news/2-killed-in-meghalaya-curfew-firing-linked-to-tensions-over-garo-hills-autonomous-district-council-ghadc-elections-11193755#publisher=newsstand"
+        "title": "World's Unique Ocean Energy Plant In Lakshadweep To Power Blue Economy Push",
+        "link": "https://www.ndtv.com/india-news/worlds-unique-ocean-energy-plant-in-lakshadweep-to-power-blue-economy-push-11194135#publisher=newsstand"
       },
       {
-        "title": "Layer Of Dust In Delhi, Weather Office Dismisses Iran \"Toxic Cloud\" Rumours",
-        "link": "https://www.ndtv.com/delhi-news/delhi-air-quality-layer-of-dust-in-delhi-weather-office-dismisses-iran-toxic-cloud-rumours-11193632#publisher=newsstand"
+        "title": "Train Service Between China, North Korea Set To Resume After 6 Years",
+        "link": "https://www.ndtv.com/world-news/train-service-between-china-north-korea-set-to-resume-after-6-years-11194122#publisher=newsstand"
       },
       {
-        "title": "Why Russia's Putin May Be The Biggest Winner Of Trump's Iran War",
-        "link": "https://www.ndtv.com/world-news/why-russia-may-be-the-biggest-winner-of-trump-iran-war-11193552#publisher=newsstand"
+        "title": "\"Terrifying Fantasy Games\": Martin Wolf To NDTV On Iran War",
+        "link": "https://www.ndtv.com/india-news/us-israel-air-strikes-donald-trump-oil-crisis-terrifying-fantasy-games-martin-wolf-to-ndtv-on-iran-war-11194121#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-10 07:51 UTC"
+  "last_updated": "2026-03-10 08:30 UTC"
 }
