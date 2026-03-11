@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Iran-Israel War LIVE Updates: Energy Body Says Members To Release 400 Million Barrels From Oil Reserves",
-      "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Valverde hat-trick gives Real Madrid 3-0 Champions League win over Man City",
+        "link": "https://www.aljazeera.com/sports/2026/3/11/valverde-hat-trick-gives-real-madrid-3-0-champions-league-win-over-man-city?traffic_source=rss"
+      },
+      {
+        "title": "How Trump has addressed the deadly Iran school bombing",
+        "link": "https://www.aljazeera.com/news/2026/3/11/how-trump-has-addressed-the-deadly-iran-school-bombing?traffic_source=rss"
+      },
+      {
         "title": "UN Security Council adopts Gulf countries’ draft resolution",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/un-security-council-adopts-gulf-countries-draft-resolution-2?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Displaced Lebanese families seek refuge in school shelter",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/displaced-lebanese-families-seek-refuge-in-school-shelter?traffic_source=rss"
-      },
-      {
-        "title": "Why does Iran war pose more dilemmas for Europe?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/3/11/why-does-the-iran-war-pose-more-dilemmas-for-europe?traffic_source=rss"
-      },
-      {
-        "title": "Two killed as tornadoes sweep across US Midwest in latest extreme weather",
-        "link": "https://www.aljazeera.com/news/2026/3/11/two-killed-as-tornadoes-sweep-across-us-midwest-in-latest-extreme-weather?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Qatar says Iran launched 9 missiles at its territory",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-iran-launched-9-missiles-its-territory"
+      },
+      {
+        "title": "Hezbollah says it fired rockets at 5 Israeli bases",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-fired-rockets-5-israeli-bases"
+      },
+      {
         "title": "US generals tell Trump destroying  Iranian vessel was ‘fun’",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-generals-vessel-destroying-was-fun"
       },
@@ -131,17 +133,17 @@
       {
         "title": "Qatar warns UN Security Council inaction sends ‘dangerous signal’",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-warns-un-security-council-inaction-sends-dangerous-signal"
-      },
-      {
-        "title": "WHO says 54 of health facilities shut in Lebanon amid Israeli attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/who-says-54-health-facilities-shut-lebanon-amid-israeli-attacks"
-      },
-      {
-        "title": "Trump says he's unaware of evidence indicating US bombed girls' school in Iran",
-        "link": "https://www.middleeasteye.net/news/trump-says-hes-unaware-evidence-indicating-us-bombed-girls-school-iran"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Pakistan urges immediate ceasefire in Gulf conflict, backs UN resolutions",
+        "link": "https://www.geo.tv/latest/655265-pakistan-urges-immediate-ceasefire-in-gulf-conflict-backs-un-resolutions"
+      },
+      {
+        "title": "US Congress briefing reveals heavy US expenditure in Iran war",
+        "link": "https://www.geo.tv/latest/655264-us-congress-briefing-reveals-heavy-us-expenditure-in-iran-war"
+      },
       {
         "title": "Rebecca Gayheart reveals Eric Dane's ‘urgent' project before death",
         "link": "https://www.geo.tv/latest/655263-rebecca-gayheart-reveals-eric-danes-urgent-project-before-death"
@@ -153,36 +155,28 @@
       {
         "title": "Doja Cat details disease she probably has: ‘What's wrong with me?'",
         "link": "https://www.geo.tv/latest/655255-doja-cat-details-disease-she-probably-has-whats-wrong-with-me"
-      },
-      {
-        "title": "Iranian sea mines: Naval nightmare threatening Achilles' heel of US warships",
-        "link": "https://www.geo.tv/latest/655258-iranian-sea-mines-why-they-are-wests-worst-nightmare-in-strait-of-hormuz"
-      },
-      {
-        "title": "How $200 oil will hit your wallet: Gas, food, household prices explained",
-        "link": "https://www.geo.tv/latest/655254-how-200-oil-will-hit-your-wallet-gas-food-household-prices-explained"
       }
     ],
     "NDTV": [
       {
+        "title": "\"Don't Want To Leave Early\": Trump Vows To \"Finish The Job\" In Iran",
+        "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-us-must-finish-the-job-in-iran-11202864#publisher=newsstand"
+      },
+      {
+        "title": "\"Serious Threat To Peace\": UN Demands Iran Stop Attacks On Gulf Nations",
+        "link": "https://www.ndtv.com/world-news/iran-war-un-demands-iran-stop-attacks-on-gulf-nations-11202846#publisher=newsstand"
+      },
+      {
+        "title": "Iran Adviser To Khamenei Calls Trump \"Satan Himself\", Vows To Destroy Israel",
+        "link": "https://www.ndtv.com/world-news/iran-adviser-to-khamenei-calls-trump-satan-himself-vows-to-destroy-israel-11202773#publisher=newsstand"
+      },
+      {
+        "title": "Epstein's Longtime Accountant Testifies On His Wealth, Business Ties",
+        "link": "https://www.ndtv.com/world-news/epsteins-longtime-accountant-testifies-on-his-wealth-business-ties-11202751#publisher=newsstand"
+      },
+      {
         "title": "Iran Military Says Will Hit US, Israeli Economic Targets In Region",
         "link": "https://www.ndtv.com/world-news/israel-iran-war-iran-military-says-will-hit-us-israeli-economic-targets-in-region-11202665#publisher=newsstand"
-      },
-      {
-        "title": "Ensuring Those Stranded Could Return Safely: India's UAE Envoy To NDTV",
-        "link": "https://www.ndtv.com/world-news/ensuring-those-stranded-may-return-safely-indias-uae-envoy-to-ndtv-11202612#publisher=newsstand"
-      },
-      {
-        "title": "Iran-Israel War LIVE Updates: Energy Body Says Members To Release 400 Million Barrels From Oil Reserves",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
-      },
-      {
-        "title": "Winston Churchill To Be Replaced By Wildlife In English Banknotes",
-        "link": "https://www.ndtv.com/world-news/winston-churchill-to-be-replaced-by-wildlife-in-english-banknotes-11202604#publisher=newsstand"
-      },
-      {
-        "title": "Ghalib To Shakespeare: Supreme Court's Tryst With \"Right To Die With Dignity\"",
-        "link": "https://www.ndtv.com/india-news/harish-rana-supreme-courts-to-be-or-not-to-be-moment-in-passive-euthanasia-ruling-11202294#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-11 21:56 UTC"
+  "last_updated": "2026-03-11 22:31 UTC"
 }
