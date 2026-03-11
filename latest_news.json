@@ -9,7 +9,11 @@
   "news": {
     "BBC": [
       {
-        "title": "Al Quds Day march banned after government approves Met request",
+        "title": "Mortgage rates rise and deals pulled over Iran war turmoil",
+        "link": "https://www.bbc.com/news/articles/c24dm9vgrz7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pro-Palestinian march banned after government approves Met request",
         "link": "https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -23,13 +27,17 @@
       {
         "title": "Jeffrey Epstein had two key aides - why do they still control his money and secrets?",
         "link": "https://www.bbc.com/news/articles/cdjm7rxjxneo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mortgage rates rise and deals pulled over Iran war turmoil",
-        "link": "https://www.bbc.com/news/articles/c24dm9vgrz7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "India’s Supreme Court allows first-ever passive euthanasia death",
+        "link": "https://www.aljazeera.com/news/2026/3/11/indias-supreme-court-allows-first-ever-passive-euthanasia-death?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s strategic patience tactic failed, what comes next could be far worse",
+        "link": "https://www.aljazeera.com/opinions/2026/3/11/irans-strategic-patience-tactic-failed-what-comes-next-could-be-far-worse?traffic_source=rss"
+      },
       {
         "title": "ICC rejects bias claims from stranded South Africa, West Indies cricketers",
         "link": "https://www.aljazeera.com/sports/2026/3/11/icc-rejects-bias-claims-from-stranded-south-africa-west-indies-cricketers?traffic_source=rss"
@@ -41,14 +49,6 @@
       {
         "title": "Russia kills two in Ukraine’s Kharkiv; war grinds on, focus on Middle East",
         "link": "https://www.aljazeera.com/news/2026/3/11/russia-kills-two-in-ukraines-kharkiv-war-grinds-on-focus-on-middle-east?traffic_source=rss"
-      },
-      {
-        "title": "Video: North Korea conducts cruise missile test for destroyer",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/video-north-korea-conducts-cruise-missile-test-for-destroyer?traffic_source=rss"
-      },
-      {
-        "title": "Europe’s hard right fractures over US-Israel war on Iran",
-        "link": "https://www.aljazeera.com/features/2026/3/11/europes-hard-right-fractures-over-us-israel-war-on-iran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +76,14 @@
     ],
     "Dawn": [
       {
+        "title": "‘No matter what, no matter when’: PM’s spokesperson reiterates support for Saudi Arabia ‘before it is needed’",
+        "link": "https://www.dawn.com/news/1980894/no-matter-what-no-matter-when-pms-spokesperson-reiterates-support-for-saudi-arabia-before-it-is-needed"
+      },
+      {
+        "title": "Iran’s new supreme leader injured but ‘safe’, says president’s son",
+        "link": "https://www.dawn.com/news/1980913/irans-new-supreme-leader-injured-but-safe-says-presidents-son"
+      },
+      {
         "title": "US lawmakers warn of Trump’s ‘incoherent’ Iran war strategy after classified briefing",
         "link": "https://www.dawn.com/news/1980866/us-lawmakers-warn-of-trumps-incoherent-iran-war-strategy-after-classified-briefing"
       },
@@ -86,14 +94,6 @@
       {
         "title": "MNAs’ salaries cut by 25pc as National Assembly joins austerity drive",
         "link": "https://www.dawn.com/news/1980893/mnas-salaries-cut-by-25pc-as-national-assembly-joins-austerity-drive"
-      },
-      {
-        "title": "Tanker drivers claim they are facing long waits at depots due to fuel shortage",
-        "link": "https://www.dawn.com/news/1980901/tanker-drivers-claim-they-are-facing-long-waits-at-depots-due-to-fuel-shortage"
-      },
-      {
-        "title": "KSE-100 ends lower after early rally loses steam",
-        "link": "https://www.dawn.com/news/1980849/kse-100-ends-lower-after-early-rally-loses-steam"
       }
     ],
     "APNews": [],
@@ -111,56 +111,56 @@
         "link": "https://www.nytimes.com/2026/03/11/business/gas-prices-oil-iran.html"
       },
       {
-        "title": "Trump Casts a Shadow Over One of Mexico’s Deadliest States",
-        "link": "https://www.nytimes.com/2026/03/11/world/americas/trump-sinaloa-cartels.html"
+        "title": "Iranians Feel the War Is ‘Closing In,’ and Bondi Is Said to Move Because of Threats",
+        "link": "https://www.nytimes.com/2026/03/11/podcasts/the-headlines/iranians-war-bondi-threats.html"
       },
       {
-        "title": "Bondi Is Said to Move to Military Housing Because of Threats",
-        "link": "https://www.nytimes.com/2026/03/10/us/politics/bondi-military-housing-threats.html"
+        "title": "Trump Casts a Shadow Over One of Mexico’s Deadliest States",
+        "link": "https://www.nytimes.com/2026/03/11/world/americas/trump-sinaloa-cartels.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran says it will target 'banks and economics centres' in the region",
+        "title": "IEA to recommend record release of strategic oil stocks because of Iran war, sources say",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iea-recommend-record-release-strategic-oil-stocks-because-iran-war"
+      },
+      {
+        "title": "Erdogan: War must be stopped 'before it engulfs entire region in flames'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-war-must-be-stopped-it-engulfs-entire-region-flames"
+      },
+      {
+        "title": "Death toll from Israeli attacks on Lebanon rises to 570, health ministry says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-attacks-lebanon-rises-570-health-ministry-says"
+      },
+      {
+        "title": "Iran says will hit economic targets in the region",
         "link": "https://www.middleeasteye.net/news/iran-says-it-will-target-banks-and-economics-centres-region"
       },
       {
         "title": "Italy prime minister condemns Iran school strike",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-prime-minister-condemns-iran-school-strike"
-      },
-      {
-        "title": "Iran military says to hit US, Israeli economic targets in region",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-military-says-hit-us-israeli-economic-targets-region"
-      },
-      {
-        "title": "Seoul says it can deter Pyongyang even if Washington transfers weapons to the Middle East",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seoul-says-it-can-deter-pyongyang-even-if-washington-transfers-weapons"
-      },
-      {
-        "title": "Israeli attack on eastern Lebanon kills seven",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-eastern-lebanon-kills-seven"
       }
     ],
     "GeoTV": [
       {
-        "title": "Kai Trump under fire for Erewhon run with Secret Service in tow: Know every detail here",
-        "link": "https://www.geo.tv/latest/655183-kai-trump-under-fire-for-erewhon-run-with-secret-service-in-tow-know-every-detail-here"
+        "title": "Dua Lipa hits new milestone with ‘Houdini'",
+        "link": "https://www.geo.tv/latest/655185-dua-lipa-hits-new-milestone-with-houdini"
       },
       {
-        "title": "Kate Winslet, Anya Taylor-Joy in talks to join new 'Lord of the Rings' movie",
-        "link": "https://www.geo.tv/latest/655182-kate-winslet-anya-taylor-joy-in-talks-to-join-new-lord-of-the-rings-movie"
+        "title": "Luka Dončić reveals custody battle following breakup with Anamaria Goltes",
+        "link": "https://www.geo.tv/latest/655188-luka-doncic-reveals-facing-custody-battle-following-breakup-with"
       },
       {
-        "title": "ICC denies unfair treatment of squads stranded in India after T20 World Cup amid Middle East crisis",
-        "link": "https://www.geo.tv/latest/655174-icc-denies-unfair-treatment-of-squads-stranded-in-india-after-t20-world-cup-amid-middle-east-crisis"
+        "title": "Pakistan will support Saudi Arabia 'whenever needed': PM aide on Middle East tensions",
+        "link": "https://www.geo.tv/latest/655178-pakistan-will-support-saudi-arabia-whenever-needed-pm-aide-on-middle-east-tensions"
       },
       {
-        "title": "Prince Harry's UK night party details revealed in court amid Andrew fallout",
-        "link": "https://www.geo.tv/latest/655177-prince-harrys-uk-night-party-details-revealed-in-court-amid-andrew-fallout"
+        "title": "Is Russell Brand dead? Rumour explained",
+        "link": "https://www.geo.tv/latest/655186-is-russell-brand-dead-rumour-explained"
       },
       {
-        "title": "Liza Minnelli makes bombshell claim against Gene Hackman",
-        "link": "https://www.geo.tv/latest/655181-liza-minnelli-makes-bombshell-claim-against-gene-hackman"
+        "title": "Prince Harry goes solo as key engagement without Meghan announced",
+        "link": "https://www.geo.tv/latest/655184-prince-harry-goes-solo-as-key-engagement-without-meghan-announced"
       }
     ],
     "NDTV": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-11 10:08 UTC"
+  "last_updated": "2026-03-11 10:59 UTC"
 }
