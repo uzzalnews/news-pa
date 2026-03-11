@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Iran-Israel War LIVE Updates: Energy Body Says Members To Release 400 Million Barrels From Oil Reserves",
+      "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "UN’s failure to stop Iranian attacks sending ‘dangerous signal’: Qatar",
+        "link": "https://www.aljazeera.com/news/2026/3/11/uns-failure-to-stop-iranian-attacks-sending-dangerous-signal-qatar?traffic_source=rss"
+      },
+      {
         "title": "Three brothers arrested in Norway over bomb attack on US embassy in Oslo",
         "link": "https://www.aljazeera.com/news/2026/3/11/three-brothers-arrested-in-norway-over-bomb-attack-on-us-embassy-in-oslo?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Ship crew film drone strike on oil facility at Oman’s Salalah port",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/ship-crew-film-drone-strike-on-oil-facility-at-omans-salalah-port?traffic_source=rss"
-      },
-      {
-        "title": "What’s left in Iran ‘could be taken out in an hour’, says Trump",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/whats-left-in-iran-could-be-taken-out-in-an-hour-says-trump?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -105,7 +111,7 @@
         "link": "https://www.nytimes.com/2026/03/11/us/politics/thune-trump-voter-bill-senate.html"
       },
       {
-        "title": "Republicans Concede They Need a Pivot on Immigration Ahead of Midterms",
+        "title": "Republicans Concede They Need to Pivot on Immigration Before Midterms",
         "link": "https://www.nytimes.com/2026/03/11/us/politics/house-republicans-immigration-midterms.html"
       },
       {
@@ -115,7 +121,15 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Thousands of Americans decline evacuation flights from UAE",
+        "title": "Interceptor shortage could force Gulf states to be selective in their targets: Report",
+        "link": "https://www.middleeasteye.net/news/interceptor-shortage-could-force-gulf-states-selective-targets"
+      },
+      {
+        "title": "Israel says 200 munitions used in strikes on Beirut",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-200-munitions-used-strikes-beirut"
+      },
+      {
+        "title": "Thousands of Americans still in UAE despite evacuation flights offered",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/thousands-americans-decline-evacuation-flights-uae"
       },
       {
@@ -125,17 +139,13 @@
       {
         "title": "By serving Israel's agenda, Trump betrayed Gulf allies",
         "link": "https://www.middleeasteye.net/opinion/serving-israel-agenda-trump-betrayed-gulf-allies"
-      },
-      {
-        "title": "Israeli strike in Tebnine brings Lebanon death toll to 634",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-tebnine-brings-lebanon-death-toll-634"
-      },
-      {
-        "title": "Red Cross mourns Lebanese medic killed in Israeli strike",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/red-cross-mourns-lebanese-medic-killed-israeli-strike"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Doja Cat details disease she probably has: ‘What's wrong with me?'",
+        "link": "https://www.geo.tv/latest/655255-doja-cat-details-disease-she-probably-has-whats-wrong-with-me"
+      },
       {
         "title": "How $200 oil will hit your wallet: Gas, food, household prices explained",
         "link": "https://www.geo.tv/latest/655254-how-200-oil-will-hit-your-wallet-gas-food-household-prices-explained"
@@ -151,32 +161,28 @@
       {
         "title": "Four wet wipe brands linked to six deaths in deadly bacteria outbreak in UK: See full list here",
         "link": "https://www.geo.tv/latest/655245-four-wet-wipe-brands-linked-to-six-deaths-in-deadly-bacteria-outbreak-in-uk-see-full-list-here"
-      },
-      {
-        "title": "Billie Eilish to make major career transition for Sylvia Plath adaptation",
-        "link": "https://www.geo.tv/latest/655242-billie-eilish-to-make-major-career-transition-for-sylvia-plath-adaptation"
       }
     ],
     "NDTV": [
       {
+        "title": "Iran Military Says Will Hit US, Israeli Economic Targets In Region",
+        "link": "https://www.ndtv.com/world-news/israel-iran-war-iran-military-says-will-hit-us-israeli-economic-targets-in-region-11202665#publisher=newsstand"
+      },
+      {
+        "title": "Ensuring Those Stranded Could Return Safely: India's UAE Envoy To NDTV",
+        "link": "https://www.ndtv.com/world-news/ensuring-those-stranded-may-return-safely-indias-uae-envoy-to-ndtv-11202612#publisher=newsstand"
+      },
+      {
+        "title": "Iran-Israel War LIVE Updates: Energy Body Says Members To Release 400 Million Barrels From Oil Reserves",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
+      },
+      {
+        "title": "Winston Churchill To Be Replaced By Wildlife In English Banknotes",
+        "link": "https://www.ndtv.com/world-news/winston-churchill-to-be-replaced-by-wildlife-in-english-banknotes-11202604#publisher=newsstand"
+      },
+      {
         "title": "Ghalib To Shakespeare: Supreme Court's Tryst With \"Right To Die With Dignity\"",
         "link": "https://www.ndtv.com/india-news/harish-rana-supreme-courts-to-be-or-not-to-be-moment-in-passive-euthanasia-ruling-11202294#publisher=newsstand"
-      },
-      {
-        "title": "Video: Iranian Drones Strike Oil Storage Tanks In Oman's Salalah Port",
-        "link": "https://www.ndtv.com/world-news/video-iranian-drones-strike-oil-storage-tanks-in-omans-salalah-port-11202534#publisher=newsstand"
-      },
-      {
-        "title": "Trump To Back Israeli-Led Killing Of Mojtaba If He Does Not Cooperate: Report",
-        "link": "https://www.ndtv.com/world-news/iran-war-live-donald-trump-to-back-israeli-led-killing-of-mojtaba-khamenei-if-he-does-not-cooperate-with-us-report-11202585#publisher=newsstand"
-      },
-      {
-        "title": "Centre Reviews LPG Supply Situation At High-Level Meet With States",
-        "link": "https://www.ndtv.com/india-news/iran-war-latest-news-centre-reviews-lpg-supply-situation-at-high-level-meet-with-states-11202574#publisher=newsstand"
-      },
-      {
-        "title": "Amid LPG shortage, Bengaluru PGs Told To Ban Dosa, Chapathi, Poori",
-        "link": "https://www.ndtv.com/india-news/amid-lpg-shortage-bengaluru-pgs-told-to-ban-dosa-chapathi-poori-11202553#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-11 19:48 UTC"
+  "last_updated": "2026-03-11 20:19 UTC"
 }
