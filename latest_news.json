@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Real Madrid vs Manchester City – Champions League last 16",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/11/live-real-madrid-vs-manchester-city-champions-league-last-16?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,7 +13,7 @@
         "link": "https://www.bbc.com/news/articles/cm2rg8z6p1vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
+        "title": "Jeremy Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
         "link": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "IEA recommends record 400M barrel oil release amid Iran war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/iea-recommends-record-400m-barrel-oil-release-amid-iran-war?traffic_source=rss"
+        "title": "FIFA World Cup: US war on Iran, Mexico violence, visa bans, Iraq qualifier",
+        "link": "https://www.aljazeera.com/sports/2026/3/11/fifa-world-cup-iran-participation-mexico-violence-visa-ban?traffic_source=rss"
       },
       {
-        "title": "UN warns of widening crisis as Israeli attacks displace 750,000 in Lebanon",
-        "link": "https://www.aljazeera.com/news/2026/3/11/un-warns-of-widening-crisis-as-israeli-attacks-displace-750000-in-lebanon?traffic_source=rss"
+        "title": "Trump says Iran war to end ‘soon’ as Israel claims no time limit",
+        "link": "https://www.aljazeera.com/news/2026/3/11/trump-says-iran-war-to-end-soon-as-israel-claims-no-time-limit?traffic_source=rss"
       },
       {
-        "title": "Shell declares force majeure on LNG contracts from Qatar",
-        "link": "https://www.aljazeera.com/economy/2026/3/11/shell-declares-force-majeure-on-lng-contracts-from-qatar?traffic_source=rss"
+        "title": "LIVE: Real Madrid vs Manchester City – Champions League last 16",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/11/live-real-madrid-vs-manchester-city-champions-league-last-16?traffic_source=rss"
       },
       {
-        "title": "Not ‘a litre of oil’ to pass Strait of Hormuz, expect $200 price tag: Iran",
-        "link": "https://www.aljazeera.com/news/2026/3/11/irans-irgc-says-not-one-litre-of-oil-will-get-through-strait-of-hormuz?traffic_source=rss"
+        "title": "Chile’s new president has praised Pinochet, a dictator. What does it mean?",
+        "link": "https://www.aljazeera.com/news/2026/3/11/chiles-new-president-has-praised-pinochet-a-dictator-what-does-it-mean?traffic_source=rss"
       },
       {
-        "title": "US military confirms use of ‘advanced AI tools’ in war against Iran",
-        "link": "https://www.aljazeera.com/news/2026/3/11/us-military-confirms-use-of-advanced-ai-tools-in-war-against-iran?traffic_source=rss"
+        "title": "Bangladesh demolish Pakistan who suffer record low score in contest",
+        "link": "https://www.aljazeera.com/sports/2026/3/11/bangladesh-demolish-pakistan-who-suffer-record-low-score-in-contest?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "TTAP calls on govt to take opposition, Parliament into confidence on defence pacts amid ‘changing regional situation’",
+        "link": "https://www.dawn.com/news/1981002/ttap-calls-on-govt-to-take-opposition-parliament-into-confidence-on-defence-pacts-amid-changing-regional-situation"
+      },
+      {
         "title": "‘No matter what, no matter when’: PM’s spokesperson reiterates support for Saudi Arabia ‘before it is needed’",
         "link": "https://www.dawn.com/news/1980894/no-matter-what-no-matter-when-pms-spokesperson-reiterates-support-for-saudi-arabia-before-it-is-needed"
       },
@@ -84,10 +94,6 @@
       {
         "title": "Iran’s new supreme leader injured but ‘safe’, says president’s son",
         "link": "https://www.dawn.com/news/1980913/irans-new-supreme-leader-injured-but-safe-says-presidents-son"
-      },
-      {
-        "title": "Nadra cancels 4.2 million CNICs of deceased individuals",
-        "link": "https://www.dawn.com/news/1980970/nadra-cancels-42-million-cnics-of-deceased-individuals"
       }
     ],
     "APNews": [],
@@ -105,15 +111,27 @@
         "link": "https://www.nytimes.com/2026/03/11/world/europe/trump-iran-war-global-impact.html"
       },
       {
-        "title": "Trump Documents Missing in Epstein Files Highlight DOJ’s Missteps",
-        "link": "https://www.nytimes.com/2026/03/11/us/politics/trump-epstein-files-fbi-doj.html"
+        "title": "Thune Is in a Vise as Trump and the Far Right Demand a Fight on SAVE America Act",
+        "link": "https://www.nytimes.com/2026/03/11/us/politics/thune-trump-voter-bill-senate.html"
       },
       {
-        "title": "Why Did the UK Police Repeatedly Decline to Investigate Claims About Epstein and Prince Andrew?",
-        "link": "https://www.nytimes.com/2026/03/11/world/europe/uk-police-epstein-giuffre-maxwell-prince-andrew.html"
+        "title": "Trump Casts a Shadow Over One of Mexico’s Deadliest States",
+        "link": "https://www.nytimes.com/2026/03/11/world/americas/trump-sinaloa-cartels.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Red Cross mourns Lebanese medic killed in Israeli strike",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/red-cross-mourns-lebanese-medic-killed-israeli-strike"
+      },
+      {
+        "title": "Thailand searches for crew members as ship attack reported near Oman",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/thailand-searches-crew-members-ship-attack-reported-near-oman"
+      },
+      {
+        "title": "Israeli strike hits area near Yater in southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-hits-area-near-yater-southern-lebanon"
+      },
       {
         "title": "Iran condemns new EU sanctions over alleged rights abuses",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-condemns-new-eu-sanctions-over-alleged-rights-abuses"
@@ -121,62 +139,50 @@
       {
         "title": "IEA to release one-third of total oil reserve stock to combat energy crisis",
         "link": "https://www.middleeasteye.net/news/iea-to-release-one-third-total-oil-stock-combat-energy-crisis"
-      },
-      {
-        "title": "UK government loses appeal over Kneecap terror charges",
-        "link": "https://www.middleeasteye.net/news/uk-government-loses-appeal-over-thrown-out-kneecap-terror-charges"
-      },
-      {
-        "title": "Fire at Abu Dhabi airport under control after interception",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-abu-dhabi-airport-under-control-after-interception"
-      },
-      {
-        "title": "Iraq shoots down drones near Baghdad airport",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-shoots-down-drones-near-baghdad-airport"
       }
     ],
     "GeoTV": [
       {
-        "title": "Queen Camilla, Princess Anne, Carole Middleton steal Ladies Day glour",
-        "link": "https://www.geo.tv/latest/655234-queen-camilla-princess-anne-carole-middleton-steal-ladies-day-glour"
+        "title": "YouTube hits $62 billion revenue, overtakes Disney as world's largest media company",
+        "link": "https://www.geo.tv/latest/655243-youtube-hits-62-billion-revenue-overtakes-disney-as-worlds-largest-media-company"
       },
       {
-        "title": "White House area shut down after van breaches security barricade",
-        "link": "https://www.geo.tv/latest/655224-white-house-area-shut-down-after-van-breaches-security-barricade"
+        "title": "Kylie Jenner reacts to Timothee Chalamet question after award show confession",
+        "link": "https://www.geo.tv/latest/655219-kylie-jenner-reacts-to-timothee-chalamet-question-after-award-show"
       },
       {
-        "title": "Kylie Kelce reveals truth behind Donna Kelce viral meme of 2026",
-        "link": "https://www.geo.tv/latest/655211-kylie-kelce-reveals-truth-behind-donna-kelce-viral-meme-of-2026"
+        "title": "Duchess Sophie, Prince Edward light up Paralympic village with love, support",
+        "link": "https://www.geo.tv/latest/655239-duchess-sophie-prince-edward-light-up-paralympic-village-with-love-support"
       },
       {
-        "title": "Nicole Kidman shares how she's coping post-divorce from Keith Urban",
-        "link": "https://www.geo.tv/latest/655231-nicole-kidman-shares-how-shes-coping-post-divorce-from-keith-urban"
+        "title": "Travis Kelce details how Taylor Swift introduced him to art of Easter Eggs",
+        "link": "https://www.geo.tv/latest/655233-travis-kelce-details-how-taylor-swift-introduced-him-to-art-of-easter-eggs"
       },
       {
-        "title": "Iran pulls out of 2026 FIFA World Cup despite Trump welcome",
-        "link": "https://www.geo.tv/latest/655230-iran-pulls-out-of-2026-fifa-world-cup-despite-trump-welcome"
+        "title": "Nadra scraps 4.2m CNICs of deceased individuals",
+        "link": "https://www.geo.tv/latest/655236-nadra-scraps-42m-cnics-of-deceased-individuals"
       }
     ],
     "NDTV": [
       {
-        "title": "Pitbull Unleashed On Rajasthan Cops During Probe, Constable Suffers Bite Injuries",
-        "link": "https://www.ndtv.com/india-news/pitbull-unleashed-on-rajasthan-cops-during-probe-constable-suffers-bite-injuries-11201630#publisher=newsstand"
+        "title": "Ghalib To Shakespeare: Supreme Court's Tryst With \"Right To Die With Dignity\"",
+        "link": "https://www.ndtv.com/india-news/harish-rana-supreme-courts-to-be-or-not-to-be-moment-in-passive-euthanasia-ruling-11202294#publisher=newsstand"
       },
       {
-        "title": "\"Deplore Targeting Of Commercial Shipping\": India On Hormuz Ship Attack",
-        "link": "https://www.ndtv.com/india-news/iran-war-latest-news-deplore-targeting-of-commercial-shipping-india-on-hormuz-ship-attack-11201756#publisher=newsstand"
+        "title": "LPG Production Up 25%, Government Says Amid Shortage Reports",
+        "link": "https://www.ndtv.com/india-news/lpg-production-up-25-government-says-amid-shortage-reports-11202324#publisher=newsstand"
       },
       {
-        "title": "\"Daughter's Wedding Is Tomorrow\": Madhya Pradesh Farmer Breaks Down As Crop Sale Stalls",
-        "link": "https://www.ndtv.com/india-news/daughters-wedding-is-tomorrow-madhya-pradesh-farmer-breaks-down-as-crop-sale-stalls-11202027#publisher=newsstand"
+        "title": "US Missile Struck Iran School Due To 'Targeting Error': Report",
+        "link": "https://www.ndtv.com/world-news/iran-war-live-us-missile-struck-iran-school-due-to-targeting-error-report-11202270#publisher=newsstand"
       },
       {
-        "title": "Black Smoke, Fire On Thai Cargo Ship Sailing To India After Hormuz Attack",
-        "link": "https://www.ndtv.com/world-news/iran-news-live-updates-strait-of-hormuz-cargo-ship-mayuree-naree-sailing-to-india-attacked-in-strait-of-hormuz-thai-navy-11200152#publisher=newsstand"
+        "title": "Iran Says Ready For Long War That Could \"Destroy World Economy\"",
+        "link": "https://www.ndtv.com/world-news/iran-says-ready-for-long-war-that-could-destroy-world-economy-11202201#publisher=newsstand"
       },
       {
-        "title": "2 Workers Die In Indore Sewer, Compensation Records Reveal A Grim Reality",
-        "link": "https://www.ndtv.com/india-news/2-workers-die-in-indore-sewer-compensation-records-reveal-a-grim-reality-11202006#publisher=newsstand"
+        "title": "Centre Orders Telegram To Remove Pirated Content, Flags 3,100 Channels",
+        "link": "https://www.ndtv.com/india-news/centre-issues-notice-to-telegram-over-pirated-content-flags-over-3-100-channels-11202096#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-11 17:06 UTC"
+  "last_updated": "2026-03-11 18:00 UTC"
 }
