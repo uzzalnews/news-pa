@@ -14,7 +14,7 @@
   "news": {
     "BBC": [
       {
-        "title": "Government approves Met request to ban Al Quds Day march",
+        "title": "Al Quds Day march to be banned after government approves Met request",
         "link": "https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -36,24 +36,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Israeli strikes hit Beirut suburbs",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/israeli-strikes-hit-beirut-suburbs?traffic_source=rss"
+      },
+      {
+        "title": "Iran fires missiles, drones at Gulf nations as ship hit in Strait of Hormuz",
+        "link": "https://www.aljazeera.com/news/2026/3/11/iran-fires-missiles-drones-at-gulf-nations-as-ship-hit-in-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What is happening on day 12 of US-Israel attacks?",
+        "link": "https://www.aljazeera.com/news/2026/3/11/iran-war-what-is-happening-on-day-12-of-us-israel-attacks?traffic_source=rss"
+      },
+      {
         "title": "LeBron, NBA social media react to Bam Adebayo’s historic 83-point game",
         "link": "https://www.aljazeera.com/sports/2026/3/11/lebron-nba-social-media-react-to-bam-adebayos-historic-83-point-game?traffic_source=rss"
       },
       {
         "title": "‘The other side’ of IITs: Student suicides haunt India’s top tech schools",
         "link": "https://www.aljazeera.com/news/2026/3/11/the-other-side-of-iits-student-suicides-haunt-indias-top-tech-schools?traffic_source=rss"
-      },
-      {
-        "title": "The ‘orphan pearl’: Inside Kharg, the beating heart of Iran’s oil empire",
-        "link": "https://www.aljazeera.com/features/2026/3/11/the-orphan-pearl-inside-kharg-the-beating-heart-of-irans-oil-empire?traffic_source=rss"
-      },
-      {
-        "title": "Beirut building ablaze after apparent Israeli strike",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/beirut-building-ablaze-after-apparent-israeli-strike?traffic_source=rss"
-      },
-      {
-        "title": "Qatari minister says ‘regional countries are not an enemy of Iran’",
-        "link": "https://www.aljazeera.com/news/2026/3/11/qatars-foreign-minister-says-keeping-strait-of-hormuz-open-is-critical?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -85,6 +85,10 @@
         "link": "https://www.dawn.com/news/1980866/us-lawmakers-warn-of-trumps-incoherent-iran-war-strategy-after-classified-briefing"
       },
       {
+        "title": "Rain, snowfall trigger landslides in GB, blocking Karakoram Highway at multiple locations",
+        "link": "https://www.dawn.com/news/1980869/rain-snowfall-trigger-landslides-in-gb-blocking-karakoram-highway-at-multiple-locations"
+      },
+      {
         "title": "Rally continues as KSE-100 advances over 2,000 points",
         "link": "https://www.dawn.com/news/1980849/rally-continues-as-kse-100-advances-over-2000-points"
       },
@@ -95,10 +99,6 @@
       {
         "title": "Trump touts US oil refinery deal with India’s energy giant Reliance Industries",
         "link": "https://www.dawn.com/news/1980847/trump-touts-us-oil-refinery-deal-with-indias-energy-giant-reliance-industries"
-      },
-      {
-        "title": "ICC rejects bias claims over travel delays after West Indies, South Africa teams stranded in India",
-        "link": "https://www.dawn.com/news/1980860/icc-rejects-bias-claims-over-travel-delays-after-west-indies-south-africa-teams-stranded-in-india"
       }
     ],
     "APNews": [],
@@ -126,46 +126,46 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Two drones come down in vicinity of Dubai airport, injuring four people",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-drones-come-down-vicinity-dubai-airport-injuring-four-people"
+      },
+      {
+        "title": "Bulk carrier hit by projectile near Dubai, crew safe, UKMTO says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bulk-carrier-hit-projectile-near-dubai-crew-safe"
+      },
+      {
+        "title": "Twenty-nine Israelis injured in a stampede during Israeli rocket barrage",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/twenty-nine-israelis-injured-stampede-during-israeli-rocket-barrage"
+      },
+      {
         "title": "France to provide 60 tons of humanitarian aid for Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/france-provide-60-tons-humanitarian-aid-lebanon"
       },
       {
         "title": "Israel strikes apartment building in central Beirut, Lebanese state media say",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-apartment-building-central-beirut-lebanese-state-media"
-      },
-      {
-        "title": "Iran's new supreme leader 'safe and sound' despite war injuries, president's son says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-new-supreme-leader-safe-and-sound-despite-war-injuries-presidents"
-      },
-      {
-        "title": "Iran vows response to strikes on residential areas",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-vows-response-strikes-residential-areas"
-      },
-      {
-        "title": "Could a GCC energy embargo halt the US-Israel war on Iran?",
-        "link": "https://www.middleeasteye.net/opinion/how-gcc-energy-embargo-could-halt-us-israel-iran-war"
       }
     ],
     "GeoTV": [
       {
+        "title": "Prince William breaks silence on uproar caused by Andrew scandal",
+        "link": "https://www.geo.tv/latest/655163-prince-william-breaks-silence-on-uproar-caused-by-andrew-scandal"
+      },
+      {
+        "title": "Prince William's shocking admission about Princess Kate's first child",
+        "link": "https://www.geo.tv/latest/655164-prince-williams-shocking-admission-about-princess-kates-first-child"
+      },
+      {
+        "title": "'It: Welcome to Derry' creator teases season 2: 'Something that is greater'",
+        "link": "https://www.geo.tv/latest/655162-it-welcome-to-derry-creator-teases-season-2-something-that-is-greater"
+      },
+      {
+        "title": "Barry Keoghan riles fans up with Cillian Murphy joke",
+        "link": "https://www.geo.tv/latest/655165-barry-keoghan-jokes-about-cillian-murphy-to-make-people-mad"
+      },
+      {
         "title": "PSO attracts bids for two petrol cargoes amid Strait of Hormuz tensions",
         "link": "https://www.geo.tv/latest/655159-pso-attracts-bids-for-two-petrol-cargoes-amid-strait-of-hormuz-tensions"
-      },
-      {
-        "title": "Pakistan begins importing oil via Red Sea route after Strait of Hormuz closure: sources",
-        "link": "https://www.geo.tv/latest/655160-pakistan-begins-importing-oil-via-red-sea-route-after-strait-of-hormuz-closure"
-      },
-      {
-        "title": "Govt to launch Amazon-style digital marketplace to boost SME exports",
-        "link": "https://www.geo.tv/latest/655161-govt-to-launch-amazon-style-digital-marketplace-to-boost-sme-exports"
-      },
-      {
-        "title": "Disney's live-action 'Tangled' locks in its Mother Gothel",
-        "link": "https://www.geo.tv/latest/655155-disneys-live-action-tangled-locks-in-its-mother-gothel"
-      },
-      {
-        "title": "Beatrice, Eugenie's sad goodbye to royal privileges: 'Losing titles'",
-        "link": "https://www.geo.tv/latest/655156-beatrice-eugenies-sad-goodbye-to-royal-privileges-losing-titles"
       }
     ],
     "NDTV": [
@@ -213,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-11 07:11 UTC"
+  "last_updated": "2026-03-11 07:55 UTC"
 }
