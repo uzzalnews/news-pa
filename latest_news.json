@@ -1,24 +1,18 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "NDTV Power Play Keralam LIVE | \"Real Kerala Story Written In Our Communal Harmony\": Pinarayi Vijayan",
-      "link": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
-        "link": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
+        "title": "British man charged in Dubai for alleged filming of Iranian missiles",
+        "link": "https://www.bbc.com/news/articles/c743g4yn4k8o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
         "link": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "British man charged in Dubai for alleged filming of Iranian missiles",
-        "link": "https://www.bbc.com/news/articles/c743g4yn4k8o?at_medium=RSS&at_campaign=rss"
+        "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
+        "link": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Hundreds of GPs tell BBC they have never refused a fit note for mental health concerns",
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Iran’s Mojtaba Khamenei issues first statement as Supreme Leader amid war",
-        "link": "https://www.aljazeera.com/news/2026/3/12/irans-mojtaba-khamenei-issues-first-statement-as-supreme-leader-amid-war?traffic_source=rss"
+        "title": "Video shows moment Iran strikes US-owned oil tanker near Iraq",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/video-shows-moment-iran-strikes-us-owned-oil-tanker-near-iraq?traffic_source=rss"
       },
       {
-        "title": "How corporations have collaborated with US military over the decades",
-        "link": "https://www.aljazeera.com/news/2026/3/12/how-corporations-have-collaborated-with-us-military-over-the-decades?traffic_source=rss"
+        "title": "Up to 3.2 million people displaced across Iran amid US-Israeli attacks: UN",
+        "link": "https://www.aljazeera.com/news/2026/3/12/up-to-3-2-million-people-displaced-across-iran-amid-us-israeli-attacks-un?traffic_source=rss"
       },
       {
-        "title": "Children among victims in Pakistan’s shelling in Afghanistan: Taliban",
-        "link": "https://www.aljazeera.com/news/2026/3/12/children-among-victims-in-pakistans-shelling-in-eastern-afghanistan?traffic_source=rss"
+        "title": "Aftermath of US-Israeli attacks on Tehran",
+        "link": "https://www.aljazeera.com/gallery/2026/3/12/aftermath-of-us-israeli-attacks-on-tehran?traffic_source=rss"
       },
       {
-        "title": "Al Jazeera reporter sees destruction in Tehran neighbourhood",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/al-jazeera-reporter-sees-destruction-in-tehran-neighbourhood?traffic_source=rss"
+        "title": "Israeli attack hits civilians at Beirut beachfront: What we know",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israeli-attack-hits-civilians-at-beirut-beachfront-what-we-know?traffic_source=rss"
       },
       {
-        "title": "What we know about Iran and Hezbollah’s joint attacks on Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/what-we-know-about-iran-and-hezbollahs-joint-attacks-on-israel?traffic_source=rss"
+        "title": "Bunker-busting bombs loaded onto US planes at UK airbase amid Iran war",
+        "link": "https://www.aljazeera.com/news/2026/3/12/bunker-busting-bombs-loaded-onto-us-planes-at-uk-airbase-amid-iran-war?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,16 @@
     ],
     "Dawn": [
       {
-        "title": "As war in Middle East escalates, PM Shehbaz departs on brief visit to Saudi Arabia",
-        "link": "https://www.dawn.com/news/1981279/as-war-in-middle-east-escalates-pm-shehbaz-departs-on-brief-visit-to-saudi-arabia"
+        "title": "PM Shehbaz arrives in Saudi Arabia as war in Middle East escalates",
+        "link": "https://www.dawn.com/news/1981279/pm-shehbaz-arrives-in-saudi-arabia-as-war-in-middle-east-escalates"
+      },
+      {
+        "title": "In first remarks, Iran’s new supreme leader vows to avenge martyrs, keep Strait of Hormuz closed",
+        "link": "https://www.dawn.com/news/1981360/in-first-remarks-irans-new-supreme-leader-vows-to-avenge-martyrs-keep-strait-of-hormuz-closed"
+      },
+      {
+        "title": "Pakistan playing role of ‘bridge builder’ in ongoing Middle East conflict: FO",
+        "link": "https://www.dawn.com/news/1981351/pakistan-playing-role-of-bridge-builder-in-ongoing-middle-east-conflict-fo"
       },
       {
         "title": "PIA raises fuel surcharge as Gulf crisis drives up costs",
@@ -86,14 +88,6 @@
       {
         "title": "Ogra notifies massive increase in RLNG price for March",
         "link": "https://www.dawn.com/news/1981311/ogra-notifies-massive-increase-in-rlng-price-for-march"
-      },
-      {
-        "title": "‘Devil statue’ seized by police in Karachi",
-        "link": "https://www.dawn.com/news/1981335/devil-statue-seized-by-police-in-karachi"
-      },
-      {
-        "title": "IHC orders formation of medical board to evaluate Imran’s health",
-        "link": "https://www.dawn.com/news/1981293/ihc-orders-formation-of-medical-board-to-evaluate-imrans-health"
       }
     ],
     "APNews": [],
@@ -103,12 +97,12 @@
         "link": "https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html"
       },
       {
-        "title": "Iran War Causing Largest Ever Oil Disruption, I.E.A. Says",
-        "link": "https://www.nytimes.com/2026/03/12/world/middleeast/iran-war-oil-iea.html"
-      },
-      {
         "title": "Why Oil Prices Surged Even After the Release of Strategic Reserves",
         "link": "https://www.nytimes.com/2026/03/12/business/iran-oil-price-reserves.html"
+      },
+      {
+        "title": "Why Does Oil Matter So Much to the Global Economy?",
+        "link": "https://www.nytimes.com/video/business/100000010764105/why-does-oil-matter-so-much-to-the-global-economy.html"
       },
       {
         "title": "The $11 Billion Cost for One Week of War, and a New ‘Millionaires’ Tax’",
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Muslim countries condemn Israel's 'unjustified' closure of Al-Aqsa Mosque",
-        "link": "https://www.middleeasteye.net/news/muslim-countries-condemn-israel-closure-al-aqsa-mosque"
+        "title": "US bases in Gulf must close or be attacked, new Iran supreme leader says",
+        "link": "https://www.middleeasteye.net/news/us-bases-gulf-must-close-or-be-attacked-new-iran-supreme-leader-says"
       },
       {
-        "title": "New Supreme Leader says ‘Iran will not refrain from avenging the blood of its martyrs’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/new-supreme-leader-says-iran-will-not-refrain-avenging-blood-its-martyrs"
+        "title": "German chancellor announces stepping up security over of fears of Iranian 'terrorist' attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/german-chancellor-announces-stepping-security-over-fears-iranian"
       },
       {
-        "title": "Israeli army issues expulsion orders for southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-issues-expulsion-orders-southern-lebanon"
+        "title": "Nepal to ration cooking gas over fears of nationwide shortage",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nepal-ration-cooking-gas-over-fears-nationwide-shortage"
       },
       {
-        "title": "UK government's new counter-extremism measures called 'Prevent on steroids'",
-        "link": "https://www.middleeasteye.net/news/uk-government-counter-extremism-measures-called-prevent-steroids"
+        "title": "British tourist faces Dubai prison sentence for 'filming Iranian missiles'",
+        "link": "https://www.middleeasteye.net/news/british-tourist-faces-dubai-prison-sentence-allegedly-filming-iranian-missiles"
       },
       {
-        "title": "Israeli military reissues expulsion orders for Beirut southern suburbs",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-reissues-expulsion-orders-beirut-southern-suburbs"
+        "title": "Larijani warns region will 'go dark' if US destroys Iran's electricity infrastructure",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/larijani-warns-region-will-go-dark-if-us-destroys-irans-electric"
       }
     ],
     "GeoTV": [
       {
-        "title": "Conan O'Brien navigates comedy and controversy at Oscars stage",
-        "link": "https://www.geo.tv/latest/655356-conan-obrien-navigates-comedy-and-controversy-at-oscars-stage"
+        "title": "Trump officials buying nuclear ‘doomsday' bunkers amid World War III fears",
+        "link": "https://www.geo.tv/latest/655374-trump-officials-buying-nuclear-doomsday-bunkers-amid-world-war-iii-fears"
       },
       {
-        "title": "Nicole Kidman recalls horrifying on-screen experience",
-        "link": "https://www.geo.tv/latest/655358-nicole-kidman-recalls-horrifying-on-screen-experience"
+        "title": "Kathrine Heigl feuds with critics of Trump-backed dog rescue event",
+        "link": "https://www.geo.tv/latest/655377-kathrine-heigl-feuds-with-critics-of-trump-backed-dog-rescue-event"
       },
       {
-        "title": "MGK continues to flirt with Megan Fox amid her Instagram return",
-        "link": "https://www.geo.tv/latest/655362-mgk-continues-to-flirt-with-megan-fox-amid-her-instagram-return"
+        "title": "How Queen Letizia's private moment captured hearts at palace: watch",
+        "link": "https://www.geo.tv/latest/655331-how-queen-letizias-private-moment-captured-hearts-at-palace-watch"
       },
       {
-        "title": "Kylie Kelce hints at new addition to Kelces ahead of Taylor Swift wedding",
-        "link": "https://www.geo.tv/latest/655355-kylie-kelce-hints-at-new-addition-to-kelces-ahead-of-taylor-swift-wedding"
+        "title": "WhatsApp now warns you when someone's trying to hijack your account",
+        "link": "https://www.geo.tv/latest/655367-whatsapp-now-warns-you-when-someones-trying-to-hijack-your-account"
       },
       {
-        "title": "Major UK banks accidentally made customer accounts public in data glitch: Here's how it happened",
-        "link": "https://www.geo.tv/latest/655357-major-uk-banks-accidentally-made-customer-accounts-public-in-data-glitch-heres-how-it-happened"
+        "title": "Gavin Newsom warns of ‘worst-case scenario' after FBI said Iran could attack California with drones",
+        "link": "https://www.geo.tv/latest/655366-gavin-newsom-warns-of-worst-case-scenario-after-fbi-said-iran-could-attack-california-with-drones"
       }
     ],
     "NDTV": [
       {
-        "title": "The Cuban Power Brokers US May Be Engaging With",
-        "link": "https://www.ndtv.com/world-news/the-cuban-power-brokers-us-may-be-engaging-with-11204970#publisher=newsstand"
+        "title": "Iran's New Supreme Leader's Hormuz Mention And A Warning In First Remarks",
+        "link": "https://www.ndtv.com/world-news/iran-war-latest-news-strait-of-hormuz-must-remain-closed-mojtaba-khameneis-first-remark-as-irans-supreme-leader-11206166#publisher=newsstand"
       },
       {
-        "title": "NDTV Power Play Keralam LIVE | \"Real Kerala Story Written In Our Communal Harmony\": Pinarayi Vijayan",
+        "title": "Srinagar Court's Warrant Against Farooq Abdullah In J&K Cricket Body Case",
+        "link": "https://www.ndtv.com/india-news/srinagar-courts-warrant-against-farooq-abdullah-in-j-k-cricket-body-case-11206433#publisher=newsstand"
+      },
+      {
+        "title": "Elderly Man Kills Wife, Daughter-In-Law, Granddaughter With Hammer",
+        "link": "https://www.ndtv.com/india-news/elderly-man-kills-wife-daughter-in-law-granddaughter-with-hammer-11206174#publisher=newsstand"
+      },
+      {
+        "title": "NDTV Power Play Keralam Highlights | \"Real Kerala Story Written In Our Communal Harmony\": Pinarayi Vijayan",
         "link": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand"
       },
       {
-        "title": "Growing Humanitarian Crisis in Iran Amid Hostilities Says UN Refugee Agency",
-        "link": "https://www.ndtv.com/world-news/unhcr-reports-growing-humanitarian-crisis-in-iran-amid-hostilities-11205911#publisher=newsstand"
-      },
-      {
-        "title": "Iran Conflict \"Strategic Challenge\" With \"No Good Choices\": Ex-Top Official",
-        "link": "https://www.ndtv.com/india-news/iran-conflict-strategic-challenge-with-no-good-choices-ex-foreign-secretary-shyam-saran-11205928#publisher=newsstand"
-      },
-      {
-        "title": "India's Crude Situation Normal, Don't Panic-Buy: Centre On Middle East Crisis",
-        "link": "https://www.ndtv.com/india-news/iran-us-war-crude-situation-normal-dont-panic-buy-centre-on-middle-east-crisis-11205926#publisher=newsstand"
+        "title": "The Cuban Power Brokers US May Be Engaging With",
+        "link": "https://www.ndtv.com/world-news/the-cuban-power-brokers-us-may-be-engaging-with-11204970#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-12 14:13 UTC"
+  "last_updated": "2026-03-12 15:11 UTC"
 }
