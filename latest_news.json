@@ -2,13 +2,13 @@
   "breaking": [
     {
       "source": "NDTV",
-      "title": "NDTV Power Play Keralam LIVE: \"We Are Here To Fight For Better Kerala\": Shashi Tharoor",
+      "title": "NDTV Power Play Keralam LIVE: \"My Responsibility Is To Bring Back UDF Into Power\": VD Satheesan",
       "link": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand"
     },
     {
       "source": "NDTV",
-      "title": "Stock Market LIVE Updates: Sensex Sheds 900 Points, Nifty Down 270 As Oil Soars",
-      "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-share-market-sensex-nifty-crash-further-as-oil-prices-rally-amid-iran-war-11203268#publisher=newsstand"
+      "title": "Iran-Israel War LIVE Updates: Iran Says It's Ready To End War, But With Conditions",
+      "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
     }
   ],
   "news": {
@@ -26,15 +26,23 @@
         "link": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Chris Mason: Some nuggets but no huge revelations in first batch of Mandelson files",
-        "link": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&at_campaign=rss"
+        "title": "PM warned of 'reputational risk' over Mandelson's Epstein links",
+        "link": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Inquiry into student loans launched by MPs",
-        "link": "https://www.bbc.com/news/articles/cdxg70rr2geo?at_medium=RSS&at_campaign=rss"
+        "title": "Chris Mason: There may be no knockout blows from Mandelson files but it's far from over",
+        "link": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘Life covered in soot’: Gas shortage forces Gaza families to cook over wood",
+        "link": "https://www.aljazeera.com/news/2026/3/12/life-covered-in-soot-gas-shortage-forces-gaza-families-to-cook-over-wood?traffic_source=rss"
+      },
+      {
+        "title": "Students among 17 dead in RSF drone attack in Sudan’s White Nile State",
+        "link": "https://www.aljazeera.com/news/2026/3/12/students-among-17-dead-in-rsf-drone-attack-in-sudans-white-nile-state?traffic_source=rss"
+      },
       {
         "title": "China’s key NPC meeting comes to a close as lower growth target set",
         "link": "https://www.aljazeera.com/news/2026/3/12/chinas-key-npc-meeting-comes-to-a-close-as-lower-growth-target-set?traffic_source=rss"
@@ -46,14 +54,6 @@
       {
         "title": "Why historic release of oil reserves may do little to tame surging prices",
         "link": "https://www.aljazeera.com/economy/2026/3/12/why-historic-oil-reserves-release-may-do-little-to-bring-down-rising-prices?traffic_source=rss"
-      },
-      {
-        "title": "Six vessels attacked amid reports of Iranian drone boats, sea mines",
-        "link": "https://www.aljazeera.com/news/2026/3/12/five-vessels-attacked-amid-reports-of-iranian-drone-boats-sea-mines?traffic_source=rss"
-      },
-      {
-        "title": "How is feminism being used to justify war in Iran?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/how-is-feminism-being-used-to-justify-war-in-iran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -85,20 +85,20 @@
         "link": "https://www.dawn.com/news/1981220/imf-mission-fails-to-reach-staff-level-agreement-with-pakistan-talks-to-continue"
       },
       {
+        "title": "Pakistan backs Bahrain, Russia draft resolutions at UNSC, urges de-escalation",
+        "link": "https://www.dawn.com/news/1981241/pakistan-backs-bahrain-russia-draft-resolutions-at-unsc-urges-de-escalation"
+      },
+      {
+        "title": "KSE-100 rebounds after early plunge",
+        "link": "https://www.dawn.com/news/1981243/kse-100-rebounds-after-early-plunge"
+      },
+      {
         "title": "Attacks on commercial ships in Strait of Hormuz leave world on edge",
         "link": "https://www.dawn.com/news/1981191/attacks-on-commercial-ships-in-strait-of-hormuz-leave-world-on-edge"
       },
       {
         "title": "Reparations, guarantees only ‘off-ramp’, says Pezeshkian",
         "link": "https://www.dawn.com/news/1981189/reparations-guarantees-only-off-ramp-says-pezeshkian"
-      },
-      {
-        "title": "Fuel price hike adds to Ramazan inflation burden",
-        "link": "https://www.dawn.com/news/1981185/fuel-price-hike-adds-to-ramazan-inflation-burden"
-      },
-      {
-        "title": "Women MNAs contribute nearly half of National Assembly agenda",
-        "link": "https://www.dawn.com/news/1981184/women-mnas-contribute-nearly-half-of-national-assembly-agenda"
       }
     ],
     "APNews": [],
@@ -112,85 +112,89 @@
         "link": "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html"
       },
       {
-        "title": "Israel Bombards Lebanese Capital in Latest Round of Strikes",
-        "link": "https://www.nytimes.com/2026/03/11/world/middleeast/beirut-lebanon-israel-strikes.html"
-      },
-      {
         "title": "How Trump Is Using the Paxton-Cornyn Race to Squeeze the Senate Over the SAVE Act",
         "link": "https://www.nytimes.com/2026/03/11/us/politics/trump-cornyn-paxton-endorsement-texas-senate.html"
       },
       {
         "title": "Republicans Concede They Need to Pivot on Immigration Before Midterms",
         "link": "https://www.nytimes.com/2026/03/11/us/politics/house-republicans-immigration-midterms.html"
+      },
+      {
+        "title": "ICE Lawyer Who Told Judge She Was Overwhelmed Is Running for Congress",
+        "link": "https://www.nytimes.com/2026/03/11/us/ice-lawyer-congress-julie-t-le.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Asean countries set to hold special meeting over Middle East situation",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/asean-countries-set-hold-special-meeting-over-middle-east-situation"
+      },
+      {
+        "title": "Smoke plumes rising nearby Bahrain Airport",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/smoke-plumes-rising-nearby-bahrain-airport"
+      },
+      {
+        "title": "Iran to allow India-flagged tankers pass through Strait of Hormuz, Indian source says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-allow-india-flagged-tankers-pass-through-strait-hormuz-indian"
+      },
+      {
+        "title": "Russia's Dmitriev says he discussed global energy crisis with US counterparts",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russias-dmitriev-says-he-discussed-global-energy-crisis-us-counterparts"
+      },
+      {
         "title": "Why the Gulf fears Israel's 'day after' in Iran",
         "link": "https://www.middleeasteye.net/opinion/why-gulf-fears-israels-day-after-iran"
-      },
-      {
-        "title": "Three crew aboard Thai ship attacked on Wednesday reported missing",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-crew-aboard-thai-ship-attacked-wednesday-reported-missing"
-      },
-      {
-        "title": "Kuwaiti army: Two injured in drone attack on residential building",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaiti-army-two-injured-drone-attack-residential-building"
-      },
-      {
-        "title": "Unidentified projectile hits ship near UAE's Jebel Ali, UKMTO says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/unidentified-projectile-hits-ship-near-uaes-jebel-ali-ukmto-says"
-      },
-      {
-        "title": "UAE battles 'missile and drone threats' from Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-battles-missile-and-drone-threats-iran"
       }
     ],
     "GeoTV": [
       {
-        "title": "Wildlife to replace humans on next series of UK banknotes",
-        "link": "https://www.geo.tv/latest/655287-wildlife-to-replace-humans-on-next-series-of-uk-banknotes"
+        "title": "Comment: The Rs82bn windfall",
+        "link": "https://www.geo.tv/latest/655293-comment-the-rs82bn-windfall"
       },
       {
-        "title": "Prince William's shock as 'Harry Potter' actor reveals astonishing detail",
-        "link": "https://www.geo.tv/latest/655286-prince-williams-shock-as-harry-potter-actor-reveals-astonishing-detail"
+        "title": "N Korea train set to depart Beijing after 6-year halt",
+        "link": "https://www.geo.tv/latest/655288-n-korea-train-set-to-depart-beijing-after-6-year-halt"
       },
       {
-        "title": "Princess Anne reacts to rising protests as Andrew leaves lifelong stain",
-        "link": "https://www.geo.tv/latest/655282-princess-anne-reacts-to-rising-protests-as-andrew-leaves-lifelong-stain"
+        "title": "Astrophysicists figure out what caused a super-bright supernova",
+        "link": "https://www.geo.tv/latest/655291-astrophysicists-figure-out-what-caused-a-super-bright-supernova"
       },
       {
-        "title": "Katie Price enjoys Rome trip with pals as Lee Andrews remains in Dubai",
-        "link": "https://www.geo.tv/latest/655283-katie-price-enjoys-rome-trip-with-pals-as-lee-andrews-remains-in-dubai"
+        "title": "Charlie Puth takes jibe at Timothee Chalamet over 'insensitive opera remarks'",
+        "link": "https://www.geo.tv/latest/655289-charlie-puth-takes-jibe-at-timothee-chalamet-over-insensitive-opera-remarks"
       },
       {
-        "title": "Meghan Markle offers deal to fans as Harry faces backlash: 'Last chance'",
-        "link": "https://www.geo.tv/latest/655279-meghan-markle-offers-deal-to-fans-as-harry-faces-backlash-last-chance"
+        "title": "Royal family shares Queen Camilla's chat after Carole Middleton reunion",
+        "link": "https://www.geo.tv/latest/655285-royal-family-shares-queen-camillas-chat-after-carole-middleton-reunion"
       }
     ],
     "NDTV": [
       {
-        "title": "S Jaishankar's Intervention Behind Iran's Hormuz Clearance To India: Sources",
+        "title": "\"Wanted To Kill Him For 20 Years\": Farooq Abdullah Attacker Shows No Remorse",
+        "link": "https://www.ndtv.com/india-news/jammu-and-kashmir-farooq-abdullah-survives-attack-shooter-wanted-to-kill-him-for-20-years-11203139#publisher=newsstand"
+      },
+      {
+        "title": "Iran's Hormuz Clearance To India? Big Indication In BJP Leader's Post",
         "link": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-allows-india-flagged-ships-to-pass-through-strait-of-hormuz-sources-11203593#publisher=newsstand"
       },
       {
-        "title": "NDTV Power Play Keralam LIVE: \"We Are Here To Fight For Better Kerala\": Shashi Tharoor",
+        "title": "\"Not Graceful Enough\": Left MP Flags Congress Leadership Of INDIA Bloc",
+        "link": "https://www.ndtv.com/india-news/kerala-assembly-election-john-brittas-keralam-powerplay-not-graceful-enough-left-mp-flags-congress-leadership-of-india-bloc-11203812#publisher=newsstand"
+      },
+      {
+        "title": "NDTV Power Play Keralam LIVE: \"My Responsibility Is To Bring Back UDF Into Power\": VD Satheesan",
         "link": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates: Sensex Sheds 900 Points, Nifty Down 270 As Oil Soars",
-        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-share-market-sensex-nifty-crash-further-as-oil-prices-rally-amid-iran-war-11203268#publisher=newsstand"
-      },
-      {
-        "title": "Iran Israel US War: Iran Outlines 3 Conditions To End War With US, Israel",
-        "link": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-outlines-3-conditions-to-end-war-with-us-israel-11203516#publisher=newsstand"
-      },
-      {
-        "title": "Iranian Underwater Drone Hits US-Owned Oil Tanker In The Gulf, 1 Dead",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-live-us-owned-ship-among-2-vessels-hit-by-iran-in-the-gulf-1-dead-11203453#publisher=newsstand"
+        "title": "Iran-Israel War LIVE Updates: Iran Says It's Ready To End War, But With Conditions",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts",
+        "link": "https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts"
+      },
       {
         "title": "At least 17 killed after drone strikes school in Sudan",
         "link": "https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan"
@@ -206,12 +210,8 @@
       {
         "title": "Experts fear ‘unethical’ vaccine trial in Africa is ‘prototype’ for US studies under RFK Jr",
         "link": "https://www.theguardian.com/us-news/2026/mar/11/rfk-vaccine-trials-guinea-bissau"
-      },
-      {
-        "title": "Prison sentences for pair who attacked gay men hailed as sign of hope for Kenya’s LGBTQ+ community",
-        "link": "https://www.theguardian.com/global-development/2026/mar/11/prison-sentences-attacked-gay-men-hope-kenya-lgbtq-community"
       }
     ]
   },
-  "last_updated": "2026-03-12 05:37 UTC"
+  "last_updated": "2026-03-12 06:33 UTC"
 }
