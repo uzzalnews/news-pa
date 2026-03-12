@@ -9,10 +9,6 @@
   "news": {
     "BBC": [
       {
-        "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
-        "link": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns",
         "link": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&at_campaign=rss"
       },
@@ -21,15 +17,23 @@
         "link": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "PM warned of 'reputational risk' over Mandelson's Epstein links",
+        "title": "PM was warned of 'reputational risk' over Mandelson's Epstein links",
         "link": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Chris Mason: There may be no knockout blows from Mandelson files but it's far from over",
         "link": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'It was the stuff of dreams' - Liza Tarbuck leaves Radio 2 Saturday show",
+        "link": "https://www.bbc.com/news/articles/c2lrq2n7l9eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "In the US-Israeli war on Iran, who will run out of missiles first?",
+        "link": "https://www.aljazeera.com/video/project-force-2/2026/3/12/in-the-us-israeli-war-on-iran-who-will-run-out-of-missiles-first?traffic_source=rss"
+      },
       {
         "title": "Trump admin estimates US war on Iran cost $11.3bn in first 6 days: Report",
         "link": "https://www.aljazeera.com/news/2026/3/12/trump-admin-estimates-us-war-on-iran-cost-11-3bn-in-first-6-days-report?traffic_source=rss"
@@ -45,10 +49,6 @@
       {
         "title": "‘Life covered in soot’: Gas shortage forces Gaza families to cook over wood",
         "link": "https://www.aljazeera.com/news/2026/3/12/life-covered-in-soot-gas-shortage-forces-gaza-families-to-cook-over-wood?traffic_source=rss"
-      },
-      {
-        "title": "Students among 17 dead in RSF drone attack in Sudan’s White Nile State",
-        "link": "https://www.aljazeera.com/news/2026/3/12/students-among-17-dead-in-rsf-drone-attack-in-sudans-white-nile-state?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,27 +121,39 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran army says targeted Israel military bases, security service",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-army-says-targeted-israel-military-bases-security-service"
+      },
+      {
+        "title": "Several explosions heard in Dubai's downtown",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/several-explosions-heard-dubais-downtown"
+      },
+      {
+        "title": "Italy joins IEA oil reserve release with 9 million barrels",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-joins-iea-oil-reserve-release-9-million-barrels"
+      },
+      {
+        "title": "Blasts heard in Jerusalem, after Israel detects new Iranian missile salvo",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-jerusalem-after-israel-detects-new-iranian-missile-salvo"
+      },
+      {
         "title": "Iraq calls for the ‘protection of maritime routes’ after deadly attack on tankers",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-calls-protection-maritime-routes"
-      },
-      {
-        "title": "Debris from intercepted drone leaves six Kuwait power lines out of service",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/debris-intercepted-drone-leaves-six-kuwait-power-lines-out-service"
-      },
-      {
-        "title": "Israeli attack kills three in Lebanon's Aramoun",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-kills-three-lebanons-aramoun"
-      },
-      {
-        "title": "Italian base in Iraqi Kurdistan hit by missile, defence ministry says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/italian-base-iraqi-kurdistan-hit-missile-defence-ministry-says"
-      },
-      {
-        "title": "Asean countries set to hold special meeting over Middle East situation",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/asean-countries-set-hold-special-meeting-over-middle-east-situation"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince William quietly makes meaningful gesture for Harry amid estrangement",
+        "link": "https://www.geo.tv/latest/655310-prince-william-quietly-makes-meaningful-gesture-for-harry-amid-estrangement"
+      },
+      {
+        "title": "Fact-check: Altered video falsely shows Allama Nasir Abbas saying Pakistan allowed US to use airspace",
+        "link": "https://www.geo.tv/latest/655307-fact-check-altered-video-falsely-shows-allama-nasir-abbas-saying-pakistan-allowed-us-to-use-airspace"
+      },
+      {
+        "title": "Marvel fans are up for special surprise at 2026 Oscars",
+        "link": "https://www.geo.tv/latest/655305-marvel-fans-are-up-for-special-surprise-at-2026-oscars"
+      },
       {
         "title": "Pricing delays keep key medicines off pharmacy shelves",
         "link": "https://www.geo.tv/latest/655304-pricing-delays-keep-key-medicines-off-pharmacy-shelves"
@@ -149,18 +161,6 @@
       {
         "title": "PML-N, JUI-P senators suspect Israeli links to safe city surveillance system in Islamabad",
         "link": "https://www.geo.tv/latest/655296-pml-n-jui-p-senators-suspect-israeli-links-to-safe-city-surveillance-system-in-islamabad"
-      },
-      {
-        "title": "King Charles holds important meeting to commemorate historic peace treaty",
-        "link": "https://www.geo.tv/latest/655306-king-charles-holds-important-meeting-to-commemorate-historic-peace-treaty"
-      },
-      {
-        "title": "PSX mixed as oil price spike weighs sentiment, IMF talks limit downside",
-        "link": "https://www.geo.tv/latest/655295-psx-mixed-as-oil-weighs-imf-talks-limit-downside"
-      },
-      {
-        "title": "Trump endorses Jake Paul, says boxer can run for 'whatever office he wants'",
-        "link": "https://www.geo.tv/latest/655290-trump-endorses-jake-paul-says-boxer-can-run-for-whatever-office-he-wants"
       }
     ],
     "NDTV": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-12 07:31 UTC"
+  "last_updated": "2026-03-12 08:03 UTC"
 }
