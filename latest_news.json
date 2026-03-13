@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates: Sensex Slides 1,300 Points, Rupee Hits Fresh Low Against Dollar",
+      "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-share-market-sensex-nifty-brace-for-another-negative-start-amid-oil-shock-11208570#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,7 +13,7 @@
         "link": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK economy failed to grow in January ahead of Iran war",
+        "title": "UK economy saw zero growth in January ahead of Iran war",
         "link": "https://www.bbc.com/news/articles/c75e06e0kd7o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Two killed in Oman by drones, several also fired at Saudi Arabia",
+        "link": "https://www.aljazeera.com/news/2026/3/13/two-killed-in-oman-by-drones-several-also-fired-at-saudi-arabia?traffic_source=rss"
+      },
+      {
+        "title": "US lawmakers introduce Justice for Hind Rajab Act",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/us-lawmakers-introduce-justice-for-hind-rajab-act-2?traffic_source=rss"
+      },
+      {
+        "title": "French soldier killed and others wounded in attack in Iraq",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/french-soldier-killed-and-others-wounded-in-attack-in-iraq?traffic_source=rss"
+      },
+      {
         "title": "Israel attacks Beirut in ‘targeted killing’ attempt, kills several in south",
         "link": "https://www.aljazeera.com/news/2026/3/13/israel-attacks-beirut-in-targeted-killing-attempt-kills-several-in-south?traffic_source=rss"
       },
       {
         "title": "Poor in an oil-rich country: Republic of Congo’s youth hope for change",
         "link": "https://www.aljazeera.com/features/2026/3/13/poor-in-an-oil-rich-country-republic-of-congos-youth-hope-for-change?traffic_source=rss"
-      },
-      {
-        "title": "Alcaraz sets up Medvedev Indian Wells semifinal, Sabalenka also advances",
-        "link": "https://www.aljazeera.com/sports/2026/3/13/alcaraz-sets-up-medvedev-indian-wells-semifinal-sabalenka-also-advances?traffic_source=rss"
-      },
-      {
-        "title": "Force majeure: What is it and why have some Gulf countries invoked it?",
-        "link": "https://www.aljazeera.com/news/2026/3/13/force-majeure-what-is-it-and-why-have-some-gulf-countries-invoked-it?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 14 of US-Israel attacks?",
-        "link": "https://www.aljazeera.com/news/2026/3/13/iran-war-what-is-happening-on-day-14-of-us-israel-attacks?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1981621/breakdown-of-diplomacy-further-complicates-iran-nuclear-issue-pakistan-warns-security-council"
       },
       {
-        "title": "Market volatility continues as KSE-100 slips in early trade",
-        "link": "https://www.dawn.com/news/1981629/market-volatility-continues-as-kse-100-slips-in-early-trade"
-      },
-      {
         "title": "Multiple roads closed in Karachi for Quds Day rallies",
         "link": "https://www.dawn.com/news/1981637/multiple-roads-closed-in-karachi-for-quds-day-rallies"
       },
       {
-        "title": "Assailant dead after ramming vehicle into Michigan synagogue",
-        "link": "https://www.dawn.com/news/1981645/assailant-dead-after-ramming-vehicle-into-michigan-synagogue"
+        "title": "Market volatility continues as KSE-100 closes in the red",
+        "link": "https://www.dawn.com/news/1981629/market-volatility-continues-as-kse-100-closes-in-the-red"
+      },
+      {
+        "title": "Pakistan among 60 countries facing US forced labour investigations",
+        "link": "https://www.dawn.com/news/1981635/pakistan-among-60-countries-facing-us-forced-labour-investigations"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli drone attack kills two in southeastern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-attack-kills-two-southeastern-lebanon"
+      },
+      {
+        "title": "Polish man arrested in Greece on charges of spying on base used by US forces in Crete",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/polish-man-arrested-greece-charges-spying-base-used-us-forces-crete"
+      },
+      {
+        "title": "Sri Lanka: Bodies of 84 sailors from the Iranian frigate torpedoed by the United States repatriated Friday",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sri-lanka-bodies-84-sailors-iranian-frigate-torpedoed-united-states"
+      },
+      {
         "title": "Australia tells non-essential diplomats to leave Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/australia-tells-non-essential-diplomats-leave-lebanon"
       },
       {
         "title": "Iran Red Crescent says nearly 20,000 homes damaged in attacks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-red-crescent-says-nearly-20000-homes-damaged-attacks-0"
-      },
-      {
-        "title": "More than 24,000 civilian units damaged in Iran, Red Crescent says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-24000-civilian-units-damaged-iran-red-crescent-says"
-      },
-      {
-        "title": "Iran Red Crescent says nearly 20,000 homes damaged in attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-red-crescent-says-nearly-20000-homes-damaged-attacks"
-      },
-      {
-        "title": "Red Cross Society of China to provide $200,000 to Iran for humanitarian assistance",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/red-cross-society-china-provide-200000-iran-humanitarian-assistance"
       }
     ],
     "GeoTV": [
       {
-        "title": "Pakistan's domestic power sources cushion LNG supply risk, says power minister",
+        "title": "At least six police personnel martyred in blast near police vehicle in Lakki Marwat",
+        "link": "https://www.geo.tv/latest/655468-at-least-six-police-personnel-martyred-in-blast-near-police-vehicle-in-lakki-marwat"
+      },
+      {
+        "title": "With Iran war exit elusive, Trump aides vie to affect outcome",
+        "link": "https://www.geo.tv/latest/655459-with-iran-war-exit-elusive-trump-aides-vie-to-affect-outcome"
+      },
+      {
+        "title": "Prince Harry receives heartbreaking news from UK amid ongoing legal battle",
+        "link": "https://www.geo.tv/latest/655457-prince-harry-receives-heartbreaking-news-from-uk-amid-ongoing-legal-battle"
+      },
+      {
+        "title": "Digital identity cards hold same legal status as physical CNICs: Nadra",
+        "link": "https://www.geo.tv/latest/655460-digital-identity-cards-hold-same-legal-status-as-physical-cnics-nadra"
+      },
+      {
+        "title": "Pakistan's domestic power sources cushion LNG supply risk, says minister amid ME crisis",
         "link": "https://www.geo.tv/latest/655456-pakistans-domestic-power-sources-cushion-lng-supply-risk-says-power-minister"
-      },
-      {
-        "title": "Rachel Zegler breaks silence on relationship status amid breakup news",
-        "link": "https://www.geo.tv/latest/655462-rachel-zegler-breaks-silence-on-relationship-status-amid-breakup-news"
-      },
-      {
-        "title": "Epistemology of the Quran",
-        "link": "https://www.geo.tv/latest/655450-epistemology-of-the-quran"
-      },
-      {
-        "title": "Bangladesh win toss, opt to bowl first against Pakistan in second ODI",
-        "link": "https://www.geo.tv/latest/655458-bangladesh-win-toss-opt-to-bowl-first-against-pakistan-in-second-odi"
-      },
-      {
-        "title": "Britons put King Charles to real test: 'Change'",
-        "link": "https://www.geo.tv/latest/655453-britons-put-king-charles-to-real-test-change"
       }
     ],
     "NDTV": [
       {
-        "title": "In Iran, Residents Deal With Shut Shops, Joblessness And Rationing",
-        "link": "https://www.ndtv.com/world-news/iran-us-war-in-iran-residents-deal-with-shut-shops-joblessness-and-rationing-11209343#publisher=newsstand"
+        "title": "After 'Permitting' India, US Allows Sale Of Russian Oil Already At Sea",
+        "link": "https://www.ndtv.com/world-news/iran-israel-us-war-after-india-us-temporarily-allows-sale-of-russian-oil-at-sea-middle-east-conflict-11208403#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Three Targets For US Boots On The Ground In Iran",
-        "link": "https://www.ndtv.com/opinion/three-targets-for-us-boots-on-the-ground-in-iran-james-stavridis-11209341#publisher=newsstand"
+        "title": "Sirens Heard At Incirlik Base, A Key NATO Facility In Turkey",
+        "link": "https://www.ndtv.com/world-news/middle-east-war-sirens-heard-at-incirlik-base-a-key-nato-facility-in-turkey-11209559#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | We're All Trapped In Trump's 1980s Worldview",
-        "link": "https://www.ndtv.com/opinion/were-all-trapped-in-trumps-1980s-worldview-marc-champion-11209309#publisher=newsstand"
+        "title": "A Mysterious Silence In Taiwan Skies Ahead Of Trump's China Visit",
+        "link": "https://www.ndtv.com/world-news/a-mysterious-silence-in-taiwan-skies-ahead-of-trumps-china-visit-11209682#publisher=newsstand"
       },
       {
-        "title": "Speedy Alerts, Air Defences: How UAE Keeps Citizens Safe Amid Iran Attacks",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-live-speedy-alerts-air-defences-how-uae-keeps-citizens-safe-amid-iran-attacks-11209147#publisher=newsstand"
+        "title": "Stock Market LIVE Updates: Sensex Slides 1,300 Points, Rupee Hits Fresh Low Against Dollar",
+        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-share-market-sensex-nifty-brace-for-another-negative-start-amid-oil-shock-11208570#publisher=newsstand"
       },
       {
-        "title": "How Iran-Israel War Is Silencing Morbi's Chimneys",
-        "link": "https://www.ndtv.com/india-news/how-iran-israel-war-is-silencing-morbis-chimneys-11209258#publisher=newsstand"
+        "title": "US Waiver Frees Up 19 Million Barrels Of Russia Oil For Purchase",
+        "link": "https://www.ndtv.com/world-news/us-waiver-frees-up-19-million-barrels-of-russia-oil-for-purchase-11209516#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-13 08:02 UTC"
+  "last_updated": "2026-03-13 08:55 UTC"
 }
