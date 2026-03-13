@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Iran-Israel War LIVE Updates: US Refuelling Aircraft Crashes In Iraq, 4th Such Plane Lost",
+      "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,34 +21,34 @@
         "link": "https://www.bbc.com/news/articles/cx28zd30078o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Boy charged over stabbing of teenage girl at Norfolk school",
-        "link": "https://www.bbc.com/news/articles/cx247vd1v48o?at_medium=RSS&at_campaign=rss"
+        "title": "Winners, Sinners and record breakers: 17 fun facts about this year's Oscars",
+        "link": "https://www.bbc.com/news/articles/c1je21lgn5zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Woman who kept vulnerable victim as slave sentenced to 13 years",
-        "link": "https://www.bbc.com/news/articles/cvgkj148p7no?at_medium=RSS&at_campaign=rss"
+        "title": "Boy charged over stabbing of teenage girl at Norfolk school",
+        "link": "https://www.bbc.com/news/articles/cx247vd1v48o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Iran envoy says Tehran will keep Strait of Hormuz open",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/iran-envoy-says-tehran-will-keep-strait-of-hormuz-open?traffic_source=rss"
+        "title": "Iranian missile strikes residential area in northern Israel",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss"
       },
       {
-        "title": "Qatar rejects attempts to ‘drive wedge’ with US over gas pause",
-        "link": "https://www.aljazeera.com/news/2026/3/12/qatar-rejects-attempts-to-drive-wedge-with-us-over-gas-pause?traffic_source=rss"
+        "title": "Thousands rally in Athens protesting US-Israeli attacks on Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/thousands-rally-in-athens-protesting-us-israeli-attacks-on-iran?traffic_source=rss"
       },
       {
-        "title": "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
-        "link": "https://www.aljazeera.com/news/2026/3/12/ex-rapper-balendra-shah-sweeps-to-power-in-nepal-landslide-election-victory?traffic_source=rss"
+        "title": "Netanyahu says Israeli strikes killed Iranian nuclear scientists",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/netanyahu-says-israeli-strikes-killed-iranian-nuclear-scientists?traffic_source=rss"
       },
       {
-        "title": "US military announces rescue effort after fuelling aircraft crashes in Iraq",
-        "link": "https://www.aljazeera.com/news/2026/3/12/us-military-announces-loss-of-refueling-aircraft-over-western-iraq?traffic_source=rss"
+        "title": "Michigan synagogue ramming an ‘act of targeted violence’: FBI",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/13/michigan-synagogue-ramming-an-act-of-targeted-violence-fbi?traffic_source=rss"
       },
       {
-        "title": "Air attacks target bases of Iran-backed forces in Iraq",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss"
+        "title": "Iran war live: Trump says war going ‘well’ as Gulf under wave of attacks",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/3/13/iran-war-live-trump-says-war-going-well-as-gulf-under-wave-of-attacks?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,68 +80,76 @@
         "link": "https://www.dawn.com/news/1981279/in-restricted-meeting-with-saudi-crown-prince-pm-shehbaz-assures-him-of-pakistans-full-solidarity-support"
       },
       {
-        "title": "In first remarks, Iran’s new supreme leader vows to avenge martyrs, keep Strait of Hormuz closed",
-        "link": "https://www.dawn.com/news/1981360/in-first-remarks-irans-new-supreme-leader-vows-to-avenge-martyrs-keep-strait-of-hormuz-closed"
-      },
-      {
         "title": "US refuelling aircraft crashes in western Iraq: US military",
         "link": "https://www.dawn.com/news/1981530/us-refuelling-aircraft-crashes-in-western-iraq-us-military"
       },
       {
-        "title": "Educational institutions to remain closed in Islamabad on Friday",
-        "link": "https://www.dawn.com/news/1981400/educational-institutions-to-remain-closed-in-islamabad-on-friday"
+        "title": "FO confirms engagement with China to reduce Kabul tensions",
+        "link": "https://www.dawn.com/news/1981536/fo-confirms-engagement-with-china-to-reduce-kabul-tensions"
       },
       {
-        "title": "IPL-linked Sunrisers Leeds sign Abrar Ahmed for The Hundred",
-        "link": "https://www.dawn.com/news/1981366/ipl-linked-sunrisers-leeds-sign-abrar-ahmed-for-the-hundred"
+        "title": "In first remarks, Iran’s new supreme leader vows to avenge martyrs, keep Strait of Hormuz closed",
+        "link": "https://www.dawn.com/news/1981360/in-first-remarks-irans-new-supreme-leader-vows-to-avenge-martyrs-keep-strait-of-hormuz-closed"
+      },
+      {
+        "title": "Educational institutions to remain closed in Islamabad on Friday",
+        "link": "https://www.dawn.com/news/1981400/educational-institutions-to-remain-closed-in-islamabad-on-friday"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict",
+        "link": "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html"
+      },
+      {
+        "title": "A Weakened Iran Hits Back by Strangling the Vital Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html"
+      },
+      {
         "title": "Fallout From Iran War and Oil Shock Deliver Another Blow to World Economy",
         "link": "https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html"
-      },
-      {
-        "title": "What Is the Strait of Hormuz and Why Is Iran Blocking It?",
-        "link": "https://www.nytimes.com/2026/03/12/world/middleeast/strait-of-hormuz-iran-blockade-explained.html"
-      },
-      {
-        "title": "How Hegseth Came to See Moral Purpose in War as Weakness",
-        "link": "https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html"
       },
       {
         "title": "With Disputed Legal Maneuver, Trump Tries to Set Policy Without Legislation",
         "link": "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html"
       },
       {
-        "title": "Judge Dismisses Bulk of Lawsuit Over Trump’s Funding Freeze for Tunnel",
-        "link": "https://www.nytimes.com/2026/03/12/nyregion/gateway-hudson-tunnel-project-trump-funding.html"
+        "title": "Cuba Pledges to Release 51 Prisoners Amid Pressure From Washington",
+        "link": "https://www.nytimes.com/2026/03/12/world/americas/cuba-prisoner-release-trump-oil-blocade.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran team condemns Trump over World Cup threats",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-team-condemns-trump-over-world-cup-threats"
+        "title": "Israeli media says 33 wounded in Iranian strike in Galilee",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-says-33-wounded-iranian-strike-galilee"
       },
       {
-        "title": "Who threatens the Arab world: Iran or the US and Israel?",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/who-threatens-arab-world-iran-or-us-and-israel"
+        "title": "Iran-backed group says it shot down US refuelling aircraft in western Iraq",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-backed-group-says-it-shot-down-us-refuelling-aircraft-western-iraq"
       },
       {
-        "title": "Qatar condemns Israeli attacks on southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-israeli-attacks-southern-lebanon"
+        "title": "Macron says French officer killed, several wounded in Iraq's Erbil",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-says-french-officer-killed-several-wounded-iraqs-erbil"
       },
       {
-        "title": "Israeli strike in Sidon kills nine, including five children",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-sidon-kills-nine-including-five-children"
+        "title": "UN experts say US-Israel attack on Iran, Lebanon violates international law",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-experts-say-us-israel-attack-iran-lebanon-violates-international-law"
       },
       {
-        "title": "Exclusive: Sole Muslim woman on Trump religious committee resigning in protest",
-        "link": "https://www.middleeasteye.net/news/exclusive-sole-muslim-woman-trump-religious-committee-resigning-protest"
+        "title": "IRGC says 44th missile wave launched against Israel, US bases",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-44th-missile-wave-launched-against-israel-us-bases"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Barry Keoghan clears the confusion about name pronunciation",
+        "link": "https://www.geo.tv/latest/655425-barry-keoghan-clears-the-confusion-about-name-pronunciation"
+      },
+      {
+        "title": "Zendaya confirms secret marriage to Tom Holland",
+        "link": "https://www.geo.tv/latest/655422-zendaya-confirms-secret-marriage-to-tom-holland"
+      },
       {
         "title": "Lili Reinhart remembers healthscare: ‘I cried through my pain'",
         "link": "https://www.geo.tv/latest/655420-lili-reinhart-remembers-healthscare-i-cried-through-my-pain"
@@ -147,36 +161,28 @@
       {
         "title": "Google adds Gemini AI to Maps, letting users ask questions in real time",
         "link": "https://www.geo.tv/latest/655417-google-adds-gemini-ai-to-maps-letting-users-ask-questions-in-real-time"
-      },
-      {
-        "title": "Ed Sheeran, wife Cherry Seaborn has good news for fans",
-        "link": "https://www.geo.tv/latest/655412-ed-sheeran-wife-cherry-seaborn-has-good-news-for-fans"
-      },
-      {
-        "title": "NASA targets April 1 launch for historic Artemis II moon mission",
-        "link": "https://www.geo.tv/latest/655416-nasa-targets-april-1-launch-for-historic-artemis-ii-moon-mission"
       }
     ],
     "NDTV": [
       {
-        "title": "Supreme Court Grants Bail To Separatist Shabir Shah In Terror Funding Case",
-        "link": "https://www.ndtv.com/india-news/supreme-court-grants-bail-to-separatist-shabir-shah-in-terror-funding-case-11208221#publisher=newsstand"
+        "title": "Footfall Drop, Raw Materials Delayed: Ajmal Perfumes Chief On War Impact",
+        "link": "https://www.ndtv.com/world-news/dubai-news-middle-east-iran-israel-war-footfall-drop-raw-materials-delayed-ajmal-perfumes-chief-11208437#publisher=newsstand"
       },
       {
-        "title": "US Refueling Aircraft Crashes In Iraq Amid Iran War",
-        "link": "https://www.ndtv.com/world-news/us-refueling-aircraft-kc-135-crashes-in-iraq-amid-iran-war-11208162#publisher=newsstand"
+        "title": "Netanyahu Says Top Iranian Nuclear Scientist Killed In Israeli Strikes",
+        "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-top-iranian-nuclear-scientists-killed-in-israeli-strikes-11207987#publisher=newsstand"
       },
       {
-        "title": "Iran Threatens To \"Set Region's Oil, Gas On Fire\", Warns US Will Regret",
-        "link": "https://www.ndtv.com/world-news/iran-war-iran-threatens-to-set-regions-oil-gas-on-fire-warns-us-will-regret-11208146#publisher=newsstand"
+        "title": "After India, US Temporarily Allows Sale Of Russian Oil At Sea",
+        "link": "https://www.ndtv.com/world-news/iran-israel-us-war-after-india-us-temporarily-allows-sale-of-russian-oil-at-sea-middle-east-conflict-11208403#publisher=newsstand"
       },
       {
-        "title": "1 Killed, 2 Injured After Shooting At US' Old Dominion University",
-        "link": "https://www.ndtv.com/world-news/1-killed-2-injured-after-shooting-at-us-old-dominion-university-11208114#publisher=newsstand"
+        "title": "Hundreds Homeless As Massive Fire Burns Down 80 Delhi Shanties",
+        "link": "https://www.ndtv.com/delhi-news/hundreds-homeless-as-massive-fire-burns-down-80-delhi-shanties-11208387#publisher=newsstand"
       },
       {
-        "title": "NASA Says \"On Track\" For Artemis 2 Launch As Soon As April 1",
-        "link": "https://www.ndtv.com/science/nasa-says-on-track-for-artemis-2-launch-as-soon-as-april-1-11207842#publisher=newsstand"
+        "title": "Iran-Israel War LIVE Updates: US Refuelling Aircraft Crashes In Iraq, 4th Such Plane Lost",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-12 23:56 UTC"
+  "last_updated": "2026-03-13 02:33 UTC"
 }
