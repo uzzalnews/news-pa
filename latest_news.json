@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates: Markets Open Lower Again, Rupee Hits Fresh Low Against Dollar",
-      "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-share-market-sensex-nifty-brace-for-another-negative-start-amid-oil-shock-11208570#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "UK economy failed to grow in January, figures show",
+        "link": "https://www.bbc.com/news/articles/c75e06e0kd7o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Oil price profiteering will not be tolerated, says Miliband",
         "link": "https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&at_campaign=rss"
@@ -17,12 +15,8 @@
         "link": "https://www.bbc.com/news/articles/c1je21lgn5zo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Suspect dead after ramming vehicle into synagogue in Michigan",
+        "title": "Suspect dead after ramming vehicle into Michigan synagogue",
         "link": "https://www.bbc.com/news/articles/cx28zd30078o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Boy charged over stabbing of teenage girl at Norfolk school",
-        "link": "https://www.bbc.com/news/articles/cx247vd1v48o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "How long will the cold weather last?",
@@ -30,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Force majeure: What is it and why have some Gulf countries invoked it?",
+        "link": "https://www.aljazeera.com/news/2026/3/13/force-majeure-what-is-it-and-why-have-some-gulf-countries-invoked-it?traffic_source=rss"
+      },
       {
         "title": "Iran war: What is happening on day 14 of US-Israel attacks?",
         "link": "https://www.aljazeera.com/news/2026/3/13/iran-war-what-is-happening-on-day-14-of-us-israel-attacks?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "French soldier killed, others wounded in attack in Iraq, Macron says",
         "link": "https://www.aljazeera.com/news/2026/3/13/french-soldier-killed-others-wounded-in-attack-in-iraq-macron-says?traffic_source=rss"
-      },
-      {
-        "title": "The Palestinians forced to demolish their own homes by Israel",
-        "link": "https://www.aljazeera.com/features/2026/3/13/the-palestinians-forced-to-demolish-their-own-homes-by-israel?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1981629/market-volatility-continues-as-kse-100-slips-in-early-trade"
       },
       {
+        "title": "Multiple roads closed in Karachi for Quds Day rallies",
+        "link": "https://www.dawn.com/news/1981637/multiple-roads-closed-in-karachi-for-quds-day-rallies"
+      },
+      {
+        "title": "Assailant dead after ramming vehicle into Michigan synagogue",
+        "link": "https://www.dawn.com/news/1981645/assailant-dead-after-ramming-vehicle-into-michigan-synagogue"
+      },
+      {
         "title": "Govt mulling not hiking prices of petroleum products further despite increase in global market",
         "link": "https://www.dawn.com/news/1981355/govt-mulling-not-hiking-prices-of-petroleum-products-further-despite-increase-in-global-market"
-      },
-      {
-        "title": "US refuelling aircraft crashes in western Iraq: US military",
-        "link": "https://www.dawn.com/news/1981530/us-refuelling-aircraft-crashes-in-western-iraq-us-military"
-      },
-      {
-        "title": "5G pilot launch in major cities next week",
-        "link": "https://www.dawn.com/news/1981518/5g-pilot-launch-in-major-cities-next-week"
       }
     ],
     "APNews": [],
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Report: Israeli attack hits ambulance in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-attack-hits-ambulance-southern-lebanon"
+        "title": "IRGC threatens stronger response to 'instillation of fear and street riots'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-threatens-stronger-response-instillation-fear-and-street-riots"
       },
       {
-        "title": "Video: US and Israel increasingly using AI in their war on Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-us-and-israel-increasingly-using-ai-their-war-iran"
+        "title": "Millions hit streets in Iran as Quds Day rallies begin across country",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/millions-hit-streets-iran-quds-day-rallies-begin-across-country"
       },
       {
-        "title": "Number of injured in rocket attack in Galilee rises to 80",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/number-injured-rocket-attack-galilee-rises-80"
+        "title": "Video: Drone strike reported at Dubai International Financial Centre",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/vide-drone-strike-reported-dubai-international-financial-centre"
       },
       {
-        "title": "Trump says Iran leadership wiped out, navy and air force destroyed",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-leadership-wiped-out-navy-and-air-force-destroyed"
+        "title": "Israel strikes Litani River bridge in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-litani-river-bridge-lebanon"
       },
       {
-        "title": "Israeli attack in Lebanon’s Bekaa Valley kills two, injures three",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-lebanons-bekaa-valley-kills-two-injures-three"
+        "title": "Drone attack kills two in Oman",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attack-kills-two-oman"
       }
     ],
     "GeoTV": [
       {
-        "title": "Bombed Iranian girls school had vivid website and years-long online presence",
-        "link": "https://www.geo.tv/latest/655436-bombed-iranian-girls-school-had-vivid-website-and-years-long-online-presence"
+        "title": "China passes new ethnic minority law, prioritises use of Mandarin language",
+        "link": "https://www.geo.tv/latest/655451-china-passes-new-ethnic-minority-law-prioritises-use-of-mandarin-language"
       },
       {
-        "title": "Pakistan plays 'bridge-builder' role among regional capitals amid Middle East conflict",
-        "link": "https://www.geo.tv/latest/655439-pakistan-plays-bridge-builder-role-among-regional-capitals-amid-middle-east-conflict"
+        "title": "Meghan Markle earns title of 'Princess' as she performs meaningful duty",
+        "link": "https://www.geo.tv/latest/655449-meghan-markle-earns-title-of-princess-as-she-performs-meaningful-duty"
       },
       {
-        "title": "Ernie Anastos, veteran NYC anchor, dies at 82",
-        "link": "https://www.geo.tv/latest/655441-ernie-anastos-veteran-nyc-anchor-dies-at-82"
+        "title": "Barry Keoghan, Rebecca Ferguson talk about joining ‘Peaky Blinders' franchise",
+        "link": "https://www.geo.tv/latest/655448-barry-keoghan-rebecca-ferguson-talk-about-joining-peaky-blinders-franchise"
       },
       {
-        "title": "Bad Bunny wipes Instagram again after surprising birthday post",
-        "link": "https://www.geo.tv/latest/655438-bad-bunny-wipes-instagram-again-after-surprising-birthday-post"
+        "title": "Dakota Johnson not rushing into serious romance after Chris Martin split",
+        "link": "https://www.geo.tv/latest/655443-dakota-johnson-not-rushing-into-serious-romance-after-chris-martin-split"
       },
       {
-        "title": "One-fifth of Australian teens still use TikTok, Snapchat after social media ban",
-        "link": "https://www.geo.tv/latest/655437-one-fifth-of-australian-teens-still-use-tiktok-snapchat-after-social-media-ban"
+        "title": "Rising Middle East tensions pose inflation risk for Pakistan, warns study",
+        "link": "https://www.geo.tv/latest/655442-rising-middle-east-tensions-could-drive-oil-price-spike-warns-study"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Undefeated\": White House Shares Wii Sports-Themed Iran Strike Video",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-middle-east-undefeated-white-house-shares-wii-sports-themed-strike-video-11208907#publisher=newsstand"
+        "title": "In Iran, Residents Deal With Shut Shops, Joblessness And Rationing",
+        "link": "https://www.ndtv.com/world-news/iran-us-war-in-iran-residents-deal-with-shut-shops-joblessness-and-rationing-11209343#publisher=newsstand"
       },
       {
-        "title": "Gold, Silver Prices Rise Amid War Uncertainity: Check Rates In Your City",
-        "link": "https://www.ndtv.com/india-news/gold-silver-prices-rise-amid-war-uncertainity-check-rates-in-your-city-on-march-13-11208979#publisher=newsstand"
+        "title": "Opinion: Opinion | Three Targets For US Boots On The Ground In Iran",
+        "link": "https://www.ndtv.com/opinion/three-targets-for-us-boots-on-the-ground-in-iran-james-stavridis-11209341#publisher=newsstand"
       },
       {
-        "title": "Adobe's Shantanu Narayen To Step Down As CEO After 18 Years",
-        "link": "https://www.ndtv.com/india-news/adobes-shantanu-narayen-to-step-down-as-ceo-after-18-years-11208623#publisher=newsstand"
+        "title": "Opinion: Opinion | We're All Trapped In Trump's 1980s Worldview",
+        "link": "https://www.ndtv.com/opinion/were-all-trapped-in-trumps-1980s-worldview-marc-champion-11209309#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates: Markets Open Lower Again, Rupee Hits Fresh Low Against Dollar",
-        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-share-market-sensex-nifty-brace-for-another-negative-start-amid-oil-shock-11208570#publisher=newsstand"
+        "title": "Speedy Alerts, Air Defences: How UAE Keeps Citizens Safe Amid Iran Attacks",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-live-speedy-alerts-air-defences-how-uae-keeps-citizens-safe-amid-iran-attacks-11209147#publisher=newsstand"
       },
       {
-        "title": "Dubai Hit Again: Video Shows Smoke Above Buildings, Burj Khalifa In Background",
-        "link": "https://www.ndtv.com/world-news/iran-us-israel-war-video-fresh-explosions-in-central-dubai-black-smoke-seen-above-buildings-middle-east-conflict-11208742#publisher=newsstand"
+        "title": "How Iran-Israel War Is Silencing Morbi's Chimneys",
+        "link": "https://www.ndtv.com/india-news/how-iran-israel-war-is-silencing-morbis-chimneys-11209258#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-13 06:29 UTC"
+  "last_updated": "2026-03-13 07:28 UTC"
 }
