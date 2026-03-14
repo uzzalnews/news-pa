@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Israel-Iran War LIVE: Deaths Of IRIS Dena Crew Members \"Won't Go Unanswered\", Warns Iran 's Army Chief",
-      "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Sandstorm hits Gaza, impacting displaced Palestinians",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/sandstorm-hits-gaza-impacting-displaced-palestinians?traffic_source=rss"
+      },
+      {
+        "title": "Family pulled from the rubble after US-Israeli strikes on Tehran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/family-pulled-from-the-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss"
+      },
+      {
         "title": "The battle on the propaganda front intensifies",
         "link": "https://www.aljazeera.com/video/the-listening-post/2026/3/14/the-battle-on-the-propaganda-front-intensifies?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
         "link": "https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss"
-      },
-      {
-        "title": "Four killed in southern Lebanon apartment after reported Israeli attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss"
-      },
-      {
-        "title": "Manchester United vs Aston Villa: Premier League – teams, start, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/3/14/manchester-united-vs-aston-villa-premier-league-teams-start-lineups?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1982016/employees-of-soes-other-govt-supervised-bodies-to-face-5-30pc-salary-cut-as-part-of-austerity-measures-pmo"
       },
       {
+        "title": "Info ministry rubbishes Afghan claims of military post being captured",
+        "link": "https://www.dawn.com/news/1982034/info-ministry-rubbishes-afghan-claims-of-military-post-being-captured"
+      },
+      {
         "title": "Bangladesh’s Mehidy ignites ‘sportsman spirit’ row after controversial run-out during second ODI",
         "link": "https://www.dawn.com/news/1981999/bangladeshs-mehidy-ignites-sportsman-spirit-row-after-controversial-run-out-during-second-odi"
       },
@@ -88,12 +86,8 @@
         "link": "https://www.dawn.com/news/1981957/rudimentary-drones-launched-by-afghan-taliban-injure-4-failed-to-reach-targets-ispr"
       },
       {
-        "title": "China urges Pakistan, Afghanistan to resolve tensions via talks, not force",
-        "link": "https://www.dawn.com/news/1981979/china-urges-pakistan-afghanistan-to-resolve-tensions-via-talks-not-force"
-      },
-      {
-        "title": "Meta planning sweeping layoffs as AI costs mount: report",
-        "link": "https://www.dawn.com/news/1982013/meta-planning-sweeping-layoffs-as-ai-costs-mount-report"
+        "title": "India frees Ladakh activist Sonam Wangchuk after 6 months in jail",
+        "link": "https://www.dawn.com/news/1982035/india-frees-ladakh-activist-sonam-wangchuk-after-6-months-in-jail"
       }
     ],
     "APNews": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "US Centcom says 90 military targets destroyed on Kharg Island",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-claim-90-military-targets-destroyed-kharg-island"
+      },
+      {
         "title": "Tehran says US-linked sites in UAE may be targeted in response to Kharg Island attack",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-us-linked-sites-uae-may-be-targeted-response-kharg-island"
       },
@@ -135,10 +133,6 @@
       {
         "title": "Iran says museums and historic sites damaged in war",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-museums-and-historic-sites-damaged-war"
-      },
-      {
-        "title": "I managed to escape Gaza, but now carry the shame of being safe",
-        "link": "https://www.middleeasteye.net/opinion/i-managed-escape-gaza-now-carry-shame-being-safe"
       }
     ],
     "GeoTV": [
@@ -165,24 +159,24 @@
     ],
     "NDTV": [
       {
-        "title": "\"Where's Bibi?\" '6 Fingers' Video Sparks Concerns About Netanyahu",
-        "link": "https://www.ndtv.com/world-news/middle-east-war-wheres-bibi-6-fingers-video-sparks-concerns-about-netanyahu-11214634#publisher=newsstand"
+        "title": "'It Was Suicide': Bengaluru Man Told Lover's Parents. Then, A Murder Twist",
+        "link": "https://www.ndtv.com/bangalore-news/it-was-suicide-bengaluru-man-told-lover-parents-then-a-murder-twist-11215057#publisher=newsstand"
       },
       {
-        "title": "US-Israel-Iran War LIVE: Deaths Of IRIS Dena Crew Members \"Won't Go Unanswered\", Warns Iran 's Army Chief",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
+        "title": "Tamil Lyricist Vairamuthu Named 2025 Jnanpith Award Winner",
+        "link": "https://www.ndtv.com/india-news/tamil-lyricist-vairamuthu-named-2025-jnanpith-award-winner-11215028#publisher=newsstand"
       },
       {
-        "title": "Dinosaur Fossils In Brazil Reveal New Giant Species",
-        "link": "https://www.ndtv.com/world-news/dinosaur-fossils-in-brazil-reveal-new-giant-species-11211680#publisher=newsstand"
+        "title": "Opinion: Opinion: When It Counted, India Stood With The UAE",
+        "link": "https://www.ndtv.com/opinion/when-it-counted-india-stood-with-the-uae-11214911#publisher=newsstand"
       },
       {
-        "title": "56 Museums, Historic Sites Damaged, Says Iran As War Enters Day 15",
-        "link": "https://www.ndtv.com/world-news/56-museums-historic-sites-damaged-says-iran-as-war-enters-day-15-11214508#publisher=newsstand"
+        "title": "2 India-Bound Ships Cross Hormuz After 4 Rounds Of Phone Calls, PM's Outreach",
+        "link": "https://www.ndtv.com/india-news/iran-israel-us-war-2-india-flagged-lpg-tankers-shivalik-nanda-devi-crosses-strait-of-hormuz-after-new-delhi-tehran-talks-11214015#publisher=newsstand"
       },
       {
-        "title": "Drunk Man Thrashed For Urinating Near Women In Chennai. Friend Dies Saving Him",
-        "link": "https://www.ndtv.com/india-news/drunk-man-thrashed-for-urinating-near-women-in-chennai-friend-dies-saving-him-11214618#publisher=newsstand"
+        "title": "'Hearts Sink When We See Drones, Jet': Indian Sailors Stranded Off Iran",
+        "link": "https://www.ndtv.com/india-news/israel-iran-war-hearts-sink-when-we-see-drones-jet-indian-sailors-stranded-off-iran-11214851#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-14 11:33 UTC"
+  "last_updated": "2026-03-14 11:53 UTC"
 }
