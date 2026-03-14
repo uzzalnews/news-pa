@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Israel-Iran War LIVE: Iran's Foreign Minister Says 'No Problem' With Supreme Leader Mojtaba After Injury Reports",
+      "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "US embassy in Venezuela reopens as Trump pushes for access to resources",
+        "link": "https://www.aljazeera.com/news/2026/3/14/us-embassy-in-venezuela-reopens-as-trump-pushes-for-access-to-resources?traffic_source=rss"
+      },
+      {
         "title": "Iran warns UAE ports and ‘American hideouts’ are targets",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-warns-uae-ports-and-american-hideouts-are-targets?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade",
         "link": "https://www.aljazeera.com/news/2026/3/14/trump-says-many-countries-will-send-warships-to-hormuz-amid-iran-blockade?traffic_source=rss"
-      },
-      {
-        "title": "UN chief Guterres says ‘no military solution, only diplomacy’ for Lebanon",
-        "link": "https://www.aljazeera.com/news/2026/3/14/un-chief-guterres-says-no-military-solution-only-diplomacy-for-lebanon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran issues evacuation warning for major UAE ports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-issues-evacuation-warning-major-uae-ports"
+      },
+      {
+        "title": "Iran envoy mocks Ukraine drone offer in Middle East war as a 'joke'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-envoy-mocks-ukraine-drone-offer-middle-east-war-joke"
+      },
+      {
         "title": "US embassy urges Americans to leave Iraq immediately",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-urges-americans-leave-iraq-immediately"
       },
@@ -125,17 +139,21 @@
       {
         "title": "Turkey says Iran denies missile launches despite radar data",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-iran-denies-missile-launches-despite-radar-data"
-      },
-      {
-        "title": "Iran hits UAE oil hub, vows retaliation for US strike on Kharg Island",
-        "link": "https://www.middleeasteye.net/news/iran-hits-uae-oil-hub-vows-retaliation-us-attack-kharg-island"
-      },
-      {
-        "title": "Turkey warns that Israel may carry out ‘new genocide’ in Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-warns-israel-may-carry-out-new-genocide-lebanon"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Harry Styles' surprise 'SNL' guest sparks buzz as One Direction reunites",
+        "link": "https://www.geo.tv/latest/655709-harry-styles-surprise-snl-guest-sparks-buzz-as-one-direction-reunites"
+      },
+      {
+        "title": "King Charles oversees succession decisions privately with William at forefront",
+        "link": "https://www.geo.tv/latest/655706-king-charles-oversees-succession-decisions-privately-with-william-at-forefront"
+      },
+      {
+        "title": "Iran declares Ukraine ‘legitimate target' over drone support",
+        "link": "https://www.geo.tv/latest/655711-iran-declares-ukraine-legitimate-target-over-drone-support"
+      },
       {
         "title": "Prince William cheers on Wales after meeting rugby chiefs ahead of match",
         "link": "https://www.geo.tv/latest/655701-prince-william-cheers-on-wales-after-meeting-rugby-chiefs-ahead-of-match"
@@ -143,40 +161,28 @@
       {
         "title": "Labrinth fuels speculation with new track after ‘Double f**k Euphoria' rant",
         "link": "https://www.geo.tv/latest/655703-labrinth-fuels-speculation-with-new-track-after-double-fk-euphoria-rant"
-      },
-      {
-        "title": "Teyana Taylor gives glimpse into Oscars preparation after first nomination",
-        "link": "https://www.geo.tv/latest/655700-teyana-taylor-gives-glimpse-into-oscars-preparation-after-first-nomination"
-      },
-      {
-        "title": "Jennifer Lopez nearly escapes mishap during Las Vegas residency",
-        "link": "https://www.geo.tv/latest/655693-jennifer-lopez-nearly-escapes-mishap-during-las-vegas-residency"
-      },
-      {
-        "title": "‘Netanyahu is not dead': Officials push back as viral ‘six fingers' video sparks hoax",
-        "link": "https://www.geo.tv/latest/655699-netanyahu-is-not-dead-officials-push-back-as-viral-six-fingers-video-sparks-hoax"
       }
     ],
     "NDTV": [
       {
-        "title": "Man Kills Daughter, Her Lover In Gujarat. He Didn't Approve The Relationship",
-        "link": "https://www.ndtv.com/india-news/man-kills-daughter-her-lover-in-gujarat-he-didnt-approve-the-relationship-11216128#publisher=newsstand"
+        "title": "\"Thanked Great Friend PM Modi For Standing With Israel\": Netanyahu To NDTV",
+        "link": "https://www.ndtv.com/world-news/spoke-to-great-friend-pm-modi-thanked-him-for-standing-with-israel-netanyahu-to-ndtv-11160047#publisher=newsstand"
       },
       {
-        "title": "100 Stray Dogs \"Poisoned To Death\" In Telangana: Police",
-        "link": "https://www.ndtv.com/india-news/100-stray-dogs-poisoned-to-death-in-telangana-police-11216067#publisher=newsstand"
+        "title": "'We're Hitting Back Very Hard': Top Israel General To NDTV On Hezbollah",
+        "link": "https://www.ndtv.com/world-news/iran-us-war-we-are-hitting-back-very-hard-idf-spokesman-brigadier-general-effie-defrin-to-ndtv-on-hezbollah-11216275#publisher=newsstand"
       },
       {
         "title": "'Send Warships': Trump's Message To World To End Iran's Hormuz Chokehold",
         "link": "https://www.ndtv.com/world-news/israel-iran-war-strait-of-hormuz-closure-send-warships-trumps-message-to-world-to-end-irans-hormuz-chokehold-11215786#publisher=newsstand"
       },
       {
-        "title": "\"Act Of Aggression\": India Slams Pak's Deadly Air Strikes In Afghanistan",
-        "link": "https://www.ndtv.com/india-news/act-of-aggression-india-slams-paks-deadly-air-strikes-in-afghanistan-11215906#publisher=newsstand"
+        "title": "US-Israel-Iran War LIVE: Iran's Foreign Minister Says 'No Problem' With Supreme Leader Mojtaba After Injury Reports",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
       },
       {
-        "title": "'Legitimate Targets': Iran Asks People To Leave Port Areas In UAE",
-        "link": "https://www.ndtv.com/world-news/legitimate-targets-iran-asks-people-to-leave-port-areas-in-uae-11215761#publisher=newsstand"
+        "title": "Congress Releases Second List Of 23 Candidates For Assam Polls",
+        "link": "https://www.ndtv.com/india-news/congress-releases-second-list-of-23-candidates-for-assam-polls-11216285#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-14 18:51 UTC"
+  "last_updated": "2026-03-14 19:19 UTC"
 }
