@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Real Madrid vs Elche – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/14/live-real-madrid-vs-elche-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,34 +21,34 @@
         "link": "https://www.bbc.com/news/articles/cdxz0enqykgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Ireland beat Scotland to keep title hopes alive",
-        "link": "https://www.bbc.com/sport/rugby-union/articles/cwyk7gz64d1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Claudia Winkleman's new chat show splits critics",
         "link": "https://www.bbc.com/news/articles/cly096jzkdno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
+        "link": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Iran allows limited Indian shipping through Strait of Hormuz",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-allows-limited-indian-shipping-through-strait-of-hormuz?traffic_source=rss"
+        "title": "UN chief Guterres says ‘no military solution, only diplomacy’ for Lebanon",
+        "link": "https://www.aljazeera.com/news/2026/3/14/un-chief-guterres-says-no-military-solution-only-diplomacy-for-lebanon?traffic_source=rss"
       },
       {
-        "title": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs",
-        "link": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss"
+        "title": "Protests erupt in Cuba as US restrictions spark food, energy shortages",
+        "link": "https://www.aljazeera.com/news/2026/3/14/protests-erupt-in-cuba-as-us-restrictions-spark-food-energy-shortages?traffic_source=rss"
       },
       {
-        "title": "How Carney’s ‘build fast’ push divides Canada’s Indigenous peoples",
-        "link": "https://www.aljazeera.com/economy/2026/3/14/carneys-build-big-and-build-fast-push-is-dividing-canadas-indigenous?traffic_source=rss"
+        "title": "LIVE: Real Madrid vs Elche – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/14/live-real-madrid-vs-elche-la-liga?traffic_source=rss"
       },
       {
-        "title": "Iran says Strait of Hormuz will not be reopened to US ships",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss"
+        "title": "‘Israel targeting Iran’s security forces may aim to encourage uprising’",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-targeting-irans-security-forces-may-aim-to-encourage?traffic_source=rss"
       },
       {
-        "title": "Vatican envoy visits Lebanese church after priest killed in shelling",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/vatican-envoy-visits-lebanese-church-after-priest-killed-in-shelling?traffic_source=rss"
+        "title": "The Iranian moment: A leap into the unknown",
+        "link": "https://www.aljazeera.com/opinions/2026/3/14/the-iranian-moment-a-leap-into-the-unknown?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/1982034/info-ministry-rubbishes-afghan-claims-of-military-post-being-captured"
       },
       {
+        "title": "Trump claims ‘many countries’ will send warships to keep Strait of Hormuz open",
+        "link": "https://www.dawn.com/news/1982096/trump-claims-many-countries-will-send-warships-to-keep-strait-of-hormuz-open"
+      },
+      {
         "title": "ICC reprimands Salman Ali Agha for breaching code of conduct in Bangladesh ODI",
         "link": "https://www.dawn.com/news/1981999/icc-reprimands-salman-ali-agha-for-breaching-code-of-conduct-in-bangladesh-odi"
       },
@@ -84,10 +94,6 @@
       {
         "title": "Employees of SOEs, other govt-supervised bodies to face 5-30pc salary cut as part of austerity measures: PMO",
         "link": "https://www.dawn.com/news/1982016/employees-of-soes-other-govt-supervised-bodies-to-face-5-30pc-salary-cut-as-part-of-austerity-measures-pmo"
-      },
-      {
-        "title": "Musk says Tesla’s mega AI chip fab project to launch in 7 days",
-        "link": "https://www.dawn.com/news/1982070/musk-says-teslas-mega-ai-chip-fab-project-to-launch-in-7-days"
       }
     ],
     "APNews": [],
@@ -115,49 +121,61 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Turkey says Iran denies missile launches despite radar data",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-iran-denies-missile-launches-despite-radar-data"
+      },
+      {
+        "title": "Iran hits UAE oil hub, vows retaliation for US strike on Kharg Island",
+        "link": "https://www.middleeasteye.net/news/iran-hits-uae-oil-hub-vows-retaliation-us-attack-kharg-island"
+      },
+      {
+        "title": "Turkey warns that Israel may carry out ‘new genocide’ in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-warns-israel-may-carry-out-new-genocide-lebanon"
+      },
+      {
         "title": "US-Israeli strike on Isfahan factory kills 15",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-strike-isfahan-factory-kills-15"
       },
       {
         "title": "Iran threatens to attack US companies in Middle East if America strikes energy facilities",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-attack-us-companies-middle-east-if-america-strikes-energy"
-      },
-      {
-        "title": "Amid holy war on Iran, will the West examine the roots of Christian and Jewish rage?",
-        "link": "https://www.middleeasteye.net/opinion/amid-holy-war-iran-will-west-examine-roots-christian-jewish-rage"
-      },
-      {
-        "title": "Trump urges other nations to send ships to secure Strait of Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-urges-other-nations-send-ships-secure-strait-hormuz"
-      },
-      {
-        "title": "Israel and Lebanon expected to hold direct talks, says Haaretz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-and-lebanon-expected-hold-direct-talks"
       }
     ],
     "GeoTV": [
       {
+        "title": "Kevin Zegers 'fought hard' for role in Taylor Sheridan's 'The Madison'",
+        "link": "https://www.geo.tv/latest/655695-kevin-zegers-fought-hard-for-role-in-taylor-sheridans-the-madison"
+      },
+      {
+        "title": "Ramadan RAKA Volleyball Festival draws over 40 teams in Karachi",
+        "link": "https://www.geo.tv/latest/655691-ramadan-raka-volleyball-festival-draws-over-40-teams-in-karachi"
+      },
+      {
+        "title": "Nicole Kidman reveals her Met Gala plus one",
+        "link": "https://www.geo.tv/latest/655692-nicole-kidman-reveals-her-met-gala-plus-one"
+      },
+      {
+        "title": "Harry Styles surprises fans with wholesome gesture ahead of 'SNL'",
+        "link": "https://www.geo.tv/latest/655690-harry-styles-surprises-fans-with-wholesome-gesture-ahead-of-snl"
+      },
+      {
         "title": "Pi day 2026: How infinite number Pi powers space travel, medical breakthroughs",
         "link": "https://www.geo.tv/latest/655689-pi-day-2026-how-infinite-number-pi-powers-space-travel-medical-breakthroughs"
-      },
-      {
-        "title": "Lee Andrews hits back at claims he begged for cash before marrying Katie Price",
-        "link": "https://www.geo.tv/latest/655688-lee-andrews-hits-back-at-claims-he-begged-for-cash-before-marrying-katie-price"
-      },
-      {
-        "title": "Sebastian Bach breaks silence on Christina Applegate, Brad Pitt's story",
-        "link": "https://www.geo.tv/latest/655684-sebastian-bach-breaks-silence-on-christina-applegate-brad-pitts-story"
-      },
-      {
-        "title": "Machine Gun Kelly wins hearts with inspiring fan interaction during show",
-        "link": "https://www.geo.tv/latest/655686-machine-gun-kelly-wins-hearts-with-inspiring-fan-interaction-during-show"
-      },
-      {
-        "title": "‘Unprecedented' March heat wave shatters records across western US",
-        "link": "https://www.geo.tv/latest/655687-unprecedented-march-heat-wave-shatters-records-across-western-us"
       }
     ],
     "NDTV": [
+      {
+        "title": "Man Kills Daughter, Her Lover In Gujarat. He Didn't Approve The Relationship",
+        "link": "https://www.ndtv.com/india-news/man-kills-daughter-her-lover-in-gujarat-he-didnt-approve-the-relationship-11216128#publisher=newsstand"
+      },
+      {
+        "title": "100 Stray Dogs \"Poisoned To Death\" In Telangana: Police",
+        "link": "https://www.ndtv.com/india-news/100-stray-dogs-poisoned-to-death-in-telangana-police-11216067#publisher=newsstand"
+      },
+      {
+        "title": "'Send Warships': Trump's Message To World To End Iran's Hormuz Chokehold",
+        "link": "https://www.ndtv.com/world-news/israel-iran-war-strait-of-hormuz-closure-send-warships-trumps-message-to-world-to-end-irans-hormuz-chokehold-11215786#publisher=newsstand"
+      },
       {
         "title": "\"Act Of Aggression\": India Slams Pak's Deadly Air Strikes In Afghanistan",
         "link": "https://www.ndtv.com/india-news/act-of-aggression-india-slams-paks-deadly-air-strikes-in-afghanistan-11215906#publisher=newsstand"
@@ -165,18 +183,6 @@
       {
         "title": "'Legitimate Targets': Iran Asks People To Leave Port Areas In UAE",
         "link": "https://www.ndtv.com/world-news/legitimate-targets-iran-asks-people-to-leave-port-areas-in-uae-11215761#publisher=newsstand"
-      },
-      {
-        "title": "'Send Warships': Trump's Message To World To End Iran's Hormuz Chokehold",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-strait-of-hormuz-closure-send-warships-trumps-message-to-world-to-end-irans-hormuz-chokehold-11215786#publisher=newsstand"
-      },
-      {
-        "title": "PM Modi Inaugurates APSEZ's Haldia Bulk Terminal",
-        "link": "https://www.ndtv.com/india-news/prime-minister-inaugurates-apsezs-haldia-terminal-indias-first-fully-automated-dry-bulk-facility-11215727#publisher=newsstand"
-      },
-      {
-        "title": "Iran May Allow Oil Tankers Through Strait Of Hormuz, But There's A China Catch",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-iran-may-allow-oil-tankers-through-strait-of-hormuz-but-theres-a-china-catch-11215692#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-14 17:02 UTC"
+  "last_updated": "2026-03-14 17:38 UTC"
 }
