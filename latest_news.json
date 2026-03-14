@@ -15,8 +15,8 @@
         "link": "https://www.bbc.com/news/articles/cy57zv3l0nvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "F1 races in Middle East to be cancelled because of war in Iran",
-        "link": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss"
+        "title": "'We're not profiteering on fuel. But my staff still face abuse'",
+        "link": "https://www.bbc.com/news/articles/c626mdvn6d5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Doomed hereditary peers spy chance to stay in the Lords",
@@ -24,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US attacks military sites on Iran’s Kharg Island, home to vast oil facility",
+        "link": "https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss"
+      },
       {
         "title": "Iran war: What is happening on day 15 of US-Israel attacks?",
         "link": "https://www.aljazeera.com/news/2026/3/14/iran-war-what-is-happening-on-day-15-of-us-israel-attacks?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Trump posts bombing video after saying US hit Kharg Island",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-posts-bombing-video-after-saying-us-hit-kharg-island?traffic_source=rss"
-      },
-      {
-        "title": "Trump claims US ‘way ahead of schedule’ in Iran war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-claims-us-way-ahead-of-schedule-in-iran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +74,10 @@
         "link": "https://www.dawn.com/news/1981957/rudimentary-drones-launched-by-afghan-taliban-injure-4-fail-to-reach-targets-ispr"
       },
       {
+        "title": "China urges Pakistan, Afghanistan to resolve tensions via talks, not force",
+        "link": "https://www.dawn.com/news/1981979/china-urges-pakistan-afghanistan-to-resolve-tensions-via-talks-not-force"
+      },
+      {
         "title": "PTI signals drive for Imran’s release ‘after Eid’",
         "link": "https://www.dawn.com/news/1981886/pti-signals-drive-for-imrans-release-after-eid"
       },
@@ -84,10 +88,6 @@
       {
         "title": "PMD forecasts another rain spell in northern areas",
         "link": "https://www.dawn.com/news/1981906/pmd-forecasts-another-rain-spell-in-northern-areas"
-      },
-      {
-        "title": "Sri Lanka repatriates remains of 84 Iranian sailors",
-        "link": "https://www.dawn.com/news/1981870/sri-lanka-repatriates-remains-of-84-iranian-sailors"
       }
     ],
     "APNews": [],
@@ -115,27 +115,35 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran war: Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-war-morning-update-0"
+      },
+      {
+        "title": "IRGC says strikes destroyed Israeli northern command infrastructure",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-strikes-destroyed-israeli-northern-command-infrastructure"
+      },
+      {
+        "title": "Iran army chief says Dena sailors’ killings 'will not go unanswered'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-army-chief-says-dena-sailors-killings-will-not-go-unanswered"
+      },
+      {
         "title": "Hamas urges Iran not to target neighbouring countries",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-urges-iran-not-target-neighbouring-countries"
       },
       {
         "title": "Missile hits helipad at US embassy compound in Baghdad, officials say",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-hits-helipad-us-embassy-compound-baghdad-officials-say"
-      },
-      {
-        "title": "Israel issues warning to civilians near Iranian city of Tabriz before strike",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-issues-warning-civilians-near-iranian-city-tabriz-strike"
-      },
-      {
-        "title": "UAE arrests 10 for posting conflict videos on social media",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-arrests-10-posting-conflict-videos-social-media"
-      },
-      {
-        "title": "Report: US Air Force planes damaged in Saudi Arabia",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-air-force-planes-damaged-saudi-arabia"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince Harry takes wise step for royals as new trouble awaits in Australia",
+        "link": "https://www.geo.tv/latest/655613-prince-harry-takes-wise-step-for-royals-as-new-trouble-awaits-in-australia"
+      },
+      {
+        "title": "Prince William, Princess Kate irk Princess Anne over new change",
+        "link": "https://www.geo.tv/latest/655607-prince-william-princess-kate-irk-princess-anne-over-new-change"
+      },
       {
         "title": "Trump administration set to receive $10bn fee for brokering TikTok deal: report",
         "link": "https://www.geo.tv/latest/655605-trump-administration-set-to-receive-10bn-fee-for-brokering-tiktok-deal-report"
@@ -147,36 +155,28 @@
       {
         "title": "Queen Camilla's quiet warning about Meghan as Harry left in tough spot",
         "link": "https://www.geo.tv/latest/655603-queen-camillas-quiet-warning-about-meghan-as-harry-left-in-tough-spot"
-      },
-      {
-        "title": "When the bell falls silent",
-        "link": "https://www.geo.tv/latest/655601-when-the-bell-falls-silent"
-      },
-      {
-        "title": "Iran conflict pushes oil prices higher as stocks slip, dollar strengthens",
-        "link": "https://www.geo.tv/latest/655600-iran-conflict-pushes-oil-prices-higher-as-stocks-slip-dollar-strengthens"
       }
     ],
     "NDTV": [
       {
-        "title": "Opinion: Opinion | Trump And The Rise Of A Supposedly Unipolar America",
-        "link": "https://www.ndtv.com/opinion/israel-iran-war-trump-and-the-rise-of-a-supposedly-unipolar-america-11213884#publisher=newsstand"
+        "title": "India Announces 30-day Visa Extension To Foreigners In Country Amid Conflict",
+        "link": "https://www.ndtv.com/india-news/middle-east-war-india-announces-30-day-visa-extension-to-foreigners-in-country-amid-conflict-11213549#publisher=newsstand"
       },
       {
-        "title": "India Exports First GI-Tagged Joha Rice Consignment From Assam To UK, Italy",
-        "link": "https://www.ndtv.com/india-news/india-exports-first-gi-tagged-joha-rice-consignment-from-assam-to-uk-italy-11211399#publisher=newsstand"
+        "title": "4 Rounds Of Phone Calls, PM's Outreach",
+        "link": "https://www.ndtv.com/india-news/iran-israel-us-war-2-india-flagged-lpg-tankers-shivalik-nanda-devi-crosses-strait-of-hormuz-after-new-delhi-tehran-talks-11214015#publisher=newsstand"
       },
       {
-        "title": "Want To Renounce US Citizenship? Fee Now Slashed By 80% To $450",
-        "link": "https://www.ndtv.com/world-news/want-to-renounce-us-citizenship-fee-now-slashed-by-80-to-450-11213254#publisher=newsstand"
+        "title": "Climate Activist Sonam Wangchuk, Detained For Nearly 6 Months, To Be Released",
+        "link": "https://www.ndtv.com/india-news/sonam-wangchuk-climate-activist-detained-for-nearly-six-months-under-national-security-act-to-be-released-11213991#publisher=newsstand"
       },
       {
-        "title": "Man Who Rammed Into Michigan Synagogue Had Lost Family In An Israeli Strike",
-        "link": "https://www.ndtv.com/world-news/man-who-rammed-into-michigan-synagogue-had-lost-family-in-an-israeli-strike-11213258#publisher=newsstand"
+        "title": "North Korea Fires Ballistic Missile Towards Sea During US-South Korea Drills",
+        "link": "https://www.ndtv.com/world-news/north-korea-fires-ballistic-missile-towards-sea-during-us-south-korea-drills-11213808#publisher=newsstand"
       },
       {
-        "title": "2 Men Kill Friend In Mumbai After Fish 'Disappears' From Pan. Rats Had Eaten It",
-        "link": "https://www.ndtv.com/mumbai-news/two-men-kill-friend-in-mumbai-after-fish-disappears-from-pan-rats-had-eaten-it-11213861#publisher=newsstand"
+        "title": "\"Orphan Pearl\" On Fire: The Critical Oil Island Struck By US In Iran",
+        "link": "https://www.ndtv.com/world-news/middle-east-war-why-kharg-island-irans-crown-jewel-is-key-in-us-israel-war-11213688#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-14 06:08 UTC"
+  "last_updated": "2026-03-14 07:04 UTC"
 }
