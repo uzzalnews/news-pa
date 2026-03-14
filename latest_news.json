@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Real Madrid vs Elche – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/14/live-real-madrid-vs-elche-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Iran warns UAE ports and ‘American hideouts’ are targets",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-warns-uae-ports-and-american-hideouts-are-targets?traffic_source=rss"
+      },
+      {
+        "title": "Is the world ignoring Gaza?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/14/is-the-world-ignoring-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Protesters in Cuba attack Communist party office in rare riot over blackout",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/14/protesters-in-cuba-attack-communist-party-office-in-rare-riot-over-blackout?traffic_source=rss"
+      },
+      {
+        "title": "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade",
+        "link": "https://www.aljazeera.com/news/2026/3/14/trump-says-many-countries-will-send-warships-to-hormuz-amid-iran-blockade?traffic_source=rss"
+      },
+      {
         "title": "UN chief Guterres says ‘no military solution, only diplomacy’ for Lebanon",
         "link": "https://www.aljazeera.com/news/2026/3/14/un-chief-guterres-says-no-military-solution-only-diplomacy-for-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Protests erupt in Cuba as US restrictions spark food, energy shortages",
-        "link": "https://www.aljazeera.com/news/2026/3/14/protests-erupt-in-cuba-as-us-restrictions-spark-food-energy-shortages?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Real Madrid vs Elche – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/14/live-real-madrid-vs-elche-la-liga?traffic_source=rss"
-      },
-      {
-        "title": "‘Israel targeting Iran’s security forces may aim to encourage uprising’",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/14/israel-targeting-irans-security-forces-may-aim-to-encourage?traffic_source=rss"
-      },
-      {
-        "title": "The Iranian moment: A leap into the unknown",
-        "link": "https://www.aljazeera.com/opinions/2026/3/14/the-iranian-moment-a-leap-into-the-unknown?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -103,10 +97,6 @@
         "link": "https://www.nytimes.com/2026/03/14/business/energy-environment/iran-strait-hormuz-oil-middle-east.html"
       },
       {
-        "title": "Trump and Rubio’s Vision of War: The Art of Destroy and Deal",
-        "link": "https://www.nytimes.com/2026/03/14/us/politics/rubio-trump-iran-war.html"
-      },
-      {
         "title": "Trump Administration Approves Ultra-Deepwater Oil Drilling Plan",
         "link": "https://www.nytimes.com/2026/03/14/climate/trump-bp-gulf-of-mexico-drilling.html"
       },
@@ -117,9 +107,17 @@
       {
         "title": "Lobbyist Arrested in Extortion Attempt of Client Who Received a Trump Pardon",
         "link": "https://www.nytimes.com/2026/03/14/us/lobbyist-trump-pardon-extortion-charge.html"
+      },
+      {
+        "title": "Judge Rules Lawmaker Must Be Allowed to Join Kennedy Center Board Meeting",
+        "link": "https://www.nytimes.com/2026/03/14/us/politics/kennedy-center-judge-order.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "US embassy urges Americans to leave Iraq immediately",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-urges-americans-leave-iraq-immediately"
+      },
       {
         "title": "Drone attack on Kuwait air base injures three soldiers",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attack-kuwait-air-base-injures-three-soldiers"
@@ -135,13 +133,21 @@
       {
         "title": "Turkey warns that Israel may carry out ‘new genocide’ in Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-warns-israel-may-carry-out-new-genocide-lebanon"
-      },
-      {
-        "title": "US-Israeli strike on Isfahan factory kills 15",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-strike-isfahan-factory-kills-15"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince William cheers on Wales after meeting rugby chiefs ahead of match",
+        "link": "https://www.geo.tv/latest/655701-prince-william-cheers-on-wales-after-meeting-rugby-chiefs-ahead-of-match"
+      },
+      {
+        "title": "Labrinth fuels speculation with new track after ‘Double f**k Euphoria' rant",
+        "link": "https://www.geo.tv/latest/655703-labrinth-fuels-speculation-with-new-track-after-double-fk-euphoria-rant"
+      },
+      {
+        "title": "Teyana Taylor gives glimpse into Oscars preparation after first nomination",
+        "link": "https://www.geo.tv/latest/655700-teyana-taylor-gives-glimpse-into-oscars-preparation-after-first-nomination"
+      },
       {
         "title": "Jennifer Lopez nearly escapes mishap during Las Vegas residency",
         "link": "https://www.geo.tv/latest/655693-jennifer-lopez-nearly-escapes-mishap-during-las-vegas-residency"
@@ -149,18 +155,6 @@
       {
         "title": "‘Netanyahu is not dead': Officials push back as viral ‘six fingers' video sparks hoax",
         "link": "https://www.geo.tv/latest/655699-netanyahu-is-not-dead-officials-push-back-as-viral-six-fingers-video-sparks-hoax"
-      },
-      {
-        "title": "Why celebrities like Emma Watson, Harry Styles are ditching AirPods for wired headphones?",
-        "link": "https://www.geo.tv/latest/655698-why-celebrities-like-emma-watson-harry-styles-are-ditching-airpods-for-wired-headphones"
-      },
-      {
-        "title": "Why does the port of Fujairah matter to the oil market?",
-        "link": "https://www.geo.tv/latest/655697-why-does-the-port-of-fujairah-matter-to-the-oil-market"
-      },
-      {
-        "title": "Kevin Zegers 'fought hard' for role in Taylor Sheridan's 'The Madison'",
-        "link": "https://www.geo.tv/latest/655695-kevin-zegers-fought-hard-for-role-in-taylor-sheridans-the-madison"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-14 17:57 UTC"
+  "last_updated": "2026-03-14 18:51 UTC"
 }
