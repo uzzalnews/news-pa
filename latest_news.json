@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Election 2026 Date Announcement LIVE: Poll Dates For 5 States To Be Announced Today",
-      "link": "https://www.ndtv.com/india-news/election-dates-live-updates-west-bengal-tamil-nadu-kerala-assam-puducherry-election-commission-assembly-election-gyanesh-kumar-ec-announcement-11217287#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,7 +7,7 @@
         "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "A finale worthy of the greatest Six Nations ever",
+        "title": "A finale worthy of the greatest Six Nations in history",
         "link": "https://www.bbc.com/sport/rugby-union/articles/cjd9m3p55y7o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1982317/six-terrorists-killed-in-joint-operation-by-ctd-police-in-kps-kohat"
       },
       {
+        "title": "Pakistan Railways to run four special trains for Eid travellers",
+        "link": "https://www.dawn.com/news/1982319/pakistan-railways-to-run-four-special-trains-for-eid-travellers"
+      },
+      {
         "title": "Govt hikes kerosene by Rs40 per litre, keeps petrol and diesel prices unchanged",
         "link": "https://www.dawn.com/news/1982275/govt-hikes-kerosene-by-rs40-per-litre-keeps-petrol-and-diesel-prices-unchanged"
       },
       {
         "title": "New Zealand observes seven years since shootings at Christchurch mosques",
         "link": "https://www.dawn.com/news/1982308/new-zealand-observes-seven-years-since-shootings-at-christchurch-mosques"
-      },
-      {
-        "title": "Karachi citizens fume as unannounced gas cuts continue to disrupt Sehri cooking, Iftar",
-        "link": "https://www.dawn.com/news/1982150/karachi-citizens-fume-as-unannounced-gas-cuts-continue-to-disrupt-sehri-cooking-iftar"
       }
     ],
     "APNews": [],
@@ -121,27 +115,39 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran launches new wave of strikes against US-Israeli targets",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-launches-new-wave-strikes-against-us-israeli-targets"
+        "title": "Trump says not ready to make Iran deal 'because terms aren’t good enough'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-not-ready-make-iran-deal-because-terms-arent-good-enough"
       },
       {
-        "title": "Israeli media says Iran struck five times since midnight",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-miedia-says-iran-struck-five-times-midnight"
+        "title": "Iran army says 'separatist plots' failed, Sunnis defended territory",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-army-says-separatist-plots-failed-sunnis-defended-territory"
       },
       {
-        "title": "Video: Erdogan condemns 'bloodthirsty network' striking schools and hospitals",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-erdogan-condemns-bloodthirsty-network-striking-schools-and"
+        "title": "Iran arrests 20 accused of sending military locations to Israel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-arrests-20-accused-sending-military-locations-israel"
       },
       {
-        "title": "Iran denies responsibility for drone attack on Iraqi oil refinery",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-responsibility-drone-attack-iraqi-oil-refinery"
+        "title": "IRGC says it launched missiles and drones targeting US airbase in UAE",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-launched-missiles-and-drones-targeting-us-airbase-uae"
       },
       {
-        "title": "Tucker Carlson: Trump voters feel 'betrayed' over Israel support",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tucker-carlson-trump-voters-feel-betrayed-over-israel-support"
+        "title": "UAE official says country prioritises restraint after Iran claim of US strikes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-official-says-country-prioritises-restraint-after-iran-claim-us"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Israel tells US it is 'running critically low' on interceptors amid Iran war",
+        "link": "https://www.geo.tv/latest/655737-israel-tells-us-it-is-running-critically-low-on-interceptors-amid-iran-war"
+      },
+      {
+        "title": "Beatrice, Eugenie get 'emotional' as Palace drops bombshell",
+        "link": "https://www.geo.tv/latest/655741-beatrice-eugenie-get-emotional-as-palace-drops-bombshell"
+      },
+      {
+        "title": "Selena Gomez packs on PDA with Benny Blanco after podcast backlash",
+        "link": "https://www.geo.tv/latest/655740-selena-gomez-packs-on-pda-with-benny-blanco-after-podcast-backlash"
+      },
       {
         "title": "Sarah Ferguson receives eye-popping offer during exile: ‘only lifeline'",
         "link": "https://www.geo.tv/latest/655738-sarah-ferguson-receives-eye-popping-offer-during-exile-only-lifeline"
@@ -149,40 +155,28 @@
       {
         "title": "Harry Styles talks about fame, break, new album in 'SNL' monologue",
         "link": "https://www.geo.tv/latest/655733-harry-styles-talks-about-fame-break-new-album-in-snl-monologue"
-      },
-      {
-        "title": "AI fakes about Iran-US war swirl on X despite policy crackdown",
-        "link": "https://www.geo.tv/latest/655732-ai-fakes-about-iran-us-war-swirl-on-x-despite-policy-crackdown"
-      },
-      {
-        "title": "Oprah Winfrey claps back at trolls over viral Paris Fashion Week walk",
-        "link": "https://www.geo.tv/latest/655735-oprah-winfrey-claps-back-at-trolls-over-viral-paris-fashion-week-walk"
-      },
-      {
-        "title": "US, China economic chiefs to meet in Paris to clear path to Trump-Xi summit",
-        "link": "https://www.geo.tv/latest/655734-us-china-economic-chiefs-to-meet-in-paris-to-clear-path-to-trump-xi-summit"
       }
     ],
     "NDTV": [
       {
-        "title": "Probe Ordered After \"Pandit\" Option For Opportunists In UP Exam Stirs Row",
-        "link": "https://www.ndtv.com/india-news/probe-ordered-after-pandit-option-for-opportunists-in-up-exam-stirs-row-11217459#publisher=newsstand"
+        "title": "HIV-Positive Man Injects His Blood Into Woman For Cancelling Wedding",
+        "link": "https://www.ndtv.com/india-news/hiv-positive-man-injects-his-blood-into-woman-for-cancelling-wedding-11215807#publisher=newsstand"
       },
       {
-        "title": "\"If He's Alive...\": Iran Vows To \"Pursue, Kill\" Netanyahu Amid Death Rumours",
-        "link": "https://www.ndtv.com/world-news/iran-war-iran-guards-vow-to-pursue-and-kill-israels-benjamin-netanyahu-11217392#publisher=newsstand"
+        "title": "Kerala Woman Harassed, Abused By Man Demanding Advances At Bengaluru Hostel",
+        "link": "https://www.ndtv.com/india-news/kerala-woman-harassed-abused-by-man-demanding-advances-at-bengaluru-hostel-11217595#publisher=newsstand"
       },
       {
-        "title": "Election 2026 Date Announcement LIVE: Poll Dates For 5 States To Be Announced Today",
-        "link": "https://www.ndtv.com/india-news/election-dates-live-updates-west-bengal-tamil-nadu-kerala-assam-puducherry-election-commission-assembly-election-gyanesh-kumar-ec-announcement-11217287#publisher=newsstand"
+        "title": "Madurai Airport Gets International Status, Tuticorin Now Thoothukudi Airport",
+        "link": "https://www.ndtv.com/india-news/madurai-airport-gets-international-status-tuticorin-now-thoothukudi-airport-11216497#publisher=newsstand"
       },
       {
-        "title": "TVK Chief Appears Before CBI For 3rd Round Of Questioning In Karur Stampede",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-elections-tvk-chief-vijay-appears-before-cbi-for-3rd-round-of-questioning-in-karur-stampede-11217451#publisher=newsstand"
+        "title": "UP Man Kills Father With Brick Following Argument While Drinking",
+        "link": "https://www.ndtv.com/india-news/up-man-kills-father-with-brick-following-argument-while-drinking-11216136#publisher=newsstand"
       },
       {
-        "title": "Loud Blasts In Dubai, Kuwait Airport Hit In Fresh Iranian Strikes",
-        "link": "https://www.ndtv.com/world-news/dubai-news-middle-east-war-loud-blasts-in-dubai-kuwait-airport-hit-in-fresh-iranian-strikes-11217438#publisher=newsstand"
+        "title": "7 Indian Pilgrims Dead After Bus Falls Into A Gorge In Nepal",
+        "link": "https://www.ndtv.com/world-news/7-indian-pilgrims-dead-after-bus-falls-into-a-gorge-in-nepal-11216259#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-15 06:38 UTC"
+  "last_updated": "2026-03-15 07:32 UTC"
 }
