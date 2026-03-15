@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Election 2026 Date Announcement LIVE: Poll Dates For 5 States To Be Announced Today",
+      "link": "https://www.ndtv.com/india-news/election-dates-live-updates-west-bengal-tamil-nadu-kerala-assam-puducherry-election-commission-assembly-election-gyanesh-kumar-ec-announcement-11217287#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,12 +17,12 @@
         "link": "https://www.bbc.com/sport/rugby-union/articles/cjd9m3p55y7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Police-style powers to tackle fly-tippers being considered",
-        "link": "https://www.bbc.com/news/articles/c8d5z7rd5mpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "We expect government help in a crisis. Will Reeves intervene on energy bills this time?",
         "link": "https://www.bbc.com/news/articles/cvgky84z6lro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK must build own nuclear missiles to end reliance on US, say Lib Dems",
+        "link": "https://www.bbc.com/news/articles/cy0dz1k0rr4o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "London's Burning actor John Alford dies in prison",
@@ -24,6 +30,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Vietnam holds general election, 93% candidates from ruling Communist Party",
+        "link": "https://www.aljazeera.com/news/2026/3/15/vietnam-holds-general-election-93-candidates-from-ruling-communist-party?traffic_source=rss"
+      },
+      {
+        "title": "Cars were burned and overturned by shrapnel in Tel Aviv district",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/cars-were-burned-and-overturned-by-shrapnel-in-tel-aviv-district?traffic_source=rss"
+      },
       {
         "title": "As Syria marks 15 years since anti-Assad uprising, security issues remain",
         "link": "https://www.aljazeera.com/features/2026/3/15/as-syria-marks-15-years-since-anti-assad-uprising-security-issues-remain?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Funeral procession for influential Iranian defence chief",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/funeral-procession-for-influential-iranian-defence-chief?traffic_source=rss"
-      },
-      {
-        "title": "Barrage of US-Israeli strikes target Isfahan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/barrage-of-us-israeli-strikes-target-isfahan?traffic_source=rss"
-      },
-      {
-        "title": "Former CIA chief reveals early knowledge of Israeli attack plans",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/former-cia-chief-reveals-early-knowledge-of-israeli-attack-plans?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/1982297/fo-rejects-indias-absurd-and-unwarranted-statement-on-pakistans-cross-border-actions-in-afghanistan"
       },
       {
+        "title": "Six terrorists killed in joint operation by CTD, police in KP’s Kohat",
+        "link": "https://www.dawn.com/news/1982317/six-terrorists-killed-in-joint-operation-by-ctd-police-in-kps-kohat"
+      },
+      {
         "title": "Govt hikes kerosene by Rs40 per litre, keeps petrol and diesel prices unchanged",
         "link": "https://www.dawn.com/news/1982275/govt-hikes-kerosene-by-rs40-per-litre-keeps-petrol-and-diesel-prices-unchanged"
       },
@@ -84,10 +94,6 @@
       {
         "title": "Karachi citizens fume as unannounced gas cuts continue to disrupt Sehri cooking, Iftar",
         "link": "https://www.dawn.com/news/1982150/karachi-citizens-fume-as-unannounced-gas-cuts-continue-to-disrupt-sehri-cooking-iftar"
-      },
-      {
-        "title": "Tehran reminds Modi about need to activate BRICS",
-        "link": "https://www.dawn.com/news/1982242/tehran-reminds-modi-about-need-to-activate-brics"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran launches new wave of strikes against US-Israeli targets",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-launches-new-wave-strikes-against-us-israeli-targets"
+      },
+      {
+        "title": "Israeli media says Iran struck five times since midnight",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-miedia-says-iran-struck-five-times-midnight"
+      },
+      {
+        "title": "Video: Erdogan condemns 'bloodthirsty network' striking schools and hospitals",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-erdogan-condemns-bloodthirsty-network-striking-schools-and"
+      },
+      {
+        "title": "Iran denies responsibility for drone attack on Iraqi oil refinery",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-responsibility-drone-attack-iraqi-oil-refinery"
+      },
+      {
         "title": "Tucker Carlson: Trump voters feel 'betrayed' over Israel support",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tucker-carlson-trump-voters-feel-betrayed-over-israel-support"
-      },
-      {
-        "title": "Japan signals hesitation on Hormuz escort mission request",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/japan-signals-hesitation-hormuz-escort-mission-request"
-      },
-      {
-        "title": "Israel tells US it's running low on missile interceptors",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-tells-us-its-running-low-missile-interceptors"
-      },
-      {
-        "title": "Hezbollah launches rockets, artillery at Israeli troops near border",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-launches-rockets-artillery-israeli-troops-near-border"
-      },
-      {
-        "title": "Explosions heard as sirens sound across central Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-sirens-sound-across-central-israel"
       }
     ],
     "GeoTV": [
       {
-        "title": "Six terrorists killed in joint CTD-police operation in Kohat",
-        "link": "https://www.geo.tv/latest/655731-six-terrorists-killed-in-joint-ctdpolice-operation-in-kohat"
+        "title": "Sarah Ferguson receives eye-popping offer during exile: ‘only lifeline'",
+        "link": "https://www.geo.tv/latest/655738-sarah-ferguson-receives-eye-popping-offer-during-exile-only-lifeline"
       },
       {
-        "title": "King Charles aides quietly set groundwork for US visit amid calls to cancel",
-        "link": "https://www.geo.tv/latest/655730-king-charles-aides-quietly-set-groundwork-for-us-visit-amid-calls-to-cancel"
+        "title": "Harry Styles talks about fame, break, new album in 'SNL' monologue",
+        "link": "https://www.geo.tv/latest/655733-harry-styles-talks-about-fame-break-new-album-in-snl-monologue"
       },
       {
-        "title": "Iran at war",
-        "link": "https://www.geo.tv/latest/655729-iran-at-war"
+        "title": "AI fakes about Iran-US war swirl on X despite policy crackdown",
+        "link": "https://www.geo.tv/latest/655732-ai-fakes-about-iran-us-war-swirl-on-x-despite-policy-crackdown"
       },
       {
-        "title": "Katie Price determined to help Harvey get healthy for birthday wish",
-        "link": "https://www.geo.tv/latest/655728-katie-price-determined-to-help-harvey-get-healthy-for-birthday-wish"
+        "title": "Oprah Winfrey claps back at trolls over viral Paris Fashion Week walk",
+        "link": "https://www.geo.tv/latest/655735-oprah-winfrey-claps-back-at-trolls-over-viral-paris-fashion-week-walk"
       },
       {
-        "title": "Kensington Palace shares update after William-Meghan row surfaces again",
-        "link": "https://www.geo.tv/latest/655725-kensington-palace-shares-update-after-william-meghan-row-surfaces-again"
+        "title": "US, China economic chiefs to meet in Paris to clear path to Trump-Xi summit",
+        "link": "https://www.geo.tv/latest/655734-us-china-economic-chiefs-to-meet-in-paris-to-clear-path-to-trump-xi-summit"
       }
     ],
     "NDTV": [
       {
-        "title": "Election Dates Live Updates: Election Dates For 5 States To Be Announced Today",
+        "title": "Probe Ordered After \"Pandit\" Option For Opportunists In UP Exam Stirs Row",
+        "link": "https://www.ndtv.com/india-news/probe-ordered-after-pandit-option-for-opportunists-in-up-exam-stirs-row-11217459#publisher=newsstand"
+      },
+      {
+        "title": "\"If He's Alive...\": Iran Vows To \"Pursue, Kill\" Netanyahu Amid Death Rumours",
+        "link": "https://www.ndtv.com/world-news/iran-war-iran-guards-vow-to-pursue-and-kill-israels-benjamin-netanyahu-11217392#publisher=newsstand"
+      },
+      {
+        "title": "Election 2026 Date Announcement LIVE: Poll Dates For 5 States To Be Announced Today",
         "link": "https://www.ndtv.com/india-news/election-dates-live-updates-west-bengal-tamil-nadu-kerala-assam-puducherry-election-commission-assembly-election-gyanesh-kumar-ec-announcement-11217287#publisher=newsstand"
       },
       {
-        "title": "In Black Market, LPG Cylinder Selling For Rs 6,500, Refill For Rs 4,000",
-        "link": "https://www.ndtv.com/india-news/in-black-market-lpg-cylinder-selling-for-rs-6-500-refill-for-rs-4-000-11217265#publisher=newsstand"
+        "title": "TVK Chief Appears Before CBI For 3rd Round Of Questioning In Karur Stampede",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-elections-tvk-chief-vijay-appears-before-cbi-for-3rd-round-of-questioning-in-karur-stampede-11217451#publisher=newsstand"
       },
       {
-        "title": "Father Of 3, 28-Year-Old Sergeant Among 6 US Soldiers Killed In Iraq Crash",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-john-klinner-ariana-savino-ashley-pruitt-seth-koval-curtis-angst-tyler-simmons-among-6-us-soldiers-killed-in-iraq-crash-11217245#publisher=newsstand"
-      },
-      {
-        "title": "\"I'd Do A Number\": Trump's Warning To Hit Iran's Kharg Island, 38 Years Ago",
-        "link": "https://www.ndtv.com/world-news/donald-trump-kharg-island-iran-war-middle-east-conflict-id-do-a-number-trumps-warning-to-hit-irans-kharg-island-38-years-ago-11217254#publisher=newsstand"
-      },
-      {
-        "title": "Trump Was \"Surprised\" With Iran's Attack On Middle Eastern Countries",
-        "link": "https://www.ndtv.com/world-news/trump-claims-iran-wants-to-make-a-deal-but-he-doesnt-heres-why-11217156#publisher=newsstand"
+        "title": "Loud Blasts In Dubai, Kuwait Airport Hit In Fresh Iranian Strikes",
+        "link": "https://www.ndtv.com/world-news/dubai-news-middle-east-war-loud-blasts-in-dubai-kuwait-airport-hit-in-fresh-iranian-strikes-11217438#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-15 05:41 UTC"
+  "last_updated": "2026-03-15 06:38 UTC"
 }
