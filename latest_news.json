@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Election 2026 Date Announcement LIVE: Poll Dates For 5 States To Be Announced Today",
+      "link": "https://www.ndtv.com/india-news/election-dates-live-updates-west-bengal-tamil-nadu-kerala-assam-puducherry-election-commission-assembly-election-gyanesh-kumar-ec-announcement-11217287#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Trump says US may hit Iran’s Kharg Island again ‘just for fun’",
+        "link": "https://www.aljazeera.com/news/2026/3/15/trump-says-us-may-hit-irans-kharg-island-again-just-for-fun?traffic_source=rss"
+      },
+      {
         "title": "Iran war: What is happening on day 16 of US-Israel attacks?",
         "link": "https://www.aljazeera.com/news/2026/3/15/iran-war-what-is-happening-on-day-16-of-us-israel-attacks?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Al-Quds Day rally in Toronto calls for an end to the war in Iran & Lebanon",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/15/al-quds-day-rally-in-toronto-calls-for-an-end-to-the-war-in-iran-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Minab: When the world’s most precise missile chose a classroom",
-        "link": "https://www.aljazeera.com/opinions/2026/3/15/minab-when-the-worlds-most-precise-missile-chose-a-classroom?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/1982323/overnight-strikes-in-afghanistans-kandahar-target-terrorist-hideouts-and-military-infrastructure-says-state-media"
       },
       {
+        "title": "‘Post of responsibility’: Newly appointed Governor Nehal Hashmi vows better education, jobs for Sindh’s youth",
+        "link": "https://www.dawn.com/news/1982335/post-of-responsibility-newly-appointed-governor-nehal-hashmi-vows-better-education-jobs-for-sindhs-youth"
+      },
+      {
         "title": "Dar notes ‘alarming rise’ in Islamophobia, warns it worsens existing tensions and conflicts",
         "link": "https://www.dawn.com/news/1982328/dar-notes-alarming-rise-in-islamophobia-warns-it-worsens-existing-tensions-and-conflicts"
       },
@@ -82,12 +92,8 @@
         "link": "https://www.dawn.com/news/1982297/fo-rejects-indias-absurd-and-unwarranted-statement-on-pakistans-cross-border-actions-in-afghanistan"
       },
       {
-        "title": "Pakistan win toss, opt to bowl in final ODI against Bangladesh",
-        "link": "https://www.dawn.com/news/1982326/pakistan-win-toss-opt-to-bowl-in-final-odi-against-bangladesh"
-      },
-      {
-        "title": "Six terrorists killed in joint operation by CTD, police in KP’s Kohat",
-        "link": "https://www.dawn.com/news/1982317/six-terrorists-killed-in-joint-operation-by-ctd-police-in-kps-kohat"
+        "title": "Tech entrepreneur develops AI-designed mRNA vaccine to save dog dying of cancer",
+        "link": "https://www.dawn.com/news/1982334/tech-entrepreneur-develops-ai-designed-mrna-vaccine-to-save-dog-dying-of-cancer"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran says ready to help investigate strikes on civilian areas",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-ready-help-investigate-strikes-civilian-areas"
+      },
+      {
+        "title": "War on Iran: How Algeria and Morocco manoeuvre the fallout",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/war-iran-how-algeria-and-morocco-manoeuvre-fallout"
+      },
+      {
+        "title": "Overnight Israeli strikes kill four in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/overnight-israeli-strikes-kill-four-lebanon"
+      },
+      {
         "title": "War on Iran: How Algeria and Morocco manoeuvre the fallout",
         "link": "https://www.middleeasteye.net/news/between-threats-and-opportunities-algeria-and-morocco-manoeuvre-fallout-war-iran"
       },
       {
         "title": "Iran launches ten hypersonic missiles in latest wave of attacks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-launches-ten-hypersonic-missiles-latest-wave-attacks"
-      },
-      {
-        "title": "Israel’s health ministry says 108 injured in last 24 hours",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-health-ministry-says-108-injured-last-24-hours"
-      },
-      {
-        "title": "Trump says not ready to make Iran deal 'because terms aren’t good enough'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-not-ready-make-iran-deal-because-terms-arent-good-enough"
-      },
-      {
-        "title": "Iran army says 'separatist plots' failed, Sunnis defended territory",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-army-says-separatist-plots-failed-sunnis-defended-territory"
       }
     ],
     "GeoTV": [
       {
-        "title": "Gordon Ramsay hits the pool after Adam Peaty starts calling him 'dad'",
-        "link": "https://www.geo.tv/latest/655759-gordon-ramsay-hits-the-pool-after-adam-peaty-starts-calling-him-dad"
+        "title": "Punjab govt to take legal action over 'official plane' claims",
+        "link": "https://www.geo.tv/latest/655755-punjab-govt-to-take-legal-action-over-official-plane-claims"
       },
       {
-        "title": "Harry Styles delivers brutal snub to ex-prince Andrew in ‘SNL' monologue",
-        "link": "https://www.geo.tv/latest/655760-harry-styles-delivers-brutal-snub-to-ex-prince-andrew-in-snl-monologue"
+        "title": "Prince William unveils never-before-seen photo with Diana for Mother's Day",
+        "link": "https://www.geo.tv/latest/655764-prince-william-unveils-never-before-seen-photo-with-diana-for-mothers-day"
       },
       {
-        "title": "King Charles gives emotional tribute to beloved royals in new message",
-        "link": "https://www.geo.tv/latest/655754-king-charles-gives-emotional-tribute-to-beloved-royals-in-new-message"
+        "title": "Duchess Sophie honoured with new title after royal family statement",
+        "link": "https://www.geo.tv/latest/655750-duchess-sophie-honoured-with-new-title-after-royal-family-statement"
       },
       {
-        "title": "Cameron Diaz's acting comeback rolls on with new rom-com shoot",
-        "link": "https://www.geo.tv/latest/655742-cameron-diazs-acting-comeback-rolls-on-with-new-rom-com-shoot"
+        "title": "The environment, another casualty of war in the Mideast",
+        "link": "https://www.geo.tv/latest/655757-the-environment-another-casualty-of-war-in-the-mideast"
       },
       {
-        "title": "Nadra warns citizens about fake website",
-        "link": "https://www.geo.tv/latest/655751-nadra-warns-citizens-about-fake-website"
+        "title": "Sarfaraz Ahmed announces retirement from international cricket",
+        "link": "https://www.geo.tv/latest/655762-sarfaraz-ahmed-announces-retirement-from-international-cricket"
       }
     ],
     "NDTV": [
       {
-        "title": "Bengaluru Man Sends Obscene Texts To Bank Staffer After Missed Call Request",
-        "link": "https://www.ndtv.com/bangalore-news/bengaluru-man-sends-obscene-texts-to-bank-staffer-after-missed-call-request-11217775#publisher=newsstand"
+        "title": "120 kmph In Hyundai Verna At Night, Shooting Speeding Reels. 2 Die In Crash",
+        "link": "https://www.ndtv.com/india-news/jetpur-accident-phone-in-one-hand-car-at-120-kmph-gujarat-man-dies-in-freak-crash-11217985#publisher=newsstand"
       },
       {
-        "title": "North Korea Tests Nuclear-Capable Rocket Launchers With Kim, Daughter In Attendance",
-        "link": "https://www.ndtv.com/world-news/north-korea-tests-nuclear-capable-rocket-launchers-with-kim-jong-un-in-attendance-11217750#publisher=newsstand"
+        "title": "Omar Abdullah Shares Glimpses Of 'Asia's Largest Tulip Garden' In Srinagar",
+        "link": "https://www.ndtv.com/india-news/omar-abdullah-shares-glimpses-of-asias-largest-tulip-garden-in-srinagar-11217874#publisher=newsstand"
       },
       {
-        "title": "4 Of Family Die In Andhra After Inhaling Fumes From Bike Kept On All Night",
-        "link": "https://www.ndtv.com/andhra-pradesh-news/4-of-family-die-in-andhra-after-inhaling-fumes-from-bike-kept-on-all-night-11217597#publisher=newsstand"
+        "title": "Election 2026 Date Announcement LIVE: Poll Dates For 5 States To Be Announced Today",
+        "link": "https://www.ndtv.com/india-news/election-dates-live-updates-west-bengal-tamil-nadu-kerala-assam-puducherry-election-commission-assembly-election-gyanesh-kumar-ec-announcement-11217287#publisher=newsstand"
       },
       {
-        "title": "Who Covers AI Business Blunders? Some Insurers Cautiously Step Up",
-        "link": "https://www.ndtv.com/world-news/who-covers-ai-business-blunders-some-insurers-cautiously-step-up-11217681#publisher=newsstand"
+        "title": "'Not Targeted At Any Community': BJP's Assam Poll In-Charge On Evictions",
+        "link": "https://www.ndtv.com/india-news/assam-assembly-election-2026-not-targeted-at-any-community-bjps-assam-poll-in-charge-baijayant-jay-panda-on-evictions-11217896#publisher=newsstand"
       },
       {
-        "title": "US Military Could Use AI Chatbots For War Planning, Palantir Demo Suggests",
-        "link": "https://www.ndtv.com/world-news/middle-east-iran-israel-war-us-military-could-use-ai-chatbots-for-war-planning-palantir-demo-suggests-11217322#publisher=newsstand"
+        "title": "AIADMK Chief Palaniswami Rules Out Alliance With Vijay-Led TVK",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-election-2026-aiadmk-chief-palaniswami-rules-out-alliance-with-vijay-led-tvk-11217605#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-15 09:23 UTC"
+  "last_updated": "2026-03-15 09:55 UTC"
 }
