@@ -1,48 +1,64 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Israel-Iran War LIVE: Trump Warns NATO Of 'Very Bad Future' If Allies Don't Help With Strait Of Hormuz",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-news-updates-donald-trump-mojtaba-khamenei-dubai-uae-baghdad-kuwait-airport-11217035#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates: GIFT Nifty Signals Positive Open Even As Oil Jumps",
+      "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-gift-nifty-signals-positive-open-even-as-oil-rallies-asia-markets-tank-11220583#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Rajya Sabha Elections LIVE Updates:  Rajya Sabha Elections LIVE Updates: Voting Begins Today For 37 Seats Across 10 States",
+      "link": "https://www.ndtv.com/india-news/rajya-sabha-elections-live-updates-nitish-kumar-nitin-nabin-in-fray-parliament-voting-begins-today-for-37-seats-across-10-states-11220598#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Oscars red carpet: Stars and fashion in pictures",
+        "title": "In pictures: Stars and fashion from the red carpet",
         "link": "https://www.bbc.com/news/articles/cd9g331v315o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oscars 2026: Winners list in full",
+        "link": "https://www.bbc.com/news/articles/c33jkvmzl4ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Starmer to set out support plan for heating oil costs",
+        "link": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Two die including uni student in meningitis outbreak",
         "link": "https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Police investigate 'death to the IDF' chants led by Bobby Vylan at rally",
-        "link": "https://www.bbc.com/news/articles/c93jz4gykwko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "PM to set out support plan for heating oil costs",
-        "link": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mother charged with murder of 18-day-old baby",
-        "link": "https://www.bbc.com/news/articles/cge8l8z4qj2o?at_medium=RSS&at_campaign=rss"
+        "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
+        "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Top Trump adviser says Iran war price tag at $12bn so far",
-        "link": "https://www.aljazeera.com/news/2026/3/15/top-trump-advisor-says-iran-war-price-tag-at-approximately-12bn-so-far?traffic_source=rss"
+        "title": "Nobody wants to get involved’ in Strait of Hormuz military operations",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/16/nobody-wants-to-get-involved-in-strait-of-hormuz-military-operations?traffic_source=rss"
       },
       {
-        "title": "Muted response as Trump urges nations to escort ships through Hormuz Strait",
-        "link": "https://www.aljazeera.com/news/2026/3/15/muted-response-as-trump-urges-nations-to-escort-ships-through-hormuz-strait?traffic_source=rss"
+        "title": "Fire erupts at Dubai airport following drone attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fire-erupts-at-dubai-airport-following-drone-attack?traffic_source=rss"
       },
       {
-        "title": "Israeli attacks kill 13 in Gaza, including 2 children and a pregnant woman",
-        "link": "https://www.aljazeera.com/news/2026/3/15/israeli-attacks-kill-12-in-gaza-including-2-children-and-a-pregnant-woman?traffic_source=rss"
+        "title": "Oil prices keep rising as Trump seeks coalition to reopen Strait of Hormuz",
+        "link": "https://www.aljazeera.com/economy/2026/3/16/oil-prices-keep-rising-as-trump-seeks-coalition-to-reopen-strait-of-hormuz?traffic_source=rss"
       },
       {
-        "title": "What’s the impact of the Iran war on China?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/3/15/whats-the-impact-of-the-iran-war-on-china?traffic_source=rss"
+        "title": "US-Israeli strike pounds city of Hamadan, Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israeli-strike-pounds-city-of-hamadan-iran?traffic_source=rss"
       },
       {
-        "title": "Iran’s ambassador to Saudi Arabia denies attacks on its oil facilities",
-        "link": "https://www.aljazeera.com/news/2026/3/15/iranian-ambassador-to-saudia-arabia-denies-attacks-on-oil-infrasture?traffic_source=rss"
+        "title": "First face of Al Jazeera Jamal Rayyan dies at 73",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/first-face-of-al-jazeera-jamal-rayyan-dies-at-73?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +86,24 @@
     ],
     "Dawn": [
       {
-        "title": "PM Shehbaz directs formulation of strategy for exporting surplus food items to Gulf countries",
-        "link": "https://www.dawn.com/news/1982358/pm-shehbaz-directs-formulation-of-strategy-for-exporting-surplus-food-items-to-gulf-countries"
+        "title": "Iran warns other nations to stay away as US looks to expand war",
+        "link": "https://www.dawn.com/news/1982507/iran-warns-other-nations-to-stay-away-as-us-looks-to-expand-war"
       },
       {
-        "title": "1 dead as Lahore-bound Shalimar Express derails after colliding with goods train in Naushahro Feroze",
-        "link": "https://www.dawn.com/news/1982353/1-dead-as-lahore-bound-shalimar-express-derails-after-colliding-with-goods-train-in-naushahro-feroze"
+        "title": "US, Chinese economic chiefs meet to pave way for Trump-Xi summit",
+        "link": "https://www.dawn.com/news/1982498/us-chinese-economic-chiefs-meet-to-pave-way-for-trump-xi-summit"
       },
       {
-        "title": "‘I am dead … for coffee’: Israeli PM Netanyahu posts his video amid speculation about his death",
-        "link": "https://www.dawn.com/news/1982385/i-am-dead-for-coffee-israeli-pm-netanyahu-posts-his-video-amid-speculation-about-his-death"
+        "title": "ADB gives ‘final chance’ to $360m Central Asia Regional Economic Corridor project",
+        "link": "https://www.dawn.com/news/1982518/adb-gives-final-chance-to-360m-central-asia-regional-economic-corridor-project"
       },
       {
-        "title": "Overnight strikes in Afghanistan’s Kandahar target ‘terrorist hideouts and military infrastructure’, says state media",
-        "link": "https://www.dawn.com/news/1982323/overnight-strikes-in-afghanistans-kandahar-target-terrorist-hideouts-and-military-infrastructure-says-state-media"
+        "title": "Islamabad calls for global action against Islamophobia",
+        "link": "https://www.dawn.com/news/1982501/islamabad-calls-for-global-action-against-islamophobia"
       },
       {
-        "title": "Punjab govt to take legal action against those involved in ‘malicious campaign’ over use of official jet",
-        "link": "https://www.dawn.com/news/1982339/punjab-govt-to-take-legal-action-against-those-involved-in-malicious-campaign-over-use-of-official-jet"
+        "title": "Eid holidays on 20th, 21st notified; first special train departs today",
+        "link": "https://www.dawn.com/news/1982505/eid-holidays-on-20th-21st-notified-first-special-train-departs-today"
       }
     ],
     "APNews": [],
@@ -95,10 +111,6 @@
       {
         "title": "Entering War’s Third Week, Trump Faces Stark Choices",
         "link": "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html"
-      },
-      {
-        "title": "After Trump’s Call to Send Warships to Strait of Hormuz, Nations Respond With Caution",
-        "link": "https://www.nytimes.com/2026/03/15/world/middleeast/trump-strait-of-hormuz-iran-warships.html"
       },
       {
         "title": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
@@ -111,72 +123,76 @@
       {
         "title": "Confidential Report Calls for Sweeping Changes to Track Covid Vaccine Harms",
         "link": "https://www.nytimes.com/2026/03/15/health/covid-vaccine-side-effects-cdc-acip.html"
+      },
+      {
+        "title": "Kennedy Center Board to Vote Monday on Trump’s Proposed Closure",
+        "link": "https://www.nytimes.com/2026/03/15/us/politics/trump-kennedy-center-board-closure.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "il prices climb as Israeli-US war raises supply fears",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/il-prices-climb-israeli-us-war-raises-supply-fears"
+        "title": "Dubai airport operations suspended after fuel tank fire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/dubai-airport-operations-suspended-after-fuel-tank-fire"
       },
       {
-        "title": "Macron tells Iran targeting France in conflict is unacceptable",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-tells-iran-targeting-france-conflict-unacceptable"
+        "title": "Video: Thousands gather in London for annual Al-Quds Day rally",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-thousands-gather-london-annual-al-quds-day-rally"
       },
       {
-        "title": "Israeli strike hits Beirut’s southern suburbs",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-hits-beiruts-southern-suburbs-0"
+        "title": "US Officials say escort mission in Hormuz may take weeks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-officials-say-escort-mission-hormuz-may-take-weeks"
       },
       {
-        "title": "Israeli strikes in south Lebanon kill 10, wound 13",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-south-lebanon-kill-10-wound-13"
+        "title": "Iran arrests hundreds accused of sharing information with adversaries",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-arrests-hundreds-accused-sharing-information-adversaries"
       },
       {
-        "title": "Iran raises minimum wage by more than 60 percent",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-raises-minimum-wage-more-60-percent"
+        "title": "Israeli strikes in south Lebanon kill 10, ministry says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-south-lebanon-kill-10-ministry-says"
       }
     ],
     "GeoTV": [
       {
-        "title": "Conan O'Brien mocks Timothée Chalamet and other at Oscars 2026",
-        "link": "https://www.geo.tv/latest/655835-conan-obrien-mocks-timothe-chalamet-and-other-at-oscars-2026"
+        "title": "Timothée Chalamet loses Oscars 2026 to Michael B. Jordan",
+        "link": "https://www.geo.tv/latest/655843-timothe-chalamet-loses-oscars-2026-to-michael-b-jordan"
       },
       {
-        "title": "Duchess Sophie and Prince Edward embark on another secret royal mission",
-        "link": "https://www.geo.tv/latest/655834-duchess-sophie-and-prince-edward-embark-on-another-secret-royal-mission"
+        "title": "Chris Evans, wife Alba Baptista channel parenthood at Oscars 2026",
+        "link": "https://www.geo.tv/latest/655841-chris-evans-wife-alba-baptista-channel-parenthood-at-oscars-2026"
       },
       {
-        "title": "Princess Kate's Queen's pearls catch expert eye",
-        "link": "https://www.geo.tv/latest/655830-princess-kates-queens-pearls-catch-expert-eye"
+        "title": "Oscars has its first-ever ‘Casting' winner in 2026",
+        "link": "https://www.geo.tv/latest/655839-oscars-has-its-first-ever-casting-winner-in-2026-cassandra-kulukundis"
       },
       {
-        "title": "Kevin O'Leary places major bet on Timothee Chalamet's 2026 Oscars win",
-        "link": "https://www.geo.tv/latest/655833-kevin-oleary-places-major-bet-on-timothee-chalamets-2026-oscars-win"
+        "title": "Ricky Gervais didn't even want to host Oscars 2026",
+        "link": "https://www.geo.tv/latest/655838-ricky-gervais-didnt-even-want-to-host-oscars-2026"
       },
       {
-        "title": "King Charles and Camilla congratulate Team GB on Winter Paralympic triumphs",
-        "link": "https://www.geo.tv/latest/655831-king-charles-and-camilla-congratulate-team-gb-on-winter-paralympic-triumphs"
+        "title": "‘The Fifth Wheel' Fortune Feimster gushes over working with Kim Kardashian",
+        "link": "https://www.geo.tv/latest/655836-the-fifth-wheel-fortune-feimster-gushes-over-working-with-kim-kardashian"
       }
     ],
     "NDTV": [
       {
-        "title": "26 Elected To Rajya Sabha Unopposed. Big Fight In Three States",
-        "link": "https://www.ndtv.com/india-news/26-elected-to-rajya-sabha-unopposed-big-fight-in-three-states-11219790#publisher=newsstand"
+        "title": "US-Israel-Iran War LIVE: Trump Warns NATO Of 'Very Bad Future' If Allies Don't Help With Strait Of Hormuz",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-news-updates-donald-trump-mojtaba-khamenei-dubai-uae-baghdad-kuwait-airport-11217035#publisher=newsstand"
       },
       {
-        "title": "Arvind Kejriwal In Supreme Court, Challenges Decision In Excise Policy Case",
-        "link": "https://www.ndtv.com/india-news/arvind-kejriwal-in-supreme-court-challenges-decision-in-excise-policy-case-11219831#publisher=newsstand"
+        "title": "Stock Market LIVE Updates: GIFT Nifty Signals Positive Open Even As Oil Jumps",
+        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-gift-nifty-signals-positive-open-even-as-oil-rallies-asia-markets-tank-11220583#publisher=newsstand"
       },
       {
-        "title": "Iran Arrests Dozens Of People Accused Of 'Spying' For Israel",
-        "link": "https://www.ndtv.com/world-news/iran-arrests-dozens-of-people-accused-of-spying-for-israel-11218481#publisher=newsstand"
+        "title": "'Forgive All, Time To Go Now': Harish Rana's Emotional Farewell With Family",
+        "link": "https://www.ndtv.com/india-news/harish-ranas-emotional-farewell-with-family-before-life-support-withdrawal-forgive-all-time-to-go-now-euthanasia-supreme-court-11220617#publisher=newsstand"
       },
       {
-        "title": "Iranian Women Footballers Who Sought Asylum In Australia To Return Home",
-        "link": "https://www.ndtv.com/world-news/iranian-women-footballers-who-sought-asylum-in-australia-to-return-home-11216649#publisher=newsstand"
+        "title": "Massive Fire Near Dubai Airport After Iranian Drone Strike, Flights Suspended",
+        "link": "https://www.ndtv.com/world-news/iran-war-massive-fire-near-dubai-international-airport-as-iranian-drones-strike-11220351#publisher=newsstand"
       },
       {
-        "title": "Ladakh Groups Say Will Go Ahead With Shutdown Today To Demand Statehood",
-        "link": "https://www.ndtv.com/india-news/ladakh-groups-say-will-go-ahead-with-shutdown-today-to-demand-statehood-11219766#publisher=newsstand"
+        "title": "Rajya Sabha Elections LIVE Updates:  Rajya Sabha Elections LIVE Updates: Voting Begins Today For 37 Seats Across 10 States",
+        "link": "https://www.ndtv.com/india-news/rajya-sabha-elections-live-updates-nitish-kumar-nitin-nabin-in-fray-parliament-voting-begins-today-for-37-seats-across-10-states-11220598#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +218,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-15 23:58 UTC"
+  "last_updated": "2026-03-16 03:27 UTC"
 }
