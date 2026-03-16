@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Family 'beyond devastated' by meningitis death as hundreds get antibiotics",
+        "link": "https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "What are the symptoms of meningitis and is there a vaccine?",
         "link": "https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,32 +21,28 @@
       {
         "title": "Elusive nightjar birds making remarkable comeback, conservationists say",
         "link": "https://www.bbc.com/news/articles/c7952d4dwd8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "King hits the DJ decks on city arts venue visit",
-        "link": "https://www.bbc.com/news/articles/c9q58x3vxp3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Cuba electric grid collapses amid US oil blockade causing national blackout",
+        "link": "https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout?traffic_source=rss"
+      },
+      {
+        "title": "BBC files motion asking US court to throw out Trump’s $10bn lawsuit",
+        "link": "https://www.aljazeera.com/news/2026/3/16/bbc-files-motion-asking-us-court-to-throw-out-trumps-10bn-lawsuit?traffic_source=rss"
+      },
+      {
+        "title": "How big of a problem is the Strait of Hormuz for Donald Trump?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/16/how-big-of-a-problem-is-the-strait-of-hormuz-for-donald-trump?traffic_source=rss"
+      },
+      {
+        "title": "Hezbollah rocket hits a residential building in Israel’s Nahariya",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/hezbollah-rocket-hits-a-residential-building-in-israels-nahariya?traffic_source=rss"
+      },
+      {
         "title": "Israeli forces in southern Lebanon as ground operation announced",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-forces-in-southern-lebanon-as-ground-operation-announced?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Hormuz Strait help ‘on the way’ as allies reject military action",
-        "link": "https://www.aljazeera.com/news/2026/3/16/trump-says-hormuz-strait-help-on-the-way-as-allies-reject-military-action?traffic_source=rss"
-      },
-      {
-        "title": "Outrage as Afghan asylum seeker who fought alongside US dies in ICE custody",
-        "link": "https://www.aljazeera.com/news/2026/3/16/outrage-as-afghan-asylum-seeker-who-fought-alongside-us-dies-in-ice-custody?traffic_source=rss"
-      },
-      {
-        "title": "Indian farmers dress up as bears to protect crops from monkeys",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/indian-farmers-dress-up-as-bears-to-protect-crops-from-monkeys?traffic_source=rss"
-      },
-      {
-        "title": "Civilians pulled from rubble after US-Israeli strikes on Tehran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/civilians-pulled-from-rubble-after-us-israeli-strikes-on-tehran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -105,37 +105,49 @@
         "link": "https://www.nytimes.com/2026/03/16/us/politics/dr-oz-transgender-meeting.html"
       },
       {
-        "title": "In Choosing ‘Epic Fury,’ Trump Names a War and Defines His Presidency",
-        "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-operation-epic-fury-anger.html"
+        "title": "With Threats and Claims of ‘Treason,’ Trump Pressures Media on the War",
+        "link": "https://www.nytimes.com/2026/03/16/business/media/trump-iran-media-coverage.html"
       },
       {
-        "title": "Europe Rejects Trump’s Demands for Warships to Reopen the Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/03/16/world/europe/europe-iran-war-trump-hormuz-warships.html"
+        "title": "In Choosing ‘Epic Fury,’ Trump Names a War and Defines His Presidency",
+        "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-operation-epic-fury-anger.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "European leaders warn against Israeli ground incursion into Lebanon",
+        "link": "https://www.middleeasteye.net/news/european-leaders-urge-against-israeli-ground-incursion-lebanon"
+      },
+      {
+        "title": "Reza Pahlavi’s supporters in Iran are turning against him",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/reza-pahlavis-supporters-iran-are-turning-against-him"
+      },
+      {
+        "title": "Kuwait arrests 16 accused of Hezbollah-linked sabotage plot",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-arrests-16-accused-hezbollah-linked-sabotage-plot"
+      },
+      {
+        "title": "Israeli strike in Iraq kills six PMF fighters in Anbar province",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-iraq-kills-six-pmf-fighters-anbar-province"
+      },
+      {
         "title": "Trump clashes with Nato countries over refusal to help reopen Strait of Hormuz",
         "link": "https://www.middleeasteye.net/news/trump-clashes-nato-countries-over-refusal-help-reopen-strait-hormuz"
-      },
-      {
-        "title": "Iran’s Larijani urges Muslim states to back Tehran against US and Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-larijani-urges-muslim-states-back-tehran-against-us-and-israel"
-      },
-      {
-        "title": "US says 200 troops have been wounded in the war with Iran, 10 seriously wounded",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-200-troops-have-been-wounded-war-iran-10-seriously-wounded"
-      },
-      {
-        "title": "Qatar says 14 Iranian ballistic missiles launched from Iran, most intercepted",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-14-iranian-ballistic-missiles-launched-iran-most-intercepted"
-      },
-      {
-        "title": "More registered US voters view Israel negatively than positively, poll finds",
-        "link": "https://www.middleeasteye.net/news/more-us-voters-now-view-israel-negatively-positively-poll-finds"
       }
     ],
     "GeoTV": [
+      {
+        "title": "EU rejects Trump call to join Hormuz naval mission",
+        "link": "https://www.geo.tv/latest/655993-eu-rejects-trump-call-to-join-hormuz-naval-mission"
+      },
+      {
+        "title": "Prince Harry calls Meghan's roses 'beautiful' in surprise video",
+        "link": "https://www.geo.tv/latest/655986-prince-harry-calls-meghans-roses-beautiful-in-surprise-video"
+      },
+      {
+        "title": "Timothee Chalamet, Kylie Jenner walked out of Oscars 2026",
+        "link": "https://www.geo.tv/latest/655992-timothee-chalamet-kylie-jenner-walked-out-of-oscars-2026"
+      },
       {
         "title": "Conan O'Brien hilariously reveals what saved marriage to Liza Powel",
         "link": "https://www.geo.tv/latest/655991-conan-obrien-hilariously-reveals-what-saved-marriage-to-liza-powel"
@@ -143,21 +155,17 @@
       {
         "title": "Spotify invites BTS's biggest fans to secret NYC event: Here's how to get in",
         "link": "https://www.geo.tv/latest/655989-spotify-invites-btss-biggest-fans-to-secret-nyc-event-heres-how-to-get-in"
-      },
-      {
-        "title": "Did US just attack Cuba? National grid collapse raises concerns",
-        "link": "https://www.geo.tv/latest/655987-did-us-just-attack-cuba-national-grid-collapse-raises-concerns"
-      },
-      {
-        "title": "King Charles pushes on royal meetings as Carney calls for Andrew's ouster",
-        "link": "https://www.geo.tv/latest/655975-king-charles-pushes-on-royal-meetings-as-carney-calls-for-andrews-ouster"
-      },
-      {
-        "title": "Reese Witherspoon, Jennifer Aniston begin filming 'Morning Show' season 5",
-        "link": "https://www.geo.tv/latest/655984-reese-witherspoon-jennifer-aniston-begin-filming-morning-show-season-5"
       }
     ],
     "NDTV": [
+      {
+        "title": "Iran, US Have Been In Direct Contact In Recent Days: Reports",
+        "link": "https://www.ndtv.com/world-news/iran-war-iran-us-have-been-in-direct-contact-in-recent-days-reports-11225004#publisher=newsstand"
+      },
+      {
+        "title": "Trump Seeks To Reopen Strait Of Hormuz Amid Iran War",
+        "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-seeks-to-reopen-strait-of-hormuz-amid-iran-war-11224979#publisher=newsstand"
+      },
       {
         "title": "'Arbitrary, Unilateral Move': Mamata Banerjee To Poll Chief Over Reshuffle",
         "link": "https://www.ndtv.com/india-news/risk-diluting-legacy-mamata-banerjee-to-poll-chief-over-officers-removal-11224860#publisher=newsstand"
@@ -169,14 +177,6 @@
       {
         "title": "Netanyahu's Video Proof Of Being Alive Hits A \"Disappearing\" Ring Problem",
         "link": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-netanyahus-disappearing-ring-in-new-video-sparks-fresh-ai-debate-11224783#publisher=newsstand"
-      },
-      {
-        "title": "Video: Cars Abandoned, Tourists Stranded Near Atal Tunnel Amid Snowfall",
-        "link": "https://www.ndtv.com/india-news/manali-snowfall-video-cars-abandoned-tourists-stranded-near-atal-tunnel-amid-snowfall-11224857#publisher=newsstand"
-      },
-      {
-        "title": "Trump Pushes For 'Enthusiasm' From US Allies To Secure Strait of Hormuz",
-        "link": "https://www.ndtv.com/world-news/trump-pushes-for-enthusiasm-from-us-allies-to-secure-strait-of-hormuz-11224821#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-16 20:36 UTC"
+  "last_updated": "2026-03-16 21:21 UTC"
 }
