@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE: Markets Open In Green As Wall Street, Asian Peers Edge Higher",
-      "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-50-markets-likely-to-open-in-green-as-wall-street-asian-peers-edge-higher-11225579#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,30 +19,30 @@
         "link": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Afghanistan accuses Pakistan of killing hundreds in hospital strike",
+        "title": "Dozens killed after Afghanistan rehab hospital struck",
         "link": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Epstein urged media mogul to give up control of affairs, citing health",
+        "link": "https://www.aljazeera.com/economy/2026/3/17/epstein-urged-media-mogul-to-give-up-control-of-affairs-citing-health?traffic_source=rss"
+      },
+      {
+        "title": "Iran negotiating with FIFA to move World Cup 2026 matches from US to Mexico",
+        "link": "https://www.aljazeera.com/sports/2026/3/17/iran-negotiating-with-fifa-to-move-world-cup-2026-matches-from-us-to-mexico?traffic_source=rss"
+      },
+      {
+        "title": "EU says Iran is ‘not Europe’s war’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/eu-says-iran-is-not-europes-war?traffic_source=rss"
+      },
+      {
+        "title": "Marine turned anti-war protester says Trump wrong on Israel, Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/marine-turned-anti-war-protester-says-trump-wrong-on-israel-iran?traffic_source=rss"
+      },
+      {
         "title": "Venezuela defeats Italy, sets up WBC final against US",
         "link": "https://www.aljazeera.com/sports/2026/3/17/venezuela-defeats-italy-sets-up-wbc-final-against-us?traffic_source=rss"
-      },
-      {
-        "title": "South African fruit exports face delays as Iran war disrupts shipping",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/south-african-fruit-exports-face-delays-as-iran-war-disrupts-shipping?traffic_source=rss"
-      },
-      {
-        "title": "Cuba tells exiles ‘doors are open’ to invest in businesses in the country",
-        "link": "https://www.aljazeera.com/economy/2026/3/17/cuba-tells-exiles-doors-are-open-to-invest-in-businesses-in-the-country?traffic_source=rss"
-      },
-      {
-        "title": "Cuba faces nationwide blackouts amid US oil blockade",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/cuba-faces-nationwide-blackouts-amid-us-oil-blockade?traffic_source=rss"
-      },
-      {
-        "title": "Top Democrat in US House slams Trump’s ‘reckless war of choice’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/top-democrat-in-us-house-slams-trumps-reckless-war-of?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1982933/us-iran-officials-make-first-direct-contact-since-war-say-us-media"
       },
       {
+        "title": "UN marks International Day to Combat Islamophobia with alarm over rising hate, discrimination against Muslims",
+        "link": "https://www.dawn.com/news/1982943/un-marks-international-day-to-combat-islamophobia-with-alarm-over-rising-hate-discrimination-against-muslims"
+      },
+      {
         "title": "PM orders salaries for govt employees before Eid",
         "link": "https://www.dawn.com/news/1982887/pm-orders-salaries-for-govt-employees-before-eid"
       },
@@ -90,10 +88,6 @@
       {
         "title": "Punjab to buy 10 vehicles for superior court judges",
         "link": "https://www.dawn.com/news/1982901/punjab-to-buy-10-vehicles-for-superior-court-judges"
-      },
-      {
-        "title": "Minab school strike violated humanitarian law: Amnesty",
-        "link": "https://www.dawn.com/news/1982868/minab-school-strike-violated-humanitarian-law-amnesty"
       }
     ],
     "APNews": [],
@@ -107,12 +101,12 @@
         "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-war.html"
       },
       {
-        "title": "As American Bombers Take Off From R.A.F. Fairford in UK, Iraq War Looms Large",
-        "link": "https://www.nytimes.com/2026/03/17/world/europe/iran-uk-raf-fairford-starmer-trump.html"
+        "title": "What the Iran War Means for the U.S.-China Relationship",
+        "link": "https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html"
       },
       {
-        "title": "As War With Iran Hurts Oil Prices, U.S. Turns to Iranian Boats for Help",
-        "link": "https://www.nytimes.com/2026/03/17/business/iran-war-boats-russian-oil.html"
+        "title": "As American Bombers Take Off From R.A.F. Fairford in UK, Iraq War Looms Large",
+        "link": "https://www.nytimes.com/2026/03/17/world/europe/iran-uk-raf-fairford-starmer-trump.html"
       },
       {
         "title": "Cuba Ready to Accept Outside Investment, Top Official Says",
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Three-day-old infant among family killed in US-Israeli strike in Iran's Arak",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-day-old-infant-among-family-killed-us-israeli-strike-irans-arak"
+        "title": "One killed by falling debris from intercepted missile in Abu Dhabi",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-falling-debris-intercepted-missile-abu-dhabi"
       },
       {
-        "title": "Thailand talking to Russia over oil supply during Hormuz crises",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/thailand-talking-russia-over-oil-supply-during-hormuz-crises"
+        "title": "IMO chief says naval escorts will not guarantee safe passage through Strait of Hormuz, FT reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-chief-says-naval-escorts-will-not-guarantee-safe-passage-through"
       },
       {
-        "title": "Debris from interception sparks fire in Doha industrial area, ministry says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/debris-interception-sparks-fire-doha-industrial-area-ministry-says"
+        "title": "Iran says 10 foreign-linked 'mercenaries' arrested for espionage",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-10-foreign-linked-mercenaries-arrested-espionage"
       },
       {
-        "title": "Drone intercepted in Kuwait; loud booms reported in Doha",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-intercepted-kuwait-loud-booms-reported-doha"
+        "title": "How Israel is using the war on Iran to control religious sites in Jerusalem",
+        "link": "https://www.middleeasteye.net/opinion/israel-using-war-iran-control-religious-sites-jerusalem-how"
       },
       {
-        "title": "Report: IRGC's Basij force base hit as explosions rock Tehran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-irgcs-basij-force-base-hit-explosions-rock-tehran"
+        "title": "Four killed as US forces, Iraqi militia exchange fire in Baghdad",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-killed-us-forces-iraqi-militia-exchange-fire-baghdad"
       }
     ],
     "GeoTV": [
       {
-        "title": "Dua Lipa shares heartwarming moment with Elton John at Oscars viewing party",
-        "link": "https://www.geo.tv/latest/656016-dua-lipa-shares-heartwarming-moment-with-elton-john-at-oscars-viewing-party"
+        "title": "Megan Fox owns her moment in viral social media post",
+        "link": "https://www.geo.tv/latest/656024-megan-fox-owns-her-moment-in-viral-social-media-post"
       },
       {
-        "title": "Meghan Markle receives surprise message after nod to special UK tradition",
-        "link": "https://www.geo.tv/latest/656017-meghan-markle-receives-surprise-message-after-nod-to-special-uk-tradition"
+        "title": "Iran 'negotiating' with Fifa over moving World Cup games to Mexico: embassy",
+        "link": "https://www.geo.tv/latest/656021-iran-negotiating-with-fifa-over-moving-world-cup-games-to-mexico-embassy"
       },
       {
-        "title": "Americans' support for Palestinians rises: survey",
-        "link": "https://www.geo.tv/latest/656014-ameri"
+        "title": "Who is Kiki Shepard? ‘Showtime at the Apollo' co-host breathes last at 74",
+        "link": "https://www.geo.tv/latest/656025-who-is-kiki-shepard-showtime-at-the-apollo-co-host-breathes-last-at-74"
       },
       {
-        "title": "The cost of new wars",
-        "link": "https://www.geo.tv/latest/656010-the-cost-of-new-wars"
+        "title": "Sarah Michelle Gellar finally reveals what really killed ‘Buffy' reboot",
+        "link": "https://www.geo.tv/latest/656019-sarah-michelle-gellar-finally-reveals-what-really-killed-buffy-reboot"
       },
       {
-        "title": "Oil prices jump again as worries grow over Hormuz",
-        "link": "https://www.geo.tv/latest/656008-oil-prices-jump-again-as-worries-grow-over-hormuz"
+        "title": "King Charles US tour finally gets major update amid cancellation calls",
+        "link": "https://www.geo.tv/latest/656018-king-charles-us-tour-finally-gets-major-update-amid-cancellation-calls"
       }
     ],
     "NDTV": [
       {
-        "title": "Stock Market LIVE: Markets Open In Green As Wall Street, Asian Peers Edge Higher",
-        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-50-markets-likely-to-open-in-green-as-wall-street-asian-peers-edge-higher-11225579#publisher=newsstand"
-      },
-      {
-        "title": "How Iran's New Leader Mojtaba Khamenei Escaped Death By Seconds In US Strike",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-how-irans-new-leader-mojtaba-khamenei-escaped-death-by-seconds-in-us-strike-11225719#publisher=newsstand"
-      },
-      {
-        "title": "Iran War Live Updates: Loud Blasts Heard In Dubai, Doha Again",
+        "title": "Iran War Live Updates: Pak National Killed Due To Missile Debris In Abu Dhabi",
         "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-news-updates-donald-trump-mojtaba-khamenei-dubai-uae-baghdad-kuwait-airport-11217035#publisher=newsstand"
       },
       {
-        "title": "Gold, Silver Prices Drop Marginally: Check Rates In Your City Today",
-        "link": "https://www.ndtv.com/india-news/gold-silver-prices-drop-marginally-check-rates-in-your-city-today-march-17-11225764#publisher=newsstand"
+        "title": "\"Will Respond In Their Language\": Taliban Official To NDTV On Pak Strikes",
+        "link": "https://www.ndtv.com/world-news/pakistan-afghanistan-war-kabul-hospital-taliban-official-suhail-shaheen-to-ndtv-will-respond-in-their-language-11226071#publisher=newsstand"
       },
       {
-        "title": "A Rs 2,000 Deposit, A Scholarship Promise And A Big Karnataka Cyber Scam",
-        "link": "https://www.ndtv.com/india-news/gadag-a-rs-2-000-deposit-a-scholarship-promise-and-a-big-karnataka-cyber-scam-11225717#publisher=newsstand"
+        "title": "Father Dead, Officer Reduced To \"Kilos Of Flesh\", How Mojtaba Survived Attack",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-how-irans-new-leader-mojtaba-khamenei-escaped-death-by-seconds-in-us-strike-11225719#publisher=newsstand"
+      },
+      {
+        "title": "Iranian Drones Target US Embassy, Hotel In Baghdad. Oilfield Also Attacked",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-iranian-drones-target-us-embassy-hotel-in-baghdad-oilfield-also-attacked-11226043#publisher=newsstand"
+      },
+      {
+        "title": "\"Protection, Welfare Of Armed Forces A Core Government Function\": Supreme Court",
+        "link": "https://www.ndtv.com/india-news/protection-welfare-of-armed-forces-a-core-government-function-supreme-court-11225931#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-17 05:10 UTC"
+  "last_updated": "2026-03-17 06:13 UTC"
 }
