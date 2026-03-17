@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Manchester City vs Real Madrid – Champions League last 16",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/17/live-manchester-city-vs-real-madrid-champions-league-last-16?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -21,7 +15,7 @@
         "link": "https://www.bbc.com/news/articles/c3rzg0vg947o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Focus must remain on Ukraine despite Iran war, PM says as he meets President Zelensky",
+        "title": "Iran and Russia are 'brothers in hatred', Zelensky tells MPs",
         "link": "https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -30,6 +24,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US confirms 157 killed in maritime strikes experts call ‘extrajudicial’",
+        "link": "https://www.aljazeera.com/news/2026/3/17/us-confirms-157-killed-in-maritime-strikes-experts-call-extrajudicial?traffic_source=rss"
+      },
+      {
+        "title": "Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention",
+        "link": "https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss"
+      },
       {
         "title": "Video: Man rescued from under rubble after attack in Iran",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-man-rescued-from-under-rubble-after-attack-in-iran?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Israel carrying out ‘mass expulsion of Palestinians’ in West Bank, UN warns",
         "link": "https://www.aljazeera.com/news/2026/3/17/israel-carrying-out-mass-expulsion-of-palestinians-in-west-bank-un-warns?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Manchester City vs Real Madrid – Champions League last 16",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/17/live-manchester-city-vs-real-madrid-champions-league-last-16?traffic_source=rss"
-      },
-      {
-        "title": "Why Iranians are taking to Tehran’s streets during war",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/17/aje-onl-irn_fromwithin_av_v3-170326?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -88,12 +82,12 @@
         "link": "https://www.dawn.com/news/1983051/govt-calls-off-pakistan-day-parade-associated-events-amid-austerity-measures"
       },
       {
-        "title": "Information ministry rubbishes Afghan Taliban’s claims of hospital being hit in Kabul",
-        "link": "https://www.dawn.com/news/1983000/information-ministry-rubbishes-afghan-talibans-claims-of-hospital-being-hit-in-kabul"
+        "title": "Lahore-bound PIA flight from Fujerah lands in Karachi due to ‘snag’, will be ‘dispatched to original destination shortly’",
+        "link": "https://www.dawn.com/news/1983110/lahore-bound-pia-flight-from-fujerah-lands-in-karachi-due-to-snag-will-be-dispatched-to-original-destination-shortly"
       },
       {
-        "title": "KP govt announces three-day Eid holiday",
-        "link": "https://www.dawn.com/news/1983101/kp-govt-announces-three-day-eid-holiday"
+        "title": "Information ministry rubbishes Afghan Taliban’s claims of hospital being hit in Kabul",
+        "link": "https://www.dawn.com/news/1983000/information-ministry-rubbishes-afghan-talibans-claims-of-hospital-being-hit-in-kabul"
       }
     ],
     "APNews": [],
@@ -121,27 +115,35 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Seven drones intercepted in past hours, Saudi Arabia says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-drones-intercepted-past-hours-saudi-arabia-says"
+      },
+      {
+        "title": "Leqaa Kordia, longest-detained pro-Palestine protester, freed from ICE custody",
+        "link": "https://www.middleeasteye.net/news/longest-detained-pro-palestine-protester-leqaa-kordia-freed-ice-custody"
+      },
+      {
+        "title": "Ali Larijani: What does the death of philosopher security chief mean for Iran?",
+        "link": "https://www.middleeasteye.net/news/ali-larijani-what-does-death-philosopher-security-chief-mean-iran"
+      },
+      {
+        "title": "Unrealistic to expect 'controlled regime change' in Iran, Germany says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/unrealistic-expect-controlled-regime-change-iran-germany-says"
+      },
+      {
         "title": "US counterterror chief says in resignation letter Israel 'deceived' Trump into attacking Iran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-counterterror-chief-says-resignation-letter-israel-deceived-trump"
-      },
-      {
-        "title": "US embassy and diplomatic facility in Baghdad targeted by rocket and drone attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-and-diplomatic-facility-baghdad-targeted-rocket-and-drone"
-      },
-      {
-        "title": "US counterterror chief says in resignation letter Israel 'deceived' Trump into attacking Iran",
-        "link": "https://www.middleeasteye.net/news/us-counterterrorism-chief-says-israel-deceived-trump-attacking-iran-resignation-letter"
-      },
-      {
-        "title": "UAE could join international effort to secure Strait of Hormuz, says adviser",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-could-join-international-effort-secure-strait-hormuz-says-adviser"
-      },
-      {
-        "title": "Israel has ‘won’ war with Iran, Israeli foreign minister says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-has-won-war-iran-israeli-foreign-minister-says"
       }
     ],
     "GeoTV": [
+      {
+        "title": "France signals conditional support for Strait of Hormuz security mission",
+        "link": "https://www.geo.tv/latest/656140-france-signals-conditional-support-for-strait-of-hormuz-security-mission"
+      },
+      {
+        "title": "US April 2026 visa bulletin in out: See latest green card priority dates",
+        "link": "https://www.geo.tv/latest/656137-us-april-2026-visa-bulletin-in-out-see-latest-green-card-priority-dates"
+      },
       {
         "title": "Ruth Langsford and Eamonn Holmes left in tears during painful goodbye",
         "link": "https://www.geo.tv/latest/656138-ruth-langsford-and-eamonn-holmes-left-in-tears-during-painful-goodbye"
@@ -153,36 +155,28 @@
       {
         "title": "Sebastian Stan expecting 1st child with girlfriend Annabelle Wallis: Report",
         "link": "https://www.geo.tv/latest/656136-sebastian-stan-expecting-1st-child-with-girlfriend-annabelle-wallis-report"
-      },
-      {
-        "title": "Who is Ali Larijani? Why his death changes everything for Iran",
-        "link": "https://www.geo.tv/latest/656133-who-is-ali-larijani-why-his-death-changes-everything-for-iran"
-      },
-      {
-        "title": "FIH Men's Hockey World Cup 2026: Pakistan, India drawn in same pool",
-        "link": "https://www.geo.tv/latest/656125-fih-mens-hockey-world-cup-2026-pakistan-india-drawn-in-same-pool"
       }
     ],
     "NDTV": [
       {
-        "title": "Video: Thick Smoke Blankets Manhattan Skyline As Firefighters Battle Blaze",
-        "link": "https://www.ndtv.com/world-news/manhattan-fire-st-patrick-day-video-thick-smoke-blankets-manhattan-skyline-as-firefighters-battle-blaze-11229463#publisher=newsstand"
+        "title": "'Will Work Together For Restoration Of Peace': PM Modi Speaks To UAE President",
+        "link": "https://www.ndtv.com/india-news/will-work-together-for-restoration-of-peace-pm-modi-speaks-to-uae-president-11229912#publisher=newsstand"
       },
       {
-        "title": "\"Weak On Security, Good Thing He's Out\": Trump On Top Official's Exit Over Iran",
-        "link": "https://www.ndtv.com/world-news/iran-war-live-joe-kent-resignation-donald-trump-weak-on-security-good-thing-hes-out-trump-on-top-counterterrorism-officials-exit-over-iran-11229462#publisher=newsstand"
+        "title": "BJP To Contest In 89 Out Of 126 Assembly Seats In Assam: Himanta Sarma",
+        "link": "https://www.ndtv.com/india-news/assam-elections-2026-bjp-to-contest-in-89-out-of-126-assembly-seats-in-assam-himanta-sarma-11229910#publisher=newsstand"
       },
       {
-        "title": "\"Ideologically, No Place For Me In Current JDU\": KC Tyagi To NDTV On Exit",
-        "link": "https://www.ndtv.com/india-news/ideologically-no-place-for-me-in-current-jd-u-kc-tyagi-to-ndtv-on-exit-11229300#publisher=newsstand"
+        "title": "Watch: To Shoot Reel, Bengaluru Woman Tries To \"Courier\" Father In Sack",
+        "link": "https://www.ndtv.com/india-news/watch-to-shoot-reel-bengaluru-woman-tries-to-courier-father-in-sack-11229836#publisher=newsstand"
       },
       {
-        "title": "Bengaluru Cafe's Brief Viral Fame Turns Out Gas After U-Turn On Bill",
-        "link": "https://www.ndtv.com/bangalore-news/bengaluru-theo-cafe-brief-viral-fame-turns-out-gas-after-u-turn-on-bill-11229435#publisher=newsstand"
+        "title": "Data Shows How Gulf Nations Drive India's Basmati Exports",
+        "link": "https://www.ndtv.com/world-news/data-shows-how-gulf-nations-drive-indias-basmati-exports-11229875#publisher=newsstand"
       },
       {
-        "title": "Iran War Live Updates: US Does 'Not Need' Help From Allies On Iran, Trump Says",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-news-updates-donald-trump-mojtaba-khamenei-dubai-uae-baghdad-kuwait-airport-11217035#publisher=newsstand"
+        "title": "Global Shipping Costs Surge As Middle East Tensions Hit Sea Routes",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-global-shipping-costs-surge-as-middle-east-tensions-hit-sea-routes-11229859#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-17 17:43 UTC"
+  "last_updated": "2026-03-17 18:39 UTC"
 }
