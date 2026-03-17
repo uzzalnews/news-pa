@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Scotland's assisted dying bill rejected after emotional debate",
+        "link": "https://www.bbc.com/news/articles/c33j3nd1kvko?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Zelensky calls for Trump and Starmer to meet and find common ground",
         "link": "https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,13 @@
       {
         "title": "Morocco awarded Africa Cup of Nations title after Senegal win overturned",
         "link": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Explosive' meningitis outbreak unprecedented – officials",
-        "link": "https://www.bbc.com/news/articles/cev7rl437epo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Chile’s President Kast tosses out dozens of environmental protections",
+        "link": "https://www.aljazeera.com/news/2026/3/17/chiles-president-kast-tosses-out-dozens-of-environmental-protections?traffic_source=rss"
+      },
       {
         "title": "CAF strips Senegal of AFCON title, Morocco declared African champions",
         "link": "https://www.aljazeera.com/sports/2026/3/17/caf-strips-senegal-of-afcon-title-morocco-declared-african-champions?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Argentina officially withdraws from World Health Organization, following US",
         "link": "https://www.aljazeera.com/news/2026/3/17/argentina-officially-withdraws-from-world-health-organization-following-us?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan denies hospital strike in Afghanistan as death toll hits 400",
-        "link": "https://www.aljazeera.com/news/2026/3/17/pakistan-denies-hospital-strike-in-afghanistan-as-death-toll-hits-400?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -105,15 +105,23 @@
         "link": "https://www.nytimes.com/2026/03/17/world/middleeast/ali-larijani-death.html"
       },
       {
-        "title": "TSA Official Warns Small U.S. Airports Could Close if Shutdown Continues",
-        "link": "https://www.nytimes.com/2026/03/17/travel/tsa-small-airport-closures.html"
+        "title": "Independent Polls are Scarce in the Illinois Democratic Senate Primary",
+        "link": "https://www.nytimes.com/2026/03/17/us/elections/illinois-democratic-senate-primary-independent-polls.html"
       },
       {
-        "title": "Trump Administration Offers Narrow Immigration Changes to End D.H.S. Shutdown",
-        "link": "https://www.nytimes.com/2026/03/17/us/politics/trump-immigration-dhs-shutdown.html"
+        "title": "Jesse Jackson Jr. Seeks Comeback After Corruption Scandal",
+        "link": "https://www.nytimes.com/2026/03/17/us/elections/jesse-jackson-jr-illinois-house-primary.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Heavy Israeli airstrikes on central Beirut: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/heavy-israeli-airstrikes-central-beirut-report"
+      },
+      {
+        "title": "Hezbollah announces new wave of attacks on Israel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-announces-new-wave-attacks-israel"
+      },
       {
         "title": "Two people killed from missile attack near Tel Aviv",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-people-killed-missile-attack-near-tel-aviv"
@@ -125,14 +133,6 @@
       {
         "title": "IRGC responds to killing of Larijani",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-responds-killing-larijani"
-      },
-      {
-        "title": "Israeli forces kill two people in Lebanon’s Bekaa Valley",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-two-people-lebanons-bekaa-valley"
-      },
-      {
-        "title": "By wresting control of the Strait of Hormuz, Iran has turned the tables on US",
-        "link": "https://www.middleeasteye.net/news/wresting-control-strait-hormuz-iran-has-turned-tables-us"
       }
     ],
     "GeoTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-17 23:34 UTC"
+  "last_updated": "2026-03-17 23:59 UTC"
 }
