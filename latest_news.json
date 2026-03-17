@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE: Markets Open In Green As Wall Street, Asian Peers Edge Higher",
+      "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-50-markets-likely-to-open-in-green-as-wall-street-asian-peers-edge-higher-11225579#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Palestinian activist Leqaa Kordia released from ICE detention",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/palestinian-activist-leqaa-kordia-released-from-ice-detention?traffic_source=rss"
+        "title": "Venezuela defeats Italy, sets up WBC final against US",
+        "link": "https://www.aljazeera.com/sports/2026/3/17/venezuela-defeats-italy-sets-up-wbc-final-against-us?traffic_source=rss"
       },
       {
-        "title": "Iran says wars are not won on social media",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/iran-says-wars-are-not-won-on-social-media?traffic_source=rss"
+        "title": "South African fruit exports face delays as Iran war disrupts shipping",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/south-african-fruit-exports-face-delays-as-iran-war-disrupts-shipping?traffic_source=rss"
       },
       {
-        "title": "Attempts to open Strait of Hormuz by force would be ‘almost suicidal’",
-        "link": "https://www.aljazeera.com/video/quotable/2026/3/17/attempts-to-open-strait-of-hormuz-by-force-would-be-almost-suicidal?traffic_source=rss"
+        "title": "Cuba tells exiles ‘doors are open’ to invest in businesses in the country",
+        "link": "https://www.aljazeera.com/economy/2026/3/17/cuba-tells-exiles-doors-are-open-to-invest-in-businesses-in-the-country?traffic_source=rss"
       },
       {
-        "title": "Afghanistan accuses Pakistan of air strike on drug rehab centre",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/afghanistan-accuses-pakistan-of-air-strike-on-drug-rehab-centre?traffic_source=rss"
+        "title": "Cuba faces nationwide blackouts amid US oil blockade",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/cuba-faces-nationwide-blackouts-amid-us-oil-blockade?traffic_source=rss"
       },
       {
-        "title": "Many killed, wounded after blasts hit Nigeria’s Maiduguri, witnesses say",
-        "link": "https://www.aljazeera.com/news/2026/3/17/many-killed-wounded-after-blasts-hit-nigerias-maiduguri-witnesses-say?traffic_source=rss"
+        "title": "Top Democrat in US House slams Trump’s ‘reckless war of choice’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/top-democrat-in-us-house-slams-trumps-reckless-war-of?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "US, Iran officials make first direct contact since war, say US media",
+        "link": "https://www.dawn.com/news/1982933/us-iran-officials-make-first-direct-contact-since-war-say-us-media"
+      },
+      {
         "title": "PM orders salaries for govt employees before Eid",
         "link": "https://www.dawn.com/news/1982887/pm-orders-salaries-for-govt-employees-before-eid"
       },
@@ -78,16 +88,12 @@
         "link": "https://www.dawn.com/news/1982884/subsidised-fuel-scheme-on-the-cards-for-bikes-rickshaws"
       },
       {
-        "title": "Pakistani forces strike Afghan Taliban’s military installations in Kabul, Nangarhar: security sources",
-        "link": "https://www.dawn.com/news/1982625/pakistani-forces-strike-afghan-talibans-military-installations-in-kabul-nangarhar-security-sources"
+        "title": "Punjab to buy 10 vehicles for superior court judges",
+        "link": "https://www.dawn.com/news/1982901/punjab-to-buy-10-vehicles-for-superior-court-judges"
       },
       {
         "title": "Minab school strike violated humanitarian law: Amnesty",
         "link": "https://www.dawn.com/news/1982868/minab-school-strike-violated-humanitarian-law-amnesty"
-      },
-      {
-        "title": "Rebuttal on purchase of luxury vehicle for Yousaf Raza Gilani from Senate budget leaves questions unanswered",
-        "link": "https://www.dawn.com/news/1982703/rebuttal-on-purchase-of-luxury-vehicle-for-yousaf-raza-gilani-from-senate-budget-leaves-questions-unanswered"
       }
     ],
     "APNews": [],
@@ -101,82 +107,82 @@
         "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-war.html"
       },
       {
-        "title": "Fire on the U.S. Aircraft Carrier Gerald R. Ford Raged for Hours, Sailors Say",
-        "link": "https://www.nytimes.com/2026/03/16/us/politics/uss-ford-fire-iran-venezuela.html"
+        "title": "As American Bombers Take Off From R.A.F. Fairford in UK, Iraq War Looms Large",
+        "link": "https://www.nytimes.com/2026/03/17/world/europe/iran-uk-raf-fairford-starmer-trump.html"
+      },
+      {
+        "title": "As War With Iran Hurts Oil Prices, U.S. Turns to Iranian Boats for Help",
+        "link": "https://www.nytimes.com/2026/03/17/business/iran-war-boats-russian-oil.html"
       },
       {
         "title": "Cuba Ready to Accept Outside Investment, Top Official Says",
         "link": "https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html"
-      },
-      {
-        "title": "Trump Administration Seeks to Remove Cuba’s President From Power During Negotiations",
-        "link": "https://www.nytimes.com/2026/03/16/world/americas/trump-cuba-president-diaz-canel.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran seeks reparations from US, Israel over school attack",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-seeks-reparations-us-israel-over-school-attack"
+        "title": "Three-day-old infant among family killed in US-Israeli strike in Iran's Arak",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-day-old-infant-among-family-killed-us-israeli-strike-irans-arak"
       },
       {
-        "title": "British maritime authority reports tanker hit near Fujairah",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/british-maritime-authority-reports-tanker-hit-near-fujairah"
+        "title": "Thailand talking to Russia over oil supply during Hormuz crises",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/thailand-talking-russia-over-oil-supply-during-hormuz-crises"
       },
       {
-        "title": "Israeli jets strike multiple towns in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-strike-multiple-towns-southern-lebanon"
+        "title": "Debris from interception sparks fire in Doha industrial area, ministry says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/debris-interception-sparks-fire-doha-industrial-area-ministry-says"
       },
       {
-        "title": "Video: Hezbollah launches barrage of rockets at Israeli city of Nahariya",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-hezbollah-launches-barrage-rockets-israeli-city-nahariya"
+        "title": "Drone intercepted in Kuwait; loud booms reported in Doha",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-intercepted-kuwait-loud-booms-reported-doha"
       },
       {
-        "title": "Hezbollah rockets target Israeli troops as Israel strikes Beirut",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-rockets-target-israeli-troops-israel-strikes-beirut"
+        "title": "Report: IRGC's Basij force base hit as explosions rock Tehran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-irgcs-basij-force-base-hit-explosions-rock-tehran"
       }
     ],
     "GeoTV": [
       {
+        "title": "Dua Lipa shares heartwarming moment with Elton John at Oscars viewing party",
+        "link": "https://www.geo.tv/latest/656016-dua-lipa-shares-heartwarming-moment-with-elton-john-at-oscars-viewing-party"
+      },
+      {
+        "title": "Meghan Markle receives surprise message after nod to special UK tradition",
+        "link": "https://www.geo.tv/latest/656017-meghan-markle-receives-surprise-message-after-nod-to-special-uk-tradition"
+      },
+      {
+        "title": "Americans' support for Palestinians rises: survey",
+        "link": "https://www.geo.tv/latest/656014-ameri"
+      },
+      {
+        "title": "The cost of new wars",
+        "link": "https://www.geo.tv/latest/656010-the-cost-of-new-wars"
+      },
+      {
         "title": "Oil prices jump again as worries grow over Hormuz",
         "link": "https://www.geo.tv/latest/656008-oil-prices-jump-again-as-worries-grow-over-hormuz"
-      },
-      {
-        "title": "Kylie Jenner ‘dismissed' by Timothée Chalamet's sister: ‘Cold shoulder'",
-        "link": "https://www.geo.tv/latest/656007-kylie-jenner-dismissed-by-timothe-chalamets-sister-cold-shoulder"
-      },
-      {
-        "title": "Taylor Swift, Travis Kelce's discreet Oscars celebrations lasted whole night",
-        "link": "https://www.geo.tv/latest/656005-taylor-swift-travis-kelces-discreet-oscars-celebrations-lasted-whole-night"
-      },
-      {
-        "title": "Pakistan supports UNAMA renewal, warns of growing terrorism from Afghan soil",
-        "link": "https://www.geo.tv/latest/656004-pakistan-backs-unama-extension-flags-exponential-rise-in-terror-threat-from-afghanistan"
-      },
-      {
-        "title": "Shonda Rhimes already has new ‘Bridgerton' spinoff Idea",
-        "link": "https://www.geo.tv/latest/656000-shonda-rhimes-already-has-new-bridgerton-spinoff-idea"
       }
     ],
     "NDTV": [
       {
-        "title": "Not Gold, Not US Dollar, This Asset Has Surged The Most During Iran War",
-        "link": "https://www.ndtv.com/india-news/not-gold-not-us-dollar-this-asset-has-surged-the-most-during-iran-war-bitcoin-cryptocurrency-11225509#publisher=newsstand"
+        "title": "Stock Market LIVE: Markets Open In Green As Wall Street, Asian Peers Edge Higher",
+        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-sensex-today-nifty-50-markets-likely-to-open-in-green-as-wall-street-asian-peers-edge-higher-11225579#publisher=newsstand"
       },
       {
-        "title": "7-Year Jail, Heavy Fines: Maharashtra Passes Freedom Of Religion Bill",
-        "link": "https://www.ndtv.com/india-news/7-year-jail-heavy-fines-maharashtra-assembly-passes-freedom-of-religion-bill-11225525#publisher=newsstand"
+        "title": "How Iran's New Leader Mojtaba Khamenei Escaped Death By Seconds In US Strike",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-how-irans-new-leader-mojtaba-khamenei-escaped-death-by-seconds-in-us-strike-11225719#publisher=newsstand"
       },
       {
-        "title": "Delhi Records Cleanest Air Since October 2025, All Pollution Curbs Lifted",
-        "link": "https://www.ndtv.com/delhi-news/delhi-records-cleanest-air-since-october-2025-all-pollution-curbs-lifted-delhi-ncr-air-quality-11225506#publisher=newsstand"
+        "title": "Iran War Live Updates: Loud Blasts Heard In Dubai, Doha Again",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-news-updates-donald-trump-mojtaba-khamenei-dubai-uae-baghdad-kuwait-airport-11217035#publisher=newsstand"
       },
       {
-        "title": "Video Shows Large Explosion After Pakistan Airstrike On Kabul Hospital",
-        "link": "https://www.ndtv.com/world-news/pakistan-afghanistan-war-live-video-shows-large-explosion-after-pakistan-air-strike-on-kabul-hospital-11225485#publisher=newsstand"
+        "title": "Gold, Silver Prices Drop Marginally: Check Rates In Your City Today",
+        "link": "https://www.ndtv.com/india-news/gold-silver-prices-drop-marginally-check-rates-in-your-city-today-march-17-11225764#publisher=newsstand"
       },
       {
-        "title": "400 Killed, Around 250 Injured In Pakistan Strike On Kabul Hospital: Taliban",
-        "link": "https://www.ndtv.com/world-news/afghanistan-says-over-250-killed-400-injured-in-pakistan-strike-on-kabul-hospital-treating-drug-addicts-local-media-11225227#publisher=newsstand"
+        "title": "A Rs 2,000 Deposit, A Scholarship Promise And A Big Karnataka Cyber Scam",
+        "link": "https://www.ndtv.com/india-news/gadag-a-rs-2-000-deposit-a-scholarship-promise-and-a-big-karnataka-cyber-scam-11225717#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-17 03:32 UTC"
+  "last_updated": "2026-03-17 05:10 UTC"
 }
