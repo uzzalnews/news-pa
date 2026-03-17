@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: China vs Australia – Women’s Asian Cup 2026 semifinals",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/17/live-china-vs-australia-womens-asian-cup-2026-semifinals?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Israel claims to have assassinated commander of Iran’s Basij militia unit",
+        "link": "https://www.aljazeera.com/news/2026/3/17/israel-claims-to-have-assassinated-commander-of-irans-basij-militia-unit?traffic_source=rss"
+      },
+      {
+        "title": "Woman who wrote book on grief guilty of murdering husband",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/17/woman-who-wrote-book-on-grief-guilty-of-murdering-husband?traffic_source=rss"
+      },
+      {
+        "title": "Nigeria’s first state visit since 1989: President Bola Tinubu heads to UK",
+        "link": "https://www.aljazeera.com/news/2026/3/17/nigerias-first-state-visit-since-1989-president-bola-tinubu-heads-to-uk?traffic_source=rss"
+      },
+      {
+        "title": "Families search for loved ones after deadly Pakistan strikes on Kabul rehab",
+        "link": "https://www.aljazeera.com/news/2026/3/17/families-search-for-loved-ones-after-deadly-pakistan-strikes-on-kabul-rehab?traffic_source=rss"
+      },
+      {
         "title": "Palestinian refugees face new displacement as Israel’s bombs hit Lebanon",
         "link": "https://www.aljazeera.com/features/2026/3/17/palestinian-refugees-face-new-displacement-as-israels-bombs-hit-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Iran is targeting ships in response to US attacks — can the US stop them?",
-        "link": "https://www.aljazeera.com/video/project-force-2/2026/3/17/iran-is-targeting-ships-in-response-to-us-attacks-can-the-us-stop-them?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: China vs Australia – Women’s Asian Cup 2026 semifinals",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/17/live-china-vs-australia-womens-asian-cup-2026-semifinals?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strikes target Beirut, southern Lebanon, one million displaced",
-        "link": "https://www.aljazeera.com/news/2026/3/17/israeli-strikes-target-beirut-southern-lebanon-one-million-displaced?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 18 of US-Israel attacks?",
-        "link": "https://www.aljazeera.com/news/2026/3/17/iran-war-what-is-happening-on-day-18-of-us-israel-attacks?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/1982625/pakistani-forces-strike-afghan-talibans-military-installations-in-kabul-nangarhar-info-minister"
       },
       {
-        "title": "PM orders salaries for govt employees before Eid",
-        "link": "https://www.dawn.com/news/1982887/pm-orders-salaries-for-govt-employees-before-eid"
+        "title": "Nigeria suicide attacks kill 23, wound more than 100",
+        "link": "https://www.dawn.com/news/1982999/nigeria-suicide-attacks-kill-23-wound-more-than-100"
       }
     ],
     "APNews": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli strike on Bint Jbeil kills three and wounds several",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-bint-jbeil-kills-three-and-wounds-several"
+      },
+      {
+        "title": "Israeli military strike targeted Iran's security chief Larijani, fate unclear, officials say",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-strike-targeted-irans-security-chief-larijani-fate"
+      },
+      {
         "title": "China says to provide humanitarian assistance to Iran, Middle East nations",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-says-provide-humanitarian-assistance-iran-middle-east-nations"
       },
@@ -131,58 +133,50 @@
       {
         "title": "Tehran governor: 12,000 buildings damaged or destroyed in city",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-governor-says-12000-buildings-damaged-or-destroyed-capital"
-      },
-      {
-        "title": "Israeli issues new evacuation threat south of Lebanon’s Zahrani River",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-issues-new-evacuation-threat-south-lebanons-zahrani-river"
-      },
-      {
-        "title": "Iraq warns of legal action if Kurdistan blocks oil exports",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-warns-legal-action-if-kurdistan-blocks-oil-exports"
       }
     ],
     "GeoTV": [
       {
-        "title": "Timothée Chalamet, Zendaya, Robert Pattinson lead Villeneuve ‘Dune' finale",
-        "link": "https://www.geo.tv/latest/656043-timothe-chalamet-zendaya-robert-pattinson-lead-villeneuve-dune-finale"
+        "title": "Andrew gets unexpected new title after Duke of York loss",
+        "link": "https://www.geo.tv/latest/656047-andrew-receives-unexpected-new-title-after-duke-of-york-loss"
       },
       {
-        "title": "Tennessee minors sue Musk's xAI, alleging Grok generated explicit images of them",
-        "link": "https://www.geo.tv/latest/656044-tennessee-minors-sue-musks-xai-alleging-grok-generated-sexual-images-of-them"
+        "title": "Kate Middleton rings alarm bells in Palace over Harry, Meghan bombshell",
+        "link": "https://www.geo.tv/latest/656040-kate-middleton-rings-alarm-bells-in-palace-over-harry-meghan-bombshell"
       },
       {
-        "title": "Princess Kate reveals one thing she had to give up after cancer diagnosis",
-        "link": "https://www.geo.tv/latest/656045-princess-kate-reveals-one-thing-she-had-to-give-up-after-cancer-diagnosis"
+        "title": "Selma Blair exudes elegance, strength at Vanity Fair Oscar Party red carpet",
+        "link": "https://www.geo.tv/latest/656056-selma-blair-exudes-elegance-strength-at-vanity-fair-oscar-party-red-carpet"
       },
       {
-        "title": "UK, Ukraine set to sign defence pact eyeing drone threats",
-        "link": "https://www.geo.tv/latest/656041-uk-ukraine-set-to-sign-defence-pact-eyeing-drone-threats"
+        "title": "Remittances, lower services imports boost country's current account surplus",
+        "link": "https://www.geo.tv/latest/656054-pakistans-current-account-surplus"
       },
       {
-        "title": "Sunrisers Leeds signing Pakistani spinner draws diatribe from Indian cricketing legend",
-        "link": "https://www.geo.tv/latest/656022-sunrisers-leeds-signing-pakistan-spinner-draws-diatribe-from-indian-cricketing-legend"
+        "title": "Senate Secretariat responds to queries on Gilani's Land Cruiser purchase",
+        "link": "https://www.geo.tv/latest/656053-senate-secretariat-responds-to-queries-on-gilanis-land-cruiser-purchase"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Barbaric, Cowardly\": India Condemns Pakistan's Airstrike On Kabul Hospital",
-        "link": "https://www.ndtv.com/world-news/barbaric-cowardly-india-condemns-pakistans-airstrike-on-kabul-hospital-11226353#publisher=newsstand"
+        "title": "23 Killed, Over 100 Injured In Multiple 'Suicide Attacks' In Nigeria",
+        "link": "https://www.ndtv.com/world-news/nigeria-suicide-attacks-kill-23-wound-more-than-100-police-11226716#publisher=newsstand"
       },
       {
-        "title": "In Big Energy Relief For India, LPG Tanker Nanda Devi Arrives At Gujarat Port",
-        "link": "https://www.ndtv.com/india-news/in-big-energy-relief-for-india-lpg-tanker-nanda-devi-arrives-at-gujarat-port-11226303#publisher=newsstand"
+        "title": "X, Facebook Told To Drop Posts Linking Hardeep Puri's Daughter To Jeffrey Epstein",
+        "link": "https://www.ndtv.com/india-news/x-facebook-google-youtube-told-to-drop-posts-linking-hardeep-singh-puris-daughter-himayani-puri-to-jeffrey-epstein-11226674#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Why A TVK-NDA Alliance May Remain Just A Fantasy",
-        "link": "https://www.ndtv.com/opinion/tamil-nadu-assembly-polls-why-a-tvk-nda-alliance-may-remain-just-a-fantasy-11226316#publisher=newsstand"
+        "title": "UK, Ukraine Set To Sign Defence Pact Eyeing Drone Threats Amid Iran War",
+        "link": "https://www.ndtv.com/world-news/uk-ukraine-set-to-sign-defence-pact-eyeing-drone-threats-amid-iran-war-11226686#publisher=newsstand"
       },
       {
-        "title": "Why Sweden's Prisons Are Preparing To House Young Teens",
-        "link": "https://www.ndtv.com/world-news/swedens-prisons-prepare-to-house-young-teens-11226198#publisher=newsstand"
+        "title": "\"It's My Job\": US Podcaster Fears Criminal Charges For 'Talking To Iranians'",
+        "link": "https://www.ndtv.com/world-news/us-podcaster-tucker-carlson-fears-criminal-charges-for-talking-to-iranians-its-my-job-11225883#publisher=newsstand"
       },
       {
-        "title": "Mumbai Woman Orders 4 Kurtis, Loses Rs 98,000 In Online Shopping Refund Scam",
-        "link": "https://www.ndtv.com/mumbai-news/mumbai-woman-orders-4-kurtis-loses-rs-98-000-in-online-shopping-refund-scam-11226257#publisher=newsstand"
+        "title": "Trump Faces Coalition Of The Unwilling On Iran's Hormuz",
+        "link": "https://www.ndtv.com/world-news/trump-faces-coalition-of-the-unwilling-on-iran-11225988#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-17 08:08 UTC"
+  "last_updated": "2026-03-17 09:07 UTC"
 }
