@@ -1,9 +1,15 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Liverpool vs Galatasaray – Champions League last 16",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/18/live-liverpool-vs-galatasaray-champions-league-last-16?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Why is this meningitis outbreak so unusual?",
+        "title": "Why has this meningitis outbreak spread so fast?",
         "link": "https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -15,15 +21,19 @@
         "link": "https://www.bbc.com/news/articles/c9dn770n1deo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Angela Rayner's explosive speech reignites leadership speculation",
-        "link": "https://www.bbc.com/news/articles/cpd8d10n9x5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "UK temperature reaches 21C in warmest day of year so far",
         "link": "https://www.bbc.com/weather/articles/crl4g65wzepo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Sony removes 135,000 deepfakes of its artists' music",
+        "link": "https://www.bbc.com/news/articles/cy57593gxe0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Liverpool vs Galatasaray – Champions League last 16",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/18/live-liverpool-vs-galatasaray-champions-league-last-16?traffic_source=rss"
+      },
       {
         "title": "Gunshots disperse crowd during Persian New Year festivities in Tehran",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/gunshots-disperse-crowd-during-persian-new-year-festivities-in-tehran?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "How Los Angeles’s Iranian diaspora is confronting the US war on Iran",
         "link": "https://www.aljazeera.com/news/longform/2026/3/18/how-los-angeless-iranian-diaspora-is-confronting-the-us-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Trump wants to overthrow the Cuban president",
-        "link": "https://www.aljazeera.com/video/2026/3/18/trump-wants-to-overthrow-the-cuban-president?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -105,37 +111,45 @@
         "link": "https://www.nytimes.com/2026/03/18/world/europe/iran-war-refugees-turkey.html"
       },
       {
-        "title": "NYC High School Student Freed After 10 Months in ICE Detention",
-        "link": "https://www.nytimes.com/2026/03/18/nyregion/nyc-high-school-student-ice-freed.html"
+        "title": "The Cost of the A.I. Boom: A Trade Deficit the President Detests",
+        "link": "https://www.nytimes.com/2026/03/18/business/economy/us-trade-deficit-ai-boom.html"
       },
       {
-        "title": "How TrumpRx Drug Prices Compare With Those in Other Countries",
-        "link": "https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html"
+        "title": "Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years",
+        "link": "https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Three planes damaged by missile fragments at Tel Aviv airport",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-planes-damaged-missile-fragments-tel-aviv-airport"
+        "title": "Iran names oil and gas sites in Gulf states as potential targets",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-names-oil-and-gas-sites-gulf-states-potential-targets"
       },
       {
-        "title": "Damage to Iranian nuclear site not ‘very significant’ and ‘no casualties’, says IAEA",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/damage-iranian-nuclear-site-not-very-significant-and-no-casualties-says"
+        "title": "War on Iran: Who are the Kurds and what does Trump want from them?",
+        "link": "https://www.middleeasteye.net/explainers/war-iran-kurds-krg"
       },
       {
-        "title": "Russia says shipping can return to Strait of Hormuz through diplomacy",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-says-shipping-can-return-strait-hormuz-through-diplomacy"
+        "title": "Iran’s supreme leader vows response over Larijani killing",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-vows-response-over-larijani-killing"
       },
       {
-        "title": "US-Israeli war on Iran 'unjustified and unlawful', French ambassador tells MEE",
-        "link": "https://www.middleeasteye.net/news/us-israeli-war-iran-unjustified-and-unlawful-french-ambassador"
+        "title": "Saudi Arabia intercepts two ballistic missiles",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-intercepts-two-ballistic-missiles"
       },
       {
-        "title": "Iran warns that energy infrastructure of US and allies could be targeted",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-energy-infrastructure-us-and-allies-could-be-targeted"
+        "title": "UAE condemns Israeli strike on Iran gas field",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-israeli-strike-iran-gasfield"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Meghan Markle drops bloom box with her 'little helpers'",
+        "link": "https://www.geo.tv/latest/656294-meghan-markle-drops-bloom-box-with-her-little-helpers"
+      },
+      {
+        "title": "Niall Horan's new album 'Dinner Party' has a release date: Full tracklist",
+        "link": "https://www.geo.tv/latest/656291-niall-horans-new-album-dinner-party-has-a-release-date-full-tracklist"
+      },
       {
         "title": "Why is X not working? Social media platform suffers widespread outage across United States",
         "link": "https://www.geo.tv/latest/656289-why-is-x-not-working-social-media-platform-suffers-widespread-outage-across-united-states"
@@ -147,14 +161,6 @@
       {
         "title": "Dolores Huerta accuses late labour leader Cesar Chavez of sexual abuse",
         "link": "https://www.geo.tv/latest/656287-dolores-huerta-accuses-late-labour-leader-cesar-chavez-of-sexual-abuse"
-      },
-      {
-        "title": "Heavy rain, thunderstorm hit parts of Karachi",
-        "link": "https://www.geo.tv/latest/656286-heavy-rain-thunderstorm-hit-parts-of-karachi"
-      },
-      {
-        "title": "Jay-Z and The Roots heading to Philly as rapper plots major comeback",
-        "link": "https://www.geo.tv/latest/656284-jay-z-and-the-roots-heading-to-philly-as-rapper-plots-major-comeback"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-18 17:13 UTC"
+  "last_updated": "2026-03-18 18:10 UTC"
 }
