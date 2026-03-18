@@ -3,14 +3,6 @@
   "news": {
     "BBC": [
       {
-        "title": "Total repression and air strikes bring unrelenting dread for Iranians",
-        "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Scotland's assisted dying bill rejected after emotional debate",
-        "link": "https://www.bbc.com/news/articles/c33j3nd1kvko?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Morocco awarded Africa Cup of Nations title after Senegal win overturned",
         "link": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss"
       },
@@ -19,30 +11,38 @@
         "link": "https://www.bbc.com/news/articles/cpd8d10n9x5o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Assisted dying 'is not going away' says MSP behind rejected bill",
+        "link": "https://www.bbc.com/news/articles/cx2r2qqw4npo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Ukraine faces missile shortage due to Middle East war, says Zelensky",
         "link": "https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Total repression and air strikes bring unrelenting dread for Iranians",
+        "link": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Israel says it killed Iran intel minister in third assassination in 2 days",
+        "title": "Olympics urged to drop reported gender test plans for female athletes",
+        "link": "https://www.aljazeera.com/sports/2026/3/18/olympics-urged-to-drop-reported-gender-test-plans-for-female-athletes?traffic_source=rss"
+      },
+      {
+        "title": "Turkiye says NATO bringing in more defences after missile interceptions",
+        "link": "https://www.aljazeera.com/news/2026/3/18/turkiye-says-nato-bringing-in-more-defences-after-missile-interceptions?traffic_source=rss"
+      },
+      {
+        "title": "Iranian women footballers arrive in eastern Turkiye, on home border",
+        "link": "https://www.aljazeera.com/sports/2026/3/18/iran-womens-football-team-arrive-in-eastern-turkiye-on-home-border?traffic_source=rss"
+      },
+      {
+        "title": "How Iran defied Trump threats to emerge as Strait of Hormuz gatekeeper",
+        "link": "https://www.aljazeera.com/news/2026/3/18/how-iran-defied-trump-threats-to-emerge-as-strait-of-hormuz-gatekeeper?traffic_source=rss"
+      },
+      {
+        "title": "Israel says it kills Iran intel minister in third assassination in two days",
         "link": "https://www.aljazeera.com/news/2026/3/18/israel-says-it-killed-iran-intel-minister-in-third-assassination-in-2-days?traffic_source=rss"
-      },
-      {
-        "title": "Senegal to appeal decision to award AFCON title to Morocco",
-        "link": "https://www.aljazeera.com/sports/2026/3/18/senegal-to-appeal-decision-to-award-afcon-title-to-morocco?traffic_source=rss"
-      },
-      {
-        "title": "Iranian diaspora celebrates Persian festival wrapped in US, Israeli flags",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranian-diaspora-celebrates-persian-festival-wrapped-in-us-israeli-flags?traffic_source=rss"
-      },
-      {
-        "title": "Colombian president says Gaza was an ‘experiment’ for wider destruction",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/colombian-president-says-gaza-was-an-experiment-for-wider-destruction?traffic_source=rss"
-      },
-      {
-        "title": "Rama in Lebanon",
-        "link": "https://www.aljazeera.com/video/on-the-ground/2026/3/18/rama-in-lebanon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +74,20 @@
         "link": "https://www.dawn.com/news/1983393/dar-to-depart-on-riyadh-visit-for-meeting-of-regional-fms-will-call-for-swift-end-to-middle-east-conflict"
       },
       {
+        "title": "ADB to provide $10bn in financing to Pakistan under new 5-year strategy",
+        "link": "https://www.dawn.com/news/1983383/adb-to-provide-10bn-in-financing-to-pakistan-under-new-5-year-strategy"
+      },
+      {
+        "title": "CM Bugti says major attack prevented with arrest of ‘would-be’ female suicide bomber in Khuzdar",
+        "link": "https://www.dawn.com/news/1983405/cm-bugti-says-major-attack-prevented-with-arrest-of-would-be-female-suicide-bomber-in-khuzdar"
+      },
+      {
         "title": "Iran vows revenge for killing of security chief Ali Larijani by Israel",
         "link": "https://www.dawn.com/news/1983341/iran-vows-revenge-for-killing-of-security-chief-ali-larijani-by-israel"
       },
       {
-        "title": "Bugti says major attack prevented with arrest of ‘would-be’ female suicide bomber in Khuzdar",
-        "link": "https://www.dawn.com/news/1983405/bugti-says-major-attack-prevented-with-arrest-of-would-be-female-suicide-bomber-in-khuzdar"
-      },
-      {
         "title": "PMD predicts cloudy, rainy weather in Karachi and showers in other parts of Sindh until Thursday",
         "link": "https://www.dawn.com/news/1983379/pmd-predicts-cloudy-rainy-weather-in-karachi-and-showers-in-other-parts-of-sindh-until-thursday"
-      },
-      {
-        "title": "India’s privatisation drive derails because of weak investor interest in state-run firms: report",
-        "link": "https://www.dawn.com/news/1983403/indias-privatisation-drive-derails-because-of-weak-investor-interest-in-state-run-firms-report"
       }
     ],
     "APNews": [],
@@ -115,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Putin weighs shifting Russian energy away from Europe amid Iran war shocks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/putin-weighs-shifting-russian-energy-away-europe-amid-iran-war-shocks"
+        "title": "Berlinale 2026: Arab and Turkish filmmakers deliver strong line-up despite Gaza controversy",
+        "link": "https://www.middleeasteye.net/discover/berlinale-2026-arab-and-turkish-filmmakers-delivered-strong-line-despite-controversies"
       },
       {
-        "title": "Israeli air strike kills journalist in Beirut",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-kills-journalist-beirut"
+        "title": "Strikes hit Iran’s South Pars oil and petrochemical facilities",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/strikes-hit-irans-south-pars-oil-and-petrochemical-facilities"
       },
       {
-        "title": "Israel says strike killed Iran’s intelligence minister",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-strike-killed-irans-intelligence-minister"
+        "title": "Israel claims it killed Iran's intelligence minister",
+        "link": "https://www.middleeasteye.net/news/israel-iran-intelligence-minister-killed-claim"
       },
       {
-        "title": "The US-Israel war on Iran is doomed to fail. Will it take down America's crumbling empire?",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israel-war-iran-doomed-fail-will-it-take-down-americas-crumbling"
+        "title": "Funeral held in Tehran for Larijani and Iranian commanders killed in Israeli strikes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/funeral-held-tehran-larijani-and-iranian-commanders-killed-israeli"
       },
       {
-        "title": "Iraq resumes Kirkuk oil exports to Turkey via Ceyhan pipeline",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-resumes-kirkuk-oil-exports-turkey-ceyhan-pipeline"
+        "title": "UAE says air defences intercepted Iranian missiles and drones",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-says-air-defences-intercepted-iranian-missiles-and-drones"
       }
     ],
     "GeoTV": [
       {
-        "title": "Spice Girls reunion dreams dashed as anniversary tour plans fall apart",
-        "link": "https://www.geo.tv/latest/656224-spice-girls-reunion-dreams-dashed-as-anniversary-tour-plans-fall-apart"
+        "title": "Cruz Beckham addresses estranged Brooklyn through music amid bitter feud",
+        "link": "https://www.geo.tv/latest/656243-cruz-beckham-addresses-estranged-brooklyn-through-music-amid-bitter-feud"
       },
       {
-        "title": "Kenyon Martin goes off on staffer during live podcast with Gilbert Arenas—here's why",
-        "link": "https://www.geo.tv/latest/656229-kenyon-martin-goes-off-on-staffer-during-live-podcast-with-gilbert-arenasheres-why"
+        "title": "Zendaya gushes over Tom Holland ahead of 'Spider Man' release",
+        "link": "https://www.geo.tv/latest/656238-zendaya-gushes-over-tom-holland-ahead-of-spider-man-release"
       },
       {
-        "title": "Michael B. Jordan's Oscars win sparks buzz across Hollywood",
-        "link": "https://www.geo.tv/latest/656236-michael-b-jordans-oscars-win-sparks-buzz-across-hollywood"
+        "title": "King Charles stern warning to William about Harry: ‘Be a good ruler'",
+        "link": "https://www.geo.tv/latest/656227-king-charles-stern-warning-to-william-about-harry-be-a-good-ruler"
       },
       {
-        "title": "Inside Katy Perry, Justin Trudeau surprisingly serious romance",
-        "link": "https://www.geo.tv/latest/656232-inside-katy-perry-justin-trudeau-surprisingly-serious-romance"
+        "title": "Hailee Steinfeld gives insights into current life after skipping Oscars",
+        "link": "https://www.geo.tv/latest/656237-hailee-steinfeld-gives-insights-into-current-life-after-skipping-oscars"
       },
       {
-        "title": "'Invincible' season 4 out on Prime Video?",
-        "link": "https://www.geo.tv/latest/656223-invincible-season-4-out-on-prime-video"
+        "title": "Princess Anne 'defies' King Charles order with secret call to Andrew",
+        "link": "https://www.geo.tv/latest/656225-princess-anne-defies-king-charles-order-with-secret-call-to-andrew"
       }
     ],
     "NDTV": [
+      {
+        "title": "China Accuses Australia And New Zealand Of \"Colonial-Style Arrogance\"",
+        "link": "https://www.ndtv.com/world-news/china-blasts-colonial-australia-new-zealand-over-rights-concerns-11232906#publisher=newsstand"
+      },
+      {
+        "title": "3 Generations, A Tinderbox Home: Fire Safety Questions After Fire Kills 9",
+        "link": "https://www.ndtv.com/india-news/delhi-fire-palam-fire-3-generations-a-tinderbox-home-fire-safety-questions-after-fire-kills-9-11232952#publisher=newsstand"
+      },
+      {
+        "title": "Congress Names Four Cross-Voting MLAs In Haryana, Fifth Still A Secret",
+        "link": "https://www.ndtv.com/india-news/haryana-rajya-sabha-polls-2026-congress-names-four-cross-voting-mlas-in-haryana-fifth-still-a-secret-11233023#publisher=newsstand"
+      },
       {
         "title": "Iran's Intelligence Minister Esmail Khatib Killed In Strikes: Israel",
         "link": "https://www.ndtv.com/world-news/irans-intelligence-minister-esmail-khatib-killed-in-strikes-israel-11232687#publisher=newsstand"
       },
       {
-        "title": "High Alert In Maharashtra As 4 Thermal Power Stations Receive Drone Attack Threat",
-        "link": "https://www.ndtv.com/india-news/high-alert-in-maharashtra-as-4-thermal-power-stations-receive-drone-attack-threat-11232729#publisher=newsstand"
-      },
-      {
-        "title": "On Camera, Man Rams Bike With Car Over Land Deal In Karnataka",
-        "link": "https://www.ndtv.com/india-news/mangaluru-news-on-camera-man-rams-bike-with-car-over-land-deal-in-karnataka-11232725#publisher=newsstand"
-      },
-      {
-        "title": "Inches From Ground, Chopper Loses Control. Horrifying Crash Seen In Video",
-        "link": "https://www.ndtv.com/world-news/video-nepal-chopper-was-about-to-land-then-things-went-horribly-wrong-11232506#publisher=newsstand"
-      },
-      {
-        "title": "Rupee Falls To All-Time Low As Iran War Rages On: Is It All Bad?",
-        "link": "https://www.ndtv.com/india-news/rupee-falls-to-all-time-low-as-iran-war-rages-on-is-it-all-bad-11232197#publisher=newsstand"
+        "title": "Senior AIUDF MLA Aminul Islam Quits, Likely To Join Asom Gana Parishad",
+        "link": "https://www.ndtv.com/india-news/assam-assembly-elections-2026-assam-polls-senior-aiudf-mla-aminul-islam-quits-likely-to-join-asom-gana-parishad-11232874#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-18 11:08 UTC"
+  "last_updated": "2026-03-18 11:57 UTC"
 }
