@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "All doctors in England warned to watch for meningitis symptoms after Kent outbreak",
+        "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Why has this meningitis outbreak spread so fast?",
         "link": "https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,17 @@
       {
         "title": "UK temperature reaches 21C in warmest day of year so far",
         "link": "https://www.bbc.com/weather/articles/crl4g65wzepo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "King Charles greets Nigerian president in Windsor sunshine",
-        "link": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Israel attacks Iran’s major gas field in new escalation",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israel-attacks-irans-major-gas-field-in-new-escalation?traffic_source=rss"
+      },
+      {
+        "title": "US intel chief Gabbard says Iran was not rebuilding enrichment prior to war",
+        "link": "https://www.aljazeera.com/news/2026/3/18/us-intel-chief-gabbard-says-iran-was-not-rebuilding-enrichment-prior-to-war?traffic_source=rss"
+      },
       {
         "title": "Qatar says Iran missile attack sparks fire, causes damage at gas facility",
         "link": "https://www.aljazeera.com/news/2026/3/18/qatar-says-iran-missile-attack-sparks-fire-causes-damage-at-gas-facility?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Could the Iran war trigger a global recession?",
         "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/18/could-the-iran-war-trigger-a-global-recession?traffic_source=rss"
-      },
-      {
-        "title": "Trump temporarily waives century-old shipping law amid rising fuel costs",
-        "link": "https://www.aljazeera.com/economy/2026/3/18/trump-temporarily-waives-century-old-shipping-law-amid-rising-fuel-costs?traffic_source=rss"
-      },
-      {
-        "title": "Who will answer for the Iranian schoolchildren killed in Minab?",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/18/aje-onl-usa_iranaccountability_av_v2-180326?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,23 +86,23 @@
         "link": "https://www.dawn.com/news/1983428/fo-rejects-indias-unwarranted-statement-on-action-against-terrorist-infrastructure-in-afghanistan"
       },
       {
-        "title": "‘Free France’: Macron reveals name of Europe’s largest warship",
-        "link": "https://www.dawn.com/news/1983472/free-france-macron-reveals-name-of-europes-largest-warship"
+        "title": "Heavy rain, strong winds hit parts of Karachi",
+        "link": "https://www.dawn.com/news/1983379/heavy-rain-strong-winds-hit-parts-of-karachi"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister",
-        "link": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html"
+        "title": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
+        "link": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html"
       },
       {
         "title": "U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War",
         "link": "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html"
       },
       {
-        "title": "Trump Suspends Jones Act to Ease Oil Shipping Rules and Gas Price Pressures",
-        "link": "https://www.nytimes.com/2026/03/18/business/jones-act-oil-prices-trump-iran.html"
+        "title": "Israel Has Killed Esmaeil Khatib, Iran’s Intelligence Minister",
+        "link": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html"
       },
       {
         "title": "The Cost of the A.I. Boom: A Trade Deficit the President Detests",
@@ -114,6 +114,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "UK says no clear plan yet to reopen Strait of Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-says-no-clear-plan-yet-reopen-strait-hormuz"
+      },
       {
         "title": "Saudi analyst says kingdom will activate defence pact with Pakistan if it joins Iran war",
         "link": "https://www.middleeasteye.net/news/saudi-analyst-says-kingdom-will-activate-defence-pact-pakistan-if-it-joins-war-iran"
@@ -129,13 +133,17 @@
       {
         "title": "War on Iran: Who are the Kurds and what does Trump want from them?",
         "link": "https://www.middleeasteye.net/explainers/war-iran-kurds-krg"
-      },
-      {
-        "title": "Iran’s supreme leader vows response over Larijani killing",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-vows-response-over-larijani-killing"
       }
     ],
     "GeoTV": [
+      {
+        "title": "What does Spotify exclusive mode do? New mode hits Windows PCs",
+        "link": "https://www.geo.tv/latest/656308-what-does-spotify-exclusive-mode-do-new-mode-hits-windows-pcs"
+      },
+      {
+        "title": "Royal family goals William's tender gestures to Kate and Camilla go viral",
+        "link": "https://www.geo.tv/latest/656302-royal-family-goals-williams-tender-gestures-to-kate-and-camilla-go-viral"
+      },
       {
         "title": "Doja Cat teases new project, confirms relationship, and more",
         "link": "https://www.geo.tv/latest/656305-doja-cat-teases-new-project-confirms-relationship-and-more"
@@ -147,36 +155,28 @@
       {
         "title": "Interpol drops investigation into British-Pakistani businessman after finding no evidence of wrongdoing",
         "link": "https://www.geo.tv/latest/656293-interpol-drops-investigation-into-british-pakistani-businessman-after-finding-no-evidence-of-wrongdoing"
-      },
-      {
-        "title": "Third Pakistani killed in UAE identified; body to be repatriated to Peshawar",
-        "link": "https://www.geo.tv/latest/656292-third-pakistani-killed-in-uae-identified-body-to-be-repatriated-to-peshawar"
-      },
-      {
-        "title": "King Charles shares warm gift exchange with Tinubu and admires royal throne",
-        "link": "https://www.geo.tv/latest/656297-king-charles-shares-warm-gift-exchange-with-tinubu-and-admires-royal-throne"
       }
     ],
     "NDTV": [
       {
-        "title": "Gulmarg Land Lease Case Closed, Hoteliers To Opt For Government Settlement",
-        "link": "https://www.ndtv.com/india-news/jammu-and-kashmir-high-court-closes-gulmarg-land-lease-case-after-mass-withdrawal-of-petitions-11235132#publisher=newsstand"
+        "title": "Qatar Says \"Extensive Damage\" Caused By Iran Attacks On Gas Facility",
+        "link": "https://www.ndtv.com/world-news/iran-war-qatar-says-extensive-damage-caused-by-iran-attacks-on-gas-facility-11235358#publisher=newsstand"
       },
       {
-        "title": "Dubai Real Estate Shows Resilience Amid Israel-Iran War",
-        "link": "https://www.ndtv.com/world-news/dubai-real-estate-shows-resilience-amid-israel-iran-war-11235089#publisher=newsstand"
+        "title": "Iran War Live Updates: Iran Confirms Israel Killed Intelligence Minister Esmail Khatib",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-news-updates-donald-trump-mojtaba-khamenei-dubai-uae-baghdad-kuwait-airport-11217035#publisher=newsstand"
       },
       {
-        "title": "Mumbai Constable Dies By Suicide, Alleges Harassment By Lover's Parents",
-        "link": "https://www.ndtv.com/india-news/mumbai-constable-dies-by-suicide-alleges-harassment-by-lovers-parents-11235067#publisher=newsstand"
+        "title": "Air India To Operate 48 Middle East Flights Today, Dubai Services To Resume",
+        "link": "https://www.ndtv.com/india-news/air-india-to-operate-48-middle-east-flights-today-dubai-services-to-resume-11235321#publisher=newsstand"
       },
       {
-        "title": "\"Every Drop Of Blood Has A Price\": Mojtaba Vows To Avenge Larijani Killing",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-justice-will-be-served-mojtaba-khamenei-on-larijanis-killing-11234831#publisher=newsstand"
+        "title": "China, Pak Developing Nuclear Missiles That Put US Within Range: Intel Chief",
+        "link": "https://www.ndtv.com/world-news/china-pakistan-developing-nuclear-missiles-that-put-us-within-range-intel-chief-tulsi-gabbard-11234672#publisher=newsstand"
       },
       {
-        "title": "Israel-Iran War Hits Dubai's Hospitality Sector, Tourism Drops Sharply",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-hits-dubais-hospitality-sector-tourism-drops-sharply-11234963#publisher=newsstand"
+        "title": "US Eases Venezuela Oil Sanctions To Allow Trade As Iran War Drives Up Prices",
+        "link": "https://www.ndtv.com/world-news/us-eases-venezuela-oil-sanctions-to-allow-trade-as-iran-war-drives-up-prices-11235305#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-18 19:17 UTC"
+  "last_updated": "2026-03-18 19:55 UTC"
 }
