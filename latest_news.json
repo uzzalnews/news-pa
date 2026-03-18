@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Sensex Today, Stock Market LIVE Updates: Sensex, Nifty Open In Green For 3rd Straight Day",
-      "link": "https://www.ndtv.com/india-news/stock-market-live-updates-share-market-nifty-sensex-today-18-march-gift-nifty-11230806#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Cuba restores power after 29-hour blackout amid US oil blockade",
+        "link": "https://www.aljazeera.com/economy/2026/3/18/cuba-restores-power-after-29-hour-blackout-amid-us-oil-blockade?traffic_source=rss"
+      },
+      {
         "title": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages",
         "link": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Araghchi: Iran’s system holds despite targeted leaders",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/araghchi-irans-system-holds-despite-targeted-leaders?traffic_source=rss"
-      },
-      {
-        "title": "‘This is America’s war’: Iran’s Foreign Minister Araghchi",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/18/this-is-americas-war-irans-foreign-minister-araghchi?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "Iran’s national security chief Larijani, Basij commander Soleimani assassinated in US-Israeli strikes",
-        "link": "https://www.dawn.com/news/1983190/irans-national-security-chief-larijani-basij-commander-soleimani-assassinated-in-us-israeli-strikes"
+        "title": "Iran’s national security chief Ali Larijani, Basij commander Soleimani assassinated in US-Israeli strikes",
+        "link": "https://www.dawn.com/news/1983190/irans-national-security-chief-ali-larijani-basij-commander-soleimani-assassinated-in-us-israeli-strikes"
       },
       {
         "title": "New particle discovered by Large Hadron Collider",
@@ -111,15 +105,27 @@
         "link": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-shannon-kent-iran-syria.html"
       },
       {
-        "title": "Daniel Biss, Mayor of Evanston, Ill., Wins Democratic Nomination for House Seat",
-        "link": "https://www.nytimes.com/2026/03/17/us/elections/illinois-9th-district-congress-democratic-primary-biss.html"
+        "title": "Juliana Stratton Wins Illinois Democratic Senate Primary",
+        "link": "https://www.nytimes.com/2026/03/17/us/elections/illinois-senate-democratic-primary-juliana-stratton.html"
       },
       {
-        "title": "Centrist Melissa Bean Wins 8th District Democratic Primary",
-        "link": "https://www.nytimes.com/2026/03/17/us/elections/illinois-8th-district-democratic-primary.html"
+        "title": "Daniel Biss, Mayor of Evanston, Ill., Wins Democratic Nomination for House Seat",
+        "link": "https://www.nytimes.com/2026/03/17/us/elections/illinois-9th-district-congress-democratic-primary-biss.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "US aircraft carrier Gerald Ford docks after fire on board",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-aircraft-carrier-gerald-ford-docks-after-fire-board"
+      },
+      {
+        "title": "Hamas condemns 'treacherous' killing of Larijani, lauds his support for Palestine",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-condemns-treacherous-killing-larijani-lauds-his-support-palestine"
+      },
+      {
+        "title": "Israeli strikes hit eastern Lebanon towns, killing civilians",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-hit-eastern-lebanon-towns-killing-civilians"
+      },
       {
         "title": "Iranian missile barrage kills two near Tel Aviv, disrupts rail",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-missile-barrage-kills-two-near-tel-aviv-disrupts-rail"
@@ -127,62 +133,50 @@
       {
         "title": "Global flights halted as Middle East conflict shuts hubs",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/global-flights-halted-middle-east-conflict-shuts-hubs"
-      },
-      {
-        "title": "UAE, Saudi Arabia intercept drones and missiles amid Iran attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-saudi-arabia-intercept-drones-and-missiles-amid-iran-attacks"
-      },
-      {
-        "title": "Iran executes man convicted of spying for Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-man-convicted-spying-israel"
-      },
-      {
-        "title": "Loud explosion in Beirut after Israeli strike on building",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/loud-explosion-beirut-after-israeli-strike-building"
       }
     ],
     "GeoTV": [
       {
+        "title": "Cuba vows 'unbreakable resistance' as US pressure mounts",
+        "link": "https://www.geo.tv/latest/656184-cuba-vows-unbreakable-resistance-as-us-pressure-mounts"
+      },
+      {
+        "title": "Top MQM-P leader demands PM reinstate Kamran Tessori as Sindh governor",
+        "link": "https://www.geo.tv/latest/656178-top-mqm-p-leader-demands-pm-reinstate-kamran-tessori-as-sindh-governor"
+      },
+      {
+        "title": "Prince William ditches royal position for spontaneous adventure",
+        "link": "https://www.geo.tv/latest/656180-prince-william-ditches-royal-position-for-spontaneous-adventure"
+      },
+      {
+        "title": "Lollapalooza drops 2026 lineup: Charli XCX, Tate McRae, Smashing Pumpkins",
+        "link": "https://www.geo.tv/latest/656179-lollapalooza-drops-2026-lineup-charli-xcx-tate-mcrae-smashing-pumpkins"
+      },
+      {
         "title": "Adam Peaty's sister makes peace with mum amid Ramsay fall out",
         "link": "https://www.geo.tv/latest/656175-adam-peatys-sister-makes-peace-with-mum-amid-ramsay-fall-out"
-      },
-      {
-        "title": "Kensington Palace issues update as beaming Princess Kate takes on key role",
-        "link": "https://www.geo.tv/latest/656176-kensington-palace-issues-update-as-beaming-princess-kate-takes-on-key-role"
-      },
-      {
-        "title": "Unholy wars",
-        "link": "https://www.geo.tv/latest/656174-unholy-wars"
-      },
-      {
-        "title": "Oil dips and stocks extend gains as US, Israel, Iran continue strikes",
-        "link": "https://www.geo.tv/latest/656171-oil-dips-and-stocks-extend-gains-as-us-israel-iran-continue-strikes"
-      },
-      {
-        "title": "Jacob Elordi kept years long promise to mom at Oscars 2026",
-        "link": "https://www.geo.tv/latest/656170-jacob-elordi-kept-years-long-promise-to-mom-at-oscars-2026"
       }
     ],
     "NDTV": [
       {
-        "title": "In Big Relief For Fliers, Centre Says No Selection Fee On 60% Seats",
-        "link": "https://www.ndtv.com/india-news/keep-atleast-60-seats-on-flights-free-of-cost-government-tells-airlines-11231061#publisher=newsstand"
+        "title": "Nearly 90 Ships Cross Strait Of Hormuz As Iran Exports Millions Of Barrels Of Oil Despite War",
+        "link": "https://www.ndtv.com/world-news/about-90-ships-cross-the-strait-of-hormuz-as-iran-exports-millions-of-barrels-of-oil-despite-the-war-11231246#publisher=newsstand"
       },
       {
-        "title": "'Us Needs No Help': Trump Fumes At NATO Over Iran War Pushback",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-us-needs-no-help-trump-fumes-at-nato-over-iran-war-pushback-11231086#publisher=newsstand"
-      },
-      {
-        "title": "Sensex Today, Stock Market LIVE Updates: Sensex, Nifty Open In Green For 3rd Straight Day",
-        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-share-market-nifty-sensex-today-18-march-gift-nifty-11230806#publisher=newsstand"
-      },
-      {
-        "title": "Gold, Silver Prices Edge Higher Today: Check Rates In Your City",
-        "link": "https://www.ndtv.com/india-news/gold-silver-prices-edge-higher-today-march-18-2026-check-rates-in-your-city-11231034#publisher=newsstand"
+        "title": "Iran Crisis: After Larijani Killing, Who Else In Tehran Can The US Talk To?",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-live-after-larijani-killing-who-else-in-tehran-can-the-us-talk-to-11230922#publisher=newsstand"
       },
       {
         "title": "US Hits Iran Missiles Near Hormuz With 2,200 kg 'Bunker Buster' Bombs",
         "link": "https://www.ndtv.com/world-news/iran-war-news-us-hits-iran-missiles-near-hormuz-with-5-000-pound-bunker-buster-bombs-11230637#publisher=newsstand"
+      },
+      {
+        "title": "Will Markets Open On Gudi Padwa, Eid, Navratri 2026? Full Holiday List Here",
+        "link": "https://www.ndtv.com/india-news/stock-market-march-2026-holidays-will-markets-open-on-gudi-padwa-eid-navratri-full-holiday-list-here-11231196#publisher=newsstand"
+      },
+      {
+        "title": "Iran's Bushehr Nuclear Power Plant Hit In Israeli Strikes, Says UN Watchdog",
+        "link": "https://www.ndtv.com/world-news/un-watchdog-says-projectile-struck-iran-nuclear-power-plant-11231193#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-18 05:08 UTC"
+  "last_updated": "2026-03-18 06:12 UTC"
 }
