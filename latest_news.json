@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates: Sensex Crashes 1,700 Points, Nifty Down 500 As Oil Crosses $110",
+      "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,8 +21,8 @@
         "link": "https://www.bbc.com/news/articles/cn0z0x82r00o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US aircraft carrier to sail to Crete for repairs after fire on board",
-        "link": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&at_campaign=rss"
+        "title": "World's longest coastal path opens in England",
+        "link": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'Designer' dog owners report more problem behaviours, vets warn",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Trump denies knowledge of Israeli gas field attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/trump-denies-knowledge-of-israeli-gas-field-attack?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What’s the Jones Act, and why has Trump suspended it for 60 days?",
+        "link": "https://www.aljazeera.com/economy/2026/3/19/iran-war-whats-the-jones-act-and-why-has-trump-suspended-it-for-60-days?traffic_source=rss"
+      },
+      {
+        "title": "US weighs sending thousands of troops to region as Iran war rages: Report",
+        "link": "https://www.aljazeera.com/news/2026/3/19/us-weighs-sending-thousands-of-troops-to-region-as-iran-war-rages-report?traffic_source=rss"
+      },
+      {
+        "title": "War enters new phase as Israel attack on Iran gasfield sparks Gulf response",
+        "link": "https://www.aljazeera.com/news/2026/3/19/wrap-iran-ratchets-up-pressure-on-gulf-states?traffic_source=rss"
+      },
+      {
         "title": "‘Unpleasant surprises’: Will key French cities elect far-right mayors?",
         "link": "https://www.aljazeera.com/news/2026/3/19/unpleasant-surprises-will-key-french-cities-elect-far-right-mayors?traffic_source=rss"
-      },
-      {
-        "title": "Baking in rubble: Gaza woman keeps Eid traditions alive despite shortages",
-        "link": "https://www.aljazeera.com/features/2026/3/19/baking-rubble-gaza-woman-keeps-eid-traditions-alive-despite-shortages?traffic_source=rss"
-      },
-      {
-        "title": "Trump attempts to distance US from Israeli strikes on key Iranian gasfield",
-        "link": "https://www.aljazeera.com/news/2026/3/19/trump-attempts-to-distance-us-from-israeli-strikes-on-key-iranian-gasfield?traffic_source=rss"
-      },
-      {
-        "title": "Israeli air raids devastate southern Lebanon, dozens killed in two days",
-        "link": "https://www.aljazeera.com/news/2026/3/19/israeli-air-raids-devastate-southern-lebanon-dozens-killed-in-two-days?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 20 of US-Israel attacks?",
-        "link": "https://www.aljazeera.com/news/2026/3/19/iran-war-what-is-happening-on-day-20-of-us-israel-attacks?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -101,8 +107,8 @@
         "link": "https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html"
       },
       {
-        "title": "U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War",
-        "link": "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html"
+        "title": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
+        "link": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html"
       },
       {
         "title": "Mullin Signals He Would End Noem Policy That Slowed Disaster Aid",
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "FBI probing counterterror chief who quit over Iran war, reports say",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fbi-probing-counterterror-chief-who-quit-over-iran-war-reports-say"
+      },
+      {
+        "title": "Fire erupts after drone hits second Kuwait oil refinery",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-erupts-after-drone-hits-second-kuwait-oil-refinery"
+      },
+      {
         "title": "Iran’s Araghchi slams Macron for silence on US-Israeli attacks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-slams-macron-silence-us-israeli-attacks"
       },
@@ -125,58 +139,50 @@
       {
         "title": "Iran’s Araghchi: Pentagon’s $200 billion war funding push “the tip of the iceberg”",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-aragchi-says-pentagons-200b-tip-iceberg"
-      },
-      {
-        "title": "Gaza's Rafah crossing with Egypt reopens, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gazas-rafah-crossing-egypt-reopens-report-says"
-      },
-      {
-        "title": "Kuwait Petroleum Corporation says drone hit unit at Mina al-Ahmadi refinery causing limited fire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-petroleum-corporation-says-drone-hit-unit-mina-al-ahmadi-refinery"
       }
     ],
     "GeoTV": [
       {
-        "title": "Taylor Swift's biggest honour yet faces unexpected roadblock",
-        "link": "https://www.geo.tv/latest/656368-taylor-swifts-biggest-honour-yet-faces-unexpected-roadblock"
+        "title": "BTS comeback era begin with major late night return",
+        "link": "https://www.geo.tv/latest/656371-bts-comeback-era-begin-with-major-late-night-return"
       },
       {
-        "title": "Iran continuing World Cup preparations but will not play in US, says soccer chief",
-        "link": "https://www.geo.tv/latest/656370-iran-continuing-world-cup-preparations-but-will-not-play-in-us-says-soccer-chief"
+        "title": "PSX falls as Gulf attacks spark oil price surge",
+        "link": "https://www.geo.tv/latest/656343-psx-falls-as-gulf-attacks-spark-oil-price-surge"
       },
       {
-        "title": "Eid ul Fitr: Ruet-e-Hilal Committee to meet today to sight Shawwal moon",
-        "link": "https://www.geo.tv/latest/656367-eid-ul-fitr-ruet-e-hilal-committee-to-meet-today-in-islamabad-to-sight-moon"
+        "title": "Miley Cyrus ‘willed' Hannah Montana back to life",
+        "link": "https://www.geo.tv/latest/656384-miley-cyrus-willed-hannah-montana-back-to-life"
       },
       {
-        "title": "Govt may leave fuel prices unchanged despite global oil spike",
-        "link": "https://www.geo.tv/latest/656362-govt-may-leave-fuel-prices-unchanged-despite-global-oil-spike"
+        "title": "Meghan Markle laughs at home amid Piers Morgan's fiery live TV clash",
+        "link": "https://www.geo.tv/latest/656369-meghan-markle-laughs-at-home-amid-piers-morgans-fiery-live-tv-clash"
       },
       {
-        "title": "Messi scores 900th career goal, joins Ronaldo in elite club",
-        "link": "https://www.geo.tv/latest/656366-messi-scores-900th-career-goal-joins-ronaldo-in-elite-club"
+        "title": "Princess Andre shares creepy messages and secret celeb DMs",
+        "link": "https://www.geo.tv/latest/656379-princess-andre-shares-creepy-messages-and-secret-celeb-dms"
       }
     ],
     "NDTV": [
       {
-        "title": "Iran To Lebanon To Iraq: Heavy Casualties Reported Amid US-Israel-Iran War",
-        "link": "https://www.ndtv.com/world-news/iran-to-lebanon-to-iraq-heavy-casualties-reported-amid-us-israel-iran-war-middle-east-conflict-11236817#publisher=newsstand"
+        "title": "With Hormuz Shut, Saudi's Yanbu Is Gulf's Only Oil Hope. It's Being Attacked",
+        "link": "https://www.ndtv.com/world-news/saudi-aramcos-samref-refinery-in-yanbu-targeted-in-aerial-attack-report-11237192#publisher=newsstand"
       },
       {
-        "title": "Swap And Steal: Hyderabad Man Arrested For Replacing Gold Rings With Fake",
-        "link": "https://www.ndtv.com/hyderabad-news/swap-and-steal-hyderabad-man-arrested-for-replacing-gold-rings-with-fake-11236888#publisher=newsstand"
+        "title": "Not In Race, Kerala Chief Minister Post Should Go To Elected MLA: S Tharoor",
+        "link": "https://www.ndtv.com/india-news/not-a-candidate-in-election-kerala-chief-minister-post-should-go-to-elected-mla-shashi-tharoor-11237064#publisher=newsstand"
       },
       {
-        "title": "'Gulf States Have Significant Capabilities': Saudi's Big Warning To Iran",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-live-gulf-states-have-significant-capabilities-saudis-big-warning-to-iran-11236925#publisher=newsstand"
+        "title": "8 Bullets, 10 Seconds: Chandigarh Realtor Shot Dead Outside Gym",
+        "link": "https://www.ndtv.com/chandigarh-news/8-bullets-10-seconds-chandigarh-realtor-shot-dead-outside-gym-11237197#publisher=newsstand"
       },
       {
-        "title": "HDFC Bank Chairman Quits Citing 'Ethical' Concerns, Shares Fall, RBI Reacts",
-        "link": "https://www.ndtv.com/india-news/hdfc-bank-chairman-atanu-chakraborty-quits-citing-ethical-concerns-shares-plunge-11236076#publisher=newsstand"
+        "title": "After MP Pradyut Bordoloi Joined BJP, Son Exits From Congress Poll Race",
+        "link": "https://www.ndtv.com/india-news/assam-election-2026-after-mp-pradyut-bordoloi-joined-bjp-son-prateek-bordoloi-exits-from-congress-poll-race-11236748#publisher=newsstand"
       },
       {
-        "title": "As Missiles And Drones Rule Skies, Gulf Countries Prepare For Eid On Friday",
-        "link": "https://www.ndtv.com/world-news/middle-east-war-as-missiles-and-drones-rule-skies-gulf-countries-prepare-for-eid-on-friday-11236040#publisher=newsstand"
+        "title": "Stock Market LIVE Updates: Sensex Crashes 1,700 Points, Nifty Down 500 As Oil Crosses $110",
+        "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-19 08:06 UTC"
+  "last_updated": "2026-03-19 08:59 UTC"
 }
