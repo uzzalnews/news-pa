@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates: Sensex Crashes 1,700 Points, Nifty Down 500 As Oil Crosses $110",
+      "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Lionel Messi scores 900th goal as Nashville oust Miami in Champions Cup",
+        "link": "https://www.aljazeera.com/sports/2026/3/19/lionel-messi-scores-900th-goal-as-nashville-oust-miami-in-champions-cup?traffic_source=rss"
+      },
+      {
+        "title": "Democrats walk out of heated Epstein files briefing",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/democrats-walk-out-of-heated-epstein-files-briefing?traffic_source=rss"
+      },
+      {
+        "title": "Three Palestinian women killed during Iranian missile attack in West Bank",
+        "link": "https://www.aljazeera.com/news/2026/3/19/three-palestinian-women-killed-during-iranian-missile-attack-in-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "‘Does America have a plan? Israel has a plan. Does America know?’",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/19/does-america-have-a-plan-israel-has-a-plan-does-america-know?traffic_source=rss"
+      },
+      {
         "title": "Three women killed in occupied West Bank missile attack",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/three-women-killed-in-occupied-west-bank-missile-attack?traffic_source=rss"
-      },
-      {
-        "title": "Saudi FM warns Iran that patience in Gulf not ‘unlimited’ amid attacks",
-        "link": "https://www.aljazeera.com/news/2026/3/19/saudi-fm-warns-iran-that-patience-in-gulf-not-unlimited-amid-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Qatar, Saudi energy sites attacked; Riyadh says trust gone",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/3/19/iran-war-live-qatar-saudi-energy-sites-attacked-riyadh-says-trust-gone?traffic_source=rss"
-      },
-      {
-        "title": "Qatar expels Iranian attaches after LNG facility strike",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/qatar-expels-iranian-attaches-after-lng-facility-strike?traffic_source=rss"
-      },
-      {
-        "title": "Funerals held for Afghans killed in Pakistani strike on Kabul hospital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/funerals-held-for-afghans-killed-in-pakistani-strike-on-kabul-hospital?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1983569/pakistan-halts-afghanistan-operation-for-eid-kabul-follows-suit"
       },
       {
-        "title": "Body formed to probe Gilgit-Baltistan unrest",
-        "link": "https://www.dawn.com/news/1983593/body-formed-to-probe-gilgit-baltistan-unrest"
+        "title": "Rupee remains stable despite regional war pressures",
+        "link": "https://www.dawn.com/news/1983612/rupee-remains-stable-despite-regional-war-pressures"
       },
       {
-        "title": "15 die in rain-related incidents as heavy showers, strong winds hit parts of Karachi",
-        "link": "https://www.dawn.com/news/1983379/15-die-in-rain-related-incidents-as-heavy-showers-strong-winds-hit-parts-of-karachi"
+        "title": "Submerged ruins discovered in Indus Delta",
+        "link": "https://www.dawn.com/news/1983602/submerged-ruins-discovered-in-indus-delta"
       },
       {
-        "title": "Dar arrives in Riyadh for meeting of regional FMs",
-        "link": "https://www.dawn.com/news/1983393/dar-arrives-in-riyadh-for-meeting-of-regional-fms"
+        "title": "16 dead, several injured as rain with strong winds lashes Karachi",
+        "link": "https://www.dawn.com/news/1983518/16-dead-several-injured-as-rain-with-strong-winds-lashes-karachi"
       }
     ],
     "APNews": [],
@@ -97,23 +103,35 @@
         "link": "https://www.nytimes.com/2026/03/18/us/politics/tulsi-gabbard-iran-trump.html"
       },
       {
-        "title": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
-        "link": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html"
+        "title": "The Iran War’s Economic Threat to Europe and Asia",
+        "link": "https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html"
       },
       {
         "title": "U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War",
         "link": "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html"
       },
       {
-        "title": "Trump’s Planning for America’s 250th Emphasizes Religion’s Role in the Nation’s Founding",
-        "link": "https://www.nytimes.com/2026/03/18/arts/design/trump-america-250-year-anniversary-plan.html"
+        "title": "Mullin Signals He Would End Noem Policy That Slowed Disaster Aid",
+        "link": "https://www.nytimes.com/2026/03/18/climate/mullin-fema-noem-delays.html"
       },
       {
-        "title": "Bondi Doesn’t Commit to Deposition With House Panel Over Epstein Files",
-        "link": "https://www.nytimes.com/2026/03/18/us/politics/pam-bondi-house-oversight-epstein-files.html"
+        "title": "Trump’s Planning for America’s 250th Emphasizes Religion’s Role in the Nation’s Founding",
+        "link": "https://www.nytimes.com/2026/03/18/arts/design/trump-america-250-year-anniversary-plan.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Ship struck by 'unknown projectile' near Qatar's Ras Laffan",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ship-struck-near-qatars-ras-laffan-crew-safe"
+      },
+      {
+        "title": "Trump says US had 'no idea' Israel would attack Pars gas field in Iran",
+        "link": "https://www.middleeasteye.net/news/trump-says-us-had-no-idea-israel-would-attack-pars-gas-field-iran"
+      },
+      {
+        "title": "Qatar contains two Ras Laffan fires, third still burning",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-contains-two-ras-laffan-fires-third-still-burning"
+      },
       {
         "title": "Qatar says fires controlled after attacks damage major gas facilities",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-fires-controlled-after-attacks-damage-major-gas-facilities"
@@ -121,62 +139,50 @@
       {
         "title": "Hezbollah claims destruction of six Israeli tanks in south",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-destruction-six-israeli-tanks-south"
-      },
-      {
-        "title": "Air strike hits militia headquarters in Iraq, three injured",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/air-strike-hits-militia-headquarters-iraq-three-injured"
-      },
-      {
-        "title": "Vessel struck near Strait of Hormuz, fire reported onboard",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/vessel-struck-near-strait-hormuz-fire-reported-onboard"
-      },
-      {
-        "title": "Report: Pentagon seeks $200 billion for war with Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-pentagon-seeks-200-billion-war-iran-report"
       }
     ],
     "GeoTV": [
       {
-        "title": "Zendaya reveals fun fact about ‘Twilight' movies and Robert Pattinson",
-        "link": "https://www.geo.tv/latest/656329-zendaya-reveals-fun-fact-about-twilight-movies-and-robert-pattinson"
+        "title": "Holly Ramsay breaks cover after Adam Peaty's sister speaks on family rift",
+        "link": "https://www.geo.tv/latest/656334-holly-ramsay-breaks-cover-after-adam-peatys-siter-speaks-on-family-rift"
       },
       {
-        "title": "UAE launches banking support package",
-        "link": "https://www.geo.tv/latest/656328-uae-launches-banking-support-package"
+        "title": "Princess Beatrice receives support from unexpected member amid tensions",
+        "link": "https://www.geo.tv/latest/656335-princess-beatrice-receives-support-from-unexpected-member-amid-tensions"
       },
       {
-        "title": "Pakistani martyrs' families in UAE to receive financial aid",
-        "link": "https://www.geo.tv/latest/656326-pakistani-martyrs-families-in-uae-to-receive-financial-aid"
+        "title": "Karachi rain persists as overnight downpour leaves nearly 20 dead",
+        "link": "https://www.geo.tv/latest/656333-karachi-rain-persists-as-overnight-downpour-leaves-nearly-20-dead"
       },
       {
-        "title": "Ryan Gosling recalls shocking incidents with Harrison Ford",
-        "link": "https://www.geo.tv/latest/656325-ryan-gosling-recalls-shocking-incidents-with-harrison-ford"
+        "title": "Demi Lovato takes jab at Shia LaBeouf during Disney Rushmore discussion",
+        "link": "https://www.geo.tv/latest/656330-demi-lovato-takes-jab-at-shia-labeouf-during-disney-rushmore-discussion"
       },
       {
-        "title": "Tehran vows attacks on Gulf oil and gas targets after Israel hits Iranian energy sites",
-        "link": "https://www.geo.tv/latest/656324-tehran-vows-attacks-on-gulf-oil-and-gas-targets-after-israel-hits-iranian-energy-sites"
+        "title": "Power bills to rise by over Rs1.50 per unit in April",
+        "link": "https://www.geo.tv/latest/656332-power-bills-to-rise-by-over-rs1-per-unit-in-april"
       }
     ],
     "NDTV": [
       {
-        "title": "70% Kerala MLAs Face Criminal Cases, Over Half Are Crorepatis",
-        "link": "https://www.ndtv.com/india-news/kerala-assembly-election-2026-70-per-cent-mlas-face-criminal-cases-over-half-are-crorepatis-11235238#publisher=newsstand"
+        "title": "Stock Market LIVE Updates: Sensex Crashes 1,700 Points, Nifty Down 500 As Oil Crosses $110",
+        "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand"
       },
       {
-        "title": "US Fed Keeps Rates Unchanged: What It Means For Indian Stock Markets",
-        "link": "https://www.ndtv.com/india-news/us-fed-keeps-rates-unchanged-amid-iran-war-what-it-means-for-indian-stock-markets-11235958#publisher=newsstand"
+        "title": "HDFC Bank Chairman Quits Citing 'Ethical' Concerns, Shares Fall Over 4%",
+        "link": "https://www.ndtv.com/india-news/hdfc-bank-chairman-atanu-chakraborty-quits-citing-ethical-concerns-shares-plunge-11236076#publisher=newsstand"
       },
       {
-        "title": "16 Mumbai Suburban Services To Get 15-Car Trains From March 19",
-        "link": "https://www.ndtv.com/mumbai-news/16-mumbai-suburban-services-to-get-15-car-trains-from-march-19-11235214#publisher=newsstand"
+        "title": "Drones Seen Over US Army Base Where Rubio Lives Amid Iran War: Report",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-drones-seen-over-us-army-base-where-rubio-lives-amid-iran-war-report-11236181#publisher=newsstand"
       },
       {
-        "title": "Iran War Highlights: Pentagon Seeks More Fund As Iran War Intensifies",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-news-updates-donald-trump-mojtaba-khamenei-dubai-uae-baghdad-kuwait-airport-11217035#publisher=newsstand"
+        "title": "Extensive Damage At World's Largest LNG Plant In Qatar After Iran Strike",
+        "link": "https://www.ndtv.com/world-news/middle-east-war-worlds-largest-lng-plant-in-qatar-hit-in-latest-attack-on-energy-infrasructure-11235937#publisher=newsstand"
       },
       {
-        "title": "'Iran No Where Close To Nukes': Joe Kent In 1st Interview After Exit",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-live-iran-no-where-close-to-nukes-donald-trumps-ex-aide-joe-kent-in-first-interview-after-exit-11235938#publisher=newsstand"
+        "title": "Clouds Hover Over Delhi-NCR, Rain, Winds Expected Till Friday",
+        "link": "https://www.ndtv.com/delhi-news/clouds-hover-over-delhi-ncr-rain-winds-expected-till-friday-11236124#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-19 02:49 UTC"
+  "last_updated": "2026-03-19 04:46 UTC"
 }
