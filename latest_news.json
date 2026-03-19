@@ -1,35 +1,33 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates: Sensex Crashes 1,700 Points, Nifty Down 500 As Oil Crosses $110",
-      "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
+        "title": "How the Iran war has left Europe facing yet another energy crisis",
+        "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "All doctors in England warned to watch for meningitis symptoms after Kent outbreak",
         "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why has this meningitis outbreak spread so fast?",
-        "link": "https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Two men charged with allegedly spying on London Jewish community for Iran",
-        "link": "https://www.bbc.com/news/articles/cwygyvrwq89o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "US aircraft carrier to sail to Crete for repairs after fire on board",
         "link": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Impact of Iran war expected to bring hold in interest rates",
-        "link": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss"
+        "title": "Two men charged with allegedly spying on London Jewish community for Iran",
+        "link": "https://www.bbc.com/news/articles/cwygyvrwq89o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Warm settled weather set to continue into the weekend",
+        "link": "https://www.bbc.com/weather/articles/crm8mexxlm7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Social media making young people less happy, report finds",
+        "link": "https://www.aljazeera.com/economy/2026/3/19/social-media-making-young-people-less-happy-report-finds?traffic_source=rss"
+      },
       {
         "title": "US intelligence agencies not expecting China to invade Taiwan in 2027",
         "link": "https://www.aljazeera.com/news/2026/3/19/us-intelligence-agencies-not-expecting-china-to-invade-taiwan-in-2027?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "JD Vance deflects gas price concerns with criticism of Biden",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/jd-vance-deflects-gas-price-concerns-with-criticism-of-biden?traffic_source=rss"
-      },
-      {
-        "title": "Ben-Gvir visits gallows museum, threatens the death penalty",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/ben-gvir-visits-gallows-museum-threatens-the-death-penalty?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1983659/cdf-munir-reiterates-pakistans-resolve-to-eliminate-terrorists-wherever-they-may-be"
       },
       {
+        "title": "Ministerial meeting calls on Iran to ‘immediately and unconditionally’ halt attacks in Gulf",
+        "link": "https://www.dawn.com/news/1983661/ministerial-meeting-calls-on-iran-to-immediately-and-unconditionally-halt-attacks-in-gulf"
+      },
+      {
         "title": "Pakistan halts Afghanistan operation for Eid, Kabul follows suit",
         "link": "https://www.dawn.com/news/1983569/pakistan-halts-afghanistan-operation-for-eid-kabul-follows-suit"
       },
       {
         "title": "Rupee remains stable despite regional war pressures",
         "link": "https://www.dawn.com/news/1983612/rupee-remains-stable-despite-regional-war-pressures"
-      },
-      {
-        "title": "Submerged ruins discovered in Indus Delta",
-        "link": "https://www.dawn.com/news/1983602/submerged-ruins-discovered-in-indus-delta"
       }
     ],
     "APNews": [],
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Missile fire kills three Palestinians in occupied West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-fire-kills-three-palestinians-west-bank"
+      },
+      {
+        "title": "Opinion: Why soaring Israeli morale over the war on Iran exposes deeper delusion",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/why-soaring-israeli-morale-over-war-iran-exposes-deeper-delusion"
+      },
+      {
+        "title": "Saudi Red Sea port Yanbu targeted in aerial attack, minimal impact, source says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-red-sea-port-yanbu-targeted-aerial-attack-minimal-impact-source"
+      },
+      {
+        "title": "Why soaring Israeli morale over the war on Iran exposes deeper delusion",
+        "link": "https://www.middleeasteye.net/opinion/why-soaring-israeli-morale-over-war-iran-exposes-deeper-delusion"
+      },
+      {
         "title": "Trump says Israel attacked Iran gas field without US and Qatari involvement",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-israel-attacked-iran-gas-field-without-us-and-qatari"
-      },
-      {
-        "title": "Israeli attacks kill 45 people in Lebanon in two days",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-45-people-lebanon-over-past-two-days-ministry-says"
-      },
-      {
-        "title": "Drones reported over base where US Secretary of State resides in Washington",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drones-reported-over-base-where-us-secretary-state-resides-washington"
-      },
-      {
-        "title": "Qatar says Ras Laffan fires fully contained, no injuries",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-ras-laffan-fires-fully-contained-no-injuries"
-      },
-      {
-        "title": "Ship struck by 'unknown projectile' near Qatar's Ras Laffan",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ship-struck-near-qatars-ras-laffan-crew-safe"
       }
     ],
     "GeoTV": [
       {
-        "title": "Netflix clears air about Prince Harry, Meghan deal after astonishing claims",
-        "link": "https://www.geo.tv/latest/656339-netflix-clears-air-about-prince-harry-meghan-deal-after-astonishing-claims"
+        "title": "Who was Tom Georgeson? Legendary 'Boys From The Blackstuff' actor dies aged 88",
+        "link": "https://www.geo.tv/latest/656353-who-was-tom-georgeson-legendary-boys-from"
       },
       {
-        "title": "Violence in Pakistan over incidents in other countries will not be tolerated, says CDF in meeting with ulema",
-        "link": "https://www.geo.tv/latest/656338-violence-in-pakistan-over-incidents-in-other-countries-will-not-be-tolerated-says-cdf-in-meeting-with-ulema"
+        "title": "'Dune 3' vs. 'Avengers: Doomsday', Hollywood's biggest duel",
+        "link": "https://www.geo.tv/latest/656354-dune-3-vs-avengers-doomsday-hollywoods-biggest-duel"
       },
       {
-        "title": "King Charles toasts Tinubu with Eid wishes and ‘Naija no dey carry last'",
-        "link": "https://www.geo.tv/latest/656331-king-charles-toasts-tinubu-with-eid-wishes-and-naija-no-dey-carry-last"
+        "title": "Social media impacts youth wellbeing: UN happiness report",
+        "link": "https://www.geo.tv/latest/656347-social-media-impacts-youth-wellbeing-un-happiness-report"
       },
       {
-        "title": "Junior Andre recalls emotional moment Katie Price crushed his football dream",
-        "link": "https://www.geo.tv/latest/656337-junior-andre-recalls-emotional-moment-katie-price-ended-his-football-hopes"
+        "title": "US detects drones over base where Rubio, Hegseth live, reports Washington Post",
+        "link": "https://www.geo.tv/latest/656345-us-detects-drones-over-base-where-rubio-hegseth-live-reports-washington-post"
       },
       {
-        "title": "Holly Ramsay breaks cover after Adam Peaty's sister speaks on family rift",
-        "link": "https://www.geo.tv/latest/656334-holly-ramsay-breaks-cover-after-adam-peatys-siter-speaks-on-family-rift"
+        "title": "Jay-Z Reveals changes name before upcoming concert",
+        "link": "https://www.geo.tv/latest/656344-jay-z-reveals-changes-name-before-upcoming-concert"
       }
     ],
     "NDTV": [
       {
-        "title": "Stock Market LIVE Updates: Sensex Crashes 1,700 Points, Nifty Down 500 As Oil Crosses $110",
-        "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand"
+        "title": "Investors Lose Rs 7,60,00,00,00,000 In An Hour: Why Are Stock Markets Crashing Today",
+        "link": "https://www.ndtv.com/india-news/investors-lose-rs-7-6-trillion-in-an-hour-why-are-stock-markets-crashing-11236527#publisher=newsstand"
       },
       {
-        "title": "HDFC Bank Chairman Quits Citing 'Ethical' Concerns, Shares Fall Over 4%",
-        "link": "https://www.ndtv.com/india-news/hdfc-bank-chairman-atanu-chakraborty-quits-citing-ethical-concerns-shares-plunge-11236076#publisher=newsstand"
+        "title": "Pentagon Seeks $200 Billion For Iran War. It's Nearly 50% Of Tehran's GDP",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-live-pentagon-seeks-200-billion-for-iran-war-its-over-half-of-tehrans-gdp-11236622#publisher=newsstand"
       },
       {
-        "title": "Drones Seen Over US Army Base Where Rubio Lives Amid Iran War: Report",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-drones-seen-over-us-army-base-where-rubio-lives-amid-iran-war-report-11236181#publisher=newsstand"
+        "title": "Opinion: Book Review | The Day IAF Broke PAF's Back: 'The Sky Warriors: Operation Sindoor Unveiled'",
+        "link": "https://www.ndtv.com/opinion/the-day-iaf-broke-pafs-back-the-sky-warriors-operation-sindoor-unveiled-11236483#publisher=newsstand"
       },
       {
-        "title": "Extensive Damage At World's Largest LNG Plant In Qatar After Iran Strike",
-        "link": "https://www.ndtv.com/world-news/middle-east-war-worlds-largest-lng-plant-in-qatar-hit-in-latest-attack-on-energy-infrasructure-11235937#publisher=newsstand"
+        "title": "Nandigram: Centrepiece Of Bengal's Political Battleground",
+        "link": "https://www.ndtv.com/india-news/nandigram-centrepiece-of-bengals-political-battleground-11235360#publisher=newsstand"
       },
       {
-        "title": "Clouds Hover Over Delhi-NCR, Rain, Winds Expected Till Friday",
-        "link": "https://www.ndtv.com/delhi-news/clouds-hover-over-delhi-ncr-rain-winds-expected-till-friday-11236124#publisher=newsstand"
+        "title": "NATO Allies Discuss Strategies To Reopen Strait Of Hormuz Amid Oil Concerns",
+        "link": "https://www.ndtv.com/world-news/iran-us-israel-war-nato-allies-discuss-strategies-to-reopen-strait-of-hormuz-amid-global-oil-concerns-middle-east-conflict-11236424#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-19 05:46 UTC"
+  "last_updated": "2026-03-19 06:40 UTC"
 }
