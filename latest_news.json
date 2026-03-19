@@ -1,15 +1,9 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates: Sensex Crashes 2,000 Points, Nifty Down 800 As Oil Crosses $110",
-      "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "How the Iran war has left Europe facing yet another energy crisis",
+        "title": "How Europe sleepwalked into yet another energy crisis",
         "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Iran hits Qatar gas operations in response to Israeli attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/iran-hits-qatar-gas-operations-in-response-to-israeli-attack?traffic_source=rss"
+      },
+      {
         "title": "Strikes kill two PMF fighters in northern Iraq amid wider war, group says",
         "link": "https://www.aljazeera.com/news/2026/3/19/strikes-kill-two-pmf-fighters-in-northern-iraq-amid-wider-war-group-says?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Trump denies knowledge of Israeli gas field attack",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/trump-denies-knowledge-of-israeli-gas-field-attack?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What’s the Jones Act, and why has Trump suspended it for 60 days?",
-        "link": "https://www.aljazeera.com/economy/2026/3/19/iran-war-whats-the-jones-act-and-why-has-trump-suspended-it-for-60-days?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,46 +74,58 @@
         "link": "https://www.dawn.com/news/1983677/gabbards-missile-claim-not-grounded-in-strategic-reality-says-former-foreign-minister"
       },
       {
-        "title": "Pakistan missiles ‘significant threat’ to US: Gabbard",
-        "link": "https://www.dawn.com/news/1983558/pakistan-missiles-significant-threat-to-us-gabbard"
-      },
-      {
         "title": "20 killed, 8 injured in rain-related incidents across Karachi: police",
         "link": "https://www.dawn.com/news/1983691/20-killed-8-injured-in-rain-related-incidents-across-karachi-police"
+      },
+      {
+        "title": "Islamabad AG Ayaz Shaukat appointed chairman of newly-established Social Media Protection and Regulatory Authority",
+        "link": "https://www.dawn.com/news/1983696/islamabad-ag-ayaz-shaukat-appointed-chairman-of-newly-established-social-media-protection-and-regulatory-authority"
       },
       {
         "title": "CDF Munir reiterates Pakistan’s resolve to eliminate terrorists ‘wherever they may be’",
         "link": "https://www.dawn.com/news/1983659/cdf-munir-reiterates-pakistans-resolve-to-eliminate-terrorists-wherever-they-may-be"
       },
       {
-        "title": "Islamabad AG Ayaz Shaukat appointed chairman of newly-established Social Media Protection and Regulatory Authority",
-        "link": "https://www.dawn.com/news/1983696/islamabad-ag-ayaz-shaukat-appointed-chairman-of-newly-established-social-media-protection-and-regulatory-authority"
+        "title": "Pakistan missiles ‘significant threat’ to US: Gabbard",
+        "link": "https://www.dawn.com/news/1983558/pakistan-missiles-significant-threat-to-us-gabbard"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "What’s a Threat? Gabbard Says It’s Up to Trump, on Iran and Elsewhere.",
-        "link": "https://www.nytimes.com/2026/03/18/us/politics/tulsi-gabbard-iran-trump.html"
-      },
-      {
         "title": "The Iran War’s Economic Threat to Europe and Asia",
         "link": "https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html"
       },
       {
-        "title": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
-        "link": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html"
+        "title": "What’s a Threat? Gabbard Says It’s Up to Trump, on Iran and Elsewhere.",
+        "link": "https://www.nytimes.com/2026/03/18/us/politics/tulsi-gabbard-iran-trump.html"
       },
       {
-        "title": "Mullin Signals He Would End Noem Policy That Slowed Disaster Aid",
-        "link": "https://www.nytimes.com/2026/03/18/climate/mullin-fema-noem-delays.html"
+        "title": "Trump Says U.S. and Qatar Not Involved in Strike on Iran’s South Pars Gas Field",
+        "link": "https://www.nytimes.com/2026/03/19/world/middleeast/trump-iran-south-pars-gas-field.html"
       },
       {
-        "title": "Trump’s Planning for America’s 250th Emphasizes Religion’s Role in the Nation’s Founding",
-        "link": "https://www.nytimes.com/2026/03/18/arts/design/trump-america-250-year-anniversary-plan.html"
+        "title": "The Abuse Allegations Against a Civil Rights Icon, and a 48% Rise in Oil Prices",
+        "link": "https://www.nytimes.com/2026/03/19/podcasts/the-headlines/abuse-allegations-chavez-oil-prices.html"
+      },
+      {
+        "title": "‘Go Big and Go Loud’: Inside the Justice Dept.’s Push to Prosecute Protesters",
+        "link": "https://www.nytimes.com/2026/03/19/us/politics/justice-dept-prosecute-protesters.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Drone attack kills two Iranians in Malekan, report says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attack-kills-two-iranians-malekan-report-says"
+      },
+      {
+        "title": "China restricts fertiliser exports, further crimping war-tightened supply",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-restricts-fertiliser-exports-further-crimping-war-tightened-supply"
+      },
+      {
+        "title": "Iran lawmakers propose tolls on shipping through Strait of Hormuz, media reports say",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-lawmakers-propose-tolls-shipping-through-strait-hormuz-media"
+      },
       {
         "title": "Omani foreign minister: ‘America has lost control of its own foreign policy'",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/omani-foreign-minister-america-has-lost-control-its-own-foreign-policy"
@@ -127,65 +133,57 @@
       {
         "title": "Three explosions heard in Tel Aviv after an Iranian missile alert",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-explosions-heard-tel-aviv-after-iranian-missile-alert"
-      },
-      {
-        "title": "‘Dirty Arab’: As the French elect their mayors, Muslim candidates face unrestrained hatred",
-        "link": "https://www.middleeasteye.net/news/dirty-arab-french-elect-their-mayors-muslim-candidates-face-unrestrained-hatred"
-      },
-      {
-        "title": "Two Palestinians killed in Israeli drone attack on Gaza City",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-drone-attack-gaza-city"
-      },
-      {
-        "title": "FBI probing counterterror chief who quit over Iran war, reports say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fbi-probing-counterterror-chief-who-quit-over-iran-war-reports-say"
       }
     ],
     "GeoTV": [
       {
-        "title": "Tom Holland sparks speculation as he steps out ringless amid marriage buzz",
-        "link": "https://www.geo.tv/latest/656388-tom-holland-sparks-speculation-as-he-steps-out-ringless-amid-marriage-buzz"
+        "title": "Prince Harry, Meghan troubles far from over after latest blow from UK",
+        "link": "https://www.geo.tv/latest/656394-prince-harry-meghan-troubles-far-from-over-after-latest-blow-from-uk"
       },
       {
-        "title": "Royal fans miss out Camilla's expensive ink during Nigeria State Banquet",
-        "link": "https://www.geo.tv/latest/656386-royal-fans-miss-out-camillas-expensive-ink-during-nigeria-state-banquet"
+        "title": "King Charles hit with explosive claim after speech at Windsor",
+        "link": "https://www.geo.tv/latest/656389-king-charles-hit-with-explosive-claim-after-speech-at-windsor"
       },
       {
-        "title": "Katie Price heads for cosmetic procedures with Lee Andrews after Dubai reunion",
-        "link": "https://www.geo.tv/latest/656380-katie-price-heads-for-cosmetic-procedures-after-dubai-reunion"
+        "title": "Prince William, Kate ease Nigerian First Lady stress with touching gesture",
+        "link": "https://www.geo.tv/latest/656391-prince-william-kate-ease-nigerian-first-lady-stress-with-touching-gesture"
       },
       {
-        "title": "BTS comeback era begin with major late night return",
-        "link": "https://www.geo.tv/latest/656371-bts-comeback-era-begin-with-major-late-night-return"
+        "title": "Who is Joseph Duggar? '19Kids and Counting' star, nabbed on molestation charges involving teen",
+        "link": "https://www.geo.tv/latest/656387-who-is-joseph-duggar-19kids-and-counting-star-arrested-on-molestation-charges-involving-teen"
       },
       {
-        "title": "PSX falls as Gulf attacks spark oil price surge",
-        "link": "https://www.geo.tv/latest/656343-psx-falls-as-gulf-attacks-spark-oil-price-surge"
+        "title": "Beatrice, Eugenie's 'quiet' move could finally give escape from turmoil",
+        "link": "https://www.geo.tv/latest/656385-beatrice-eugenies-quiet-move-could-finally-give-escape-from-turmoil"
       }
     ],
     "NDTV": [
       {
-        "title": "The Protege Paradox: Can Suvendu Adhikari's Ex-Loyalist Reclaim Nandigram?",
-        "link": "https://www.ndtv.com/india-news/west-bengal-assembly-polls-2026-the-protege-paradox-can-suvendu-adhikaris-ex-loyalist-reclaim-nandigram-11237634#publisher=newsstand"
+        "title": "Old vs New Income Tax Regime: These Rules Can Help You Save Over Rs 1 Lakh",
+        "link": "https://www.ndtv.com/india-news/old-vs-new-income-tax-regime-these-rules-can-help-you-save-over-rs-1-lakh-11237896#publisher=newsstand"
       },
       {
-        "title": "Nuke Site Or Empty Hall? UN Watchdog Clueless On Iran's Isfahan Enrichment Facility",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-nuke-site-or-empty-hall-un-watchdog-clueless-on-irans-isfahan-enrichment-facility-11237633#publisher=newsstand"
+        "title": "Russia Plans To Refer Women Who Don't Want Children To Psychologists",
+        "link": "https://www.ndtv.com/world-news/russia-to-refer-women-who-dont-want-children-to-psychologists-11237474#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates: Sensex Crashes 2,000 Points, Nifty Down 800 As Oil Crosses $110",
+        "title": "Chinese University Tells Students To 'Fall In Love' During Spring Break",
+        "link": "https://www.ndtv.com/world-news/chinese-university-tells-students-to-fall-in-love-during-spring-break-11233397#publisher=newsstand"
+      },
+      {
+        "title": "Stock Market Highlights: Rs 12 Trillion Wiped Out Today As Sensex Crashes 2,400 Points",
         "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-share-market-nifty-crash-19-march-crude-oil-11236169#publisher=newsstand"
       },
       {
-        "title": "The Strait Of Hormuz Has Been Targeted Before. A Look At Past Disruptions",
-        "link": "https://www.ndtv.com/world-news/iran-us-israel-war-the-strait-of-hormuz-has-been-targeted-before-a-look-at-past-disruptions-middle-east-conflict-11237151#publisher=newsstand"
-      },
-      {
-        "title": "UP Man Sees Wife's 'Cement And Drum' Facebook Post, Lets Her Go With Lover",
-        "link": "https://www.ndtv.com/india-news/uttar-pradesh-man-sees-wifes-cement-and-drum-facebook-post-lets-her-go-with-lover-11237582#publisher=newsstand"
+        "title": "The Protege Paradox: Can Suvendu Adhikari's Ex-Loyalist Reclaim Nandigram?",
+        "link": "https://www.ndtv.com/india-news/west-bengal-assembly-polls-2026-the-protege-paradox-can-suvendu-adhikaris-ex-loyalist-reclaim-nandigram-11237634#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
+        "link": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row"
+      },
       {
         "title": "Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell",
         "link": "https://www.theguardian.com/world/2026/mar/19/jihadist-violence-nigeria-drc-terrorism-index"
@@ -201,12 +199,8 @@
       {
         "title": "‘These connections are overlooked’: how British companies profited from slavery in Brazil long after abolition",
         "link": "https://www.theguardian.com/world/2026/mar/17/connections-overlooked-how-british-companies-profited-slavery-brazil-after-abolition"
-      },
-      {
-        "title": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
-        "link": "https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains"
       }
     ]
   },
-  "last_updated": "2026-03-19 09:57 UTC"
+  "last_updated": "2026-03-19 10:49 UTC"
 }
