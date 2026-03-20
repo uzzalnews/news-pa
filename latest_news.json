@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Eid ul Fitr 2026 LIVE Updates: Celebrations In Saudi Arabia, UAE Dampened By Iran War",
-      "link": "https://www.ndtv.com/world-news/eid-al-fitr-2026-live-updates-moon-sighting-date-time-moonrise-date-and-timings-in-saudi-arabia-uae-india-eid-timings-in-india-iran-war-middle-east-11242400#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,11 +19,19 @@
         "link": "https://www.bbc.com/sport/football/articles/cj0v8z7pm6eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Woman who lost five family members in pier tragedy wants surviving daughter to 'live life'",
-        "link": "https://www.bbc.com/news/articles/cqlgqq6qg26o?at_medium=RSS&at_campaign=rss"
+        "title": "Trump's Pearl Harbor remark overshadows Japan PM visit",
+        "link": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+        "link": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss"
+      },
+      {
+        "title": "Muslims celebrate Eid al-Fitr around the world amid shadow of war",
+        "link": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss"
+      },
       {
         "title": "Eid celebrations dimmed by war and displacement across Middle East",
         "link": "https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Long before Trump: How US policy has harmed the environment for decades",
         "link": "https://www.aljazeera.com/news/2026/3/20/long-before-trump-how-us-policy-has-harmed-the-environment-for-decades?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine sends advisers to Gulf as it counterattacks Russian forces in south",
-        "link": "https://www.aljazeera.com/features/2026/3/20/ukraine-sends-advisers-to-gulf-as-it-counterattacks-russian-forces-in-south?traffic_source=rss"
-      },
-      {
-        "title": "‘It helps us survive’: Poverty forces children into mine work in DR Congo",
-        "link": "https://www.aljazeera.com/features/2026/3/20/it-helps-us-survive-poverty-forces-children-into-mine-work-in-dr-congo?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,8 +74,8 @@
         "link": "https://www.dawn.com/news/1984005/govt-rubbishes-afghan-talibans-frivolous-claim-of-pakistan-violating-truce"
       },
       {
-        "title": "PM Shehbaz, Azerbaijan president discuss ongoing hostilities in Gulf, call for immediate de-escalation",
-        "link": "https://www.dawn.com/news/1984038/pm-shehbaz-azerbaijan-president-discuss-ongoing-hostilities-in-gulf-call-for-immediate-de-escalation"
+        "title": "Calls for de-escalation of Middle East hostilities as PM speaks to leaders from Azerbaijan, Malaysia",
+        "link": "https://www.dawn.com/news/1984038/calls-for-de-escalation-of-middle-east-hostilities-as-pm-speaks-to-leaders-from-azerbaijan-malaysia"
       },
       {
         "title": "Pakistan lashes out at India for ‘weaponisation of water’ over baseless allegations at UN",
@@ -103,23 +97,27 @@
         "link": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html"
       },
       {
-        "title": "Iran War Fallout: Southeast Asia Hard Hit by Skyrocketing Fuel Prices",
-        "link": "https://www.nytimes.com/2026/03/20/world/asia/iran-war-oil-thailand-vietnam-philippines.html"
+        "title": "A Diary of War From an Unlikely Author: the Son of Iran’s President",
+        "link": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-pezeshkian-son-diary.html"
       },
       {
         "title": "Scramble for Jet Fuel Shows How Energy Shortages Are Rippling Across Asia",
         "link": "https://www.nytimes.com/2026/03/20/business/oil-jetfuel-asia.html"
       },
       {
-        "title": "Trump Organization Eyes Transylvania Golf Course Deal",
-        "link": "https://www.nytimes.com/2026/03/20/world/europe/trump-romania-tranysyvania-apartments-golf-course.html"
+        "title": "Silicon Valley’s Big Bets on War Pay Off, and the Trump Family Business Looks to Transylvania",
+        "link": "https://www.nytimes.com/2026/03/20/podcasts/the-headlines/silicon-valley-bets-war-trump-family-business-transylvania.html"
       },
       {
-        "title": "Using Charm and Restraint, Japan’s Leader Mostly Avoids Trump’s Wrath",
-        "link": "https://www.nytimes.com/2026/03/20/world/asia/trump-japan-prime-minister-meeting.html"
+        "title": "Trump Organization Eyes Transylvania Golf Course Deal",
+        "link": "https://www.nytimes.com/2026/03/20/world/europe/trump-romania-tranysyvania-apartments-golf-course.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iran warns UK that providing US access to British bases is ‘aggression’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-uk-providing-us-access-british-bases-aggression"
+      },
       {
         "title": "IRGC says spokesman killed in US-Israeli air strike",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-official-killed-us-israeli-airstrike"
@@ -135,57 +133,57 @@
       {
         "title": "Khamenei urges officials to 'strip security from internal and external enemies'",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/khamenei-urges-officials-strip-security-internal-and-external-enemies"
-      },
-      {
-        "title": "Israeli air strikes pound Lebanon towns as death toll surpasses 1,000",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-pound-lebanon-towns-death-toll-surpasses-1000"
       }
     ],
     "GeoTV": [
       {
-        "title": "King delights fans with surprise admission: 'Perfectly okay'",
-        "link": "https://www.geo.tv/latest/656534-king-makes-surprise-admission-in-presence-of-queen"
+        "title": "'War has aged us': Lebanon's kids aren't alright",
+        "link": "https://www.geo.tv/latest/656558-war-has-aged-us-lebanons-kids-arent-alright"
       },
       {
-        "title": "King Charles treks England Coast Path with walking stick",
-        "link": "https://www.geo.tv/latest/656549-king-charles-treks-england-coast-path-with-walking-stick"
+        "title": "Natural History Museum secures top spot in UK—here's why",
+        "link": "https://www.geo.tv/latest/656560-natural-history-museum-secures-top-spot-in-ukheres-why"
       },
       {
-        "title": "Snooker great O'Sullivan makes history with highest-ever break",
-        "link": "https://www.geo.tv/latest/656545-snooker-great-osullivan-makes-history-with-highest-ever-break"
+        "title": "Katie Price says 'she'd travel anywhere for Lee Andrews amid backlash",
+        "link": "https://www.geo.tv/latest/656557-katie-price-says-shed-travel-anywhere-for-lee-andrews-amid-backlash"
       },
       {
-        "title": "Palace reaction to Meghan's renewed plan to use royal connections",
-        "link": "https://www.geo.tv/latest/656532-palace-reaction-to-meghans-renewed-plan-to-use-royal-connections"
+        "title": "Taylor Swift doesn't want her wedding to be like this A-lister",
+        "link": "https://www.geo.tv/latest/656561-taylor-swift-doesnt-want-her-wedding-to-be-like-this-a-lister"
       },
       {
-        "title": "Eric Dane's widow Rebecca Gayheart split from Hard Rock mogul Peter Morton",
-        "link": "https://www.geo.tv/latest/656546-eric-danes-widow-rebecca-gayheart-split-from-hard-rock-mogul-peter-morton"
+        "title": "FBR revises export facilitation scheme, requires six-monthly statements",
+        "link": "https://www.geo.tv/latest/656555-fbr-revises-export-facilitation-scheme-requires-six-monthly-statements"
       }
     ],
     "NDTV": [
+      {
+        "title": "'Indirect Yet Palpable': Iran War's Impact On Real Estate In Mumbai",
+        "link": "https://www.ndtv.com/india-news/indirect-yet-palpable-iran-wars-impact-on-real-estate-in-mumbai-11242516#publisher=newsstand"
+      },
+      {
+        "title": "Stock Market Highlights: Markets Close In Green, Rupee Falls To Record Low",
+        "link": "https://www.ndtv.com/india-news/sensex-stock-market-share-market-nifty-live-updates-today-20-march-positive-opening-oil-prices-go-down-11241178#publisher=newsstand"
+      },
       {
         "title": "Maharashtra Official Seen In Pics With Rape-Accused Astrologer, Row Erupts",
         "link": "https://www.ndtv.com/india-news/ashok-kharat-nashik-maharashtra-womens-panel-chief-seen-in-pics-with-rape-accused-astrologer-11242536#publisher=newsstand"
       },
       {
-        "title": "Sailor's Fitness App Revealed French Aircraft Carrier's Real-Time Location",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-how-sailors-run-exposed-french-aircraft-carriers-exact-location-amid-war-11241872#publisher=newsstand"
+        "title": "Opinion: Opinion | Three 'Fatal' Assumptions That Have Derailed Trump's Iran War",
+        "link": "https://www.ndtv.com/opinion/iran-israel-war-three-fatal-assumptions-that-have-derailed-trumps-iran-war-11242740#publisher=newsstand"
       },
       {
-        "title": "Cesar Chavez Day To Be Renamed After Sex Abuse Claims Against Activist",
-        "link": "https://www.ndtv.com/world-news/cesar-chavez-day-to-be-renamed-after-sex-abuse-claims-against-activist-11240522#publisher=newsstand"
-      },
-      {
-        "title": "Iran Officer Said Missile \"Surprise\" Coming For Israel. He Died Soon After",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-iran-officer-said-missile-surprise-coming-for-israel-he-died-soon-after-11242371#publisher=newsstand"
-      },
-      {
-        "title": "Eid ul Fitr 2026 LIVE Updates: Celebrations In Saudi Arabia, UAE Dampened By Iran War",
-        "link": "https://www.ndtv.com/world-news/eid-al-fitr-2026-live-updates-moon-sighting-date-time-moonrise-date-and-timings-in-saudi-arabia-uae-india-eid-timings-in-india-iran-war-middle-east-11242400#publisher=newsstand"
+        "title": "On Camera: US War Planes Attack Iranian Targets To Reopen Hormuz",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-live-video-shows-us-war-planes-attack-iranian-targets-to-reopen-hormuz-11242228#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
+        "link": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests"
+      },
       {
         "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
         "link": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut"
@@ -201,12 +199,8 @@
       {
         "title": "Belgian court sends ex-diplomat, 93, to trial over 1961 murder of Congo leader",
         "link": "https://www.theguardian.com/world/2026/mar/17/ex-belgian-diplomat-93-trial-1961-murder-patrice-lumumba"
-      },
-      {
-        "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
-        "link": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri"
       }
     ]
   },
-  "last_updated": "2026-03-20 10:03 UTC"
+  "last_updated": "2026-03-20 10:54 UTC"
 }
