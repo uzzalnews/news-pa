@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Israel-Iran War LIVE: US Sends War Planes, Helicopters To Reopen Hormuz, Claims Report",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Brazil’s president criticises the US for thinking ‘they own the world’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/brazils-president-criticises-the-us-for-thinking-they-own-the-world?traffic_source=rss"
+      },
+      {
+        "title": "Palestinians bury four women killed in Iranian missile attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/palestinians-bury-four-women-killed-in-iranian-missile-attack?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s messianic political elite ‘does not know any boundaries’",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/20/israels-messianic-political-elite-does-not-know-any-boundaries?traffic_source=rss"
+      },
+      {
         "title": "Videos show Iranian missile fragments impacting northern Israel",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/videos-show-iranian-missile-fragments-impacting-northern-israel?traffic_source=rss"
       },
       {
         "title": "Iran war live: Tehran warns of intensified strikes if energy sites targeted",
         "link": "https://www.aljazeera.com/news/liveblog/2026/3/20/iran-war-live-tehran-warns-of-intensified-strikes-if-energy-sites-targeted?traffic_source=rss"
-      },
-      {
-        "title": "US arts commission approves gold coin stamped with Donald Trump’s face",
-        "link": "https://www.aljazeera.com/news/2026/3/19/us-arts-commission-approves-gold-coin-stamped-with-donald-trumps-face?traffic_source=rss"
-      },
-      {
-        "title": "Mexican military says 11 killed in raid targeting Sinaloa cartel leader",
-        "link": "https://www.aljazeera.com/news/2026/3/19/mexican-military-says-11-killed-in-raid-targeting-sinaloa-cartel-leader?traffic_source=rss"
-      },
-      {
-        "title": "US intelligence chief admits US, Israel not aligned on Iran war goals",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/19/us-intelligence-chief-admits-us-israel-not-aligned-on-iran-war-goals?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "FO rejects US intelligence chief’s claims about Pakistan missile threat",
-        "link": "https://www.dawn.com/news/1983677/fo-rejects-us-intelligence-chiefs-claims-about-pakistan-missile-threat"
+        "title": "Govt urges conservation amid risks to fuel supply",
+        "link": "https://www.dawn.com/news/1983900/govt-urges-conservation-amid-risks-to-fuel-supply"
       },
       {
-        "title": "Shawwal moon not sighted, Eidul Fitr to be celebrated on Saturday",
-        "link": "https://www.dawn.com/news/1983722/shawwal-moon-not-sighted-eidul-fitr-to-be-celebrated-on-saturday"
+        "title": "Violence over events abroad won’t be tolerated: CDF Munir",
+        "link": "https://www.dawn.com/news/1983909/violence-over-events-abroad-wont-be-tolerated-cdf-munir"
       },
       {
-        "title": "IRGC claims it struck US F-35 over central Iran, with fighter jet’s fate unclear",
-        "link": "https://www.dawn.com/news/1983799/irgc-claims-it-struck-us-f-35-over-central-iran-with-fighter-jets-fate-unclear"
+        "title": "US rushes $16bn arms to Gulf after Iran warns of ‘zero restraint’",
+        "link": "https://www.dawn.com/news/1983901/us-rushes-16bn-arms-to-gulf-after-iran-warns-of-zero-restraint"
       },
       {
-        "title": "UN’s Guterres tells US, Israel ‘it is high time to end war’, urges Iran to ‘stop attacking neighbours’",
-        "link": "https://www.dawn.com/news/1983779/uns-guterres-tells-us-israel-it-is-high-time-to-end-war-urges-iran-to-stop-attacking-neighbours"
+        "title": "PTI leaders yet again denied meeting with Imran",
+        "link": "https://www.dawn.com/news/1983898/pti-leaders-yet-again-denied-meeting-with-imran"
       },
       {
-        "title": "In call with Erdogan, PM acknowledges Turkiye’s role in promoting peace between Pakistan, Afghanistan",
-        "link": "https://www.dawn.com/news/1983758/in-call-with-erdogan-pm-acknowledges-turkiyes-role-in-promoting-peace-between-pakistan-afghanistan"
+        "title": "Punjab plans ‘drone shield’ to counter aerial threats",
+        "link": "https://www.dawn.com/news/1983897/punjab-plans-drone-shield-to-counter-aerial-threats"
       }
     ],
     "APNews": [],
@@ -101,41 +107,49 @@
         "link": "https://www.nytimes.com/2026/03/19/world/middleeast/trump-iran-us-troops.html"
       },
       {
-        "title": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader",
+        "title": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
         "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html"
+      },
+      {
+        "title": "F.C.C. Approves Nexstar’s Acquisition of a Local TV Rival",
+        "link": "https://www.nytimes.com/2026/03/19/business/fcc-nexstar-tegna-deal-approved.html"
       },
       {
         "title": "Trump’s Handpicked Arts Commission Approves Gold Coin With His Face on It",
         "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-gold-coin.html"
-      },
-      {
-        "title": "Cesar Chavez Avenue May Soon Be Gone. Yet to Be Confronted: His Legacy.",
-        "link": "https://www.nytimes.com/2026/03/19/us/politics/cesar-chavez-memorials-renaming.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israel plannning 'false flag' attack on Saudi Arabia's Aramco, Iran warns",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-israel-plans-false-flag-attack-saudi-arabias-aramco"
+        "title": "UAE warns public as Saudi Arabia intercepts drones, Kuwait targeted",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-warns-public-saudi-intercepts-drones-kuwait-targeted"
       },
       {
-        "title": "Israeli air strikes hit towns in southern Lebanon, reports say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-hit-towns-southern-lebanon-reports-say"
+        "title": "Missile barrages intensify across Israel overnight",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-barrages-intensify-across-israel-overnight"
       },
       {
-        "title": "Missile barrages hit Jerusalem area during intense overnight escalation",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-barrages-hit-jerusalem-area-during-intense-overnight-escalation"
+        "title": "Air strikes hit Tehran again as defences activated overnight",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/air-strikes-hit-tehran-again-defences-activated-overnight"
       },
       {
-        "title": "Hezbollah fires missiles at Israeli troops in south Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-fires-missiles-israeli-troops-south-lebanon"
+        "title": "Netanyahu says Israel and US 'protecting the entire world'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-and-us-protecting-entire-world"
       },
       {
-        "title": "US approves $7bn more in weapons for UAE",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-approves-7bn-more-weapons-uae"
+        "title": "Britain joins US planning amid push to reopen Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/britain-joins-us-planning-amid-push-reopen-hormuz"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Princess Anne follows Sophie's feat, putting ‘royal' in health research",
+        "link": "https://www.geo.tv/latest/656469-princess-anne-follows-sophies-feat-putting-royal-in-health-research"
+      },
+      {
+        "title": "Prince William's mission meets a ‘lovely' day in Bournemouth",
+        "link": "https://www.geo.tv/latest/656500-prince-williams-mission-meets-a-lovely-day-in-bournemouth"
+      },
       {
         "title": "Prince William and Kate wow with last-minute surprise portrait drop",
         "link": "https://www.geo.tv/latest/656498-prince-william-and-kate-wow-with-last-minute-surprise-portrait-drop"
@@ -147,36 +161,28 @@
       {
         "title": "Russia earns around $9B from energy exports in just 15 days of Iran war",
         "link": "https://www.geo.tv/latest/656492-russia-earns-around-9b-from-energy-exports-in-just-15-days-of-iran-war"
-      },
-      {
-        "title": "Demi Moore pays tribute to Bruce Willis on 71st birthday",
-        "link": "https://www.geo.tv/latest/656489-demi-moore-pays-tribute-to-bruce-willis-on-71st-birthday"
-      },
-      {
-        "title": "Meghan Markle's 'best life' weekend faces seaside setbacks",
-        "link": "https://www.geo.tv/latest/656487-meghan-markles-sydney-weekend-faces-seaside-setbacks"
       }
     ],
     "NDTV": [
       {
-        "title": "Ghaziabad Man Jumps To Death From 13th Floor, Mother Found Dead At Home",
-        "link": "https://www.ndtv.com/ghaziabad-news/ghaziabad-man-jumps-to-death-from-13th-floor-mother-found-dead-at-home-11240774#publisher=newsstand"
+        "title": "Qatar's LNG Exports Disrupted For 5 Years Amid Iran War: How It Affects India",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-qatars-17-lng-exports-disrupted-in-iran-attacks-these-nations-impacted-11241053#publisher=newsstand"
       },
       {
-        "title": "16 US Military Aircraft Destroyed Since Start Of Iran War",
-        "link": "https://www.ndtv.com/world-news/iran-war-16-us-military-aircraft-destroyed-since-start-of-iran-war-11240705#publisher=newsstand"
+        "title": "\"Why Didn't You Tell About Pearl Harbor?\" Trump's Quip Makes Japan PM Awkward",
+        "link": "https://www.ndtv.com/world-news/why-didnt-you-tell-about-pearl-harbor-trumps-quip-makes-japan-pm-awkward-11241054#publisher=newsstand"
       },
       {
-        "title": "War With Iran Could End \"Faster Than People Think\": Netanyahu",
-        "link": "https://www.ndtv.com/world-news/iran-war-war-with-iran-could-end-faster-than-people-think-benjamin-netanyahu-11240489#publisher=newsstand"
+        "title": "\"I'm Alive\": Netanyahu's Press Briefing Amid Death Rumours, AI Video Claims",
+        "link": "https://www.ndtv.com/world-news/iran-irsael-war-live-benjamin-netanyahus-press-briefing-amid-death-rumours-ai-video-claims-11241096#publisher=newsstand"
       },
       {
-        "title": "Netanyahu Says Israel Will Stop Attacks On Iranian Gas Field",
-        "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-israel-will-stop-attacks-on-iranian-gas-field-11240574#publisher=newsstand"
-      },
-      {
-        "title": "Netanyahu Says Iran No Longer Has Uranium Enrichment Capacity",
+        "title": "\"Can Anyone Tell Trump What To Do?\" Netanyahu Says Didn't Push US Into War",
         "link": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-iran-no-longer-has-uranium-enrichment-capacity-11240511#publisher=newsstand"
+      },
+      {
+        "title": "Israel-Iran War LIVE: US Sends War Planes, Helicopters To Reopen Hormuz, Claims Report",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-20 00:55 UTC"
+  "last_updated": "2026-03-20 03:30 UTC"
 }
