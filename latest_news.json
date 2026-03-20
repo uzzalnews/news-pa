@@ -3,10 +3,6 @@
   "news": {
     "BBC": [
       {
-        "title": "Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers",
-        "link": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Typical energy bill forecast to rise by £332 a year in July",
         "link": "https://www.bbc.com/news/articles/cede1nn8wp5o?at_medium=RSS&at_campaign=rss"
       },
@@ -15,34 +11,38 @@
         "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Lab-grown food pipe offers new hope for young patients",
-        "link": "https://www.bbc.com/news/articles/c4gdvv8j2j1o?at_medium=RSS&at_campaign=rss"
+        "title": "Greg James completes Comic Relief challenge, raising more than £4m",
+        "link": "https://www.bbc.com/news/articles/clyxw9wr73no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "The Salt Path author confirms she wrote secret first book - despite claiming to be debut writer",
-        "link": "https://www.bbc.com/news/articles/cj32vx61x6lo?at_medium=RSS&at_campaign=rss"
+        "title": "Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers",
+        "link": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lab-grown food pipe offers new hope for young patients",
+        "link": "https://www.bbc.com/news/articles/c4gdvv8j2j1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Israel says it hit Syrian army camps in the south after Druze ‘attacked’",
+        "link": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss"
+      },
+      {
+        "title": "Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup",
+        "link": "https://www.aljazeera.com/sports/2026/3/20/refugee-council-questions-australias-iran-strategy-at-womens-asian-cup?traffic_source=rss"
+      },
+      {
+        "title": "Iran today, Africa tomorrow",
+        "link": "https://www.aljazeera.com/opinions/2026/3/20/iran-today-africa-tomorrow?traffic_source=rss"
+      },
+      {
+        "title": "Iran does not need to close the Strait of Hormuz to disrupt it",
+        "link": "https://www.aljazeera.com/opinions/2026/3/20/iran-does-not-need-to-close-the-strait-of-hormuz-to-disrupt-it?traffic_source=rss"
+      },
+      {
         "title": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
         "link": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss"
-      },
-      {
-        "title": "Muslims celebrate Eid al-Fitr around the world amid shadow of war",
-        "link": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss"
-      },
-      {
-        "title": "Eid celebrations dimmed by war and displacement across Middle East",
-        "link": "https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss"
-      },
-      {
-        "title": "Five problems the Iran war could solve for Israel’s Netanyahu",
-        "link": "https://www.aljazeera.com/news/2026/3/20/five-problems-the-iran-war-could-solve-for-israels-netanyahu?traffic_source=rss"
-      },
-      {
-        "title": "Long before Trump: How US policy has harmed the environment for decades",
-        "link": "https://www.aljazeera.com/news/2026/3/20/long-before-trump-how-us-policy-has-harmed-the-environment-for-decades?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +74,10 @@
         "link": "https://www.dawn.com/news/1984038/calls-for-de-escalation-of-middle-east-hostilities-as-pm-speaks-to-leaders-from-azerbaijan-malaysia"
       },
       {
+        "title": "5 arrested, terrorist plot targeting railway tracks in Karachi foiled: Sindh CTD",
+        "link": "https://www.dawn.com/news/1984065/5-arrested-terrorist-plot-targeting-railway-tracks-in-karachi-foiled-sindh-ctd"
+      },
+      {
         "title": "Jerusalem’s Muslims despair on Eidul Fitr as access to Al-Aqsa Mosque denied amid US-Israeli war on Iran",
         "link": "https://www.dawn.com/news/1984062/jerusalems-muslims-despair-on-eidul-fitr-as-access-to-al-aqsa-mosque-denied-amid-us-israeli-war-on-iran"
       },
@@ -84,16 +88,12 @@
       {
         "title": "Pakistan lashes out at India for ‘weaponisation of water’ over baseless allegations at UN",
         "link": "https://www.dawn.com/news/1984004/pakistan-lashes-out-at-india-for-weaponisation-of-water-over-baseless-allegations-at-un"
-      },
-      {
-        "title": "Rain likely in Karachi, other Sindh cities on 1st day of Eid: PMD",
-        "link": "https://www.dawn.com/news/1984035/rain-likely-in-karachi-other-sindh-cities-on-1st-day-of-eid-pmd"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "One Global Power, One Regional Power, Two Different Goals",
+        "title": "Iran War Underscores the Diverging Aims of U.S. and Israel",
         "link": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html"
       },
       {
@@ -110,10 +110,18 @@
       },
       {
         "title": "Trump Organization Eyes Transylvania Golf Course Deal",
-        "link": "https://www.nytimes.com/2026/03/20/world/europe/trump-romania-tranysyvania-apartments-golf-course.html"
+        "link": "https://www.nytimes.com/2026/03/20/world/europe/trump-romania-transylvania-apartments-golf-course.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iranian missile strikes intercepted by Israel and Gulf nations",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-missile-strikes-intercepted-israel-and-gulf-nations"
+      },
+      {
+        "title": "Rising energy prices hit US and UK households amid US-Israeli attacks on Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rising-energy-prices-hit-us-and-uk-households"
+      },
       {
         "title": "Two US bombers return to UK RAF base after 15-hour mission, BBC reports",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-us-bombers-return-raf-base-after-15-hour-mission-bbc-reports"
@@ -125,36 +133,28 @@
       {
         "title": "Iran warns UK that providing US access to British bases is ‘aggression’",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-uk-providing-us-access-british-bases-aggression"
-      },
-      {
-        "title": "IRGC says spokesman killed in US-Israeli air strike",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-official-killed-us-israeli-airstrike"
-      },
-      {
-        "title": "Rebuilding Syria’s northeast: Damascus’ toughest test yet",
-        "link": "https://www.middleeasteye.net/news/rebuilding-syria-northeast-damascus-toughest-test-yet"
       }
     ],
     "GeoTV": [
       {
+        "title": "Maya Hawke bows to Taylor Swift in surprise move",
+        "link": "https://www.geo.tv/latest/656571-maya-hawke-bows-to-taylor-swift-in-surprise-move"
+      },
+      {
+        "title": "WATCH: Australian mosque protesters heckle PM Albanese over Israel stance",
+        "link": "https://www.geo.tv/latest/656573-australian-mosque-protesters-heckle-pm-albanese-over-israel-stance"
+      },
+      {
+        "title": "Palace makes statement about Prince Edward ahead of bombshell book release",
+        "link": "https://www.geo.tv/latest/656568-palace-makes-statement-about-prince-edward-ahead-of-bombshell-book-release"
+      },
+      {
+        "title": "Heidi Klum brings son Henry as plus-one to ‘Project Hail Mary' premiere",
+        "link": "https://www.geo.tv/latest/656569-heidi-klum-brings-son-henry-as-plus-one-to-project-hail-mary-premiere"
+      },
+      {
         "title": "Holly, Tilly Ramsay show off workout grind in chic gym look",
         "link": "https://www.geo.tv/latest/656567-holly-tilly-ramsay-show-off-workout-grind-in-chic-gym-look"
-      },
-      {
-        "title": "Miley Cyrus clarifies age-old assumption ahead of 'Hannah Montana' return",
-        "link": "https://www.geo.tv/latest/656566-miley-cyrus-clarifies-age-old-assumption-ahead-of-hannah-montana-return"
-      },
-      {
-        "title": "Running on sunshine: Pakistan's solar boom to tide over Middle East energy crisis",
-        "link": "https://www.geo.tv/latest/656564-running-on-sunshine-pakistans-solar-boom-to-tide-over-middle-east-energy-crisis"
-      },
-      {
-        "title": "Nicki Minaj faces another major setback after recent controversies",
-        "link": "https://www.geo.tv/latest/656559-nicki-minaj-faces-another-major-setback-after-recent-controversies"
-      },
-      {
-        "title": "Lee Andrews teases mystery procedure as Katie Price joins him for Botox",
-        "link": "https://www.geo.tv/latest/656562-lee-andrews-teases-mystery-procedure-as-katie-price-joins-him-for-botox"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-20 11:29 UTC"
+  "last_updated": "2026-03-20 11:56 UTC"
 }
