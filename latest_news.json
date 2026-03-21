@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Israel-Iran War LIVE: Israel Says Iranian Missile Struck Town Housing Nuclear Facility",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -109,11 +115,19 @@
         "link": "https://www.nytimes.com/2026/03/21/us/politics/trump-aides-military-housing.html"
       },
       {
-        "title": "Fidel Castro’s Grandson Flaunts Beer, Nikes and Trump Jokes on Instagram",
-        "link": "https://www.nytimes.com/2026/03/21/world/americas/fidel-castro-grandson-instagram.html"
+        "title": "One Year After Trump’s $400 Million Ultimatum, a Different Columbia",
+        "link": "https://www.nytimes.com/2026/03/21/nyregion/one-year-after-trumps-400-million-ultimatum-a-different-columbia.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iran calls strike on Israel’s Dimona nuclear site response to Natanz attack",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-calls-strike-israels-dimona-nuclear-site-response-natanz-attack"
+      },
+      {
+        "title": "Iranian missile hits Dimona nuclear site, dozens injured",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-missile-hits-dimona-nuclear-site-dozens-injured"
+      },
       {
         "title": "Death toll rises across Middle East after US-Israeli war",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-rises-across-middle-east-after-us-israeli-war"
@@ -125,14 +139,6 @@
       {
         "title": "Eid in Gaza: Despite immense loss, we deserve to celebrate",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eid-gaza-despite-immense-loss-we-deserve-celebrate"
-      },
-      {
-        "title": "Exclusive: Judges clear ICC’s Karim Khan over sexual misconduct claims",
-        "link": "https://www.middleeasteye.net/news/judges-clear-icc-prosecutor-karim-khan-sexual-misconduct"
-      },
-      {
-        "title": "Iran vows to escalate response beyond ‘eye for an eye’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-vows-escalate-response-beyond-eye-eye"
       }
     ],
     "GeoTV": [
@@ -159,24 +165,24 @@
     ],
     "NDTV": [
       {
-        "title": "Grounded Over Weight: Air India Tightens Fitness Norms For Cabin Crew",
-        "link": "https://www.ndtv.com/india-news/grounded-over-weight-air-india-tightens-fitness-norms-for-cabin-crew-11248597#publisher=newsstand"
+        "title": "Israel-Iran War LIVE: Israel Says Iranian Missile Struck Town Housing Nuclear Facility",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
       },
       {
-        "title": "Man Arrested For Raping 14-Year-Old Girl In UP: Cops",
-        "link": "https://www.ndtv.com/india-news/man-arrested-for-raping-14-year-old-girl-in-up-cops-11248539#publisher=newsstand"
+        "title": "Fuel Price Impact May Be Seen From April 1, Says Aviation Minister",
+        "link": "https://www.ndtv.com/india-news/israel-iran-war-airline-ticket-prices-fuel-price-impact-from-april-1-likely-says-aviation-minister-11248744#publisher=newsstand"
       },
       {
-        "title": "Who Will Fill Tarun Gogoi's Shoes In Assam? Congress Hopes 3 Gogois Can",
-        "link": "https://www.ndtv.com/india-news/assam-assembly-elections-2026-gaurav-gogoi-akhil-gogoi-lurinjyoti-gogoi-bjp-tale-of-3-gogois-how-congress-is-hoping-to-script-return-to-power-in-assam-11248419#publisher=newsstand"
+        "title": "Eid al-Fitr 2026 Highlights: PM Modi Conveys Eid Greetings, Hopes For Further Brotherhood",
+        "link": "https://www.ndtv.com/world-news/eid-al-fitr-2026-live-updates-moon-sighting-date-time-moonrise-date-and-timings-in-saudi-arabia-uae-india-eid-timings-in-india-iran-war-middle-east-11242400#publisher=newsstand"
       },
       {
-        "title": "Musk Offers To Pay US Airport Staff Worker's Salaries Amid Funding Standoff",
-        "link": "https://www.ndtv.com/world-news/elon-musk-offers-to-pay-salaries-of-us-airport-security-workers-11248306#publisher=newsstand"
+        "title": "After Women's Panel Chief, Calls For NCP State Chief To Quit Over Astrologer Scandal",
+        "link": "https://www.ndtv.com/india-news/ashok-kharat-sunil-tatkare-rupali-chakankar-after-womens-panel-chief-calls-for-ncp-state-chief-to-quit-over-maharashtra-astrologer-scandal-11248714#publisher=newsstand"
       },
       {
-        "title": "Adani Electricity India's Top-Ranked Distribution Utility For 2nd Consecutive Year",
-        "link": "https://www.ndtv.com/india-news/adani-electricity-indias-top-ranked-distribution-utility-for-2nd-consecutive-year-11248173#publisher=newsstand"
+        "title": "\"Glad He's Dead\": Trump On Death Of Ex-FBI Head Who Probed Russia Ties",
+        "link": "https://www.ndtv.com/world-news/glad-hes-dead-trump-on-death-of-ex-fbi-chief-robert-mueller-who-probed-his-alleged-ties-with-russia-11248627#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-21 18:39 UTC"
+  "last_updated": "2026-03-21 19:03 UTC"
 }
