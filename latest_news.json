@@ -3,7 +3,7 @@
   "news": {
     "BBC": [
       {
-        "title": "Iran launched unsuccessful attack on Diego Garcia, it is understood",
+        "title": "Foreign secretary denounces 'reckless Iran threats' after missiles fired at Diego Garcia",
         "link": "https://www.bbc.com/news/articles/c5yljdgwppzo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -11,12 +11,12 @@
         "link": "https://www.bbc.com/news/articles/cwyxy54pv9po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Sarah Ferguson is keeping a low profile, but pressure mounts for her to give evidence on Epstein",
-        "link": "https://www.bbc.com/news/articles/cn87j9ry43ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "First photos as BTS make live return in front of huge crowd",
         "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Saturday Night Live UK is here - but can it make you laugh?",
+        "link": "https://www.bbc.com/news/articles/cj40xxj4v5po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "As meningitis cases rise, some people are changing plans in Canterbury",
@@ -24,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Former FBI chief, Robert Mueller, dead at 81",
+        "link": "https://www.aljazeera.com/news/2026/3/21/former-fbi-chief-robert-mueller-dead-at-81?traffic_source=rss"
+      },
       {
         "title": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown",
         "link": "https://www.aljazeera.com/news/2026/3/21/trump-threatens-to-deploy-ice-to-airports-amid-homeland-security-shutdown?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Arab states should beware of Israel’s hegemonic energy expansion",
         "link": "https://www.aljazeera.com/opinions/2026/3/21/arab-states-should-beware-of-israels-hegemonic-energy-expansion?traffic_source=rss"
-      },
-      {
-        "title": "UK says Iran missile attack on Diego Garcia failed",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,12 +93,12 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "War in Iran Reveals Strait of Hormuz’s Weakness as an Oil Bottleneck",
-        "link": "https://www.nytimes.com/2026/03/21/business/iran-strait-of-hormuz-oil-us-israel-choke-point.html"
+        "title": "A Look at the Escalating Battle for the Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/03/20/us/politics/battle-for-strait-of-hormuz.html"
       },
       {
-        "title": "High Gas Prices, Driven Up by the Iran War, Loom Over the Midterms",
-        "link": "https://www.nytimes.com/2026/03/21/us/politics/gas-prices-republicans-affordability.html"
+        "title": "Internet Blackout Keeps Iranians From Reaching Loved Ones During Nowruz Holiday",
+        "link": "https://www.nytimes.com/2026/03/21/world/middleeast/iran-war-nowruz-internet-blackout.html"
       },
       {
         "title": "Robert S. Mueller III, 81, Dies; Rebuilt F.B.I. and Led Trump Inquiry",
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran vows to escalate response beyond ‘eye for an eye’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-vows-escalate-response-beyond-eye-eye"
+      },
+      {
+        "title": "The Gulf countries may retaliate if Iran attacks continue, Turkey says",
+        "link": "https://www.middleeasteye.net/news/gulf-countries-may-retaliate-if-iran-attacks-continue-turkey-says"
+      },
+      {
         "title": "Eid in Gaza: Despite immense loss, we deserve to celebrate",
         "link": "https://www.middleeasteye.net/opinion/eid-gaza-despite-immense-loss-we-deserve-celebrate"
       },
@@ -125,17 +133,13 @@
       {
         "title": "Turkey, Saudi Arabia, Egypt and Pakistan meet as Ankara pushes for a security pact",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-saudi-arabia-egypt-and-pakistan-meet-ankara-pushes-security-pact"
-      },
-      {
-        "title": "EU urges lower gas storage target amid war-driven price surge",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-urges-lower-gas-storage-target-amid-war-driven-price-surge"
-      },
-      {
-        "title": "Blasts heard in northern Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-northern-iran"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Dua Lipa pouts with director pal after locking major deal",
+        "link": "https://www.geo.tv/latest/656723-dua-lipa-pouts-with-director-pal-after-locking-major-deal"
+      },
       {
         "title": "Meet Olivier Rioux, college basketball's tallest player sending internet into frenzy",
         "link": "https://www.geo.tv/latest/656721-meet-olivier-rioux-college-basketballs-tallest-player"
@@ -151,13 +155,21 @@
       {
         "title": "Sylvester Stallone steps behind camera for Quentin Tarantino project",
         "link": "https://www.geo.tv/latest/656718-sylvester-stallone-steps-behind-camera-for-quentin-tarantino-project"
-      },
-      {
-        "title": "Stopping Ozempic raises heart attack risk, research shows",
-        "link": "https://www.geo.tv/latest/656716-stopping-ozempic-raises-heart-attack-risk-research-shows"
       }
     ],
     "NDTV": [
+      {
+        "title": "Grounded Over Weight: Air India Tightens Fitness Norms For Cabin Crew",
+        "link": "https://www.ndtv.com/india-news/grounded-over-weight-air-india-tightens-fitness-norms-for-cabin-crew-11248597#publisher=newsstand"
+      },
+      {
+        "title": "Man Arrested For Raping 14-Year-Old Girl In UP: Cops",
+        "link": "https://www.ndtv.com/india-news/man-arrested-for-raping-14-year-old-girl-in-up-cops-11248539#publisher=newsstand"
+      },
+      {
+        "title": "Who Will Fill Tarun Gogoi's Shoes In Assam? Congress Hopes 3 Gogois Can",
+        "link": "https://www.ndtv.com/india-news/assam-assembly-elections-2026-gaurav-gogoi-akhil-gogoi-lurinjyoti-gogoi-bjp-tale-of-3-gogois-how-congress-is-hoping-to-script-return-to-power-in-assam-11248419#publisher=newsstand"
+      },
       {
         "title": "Musk Offers To Pay US Airport Staff Worker's Salaries Amid Funding Standoff",
         "link": "https://www.ndtv.com/world-news/elon-musk-offers-to-pay-salaries-of-us-airport-security-workers-11248306#publisher=newsstand"
@@ -165,18 +177,6 @@
       {
         "title": "Adani Electricity India's Top-Ranked Distribution Utility For 2nd Consecutive Year",
         "link": "https://www.ndtv.com/india-news/adani-electricity-indias-top-ranked-distribution-utility-for-2nd-consecutive-year-11248173#publisher=newsstand"
-      },
-      {
-        "title": "Video: Iranian Missile Hits Jerusalem, Lands Metres From Al-Aqsa Mosque On Eid al-Fitr",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-video-iranian-missile-hits-jerusalem-lands-metres-from-al-aqsa-mosque-on-eid-al-fitr-11248088#publisher=newsstand"
-      },
-      {
-        "title": "Amid Hormuz Crisis, PM Speaks To Iran President, Stresses Open Shipping Lanes",
-        "link": "https://www.ndtv.com/india-news/iran-israel-us-war-strait-of-hormuz-petrol-diesel-lpg-pezeshkian-amid-hormuz-crisis-pm-speaks-to-iran-president-stresses-open-shipping-lanes-11247913#publisher=newsstand"
-      },
-      {
-        "title": "Middle East Crisis Unlikely To Impact Power Supply In India: Power Secretary",
-        "link": "https://www.ndtv.com/india-news/israel-iran-war-middle-east-crisis-unlikely-to-impact-power-supply-in-india-power-secretary-11247837#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-21 17:35 UTC"
+  "last_updated": "2026-03-21 17:55 UTC"
 }
