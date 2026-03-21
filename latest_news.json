@@ -2,7 +2,7 @@
   "breaking": [
     {
       "source": "NDTV",
-      "title": "Israel-Iran War LIVE: Saudi Intercepts 22 Drones, Israel Strikes Lebanon",
+      "title": "Israel-Iran War LIVE: Saudi Intercepts 22 Drones, Israel Strikes Iran",
       "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
     }
   ],
@@ -17,12 +17,12 @@
         "link": "https://www.bbc.com/news/articles/cn87j9ry43ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Five questions that still need answering about the meningitis outbreak",
-        "link": "https://www.bbc.com/news/articles/cz783d70x8ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Dame Jenni Murray, former BBC Woman's Hour presenter, dies at 75",
         "link": "https://www.bbc.com/news/articles/cpwj8e25ddgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Elon Musk misled Twitter investors, jury finds",
+        "link": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Chuck Norris memes were undefeated for a generation of young fans",
@@ -30,6 +30,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "300 million people celebrate Nowruz under a cloud of war",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/300-million-people-celebrate-nowruz-under-a-cloud-of-war?traffic_source=rss"
+      },
+      {
+        "title": "Aid flotilla for Cuba sets sail from Mexico",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/aid-flotilla-for-cuba-sets-sail-from-mexico?traffic_source=rss"
+      },
       {
         "title": "Al Jazeera reporter’s journey from Jordan to Iraq",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/21/al-jazeera-reporters-journey-from-jordan-to-iraq?traffic_source=rss"
@@ -41,14 +49,6 @@
       {
         "title": "US judge sides with New York Times against Pentagon journalism policies",
         "link": "https://www.aljazeera.com/news/2026/3/20/us-judge-sides-with-new-york-times-against-pentagon-journalism-policies?traffic_source=rss"
-      },
-      {
-        "title": "Pezeshkian says Iran not seeking war with Muslim neighbours",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/pezeshkian-says-iran-not-seeking-war-with-muslim-neighbours?traffic_source=rss"
-      },
-      {
-        "title": "Colombia’s President Gustavo Petro under investigation in US for drug ties",
-        "link": "https://www.aljazeera.com/news/2026/3/20/colombias-president-gustavo-petro-under-investigation-in-us-for-drug-ties?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,20 +80,20 @@
         "link": "https://www.dawn.com/news/1984122/pm-shehbaz-rejects-recommendations-for-further-hike-in-petrol-diesel-prices"
       },
       {
+        "title": "Wedding plans in limbo as Sindh govt restricts guest numbers to 200",
+        "link": "https://www.dawn.com/news/1983964/wedding-plans-in-limbo-as-sindh-govt-restricts-guest-numbers-to-200"
+      },
+      {
         "title": "Digital channels account for 92pc of retail payments",
         "link": "https://www.dawn.com/news/1983912/digital-channels-account-for-92pc-of-retail-payments"
       },
       {
+        "title": "6 held in Karachi as NCCIA busts ‘call centre targeting foreigners’",
+        "link": "https://www.dawn.com/news/1984175/6-held-in-karachi-as-nccia-busts-call-centre-targeting-foreigners"
+      },
+      {
         "title": "Balochistan police arrest 497 proclaimed offenders",
         "link": "https://www.dawn.com/news/1983903/balochistan-police-arrest-497-proclaimed-offenders"
-      },
-      {
-        "title": "Supreme Leader Mojtaba denies Iran’s role in attacks in Oman, Turkiye, dubs them ‘false flag tactic’",
-        "link": "https://www.dawn.com/news/1984126/supreme-leader-mojtaba-denies-irans-role-in-attacks-in-oman-turkiye-dubs-them-false-flag-tactic"
-      },
-      {
-        "title": "Calls for de-escalation in Middle East as PM Shehbaz speaks to several world leaders",
-        "link": "https://www.dawn.com/news/1984038/calls-for-de-escalation-in-middle-east-as-pm-shehbaz-speaks-to-several-world-leaders"
       }
     ],
     "APNews": [],
@@ -143,6 +143,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Robert Pattinson reveals daughter's hilarious reaction to his villain role",
+        "link": "https://www.geo.tv/latest/656656-robert-pattinson-reveals-daughters-hilarious-reaction-to-his-villain-role"
+      },
+      {
         "title": "Justin Timberlake's Hamptons DWI arrest video has been released",
         "link": "https://www.geo.tv/latest/656654-justin-timberlakes-hamptons-dwi-arrest-video-has-been-released"
       },
@@ -157,16 +161,20 @@
       {
         "title": "US temporarily lifts sanctions on Iranian oil at sea",
         "link": "https://www.geo.tv/latest/656653-us-temporarily-lifts-sanctions-on-iranian-oil-at-sea"
-      },
-      {
-        "title": "Rain batters Karachi on Eid, disrupting prayers, dampening celebrations",
-        "link": "https://www.geo.tv/latest/656652-heavy-showers-hit-karachis-key-areas-as-thunderstorms-sweep-city"
       }
     ],
     "NDTV": [
       {
-        "title": "Delhi-NCR Sees Rare Fog Amid Spells Of Rain, Thunderstorms",
+        "title": "Delhi-NCR Sees Rare Fog After Recording Coldest March Day In 6 Years",
         "link": "https://www.ndtv.com/delhi-news/delhi-ncr-weather-city-sees-rare-fog-amid-3-day-spells-of-rain-thunderstorms-11245884#publisher=newsstand"
+      },
+      {
+        "title": "Iran Hangs 3, Including Teen Accused Of Killing Cops During January Protests",
+        "link": "https://www.ndtv.com/world-news/iran-hangs-three-men-in-first-executions-over-january-protests-11241868#publisher=newsstand"
+      },
+      {
+        "title": "Israel-Iran War LIVE: Saudi Intercepts 22 Drones, Israel Strikes Iran",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
       },
       {
         "title": "Trump Says He Doesn't Want Ceasefire With Iran",
@@ -175,14 +183,6 @@
       {
         "title": "\"Getting Close To Our Objectives\": Trump Considering 'Winding Down' Iran War",
         "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-us-considering-winding-down-military-operations-in-iran-war-11245554#publisher=newsstand"
-      },
-      {
-        "title": "Israel-Iran War LIVE: Saudi Intercepts 22 Drones, Israel Strikes Lebanon",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
-      },
-      {
-        "title": "Elon Musk Misled Investors During 2022 Twitter Purchase, Finds Jury",
-        "link": "https://www.ndtv.com/world-news/jury-finds-elon-musk-misled-investors-during-2022-twitter-purchase-11245633#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-21 02:44 UTC"
+  "last_updated": "2026-03-21 04:20 UTC"
 }
