@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Israel-Iran War LIVE: Saudi Intercepts 22 Drones, Israel Strikes Iran",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -76,24 +70,24 @@
     ],
     "Dawn": [
       {
+        "title": "President, PM call for greater unity among Muslims as nation marks Eid in ‘testing times’",
+        "link": "https://www.dawn.com/news/1984193/president-pm-call-for-greater-unity-among-muslims-as-nation-marks-eid-in-testing-times"
+      },
+      {
+        "title": "Trump says considering ‘winding down’ Iran war but rules out ceasefire",
+        "link": "https://www.dawn.com/news/1984191/trump-says-considering-winding-down-iran-war-but-rules-out-ceasefire"
+      },
+      {
         "title": "PM Shehbaz rejects recommendations for further hike in petrol, diesel prices",
         "link": "https://www.dawn.com/news/1984122/pm-shehbaz-rejects-recommendations-for-further-hike-in-petrol-diesel-prices"
       },
       {
+        "title": "Trophy hunter mistakenly kills juvenile ibex in Upper Chitral",
+        "link": "https://www.dawn.com/news/1983811/trophy-hunter-mistakenly-kills-juvenile-ibex-in-upper-chitral"
+      },
+      {
         "title": "Wedding plans in limbo as Sindh govt restricts guest numbers to 200",
         "link": "https://www.dawn.com/news/1983964/wedding-plans-in-limbo-as-sindh-govt-restricts-guest-numbers-to-200"
-      },
-      {
-        "title": "Digital channels account for 92pc of retail payments",
-        "link": "https://www.dawn.com/news/1983912/digital-channels-account-for-92pc-of-retail-payments"
-      },
-      {
-        "title": "6 held in Karachi as NCCIA busts ‘call centre targeting foreigners’",
-        "link": "https://www.dawn.com/news/1984175/6-held-in-karachi-as-nccia-busts-call-centre-targeting-foreigners"
-      },
-      {
-        "title": "Balochistan police arrest 497 proclaimed offenders",
-        "link": "https://www.dawn.com/news/1983903/balochistan-police-arrest-497-proclaimed-offenders"
       }
     ],
     "APNews": [],
@@ -143,6 +137,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Why Barry Keoghan is stepping back from the spotlight?",
+        "link": "https://www.geo.tv/latest/656655-why-barry-keoghan-is-stepping-back-from-the-spotlight"
+      },
+      {
+        "title": "Andrew, Fergie receive sad news about Beatrice, Eugenie marital woes",
+        "link": "https://www.geo.tv/latest/656659-andrew-fergie-receive-sad-news-about-beatrice-eugenie-marital-woes"
+      },
+      {
         "title": "Robert Pattinson reveals daughter's hilarious reaction to his villain role",
         "link": "https://www.geo.tv/latest/656656-robert-pattinson-reveals-daughters-hilarious-reaction-to-his-villain-role"
       },
@@ -153,36 +155,28 @@
       {
         "title": "Meghan Markle dropped from Netflix execs' feeds amid brand fallout",
         "link": "https://www.geo.tv/latest/656648-meghan-markle-dropped-from-netflix-execs-feeds-amid-brand-fallout"
-      },
-      {
-        "title": "Nicholas Brendon dies: ‘Buffy the Vampire Slayer' star was 54",
-        "link": "https://www.geo.tv/latest/656651-nicholas-brendon-dies-buffy-the-vampire-slayer-star-was-54"
-      },
-      {
-        "title": "US temporarily lifts sanctions on Iranian oil at sea",
-        "link": "https://www.geo.tv/latest/656653-us-temporarily-lifts-sanctions-on-iranian-oil-at-sea"
       }
     ],
     "NDTV": [
       {
-        "title": "Delhi-NCR Sees Rare Fog After Recording Coldest March Day In 6 Years",
-        "link": "https://www.ndtv.com/delhi-news/delhi-ncr-weather-city-sees-rare-fog-amid-3-day-spells-of-rain-thunderstorms-11245884#publisher=newsstand"
+        "title": "Pakistan Nurtured Terror For Decades. It Has Now Come Home To Roost",
+        "link": "https://www.ndtv.com/world-news/global-terrorism-index-2026-pakistan-which-nurtured-terror-for-decades-is-its-biggest-victim-now-11246166#publisher=newsstand"
       },
       {
-        "title": "Iran Hangs 3, Including Teen Accused Of Killing Cops During January Protests",
-        "link": "https://www.ndtv.com/world-news/iran-hangs-three-men-in-first-executions-over-january-protests-11241868#publisher=newsstand"
+        "title": "Explained: Why Delhi Woke Up To Rare Fog In March",
+        "link": "https://www.ndtv.com/india-news/explained-why-delhi-woke-up-to-rare-fog-in-march-11246196#publisher=newsstand"
       },
       {
-        "title": "Israel-Iran War LIVE: Saudi Intercepts 22 Drones, Israel Strikes Iran",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
+        "title": "Himalayan Glaciers Melting Twice As Fast, Threatening Billions, Claims Report",
+        "link": "https://www.ndtv.com/world-news/himalayan-glaciers-melting-twice-as-fast-threatening-billions-claims-report-11245159#publisher=newsstand"
       },
       {
-        "title": "Trump Says He Doesn't Want Ceasefire With Iran",
-        "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-he-doesnt-want-ceasefire-in-iran-11245314#publisher=newsstand"
+        "title": "How Trump's Stated Reasons, Goals And Timeline For Iran War Have Shifted",
+        "link": "https://www.ndtv.com/world-news/how-trumps-stated-reasons-goals-and-timeline-for-iran-war-have-shifted-11245573#publisher=newsstand"
       },
       {
-        "title": "\"Getting Close To Our Objectives\": Trump Considering 'Winding Down' Iran War",
-        "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-us-considering-winding-down-military-operations-in-iran-war-11245554#publisher=newsstand"
+        "title": "Pentagon To Adopt Palantir AI As Core US Military System, Memo Says",
+        "link": "https://www.ndtv.com/world-news/pentagon-to-adopt-palantir-ai-as-core-us-military-system-memo-says-11245705#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-21 04:20 UTC"
+  "last_updated": "2026-03-21 05:15 UTC"
 }
