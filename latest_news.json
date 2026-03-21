@@ -1,16 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Israel-Iran War LIVE: \"Not Seeking Any Conflict With You,\" Iran Tells \"Dear\" Neighbours",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "'Once-In-500-Years Event': US Sees Record-Breaking Heat Wave",
-      "link": "https://www.ndtv.com/world-news/once-in-500-years-event-us-sees-record-breaking-heat-wave-11247106#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -36,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Japan beat Australia to lift Women’s Asian Cup title",
+        "link": "https://www.aljazeera.com/sports/2026/3/21/japan-beat-australia-to-lift-womens-asian-cup-title?traffic_source=rss"
+      },
+      {
         "title": "Iran says US and Israel attacked Natanz nuclear facility",
         "link": "https://www.aljazeera.com/news/2026/3/21/iran-says-us-and-israel-attacked-natanz-nuclear-facility?traffic_source=rss"
       },
@@ -50,10 +43,6 @@
       {
         "title": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
         "link": "https://www.aljazeera.com/news/2026/3/21/drone-strike-near-iraqi-intelligence-headquarters-in-baghdad-kills-officer?traffic_source=rss"
-      },
-      {
-        "title": "Lin Yu-ting cleared to return to boxing after sex eligibility review",
-        "link": "https://www.aljazeera.com/sports/2026/3/21/olympic-champion-lin-yu-ting-cleared-to-return-to-boxing-after-sex-eligibility-review?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -85,6 +74,10 @@
         "link": "https://www.dawn.com/news/1984193/president-pm-call-for-greater-unity-among-muslims-as-nation-marks-eidul-fitr-in-testing-times"
       },
       {
+        "title": "‘Scarcity of energy’: PM Shehbaz asks nation, govt to display responsible attitude",
+        "link": "https://www.dawn.com/news/1984252/scarcity-of-energy-pm-shehbaz-asks-nation-govt-to-display-responsible-attitude"
+      },
+      {
         "title": "Trump says considering ‘winding down’ Iran war but rules out ceasefire",
         "link": "https://www.dawn.com/news/1984191/trump-says-considering-winding-down-iran-war-but-rules-out-ceasefire"
       },
@@ -95,10 +88,6 @@
       {
         "title": "Dubai property sector shows early signs of weakness",
         "link": "https://www.dawn.com/news/1984201/dubai-property-sector-shows-early-signs-of-weakness"
-      },
-      {
-        "title": "PM Shehbaz rejects recommendations for further hike in petrol, diesel prices",
-        "link": "https://www.dawn.com/news/1984122/pm-shehbaz-rejects-recommendations-for-further-hike-in-petrol-diesel-prices"
       }
     ],
     "APNews": [],
@@ -126,27 +115,39 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "UK allowing US use of military bases could violate international law, rights groups warn",
+        "link": "https://www.middleeasteye.net/news/uk-decision-allow-us-use-military-bases-could-violate-international-law-rights-groups-warn"
+      },
+      {
+        "title": "UK allows US to use bases for Iran war after missiles fired at Diego Garcia",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-allows-us-use-bases-iran-war-after-missiles-fired-diego-garcia"
+      },
+      {
+        "title": "Attack on western Iran's Ahvaz kills child",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/air-strike-western-irans-ahvaz-kills-child"
+      },
+      {
         "title": "UK allows US to use bases for Iran war after missiles fired at Diego Garcia",
         "link": "https://www.middleeasteye.net/news/uk-allows-us-use-bases-iran-war-after-missiles-fired-diego-garcia"
       },
       {
         "title": "Couple and child killed in US-Israeli attack on Iran's Ramsar City",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/couple-and-child-killed-us-israeli-attack-irans-ramsar-city"
-      },
-      {
-        "title": "Israel says it killed four Hezbollah fighters in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-killed-four-hezbollah-fighters-southern-lebanon"
-      },
-      {
-        "title": "Missile attack on Iraqi intelligence headquarters kills one",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-attack-iraqi-intelligence-headquarters-kills-one"
-      },
-      {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-496"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Nicholas Brendon's posts before death leaves fans concerned",
+        "link": "https://www.geo.tv/latest/656695-buffy-star-nicholas-brendon-final-post-before-death-leaves-fans-concerned"
+      },
+      {
+        "title": "WATCH: Pakistani cricketers extend Eid ul Fitr greetings to fans",
+        "link": "https://www.geo.tv/latest/656693-pakistani-cricketers-extend-eid-ul-fitr-greetings-to-fans"
+      },
+      {
+        "title": "Prince Harry gets devastating news as Duchess returns to UK",
+        "link": "https://www.geo.tv/latest/656691-prince-harry-receives-heartbreaking-news-as-duchess-returns-to-uk"
+      },
       {
         "title": "Austin Butler, Tom Cruise rumours shake up ‘Miami Vice' reboot",
         "link": "https://www.geo.tv/latest/656687-austin-butler-tom-cruise-rumours-shake-up-miami-vice-reboot"
@@ -154,18 +155,6 @@
       {
         "title": "Hilary Duff is going global again: Here's what to know",
         "link": "https://www.geo.tv/latest/656684-hilary-duff-is-going-global-again-heres-what-to-know"
-      },
-      {
-        "title": "Prince Harry, Meghan's emotional statement makes things worse for Sussexes",
-        "link": "https://www.geo.tv/latest/656686-prince-harry-meghans-emotional-statement-makes-things-worse-for-sussexes"
-      },
-      {
-        "title": "Terrorists operating from Afghan sanctuaries will not be allowed to undermine Pakistan's security: CDF",
-        "link": "https://www.geo.tv/latest/656683-terrorists-operating-from-afghan-sanctuaries-will-not-be-allowed-to-undermine-pakistans-security-cdf"
-      },
-      {
-        "title": "Paris Hilton's husband Carter Reum shuts down 'strained' marriage rumours",
-        "link": "https://www.geo.tv/latest/656681-paris-hiltons-husband-carter-reum-shuts-down"
       }
     ],
     "NDTV": [
@@ -174,20 +163,20 @@
         "link": "https://www.ndtv.com/india-news/tumakuru-social-welfare-department-god-will-punish-him-karnataka-officer-dies-by-suicide-blames-senior-11247321#publisher=newsstand"
       },
       {
+        "title": "MAGA Fell In Love With A Blonde US Army Soldier. She Doesn't Exist",
+        "link": "https://www.ndtv.com/world-news/maga-who-is-jessica-foster-blonde-us-army-soldier-posed-with-trump-putin-zelensky-she-was-ai-11247376#publisher=newsstand"
+      },
+      {
+        "title": "Project Costs To Pothole Complaints: Delhi Roads Set To Get QR Codes",
+        "link": "https://www.ndtv.com/india-news/project-costs-to-pothole-complaints-delhi-roads-set-to-get-qr-codes-11247440#publisher=newsstand"
+      },
+      {
+        "title": "PM Modi Speaks To Iran President, Stresses Need For Secure Shipping Lanes",
+        "link": "https://www.ndtv.com/india-news/pm-modi-speaks-to-iran-president-stresses-on-secure-shipping-lanes-11247409#publisher=newsstand"
+      },
+      {
         "title": "Problems In Assam Congress That Pradyut Bordoloi's Exit Wound Revealed",
         "link": "https://www.ndtv.com/india-news/assam-assembly-election-2026-problems-in-assam-congress-that-pradyut-bordolois-exit-wound-revealed-11247299#publisher=newsstand"
-      },
-      {
-        "title": "Iran Says Natanz Nuclear Facility Hit Again In Strikes, No Leak Reported",
-        "link": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-says-natanz-nuclear-facility-hit-again-in-strikes-no-leak-reported-11247084#publisher=newsstand"
-      },
-      {
-        "title": "Israel-Iran War LIVE: \"Not Seeking Any Conflict With You,\" Iran Tells \"Dear\" Neighbours",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-strikes-qatar-ras-laffan-lng-gulf-energy-sites-south-pars-oil-prices-strait-hormuz-iran-targets-gulf-energy-sites-11235957#publisher=newsstand"
-      },
-      {
-        "title": "'Once-In-500-Years Event': US Sees Record-Breaking Heat Wave",
-        "link": "https://www.ndtv.com/world-news/once-in-500-years-event-us-sees-record-breaking-heat-wave-11247106#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-21 12:00 UTC"
+  "last_updated": "2026-03-21 13:09 UTC"
 }
