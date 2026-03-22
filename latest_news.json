@@ -1,16 +1,14 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Real Madrid vs Atletico Madrid – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/22/live-real-madrid-vs-atletico-madrid-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
         "title": "No assessment Iran could strike London, UK minister says",
         "link": "https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three golds in 28 minutes - GB makes history at World Athletics Indoor Championships",
+        "link": "https://www.bbc.com/sport/athletics/articles/c20qjlyezjvo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss",
@@ -23,13 +21,13 @@
       {
         "title": "'Club vibes without the hangover': The twenty-somethings going out - in the gym",
         "link": "https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'We cannot be in peace', say Guthrie family as they renew appeal over missing mother",
-        "link": "https://www.bbc.com/news/articles/c0q9zx4g1w9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Israeli settlers violently storm through occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israeli-settlers-violently-storm-through-occupied-west-bank?traffic_source=rss"
+      },
       {
         "title": "Israel vows to escalate campaign against Hezbollah in Lebanon",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israel-vows-to-escalate-campaign-against-hezbollah-in-lebanon?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "‘We do it together, in confidence’: Netanyahu backs US strikes on Iran",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/we-do-it-together-in-confidence-netanyahu-backs-us-strikes-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Real Madrid vs Atletico Madrid – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/22/live-real-madrid-vs-atletico-madrid-la-liga?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "4,697 people wounded in Israel during war, health ministry says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/4697-people-wounded-israel-during-war-health-ministry-says"
+      },
+      {
         "title": "Hezbollah claims rocket, missile attacks on Israeli military sites",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-rocket-missile-attacks-israeli-military-sites"
       },
@@ -135,13 +133,17 @@
       {
         "title": "Israel probes if Israeli soldier is responsible for death of citizen at Lebanese border",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-probes-if-israeli-soldier-responsible-death-citizen-lebanese"
-      },
-      {
-        "title": "Israel detects more Iranian missiles fired toward nuclear center",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-detects-more-iranian-missiles-fired-toward-nuclear-center"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Carrie Anne Fleming's death confirmed by 'Supernatural' costar at 51",
+        "link": "https://www.geo.tv/latest/656820-carrie-anne-flemings-death-confirmed-by-supernatural-costar-at-51"
+      },
+      {
+        "title": "Uma Thurman bags praise from ‘Pretty Lethal' director Vicky Jewson",
+        "link": "https://www.geo.tv/latest/656819-uma-thurman-bags-praise-from-pretty-lethal-director-vicky-jewson"
+      },
       {
         "title": "King Charles summons top singer for 'performance'",
         "link": "https://www.geo.tv/latest/656814-king-charles-summons-top-singer-for-performance"
@@ -153,36 +155,28 @@
       {
         "title": "PCB unveils revised schedule for PSL 11",
         "link": "https://www.geo.tv/latest/656810-pcb-unveils-revised-schedule-for-psl-11"
-      },
-      {
-        "title": "Chappell Roan gets banned from music festival after bizarre altercation",
-        "link": "https://www.geo.tv/latest/656809-chappell-roan-gets-banned-from-music-festival-after-bizarre-altercation"
-      },
-      {
-        "title": "King Charles to receive Scotland's plans for stunning memorial tribute",
-        "link": "https://www.geo.tv/latest/656806-king-charles-to-receive-scotlands-plans-for-stunning-memorial-tribute"
       }
     ],
     "NDTV": [
       {
-        "title": "Mamata Banerjee Holds Election Strategy Meeting With Trinamool Workers",
-        "link": "https://www.ndtv.com/india-news/west-bengal-assembly-election-2026-mamata-banerjee-holds-election-strategy-meeting-with-trinamool-congress-workers-11251815#publisher=newsstand"
+        "title": "US-Israel-Iran War Updates: Iran Military Threatens To Completely Close Strait Of Hormuz",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand"
       },
       {
-        "title": "Citizens Must Be Safeguarded From Iran War Effect: PM Modi At Key Meet",
-        "link": "https://www.ndtv.com/india-news/citizens-must-be-safeguarded-from-iran-war-effect-pm-modi-at-key-meet-11251798#publisher=newsstand"
+        "title": "Gujarat Hospital Dean's Driver Arrested For Filming Woman In X-Ray Ward",
+        "link": "https://www.ndtv.com/india-news/gujarat-hospital-deans-driver-arrested-for-filming-woman-in-x-ray-ward-11251876#publisher=newsstand"
       },
       {
-        "title": "Air Force Staffer Arrested For Spying For Pak Handlers In Assam",
-        "link": "https://www.ndtv.com/india-news/air-force-staffer-arrested-for-spying-for-pak-handlers-in-assam-11251682#publisher=newsstand"
+        "title": "72-Year-Old Woman Killed In Fire At High-Rise In Mumbai's Goregaon: Cops",
+        "link": "https://www.ndtv.com/india-news/72-year-old-woman-killed-in-fire-at-high-rise-in-mumbais-goregaon-cops-11251861#publisher=newsstand"
       },
       {
-        "title": "US, Iran Trade Threats To \"Destroy\" Middle East Infrastructure",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-us-iran-trade-threats-to-destroy-middle-east-infrastructure-11251672#publisher=newsstand"
+        "title": "Assam BJP Leader Nandita Garlosa Joins Congress After Not Getting Ticket",
+        "link": "https://www.ndtv.com/india-news/assam-assembly-election-2026-assam-bjp-leader-nandita-garlosa-joins-congress-after-not-getting-ticket-11251856#publisher=newsstand"
       },
       {
-        "title": "Old, Ugly 'Flying Tank' US Wanted To Scrap Shines In Hormuz Missions",
-        "link": "https://www.ndtv.com/world-news/a-10-thunderbolt-warthog-old-ugly-flying-tank-us-wanted-to-scrap-shines-in-strait-of-hormuz-missions-near-iran-11251553#publisher=newsstand"
+        "title": "RSS Backs Right To Faith, Rejects Religious Discrimination",
+        "link": "https://www.ndtv.com/india-news/rss-backs-right-to-faith-rejects-religious-discrimination-11251822#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-22 19:35 UTC"
+  "last_updated": "2026-03-22 19:52 UTC"
 }
