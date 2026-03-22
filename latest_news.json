@@ -25,10 +25,6 @@
     ],
     "AlJazeera": [
       {
-        "title": "Canada’s Supreme Court must strike down Quebec’s Bill 21",
-        "link": "https://www.aljazeera.com/opinions/2026/3/22/canadas-supreme-court-must-strike-down-quebecs-bill-21?traffic_source=rss"
-      },
-      {
         "title": "Puerto Rican activists bring medicine to Havana despite US blockade",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/puerto-rican-activists-bring-medicine-to-havana-despite-us-blockade?traffic_source=rss"
       },
@@ -43,6 +39,10 @@
       {
         "title": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know",
         "link": "https://www.aljazeera.com/news/2026/3/22/did-iran-launch-missiles-at-us-uk-base-on-diego-garcia-heres-what-to-know?traffic_source=rss"
+      },
+      {
+        "title": "Moment Iranian strike hits central Tel Aviv",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-iranian-strike-hits-central-tel-aviv?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +82,12 @@
         "link": "https://www.dawn.com/news/1984340/china-pledges-more-balanced-trade-and-further-opening-of-the-economy-after-record-surplus"
       },
       {
-        "title": "TikToker allegedly shot dead by husband in Islamabad",
-        "link": "https://www.dawn.com/news/1984346/tiktoker-allegedly-shot-dead-by-husband-in-islamabad"
+        "title": "2 terrorists killed following attack on under-construction police station in Kurram: security sources",
+        "link": "https://www.dawn.com/news/1984355/2-terrorists-killed-following-attack-on-under-construction-police-station-in-kurram-security-sources"
       },
       {
-        "title": "On World Water Day, President Zardari calls on India to restore Indus Waters Treaty",
-        "link": "https://www.dawn.com/news/1984291/on-world-water-day-president-zardari-calls-on-india-to-restore-indus-waters-treaty"
+        "title": "TikToker allegedly shot dead by husband in Islamabad",
+        "link": "https://www.dawn.com/news/1984346/tiktoker-allegedly-shot-dead-by-husband-in-islamabad"
       }
     ],
     "APNews": [],
@@ -105,15 +105,19 @@
         "link": "https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html"
       },
       {
-        "title": "Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown",
-        "link": "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html"
+        "title": "ICE Will Deploy to Airports to Ease Long Lines, Border Czar Confirms",
+        "link": "https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html"
       },
       {
-        "title": "News Outlets Pressure Pentagon to Restore Access After Court Ruling",
-        "link": "https://www.nytimes.com/2026/03/21/business/media/pentagon-press-access.html"
+        "title": "Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown",
+        "link": "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "IRGC says it will seal off Hormuz entirely if US attacks power plants",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-will-seal-hormuz-entirely-us-attacks-power-plants"
+      },
       {
         "title": "Israeli strikes target Lebanon's Qasmiyeh Bridge: Reports",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-target-lebanons-qasmiyeh-bridge-reports"
@@ -129,13 +133,17 @@
       {
         "title": "Israeli army says missiles incoming from Iran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-missiles-incoming-iran"
-      },
-      {
-        "title": "Syria walks back Damascus alcohol ban after outcry from residents",
-        "link": "https://www.middleeasteye.net/news/syria-walks-back-damascus-alcohol-ban-after-outcry-residents"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Dubai offers departing passengers souvenirs, thanks amid regional tensions",
+        "link": "https://www.geo.tv/latest/656797-dubai-offers-departing-passengers-souvenirs-thanks-amid-regional-tensions"
+      },
+      {
+        "title": "Prince Edward honours daring WWII raid at Union Jack Club",
+        "link": "https://www.geo.tv/latest/656795-prince-edward-honours-daring-wwii-raid-at-union-jack-club"
+      },
       {
         "title": "Chappell Roan addresses viral backlash over fan encounter amid Lollapalooza",
         "link": "https://www.geo.tv/latest/656793-chappell-roan-addresses-viral-backlash-over-fan-encounter-amid-lollapalooza"
@@ -147,20 +155,20 @@
       {
         "title": "Lady Amelia Windsor shares private hen photos tied to grandparents' love story",
         "link": "https://www.geo.tv/latest/656792-lady-amelia-windsor-shares-private-hen-photos-tied-to-grandparents-love-story"
-      },
-      {
-        "title": "Taylor Swift, Travis Kelce's secret unveiled amid growing security concerns",
-        "link": "https://www.geo.tv/latest/656791-taylor-swift-travis-kelces-secret-unveiled-amid-growing-security-concerns"
-      },
-      {
-        "title": "Justin Bieber breaks cover after 'heated exchange' with Usher at Oscars party",
-        "link": "https://www.geo.tv/latest/656788-justin-bieber-breaks-cover-after-heated-exchange-with-usher-at-oscars-party"
       }
     ],
     "NDTV": [
       {
-        "title": "CIA, Mossad Eyes Fixed On Iran: Spy Agencies' Hunt For Iran's \"Unseen\" Leader",
+        "title": "CIA Ex Chief Who Hunted Bin Laden Has A Hormuz Advice For Trump",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-cia-ex-chief-leon-panetta-who-hunted-bin-laden-has-a-hormuz-advice-for-donald-trump-11251233#publisher=newsstand"
+      },
+      {
+        "title": "CIA, Mossad Track Every Signal For Signs Of Iran's \"Unseen\" Supreme Leader",
         "link": "https://www.ndtv.com/world-news/israel-iran-war-cia-mossad-eyes-fixed-on-iran-spy-agencies-hunt-for-irans-unseen-leader-11251094#publisher=newsstand"
+      },
+      {
+        "title": "Sasikala-Ramadoss Alliance May Incur Heavy Cost On NDA In Tamil Nadu Polls",
+        "link": "https://www.ndtv.com/india-news/sasikala-ramadoss-alliance-may-incur-heavy-cost-on-nda-in-tamil-nadu-polls-11251197#publisher=newsstand"
       },
       {
         "title": "Lashkar Terrorist Bilal Arif Sarafi Stabbed, Shot Dead By Family In Pakistan",
@@ -169,14 +177,6 @@
       {
         "title": "15 Deer Killed By Stray Dogs At Chhattisgarh Animal Rescue Centre",
         "link": "https://www.ndtv.com/india-news/15-deer-killed-by-stray-dogs-at-chhattisgarh-animal-rescue-centre-11250977#publisher=newsstand"
-      },
-      {
-        "title": "80-Year-Old Woman Trampled To Death By Elephant In UP",
-        "link": "https://www.ndtv.com/india-news/80-year-old-woman-trampled-to-death-by-elephant-in-up-11250970#publisher=newsstand"
-      },
-      {
-        "title": "PM Modi's Big Meet With Senior Ministers Over Fuel Amid Middle East Conflict",
-        "link": "https://www.ndtv.com/india-news/iran-israel-war-pm-modi-takes-stock-of-fuel-power-fertiliser-supply-amid-middle-east-conflict-11250951#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-22 14:38 UTC"
+  "last_updated": "2026-03-22 14:59 UTC"
 }
