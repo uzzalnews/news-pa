@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Israel-Iran War LIVE: Russian Oil Tanker 'Aqua Titan', US Ship Carrying LPG Reach India",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Explosions hit northern Israel settlement, homes and vehicles damaged",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-hit-northern-israel-settlement-homes-and-vehicles-damaged"
+      },
+      {
         "title": "Israeli military expands ground offensive in Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-expands-ground-offensive-lebanon"
       },
@@ -135,13 +133,17 @@
       {
         "title": "Iran says drone attack hit Ben Gurion Airport",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-drone-attack-hit-ben-gurion-airport"
-      },
-      {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-497"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Gwyneth Paltrow weighs in on nepo baby conversation: ‘One of the original'",
+        "link": "https://www.geo.tv/latest/656759-gwyneth-paltrow-weighs-in-on-nepo-baby-conversation-one-of-the-original"
+      },
+      {
+        "title": "In pictures: Muslims celebrate Eid ul Fitr with joy, togetherness across the globe",
+        "link": "https://www.geo.tv/latest/656755-in-pictures-muslims-celebrate-eid-ul-fitr-with-joy-togetherness-across-the-globe"
+      },
       {
         "title": "Three weeks in, Iran war escalates beyond Trump's control",
         "link": "https://www.geo.tv/latest/656757-three-weeks-in-iran-war-escalates-beyond-trumps-control"
@@ -153,36 +155,28 @@
       {
         "title": "Kevin Durant moves past Michael Jordan, climbs to No. 5 on NBA all-time scoring list",
         "link": "https://www.geo.tv/latest/656754-kevin-durant-moves-past-michael-jordan-climbs-to-no-5-on-nba-all-time-scoring-list"
-      },
-      {
-        "title": "Prince William breaks silence on key issue in decisive step towards throne",
-        "link": "https://www.geo.tv/latest/656753-prince-william-breaks-silence-on-key-issue-in-decisive-step-towards-throne"
-      },
-      {
-        "title": "Vin Diesel teases emotional finale as ‘Fast' saga returns to Los Angeles",
-        "link": "https://www.geo.tv/latest/656752-vin-diesel-teases-emotional-finale-as-fast-saga-returns-to-los-angeles"
       }
     ],
     "NDTV": [
       {
-        "title": "Video: Door Blown Off, Pets Run As Strikes Jolt Homes In Israel's Dimona",
-        "link": "https://www.ndtv.com/world-news/middle-east-war-fireball-from-sky-videos-show-chaos-as-missiles-strike-israels-dimona-11249307#publisher=newsstand"
+        "title": "8,931 Days In Office, PM Modi Is India's Longest-Serving Head Of Government",
+        "link": "https://www.ndtv.com/india-news/pm-modi-becomes-longest-serving-head-of-elected-government-completes-8-931-days-in-office-11249745#publisher=newsstand"
       },
       {
-        "title": "Iran's Strikes On US Assets In Middle East Has Cost $800 Million: Report",
-        "link": "https://www.ndtv.com/world-news/iran-war-middle-east-war-irans-strikes-on-us-assets-in-middle-east-has-cost-800-million-report-11249732#publisher=newsstand"
+        "title": "Centre Hikes Commercial LPG Allocation To 50% As Domestic Output Improves",
+        "link": "https://www.ndtv.com/india-news/middle-east-war-centre-hikes-commercial-lpg-allocation-to-50-as-domestic-output-improves-11247730#publisher=newsstand"
       },
       {
-        "title": "Explained: Can Rs 10,000 Crore Flood Control Plan End Mumbai's Monsoon Chaos",
-        "link": "https://www.ndtv.com/mumbai-news/explained-can-rs-10-000-crore-flood-control-plan-end-mumbais-monsoon-chaos-11249729#publisher=newsstand"
+        "title": "Trump Threatens To Move 'Patriotic' Immigration Agents For Airport Security",
+        "link": "https://www.ndtv.com/world-news/us-president-donald-trump-threatens-to-move-patriotic-immigration-agents-for-airport-security-11248696#publisher=newsstand"
       },
       {
-        "title": "Chaat, Jalebi And Bollywood: Inside Israel's 'Little India' Dimona, Struck By Iran",
-        "link": "https://www.ndtv.com/world-news/middle-east-war-chaat-jalebi-and-bollywood-inside-israels-little-india-dimona-struck-by-iran-11249647#publisher=newsstand"
+        "title": "Jammu University Adds Chapter On Jinnah In Syllabus, Student Body Protests",
+        "link": "https://www.ndtv.com/india-news/jammu-university-adds-chapter-on-jinnah-in-syllabus-student-body-protests-11249921#publisher=newsstand"
       },
       {
-        "title": "US-Israel-Iran War LIVE: Russian Oil Tanker 'Aqua Titan', US Ship Carrying LPG Reach India",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand"
+        "title": "Patriot Missile Involved In Bahrain Blast Likely US-Operated: Report",
+        "link": "https://www.ndtv.com/world-news/iran-war-patriot-missile-involved-in-bahrain-blast-likely-us-operated-report-11249919#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-22 07:24 UTC"
+  "last_updated": "2026-03-22 07:55 UTC"
 }
