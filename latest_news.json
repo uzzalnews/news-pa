@@ -25,10 +25,6 @@
     ],
     "AlJazeera": [
       {
-        "title": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations",
-        "link": "https://www.aljazeera.com/news/2026/3/22/iranian-authorities-taunt-us-israel-eu-amid-strikes-and-assassinations?traffic_source=rss"
-      },
-      {
         "title": "Trump’s changing messages on Iran war: What does it say about US strategy?",
         "link": "https://www.aljazeera.com/news/2026/3/22/trumps-changing-messages-on-iran-war-what-does-it-say-about-us-strategy?traffic_source=rss"
       },
@@ -43,6 +39,10 @@
       {
         "title": "Puerto Rican activists bring medicine to Havana despite US blockade",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/puerto-rican-activists-bring-medicine-to-havana-despite-us-blockade?traffic_source=rss"
+      },
+      {
+        "title": "Iran says will hit region’s energy sites if US, Israel target power plants",
+        "link": "https://www.aljazeera.com/news/2026/3/22/iran-says-will-hit-regions-energy-sites-if-us-israel-target-power-plants?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "Govt increases levy on high-octane fuel by Rs200 per litre",
-        "link": "https://www.dawn.com/news/1984358/govt-increases-levy-on-high-octane-fuel-by-rs200-per-litre"
+        "title": "Govt increases levy on high-octane fuel used in luxury vehicles by Rs200 per litre",
+        "link": "https://www.dawn.com/news/1984358/govt-increases-levy-on-high-octane-fuel-used-in-luxury-vehicles-by-rs200-per-litre"
       },
       {
         "title": "PSL to go ahead sans spectators, matches limited to Lahore and Karachi under austerity drive",
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Lebanese PM: Israeli attacks on infrastructure is 'collective punishment'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-pm-israeli-attacks-infrastructure-collective-punishment"
+      },
+      {
+        "title": "Lebanese health ministry: 1,029 killed in attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-health-ministry-1029-killed-attacks"
+      },
+      {
         "title": "Iran's health minister: 210 children killed in US-Israeli attacks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-health-minister-210-children-killed-us-israeli-attacks"
       },
@@ -125,17 +133,17 @@
       {
         "title": "Israeli strikes target Lebanon's Qasmiyeh Bridge: Reports",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-target-lebanons-qasmiyeh-bridge-reports"
-      },
-      {
-        "title": "Hezbollah claims attacks on Israeli soldiers near border",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-attacks-israeli-soldiers-near-border"
-      },
-      {
-        "title": "Israeli strikes in southern Lebanon kill four, wound seven",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-southern-lebanon-kill-four-wound-seven"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Govt raises high-octane fuel levy by Rs200 per litre",
+        "link": "https://www.geo.tv/latest/656804-govt-raises-high-octane-fuel-levy-by-rs200-per-litre"
+      },
+      {
+        "title": "King Charles' party season looms for special royal member he fondly misses",
+        "link": "https://www.geo.tv/latest/656801-king-charles-party-season-looms-for-special-royal-member-he-fondly-misses"
+      },
       {
         "title": "Fire erupts at Karachi's blaze-damaged Gul Plaza",
         "link": "https://www.geo.tv/latest/656799-fire-erupts-at-karachis-blaze-damaged-gul-plaza"
@@ -147,14 +155,6 @@
       {
         "title": "Dubai offers departing passengers souvenirs, thanks amid regional tensions",
         "link": "https://www.geo.tv/latest/656797-dubai-offers-departing-passengers-souvenirs-thanks-amid-regional-tensions"
-      },
-      {
-        "title": "Prince Edward honours daring WWII raid at Union Jack Club",
-        "link": "https://www.geo.tv/latest/656795-prince-edward-honours-daring-wwii-raid-at-union-jack-club"
-      },
-      {
-        "title": "Chappell Roan addresses viral backlash over fan encounter amid Lollapalooza",
-        "link": "https://www.geo.tv/latest/656793-chappell-roan-addresses-viral-backlash-over-fan-encounter-amid-lollapalooza"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-22 15:34 UTC"
+  "last_updated": "2026-03-22 15:54 UTC"
 }
