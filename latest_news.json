@@ -1,9 +1,9 @@
 {
   "breaking": [
     {
-      "source": "NDTV",
-      "title": "US-Israel-Iran War LIVE: Iran Military Threatens To Completely Close Strait Of Hormuz",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand"
+      "source": "AlJazeera",
+      "title": "LIVE: Real Madrid vs Atletico Madrid – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/22/live-real-madrid-vs-atletico-madrid-la-liga?traffic_source=rss"
     }
   ],
   "news": {
@@ -31,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Real Madrid vs Atletico Madrid – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/22/live-real-madrid-vs-atletico-madrid-la-liga?traffic_source=rss"
+      },
+      {
+        "title": "‘Risk of escalation is extremely high as Iran shows it can retaliate’",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/22/risk-of-escalation-is-extremely-high-as-iran-shows-it-can?traffic_source=rss"
+      },
+      {
         "title": "Did Israel miscalculate Iranian military capabilities?",
         "link": "https://www.aljazeera.com/news/2026/3/22/did-israel-miscalculate-iranian-military-capabilities?traffic_source=rss"
       },
@@ -41,14 +49,6 @@
       {
         "title": "Pakistan T20 cricket league to be held in empty stadiums amid oil crisis",
         "link": "https://www.aljazeera.com/news/2026/3/22/pakistan-super-league-matches-to-be-held-in-empty-stadiums-amid-oil-crisis?traffic_source=rss"
-      },
-      {
-        "title": "Iran claims missile attacks on key Israeli military bases",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss"
-      },
-      {
-        "title": "Moment Israeli strike hits bridge in southern Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/moment-israeli-strike-hits-bridge-in-southern-lebanon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel detects more Iranian missiles fired toward nuclear center",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-detects-more-iranian-missiles-fired-toward-nuclear-center"
+      },
+      {
         "title": "Israeli attacks kills four in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kills-four-gaza"
       },
@@ -135,13 +139,13 @@
       {
         "title": "Lebanese president: Israeli attacks on infrastructure is 'collective punishment'",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-pm-israeli-attacks-infrastructure-collective-punishment"
-      },
-      {
-        "title": "Lebanese health ministry: 1,029 killed in attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-health-ministry-1029-killed-attacks"
       }
     ],
     "GeoTV": [
+      {
+        "title": "PCB unveils revised schedule for PSL 11",
+        "link": "https://www.geo.tv/latest/656810-pcb-unveils-revised-schedule-for-psl-11"
+      },
       {
         "title": "Chappell Roan gets banned from music festival after bizarre altercation",
         "link": "https://www.geo.tv/latest/656809-chappell-roan-gets-banned-from-music-festival-after-bizarre-altercation"
@@ -157,32 +161,28 @@
       {
         "title": "Govt raises high-octane fuel levy by Rs200 per litre",
         "link": "https://www.geo.tv/latest/656804-govt-raises-high-octane-fuel-levy-by-rs200-per-litre"
-      },
-      {
-        "title": "King Charles' party season looms for special royal member he fondly misses",
-        "link": "https://www.geo.tv/latest/656801-king-charles-party-season-looms-for-special-royal-member-he-fondly-misses"
       }
     ],
     "NDTV": [
       {
-        "title": "Iran Says Will Completely Close Strait Of Hormuz If US Targets Power Plants",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-says-will-completely-close-strait-of-hormuz-if-us-targets-power-plants-11251446#publisher=newsstand"
+        "title": "Air Force Staffer Arrested For Spying For Pak Handlers In Assam",
+        "link": "https://www.ndtv.com/india-news/air-force-staffer-arrested-for-spying-for-pak-handlers-in-assam-11251682#publisher=newsstand"
       },
       {
-        "title": "US-Israel-Iran War LIVE: Iran Military Threatens To Completely Close Strait Of Hormuz",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand"
+        "title": "US, Iran Trade Threats To \"Destroy\" Middle East Infrastructure",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-us-iran-trade-threats-to-destroy-middle-east-infrastructure-11251672#publisher=newsstand"
       },
       {
-        "title": "CIA Ex Chief Who Hunted Bin Laden Has A Hormuz Advice For Trump",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-cia-ex-chief-leon-panetta-who-hunted-bin-laden-has-a-hormuz-advice-for-donald-trump-11251233#publisher=newsstand"
+        "title": "Old, Ugly 'Flying Tank' US Wanted To Scrap Shines In Hormuz Missions",
+        "link": "https://www.ndtv.com/world-news/a-10-thunderbolt-warthog-old-ugly-flying-tank-us-wanted-to-scrap-shines-in-strait-of-hormuz-missions-near-iran-11251553#publisher=newsstand"
       },
       {
-        "title": "CIA, Mossad Track Every Signal For Signs Of Iran's \"Unseen\" Supreme Leader",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-cia-mossad-eyes-fixed-on-iran-spy-agencies-hunt-for-irans-unseen-leader-11251094#publisher=newsstand"
+        "title": "'We Have Plenty Of Money To Fund Iran War': US Treasury Chief",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-we-have-plenty-of-money-to-fund-iran-war-us-treasury-chief-11251583#publisher=newsstand"
       },
       {
-        "title": "Sasikala-Ramadoss Alliance May Incur Heavy Cost On NDA In Tamil Nadu Polls",
-        "link": "https://www.ndtv.com/india-news/sasikala-ramadoss-alliance-may-incur-heavy-cost-on-nda-in-tamil-nadu-polls-11251197#publisher=newsstand"
+        "title": "Tutor Kills Girl, 14, After Family Objects To His Advances In Odisha: Cops",
+        "link": "https://www.ndtv.com/india-news/tutor-kills-girl-14-after-family-objects-to-his-advances-in-odisha-cops-11251552#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-22 16:56 UTC"
+  "last_updated": "2026-03-22 17:30 UTC"
 }
