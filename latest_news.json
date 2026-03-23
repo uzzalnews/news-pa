@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
+        "link": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
         "link": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,17 @@
       {
         "title": "How a content creator hoped a YouTube alibi would help him avoid justice for murder",
         "link": "https://www.bbc.com/news/articles/c4g8d8pz0xyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Is ex-Google boss Matt Brittin the right person to steer the BBC?",
-        "link": "https://www.bbc.com/news/articles/ce9mz082y5go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "How the Iran war is about to hit your wallet",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/23/aje-onl-tt_irn_gasfields_av_v2-230326?traffic_source=rss"
+      },
+      {
+        "title": "Trump can declare victory in Iran – and he should",
+        "link": "https://www.aljazeera.com/opinions/2026/3/23/trump-can-declare-victory-in-iran-and-he?traffic_source=rss"
+      },
       {
         "title": "How Israel is reacting to Trump’s  ‘de-escalation’ with Iran",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/how-israel-is-reacting-to-trumps-de-escalation-with-iran?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Which countries have strategic oil reserves – and how much?",
         "link": "https://www.aljazeera.com/news/2026/3/23/which-countries-have-strategic-oil-reserves-and-how-much?traffic_source=rss"
-      },
-      {
-        "title": "Trump deploys ICE agents to US airports amid staffing issues, delays",
-        "link": "https://www.aljazeera.com/news/2026/3/23/trump-deploys-ice-agents-to-us-airports-amid-staffing-issues-delays?traffic_source=rss"
-      },
-      {
-        "title": "Energy, water, bonds: What are Iran’s targets if Trump hits power plants?",
-        "link": "https://www.aljazeera.com/news/2026/3/23/energy-water-bonds-what-are-irans-targets-if-trump-hits-power-plants?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +70,24 @@
     ],
     "Dawn": [
       {
-        "title": "Trump backs down on strikes on Iran’s power network, claims US and Tehran holding talks",
-        "link": "https://www.dawn.com/news/1984607/trump-backs-down-on-strikes-on-irans-power-network-claims-us-and-tehran-holding-talks"
+        "title": "Pakistan, Egypt, Turkiye engaged in ‘back-channel diplomacy’ for US-Iran de-escalation: official source",
+        "link": "https://www.dawn.com/news/1984640/pakistan-egypt-turkiye-engaged-in-back-channel-diplomacy-for-us-iran-de-escalation-official-source"
       },
       {
-        "title": "In phone call with Pezeshkian, PM stresses ‘urgent need’ for collective efforts for de-escalation in Mideast",
-        "link": "https://www.dawn.com/news/1984609/in-phone-call-with-pezeshkian-pm-stresses-urgent-need-for-collective-efforts-for-de-escalation-in-mideast"
+        "title": "Trump backs down on strikes on Iran’s power network, claims US and Tehran holding talks",
+        "link": "https://www.dawn.com/news/1984607/trump-backs-down-on-strikes-on-irans-power-network-claims-us-and-tehran-holding-talks"
       },
       {
         "title": "Met Office predicts rain, thunderstorms across country from March 24-30",
         "link": "https://www.dawn.com/news/1984621/met-office-predicts-rain-thunderstorms-across-country-from-march-24-30"
       },
       {
-        "title": "PM Shehbaz bans use of high-octane fuel in govt vehicles",
-        "link": "https://www.dawn.com/news/1984575/pm-shehbaz-bans-use-of-high-octane-fuel-in-govt-vehicles"
+        "title": "In phone call with Pezeshkian, PM stresses ‘urgent need’ for collective efforts for de-escalation in Mideast",
+        "link": "https://www.dawn.com/news/1984609/in-phone-call-with-pezeshkian-pm-stresses-urgent-need-for-collective-efforts-for-de-escalation-in-mideast"
       },
       {
-        "title": "ICC names Sahibzada Farhan player of the month for Feb after ‘stellar’ performance with bat at T20 World Cup",
-        "link": "https://www.dawn.com/news/1984613/icc-names-sahibzada-farhan-player-of-the-month-for-feb-after-stellar-performance-with-bat-at-t20-world-cup"
+        "title": "PM Shehbaz bans use of high-octane fuel in govt vehicles",
+        "link": "https://www.dawn.com/news/1984575/pm-shehbaz-bans-use-of-high-octane-fuel-in-govt-vehicles"
       }
     ],
     "APNews": [],
@@ -105,8 +105,8 @@
         "link": "https://www.nytimes.com/2026/03/23/us/politics/obama-strategist-biden-2016-election.html"
       },
       {
-        "title": "Energy Attacks in War on Iran Could Turn Economic Shock Into Long-Term Damage",
-        "link": "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
+        "title": "Trump Delays Energy Strikes, but Iran’s Infrastructure is Already Battered",
+        "link": "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html"
       },
       {
         "title": "Stocks Bounce as Trump Backs Off Iran Infrastructure Threat",
@@ -115,27 +115,31 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Lebanon: Israeli attacks have killed more than 1,030 since start of war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israeli-attacks-have-killed-more-1030-start-war"
+      },
+      {
+        "title": "Israelis say southern towns left unprotected as war with Iran intensifies",
+        "link": "https://www.middleeasteye.net/news/israelis-say-southern-towns-left-unprotected-war-iran-intensifies"
+      },
+      {
+        "title": "Vance and Netanyahu speak about Iran negotiations",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-and-netanyahu-speak-about-iran-negotiations"
+      },
+      {
         "title": "Red Cross says Middle East is reaching ‘point of no return’",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/red-cross-says-middle-east-reaching-point-no-return"
       },
       {
         "title": "Trump says he and 'the ayatollah' can share control of Strait of Hormuz",
         "link": "https://www.middleeasteye.net/news/trump-says-he-and-ayatollah-can-share-control-strait-hormuz"
-      },
-      {
-        "title": "Turkey seeks off-ramp to war through US-Iran negotiations",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-seeks-ramp-war-through-us-iran-negotiations"
-      },
-      {
-        "title": "UK defence secretary says Iran fired missiles on Diego Garcia",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-defence-secretary-says-iran-fired-missiles-british-base"
-      },
-      {
-        "title": "Gaza: Up to 10 Palestinians die daily due to Israeli restrictions on medical evacuations",
-        "link": "https://www.middleeasteye.net/news/gaza-palestinians-die-every-day-awaiting-medical-transfer-due-israel-restrictions"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Celine Dion sparks stage return rumours as she leaves clues all over Paris",
+        "link": "https://www.geo.tv/latest/656905-celine-dion-sparks-stage-return-rumours-as-she-leaves-clues-all-over-paris"
+      },
       {
         "title": "Pakistan acting as main go-between in Trump's Iran crisis: report",
         "link": "https://www.geo.tv/latest/656901-pakistan-acting-as-main-go-between-in-trumps-iran-crisis-report"
@@ -151,10 +155,6 @@
       {
         "title": "Karachi braces for showers this week amid countrywide rain forecast",
         "link": "https://www.geo.tv/latest/656899-karachi-braces-for-showers-this-week-amid-countrywide-rain-forecast"
-      },
-      {
-        "title": "What else was on that ship?",
-        "link": "https://www.geo.tv/latest/656898-what-else-was-on-that-ship"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-23 17:34 UTC"
+  "last_updated": "2026-03-23 18:28 UTC"
 }
