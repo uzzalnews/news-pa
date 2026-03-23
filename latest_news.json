@@ -3,27 +3,31 @@
   "news": {
     "BBC": [
       {
+        "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
+        "link": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "PM warns against 'false comfort' of thinking Iran war will end quickly",
+        "link": "https://www.bbc.com/news/articles/cy01l49kkgdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "HS2 trains could run slower than planned to save money",
         "link": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "How a content creator hoped a YouTube alibi would help him avoid justice for murder",
+        "link": "https://www.bbc.com/news/articles/c4g8d8pz0xyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Is ex-Google boss Matt Brittin the right person to steer the BBC?",
         "link": "https://www.bbc.com/news/articles/ce9mz082y5go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hospital apology over boy's death after trainee doctor pierced artery",
-        "link": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Huel bought by Danone for reported €1bn",
-        "link": "https://www.bbc.com/news/articles/czre7pl600go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Colombian Air Force plane crashes with scores of soldiers on board",
-        "link": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "How Israel is reacting to Trump’s  ‘de-escalation’ with Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/how-israel-is-reacting-to-trumps-de-escalation-with-iran?traffic_source=rss"
+      },
       {
         "title": "Israeli strike on Lebanon bridge raises fears of ground invasion",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/israeli-strike-on-lebanon-bridge-raises-fears-of-ground-invasion?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Energy, water, bonds: What are Iran’s targets if Trump hits power plants?",
         "link": "https://www.aljazeera.com/news/2026/3/23/energy-water-bonds-what-are-irans-targets-if-trump-hits-power-plants?traffic_source=rss"
-      },
-      {
-        "title": "Trump signals off-ramp in Iran war despite no ‘regime change’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/trump-signals-off-ramp-in-iran-war-despite-no-regime?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -109,33 +109,45 @@
         "link": "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
       },
       {
-        "title": "Oil Prices Tumble and Stocks Rise as Trump Backs Off Threats to Iran Infrastructure",
+        "title": "Stocks Bounce as Trump Backs Off Iran Infrastructure Threat",
         "link": "https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Pakistan acting as mediator between Iran and US: FT",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-acting-mediator-between-iran-and-us-ft"
+        "title": "Red Cross says Middle East is reaching ‘point of no return’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/red-cross-says-middle-east-reaching-point-no-return"
       },
       {
-        "title": "Iranian parliament speaker says 'no negotiations' between US and Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-parliament-speaker-says-no-negotiations-between-us-and-iran"
+        "title": "Trump says he and 'the ayatollah' can share control of Strait of Hormuz",
+        "link": "https://www.middleeasteye.net/news/trump-says-he-and-ayatollah-can-share-control-strait-hormuz"
       },
       {
-        "title": "Doctors criticise medical regulators over campaign against British-Palestinian surgeon",
-        "link": "https://www.middleeasteye.net/news/uk-doctors-demand-medical-regulator-leadership-resign-over-campaign-against-palestinian"
+        "title": "Turkey seeks off-ramp to war through US-Iran negotiations",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-seeks-ramp-war-through-us-iran-negotiations"
       },
       {
-        "title": "Israeli strike kills one person in Beirut's Hamzieh: Lebanon health ministry",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-one-person-beiruts-hamzieh-lebanon-health-ministry"
+        "title": "UK defence secretary says Iran fired missiles on Diego Garcia",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-defence-secretary-says-iran-fired-missiles-british-base"
       },
       {
-        "title": "Trump suggests price of oil will 'drop like a rock' if a deal with Iran is made",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-suggests-price-oil-will-drop-rock-if-deal-iran-made"
+        "title": "Gaza: Up to 10 Palestinians die daily due to Israeli restrictions on medical evacuations",
+        "link": "https://www.middleeasteye.net/news/gaza-palestinians-die-every-day-awaiting-medical-transfer-due-israel-restrictions"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Pakistan acting as main go-between in Trump's Iran crisis: report",
+        "link": "https://www.geo.tv/latest/656901-pakistan-acting-as-main-go-between-in-trumps-iran-crisis-report"
+      },
+      {
+        "title": "WATCH: Dubai marks Pakistan Day by illuminating Burj Khalifa in green",
+        "link": "https://www.geo.tv/latest/656900-watch-dubai-marks-pakistan-day-by-illuminating-burj-khalifa-in-green"
+      },
+      {
+        "title": "Prince Edward's royal estate quietly cashes in at £10K month",
+        "link": "https://www.geo.tv/latest/656895-prince-edwards-royal-estate-quietly-cashes-in-at-10k-month"
+      },
       {
         "title": "Karachi braces for showers this week amid countrywide rain forecast",
         "link": "https://www.geo.tv/latest/656899-karachi-braces-for-showers-this-week-amid-countrywide-rain-forecast"
@@ -143,40 +155,28 @@
       {
         "title": "What else was on that ship?",
         "link": "https://www.geo.tv/latest/656898-what-else-was-on-that-ship"
-      },
-      {
-        "title": "Niall Horan announces 'Dinner Party' tour: European shows confirmed",
-        "link": "https://www.geo.tv/latest/656897-niall-horan-announces-dinner-party-tour-european-shows-confirmed"
-      },
-      {
-        "title": "Prince William accused for 'faith out of Church quietly' by Queen Elizabeth",
-        "link": "https://www.geo.tv/latest/656894-prince-william-accused-for-faith-out-of-church-quietly-by-queen-elizabeth-ii"
-      },
-      {
-        "title": "Beatrice, Edoardo's bombshell reaction on marriage trouble: 'Not true'",
-        "link": "https://www.geo.tv/latest/656893-beatrice-edoardos-bombshell-reaction-on-marriage-trouble-not-true"
       }
     ],
     "NDTV": [
       {
-        "title": "IndiGo Names Ex-Air India Express Chief Aloke Singh As Chief Strategy Officer",
-        "link": "https://www.ndtv.com/india-news/indigo-names-ex-air-india-express-chief-aloke-singh-as-chief-strategy-officer-11255709#publisher=newsstand"
+        "title": "\"Congress Destroyed Minorities\": Badruddin Ajmal Eyes Assam Comeback",
+        "link": "https://www.ndtv.com/india-news/2026-assam-elections-congress-destroyed-minorities-badruddin-ajmal-eyes-assam-comeback-11256398#publisher=newsstand"
       },
       {
-        "title": "All 9 Cops Convicted In Tamil Nadu Father-Son Custodial Death Case",
-        "link": "https://www.ndtv.com/india-news/all-9-cops-convicted-in-tamil-nadu-father-son-custodial-death-case-11255763#publisher=newsstand"
+        "title": "Israeli Media Names This Iranian Leader Spoke To Trump. Now He Denies",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-israeli-media-names-this-iranian-leader-mb-ghalibaf-spoke-to-donald-trump-now-he-denies-11256395#publisher=newsstand"
       },
       {
-        "title": "'US Speaking With Many Leaders, Not One, In Iran': Trump On Talks Claim",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-us-speaking-with-many-leaders-not-one-in-iran-donald-trump-11255547#publisher=newsstand"
+        "title": "Trump's Ever-Shifting Positions On Iran War, In His Own Words",
+        "link": "https://www.ndtv.com/world-news/trumps-ever-shifting-positions-on-the-war-with-iran-11256187#publisher=newsstand"
       },
       {
-        "title": "Ex Punjab Minister Laljit Singh Bhullar Arrested, 2 Days After Official's Suicide",
-        "link": "https://www.ndtv.com/india-news/ex-punjab-minister-laljit-singh-bhullar-arrested-2-days-after-officials-suicide-11255604#publisher=newsstand"
+        "title": "'Gave Our Savings In Cash, Gold': Massive Donation Drive For Iran In Kashmir",
+        "link": "https://www.ndtv.com/india-news/iran-israel-war-gave-our-savings-in-cash-gold-massive-donation-drive-for-iran-in-kashmir-11256350#publisher=newsstand"
       },
       {
-        "title": "Trump Hints At Possible Middle East Breakthrough, Then Iran Rubs It In",
-        "link": "https://www.ndtv.com/world-news/iran-war-live-news-no-military-strikes-against-iranian-power-plants-for-5-day-period-says-trump-then-adds-a-caveat-11254622#publisher=newsstand"
+        "title": "Rs 3 Lakh Shootout Deal, Signal Chats: Inside The Rohit Shetty Firing Case",
+        "link": "https://www.ndtv.com/india-news/rs-3-lakh-shootout-deal-signal-chats-inside-the-rohit-shetty-firing-case-11256290#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-23 16:38 UTC"
+  "last_updated": "2026-03-23 17:34 UTC"
 }
