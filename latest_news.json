@@ -3,16 +3,16 @@
   "news": {
     "BBC": [
       {
-        "title": "Watch: CCTV shows ambulance attack suspects before vehicle engulfed in flames",
-        "link": "https://www.bbc.com/news/videos/cwyvxdl7x3xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "British couple in Iran prison say situation is 'life-threatening'",
         "link": "https://www.bbc.com/news/articles/cew72ll8245o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
         "link": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Heat pumps work for me - but they're not yet a money saver",
+        "link": "https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'We can't justify a £52 lunch': Middle-income families cut back on days out",
@@ -25,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Trump postpones military strikes on Iranian power plants",
+        "title": "Trump shares SNL skit mocking Starmer as he speaks to UK PM over Iran war",
+        "link": "https://www.aljazeera.com/news/2026/3/23/trump-shares-snl-skit-mocking-starmer-as-he-speaks-to-uk-pm-over-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "UK police investigate Jewish charity ambulance arson as hate crime",
+        "link": "https://www.aljazeera.com/news/2026/3/23/uk-police-investigate-jewish-charity-ambulance-arson-as-hate-crime?traffic_source=rss"
+      },
+      {
+        "title": "Taiwan opposition leader says that improving ties with China is not anti-US",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/taiwan-opposition-leader-says-that-improving-ties-with-china-is-not-anti-us?traffic_source=rss"
+      },
+      {
+        "title": "Has Iran brought down an ‘unkillable’ US F-35 jet?",
+        "link": "https://www.aljazeera.com/news/2026/3/23/has-iran-brought-down-an-unkillable-us-f-35-jet?traffic_source=rss"
+      },
+      {
+        "title": "Trump postpones military strikes on Iranian power plants for five days",
         "link": "https://www.aljazeera.com/news/2026/3/23/trump-postpones-military-strikes-on-iranian-power-plants?traffic_source=rss"
-      },
-      {
-        "title": "Iraq pulled into Iran war as US targets Iran-aligned groups",
-        "link": "https://www.aljazeera.com/news/2026/3/23/iraq-pulled-into-iran-war-as-us-targets-iran-aligned-groups?traffic_source=rss"
-      },
-      {
-        "title": "Threats over Iran war bare Trump efforts to transform free speech: Experts",
-        "link": "https://www.aljazeera.com/news/2026/3/23/threats-over-iran-war-bare-trump-efforts-to-transform-free-speech-experts?traffic_source=rss"
-      },
-      {
-        "title": "IRGC spokesman tells US President Donald Trump ‘You’re fired!’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/irgc-spokesman-tells-us-president-donald-trump-youre?traffic_source=rss"
-      },
-      {
-        "title": "Aftermath of Israeli attack in southern Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/aftermath-of-israeli-attack-in-southern-lebanon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,27 +93,35 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "A Deadly Collision at LaGuardia Airport, and Trump’s Ultimatum to Iran",
-        "link": "https://www.nytimes.com/2026/03/23/podcasts/the-headlines/runway-collision-laguardia-airport-and-trumps-ultimatum-iran.html"
-      },
-      {
         "title": "Energy Attacks in War on Iran Could Turn Economic Shock Into Long-Term Damage",
         "link": "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html"
+      },
+      {
+        "title": "Markets Rally as Trump’s Iran Deadline Is Deferred",
+        "link": "https://www.nytimes.com/2026/03/23/business/dealbook/trump-iran-energy-attacks.html"
       },
       {
         "title": "Sidelined by War With Iran, Gaza Residents Remain in Limbo",
         "link": "https://www.nytimes.com/2026/03/23/world/middleeast/gaza-israel-mood.html"
       },
       {
-        "title": "Iranians Fear Trump’s Threat to Strike Power Plants",
-        "link": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html"
+        "title": "A Deadly Collision at LaGuardia Airport, and Trump Postpones Strait of Hormuz Deadline",
+        "link": "https://www.nytimes.com/2026/03/23/podcasts/the-headlines/runway-collision-laguardia-airport-and-trumps-ultimatum-iran.html"
       },
       {
-        "title": "Suspect in Chicago Student’s Killing Was in U.S. Illegally, D.H.S. Says",
-        "link": "https://www.nytimes.com/2026/03/22/us/loyola-student-death-arrest.html"
+        "title": "Deadly Plane Crash at LaGuardia Airport: What We Know",
+        "link": "https://www.nytimes.com/2026/03/23/nyregion/laguardia-airport-air-canada-plane-crash.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "‘They burned everything’: Israeli settlers torch West Bank clinics, homes and cars",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/they-burned-everything-israeli-settlers-torch-west-bank-clinics-homes"
+      },
+      {
+        "title": "‘They burned everything’: Israeli settlers torch West Bank clinics, homes and cars",
+        "link": "https://www.middleeasteye.net/news/they-burned-everything-israeli-settlers-torch-west-bank-clinics-homes-and-cars"
+      },
       {
         "title": "Trump postpones military strikes on Iranian power plants",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-postpones-military-strikes-iranian-power-plants"
@@ -125,17 +133,21 @@
       {
         "title": "Kremlin says strikes near Bushehr nuclear plant in Iran are dangerous",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kremlin-says-strikes-near-bushehr-nuclear-plant-iran-are-dangerous"
-      },
-      {
-        "title": "South Korea's foreign minister requests Iran ensure safety of vessels inside Strait of Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-foreign-minister-requests-iran-ensure-safety-vessels-inside"
-      },
-      {
-        "title": "Kremlin denies report of Russian proposal to US to cut intelligence sharing with Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kremlin-denies-report-russian-proposal-us-cutting-intelligence-sharing"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Miley Cyrus announces new Hannah Montana song on 20th anniversary special",
+        "link": "https://www.geo.tv/latest/656879-miley-cyrus-announces-new-hannah-montana-song-on-20th-anniversary-special"
+      },
+      {
+        "title": "DeAndre Hopkins sends Bengals-Ravens fans into frenzy: Find out why",
+        "link": "https://www.geo.tv/latest/656875-deandre-hopkins-sends-bengals-ravens-fans-into-frenzy"
+      },
+      {
+        "title": "Beatrice, Eugenie's husbands draw line in shocking move",
+        "link": "https://www.geo.tv/latest/656868-beatrice-eugenies-husbands-draw-line-in-shocking-move"
+      },
       {
         "title": "Taylor Frankie Paul fires back at fan amid ‘Bachelorette' scandal",
         "link": "https://www.geo.tv/latest/656872-taylor-frankie-paul-fires-back-at-fan-amid-bachelorette-scandal"
@@ -143,40 +155,28 @@
       {
         "title": "Pilot, co-pilot killed after plane hits truck on runway at LaGuardia airport: Here's what we know",
         "link": "https://www.geo.tv/latest/656871-pilot-co-pilot-killed-after-plane-hits-truck-on-runway-at-laguardia-airport"
-      },
-      {
-        "title": "Pregnant Sophie Kasaei 'heartbroken' as Jordon Brook fights meningitis",
-        "link": "https://www.geo.tv/latest/656869-sophie-kasaei"
-      },
-      {
-        "title": "Brooks Nader reveals shocking truth about plastic surgery regret",
-        "link": "https://www.geo.tv/latest/656870-brooks-nader-reveals-shocking-truth-about-plastic-surgery-regret"
-      },
-      {
-        "title": "James McCoy Taylor faces new charges after past assault conviction",
-        "link": "https://www.geo.tv/latest/656866-james-mccoy-taylor-faces-new-charges-after-past-assault-conviction"
       }
     ],
     "NDTV": [
       {
-        "title": "Investors Lose Rs 15 Lakh Crore In An Hour: Why Markets Crashed Today",
-        "link": "https://www.ndtv.com/india-news/investors-lose-rs-12-lakh-crore-in-an-hour-why-are-markets-crashing-today-11253071#publisher=newsstand"
+        "title": "Trump Hints At Possible Middle East Breakthrough, Then Iran Rubs It In",
+        "link": "https://www.ndtv.com/world-news/iran-war-live-news-no-military-strikes-against-iranian-power-plants-for-5-day-period-says-trump-then-adds-a-caveat-11254622#publisher=newsstand"
       },
       {
-        "title": "For Troops, 'BRRRT' Is Sound Of Music: All About The 'Avenger' In Hormuz",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-gau-8-for-us-troops-brrrt-is-sound-of-music-all-about-the-avenger-in-hormuz-11254260#publisher=newsstand"
+        "title": "Russia Calls For \"Political And Diplomatic\" Solution To Iran War",
+        "link": "https://www.ndtv.com/world-news/russia-calls-for-political-and-diplomatic-solution-to-iran-war-11254617#publisher=newsstand"
       },
       {
-        "title": "\"Unstable Man With No Strategy\": Top Economist To NDTV On Trump's Hormuz Deadline",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-unstable-man-with-no-strategy-top-economist-to-ndtv-on-trumps-hormuz-deadline-11254258#publisher=newsstand"
+        "title": "US-Israel-Iran War Updates: Iran Says Trump \"Backed Down\" After His Middle East Breakthrough Hint",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand"
       },
       {
-        "title": "Stock Market Highlights: Investors Lose Rs 15 Lakh Crore, Sensex Crashes 1,800 Points",
-        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-share-market-today-23rd-march-2026-sensex-nifty-gift-iran-war-us-attack-oil-market-latest-updates-11252490#publisher=newsstand"
+        "title": "Massive Pak-Linked Spy Network Conducted Pre-Attack Recon, Busted In UP",
+        "link": "https://www.ndtv.com/india-news/massive-pakistan-linked-spy-network-conducted-pre-attack-recon-busted-in-up-ghaziabad-11254630#publisher=newsstand"
       },
       {
-        "title": "All About Hezbollah's Radwan Force, Unit Trained By Iran And North Korea",
-        "link": "https://www.ndtv.com/world-news/iran-israel-us-war-all-about-hezbollah-radwan-force-unit-trained-by-iran-and-north-korea-middle-east-conflict-11252874#publisher=newsstand"
+        "title": "Dead Maharashtra Man Listed As Panchayat Worker In Rs 80 Lakh Fraud Case",
+        "link": "https://www.ndtv.com/india-news/dead-maharashtra-man-listed-as-panchayat-worker-in-rs-80-lakh-fraud-case-11254670#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-23 11:29 UTC"
+  "last_updated": "2026-03-23 12:05 UTC"
 }
