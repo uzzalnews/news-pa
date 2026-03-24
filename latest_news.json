@@ -3,12 +3,16 @@
   "news": {
     "BBC": [
       {
-        "title": "Small window open for US-Iran talks, but swift end to war still unlikely",
+        "title": "Lyse Doucet: Small window open for US-Iran talks, but swift end to war still unlikely",
         "link": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Reeves plans energy bill help for those 'who need it most'",
         "link": "https://www.bbc.com/news/articles/cr516nmer5eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mohamed Salah to leave Liverpool at end of season",
+        "link": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
@@ -17,32 +21,28 @@
       {
         "title": "Transgender girls told to leave Girlguiding groups by September",
         "link": "https://www.bbc.com/news/articles/cx2rn250ddjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Truly magical woman': Tributes to Married at First Sight's Mel Schilling",
-        "link": "https://www.bbc.com/news/articles/c8ejk0z430jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Egypt’s Mohamed Salah to leave Liverpool at end of season after 9-year stay",
+        "link": "https://www.aljazeera.com/sports/2026/3/24/egypts-mohamed-salah-to-leave-liverpool-at-end-of-season-after-9-year-stay?traffic_source=rss"
+      },
+      {
+        "title": "What impact is the war on Iran having on Israel?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/24/what-impact-is-the-war-on-iran-having-on-israel?traffic_source=rss"
+      },
+      {
+        "title": "Why is Trump asking for Europe’s help in war on Iran?",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/3/24/why-is-trump-asking-for-europes-help-in-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Aid flotilla vessel arrives in Cuba amid US-driven energy crisis",
+        "link": "https://www.aljazeera.com/news/2026/3/24/aid-flotilla-vessel-arrives-in-cuba-amid-us-driven-energy-crisis?traffic_source=rss"
+      },
+      {
         "title": "Iran names successor to security chief killed in US-Israeli attack",
         "link": "https://www.aljazeera.com/news/2026/3/24/mohammad-bagher-zolghadr-succeeds-slain-larijani-as-iran-security-chief?traffic_source=rss"
-      },
-      {
-        "title": "Afghanistan frees detained US citizen Dennis Coyle as gesture of ‘goodwill’",
-        "link": "https://www.aljazeera.com/news/2026/3/24/afghanistan-frees-detained-us-citizen-dennis-coyle-as-gesture-of-goodwill?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strike lands near Roman ruins in Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-strike-lands-near-roman-ruins-in-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Kim Jong Un says North Korea will never give up on nuclear weapons",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/kim-jong-un-says-north-korea-will-never-give-up-on-nuclear-weapons?traffic_source=rss"
-      },
-      {
-        "title": "Anthropic challenges US Pentagon’s ban in San Francisco court showdown",
-        "link": "https://www.aljazeera.com/economy/2026/3/24/anthropic-challenges-us-pentagons-ban-in-san-francisco-court-showdown?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +74,20 @@
         "link": "https://www.dawn.com/news/1984912/pakistan-stands-ready-honoured-to-host-us-iran-talks-says-pm-shehbaz"
       },
       {
+        "title": "Clerics from Pakistan, Afghanistan appeal to authorities to extend pause in fighting till Eidul Azha",
+        "link": "https://www.dawn.com/news/1984967/clerics-from-pakistan-afghanistan-appeal-to-authorities-to-extend-pause-in-fighting-till-eidul-azha"
+      },
+      {
         "title": "Pakistan’s petrol cargoes for March and April ‘largely secured’: finance ministry",
         "link": "https://www.dawn.com/news/1984941/pakistans-petrol-cargoes-for-march-and-april-largely-secured-finance-ministry"
       },
       {
-        "title": "Karachi-bound Tezgam Express derails near Bahawalpur in Punjab",
-        "link": "https://www.dawn.com/news/1984957/karachi-bound-tezgam-express-derails-near-bahawalpur-in-punjab"
+        "title": "Several injured as Karachi-bound Tezgam Express derails near Punjab’s Lodhran: official",
+        "link": "https://www.dawn.com/news/1984957/several-injured-as-karachi-bound-tezgam-express-derails-near-punjabs-lodhran-official"
       },
       {
         "title": "PTI decries ‘blatant violation of rights’ as Imran’s sisters again barred from meeting him at Adiala jail",
         "link": "https://www.dawn.com/news/1984929/pti-decries-blatant-violation-of-rights-as-imrans-sisters-again-barred-from-meeting-him-at-adiala-jail"
-      },
-      {
-        "title": "Sindh minister says govt contemplating smart lockdown as fuel conservation measure",
-        "link": "https://www.dawn.com/news/1984943/sindh-minister-says-govt-contemplating-smart-lockdown-as-fuel-conservation-measure"
       }
     ],
     "APNews": [],
@@ -105,12 +105,12 @@
         "link": "https://www.nytimes.com/2026/03/24/us/minnesota-ice-shootings-evidence.html"
       },
       {
-        "title": "Saudi Leader Is Said to Push Trump to Continue Iran War in Recent Calls",
-        "link": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html"
+        "title": "Costa Rica Agrees to Take Migrants Deported by the Trump Administration",
+        "link": "https://www.nytimes.com/2026/03/24/world/americas/costa-rica-us-deportation-deal.html"
       },
       {
-        "title": "Trump’s Threat to ‘Obliterate’ Iran’s Power Stations Could Constitute a War Crime, Rights Experts Say",
-        "link": "https://www.nytimes.com/2026/03/24/us/politics/trump-iran-power-stations.html"
+        "title": "Why President Trump Has a Big Oil Problem",
+        "link": "https://www.nytimes.com/video/world/middleeast/100000010796844/why-iran-strait-of-hormuz-is-important-trump.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,46 +137,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Jay Z reveals emotional toll behind decision to fight lawsuit",
+        "link": "https://www.geo.tv/latest/657053-jay-z-breaks-silence-on-lawsuit-and-reveals-why-he-refused-to-settle"
+      },
+      {
+        "title": "What is 82nd Airborne Division, why Trump may deploy it to Iran",
+        "link": "https://www.geo.tv/latest/657059-what-is-82nd-airborne-division-why-trump-may-deploy-it-to-iran"
+      },
+      {
+        "title": "Niall Horan unveils dates for 'Dinner Party' tour 1st leg: 'First of many'",
+        "link": "https://www.geo.tv/latest/657058-niall-horan-unveils-dates-for-dinner-party-tour-1st-leg-first-of-many"
+      },
+      {
+        "title": "Space company plans bold landing on fast-moving asteroid passing near Earth",
+        "link": "https://www.geo.tv/latest/657055-space-company-plans-bold-landing-on-fast-moving-asteroid-passing-near-earth"
+      },
+      {
         "title": "Epic Games CEO Time Sweeney lays off over 1,000 employees as Fortnite engagement declines",
         "link": "https://www.geo.tv/latest/657050-epic-games-ceo-time-sweeney-lays-off-over-1000-employees-as-fortnite-engagement-declines"
-      },
-      {
-        "title": "Travis Kelce has sweet reaction to Taylor Swift's picture: 'Hey Sweetie'",
-        "link": "https://www.geo.tv/latest/657049-travis-kelce-has-sweet-reaction-to-taylor-swifts-picture-hey-sweetie"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang claims AGI has arrive, though experts remain divided",
-        "link": "https://www.geo.tv/latest/657046-nvidia-ceo-jensen-huang-claims-agi-has-arrive-though-experts-remain-divided"
-      },
-      {
-        "title": "Russia's vast daytime drone attack kills three, wounds 30 in Ukraine",
-        "link": "https://www.geo.tv/latest/657044-russias-vast-daytime-drone-attack-kills-three-wounds-30-in-ukraine"
-      },
-      {
-        "title": "Kensington Palace shares Prince William's latest video with major update",
-        "link": "https://www.geo.tv/latest/657043-kensington-palace-shares-williams-latest-video-with-loved-ones"
       }
     ],
     "NDTV": [
       {
-        "title": "Nashik Godman Peddled 'Magic' Turkish Honey At Rs 15 Lakh A kg",
-        "link": "https://www.ndtv.com/india-news/nashik-godman-ashok-kharat-peddled-magic-turkish-honey-at-rs-15-lakh-a-kg-11261815#publisher=newsstand"
+        "title": "US To Send 3,000 Troops From Elite Army Brigade To Middle East: Report",
+        "link": "https://www.ndtv.com/world-news/iran-war-us-to-send-3-000-troops-from-elite-army-brigade-to-middle-east-report-11262039#publisher=newsstand"
       },
       {
-        "title": "'Trap Closing Around Trump': Ex-White House Adviser On Iran War",
-        "link": "https://www.ndtv.com/india-news/us-iran-war-robert-pepe-israel-benjamin-netanyahu-trap-closing-around-trump-ex-white-house-adviser-on-iran-war-11261762#publisher=newsstand"
+        "title": "Man Beats Dog To Death, Locals Attack NGO Workers For Trying To Save It",
+        "link": "https://www.ndtv.com/india-news/man-beats-dog-to-death-locals-attack-ngo-workers-for-trying-to-save-it-11261977#publisher=newsstand"
       },
       {
-        "title": "Trump Shares Pakistan PM's Iran War Mediation Post, Fuels Speculation",
-        "link": "https://www.ndtv.com/world-news/trump-shares-pakistan-pms-iran-war-mediation-post-fuels-speculation-11261769#publisher=newsstand"
+        "title": "US In Negotiations With Iran \"Right Now\", Tehran Badly Wants Deal: Trump",
+        "link": "https://www.ndtv.com/world-news/iran-war-us-in-negotiations-with-iran-right-now-tehran-badly-wants-deal-donald-trump-11261962#publisher=newsstand"
       },
       {
-        "title": "PM Modi, Sri Lankan President Discuss Middle East Conflict, Energy Security",
-        "link": "https://www.ndtv.com/india-news/iran-israel-war-pm-modi-sri-lankan-president-discuss-middle-east-conflict-energy-security-11261730#publisher=newsstand"
+        "title": "'Iran Will Welcome US Troops, It's Easier To Hit Soldiers On Ground': Scholar",
+        "link": "https://www.ndtv.com/world-news/iran-war-live-iran-will-welcome-us-troops-its-easier-to-hit-soldiers-on-ground-scholar-11261920#publisher=newsstand"
       },
       {
-        "title": "Lok Sabha Strength May Be Hiked To 816 To Accommodate Women's Quota: Sources",
-        "link": "https://www.ndtv.com/india-news/centre-may-delay-bills-on-womens-quota-not-table-them-this-session-sources-11260499#publisher=newsstand"
+        "title": "Centre Notifies Order To Strengthen Piped Natural Gas Infrastructure",
+        "link": "https://www.ndtv.com/india-news/centre-notifies-order-to-strengthen-piped-natural-gas-infrastructure-11261934#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-24 18:39 UTC"
+  "last_updated": "2026-03-24 19:40 UTC"
 }
