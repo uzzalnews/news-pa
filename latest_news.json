@@ -3,6 +3,14 @@
   "news": {
     "BBC": [
       {
+        "title": "Reeves plans energy bill help for those 'who need it most'",
+        "link": "https://www.bbc.com/news/articles/cr516nmer5eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Son of Nottingham attacks victim found out father had died through Instagram",
+        "link": "https://www.bbc.com/news/articles/cgld4w7dlkdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "First-time buyers hit as mortgage rates keep rising",
         "link": "https://www.bbc.com/news/articles/c5y7gnkez3lo?at_medium=RSS&at_campaign=rss"
       },
@@ -13,36 +21,28 @@
       {
         "title": "Married at First Sight star Mel Schilling dies at 54",
         "link": "https://www.bbc.com/news/articles/c8ejk0z430jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Aimee Lou Wood and Erin Doherty set for double Bafta TV Awards battle",
-        "link": "https://www.bbc.com/news/articles/cvg04rp5vlko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Oil traders bet millions minutes before Trump's Iran talks post",
-        "link": "https://www.bbc.com/news/articles/cg547ljepvzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "QatarEnergy declares force majeure on some LNG contracts",
+        "title": "Moment rescuers find man alive under the rubble in Tehran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/moment-rescuers-find-man-alive-under-the-rubble-in-tehran?traffic_source=rss"
+      },
+      {
+        "title": "UN experts urge Israel to free Gaza doctor amid reports of ‘severe torture’",
+        "link": "https://www.aljazeera.com/news/2026/3/24/un-experts-urge-israel-to-free-gaza-doctor-amid-reports-of-severe-torture?traffic_source=rss"
+      },
+      {
+        "title": "Who is Markwayne Mullin, Trump’s new homeland security chief?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/who-is-markwayne-mullin-trumps-new-homeland-security-chief?traffic_source=rss"
+      },
+      {
+        "title": "Keir Starmer’s policy on the Iran war is a recipe for catastrophe",
+        "link": "https://www.aljazeera.com/opinions/2026/3/24/keir-starmers-policy-on-the-iran-war-is-a-recipe-for-catastrophe?traffic_source=rss"
+      },
+      {
+        "title": "QatarEnergy declares force majeure on some LNG contracts due to Iran war",
         "link": "https://www.aljazeera.com/news/2026/3/24/qatarenergy-declares-force-majeure-on-some-lng-contracts?traffic_source=rss"
-      },
-      {
-        "title": "Is the US talking to Iran’s Mohammad Bagher Ghalibaf, and who is he?",
-        "link": "https://www.aljazeera.com/news/2026/3/24/is-the-us-talking-to-irans-mohammad-bagher-ghalibaf-and-who-is-he?traffic_source=rss"
-      },
-      {
-        "title": "Why has India arrested US, Ukrainian nationals under anti-terror laws?",
-        "link": "https://www.aljazeera.com/news/2026/3/24/why-has-india-arrested-us-ukrainian-nationals-under-anti-terror-laws?traffic_source=rss"
-      },
-      {
-        "title": "What if humanity meets the unknown?",
-        "link": "https://www.aljazeera.com/video/doha-debates/2026/3/24/what-if-humanity-meets-the-unknown?traffic_source=rss"
-      },
-      {
-        "title": "Mothers of the Plaza de Mayo reflect on 50th anniversary of Argentina coup",
-        "link": "https://www.aljazeera.com/news/longform/2026/3/24/mothers-of-the-plaza-de-mayo-reflect-on-50th-anniversary-of-argentina-coup?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,16 +74,16 @@
         "link": "https://www.dawn.com/news/1984912/pakistan-stands-ready-honoured-to-host-us-iran-talks-says-pm-shehbaz"
       },
       {
+        "title": "PTI decries ‘blatant violation of rights’ as Imran’s sisters again barred from meeting him at Adiala jail",
+        "link": "https://www.dawn.com/news/1984929/pti-decries-blatant-violation-of-rights-as-imrans-sisters-again-barred-from-meeting-him-at-adiala-jail"
+      },
+      {
         "title": "ADB announces support package for developing member states hit by Middle East conflict",
         "link": "https://www.dawn.com/news/1984931/adb-announces-support-package-for-developing-member-states-hit-by-middle-east-conflict"
       },
       {
         "title": "LHC sustains objection on plea against acquittal of PM Shehbaz, his sons in money laundering case",
         "link": "https://www.dawn.com/news/1984911/lhc-sustains-objection-on-plea-against-acquittal-of-pm-shehbaz-his-sons-in-money-laundering-case"
-      },
-      {
-        "title": "President of PTI’s Islamabad chapter says Imran’s release not possible without coordinated strategy",
-        "link": "https://www.dawn.com/news/1984929/president-of-ptis-islamabad-chapter-says-imrans-release-not-possible-without-coordinated-strategy"
       },
       {
         "title": "Afghanistan announces release of detained US citizen",
@@ -93,16 +93,12 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Saudi Prince Is Said to Push Trump to Continue Iran War in Recent Calls",
+        "title": "Saudi Leader Is Said to Push Trump to Continue Iran War in Recent Calls",
         "link": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html"
       },
       {
-        "title": "Trump Faces Blowback on Easing Iran Oil Sanctions",
-        "link": "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html"
-      },
-      {
-        "title": "Trump Sours on Keir Starmer Over UK’s Decision Not to Join Attacks on Iran",
-        "link": "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html"
+        "title": "Israel Plans to Control Large Parts of Southern Lebanon, Defense Minister Says",
+        "link": "https://www.nytimes.com/2026/03/24/world/middleeast/israel-southern-lebanon-defense-minister.html"
       },
       {
         "title": "A New Phase of the War in Iran, and the Latest on the LaGuardia Plane Crash",
@@ -111,9 +107,25 @@
       {
         "title": "In LaGuardia Crash That Killed 2, Call to ‘Stop!’ Came Too Late",
         "link": "https://www.nytimes.com/2026/03/23/nyregion/air-canada-crash-laguardia-nyc.html"
+      },
+      {
+        "title": "College Graduates Are Facing the Grimmest Job Market in Years",
+        "link": "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "China foreign minister tells Iran counterpart 'talks better than fighting'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-fm-tells-iran-counterpart-talks-better-fighting"
+      },
+      {
+        "title": "Israeli press review: Expanding wars spark concerns over economy and air defence capacities",
+        "link": "https://www.middleeasteye.net/news/israeli-press-review-concerns-about-economy-and-air-defence-capacities"
+      },
+      {
+        "title": "Albanese urges ICC arrest warrants for Israeli ministers over torture of Palestinians",
+        "link": "https://www.middleeasteye.net/news/albanese-urges-icc-arrest-warrants-israeli-ministers-palestinian-torture"
+      },
       {
         "title": "Qatar national gas company declares force majeure ⁠on some of its long-term LNG supply contracts",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-national-gas-company-declares-force-majeure-some-its-long-term-lng"
@@ -121,62 +133,50 @@
       {
         "title": "Iran war shows why Europe is no longer relevant",
         "link": "https://www.middleeasteye.net/opinion/iran-war-shows-why-europe-no-longer-relevant"
-      },
-      {
-        "title": "Trump's stringent demands on Iran risk bogging down potential talks, sources say",
-        "link": "https://www.middleeasteye.net/news/us-trump-demands-risk-talks-ending-iran-war"
-      },
-      {
-        "title": "Israel to ‘control’ southern Lebanon as Smotrich urges border shift to Litani River",
-        "link": "https://www.middleeasteye.net/news/litani-river-must-be-new-border-lebanon-israels-smotrich-says"
-      },
-      {
-        "title": "Israel urges Lebanese govt to take 'practical and meaningful measures' against Hezbollah",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-urges-lebanese-govt-take-practical-and-meaningful-measures"
       }
     ],
     "GeoTV": [
       {
-        "title": "Smart lockdown on cards in Sindh as fuel-saving measure, says minister",
-        "link": "https://www.geo.tv/latest/657019-smart-lockdown-on-cards-in-sindh-as-fuel-saving-measure-minister"
+        "title": "Scientists identify 45 Earth-like planets that could host life",
+        "link": "https://www.geo.tv/latest/657030-scientists-identify-45-earth-like-planets-that-could-host-life"
       },
       {
-        "title": "Zayn Malik sends fans into meltdown with new music video",
-        "link": "https://www.geo.tv/latest/657020-zayn-malik-sends-fans-into-meltdown-with-new-music-video"
+        "title": "Princess Anne opens RVC Centre shaping tomorrow's veterinary innovators",
+        "link": "https://www.geo.tv/latest/657024-princess-anne-opens-rvc-centre-shaping-tomorrows-veterinary-innovators"
       },
       {
-        "title": "Prince William, Princess Kate teach lesson to many with honour to loyal aide",
-        "link": "https://www.geo.tv/latest/657013-prince-william-princess-kate-teach-lessprince-william-princess-kate-teach-lesson-to-many-with-honour-to-loyal-aideon-to-many-with-honour-to-loyal-aide"
+        "title": "Pakistan 'largely secures' petrol cargoes for March, April",
+        "link": "https://www.geo.tv/latest/657025-pakistan-largely-secures-petrol-cargoes-for-march-april"
       },
       {
-        "title": "ADB announces support package for developing nations hit by Mideast conflict",
-        "link": "https://www.geo.tv/latest/657011-adb-announces-support-package-for-developing-nations-hit-by-mideast-conflict"
+        "title": "Nasa to spend $20bn on moon base, cancel orbiting lunar station",
+        "link": "https://www.geo.tv/latest/657023-nasa-to-spend-20-billion-on-moon-base-cancel-orbiting-lunar-station"
       },
       {
-        "title": "Why is California seeing so many meteorite strikes?",
-        "link": "https://www.geo.tv/latest/657018-why-is-california-seeing-so-many-meteorite-strikes"
+        "title": "Ben Duckett pulls out of IPL 2026 to save England career",
+        "link": "https://www.geo.tv/latest/657026-ben-duckett-pulls-out-of-ipl-2026-to-save-england-career"
       }
     ],
     "NDTV": [
       {
-        "title": "Wanted Maoist 'Papa Rao' To Surrender As Amit Shah's Ops Deadline Nears",
-        "link": "https://www.ndtv.com/india-news/chhattisgarh-wanted-maoist-papa-rao-gives-up-arms-as-amit-shah-ops-deadline-nears-11259577#publisher=newsstand"
+        "title": "5 Bullets, 'Human Sacrifice': More Skeletons In Nashik Astrologer's Closet",
+        "link": "https://www.ndtv.com/india-news/ashok-kharat-5-bullets-human-sacrifice-more-skeletons-in-nashik-astrologers-closet-11260575#publisher=newsstand"
       },
       {
-        "title": "Odisha's Most Wanted Maoist Leader Sukru, Carrying Rs 55 Lakh Bounty, Gives Up Arms",
-        "link": "https://www.ndtv.com/india-news/odishas-most-wanted-maoist-leader-sukru-carrying-rs-55-lakh-bounty-gives-up-arms-11260039#publisher=newsstand"
+        "title": "President's Office Again Snubs Trinamool's Meeting Request Over Protocol Row",
+        "link": "https://www.ndtv.com/india-news/presidents-office-again-snubs-trinamools-meeting-request-over-protocol-row-11259722#publisher=newsstand"
       },
       {
         "title": "Harish Rana, 1st Indian To Be Allowed Passive Euthanasia, Dies After 13 Years In Coma",
         "link": "https://www.ndtv.com/india-news/harish-rana-1st-indian-to-be-allowed-passive-euthanasia-dies-after-13-years-in-coma-11260253#publisher=newsstand"
       },
       {
-        "title": "\"Most Respected, Top Person\": Who Is Talking To Trump In Iran?",
-        "link": "https://www.ndtv.com/world-news/most-respected-top-person-who-is-talking-to-trump-in-iran-11259596#publisher=newsstand"
+        "title": "\"A Head For An Eye\": Iran Warns Trump That US' \"Final Deadline\" Is Near",
+        "link": "https://www.ndtv.com/world-news/iran-war-live-a-head-for-an-eye-iran-mohsen-rezaei-warns-donald-trump-that-us-final-deadline-is-near-11260550#publisher=newsstand"
       },
       {
-        "title": "\"Think You're Drinking Juice?\": Raghav Chadha Flags Misleading Branding",
-        "link": "https://www.ndtv.com/india-news/think-youre-drinking-juice-raghav-chadha-flags-misleading-branding-11260280#publisher=newsstand"
+        "title": "On Camera, Rajasthan Actor, 30, Dies As Car Crashes Into Divider In Jaipur",
+        "link": "https://www.ndtv.com/india-news/on-camera-rajasthan-actor-30-dies-as-car-crashes-into-divider-in-jaipur-11260728#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-24 14:37 UTC"
+  "last_updated": "2026-03-24 15:45 UTC"
 }
