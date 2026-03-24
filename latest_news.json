@@ -1,22 +1,28 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Parliament Budget Session 2026 LIVE: PM Modi To Address Rajya Sabha At 2 PM",
+      "link": "https://www.ndtv.com/india-news/parliament-budget-session-live-updates-prime-minister-narendra-modi-rajya-sabha-address-on-middle-east-conflict-us-israel-iran-war-11258594#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
-      {
-        "title": "Chris Mason: Reeves to set out principles on who might get energy bills support - and who won't",
-        "link": "https://www.bbc.com/news/articles/c937qj0lp32o?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Vets must publish prices and pet prescription fees to be capped at £21, watchdog says",
         "link": "https://www.bbc.com/news/articles/cj32d05x702o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Royal Mail staff say they were told to hide post to look like delivery targets met",
-        "link": "https://www.bbc.com/news/articles/cm2knk5d4deo?at_medium=RSS&at_campaign=rss"
+        "title": "Chris Mason: Reeves to set out principles on who might get energy bills support - and who won't",
+        "link": "https://www.bbc.com/news/articles/c937qj0lp32o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK's transplant system was world-leading - now it lags behind other Western nations",
-        "link": "https://www.bbc.com/news/articles/clyrj8rz6jno?at_medium=RSS&at_campaign=rss"
+        "title": "All new homes to have heat pumps and solar panels",
+        "link": "https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police investigating possible Iran link to attack on Jewish charity ambulances",
+        "link": "https://www.bbc.com/news/articles/ckg9l87e4wyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Deadly air attack hits pro-Iran Popular Mobilisation Forces in Iraq",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/deadly-air-attack-hits-pro-iran-popular-mobilisation-forces-in-iraq?traffic_source=rss"
+      },
+      {
+        "title": "Al Jazeera reports from scene of attack on Tehran residential area",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/al-jazeera-reports-from-scene-of-attack-on-tehran-residential-area?traffic_source=rss"
+      },
+      {
+        "title": "Despite Trump’s peace talk claims, US-Israeli attacks continue to hit Iran",
+        "link": "https://www.aljazeera.com/news/2026/3/24/despite-trumps-peace-talk-claims-us-israeli-attacks-continue-to-hit-iran?traffic_source=rss"
+      },
+      {
         "title": "Top EU official calls for negotiations with Iran and an end to war",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/top-eu-official-calls-for-negotiations-with-iran-and-an-end-to-war?traffic_source=rss"
       },
       {
         "title": "Eritrea to end 18-year AFCON isolation by playing Eswatini in qualifier",
         "link": "https://www.aljazeera.com/sports/2026/3/24/eritrea-to-end-18-year-afcon-isolation-by-playing-eswatini-in-qualifier?traffic_source=rss"
-      },
-      {
-        "title": "Where do reported US-Iran ‘negotiations’ leave Israel?",
-        "link": "https://www.aljazeera.com/news/2026/3/24/where-do-us-iran-negotiations-leave-israel?traffic_source=rss"
-      },
-      {
-        "title": "Polls open in key Denmark elections clouded by Trump’s Greenland threat",
-        "link": "https://www.aljazeera.com/news/2026/3/24/polls-open-in-key-denmark-elections-clouded-by-trumps-greenland-threat?traffic_source=rss"
-      },
-      {
-        "title": "ICE agents deployed to US airports: Which airports are affected?",
-        "link": "https://www.aljazeera.com/news/2026/3/24/ice-agents-deployed-to-us-airports-which-airports-are-affected?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,12 +76,16 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan in the limelight as US, Iran ‘open backchannel’",
-        "link": "https://www.dawn.com/news/1984752/pakistan-in-the-limelight-as-us-iran-open-backchannel"
+        "title": "CERT warns ‘hostile actors’ could exploit supply chains to target national infrastructure",
+        "link": "https://www.dawn.com/news/1984857/cert-warns-hostile-actors-could-exploit-supply-chains-to-target-national-infrastructure"
       },
       {
         "title": "Sindh govt on high alert as PMD forecasts another rain spell starting tomorrow",
         "link": "https://www.dawn.com/news/1984831/sindh-govt-on-high-alert-as-pmd-forecasts-another-rain-spell-starting-tomorrow"
+      },
+      {
+        "title": "PSX gains over 1,200 points during intraday trade",
+        "link": "https://www.dawn.com/news/1984846/psx-gains-over-1200-points-during-intraday-trade"
       },
       {
         "title": "Pakistan ranked most polluted country in 2025, data shows",
@@ -84,10 +94,6 @@
       {
         "title": "KE appoints Syed Taha as new CEO, replacing interim head",
         "link": "https://www.dawn.com/news/1984838/ke-appoints-syed-taha-as-new-ceo-replacing-interim-head"
-      },
-      {
-        "title": "Silence not an option, says Canadian Sikh activist Moninder Singh after fresh threats",
-        "link": "https://www.dawn.com/news/1984832/silence-not-an-option-says-canadian-sikh-activist-moninder-singh-after-fresh-threats"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran police arrest three for 'spying on sensitive sites', local media reports",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-police-arrest-three-spying-sensitive-sites-local-media-reports"
+        "title": "Israeli air strikes hit Tyre in southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-hit-tyre-southern-lebanon"
       },
       {
-        "title": "Rocket attack kills six Kurdish Peshmerga fighters in Iraq's Kurdistan, sources say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rocket-attack-kills-six-kurdish-peshmerga-fighters-iraqs-kurdistan"
+        "title": "Iran Guards say will target Israel troops Palestinian, Lebanese civilians hit",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-guards-warn-israel-troops-could-be-targeted-if-gaza-civilians-hit"
       },
       {
-        "title": "Death toll from strikes on Iraq's Popular Mobilisation Forces reaches 15",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-strikes-iraqs-pmf-reach-15"
+        "title": "Bahrain says fire broke out at facility due to ‘criminal Iranian aggression’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-says-fire-broke-out-facility-due-criminal-iranian-aggression"
       },
       {
-        "title": "Iran says 'decentralised' electricity grid can be quickly restored after strikes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-decentralised-electricity-can-be-rebuilt-restored-after-strikes"
+        "title": "Opinion: War on Iran: How Israel is demolishing the myth that once shielded it",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-war-iran-how-israel-demolishing-myth-once-shielded-it"
       },
       {
-        "title": "Amazon says AWS' Bahrain region 'disrupted' following drone activity",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/amazon-says-aws-bahrain-region-disrupted-following-drone-activity"
+        "title": "War on Iran: How Israel is demolishing the myth that once shielded it",
+        "link": "https://www.middleeasteye.net/opinion/war-iran-how-israel-demolishing-myth-once-shielded-it"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles sends ‘deeply moving' personal letter for Pakistan amid crisis",
-        "link": "https://www.geo.tv/latest/656960-king-charles-sends-deeply-moving-personal-letter-for-pakistan-amid-crisis"
+        "title": "Princess Kate hints at ascension timeline amid King Charles cancer: 'soon'",
+        "link": "https://www.geo.tv/latest/656962-princess-kate-hints-at-ascension-timeline-amid-king-charles-cancer-soon"
       },
       {
-        "title": "Pakistan may host US-Iran talks this week as Trump shifts stance: report",
-        "link": "https://www.geo.tv/latest/656950-pakistan-may-host-us-iran-talks-this-week-as-trump-shifts-stance-report"
+        "title": "Louis Tomlinson announces How Did We Get Here? world tour Australia dates",
+        "link": "https://www.geo.tv/latest/656959-louis-tomlinson-announces-how-did-we-get-here-world-tour-australia-dates"
       },
       {
-        "title": "Warriors' Moses Moody suffers serious knee injury in OT win as team awaits X-ray results",
-        "link": "https://www.geo.tv/latest/656958-warriors-moses-moody-suffers-noncontact-left-knee-injury-in-ot-win-as-team-awaits-x-ray-results"
+        "title": "Kelly Osbourne, Sid Wilson call off engagement amid grief over Ozzy death",
+        "link": "https://www.geo.tv/latest/656964-kelly-osbourne-sid-wilson-call-off-engagement-amid-grief-over-ozzy-death"
       },
       {
-        "title": "Sarah Ferguson makes urgent statement on TV appearance bombshell",
-        "link": "https://www.geo.tv/latest/656956-sarah-ferguson-makes-urgent-statement-on-tv-appearance-bombshell"
+        "title": "Punjab 'mulls' extending school holidays, early market closures",
+        "link": "https://www.geo.tv/latest/656961-punjab-mulls-extending-school-holidays-early-market-closures"
       },
       {
-        "title": "Tommie Lee sparks romance rumors with Beyonce nephew, Julez",
-        "link": "https://www.geo.tv/latest/656957-tommie-lee-sparks-romance-rumors-with-solanges-son-julez"
+        "title": "Kim Kardashian, Lewis Hamilton spark buzz on Japan getaway",
+        "link": "https://www.geo.tv/latest/656963-kim-kardashian-lewis-hamilton-spark-buzz-on-japan-getaway"
       }
     ],
     "NDTV": [
       {
+        "title": "'Controllers Pushing Lines': Pilots' Concerns Over LaGuardia Ops Before Crash",
+        "link": "https://www.ndtv.com/world-news/air-canada-crash-new-york-airport-pilots-concerns-over-laguardia-ops-before-crash-controllers-pushing-lines-11258656#publisher=newsstand"
+      },
+      {
+        "title": "Parliament Budget Session 2026 LIVE: PM Modi To Address Rajya Sabha At 2 PM",
+        "link": "https://www.ndtv.com/india-news/parliament-budget-session-live-updates-prime-minister-narendra-modi-rajya-sabha-address-on-middle-east-conflict-us-israel-iran-war-11258594#publisher=newsstand"
+      },
+      {
+        "title": "US-Israel-Iran War Live Updates: Iran Says Energy Sites Attacked Day After Trump Announced 5-Day Pause",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand"
+      },
+      {
+        "title": "Scared Of Injections, Mumbai Girl Skips Rabies Shot After Dog Scratch, Dies 6 Months Later",
+        "link": "https://www.ndtv.com/mumbai-news/scared-of-injections-mumbai-girl-skips-rabies-shots-after-dog-scratch-dies-6-months-later-11258597#publisher=newsstand"
+      },
+      {
         "title": "'Denial Result Of Discrimination': Top Court On Permanent Commission To Women",
         "link": "https://www.ndtv.com/india-news/denial-consequence-of-discrimination-supreme-court-on-permanent-commission-to-women-officers-11258152#publisher=newsstand"
-      },
-      {
-        "title": "Suspend Air India Boeing Fleet Till Safety Audit: Petition In Top Court",
-        "link": "https://www.ndtv.com/india-news/suspend-air-india-boeing-fleet-till-safety-audit-petition-in-top-court-11258417#publisher=newsstand"
-      },
-      {
-        "title": "\"Driver Was Talented\": Lawyer Of Man In Viral Bengaluru Lamborghini Stunt Video",
-        "link": "https://www.ndtv.com/bangalore-news/driver-was-talented-lawyer-of-man-in-viral-bengaluru-lamborghini-stunt-video-ricky-rai-ex-don-son-11258404#publisher=newsstand"
-      },
-      {
-        "title": "Trump Shifts Onus Of Iran War On Pentagon Chief Pete Hegseth",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-trump-shifts-onus-of-iran-war-on-pentagon-chief-pete-hegseth-11257975#publisher=newsstand"
-      },
-      {
-        "title": "US Trashes Insider Trading Claim Over $580-Million Bet Before Trump Post",
-        "link": "https://www.ndtv.com/world-news/us-trashes-insider-trading-claim-over-580-million-bet-before-trump-post-11257985#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-24 08:08 UTC"
+  "last_updated": "2026-03-24 09:08 UTC"
 }
