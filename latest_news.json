@@ -3,27 +3,35 @@
   "news": {
     "BBC": [
       {
+        "title": "Meta and Google found liable in landmark social media addiction trial",
+        "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Doctors announce six-day strike in England as talks break down",
+        "link": "https://www.bbc.com/news/articles/c62j7jx910go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Teenage me could not have imagined this' says first female Archbishop of Canterbury",
+        "link": "https://www.bbc.com/news/articles/c20356v74k7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Ex-Google boss confirmed as new BBC director general",
         "link": "https://www.bbc.com/news/articles/cjd97evn2gko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "No 10 refuses to say if key Mandelson texts were lost when top aide's phone stolen",
-        "link": "https://www.bbc.com/news/articles/cvg09w1wvjqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Bravery medal recipient hugged armed man to stop him bombing hospital",
-        "link": "https://www.bbc.com/news/articles/c9q58xq9lxzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "'We are in agony' - Savannah Guthrie does first interview since mum's disappearance",
         "link": "https://www.bbc.com/news/articles/ckgxzlny4w3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "London Marathon considers two-day event in 2027",
-        "link": "https://www.bbc.com/sport/athletics/articles/cqxl8yn4gxwo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "What we know about US attack on Iraqi military site",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-us-attack-on-iraqi-military-site?traffic_source=rss"
+      },
+      {
+        "title": "Protest in India over cooking gas crisis",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/protest-in-india-over-cooking-gas-crisis?traffic_source=rss"
+      },
       {
         "title": "Deadly US attack on Iraqi military base sparks condemnation",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/deadly-us-attack-on-iraqi-military-base-sparks-condemnation?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Is war turning Tehran’s air into a chemical weapon?",
         "link": "https://www.aljazeera.com/video/the-take-2/2026/3/25/aje-onl-tt_irn_chemicalwarfare_av_v2-240326?traffic_source=rss"
-      },
-      {
-        "title": "Which teams can still qualify for the World Cup, and when are the playoffs?",
-        "link": "https://www.aljazeera.com/sports/2026/3/25/which-teams-can-still-qualify-for-the-world-cup-and-when-are-the-playoffs?traffic_source=rss"
-      },
-      {
-        "title": "Iran, Nigeria, and Africa’s oil dependency",
-        "link": "https://www.aljazeera.com/video/africa-now/2026/3/25/iran-nigeria-and-africas-oil-dependency?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +74,10 @@
         "link": "https://www.dawn.com/news/1985253/iran-rejects-us-proposal-lays-out-5-conditions-for-ending-war"
       },
       {
+        "title": "Imran’s son Kasim raises father’s case at UNHRC, decries his treatment in jail",
+        "link": "https://www.dawn.com/news/1985280/imrans-son-kasim-raises-fathers-case-at-unhrc-decries-his-treatment-in-jail"
+      },
+      {
         "title": "Pakistan has conveyed US proposal; Turkiye or Pakistan could host talks, senior Iranian official says",
         "link": "https://www.dawn.com/news/1985233/pakistan-has-conveyed-us-proposal-turkiye-or-pakistan-could-host-talks-senior-iranian-official-says"
       },
@@ -84,14 +88,14 @@
       {
         "title": "Mobile app-based fuel quota system finalised for motorcycles, rickshaws amid global oil crisis",
         "link": "https://www.dawn.com/news/1985206/mobile-app-based-fuel-quota-system-finalised-for-motorcycles-rickshaws-amid-global-oil-crisis"
-      },
-      {
-        "title": "Pakistan Medical and Dental Council says 10 universities offering unrecognised postgraduate programmes",
-        "link": "https://www.dawn.com/news/1985265/pakistan-medical-and-dental-council-says-10-universities-offering-unrecognised-postgraduate-programmes"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
+        "link": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html"
+      },
       {
         "title": "Cheap Drones Remain Wild Card in Iran war",
         "link": "https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html"
@@ -107,76 +111,72 @@
       {
         "title": "Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music",
         "link": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html"
-      },
-      {
-        "title": "Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.",
-        "link": "https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Russia evacuates more staff from Iran’s Bushehr nuclear plant",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-evacuates-more-staff-irans-bushehr-nuclear-plant"
+      },
+      {
+        "title": "Israel urges UN to designate Hezbollah as ‘terrorist’ group",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-urges-un-designate-hezbollah-terrorist-group"
+      },
+      {
+        "title": "Maritime organisation says 20,000 seafarers stranded as Hormuz disruption hits shipping",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-says-20000-seafarers-stranded-hormuz-disruption-hits-shipping"
+      },
+      {
+        "title": "France says Gulf damage cuts oil supply by 11 million barrels a day",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/france-says-gulf-damage-cuts-oil-supply-11-million-barrels-day"
+      },
+      {
         "title": "Oops, we have wrecked another country",
         "link": "https://www.middleeasteye.net/opinion/oops-we-have-wrecked-another-country"
-      },
-      {
-        "title": "Netanyahu says Israel expanding buffer zone in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-fm-says-trust-iran-completely-shattered"
-      },
-      {
-        "title": "Netanyahu aide's racist slurs about Mizrahi Jews spark outrage",
-        "link": "https://www.middleeasteye.net/news/netanyahu-aide-racist-slurs-mizrahi-jews-spark-outrage"
-      },
-      {
-        "title": "Gaza toddler released from Israeli custody with ‘cigarette burn’ wounds",
-        "link": "https://www.middleeasteye.net/news/gaza-toddler-released-israeli-custody-cigarette-burn-wounds"
-      },
-      {
-        "title": "Trump accuses 'Radical Left' of undermining ‘military achievement’ in Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-fm-calls-iran-attack-energy-sites-blatant-blackmail"
       }
     ],
     "GeoTV": [
       {
-        "title": "Royal family shares update as Prince Harry unveils UK plan",
-        "link": "https://www.geo.tv/latest/657198-royal-family-shares-update-as-prince-harry-unveils-uk-plan"
+        "title": "Cruz Beckham breaks down as he performs song about 'breaking mama's heart'",
+        "link": "https://www.geo.tv/latest/657200-cruz-beckham-breaks-down-on-stage-as-he-performs"
       },
       {
-        "title": "Graham Carey's partner Rachel Borthwick passes away in India after breast cancer battle",
-        "link": "https://www.geo.tv/latest/657197-graham-careys-partner-rachel-borthwick-passes-away-in-india-after-breast-cancer-battle"
+        "title": "Kylie Kelce stirs up Taylor Swift, Travis Kelce wedding buzz",
+        "link": "https://www.geo.tv/latest/657199-kylie-kelce-stirs-up-taylor-swift-travis-kelce-wedding-buzz"
       },
       {
-        "title": "Taylor Swift marks new football milestone amid Travis Kelce's NFL return",
-        "link": "https://www.geo.tv/latest/657187-taylor-swift-marks-new-football-milestone-amid-travis-kelces-nfl-return"
+        "title": "First Hajj flight to depart for Saudi Arabia on April 18",
+        "link": "https://www.geo.tv/latest/657201-first-hajj-flight-to-depart-for-saudi-arabia-on-april-18"
       },
       {
-        "title": "OpenAI shuts down Sora: Here's best alternative AI video generators",
-        "link": "https://www.geo.tv/latest/657195-openai-shuts-down-sora-heres-best-alternative-ai-video-generators"
+        "title": "Princess Kate, William steal spotlight as first female Archbishop enthroned",
+        "link": "https://www.geo.tv/latest/657194-princess-kate-william-steal-spotlight-as-first-female-archbishop-enthroned"
       },
       {
-        "title": "US-Iran 'broader talks' expected in Islamabad this weekend, says IAEA chief",
-        "link": "https://www.geo.tv/latest/657192-us-iran-broader-talks-expected-in-islamabad-this-weekend-says-iaea-chief"
+        "title": "No more school holidays: Punjab to resume academic session from April 1",
+        "link": "https://www.geo.tv/latest/657202-no-more-school-holidays-punjab-to-resume-academic-sessions-from-april-1"
       }
     ],
     "NDTV": [
       {
-        "title": "Ground Report: Memories Of 2021 Tragedy Haunt Elections In This Bengal Seat",
-        "link": "https://www.ndtv.com/india-news/west-bengal-elections-2026-ground-report-memories-of-2021-tragedy-haunt-elections-in-this-bengal-seat-11265194#publisher=newsstand"
+        "title": "India Does Not Have LPG Problem, It Has LOP Problem: Pralhad Joshi To NDTV",
+        "link": "https://www.ndtv.com/india-news/india-does-not-have-lpg-problem-it-has-lop-problem-pralhad-joshi-to-ndtv-11266478#publisher=newsstand"
       },
       {
-        "title": "S Jaishankar Said India Not \"Broker Country\" Like Pak: Sources On Iran Mediation",
+        "title": "S Jaishankar Said India Not \"Go-Between Country\" Like Pak: Sources On Iran Mediation",
         "link": "https://www.ndtv.com/india-news/iran-war-live-news-s-jaishankar-said-india-not-dalal-broker-country-like-pakistan-sources-on-iran-mediation-11265842#publisher=newsstand"
       },
       {
-        "title": "Iran Claims It Fired Cruise Missiles At US Aircraft Carrier Abraham Lincoln",
-        "link": "https://www.ndtv.com/world-news/iran-claims-it-fired-cruise-missiles-at-us-aircraft-carrier-abraham-lincoln-11266365#publisher=newsstand"
+        "title": "Parliament Passes Transgender Persons Amendment Bill",
+        "link": "https://www.ndtv.com/india-news/parliament-passes-transgender-persons-amendment-bill-11266677#publisher=newsstand"
       },
       {
-        "title": "Houses In Burj Khalifa Among Rs 1,700-Crore Assets Seized In Mahadev App Case",
-        "link": "https://www.ndtv.com/india-news/houses-in-burj-khalifa-among-rs-1-700-crore-assets-seized-in-mahadev-app-case-11266343#publisher=newsstand"
+        "title": "Central Armed Police Forces Bill Introduced In Rajya Sabha",
+        "link": "https://www.ndtv.com/india-news/central-armed-police-forces-bill-introduced-in-rajya-sabha-11266662#publisher=newsstand"
       },
       {
-        "title": "Rural India Will Shine When Renewable Energy Is Produced At Village Level: TERI Chief",
-        "link": "https://www.ndtv.com/india-news/moment-you-are-able-to-produce-renewable-energy-rural-india-is-going-to-shine-teri-chief-11265953#publisher=newsstand"
+        "title": "How Trump May Be Buying Time With \"Truce\" As US Troops Pour Into Middle East",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-how-donald-trump-may-be-buying-time-with-truce-as-us-troops-pour-into-middle-east-11266534#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-25 16:58 UTC"
+  "last_updated": "2026-03-25 18:03 UTC"
 }
