@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 900 Points, Nifty Up 300 As Oil Prices Drop",
+      "link": "https://www.ndtv.com/india-news/sensex-stock-market-share-market-nifty-live-updates-today-25-march-oil-price-iran-war-trump-gift-nifty-11262701#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Philippine president declares energy emergency as impact of Iran war felt",
-        "link": "https://www.aljazeera.com/news/2026/3/25/philippine-president-declares-energy-emergency-as-impact-of-iran-war-felt?traffic_source=rss"
+        "title": "US jury orders Meta to pay $375m for endangering children",
+        "link": "https://www.aljazeera.com/economy/2026/3/25/us-jury-orders-meta-to-pay-375m-for-endangering-children?traffic_source=rss"
       },
       {
-        "title": "Philippines declares national emergency as fuel supplies dwindle",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/philippines-declares-national-emergency-as-fuel-supplies-dwindle?traffic_source=rss"
+        "title": "What we know about the US’s 15-point plan Iran proposal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-the-uss-15-point-plan-iran-proposal?traffic_source=rss"
       },
       {
-        "title": "Indian police manage long lines as panic grows over fuel shortages",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/indian-police-manage-long-lines-as-panic-grows-over-fuel-shortages?traffic_source=rss"
+        "title": "US to send thousands of soldiers from 82nd Airborne Division to Middle East",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-to-send-thousands-of-soldiers-from-82nd-airborne-division-to-middle-east?traffic_source=rss"
       },
       {
-        "title": "Israeli and Palestinian mothers call for peace on barefoot walk",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/israeli-and-palestinian-mothers-call-for-peace-on-barefoot-walk?traffic_source=rss"
+        "title": "Iran says ‘non-hostile’ ships can pass safely through Strait of Hormuz",
+        "link": "https://www.aljazeera.com/economy/2026/3/25/iran-says-non-hostile-ships-can-pass-safely-through-strait-of-hormuz?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Trump again says talks under way; 12 killed in south Tehran",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/3/25/iran-war-live-trump-again-says-talks-underway-12-killed-in-south-tehran?traffic_source=rss"
+        "title": "Drone attack ignites fuel tank at Kuwait airport",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/drone-attack-ignites-fuel-tank-at-kuwait-airport?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,31 +76,39 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan stands ‘ready, honoured’ to host US-Iran talks, says PM Shehbaz",
-        "link": "https://www.dawn.com/news/1984912/pakistan-stands-ready-honoured-to-host-us-iran-talks-says-pm-shehbaz"
+        "title": "Islamabad offers to host US-Iran climbdown effort",
+        "link": "https://www.dawn.com/news/1985071/islamabad-offers-to-host-us-iran-climbdown-effort"
+      },
+      {
+        "title": "Pakistan joins UNSC in denouncing illegal Israeli settlements",
+        "link": "https://www.dawn.com/news/1985066/pakistan-joins-unsc-in-denouncing-illegal-israeli-settlements"
       },
       {
         "title": "Clerics from Pakistan, Afghanistan appeal to authorities to extend pause in fighting till Eidul Azha",
         "link": "https://www.dawn.com/news/1984967/clerics-from-pakistan-afghanistan-appeal-to-authorities-to-extend-pause-in-fighting-till-eidul-azha"
       },
       {
-        "title": "Pakistan’s petrol cargoes for March and April ‘largely secured’: finance ministry",
-        "link": "https://www.dawn.com/news/1984941/pakistans-petrol-cargoes-for-march-and-april-largely-secured-finance-ministry"
+        "title": "Fresh studies trace Mohenjo Daro’s urban roots to 3300 BC",
+        "link": "https://www.dawn.com/news/1985048/fresh-studies-trace-mohenjo-daros-urban-roots-to-3300-bc"
       },
       {
-        "title": "Several injured as Karachi-bound Tezgam Express derails near Punjab’s Lodhran: official",
-        "link": "https://www.dawn.com/news/1984957/several-injured-as-karachi-bound-tezgam-express-derails-near-punjabs-lodhran-official"
-      },
-      {
-        "title": "PTI decries ‘blatant violation of rights’ as Imran’s sisters again barred from meeting him at Adiala jail",
-        "link": "https://www.dawn.com/news/1984929/pti-decries-blatant-violation-of-rights-as-imrans-sisters-again-barred-from-meeting-him-at-adiala-jail"
+        "title": "In world first, antimatter taken on test drive at CERN",
+        "link": "https://www.dawn.com/news/1985104/in-world-first-antimatter-taken-on-test-drive-at-cern"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Flight 8646 to LaGuardia: From Routine Landing to Disaster in 20 Seconds",
-        "link": "https://www.nytimes.com/2026/03/24/nyregion/air-canada-laguardia-crash-investigation.html"
+        "title": "United States Said to Have Sent Iran a Plan to End the Middle East War",
+        "link": "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html"
+      },
+      {
+        "title": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html"
+      },
+      {
+        "title": "Senate Republicans Again Block Bid to Halt Iran War Without Authorization",
+        "link": "https://www.nytimes.com/2026/03/24/us/politics/senate-iran-war-vote.html"
       },
       {
         "title": "Air Canada Pilots Killed in LaGuardia Crash Were Early in Flying Careers",
@@ -103,83 +117,79 @@
       {
         "title": "LaGuardia Crash Tests New Port Authority Leader",
         "link": "https://www.nytimes.com/2026/03/24/nyregion/port-authority-laguardia-crash-firefighters.html"
-      },
-      {
-        "title": "United States Said to Have Sent Iran a Plan to End the Middle East War",
-        "link": "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html"
-      },
-      {
-        "title": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iraqi militia group claims 23 operations targeting 'enemy bases'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-militia-group-claims-23-operations-targeting-enemy-bases"
+        "title": "Iran military spokesman rejects negotiation claims",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-military-spokesman-rejects-negotiation-claims"
       },
       {
-        "title": "Washington's proposal to Iran outlines nuclear rollback, US media says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/washintons-proposal-iran-outlines-nuclear-rollback-us-media-says"
+        "title": "World facing biggest disruption to energy supplies in history, Canadian minister says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/world-facing-biggest-disruption-energy-supplies-history-canadian"
       },
       {
-        "title": "Air strike hits Tehran as missile intercepted in central Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/air-strike-hits-tehran-missile-intercepted-central-israel"
+        "title": "IRGC says new strikes mark 'beginning of targeting' Israeli forces in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-new-strikes-mark-beginning-targeting-israeli-forces-gaza"
       },
       {
-        "title": "Report: Trump does not rule out troop deployment in Iran, seizing Kharg Island",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-trump-does-not-rule-out-troops-deployment-iran-seizing-kharg"
+        "title": "Trump says 'this war has been won' as Iran denies any agreement",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-war-has-been-won-iran-denies-any-agreement"
       },
       {
-        "title": "Kuwait responding to missile and drone attacks, military says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-responding-missile-and-drone-attacks-military-says"
+        "title": "Shell CEO says fuel shortages may reach Europe next month",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/shell-ceo-says-fuel-shortages-may-reach-europe-next-month"
       }
     ],
     "GeoTV": [
       {
+        "title": "Beatrice, Eugenie's bold offer to William amid fear of losing royal homes",
+        "link": "https://www.geo.tv/latest/657096-beatrice-eugenies-bold-offer-to-william-amid-fear-of-losing-royal-homes"
+      },
+      {
+        "title": "Frankie Muniz shares how racing career stalled ‘Malcolm in the Middle' reboot",
+        "link": "https://www.geo.tv/latest/657094-frankie-muniz-shares-how-racing-career-stalled-malcolm-in-the-middle-reboot"
+      },
+      {
+        "title": "Pakistan's 'war' economy",
+        "link": "https://www.geo.tv/latest/657091-pakistans-war-economy"
+      },
+      {
+        "title": "Usher addresses claims he had fight with Justin Bieber at Oscars party",
+        "link": "https://www.geo.tv/latest/657089-usher-addresses-claim-he-had-a-fight-with-justin-bieber-at-oscars-party"
+      },
+      {
         "title": "Denise Richards addresses unexpected changes after recent facelift",
         "link": "https://www.geo.tv/latest/657087-denise-richards-addresses-unexpected-changes-after-recent-facelift"
-      },
-      {
-        "title": "Oil tumbles nearly 6% to $98.30 as Trump sends Iran peace plan, markets rally",
-        "link": "https://www.geo.tv/latest/657088-oil-tumbles-nearly-6-as-trump-sends-iran-peace-plan-markets-rally"
-      },
-      {
-        "title": "Abortion pill sales surge to record levels in US ban states as travel declines: study",
-        "link": "https://www.geo.tv/latest/657085-abortion-pill-prescriptions-surge-to-record-levels-in-us-ban-states-as-travel-declines-report"
-      },
-      {
-        "title": "OpenAI set to discontinue Sora amid preparations for stock market debut",
-        "link": "https://www.geo.tv/latest/657084-openai-set-to-discontinue-sora-amid-preparations-for-stock-market-debut"
-      },
-      {
-        "title": "JoJo Siwa reveals inspiration behind upcoming single ‘Serendipity'",
-        "link": "https://www.geo.tv/latest/657083-jojo-siwa-reveals-inspiration-behind-upcoming-single-serendipity"
       }
     ],
     "NDTV": [
       {
-        "title": "Inside Iran's \"Very Big\" Hormuz-Related Oil And Gas \"Present\" For Trump",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-inside-irans-very-big-hormuz-related-oil-and-gas-present-for-donald-trump-11262584#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 900 Points, Nifty Up 300 As Oil Prices Drop",
+        "link": "https://www.ndtv.com/india-news/sensex-stock-market-share-market-nifty-live-updates-today-25-march-oil-price-iran-war-trump-gift-nifty-11262701#publisher=newsstand"
       },
       {
-        "title": "US-Israel-Iran War Live Updates: US Sends 15-Point Plan To Iran To End War, Reopen Strait Of Hormuz: Report",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-iran-missile-strike-on-israel-iran-targets-israeli-nuclear-facility-dimona-arad-trump-warns-iran-strait-of-hormuz-diego-garcia-11249333#publisher=newsstand"
+        "title": "Video: Smoke, Fire As Iranian Drone Strikes Fuel Tank At Kuwait Airport",
+        "link": "https://www.ndtv.com/world-news/middle-east-war-smoke-fire-as-iranian-drone-strikes-fuel-tank-at-kuwait-airport-11262914#publisher=newsstand"
       },
       {
-        "title": "\"Trump Is Transactional, Doesn't Think Strategically\": Former US NSA",
-        "link": "https://www.ndtv.com/world-news/trump-is-transactional-doesnt-think-strategically-former-us-nsa-john-bolton-11262472#publisher=newsstand"
+        "title": "Once A Maoist Hotbed, Strawberries Now Bring Hope In Maharashtra's Gadchiroli",
+        "link": "https://www.ndtv.com/india-news/once-a-maoist-hotbed-strawberries-now-bring-hope-in-maharashtras-gadchiroli-11262906#publisher=newsstand"
       },
       {
-        "title": "\"We Have Won This, Militarily They Are Dead\": Trump On Iran War",
-        "link": "https://www.ndtv.com/world-news/we-have-won-this-militarily-they-are-dead-donald-trump-on-iran-war-11262432#publisher=newsstand"
+        "title": "War And Storm: Middle East's Worries Set To Be Compounded In Coming Days",
+        "link": "https://www.ndtv.com/world-news/us-iran-israel-war-dubai-rains-storm-middle-easts-worries-set-to-be-compounded-in-coming-days-11262899#publisher=newsstand"
       },
       {
-        "title": "Groundbreaking Event Of Maharashtra Bhavan Expansion Held In Mauritius",
-        "link": "https://www.ndtv.com/india-news/groundbreaking-event-of-maharashtra-bhavan-expansion-held-in-mauritius-11262405#publisher=newsstand"
+        "title": "Can You Still Trust Gold Or Are Trump's Mood Swings Turning It Into A Trap?",
+        "link": "https://www.ndtv.com/india-news/can-you-still-trust-gold-or-are-trumps-mood-swings-turning-it-into-a-trap-11262739#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation",
+        "link": "https://www.theguardian.com/culture/2026/mar/25/ebo-m-lion-king-circle-of-life-chant-learnmore-jonasi-lawsuit"
+      },
       {
         "title": "‘Extraordinary event’ for mountain gorillas as new twins born in DRC",
         "link": "https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe"
@@ -195,12 +205,8 @@
       {
         "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
         "link": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut"
-      },
-      {
-        "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
-        "link": "https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row"
       }
     ]
   },
-  "last_updated": "2026-03-25 02:24 UTC"
+  "last_updated": "2026-03-25 04:31 UTC"
 }
