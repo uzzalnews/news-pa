@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Iranians mark their New Year with anger, fear, and defiance",
+        "link": "https://www.bbc.com/news/articles/c1mkr19j84go?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Meta and YouTube found liable in landmark social media addiction trial",
         "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,17 @@
       {
         "title": "Calls for urgent inquiry into high street child abuse claims",
         "link": "https://www.bbc.com/news/articles/cevkg7k01j2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Teenage me could not have imagined this' says first female Archbishop of Canterbury",
-        "link": "https://www.bbc.com/news/articles/c20356v74k7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Mexico will continue accepting Cuban medical workers despite US pressure",
+        "link": "https://www.aljazeera.com/news/2026/3/25/mexico-will-continue-accepting-cuban-medical-workers-despite-us-pressure?traffic_source=rss"
+      },
+      {
+        "title": "Video shows Israeli strike hitting displacement camp in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/video-shows-israeli-strike-hitting-displacement-camp-in-gaza?traffic_source=rss"
+      },
       {
         "title": "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestine-weekly-wrap-west-bank-attacks-surge-israel-restricts-gaza-aid?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Barcelona hammer Real Madrid in Women’s Champions League quarterfinals",
         "link": "https://www.aljazeera.com/sports/2026/3/25/barcelona-hammer-real-madrid-in-womens-champions-league-quarterfinals?traffic_source=rss"
-      },
-      {
-        "title": "US investors bet big on Indian cricket with record billion-dollar IPL deals",
-        "link": "https://www.aljazeera.com/sports/2026/3/25/us-investors-bet-big-on-indian-cricket-with-record-billion-dollar-ipl-deals?traffic_source=rss"
-      },
-      {
-        "title": "UN adopts slavery resolution despite resistance",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/un-adopts-slavery-resolution-despite-resistance?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -105,15 +105,23 @@
         "link": "https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html"
       },
       {
-        "title": "Iran’s Attacks Force U.S. Troops to Work Remotely",
-        "link": "https://www.nytimes.com/2026/03/25/us/politics/iran-us-bases.html"
+        "title": "Asia Is Getting Crushed Between Oil Prices and the Dollar",
+        "link": "https://www.nytimes.com/2026/03/25/business/iran-war-dollar-rupee-won.html"
       },
       {
-        "title": "Trump Says He’s Talking With Iran. Iran Says He’s Not. Here’s Why.",
-        "link": "https://www.nytimes.com/2026/03/25/world/middleeast/trump-iran-talks-contradiction.html"
+        "title": "Iran’s Attacks Force U.S. Troops to Work Remotely",
+        "link": "https://www.nytimes.com/2026/03/25/us/politics/iran-us-bases.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli strikes kill three in southern Lebanon, injure several",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-three-southern-lebanon-injure-several"
+      },
+      {
+        "title": "Jordan says expelling Iranian diplomats sends clear message to Tehran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-says-expelling-iranian-diplomats-sends-clear-message-tehran-0"
+      },
       {
         "title": "Houthis reiterate support for Iran but will stay on the sidelines",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-reiterate-support-iran-will-stay-sidelines"
@@ -125,17 +133,13 @@
       {
         "title": "White House doubles down on Iran threats as Republican lawmakers retreat",
         "link": "https://www.middleeasteye.net/news/white-house-doubles-down-iran-threats-republican-lawmakers-retreat"
-      },
-      {
-        "title": "Jordan says expelling Iranian diplomats sends clear message to Tehran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-says-expelling-iranian-diplomats-sends-clear-message-tehran"
-      },
-      {
-        "title": "Pakistan will export surplus food to Gulf as Iran cements control of Hormuz strait",
-        "link": "https://www.middleeasteye.net/news/pakistan-will-export-surplus-food-gulf-iran-cements-control-strait-hormuz"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Trump to visit China in May after Iran war delay",
+        "link": "https://www.geo.tv/latest/657217-trump-to-visit-china-in-may-after-iran-war-delay"
+      },
       {
         "title": "Graham Norton reveals truth behind NDA for Taylor Swift, Travis Kelce wedding",
         "link": "https://www.geo.tv/latest/657215-graham-norton-reveals-truth-behind-nda-for-taylor-swift-travis-kelce-wedding"
@@ -151,10 +155,6 @@
       {
         "title": "Meryl Streep reveals Anne Hathaway's casting rule for ‘Devil Wears Prada 2'",
         "link": "https://www.geo.tv/latest/657212-meryl-streep-reveals-anne-hathaways-casting-rule-for-devil-wears-prada-2"
-      },
-      {
-        "title": "‘We respectfully disagree with the verdict,' Meta to appeal in child safety case",
-        "link": "https://www.geo.tv/latest/657211-we-respectfully-disagree-with-the-verdict-meta-to-appeal-in-child-safety-case"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-25 22:27 UTC"
+  "last_updated": "2026-03-25 23:04 UTC"
 }
