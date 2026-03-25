@@ -1,17 +1,23 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,500 Points, Nifty Up 400 As Oil Prices Drop",
+      "link": "https://www.ndtv.com/india-news/sensex-stock-market-share-market-nifty-live-updates-today-25-march-oil-price-iran-war-trump-gift-nifty-11262701#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Warning oil rise to $150 could trigger global recession",
-        "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "NHS waited two days before raising alarm about meningitis outbreak",
+        "title": "Hospital waited two days before raising alarm about meningitis outbreak",
         "link": "https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'He liked the fear in our eyes', Epstein survivors tell BBC",
+        "title": "Warning of global recession if oil price hits $150",
+        "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
         "link": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Russia, Ukraine tit-for-tat attacks knock out power for over half a million",
+        "link": "https://www.aljazeera.com/news/2026/3/25/russia-ukraine-tit-for-tat-attacks-knock-out-power-for-over-half-a-million?traffic_source=rss"
+      },
+      {
+        "title": "US talking to itself, says Iran as Trump claims wheels of diplomacy turning",
+        "link": "https://www.aljazeera.com/news/2026/3/25/us-talking-to-itself-says-iran-as-trump-claims-wheels-of-diplomacy-turning?traffic_source=rss"
+      },
+      {
+        "title": "‘Do not call your defeat an agreement’ IRGC warns US, Israel",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/do-not-call-your-defeat-an-agreement-irgc-warns-us-israel?traffic_source=rss"
+      },
+      {
         "title": "Iran’s new security boss Mohammad Zolghadr: Why his appointment matters",
         "link": "https://www.aljazeera.com/news/2026/3/25/irans-new-security-boss-mohammad-zolghadr-why-his-appointment-matters?traffic_source=rss"
       },
       {
         "title": "US-Israel war on Iran: What’s happening on day 26 of attacks?",
         "link": "https://www.aljazeera.com/news/2026/3/25/us-israel-war-on-iran-whats-happening-on-day-26-of-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Amid US-Israeli attacks, people in Iran struggle to survive ailing economy",
-        "link": "https://www.aljazeera.com/features/2026/3/25/amid-us-israeli-attacks-people-in-iran-struggle-to-survive-ailing-economy?traffic_source=rss"
-      },
-      {
-        "title": "As Iran war rocks global economy, Global South bears brunt of fallout",
-        "link": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss"
-      },
-      {
-        "title": "OpenAI pulls AI video app Sora as concerns grow on deepfake videos",
-        "link": "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,22 +88,18 @@
         "link": "https://www.dawn.com/news/1985157/pakistans-mediation-offer-reflects-growing-diplomatic-confidence-capitol-hill-symposium-told"
       },
       {
-        "title": "Railways minister says Tezgam Express derailment likely due to ‘mechanical and human error’",
-        "link": "https://www.dawn.com/news/1985160/railways-minister-says-tezgam-express-derailment-likely-due-to-mechanical-and-human-error"
+        "title": "Govt announces optional multi-tariff time of use mechanism for industrial consumers",
+        "link": "https://www.dawn.com/news/1985173/govt-announces-optional-multi-tariff-time-of-use-mechanism-for-industrial-consumers"
       },
       {
-        "title": "FO condemns harsh sentences awarded to Kashmiri leader Asiya Andrabi, associates by Delhi court",
-        "link": "https://www.dawn.com/news/1985165/fo-condemns-harsh-sentences-awarded-to-kashmiri-leader-asiya-andrabi-associates-by-delhi-court"
+        "title": "Railways minister says Tezgam Express derailment likely due to ‘mechanical and human error’",
+        "link": "https://www.dawn.com/news/1985160/railways-minister-says-tezgam-express-derailment-likely-due-to-mechanical-and-human-error"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "2,000 U.S. Troops From 82nd Airborne Division to Be Sent to Middle East",
-        "link": "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html"
-      },
-      {
-        "title": "United States Said to Have Sent Iran a Plan to End the Middle East War",
+        "title": "U.S. Said to Have Sent Iran a 15-Point Plan to End the Middle East War",
         "link": "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html"
       },
       {
@@ -111,72 +113,76 @@
       {
         "title": "Air Canada Pilots Killed in LaGuardia Crash Were Early in Flying Careers",
         "link": "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html"
+      },
+      {
+        "title": "LaGuardia Crash Tests New Port Authority Leader",
+        "link": "https://www.nytimes.com/2026/03/24/nyregion/port-authority-laguardia-crash-firefighters.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Strike on Iraqi base kills seven security personnel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/strike-iraqi-base-kills-seven-security-personnel"
+      },
+      {
+        "title": "Israeli raid in south Lebanon kills two, destroys home",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-raid-south-lebanon-kills-two-destroys-home"
+      },
+      {
+        "title": "Trump's stringent demands on Iran risk bogging down potential talks, sources say",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-stringent-demands-iran-risk-bogging-down-potential-talks-sources"
+      },
       {
         "title": "More than 5,000 Israelis injured since start of war, health ministry says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-5000-israelis-injured-start-war-health-ministry-says"
       },
       {
-        "title": "Nazi-era weapons maker Volkswagen eyes return to arms production, this time with Israel",
+        "title": "Volkswagen in talks to produce parts for Israel’s missile defence system, FT reports",
         "link": "https://www.middleeasteye.net/news/nazi-era-weapons-maker-volkswagen-eyes-return-arms-production-time-israel"
-      },
-      {
-        "title": "Israeli forces turn Palestinian homes into military bases",
-        "link": "https://www.middleeasteye.net/news/israeli-forces-turning-palestinian-homes-military-bases"
-      },
-      {
-        "title": "Video: Trump claims talks led him to delay strike on Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-trump-claims-talks-led-him-delay-strike-iran"
-      },
-      {
-        "title": "Iran says will 'absolutely' continue charging vessels for Hormuz passage",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-will-absolutely-continue-charging-vessels-hormuz-passage"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles pushes ahead with US trip: Details unveiled",
-        "link": "https://www.geo.tv/latest/657118-king-charles-pushes-ahead-with-us-trip-details-unveiled"
+        "title": "Prince Harry puts King Charles reunion at big risk with fiery statement",
+        "link": "https://www.geo.tv/latest/657125-prince-harry-puts-king-charles-reunion-at-big-risk-with-fiery-statement"
       },
       {
-        "title": "Zendaya 'The Drama' embroiled in controversy before April release",
-        "link": "https://www.geo.tv/latest/657120-zendayas-the-drama-embroiled-in-controversy-before-april-release"
+        "title": "Who is Emily Gregory? Democrat that flipped Mar-a-Lago from red to blue",
+        "link": "https://www.geo.tv/latest/657116-who-is-emily-gregory-democrat-that-flipped-mar-a-lago-from-red-to-blue"
       },
       {
-        "title": "Usher's take on Diddy is turning heads",
-        "link": "https://www.geo.tv/latest/657119-ushers-take-on-diddy-is-turning-heads"
+        "title": "Rahat, son honoured at UK Parliament as cross-border Bangla duet unveiled",
+        "link": "https://www.geo.tv/latest/657127-rahat-son-honoured-at-uk-parliament-as-cross-border-bangla-duet-unveiled"
       },
       {
-        "title": "Kerry Katona set for Spain move with Paolo, says family 'not all on board'",
-        "link": "https://www.geo.tv/latest/657106-kerry-katona-set-for-spain-move-with-paolo-says-family-not-all-on-board"
+        "title": "Princess Kate forced to act as Meghan triggers Palace with latest antics",
+        "link": "https://www.geo.tv/latest/657121-princess-kate-forced-to-act-as-meghan-triggers-palace-with-latest-antics"
       },
       {
-        "title": "Chappell Roan's ‘Hannah Montana' special appearance divides fans",
-        "link": "https://www.geo.tv/latest/657109-chappell-roans-hannah-montana-special-appearance-divides-fans"
+        "title": "'Heated Rivalry' soundtrack gets collectible vinyl editions",
+        "link": "https://www.geo.tv/latest/657124-heated-rivalry-soundtrack-gets-collectible-vinyl-editions"
       }
     ],
     "NDTV": [
       {
-        "title": "N Sitharaman to Push 53 Amendments to Finance Bill: How It Will Impact You",
-        "link": "https://www.ndtv.com/india-news/nirmala-sitharaman-to-push-53-amendments-to-finance-bill-how-it-will-impact-you-11263511#publisher=newsstand"
+        "title": "AIADMK Signals Aggressive Poll Push With First List, Retains Key Seats In NDA Deal",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-polls-2026-aiadmk-signals-aggressive-poll-push-with-first-list-retains-key-seats-in-nda-deal-11263939#publisher=newsstand"
       },
       {
-        "title": "Congress Gets Notice To Vacate Party Office On Akbar Road By Saturday: Sources",
-        "link": "https://www.ndtv.com/india-news/congress-gets-notice-to-vacate-party-office-in-delhis-akbar-road-by-saturday-march-28-say-sources-11262973#publisher=newsstand"
+        "title": "Iran Stops Pak-Bound Ship From Crossing Hormuz Over Lack Of Permission",
+        "link": "https://www.ndtv.com/world-news/iran-stops-pakistan-bound-ship-from-crossing-hormuz-over-lack-of-permission-11263831#publisher=newsstand"
       },
       {
-        "title": "\"Blanket Ban Not Appropriate\": Maharashtra Plans Social Media Policy For Minors",
-        "link": "https://www.ndtv.com/mumbai-news/maharashtra-to-draft-comprehensive-policy-on-social-media-use-by-minors-11263517#publisher=newsstand"
+        "title": "'Is This How You Treat A 4-year-Old Child?' Top Court Raps Gurugram Police In Rape Case",
+        "link": "https://www.ndtv.com/india-news/supreme-court-raps-gurugram-police-in-rape-case-is-this-how-you-treat-a-4-year-old-child-11263834#publisher=newsstand"
       },
       {
-        "title": "Trump's Approval Hits New Low As Fuel Prices Rise Amid Iran War: Poll",
-        "link": "https://www.ndtv.com/world-news/president-donald-trump-approval-hits-new-low-as-fuel-prices-rise-amid-iran-war-poll-middle-east-conflict-11263298#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,500 Points, Nifty Up 400 As Oil Prices Drop",
+        "link": "https://www.ndtv.com/india-news/sensex-stock-market-share-market-nifty-live-updates-today-25-march-oil-price-iran-war-trump-gift-nifty-11262701#publisher=newsstand"
       },
       {
-        "title": "US Woman Allegedly Kidnaps 11-Year-Old Autistic Son's Bully To Force Apology",
-        "link": "https://www.ndtv.com/world-news/us-woman-shannon-tufuga-allegedly-kidnaps-11-year-old-autistic-sons-bully-to-force-apology-11263002#publisher=newsstand"
+        "title": "Opinion: Opinion | In Data: How Minority Seats Could Decide Who Wins Kerala This Time",
+        "link": "https://www.ndtv.com/opinion/kerala-elections-how-minority-seats-could-decide-who-wins-kerala-this-time-11263835#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-25 07:42 UTC"
+  "last_updated": "2026-03-25 08:32 UTC"
 }
