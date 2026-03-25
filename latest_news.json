@@ -1,20 +1,14 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 900 Points, Nifty Up 300 As Oil Prices Drop",
-      "link": "https://www.ndtv.com/india-news/sensex-stock-market-share-market-nifty-live-updates-today-25-march-oil-price-iran-war-trump-gift-nifty-11262701#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Lyse Doucet: Small window open for US-Iran talks, but swift end to war still unlikely",
-        "link": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "NHS waited two days before raising alarm about meningitis outbreak",
         "link": "https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'He liked the fear in our eyes', Epstein survivors tell BBC",
+        "link": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'Wildy unaffordable': The harsh reality of shared ownership",
@@ -25,13 +19,17 @@
         "link": "https://www.bbc.com/news/articles/cn89g3ngkyzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Oil at $150 would trigger global recession, says boss of financial giant BlackRock",
-        "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss"
+        "title": "'It wasn't meant to end like this' - Salah exit tough but inevitable",
+        "link": "https://www.bbc.com/sport/football/articles/cq8wqq8neg1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "From Pakistan to Egypt, Iran war drives up fuel prices in the Global South",
+        "title": "Amid US-Israeli attacks, people in Iran struggle to survive ailing economy",
+        "link": "https://www.aljazeera.com/features/2026/3/25/amid-us-israeli-attacks-people-in-iran-struggle-to-survive-ailing-economy?traffic_source=rss"
+      },
+      {
+        "title": "From Pakistan to Egypt, Iran war drives up prices in Global South",
         "link": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss"
       },
       {
@@ -45,10 +43,6 @@
       {
         "title": "Thousands march to mark 50th anniversary of Argentina’s bloody coup",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/thousands-march-to-mark-50th-anniversary-of-argentinas-bloody-coup?traffic_source=rss"
-      },
-      {
-        "title": "New Zealand footballers willing to play Iran World Cup match outside US",
-        "link": "https://www.aljazeera.com/sports/2026/3/25/new-zealand-footballers-willing-to-play-iran-world-cup-match-outside-us?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,24 +74,28 @@
         "link": "https://www.dawn.com/news/1985150/trump-sends-peace-plan-as-iran-opens-strait-of-hormuz-to-non-hostile-oil-vessels"
       },
       {
+        "title": "PM Shehbaz hails Saudi Arabia’s ‘restraint’, stresses urgent need for de-escalation of ongoing Iran war",
+        "link": "https://www.dawn.com/news/1985161/pm-shehbaz-hails-saudi-arabias-restraint-stresses-urgent-need-for-de-escalation-of-ongoing-iran-war"
+      },
+      {
         "title": "Pakistan’s mediation offer reflects growing diplomatic confidence, Capitol Hill symposium told",
         "link": "https://www.dawn.com/news/1985157/pakistans-mediation-offer-reflects-growing-diplomatic-confidence-capitol-hill-symposium-told"
       },
       {
+        "title": "Railways minister attributes Tezgam Express derailment to likely ‘mechanical and human error’",
+        "link": "https://www.dawn.com/news/1985160/railways-minister-attributes-tezgam-express-derailment-to-likely-mechanical-and-human-error"
+      },
+      {
         "title": "Islamabad offers to host US-Iran climbdown effort",
         "link": "https://www.dawn.com/news/1985071/islamabad-offers-to-host-us-iran-climbdown-effort"
-      },
-      {
-        "title": "Pakistan joins UNSC in denouncing illegal Israeli settlements",
-        "link": "https://www.dawn.com/news/1985066/pakistan-joins-unsc-in-denouncing-illegal-israeli-settlements"
-      },
-      {
-        "title": "Clerics from Pakistan, Afghanistan appeal to authorities to extend pause in fighting till Eidul Azha",
-        "link": "https://www.dawn.com/news/1984967/clerics-from-pakistan-afghanistan-appeal-to-authorities-to-extend-pause-in-fighting-till-eidul-azha"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "2,000 U.S. Troops From 82nd Airborne Division to Be Sent to Middle East",
+        "link": "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html"
+      },
       {
         "title": "United States Said to Have Sent Iran a Plan to End the Middle East War",
         "link": "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html"
@@ -113,76 +111,72 @@
       {
         "title": "Air Canada Pilots Killed in LaGuardia Crash Were Early in Flying Careers",
         "link": "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html"
-      },
-      {
-        "title": "LaGuardia Crash Tests New Port Authority Leader",
-        "link": "https://www.nytimes.com/2026/03/24/nyregion/port-authority-laguardia-crash-firefighters.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran to allow 'non-hostile' ships through Hormuz, excludes US-linked vessels",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-allow-non-hostile-ships-through-hormuz-excludes-us-linked-vessels"
+        "title": "Former Qatari prime minister urges GCC role in US-Iran talks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-qatari-prime-minister-urges-gcc-role-us-iran-talks"
       },
       {
-        "title": "Fars: Iranian child dies from 'psychological shock ' after explosion",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fars-iranian-child-dies-psychological-shock-after-explosion"
+        "title": "Iran says 243 students and teachers killed as nearly 500 schools targeted",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-243-students-and-teachers-killed-nearly-500-schools-targeted"
       },
       {
-        "title": "China says disputes must be resolved through dialogue",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-says-disputes-must-be-resolved-through-dialogue"
+        "title": "Morning recap",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-136"
       },
       {
-        "title": "Iranian missile attacks intensify over Israel after brief lull",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-missile-attacks-intensify-over-israel-after-brief-lull"
+        "title": "Recap of todays events",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/recap-todays-events-0"
       },
       {
-        "title": "Iran military spokesman rejects negotiation claims",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-military-spokesman-rejects-negotiation-claims"
+        "title": "Iran war live: Israel says it will control bridges and area south of Lebanon’s Litani River",
+        "link": "https://www.middleeasteye.net/live/iran-war-live-israel-says-it-will-control-bridges-and-area-south-lebanons-litani-river"
       }
     ],
     "GeoTV": [
       {
-        "title": "Katie Price risks Dubai trip amid tensions leaving family 'worried sick'",
-        "link": "https://www.geo.tv/latest/657101-a"
+        "title": "Miley Cyrus reflects on Liam Hemsworth split as 'Hannah Montana' turns 20",
+        "link": "https://www.geo.tv/latest/657113-miley-cyrus-reflects-on-liam-hemsworth-split-as-hannah-montana-turns-20"
       },
       {
-        "title": "Princess Anne pays price for showing sympathy to Andrew Mountbatten-Windsor",
-        "link": "https://www.geo.tv/latest/657102-princess-anne-pays-price-for-showing-sympathy-to-andrew-mountbatten-windsor"
+        "title": "Andrew holds breath as King Charles plans bombshell move amid probe",
+        "link": "https://www.geo.tv/latest/657111-andrew-holds-breath-as-king-charles-plans-bombshell-move-amid-probe"
       },
       {
-        "title": "FO condemns sentencing of Kashmiri leader Asiya Andrabi, two others by Indian court",
-        "link": "https://www.geo.tv/latest/657103-fo-condemns-sentencing-of-kashmiri-leader-asiya-andrabi-two-others-by-indian-court"
+        "title": "Jay-Z excites fans with third Yankee stadium show: ‘Extra innings'",
+        "link": "https://www.geo.tv/latest/657100-jay-z-excites-fans-with-third-yankee-stadium-show-extra-innings"
       },
       {
-        "title": "New Zealand players willing to play World Cup opener against Iran outside US",
-        "link": "https://www.geo.tv/latest/657099-new-zealand-players-willing-to-play-world-cup-opener-against-iran-outside-us"
+        "title": "Reese Witherspoon's 50th birthday was pure Hollywood magic",
+        "link": "https://www.geo.tv/latest/657110-reese-witherspoons-50th-birthday-was-pure-hollywood-magic"
       },
       {
-        "title": "Jimin expresses gratitude after U.S. show as BTS ARMY brave cold weather",
-        "link": "https://www.geo.tv/latest/657093-jimin-expresses-gratitude-after-show-as-bts-army-brave-cold-weather"
+        "title": "In call with MBS, PM Shehbaz calls for 'end to hostilities and return to normalcy'",
+        "link": "https://www.geo.tv/latest/657105-in-call-with-mbs-pm-shehbaz-calls-for-end-to-hostilities-and-return-to-normalcy"
       }
     ],
     "NDTV": [
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 900 Points, Nifty Up 300 As Oil Prices Drop",
-        "link": "https://www.ndtv.com/india-news/sensex-stock-market-share-market-nifty-live-updates-today-25-march-oil-price-iran-war-trump-gift-nifty-11262701#publisher=newsstand"
+        "title": "60-Year-Old Gujarat Woman Killed For Jewellery Worth Rs 4.4 Lakh, Body Buried In Farm",
+        "link": "https://www.ndtv.com/india-news/60-year-old-gujarat-woman-killed-for-jewellery-worth-rs-4-4-lakh-body-buried-in-farm-11263245#publisher=newsstand"
       },
       {
-        "title": "Video: Smoke, Fire As Iranian Drone Strikes Fuel Tank At Kuwait Airport",
-        "link": "https://www.ndtv.com/world-news/middle-east-war-smoke-fire-as-iranian-drone-strikes-fuel-tank-at-kuwait-airport-11262914#publisher=newsstand"
+        "title": "What Happens If Oil Hits $150? BlackRock CEO Flags Risk Of Global Recession",
+        "link": "https://www.ndtv.com/india-news/what-happens-if-oil-hits-150-blackrock-ceo-flags-risk-of-global-recession-11263293#publisher=newsstand"
       },
       {
-        "title": "Once A Maoist Hotbed, Strawberries Now Bring Hope In Maharashtra's Gadchiroli",
-        "link": "https://www.ndtv.com/india-news/once-a-maoist-hotbed-strawberries-now-bring-hope-in-maharashtras-gadchiroli-11262906#publisher=newsstand"
+        "title": "Keep Hormuz Open, Drop Nukes: Inside Trump's 15-Point Plan To End Iran War",
+        "link": "https://www.ndtv.com/world-news/iran-war-us-sends-iran-a-15-point-plan-to-end-war-report-11262346#publisher=newsstand"
       },
       {
-        "title": "War And Storm: Middle East's Worries Set To Be Compounded In Coming Days",
-        "link": "https://www.ndtv.com/world-news/us-iran-israel-war-dubai-rains-storm-middle-easts-worries-set-to-be-compounded-in-coming-days-11262899#publisher=newsstand"
+        "title": "Congress Gets Notice To Vacate Party Office In Akbar Road By Saturday: Sources",
+        "link": "https://www.ndtv.com/india-news/congress-gets-notice-to-vacate-party-office-in-delhis-akbar-road-by-saturday-march-28-say-sources-11262973#publisher=newsstand"
       },
       {
-        "title": "Can You Still Trust Gold Or Are Trump's Mood Swings Turning It Into A Trap?",
-        "link": "https://www.ndtv.com/india-news/can-you-still-trust-gold-or-are-trumps-mood-swings-turning-it-into-a-trap-11262739#publisher=newsstand"
+        "title": "\"MBS Fighting With Us\": Trump's Big Claim As Iran War Rages On",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-mohammed-bin-salman-a-warrior-trump-signals-saudis-entry-in-iran-war-11262967#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-25 05:45 UTC"
+  "last_updated": "2026-03-25 06:44 UTC"
 }
