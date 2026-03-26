@@ -1,16 +1,14 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US Israel Iran War LIVE: Iran Rejects US War Pause Plan, Issues Counterproposal",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
         "title": "Is Trump any closer to an Iran exit strategy?",
         "link": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "National Savings and Investments bank set to pay millions to customers in compensation",
+        "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Meta and YouTube found liable in landmark social media addiction trial",
@@ -21,15 +19,19 @@
         "link": "https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "National Savings and Investments bank set to pay millions in compensation to customers",
-        "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "British forces preparing to board Russian shadow fleet ships in UK waters",
         "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US-Israel war on Iran: What’s happening on day 27 of attacks?",
+        "link": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks?traffic_source=rss"
+      },
+      {
+        "title": "In U-turn, UK police say Palestine Action protesters will be arrested again",
+        "link": "https://www.aljazeera.com/news/2026/3/26/in-u-turn-uk-police-say-palestine-action-protesters-will-be-arrested-again?traffic_source=rss"
+      },
       {
         "title": "Deaths and debts: Missiles in Gulf shake millions of South Asian families",
         "link": "https://www.aljazeera.com/features/2026/3/26/deaths-and-debts-missiles-in-gulf-shake-millions-of-south-asian-families?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "NBA owners vote to explore Seattle, Las Vegas expansion bids",
         "link": "https://www.aljazeera.com/sports/2026/3/26/nba-owners-vote-to-explore-seattle-las-vegas-expansion-bids?traffic_source=rss"
-      },
-      {
-        "title": "Netanyahu boasts about ‘breaking boundaries in every sense of the word’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/26/netanyahu-boasts-about-breaking-boundaries-in-every-sense-of-the-word?traffic_source=rss"
-      },
-      {
-        "title": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
-        "link": "https://www.aljazeera.com/economy/2026/3/26/oil-prices-rise-higher-as-iran-denies-us-talks-dimming-deescalation-hopes?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1985496/pm-shehbaz-highlights-pakistans-role-in-middle-east-de-escalation-in-meeting-with-chinese-envoy"
       },
       {
+        "title": "Social media platform X faces global outage not linked to country-level disruption: NetBlocks",
+        "link": "https://www.dawn.com/news/1985526/social-media-platform-x-faces-global-outage-not-linked-to-country-level-disruption-netblocks"
+      },
+      {
+        "title": "PSX loses over 2,000 points during intraday trade",
+        "link": "https://www.dawn.com/news/1985522/psx-loses-over-2000-points-during-intraday-trade"
+      },
+      {
         "title": "Trump plans May visit to China for talks with Xi after Iran war delay",
         "link": "https://www.dawn.com/news/1985501/trump-plans-may-visit-to-china-for-talks-with-xi-after-iran-war-delay"
-      },
-      {
-        "title": "Centre asks provinces to help shoulder fuel price burden",
-        "link": "https://www.dawn.com/news/1985421/centre-asks-provinces-to-help-shoulder-fuel-price-burden"
-      },
-      {
-        "title": "Heritage sites at risk of landing on Unesco ‘danger list’",
-        "link": "https://www.dawn.com/news/1985419/heritage-sites-at-risk-of-landing-on-unesco-danger-list"
       }
     ],
     "APNews": [],
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Hezbollah targets seven Israeli army tanks in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-targets-seven-israeli-army-tanks-southern-lebanon"
+        "title": "Iraqi Kurdish commander says there are no plans to invade Iran",
+        "link": "https://www.middleeasteye.net/news/iraqi-kurdish-commander-says-there-are-no-plans-invade-iran"
       },
       {
-        "title": "Third Iranian attack detected in Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/third-iranian-attack-detected-israel"
+        "title": "Israeli soldier killed in southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/one-israeli-soldier-killed-southern-lebanon"
       },
       {
-        "title": "Iran's Foreign Minister says no talks have taken place with US",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-says-no-talks-have-taken-place-us"
+        "title": "Drone targets Turkish-owned crude oil tanker in Black Sea",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-targets-turkish-owned-crude-oil-tanker-black-sea"
       },
       {
-        "title": "US-Israeli attack targets residential area in Bandar Abbas",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-attack-targets-residential-area-bandar-abbas"
+        "title": "Israel removes two Iranian officials from hit-list, Pakistani officials says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-removes-two-iranian-officials-hit-list-pakistani-officials-says"
       },
       {
-        "title": "Reports of injuries in Israel as second Iranian salvo detected in past 20 minutes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/second-iranian-salvo-detected-israel-past-30-minutes"
+        "title": "Hezbollah claims attack on Israel's Northern Command headquarter",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-attack-israels-northern-command-headquarter"
       }
     ],
     "GeoTV": [
       {
-        "title": "Edoardo's money troubles come to light as Beatrice faces big challenge",
-        "link": "https://www.geo.tv/latest/657246-edoardos-money-troubles-come-to-light-as-beatrice-faces-big-challenge"
+        "title": "'Proud' King Charles publicly supports Camilla: 'Stern message for Harry'",
+        "link": "https://www.geo.tv/latest/657247-proud-king-charles-publicly-supports-camilla-stern-message-for-harry"
       },
       {
-        "title": "Savannah Guthrie's tearful first Interview since mother's disappearance",
-        "link": "https://www.geo.tv/latest/657245-savannah-guthries-tearful-first-interview-since-mothers-disappearance"
+        "title": "Cillian Murphy comments on Taylor Swift's role in 'Peaky Blinders'",
+        "link": "https://www.geo.tv/latest/657248-cillian-murphy-comments-on-taylor-swifts-role-in-peaky-blinders"
       },
       {
-        "title": "Govt cuts development budget by 10%, mulls smart lockdown to tackle fuel crisis",
-        "link": "https://www.geo.tv/latest/657242-govt-cuts-development-budget-by-10-mulls-smart-lockdown-to-tackle-fuel-crisis"
+        "title": "Fact-check: Viral claim about government holding exams for journalists is false",
+        "link": "https://www.geo.tv/latest/657251-fact-check-viral-claim-about-govt-holding-exams-for-journalists-is-false"
       },
       {
-        "title": "Bus falls into river while boarding ferry in Bangladesh, leaving 24 dead",
-        "link": "https://www.geo.tv/latest/657241-bus-falls-into-river-while-boarding-ferry-in-bangladesh-leaving-24-dead"
+        "title": "Prince William, Kate represent future of royals at enthronement ceremony",
+        "link": "https://www.geo.tv/latest/657236-prince-william-kate-represent-future-of-royals-at-enthronement-ceremony"
       },
       {
-        "title": "‘Ben'? Jennifer Lopez's priceless reaction leaves fans talking",
-        "link": "https://www.geo.tv/latest/657243-ben-jennifer-lopezs-priceless-reaction-leaves-fans-talking"
+        "title": "Harry Styles fans divided over surprising discovery about singer",
+        "link": "https://www.geo.tv/latest/657244-harry-styles-fans-divided-over-surprising-discovery-about-singer"
       }
     ],
     "NDTV": [
       {
-        "title": "India, 5 Others On Iran's \"Friendly Nation\" List For Safe Hormuz Passage",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-strait-of-hormuz-open-for-friend-india-iran-amid-global-oil-crisis-11268022#publisher=newsstand"
+        "title": "India Taps Argentina, US For LPG Amid Iran War: Does The Math Work Out",
+        "link": "https://www.ndtv.com/india-news/iran-war-india-taps-argentina-us-for-lpg-amid-iran-war-does-the-math-work-out-11268494#publisher=newsstand"
       },
       {
-        "title": "Meta's Monkey Balancing: Executives Given Stock Options, Workers Laid Off",
-        "link": "https://www.ndtv.com/world-news/meta-dichotomy-invites-ire-stock-options-to-executives-lay-off-workers-facebook-11267964#publisher=newsstand"
+        "title": "Sonia Gandhi Responding Well To Treatment, Remains Under Observation: Delhi Hospital",
+        "link": "https://www.ndtv.com/india-news/sonia-gandhi-responding-well-to-treatment-remains-under-observation-delhi-hospital-11268565#publisher=newsstand"
       },
       {
-        "title": "US Troops Relocate To Hotels After Bases Attacked In Middle East: Report",
-        "link": "https://www.ndtv.com/world-news/us-troops-relocate-to-hotels-after-bases-attacked-in-middle-east-report-11268089#publisher=newsstand"
+        "title": "Family Dispute Turns Violent, Bengaluru Woman Attacked, Granddaughter Kidnapped",
+        "link": "https://www.ndtv.com/bangalore-news/family-dispute-turns-violent-younger-brother-attacks-bengaluru-woman-kidnaps-her-granddaughter-11268491#publisher=newsstand"
       },
       {
-        "title": "Bengaluru Driver Rams Autorickshaw Into Woman, Dumps Body On Way To Hospital",
-        "link": "https://www.ndtv.com/bangalore-news/bengaluru-driver-rams-autorickshaw-into-woman-dumps-body-on-way-to-hospital-11267645#publisher=newsstand"
+        "title": "Opinion: Opinion | Talking 'Peace', Moving Troops: What Does Trump Really Want From Iran?",
+        "link": "https://www.ndtv.com/opinion/iran-israel-war-talking-peace-moving-troops-what-does-trump-really-want-from-iran-11268456#publisher=newsstand"
       },
       {
-        "title": "US Israel Iran War LIVE: Iran Rejects US War Pause Plan, Issues Counterproposal",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
+        "title": "How \"Wrath Of Snake\" Threat Gave Nashik 'Godman' Trip To 21 Nations, Mercedes",
+        "link": "https://www.ndtv.com/india-news/ashok-kharat-astrologer-showed-snake-extorted-crores-mercedes-new-charge-against-nashik-godman-11268430#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-26 06:48 UTC"
+  "last_updated": "2026-03-26 07:50 UTC"
 }
