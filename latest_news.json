@@ -1,11 +1,18 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Spain vs Serbia – World Cup 2026 friendly",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/27/live-spain-vs-serbia-world-cup-2026-friendly?traffic_source=rss"
+    },
+    {
+      "source": "NDTV",
+      "title": "Iran War LIVE: Israel Warns Attacks On Iran 'Will Escalate And Expand'",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
-      {
-        "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
-        "link": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Why the geography of the Strait of Hormuz makes passing through it so risky",
         "link": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss"
@@ -21,9 +28,25 @@
       {
         "title": "'I'd never get anything done': Parents on limiting screen time for under-5s",
         "link": "https://www.bbc.com/news/articles/c1eqzqwxq8wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Afghan asylum seeker jailed for raping girl, 12",
+        "link": "https://www.bbc.com/news/articles/c4g4x2zyer2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "FBI director Kash Patel’s emails, photos hacked by Iran-linked group",
+        "link": "https://www.aljazeera.com/news/2026/3/27/fbi-director-kash-patels-emails-photos-hacked-by-iran-linked-group?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Spain vs Serbia – World Cup 2026 friendly",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/3/27/live-spain-vs-serbia-world-cup-2026-friendly?traffic_source=rss"
+      },
+      {
+        "title": "Russia declares protagonist of Oscar-winning documentary a ‘foreign agent’",
+        "link": "https://www.aljazeera.com/news/2026/3/27/russia-declares-protagonist-of-oscar-winning-documentary-a-foreign-agent?traffic_source=rss"
+      },
       {
         "title": "Is Europe heading to an energy crisis?",
         "link": "https://www.aljazeera.com/video/counting-the-cost/2026/3/27/is-europe-heading-to-an-energy-crisis?traffic_source=rss"
@@ -31,18 +54,6 @@
       {
         "title": "Meet the children left without parents under El Salvador’s emergency decree",
         "link": "https://www.aljazeera.com/news/longform/2026/3/27/meet-the-children-left-without-parents-under-el-salvadors-emergency-decree?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon faces ‘humanitarian catastrophe’ under Israeli assault: UN",
-        "link": "https://www.aljazeera.com/news/2026/3/27/lebanon-faces-humanitarian-catastrophe-under-israeli-assault-un?traffic_source=rss"
-      },
-      {
-        "title": "Nixon to Trump: Pakistan’s long record as backchannel between rival powers",
-        "link": "https://www.aljazeera.com/news/2026/3/27/nixon-to-trump-pakistans-long-record-as-backchannel-between-rival-powers?traffic_source=rss"
-      },
-      {
-        "title": "Norway to add more than $11bn to defence budget over 10 years",
-        "link": "https://www.aljazeera.com/news/2026/3/27/norway-to-add-more-than-11bn-to-defence-budget-over-10-years?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +81,8 @@
     ],
     "Dawn": [
       {
-        "title": "PM Shehbaz again rejects recommendation for increasing petrol, diesel prices",
-        "link": "https://www.dawn.com/news/1985954/pm-shehbaz-again-rejects-recommendation-for-increasing-petrol-diesel-prices"
+        "title": "PM Shehbaz again rejects increase in petrol, diesel prices",
+        "link": "https://www.dawn.com/news/1985954/pm-shehbaz-again-rejects-increase-in-petrol-diesel-prices"
       },
       {
         "title": "Centre, provinces agree on rolling out app-based fuel quota system for motorcycles, rickshaws",
@@ -82,12 +93,12 @@
         "link": "https://www.dawn.com/news/1985893/in-call-with-pm-kuwait-crown-prince-endorses-pakistans-efforts-to-mediate-between-us-and-iran"
       },
       {
-        "title": "China says US-Iran talks would help restore Hormuz transit, supports Pakistan as mediator",
-        "link": "https://www.dawn.com/news/1985906/china-says-us-iran-talks-would-help-restore-hormuz-transit-supports-pakistan-as-mediator"
+        "title": "Iran-linked hackers breach FBI Director Kash Patel’s personal email, publish excerpts online",
+        "link": "https://www.dawn.com/news/1985963/iran-linked-hackers-breach-fbi-director-kash-patels-personal-email-publish-excerpts-online"
       },
       {
-        "title": "PM says expanding scope of Roshan Digital Account to strengthen Pakistan as ‘attractive investment destination’",
-        "link": "https://www.dawn.com/news/1985925/pm-says-expanding-scope-of-roshan-digital-account-to-strengthen-pakistan-as-attractive-investment-destination"
+        "title": "China says US-Iran talks would help restore Hormuz transit, supports Pakistan as mediator",
+        "link": "https://www.dawn.com/news/1985906/china-says-us-iran-talks-would-help-restore-hormuz-transit-supports-pakistan-as-mediator"
       }
     ],
     "APNews": [],
@@ -115,46 +126,46 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Death toll in Lebanon from Israeli attacks rises to at least 1,142",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-lebanon-israeli-attacks-rises-1142"
+        "title": "War on Iran won’t require ground troops, US Secretary of State says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/war-iran-wont-require-ground-troops-us-secretary-state-says"
       },
       {
-        "title": "US only certain of having destroyed a third of Iran's missiles",
-        "link": "https://www.middleeasteye.net/news/us-only-certain-having-destroyed-third-irans-missiles"
+        "title": "Suez was the death knell for the British empire. Hormuz may do the same for the US",
+        "link": "https://www.middleeasteye.net/opinion/suez-sounded-death-knell-british-empire-hormuz-may-do-same-us"
       },
       {
-        "title": "Saudi Arabia and Ukraine sign defence procurement memorandum",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-and-ukraine-sign-defence-procurement-memorandum"
+        "title": "Pakistan easing regulation to boost food exports to Iran",
+        "link": "https://www.middleeasteye.net/news/pakistan-easing-regulation-boost-food-exports-iran"
       },
       {
-        "title": "Nato to set up new corps in Turkey as Ankara eyes regional deterrence",
-        "link": "https://www.middleeasteye.net/news/nato-set-up-new-corps-turkey-ankara-eyes-regional-deterrence"
+        "title": "US's Rubio tells G7 ministers Iran war should end in 'weeks, not months': Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-secretary-state-tells-g7-ministers-iran-war-should-end-weeks-report"
       },
       {
-        "title": "Israeli strike hits southern Beirut with no prior warning",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-hits-southern-beirut-no-prior-warning"
+        "title": "IRGC tells industrial companies allied with US, Israel to evacuate workplaces in region",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-tells-allies-us-and-israeli-industrial-companies-evacuate-workplaces"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince William reacts after receiving devastating news from US",
-        "link": "https://www.geo.tv/latest/657452-prince-william-reacts-after-receiving-devastating-news-from-us"
+        "title": "Fact-check: Kasim Khan did not call for revocation of Pakistan's GSP+ status in Geneva",
+        "link": "https://www.geo.tv/latest/657472-fact-check-kasim-khan-did-not-call-for-revocation-of-pakistans-gsp-status-in-geneva"
       },
       {
-        "title": "Andrew Garfield sparks controversy with 'Harry Potter' remarks",
-        "link": "https://www.geo.tv/latest/657466-andrew-garfield-sparks-controversy-with-harry-potter-remarks"
+        "title": "Palace issues statement as King Charles suffers 'disaster' moment",
+        "link": "https://www.geo.tv/latest/657469-palace-issues-statement-as-king-charles-suffers-disaster-moment"
       },
       {
-        "title": "Kash Patel's personal email hacked by Iran-linked group: See what data is leaked?",
-        "link": "https://www.geo.tv/latest/657463-kash-patels-personal-email-hacked-by-iran-linked-group-see-what-data-is-leaked"
+        "title": "Taylor Swift faces major setback after iHeartradio milestone",
+        "link": "https://www.geo.tv/latest/657467-taylor-swift-faces-major-setback-after-iheartradio-milestone"
       },
       {
-        "title": "Alysa Liu, Taylor Swift share iconic moment onstage at iHeartRadio Awards",
-        "link": "https://www.geo.tv/latest/657461-alysa-liu-taylor-swift-share-iconic-moment-onstage-at-iheartradio-awards"
+        "title": "Tom Felton pays heartfelt tribute to 'Harry Potter' costar Emma Watson",
+        "link": "https://www.geo.tv/latest/657465-tom-felton-pays-heartfelt-tribute-to-harry-potter-costar-emma-watson"
       },
       {
-        "title": "PM Shehbaz rejects summary to hike petrol, diesel prices, again",
-        "link": "https://www.geo.tv/latest/657458-middle-east-war-pm-shehbaz-addresses-nation-amid-fuel-crisis"
+        "title": "Saudi Arabia, Ukraine sign air defence deal: officials",
+        "link": "https://www.geo.tv/latest/657468-saudi-arabia-ukraine-signed-air-defence-deal-officials"
       }
     ],
     "NDTV": [
@@ -163,20 +174,20 @@
         "link": "https://www.ndtv.com/india-news/iran-war-live-news-ensure-supplies-work-as-team-india-pm-modi-to-chief-ministers-on-gulf-crisis-11276004#publisher=newsstand"
       },
       {
+        "title": "China Used Fake LinkedIn Profiles To Spy On NATO, EU: Report",
+        "link": "https://www.ndtv.com/who-said-what/china-used-fake-linkedin-profiles-to-spy-on-nato-eu-report-11276099#publisher=newsstand"
+      },
+      {
+        "title": "'Harassed By Wife, In-Laws': Pune Man, 20, Poisons Himself, Records Video",
+        "link": "https://www.ndtv.com/india-news/harassed-by-wife-in-laws-pune-man-20-poisons-himself-records-video-11276083#publisher=newsstand"
+      },
+      {
+        "title": "Iran War LIVE: Israel Warns Attacks On Iran 'Will Escalate And Expand'",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
+      },
+      {
         "title": "Anti-Drone Systems, AI-Powered CCTV: Noida Airport's Multi-Layered Defence",
         "link": "https://www.ndtv.com/india-news/anti-drone-systems-ai-powered-cctv-noida-airports-multi-layered-defence-11276000#publisher=newsstand"
-      },
-      {
-        "title": "Pilots Have Final Say: VVIP Flight Rules Tightened After Ajit Pawar Crash",
-        "link": "https://www.ndtv.com/india-news/pilots-have-final-say-vvip-flight-rules-tightened-after-ajit-pawar-crash-11275875#publisher=newsstand"
-      },
-      {
-        "title": "Pics: Inside Noida International Airport Ahead Of Inauguration By PM Modi",
-        "link": "https://www.ndtv.com/india-news/pm-modi-to-inaugurate-noida-international-airport-tomorrow-11275757#publisher=newsstand"
-      },
-      {
-        "title": "Congress Rebels To Contest Against Allies DMK, VCK In 6 Puducherry Seats",
-        "link": "https://www.ndtv.com/india-news/puducherry-assembly-elections-2026-congress-rebels-to-contest-against-allies-dmk-vck-in-6-puducherry-seats-11275833#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-27 16:30 UTC"
+  "last_updated": "2026-03-27 17:29 UTC"
 }
