@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Iran War LIVE: Israel Warns Attacks On Iran 'Will Escalate And Expand'",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran says projectile hit near Bushehr nuclear power plant",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-projectile-hit-near-bushehr-nuclear-power-plant"
+      },
+      {
         "title": "Water production plant, industrial facility hit in Iran, IAEA says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/water-production-plant-industrial-facility-hit-iran-international-atomic"
       },
@@ -135,13 +133,13 @@
       {
         "title": "US special envoy Witkoff says US hopeful of meetings with Iran soon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-special-envoy-witkoff-says-us-hopeful-meetings-iran-soon"
-      },
-      {
-        "title": "US-Israeli attack kills two in Firouzabad, Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-firouzabad-iran"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Mentor calls Ryan Gosling to ‘Days of Our Lives' set",
+        "link": "https://www.geo.tv/latest/657495-mentor-calls-ryan-gosling-to-days-of-our-lives-set"
+      },
       {
         "title": "Jessica Alba gets creative with her pants in new video",
         "link": "https://www.geo.tv/latest/657493-jessica-alba-gets-creative-with-her-pants-in-new-video"
@@ -157,32 +155,28 @@
       {
         "title": "Backstreet Boys AJ McLean shows support to Britney Spears after DUI arrest",
         "link": "https://www.geo.tv/latest/657470-backstreet-boys-aj-mclean"
-      },
-      {
-        "title": "Molly Mae Hague renovates £5million mansion ahead of second baby",
-        "link": "https://www.geo.tv/latest/657479-molly-mae-hague-renovates"
       }
     ],
     "NDTV": [
       {
-        "title": "US Hopes For Iran Meetings \"This Week\" To End Month-Long War: Trump Envoy",
-        "link": "https://www.ndtv.com/world-news/us-hopes-for-iran-meetings-this-week-to-end-month-long-war-trump-envoy-steve-witkoff-11276770#publisher=newsstand"
-      },
-      {
-        "title": "Tiger Woods Involved In Car Crash In Florida: Report",
-        "link": "https://www.ndtv.com/world-news/golf-legend-tiger-woods-involved-in-car-crash-in-florida-news-agency-afp-11276699#publisher=newsstand"
+        "title": "Russia To Ban Gasoline Exports From April 1 To Prioritise Domestic Supply",
+        "link": "https://www.ndtv.com/world-news/russia-to-ban-gasoline-exports-from-april-1-to-prioritise-domestic-supply-11276825#publisher=newsstand"
       },
       {
         "title": "Musk Joined PM Modi-Trump Phone Call To Discuss US-Israel War Against Iran",
         "link": "https://www.ndtv.com/world-news/elon-musk-joined-phone-call-between-pm-modi-and-us-president-donald-trump-to-discuss-iran-war-news-agency-reuters-11276659#publisher=newsstand"
       },
       {
-        "title": "More Than 400 Hezbollah Fighters Killed In War With Israel So Far: Report",
-        "link": "https://www.ndtv.com/world-news/iran-war-more-than-400-hezbollah-fighters-killed-in-war-with-israel-so-far-report-11276632#publisher=newsstand"
+        "title": "Tiger Woods Arrested For Driving Under Influence After Florida Crash",
+        "link": "https://www.ndtv.com/world-news/golf-legend-tiger-woods-involved-in-car-crash-in-florida-news-agency-afp-11276699#publisher=newsstand"
       },
       {
-        "title": "Iran War LIVE: Israel Warns Attacks On Iran 'Will Escalate And Expand'",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
+        "title": "US Hopes For Iran Meetings \"This Week\" To End Month-Long War: Trump Envoy",
+        "link": "https://www.ndtv.com/world-news/us-hopes-for-iran-meetings-this-week-to-end-month-long-war-trump-envoy-steve-witkoff-11276770#publisher=newsstand"
+      },
+      {
+        "title": "More Than 400 Hezbollah Fighters Killed In War With Israel So Far: Report",
+        "link": "https://www.ndtv.com/world-news/iran-war-more-than-400-hezbollah-fighters-killed-in-war-with-israel-so-far-report-11276632#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-27 21:55 UTC"
+  "last_updated": "2026-03-27 22:33 UTC"
 }
