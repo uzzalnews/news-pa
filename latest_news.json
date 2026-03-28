@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Noida International Airport Inauguration LIVE: PM Modi Arrives At Noida International Airport Ahead Of Inauguration",
+      "link": "https://www.ndtv.com/india-news/noida-international-airport-inauguration-live-updates-pm-narendra-modi-yogi-adityanath-jewar-airport-opening-today-flights-schedule-traffic-advisory-11277332#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Iran War LIVE: 5 Indian Nationals Injured In Missile Debris In Abu Dhabi",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,23 +18,27 @@
         "link": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "How Trump and the oil markets move in sync: a tango in six charts",
-        "link": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss"
+        "title": "Agent begged Epstein to have sex with model, emails show",
+        "link": "https://www.bbc.com/news/articles/cm2kn7nj00ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Woods bailed after arrest following crash",
+        "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'He would have been horrified' - error in drug warnings 'misled' families",
         "link": "https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Woods mugshot released after driving under influence charges laid",
-        "link": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Agent begged Epstein to have sex with model, emails show",
-        "link": "https://www.bbc.com/news/articles/cm2kn7nj00ro?at_medium=RSS&at_campaign=rss"
+        "title": "How Trump and the oil markets move in sync: a tango in six charts",
+        "link": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘She left her body’: A mother’s fight against her daughter’s anorexia",
+        "link": "https://www.aljazeera.com/features/longform/2026/3/28/she-left-her-body-a-mothers-fight-against-her-daughters-anorexia?traffic_source=rss"
+      },
       {
         "title": "Israel’s unending attacks in Lebanon push country’s population to the brink",
         "link": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss"
@@ -39,10 +54,6 @@
       {
         "title": "Trump says ‘Cuba is next’ target of US military",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-cuba-is-next-target-of-us-military?traffic_source=rss"
-      },
-      {
-        "title": "How mothers raise newborn babies during Israel’s offensive in Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/how-mothers-raise-newborn-babies-during-israels-offensive-in-lebanon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +85,10 @@
         "link": "https://www.dawn.com/news/1986184/imf-pakistan-reach-staff-level-agreement-unlocking-12bn-tranche"
       },
       {
+        "title": "US Congress panel demands full public hearing on Iran war as concerns mount",
+        "link": "https://www.dawn.com/news/1986203/us-congress-panel-demands-full-public-hearing-on-iran-war-as-concerns-mount"
+      },
+      {
         "title": "Provinces look to avoid fuel subsidy burden",
         "link": "https://www.dawn.com/news/1986134/provinces-look-to-avoid-fuel-subsidy-burden"
       },
@@ -84,10 +99,6 @@
       {
         "title": "Tiger Woods arrested, charged with DUI after Florida crash",
         "link": "https://www.dawn.com/news/1986198/tiger-woods-arrested-charged-with-dui-after-florida-crash"
-      },
-      {
-        "title": "Pakistan eases trade rules with Iran",
-        "link": "https://www.dawn.com/news/1986111/pakistan-eases-trade-rules-with-iran"
       }
     ],
     "APNews": [],
@@ -115,7 +126,15 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Yemen's Houthis warn the US and Israel against using Red Sea in attacks",
+        "title": "Kuwait oil price rises above $118 amid Hormuz tensions",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-oil-price-rises-above-118-amid-hormuz-tensions"
+      },
+      {
+        "title": "Israelis rushed to shelters 18 times overnight, local media says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israelis-rushed-shelters-18-times-overnight-local-media-says"
+      },
+      {
+        "title": "Yemen's Houthis warn US and Israel against using Red Sea in attacks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-warn-us-and-israel-against-using-red-sea-attacks"
       },
       {
@@ -125,58 +144,50 @@
       {
         "title": "Thailand reaches deal with Iran to allow Hormuz oil transit, PM says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/thailand-reaches-iran-deal-allow-hormuz-oil-transit-pm-says"
-      },
-      {
-        "title": "Pakistan says holding 'detailed discussions' with leaders in Iran and Gulf",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-holding-detailed-discussions-leaders-iran-and-gulf"
-      },
-      {
-        "title": "First MSF medical aid shipment reaches Iran via Turkey, local media reports",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/first-msf-medical-aid-shipment-reaches-iran-turkey-local-media-reports"
       }
     ],
     "GeoTV": [
       {
-        "title": "Sarah Ferguson's close friend breaks silence on living situation claims",
-        "link": "https://www.geo.tv/latest/657516-sarah-fergusons-close-friend-breaks-silence-on-living-situation-claims"
+        "title": "Meghan Markle makes bold demands as fresh crisis follows Netflix fallout",
+        "link": "https://www.geo.tv/latest/657525-meghan-markle-makes-bold-demands-as-fresh-crisis-follows-netflix-fallout"
       },
       {
-        "title": "Which key Iranian figures have been assassinated in US-Israeli strikes?",
-        "link": "https://www.geo.tv/latest/657513-which-key-iranian-figures-have-been-assassinated-in-us-israeli-strikes"
+        "title": "PSL franchise owners urge PM Shehbaz to allow fans back into stadiums",
+        "link": "https://www.geo.tv/latest/657520-psl-franchise-owners-urge-pm-shehbaz-to-allow-fans-back-into-stadiums"
       },
       {
-        "title": "An escalation trap?",
-        "link": "https://www.geo.tv/latest/657509-an-escalation-trap"
+        "title": "Millions angry with Trump expected to fill American streets",
+        "link": "https://www.geo.tv/latest/657519-millions-angry-with-trump-expected-to-fill-american-streets"
       },
       {
-        "title": "‘Pizza Movie' promo sparks debate over ‘Marty Supreme' similarities",
-        "link": "https://www.geo.tv/latest/657515-pizza-movie-promo-sparks-debate-over-marty-supreme-similarities"
+        "title": "Senator Mushahid Hussain, ex-Israeli general clash over 'Greater Israel' plans in TV show",
+        "link": "https://www.geo.tv/latest/657514-senator-mushahid-hussain-ex-israeli-general-clash-over-greater-israel-plans-in-tv-show"
       },
       {
-        "title": "'Strait of Trump': US president says Iran must open key waterway",
-        "link": "https://www.geo.tv/latest/657510-strait-of-trump-us-president-says-iran-must-open-key-waterway"
+        "title": "Tiger Woods' DUI mugshot shows eyes appear bloodshot: Here's what we know",
+        "link": "https://www.geo.tv/latest/657517-tiger-woods-dui-mugshot-shows-bloodshot-eyes"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Either Dead Or In Very Bad Shape\": Trump On Mojtaba Khamenei",
-        "link": "https://www.ndtv.com/world-news/supreme-leader-no-longer-supreme-president-donald-trump-claims-irans-new-supreme-leader-ayatollah-mojtaba-khamenei-is-dead-11277460#publisher=newsstand"
+        "title": "1 Month On, Where US-Israel War On Iran Stands And What It Cost So Far",
+        "link": "https://www.ndtv.com/world-news/iran-war-1-month-on-where-us-israel-war-on-iran-stands-and-what-it-cost-so-far-11277624#publisher=newsstand"
       },
       {
-        "title": "\"I Really Believe I Am A Peacemaker\": Trump On His Legacy",
-        "link": "https://www.ndtv.com/world-news/i-really-believe-i-am-a-peacemaker-president-donald-trump-on-his-legacy-11277654#publisher=newsstand"
+        "title": "Noida International Airport Inauguration LIVE: PM Modi Arrives At Noida International Airport Ahead Of Inauguration",
+        "link": "https://www.ndtv.com/india-news/noida-international-airport-inauguration-live-updates-pm-narendra-modi-yogi-adityanath-jewar-airport-opening-today-flights-schedule-traffic-advisory-11277332#publisher=newsstand"
       },
       {
-        "title": "Close Fights Fade As Decisive Victories Rise In Bengal Polls",
-        "link": "https://www.ndtv.com/india-news/close-fights-fade-as-decisive-victories-rise-in-bengal-polls-11277652#publisher=newsstand"
+        "title": "Man Dies After Speeding Car Hits Bicycle In Thane. He Began Cycling That Day",
+        "link": "https://www.ndtv.com/india-news/man-dies-after-speeding-car-hits-bicycle-in-thane-he-began-cycling-that-day-11277824#publisher=newsstand"
       },
       {
-        "title": "Professor At Bengaluru University Accused Of Calling Student \"Terrorist\", Suspended",
-        "link": "https://www.ndtv.com/india-news/professor-at-bengalurus-pes-university-allegedly-calls-student-terrorist-suspended-11277549#publisher=newsstand"
+        "title": "Noida Airport's First Phase Launched. When Will First Flight Take Off?",
+        "link": "https://www.ndtv.com/india-news/noida-airports-first-phase-launched-when-will-first-flight-take-off-11277819#publisher=newsstand"
       },
       {
-        "title": "US Troops Injured At Saudi Base, Iran's Nuclear Sites Hit As War Enters 2nd Month",
-        "link": "https://www.ndtv.com/world-news/iran-war-irans-nuclear-sites-hit-us-troops-injured-at-saudi-arabia-prince-sultan-air-base-base-as-war-enters-2nd-month-11277469#publisher=newsstand"
+        "title": "Iran War LIVE: 5 Indian Nationals Injured In Missile Debris In Abu Dhabi",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-28 06:08 UTC"
+  "last_updated": "2026-03-28 07:13 UTC"
 }
