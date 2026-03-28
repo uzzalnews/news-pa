@@ -11,12 +11,12 @@
         "link": "https://www.bbc.com/news/articles/cm2kn7nj00ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Parkinson's drugs warnings review after some patients 'misled' over impulsive side effects",
-        "link": "https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Another car crash and another arrest - what now for Tiger Woods?",
         "link": "https://www.bbc.com/sport/golf/articles/cn5322p5k99o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Parkinson's drugs warnings review after some patients 'misled' over impulsive side effects",
+        "link": "https://www.bbc.com/news/articles/ckg0xxwn041o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Drone footage shows huge fire engulf historic mill",
@@ -24,6 +24,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour",
+        "link": "https://www.aljazeera.com/news/2026/3/28/zelenskyy-signs-air-defence-deals-with-uae-qatar-on-gulf-tour?traffic_source=rss"
+      },
+      {
+        "title": "Senegal parade AFCON trophy, despite title being awarded to Morocco",
+        "link": "https://www.aljazeera.com/sports/2026/3/28/senegal-parade-afcon-trophy-despite-title-being-awarded-to-morocco?traffic_source=rss"
+      },
       {
         "title": "Israeli forces intensify attacks on Beirut",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/israeli-forces-intensify-attacks-on-beirut?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "One month in, disapproval high but US lawmakers take no action on Iran war",
         "link": "https://www.aljazeera.com/news/2026/3/28/one-month-in-disapproval-high-but-us-lawmakers-take-no-action-on-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "Morocco claims AFCON case closed, despite Senegal appeals to CAF and CAS",
-        "link": "https://www.aljazeera.com/sports/2026/3/28/morocco-claims-afcon-case-closed-despite-senegal-appeals-to-caf-and-cas?traffic_source=rss"
-      },
-      {
-        "title": "At least 22 migrants die off Greece after 6 days at sea",
-        "link": "https://www.aljazeera.com/news/2026/3/28/at-least-22-migrants-die-off-greece-after-6-days-at-sea?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -109,11 +109,15 @@
         "link": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
       },
       {
-        "title": "Hegseth Criticized for Removing Four Officers From Promotion List",
-        "link": "https://www.nytimes.com/2026/03/27/us/politics/hegseth-generals-promotion.html"
+        "title": "A Challenge for ‘No Kings’ Protests, the Third Time Around",
+        "link": "https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "'Down with the king': Death of Bahraini in custody sparks angry dissent",
+        "link": "https://www.middleeasteye.net/news/down-king-death-bahraini-custody-sparks-angry-dissent"
+      },
       {
         "title": "UAE aluminium firm reports damage and injuries from Iranian attack",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-aluminium-firm-reports-damage-and-injuries-iranian-attack"
@@ -129,13 +133,17 @@
       {
         "title": "Iranian attack on US base in Saudi Arabia wounds troops and damages aircraft",
         "link": "https://www.middleeasteye.net/news/iranian-attack-us-base-saudi-arabia-wounds-troops-and-damages-aircraft"
-      },
-      {
-        "title": "Russia's Rosatom: Attacks at Iranian plant 'pose threat to nuclear safety'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russias-rosatom-attacks-iranian-plant-pose-threat-nuclear-safety"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince William lands in trouble after shocking claims: 'double standards'",
+        "link": "https://www.geo.tv/latest/657600-prince-william-lands-in-trouble-after-shocking-claims-double-standards"
+      },
+      {
+        "title": "'Jujutsu Kaisen' season 4 release date confirmed for 2027",
+        "link": "https://www.geo.tv/latest/657601-jujutsu-kaisen-season-4-release-date-confirmed-for-2027"
+      },
       {
         "title": "Niall Horan drops bombshell about pal Taylor Swift, Travis Kelce wedding",
         "link": "https://www.geo.tv/latest/657594-niall-horan-drops-bombshell-about-pal-taylor-swift-travis-kelce-wedding"
@@ -147,14 +155,6 @@
       {
         "title": "Artemis II: Why NASA is returning to Moon after five decades?",
         "link": "https://www.geo.tv/latest/657596-artemis-ii-why-nasa-is-returning-to-moon-after-five-decades"
-      },
-      {
-        "title": "Beatrice, Edoardo Mapelli Mozzi celebrate family milestone amid chaos",
-        "link": "https://www.geo.tv/latest/657595-beatrice-edoardo-mapelli-mozzi-celebrate-family-milestone-amid-chaos"
-      },
-      {
-        "title": "John Mayer, Kat Stickler part ways after 'serious' relationship",
-        "link": "https://www.geo.tv/latest/657588-john-mayer-kat-stickler-part-ways-after-serious-relationship"
       }
     ],
     "NDTV": [
@@ -163,20 +163,20 @@
         "link": "https://www.ndtv.com/world-news/iran-war-news-strikes-kuwait-port-claims-multiple-us-troops-killed-vessels-sunk-11279474#publisher=newsstand"
       },
       {
+        "title": "Suspected Bomb Attack Outside Bank Of America Building In Paris Foiled",
+        "link": "https://www.ndtv.com/world-news/suspected-bomb-attack-outside-bank-of-america-building-in-paris-foiled-11279806#publisher=newsstand"
+      },
+      {
+        "title": "Israel Kills 3 Journalists in Lebanon Strike, Claims 1 Was Hezbollah Member",
+        "link": "https://www.ndtv.com/world-news/israel-iran-war-israel-kills-3-journalists-in-lebanon-strike-claims-1-was-hezbollah-member-11279795#publisher=newsstand"
+      },
+      {
+        "title": "UP Man Beheads Ice-Cream Seller, Carries His Head Home. Then Cooks Meal",
+        "link": "https://www.ndtv.com/india-news/up-man-beheads-ice-cream-seller-carries-his-head-home-then-cooks-meal-11279647#publisher=newsstand"
+      },
+      {
         "title": "Nashik 'Godman' Tried To Influence Maharashtra Cabinet Picks: Opposition",
         "link": "https://www.ndtv.com/india-news/ashok-kharat-astrologer-nashik-godman-tried-to-influence-maharashtra-cabinet-picks-opposition-11279590#publisher=newsstand"
-      },
-      {
-        "title": "Adani Defence And Aerospace Delivers First Batch Of 'Prahar' Guns To Indian Army",
-        "link": "https://www.ndtv.com/india-news/adani-defence-and-aerospace-delivers-first-batch-of-prahar-guns-to-indian-army-11278937#publisher=newsstand"
-      },
-      {
-        "title": "2 India-Bound LPG Tankers Cross Strait Of Hormuz",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-2-india-bound-lpg-tankers-cross-strait-of-hormuz-11279509#publisher=newsstand"
-      },
-      {
-        "title": "Odisha Man, 30, Strangled To Death, Body Set On Fire In Jharkhand: Cops",
-        "link": "https://www.ndtv.com/india-news/odisha-man-strangled-to-death-body-set-on-fire-in-jharkhand-11279482#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-28 16:01 UTC"
+  "last_updated": "2026-03-28 16:47 UTC"
 }
