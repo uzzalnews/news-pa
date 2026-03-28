@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Iran War LIVE: Iran-Backed Houthis Claim First Missile Launch On Israel",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,15 @@
         "link": "https://www.bbc.com/sport/golf/articles/cn5322p5k99o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Video shows US missile likely used in deadly strike on Iranian town, experts say",
-        "link": "https://www.bbc.com/news/articles/cx29mzmwdw2o?at_medium=RSS&at_campaign=rss"
+        "title": "Tiramisu hot cross buns, doughnut eggs: Have Easter treats gone too far?",
+        "link": "https://www.bbc.com/news/articles/clyenwrz23go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "At least 22 migrants die off Greece after 6 days at sea",
+        "link": "https://www.aljazeera.com/news/2026/3/28/at-least-22-migrants-die-off-greece-after-6-days-at-sea?traffic_source=rss"
+      },
       {
         "title": "Defending champion Aryna Sabalenka and Coco Gauff meet in Miami Open final",
         "link": "https://www.aljazeera.com/sports/2026/3/28/defending-champion-aryna-sabalenka-and-coco-gauff-meet-for-the-miami-open-t?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Pakistan’s Naseem Shah under fire after criticism of politician’s PSL visit",
         "link": "https://www.aljazeera.com/sports/2026/3/28/pakistan-quick-slammed-for-criticizing-politicians-presence-at-cricket-game?traffic_source=rss"
-      },
-      {
-        "title": "At least 15 US troops wounded in Iran strike on Saudi airbase: Reports",
-        "link": "https://www.aljazeera.com/news/2026/3/28/at-least-15-us-troops-wounded-in-iran-strike-on-saudi-airbase-reports?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/1986218/foreign-ministers-of-saudi-arabia-turkiye-egypt-to-visit-islamabad-for-in-depth-talks-on-iran-war-fo"
       },
       {
-        "title": "FIA director general says agency has compiled data of human smugglers, facilitators",
-        "link": "https://www.dawn.com/news/1986275/fia-director-general-says-agency-has-compiled-data-of-human-smugglers-facilitators"
+        "title": "Ukraine’s Zelensky agrees to air defence cooperation with UAE, Qatar on Gulf tour",
+        "link": "https://www.dawn.com/news/1986295/ukraines-zelensky-agrees-to-air-defence-cooperation-with-uae-qatar-on-gulf-tour"
       },
       {
-        "title": "PMD forecasts drizzle, light rain in Karachi over weekend",
-        "link": "https://www.dawn.com/news/1986226/pmd-forecasts-drizzle-light-rain-in-karachi-over-weekend"
+        "title": "FIA director general says agency has compiled data of human smugglers, facilitators",
+        "link": "https://www.dawn.com/news/1986275/fia-director-general-says-agency-has-compiled-data-of-human-smugglers-facilitators"
       }
     ],
     "APNews": [],
@@ -95,10 +101,6 @@
       {
         "title": "Wild Ultimatums and ‘Bombing Our Little Hearts Out’: A Portrait of Trump at War",
         "link": "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
-      },
-      {
-        "title": "Iranian Strike on U.S. Base in Saudi Arabia Injures 12 American Troops, Officials Say",
-        "link": "https://www.nytimes.com/2026/03/27/us/politics/strike-us-air-base-injuries.html"
       },
       {
         "title": "In an Asymmetrical War, Iran Seeks an Edge With Its Information War",
@@ -111,9 +113,17 @@
       {
         "title": "Castro Heirs Emerge Across Cuba’s Political Scene Amid Energy Crisis and Trump Threats",
         "link": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
+      },
+      {
+        "title": "Hegseth Criticized for Removing Four Officers From Promotion List",
+        "link": "https://www.nytimes.com/2026/03/27/us/politics/hegseth-generals-promotion.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iraq's PM condemns attack on house of Kurdistan region's president",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqs-pm-condemns-attack-house-kurdistan-regions-president"
+      },
       {
         "title": "Iranian attack on US base in Saudi Arabia wounds troops and damages aircraft",
         "link": "https://www.middleeasteye.net/news/iranian-attack-us-base-saudi-arabia-wounds-troops-and-damages-aircraft"
@@ -129,54 +139,50 @@
       {
         "title": "Iran says it 'destroyed' Ukrainian air defence depot in Dubai",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-destroyed-ukrainian-air-defence-depot-dubai"
-      },
-      {
-        "title": "Yemen's Houthis launch first missile strike on Israel since Iran war began",
-        "link": "https://www.middleeasteye.net/news/yemens-houthis-launch-first-missile-strike-israel-iran-war-began"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Ukraine's Zelenskiy agrees defence cooperation with UAE, Qatar during Gulf visit",
+        "link": "https://www.geo.tv/latest/657585-ukraines-zelenskiy-agrees-defence-cooperation-with-uae-qatar-during-gulf"
+      },
+      {
+        "title": "Taylor Swift fans spot Easter Egg with Tate McRae after collab rumours",
+        "link": "https://www.geo.tv/latest/657576-taylor-swift-fans-spot-easter-egg-with-tate-mcrae-after-collab-rumours"
+      },
+      {
+        "title": "Tom Holland's partner Zendaya flies to Rome with Robert Pattinson",
+        "link": "https://www.geo.tv/latest/657578-tom-hollands-partner-zendaya-flies-to-rome-with-robert-pattinson"
+      },
       {
         "title": "PSL 11: Multan Sultans win toss, opt to bowl against Islamabad United",
         "link": "https://www.geo.tv/latest/657579-psl-11-multan-sultans-win-toss-opt-to-bowl-against-islamabad-united"
       },
       {
-        "title": "Nepal's former prime minister Oli arrested over deaths during Gen Z protests",
-        "link": "https://www.geo.tv/latest/657570-nepals-former-prime-minister-oli-arrested-over-deaths-during-gen-z-protests"
-      },
-      {
-        "title": "THIS Hollywood icon makes shocking career change after cancer battle",
-        "link": "https://www.geo.tv/latest/657577-this-hollywood-icon-makes-shocking-career-change-after-cancer-battle"
-      },
-      {
-        "title": "Coldplay frontman Chris Martin gets papped on NYC streets",
-        "link": "https://www.geo.tv/latest/657574-coldplay-frontman-chris-martin-gets-papped-on-nyc-streets"
-      },
-      {
-        "title": "Louis Tomlinson takes How Did We Get Here? World Tour to Finland",
-        "link": "https://www.geo.tv/latest/657572-louis-tomlinson-takes-how-did-we-get-here-world-tour-to-finland"
+        "title": "'Harry Potter' TV series trailer smashes HBO records in 48 hours",
+        "link": "https://www.geo.tv/latest/657584-harry-potter-tv-series-trailer-smashes-hbo-records-in-48-hours"
       }
     ],
     "NDTV": [
       {
-        "title": "Man, 40, Hacked To Death During Ram Navami Procession In Jharkhand: Cops",
-        "link": "https://www.ndtv.com/india-news/man-40-hacked-to-death-during-ram-navami-procession-in-jharkhand-cops-11279083#publisher=newsstand"
+        "title": "\"Welcome To Hell\": Iran Daily's \"Coffin\" Warning For Potential US Ground Invasion",
+        "link": "https://www.ndtv.com/world-news/iran-war-live-updates-donald-trump-iran-us-welcome-to-hell-iran-dailys-coffin-warning-for-potential-us-invasion-11279384#publisher=newsstand"
       },
       {
-        "title": "Pakistan Still Sheltering Terrorist Groups Targeting India, Warns US Report",
-        "link": "https://www.ndtv.com/world-news/pakistan-still-sheltering-terrorist-groups-targeting-india-warns-us-report-11279050#publisher=newsstand"
-      },
-      {
-        "title": "Telangana Man Dies By Suicide, Parents Get Him Married Every Year For 23 Years",
+        "title": "Telangana Man Dies By Suicide, Parents Get Him 'Married' Every Year For 23 Years",
         "link": "https://www.ndtv.com/telangana-news/a-23-year-old-tradition-of-wedding-ceremony-for-dead-son-in-telangana-11278118#publisher=newsstand"
       },
       {
-        "title": "MiG-29 Fighter Jets To Become More Lethal With ASRAAM Missiles",
-        "link": "https://www.ndtv.com/india-news/mig-29-fighter-jets-to-become-more-lethal-with-asraam-missiles-11278970#publisher=newsstand"
+        "title": "Iran War LIVE: Iran-Backed Houthis Claim First Missile Launch On Israel",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
       },
       {
-        "title": "Adani Defence And Aerospace Delivers First Batch Of 'Prahar' Guns To Indian Army",
-        "link": "https://www.ndtv.com/india-news/adani-defence-and-aerospace-delivers-first-batch-of-prahar-guns-to-indian-army-11278937#publisher=newsstand"
+        "title": "Butterfly Species Discovered In Arunachal Pradesh Named After Singer Zubeen Garg",
+        "link": "https://www.ndtv.com/india-news/butterfly-species-discovered-in-arunachal-pradesh-named-after-singer-zubeen-garg-11279289#publisher=newsstand"
+      },
+      {
+        "title": "On Amit Shah's 'Chargesheet' Against Party, Trinamool's \"Trial Over\" Retort",
+        "link": "https://www.ndtv.com/india-news/west-bengal-elections-2026-trinamool-congress-mamata-banerjee-on-amit-shahs-chargesheet-against-party-trinamools-trial-over-retort-11279258#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-28 13:55 UTC"
+  "last_updated": "2026-03-28 14:33 UTC"
 }
