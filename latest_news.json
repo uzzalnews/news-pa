@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Noida International Airport Inauguration LIVE: PM Modi Launches Noida Airport In A Big Boost For Delhi-NCR Connectivity",
-      "link": "https://www.ndtv.com/india-news/noida-international-airport-inauguration-live-updates-pm-narendra-modi-yogi-adityanath-jewar-airport-opening-today-flights-schedule-traffic-advisory-11277332#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "US House passes bill funding Homeland Security amid shutdown",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/us-house-passes-bill-funding-homeland-security-amid-shutdown?traffic_source=rss"
+      },
+      {
+        "title": "Philippine transport strikers say Marcos Jr failing to control oil prices",
+        "link": "https://www.aljazeera.com/economy/2026/3/28/philippine-transport-strikers-say-marcos-jr-failing-to-control-oil-prices?traffic_source=rss"
+      },
+      {
         "title": "US-Israel war on Iran: What’s happening on day 29 of attacks?",
         "link": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Yemen’s Houthis launch missile attack on Israel as war on Iran intensifies",
         "link": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss"
-      },
-      {
-        "title": "US Secretary of State says war could conclude in ‘weeks, not months’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/us-secretary-of-state-says-war-could-conclude-in-weeks-not-months?traffic_source=rss"
-      },
-      {
-        "title": "Doncic faces one-game ban after technical foul in Lakers win against Nets",
-        "link": "https://www.aljazeera.com/sports/2026/3/28/doncic-facing-one-game-ban-after-technical-foul-in-lakers-win-against-nets?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,24 +74,28 @@
         "link": "https://www.dawn.com/news/1986218/foreign-ministers-of-saudi-arabia-turkiye-egypt-to-visit-islamabad-for-in-depth-talks-on-iran-war-fo"
       },
       {
+        "title": "PMD forecasts drizzle, light rain in Karachi over weekend",
+        "link": "https://www.dawn.com/news/1986226/pmd-forecasts-drizzle-light-rain-in-karachi-over-weekend"
+      },
+      {
         "title": "IMF, Pakistan reach staff-level agreement unlocking $1.2bn tranche",
         "link": "https://www.dawn.com/news/1986184/imf-pakistan-reach-staff-level-agreement-unlocking-12bn-tranche"
       },
       {
+        "title": "Trump says ‘Cuba is next’, denies losing MAGA support",
+        "link": "https://www.dawn.com/news/1986238/trump-says-cuba-is-next-denies-losing-maga-support"
+      },
+      {
         "title": "US Congress panel demands full public hearing on Iran war as concerns mount",
         "link": "https://www.dawn.com/news/1986203/us-congress-panel-demands-full-public-hearing-on-iran-war-as-concerns-mount"
-      },
-      {
-        "title": "India approves $25bn defence buys, including Russian S-400 missile systems",
-        "link": "https://www.dawn.com/news/1986211/india-approves-25bn-defence-buys-including-russian-s-400-missile-systems"
-      },
-      {
-        "title": "Indonesia begins enforcing social media ban for under-16s",
-        "link": "https://www.dawn.com/news/1986212/indonesia-begins-enforcing-social-media-ban-for-under-16s"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Iranian Strike on U.S. Base in Saudi Arabia Injures 12 American Troops, Officials Say",
+        "link": "https://www.nytimes.com/2026/03/27/us/politics/strike-us-air-base-injuries.html"
+      },
       {
         "title": "U.S. Antitank Mines Discovered in Neighborhood in Iran",
         "link": "https://www.nytimes.com/2026/03/27/us/antitank-mines-iran.html"
@@ -113,10 +111,6 @@
       {
         "title": "How Long of a Wait at Security? For Many Passengers, It Was Anyone’s Guess.",
         "link": "https://www.nytimes.com/2026/03/27/us/wait-times-airports-tsa-confusion.html"
-      },
-      {
-        "title": "Florida’s Immigration Crackdown, Led by DeSantis, Is Showing Cracks",
-        "link": "https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,46 +137,46 @@
     ],
     "GeoTV": [
       {
-        "title": "The Weeknd makes major move as fans await new album",
-        "link": "https://www.geo.tv/latest/657528-the-weeknd-makes-major-move-as-fans-await-new-album"
+        "title": "PSL 11: RawalPindiz win toss, opt to bat first against Peshawar Zalmi",
+        "link": "https://www.geo.tv/latest/657540-psl-11-rawalpindiz-win-toss-opt-to-bat-first-against-peshawar-zalmi"
       },
       {
-        "title": "Viral video of doctors' 'race' during surgeries sparks action at Lahore hospital",
-        "link": "https://www.geo.tv/latest/657521-viral-video-of-doctors-race-during-surgeries-sparks-action-at-lahore-hospital"
+        "title": "Islamabad draws global media spotlight ahead of possible US-Iran talks",
+        "link": "https://www.geo.tv/latest/657538-islamabad-draws-global-media-spotlight-ahead-of-possible-us-iran-talks"
       },
       {
-        "title": "Tennessee pulls off upset over Iowa State, heading to Elite Eight again",
-        "link": "https://www.geo.tv/latest/657527-tennessee-pulls-off-upset-over-iowa-state-heading-to-elite-eight-again"
+        "title": "Fuel crisis exposes Pakistan's dangerous reliance on imported oil: experts",
+        "link": "https://www.geo.tv/latest/657536-fuel-crisis-exposes-pakistans-dangerous-reliance-on-imported-oil-experts"
       },
       {
-        "title": "Katy Perry gives rare glimpse of life with Justin Trudeau",
-        "link": "https://www.geo.tv/latest/657529-katy-perry-gives-rare-glimpse-of-life-with-justin-trudeau"
+        "title": "Katie Price's husband Lee Andrews blames PA for exaggerated CV details",
+        "link": "https://www.geo.tv/latest/657530-katie-prices-husband-lee-andrews-blames-pa-for-exaggerated-cv-details"
       },
       {
-        "title": "Centre seeks provincial share in targeted fuel subsidy amid price surge",
-        "link": "https://www.geo.tv/latest/657526-centre-seeks-provincial-share-in-targeted-fuel-subsidy-amid-price-surge"
+        "title": "King Charles health update leaves Prince William worried: ‘upsetting'",
+        "link": "https://www.geo.tv/latest/657535-king-charles-health-update-leaves-prince-william-worried-upsetting"
       }
     ],
     "NDTV": [
       {
-        "title": "Noida International Airport Inauguration LIVE: PM Modi Launches Noida Airport In A Big Boost For Delhi-NCR Connectivity",
-        "link": "https://www.ndtv.com/india-news/noida-international-airport-inauguration-live-updates-pm-narendra-modi-yogi-adityanath-jewar-airport-opening-today-flights-schedule-traffic-advisory-11277332#publisher=newsstand"
+        "title": "First Top Official To Visit This Chhattisgarh Village, Once A Maoist Stronghold",
+        "link": "https://www.ndtv.com/india-news/namrata-jain-rekawaya-narayanpur-first-top-official-to-visit-this-chhattisgarh-village-once-a-maoist-stronghold-11278284#publisher=newsstand"
       },
       {
-        "title": "\"Epstein Island\" Tag Appears On White House Number Due To Google Glitch",
-        "link": "https://www.ndtv.com/world-news/epstein-island-tag-appears-on-white-house-number-due-to-google-glitch-11277461#publisher=newsstand"
+        "title": "Yemen's Houthis Join Iran War After Threats, Launch 1st Missile On Israel",
+        "link": "https://www.ndtv.com/world-news/yemens-houthis-join-iran-war-after-threats-launch-1st-missile-on-israel-11278295#publisher=newsstand"
       },
       {
-        "title": "IndiGo Flight Makes Emergency Landing At Delhi Airport Due To Engine Failure",
-        "link": "https://www.ndtv.com/india-news/indigo-flight-makes-emergency-landing-at-delhi-airport-engine-failure-suspected-11277887#publisher=newsstand"
+        "title": "India Gate To Go Dark Tonight For Earth Hour",
+        "link": "https://www.ndtv.com/delhi-news/india-gate-in-delhi-to-go-dark-tonight-for-earth-hour-2026-11278222#publisher=newsstand"
       },
       {
-        "title": "Noida Airport's First Phase Launched. When Will First Flight Take Off?",
-        "link": "https://www.ndtv.com/india-news/noida-airports-first-phase-launched-when-will-first-flight-take-off-11277819#publisher=newsstand"
-      },
-      {
-        "title": "Fog-Ready Runway, 10-Minute Check-In: All About Noida International Airport",
+        "title": "Fog-Ready Runway, 10-Minute Check-In: Why Noida Airport Is Key For Delhi-NCR",
         "link": "https://www.ndtv.com/india-news/fog-landings-10-minute-check-in-all-about-noida-international-airport-jewar-airport-phase-1-operations-plan-pm-narendra-modi-inauguration-11277142#publisher=newsstand"
+      },
+      {
+        "title": "How Different Crude Price Levels Will Shape India's Fate Amid Excise Duty Cut",
+        "link": "https://www.ndtv.com/india-news/how-different-crude-price-levels-will-shape-indias-fate-amid-excise-duty-cut-11278125#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-28 08:36 UTC"
+  "last_updated": "2026-03-28 09:20 UTC"
 }
