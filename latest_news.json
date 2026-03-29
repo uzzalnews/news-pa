@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US Israel Iran War LIVE: Pakistan Holds Regional Meeting On Ending Iran War",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Netanyahu orders military to expand invasion of southern Lebanon",
+        "link": "https://www.aljazeera.com/news/2026/3/29/netanyahu-announces-expansion-of-security-buffer-zone-in-south-lebanon?traffic_source=rss"
+      },
+      {
         "title": "‘We can insure the ship, but we cannot insure a human life.’",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/we-can-insure-the-ship-but-we-cannot-insure-a-human-life?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday",
         "link": "https://www.aljazeera.com/news/2026/3/29/israeli-police-block-catholic-cardinal-from-holy-sepulchre-on-palm-sunday?traffic_source=rss"
-      },
-      {
-        "title": "Funeral held for Lebanese journalists killed in Israeli strike",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/funeral-held-for-lebanese-journalists-killed-in-israeli-strike?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,8 +74,8 @@
         "link": "https://www.dawn.com/news/1986541/iran-us-have-expressed-confidence-in-pakistan-to-facilitate-talks-will-be-honoured-to-host-dialogue-in-coming-days-fm-dar"
       },
       {
-        "title": "PM Shehbaz appreciates Kingdom’s ‘remarkable restraint’ in meeting with Saudi FM",
-        "link": "https://www.dawn.com/news/1986574/pm-shehbaz-appreciates-kingdoms-remarkable-restraint-in-meeting-with-saudi-fm"
+        "title": "PM Shehbaz commends Kingdom’s ‘remarkable restraint’ in meeting with Saudi FM, assures him of Pakistan’s ‘full support’",
+        "link": "https://www.dawn.com/news/1986574/pm-shehbaz-commends-kingdoms-remarkable-restraint-in-meeting-with-saudi-fm-assures-him-of-pakistans-full-support"
       },
       {
         "title": "PTI concerned over reports about Bushra Bibi’s health, demands she be taken to hospital for diagnosis, treatment",
@@ -99,12 +93,12 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.",
-        "link": "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html"
+        "title": "The U.S. Now Has Over 50,000 Troops in the Middle East",
+        "link": "https://www.nytimes.com/2026/03/29/us/politics/us-marines-middle-east-iran-war.html"
       },
       {
-        "title": "There Are Now Over 50,000 American Troops in the Mideast",
-        "link": "https://www.nytimes.com/2026/03/29/us/politics/us-marines-middle-east-iran-war.html"
+        "title": "A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.",
+        "link": "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html"
       },
       {
         "title": "5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up",
@@ -169,20 +163,20 @@
         "link": "https://www.ndtv.com/india-news/delhi-aiims-alumna-nisha-mehta-named-health-minister-of-nepal-11283276#publisher=newsstand"
       },
       {
+        "title": "In Double-Barrelled Poll Gamble, Vijay Storms DMK Bastions in Chennai, Trichy",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-elections-tvk-in-double-barrelled-poll-gamble-vijay-storms-dmk-bastions-in-chennai-trichy-11283341#publisher=newsstand"
+      },
+      {
+        "title": "Beyond Jhiram Massacre: A Student's Memory Of A Teacher Who Never Returned",
+        "link": "https://www.ndtv.com/india-news/beyond-jhiram-massacre-a-students-memory-of-a-teacher-who-never-returned-11283324#publisher=newsstand"
+      },
+      {
         "title": "Deadline To End Maoist Threat Near, Chhattisgarh Massacre Site Under Shadow",
         "link": "https://www.ndtv.com/india-news/chhattisgarh-jhiram-valley-massacre-deadline-to-end-maoist-menace-near-bastars-jhiram-still-under-shadow-of-massacre-11283222#publisher=newsstand"
       },
       {
         "title": "Iran Accuses US Of \"Secretly\" Plotting Ground Attack Despite Diplomatic Talk",
         "link": "https://www.ndtv.com/world-news/israel-iran-war-iran-accuses-us-of-secretly-plotting-ground-attack-despite-diplomatic-talk-11283188#publisher=newsstand"
-      },
-      {
-        "title": "US Israel Iran War LIVE: Pakistan Holds Regional Meeting On Ending Iran War",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand"
-      },
-      {
-        "title": "Gaurav Gogoi As Chief Minister? Maybe In Pakistan: Himanta Sarma To NDTV",
-        "link": "https://www.ndtv.com/india-news/assam-assembly-election-2026-bjp-congress-gaurav-gogoi-as-chief-minister-maybe-in-pakistan-himanta-biswa-sarma-to-ndtv-11283130#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-29 17:52 UTC"
+  "last_updated": "2026-03-29 18:31 UTC"
 }
