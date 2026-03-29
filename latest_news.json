@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NYTimes",
+      "title": "U.S. to Allow Russian Oil Tanker to Reach Cuba, Breaking Blockade",
+      "link": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/israeli-police-bar-priest-from-jerusalems-holy-sepulchre-on-palm-sunday?traffic_source=rss"
+      },
+      {
+        "title": "A premature ceasefire risks ‘another round of conflict’ in future",
+        "link": "https://www.aljazeera.com/video/quotable/2026/3/29/a-premature-ceasefire-risks-another-round-of-conflict-in-future?traffic_source=rss"
+      },
+      {
+        "title": "IRGC spokesperson says Trump ‘only understands the language of force’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/irgc-spokesperson-says-trump-only-understands-the-language-of?traffic_source=rss"
+      },
+      {
         "title": "Qatari TV station hit in Iran",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss"
       },
       {
         "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
         "link": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss"
-      },
-      {
-        "title": "RSF attack on Sudan’s South Kordofan kills at least 14, including children",
-        "link": "https://www.aljazeera.com/news/2026/3/29/rsf-attack-on-sudans-south-kordofan-kills-at-least-14-including-children?traffic_source=rss"
-      },
-      {
-        "title": "Cuba is not alone, deputy FM says as US threats grow",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/29/cuba-is-not-alone-deputy-fm-says-as-us-threats-grow?traffic_source=rss"
-      },
-      {
-        "title": "Republican Mace says Congress must approve any US troop deployment to Iran",
-        "link": "https://www.aljazeera.com/news/2026/3/29/republican-mace-says-congress-must-approve-any-us-troop-deployment-to-iran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,27 +99,31 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "U.S. to Allow Russian Oil Tanker to Reach Cuba, Breaking Blockade",
+        "link": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
+      },
+      {
+        "title": "Castro Heirs Emerge Across Cuba’s Political Scene Amid Energy Crisis and Trump Threats",
+        "link": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html"
+      },
+      {
+        "title": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
+        "link": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html"
+      },
+      {
         "title": "The U.S. Now Has Over 50,000 Troops in the Middle East",
         "link": "https://www.nytimes.com/2026/03/29/us/politics/us-marines-middle-east-iran-war.html"
       },
       {
         "title": "ICE May Remain at Airports Even After T.S.A. Pay Resumes, Border Czar Says",
         "link": "https://www.nytimes.com/2026/03/29/us/ice-tsa-airports-homan-trump-shutdown.html"
-      },
-      {
-        "title": "New Political Group to Push Trump’s A.I. Agenda in Midterms",
-        "link": "https://www.nytimes.com/2026/03/29/business/trump-artificial-intelligence-pac-midterms.html"
-      },
-      {
-        "title": "5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up",
-        "link": "https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html"
-      },
-      {
-        "title": "Inside La Paz, the California Mountain Compound Led by Cesar Chavez",
-        "link": "https://www.nytimes.com/2026/03/29/us/cesar-chavez-la-paz.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "American University of Beirut moves online after Iran warns of retaliation over strikes on its universities",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/american-university-beirut-moves-online-after-iran-warns-retaliation"
+      },
       {
         "title": "Iran’s supreme leader thanks Iraq for support in war",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-thanks-iraq-support-war"
@@ -129,13 +139,13 @@
       {
         "title": "Spain’s PM condemns Israel blocking Latin Patriarch at holy site",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spains-pm-condemns-israel-blocking-latin-patriarch-holy-site"
-      },
-      {
-        "title": "Pakistan hosts talks with Saudi, Turkey, Egypt to push Iran war de-escalation",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-hosts-talks-saudi-turkey-egypt-push-iran-war-de-escalation"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Howie Mandel breaks silence after on-air fight with Kelly Ripa",
+        "link": "https://www.geo.tv/latest/657722-howie-mandel-breaks-silence-after-on-air-fight-with-kelly-ripa"
+      },
       {
         "title": "Barry Manilow opens up about cancer recovery: 'Been through hell'",
         "link": "https://www.geo.tv/latest/657719-barry-manilow-opens-up-about-cancer-recovery-been-through-hell"
@@ -151,10 +161,6 @@
       {
         "title": "Shaheen responds to five-run penalty over change in ball's condition",
         "link": "https://www.geo.tv/latest/657712-shaheen-responds-to-five-run-penalty-over-change-in-balls-condition"
-      },
-      {
-        "title": "Channing Tatum shares good news weeks after emergency surgery",
-        "link": "https://www.geo.tv/latest/657711-channing-tatum-shares-good-news-weeks-after-emergency-surgery"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-29 20:52 UTC"
+  "last_updated": "2026-03-29 21:24 UTC"
 }
