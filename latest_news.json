@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US Israel Iran War LIVE: Pakistan To Hold Regional Meeting On Ending Iran War",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,12 +17,12 @@
         "link": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'I was naive,' says minister who quit over Labour Together claims",
-        "link": "https://www.bbc.com/news/articles/cy8135ny182o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Our skin is falling off and no-one can tell us why",
         "link": "https://www.bbc.com/news/articles/cx26pzpr71ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I was naive,' says minister who quit over Labour Together claims",
+        "link": "https://www.bbc.com/news/articles/cy8135ny182o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Schools do not have enough staff to make SEND reforms work, union warns",
@@ -24,6 +30,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "What happens in the occupied West Bank under the shadow of the Iran war",
+        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/29/what-happens-in-the-occupied-west-bank-under-the-shadow-of-the-iran-war?traffic_source=rss"
+      },
       {
         "title": "As war on Iran enters second month, Yemen’s Houthis open new front",
         "link": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Key moments in first month of US-Israeli war on Iran",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/key-moments-in-first-month-of-us-israeli-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Air strikes in Iraq kill three PMF fighters, two police",
-        "link": "https://www.aljazeera.com/news/2026/3/28/air-strikes-in-iraq-kill-three-pmf-fighters-and-two-iraqi-police?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,31 +80,31 @@
         "link": "https://www.dawn.com/news/1986454/islamabad-set-to-host-meeting-for-middle-east-de-escalation"
       },
       {
-        "title": "Houthis join fray by firing ballistic missiles at Israel",
-        "link": "https://www.dawn.com/news/1986444/houthis-join-fray-by-firing-ballistic-missiles-at-israel"
+        "title": "DPM Dar says Iran has allowed ‘20 more ships’ under Pakistan flag to cross Strait of Hormuz",
+        "link": "https://www.dawn.com/news/1986336/dpm-dar-says-iran-has-allowed-20-more-ships-under-pakistan-flag-to-cross-strait-of-hormuz"
+      },
+      {
+        "title": "Petroleum cargo handling rises at Karachi’s Port Qasim Authority",
+        "link": "https://www.dawn.com/news/1986472/petroleum-cargo-handling-rises-at-karachis-port-qasim-authority"
       },
       {
         "title": "Anger over Iran war adds fuel to anti-Trump rallies in US",
         "link": "https://www.dawn.com/news/1986406/anger-over-iran-war-adds-fuel-to-anti-trump-rallies-in-us"
       },
       {
-        "title": "DPM Dar says Iran has allowed ‘20 more ships’ under Pakistan flag to cross Strait of Hormuz",
-        "link": "https://www.dawn.com/news/1986336/dpm-dar-says-iran-has-allowed-20-more-ships-under-pakistan-flag-to-cross-strait-of-hormuz"
-      },
-      {
-        "title": "Gilgit-Baltistan tourism bounces back despite Middle East war",
-        "link": "https://www.dawn.com/news/1986387/gilgit-baltistan-tourism-bounces-back-despite-middle-east-war"
+        "title": "Pak-Afghan peace jirga to meet in Peshawar on Tuesday",
+        "link": "https://www.dawn.com/news/1986377/pak-afghan-peace-jirga-to-meet-in-peshawar-on-tuesday"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Yemen’s Houthis Fire at Israel and Vow Further Attacks",
-        "link": "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html"
+        "title": "A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.",
+        "link": "https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html"
       },
       {
-        "title": "Wild Ultimatums and ‘Bombing Our Little Hearts Out’: A Portrait of Trump at War",
-        "link": "https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html"
+        "title": "Yemen’s Houthis Fire at Israel and Vow Further Attacks",
+        "link": "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html"
       },
       {
         "title": "‘No Kings’ Protests Decry Trump and His Agenda",
@@ -115,27 +121,39 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran launches missiles toward southern Israel, sirens sounded",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-launches-missiles-toward-southern-israel-sirens-sounded"
+        "title": "Smoke rises over Tehran after explosions, targets remain unclear",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/smoke-rises-over-tehran-after-explosions-targets-remain-unclear"
       },
       {
-        "title": "Hezbollah says it targeted Israeli forces, helicopter in Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-targeted-israeli-forces-helicopter-lebanon"
+        "title": "Israeli embassy refuses statement from Nagasaki atomic bomb survivors",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-embassy-refuses-statement-nagasaki-atomic-bomb-survivors"
       },
       {
-        "title": "Gulf strikes threaten fuel, fertiliser and medical supplies globally",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-strikes-threaten-fuel-fertiliser-and-medical-supplies-globally"
+        "title": "Two powerful explosion shake Tehran as air defenses respond, AFP reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-powerful-explosion-shake-tehran-air-defenses-respond-afp-reports"
       },
       {
-        "title": "IRGC condemns attack on Iraqi Kurdish leader’s residence",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-condemns-attack-iraqi-kurdish-leaders-residence"
+        "title": "US says 1,000 'rioters' surrounded federal building, attacked officers",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-1000-rioters-surrounded-federal-building-attacked-officers"
       },
       {
-        "title": "Drone strike targets Kurdish party headquarters near Erbil, local media says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-strike-targets-kurdish-party-headquarters-near-erbil-local-media"
+        "title": "Report: Britain plans mine-hunting ship for Hormuz deployment",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-britain-plans-mine-hunting-ship-hormuz-deployment"
       }
     ],
     "GeoTV": [
+      {
+        "title": "At 50, Apple confronts its next big challenge: AI",
+        "link": "https://www.geo.tv/latest/657629-at-50-apple-confronts-its-next-big-challenge-ai"
+      },
+      {
+        "title": "Meghan Markle's father shares life update admitting he may get backlash",
+        "link": "https://www.geo.tv/latest/657627-meghan-markles-father-shares-life-update-admitting-he-may-get-backlash"
+      },
+      {
+        "title": "Demystifying the PTI",
+        "link": "https://www.geo.tv/latest/657626-demystifying-the-pti"
+      },
       {
         "title": "Pakistan rejects India's remarks on Shia community, calls them ‘cynical, diversionary'",
         "link": "https://www.geo.tv/latest/657624-pakistan-rejects-indias-remarks-on-shia-community-calls-them-cynical-and-diversionary"
@@ -143,43 +161,35 @@
       {
         "title": "'Strictly Come Dancing' in chaos as Tess Daly and Claudia Winkleman exit",
         "link": "https://www.geo.tv/latest/657623-strictly-come-dancing-in-chaos-as-tess-daly-and-claudia-winkleman-exit"
-      },
-      {
-        "title": "Trevor Oakes of 'Showaddywaddy' dies aged 79, know the reason here",
-        "link": "https://www.geo.tv/latest/657622-trevor-oakes-of-showaddywaddy-dies-aged-79-leaving-fans-heartbroken"
-      },
-      {
-        "title": "Ryan Gosling makes unexpected confession during 'Project Hail Mary' event",
-        "link": "https://www.geo.tv/latest/657621-ryan-gosling-makes-unexpected-confession-during-project-hail-mary-event"
-      },
-      {
-        "title": "Blake Lively shares romantic escape amid Justin Baldoni drama",
-        "link": "https://www.geo.tv/latest/657615-blake-lively-gives-glimpse-into-romantic-getaway-after-years-of-drama"
       }
     ],
     "NDTV": [
       {
-        "title": "Raids Near Hormuz, Seizing Kharg: US Prepares For Weeks Of Ground Ops In Iran",
-        "link": "https://www.ndtv.com/world-news/iran-us-war-raids-near-strait-hormuz-seizure-of-kharg-island-trump-prepares-for-weeks-of-ground-ops-in-iran-11280850#publisher=newsstand"
+        "title": "Gujarat Woman Drugged, Murdered By Ex-Househelp For Asking Gold, Cash Loan Back",
+        "link": "https://www.ndtv.com/india-news/gujarat-woman-drugged-murdered-by-ex-househelp-for-asking-gold-cash-loan-back-palanpur-11281150#publisher=newsstand"
       },
       {
-        "title": "Over 4,00,000 Kitkat Bars Stolen From Cargo Enroute Poland From Italy",
-        "link": "https://www.ndtv.com/world-news/over-4-lakh-kitkat-bars-stolen-after-leaving-factory-in-italy-for-poland-11280304#publisher=newsstand"
+        "title": "Iran War Highlights: Israel Army Says Struck Iran Complex Producing Naval Weapons",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand"
       },
       {
-        "title": "Ex-Agniveers To Get 20% Delhi Police Constable Posts, Physical Test Not Needed",
-        "link": "https://www.ndtv.com/delhi-news/ex-agniveers-to-get-20-delhi-police-constable-posts-physical-test-not-needed-11280180#publisher=newsstand"
+        "title": "US Israel Iran War LIVE: Pakistan To Hold Regional Meeting On Ending Iran War",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand"
       },
       {
-        "title": "Madhya Pradesh Man Waved, Blew Kisses On Instagram Live. Then Killed Self",
-        "link": "https://www.ndtv.com/india-news/madhya-pradesh-man-waved-blew-kisses-on-instagram-live-then-hanged-himself-11279298#publisher=newsstand"
+        "title": "Married Man In Live-In Relationship: 1 Court, 2 Cases, 2 Different Stands",
+        "link": "https://www.ndtv.com/india-news/allahabad-high-court-live-in-relationship-married-man-in-live-in-relationship-1-court-2-cases-2-different-stands-11281086#publisher=newsstand"
       },
       {
-        "title": "Israel Kills 3 Journalists in Lebanon Strike, Claims 1 Was Hezbollah Member",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-israel-kills-3-journalists-in-lebanon-strike-claims-1-was-hezbollah-member-11279795#publisher=newsstand"
+        "title": "Gate Of Tears: The Next Chokepoint That Could Make Shippers Cry After Hormuz",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-live-bab-el-mandeb-after-strait-of-hormuz-this-gate-of-tears-could-make-global-shippers-cry-11280270#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions",
+        "link": "https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions"
+      },
       {
         "title": "UN’s landmark slavery ruling energises African Union’s fight for reparations",
         "link": "https://www.theguardian.com/news/2026/mar/27/un-slavery-ruling-african-union-reparations-slavery-analysis"
@@ -195,12 +205,8 @@
       {
         "title": "Two drone strikes on civilian targets kill 28 people in Sudan",
         "link": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck"
-      },
-      {
-        "title": "Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas",
-        "link": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas"
       }
     ]
   },
-  "last_updated": "2026-03-29 03:31 UTC"
+  "last_updated": "2026-03-29 05:26 UTC"
 }
