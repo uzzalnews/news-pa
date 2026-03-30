@@ -9,20 +9,20 @@
   "news": {
     "BBC": [
       {
-        "title": "Scott Mills sacked from BBC Radio 2 over 'personal conduct'",
+        "title": "Scott Mills sacked from BBC Radio 2 after allegations over 'historic relationship'",
         "link": "https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Car finance compensation details to be revealed with average payout of £700 expected",
-        "link": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'I dread the phone ringing': Inside the kennels responding to vicious XL bully attacks",
-        "link": "https://www.bbc.com/news/articles/cewzw812dd1o?at_medium=RSS&at_campaign=rss"
+        "title": "What was the 1970s oil crisis, and are we heading for something worse?",
+        "link": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Travelodge investigating more reports of strangers accessing rooms, says CEO",
         "link": "https://www.bbc.com/news/articles/c78lj51nxn6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Easter bank holiday weekend set to be busiest on roads in four years",
+        "link": "https://www.bbc.com/news/articles/cy81eryy125o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Why is Nasa going back to the Moon?",
@@ -30,6 +30,14 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Rubio tells Al Jazeera Strait of Hormuz will reopen ‘one way or another’",
+        "link": "https://www.aljazeera.com/news/2026/3/30/rubio-tells-al-jazeera-strait-of-hormuz-will-reopen-one-way-or-another?traffic_source=rss"
+      },
+      {
+        "title": "Trump wants to ‘take Iran’s oil’: Can he, and what would that mean?",
+        "link": "https://www.aljazeera.com/economy/2026/3/30/trump-wants-to-take-irans-oil-can-he-and-what-would-that-mean?traffic_source=rss"
+      },
       {
         "title": "Kenya’s former New York marathon champion Korir gets five-year doping ban",
         "link": "https://www.aljazeera.com/sports/2026/3/30/kenyas-former-new-york-marathon-champion-korir-gets-five-year-doping-ban?traffic_source=rss"
@@ -41,14 +49,6 @@
       {
         "title": "‘I’m always watching’: A mother’s vigil in Mexico’s cancer system",
         "link": "https://www.aljazeera.com/features/longform/2026/3/30/im-always-watching-a-mothers-vigil-in-mexicos-cancer-system?traffic_source=rss"
-      },
-      {
-        "title": "Spain closes airspace to US planes involved in war on Iran",
-        "link": "https://www.aljazeera.com/news/2026/3/30/spain-closes-airspace-to-us-planes-involved-in-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Why have the US and Israel bombed more than 75 Iranian police facilities?",
-        "link": "https://www.aljazeera.com/news/2026/3/30/why-have-the-us-and-israel-bombed-more-than-75-iranian-police-facilities?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,24 +76,24 @@
     ],
     "Dawn": [
       {
+        "title": "President Zardari, PM Shehbaz review regional situation, implications for Pakistan",
+        "link": "https://www.dawn.com/news/1986837/president-zardari-pm-shehbaz-review-regional-situation-implications-for-pakistan"
+      },
+      {
         "title": "Kuwait assures full facilitation of diesel, jet fuel supplies to Pakistan",
         "link": "https://www.dawn.com/news/1986846/kuwait-assures-full-facilitation-of-diesel-jet-fuel-supplies-to-pakistan"
       },
       {
-        "title": "President Zardari, PM Shehbaz discuss national security amid Iran war",
-        "link": "https://www.dawn.com/news/1986837/president-zardari-pm-shehbaz-discuss-national-security-amid-iran-war"
+        "title": "Fast bowler Naseem Shah slapped with Rs20m fine for contract breach",
+        "link": "https://www.dawn.com/news/1986867/fast-bowler-naseem-shah-slapped-with-rs20m-fine-for-contract-breach"
+      },
+      {
+        "title": "Islamabad businessman succumbs to injures after being shot during dacoity at farmhouse",
+        "link": "https://www.dawn.com/news/1986875/islamabad-businessman-succumbs-to-injures-after-being-shot-during-dacoity-at-farmhouse"
       },
       {
         "title": "PMD predicts fresh showers across country from April 1",
         "link": "https://www.dawn.com/news/1986842/pmd-predicts-fresh-showers-across-country-from-april-1"
-      },
-      {
-        "title": "Punjab schools to open on April 1 with classes five days a week, minister says",
-        "link": "https://www.dawn.com/news/1986834/punjab-schools-to-open-on-april-1-with-classes-five-days-a-week-minister-says"
-      },
-      {
-        "title": "PMDC takes notice of filming of video during medical procedure at Lahore’s Lady Willingdon Hospital",
-        "link": "https://www.dawn.com/news/1986841/pmdc-takes-notice-of-filming-of-video-during-medical-procedure-at-lahores-lady-willingdon-hospital"
       }
     ],
     "APNews": [],
@@ -103,8 +103,8 @@
         "link": "https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html"
       },
       {
-        "title": "Israel Pulls Battalion From West Bank After Soldier Talks of ‘Revenge’",
-        "link": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-west-bank-battalion.html"
+        "title": "Trump Claims ‘Regime Change’ in Iran Is Already Complete",
+        "link": "https://www.nytimes.com/2026/03/30/world/middleeast/trump-regime-change-iran.html"
       },
       {
         "title": "War Pushes Gas Prices Near $4 a Gallon, and Anti-Trump Protesters Rally Nationwide",
@@ -121,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "EU human rights sanctions on Iran extended another year",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-human-rights-sanctions-iran-extended-another-year"
+      },
+      {
         "title": "'Inhumane and degrading': Israel set to approve death penalty for Palestinians",
         "link": "https://www.middleeasteye.net/news/israel-set-final-vote-palestinian-prisoner-death-penalty-bill"
       },
@@ -135,54 +139,50 @@
       {
         "title": "UAE arrests dozens of British citizens over online posts during Iran war",
         "link": "https://www.middleeasteye.net/news/uae-arrests-dozens-british-citizens-over-online-posts-amid-iran-war"
-      },
-      {
-        "title": "Trump threatens to 'obliterate' Iran's Kharg Island, energy sites",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-obliterate-irans-kharg-island-energy-sites"
       }
     ],
     "GeoTV": [
       {
-        "title": "Inside Rihanna's home shooting: New report reveals details",
-        "link": "https://www.geo.tv/latest/657821-inside-rihannas-home-shooting-new-report-reveals-details"
+        "title": "King Charles' cancer vs his father's seven-year fight",
+        "link": "https://www.geo.tv/latest/657828-king-charles-cancer-vs-his-fathers-seven-year-fight"
       },
       {
-        "title": "Govt making every effort to provide further relief to lower and middle classes: PM",
-        "link": "https://www.geo.tv/latest/657812-govt-taking-steps-to-provide-further-relief-to-lower-and-middle-class-pm"
+        "title": "Russell Brands' sexual assault case gets new update after 'death' reports",
+        "link": "https://www.geo.tv/latest/657833-russell-brands-sexual-assault-case-gets-new-update-after-death-reports"
       },
       {
-        "title": "April full moon is not actually pink: Here's how it looks like",
-        "link": "https://www.geo.tv/latest/657818-april-full-moon-is-not-actually-pink-heres-how-it-looks-like"
+        "title": "Prominent businessman shot dead during robbery in Islamabad",
+        "link": "https://www.geo.tv/latest/657822-prominent-businessman-shot-dead-during-robbery-in-islamabad"
       },
       {
-        "title": "Archie, Lilibet reunion with grandpa King Charles: Prince Harry is hopeful",
-        "link": "https://www.geo.tv/latest/657817-archie-lilibet-reunion-with-grandpa-king-charles-prince-harry-is-hopeful"
+        "title": "Taylor Frankie Paul on Instagram again after ‘Bachelorette' cancellation",
+        "link": "https://www.geo.tv/latest/657832-taylor-frankie-paul-on-instagram-again-after-bachelorette-cancellation"
       },
       {
-        "title": "Prince William, Princess Kate take stern step after Harry royal invite",
-        "link": "https://www.geo.tv/latest/657805-prince-william-princess-kate-take-stern-step-after-harry-royal-invite"
+        "title": "PMD forecasts rain, thunderstorms across country from April 1",
+        "link": "https://www.geo.tv/latest/657797-pmd-forecasts-rain-thunderstorms-across-country-from-april-1"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Shadow Of Red Terror Lifted, Bastar On Path Of Development\": Amit Shah",
-        "link": "https://www.ndtv.com/india-news/eradication-of-maoist-naxals-parliament-shadow-of-red-terror-lifted-bastar-on-path-of-development-amit-shah-11286777#publisher=newsstand"
+        "title": "Spain Shuts Airspace For US Planes Involved In Iran War",
+        "link": "https://www.ndtv.com/world-news/spain-shuts-airspace-for-us-planes-involved-in-iran-war-11287425#publisher=newsstand"
       },
       {
-        "title": "Naxalism Nears End In Andhra, Telangana As March 31 Deadline Approaches",
-        "link": "https://www.ndtv.com/india-news/naxalism-nears-end-in-andhra-telangana-as-march-31-deadline-approaches-11286960#publisher=newsstand"
+        "title": "'Ethical Disagreements': HDFC Ex-Chairman Opens Up On Shock Resignation",
+        "link": "https://www.ndtv.com/india-news/ethical-disagreements-hdfc-ex-chairman-opens-up-on-shock-resignation-11287407#publisher=newsstand"
       },
       {
-        "title": "LPG Racket Busted In Hyderabad, 10 Arrested And Over 400 Cylinders Seized",
-        "link": "https://www.ndtv.com/hyderabad-news/lpg-racket-busted-in-hyderabad-10-arrested-and-over-400-cylinders-seized-11286863#publisher=newsstand"
+        "title": "On Maoist Threat, Amit Shah Quotes Manmohan Singh, Blames Indira Gandhi",
+        "link": "https://www.ndtv.com/india-news/on-maoist-threat-amit-shah-quotes-manmohan-singh-blames-indira-gandhi-11287341#publisher=newsstand"
       },
       {
-        "title": "Parliament Live Updates: Union Minister Amit Shah Addresses Lok Sabha On Fight Against Naxalism",
+        "title": "Parliament Highlights: Union Minister Amit Shah Addresses Lok Sabha On Fight Against Naxalism",
         "link": "https://www.ndtv.com/india-news/parliament-live-updates-amit-shah-lok-sabha-news-maoism-budget-session-live-news-11285798#publisher=newsstand"
       },
       {
-        "title": "After Lashkar Terrorist's Arrest, Delhi Police Says 'Major Attack Averted'",
-        "link": "https://www.ndtv.com/india-news/shabir-ahmed-lone-after-lashkar-terrorists-arrest-delhi-police-says-major-attack-averted-11286645#publisher=newsstand"
+        "title": "\"I Can Say India Is Free Of Naxal Violence\": Amit Shah's Big Declaration",
+        "link": "https://www.ndtv.com/india-news/eradication-of-maoist-naxals-parliament-shadow-of-red-terror-lifted-bastar-on-path-of-development-amit-shah-11286777#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-30 14:12 UTC"
+  "last_updated": "2026-03-30 15:42 UTC"
 }
