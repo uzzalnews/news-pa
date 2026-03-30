@@ -1,11 +1,6 @@
 {
   "breaking": [
     {
-      "source": "NDTV",
-      "title": "US Israel Iran War LIVE: Iran Confirms Death Of Guards Navy Commander Alireza Tangsiri",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand"
-    },
-    {
       "source": "TheGuardian",
       "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
       "link": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say"
@@ -13,6 +8,10 @@
   ],
   "news": {
     "BBC": [
+      {
+        "title": "Scott Mills sacked from BBC Radio 2 over 'personal conduct'",
+        "link": "https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Car finance compensation details to be revealed with average payout of £700 expected",
         "link": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss"
@@ -22,38 +21,34 @@
         "link": "https://www.bbc.com/news/articles/cewzw812dd1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Russia expels British diplomat over spying allegations",
-        "link": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Australian fugitive shot dead by police after seven months on the run",
         "link": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
+        "title": "Why is Nasa going back to the Moon?",
         "link": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Land Day in Gaza: Between memory and the fight for what remains",
-        "link": "https://www.aljazeera.com/features/2026/3/30/land-day-in-gaza-between-memory-and-the-fight-for-what-remains?traffic_source=rss"
+        "title": "Russia’s FSB orders British diplomat’s expulsion, UK rejects ‘intimidation’",
+        "link": "https://www.aljazeera.com/news/2026/3/30/russia-expels-british-diplomat-accused-of-economic-espionage?traffic_source=rss"
       },
       {
-        "title": "Iraq risks Arab ties as Iran-aligned groups strike Gulf nations",
-        "link": "https://www.aljazeera.com/news/2026/3/30/iraq-risks-arab-ties-as-iran-aligned-groups-strike-gulf-nations?traffic_source=rss"
+        "title": "Beirut apartment damaged in Israeli strike",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/beirut-apartment-damaged-in-israeli-strike?traffic_source=rss"
       },
       {
-        "title": "France beat Colombia 3-1 to showcase firepower and squad depth",
-        "link": "https://www.aljazeera.com/sports/2026/3/30/france-beat-colombia-3-1-to-showcase-firepower-and-squad-depth?traffic_source=rss"
+        "title": "Sirens heard across Haifa port",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/sirens-heard-across-haifa-port?traffic_source=rss"
       },
       {
-        "title": "Smoke rise from Beirut suburbs following Israeli attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/smoke-rise-from-beirut-suburbs-following-israeli-attack?traffic_source=rss"
+        "title": "Schools, water, industry: What civilian targets have US, Israel, Iran hit?",
+        "link": "https://www.aljazeera.com/news/2026/3/30/schools-water-industry-what-civilian-targets-have-us-israel-iran-hit?traffic_source=rss"
       },
       {
-        "title": "Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’",
-        "link": "https://www.aljazeera.com/news/2026/3/30/trump-wants-to-invade-iran-to-seize-oil-calls-us-objectors-stupid?traffic_source=rss"
+        "title": "Syria’s al-Sharaa visits Germany to talk reconstruction, return of refugees",
+        "link": "https://www.aljazeera.com/news/2026/3/30/syrian-president-in-berlin-for-talks-with-germanys-merz?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -85,6 +80,10 @@
         "link": "https://www.dawn.com/news/1986805/govt-taking-steps-to-ease-burden-on-lower-and-middle-class-amid-fuel-price-hike-pm-shehbaz"
       },
       {
+        "title": "Punjab schools to open on April 1 with classes five-days a week, minister says",
+        "link": "https://www.dawn.com/news/1986834/punjab-schools-to-open-on-april-1-with-classes-five-days-a-week-minister-says"
+      },
+      {
         "title": "FM Ishaq Dar to embark on official visit to China on March 31: FO",
         "link": "https://www.dawn.com/news/1986816/fm-ishaq-dar-to-embark-on-official-visit-to-china-on-march-31-fo"
       },
@@ -93,12 +92,8 @@
         "link": "https://www.dawn.com/news/1986782/pm-shehbaz-expresses-gratitude-to-foreign-ministers-after-quad-moot-reiterates-pakistans-commitment-to-peace"
       },
       {
-        "title": "FM Dar suffers ‘hairline fracture’ after fall while hosting Egyptian counterpart",
-        "link": "https://www.dawn.com/news/1986777/fm-dar-suffers-hairline-fracture-after-fall-while-hosting-egyptian-counterpart"
-      },
-      {
-        "title": "PCB charges Fakhar Zaman with ball-tampering in PSL match",
-        "link": "https://www.dawn.com/news/1986804/pcb-charges-fakhar-zaman-with-ball-tampering-in-psl-match"
+        "title": "Court acquits all 8 accused in Dadu’s Chandio tribe triple murder case",
+        "link": "https://www.dawn.com/news/1986829/court-acquits-all-8-accused-in-dadus-chandio-tribe-triple-murder-case"
       }
     ],
     "APNews": [],
@@ -126,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Liamine Zeroual: The Algerian president who followed the straight and narrow",
-        "link": "https://www.middleeasteye.net/news/liamine-zeroual-algerian-president-who-followed-straight-and-narrow"
+        "title": "Iranian lawmakers review possibility of leaving Nuclear Non-Proliferation Treaty",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-lawmakers-review-possibility-leaving-npt-foreign-ministry"
       },
       {
-        "title": "Spain closes airspace to US planes involved in Iran war, defence minister says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spain-closes-airspace-us-planes-involved-iran-war-defence-minister-says"
+        "title": "Israel is making sure Trump can't find an off-ramp in Iran",
+        "link": "https://www.middleeasteye.net/opinion/israel-making-sure-trump-cannot-find-ramp-iran"
+      },
+      {
+        "title": "Rocket attack targets Baghdad army base",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rocket-attack-targets-baghdad-army-base"
       },
       {
         "title": "Donald Trump threatens to 'take the oil' in Iran",
-        "link": "https://www.middleeasteye.net/news/donald-trump-threatens-take-oil-iran"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/donald-trump-threatens-take-oil-iran"
       },
       {
-        "title": "Iran says US demands for talks are 'excessive'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-demands-talks-are-excessive"
-      },
-      {
-        "title": "Netanyahu says Israel to seize more Lebanese lands and expand 'buffer zone'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israel-seize-more-lebanese-lands-and-expand-buffer-zone"
+        "title": "Iran claims Israel attacked Kuwaiti desalination plant",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-claims-israel-attacked-kuwaiti-desalination-plant"
       }
     ],
     "GeoTV": [
       {
-        "title": "Josie Gibson shuns luxury life as she dreams of finding 'nice man'",
-        "link": "https://www.geo.tv/latest/657785-josie-gibson-shuns-luxury-life-as-she-dreams-of-finding-nice-man"
+        "title": "Rooney Rule explained: Why does Florida AG want NFL to scrap it?",
+        "link": "https://www.geo.tv/latest/657794-rooney-rule-explained-why-does-florida-ag-want-nfl-to-scrap-it"
       },
       {
-        "title": "‘Harry Potter' child stars' salary: You will be shocked to know!",
-        "link": "https://www.geo.tv/latest/657787-harry-potter-child-stars-salary-you-will-be-shocked-to-know"
+        "title": "Olivia Rodrigo sparks 'SNL' double duty rumours amid third album buzz",
+        "link": "https://www.geo.tv/latest/657793-olivia-rodrigo-sparks-snl-double-duty-rumours-amid-third-album-buzz"
       },
       {
-        "title": "India's JioStar terminates Bangladesh IPL cricket broadcast deal, shows letter",
-        "link": "https://www.geo.tv/latest/657783-indias-jiostar-terminates-bangladesh-ipl-cricket-broadcast-deal-shows-letter"
+        "title": "Ferne McCann reveals simple secrets behind her body transformation",
+        "link": "https://www.geo.tv/latest/657789-ferne-mccann"
       },
       {
-        "title": "James Blake parts ways with Kanye West after new album, Bully, release",
-        "link": "https://www.geo.tv/latest/657781-j"
+        "title": "King Charles, Prince William make 'secret deal': 'Within a week'",
+        "link": "https://www.geo.tv/latest/657784-king-charles-prince-william-make-secret-deal-within-a-week"
       },
       {
-        "title": "Gary Woodland shows 'don't give up' spirit in first PGA Tour title since brain surgery",
-        "link": "https://www.geo.tv/latest/657772-gary-woodland-triumphs-in-emotional-first-title-since-brain-surgery"
+        "title": "Riz Ahmed fans react to 'Geo news supremacy'",
+        "link": "https://www.geo.tv/latest/657773-riz-ahmed-fans-react-to-geo-news-supremacy"
       }
     ],
     "NDTV": [
       {
-        "title": "US Israel Iran War LIVE: Iran Confirms Death Of Guards Navy Commander Alireza Tangsiri",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand"
+        "title": "8 Locations, 33 Questions: India's First Digital Census To Begin Wednesday",
+        "link": "https://www.ndtv.com/india-news/census-2026-8-locations-33-questions-indias-first-digital-census-to-begin-wednesday-11286166#publisher=newsstand"
       },
       {
-        "title": "Have You Missed The Bus To Jewar Airport, Or Is Property Still A Smart Buy",
-        "link": "https://www.ndtv.com/india-news/jewar-airport-inauguration-real-estate-investment-property-buy-good-returns-greater-noida-flat-land-11285586#publisher=newsstand"
+        "title": "\"Pakistan's Forums Are Their Own\": Tehran Rejects Islamabad's US-Iran Talks Offer",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-live-donald-trump-pakistans-forums-are-their-own-tehran-rejects-islamabads-us-iran-talks-offer-11285961#publisher=newsstand"
       },
       {
-        "title": "Railway Employee Among 3 Arrested During Drug Raid In Hyderabad",
-        "link": "https://www.ndtv.com/hyderabad-news/railway-employee-among-3-arrested-during-drug-raid-in-hyderabad-11285563#publisher=newsstand"
+        "title": "Tears, Hugs, Politics: Vijay Comforts Ex-Driver's Son Named TVK Candidate",
+        "link": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-assembly-elections-tears-hugs-politics-vijay-comforts-ex-drivers-son-sabarinathan-named-tvk-candidate-11284505#publisher=newsstand"
       },
       {
-        "title": "\"Feels Like Squid Game\": How OpenClaw AI Has Taken China By Storm",
-        "link": "https://www.ndtv.com/world-news/feels-like-squid-game-how-openclaw-ai-has-taken-china-by-storm-11284926#publisher=newsstand"
+        "title": "Top Karnataka GST Officer Busted While Allegedly Taking Bribe Of Rs 6 Lakh",
+        "link": "https://www.ndtv.com/india-news/karnataka-lokayukta-busts-top-gst-officer-allegedly-taking-rs-6-lakh-bribe-11286021#publisher=newsstand"
       },
       {
-        "title": "Iran Confirms Death Of Revolutionary Guards Commander Alireza Tangsiri",
-        "link": "https://www.ndtv.com/world-news/iran-israel-us-war-iran-confirms-death-of-revolutionary-guards-commander-alireza-tangsiri-middle-east-conflict-11285357#publisher=newsstand"
+        "title": "Manufacturing Drives India's Industrial Output Growth To 5.2% In February",
+        "link": "https://www.ndtv.com/india-news/manufacturing-drives-indias-industrial-output-growth-to-5-2-in-february-11285956#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-30 10:44 UTC"
+  "last_updated": "2026-03-30 11:41 UTC"
 }
