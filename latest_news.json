@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "TheGuardian",
+      "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
+      "link": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say"
+    }
+  ],
   "news": {
     "BBC": [
-      {
-        "title": "Oil rises above $115 and Asia shares slide as Iran war escalates",
-        "link": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Compensation details for millions of drivers set to be revealed",
         "link": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Counter-terror police join Derby car incident investigation",
-        "link": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Councils pressed to use universal parking app to cut 'unfair' fines",
-        "link": "https://www.bbc.com/news/articles/cvgep3ryp9po?at_medium=RSS&at_campaign=rss"
+        "title": "'I dread the phone ringing': Inside the kennels responding to vicious XL bully attacks",
+        "link": "https://www.bbc.com/news/articles/cewzw812dd1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Australian fugitive shot dead by police after seven months on the run",
         "link": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Counter-terror team join investigation after pedestrians hit by car in Derby",
+        "link": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Seven years since Emiliano Sala's death, what has changed for the 'wild west' of football transfers?",
+        "link": "https://www.bbc.com/news/articles/c93eqg9wnx0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Marco Bezzecchi wins USA MotoGP to extend perfect start to season",
-        "link": "https://www.aljazeera.com/sports/2026/3/30/marco-bezzecchi-wins-usa-motogp-to-extend-perfect-start-to-season?traffic_source=rss"
+        "title": "Canadian YouTuber captures congestion of dozens of ships in Hormuz Strait",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/canadian-youtuber-captures-congestion-of-dozens-of-ships-in-hormuz-strait?traffic_source=rss"
       },
       {
-        "title": "CAF general secretary quits amid AFCON final controversy",
-        "link": "https://www.aljazeera.com/sports/2026/3/30/caf-general-secretary-quits-amid-afcon-final-controversy?traffic_source=rss"
+        "title": "Trump says Iran’s ‘had regime change’ as he describes ‘boatloads of oil’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/trump-says-irans-had-regime-change-as-he-describes-boatloads-of-oil?traffic_source=rss"
       },
       {
-        "title": "IAEA says Iran’s Khondab heavy water reactor no longer operational",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iaea-says-irans-khondab-heavy-water-reactor-no-longer-operational?traffic_source=rss"
+        "title": "Fakhar Zaman charged with ball‑tampering by Pakistan board in PSL",
+        "link": "https://www.aljazeera.com/sports/2026/3/30/fakhar-zaman-charged-with-ball%e2%80%91tampering-by-pakistan-board-in-psl?traffic_source=rss"
       },
       {
-        "title": "Iranian academic describes US-Israeli attacks on Iran’s universities",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iranian-academic-describes-us-israeli-attacks-on-irans-universities?traffic_source=rss"
+        "title": "Australia to halve fuel tax as global energy crisis deepens",
+        "link": "https://www.aljazeera.com/news/2026/3/30/australia-to-halve-fuel-tax-as-global-energy-crisis-deepens?traffic_source=rss"
       },
       {
-        "title": "Netanyahu orders deeper Israeli invasion into Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/netanyahu-orders-deeper-israeli-invasion-into-lebanon?traffic_source=rss"
+        "title": "Amnesty warns of human rights risks at 2026 World Cup",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/amnesty-warns-of-human-rights-risks-at-2026-world-cup?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,16 @@
     ],
     "Dawn": [
       {
+        "title": "PM Shehbaz appreciates foreign ministers of Turkiye, Egypt, Saudi Arabia for confidence in Pakistan’s peace efforts",
+        "link": "https://www.dawn.com/news/1986782/pm-shehbaz-appreciates-foreign-ministers-of-turkiye-egypt-saudi-arabia-for-confidence-in-pakistans-peace-efforts"
+      },
+      {
         "title": "Dar hints at US, Iran talks as quad pushes peace off-ramp",
         "link": "https://www.dawn.com/news/1986641/dar-hints-at-us-iran-talks-as-quad-pushes-peace-off-ramp"
+      },
+      {
+        "title": "FM Dar suffers ‘hairline fracture’ after fall while hosting Egyptian counterpart",
+        "link": "https://www.dawn.com/news/1986777/fm-dar-suffers-hairline-fracture-after-fall-while-hosting-egyptian-counterpart"
       },
       {
         "title": "Govt comes up with hybrid plan to tackle power crisis",
@@ -80,14 +94,6 @@
       {
         "title": "Australia to halve fuel tax to keep prices within reach of citizens amid Iran war",
         "link": "https://www.dawn.com/news/1986754/australia-to-halve-fuel-tax-to-keep-prices-within-reach-of-citizens-amid-iran-war"
-      },
-      {
-        "title": "Fuel stocks sufficient to meet national demand, says PM",
-        "link": "https://www.dawn.com/news/1986632/fuel-stocks-sufficient-to-meet-national-demand-says-pm"
-      },
-      {
-        "title": "Industry in crosshairs amid no let-up in Iran war",
-        "link": "https://www.dawn.com/news/1986636/industry-in-crosshairs-amid-no-let-up-in-iran-war"
       }
     ],
     "APNews": [],
@@ -115,71 +121,75 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli military launches attacks on infrastructure in Tehran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-launches-attacks-infrastructure-tehran"
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-503"
       },
       {
-        "title": "Hezbollah claims strikes as Israel intercepts missiles, drone",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-strikes-israel-intercepts-missiles-drone"
+        "title": "Israeli air strike kills at least three people in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-kills-least-three-people-gaza"
       },
       {
-        "title": "Asian currencies weaken against dollar amid market volatility",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/asian-currencies-weaken-against-dollar-amid-market-volatility"
+        "title": "Israel says several missile salvos launched from Iran within an hour",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-several-missile-salvos-launched-iran-within-hour"
       },
       {
-        "title": "Trump: US will shut down attempt to charge Hormuz passage toll in minutes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-us-will-shut-down-attempt-charge-hormuz-passage-toll-minutes"
+        "title": "Video: Netanyahu orders military to ‘further expand’ invasion of Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-netanyahu-orders-military-further-expand-invasion-lebanon"
       },
       {
-        "title": "Trump says Iran must give up nuclear weapons",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-must-give-nuclear-weapons"
+        "title": "Report: Iran launched 5,471 attacks on US bases across seven countries",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-iran-launched-5471-attacks-us-bases-across-seven-countries"
       }
     ],
     "GeoTV": [
       {
-        "title": "Pakistan's market mirage",
-        "link": "https://www.geo.tv/latest/657730-pakistans-market-mirage"
+        "title": "Fakhar charged with Level 3 offence after ball-tampering controversy",
+        "link": "https://www.geo.tv/latest/657734-fakhar-charged-with-level-3-offence-after-ball-tampering-controversy"
       },
       {
-        "title": "Celine Dion to return to live stage, but there's a problem",
-        "link": "https://www.geo.tv/latest/657728-celine-dion-to-return-to-live-stage-but-theres-a-problem"
+        "title": "Andrew Mountbatten-Windsor tests King Charles patience with massive new bill",
+        "link": "https://www.geo.tv/latest/657743-andrew-mountbatten-windsor-tests-king-charles-patience-with-massive-new-bill"
       },
       {
-        "title": "Crude oil on track for record monthly leap amid widening Middle East conflict",
-        "link": "https://www.geo.tv/latest/657729-brent-heads-for-record-monthly-jump-as-iran-conflict-widens"
+        "title": "BTS break their own record with blockbuster 'ARIRANG' debut",
+        "link": "https://www.geo.tv/latest/657739-bts-break-their-own-record-with-blockbuster-arirang-debut"
       },
       {
-        "title": "Mary Beth Hurt dead: ‘The World According to Garp' actress was 79",
-        "link": "https://www.geo.tv/latest/657727-mary-beth-hurt-dead-the-world-according-to-garp-actress-was-79"
+        "title": "Australia to halve fuel tax in response to Middle East war",
+        "link": "https://www.geo.tv/latest/657738-australia-to-halve-fuel-tax-in-response-to-middle-east-war"
       },
       {
-        "title": "Sophie Turner suffers from ‘injury' during 'Lara Croft' reboot filming",
-        "link": "https://www.geo.tv/latest/657726-sophie-turner-suffers-from-injury-during-lara-croft-reboot-filming"
+        "title": "Geo News benchmark of 'success', say three mainstream British media personalities",
+        "link": "https://www.geo.tv/latest/657741-geo-news-benchmark-of-success-say-three-mainstream-british-media-personalities"
       }
     ],
     "NDTV": [
       {
-        "title": "Stock Market Live Updates: Sensex Slides 1,000 Points At Open As Crude Oil Surges Amid Iran War",
-        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-gift-nifty-negative-sensex-nifty-rise-in-oil-prices-iran-war-11284079#publisher=newsstand"
+        "title": "Nitish Kumar Resigns From Bihar Assembly Weeks After Rajya Sabha Move: Sources",
+        "link": "https://www.ndtv.com/india-news/nitish-kumar-resigns-from-bihar-assembly-weeks-after-rajya-sabha-move-sources-11284553#publisher=newsstand"
       },
       {
-        "title": "Telangana Assembly Passes Bill To Ensure Senior Citizens' Financial Security",
-        "link": "https://www.ndtv.com/telangana-news/telangana-assembly-passes-bill-to-ensure-senior-citizens-financial-security-11282217#publisher=newsstand"
+        "title": "Amid NCP Feud Buzz, Ajit Pawar's Missing Photo On Party Posters Sparks Row",
+        "link": "https://www.ndtv.com/india-news/ncp-ajit-pawar-sunil-tatkare-amid-ncp-feud-buzz-ajit-pawars-missing-photo-on-party-posters-sparks-row-11284660#publisher=newsstand"
       },
       {
-        "title": "Trump's \"Big Day\" Post, Hours After Iran Shared A Stock Market \"Heads-Up\"",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-trump-claims-us-destroyed-long-sought-after-targets-says-big-day-in-iran-11284133#publisher=newsstand"
+        "title": "Amid Iran War, Centre Allows Kerosene Sale At Select Petrol Pumps For 60 Days",
+        "link": "https://www.ndtv.com/india-news/amid-iran-war-centre-allows-kerosene-sale-select-petrol-pumps-60-days-lpg-11284547#publisher=newsstand"
       },
       {
-        "title": "Is Your Office Health Cover Enough? Zerodha's Nithin Kamath Flags A Big Gap",
-        "link": "https://www.ndtv.com/india-news/is-your-office-health-cover-enough-zerodhas-nithin-kamath-flags-a-big-gap-11273930#publisher=newsstand"
+        "title": "Video: Pakistan Deputy PM Ishaq Dar's Red Carpet Fall Goes Viral",
+        "link": "https://www.ndtv.com/world-news/video-pakistan-deputy-pm-ishaq-dars-red-carpet-fall-goes-viral-11284624#publisher=newsstand"
       },
       {
-        "title": "PM Modi Says Gulf Nations Prioritising Safety Of Indians, Slams Congress",
-        "link": "https://www.ndtv.com/india-news/pm-modi-says-gulf-nations-prioritising-safety-of-indians-slams-congress-11282059#publisher=newsstand"
+        "title": "How A 35-Year-Old \"Crypto Bro\" Helped Pakistan Win Over Trump's World",
+        "link": "https://www.ndtv.com/world-news/a-35-year-old-crypto-bro-helped-pakistan-win-over-trump-world-11284522#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
+        "link": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say"
+      },
       {
         "title": "Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions",
         "link": "https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions"
@@ -195,12 +205,8 @@
       {
         "title": "Nigeria takes its place on world stage in quest to become regional superpower",
         "link": "https://www.theguardian.com/news/2026/mar/26/nigeria-regional-superpower-uk-reparative-justice-trade-economic-ties"
-      },
-      {
-        "title": "Two drone strikes on civilian targets kill 28 people in Sudan",
-        "link": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck"
       }
     ]
   },
-  "last_updated": "2026-03-30 04:15 UTC"
+  "last_updated": "2026-03-30 06:10 UTC"
 }
