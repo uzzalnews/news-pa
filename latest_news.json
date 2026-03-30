@@ -1,24 +1,18 @@
 {
-  "breaking": [
-    {
-      "source": "NYTimes",
-      "title": "U.S. to Allow Russian Oil Tanker to Reach Cuba, Breaking Blockade",
-      "link": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
-        "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Counter-terror police join Derby car incident investigation",
-        "link": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss"
+        "title": "Oil rises above $115 and Asia shares slide as Iran war escalates",
+        "link": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Compensation details for millions of drivers set to be revealed",
         "link": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Counter-terror police join Derby car incident investigation",
+        "link": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Councils pressed to use universal parking app to cut 'unfair' fines",
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Iran war live: Kuwait power station hit; Israel downs Houthi drones",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/3/30/iran-war-live-worker-killed-in-kuwait-israel-intercepts-drones-from-yemen?traffic_source=rss"
+        "title": "Marco Bezzecchi wins USA MotoGP to extend perfect start to season",
+        "link": "https://www.aljazeera.com/sports/2026/3/30/marco-bezzecchi-wins-usa-motogp-to-extend-perfect-start-to-season?traffic_source=rss"
       },
       {
-        "title": "How will the Houthis’ involvement shape the war?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/3/29/how-will-the-houthis-involvement-shape-the-war?traffic_source=rss"
+        "title": "CAF general secretary quits amid AFCON final controversy",
+        "link": "https://www.aljazeera.com/sports/2026/3/30/caf-general-secretary-quits-amid-afcon-final-controversy?traffic_source=rss"
       },
       {
-        "title": "European nations criticise Israel’s death penalty plans",
-        "link": "https://www.aljazeera.com/news/2026/3/29/european-nations-criticise-israels-death-penalty-plans?traffic_source=rss"
+        "title": "IAEA says Iran’s Khondab heavy water reactor no longer operational",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iaea-says-irans-khondab-heavy-water-reactor-no-longer-operational?traffic_source=rss"
       },
       {
-        "title": "Iran accuses US of plotting ground attack, as Israel steps up bombardment",
-        "link": "https://www.aljazeera.com/news/2026/3/29/iran-accuses-us-of-plotting-ground-attack-as-israel-steps-up-bombardment?traffic_source=rss"
+        "title": "Iranian academic describes US-Israeli attacks on Iran’s universities",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/iranian-academic-describes-us-israeli-attacks-on-irans-universities?traffic_source=rss"
       },
       {
-        "title": "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/israeli-police-bar-priest-from-jerusalems-holy-sepulchre-on-palm-sunday?traffic_source=rss"
+        "title": "Netanyahu orders deeper Israeli invasion into Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/30/netanyahu-orders-deeper-israeli-invasion-into-lebanon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,30 +70,34 @@
     ],
     "Dawn": [
       {
-        "title": "Iran, US have expressed confidence in Pakistan to facilitate talks; will be honoured to host dialogue ‘in coming days’: FM Dar",
-        "link": "https://www.dawn.com/news/1986541/iran-us-have-expressed-confidence-in-pakistan-to-facilitate-talks-will-be-honoured-to-host-dialogue-in-coming-days-fm-dar"
+        "title": "Dar hints at US, Iran talks as quad pushes peace off-ramp",
+        "link": "https://www.dawn.com/news/1986641/dar-hints-at-us-iran-talks-as-quad-pushes-peace-off-ramp"
       },
       {
-        "title": "PM Shehbaz commends Kingdom’s ‘remarkable restraint’ in meeting with Saudi FM, assures him of Pakistan’s ‘full support’",
-        "link": "https://www.dawn.com/news/1986574/pm-shehbaz-commends-kingdoms-remarkable-restraint-in-meeting-with-saudi-fm-assures-him-of-pakistans-full-support"
+        "title": "Govt comes up with hybrid plan to tackle power crisis",
+        "link": "https://www.dawn.com/news/1986639/govt-comes-up-with-hybrid-plan-to-tackle-power-crisis"
       },
       {
-        "title": "PTI concerned over reports about Bushra Bibi’s health, demands she be taken to hospital for diagnosis, treatment",
-        "link": "https://www.dawn.com/news/1986585/pti-concerned-over-reports-about-bushra-bibis-health-demands-she-be-taken-to-hospital-for-diagnosis-treatment"
+        "title": "Australia to halve fuel tax to keep prices within reach of citizens amid Iran war",
+        "link": "https://www.dawn.com/news/1986754/australia-to-halve-fuel-tax-to-keep-prices-within-reach-of-citizens-amid-iran-war"
       },
       {
-        "title": "In letter to PSL CEO, police detail alleged security protocol breach by Lahore Qalandar’s Shaheen Afridi, Sikandar Raza",
-        "link": "https://www.dawn.com/news/1986590/in-letter-to-psl-ceo-police-detail-alleged-security-protocol-breach-by-lahore-qalandars-shaheen-afridi-sikandar-raza"
+        "title": "Fuel stocks sufficient to meet national demand, says PM",
+        "link": "https://www.dawn.com/news/1986632/fuel-stocks-sufficient-to-meet-national-demand-says-pm"
       },
       {
-        "title": "Info ministry refutes reports of ‘complete lockdown’ on weekends as part of fuel-saving measures",
-        "link": "https://www.dawn.com/news/1986556/info-ministry-refutes-reports-of-complete-lockdown-on-weekends-as-part-of-fuel-saving-measures"
+        "title": "Industry in crosshairs amid no let-up in Iran war",
+        "link": "https://www.dawn.com/news/1986636/industry-in-crosshairs-amid-no-let-up-in-iran-war"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "U.S. to Allow Russian Oil Tanker to Reach Cuba, Breaking Blockade",
+        "title": "New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows",
+        "link": "https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html"
+      },
+      {
+        "title": "U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade",
         "link": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html"
       },
       {
@@ -111,78 +109,74 @@
         "link": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html"
       },
       {
-        "title": "Special Operations Forces Sent to Mideast as Trump Weighs Next Move",
-        "link": "https://www.nytimes.com/2026/03/29/us/politics/trump-special-operations-forces-iran.html"
-      },
-      {
-        "title": "As Gas Prices Approach $4 a Gallon, Americans Rethink Vacations",
-        "link": "https://www.nytimes.com/2026/03/29/us/gas-prices-spring-break-vacation.html"
+        "title": "ICE May Remain at Airports Even After T.S.A. Pay Resumes, Border Czar Says",
+        "link": "https://www.nytimes.com/2026/03/29/us/politics/ice-tsa-airports-homan-trump-shutdown.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Air strikes hit Tehran airport, residential area, Iranian media say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/air-strikes-hit-tehran-airport-residential-area-iranian-media-say"
+        "title": "Israeli military launches attacks on infrastructure in Tehran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-launches-attacks-infrastructure-tehran"
       },
       {
-        "title": "Trump considers seizing Iran’s enriched uranium, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-considers-seizing-irans-enriched-uranium-report-says"
+        "title": "Hezbollah claims strikes as Israel intercepts missiles, drone",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-strikes-israel-intercepts-missiles-drone"
       },
       {
-        "title": "Iranian media report strike on petrochemical facility in Tabriz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-report-strike-petrochemical-facility-tabriz"
+        "title": "Asian currencies weaken against dollar amid market volatility",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/asian-currencies-weaken-against-dollar-amid-market-volatility"
       },
       {
-        "title": "Trump says US could 'take the oil' in Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-could-take-oil-iran"
+        "title": "Trump: US will shut down attempt to charge Hormuz passage toll in minutes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-us-will-shut-down-attempt-charge-hormuz-passage-toll-minutes"
       },
       {
-        "title": "UN peacekeeper killed in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-peacekeeper-killed-southern-lebanon"
+        "title": "Trump says Iran must give up nuclear weapons",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-must-give-nuclear-weapons"
       }
     ],
     "GeoTV": [
       {
+        "title": "Pakistan's market mirage",
+        "link": "https://www.geo.tv/latest/657730-pakistans-market-mirage"
+      },
+      {
+        "title": "Celine Dion to return to live stage, but there's a problem",
+        "link": "https://www.geo.tv/latest/657728-celine-dion-to-return-to-live-stage-but-theres-a-problem"
+      },
+      {
+        "title": "Crude oil on track for record monthly leap amid widening Middle East conflict",
+        "link": "https://www.geo.tv/latest/657729-brent-heads-for-record-monthly-jump-as-iran-conflict-widens"
+      },
+      {
+        "title": "Mary Beth Hurt dead: ‘The World According to Garp' actress was 79",
+        "link": "https://www.geo.tv/latest/657727-mary-beth-hurt-dead-the-world-according-to-garp-actress-was-79"
+      },
+      {
         "title": "Sophie Turner suffers from ‘injury' during 'Lara Croft' reboot filming",
         "link": "https://www.geo.tv/latest/657726-sophie-turner-suffers-from-injury-during-lara-croft-reboot-filming"
-      },
-      {
-        "title": "See Britney Spears pose with son Preston after DUI arrest",
-        "link": "https://www.geo.tv/latest/657725-see-britney-spears-pose-with-son-preston-after-dui-arrest"
-      },
-      {
-        "title": "Kylie Kelce wants people to ‘stay out' of her ‘kitchen'",
-        "link": "https://www.geo.tv/latest/657724-kylie-kelce-wants-people-to-stay-out-of-her-kitchen"
-      },
-      {
-        "title": "Alex Duong dies: Actor and comedian was 42",
-        "link": "https://www.geo.tv/latest/657723-alex-duong-dies-actor-and-comedian-was-42"
-      },
-      {
-        "title": "Howie Mandel breaks silence after on-air fight with Kelly Ripa",
-        "link": "https://www.geo.tv/latest/657722-howie-mandel-breaks-silence-after-on-air-fight-with-kelly-ripa"
       }
     ],
     "NDTV": [
       {
-        "title": "UP Woman Who Eloped With Instagram Friend Returns After Children's Request",
-        "link": "https://www.ndtv.com/india-news/up-woman-who-eloped-with-instagram-friend-returns-after-childrens-request-11283579#publisher=newsstand"
+        "title": "Stock Market Live Updates: Sensex Slides 1,000 Points At Open As Crude Oil Surges Amid Iran War",
+        "link": "https://www.ndtv.com/india-news/stock-market-live-updates-gift-nifty-negative-sensex-nifty-rise-in-oil-prices-iran-war-11284079#publisher=newsstand"
       },
       {
-        "title": "Mojtaba's New Message, Days After Trump's 'Don't Know If He's Alive' Claim",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-war-mojtabas-new-message-days-after-trumps-dont-know-if-hes-alive-claim-11283553#publisher=newsstand"
+        "title": "Telangana Assembly Passes Bill To Ensure Senior Citizens' Financial Security",
+        "link": "https://www.ndtv.com/telangana-news/telangana-assembly-passes-bill-to-ensure-senior-citizens-financial-security-11282217#publisher=newsstand"
       },
       {
-        "title": "No Compensation, No Help: The Silent Victims Of 2013 Bastar Maoist Massacre",
-        "link": "https://www.ndtv.com/india-news/no-compensation-no-help-the-silent-victims-of-2013-bastar-maoist-massacre-11283542#publisher=newsstand"
+        "title": "Trump's \"Big Day\" Post, Hours After Iran Shared A Stock Market \"Heads-Up\"",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-trump-claims-us-destroyed-long-sought-after-targets-says-big-day-in-iran-11284133#publisher=newsstand"
       },
       {
-        "title": "India Faces Bottleneck In New Aircraft Procurement: Aviation Minister",
-        "link": "https://www.ndtv.com/india-news/india-faces-bottleneck-in-new-aircraft-procurement-aviation-minister-11283528#publisher=newsstand"
+        "title": "Is Your Office Health Cover Enough? Zerodha's Nithin Kamath Flags A Big Gap",
+        "link": "https://www.ndtv.com/india-news/is-your-office-health-cover-enough-zerodhas-nithin-kamath-flags-a-big-gap-11273930#publisher=newsstand"
       },
       {
-        "title": "Fire Rages As Shrapnel From Iran Missile Hits Industrial Facility In Israel",
-        "link": "https://www.ndtv.com/world-news/iran-israel-war-iran-war-fire-rages-as-shrapnel-from-iran-missile-hits-industrial-facility-in-israel-11283525#publisher=newsstand"
+        "title": "PM Modi Says Gulf Nations Prioritising Safety Of Indians, Slams Congress",
+        "link": "https://www.ndtv.com/india-news/pm-modi-says-gulf-nations-prioritising-safety-of-indians-slams-congress-11282059#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-30 01:04 UTC"
+  "last_updated": "2026-03-30 04:15 UTC"
 }
