@@ -31,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Iran’s FM confirms contact with US envoy Witkoff, denies talks under way",
+        "link": "https://www.aljazeera.com/news/2026/3/31/no-truth-to-us-iranian-negotiations-irans-fm-tells-al-jazeera?traffic_source=rss"
+      },
+      {
+        "title": "Palestinians in occupied West Bank protest Israel’s death penalty law",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/palestinians-in-occupied-west-bank-protest-israels-death-penalty-law?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike hits building in Beirut’s southern suburbs",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/israeli-strike-hits-building-in-beiruts-southern-suburbs?traffic_source=rss"
+      },
+      {
         "title": "US-Israel launch major attacks as Iranian authorities maintain defiance",
         "link": "https://www.aljazeera.com/news/2026/3/31/us-israel-launch-major-attacks-as-iranian-authorities-maintain-defiance?traffic_source=rss"
       },
       {
         "title": "One month of war on Iran cost Arab countries up to $194bn: UNDP",
         "link": "https://www.aljazeera.com/news/2026/3/31/one-month-of-war-in-middle-east-cost-arab-states-up-to-194bn-undp?traffic_source=rss"
-      },
-      {
-        "title": "Major explosion at Russian petrochemical plant",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/major-explosion-at-russian-petrochemical-plant?traffic_source=rss"
-      },
-      {
-        "title": "Foreign journalist kidnapped in Iraq: Interior Ministry",
-        "link": "https://www.aljazeera.com/news/2026/3/31/foreign-journalist-kidnapped-in-iraq-interior-ministry?traffic_source=rss"
-      },
-      {
-        "title": "Why Iran believes it can outlast the US",
-        "link": "https://www.aljazeera.com/video/the-take-2/2026/3/31/aje-onl-tt_irn_whatcouldendthewar_av_v2-310326?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,8 +99,16 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Faces a Decision on Whether to Start a Ground War in Iran",
-        "link": "https://www.nytimes.com/2026/03/31/us/politics/trump-iran-ground-war.html"
+        "title": "Federal Judge Approves Trump Effort to Extract List of Jews From Penn",
+        "link": "https://www.nytimes.com/2026/03/31/us/politics/trump-jews-penn-list-judge.html"
+      },
+      {
+        "title": "Trump’s Executive Order on NPR and PBS Is Unconstitutional, Judge Rules",
+        "link": "https://www.nytimes.com/2026/03/31/business/media/trump-npr-pbs-executive-order-ruling.html"
+      },
+      {
+        "title": "Trump Redefines ‘Regime Change’ in Iran War",
+        "link": "https://www.nytimes.com/2026/03/31/us/politics/trump-regime-change-iran.html"
       },
       {
         "title": "Supreme Court Rejects Colorado Law Banning ‘Conversion Therapy’ for L.G.B.T.Q. Minors",
@@ -109,17 +117,13 @@
       {
         "title": "How Immigration Policies Like Birthright Citizenship Shaped the Supreme Court Justices’ Histories",
         "link": "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-birthright-family-histories.html"
-      },
-      {
-        "title": "U.S. Gas Prices Hit $4 a Gallon on Average, a ‘Headache’ for Drivers and Trump",
-        "link": "https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html"
-      },
-      {
-        "title": "Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows.",
-        "link": "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Spain’s PM condemns Israeli death penalty law as ‘step toward apartheid’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spains-pm-condemns-israeli-death-penalty-law-step-toward-apartheid"
+      },
       {
         "title": "UK defence secretary says US remains key ally amid criticism",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-defence-secretary-says-us-remains-key-ally-amid-criticism"
@@ -135,13 +139,21 @@
       {
         "title": "Iranian missiles don't pose a threat to the US, Pete Hegseth admits",
         "link": "https://www.middleeasteye.net/news/iranian-missiles-dont-pose-threat-to-us-pete-hegseth-admits"
-      },
-      {
-        "title": "Hezbollah claims multiple attacks on Israeli forces along border",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-multiple-attacks-israeli-forces-along-border"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Luke Hemsworth on working with brother Chris Hemsworth on-screen",
+        "link": "https://www.geo.tv/latest/658012-luke-hemsworth-on-working-with-brother-chris-hemsworth-on-screen"
+      },
+      {
+        "title": "US gas prices surpass $4 for first time in nearly 4 years",
+        "link": "https://www.geo.tv/latest/658010-us-gas-prices-surpass-4-for-first-time-in-nearly-4-years"
+      },
+      {
+        "title": "Europe pushes back on some US military operations as concerns over Iran war mount",
+        "link": "https://www.geo.tv/latest/658008-europe-pushes-back-on-some-us-military-operations-as-concerns-over-iran-war-mount"
+      },
       {
         "title": "Severe storms, tornadoes to hit US as April begins",
         "link": "https://www.geo.tv/latest/658009-severe-storms-tornadoes-to-hit-us-as-april-begins"
@@ -149,40 +161,28 @@
       {
         "title": "Grammy-winning singer Brandy marks another career milestone",
         "link": "https://www.geo.tv/latest/658006-grammy-winning-singer-brandy-marks-another-career-milestone"
-      },
-      {
-        "title": "Spain draws red line: No US war flights over Spanish territory",
-        "link": "https://www.geo.tv/latest/658005-spain-draws-red-line-no-us-war-flights-over-spanish-territory"
-      },
-      {
-        "title": "Ogra hikes LPG price by Rs78.28 per kg for April",
-        "link": "https://www.geo.tv/latest/658003-ogra-hikes-lpg-price-by-rs7828-per-kg-for-april"
-      },
-      {
-        "title": "Prince Harry takes Washington by storm with sharp words on privacy power",
-        "link": "https://www.geo.tv/latest/657995-prince-harry-takes-washington-by-storm-with-sharp-words-on-privacy-power"
       }
     ],
     "NDTV": [
       {
-        "title": "Ex-Professor Behind Bomb Hoax Emails, Held Grudge Against Judiciary",
-        "link": "https://www.ndtv.com/india-news/mysuru-ex-professor-srinivas-louis-behind-bomb-hoax-emails-held-grudge-against-judiciary-11293288#publisher=newsstand"
+        "title": "Tamil Nadu Chief Minister MK Stalin Kickstarts Poll Campaign, Slams AIADMK",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-chief-minister-mk-stalin-kickstarts-poll-campaign-slams-aiadmk-11293506#publisher=newsstand"
       },
       {
-        "title": "Food Delivery Agent Killed After Mercedes Hits Motorcycle In Faridabad",
-        "link": "https://www.ndtv.com/india-news/food-delivery-agent-killed-after-mercedes-hits-motorcycle-in-faridabad-11293279#publisher=newsstand"
+        "title": "Dispute Over Rs 50,000 Exposes Big Kidney Racket In Kanpur, 5 Doctors Arrested",
+        "link": "https://www.ndtv.com/india-news/dispute-over-rs-50-000-exposes-big-kidney-racket-in-kanpur-5-doctors-arrested-11293503#publisher=newsstand"
       },
       {
-        "title": "Punjab To Deliver Police Assistance Within 6 Minutes: Chief Minister Bhagwant Mann",
-        "link": "https://www.ndtv.com/india-news/police-assistance-within-6-minutes-punjab-cm-mann-flags-off-508-emergency-response-vehicles-11292007#publisher=newsstand"
+        "title": "Ahead Of Tamil Nadu Polls, Piyush Goyal Releases 'Chargesheet' Against DMK",
+        "link": "https://www.ndtv.com/india-news/ahead-of-tamil-nadu-polls-piyush-goyal-releases-chargesheet-against-dmk-11293500#publisher=newsstand"
       },
       {
-        "title": "BJP Attacks Himachal Government Over Entry Tax Hike, Chief Minister Responds",
-        "link": "https://www.ndtv.com/india-news/bjp-attacks-himachal-government-over-entry-tax-hike-chief-minister-responds-11292930#publisher=newsstand"
+        "title": "Iran Minister Says In Direct Contact With US Envoy, But \"No Negotiations\"",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-minister-says-in-direct-contact-with-us-envoy-but-no-negotiations-11293497#publisher=newsstand"
       },
       {
-        "title": "Strikes To Begin Tomorrow: Iran Warns Tech Firms Over US' Killing Of Leaders",
-        "link": "https://www.ndtv.com/world-news/iran-war-news-if-you-kill-our-leaders-well-attack-us-firms-like-google-meta-iran-11292804#publisher=newsstand"
+        "title": "Oracle Lays Off 12,000 Employees In India, Another Round Likely: Report",
+        "link": "https://www.ndtv.com/india-news/oracle-lays-off-12-000-employees-in-india-another-round-likely-report-11293454#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-31 18:37 UTC"
+  "last_updated": "2026-03-31 19:40 UTC"
 }
