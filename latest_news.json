@@ -9,8 +9,16 @@
   "news": {
     "BBC": [
       {
+        "title": "More UK troops to be sent to Middle East, defence secretary announces",
+        "link": "https://www.bbc.com/news/articles/c7vq76g45rvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Teenage boy at centre of Scott Mills sexual offences investigation was under 16, police say",
         "link": "https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Amateur rapper whose XL bully killed his mother-in-law jailed for 10 years",
+        "link": "https://www.bbc.com/news/articles/c4gx2lv8888o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Outspoken backbench MP suspended by Labour",
@@ -19,36 +27,28 @@
       {
         "title": "'Something wasn't right': Wrong sperm given to UK families by IVF clinics in northern Cyprus",
         "link": "https://www.bbc.com/news/articles/c74v5jd5zkjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Housing market will soften if Iran war drags on, Nationwide says",
-        "link": "https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "King Charles and Queen Camilla's state visit to US to go ahead in April",
-        "link": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Cancer drug facility, religious site hit in Israeli-US strikes on Iran",
-        "link": "https://www.aljazeera.com/news/2026/3/31/cancer-drug-facility-religious-site-hit-in-israeli-us-strikes-on-iran?traffic_source=rss"
+        "title": "The attack on the right to protest in the UK is not just about Palestine",
+        "link": "https://www.aljazeera.com/opinions/2026/3/31/the-attack-on-the-right-to-protest-in-the-uk-is-not-just-about-palestine?traffic_source=rss"
       },
       {
-        "title": "Will China join Pakistan-led efforts to mediate US-Iran peace?",
-        "link": "https://www.aljazeera.com/news/2026/3/31/will-china-join-pakistan-led-efforts-to-mediate-us-iran-peace?traffic_source=rss"
+        "title": "Iran will play World Cup games in US despite war, FIFA’s Infantino says",
+        "link": "https://www.aljazeera.com/sports/2026/3/31/iran-will-play-world-cup-games-in-us-despite-war-fifas-infantino-says?traffic_source=rss"
       },
       {
-        "title": "Tyre hospital ‘hit five times’ since start of Israel’s attacks on Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/tyre-hospital-hit-five-times-since-start-of-israels-attacks-on-lebanon?traffic_source=rss"
+        "title": "Where to invest during Iran war? Ask – or don’t – Mohammad Bagher Ghalibaf",
+        "link": "https://www.aljazeera.com/news/2026/3/31/where-to-invest-during-iran-war-ask-or-dont-mohammad-bagher-ghalibaf?traffic_source=rss"
       },
       {
-        "title": "US defence secretary says next few days in Iran war will be ‘decisive’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/31/us-defence-secretary-says-next-few-days-in-iran-war-will-be?traffic_source=rss"
+        "title": "Is our timeline of human history accurate?",
+        "link": "https://www.aljazeera.com/video/doha-debates/2026/3/31/is-our-timeline-of-human-history-accurate?traffic_source=rss"
       },
       {
-        "title": "What’s Israel’s death penalty law that only applies to Palestinians?",
-        "link": "https://www.aljazeera.com/news/2026/3/31/whats-israels-death-penalty-law-that-only-applies-to-palestinians?traffic_source=rss"
+        "title": "War on Iran: US’s history of making other nations pay for conflicts",
+        "link": "https://www.aljazeera.com/news/2026/3/31/war-on-iran-uss-history-of-making-other-nations-pay-for-conflicts?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +76,16 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan, China call for cessation of hostilities in Mideast war, starting peace talks as soon as possible",
-        "link": "https://www.dawn.com/news/1987106/pakistan-china-call-for-cessation-of-hostilities-in-mideast-war-starting-peace-talks-as-soon-as-possible"
+        "title": "Pakistan, China issue 5-point initiative for restoring peace in Middle East",
+        "link": "https://www.dawn.com/news/1987106/pakistan-china-issue-5-point-initiative-for-restoring-peace-in-middle-east"
+      },
+      {
+        "title": "Repatriation of Afghans resumes at Torkham as border reopens",
+        "link": "https://www.dawn.com/news/1987201/repatriation-of-afghans-resumes-at-torkham-as-border-reopens"
+      },
+      {
+        "title": "Rising oil prices pose risk to Pakistan’s import bill, macroeconomic conditions, finance ministry warns",
+        "link": "https://www.dawn.com/news/1987221/rising-oil-prices-pose-risk-to-pakistans-import-bill-macroeconomic-conditions-finance-ministry-warns"
       },
       {
         "title": "PM directs strict action against smuggling, hoarding of petroleum products",
@@ -86,103 +94,95 @@
       {
         "title": "Finance minister assures KP CM Afridi of ‘full support’ in resolving all ‘legitimate issues’",
         "link": "https://www.dawn.com/news/1987194/finance-minister-assures-kp-cm-afridi-of-full-support-in-resolving-all-legitimate-issues"
-      },
-      {
-        "title": "Defamation case: Lahore court directs Meesha Shafi to pay Rs5 million in damages to Ali Zafar",
-        "link": "https://www.dawn.com/news/1987171/defamation-case-lahore-court-directs-meesha-shafi-to-pay-rs5-million-in-damages-to-ali-zafar"
-      },
-      {
-        "title": "All suspects involved in killing of prominent Islamabad businessman during dacoity arrested, Tallal says",
-        "link": "https://www.dawn.com/news/1987182/all-suspects-involved-in-killing-of-prominent-islamabad-businessman-during-dacoity-arrested-tallal-says"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Faces a Decision on Whether to Start a Ground War in Iran",
-        "link": "https://www.nytimes.com/2026/03/31/us/politics/trump-iran-ground-war.html"
-      },
-      {
-        "title": "U.S. Gas Prices Hit $4 a Gallon on Average, a ‘Headache’ for Drivers and Trump",
-        "link": "https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html"
-      },
-      {
-        "title": "Drivers Count Their Pennies as Gas Hits $4 a Gallon Because of War in Iran",
-        "link": "https://www.nytimes.com/2026/03/31/us/gas-prices-iran-war.html"
-      },
-      {
-        "title": "Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows.",
-        "link": "https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html"
+        "title": "Supreme Court Rejects Colorado Law Banning ‘Conversion Therapy’ for L.G.B.T.Q. Minors",
+        "link": "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html"
       },
       {
         "title": "Deaths in ICE Custody Are Growing, and Trump Defends Ballroom Plans",
         "link": "https://www.nytimes.com/2026/03/31/podcasts/the-headlines/deaths-ice-custody-trump-ballroom.html"
+      },
+      {
+        "title": "Trump Faces a Decision on Whether to Start a Ground War in Iran",
+        "link": "https://www.nytimes.com/2026/03/31/us/politics/trump-iran-ground-war.html"
+      },
+      {
+        "title": "Europe Has a ‘Guns vs. Butter’ Problem. War in Iran Makes It Worse.",
+        "link": "https://www.nytimes.com/2026/03/31/world/europe/europe-spending-problem-military-domestic.html"
+      },
+      {
+        "title": "How the U.K.’s Leader Decides Which U.S. Bombers to Let Fly Against Iran",
+        "link": "https://www.nytimes.com/2026/03/31/world/europe/iran-war-united-states-britain-starmer.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli invasion of Lebanon could be worse than 1982, warn European officials",
-        "link": "https://www.middleeasteye.net/news/israeli-invasion-lebanon-could-be-worse-1982-say-european-officials"
+        "title": "UN diplomat resigns over claims of planned nuclear strike on Iran",
+        "link": "https://www.middleeasteye.net/news/un-diplomat-resigns-over-claims-planned-nuclear-strike-iran"
       },
       {
-        "title": "Lebanon death toll rises",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-rises-0"
+        "title": "Eight children evacuated during Israeli siege on al-Shifa return to Gaza",
+        "link": "https://www.middleeasteye.net/news/eight-children-evacuated-during-israeli-siege-al-shifa-return-gaza"
       },
       {
-        "title": "Strike on western Iraq kills two fighters",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-blames-usisrael-attack-which-killed-two-fighters"
+        "title": "IRGC threatens to target US tech firms in region",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-threatens-target-us-tech-firms-region"
       },
       {
-        "title": "Iran's foreign minister: Reports of missiles fired at Turkey 'completely baseless'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-reports-missiles-fired-turkey-completely-baseless"
+        "title": "Lib Dem mayor forced to resign for sharing Israeli 'false flag' ambulance attack posts",
+        "link": "https://www.middleeasteye.net/news/lib-dem-mayor-forced-resign-sharing-israeli-false-flag-ambulance-attack-posts"
       },
       {
-        "title": "Hegseth says US troops 'want to finish' fight with Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-says-us-troops-want-finish-fight-iran"
+        "title": "Jerusalem's Christians urge church leaders to challenge harsh Israeli restrictions",
+        "link": "https://www.middleeasteye.net/news/christians-jerusalem-call-church-leaders-challenge-harsh-israeli-restrictions"
       }
     ],
     "GeoTV": [
       {
-        "title": "Megan Fox blocks Machine Gun Kelly after flirty comments",
-        "link": "https://www.geo.tv/latest/657977-megan-fox-blocks-machine-gun-kelly-after-flirty-comments"
+        "title": "Khloe Kardashian reveals inside story of Lamar Odom's coma and family stress",
+        "link": "https://www.geo.tv/latest/657985-khloe-kardashian-reveals-inside-story-of-lamar-odoms-coma-and-family-stress"
       },
       {
-        "title": "King Charles hosts special guests at royal house as Prince Harry plans return",
-        "link": "https://www.geo.tv/latest/657966-king-charles-hosts-special-guests-at-royal-house-as-prince-harry-plans-return"
+        "title": "Donald Trump calls King Charles's US visit ‘terrific'",
+        "link": "https://www.geo.tv/latest/657983-donald-trump-calls-king-charless-us-visit-terrific"
       },
       {
-        "title": "Suspects involved in Islamabad businessman's killing arrested within 24 hours: Tarar",
-        "link": "https://www.geo.tv/latest/657968-suspects-involved-in-islamabad-businessmans-killing-arrested-within-24-hours-tarar"
+        "title": "King Charles saddens fans with 'disappointing' decision",
+        "link": "https://www.geo.tv/latest/657982-king-charles-saddens-fans-with-disappointing-decision"
       },
       {
-        "title": "PSL 11: Rain delays toss for Islamabad United vs Peshawar Zalmi encounter",
-        "link": "https://www.geo.tv/latest/657972-psl-11-rain-delays-toss-for-islamabad-united-vs-peshawar-zalmi-encounter"
+        "title": "Don Trump Jr. shares concerns over Tiger Woods' DUI arrest",
+        "link": "https://www.geo.tv/latest/657961-don-trump-jr-shares-concerns-over-tiger-woods-dui-arrest"
       },
       {
-        "title": "Oracle fired up to 30,000 employees at 6:00 a.m. without any warning",
-        "link": "https://www.geo.tv/latest/657975-oracle-fired-up-to-30000-employees-at-600-am-without-any-warning"
+        "title": "Pakistan, China jointly urge US-Israel and Iran to stop strikes, initiate dialogue immediately",
+        "link": "https://www.geo.tv/latest/657981-pakistan-china-jointly-urge-us-israel-and-iran-to-stop-strikes-initiate-dialogue-immediately"
       }
     ],
     "NDTV": [
       {
-        "title": "Punjab BJP Delegation Meets Amit Shah In Delhi, Raises Border Areas Issues",
-        "link": "https://www.ndtv.com/india-news/punjab-bjp-delegation-meets-amit-shah-in-delhi-raises-border-areas-issues-11291399#publisher=newsstand"
+        "title": "Mamata Banerjee Not In Race, But All Eyes On Prestige Fight In Bengal's Nandigram",
+        "link": "https://www.ndtv.com/india-news/mamata-banerjee-not-in-fray-but-all-eyes-on-prestige-fight-in-bengals-nandigram-11292563#publisher=newsstand"
       },
       {
-        "title": "\"Next Few Days In Iran War Will Be Decisive,\" Pete Hegseth Warns Tehran",
-        "link": "https://www.ndtv.com/world-news/next-few-days-in-iran-war-will-be-decisive-pete-hegseth-warns-tehran-11291686#publisher=newsstand"
+        "title": "Video: Iranian Woman Plays Cello At Biggest Power Plant After US Strike Threat",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-video-iranian-woman-plays-cello-at-biggest-power-plant-after-us-strike-threat-11292576#publisher=newsstand"
       },
       {
-        "title": "Video: Israel Minister Drinks, Celebrates Death Penalty Law For Palestinians",
-        "link": "https://www.ndtv.com/world-news/video-israel-minister-ben-gvir-drinks-celebrates-death-penalty-law-for-palestinians-11291970#publisher=newsstand"
+        "title": "Delhi-Bound Flight Makes Emergency Landing In Lucknow After Smoke Alarm",
+        "link": "https://www.ndtv.com/india-news/delhi-bound-flight-makes-emergency-landing-in-lucknow-after-smoke-alarm-11292367#publisher=newsstand"
       },
       {
-        "title": "Centre Flags Deepfake Threat As Social Media Crackdown Faces Criticism",
-        "link": "https://www.ndtv.com/india-news/centre-flags-deepfake-threat-as-social-media-crackdown-faces-criticism-11291877#publisher=newsstand"
+        "title": "Beds In Parking Lot: Inside Israel's Hospital Built For Missile Threats",
+        "link": "https://www.ndtv.com/world-news/beds-in-parking-lot-inside-israels-hospital-built-for-missile-threats-11292451#publisher=newsstand"
       },
       {
-        "title": "Senior Bureaucrat Vir Vikram Yadav Appointed New Aviation Body Chief",
-        "link": "https://www.ndtv.com/india-news/senior-bureaucrat-vir-vikram-yadav-appointed-new-aviation-body-dgca-chief-11291758#publisher=newsstand"
+        "title": "\"Political Vultures\": PM Modi Slams Congress Over Response To Iran War",
+        "link": "https://www.ndtv.com/india-news/political-vultures-pm-narendra-modi-slams-congress-over-response-to-iran-war-11292462#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-03-31 14:13 UTC"
+  "last_updated": "2026-03-31 15:37 UTC"
 }
