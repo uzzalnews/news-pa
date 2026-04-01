@@ -14,8 +14,8 @@
   "news": {
     "BBC": [
       {
-        "title": "BBC knew about Scott Mills sexual offences investigation in 2017",
-        "link": "https://www.bbc.com/news/articles/cwywvrye76lo?at_medium=RSS&at_campaign=rss"
+        "title": "Scott Mills confirms he was investigated by police in first statement since sacking",
+        "link": "https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
@@ -36,6 +36,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "‘This is an apartheid regime’: Critics decry Israel’s new death penalty law",
+        "link": "https://www.aljazeera.com/news/2026/4/1/this-is-an-apartheid-regime-critics-decry-israels-new-death-penalty-law?traffic_source=rss"
+      },
+      {
         "title": "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iranian-officials-laugh-at-trumps-claim-iran-wants-a-ceasefire?traffic_source=rss"
       },
@@ -50,10 +54,6 @@
       {
         "title": "UK to host meeting of 35 countries on reopening Strait of Hormuz",
         "link": "https://www.aljazeera.com/news/2026/4/1/uk-to-host-meeting-of-35-countries-on-reopening-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "What can nations do to make up for the ongoing energy shortfall?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/1/what-can-nations-do-to-make-up-for-the-ongoing-energy-shortfall?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -89,16 +89,16 @@
         "link": "https://www.dawn.com/news/1987575/in-historic-first-trump-attends-supreme-court-arguments-on-limiting-birthright-citizenship"
       },
       {
+        "title": "In Senate panel meeting, banks and telcos trade blame for overcharging for messaging services",
+        "link": "https://www.dawn.com/news/1987579/in-senate-panel-meeting-banks-and-telcos-trade-blame-for-overcharging-for-messaging-services"
+      },
+      {
         "title": "4 cops among 9 injured in IED blast in KP’s Lakki Marwat",
         "link": "https://www.dawn.com/news/1987545/4-cops-among-9-injured-in-ied-blast-in-kps-lakki-marwat"
       },
       {
         "title": "‘Historic milestone’: Pakistan, Norway sign carbon market deal under Paris Agreement",
         "link": "https://www.dawn.com/news/1987538/historic-milestone-pakistan-norway-sign-carbon-market-deal-under-paris-agreement"
-      },
-      {
-        "title": "Swiss government eyes dropping purchase of US Patriot air defence system",
-        "link": "https://www.dawn.com/news/1987564/swiss-government-eyes-dropping-purchase-of-us-patriot-air-defence-system"
       }
     ],
     "APNews": [],
@@ -116,15 +116,27 @@
         "link": "https://www.nytimes.com/2026/04/01/us/politics/wong-kim-ark-birthright-citizenship.html"
       },
       {
-        "title": "Israel’s Message to a Broad Swath of Lebanon: Shiites Must Go",
-        "link": "https://www.nytimes.com/2026/04/01/world/middleeast/lebanon-shiite-israel-evacuation.html"
-      },
-      {
         "title": "Trump Says Europe Is On Its Own in Securing the Strait of Hormuz",
         "link": "https://www.nytimes.com/2026/04/01/world/middleeast/trump-europe-nato-iran.html"
+      },
+      {
+        "title": "Placing U.S. Troops in Middle East Hotels May Violate Laws of War",
+        "link": "https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "US offers $3m reward for information on Iraq attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-offers-3m-reward-information-iraq-attacks"
+      },
+      {
+        "title": "Israeli military says 10 soldiers killed, over 300 wounded in war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-10-soldiers-killed-over-300-wounded-war"
+      },
+      {
+        "title": "Heavy fighting and strikes intensify along Lebanon’s southwest coast",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/heavy-fighting-and-strikes-intensify-along-lebanons-southwest-coast"
+      },
       {
         "title": "Trump says ceasefire tied to Hormuz reopening, vows continued strikes",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-ceasefire-tied-hormuz-reopening-vows-continued-strikes"
@@ -132,40 +144,28 @@
       {
         "title": "Kuwait says airport fuel tank fire extinguished after drone attack",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-says-airport-fuel-tank-fire-extinguished-after-drone-attack"
-      },
-      {
-        "title": "IRGC says Hormuz under its control amid Trump ceasefire remarks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-hormuz-firmly-under-its-control-amid-trump-ceasefire-remarks"
-      },
-      {
-        "title": "Israeli wounded after rocket strikes Kiryat Shmona",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-wounded-after-rocket-strikes-israels-kiryat-shmona"
-      },
-      {
-        "title": "Israel says strikes targeting Iranian government infrastructure",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-strikes-targeting-iranian-government-infrastructure"
       }
     ],
     "GeoTV": [
       {
-        "title": "What to expect from King Charles' Congress speech",
-        "link": "https://www.geo.tv/latest/658131-what-to-expect-from-king-charles-congress-speech"
+        "title": "Elon's Musk SpaceX confidentially files for IPO, plans to raise largest US IPO ever",
+        "link": "https://www.geo.tv/latest/658144-elons-musk-spacex-confidentially-files-for-ipo-plans-to-raise-largest-us-ipo-ever"
       },
       {
-        "title": "Nasa counts down for first crewed lunar mission in half a century",
-        "link": "https://www.geo.tv/latest/658135-nasa-counts-down-for-first-crewed-lunar-mission-in-half-a-century"
+        "title": "Swiss government eyes dropping purchase of US Patriot air defence system",
+        "link": "https://www.geo.tv/latest/658141-swiss-government-eyes-dropping-purchase-of-us-patriot-air-defence-system"
       },
       {
-        "title": "Prince Harry reduced to tears by King Charles' alleged 'betrayal'",
-        "link": "https://www.geo.tv/latest/658133-prince-harry-reduced-to-tears-by-king-charles-alleged-betrayal"
+        "title": "Islamabad rubbishes Pak-Afghan border fence removal claims as ‘devoid of facts'",
+        "link": "https://www.geo.tv/latest/658140-islamabad-rubbishes-pak-afghan-border-fence-removal-claims-as-devoid-of-facts"
       },
       {
-        "title": "How to buy FIFA World Cup tickets before for last time: Here's everything to know",
-        "link": "https://www.geo.tv/latest/658137-how-to-buy-fifa-world-cup-tickets-before-for-last-time-heres-everything-to-know"
+        "title": "'Embarrassed' Spain probes anti-Muslim chants at Egypt friendly",
+        "link": "https://www.geo.tv/latest/658138-embarrassed-spain-probes-anti-muslim-chants-at-egypt-friendly"
       },
       {
-        "title": "Trump becomes first sitting president to attend Supreme Court arguments on birthright citizenship",
-        "link": "https://www.geo.tv/latest/658136-trump-becomes-first-sitting-president-to-attend-supreme-court-arguments-on-birthright-citizenship"
+        "title": "Pakistan-China naval forces conclude Sea Guardian IV Exercise: ISPR",
+        "link": "https://www.geo.tv/latest/658142-pakistan-china-naval-forces-conclude-sea-guardian-iv-exercise-ispr"
       }
     ],
     "NDTV": [
@@ -213,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-01 17:13 UTC"
+  "last_updated": "2026-04-01 18:05 UTC"
 }
