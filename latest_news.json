@@ -9,10 +9,6 @@
   "news": {
     "BBC": [
       {
-        "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-        "link": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Funeral director who kept bodies for months admits 30 counts of preventing lawful burial",
         "link": "https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&at_campaign=rss"
       },
@@ -21,34 +17,38 @@
         "link": "https://www.bbc.com/news/articles/c4gdp4n6nqvo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Prince William praises £20m milestone for Bowelbabe fund",
+        "link": "https://www.bbc.com/news/articles/c4gvd994x15o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Storm Dave set to batter UK with gales and blizzards over Easter weekend",
         "link": "https://www.bbc.com/weather/articles/ce3d7n10ypyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "BBC boss Tim Davie says it was 'very clear' Scott Mills had to go",
-        "link": "https://www.bbc.com/news/articles/cy01wd437x2o?at_medium=RSS&at_campaign=rss"
+        "title": "Investigation into IVF clinics in northern Cyprus after UK families given wrong sperm",
+        "link": "https://www.bbc.com/news/articles/ce9mx2ggdg3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
-        "link": "https://www.aljazeera.com/video/quotable/2026/4/2/israel-has-been-avoiding-any-diplomacy-and-pursuing-escalation?traffic_source=rss"
+        "title": "Trump says Pam Bondi out as Attorney General",
+        "link": "https://www.aljazeera.com/news/2026/4/2/trump-says-pam-bondi-out-as-attorney-general?traffic_source=rss"
       },
       {
-        "title": "World Cup 2026: Italy’s football chief resigns after qualifying failure",
-        "link": "https://www.aljazeera.com/sports/2026/4/2/world-cup-2026-italys-football-chief-resigns-after-qualifying-failure?traffic_source=rss"
+        "title": "Argentina expels Iranian diplomat amid rift over blacklisting IRGC",
+        "link": "https://www.aljazeera.com/news/2026/4/2/argentina-expels-iranian-diplomat-amid-rift-over-blacklisting-irgc?traffic_source=rss"
       },
       {
-        "title": "Pakistan, Afghanistan hold talks in China to end months of conflict",
-        "link": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss"
+        "title": "World Cup 2026: Iran and Infantino talks progressing as war darkens US trip",
+        "link": "https://www.aljazeera.com/sports/2026/4/2/world-cup-2026-iran-and-infantino-talks-progressing-as-war-darkens-us-trip?traffic_source=rss"
       },
       {
-        "title": "US reinforcements are coming to the Gulf – but what does victory look like?",
-        "link": "https://www.aljazeera.com/video/project-force-2/2026/4/2/us-reinforcements-are-coming-to-the-gulf-but-what-does-victory-look-like?traffic_source=rss"
+        "title": "US-Israeli strike hits newly opened B1 bridge near Tehran, killing two",
+        "link": "https://www.aljazeera.com/video/2026/4/2/us-israeli-strike-hits-newly-opened-b1-bridge-near-tehran-killing-two?traffic_source=rss"
       },
       {
-        "title": "Can the US seize Iran’s enriched uranium – and what are the risks?",
-        "link": "https://www.aljazeera.com/news/2026/4/2/can-the-us-seize-irans-enriched-uranium-and-what-are-the-risks?traffic_source=rss"
+        "title": "Video: Protests in Gaza against Israel’s Palestinian death penalty law",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/video-protests-in-gaza-against-israels-palestinian-death-penalty-law?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,6 +99,14 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Trump Faces a Tough Fight With His New Budget",
+        "link": "https://www.nytimes.com/2026/04/02/business/economy/trump-budget-spending.html"
+      },
+      {
+        "title": "Nutrition Will Now Be Required in Medical Schools After RFK Jr. Pressure",
+        "link": "https://www.nytimes.com/2026/04/02/us/medical-schools-accreditation-rfk-jr.html"
+      },
+      {
         "title": "Every Trump Threat to Abandon NATO Hollows It Out",
         "link": "https://www.nytimes.com/2026/04/02/world/europe/trump-nato-iran.html"
       },
@@ -109,17 +117,21 @@
       {
         "title": "U.K. to Host Talks on Securing Strait of Hormuz",
         "link": "https://www.nytimes.com/2026/04/02/world/uk-reopen-strait-of-hormuz-talks.html"
-      },
-      {
-        "title": "Bondi Is Vulnerable as Republican Frustrations Over DOJ’s Epstein Files Missteps Grow",
-        "link": "https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html"
-      },
-      {
-        "title": "Trump Faces a Tough Fight With His New Budget",
-        "link": "https://www.nytimes.com/2026/04/02/business/economy/trump-budget-spending.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israel says missiles launched from Iran, alerts issued for central areas",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-missiles-launched-iran-alerts-issued-central-areas"
+      },
+      {
+        "title": "Iran claims drone attack on US jets in Jordan as Kuwait intercepts missiles",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-claims-drone-attack-us-jets-jordan-kuwait-intercepts-missiles"
+      },
+      {
+        "title": "Putin calls for end to war in talks with Saudi crown prince",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/putin-calls-end-war-talks-saudi-crown-prince"
+      },
       {
         "title": "Iran, Oman drafting protocol to monitor Hormuz traffic",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-drafting-protocol-monitor-hormuz-traffic"
@@ -127,40 +139,28 @@
       {
         "title": "Qatar says it intercepted Iranian drone attack",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-it-intercepted-iranian-drone-attack"
-      },
-      {
-        "title": "UK to convene meeting of 40 countries to discuss how to reopen Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-convene-meeting-40-countries-discuss-how-reopen-hormuz"
-      },
-      {
-        "title": "UK elections: Here's where Greens, Your Party and independents will challenge Labour",
-        "link": "https://www.middleeasteye.net/news/heres-where-greens-your-party-and-independents-are-poised-win-big-may-elections"
-      },
-      {
-        "title": "IRGC says it has launched attacks on Amazon centre in Bahrain",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-say-they-started-attack-amazon-centre-bahrain"
       }
     ],
     "GeoTV": [
       {
-        "title": "Tsunami warning lifted after 7.4 earthquake shakes eastern Indonesia",
-        "link": "https://www.geo.tv/latest/658274-tsunami-warning-lifted-after-74-earthquake-shakes-eastern-indonesia"
+        "title": "King Charles won't speak this year, Palace announces",
+        "link": "https://www.geo.tv/latest/658283-king-charles-wont-speak-this-year-palace-announces"
       },
       {
-        "title": "Pakistan warns India of 'more forceful' response ahead of Pahalgam attack anniversary",
-        "link": "https://www.geo.tv/latest/658265-pakistan-warns-india-of-more-forceful-response-ahead-of-pahalgam-attack-anniversary"
+        "title": "Karachi witnesses stunning rainbow after heavy rains",
+        "link": "https://www.geo.tv/latest/658279-karachi-witnesses-stunning-rainbow-after-heavy-rains"
       },
       {
-        "title": "Artemis II debuts Moon mission's first real bathroom",
-        "link": "https://www.geo.tv/latest/658272-artemis-ii-debuts-moon-missions-first-real-bathroom"
+        "title": "FBR proposes tax on social media earnings",
+        "link": "https://www.geo.tv/latest/658276-fbr-proposes-tax-on-social-media-earnings"
       },
       {
-        "title": "Jennifer Lopez dominates screen in 'Kiss of the Spider Woman' first look",
-        "link": "https://www.geo.tv/latest/658271-jennifer-lopez-dominates-screen-in-kiss-of-the-spider-woman-first-look"
+        "title": "Sombr gives Taylor Swift endearing title after receving signature gifts",
+        "link": "https://www.geo.tv/latest/658254-sombr-gives-taylor-swift-endearing-title-after-receving-signature-gifts"
       },
       {
-        "title": "King Charles hosts Syrian President Al-Sharaa at Buckingham Palace",
-        "link": "https://www.geo.tv/latest/658269-king-charles-hosts-syrian-president-al-sharaa-at-buckingham-palace"
+        "title": "Oil up 8.2%, gas rises 37%, stock market sinks as Trump lacks clear Iran exit plan",
+        "link": "https://www.geo.tv/latest/658281-oil-up-82-gas-rises-37-stock-market-sinks-as-trump-lacks-clear-iran-exit-plan"
       }
     ],
     "NDTV": [
@@ -187,6 +187,10 @@
     ],
     "TheGuardian": [
       {
+        "title": "Uganda receives first US deportation flight under third-country agreement",
+        "link": "https://www.theguardian.com/us-news/2026/apr/02/uganda-receives-first-us-deportation-flight-under-third-country-agreement"
+      },
+      {
         "title": "News outlets falsely report Somaliland called for extradition of Ilhan Omar",
         "link": "https://www.theguardian.com/us-news/2026/mar/30/ilhan-omar-false-reports-somaliland"
       },
@@ -201,12 +205,8 @@
       {
         "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
         "link": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say"
-      },
-      {
-        "title": "Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions",
-        "link": "https://www.theguardian.com/world/2026/mar/29/graaff-reinet-robert-sobukwe-south-african-town-name-change-stirs-racial-tensions"
       }
     ]
   },
-  "last_updated": "2026-04-02 16:37 UTC"
+  "last_updated": "2026-04-02 17:32 UTC"
 }
