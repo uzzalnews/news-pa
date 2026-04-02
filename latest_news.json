@@ -2,7 +2,7 @@
   "breaking": [
     {
       "source": "NDTV",
-      "title": "Stock Market LIVE Updates: Sensex Drops 1,400 Points As Markets Crash Over Trump's Latest Iran Threat",
+      "title": "Stock Market LIVE Updates: Sensex Drops 1,300 Points As Markets Crash Over Trump's Latest Iran Threat",
       "link": "https://www.ndtv.com/india-news/stock-markets-live-updates-sensex-nifty-today-gift-nifty-donald-trump-iran-war-oil-prices-april-2-11299805#publisher=newsstand"
     },
     {
@@ -14,11 +14,11 @@
   "news": {
     "BBC": [
       {
-        "title": "Watch the moment Artemis II blasts into space on historic mission",
+        "title": "Watch the moment Artemis II blasts off on historic mission",
         "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'We go for all humanity' - emotional moment as Artemis II launches",
+        "title": "Cheers and joy as dream of space travel reignites",
         "link": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -26,15 +26,27 @@
         "link": "https://www.bbc.com/news/articles/cwyj7dwwlq9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "The delicate question of where responsibility lies for safety on our mountains",
-        "link": "https://www.bbc.com/news/articles/cz0e105yk23o?at_medium=RSS&at_campaign=rss"
+        "title": "BBC sacked Scott Mills after learning alleged victim in police investigation was under 16",
+        "link": "https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Record monthly rise in petrol and diesel prices, says RAC",
+        "title": "Petrol and diesel prices rise at record rate in March, says RAC",
         "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Israel’s death penalty law is not about executing Palestinians",
+        "link": "https://www.aljazeera.com/opinions/2026/4/2/israels-death-penalty-law-is-not-about-executing-palestinians?traffic_source=rss"
+      },
+      {
+        "title": "How long will Artemis II take to reach the moon, and what happens next?",
+        "link": "https://www.aljazeera.com/news/2026/4/2/how-long-will-artemis-ii-take-to-reach-the-moon-and-what-happens-next?traffic_source=rss"
+      },
+      {
+        "title": "Trump’s primetime speech on Iran war: Key takeaways",
+        "link": "https://www.aljazeera.com/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways?traffic_source=rss"
+      },
       {
         "title": "Trump’s national address on Iran ’embarrassing, incoherent’",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trumps-national-address-on-iran-embarrassing?traffic_source=rss"
@@ -42,18 +54,6 @@
       {
         "title": "Trump claims ‘success’ in Iran in just 32 days compared to lengthy US wars",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-claims-success-in-iran-in-just-32-days-compared-to-lengthy-us-wars?traffic_source=rss"
-      },
-      {
-        "title": "Trump threatens to bring Iran ‘back to the Stone Ages’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-threatens-to-bring-iran-back-to-the-stone?traffic_source=rss"
-      },
-      {
-        "title": "Trump urges countries ‘get involved’ in war on Iran if they can’t get fuel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-urges-countries-get-involved-in-war-on-iran-if-they-cant-get-fuel?traffic_source=rss"
-      },
-      {
-        "title": "Gambia police fire tear gas at rally over rearrest of siblings",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/gambia-police-fire-tear-gas-at-rally-over-rearrest-of-siblings?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -81,8 +81,16 @@
     ],
     "Dawn": [
       {
+        "title": "Security forces kill 8 terrorists along Pak-Afghan border in North Waziristan: ISPR",
+        "link": "https://www.dawn.com/news/1987791/security-forces-kill-8-terrorists-along-pak-afghan-border-in-north-waziristan-ispr"
+      },
+      {
         "title": "Trump says conflict nearing end, threatens wider attacks on Iran",
         "link": "https://www.dawn.com/news/1987698/trump-says-conflict-nearing-end-threatens-wider-attacks-on-iran"
+      },
+      {
+        "title": "Rain begins in Karachi, surrounding areas as local authorities declare emergency",
+        "link": "https://www.dawn.com/news/1987780/rain-begins-in-karachi-surrounding-areas-as-local-authorities-declare-emergency"
       },
       {
         "title": "Nasa launches 4 astronauts on world’s first crewed lunar mission in half a century",
@@ -91,14 +99,6 @@
       {
         "title": "Democrats demand ceasefire as Trump defends costly war on Iran",
         "link": "https://www.dawn.com/news/1987773/democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran"
-      },
-      {
-        "title": "Pakistan may become ‘fourth most populated nation’ in five years",
-        "link": "https://www.dawn.com/news/1987671/pakistan-may-become-fourth-most-populated-nation-in-five-years"
-      },
-      {
-        "title": "UK to host 35-state  moot on reopening of Hormuz Strait",
-        "link": "https://www.dawn.com/news/1987674/uk-to-host-35-state-moot-on-reopening-of-hormuz-strait"
       }
     ],
     "APNews": [],
@@ -109,22 +109,26 @@
       },
       {
         "title": "China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder",
-        "link": "https://www.nytimes.com/2026/04/02/world/asia/chinas-aiming-for-the-moon-and-nasa-is-looking-over-its-shoulder.html"
+        "link": "https://www.nytimes.com/2026/04/02/world/asia/china-space-moon-nasa-artemis.html"
       },
       {
         "title": "The Artemis II Toilet Had a Problem",
         "link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-bathroom-toilet.html"
       },
       {
-        "title": "Trump Initially Laid Out Five Goals for the Iran War. Here’s Where They Stand.",
-        "link": "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html"
+        "title": "5 Takeaways From Trump’s Address on Iran",
+        "link": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html"
       },
       {
-        "title": "Iran Is Skeptical About Diplomacy, U.S. Intelligence Says",
-        "link": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war.html"
+        "title": "Iran War Showcases Strength of South Korean Defense Sector",
+        "link": "https://www.nytimes.com/2026/04/02/business/korea-missile-defense-iran.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iran's military warns of 'more destructive' attacks'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-military-warns-more-destructive-attacks"
+      },
       {
         "title": "US Embassy in Iraq urges citizens to flee, warns of imminent attacks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-iraq-urges-citizens-flee-warns-imminent-attacks"
@@ -140,54 +144,50 @@
       {
         "title": "Sirens blare across Israel, as Hezbollah claims more attacks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sirens-blare-across-israel-hezbollah-claims-more-attacks"
-      },
-      {
-        "title": "Gulf states considering new pipeline amid Iran curb on Hormuz Strait: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-states-considering-new-pipeline-amid-iran-curb-hormuz-strait-report"
       }
     ],
     "GeoTV": [
       {
-        "title": "Should Meghan be worried about Prince Harry's 'flirty' texts to journalist",
-        "link": "https://www.geo.tv/latest/658190-should-meghan-be-worried-about-prince-harrys-flirty-texts-to-journalist"
+        "title": "Buckingham Palace releases statement ahead of key family gathering",
+        "link": "https://www.geo.tv/latest/658199-buckingham-palace-releases-statement-ahead-of-key-family-gathering"
       },
       {
-        "title": "Pakistan assures IMF fuel costs will be passed on to consumers",
-        "link": "https://www.geo.tv/latest/658189-pakistan-assures-imf-fuel-costs-will-be-passed-on-to-consumers"
+        "title": "Give peace a chance",
+        "link": "https://www.geo.tv/latest/658198-give-peace-a-chance"
       },
       {
-        "title": "Travis Kelce drops playful hint about life with Taylor Swift",
-        "link": "https://www.geo.tv/latest/658187-travis-kelce-drops-playful-hint-about-life-with-taylor-swift"
+        "title": "Beijing presses Islamabad to settle $220m dues of Chinese energy firm",
+        "link": "https://www.geo.tv/latest/658193-beijing-presses-islamabad-to-settle-220m-dues-of-chinese-energy-firm"
       },
       {
-        "title": "Karachi sees widespread rain with thunderstorms",
-        "link": "https://www.geo.tv/latest/658186-karachi-sees-widespread-rain-with-thunderstorms"
+        "title": "PSX falls as Trump's Iran warning rattles sentiment",
+        "link": "https://www.geo.tv/latest/658192-psx-falls-as-trumps-iran-warning-rattles-sentiment"
       },
       {
-        "title": "King Charles makes exception to age-old rule for Peter Phillips wedding",
-        "link": "https://www.geo.tv/latest/658185-king-charles-makes-exception-to-age-old-rule-for-peter-phillips-wedding"
+        "title": "Security forces neutralise 8 Indian-sponsored militants in KP",
+        "link": "https://www.geo.tv/latest/658196-security-forces-neutralise-8-indian-sponsored-militants-in-kp"
       }
     ],
     "NDTV": [
       {
-        "title": "Asaduddin Owaisi's \"Regressive Politics\" Dig At Himanta Sarma At Assam Rally",
-        "link": "https://www.ndtv.com/india-news/asaduddin-owaisis-regressive-politics-dig-at-himanta-sarma-at-assam-rally-11300164#publisher=newsstand"
-      },
-      {
-        "title": "Jharkhand Teen Killed In Sacrifice, Mother, 'Tantrik' Among 3 Arrested",
-        "link": "https://www.ndtv.com/india-news/jharkhand-teen-killed-in-sacrifice-mother-tantrik-among-3-arrested-11299911#publisher=newsstand"
-      },
-      {
-        "title": "Trump Says Iran War Objectives 'Nearing Completion': \"Nukes Were At Doorstep\"",
-        "link": "https://www.ndtv.com/world-news/iran-war-trump-speech-live-trumps-iran-war-objective-and-mixed-messaging-key-takeaway-from-end-plan-11299879#publisher=newsstand"
-      },
-      {
-        "title": "Delhi To Replace Over 1 Lakh Chinese CCTV Cameras Over Security Concerns",
-        "link": "https://www.ndtv.com/delhi-news/delhi-to-replace-over-1-lakh-chinese-cctv-cameras-over-security-concerns-aap-flags-selective-security-concerns-11300048#publisher=newsstand"
-      },
-      {
-        "title": "Stock Market LIVE Updates: Sensex Drops 1,400 Points As Markets Crash Over Trump's Latest Iran Threat",
+        "title": "Stock Market LIVE Updates: Sensex Drops 1,300 Points As Markets Crash Over Trump's Latest Iran Threat",
         "link": "https://www.ndtv.com/india-news/stock-markets-live-updates-sensex-nifty-today-gift-nifty-donald-trump-iran-war-oil-prices-april-2-11299805#publisher=newsstand"
+      },
+      {
+        "title": "Biggest Surge In 12.5 Years: How Is RBI Saving Rupee From Iran War Jitters",
+        "link": "https://www.ndtv.com/india-news/biggest-surge-in-12-years-how-is-rbi-saving-rupee-amid-iran-war-forex-oil-prices-11300593#publisher=newsstand"
+      },
+      {
+        "title": "Rs 1.5 Crore Multi-State Crypto Scam Busted, 6 Arrested In Ahmedabad",
+        "link": "https://www.ndtv.com/ahmedabad-news/ahmedabad-crypto-scam-rs-1-5-crore-multi-state-crypto-scam-busted-6-arrested-in-ahmedabad-11300607#publisher=newsstand"
+      },
+      {
+        "title": "What Is Benjamin Netanyahu's End Game In The Iran War?",
+        "link": "https://www.ndtv.com/world-news/what-is-benjamin-netanyahus-end-game-in-the-iran-war-11300518#publisher=newsstand"
+      },
+      {
+        "title": "Sonali Bendre Accused Of Land Fraud By Pune Farmer, She Denies Charge",
+        "link": "https://www.ndtv.com/india-news/sonali-bendre-accused-of-land-fraud-by-pune-farmer-she-denies-charge-11300427#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-02 05:25 UTC"
+  "last_updated": "2026-04-02 06:48 UTC"
 }
