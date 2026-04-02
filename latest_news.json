@@ -1,6 +1,11 @@
 {
   "breaking": [
     {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates: Markets Recover From Crash, Sensex, Nifty Bounce Back In Green",
+      "link": "https://www.ndtv.com/india-news/stock-markets-live-updates-sensex-nifty-today-gift-nifty-donald-trump-iran-war-oil-prices-april-2-11299805#publisher=newsstand"
+    },
+    {
       "source": "TheGuardian",
       "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
       "link": "https://www.theguardian.com/global-development/2026/mar/30/urgent-action-needed-to-prevent-surge-in-digital-violence-in-africa-experts-say"
@@ -9,46 +14,46 @@
   "news": {
     "BBC": [
       {
-        "title": "Watch the moment Artemis II blasts off on historic mission",
-        "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Dream of space travel reignites with journey to circle the Moon",
-        "link": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'You can feel the force of it':  See BBC science editor react to launch",
-        "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Trump leaves key questions unanswered as he seeks to calm nerves over war",
         "link": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "UK to host virtual summit on reopening the Strait of Hormuz",
         "link": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Doctors lose new jobs package as strike to go ahead",
+        "link": "https://www.bbc.com/news/articles/cwyj7dwwlq9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC sacked Scott Mills after learning alleged victim in police investigation was under 16",
+        "link": "https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Petrol and diesel prices see biggest rise on record in March",
+        "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "‘Orban constantly vetoes’: Europe braces for Hungary election",
-        "link": "https://www.aljazeera.com/news/2026/4/2/orban-constantly-vetoes-europe-braces-for-hungary-election?traffic_source=rss"
+        "title": "Trump’s tariffs one year on: How Americans are paying the price",
+        "link": "https://www.aljazeera.com/news/2026/4/2/trumps-tariffs-one-year-on-how-americans-are-paying-the-price?traffic_source=rss"
       },
       {
-        "title": "Iran’s ex-foreign minister Kharazi ‘gravely wounded’ in attack on his home",
-        "link": "https://www.aljazeera.com/news/2026/4/2/irans-ex-foreign-minister-kharazi-gravely-wounded-in-attack-on-his-home?traffic_source=rss"
+        "title": "Nearly 1,200 children killed or injured in Yemen despite truce: NGO",
+        "link": "https://www.aljazeera.com/news/2026/4/2/nearly-1200-children-killed-or-injured-in-yemen-despite-truce?traffic_source=rss"
       },
       {
-        "title": "Oil price surges, Asian stocks fall as Trump vows to continue Iran attacks",
-        "link": "https://www.aljazeera.com/news/2026/4/2/oil-surges-asian-stocks-plunge-as-trump-vows-to-keep-up-iran-attacks?traffic_source=rss"
+        "title": "French court denies extradition of ex-Tunisian President Ben Ali’s daughter",
+        "link": "https://www.aljazeera.com/news/2026/4/2/french-court-denies-extradition-of-ex-tunisian-presidents-daughter?traffic_source=rss"
       },
       {
-        "title": "Iran war: What is happening on day 34 of US-Israel attacks?",
-        "link": "https://www.aljazeera.com/news/2026/4/2/iran-war-what-is-happening-on-day-34-of-us-israel-attacks?traffic_source=rss"
+        "title": "Mandelson tried to get Epstein’s ‘goddaughter’ access to 10 Downing Street",
+        "link": "https://www.aljazeera.com/news/2026/4/2/mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-street?traffic_source=rss"
       },
       {
-        "title": "Mourners vow resistance as Iran marks Islamic Republic’s 47th anniversary",
-        "link": "https://www.aljazeera.com/gallery/2026/4/2/mourners-vow-resistance-as-iran-marks-islamic-republics-47th-anniversary?traffic_source=rss"
+        "title": "How a year of tariffs cost Americans more than they saved",
+        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/2/how-a-year-of-tariffs-cost-americans-more-than-they-saved?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +81,14 @@
     ],
     "Dawn": [
       {
+        "title": "Pakistan in talks with Afghanistan but Kabul must demonstrate ‘visible and verifiable actions’: FO",
+        "link": "https://www.dawn.com/news/1987810/pakistan-in-talks-with-afghanistan-but-kabul-must-demonstrate-visible-and-verifiable-actions-fo"
+      },
+      {
+        "title": "Emergency in place as heavy rain lashes parts of Karachi",
+        "link": "https://www.dawn.com/news/1987780/emergency-in-place-as-heavy-rain-lashes-parts-of-karachi"
+      },
+      {
         "title": "Security forces kill 8 terrorists along Pak-Afghan border in North Waziristan: ISPR",
         "link": "https://www.dawn.com/news/1987791/security-forces-kill-8-terrorists-along-pak-afghan-border-in-north-waziristan-ispr"
       },
@@ -84,105 +97,97 @@
         "link": "https://www.dawn.com/news/1987698/back-to-stone-age-trump-says-conflict-nearing-end-threatens-wider-attacks-on-iran"
       },
       {
-        "title": "Karachi authorities declare emergency as westerly wave brings rainfall to city, nearby areas",
-        "link": "https://www.dawn.com/news/1987780/karachi-authorities-declare-emergency-as-westerly-wave-brings-rainfall-to-city-nearby-areas"
-      },
-      {
         "title": "PSX tumbles over 4,000 points during intraday trade as Trump speech sinks hopes for quick end to war",
         "link": "https://www.dawn.com/news/1987801/psx-tumbles-over-4000-points-during-intraday-trade-as-trump-speech-sinks-hopes-for-quick-end-to-war"
-      },
-      {
-        "title": "‘Vile, horrifying, evil’: Democrats demand ceasefire as Trump defends costly war on Iran",
-        "link": "https://www.dawn.com/news/1987773/vile-horrifying-evil-democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Artemis II Completes First Day of Its NASA Lunar Mission",
-        "link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-nasa-moon-launch.html"
+        "title": "5 Takeaways From Trump’s Address on Iran",
+        "link": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html"
+      },
+      {
+        "title": "Every Trump Threat to Abandon NATO Hollows It Out",
+        "link": "https://www.nytimes.com/2026/04/02/world/europe/trump-nato-iran.html"
       },
       {
         "title": "China’s Aiming for the Moon, and NASA Is Looking Over Its Shoulder",
         "link": "https://www.nytimes.com/2026/04/02/world/asia/china-space-moon-nasa-artemis.html"
       },
       {
-        "title": "The Artemis II Toilet Had a Problem",
-        "link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-bathroom-toilet.html"
+        "title": "Artemis II Completes First Day of Its NASA Lunar Mission",
+        "link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-nasa-moon-launch.html"
       },
       {
-        "title": "5 Takeaways From Trump’s Address on Iran",
-        "link": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html"
-      },
-      {
-        "title": "Iran War Showcases Strength of South Korean Defense Sector",
-        "link": "https://www.nytimes.com/2026/04/02/business/korea-missile-defense-iran.html"
+        "title": "Trump Has Discussed Firing Attorney General Pam Bondi",
+        "link": "https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli strike kills four in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-four-southern-lebanon"
-      },
-      {
-        "title": "Macron arrives in South Korea after Japan visit, touts Europe’s ‘predictability’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-arrives-south-korea-after-japan-visit-touts-europes"
-      },
-      {
-        "title": "Morning recap",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-137"
-      },
-      {
         "title": "Netanyahu rejects the gospel of Christ for the doctrine of Genghis Khan",
-        "link": "https://www.middleeasteye.net/opinion/netanyahu-rejects-gospel-christ-doctrine-genghis-khan"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-rejects-gospel-christ-doctrine-genghis-khan"
       },
       {
-        "title": "Iran's military warns of 'more destructive' attacks'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-military-warns-more-destructive-attacks"
+        "title": "Iran pledges safe passage through the Strait of Hormuz for Philippine oil shipments",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-pledges-safe-passage-through-strait-hormuz-philippine-oil-shipments"
+      },
+      {
+        "title": "Iran warns strike on Bushehr nuclear plant would be a ‘war crime’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-strike-bushehr-nuclear-plant-would-be-war-crime"
+      },
+      {
+        "title": "Bahrain says it intercepted 188 missiles, 429 drones since war began",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-says-it-intercepted-188-missiles-429-drones-war-began"
+      },
+      {
+        "title": "Iran executes man over attack on military site",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-man-over-attack-military-site"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince Harry's legal case takes sharp turn after bombshell: ‘big finish'",
-        "link": "https://www.geo.tv/latest/658213-prince-harrys-legal-case-takes-sharp-turn-after-bombshell-big-finish"
+        "title": "Meghan Markle receives glam support after shocking live blast",
+        "link": "https://www.geo.tv/latest/658219-meghan-markle-receives-glam-support-after-shocking-live-blast"
       },
       {
-        "title": "England's Brook, Bethell warned after New Zealand nightclub incident",
-        "link": "https://www.geo.tv/latest/658212-englands-brook-bethell-warned-after-new-zealand-nightclub-incident"
+        "title": "Anna Faris reacts to viral 'Toy Story 5' casting rumours",
+        "link": "https://www.geo.tv/latest/658220-anna-faris-reacts-to-viral-toy-story-5-casting-rumours"
       },
       {
-        "title": "Lili Reinhart recalls male director's shocking on-set comment",
-        "link": "https://www.geo.tv/latest/658208-lili-reinhart-recalls-male-directors-shocking-on-set-comment"
+        "title": "Eugene Mirman, voice of Bob's Burgers, hospitalized following fiery car wreck",
+        "link": "https://www.geo.tv/latest/658218-eugene-mirman-voice-of-bobs-burgers-hospitalized-following-fiery-car-wreck"
       },
       {
-        "title": "Kim Kardashian, Kris Jenner lose key court fight against Ray J",
-        "link": "https://www.geo.tv/latest/658209-kim-kardashian-kris-jenner-lose-key-court-fight-against-ray-j"
+        "title": "Scott Mills speaks out after shock BBC exit",
+        "link": "https://www.geo.tv/latest/658216-scott-mills-speaks-out-after-shock-bbc-exit"
       },
       {
-        "title": "Meghan makes quiet move from Montecito amid Harry's intimate texts buzz",
-        "link": "https://www.geo.tv/latest/658203-meghan-makes-quiet-move-from-montecito-amid-harrys-intimate-texts-buzz"
+        "title": "'XO, Kitty' season 3: Release time, plot and what to expect",
+        "link": "https://www.geo.tv/latest/658210-xo-kitty-season-3-release-time-plot-and-what-to-expect"
       }
     ],
     "NDTV": [
       {
-        "title": "\"He Is Still Recovering\": Trump Mocks Macron, Says Wife Treats Him \"Badly\"",
-        "link": "https://www.ndtv.com/world-news/he-is-still-recovering-us-president-donald-trump-mocks-french-president-emmanuel-macron-says-wife-brigitte-macron-treats-him-badly-11300835#publisher=newsstand"
+        "title": "\"You Know Nothing\": Iran's Warning After Trump's \"Stone Age\" Threat",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-you-know-nothing-irans-warning-after-trumps-stone-age-threat-11301322#publisher=newsstand"
       },
       {
-        "title": "After Supreme Court's Rap, Mamata Banerjee's \"Not In My Hand\" Note On Hostage Shocker",
-        "link": "https://www.ndtv.com/india-news/bengal-assembly-elections-sir-gherao-supreme-court-mamata-banerjee-bengal-judicial-officers-hostage-shocker-11300986#publisher=newsstand"
+        "title": "\"Our Indian Friends In Safe Hands, No Worries\": Iran On Hormuz Blockade",
+        "link": "https://www.ndtv.com/world-news/iran-on-strait-of-hormuz-blockade-amid-war-with-israel-us-our-indian-friends-in-safe-hands-no-worries-11301272#publisher=newsstand"
       },
       {
-        "title": "Video: Airline Passengers' \"Unreal\" Mid-Air View Of Artemis 2 Launch",
-        "link": "https://www.ndtv.com/world-news/nasa-artemis-2-launch-airline-passengers-record-unreal-mid-air-view-11300409#publisher=newsstand"
+        "title": "Stock Market LIVE Updates: Markets Recover From Crash, Sensex, Nifty Bounce Back In Green",
+        "link": "https://www.ndtv.com/india-news/stock-markets-live-updates-sensex-nifty-today-gift-nifty-donald-trump-iran-war-oil-prices-april-2-11299805#publisher=newsstand"
       },
       {
-        "title": "After LPG And Fuel, Iran War Can Also Disrupt India's Internet. Here's How",
-        "link": "https://www.ndtv.com/world-news/after-lpg-and-fuel-iran-war-can-also-disrupt-your-internet-heres-how-11300751#publisher=newsstand"
+        "title": "Over 20 Indian Workers Died Abroad Daily In Last 5 Years, Most In Gulf: Centre",
+        "link": "https://www.ndtv.com/india-news/over-20-indian-workers-died-abroad-daily-in-last-5-years-most-in-gulf-centre-11301162#publisher=newsstand"
       },
       {
-        "title": "Condoms To Get Costlier In India? How Iran War Is Impacting The Industry",
-        "link": "https://www.ndtv.com/india-news/condoms-to-get-costlier-in-india-how-iran-war-is-impacting-the-industry-beers-perfumes-iran-war-11300119#publisher=newsstand"
+        "title": "What's Real Anymore? How AI Blurs Truth In The Middle East War",
+        "link": "https://www.ndtv.com/world-news/iran-us-israel-war-what-is-real-anymore-how-ai-blurs-truth-in-the-middle-east-war-11301151#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-02 08:57 UTC"
+  "last_updated": "2026-04-02 10:05 UTC"
 }
