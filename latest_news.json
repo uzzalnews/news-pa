@@ -9,8 +9,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Artemis II blasts ever closer to the far side of the Moon",
+        "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
         "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
+        "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "M&S boss calls for more action on crime and abuse of staff",
@@ -23,32 +27,28 @@
       {
         "title": "Crisis staff found 'unforgivable scene' at convicted undertaker's funeral home",
         "link": "https://www.bbc.com/news/articles/cvg33l4g88lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Major Euston rail disruption across Easter weekend",
-        "link": "https://www.bbc.com/news/articles/cz0e18jjkx5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Man City vs Liverpool: FA Cup quarterfinal – team news, start, lineups",
+        "link": "https://www.aljazeera.com/sports/2026/4/3/man-city-vs-liverpool-fa-cup-quarterfinal-preview-team-news-start?traffic_source=rss"
+      },
+      {
+        "title": "Why did Trump fire Pam Bondi from Justice Department, who is Todd Blanche?",
+        "link": "https://www.aljazeera.com/news/2026/4/3/why-did-trump-fire-pam-bondi-from-justice-department-who-is-todd-blanche?traffic_source=rss"
+      },
+      {
+        "title": "Lakers handed one of heaviest defeats by Thunder and hit by Doncic injury",
+        "link": "https://www.aljazeera.com/sports/2026/4/3/lakers-handed-one-of-heaviest-defeats-by-thunder-and-hit-by-doncic-injury?traffic_source=rss"
+      },
+      {
+        "title": "Iran condemns US-Israeli ‘moral collapse’ after attacks on civilian sites",
+        "link": "https://www.aljazeera.com/news/2026/4/3/iran-condemns-us-israeli-moral-collapse-after-attacks-on-civilian-sites?traffic_source=rss"
+      },
+      {
         "title": "How Israel is destroying healthcare infrastructure in southern Lebanon",
         "link": "https://www.aljazeera.com/features/2026/4/3/how-israel-is-destroying-healthcare-infrastructure-in-southern-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Iranian women footballers reveal ‘enormous pressure’ of the Asian Cup saga",
-        "link": "https://www.aljazeera.com/sports/2026/4/3/iranian-women-footballers-reveal-enormous-pressure-of-the-asian-cup-saga?traffic_source=rss"
-      },
-      {
-        "title": "Hegseth fires US Army chief of staff in reported string of dismissals",
-        "link": "https://www.aljazeera.com/news/2026/4/3/hegseth-fires-us-army-chief-of-staff-in-reported-string-of-dismissals?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What is happening on day 35 of US-Israeli attacks?",
-        "link": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Myanmar’s coup leader elected president by pro-military parliament",
-        "link": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "Imran, Bushra approach IHC for fixing appeals against Toshakhana-I conviction, sentence suspension in £190m graft case",
+        "link": "https://www.dawn.com/news/1988099/imran-bushra-approach-ihc-for-fixing-appeals-against-toshakhana-i-conviction-sentence-suspension-in-ps190m-graft-case"
+      },
+      {
         "title": "Suicide bombing at Domel police station in Bannu leaves 5 civilians dead, 13 injured",
         "link": "https://www.dawn.com/news/1988070/suicide-bombing-at-domel-police-station-in-bannu-leaves-5-civilians-dead-13-injured"
       },
@@ -84,16 +88,12 @@
         "link": "https://www.dawn.com/news/1988063/pentagon-shake-up-as-hegseth-ousts-army-chief-amid-iran-conflict"
       },
       {
+        "title": "NA surrenders over Rs470m into national exchequer to support govt’s austerity drive",
+        "link": "https://www.dawn.com/news/1988090/na-surrenders-over-rs470m-into-national-exchequer-to-support-govts-austerity-drive"
+      },
+      {
         "title": "Fuel rates explode as govt withdraws blanket subsidy",
         "link": "https://www.dawn.com/news/1987962/fuel-rates-explode-as-govt-withdraws-blanket-subsidy"
-      },
-      {
-        "title": "Met Office says no rain expected in Karachi today as death toll rises to six",
-        "link": "https://www.dawn.com/news/1988080/met-office-says-no-rain-expected-in-karachi-today-as-death-toll-rises-to-six"
-      },
-      {
-        "title": "‘Breathtaking’: Artemis astronauts blast towards Moon",
-        "link": "https://www.dawn.com/news/1988074/breathtaking-artemis-astronauts-blast-towards-moon"
       }
     ],
     "APNews": [],
@@ -121,46 +121,46 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "US intel contradicts Trump's claims that Iran’s missile and drone arsenal destroyed",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-intel-contradicts-trumps-claims-irans-missile-and-drone-arsenal"
+      },
+      {
+        "title": "Debris from intercepted threat hits Abu Dhabi gas facility",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/debris-intercepted-threat-hits-abu-dhabi-gas-facility"
+      },
+      {
+        "title": "Oil prices surge as Trump threatens further strikes on Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-surge-trump-threatens-further-strikes-iran"
+      },
+      {
         "title": "Former Iranian FM urges Iran to declare victory and strike deal to end war",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-iranian-fm-urges-iran-declare-victory-and-strike-deal-end-war"
       },
       {
         "title": "UK mass crackdown on Palestine activism has brought chaos to the courts",
         "link": "https://www.middleeasteye.net/opinion/uk-crackdown-palestine-activism-hits-wall-courts"
-      },
-      {
-        "title": "Trump threatens expanded US strikes on Iran civilian infrastructure",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-expanded-us-strikes-iran-civilian-infrastructure"
-      },
-      {
-        "title": "UN delays Hormuz shipping vote as China signals opposition",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-delays-hormuz-shipping-vote-china-signals-opposition"
-      },
-      {
-        "title": "US defence chief sacks senior army officials amid leadership crises",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-defence-chief-sacks-senior-army-officials-amid-leadership-crises"
       }
     ],
     "GeoTV": [
       {
-        "title": "Zayn Malik shares exclusive photos from new album's promotions",
-        "link": "https://www.geo.tv/latest/658325-zayn-malik-shares-exclusive-photos-frpromo-ahead-of-new-album"
+        "title": "Katie Price's husband accused of 'playing woman' amid scam allegations",
+        "link": "https://www.geo.tv/latest/658350-katie-prices-husband-accused-of-playing-woman-amid-scam-allegations"
       },
       {
-        "title": "Meghan Markle responds as Prince Harry 'flirty' side exposed",
-        "link": "https://www.geo.tv/latest/658338-meghan-markle-responds-as-prince-harry-flirty-side-exposed"
+        "title": "Pam Bondi speaks after Trump ousted her as attorney general",
+        "link": "https://www.geo.tv/latest/658349-pam-bondi-speaks-after-trump-ousted-her-as-attorney-general"
       },
       {
-        "title": "Who is Jamie Bell? Actor replaces Barry Keoghan in new ‘Peaky Blinders'",
-        "link": "https://www.geo.tv/latest/658341-who-is-jamie-bell-actor-replaces-barry-keoghan-in-new-peaky-blinders"
+        "title": "Josie Gibson opts for oxygen therapy over designer bags in bold self care move",
+        "link": "https://www.geo.tv/latest/658342-josie-gibson-opts-for-oxygen-therapy-over-designer-bags-in-bold-self-care-move"
       },
       {
-        "title": "Taylor Swift, Travis Kelce marriage rumours explode after viral clip",
-        "link": "https://www.geo.tv/latest/658340-taylor-swift-travis-kelce-marriage-rumours-explode-after-viral-clip"
+        "title": "How much are Pakistanis paying in taxes, profit margins per litre of petrol?",
+        "link": "https://www.geo.tv/latest/658346-how-much-are-pakistanis-paying-in-taxes-profit-margins-per-litre-of-petrol"
       },
       {
-        "title": "IMF resists oil levy cut despite govt push for consumer relief amid global price surge",
-        "link": "https://www.geo.tv/latest/658332-imf-resists-oil-levy-cut-despite-government-push-for-consumer-relief-amid-price-surge"
+        "title": "Former Falcons QB Kirk Cousins signs with Raiders: contract details revealed",
+        "link": "https://www.geo.tv/latest/658344-former-falcons-qb-kirk-cousins-signs-with-raiders"
       }
     ],
     "NDTV": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-03 08:09 UTC"
+  "last_updated": "2026-04-03 09:09 UTC"
 }
