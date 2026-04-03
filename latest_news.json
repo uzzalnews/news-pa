@@ -3,16 +3,16 @@
   "news": {
     "BBC": [
       {
-        "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
-        "link": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Three charged over Jewish charity ambulance fires",
         "link": "https://www.bbc.com/news/articles/cz0ey7z2jx3o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Artemis II crew take 'spectacular' image of Earth",
         "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "After 16 years in power, can Viktor Orban finally be unseated?",
+        "link": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Starmer's cost-of-living adviser calls for fuel duty cut extension",
@@ -24,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Lawyers search for Epstein survivors for Bank of America $72.5m settlement",
+        "link": "https://www.aljazeera.com/news/2026/4/3/lawyers-search-for-epstein-survivors-for-bank-of-america-72-5m-settlement?traffic_source=rss"
+      },
       {
         "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss"
-      },
-      {
-        "title": "NASA releases first stunning Artemis II photos of Earth from moon mission",
-        "link": "https://www.aljazeera.com/news/2026/4/3/nasa-releases-first-stunning-artemis-ii-photos-of-earth-from-moon-mission?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,8 +82,8 @@
         "link": "https://www.dawn.com/news/1988321/pakistan-to-return-35bn-uae-debt-before-month-end-official"
       },
       {
-        "title": "Iran’s military claims shooting down second US jet as hunt for crew of downed F-15 aircraft continues",
-        "link": "https://www.dawn.com/news/1988290/irans-military-claims-shooting-down-second-us-jet-as-hunt-for-crew-of-downed-f-15-aircraft-continues"
+        "title": "Iran’s military claims shooting down second US jet while hunt for crew of downed F-15 aircraft continues",
+        "link": "https://www.dawn.com/news/1988290/irans-military-claims-shooting-down-second-us-jet-while-hunt-for-crew-of-downed-f-15-aircraft-continues"
       },
       {
         "title": "Provinces take the lead in doling out fuel subsidies following petrol price shock",
@@ -137,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Kylie Jenner drops bomb on her fans of ‘every year' Halloween looks",
+        "link": "https://www.geo.tv/latest/658434-kylie-jenner-drops-bomb-on-her-fans-of-every-year-halloween-looks"
+      },
+      {
         "title": "Barbie Ferreira reveals where she stands with 'Euphoria' girls after exit",
         "link": "https://www.geo.tv/latest/658433-barbie-ferreira-reveals-where-she-stands-with-euphoria-girls-after-exit"
       },
@@ -151,13 +155,13 @@
       {
         "title": "Joe Jonas shares candid glimpse into parenthood with Sophie Turner",
         "link": "https://www.geo.tv/latest/658417-joe-jonas-shares-candid-glimpse-into-parenthood-with-sophie-turner"
-      },
-      {
-        "title": "King Charles navigates family ties with York sisters",
-        "link": "https://www.geo.tv/latest/658425-king-charles-navigates-family-ties-with-york-sisters"
       }
     ],
     "NDTV": [
+      {
+        "title": "\"We're In War\": Trump Says Downing Of US Aircraft Won't Affect Iran Talks",
+        "link": "https://www.ndtv.com/world-news/donald-trump-says-downing-of-us-aircraft-wont-affect-iran-talks-11308858#publisher=newsstand"
+      },
       {
         "title": "4-Year-Old Girl Killed In Leopard Attack In Uttarakhand",
         "link": "https://www.ndtv.com/india-news/4-year-old-girl-killed-in-leopard-attack-in-uttarakhand-11308815#publisher=newsstand"
@@ -173,10 +177,6 @@
       {
         "title": "Bahrain Waters Down UN Proposal On Opening Hormuz Strait By Force",
         "link": "https://www.ndtv.com/world-news/israel-iran-war-bahrain-waters-down-un-proposal-on-opening-hormuz-strait-by-force-11308664#publisher=newsstand"
-      },
-      {
-        "title": "Iran Refuses To Meet US Officials In Pak, Ceasefire Efforts Hit Wall: Report",
-        "link": "https://www.ndtv.com/world-news/pakistan-led-ceasefire-efforts-collapse-as-iran-rejects-unacceptable-us-demands-report-11308630#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-03 22:50 UTC"
+  "last_updated": "2026-04-03 23:22 UTC"
 }
