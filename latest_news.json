@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Manchester City vs Liverpool – FA Cup quarterfinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-manchester-city-vs-liverpool-fa-cup-quarterfinal?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Manchester City vs Liverpool – FA Cup quarterfinal",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-manchester-city-vs-liverpool-fa-cup-quarterfinal?traffic_source=rss"
+      },
+      {
         "title": "Iran executes two convicted members of banned opposition group",
         "link": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
         "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
-      },
-      {
-        "title": "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/european-parliaments-rima-hassan-im-a-target-of-political?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1988520/noor-mukadam-case-sc-fixes-hearing-of-zahir-jaffers-review-plea-for-april-8"
       },
       {
+        "title": "PPP demands election schedule for Gilgit-Baltistan Assembly amid months-long delay in polls",
+        "link": "https://www.dawn.com/news/1988514/ppp-demands-election-schedule-for-gilgit-baltistan-assembly-amid-months-long-delay-in-polls"
+      },
+      {
         "title": "Pakistan to return $3.5bn UAE debt before month end: official",
         "link": "https://www.dawn.com/news/1988321/pakistan-to-return-35bn-uae-debt-before-month-end-official"
       },
       {
         "title": "Petrol price drops to Rs378 as PM cuts levy amid backlash",
         "link": "https://www.dawn.com/news/1988380/petrol-price-drops-to-rs378-as-pm-cuts-levy-amid-backlash"
-      },
-      {
-        "title": "Artemis astronauts pass half-way point on way to Moon",
-        "link": "https://www.dawn.com/news/1988493/artemis-astronauts-pass-half-way-point-on-way-to-moon"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Vietnam's Israel defence ties complicate historic Palestinian solidarity",
-        "link": "https://www.middleeasteye.net/news/vietnam-israel-defence-ties-palestine-solidarity"
+        "title": "Iraq closes border crossing with Iran after citizen killed in air strike",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-closes-border-crossing-iran-after-citizen-killed-air-strike"
       },
       {
-        "title": "US-Israeli strike near Iran's Bushehr nuclear plant kills one",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-strike-irans-bushehr-nuclear-plant-kills-one"
+        "title": "Israel vows to strike industrial, military sites in latest barrage",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-vows-strike-industrial-military-sites-latest-barrage"
       },
       {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-506"
+        "title": "Syrian government understating kidnappings of Alawite women: report",
+        "link": "https://www.middleeasteye.net/news/syrian-government-understating-kidnappings-alawite-women-report"
       },
       {
-        "title": "'Shame on Judaism': Former Israeli president warns against 'Armageddon'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/shame-judaism-former-israeli-president-warns-against-armageddon"
+        "title": "Reports of material damage after latest Iranian attack on Israel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/reports-material-damage-after-latest-iranian-attack-israel"
       },
       {
-        "title": "Israeli military says it hit military sites in Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-it-hit-military-sites-iran"
+        "title": "Incoming missile salvo from Iran, Israeli army says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/incoming-missile-launches-iran-israeli-army-says"
       }
     ],
     "GeoTV": [
       {
-        "title": "Katherine Schwarzenegger under fire after viral marriage comment",
-        "link": "https://www.geo.tv/latest/658481-katherine-schwarzenegger-under-fire-after-viral"
+        "title": "Prince Harry's unwise move costs Meghan major spot in royal family",
+        "link": "https://www.geo.tv/latest/658488-prince-harrys-unwise-move-costs-meghan-major-spot-in-royal-family"
       },
       {
-        "title": "Sarah Ferguson whereabouts revealed amid plans to stick around royal life",
-        "link": "https://www.geo.tv/latest/658482-sarah-ferguson-whereabouts-revealed-amid-plans-to-stick-around-royal-life"
+        "title": "‘Boston Blue' Erni Hudson keeps himself ready at 80",
+        "link": "https://www.geo.tv/latest/658484-boston-blue-erni-hudson-keeps-himself-ready-at-80"
       },
       {
-        "title": "Prince Harry shifts focus on crucial mission after King's reunion verdict",
-        "link": "https://www.geo.tv/latest/658478-prince-harry-shifts-focus-on-crucial-mission-after-kings-reunion-verdict"
+        "title": "Pakistan's Samar Khan completes 300km Arctic dogsled challenge",
+        "link": "https://www.geo.tv/latest/658480-pakistans-samar-khan-completes-300km-arctic-dogsled-challenge"
       },
       {
-        "title": "Prince Philip's heartbreaking final night: A look back",
-        "link": "https://www.geo.tv/latest/658476-prince-philips-heartbreaking-final-night-a-look-back"
+        "title": "Jesy Nelson calls out 'postcode lottery' in baby screening fight",
+        "link": "https://www.geo.tv/latest/658479-jesy-nelson-calls-out-postcode-lottery-in-baby-screening-fight"
       },
       {
-        "title": "Karachi, other parts of Sindh likely to receive rain on April 6",
-        "link": "https://www.geo.tv/latest/658475-karachi-other-parts-of-sindh-likely-to-receive-rain-on-april-6"
+        "title": "Louis Tomlinson drops brand new selfie during packed world tour schedule",
+        "link": "https://www.geo.tv/latest/658470-louis-tomlinson-drops-brand-new-selfie-during-packed-world-tour-schedule"
       }
     ],
     "NDTV": [
       {
-        "title": "A Promise Of CSR Funds And Rs 6.3 Crore Fraud By Fake Infosys Employees",
-        "link": "https://www.ndtv.com/india-news/karnataka-crime-news-a-promise-of-csr-funds-and-rs-6-3-crore-fraud-by-fake-infosys-employees-in-karnataka-11309915#publisher=newsstand"
+        "title": "India's Defence Exports At All-Time High: Who Buys And What India Sells",
+        "link": "https://www.ndtv.com/india-news/indias-defence-exports-at-all-time-high-who-buys-and-what-india-sells-11310235#publisher=newsstand"
       },
       {
-        "title": "Explained: How Iran Downed 2 US Fighter Jets",
-        "link": "https://www.ndtv.com/world-news/explained-how-iran-downed-2-us-fighter-jets-us-f15-strike-eagle-and-us-a-10-warthog-11309773#publisher=newsstand"
+        "title": "Kerala Techie Goes Missing During Trek, No Trace After 48 Hours",
+        "link": "https://www.ndtv.com/india-news/kerala-techie-goes-missing-during-trek-no-trace-after-48-hours-11310186#publisher=newsstand"
       },
       {
-        "title": "India-Flagged LPG Tanker Green Sanvi Crosses Strait Of Hormuz, 2 More In Line",
-        "link": "https://www.ndtv.com/india-news/middle-east-war-india-flagged-lpg-tanker-green-sanvi-crosses-strait-of-hormuz-2-more-in-line-11309595#publisher=newsstand"
+        "title": "Pakistan To Repay $3.5 Billion To UAE This Month Amid Strained Ties: Report",
+        "link": "https://www.ndtv.com/world-news/pakistan-to-repay-3-5-billion-to-uae-this-month-amid-strained-ties-report-11309424#publisher=newsstand"
       },
       {
-        "title": "Free Cab Rides, Halwa: How Poll Body Is Attracting Young Voters To Kerala Booths",
-        "link": "https://www.ndtv.com/india-news/free-uber-rides-halwa-steps-taken-by-ec-to-turn-voting-by-youth-in-kerala-into-celebration-11309256#publisher=newsstand"
+        "title": "US-Iran War Live Updates: US-Israeli Strikes Hit Iran's Bushehr Nuclear Plant, 1 Dead",
+        "link": "https://www.ndtv.com/world-news/donald-trumps-address-on-us-iran-war-live-updates-big-speech-on-iran-war-middle-east-conflict-oil-crisis-strait-of-hormuz-11299579#publisher=newsstand"
       },
       {
-        "title": "K Annamalai, Ex-BJP Tamil Nadu Chief, Denied Poll Ticket? What He Said",
-        "link": "https://www.ndtv.com/india-news/k-annamalai-ex-bjp-tamil-nadu-chief-denied-ticket-for-2026-assembly-polls-what-he-said-11309733#publisher=newsstand"
+        "title": "Oracle Building In Dubai Damaged Due To Debris From Intercepted Missile",
+        "link": "https://www.ndtv.com/world-news/iran-war-oracle-building-in-dubai-damaged-due-to-debris-from-intercepted-missile-11310154#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-04 08:57 UTC"
+  "last_updated": "2026-04-04 09:48 UTC"
 }
