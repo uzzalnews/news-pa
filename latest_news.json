@@ -3,10 +3,6 @@
   "news": {
     "BBC": [
       {
-        "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
-        "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Storm Dave to ease on Easter Sunday after amber alert expires",
         "link": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&at_campaign=rss"
       },
@@ -21,9 +17,17 @@
       {
         "title": "German men under 45 may need military approval for long stays abroad",
         "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Archbishop to pray for Middle East peace in first Easter sermon",
+        "link": "https://www.bbc.com/news/articles/c93edxr57d0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump’s unpopular war on Iran",
+        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss"
+      },
       {
         "title": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
         "link": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss"
@@ -33,16 +37,12 @@
         "link": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US officer from downed F-15E jet ‘recovered’, official says",
+        "title": "Iran war live: Trump confirms rescue of US officer, says ‘we got him’",
         "link": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss"
       },
       {
         "title": "Car slams into Louisiana Lao New Year parade, injuring about 15 people",
         "link": "https://www.aljazeera.com/news/2026/4/4/car-slams-into-louisiana-lao-new-year-parade-injuring-about-15-people?traffic_source=rss"
-      },
-      {
-        "title": "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque",
-        "link": "https://www.aljazeera.com/news/2026/4/4/israel-measures-tighten-grip-hebron-ibrahimi-mosque?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +78,16 @@
         "link": "https://www.dawn.com/news/1988683/tehran-says-islamabad-talks-depend-on-terms"
       },
       {
-        "title": "Rains in KP, Punjab kill six amid new spell forecast",
-        "link": "https://www.dawn.com/news/1988684/rains-in-kp-punjab-kill-six-amid-new-spell-forecast"
-      },
-      {
         "title": "US president weighs broader cabinet shake-up",
         "link": "https://www.dawn.com/news/1988668/us-president-weighs-broader-cabinet-shake-up"
       },
       {
-        "title": "Israeli strikes hit hospital, homes in south Lebanon",
-        "link": "https://www.dawn.com/news/1988669/israeli-strikes-hit-hospital-homes-in-south-lebanon"
+        "title": "Gulf war erodes 90pc investment in T-bills",
+        "link": "https://www.dawn.com/news/1988678/gulf-war-erodes-90pc-investment-in-t-bills"
+      },
+      {
+        "title": "Rains in KP, Punjab kill six amid new spell forecast",
+        "link": "https://www.dawn.com/news/1988684/rains-in-kp-punjab-kill-six-amid-new-spell-forecast"
       }
     ],
     "APNews": [],
@@ -115,27 +115,39 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Fire reported at Bahrain site after Iranian strike",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-reported-bahrain-site-after-iranian-strike"
+        "title": "Israel says it hit 120 Iranian air defense systems in 24 hours",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-hit-120-iranian-air-defense-systems-24-hours"
       },
       {
-        "title": "Syria closes border crossing after Israeli threat",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-closes-border-crossing-after-israeli-threat"
+        "title": "White House official criticizes media over Trump hospitalisation rumours",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-official-criticizes-media-over-trump-hospitalisation-rumours"
       },
       {
-        "title": "IRNA: Strike on petrochemical hub kills 5, wounds 170",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-strike-petrochemical-hub-kills-5-wounds-170"
+        "title": "IRGC says it destroyed US aircraft tracking crew of downed fighter jet in Isfahan",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-destroyed-us-aircraft-tracking-crew-downed-fighter-jet"
       },
       {
-        "title": "Rescue ongoing for downed F-15E crew member still inside Iran, official says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rescue-ongoing-downed-f-15e-crew-member-still-inside-iran-official-says"
+        "title": "Trump says US officer rescued, injured but ‘will be fine’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-officer-rescued-injured-will-be-fine"
       },
       {
-        "title": "Al Jazeera: Second crew member of downed F15 located",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/al-jazeera-second-crew-member-downed-f15-recovered-after-firefight"
+        "title": "Israeli forces blow up residential buildings in Lebanon township",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-blow-residential-buildings-lebanon-township"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Sabrina Carpenter outsmarts former Tv mom Danielle Fishel",
+        "link": "https://www.geo.tv/latest/658589-sabrina-carpenter-outsmarts-former-tv-mom-danielle-fishel"
+      },
+      {
+        "title": "Princess Beatrice makes tough choice after upsetting rumours",
+        "link": "https://www.geo.tv/latest/658587-princess-beatrice-makes-tough-choice-after-upsetting-rumours"
+      },
+      {
+        "title": "Gigi Hadid responds after viral Epstein file buzz",
+        "link": "https://www.geo.tv/latest/658588-gigi-hadid-responds-after-viral-epstein-file-buzz"
+      },
       {
         "title": "In the online 'maxxing' era, what's the deal with fibre and protein?",
         "link": "https://www.geo.tv/latest/658583-in-the-online-maxxing-era-whats-the-deal-with-fiber-and-protein"
@@ -143,40 +155,28 @@
       {
         "title": "Operation Epic Fury uses AI battlefield management to hit hundreds of targets in hours",
         "link": "https://www.geo.tv/latest/658582-operation-epic-fury-uses-ai-battlefield-management-to-hit-hundreds-of-targets-in-hours"
-      },
-      {
-        "title": "Blake Lively refuses to back down after claims dropped",
-        "link": "https://www.geo.tv/latest/658580-blake-lively-refuses-to-back-down-after-claims-dropped"
-      },
-      {
-        "title": "March For Our Lives calls out ‘The Drama' over controversial campaign",
-        "link": "https://www.geo.tv/latest/658579-march-for-our-lives-calls-out-the-drama-over-controversial-campaign"
-      },
-      {
-        "title": "Timothée Chalamet caught in embarrassing car towing incident",
-        "link": "https://www.geo.tv/latest/658578-timothe-chalamet-caught-in-embarrassing-car-towing-incident"
       }
     ],
     "NDTV": [
       {
-        "title": "Halfway To The Moon, Astronauts On Artemis II Report Of Smelly Toilet",
-        "link": "https://www.ndtv.com/world-news/halfway-to-the-moon-astronauts-on-artemis-ii-report-of-smelly-toilet-break-apollo-13s-record-nasas-artemis-ii-moon-mission-11312634#publisher=newsstand"
+        "title": "Chinese Firms Use AI To Track US Military Moves In Iran War: Report",
+        "link": "https://www.ndtv.com/world-news/iran-war-middle-eat-conflict-chinese-firms-use-ai-to-track-us-military-moves-report-11312675#publisher=newsstand"
       },
       {
-        "title": "US Says Arrested Relatives Of Iran General Qasem Soleimani, His Family Denies Link",
-        "link": "https://www.ndtv.com/world-news/us-iran-israel-war-qasem-soleimani-was-assassinated-in-2020-amid-iran-war-us-to-boot-his-niece-hamideh-soleimani-afshar-11311793#publisher=newsstand"
+        "title": "\"We Got Him\": Trump Says Missing US Jet Pilot In Iran Rescued In \"Daring Op\"",
+        "link": "https://www.ndtv.com/world-news/iran-us-war-missing-us-jet-crew-member-in-iran-rescued-after-heavy-firefight-report-11313024#publisher=newsstand"
       },
       {
-        "title": "\"Unbalanced, Stupid\": Iran On Trump's 48-Hour Ultimatum For Peace Deal",
+        "title": "Iran Warns Of \"Big Surprise\" For US After Trump's \"Stupid, Nervous\" Ultimatum",
         "link": "https://www.ndtv.com/world-news/middle-east-war-unbalanced-stupid-iran-on-trumps-48-hour-ultimatum-for-peace-deal-11312544#publisher=newsstand"
       },
       {
-        "title": "US-Iran War Live Updates: Iran Targets Israel, Kuwait After Trump's 48-Hour Deadline",
-        "link": "https://www.ndtv.com/world-news/donald-trumps-address-on-us-iran-war-live-updates-big-speech-on-iran-war-middle-east-conflict-oil-crisis-strait-of-hormuz-11299579#publisher=newsstand"
+        "title": "Burnt Body, A Tattoo, And QR Code Clue: Wife's Affair Behind Grisly Murder",
+        "link": "https://www.ndtv.com/india-news/agra-murder-case-extramarital-affair-burnt-body-a-tattoo-and-qr-code-clue-wifes-affair-behind-grisly-murder-11313082#publisher=newsstand"
       },
       {
-        "title": "India Makes First Iranian Oil Purchase In 7 Years, With \"No Payment Hurdle\"",
-        "link": "https://www.ndtv.com/india-news/iran-israel-war-oil-sanctions-us-india-makes-first-iranian-oil-purchase-in-7-years-with-no-payment-hurdle-11312289#publisher=newsstand"
+        "title": "BJP's 5th List For Bengal Polls Includes Veteran, Ex-Union Minister's Nephew",
+        "link": "https://www.ndtv.com/india-news/bjps-5th-list-for-bengal-polls-includes-veteran-ex-union-ministers-nephew-11312108#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-05 04:09 UTC"
+  "last_updated": "2026-04-05 05:52 UTC"
 }
