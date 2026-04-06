@@ -3,10 +3,6 @@
   "news": {
     "BBC": [
       {
-        "title": "How rescue of US airman in remote part of Iran unfolded",
-        "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
         "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss"
       },
@@ -21,9 +17,21 @@
       {
         "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
         "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pressure mounts over Kanye West's UK festival appearance",
+        "link": "https://www.bbc.com/news/articles/cwywnkdn3zno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
+        "link": "https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss"
+      },
+      {
+        "title": "In maps and photos: Five Iranian civilian bridges at risk of US strikes",
+        "link": "https://www.aljazeera.com/economy/2026/4/6/in-maps-and-photos-five-iranian-civilian-bridges-at-risk-of-us-strikes?traffic_source=rss"
+      },
       {
         "title": "The US could still try to play the ethnic card in Iran",
         "link": "https://www.aljazeera.com/opinions/2026/4/6/the-us-could-still-try-to-play-the-ethnic-card-in-iran?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "‘Smell’ of war comes to St Petersburg as Ukraine hammers Russian refineries",
         "link": "https://www.aljazeera.com/features/2026/4/6/smell-of-war-comes-to-st-petersburg-as-ukraine-hammers-russian-refineries?traffic_source=rss"
-      },
-      {
-        "title": "How US operation to rescue air officer from Iran unfolded",
-        "link": "https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded?traffic_source=rss"
-      },
-      {
-        "title": "Has Trump confirmed Iran’s claim that protesters were US-armed?",
-        "link": "https://www.aljazeera.com/news/2026/4/6/has-trump-confirmed-irans-claim-that-protesters-were-us-armed?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,8 +74,12 @@
         "link": "https://www.dawn.com/news/1989118/peace-process-ongoing-fo-neither-confirms-nor-denies-reports-of-pakistan-proposing-framework-to-end-iran-war"
       },
       {
-        "title": "PM Shehbaz ‘deeply’ concerned after 3 Pakistani nationals injured in UAE amid Iran conflict",
-        "link": "https://www.dawn.com/news/1989058/pm-shehbaz-deeply-concerned-after-3-pakistani-nationals-injured-in-uae-amid-iran-conflict"
+        "title": "Judicial magistrate grants bail to PTI protesters arrested for demonstrating near Karachi Press Club",
+        "link": "https://www.dawn.com/news/1989159/judicial-magistrate-grants-bail-to-pti-protesters-arrested-for-demonstrating-near-karachi-press-club"
+      },
+      {
+        "title": "PM Shehbaz urges nationwide shift to electric vehicles to cut fuel costs, protect economy",
+        "link": "https://www.dawn.com/news/1989149/pm-shehbaz-urges-nationwide-shift-to-electric-vehicles-to-cut-fuel-costs-protect-economy"
       },
       {
         "title": "PIA cuts operations, ends discounts amid rise in jet fuel prices due to war on Iran",
@@ -84,10 +88,6 @@
       {
         "title": "Senate panel rejects bill seeking to enhance women’s participation in politcal process",
         "link": "https://www.dawn.com/news/1989153/senate-panel-rejects-bill-seeking-to-enhance-womens-participation-in-politcal-process"
-      },
-      {
-        "title": "PM Shehbaz urges nationwide shift to electric vehicles to cut fuel costs, protect economy",
-        "link": "https://www.dawn.com/news/1989149/pm-shehbaz-urges-nationwide-shift-to-electric-vehicles-to-cut-fuel-costs-protect-economy"
       }
     ],
     "APNews": [],
@@ -101,8 +101,8 @@
         "link": "https://www.nytimes.com/2026/04/05/us/iran-airman-fighter-jet-rescue-mission.html"
       },
       {
-        "title": "Trump’s Lesson From Risky Rescue: Threaten to Go Harder at Iran",
-        "link": "https://www.nytimes.com/2026/04/05/us/politics/trump-risky-rescue-threats-iran.html"
+        "title": "The Latest Blows to Iran’s Leadership",
+        "link": "https://www.nytimes.com/2026/04/06/world/middleeast/killings-iran-leadership.html"
       },
       {
         "title": "Inside the Race to Save a U.S. Airman in Iran, and Artemis II Heads Behind the Moon",
@@ -115,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "UN nuclear watchdog: strikes near Iran’s nuclear power plant ‘must stop’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-nuclear-watchdog-strikes-near-irans-nuclear-power-plant-must-stop"
-      },
-      {
-        "title": "Araghchi condemns US-Israeli strikes on ‘MIT of Iran’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-condemns-us-israeli-strikes-mit-iran"
-      },
-      {
         "title": "US and Iran reviewing ceasefire deal, reports say",
-        "link": "https://www.middleeasteye.net/news/us-and-iran-reviewing-pakistan-mediated-ceasefire-deal-open-strait-hormuz"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-reviewing-ceasefire-deal-reports-say"
       },
       {
-        "title": "US-Israeli forces attack another petrochemical complex in southern Iran, says Fars news agency",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-forces-attack-another-petrochemical-complex-southern-iran"
+        "title": "Iran will allow ships from ‘friendly nations’ to pass through Hormuz, Al Jazeera reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-allow-ships-friendly-nations-pass-through-hormuz-al-jazeera"
       },
       {
-        "title": "Two mountain ranges, two deserts, two seas: Iran’s geography is its greatest weapon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-mountain-ranges-two-deserts-two-seas-irans-geography-its-greatest"
+        "title": "Israel hits three airports in Tehran in new wave of strikes, says military",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-claims-it-hit-three-airports-tehran-new-wave-strikes"
+      },
+      {
+        "title": "Iran says it let a Malaysian ship pass through Strait of Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-let-malaysian-ship-pass-through-strait-hormuz"
+      },
+      {
+        "title": "UN nuclear watchdog: Strikes near Iran’s nuclear power plant ‘must stop’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-nuclear-watchdog-strikes-near-irans-nuclear-power-plant-must-stop"
       }
     ],
     "GeoTV": [
       {
+        "title": "Melissa Gilbert breaks silence on husband Timothy Busfield past allegations",
+        "link": "https://www.geo.tv/latest/658787-melissa-gilbert-breaks-silence-on-husband-timothy-busfield-past-allegations"
+      },
+      {
+        "title": "Zendaya's 'The Drama' left people unsettled by unexpected twist",
+        "link": "https://www.geo.tv/latest/658773-zendayas-the-drama-left-people-unsettled-by-unexpected-twist"
+      },
+      {
+        "title": "PTI announces rally at Rawalpindi's Liaquat Bagh on April 9",
+        "link": "https://www.geo.tv/latest/658776-pti-announces-rally-at-rawalpindis-liaquat-bagh-on-april-9"
+      },
+      {
+        "title": "David Henrie and wife Maria announce surprise 4th pregnancy",
+        "link": "https://www.geo.tv/latest/658784-david-henrie-and-wife-maria-announce-surprise-4th-pregnancy"
+      },
+      {
         "title": "PM Shehbaz urges nationwide shift to EVs to cut fuel costs amid global oil crisis",
         "link": "https://www.geo.tv/latest/658769-pm-urges-nationwide-shift-to-evs-to-cut-fuel-costs-amid-global-crisis"
-      },
-      {
-        "title": "King Charles office releases statement after Duchess Sophie health concern",
-        "link": "https://www.geo.tv/latest/658775-king-charles-office-releases-statement-after-duchess-sophie-health-concern"
-      },
-      {
-        "title": "'The Drama' soars to global success despite marketing backlash",
-        "link": "https://www.geo.tv/latest/658778-the-drama-soars-to-global-success-despite-marketing-backlash"
-      },
-      {
-        "title": "PSL 11: Multan Sultans win toss, opt to bowl first against Rawalpindiz",
-        "link": "https://www.geo.tv/latest/658777-psl-11-multan-sultans-win-toss-opt-to-bowl-first-against-rawalpindiz"
-      },
-      {
-        "title": "Charli XCX shuts down 'Wuthering Heights' album controversy",
-        "link": "https://www.geo.tv/latest/658766-charli-xcx-shuts-down-wuthering-heights-album-controversy"
       }
     ],
     "NDTV": [
       {
-        "title": "Members Of Celebrated Artist Nandalal Basu's Family No Longer On Voter List",
-        "link": "https://www.ndtv.com/india-news/members-of-celebrated-artist-nandalal-basus-family-no-longer-on-voter-list-11318879#publisher=newsstand"
+        "title": "Israel Says Struck Iran's Largest Petrochemical Facility",
+        "link": "https://www.ndtv.com/world-news/israel-iran-war-israel-says-struck-irans-largest-petrochemical-facility-11319128#publisher=newsstand"
+      },
+      {
+        "title": "Tiger Poached, Carcass Buried. A Sensational Claim Follows 23 Days Later",
+        "link": "https://www.ndtv.com/india-news/tiger-poached-carcass-buried-a-sensational-claim-follows-23-days-later-11319098#publisher=newsstand"
+      },
+      {
+        "title": "\"MIT Of Iran\" Hit, Tehran Accuses US, Israel Of Targeting Universities",
+        "link": "https://www.ndtv.com/world-news/mit-of-iran-hit-tehran-accuses-us-israel-of-targeting-universities-11319050#publisher=newsstand"
       },
       {
         "title": "'Can't Take High Court Chief Justice's Call?' Top Court Raps Bengal Officer",
         "link": "https://www.ndtv.com/india-news/sheer-failure-supreme-court-raps-top-bengal-officer-over-malda-incident-11318517#publisher=newsstand"
       },
       {
-        "title": "\"Will Argue My Own Case\": Arvind Kejriwal Seeks Judge's Recusal In Liquor Policy Case",
-        "link": "https://www.ndtv.com/india-news/will-argue-my-own-case-arvind-kejriwal-seeks-delhi-high-court-judges-recusal-in-liquor-policy-case-11318583#publisher=newsstand"
-      },
-      {
-        "title": "India Has Fiscal Space To Tackle Middle East Crisis: Nirmala Sitharaman",
-        "link": "https://www.ndtv.com/india-news/india-has-fiscal-space-to-tackle-middle-east-crisis-nirmala-sitharaman-11318534#publisher=newsstand"
-      },
-      {
-        "title": "1,777 Indians Brought Back From Iran Via Armenia, Azerbaijan: Foreign Ministry",
-        "link": "https://www.ndtv.com/world-news/iran-war-1-777-indians-brought-back-from-iran-via-armenia-azerbaijan-foreign-ministry-11318211#publisher=newsstand"
+        "title": "Opinion: Blog | The Dantewada Massacre, And What India Needs To Do To Stay Maoist-Free",
+        "link": "https://www.ndtv.com/opinion/the-dantewada-massacre-when-i-had-to-arrange-aircraft-for-75-slain-crpf-officers-11318708#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-06 13:53 UTC"
+  "last_updated": "2026-04-06 14:42 UTC"
 }
