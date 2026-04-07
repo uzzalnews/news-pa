@@ -1,10 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 300 Points As Iran Rejects US Ceasefire Proposal",
+      "link": "https://www.ndtv.com/india-news/share-market-live-updates-markets-bse-sensex-nse-nifty50-gift-nifty-us-iran-ceasefire-stock-market-today-april-7-11320909#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
-        "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: Artemis II mission loses contact with Earth for 40 minutes",
+        "link": "https://www.bbc.com/news/videos/cp38vg5knveo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
@@ -15,15 +21,23 @@
         "link": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Australia's most-decorated soldier arrested over alleged war crimes",
-        "link": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss"
+        "title": "More than 1,700 Brits who fell ill in Cape Verde join action against Tui",
+        "link": "https://www.bbc.com/news/articles/c70d8dn1nrpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Illegal rave shut down as police face 'violent and hostile' crowd",
-        "link": "https://www.bbc.com/news/articles/cddqm316mvjo?at_medium=RSS&at_campaign=rss"
+        "title": "China is winning one AI race, the US another - but either might pull ahead",
+        "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump’s threat to strike Iran’s power plants looms",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss"
+      },
+      {
+        "title": "‘Why would Iran agree to a ceasefire given US and Israeli track record?’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss"
+      },
       {
         "title": "Artemis II astronauts break record for farthest human travel from Earth",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Vance heads to Budapest to shore up Orban’s support before Sunday vote",
         "link": "https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss"
-      },
-      {
-        "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
-        "link": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
+        "title": "UNSC to vote on Hormuz resolution ahead of Trump deadline",
+        "link": "https://www.dawn.com/news/1989392/unsc-to-vote-on-hormuz-resolution-ahead-of-trump-deadline"
+      },
+      {
         "title": "Israeli strikes target Iran’s petrochemical facilities",
         "link": "https://www.dawn.com/news/1989321/israeli-strikes-target-irans-petrochemical-facilities"
       },
       {
-        "title": "Iran conveys to Pakistan its rejection of US ceasefire proposal: report",
-        "link": "https://www.dawn.com/news/1989217/iran-conveys-to-pakistan-its-rejection-of-us-ceasefire-proposal-report"
+        "title": "Traders across Punjab want early closure timings for Cantts, DHA too",
+        "link": "https://www.dawn.com/news/1989314/traders-across-punjab-want-early-closure-timings-for-cantts-dha-too"
       },
       {
-        "title": "Opposition chides, govt defends increase in oil prices",
-        "link": "https://www.dawn.com/news/1989320/opposition-chides-govt-defends-increase-in-oil-prices"
+        "title": "PTCL forces subscribers to buy internet package or lose landline in Karachi",
+        "link": "https://www.dawn.com/news/1989382/ptcl-forces-subscribers-to-buy-internet-package-or-lose-landline-in-karachi"
       },
       {
-        "title": "Israeli strikes leave 15 more dead in Lebanon",
-        "link": "https://www.dawn.com/news/1989319/israeli-strikes-leave-15-more-dead-in-lebanon"
-      },
-      {
-        "title": "AJK voter registration deadline extended",
-        "link": "https://www.dawn.com/news/1989294/ajk-voter-registration-deadline-extended"
+        "title": "Sindh CM launches portal for bikers to get Rs2,000 subsidy",
+        "link": "https://www.dawn.com/news/1989384/sindh-cm-launches-portal-for-bikers-to-get-rs2000-subsidy"
       }
     ],
     "APNews": [],
@@ -105,78 +111,78 @@
         "link": "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
       },
       {
-        "title": "Artemis II Astronauts Name Moon Crater After Carroll, Reid Wiseman’s Late Wife",
-        "link": "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"
+        "title": "Artemis II Astronauts Head Home After Historic Journey Around the Moon",
+        "link": "https://www.nytimes.com/2026/04/06/science/space/nasa-artemis-moon-flyby.html"
       },
       {
-        "title": "Trump Administration Pulls Out of Civil Rights Settlements Backing Trans Students",
-        "link": "https://www.nytimes.com/2026/04/06/us/politics/transgender-students-civil-rights.html"
+        "title": "Artemis II Astronauts Name Moon Crater After Carroll, Reid Wiseman’s Late Wife",
+        "link": "https://www.nytimes.com/2026/04/06/science/moon-crater-carroll-reid-wiseman.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "UN says 1.1 million displaced in Lebanon amid conflict",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-11-million-displaced-lebanon-amid-conflict"
+        "title": "Draft resolution on Hormuz revised ahead of vote",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/draft-resolution-hormuz-revised-ahead-vote"
       },
       {
-        "title": "Blasts heard in Damascus as Israeli defences intercept missiles, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-damascus-israeli-defences-intercept-missiles-report-says"
+        "title": "Malaysia-owned commercial vessel passes Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/malaysia-owned-commercial-vessel-passes-hormuz"
       },
       {
-        "title": "Houthis claim joint attack with Iran, Hezbollah on Israel targets",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-joint-attack-iran-hezbollah-israel-targets"
+        "title": "Tucker Carlson to Trump: ‘No president should mock Islam'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tucker-carlson-trump-no-president-should-mock-islam"
       },
       {
-        "title": "Rescue operations ongoing in Tehran after strike hits residential area",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rescue-operations-under-way-tehran-after-strike-hits-residential-area"
+        "title": "US lawmaker says strikes on infrastructure would be 'war crime'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmaker-says-strikes-infrastructure-would-be-war-crime"
       },
       {
-        "title": "WSJ: No deal likely before Trump deadline expires",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/wsj-no-deal-likely-trump-deadline-expires"
+        "title": "IRNA: Iran submits response to US proposal via Pakistan",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irna-iran-submits-response-us-proposal-pakistan"
       }
     ],
     "GeoTV": [
       {
-        "title": "Rapper Offset shot, rushed to hospital",
-        "link": "https://www.geo.tv/latest/658856-rapper-offset-shot-rushed-to-hospital"
+        "title": "Oil prices extend gains as Trump sharpens rhetoric on Iran",
+        "link": "https://www.geo.tv/latest/658864-oil-prices-extend-gains-as-trump-sharpens-rhetoric-on-iran"
       },
       {
-        "title": "‘Heartbroken' Lady Gaga calls off final Montreal show, here's why",
-        "link": "https://www.geo.tv/latest/658855-heartbroken-lady-gaga-calls-off-final-montreal-show-heres-why"
+        "title": "Prince William ready to take major risk for monarchy as King gives in",
+        "link": "https://www.geo.tv/latest/658861-prince-william-ready-to-take-major-risk-for-monarchy-as-king-gives-in"
       },
       {
-        "title": "IMF red alert: ME war-choked oil flows to spark runaway inflation, global growth crisis",
-        "link": "https://www.geo.tv/latest/658853-war-induced-oil-shock-could-derail-global-recovery-push-economies-toward-crisis-imf"
+        "title": "Australian soldier arrested for alleged war crimes in Afghanistan",
+        "link": "https://www.geo.tv/latest/658862-australian-soldier-arrested-for-alleged-war-crimes-in-afghanistan"
       },
       {
-        "title": "Gaten Matarazzo talks about typecasting because of ‘Stranger Things'",
-        "link": "https://www.geo.tv/latest/658852-gaten-matarazzo-talks-about-typecasting-because-of-stranger-things"
+        "title": "Is Kim Kardashian seemingly approving Lewis Hamilton her new beau?",
+        "link": "https://www.geo.tv/latest/658865-is-kim-kardashian-seemingly-approving-lewis-hamilton-her-new-beau"
       },
       {
-        "title": "Zendaya reveals shocking ‘tattoo' truth about mom Claire",
-        "link": "https://www.geo.tv/latest/658851-zendaya-reveals-shocking-tattoo-truth-about-mom-claire"
+        "title": "The importance of being Pakistan",
+        "link": "https://www.geo.tv/latest/658860-the-importance-of-being-pakistan"
       }
     ],
     "NDTV": [
       {
-        "title": "Strait Of Hormuz Closure Could Soon Be Felt On Dinner Tables Worldwide",
-        "link": "https://www.ndtv.com/world-news/strait-of-hormuz-closure-could-soon-be-felt-on-dinner-tables-worldwide-us-iran-israel-war-middle-east-conflict-11320714#publisher=newsstand"
+        "title": "Relief For Migrants, Centre Doubles Allocation Of 5 Kg Cylinders To States",
+        "link": "https://www.ndtv.com/india-news/centre-doubles-daily-allocation-of-5-kg-free-trade-lpg-cylinders-for-migrant-labourers-across-states-11321070#publisher=newsstand"
       },
       {
-        "title": "Iran Calls For Human Chains Around Power Plants As Trump's Hormuz Deadline Nears",
+        "title": "Why A Multi-Crore Painting Makes Financial Sense To The Ultra-Rich",
+        "link": "https://www.ndtv.com/india-news/art-ultra-rich-wealthy-investment-cyrus-poonawalla-raja-ravi-verma-painting-11320759#publisher=newsstand"
+      },
+      {
+        "title": "Trump Threatens To Bomb Iran Power Plants, Tehran Preps Human Chain Shield",
         "link": "https://www.ndtv.com/world-news/us-iran-war-news-iran-calls-for-human-chains-around-key-power-plants-as-trumps-hormuz-deadline-nears-11320688#publisher=newsstand"
       },
       {
-        "title": "How Congress Returned To Power In Assam In 2001",
-        "link": "https://www.ndtv.com/india-news/assam-assembly-elections-2026-tarun-gogoi-how-congress-returned-to-power-in-assam-in-2001-11268489#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 300 Points As Iran Rejects US Ceasefire Proposal",
+        "link": "https://www.ndtv.com/india-news/share-market-live-updates-markets-bse-sensex-nse-nifty50-gift-nifty-us-iran-ceasefire-stock-market-today-april-7-11320909#publisher=newsstand"
       },
       {
-        "title": "IMF Cuts Global Growth Outlook As Iran War Chokes Oil, Flags Inflation Risk",
-        "link": "https://www.ndtv.com/india-news/imf-cuts-global-growth-outlook-as-iran-war-chokes-oil-flags-inflation-risk-11320642#publisher=newsstand"
-      },
-      {
-        "title": "How 1990 Insurgency Brought Asom Gana Parishad Government To Its Knees",
-        "link": "https://www.ndtv.com/india-news/assam-election-2026-how-1990-insurgency-brought-asom-gana-parishad-government-to-its-knees-11253412#publisher=newsstand"
+        "title": "US-Iran War Live Updates: Iran Can Be Destroyed In 4 Hours, Trump Warns As Hormuz Deadline Nears",
+        "link": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-live-updates-trump-deadline-strait-of-hormuz-oil-prices-dubai-uae-11316005#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-07 03:23 UTC"
+  "last_updated": "2026-04-07 05:23 UTC"
 }
