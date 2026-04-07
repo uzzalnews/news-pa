@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 300 Points As Iran Rejects US Ceasefire Proposal",
-      "link": "https://www.ndtv.com/india-news/share-market-live-updates-markets-bse-sensex-nse-nifty50-gift-nifty-us-iran-ceasefire-stock-market-today-april-7-11320909#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Australia arrests ex-soldier Roberts-Smith over alleged Afghan war crimes",
+        "link": "https://www.aljazeera.com/news/2026/4/7/australian-soldier-ben-roberts-smith-arrested-over-alleged-war-crimes?traffic_source=rss"
+      },
+      {
+        "title": "Iran says US-Israeli projectile has struck a synagogue in Tehran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iran-says-us-israeli-projectile-has-struck-a-synagogue-in-tehran?traffic_source=rss"
+      },
+      {
         "title": "Trump’s threat to strike Iran’s power plants looms",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Artemis II astronauts break record for farthest human travel from Earth",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth?traffic_source=rss"
-      },
-      {
-        "title": "‘They want to create a rift’: Israeli attacks deepen Lebanon fissures",
-        "link": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss"
-      },
-      {
-        "title": "Vance heads to Budapest to shore up Orban’s support before Sunday vote",
-        "link": "https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,20 +74,20 @@
         "link": "https://www.dawn.com/news/1989392/unsc-to-vote-on-hormuz-resolution-ahead-of-trump-deadline"
       },
       {
-        "title": "Israeli strikes target Iran’s petrochemical facilities",
-        "link": "https://www.dawn.com/news/1989321/israeli-strikes-target-irans-petrochemical-facilities"
+        "title": "Five policemen injured in IED attack targeting police patrol in Lakki Marwat",
+        "link": "https://www.dawn.com/news/1989401/five-policemen-injured-in-ied-attack-targeting-police-patrol-in-lakki-marwat"
       },
       {
-        "title": "Traders across Punjab want early closure timings for Cantts, DHA too",
-        "link": "https://www.dawn.com/news/1989314/traders-across-punjab-want-early-closure-timings-for-cantts-dha-too"
+        "title": "Artemis II moon crew flies farther than humans have ever gone before",
+        "link": "https://www.dawn.com/news/1989403/artemis-ii-moon-crew-flies-farther-than-humans-have-ever-gone-before"
       },
       {
-        "title": "PTCL forces subscribers to buy internet package or lose landline in Karachi",
-        "link": "https://www.dawn.com/news/1989382/ptcl-forces-subscribers-to-buy-internet-package-or-lose-landline-in-karachi"
+        "title": "Section 144 imposed in Rawalpindi ahead of PTI’s protest outside Adiala, April 9 rally",
+        "link": "https://www.dawn.com/news/1989409/section-144-imposed-in-rawalpindi-ahead-of-ptis-protest-outside-adiala-april-9-rally"
       },
       {
-        "title": "Sindh CM launches portal for bikers to get Rs2,000 subsidy",
-        "link": "https://www.dawn.com/news/1989384/sindh-cm-launches-portal-for-bikers-to-get-rs2000-subsidy"
+        "title": "India moves closer to nuclear fuel self-reliance",
+        "link": "https://www.dawn.com/news/1989405/india-moves-closer-to-nuclear-fuel-self-reliance"
       }
     ],
     "APNews": [],
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Draft resolution on Hormuz revised ahead of vote",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/draft-resolution-hormuz-revised-ahead-vote"
+        "title": "Nearly 18 percent of French petrol stations face fuel shortages",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-18-percent-french-petrol-stations-face-fuel-shortages"
       },
       {
-        "title": "Malaysia-owned commercial vessel passes Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/malaysia-owned-commercial-vessel-passes-hormuz"
+        "title": "Rocket fragments fall in five Israeli cities, local media reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rocket-fragments-fall-five-israeli-cities-local-media-reports"
       },
       {
-        "title": "Tucker Carlson to Trump: ‘No president should mock Islam'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tucker-carlson-trump-no-president-should-mock-islam"
+        "title": "Iran envoy says Pakistan mediation nearing ‘critical’ stage",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-envoy-says-pakistan-mediation-nearing-critical-stage"
       },
       {
-        "title": "US lawmaker says strikes on infrastructure would be 'war crime'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmaker-says-strikes-infrastructure-would-be-war-crime"
+        "title": "Iranian media: Jewish synagogue destroyed in US-Israeli strike",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-jewsish-synagogue-destroyed-us-israeli-strike"
       },
       {
-        "title": "IRNA: Iran submits response to US proposal via Pakistan",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irna-iran-submits-response-us-proposal-pakistan"
+        "title": "Iran judiciary chief calls to fast-track cases tied to ‘enemy collaboration’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-judiciary-chief-calls-fast-track-cases-tied-enemy-collaboration"
       }
     ],
     "GeoTV": [
       {
-        "title": "Oil prices extend gains as Trump sharpens rhetoric on Iran",
-        "link": "https://www.geo.tv/latest/658864-oil-prices-extend-gains-as-trump-sharpens-rhetoric-on-iran"
+        "title": "Royal wedding announcement causes confusion: ‘Major blunder'",
+        "link": "https://www.geo.tv/latest/658878-royal-wedding-announcement-causes-confusion-major-blunder"
       },
       {
-        "title": "Prince William ready to take major risk for monarchy as King gives in",
-        "link": "https://www.geo.tv/latest/658861-prince-william-ready-to-take-major-risk-for-monarchy-as-king-gives-in"
+        "title": "Fact-check: No, Geo and Lahore Qalandars are not making a Shaheen Afridi documentary",
+        "link": "https://www.geo.tv/latest/658883-fact-check-no-geo-and-lahore-qalandars-are-not-making-a-shaheen-afridi-documentary"
       },
       {
-        "title": "Australian soldier arrested for alleged war crimes in Afghanistan",
-        "link": "https://www.geo.tv/latest/658862-australian-soldier-arrested-for-alleged-war-crimes-in-afghanistan"
+        "title": "Wembanyama suffers rib injury in Spurs' win vs. 76ers—how bad it is?",
+        "link": "https://www.geo.tv/latest/658874-wembanyama-leaves-spurs-win-after-suffering-rib-injury"
       },
       {
-        "title": "Is Kim Kardashian seemingly approving Lewis Hamilton her new beau?",
-        "link": "https://www.geo.tv/latest/658865-is-kim-kardashian-seemingly-approving-lewis-hamilton-her-new-beau"
+        "title": "Cardi B reduced to tears after Offset gets shot? 'Can't live without him'",
+        "link": "https://www.geo.tv/latest/658872-cardi-b-goes-viral-after-offset-gets-shot-you-all-are-going-to-jail"
       },
       {
-        "title": "The importance of being Pakistan",
-        "link": "https://www.geo.tv/latest/658860-the-importance-of-being-pakistan"
+        "title": "Andrew rubs salt on Prince Edward, Duchess Sophie wound with bold move",
+        "link": "https://www.geo.tv/latest/658879-andrew-rubs-salt-on-prince-edward-duchess-sophie-wound-with-bold-move"
       }
     ],
     "NDTV": [
       {
-        "title": "Relief For Migrants, Centre Doubles Allocation Of 5 Kg Cylinders To States",
-        "link": "https://www.ndtv.com/india-news/centre-doubles-daily-allocation-of-5-kg-free-trade-lpg-cylinders-for-migrant-labourers-across-states-11321070#publisher=newsstand"
+        "title": "7 Locations, 176 Aircraft, 45 Hours: US' \"Air Armada\" Rescue Ops In Iran",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-7-locations-176-aircraft-45-hours-us-air-armada-rescue-ops-in-iran-11321476#publisher=newsstand"
       },
       {
-        "title": "Why A Multi-Crore Painting Makes Financial Sense To The Ultra-Rich",
-        "link": "https://www.ndtv.com/india-news/art-ultra-rich-wealthy-investment-cyrus-poonawalla-raja-ravi-verma-painting-11320759#publisher=newsstand"
+        "title": "Humour Or Dig? Chennai Clinic's Trump-Themed Billboard Sparks Debate",
+        "link": "https://www.ndtv.com/tamil-nadu-news/humour-or-dig-chennai-clinics-trump-themed-billboard-sparks-debate-11321461#publisher=newsstand"
       },
       {
-        "title": "Trump Threatens To Bomb Iran Power Plants, Tehran Preps Human Chain Shield",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-news-iran-calls-for-human-chains-around-key-power-plants-as-trumps-hormuz-deadline-nears-11320688#publisher=newsstand"
+        "title": "\"Entry Of Women Would Alter Nature Of Worship\": Centre In Sabarimala Case",
+        "link": "https://www.ndtv.com/india-news/lord-ayyappa-sabarimala-review-entry-of-women-would-alter-nature-of-worship-centre-to-supreme-court-in-sabarimala-temple-case-11321418#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 300 Points As Iran Rejects US Ceasefire Proposal",
-        "link": "https://www.ndtv.com/india-news/share-market-live-updates-markets-bse-sensex-nse-nifty50-gift-nifty-us-iran-ceasefire-stock-market-today-april-7-11320909#publisher=newsstand"
+        "title": "Donate Kidney To Husband Or Arrange 30 Lakhs: Kanpur Woman's Dowry Horror",
+        "link": "https://www.ndtv.com/india-news/dowry-harassment-dowry-horror-donate-kidney-to-husband-or-arrange-30-lakhs-kanpur-womans-dowry-horror-11321416#publisher=newsstand"
       },
       {
-        "title": "US-Iran War Live Updates: Iran Can Be Destroyed In 4 Hours, Trump Warns As Hormuz Deadline Nears",
-        "link": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-live-updates-trump-deadline-strait-of-hormuz-oil-prices-dubai-uae-11316005#publisher=newsstand"
+        "title": "Air India CEO Campbell Wilson Steps Down: Report",
+        "link": "https://www.ndtv.com/india-news/air-india-ceo-campbell-wilson-steps-down-report-11320306#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-07 05:23 UTC"
+  "last_updated": "2026-04-07 06:50 UTC"
 }
