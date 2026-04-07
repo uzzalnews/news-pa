@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
+        "link": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
         "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss"
       },
@@ -15,15 +19,15 @@
         "link": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Plan 2 student loan interest rates capped at 6% in England",
-        "link": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Strictly star will not face rape charges, police say",
         "link": "https://www.bbc.com/news/articles/cvgld1vjdewo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Why JD Vance joined Pakistan’s last-ditch US-Iran mediation efforts",
+        "link": "https://www.aljazeera.com/news/2026/4/7/why-jd-vance-joined-pakistans-last-ditch-us-iran-mediation-efforts?traffic_source=rss"
+      },
       {
         "title": "WHO halts Gaza medical evacuations after worker killed",
         "link": "https://www.aljazeera.com/news/2026/4/7/who-halts-gaza-medical-evacuations-after-worker-killed?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Netanyahu: Israel shifting ‘balance of power’ with Iran strikes",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/netanyahu-israel-shifting-balance-of-power-with-iran-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Russia confirms 16 Cameroonian soldiers killed in Ukraine war",
-        "link": "https://www.aljazeera.com/news/2026/4/7/russia-confirms-16-cameroonian-soldiers-killed-in-ukraine-war?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +78,16 @@
         "link": "https://www.dawn.com/news/1989497/armys-top-brass-condemns-attacks-on-saudi-arabia-as-unnecessary-escalation-ispr"
       },
       {
+        "title": "Bill Gates to testify in front of US House panel on Jeffrey Epstein",
+        "link": "https://www.dawn.com/news/1989554/bill-gates-to-testify-in-front-of-us-house-panel-on-jeffrey-epstein"
+      },
+      {
         "title": "PM Shehbaz calls on nation to contribute to fuel conservation, austerity drive",
         "link": "https://www.dawn.com/news/1989540/pm-shehbaz-calls-on-nation-to-contribute-to-fuel-conservation-austerity-drive"
       },
       {
         "title": "Efforts to facilitate talks between US and Iran ongoing, Pakistani sources say",
         "link": "https://www.dawn.com/news/1989511/efforts-to-facilitate-talks-between-us-and-iran-ongoing-pakistani-sources-say"
-      },
-      {
-        "title": "Imran’s sisters Uzma, Noreen arrested as PTI braves rainy weather, Section 144 to protest outside Adiala jail",
-        "link": "https://www.dawn.com/news/1989409/imrans-sisters-uzma-noreen-arrested-as-pti-braves-rainy-weather-section-144-to-protest-outside-adiala-jail"
       }
     ],
     "APNews": [],
@@ -97,23 +97,35 @@
         "link": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
       },
       {
-        "title": "Shelly Kittleson, American Journalist Abducted in Iraq, Is Freed",
-        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/shelly-kittleson-journalist-iraq.html"
+        "title": "Trump Threatens Broad Attacks in Iran. How Is Illegal Conduct in War Defined?",
+        "link": "https://www.nytimes.com/2026/04/07/us/politics/war-crimes-civilians.html"
       },
       {
-        "title": "See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse",
-        "link": "https://www.nytimes.com/2026/04/07/science/nasa-artemis-moon-flyby-photos.html"
+        "title": "Shelly Kittleson, American Journalist Abducted in Iraq, Is Freed",
+        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/shelly-kittleson-journalist-iraq.html"
       },
       {
         "title": "NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public",
         "link": "https://www.nytimes.com/2026/04/07/science/nasa-artemis-ii-astronauts-moon-joy.html"
       },
       {
-        "title": "Why Hungary’s Election Could Swing on Roma Votes",
-        "link": "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html"
+        "title": "‘Definitely a Sham’: As Tariffs Climb, Trade Fraud and Accounting Tricks Proliferate",
+        "link": "https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "How US-Israeli war gave Iran all the cards in the Middle East",
+        "link": "https://www.middleeasteye.net/opinion/how-us-israeli-war-gave-iran-all-cards-middle-east"
+      },
+      {
+        "title": "Kuwait is asking citizens to stay home as a ‘precautionary measure’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-asking-citizens-stay-home-precautionary-measure"
+      },
+      {
+        "title": "Israel detects another wave of missiles launched from Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-detects-another-wave-missiles-launched-iran"
+      },
       {
         "title": "Israel army 'regrets' damage to Tehran synagogue",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-army-regrets-damage-tehran-synagogue"
@@ -121,40 +133,28 @@
       {
         "title": "UAE in 'deep regret' over UN Security Council failure to pass Hormuz resolution",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-deep-regret-over-un-security-council-failure-pass-hormuz-resolution"
-      },
-      {
-        "title": "Israeli military issues warning for vessels in a maritime area in Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-issues-warning-vessels-maritime-area-lebanon"
-      },
-      {
-        "title": "UN Security Council fails to approve resolution on Strait of Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-security-council-fails-approve-resolution-strait-hormuz"
-      },
-      {
-        "title": "Situation on Kharg Island 'under control' following US strikes: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/situation-khargs-island-under-control-following-us-strikes-report"
       }
     ],
     "GeoTV": [
       {
-        "title": "How to make money on Picsart? Design company announced new monetization program",
-        "link": "https://www.geo.tv/latest/658973-how-to-make-money-on-picsart-design-company-announced-new-monetization-program"
+        "title": "Pakistan blames Israeli strikes on Iran for fresh escalation in Middle East conflict",
+        "link": "https://www.geo.tv/latest/658976-pakistan-blames-israeli-strikes-on-iran-for-fresh-escalation-in-middle-east"
       },
       {
-        "title": "Harry and Meghan's 'standing ovation' moment resurfaces",
-        "link": "https://www.geo.tv/latest/658974-harry-and-meghans-standing-ovation-moment-resurfaces"
+        "title": "Kanye West 'admits why he lost' Kim Kardashian amid Lewis Hamilton romance",
+        "link": "https://www.geo.tv/latest/658983-kanye-west-admits-why-he-lost-kim-kardashian-amid-lewis-hamilton-romance"
       },
       {
-        "title": "Soaring costs, fuel shortage fears drive Pakistan to electric motorbikes",
-        "link": "https://www.geo.tv/latest/658968-soaring-costs-fuel-shortage-fears-drive-pakistan-to-electric-motorbikes"
+        "title": "Wireless Festival cancelled after government bans Ye from entering Britain",
+        "link": "https://www.geo.tv/latest/658980-wireless-festival-cancelled-after-government-bans-ye-from-entering-britain"
       },
       {
-        "title": "Stocks fall as Trump's 8 p.m. Iran deadline spooks markets",
-        "link": "https://www.geo.tv/latest/658972-stocks-fall-as-trumps-8-pm-iran-deadline-spooks-markets"
+        "title": "Andrew finally breaks cover after receiving King Charles message",
+        "link": "https://www.geo.tv/latest/658977-andrew-finally-breaks-cover-after-receiving-king-charles-message"
       },
       {
-        "title": "Prince William, Princess Kate plan desperate escape from family turmoil",
-        "link": "https://www.geo.tv/latest/658964-prince-william-princess-of-wales-take-much-need-step-amid-family-turmoil"
+        "title": "Cyber, nuclear, invasion? What is Trump threatening in Iran",
+        "link": "https://www.geo.tv/latest/658975-cyber-nuclear-invasion-what-is-trump-threatening-in-iran"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-07 17:41 UTC"
+  "last_updated": "2026-04-07 18:39 UTC"
 }
