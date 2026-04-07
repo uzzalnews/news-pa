@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Real Madrid vs Bayern Munich – Champions League quarterfinal",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/7/live-real-madrid-vs-bayern-munich-champions-league-quarterfinal?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+        "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
         "link": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss"
@@ -21,34 +19,30 @@
         "link": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Ex-footballer Joey Barton denies golf club attack",
-        "link": "https://www.bbc.com/news/articles/c05d1j0q9jro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Disruption expected as six-day doctors' strike begins",
-        "link": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss"
+        "title": "Strictly star will not face rape charges, police say",
+        "link": "https://www.bbc.com/news/articles/cvgld1vjdewo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "LIVE: Real Madrid vs Bayern Munich – Champions League quarterfinal",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/7/live-real-madrid-vs-bayern-munich-champions-league-quarterfinal?traffic_source=rss"
+        "title": "WHO halts Gaza medical evacuations after worker killed",
+        "link": "https://www.aljazeera.com/news/2026/4/7/who-halts-gaza-medical-evacuations-after-worker-killed?traffic_source=rss"
       },
       {
-        "title": "Trump threatens Iran: ‘A whole civilisation will die tonight’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-threatens-iran-a-whole-civilisation-will-die?traffic_source=rss"
+        "title": "Top university says US-Israel attack targeted Iran’s progress, AI learning",
+        "link": "https://www.aljazeera.com/news/2026/4/7/top-university-says-us-israel-attack-targeted-irans-progress-ai-learning?traffic_source=rss"
       },
       {
-        "title": "From 9pm shutdowns to remote work: Egypt cuts fuel amid power crisis",
-        "link": "https://www.aljazeera.com/economy/2026/4/7/from-9pm-shutdowns-to-remote-work-egypt-cuts-fuel-amid-power-crisis?traffic_source=rss"
+        "title": "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms",
+        "link": "https://www.aljazeera.com/news/2026/4/7/us-denies-nuclear-plan-as-deadline-on-threat-to-iran-civilisation-looms?traffic_source=rss"
       },
       {
-        "title": "India’s nuclear leap: Why its fast breeder reactor success matters",
-        "link": "https://www.aljazeera.com/news/2026/4/7/indias-nuclear-leap-why-its-fast-breeder-reactor-success-matters?traffic_source=rss"
+        "title": "Netanyahu: Israel shifting ‘balance of power’ with Iran strikes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/netanyahu-israel-shifting-balance-of-power-with-iran-strikes?traffic_source=rss"
       },
       {
-        "title": "Bangladesh appoints Tamim Iqbal as country’s youngest cricket chief",
-        "link": "https://www.aljazeera.com/sports/2026/4/7/bangladesh-appoint-tamim-iqbal-as-countrys-youngest-cricket-chief?traffic_source=rss"
+        "title": "Russia confirms 16 Cameroonian soldiers killed in Ukraine war",
+        "link": "https://www.aljazeera.com/news/2026/4/7/russia-confirms-16-cameroonian-soldiers-killed-in-ukraine-war?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1989497/armys-top-brass-condemns-attacks-on-saudi-arabia-as-unnecessary-escalation-ispr"
       },
       {
+        "title": "PM Shehbaz calls on nation to contribute to fuel conservation, austerity drive",
+        "link": "https://www.dawn.com/news/1989540/pm-shehbaz-calls-on-nation-to-contribute-to-fuel-conservation-austerity-drive"
+      },
+      {
         "title": "Efforts to facilitate talks between US and Iran ongoing, Pakistani sources say",
         "link": "https://www.dawn.com/news/1989511/efforts-to-facilitate-talks-between-us-and-iran-ongoing-pakistani-sources-say"
       },
       {
         "title": "Imran’s sisters Uzma, Noreen arrested as PTI braves rainy weather, Section 144 to protest outside Adiala jail",
         "link": "https://www.dawn.com/news/1989409/imrans-sisters-uzma-noreen-arrested-as-pti-braves-rainy-weather-section-144-to-protest-outside-adiala-jail"
-      },
-      {
-        "title": "Pakistan has repaid $1.43 billion in debt, including Eurobond due April 8, adviser says",
-        "link": "https://www.dawn.com/news/1989505/pakistan-has-repaid-143-billion-in-debt-including-eurobond-due-april-8-adviser-says"
       }
     ],
     "APNews": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel army 'regrets' damage to Tehran synagogue",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-army-regrets-damage-tehran-synagogue"
+      },
+      {
+        "title": "UAE in 'deep regret' over UN Security Council failure to pass Hormuz resolution",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-deep-regret-over-un-security-council-failure-pass-hormuz-resolution"
+      },
+      {
         "title": "Israeli military issues warning for vessels in a maritime area in Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-issues-warning-vessels-maritime-area-lebanon"
       },
@@ -131,58 +133,50 @@
       {
         "title": "Situation on Kharg Island 'under control' following US strikes: Report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/situation-khargs-island-under-control-following-us-strikes-report"
-      },
-      {
-        "title": "White House denies it is considering using nuclear weapons in Iran",
-        "link": "https://www.middleeasteye.net/news/white-house-denies-it-considering-using-nuclear-weapons-iran"
-      },
-      {
-        "title": "White House denies it is considering using nuclear weapons in Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-denies-it-considering-using-nuclear-weapons-iran"
       }
     ],
     "GeoTV": [
       {
-        "title": "Offset shooting update: Rapper Lil Tjay arrested after denying involvement",
-        "link": "https://www.geo.tv/latest/658967-offset-shooting-update-rapper-lil-tjay-arrested-after-denying-involvement"
+        "title": "How to make money on Picsart? Design company announced new monetization program",
+        "link": "https://www.geo.tv/latest/658973-how-to-make-money-on-picsart-design-company-announced-new-monetization-program"
       },
       {
-        "title": "Missile strike in Sharjah injures two Pakistanis, confirms UAE authorities",
-        "link": "https://www.geo.tv/latest/658951-missile-strike-in-sharjah-injures-two-pakistanis-confirms-uae-authorities"
+        "title": "Harry and Meghan's 'standing ovation' moment resurfaces",
+        "link": "https://www.geo.tv/latest/658974-harry-and-meghans-standing-ovation-moment-resurfaces"
       },
       {
-        "title": "Prince George eyeing title of tallest king",
-        "link": "https://www.geo.tv/latest/658963-prince-george-eyeing-title-of-tallest-king"
+        "title": "Soaring costs, fuel shortage fears drive Pakistan to electric motorbikes",
+        "link": "https://www.geo.tv/latest/658968-soaring-costs-fuel-shortage-fears-drive-pakistan-to-electric-motorbikes"
       },
       {
-        "title": "Joe Eszterhas in talks with Emerald Fennell for 'Basic Instinct' reboot",
-        "link": "https://www.geo.tv/latest/658935-joe-eszterhas-in-talks-with-emerald-fennell-for-basic-instinct-reboot"
+        "title": "Stocks fall as Trump's 8 p.m. Iran deadline spooks markets",
+        "link": "https://www.geo.tv/latest/658972-stocks-fall-as-trumps-8-pm-iran-deadline-spooks-markets"
       },
       {
-        "title": "‘Heated Rivalry' intimacy coordinator explains boundaries on set",
-        "link": "https://www.geo.tv/latest/658954-heated-rivalry-intimacy-coordinator-explains-boundaries-on-set"
+        "title": "Prince William, Princess Kate plan desperate escape from family turmoil",
+        "link": "https://www.geo.tv/latest/658964-prince-william-princess-of-wales-take-much-need-step-amid-family-turmoil"
       }
     ],
     "NDTV": [
       {
-        "title": "BJP Files Case Against Mallikarjun Kharge Over Alleged Inflammatory Speech In Assam",
-        "link": "https://www.ndtv.com/india-news/bjp-files-case-against-mallikarjun-kharge-over-alleged-inflammatory-speech-in-assam-11324686#publisher=newsstand"
+        "title": "Bill Gates To Testify In Front Of US House Panel On Jeffrey Epstein: Report",
+        "link": "https://www.ndtv.com/world-news/bill-gates-to-testify-in-front-of-us-house-panel-on-jeffrey-epstein-report-11325115#publisher=newsstand"
       },
       {
-        "title": "Trump Deadline Looms, Iran Cuts, Then Reopens Communication With US: Report",
-        "link": "https://www.ndtv.com/world-news/as-deadline-looms-iran-says-it-has-shut-all-channels-of-talks-with-us-report-11323924#publisher=newsstand"
+        "title": "7 Hours To Deadline: How Trump's Civilisation-Ending Threats Could Play Out",
+        "link": "https://www.ndtv.com/world-news/trump-iran-deadline-kharg-island-us-iran-war-today-7-hours-to-deadline-how-trumps-civilisation-ending-threats-could-play-out-11325038#publisher=newsstand"
       },
       {
-        "title": "2 Killed, Several Injured In Firing As Mob Attacks Paramilitary Camp In Manipur",
-        "link": "https://www.ndtv.com/india-news/manipur-tense-many-injured-in-firing-as-angry-mob-storms-paramilitary-camp-11322997#publisher=newsstand"
+        "title": "'Nothing Implies This, Buffoons': US Says Not Considering Nukes Against Iran",
+        "link": "https://www.ndtv.com/world-news/iran-israel-war-news-us-nuclear-weapons-donald-trump-deadline-strait-of-hormuz-kharg-island-11324810#publisher=newsstand"
       },
       {
-        "title": "White House Denies Considering Nuclear Strikes Against Iran",
-        "link": "https://www.ndtv.com/world-news/israel-iran-war-white-house-denies-considering-nuclear-strikes-against-iran-11324483#publisher=newsstand"
+        "title": "30 Cops Injured In Clash As Villagers Oppose Road Connecting Odisha Mining Site",
+        "link": "https://www.ndtv.com/india-news/30-cops-injured-in-clash-as-villagers-oppose-road-connecting-odisha-rayagada-mining-site-11325021#publisher=newsstand"
       },
       {
-        "title": "2 Pakistan Terrorists Among 5 Arrested In J&K, One Evaded Cops For 16 Years",
-        "link": "https://www.ndtv.com/india-news/2-pakistan-terrorists-among-5-arrested-in-j-k-one-evaded-cops-for-16-years-11323344#publisher=newsstand"
+        "title": "US-Iran War Live Updates: Iran Faces 8 pm Deadline From The US, Says White House",
+        "link": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-live-updates-trump-deadline-strait-of-hormuz-oil-prices-dubai-uae-11316005#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-07 16:40 UTC"
+  "last_updated": "2026-04-07 17:41 UTC"
 }
