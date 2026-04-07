@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Real Madrid vs Bayern Munich – Champions League quarterfinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/7/live-real-madrid-vs-bayern-munich-champions-league-quarterfinal?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,8 +13,8 @@
         "link": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
-        "link": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&at_campaign=rss"
+        "title": "Has Artemis II shown we can land on the Moon again?",
+        "link": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Plan 2 student loan interest rates capped at 6% in England",
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Real Madrid vs Bayern Munich – Champions League quarterfinal",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/7/live-real-madrid-vs-bayern-munich-champions-league-quarterfinal?traffic_source=rss"
+      },
+      {
         "title": "Trump threatens Iran: ‘A whole civilisation will die tonight’",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-threatens-iran-a-whole-civilisation-will-die?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Bangladesh appoints Tamim Iqbal as country’s youngest cricket chief",
         "link": "https://www.aljazeera.com/sports/2026/4/7/bangladesh-appoint-tamim-iqbal-as-countrys-youngest-cricket-chief?traffic_source=rss"
-      },
-      {
-        "title": "Free will: can we really shape our destiny?",
-        "link": "https://www.aljazeera.com/video/doha-debates/2026/4/7/free-will-can-we-really-shape-our-destiny?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "China, Russia veto UN resolution to reopen Strait of Hormuz",
+        "link": "https://www.dawn.com/news/1989533/china-russia-veto-un-resolution-to-reopen-strait-of-hormuz"
+      },
+      {
         "title": "Army’s top brass condemns attacks on Saudi Arabia as ‘unnecessary escalation’: ISPR",
         "link": "https://www.dawn.com/news/1989497/armys-top-brass-condemns-attacks-on-saudi-arabia-as-unnecessary-escalation-ispr"
       },
@@ -78,16 +88,12 @@
         "link": "https://www.dawn.com/news/1989511/efforts-to-facilitate-talks-between-us-and-iran-ongoing-pakistani-sources-say"
       },
       {
+        "title": "Imran’s sisters Uzma, Noreen arrested as PTI braves rainy weather, Section 144 to protest outside Adiala jail",
+        "link": "https://www.dawn.com/news/1989409/imrans-sisters-uzma-noreen-arrested-as-pti-braves-rainy-weather-section-144-to-protest-outside-adiala-jail"
+      },
+      {
         "title": "Pakistan has repaid $1.43 billion in debt, including Eurobond due April 8, adviser says",
         "link": "https://www.dawn.com/news/1989505/pakistan-has-repaid-143-billion-in-debt-including-eurobond-due-april-8-adviser-says"
-      },
-      {
-        "title": "‘Dangerous escalation’: Pakistan condemns Iranian strikes on Saudi Arabia’s energy facilities",
-        "link": "https://www.dawn.com/news/1989473/dangerous-escalation-pakistan-condemns-iranian-strikes-on-saudi-arabias-energy-facilities"
-      },
-      {
-        "title": "Several people evacuated as rain causes flooding in parts of Peshawar",
-        "link": "https://www.dawn.com/news/1989513/several-people-evacuated-as-rain-causes-flooding-in-parts-of-peshawar"
       }
     ],
     "APNews": [],
@@ -97,25 +103,33 @@
         "link": "https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html"
       },
       {
-        "title": "Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ",
-        "link": "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
-      },
-      {
-        "title": "Trump Threatens Jail if Journalists Protect Certain Iran Sources",
-        "link": "https://www.nytimes.com/2026/04/06/business/media/trump-jail-journalists-fighter-crew.html"
-      },
-      {
-        "title": "Trump Threatens ‘Complete Demolition’ by Midnight, and Dark Money Flows Into Midterms",
-        "link": "https://www.nytimes.com/2026/04/07/podcasts/the-headlines/trump-iran-dark-money-midterms.html"
+        "title": "Shelly Kittleson, American Journalist Abducted in Iraq, Is Freed",
+        "link": "https://www.nytimes.com/2026/04/07/world/middleeast/shelly-kittleson-journalist-iraq.html"
       },
       {
         "title": "See First Photos From NASA’s Artemis II Moon Mission Capturing a Setting Earth and Eclipse",
         "link": "https://www.nytimes.com/2026/04/07/science/nasa-artemis-moon-flyby-photos.html"
+      },
+      {
+        "title": "NASA’s Artemis II Astronauts Spread ‘Moon Joy’ to the Public",
+        "link": "https://www.nytimes.com/2026/04/07/science/nasa-artemis-ii-astronauts-moon-joy.html"
+      },
+      {
+        "title": "Why Hungary’s Election Could Swing on Roma Votes",
+        "link": "https://www.nytimes.com/2026/04/07/world/europe/hungary-roma-orban-election-education.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Situation in Kharg's island 'under control' following US strikes: Report",
+        "title": "Israeli military issues warning for vessels in a maritime area in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-issues-warning-vessels-maritime-area-lebanon"
+      },
+      {
+        "title": "UN Security Council fails to approve resolution on Strait of Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-security-council-fails-approve-resolution-strait-hormuz"
+      },
+      {
+        "title": "Situation on Kharg Island 'under control' following US strikes: Report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/situation-khargs-island-under-control-following-us-strikes-report"
       },
       {
@@ -125,61 +139,57 @@
       {
         "title": "White House denies it is considering using nuclear weapons in Iran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-denies-it-considering-using-nuclear-weapons-iran"
-      },
-      {
-        "title": "Israeli forces beat elderly Palestinian woman to death",
-        "link": "https://www.middleeasteye.net/news/israeli-forces-beat-elderly-palestinian-woman-death"
-      },
-      {
-        "title": "Lebanon health ministry says 1,530 killed since 2 March",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-health-ministry-says-1530-killed-2-march"
       }
     ],
     "GeoTV": [
       {
-        "title": "Duke of Gloucester praises award-winning Ad Gefrin during special visit",
-        "link": "https://www.geo.tv/latest/658957-duke-of-gloucester-praises-award-winning-ad-gefrin-during-special-visit"
+        "title": "Offset shooting update: Rapper Lil Tjay arrested after denying involvement",
+        "link": "https://www.geo.tv/latest/658967-offset-shooting-update-rapper-lil-tjay-arrested-after-denying-involvement"
       },
       {
-        "title": "Delaware ticket wins $231 million Powerball jackpot on April 6 drawing",
-        "link": "https://www.geo.tv/latest/658958-delaware-ticket-wins-231-million-powerball-jackpot-on-april-6-drawing"
+        "title": "Missile strike in Sharjah injures two Pakistanis, confirms UAE authorities",
+        "link": "https://www.geo.tv/latest/658951-missile-strike-in-sharjah-injures-two-pakistanis-confirms-uae-authorities"
       },
       {
-        "title": "Pakistan repays $1.43bn in external debt, says finance ministry adviser",
-        "link": "https://www.geo.tv/latest/658953-pakistan-repays-143bn-in-external-debt-says-finance-ministry-adviser"
+        "title": "Prince George eyeing title of tallest king",
+        "link": "https://www.geo.tv/latest/658963-prince-george-eyeing-title-of-tallest-king"
       },
       {
-        "title": "When will Apple's foldable iPhone launch? Production issues may push back shipments",
-        "link": "https://www.geo.tv/latest/658952-when-will-apples-foldable-iphone-launch-production-issues-may-push-back-shipments"
+        "title": "Joe Eszterhas in talks with Emerald Fennell for 'Basic Instinct' reboot",
+        "link": "https://www.geo.tv/latest/658935-joe-eszterhas-in-talks-with-emerald-fennell-for-basic-instinct-reboot"
       },
       {
-        "title": "Kanye West faces another major setback amid cancellation",
-        "link": "https://www.geo.tv/latest/658950-kanye-west-faces-another-major-setback-amid-cancellation"
+        "title": "‘Heated Rivalry' intimacy coordinator explains boundaries on set",
+        "link": "https://www.geo.tv/latest/658954-heated-rivalry-intimacy-coordinator-explains-boundaries-on-set"
       }
     ],
     "NDTV": [
       {
-        "title": "Trump Says \"Whole Civilisation Will Die Tonight\", Iran Calls Him \"Psychopath\"",
-        "link": "https://www.ndtv.com/world-news/iran-us-israel-war-whole-civilisation-will-die-tonight-trumps-big-threat-to-iran-11323366#publisher=newsstand"
+        "title": "BJP Files Case Against Mallikarjun Kharge Over Alleged Inflammatory Speech In Assam",
+        "link": "https://www.ndtv.com/india-news/bjp-files-case-against-mallikarjun-kharge-over-alleged-inflammatory-speech-in-assam-11324686#publisher=newsstand"
       },
       {
-        "title": "\"Stay Where You Are For Next 48 Hours\": Centre's Advisory For Indians In Iran",
-        "link": "https://www.ndtv.com/world-news/stay-where-you-are-for-next-48-hours-centres-advisory-for-indians-in-iran-11324090#publisher=newsstand"
-      },
-      {
-        "title": "Hours Before Trump's Deadline, Iran Cuts All Communication With US: Report",
+        "title": "Trump Deadline Looms, Iran Cuts, Then Reopens Communication With US: Report",
         "link": "https://www.ndtv.com/world-news/as-deadline-looms-iran-says-it-has-shut-all-channels-of-talks-with-us-report-11323924#publisher=newsstand"
       },
       {
-        "title": "Behind Bank Robbery In Jalandhar, Retired Cop's Drug-Addict Son",
-        "link": "https://www.ndtv.com/india-news/behind-bank-robbery-in-jalandhar-retired-cops-drug-addict-son-11323975#publisher=newsstand"
+        "title": "2 Killed, Several Injured In Firing As Mob Attacks Paramilitary Camp In Manipur",
+        "link": "https://www.ndtv.com/india-news/manipur-tense-many-injured-in-firing-as-angry-mob-storms-paramilitary-camp-11322997#publisher=newsstand"
       },
       {
-        "title": "US-Iran War Live Updates: US Oil Price Jumps Over 2% After Reported Strikes On Iran's Kharg Island",
-        "link": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-live-updates-trump-deadline-strait-of-hormuz-oil-prices-dubai-uae-11316005#publisher=newsstand"
+        "title": "White House Denies Considering Nuclear Strikes Against Iran",
+        "link": "https://www.ndtv.com/world-news/israel-iran-war-white-house-denies-considering-nuclear-strikes-against-iran-11324483#publisher=newsstand"
+      },
+      {
+        "title": "2 Pakistan Terrorists Among 5 Arrested In J&K, One Evaded Cops For 16 Years",
+        "link": "https://www.ndtv.com/india-news/2-pakistan-terrorists-among-5-arrested-in-j-k-one-evaded-cops-for-16-years-11323344#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "‘We still deserve due process,’ says Cambodian man deported by US to Eswatini",
+        "link": "https://www.theguardian.com/world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini"
+      },
       {
         "title": "People of Burkina Faso should forget about democracy, says military ruler",
         "link": "https://www.theguardian.com/world/2026/apr/03/people-burkina-faso-should-forget-about-democracy-military-ruler-ibrahim-traore"
@@ -195,12 +205,8 @@
       {
         "title": "Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas",
         "link": "https://www.theguardian.com/football/2026/mar/30/congo-brazzaville-jean-guy-blaise-mayolas-fifa-interpol-arrest-warrant"
-      },
-      {
-        "title": "Weather tracker: Thunderstorms drench UAE and Saudi Arabia",
-        "link": "https://www.theguardian.com/environment/2026/mar/30/weather-tracker-thunderstorms-uae-united-arab-emirates-saudi-arabia"
       }
     ]
   },
-  "last_updated": "2026-04-07 15:45 UTC"
+  "last_updated": "2026-04-07 16:40 UTC"
 }
