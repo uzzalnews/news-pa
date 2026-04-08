@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Barcelona vs Atletico Madrid – Champions League quarterfinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/8/live-barcelona-vs-atletico-madrid-champions-league-quarterfinal?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Israel launches 100 air strikes in 10 minutes across Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-launches-100-air-strikes-in-10-minutes-across-lebanon?traffic_source=rss"
+        "title": "Nobel Prize Committee condemns Russian move to criminalise rights group",
+        "link": "https://www.aljazeera.com/news/2026/4/8/nobel-prize-committee-condemns-russian-move-to-criminalise-rights-group?traffic_source=rss"
       },
       {
-        "title": "Vance warns Iran ceasefire hinges on good faith talks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/vance-warns-iran-ceasefire-hinges-on-good-faith-talks?traffic_source=rss"
+        "title": "LIVE: Barcelona vs Atletico Madrid – Champions League quarterfinal",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/8/live-barcelona-vs-atletico-madrid-champions-league-quarterfinal?traffic_source=rss"
       },
       {
-        "title": "Iran, US both claim victory, but did they actually concede ground?",
-        "link": "https://www.aljazeera.com/news/2026/4/8/iran-us-both-claim-victory-but-did-they-actually-concede-ground?traffic_source=rss"
+        "title": "How Pakistan managed to get the US and Iran to a ceasefire",
+        "link": "https://www.aljazeera.com/features/2026/4/8/how-pakistan-managed-to-get-the-us-and-iran-to-a-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Hegseth touts US ‘victory’ over Iran as Tehran hails its own ‘historic’ win",
-        "link": "https://www.aljazeera.com/news/2026/4/8/hegseth-touts-us-victory-over-iran-as-tehran-hails-its-own-historic-win?traffic_source=rss"
+        "title": "Hegseth: Iran ‘begged’ for ceasefire, claims ‘historic victory’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/hegseth-iran-begged-for-ceasefire-claims-historic?traffic_source=rss"
       },
       {
-        "title": "Israel strikes central Beirut without warning",
-        "link": "https://www.aljazeera.com/gallery/2026/4/8/israel-strikes-central-beirut-without-warning?traffic_source=rss"
+        "title": "Trump says Lebanon not included in US-Iran ceasefire amid Israeli assault",
+        "link": "https://www.aljazeera.com/news/2026/4/8/trump-says-lebanon-not-included-in-us-iran-ceasefire-amid-israeli-assault?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,27 +99,39 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Even as They Praise Iran Cease-Fire, World Leaders Are Whipsawed by Trump",
-        "link": "https://www.nytimes.com/2026/04/08/world/europe/iran-ceasefire-world-reaction.html"
-      },
-      {
         "title": "What Is In Iran’s 10-Point Proposal, and How Does It Compare to U.S. Demands?",
         "link": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-10-point-proposal-trump-us-ceasefire.html"
       },
       {
         "title": "What Trump Has Accomplished in Iran After 5 Weeks of War",
-        "link": "https://www.nytimes.com/2026/04/08/world/middleeast/trump-iran-goals.html"
+        "link": "https://www.nytimes.com/2026/04/08/us/politics/trump-iran-goals.html"
       },
       {
-        "title": "Trump Backs Down on Iran, and an A.I. ‘Reckoning’",
-        "link": "https://www.nytimes.com/2026/04/08/podcasts/the-headlines/trump-iran-cease-fire-ai-reckoning.html"
+        "title": "Gas Prices Won’t Quickly Return to Prewar Levels, Even if the Strait of Hormuz Reopens",
+        "link": "https://www.nytimes.com/2026/04/08/business/energy-environment/iran-war-oil-gas-prices-energy.html"
       },
       {
         "title": "Georgia, Wisconsin Elections Show Declining Appetite for Republican Candidates",
         "link": "https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html"
+      },
+      {
+        "title": "Stung by Voters, Republican Legislators Move to Curb Citizen Initiatives",
+        "link": "https://www.nytimes.com/2026/04/08/us/politics/republicans-citizen-initiatives.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Air defences activated in Tehran after ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/air-defences-activated-tehran-after-ceasefire"
+      },
+      {
+        "title": "Beirut doctor reports 'massive influx of casualties'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/beirut-doctor-reports-massive-influx-casualties"
+      },
+      {
+        "title": "Iran signals possible ceasefire withdrawal amid reports of strikes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-signals-possible-ceasefire-withdrawal-amid-reports-strikes"
+      },
       {
         "title": "At least 89 killed, over 800 wounded in latest Israeli attacks on Lebanon: Health ministry",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-89-killed-over-700-wounded-latest-israeli-attacks-lebanon-health"
@@ -121,40 +139,28 @@
       {
         "title": "'Islamic bomb': The secret Pakistani scheme to make Iran a nuclear power",
         "link": "https://www.middleeasteye.net/features/islamic-bomb-secret-pakistani-scheme-make-iran-nuclear-power"
-      },
-      {
-        "title": "Trump: Lebanon not part of ceasefire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-lebanon-not-part-ceasefire"
-      },
-      {
-        "title": "Kuwait reports damage at oil facilities, power stations after Iranian drone attack",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-reports-damage-oil-facilities-power-stations-after-iranian-drone"
-      },
-      {
-        "title": "Iran struck Saudi oil pipeline hours after ceasefire: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-struck-saudi-oil-pipeline-hours-after-ceasefire-report"
       }
     ],
     "GeoTV": [
       {
-        "title": "Ariana Grande shares studio pics as she drops major 8th album hint",
-        "link": "https://www.geo.tv/latest/659122-ariana-grande-shares-studio-pics-as-she-drops-major-8th-album-hint"
+        "title": "Why is Israel attacking Lebanon? massive airstrikes kill dozens in Beirut",
+        "link": "https://www.geo.tv/latest/659126-why-is-israel-attacking-lebanon-massive-airstrikes-kill-dozens-in-beirut"
       },
       {
-        "title": "Nicolas Hamilton announces BTCC return for 2026 season",
-        "link": "https://www.geo.tv/latest/659118-nicolas-hamilton-announces-btcc-return-for-2026-season"
+        "title": "'Euphoria' creator gives a glimpse into late Angus Cloud's role in Season 3",
+        "link": "https://www.geo.tv/latest/659112-euphoria-creator-gives-a-glimpse-into-late-angus-clouds-role-in-season-3"
       },
       {
-        "title": "Major 'Devil Wears Prada 2' leak sparks chaos on live television",
-        "link": "https://www.geo.tv/latest/659117-major-devil-wears-prada-2-leak-sparks-chaos-on-live-television"
+        "title": "Prince Harry given ultimatum by royal family before his bombshell move",
+        "link": "https://www.geo.tv/latest/659120-prince-harry-given-ultimatum-by-royal-family-before-his-bombshell-move"
       },
       {
-        "title": "Jessica Alba enjoys 'out of this world' moment with Artemis II mission",
-        "link": "https://www.geo.tv/latest/659115-jessica-alba-enjoys-out-of-this-world-moment-with-artemis-ii-mission"
+        "title": "Taylor Swift, Travis Kelce weigh in on Jason, Kylie Kelce's puppy name saga",
+        "link": "https://www.geo.tv/latest/659125-taylor-swift-travis-kelce-weigh-in-on-jason-kylie-kelces-puppy-name"
       },
       {
-        "title": "US-Iran ceasefire: PM Shehbaz urges all parties to exercise restraint, respect truce amid violations",
-        "link": "https://www.geo.tv/latest/659110-pakistan-has-changed-forever-says-pm-hoping-for-permanent-us-iran-ceasefire"
+        "title": "King's threat straightens up Andrew as antics gets on Charles's last nerve",
+        "link": "https://www.geo.tv/latest/659081-kings-threat-straightens-up-andrew-as-antics-gets-on-charless-last-nerve"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-08 15:50 UTC"
+  "last_updated": "2026-04-08 16:48 UTC"
 }
