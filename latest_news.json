@@ -1,48 +1,59 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 1,000 Points, Nifty Down 300 As Oil Prices Surge",
+      "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-nifty-share-market-us-iran-ceasefire-donald-trump-oil-prices-11331833#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Election 2026 LIVE: Assam Sees 59% Voter Turnout, Kerala Records Nearly 50%, Puducherry 56%",
+      "link": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
-      {
-        "title": "Jeremy Bowen: Ceasefire means respite for civilians, but it might not last long",
-        "link": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
-        "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "BBC at the site of Israeli air strikes in Beirut",
         "link": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Israel says it hit Lebanon 100 times in just 10 minutes",
-        "link": "https://www.bbc.com/news/videos/c75k1p625ngo?at_medium=RSS&at_campaign=rss"
+        "title": "22,000 students told to pay back 'mis-sold' maintenance loans",
+        "link": "https://www.bbc.com/news/articles/cq593g970z7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Farmers warn of higher food costs due to Iran war",
-        "link": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss"
+        "title": "Four people die trying to board boat in Channel crossing attempt",
+        "link": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
+        "link": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oil prices rise as concerns grow over 'fragile' US-Iran ceasefire",
+        "link": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "The Masters: Golf’s segregated past",
-        "link": "https://www.aljazeera.com/video/game-theory/2026/4/9/the-masters-golfs-segregated-past?traffic_source=rss"
+        "title": "Ukraine’s veterans’ theatre turns war wounds into catharsis",
+        "link": "https://www.aljazeera.com/news/2026/4/9/ukraines-veterans-theatre-turns-war-wounds-into-catharsis?traffic_source=rss"
       },
       {
-        "title": "Three life terms for Kashmir’s Aasiya Andrabi fit India’s ‘broader pattern’",
-        "link": "https://www.aljazeera.com/news/2026/4/9/three-life-terms-for-kashmirs-aasiya-andrabi-fit-indias-broader-pattern?traffic_source=rss"
+        "title": "Record animal sacrifice attempts at Al-Aqsa spark status quo fears",
+        "link": "https://www.aljazeera.com/features/2026/4/9/record-animal-sacrifice-attempts-at-al-aqsa-spark-status-quo-fears?traffic_source=rss"
       },
       {
-        "title": "UK’s Mandelson tried to get Epstein’s ‘goddaughter’ into 10 Downing Street",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/uks-mandelson-tried-to-get-epsteins-goddaughter-access-to-10-downing-st?traffic_source=rss"
+        "title": "Fury wants boxing clash with Joshua after comeback fight against Makhmudov",
+        "link": "https://www.aljazeera.com/sports/2026/4/9/fury-wants-boxing-clash-with-joshua-after-comeback-fight-against-makhmudov?traffic_source=rss"
       },
       {
-        "title": "Iran war day 41: What’s happening in Lebanon, Middle East and beyond?",
-        "link": "https://www.aljazeera.com/news/2026/4/9/iran-war-day-41-whats-happening-in-lebanon-middle-east-and-beyond?traffic_source=rss"
+        "title": "Thousands of Palestinians pray at Al-Aqsa Mosque after Israel’s 40-day ban",
+        "link": "https://www.aljazeera.com/news/2026/4/9/thousands-of-palestinians-pray-at-al-aqsa-mosque-after-israels-40-day-ban?traffic_source=rss"
       },
       {
-        "title": "For Gulf states, Hormuz uncertainty casts shadow over US-Iran ceasefire",
-        "link": "https://www.aljazeera.com/news/2026/4/9/for-gulf-states-hormuz-uncertainty-casts-shadow-over-fragile-us-iran-truce?traffic_source=rss"
+        "title": "Iran has been bloodied, but it is winning against the US-Israel axis",
+        "link": "https://www.aljazeera.com/opinions/2026/4/9/iran-has-been-bloodied-but-it-is-winning-against-the-us-israel-axis?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +89,16 @@
         "link": "https://www.dawn.com/news/1990171/pakistan-condemns-israeli-aggression-against-lebanon-in-strongest-terms-says-it-undermines-peace-efforts"
       },
       {
+        "title": "Iran, Saudi FMs hold first call since start of conflict, discuss ways to reduce tensions",
+        "link": "https://www.dawn.com/news/1990184/iran-saudi-fms-hold-first-call-since-start-of-conflict-discuss-ways-to-reduce-tensions"
+      },
+      {
         "title": "Pakistan’s envoy to US acknowledges China’s quiet but persuasive role in Iran talks",
         "link": "https://www.dawn.com/news/1990131/pakistans-envoy-to-us-acknowledges-chinas-quiet-but-persuasive-role-in-iran-talks"
       },
       {
         "title": "Millions vote in Assam, Kerala as India begins series of state elections",
         "link": "https://www.dawn.com/news/1990157/millions-vote-in-assam-kerala-as-india-begins-series-of-state-elections"
-      },
-      {
-        "title": "Islamabad takes centre stage, to host high-stakes US-Iran talks",
-        "link": "https://www.dawn.com/news/1990069/islamabad-takes-centre-stage-to-host-high-stakes-us-iran-talks"
       }
     ],
     "APNews": [],
@@ -115,68 +126,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Islamofascism: The word that launders war crimes, from Iran to Palestine",
-        "link": "https://www.middleeasteye.net/opinion/uk-islamofascism-word-launders-war-crimes-iran-palestine"
+        "title": "US-Iran truce should extend to Lebanon, EU's top diplomat says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-truce-should-extend-lebanon-eus-top-diplomat-says"
       },
       {
-        "title": "Israeli forces kill Palestinian man near Tubas",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-near-tubas"
+        "title": "Saudi and Iranian foreign ministers hold first call since start of war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-iranian-fms-hold-first-call-start-war"
       },
       {
         "title": "Israel reopens Al-Aqsa Mosque as it extends settler raid hours",
-        "link": "https://www.middleeasteye.net/news/israel-reopens-al-aqsa-mosque-it-extends-settler-raid-hours"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-reopens-al-aqsa-mosque-it-extends-settler-raid-hours"
       },
       {
-        "title": "China says Lebanon sovereignty 'should not be violated' after Israel strikes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-says-lebanon-sovereignty-should-not-be-violated-after-israel"
+        "title": "Israeli military says it killed nephew of Hezbollah chief in Beirut",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-military-says-killed-nephew-secretary-hezbollah-chief-beirut"
       },
       {
-        "title": "Spain to reopen its embassy in Tehran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spain-reopen-its-embassy-tehran"
+        "title": "Italian prime minister suggests suspending EU spending rules over Iran war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/italian-prime-minister-suggests-suspending-eu-spending-rules-over-iran"
       }
     ],
     "GeoTV": [
       {
-        "title": "'Game of Thrones' actor Michael Patrick dies at the age of 35",
-        "link": "https://www.geo.tv/latest/659189-game-of-thrones-actor-michael-patrick-dies-at-the-age-of-35"
+        "title": "Meghan makes decisive move to win back King Charles trust in major twist",
+        "link": "https://www.geo.tv/latest/659199-meghan-makes-decisive-move-to-win-back-king-charles-trust-in-major-twist"
       },
       {
-        "title": "King Charles emotional goodbye to dear family member after cancer struggles",
-        "link": "https://www.geo.tv/latest/659180-king-charles-emotional-goodbye-to-dear-family-member-after-cancer-struggles"
+        "title": "Tom Holland calls Christopher Nolan 'The Odyssey' ‘an absolute masterpiece'",
+        "link": "https://www.geo.tv/latest/659195-tom-holland-calls-christopher-nolan-the-odyssey-an-absolute-masterpiece"
       },
       {
-        "title": "Olivia Munn recalls on-set clash with ‘obnoxious' male co-star",
-        "link": "https://www.geo.tv/latest/659182-olivia-munn-recalls-on-set-clash-with-obnoxious-male-co-star"
+        "title": "Prince Harry makes big announcement after William 'rejects' peace plan",
+        "link": "https://www.geo.tv/latest/659186-prince-harry-makes-big-announcement-after-william-rejects-peace-plan"
       },
       {
-        "title": "Senator Ed Markey visits Shahid Khan to thank WorldBoston for efforts toward peace in Middle East",
-        "link": "https://www.geo.tv/latest/659181-senator-ed-markey-visits-shahid-khan-to-thank-worldboston-for-efforts-toward-peace-in-middle-east"
+        "title": "'Devil Wears Prada 2' trailer slip has fans losing it: Watch",
+        "link": "https://www.geo.tv/latest/659190-devil-wears-prada-2-trailer-slip-has-fans-losing-it-watch"
       },
       {
-        "title": "Andrew's biographer gets heat for shocking claim about Queen Elizabeth II",
-        "link": "https://www.geo.tv/latest/659176-andrews-biographer-gets-heat-for-shocking-claim-about-queen-elizabeth-ii"
+        "title": "Budget FY27: IMF to dispatch mission to Pakistan next month",
+        "link": "https://www.geo.tv/latest/659192-budget-fy27-imf-to-dispatch-mission-to-pakistan-next-month"
       }
     ],
     "NDTV": [
       {
-        "title": "Why Iranian Hackers Are Emerging As A Threat To US Critical Infrastructure",
-        "link": "https://www.ndtv.com/world-news/us-iran-israel-war-why-iranian-hackers-are-emerging-as-a-threat-to-us-critical-infrastructure-middle-east-infrastructure-11332663#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 1,000 Points, Nifty Down 300 As Oil Prices Surge",
+        "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-nifty-share-market-us-iran-ceasefire-donald-trump-oil-prices-11331833#publisher=newsstand"
       },
       {
-        "title": "Stopping Woman From Entering Kitchen Of Husband's Home Is Cruelty: Bombay High Court",
-        "link": "https://www.ndtv.com/india-news/stopping-woman-from-entering-kitchen-of-husbands-home-is-cruelty-bombay-high-court-11332733#publisher=newsstand"
+        "title": "Inside Islamabad's Serena Hotel, Where Pakistan Is Hosting US-Iran Talks",
+        "link": "https://www.ndtv.com/world-news/inside-islamabads-serena-hotel-where-pakistan-is-hosting-us-iran-talks-11333003#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Deal Or 'Setup'? Why Both US And Iran Think This Ceasefire Is A Trap",
-        "link": "https://www.ndtv.com/opinion/us-iran-israel-war-deal-or-setup-why-us-and-iran-think-this-ceasefire-could-be-a-trap-11332734#publisher=newsstand"
+        "title": "Indian Gangster With 1.5 Million Followers, Luxury Life Arrested In Dubai",
+        "link": "https://www.ndtv.com/india-news/rao-inderjeet-yadav-indian-gangster-with-10-lakh-followers-luxury-life-arrested-in-dubai-11332377#publisher=newsstand"
       },
       {
-        "title": "Chopped Up Bodies, Wrapped In Sacks: US Beach Killer On Murdering Sex Workers",
-        "link": "https://www.ndtv.com/world-news/chopped-bodies-wrapped-in-sacks-us-serial-killer-on-how-he-murdered-8-women-rex-heuermann-gilgo-beach-serial-killings-11332057#publisher=newsstand"
+        "title": "Pune Doctor Wanted To Double His Money In 11 Days. He Lost Rs 12 Crore",
+        "link": "https://www.ndtv.com/india-news/pune-doctor-75-loses-12-crores-he-fell-for-double-money-in-11-days-scam-11332958#publisher=newsstand"
       },
       {
-        "title": "Several Tribal Leaders Defect From BJP To Congress In Gujarat's Dahod",
-        "link": "https://www.ndtv.com/india-news/several-tribal-leaders-defect-from-bjp-to-congress-in-gujarats-dahod-11332742#publisher=newsstand"
+        "title": "Election 2026 LIVE: Assam Sees 59% Voter Turnout, Kerala Records Nearly 50%, Puducherry 56%",
+        "link": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-09 08:02 UTC"
+  "last_updated": "2026-04-09 09:21 UTC"
 }
