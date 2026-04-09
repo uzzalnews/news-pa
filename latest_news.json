@@ -3,8 +3,16 @@
   "news": {
     "BBC": [
       {
+        "title": "Israeli strikes on Lebanon are wrong and should stop, PM says",
+        "link": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Melania Trump says rumours linking her to Epstein 'need to stop'",
         "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Melania Trump's surprise Epstein statement in full",
+        "link": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "UK says Russia ran submarine operation over cables and pipelines",
@@ -13,17 +21,21 @@
       {
         "title": "Pub thief jailed for stealing handbag with £2m Fabergé egg inside",
         "link": "https://www.bbc.com/news/articles/cj6098jngryo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Best-selling The Housemaid author Freida McFadden reveals true identity",
-        "link": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'My daughter, 14, was groomed after meeting man on gaming platform Roblox'",
-        "link": "https://www.bbc.com/news/articles/c78l92e9192o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Khamenei says Tehran ‘astonished the world’ during US-Israeli war on Iran",
+        "link": "https://www.aljazeera.com/news/2026/4/9/khamenei-says-tehran-astonished-the-world-during-us-israeli-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Iran: Strait of Hormuz open with restrictions",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/iran-strait-of-hormuz-open-with-restrictions?traffic_source=rss"
+      },
+      {
+        "title": "Saudi Arabia says operational activities halted at several energy sites",
+        "link": "https://www.aljazeera.com/news/2026/4/9/saudi-arabia-says-operational-activities-halted-at-several-energy-sites?traffic_source=rss"
+      },
       {
         "title": "US fertility rate drops to all-time low, continuing a two-decade decline",
         "link": "https://www.aljazeera.com/news/2026/4/9/us-fertility-rate-drops-to-all-time-low-continuing-a-two-decade-decline?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Why is Hezbollah a sticking point in the Iran ceasefire?",
         "link": "https://www.aljazeera.com/video/inside-story/2026/4/9/why-is-hezbollah-a-sticking-point-in-the-iran-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "US led ‘historic’ foreign aid decline in 2025 amid Trump cuts: OECD",
-        "link": "https://www.aljazeera.com/news/2026/4/9/us-led-historic-foreign-aid-decline-in-2025-amid-trump-cuts-oecd?traffic_source=rss"
-      },
-      {
-        "title": "Scale of Beirut destruction revealed after wave of Israeli strikes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/scale-of-beirut-destruction-revealed-after-wave-of-israeli-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Iran says it ‘would be dumb’ for US to let Netanyahu kill diplomacy",
-        "link": "https://www.aljazeera.com/news/2026/4/9/iran-says-it-would-be-dumb-for-us-to-let-netanyahu-kill-diplomacy?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +78,16 @@
         "link": "https://www.dawn.com/news/1990283/israel-seeks-peace-talks-with-lebanon-as-soon-as-possible-as-world-condemns-tel-avivs-bombardment-amid-us-iran-truce"
       },
       {
+        "title": "In written message, Iran supreme leader says Tehran does not seek war but will not renounce legitimate rights",
+        "link": "https://www.dawn.com/news/1990308/in-written-message-iran-supreme-leader-says-tehran-does-not-seek-war-but-will-not-renounce-legitimate-rights"
+      },
+      {
         "title": "PML-N lawmaker submits resolution in PA, calls for nominating CDF Munir, PM Shehbaz, DPM Dar for Nobel Peace Prize",
         "link": "https://www.dawn.com/news/1990285/pml-n-lawmaker-submits-resolution-in-pa-calls-for-nominating-cdf-munir-pm-shehbaz-dpm-dar-for-nobel-peace-prize"
       },
       {
         "title": "Foolproof security arranged for foreign guests, Naqvi assures US envoy ahead of US‑Iran talks in Islamabad",
         "link": "https://www.dawn.com/news/1990162/foolproof-security-arranged-for-foreign-guests-naqvi-assures-us-envoy-ahead-of-usiran-talks-in-islamabad"
-      },
-      {
-        "title": "Lebanon seeks Pakistan’s support for ending Israeli strikes",
-        "link": "https://www.dawn.com/news/1990171/lebanon-seeks-pakistans-support-for-ending-israeli-strikes"
       }
     ],
     "APNews": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "US to host Israel-Lebanon meeting to discuss ceasefire talks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-host-israel-lebanon-meeting-discuss-ceasefire-talks"
+      },
+      {
         "title": "Erdogan tells Iran president talks should aim for lasting peace",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-tells-iran-president-talks-should-aim-lasting-peace"
       },
@@ -129,54 +133,50 @@
       {
         "title": "Hezbollah lawmaker says group rejects direct talks between Lebanon and Israel: Report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-lawmaker-says-group-reject-rejects-direct-talks-between"
-      },
-      {
-        "title": "Wednesday death toll from Israeli attacks in Lebanon rises to 303",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/wednesday-death-toll-israeli-attack-lebanon-rises-303"
       }
     ],
     "GeoTV": [
       {
-        "title": "Princess Anne adds an orange splash to eainy Aintree races",
-        "link": "https://www.geo.tv/latest/659285-princess-anne-adds-an-orange-splash-to-eainy-aintree-races"
+        "title": "Diddy fights against 'unfair' trial with twisted arguments",
+        "link": "https://www.geo.tv/latest/659276-diddy-fights-against-unfair-trial-with-twisted-arguments"
       },
       {
-        "title": "Trump administration dismantling US Forest Service: Here's what it means",
-        "link": "https://www.geo.tv/latest/659295-trump-administration-dismantling-us-forest-service-heres-what-it-means"
+        "title": "Sean ‘Diddy' Combs could walk free? Appeals court hears argument",
+        "link": "https://www.geo.tv/latest/659301-sean-diddy-combs-could-walk-free-appeals-court-hears-argument"
       },
       {
-        "title": "US military draft 2026: Everything to know about requirements, exemptions, age limits",
-        "link": "https://www.geo.tv/latest/659296-us-military-draft-2026-everything-to-know-about-requirements-exemptions-age-limits"
+        "title": "Cruz Beckham reveals new change in Victoria Beckham's life",
+        "link": "https://www.geo.tv/latest/659299-cruz-beckham-reveals-new-change-in-victoria-beckhams-life"
       },
       {
-        "title": "Natasha Lyonne removed from flight after 'Euphoria' premiere: Report",
-        "link": "https://www.geo.tv/latest/659294-natasha-lyonne-removed-from-flight-after-euphoria-premiere-report"
+        "title": "Melania Trump denies Epstein ties, but what about her ‘Love, Melania' email to Ghislaine Maxwell?",
+        "link": "https://www.geo.tv/latest/659298-melania-trump-denies-epstein-ties-but-what-about-her-love-melania-email-to-ghislaine-maxwell"
       },
       {
-        "title": "History made: Pakistan open Fifa Series with record-breaking victory",
-        "link": "https://www.geo.tv/latest/659290-history-made-pakistan-open-fifa-series-with-record-breaking-victory"
+        "title": "US Postal Service suspends pension contributions: How it will affect retirees?",
+        "link": "https://www.geo.tv/latest/659297-us-postal-service-suspends-pension-contributions-how-it-will-affect-retirees"
       }
     ],
     "NDTV": [
       {
-        "title": "Iran Open to Peace Talks Despite Escalation, Says Deputy Foreign Minister",
-        "link": "https://www.ndtv.com/world-news/iran-open-to-peace-talks-despite-escalation-says-deputy-foreign-minister-11335974#publisher=newsstand"
+        "title": "Putin Announces Ceasefire With Ukraine For Orthodox Easter Holidays",
+        "link": "https://www.ndtv.com/world-news/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine-11336149#publisher=newsstand"
       },
       {
-        "title": "\"We Are Not Some Piece Of Ice\": Greenland Hits Out After Trump Insult",
-        "link": "https://www.ndtv.com/world-news/we-are-not-some-piece-of-ice-greenland-hits-out-after-trump-insult-11335878#publisher=newsstand"
+        "title": "IMF To Cut Global Growth Forecast, War-Hit Nations To Get Up To $50 Billion",
+        "link": "https://www.ndtv.com/world-news/israel-iran-war-imf-to-cut-global-growth-forecast-war-hit-nations-to-get-up-to-50-billion-11336153#publisher=newsstand"
       },
       {
-        "title": "5 From J&K Die In Road Accident In Kuwait",
-        "link": "https://www.ndtv.com/india-news/5-from-j-k-die-in-road-accident-in-kuwait-11335759#publisher=newsstand"
+        "title": "Melania Trump Denies Epstein Links, Says Claims About It Are Defaming Her",
+        "link": "https://www.ndtv.com/world-news/melania-trump-denies-epstein-links-says-claims-about-it-are-defaming-her-11336076#publisher=newsstand"
       },
       {
-        "title": "Netanyahu Clears Negotiations With Lebanon, Likely To Start In US Next Week",
-        "link": "https://www.ndtv.com/world-news/cleared-direct-talks-with-lebanon-as-soon-as-possible-netanyahu-11335337#publisher=newsstand"
+        "title": "US-Israel-Iran War Live: Israeli Strikes Killed Over 300, Says Lebanon Ministry",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-iran-ceasefire-missile-strikes-middle-east-crisis-conflict-live-news-iran-drone-attack-trump-ceasefire-strait-of-ho-11325915#publisher=newsstand"
       },
       {
-        "title": "Iran's Approval, 15 Ships A Day: Strait Of Hormuz Opening Comes With Caveats",
-        "link": "https://www.ndtv.com/world-news/us-iran-ceasefire-strait-of-hormuz-lebanon-irgc-to-allow-only-15-ships-to-pass-through-hormuz-in-a-day-report-11334754#publisher=newsstand"
+        "title": "Trump Considers Removing Some US Troops From Europe Amid NATO Strains",
+        "link": "https://www.ndtv.com/world-news/trump-considers-removing-some-us-troops-from-europe-amid-nato-strains-11336114#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-09 19:39 UTC"
+  "last_updated": "2026-04-09 20:32 UTC"
 }
