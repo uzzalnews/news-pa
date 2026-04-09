@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+        "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "'We should not be at the mercy of events abroad' - Starmer",
         "link": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss"
       },
@@ -15,15 +19,23 @@
         "link": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK says Russia ran submarine operation over cables and pipelines",
-        "link": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Pub thief jailed for stealing handbag with £2m Fabergé egg inside",
         "link": "https://www.bbc.com/news/articles/cj6098jngryo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss"
+      },
+      {
+        "title": "Police in Venezuela block protesters calling for higher wages, pensions",
+        "link": "https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran ceasefire: Uncertainty over what’s next",
+        "link": "https://www.aljazeera.com/video/this-is-america/2026/4/9/us-iran-ceasefire-uncertainty-over-whats-next?traffic_source=rss"
+      },
       {
         "title": "Judge bars Trump administration from nixing protected status for Ethiopians",
         "link": "https://www.aljazeera.com/news/2026/4/9/judge-bars-trump-administration-from-nixing-protected-status-for-ethiopians?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Democrats in US slam Pam Bondi for refusing to appear for Epstein hearing",
         "link": "https://www.aljazeera.com/news/2026/4/9/democrats-in-us-slam-pam-bondi-for-refusing-to-appear-for-epstein-hearing?traffic_source=rss"
-      },
-      {
-        "title": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks",
-        "link": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss"
-      },
-      {
-        "title": "CAF President Motsepe rejects Senegal’s corruption claim amid AFCON fallout",
-        "link": "https://www.aljazeera.com/sports/2026/4/9/caf-president-motsepe-rejects-senegals-corruption-claim-after-afcon-furore?traffic_source=rss"
-      },
-      {
-        "title": "Melania Trump denies ‘relationship’ with Jeffrey Epstein",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/melania-trump-denies-relationship-with-jeffrey-epstein?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,12 +93,12 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Iran’s Battered Leaders Emerge From War Confident — and With New Cards",
-        "link": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html"
+        "title": "Amid Trump’s Threats, NATO Labors to Survive the Iran War",
+        "link": "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html"
       },
       {
-        "title": "European Leaders Demand That U.S. Cease-Fire With Iran Include Lebanon",
-        "link": "https://www.nytimes.com/2026/04/09/world/middleeast/european-demands-iran-us-cease-fire-lebanon.html"
+        "title": "Iran’s Battered Leaders Emerge From War Confident — and With New Cards",
+        "link": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html"
       },
       {
         "title": "Israel Agrees to Hold Talks With Lebanon",
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Lebanese man describes the loss of his family in Israeli attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-man-describes-loss-his-family-israeli-attacks"
+      },
+      {
         "title": "Iran ‘doing a very poor job’ of allowing oil through Strait of Hormuz, Trump says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-doing-very-poor-job-allowing-oil-through-strait-hormuz-trump-says"
       },
@@ -129,10 +133,6 @@
       {
         "title": "Starmer and Trump discuss need for opening Strait of Hormuz",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/starmer-and-trump-discuss-need-opening-strait-hormuz"
-      },
-      {
-        "title": "US military bases in Gulf 'useless' after Iranian strikes, experts say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-bases-gulf-useless-after-iranian-strikes-experts-say"
       }
     ],
     "GeoTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-09 22:58 UTC"
+  "last_updated": "2026-04-09 23:47 UTC"
 }
