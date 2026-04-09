@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Election 2026 LIVE: Voting Begins In High-Stakes Assam, Kerala, Puducherry Battle",
+      "link": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,8 +13,8 @@
         "link": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-        "link": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
+        "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+        "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Woman given 15 years for role supplying drugs linked to Matthew Perry death",
-        "link": "https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death?traffic_source=rss"
+        "title": "Turkish convoy condemns ‘lawless aggression’ of the US and Israel",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/turkish-convoy-condemns-lawless-aggression-of-the-us-and-israel?traffic_source=rss"
       },
       {
-        "title": "Americans question Trump’s instinct on Iran war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss"
+        "title": "Protesters outside Israeli embassy in London condemn assault on Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/protesters-outside-israeli-embassy-in-london-condemn-assault-on-lebanon?traffic_source=rss"
       },
       {
-        "title": "JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon",
-        "link": "https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss"
+        "title": "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/us-vp-jd-vance-says-lebanon-is-not-part-of-the-us-iran-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Prosecutors move to subpoena Tiger Woods’ prescription drug records",
-        "link": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss"
+        "title": "Iran war live: Lebanon mourns as Israel raids shake Trump, Tehran ceasefire",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Trump administration signals it is mulling NATO withdrawal after Iran war",
-        "link": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss"
+        "title": "‘Israel must be restrained for US-Iran ceasefire to hold’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,12 @@
     ],
     "Dawn": [
       {
-        "title": "US, Iranian delegations expected in Pakistan on Friday; White House says first round of talks to be held on Saturday",
-        "link": "https://www.dawn.com/news/1989847/us-iranian-delegations-expected-in-pakistan-on-friday-white-house-says-first-round-of-talks-to-be-held-on-saturday"
+        "title": "Islamabad takes centre stage, to host high-stakes US-Iran talks",
+        "link": "https://www.dawn.com/news/1990069/islamabad-takes-centre-stage-to-host-high-stakes-us-iran-talks"
+      },
+      {
+        "title": "War in Middle East fails to dent remittances in March",
+        "link": "https://www.dawn.com/news/1990055/war-in-middle-east-fails-to-dent-remittances-in-march"
       },
       {
         "title": "Afghanistan, Pakistan agree to avoid escalation during China-hosted talks: Beijing",
@@ -84,99 +94,95 @@
       {
         "title": "Israel pounds Lebanon with heaviest airstrikes of war as Hezbollah pauses attacks",
         "link": "https://www.dawn.com/news/1989949/israel-pounds-lebanon-with-heaviest-airstrikes-of-war-as-hezbollah-pauses-attacks"
-      },
-      {
-        "title": "NA opposition leader extends ‘unconditional support’ to govt for Middle East peace efforts",
-        "link": "https://www.dawn.com/news/1989907/na-opposition-leader-extends-unconditional-support-to-govt-for-middle-east-peace-efforts"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "What Is In Iran’s 10-Point Proposal, and How Does It Compare to U.S. Demands?",
-        "link": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-10-point-proposal-trump-us-ceasefire.html"
+        "title": "Trump Finds Himself With Fragile Iran Cease-Fire After the Scramble to Make a Deal",
+        "link": "https://www.nytimes.com/2026/04/08/us/politics/chaos-cease-fire-iran.html"
       },
       {
-        "title": "Has Trump Met His War Goals in Iran?",
-        "link": "https://www.nytimes.com/2026/04/08/us/politics/trump-war-goals.html"
+        "title": "Disagreement Over Lebanon’s Inclusion in Cease-Fire Threatens to Unravel It",
+        "link": "https://www.nytimes.com/2026/04/08/world/middleeast/us-iran-israel-lebanon-cease-fire.html"
       },
       {
         "title": "White House Knew About Pakistan’s Cease-Fire Post on X Before It Was Sent",
         "link": "https://www.nytimes.com/2026/04/08/world/middleeast/trump-pakistan-tweet-iran.html"
       },
       {
-        "title": "In 20 Minutes, Gilgo Beach Killer Admits to Murdering 8 Women",
-        "link": "https://www.nytimes.com/2026/04/08/nyregion/gilgo-beach-heuermann-courtroom-strangulation.html"
+        "title": "Gilgo Beach Killer’s ‘Unusual’ Deal Could Help Solve Other Murders",
+        "link": "https://www.nytimes.com/2026/04/08/nyregion/fbi-behavioral-analysis-unit-gilgo-beach.html"
       },
       {
-        "title": "Who Is Rex Heuermann, the Man Accused in the Gilgo Beach Serial Killings?",
-        "link": "https://www.nytimes.com/2026/04/08/nyregion/rex-heuermann-gilgo-beach-profile.html"
+        "title": "In 20 Minutes, Gilgo Beach Killer Admits to Murdering 8 Women",
+        "link": "https://www.nytimes.com/2026/04/08/nyregion/gilgo-beach-heuermann-courtroom-strangulation.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Lebanon ceasefire 'will continue to be discussed', US Press Secretary says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-ceasefire-will-continue-be-discussed-us-press-secretary-says"
+        "title": "JD Vance says US 'never made that promise' on Lebanon ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jd-vance-says-us-never-made-promise-lebanon-ceasefire"
       },
       {
-        "title": "Israel launches fresh assault on Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-fresh-assault-lebanon"
+        "title": "Trump lashes out at Nato, alliance chief says US president 'clearly disappointed'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-lashes-out-nato-alliance-chief-says-us-president-clearly"
       },
       {
-        "title": "Iran vows to ‘punish’ Israel over Lebanon strikes and ceasefire breach",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-vows-punish-israel-over-lebanon-strikes-and-ceasefire-breach"
+        "title": "Syria condemns Israeli assault on Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-condemns-israeli-assault-lebanon"
       },
       {
-        "title": "Trump threatens 50% tariffs on countries supplying Iran with weapons",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-50-tariffs-countries-supplying-iran-weapons"
+        "title": "Hezbollah claims attacks on Israel in response to 'ceasefire violations'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-attacks-israel-response-ceasefire-violations"
       },
       {
-        "title": "Seven-year-old killed by drone debris in southwest Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-year-old-killed-drone-debris-southwest-iran"
+        "title": "Iran announces alternative routes to Hormuz Strait, local media reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-announces-alternative-routes-hormuz-strait-local-media-reports"
       }
     ],
     "GeoTV": [
       {
+        "title": "‘The Housemaid' author comes out of shadows for first time",
+        "link": "https://www.geo.tv/latest/659163-the-housemaid-author-comes-out-of-shadows-for-first-time"
+      },
+      {
+        "title": "Olivia Munn recalls sexist incident while filming a movie",
+        "link": "https://www.geo.tv/latest/659162-olivia-munn-recalls-sexist-incident-while-filming-a-movie"
+      },
+      {
+        "title": "Zendaya, Sydney Sweeney fuel beef rumours at ‘Euphoria' season 3 premiere",
+        "link": "https://www.geo.tv/latest/659161-zendaya-sydney-sweeney-fuel-beef-rumours-at-euphoria-season-3-premiere"
+      },
+      {
+        "title": "'Victory of diplomacy': Pakistan's outreach united key players, secured ceasefire: envoy",
+        "link": "https://www.geo.tv/latest/659160-victory-of-diplomacy-pakistan-helped-secure-ceasefire-launch-talks-envoy-sheikh"
+      },
+      {
         "title": "Cameron Diaz to star in 1989 cult comedy ‘Troop Beverly Hills' sequel",
         "link": "https://www.geo.tv/latest/659158-cameron-diaz-to-star-in-1989-cult-comedy-troop-beverly-hills-sequel"
-      },
-      {
-        "title": "Hailee Steinfeld shares husband's ‘small act of care' she ‘loves'",
-        "link": "https://www.geo.tv/latest/659157-hailee-steinfeld-shares-husbands-small-act-of-care-she-loves"
-      },
-      {
-        "title": "Ian McKellen gushes over ‘X-Men' and ‘Lord of the Rings' fame",
-        "link": "https://www.geo.tv/latest/659151-ian-mckellen-gushes-over-x-men-and-lord-of-the-rings-fame"
-      },
-      {
-        "title": "US military drank nearly 1 million gallons of coffee during Iran war, top general says",
-        "link": "https://www.geo.tv/latest/659150-us-military-drank-nearly-1-million-gallons-of-coffee-during-iran-war-top-general-says"
-      },
-      {
-        "title": "‘Ketamine Queen' gets 15 years in jail after Matthew Perry's death",
-        "link": "https://www.geo.tv/latest/659149-ketamine-queen-gets-15-years-in-jail-after-matthew-perrys-death"
       }
     ],
     "NDTV": [
       {
-        "title": "Shaky US-Iran Ceasefire In Doubt As Israeli Strikes Kill Over 180 In Lebanon",
-        "link": "https://www.ndtv.com/world-news/iran-war-shaky-us-iran-ceasefire-in-doubt-as-israeli-strikes-kill-over-180-in-lebanon-11331239#publisher=newsstand"
+        "title": "Election 2026 LIVE: Voting Begins In High-Stakes Assam, Kerala, Puducherry Battle",
+        "link": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487#publisher=newsstand"
       },
       {
-        "title": "JD Vance To Lead 1st Round Of US-Iran Talks In Pakistan: White House",
-        "link": "https://www.ndtv.com/world-news/iran-war-jd-vance-to-lead-1st-round-of-us-iran-talks-in-pakistan-white-house-11331208#publisher=newsstand"
+        "title": "Struggling With Loans? A Step-By-Step Guide On How To Secure 750+ CIBIL Score",
+        "link": "https://www.ndtv.com/india-news/bank-loans-nbfc-low-cibil-score-improve-step-by-step-guide-home-car-loan-interest-rate-11331530#publisher=newsstand"
       },
       {
-        "title": "Choose Truce Or \"Continue War Via Israel\": Iran Warns US Over Lebanon Attacks",
-        "link": "https://www.ndtv.com/world-news/choose-truce-or-continue-war-via-israel-iran-warns-us-over-lebanon-attacks-11331100#publisher=newsstand"
+        "title": "Explained: Why Iran War Has Paused But Lebanon Continues To Be A Flashpoint",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-why-iran-war-has-paused-but-lebanon-continues-to-be-a-flashpoint-explained-11331564#publisher=newsstand"
       },
       {
-        "title": "\"Who's This Segal?\": Supreme Court On Centre's Objection To DY Chandrachud's View On Adultery",
-        "link": "https://www.ndtv.com/india-news/who-is-this-segal-supreme-court-on-centre-objection-to-dy-chandrachud-view-on-adultery-11331006#publisher=newsstand"
+        "title": "In 1st Polls After Delimitation, BJP Hopes For Third Straight Term In Assam: 10 Points",
+        "link": "https://www.ndtv.com/india-news/assam-assembly-polls-2026-in-first-polls-after-delimitation-bjp-hopes-for-third-straight-term-10-points-11331120#publisher=newsstand"
       },
       {
-        "title": "Iran Accuses US Of Violating Key Clauses Of Peace Framework Before Talks",
-        "link": "https://www.ndtv.com/world-news/iran-war-iran-accuses-us-of-violating-key-clauses-of-peace-framework-before-talks-11330994#publisher=newsstand"
+        "title": "Opinion: Opinion | Alliance Absurdity: Time For MOTA",
+        "link": "https://www.ndtv.com/opinion/alliance-absurdity-time-for-mota-11330762#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-08 23:56 UTC"
+  "last_updated": "2026-04-09 02:46 UTC"
 }
