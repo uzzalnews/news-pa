@@ -1,16 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 1,000 Points, Nifty Down 300 As Oil Prices Surge",
-      "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-nifty-share-market-us-iran-ceasefire-donald-trump-oil-prices-11331833#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "Election 2026 LIVE: Assam Sees 59% Voter Turnout, Kerala Records Nearly 50%, Puducherry 56%",
-      "link": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -36,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Ukraine’s veterans’ theatre turns war wounds into catharsis",
-        "link": "https://www.aljazeera.com/news/2026/4/9/ukraines-veterans-theatre-turns-war-wounds-into-catharsis?traffic_source=rss"
+        "title": "Trump’s administration trying to sell war ‘wins’ to a sceptical US public",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/trumps-administration-trying-to-sell-war-wins-to-a-sceptical-us-public?traffic_source=rss"
       },
       {
-        "title": "Record animal sacrifice attempts at Al-Aqsa spark status quo fears",
-        "link": "https://www.aljazeera.com/features/2026/4/9/record-animal-sacrifice-attempts-at-al-aqsa-spark-status-quo-fears?traffic_source=rss"
+        "title": "Djibouti elections: Who’s running against Guelleh and what’s at stake?",
+        "link": "https://www.aljazeera.com/news/2026/4/9/djibouti-elections-whos-running-against-guelleh-and-whats-at-stake?traffic_source=rss"
       },
       {
-        "title": "Fury wants boxing clash with Joshua after comeback fight against Makhmudov",
-        "link": "https://www.aljazeera.com/sports/2026/4/9/fury-wants-boxing-clash-with-joshua-after-comeback-fight-against-makhmudov?traffic_source=rss"
+        "title": "Several people reported killed in fresh Israeli attacks on Lebanon",
+        "link": "https://www.aljazeera.com/news/2026/4/9/fresh-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Thousands of Palestinians pray at Al-Aqsa Mosque after Israel’s 40-day ban",
-        "link": "https://www.aljazeera.com/news/2026/4/9/thousands-of-palestinians-pray-at-al-aqsa-mosque-after-israels-40-day-ban?traffic_source=rss"
+        "title": "The war on Iran: Nobody won, everyone paid",
+        "link": "https://www.aljazeera.com/opinions/2026/4/9/the-war-on-iran-nobody-won-everyone-paid?traffic_source=rss"
       },
       {
-        "title": "Iran has been bloodied, but it is winning against the US-Israel axis",
-        "link": "https://www.aljazeera.com/opinions/2026/4/9/iran-has-been-bloodied-but-it-is-winning-against-the-us-israel-axis?traffic_source=rss"
+        "title": "Can global supply chains recover from the Iran war?",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/9/can-global-supply-chains-recover-from-the-iran-war?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -108,86 +97,86 @@
         "link": "https://www.nytimes.com/2026/04/08/us/politics/iran-ceasefire-talks-jd-vance.html"
       },
       {
-        "title": "After Cease-Fire, Iranians Are Left to Pick Up the Pieces",
-        "link": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-voices.html"
+        "title": "Is the Strait of Hormuz Reopening? What to Know Under Iran-Cease Fire.",
+        "link": "https://www.nytimes.com/2026/04/09/business/iran-strait-of-hormuz-what-to-know.html"
       },
       {
-        "title": "Trump Finds Himself With Fragile Iran Cease-Fire After the Scramble to Make a Deal",
-        "link": "https://www.nytimes.com/2026/04/08/us/politics/chaos-cease-fire-iran.html"
+        "title": "Markets Have Faced a Year of Chaos and Still Done Awfully Well",
+        "link": "https://www.nytimes.com/2026/04/09/business/iran-war-markets-stocks-bonds.html"
       },
       {
-        "title": "Gilgo Beach Killer’s ‘Unusual’ Deal Could Help Solve Other Murders",
-        "link": "https://www.nytimes.com/2026/04/08/nyregion/fbi-behavioral-analysis-unit-gilgo-beach.html"
+        "title": "A ‘Messy’ Cease-Fire, and a 15-Year Sentence for the ‘Ketamine Queen’",
+        "link": "https://www.nytimes.com/2026/04/09/podcasts/the-headlines/cease-fire-ketamine-matthew-perry.html"
       },
       {
-        "title": "In 20 Minutes, Gilgo Beach Killer Admits to Murdering 8 Women",
-        "link": "https://www.nytimes.com/2026/04/08/nyregion/gilgo-beach-heuermann-courtroom-strangulation.html"
+        "title": "How Trump Purged Immigration Judges to Speed Up Deportations",
+        "link": "https://www.nytimes.com/2026/04/09/us/politics/trump-miller-immigration-judges-purge.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "EU aviation regulator extends warning to avoid Middle East airspace until 24 April",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-aviation-regulator-extends-warning-avoid-middle-east-airspace-until"
+      },
+      {
+        "title": "Thousands of Iranians rally in memory of late supreme leader Khamenei",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/thousands-iranians-rally-memory-late-supreme-leader-khamenei"
+      },
+      {
+        "title": "More than 3,000 Iranians killed during war, medical body says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-3000-iranians-killed-during-war-medical-body-says"
+      },
+      {
+        "title": "Israeli military kills young man and child in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-kills-young-man-and-child-gaza"
+      },
+      {
         "title": "US-Iran truce should extend to Lebanon, EU's top diplomat says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-truce-should-extend-lebanon-eus-top-diplomat-says"
-      },
-      {
-        "title": "Saudi and Iranian foreign ministers hold first call since start of war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-iranian-fms-hold-first-call-start-war"
-      },
-      {
-        "title": "Israel reopens Al-Aqsa Mosque as it extends settler raid hours",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-reopens-al-aqsa-mosque-it-extends-settler-raid-hours"
-      },
-      {
-        "title": "Israeli military says it killed nephew of Hezbollah chief in Beirut",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-military-says-killed-nephew-secretary-hezbollah-chief-beirut"
-      },
-      {
-        "title": "Italian prime minister suggests suspending EU spending rules over Iran war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/italian-prime-minister-suggests-suspending-eu-spending-rules-over-iran"
       }
     ],
     "GeoTV": [
       {
-        "title": "Meghan makes decisive move to win back King Charles trust in major twist",
-        "link": "https://www.geo.tv/latest/659199-meghan-makes-decisive-move-to-win-back-king-charles-trust-in-major-twist"
+        "title": "Taylor Swift deals with 'unexpected' chaos of former pal as wedding nears",
+        "link": "https://www.geo.tv/latest/659207-taylor-swift-deals-with-unexpected-chaos"
       },
       {
-        "title": "Tom Holland calls Christopher Nolan 'The Odyssey' ‘an absolute masterpiece'",
-        "link": "https://www.geo.tv/latest/659195-tom-holland-calls-christopher-nolan-the-odyssey-an-absolute-masterpiece"
+        "title": "Princess Beatrice father-in-law reacts to Edo marital 'tensions'",
+        "link": "https://www.geo.tv/latest/659206-princess-beatrice-father-in-law-reacts-to-edo-marital-tensions"
       },
       {
-        "title": "Prince Harry makes big announcement after William 'rejects' peace plan",
-        "link": "https://www.geo.tv/latest/659186-prince-harry-makes-big-announcement-after-william-rejects-peace-plan"
+        "title": "Zendaya fuels feud rumours with 'Euphoria' director at season 3 premiere",
+        "link": "https://www.geo.tv/latest/659204-zendaya-fueled-feud-rumors-with-euphoria-director-at-season-3-premiere"
       },
       {
-        "title": "'Devil Wears Prada 2' trailer slip has fans losing it: Watch",
-        "link": "https://www.geo.tv/latest/659190-devil-wears-prada-2-trailer-slip-has-fans-losing-it-watch"
+        "title": "King Charles makes headlines after Police action at mansion once welcomed him",
+        "link": "https://www.geo.tv/latest/659197-police-widen-probe-after-raid-at-mansion-once-welcomed-king-charles"
       },
       {
-        "title": "Budget FY27: IMF to dispatch mission to Pakistan next month",
-        "link": "https://www.geo.tv/latest/659192-budget-fy27-imf-to-dispatch-mission-to-pakistan-next-month"
+        "title": "Charles, Camilla's wedding anniversary brings back Diana's shocking claim",
+        "link": "https://www.geo.tv/latest/659200-charles-camillas-wedding-anniversary-brings-back-dianas-shocking-claim"
       }
     ],
     "NDTV": [
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 1,000 Points, Nifty Down 300 As Oil Prices Surge",
+        "title": "Opinion: Opinion | How Iran Ceasefire Helps Pakistan Fix A 10-Year-Old 'Mess' With Saudi And UAE",
+        "link": "https://www.ndtv.com/opinion/us-iran-war-has-the-war-given-pakistan-a-diplomatic-lifeline-in-the-middle-east-11333340#publisher=newsstand"
+      },
+      {
+        "title": "Haryana Sacks 2 Bureaucrats In IDFC Bank Case, Cuts Ties With Kotak Mahindra Bank",
+        "link": "https://www.ndtv.com/india-news/haryana-sacks-2-bureaucrats-in-idfc-bank-fraud-case-cut-ties-with-kotak-mahindra-bank-11333493#publisher=newsstand"
+      },
+      {
+        "title": "Stock Market, Sensex Today: Sensex Drops 931 Points, Nifty Down 222 As Oil Prices Surge",
         "link": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-nifty-share-market-us-iran-ceasefire-donald-trump-oil-prices-11331833#publisher=newsstand"
       },
       {
-        "title": "Inside Islamabad's Serena Hotel, Where Pakistan Is Hosting US-Iran Talks",
-        "link": "https://www.ndtv.com/world-news/inside-islamabads-serena-hotel-where-pakistan-is-hosting-us-iran-talks-11333003#publisher=newsstand"
+        "title": "US Has Declared Victory, But What Has It Accomplished In Iran?",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-us-has-declared-victory-but-what-has-it-accomplished-in-iran-11333426#publisher=newsstand"
       },
       {
-        "title": "Indian Gangster With 1.5 Million Followers, Luxury Life Arrested In Dubai",
-        "link": "https://www.ndtv.com/india-news/rao-inderjeet-yadav-indian-gangster-with-10-lakh-followers-luxury-life-arrested-in-dubai-11332377#publisher=newsstand"
-      },
-      {
-        "title": "Pune Doctor Wanted To Double His Money In 11 Days. He Lost Rs 12 Crore",
-        "link": "https://www.ndtv.com/india-news/pune-doctor-75-loses-12-crores-he-fell-for-double-money-in-11-days-scam-11332958#publisher=newsstand"
-      },
-      {
-        "title": "Election 2026 LIVE: Assam Sees 59% Voter Turnout, Kerala Records Nearly 50%, Puducherry 56%",
-        "link": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487#publisher=newsstand"
+        "title": "Iran's 10-Point Truce Plan Had 3 Versions, 1 Written By 'ChatGPT': JD Vance",
+        "link": "https://www.ndtv.com/world-news/irans-10-point-truce-plan-had-3-version-1-written-by-chatgpt-jd-vance-iran-war-iran-us-war-us-iran-ceasefire-11332737#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-09 09:21 UTC"
+  "last_updated": "2026-04-09 10:38 UTC"
 }
