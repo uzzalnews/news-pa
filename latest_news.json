@@ -1,7 +1,17 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Climbs 700 Points On Hopes Of US-Iran Peace Talks",
+      "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Man jailed for killing abused wife who jumped from bridge",
+        "link": "https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
         "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
@@ -9,10 +19,6 @@
       {
         "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
         "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Melania Trump's surprise Epstein statement in full",
-        "link": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "How the cost of holidays, food and clothes is rising - despite the Iran ceasefire",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Senegal PM labels Trump ‘agent of global destabilisation’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/senegal-pm-labels-trump-agent-of-global?traffic_source=rss"
+      },
+      {
+        "title": "Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks",
+        "link": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Torpedo-like object discovered by Indonesian fisherman",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/torpedo-like-object-discovered-by-indonesian-fisherman?traffic_source=rss"
+      },
+      {
         "title": "Djibouti votes as long-time leader seeks sixth presidential term",
         "link": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss"
       },
       {
         "title": "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat",
         "link": "https://www.aljazeera.com/opinions/2026/4/10/iran-ceasefire-not-an-off-ramp-for-the-us-but-a-life-saving-ejection-seat?traffic_source=rss"
-      },
-      {
-        "title": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire",
-        "link": "https://www.aljazeera.com/news/2026/4/10/russia-and-ukraine-agree-to-32-hour-orthodox-easter-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "Myanmar’s coup leader Min Aung Hlaing sworn in as president",
-        "link": "https://www.aljazeera.com/news/2026/4/10/myanmars-coup-leader-min-aung-hlaing-sworn-in-as-president?traffic_source=rss"
-      },
-      {
-        "title": "Tyson Fury insists he’s ‘still got it’ ahead of Makhmudov comeback fight",
-        "link": "https://www.aljazeera.com/sports/2026/4/10/tyson-fury-insists-ive-still-go-it-ahead-of-makhmudov-comeback-fight?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,90 +99,90 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Amid Trump’s Threats, NATO Labors to Survive the Iran War",
-        "link": "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html"
+        "title": "With Iran Setting Limits, Strait of Hormuz Remains Thorny Politically",
+        "link": "https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html"
       },
       {
-        "title": "Iran’s Battered Leaders Emerge From War Confident — and With New Cards",
-        "link": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html"
+        "title": "Vance Faces Test of His Negotiating Skills With Iran Talks",
+        "link": "https://www.nytimes.com/2026/04/10/us/politics/vance-iran-talks.html"
       },
       {
-        "title": "Melania Trump Says She Was Not Associated With Jeffrey Epstein",
-        "link": "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html"
+        "title": "The Mass Purge of Immigration Judges, and Melania Trump’s Surprise Epstein Remarks",
+        "link": "https://www.nytimes.com/2026/04/10/podcasts/the-headlines/immigration-judges-melania-trumps-epstein-remarks.html"
       },
       {
-        "title": "For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission",
-        "link": "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html"
+        "title": "Consumer Spending, Engine of the U.S. Economy, Is Under Strain",
+        "link": "https://www.nytimes.com/2026/04/10/business/economy/consumer-spending-economy.html"
       },
       {
-        "title": "Judge Rejects Hegseth’s Second Attempt to Restrict Reporters at Pentagon",
-        "link": "https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html"
+        "title": "Trump Administration Returns to Court for Yet Another Tariff Lawsuit",
+        "link": "https://www.nytimes.com/2026/04/10/business/trump-tariffs-lawsuit-hearing.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "TotalEnergies says Saudi refinery shut down after strikes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/totalenergies-says-saudi-refinery-shut-down-after-strikes"
+        "title": "UK's Starmer says he discussed military options for Strait of Hormuz with US President Trump",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uks-starmer-says-he-discussed-military-options-strait-hormuz-us"
       },
       {
-        "title": "World Food Programme warns Lebanon facing food security crisis due to Iran war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/world-food-programme-warns-lebanon-facing-food-security-crisis-due-iran"
+        "title": "‘We felt death’: Survivors recount Israel’s massacre in Beirut",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/we-felt-death-survivors-recount-israels-massacre-beirut"
       },
       {
-        "title": "France and Pakistan condemn ‘Lebanon ceasefire violations’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/france-and-pakistan-condemn-lebanon-ceasefire-violations"
+        "title": "US-Israeli attacks damaged over 125,000 civilian sites in Iran, Red Crescent says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-attacks-damaged-over-125000-civilian-sites-iran-red-crescent"
       },
       {
-        "title": "In Algeria, Pope to pay homage to forgotten home of Christian icon St Augustine",
-        "link": "https://www.middleeasteye.net/news/algeria-pope-homage-forgotten-home-christian-icon-augustine"
+        "title": "‘We felt death’: Survivors recount Israel’s massacre in Beirut",
+        "link": "https://www.middleeasteye.net/news/we-felt-death-survivors-recount-israels-massacre-beirut"
       },
       {
-        "title": "Spain calls on Iran to negotiate in 'good faith'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spain-calls-iran-negotiate-good-faith"
+        "title": "Lebanon to attend Washington ceasefire talks, says truce needed for broader deal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-attend-washington-ceasefire-talks-says-truce-needed-broader-deal"
       }
     ],
     "GeoTV": [
       {
-        "title": "Taylor Swift, Travis Kelce set wedding date",
-        "link": "https://www.geo.tv/latest/659341-taylor-swift-travis-kelce-set-wedding-date"
+        "title": "Five things to know about Pakistan-hosted US-Iran talks",
+        "link": "https://www.geo.tv/latest/659353-five-things-to-know-about-pakistan-hosted-us-iran-talks"
       },
       {
-        "title": "Andrew 'reduced to tears' after Prince William touching gesture",
-        "link": "https://www.geo.tv/latest/659339-andrew-reduced-to-tears-after-prince-william-touching-gesture"
+        "title": "King Charles makes 'terrible' health confession with Princess Anne",
+        "link": "https://www.geo.tv/latest/659338-king-charles-makes-terrible-health-confession-with-princess-anne"
       },
       {
-        "title": "Gorillaz announce first-ever India tour dates for 2027",
-        "link": "https://www.geo.tv/latest/659330-gorillaz-announce-first-ever-india-tour-dates-for-2027"
+        "title": "Buckingham Palace issues statement after Meghan's olive branch to King",
+        "link": "https://www.geo.tv/latest/659345-buckingham-palace-issues-statement-after-meghans-olive-branch-to-king"
       },
       {
-        "title": "Abbey Romeo, David Isaacman call it quits after 5 years: Here's why",
-        "link": "https://www.geo.tv/latest/659340-abbey-romeo-david-isaacman-call-it-quits-after-5-years-heres-why"
+        "title": "Jenna Ortega akes surprise revelation about role she lost",
+        "link": "https://www.geo.tv/latest/659344-jenna-ortega-akes-surprise-revelation-about-role-she-lost"
       },
       {
-        "title": "ADB forecasts Pakistan growth at 3.5%, warns of Middle East risks",
-        "link": "https://www.geo.tv/latest/659331-adb-forecasts-pakistan-growth-at-35-warns-of-middle-east-risks"
+        "title": "Bronny James finds LeBron for key play in Lakers win that has everyone buzzing",
+        "link": "https://www.geo.tv/latest/659343-bronny-james-finds-lebron-for-key-play-in-lakers-win-that-has-everyone-buzzing"
       }
     ],
     "NDTV": [
       {
-        "title": "Poll Flying Squad Checks TVK Chief Vijay's Vehicle In Tamil Nadu, No Cash Found",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-election-2026-poll-flying-squad-checks-tvk-chief-vijays-vehicle-in-tamil-nadu-no-cash-found-11337858#publisher=newsstand"
+        "title": "Israeli Airstrikes On 2 Lebanon Towns Despite Trump's Request To Netanyahu",
+        "link": "https://www.ndtv.com/world-news/fresh-israeli-attack-on-lebanon-despite-trump-asking-to-scale-back-strikes-11338114#publisher=newsstand"
       },
       {
-        "title": "Israel Halts Strikes On Lebanon After Trump's 'Low-Key' Order To Netanyahu",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-israel-halts-strikes-on-lebanon-after-trumps-low-key-order-to-netanyahu-11337996#publisher=newsstand"
+        "title": "Indian Carriers Impacted As Dubai Limits Foreign Flights Until May",
+        "link": "https://www.ndtv.com/world-news/iran-us-israel-war-indian-carriers-impacted-as-dubai-limits-foreign-flights-until-may-middle-east-conflict-11338215#publisher=newsstand"
       },
       {
-        "title": "Why Budget Smartphones Are Suddenly Getting So Expensive",
-        "link": "https://www.ndtv.com/india-news/budget-smartphones-getting-expensive-samsung-vivo-xiami-apple-ai-chip-realme-oppo-11337748#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Climbs 700 Points On Hopes Of US-Iran Peace Talks",
+        "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand"
       },
       {
-        "title": "Justice Yashwant Varma Quits On Day He Was To Begin His Defence Arguments",
-        "link": "https://www.ndtv.com/india-news/cash-row-judge-justice-yashwant-varma-quit-on-day-he-was-to-begin-his-defence-arguments-11337973#publisher=newsstand"
+        "title": "Jaypee Group Founder Backs Adani Group's JAL Bid",
+        "link": "https://www.ndtv.com/india-news/jaypee-group-founder-jaiprakash-gaur-backs-adani-groups-rs-14-535-crore-jal-bid-11338118#publisher=newsstand"
       },
       {
-        "title": "Over 84 Lakh Voters Added In Final UP SIR List, Total Rises To Over 13 Crore",
-        "link": "https://www.ndtv.com/india-news/over-84-lakh-voters-added-in-final-up-sir-list-total-rises-to-over-13-crore-11337736#publisher=newsstand"
+        "title": "Woman, Her 2 Sons Found Dead In Rajasthan's Pali, Suicide Note Recovered",
+        "link": "https://www.ndtv.com/india-news/woman-her-2-sons-found-dead-in-rajasthans-pali-suicide-note-recovered-11338202#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-10 09:19 UTC"
+  "last_updated": "2026-04-10 10:31 UTC"
 }
