@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Real Madrid vs Girona – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/10/live-real-madrid-vs-girona-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "US federal court hears new case against Trump tariffs",
+        "link": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss"
+      },
+      {
+        "title": "Hawaii’s Kilauea erupts, blasting lava sky-high",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hawaiis-kilauea-erupts-blasting-lava-sky-high?traffic_source=rss"
+      },
+      {
         "title": "Starmer and Trump talked military options to reopen Strait of Hormuz",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/starmer-and-trump-talked-military-options-to-reopen-strait-of-hormuz?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Netanyahu removes Spain from Gaza coordination centre over ‘hostility’",
         "link": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss"
-      },
-      {
-        "title": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
-        "link": "https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Real Madrid vs Girona – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/10/live-real-madrid-vs-girona-la-liga?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "Govt reduces petrol price by Rs12 per litre, diesel by Rs135",
+        "link": "https://www.dawn.com/news/1990554/govt-reduces-petrol-price-by-rs12-per-litre-diesel-by-rs135"
+      },
+      {
         "title": "Vance heads to Islamabad, says Trump gave him ‘some pretty clear guidelines’ on Iran talks",
         "link": "https://www.dawn.com/news/1990461/vance-heads-to-islamabad-says-trump-gave-him-some-pretty-clear-guidelines-on-iran-talks"
       },
@@ -90,17 +88,17 @@
       {
         "title": "Sindh implements austerity measures, notifies early market closure among other steps",
         "link": "https://www.dawn.com/news/1990483/sindh-implements-austerity-measures-notifies-early-market-closure-among-other-steps"
-      },
-      {
-        "title": "Pakistan Navy rescues 18 crew members, including foreign nationals, of merchant vessel in Arabian Sea operation",
-        "link": "https://www.dawn.com/news/1990513/pakistan-navy-rescues-18-crew-members-including-foreign-nationals-of-merchant-vessel-in-arabian-sea-operation"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "With Iran Setting Limits, Strait of Hormuz Remains Thorny Politically",
-        "link": "https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html"
+        "title": "Lebanon: Images of a Nation Uprooted by War",
+        "link": "https://www.nytimes.com/2026/04/10/world/middleeast/lebanon-displaced-photos.html"
+      },
+      {
+        "title": "Trump Attacks Tucker Carlson, Megyn Kelly Over Iran War Criticism",
+        "link": "https://www.nytimes.com/2026/04/09/us/politics/trump-tucker-carlson-candace-owens.html"
       },
       {
         "title": "A Record Jump in U.S. Gasoline Prices Is Squeezing Consumers",
@@ -113,35 +111,43 @@
       {
         "title": "U.S. Inflation Surged in March as Iran War Pushed Up Prices",
         "link": "https://www.nytimes.com/2026/04/10/business/economy/what-to-know-about-the-report.html"
-      },
-      {
-        "title": "Iran War Drives Deeper Oil Shock Than Prices Reveal",
-        "link": "https://www.nytimes.com/2026/04/10/business/energy-environment/iran-oil-prices.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran FM: Lebanon must be included in ceasefire deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-fm-lebanon-must-be-included-ceasefire-deal"
+        "title": "Lebanon: Death toll from Israeli strikes on Wednesday rises to 357",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-israeli-strikes-wednesday-rises-357"
       },
       {
-        "title": "UN rights chief condemns ‘unrelenting pattern of killings’ conducted with 'impunity' in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-rights-chief-condemns-unrelenting-pattern-killings-conducted-impunity"
+        "title": "Exclusive: What the Lebanese government wants from talks with Israel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-what-lebanese-government-wants-talks-israel"
       },
       {
-        "title": "Trump: Only reason Iranians are alive ‘is to negotiate’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-only-reason-iranians-are-alive-negotiate"
+        "title": "UK to convene more talks on Strait of Hormuz next week",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-convene-more-talks-strait-hormuz-next-week"
       },
       {
-        "title": "Pope urges dialogue and condemns 'collateral damage' in war for 'self-interest'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pope-urges-dialogue-and-condemns-collateral-damage-war-self-interest"
+        "title": "Exclusive: What the Lebanese government wants from talks with Israel",
+        "link": "https://www.middleeasteye.net/news/exclusive-what-lebanese-government-wants-talks-israel"
       },
       {
-        "title": "Trump threatens new strikes on Iran if talks fail",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-new-strikes-iran-if-talks-fail"
+        "title": "Iran foreign minister: Lebanon must be included in ceasefire deal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-lebanon-must-be-included-ceasefire-deal"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Joshua Bassett sparks backlash after Olivia Rodrigo mention ahead of 'OR3'",
+        "link": "https://www.geo.tv/latest/659412-joshua-bassett-sparks-backlash-after-olivia-rodrigo-mention-ahead-of-or3"
+      },
+      {
+        "title": "PM Shehbaz cuts petrol price by Rs12, diesel by Rs135 per litre",
+        "link": "https://www.geo.tv/latest/659418-pm-shehbaz-cuts-petrol-price-by-rs12-diesel-by-rs135-per-litre"
+      },
+      {
+        "title": "Afrika Bambaataa dead at 67: Inside the Godfather of Hip-Hop's controversies",
+        "link": "https://www.geo.tv/latest/659425-afrika-bambaataa-dead-at-67-inside-the-godfather-of-hip-hops-controversies"
+      },
       {
         "title": "Queen Elizabeth's centenary celebrations span London and Norfolk",
         "link": "https://www.geo.tv/latest/659422-queen-elizabeths-centenary-celebrations-span-london-and-norfolk"
@@ -149,18 +155,6 @@
       {
         "title": "‘Emily in Paris' season 6 takes drama to Greece and Monaco",
         "link": "https://www.geo.tv/latest/659419-emily-in-paris-season-6-takes-drama-to-greece-and-monaco"
-      },
-      {
-        "title": "Local holiday in Islamabad, Rawalpindi extended till April 11",
-        "link": "https://www.geo.tv/latest/659421-local-holiday-in-islamabad-rawalpindi-extended-till-april-11"
-      },
-      {
-        "title": "Prince Harry, Meghan Markle hit with unexpected petition in Australia",
-        "link": "https://www.geo.tv/latest/659416-prince-harry-meghan-markle-hit-with-unexpected-petition-in-australia"
-      },
-      {
-        "title": "HBO ends music collaboration with Labrinth for 'Euphoria' season 3",
-        "link": "https://www.geo.tv/latest/659417-hbo-ends-music-collaboration-with-labrinth-for-euphoria-season-3"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-10 17:27 UTC"
+  "last_updated": "2026-04-10 18:08 UTC"
 }
