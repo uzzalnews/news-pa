@@ -1,14 +1,24 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher On Hopes Of US-Iran Peace Talks",
+      "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
-        "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "'We should not be at the mercy of events abroad' - Starmer",
         "link": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+        "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+        "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
@@ -17,13 +27,21 @@
       {
         "title": "Watch: Melania Trump's surprise Epstein statement in full",
         "link": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ten cases a day - how 'blitz courts' could tackle the Crown Court backlog",
-        "link": "https://www.bbc.com/news/articles/cvgkv1x149eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Shipping in Strait of Hormuz still at a trickle despite US-Iran ceasefire",
+        "link": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Riot police push back protesters demanding higher wages in Venezuela",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/riot-police-push-back-protesters-demanding-higher-wages-in-venezuela?traffic_source=rss"
+      },
       {
         "title": "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks",
         "link": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Video shows explosion over Erbil in suspected drone interception",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss"
-      },
-      {
-        "title": "Ecuador hikes tariffs to 100-percent in feud with neighbour Colombia",
-        "link": "https://www.aljazeera.com/news/2026/4/9/ecuador-hikes-tariffs-to-100-percent-in-feud-with-neighbour-colombia?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s Supreme Leader Mojtaba Khamenei says ‘we seek compensation, not war’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/irans-supreme-leader-mojtaba-khamenei-says-we-seek-compensation-not?traffic_source=rss"
-      },
-      {
-        "title": "Police in Venezuela block protesters calling for higher wages, pensions",
-        "link": "https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "PM Shehbaz, CDF Munir discuss Pakistan’s efforts to mediate between US and Iran",
-        "link": "https://www.dawn.com/news/1990234/pm-shehbaz-cdf-munir-discuss-pakistans-efforts-to-mediate-between-us-and-iran"
+        "title": "Capital on high alert ahead of US-Iran peace talks",
+        "link": "https://www.dawn.com/news/1990385/capital-on-high-alert-ahead-of-us-iran-peace-talks"
       },
       {
-        "title": "Israel seeks peace talks with Lebanon ‘as soon as possible’ as world condemns Tel Aviv’s bombardment amid US-Iran truce",
-        "link": "https://www.dawn.com/news/1990283/israel-seeks-peace-talks-with-lebanon-as-soon-as-possible-as-world-condemns-tel-avivs-bombardment-amid-us-iran-truce"
+        "title": "Pakistan steps up diplomacy as Lebanon strikes strain ceasefire",
+        "link": "https://www.dawn.com/news/1990386/pakistan-steps-up-diplomacy-as-lebanon-strikes-strain-ceasefire"
       },
       {
-        "title": "In written message, Iran supreme leader says Tehran does not seek war but will not renounce legitimate rights",
-        "link": "https://www.dawn.com/news/1990308/in-written-message-iran-supreme-leader-says-tehran-does-not-seek-war-but-will-not-renounce-legitimate-rights"
+        "title": "Lawmakers’ schemes outpace sluggish uplift spending",
+        "link": "https://www.dawn.com/news/1990382/lawmakers-schemes-outpace-sluggish-uplift-spending"
       },
       {
-        "title": "PML-N lawmaker submits resolution in PA, calls for nominating CDF Munir, PM Shehbaz, DPM Dar for Nobel Peace Prize",
-        "link": "https://www.dawn.com/news/1990285/pml-n-lawmaker-submits-resolution-in-pa-calls-for-nominating-cdf-munir-pm-shehbaz-dpm-dar-for-nobel-peace-prize"
+        "title": "CNIC not moveable property; can’t be blocked, impounded or attached: Lahore High Court",
+        "link": "https://www.dawn.com/news/1990352/cnic-not-moveable-property-cant-be-blocked-impounded-or-attached-lahore-high-court"
       },
       {
-        "title": "Foolproof security arranged for foreign guests, Naqvi assures US envoy ahead of US‑Iran talks in Islamabad",
-        "link": "https://www.dawn.com/news/1990162/foolproof-security-arranged-for-foreign-guests-naqvi-assures-us-envoy-ahead-of-usiran-talks-in-islamabad"
+        "title": "PIA fleet expansion on the cards",
+        "link": "https://www.dawn.com/news/1990392/pia-fleet-expansion-on-the-cards"
       }
     ],
     "APNews": [],
@@ -115,24 +121,24 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Six vessels pass through Hormuz Strait on Thursday",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/six-vessels-pass-through-hormuz-strait-thursday"
+        "title": "Hezbollah claims 35 attacks in response to Israel's assault on Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-35-attacks-response-israels-assault-lebanon"
       },
       {
-        "title": "White House warned staff against market bets amid war on Iran: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-warned-staff-against-market-bets-amid-war-iran-report"
+        "title": "South Korea appoints envoy to Iran to ensure safety of vessels in the region",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-appoints-envoy-iran-ensure-safety-vessels-region"
       },
       {
-        "title": "Lebanese man describes the loss of his family in Israeli attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-man-describes-loss-his-family-israeli-attacks"
+        "title": "US military bases in Gulf 'useless' after Iranian strikes, experts say",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-bases-gulf-useless-after-iranian-strikes-experts-say-0"
       },
       {
-        "title": "Iran ‘doing a very poor job’ of allowing oil through Strait of Hormuz, Trump says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-doing-very-poor-job-allowing-oil-through-strait-hormuz-trump-says"
+        "title": "Israel continues assault on Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-continues-assault-lebanon"
       },
       {
-        "title": "Top EU diplomat calls for urgent cessation of hostilities in Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/top-eu-diplomat-calls-urgent-cessation-hostilities-lebanon"
+        "title": "Attack on Saudi Arabian pipeline wiped out 10 percent of kingdom's oil export capacity",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-saudi-arabian-pipeline-wiped-out-10-percent-kingdoms-oil-export"
       }
     ],
     "GeoTV": [
@@ -159,24 +165,24 @@
     ],
     "NDTV": [
       {
-        "title": "Foreign Secretary Meets Marco Rubio; US Diplomat To Visit India Next Month",
-        "link": "https://www.ndtv.com/world-news/foreign-secretary-vikram-misri-meets-marco-rubio-us-diplomat-to-visit-india-next-month-11336494#publisher=newsstand"
+        "title": "AIMIM Breaks Alliance With Humayun Kabir's Party After Trinamool 'Sting'",
+        "link": "https://www.ndtv.com/india-news/bengal-elections-2026-aimim-breaks-alliance-with-humayun-kabirs-party-after-trinamool-sting-11336820#publisher=newsstand"
       },
       {
-        "title": "No ceasefire In Lebanon, Continuing To Strike Hezbollah: Netanyahu",
-        "link": "https://www.ndtv.com/world-news/no-ceasefire-in-lebanon-continuing-to-strike-hezbollah-benjamin-netanyahu-11336479#publisher=newsstand"
+        "title": "Google's Rs 1.35 Lakh Crore Data Centre Project In Andhra Pradesh To Begin April 28",
+        "link": "https://www.ndtv.com/andhra-pradesh-news/googles-rs-1-35-lakh-crore-data-centre-project-in-andhra-pradesh-to-begin-april-28-11336793#publisher=newsstand"
       },
       {
-        "title": "Trump Warns Iran Over Toll On Ships Transiting Strait Of Hormuz",
-        "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-warns-iran-over-toll-on-ships-transiting-strait-of-hormuz-11336383#publisher=newsstand"
+        "title": "Weed Worth Rs 4.6 Crore Seized By Customs At Hyderabad Airport",
+        "link": "https://www.ndtv.com/hyderabad-news/weed-worth-rs-4-6-crore-seized-by-customs-at-hyderabad-airport-11336747#publisher=newsstand"
       },
       {
-        "title": "Nitish Kumar To Take Oath As Rajya Sabha Member Today",
-        "link": "https://www.ndtv.com/india-news/nitish-kumar-to-take-oath-as-rajya-sabha-member-today-11336366#publisher=newsstand"
+        "title": "\"Oil Will Flow, With Or Without Iran\": Trump Warns Against Hormuz Toll",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-oil-will-flow-with-or-without-iran-trumps-big-hormuz-warning-amid-truce-11336638#publisher=newsstand"
       },
       {
-        "title": "Israeli PM Netanyahu's Corruption Trial To Resume On April 12",
-        "link": "https://www.ndtv.com/world-news/israeli-pm-benjamin-netanyahus-corruption-trial-to-resume-on-april-12-11336328#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher On Hopes Of US-Iran Peace Talks",
+        "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-10 01:05 UTC"
+  "last_updated": "2026-04-10 04:15 UTC"
 }
