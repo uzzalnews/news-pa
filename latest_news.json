@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Real Madrid vs Girona – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/10/live-real-madrid-vs-girona-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Iran conflict will define us for a generation, says PM",
-        "link": "https://www.bbc.com/news/articles/cr71ld371j5o?at_medium=RSS&at_campaign=rss"
+        "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
+        "link": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One dead after bus carrying British tourists crashes in Canary Islands, officials say",
+        "link": "https://www.bbc.com/news/articles/c75kv5vz66yo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Man arrested after baby girl dies from dog bite",
         "link": "https://www.bbc.com/news/articles/cy915wr1074o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Man jailed for killing abused wife who jumped from bridge",
-        "link": "https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
-        "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Parents' fury at Army's delay to report missing son",
         "link": "https://www.bbc.com/news/articles/cly7d9px7leo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man jailed for killing abused wife who jumped from bridge",
+        "link": "https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Pakistan sets modest goal for US-Iran summit: A deal to keep talks going",
-        "link": "https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going?traffic_source=rss"
+        "title": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
+        "link": "https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan?traffic_source=rss"
       },
       {
-        "title": "Artemis II splashdown: When it lands, risks and how to watch live",
-        "link": "https://www.aljazeera.com/news/2026/4/10/artemis-ii-splashdown-when-it-lands-risks-and-how-to-watch-live?traffic_source=rss"
+        "title": "LIVE: Real Madrid vs Girona – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/10/live-real-madrid-vs-girona-la-liga?traffic_source=rss"
       },
       {
-        "title": "Vance expects ‘positive’ Iran talks as he heads to Islamabad",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/vance-expects-positive-iran-talks-as-he-heads-to-islamabad?traffic_source=rss"
+        "title": "US-Iran peace talks in Islamabad face massive hurdles",
+        "link": "https://www.aljazeera.com/video/quotable/2026/4/10/us-iran-peace-talks-in-islamabad-face-massive-hurdles?traffic_source=rss"
       },
       {
-        "title": "Israel threatens healthcare as it continues to attack Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/israel-threatens-healthcare-as-it-continues-to-attack-lebanon?traffic_source=rss"
+        "title": "In Peru’s presidential race, a pro-Trump frontrunner sinks in final stretch",
+        "link": "https://www.aljazeera.com/news/longform/2026/4/10/in-perus-presidential-race-a-pro-trump-frontrunner-sinks-in-final-stretch?traffic_source=rss"
       },
       {
-        "title": "Russia suffers ‘record’ soldier casualties as Ukraine ups drone production",
-        "link": "https://www.aljazeera.com/news/2026/4/10/ukraine-says-russia-suffers-record-losses-of-soldiers?traffic_source=rss"
+        "title": "Potholes and progress: Mamdani reflects on 100 days as New York’s mayor",
+        "link": "https://www.aljazeera.com/news/2026/4/10/potholes-and-progress-mamdani-reflects-on-100-days-as-new-yorks-mayor?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,10 +103,6 @@
         "link": "https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html"
       },
       {
-        "title": "The Mass Purge of Immigration Judges, and Melania Trump’s Surprise Epstein Remarks",
-        "link": "https://www.nytimes.com/2026/04/10/podcasts/the-headlines/immigration-judges-melania-trumps-epstein-remarks.html"
-      },
-      {
         "title": "A Record Jump in U.S. Gasoline Prices Is Squeezing Consumers",
         "link": "https://www.nytimes.com/2026/04/10/business/economy/gasoline-price-rise.html"
       },
@@ -109,11 +111,27 @@
         "link": "https://www.nytimes.com/video/world/asia/100000010809735/china-truckers-oil-fuel-prices.html"
       },
       {
+        "title": "U.S. Inflation Surged in March as Iran War Pushed Up Prices",
+        "link": "https://www.nytimes.com/2026/04/10/business/economy/what-to-know-about-the-report.html"
+      },
+      {
         "title": "Iran War Drives Deeper Oil Shock Than Prices Reveal",
         "link": "https://www.nytimes.com/2026/04/10/business/energy-environment/iran-oil-prices.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Experts warn ‘damage already done’ to food production from Hormuz closure",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/experts-warn-damage-already-done-food-production-hormuz-closure"
+      },
+      {
+        "title": "Israeli military: Lebanon fired 30 rockets, reservist seriously injured",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-lebanon-fired-30-rockets-one-reservist-seriously"
+      },
+      {
+        "title": "Kuwaiti army says Iran attacked National Guard facilities, injuring personnel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-army-says-iran-attacked-national-guard-facilities-injuring"
+      },
       {
         "title": "Friday recap: key events from the day in the US-Israeli war on Iran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/friday-recap-key-events-day-us-israeli-war-iran"
@@ -121,40 +139,28 @@
       {
         "title": "UK doctor suspended for sending Islamophobic messages about Gaza to colleague",
         "link": "https://www.middleeasteye.net/news/uk-doctor-suspended-sending-islamophobic-messages-colleague-who-sent-gaza-petition"
-      },
-      {
-        "title": "Iranian parliament speaker says no talks until Lebanon ceasefire and assets released",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-parliament-speaker-says-no-negotiations-until-lebanon-ceasefire"
-      },
-      {
-        "title": "Seyed Hossein Mousavian: Could the Islamabad talks end 48 years of hostility between the US and Iran?",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seyed-hossein-mousavian-could-islamabad-talks-end-48-years-hostility"
-      },
-      {
-        "title": "Israel expels Spanish representatives from Gaza humanitarian relief centre",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-expels-spanish-representatives-gaza-humanitarian-relief-centre"
       }
     ],
     "GeoTV": [
       {
+        "title": "Harrison Ford reflects on depression battle before acting 'changed my life'",
+        "link": "https://www.geo.tv/latest/659415-harrison-ford-reflects-on-depression-battle-before-acting-changed-my-life"
+      },
+      {
+        "title": "Prince William, Kate Middleton delight fans with big news: Joint message",
+        "link": "https://www.geo.tv/latest/659413-prince-william-kate-middleton-delight-fans-with-big-news-joint-message"
+      },
+      {
+        "title": "BBC review slams BAFTA incident over offensive slur",
+        "link": "https://www.geo.tv/latest/659414-bbc-review-slams-bafta-incident-over-offensive-slur"
+      },
+      {
+        "title": "Finneas makes rare confession about wedding planning with Claudia Sulewski",
+        "link": "https://www.geo.tv/latest/659407-finneas-makes-rare-confession-about-wedding-planning-with-claudia-sulewski"
+      },
+      {
         "title": "Artemis II capsule's heat shield may fail, with no Plan B from NASA",
         "link": "https://www.geo.tv/latest/659411-artemis-ii-capsules-heat-shield-may-fail-with-no-plan-b-from-nasa"
-      },
-      {
-        "title": "Olivia Rodrigo drops subtle hint about Louis Partridge breakup song",
-        "link": "https://www.geo.tv/latest/659404-olivia-rodrigo-drops-subtle-hint-about-louis-partridge-breakup-song"
-      },
-      {
-        "title": "Zara Tindall keeps it chic as giant hats take over at Ladies Day",
-        "link": "https://www.geo.tv/latest/659403-zara-tindall-keeps-it-chic-as-giant-hats-take-over-at-ladies-day"
-      },
-      {
-        "title": "Mick Fleetwood weds Elizabeth Jordan as he marks 5th marriage",
-        "link": "https://www.geo.tv/latest/659410-mick-fleetwood-weds-elizabeth-jordan-as-he-marks-5th-marriage"
-      },
-      {
-        "title": "Pakistan Navy rescues 18 crew members including foreign nationals in Arabian Sea",
-        "link": "https://www.geo.tv/latest/659406-pakistan-navy-rescues-18-crew-members-including-foreign-nationals-in-arabian-sea"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-10 15:33 UTC"
+  "last_updated": "2026-04-10 16:30 UTC"
 }
