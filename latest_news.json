@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Climbs 700 Points On Hopes Of US-Iran Peace Talks",
-      "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -21,7 +15,7 @@
         "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "How the cost of holidays, food and clothes is rising - despite the Iran ceasefire",
+        "title": "Simple guide: How the Iran war is affecting the cost of holidays, food and clothes",
         "link": "https://www.bbc.co.uk/news/resources/idt-8ea95b22-220c-44be-8704-c41cdff0df66?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Gaza families still unable to bury dead six months into ‘ceasefire’",
+        "link": "https://www.aljazeera.com/news/2026/4/10/gaza-families-still-unable-to-bury-dead-six-months-into-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Taiwan opposition leader calls for ‘reconciliation’ after meeting Xi",
+        "link": "https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi?traffic_source=rss"
+      },
+      {
+        "title": "Will Israel and Lebanon start ceasefire talks?",
+        "link": "https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks?traffic_source=rss"
+      },
+      {
+        "title": "Israel strikes residential areas, destroys homes in southern Lebanon",
+        "link": "https://www.aljazeera.com/news/2026/4/10/israel-strikes-residential-areas-destroys-homes-in-southern-lebanon?traffic_source=rss"
+      },
+      {
         "title": "Senegal PM labels Trump ‘agent of global destabilisation’",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/senegal-pm-labels-trump-agent-of-global?traffic_source=rss"
-      },
-      {
-        "title": "Six months into ‘ceasefire’, Gaza suffers under persistent Israeli attacks",
-        "link": "https://www.aljazeera.com/gallery/2026/4/10/six-months-into-a-us-brokered-ceasefire-gaza-remains-under-israeli-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Torpedo-like object discovered by Indonesian fisherman",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/torpedo-like-object-discovered-by-indonesian-fisherman?traffic_source=rss"
-      },
-      {
-        "title": "Djibouti votes as long-time leader seeks sixth presidential term",
-        "link": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss"
-      },
-      {
-        "title": "Iran ceasefire: Not an off-ramp for the US but a life-saving ejection seat",
-        "link": "https://www.aljazeera.com/opinions/2026/4/10/iran-ceasefire-not-an-off-ramp-for-the-us-but-a-life-saving-ejection-seat?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/1990461/pakistan-allows-visa-free-boarding-offers-visa-on-arrival-for-islamabad-talks-delegates"
       },
       {
+        "title": "Chinese, Taiwanese will unite, Xi tells Taiwan opposition leader",
+        "link": "https://www.dawn.com/news/1990508/chinese-taiwanese-will-unite-xi-tells-taiwan-opposition-leader"
+      },
+      {
         "title": "Asian Development Bank upgrades Pakistan’s economic growth rate to 3.5pc",
         "link": "https://www.dawn.com/news/1990480/asian-development-bank-upgrades-pakistans-economic-growth-rate-to-35pc"
       },
       {
         "title": "Artemis II astronauts hurtle home from moon toward splashdown",
         "link": "https://www.dawn.com/news/1990494/artemis-ii-astronauts-hurtle-home-from-moon-toward-splashdown"
-      },
-      {
-        "title": "Lahore-bound Shalimar Express derails near Sheikhupura; rail traffic suspended",
-        "link": "https://www.dawn.com/news/1990477/lahore-bound-shalimar-express-derails-near-sheikhupura-rail-traffic-suspended"
       }
     ],
     "APNews": [],
@@ -121,7 +115,11 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "UK's Starmer says he discussed military options for Strait of Hormuz with US President Trump",
+        "title": "Israeli strikes kill over 300 people in Lebanon since yesterday",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-over-300-people-yesterday"
+      },
+      {
+        "title": "Starmer says he discussed military options for Strait of Hormuz with Trump",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uks-starmer-says-he-discussed-military-options-strait-hormuz-us"
       },
       {
@@ -129,60 +127,56 @@
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/we-felt-death-survivors-recount-israels-massacre-beirut"
       },
       {
-        "title": "US-Israeli attacks damaged over 125,000 civilian sites in Iran, Red Crescent says",
+        "title": "US-Israeli attacks damaged more than 125,000 civilian sites in Iran, Red Crescent says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-attacks-damaged-over-125000-civilian-sites-iran-red-crescent"
       },
       {
         "title": "‘We felt death’: Survivors recount Israel’s massacre in Beirut",
         "link": "https://www.middleeasteye.net/news/we-felt-death-survivors-recount-israels-massacre-beirut"
-      },
-      {
-        "title": "Lebanon to attend Washington ceasefire talks, says truce needed for broader deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-attend-washington-ceasefire-talks-says-truce-needed-broader-deal"
       }
     ],
     "GeoTV": [
       {
-        "title": "Five things to know about Pakistan-hosted US-Iran talks",
-        "link": "https://www.geo.tv/latest/659353-five-things-to-know-about-pakistan-hosted-us-iran-talks"
+        "title": "Andrew takes special royal family members with him to Marsh Farm",
+        "link": "https://www.geo.tv/latest/659366-andrew-takes-special-royal-family-members-with-him-to-marsh-farm"
       },
       {
-        "title": "King Charles makes 'terrible' health confession with Princess Anne",
-        "link": "https://www.geo.tv/latest/659338-king-charles-makes-terrible-health-confession-with-princess-anne"
+        "title": "Beatrice, Eugenie receive big news from Prince William: 'Doors are open'",
+        "link": "https://www.geo.tv/latest/659363-beatrice-eugenie-receive-big-news-from-prince-william-doors-are-open"
       },
       {
-        "title": "Buckingham Palace issues statement after Meghan's olive branch to King",
-        "link": "https://www.geo.tv/latest/659345-buckingham-palace-issues-statement-after-meghans-olive-branch-to-king"
+        "title": "How one ‘Stranger Things' favourite scored Malcolm finale cameo role?",
+        "link": "https://www.geo.tv/latest/659361-how-one-stranger-things-favourite-scored-malcolm-finale-cameo-role"
       },
       {
-        "title": "Jenna Ortega akes surprise revelation about role she lost",
-        "link": "https://www.geo.tv/latest/659344-jenna-ortega-akes-surprise-revelation-about-role-she-lost"
+        "title": "Jenna Ortega recalls her struggles as child star in Hollywood: 'Prove myself'",
+        "link": "https://www.geo.tv/latest/659348-jenna-ortega-recalls-her-struggles-as-child-star-in-hollywood-prove-myself"
       },
       {
-        "title": "Bronny James finds LeBron for key play in Lakers win that has everyone buzzing",
-        "link": "https://www.geo.tv/latest/659343-bronny-james-finds-lebron-for-key-play-in-lakers-win-that-has-everyone-buzzing"
+        "title": "Brooklyn Beckham calls wife Nicola 'best friend' amid family rift",
+        "link": "https://www.geo.tv/latest/659356-brooklyn-beckham-calls-wife-nicola-best-friend-amid-family-rift"
       }
     ],
     "NDTV": [
       {
-        "title": "Israeli Airstrikes On 2 Lebanon Towns Despite Trump's Request To Netanyahu",
-        "link": "https://www.ndtv.com/world-news/fresh-israeli-attack-on-lebanon-despite-trump-asking-to-scale-back-strikes-11338114#publisher=newsstand"
+        "title": "\"Blood Libels\": Israel Slams Pak Over Khawaja Asif's 'Cancerous' Remark",
+        "link": "https://www.ndtv.com/world-news/blood-libels-israel-slams-pak-over-khawaja-asifs-cancerous-remark-11338435#publisher=newsstand"
       },
       {
-        "title": "Indian Carriers Impacted As Dubai Limits Foreign Flights Until May",
-        "link": "https://www.ndtv.com/world-news/iran-us-israel-war-indian-carriers-impacted-as-dubai-limits-foreign-flights-until-may-middle-east-conflict-11338215#publisher=newsstand"
+        "title": "Israel Pauses Strikes On Lebanon After Trump's 'Low-Key' Order To Netanyahu",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-israel-halts-strikes-on-lebanon-after-trumps-low-key-order-to-netanyahu-11337996#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Climbs 700 Points On Hopes Of US-Iran Peace Talks",
+        "title": "Stock Market, Sensex Today: Sensex Closes 900 Points Higher On Hopes Of US-Iran Peace Talks",
         "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand"
       },
       {
-        "title": "Jaypee Group Founder Backs Adani Group's JAL Bid",
-        "link": "https://www.ndtv.com/india-news/jaypee-group-founder-jaiprakash-gaur-backs-adani-groups-rs-14-535-crore-jal-bid-11338118#publisher=newsstand"
+        "title": "Taking a Home Loan? Read This Before You Sign Property Papers",
+        "link": "https://www.ndtv.com/india-news/home-loan-property-mistakes-emi-cost-gst-rera-income-expense-real-estate-11338172#publisher=newsstand"
       },
       {
-        "title": "Woman, Her 2 Sons Found Dead In Rajasthan's Pali, Suicide Note Recovered",
-        "link": "https://www.ndtv.com/india-news/woman-her-2-sons-found-dead-in-rajasthans-pali-suicide-note-recovered-11338202#publisher=newsstand"
+        "title": "US-Israel-Iran War Live: \"Iran Doing Very Poor Job Of Allowing Oil Through Strait Of Hormuz\": Trump",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-iran-ceasefire-missile-strikes-middle-east-crisis-conflict-live-news-iran-drone-attack-trump-ceasefire-strait-of-ho-11325915#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-10 10:31 UTC"
+  "last_updated": "2026-04-10 11:28 UTC"
 }
