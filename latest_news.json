@@ -1,20 +1,10 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher On Hopes Of US-Iran Peace Talks",
-      "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "'We should not be at the mercy of events abroad' - Starmer",
+        "title": "Iran conflict must be 'line in sand' to build more resilient UK, Starmer says",
         "link": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
-        "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
@@ -27,28 +17,32 @@
       {
         "title": "Watch: Melania Trump's surprise Epstein statement in full",
         "link": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Want to help garden birds? Don't feed them in warmer months, says RSPB",
+        "link": "https://www.bbc.com/news/articles/c2lwvz1pl1no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Energy prices may take ‘months’ to normalise, despite ceasefire: Analysts",
+        "link": "https://www.aljazeera.com/economy/2026/4/10/energy-prices-may-take-months-to-normalise-despite-ceasefire-analysts?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian journalist describes losing prosthetic eye in Israeli prison",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/palestinian-journalist-describes-losing-prosthetic-eye-in-israeli-prison?traffic_source=rss"
+      },
+      {
+        "title": "Kuwait blames Iran for drone strike, Iran denies responsibility",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss"
+      },
       {
         "title": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Shipping in Strait of Hormuz still at a trickle despite US-Iran ceasefire",
+        "title": "Shipping in Strait of Hormuz at a standstill despite US-Iran ceasefire",
         "link": "https://www.aljazeera.com/economy/2026/4/10/shipping-in-strait-of-hormuz-at-a-trickle-despite-us-iran-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "Riot police push back protesters demanding higher wages in Venezuela",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/riot-police-push-back-protesters-demanding-higher-wages-in-venezuela?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Israeli attacks on Lebanon threaten US-Iran ceasefire talks",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/4/10/iran-war-live-israeli-attacks-on-lebanon-threaten-us-iran-ceasefire-talks?traffic_source=rss"
-      },
-      {
-        "title": "Video shows explosion over Erbil in suspected drone interception",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/9/video-shows-explosion-over-erbil-in-suspected-drone-interception?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "Pakistan allows visa-free boarding, offers visa on arrival for Islamabad Talks delegates",
+        "link": "https://www.dawn.com/news/1990461/pakistan-allows-visa-free-boarding-offers-visa-on-arrival-for-islamabad-talks-delegates"
+      },
+      {
         "title": "Capital on high alert ahead of US-Iran peace talks",
         "link": "https://www.dawn.com/news/1990385/capital-on-high-alert-ahead-of-us-iran-peace-talks"
       },
@@ -88,12 +86,8 @@
         "link": "https://www.dawn.com/news/1990382/lawmakers-schemes-outpace-sluggish-uplift-spending"
       },
       {
-        "title": "CNIC not moveable property; can’t be blocked, impounded or attached: Lahore High Court",
-        "link": "https://www.dawn.com/news/1990352/cnic-not-moveable-property-cant-be-blocked-impounded-or-attached-lahore-high-court"
-      },
-      {
-        "title": "PIA fleet expansion on the cards",
-        "link": "https://www.dawn.com/news/1990392/pia-fleet-expansion-on-the-cards"
+        "title": "Residents trapped indoors as area sealed under tight security",
+        "link": "https://www.dawn.com/news/1990327/residents-trapped-indoors-as-area-sealed-under-tight-security"
       }
     ],
     "APNews": [],
@@ -107,82 +101,82 @@
         "link": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html"
       },
       {
-        "title": "Israel Agrees to Hold Talks With Lebanon",
-        "link": "https://www.nytimes.com/2026/04/09/briefing/israel-agrees-to-hold-talks-with-lebanon.html"
-      },
-      {
         "title": "Melania Trump Says She Was Not Associated With Jeffrey Epstein",
         "link": "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html"
       },
       {
         "title": "For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission",
         "link": "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html"
+      },
+      {
+        "title": "Judge Rejects Hegseth’s Second Attempt to Restrict Reporters at Pentagon",
+        "link": "https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran’s chief foreign affairs strategist dies after US-Israeli air strike injuries",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-chief-foreign-affairs-strategist-dies-after-us-israeli-air-strike"
+      },
+      {
+        "title": "White House warned staff against betting on Iran war, report says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-warned-staff-against-betting-iran-war-report-says"
+      },
+      {
+        "title": "Rocket hits building in northern Israel: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rocket-hits-building-northern-israel"
+      },
+      {
+        "title": "Israeli army hits residential areas in southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-hits-residential-area-southern-lebanon"
+      },
+      {
         "title": "Hezbollah claims 35 attacks in response to Israel's assault on Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-35-attacks-response-israels-assault-lebanon"
-      },
-      {
-        "title": "South Korea appoints envoy to Iran to ensure safety of vessels in the region",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-appoints-envoy-iran-ensure-safety-vessels-region"
-      },
-      {
-        "title": "US military bases in Gulf 'useless' after Iranian strikes, experts say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-bases-gulf-useless-after-iranian-strikes-experts-say-0"
-      },
-      {
-        "title": "Israel continues assault on Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-continues-assault-lebanon"
-      },
-      {
-        "title": "Attack on Saudi Arabian pipeline wiped out 10 percent of kingdom's oil export capacity",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-saudi-arabian-pipeline-wiped-out-10-percent-kingdoms-oil-export"
       }
     ],
     "GeoTV": [
       {
-        "title": "Diddy fights against 'unfair' trial with twisted arguments",
-        "link": "https://www.geo.tv/latest/659276-diddy-fights-against-unfair-trial-with-twisted-arguments"
+        "title": "Eve Hewson joins Channing Tatum in high-speed ‘Isle of Man' thriller",
+        "link": "https://www.geo.tv/latest/659318-eve-hewson-joins-channing-tatum-in-high-speed-isle-of-man-thriller"
       },
       {
-        "title": "Sean ‘Diddy' Combs could walk free? Appeals court hears argument",
-        "link": "https://www.geo.tv/latest/659301-sean-diddy-combs-could-walk-free-appeals-court-hears-argument"
+        "title": "King Charles celebrates notable day with heartfelt tribute to Queen",
+        "link": "https://www.geo.tv/latest/659315-king-charles-celebrates-notable-day-with-heartfelt-tribute-to-queen"
       },
       {
-        "title": "Cruz Beckham reveals new change in Victoria Beckham's life",
-        "link": "https://www.geo.tv/latest/659299-cruz-beckham-reveals-new-change-in-victoria-beckhams-life"
+        "title": "Demi Lovato with husband Jutes suffer heartbreak on first anniversary",
+        "link": "https://www.geo.tv/latest/659316-demi-lovato-with-husband-jutes-suffer-heartbreak-on-first-anniversary"
       },
       {
-        "title": "Melania Trump denies Epstein ties, but what about her ‘Love, Melania' email to Ghislaine Maxwell?",
-        "link": "https://www.geo.tv/latest/659298-melania-trump-denies-epstein-ties-but-what-about-her-love-melania-email-to-ghislaine-maxwell"
+        "title": "Melania Trump denies any Epstein connection, seeks end to 'lies'",
+        "link": "https://www.geo.tv/latest/659310-melania-trump-denies-any-epstein-connection-seeks-end-to-lies"
       },
       {
-        "title": "US Postal Service suspends pension contributions: How it will affect retirees?",
-        "link": "https://www.geo.tv/latest/659297-us-postal-service-suspends-pension-contributions-how-it-will-affect-retirees"
+        "title": "'People hate happy women': Hania Aamir calls out online toxicity",
+        "link": "https://www.geo.tv/latest/659312-people-hate-happy-women-hania-aamir-calls-out-online-toxicity"
       }
     ],
     "NDTV": [
       {
-        "title": "AIMIM Breaks Alliance With Humayun Kabir's Party After Trinamool 'Sting'",
-        "link": "https://www.ndtv.com/india-news/bengal-elections-2026-aimim-breaks-alliance-with-humayun-kabirs-party-after-trinamool-sting-11336820#publisher=newsstand"
+        "title": "White House Insider Trading: How Traders Made Millions With Leaked War News",
+        "link": "https://www.ndtv.com/india-news/white-house-insider-trading-how-traders-made-millions-with-leaked-war-news-donald-trump-iran-11337295#publisher=newsstand"
       },
       {
-        "title": "Google's Rs 1.35 Lakh Crore Data Centre Project In Andhra Pradesh To Begin April 28",
-        "link": "https://www.ndtv.com/andhra-pradesh-news/googles-rs-1-35-lakh-crore-data-centre-project-in-andhra-pradesh-to-begin-april-28-11336793#publisher=newsstand"
+        "title": "\"Ready For All Scenarios\": Iran Says No Talks With US Till Lebanon Ceasefire",
+        "link": "https://www.ndtv.com/world-news/us-iran-lebanon-israel-war-ready-for-all-scenarios-iran-says-no-talks-with-us-till-lebanon-ceasefire-11337326#publisher=newsstand"
       },
       {
-        "title": "Weed Worth Rs 4.6 Crore Seized By Customs At Hyderabad Airport",
-        "link": "https://www.ndtv.com/hyderabad-news/weed-worth-rs-4-6-crore-seized-by-customs-at-hyderabad-airport-11336747#publisher=newsstand"
+        "title": "\"Tum Kaale Ho, Don't Deserve Me\": Madhya Pradesh Woman Plots Murder Of Husband With Lover",
+        "link": "https://www.ndtv.com/india-news/priyanka-purohit-purohit-devkrishna-madhya-pradesh-woman-lover-hire-hitman-kill-husband-told-him-tum-kaale-ho-dont-deserve-me-11337297#publisher=newsstand"
       },
       {
-        "title": "\"Oil Will Flow, With Or Without Iran\": Trump Warns Against Hormuz Toll",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-oil-will-flow-with-or-without-iran-trumps-big-hormuz-warning-amid-truce-11336638#publisher=newsstand"
+        "title": "MQ-4C Triton, US' $200-Million Drone, Disappears Over Strait Of Hormuz",
+        "link": "https://www.ndtv.com/world-news/mq-4c-triton-us-most-expensive-drone-disappears-over-strait-of-hormuz-iran-war-iran-us-war-us-iran-ceasefire-11337213#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher On Hopes Of US-Iran Peace Talks",
-        "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-10-april-brent-crude-oil-prices-us-iran-peace-talks-donald-trump-11336713#publisher=newsstand"
+        "title": "Gujarat Sarpanch Joins Congress, Then Returns To BJP Hours Later",
+        "link": "https://www.ndtv.com/india-news/gujarat-sarpanch-kanbhai-savaliya-joins-congress-then-returns-to-bjp-hours-later-11337231#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-10 04:15 UTC"
+  "last_updated": "2026-04-10 06:11 UTC"
 }
