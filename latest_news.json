@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Israel-Iran War LIVE Updates: JD Vance Lands In Pakistan Ahead Of Truce Talks With Iran",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1990730/us-president-trump-projects-cautious-optimism-ahead-of-iran-talks"
       },
       {
+        "title": "Artemis II astronauts safely back on Earth after historic trip around moon",
+        "link": "https://www.dawn.com/news/1990741/artemis-ii-astronauts-safely-back-on-earth-after-historic-trip-around-moon"
+      },
+      {
         "title": "Diesel price cut by Rs135; petrol sees drop of Rs12",
         "link": "https://www.dawn.com/news/1990666/diesel-price-cut-by-rs135-petrol-sees-drop-of-rs12"
       },
       {
         "title": "Conscientious objections to war rise sharply in US",
         "link": "https://www.dawn.com/news/1990665/conscientious-objections-to-war-rise-sharply-in-us"
-      },
-      {
-        "title": "PPP, Jamaat members clash with blows, kicks in Karachi City Council",
-        "link": "https://www.dawn.com/news/1990698/ppp-jamaat-members-clash-with-blows-kicks-in-karachi-city-council"
       }
     ],
     "APNews": [],
@@ -115,27 +121,39 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Top US officials land in Pakistan for talks with Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/top-us-officials-land-iran-talks-pakistan"
+      },
+      {
+        "title": "Israel bombs Lebanon towns as Hezbollah targets army base",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-bombs-lebanon-towns-hezbollah-targets-army-base"
+      },
+      {
+        "title": "Iran’s delegation carries photos and bags of children killed in Minab to Pakistan",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-delegation-carries-photos-and-bags-children-killed-minab-pakistan"
+      },
+      {
+        "title": "US delegation arrives in Islamabad for Iran talks, Pakistan sets up media hub",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-delegation-arrives-islamabad-iran-talks-pakistan-sets-media-hub"
+      },
+      {
         "title": "Israeli strikes kill 1,953 in Lebanon, health ministry says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-1953-lebanon-health-ministry-says"
-      },
-      {
-        "title": "CNN: China may supply air defences to Iran, US intelligence says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/cnn-china-may-supply-air-defences-iran-us-intelligence-says"
-      },
-      {
-        "title": "South Korean President clashes with Israel over 'despicable' video",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korean-president-clashes-israel-over-despicable-video"
-      },
-      {
-        "title": "Israeli strike kills six Palestinians at Gaza checkpoint, medics say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-six-palestinians-gaza-checkpoint-medics-say"
-      },
-      {
-        "title": "Iran parliament speaker posts images of children killed in US strike ahead of talks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-parliament-speaker-posts-images-children-killed-us-strike-ahead"
       }
     ],
     "GeoTV": [
+      {
+        "title": "What's on the table as US-Iran talks begin in Islamabad",
+        "link": "https://www.geo.tv/latest/659471-whats-on-the-table-as-us-iran-talks-begin-in-islamabad"
+      },
+      {
+        "title": "Joe Jonas joins Teddy Swims at Coachella 2026 with Jonas Brothers duet",
+        "link": "https://www.geo.tv/latest/659475-joe-jonas-joins-teddy-swims-at-coachella-2026-with-jonas-brothers-duet"
+      },
+      {
+        "title": "Ipsos poll shows boost in Pakistan's image after US-Iran truce",
+        "link": "https://www.geo.tv/latest/659469-ipsos-poll-shows-boost-in-pakistans-image-after-us-iran-truce"
+      },
       {
         "title": "Prince Harry hits back at Sentebale defamation claims in new statement",
         "link": "https://www.geo.tv/latest/659470-prince-harry-hits-back-at-sentebale-defamation-claims-in-new-statement"
@@ -143,40 +161,28 @@
       {
         "title": "'No Plan B': Bilawal Bhutto urges Iran-US talks must ensure peace",
         "link": "https://www.geo.tv/latest/659468-no-plan-b-bilawal-bhutto-urges-iran-us-talks-must-ensure-peace"
-      },
-      {
-        "title": "Two sides",
-        "link": "https://www.geo.tv/latest/659467-two-sides"
-      },
-      {
-        "title": "Great expectations, greater stakes",
-        "link": "https://www.geo.tv/latest/659463-great-expectations-greater-stakes"
-      },
-      {
-        "title": "Netflix cuts ties with Millie Bobby Brown for ‘Perfect' after conflict",
-        "link": "https://www.geo.tv/latest/659462-netflix-cuts-ties-with-millie-bobby-brown-for-perfect-after-prior-conflict"
       }
     ],
     "NDTV": [
       {
-        "title": "What Happens If US-Iran Talks Fail? What Trump Said On Backup Plan",
-        "link": "https://www.ndtv.com/world-news/iran-us-war-news-trumps-no-backup-plan-warning-as-irans-ghalibaf-arrives-in-pakistan-for-talks-11341877#publisher=newsstand"
+        "title": "JD Vance Lands In Islamabad To Lead US' High-Stakes Peace Talks With Iran",
+        "link": "https://www.ndtv.com/world-news/us-iran-talks-in-pakistan-today-could-end-the-war-or-ramp-it-up-what-we-know-iran-war-iran-israel-us-war-jd-vance-ghalibaf-trump-11340909#publisher=newsstand"
       },
       {
-        "title": "Blood-Soaked School Bags, Shoes: Iran Team's Minab \"Companions\" On Flight To Pakistan",
-        "link": "https://www.ndtv.com/world-news/us-iran-peace-talks-blood-soaked-school-bags-shoes-iran-teams-minab-companions-on-flight-to-pakistan-11341768#publisher=newsstand"
+        "title": "Why JD Vance Is Leading US Side In Talks With Iran",
+        "link": "https://www.ndtv.com/world-news/iran-war-news-iran-us-talks-in-islamabad-why-jd-vance-is-leading-us-side-in-talks-with-iran-11342105#publisher=newsstand"
       },
       {
-        "title": "Glass Of Under-Construction 'Foot Glass Bridge' In Rishikesh Damaged",
-        "link": "https://www.ndtv.com/india-news/glass-of-under-construction-foot-glass-bridge-in-rishikesh-damaged-11341026#publisher=newsstand"
+        "title": "US-Israel-Iran War LIVE Updates: JD Vance Lands In Pakistan Ahead Of Truce Talks With Iran",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
       },
       {
-        "title": "Melania Trump, Out-Of-The-Blue, Denies Epstein Ties. But Why Now?",
-        "link": "https://www.ndtv.com/world-news/melania-trump-out-of-the-blue-denies-jeffrey-epstein-ties-but-why-now-11341282#publisher=newsstand"
+        "title": "Man From Dehradun Arrested For Working With Pak Terrorist, Wanted To Avenge Sidhu Moosewala",
+        "link": "https://www.ndtv.com/india-news/man-from-dehradun-arrested-for-working-with-pak-terrorist-wanted-to-avenge-sidhu-moosewala-11341080#publisher=newsstand"
       },
       {
-        "title": "Poll Body Orders Repoll In Assam's Karimganj North After Scrutiny Of Records",
-        "link": "https://www.ndtv.com/india-news/poll-body-orders-repoll-in-assams-karimganj-north-after-scrutiny-of-records-11341358#publisher=newsstand"
+        "title": "China Secretly Preparing New Weapons Shipment To Iran: Report",
+        "link": "https://www.ndtv.com/world-news/china-secretly-preparing-new-weapons-shipment-to-iran-report-11341921#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-11 05:18 UTC"
+  "last_updated": "2026-04-11 06:16 UTC"
 }
