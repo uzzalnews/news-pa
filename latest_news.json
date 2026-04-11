@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Tyson Fury vs Arslanbek Makhmudov – heavyweight boxing match",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/11/live-tyson-fury-vs-arslanbek-makhmudov-heavyweight-boxing-match?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,8 +21,8 @@
         "link": "https://www.bbc.com/sport/horse-racing/articles/cgme42z1gjro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Murder arrest over Primrose Hill stabbing",
-        "link": "https://www.bbc.com/news/articles/c17vz9d905qo?at_medium=RSS&at_campaign=rss"
+        "title": "More than 200 arrests at Palestine Action protest",
+        "link": "https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Eamonn Holmes recovering in hospital after stroke",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "US appeals court extends deadline to halt White House ballroom construction",
+        "link": "https://www.aljazeera.com/news/2026/4/11/us-appeals-court-extends-deadline-to-halt-white-house-ballroom-construction?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settlers kill Palestinian during raid on occupied West Bank village",
+        "link": "https://www.aljazeera.com/news/2026/4/11/israeli-settlers-kill-palestinian-during-raid-on-occupied-west-bank-village?traffic_source=rss"
+      },
+      {
+        "title": "Iranian rabbi describes Israel’s destruction of a Tehran synagogue",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iranian-rabbi-describes-israels-destruction-of-a-tehran-synagogue?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Tyson Fury vs Arslanbek Makhmudov – heavyweight boxing match",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/11/live-tyson-fury-vs-arslanbek-makhmudov-heavyweight-boxing-match?traffic_source=rss"
+      },
+      {
         "title": "Gaza families mourn loved ones killed in overnight Israeli air strikes",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Vigil held in Madrid for victims of Israeli strikes on Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/vigil-held-in-madrid-for-victims-of-israeli-strikes-on-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Ceasefire brings some relief for Iranians but economic outlook remains grim",
-        "link": "https://www.aljazeera.com/news/2026/4/11/ceasefire-brings-some-relief-for-iranians-but-economic-outlook-remains-grim?traffic_source=rss"
-      },
-      {
-        "title": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
-        "link": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss"
-      },
-      {
-        "title": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/1990838/relatives-seek-fos-help-to-ascertain-fate-of-family-members-believed-to-be-killed-by-missile-debris-in-kuwait"
       },
       {
-        "title": "Bilawal terms Islamabad Talks ‘biggest achievement so far’ in de-escalation efforts between US, Iran",
-        "link": "https://www.dawn.com/news/1990810/bilawal-terms-islamabad-talks-biggest-achievement-so-far-in-de-escalation-efforts-between-us-iran"
+        "title": "US warships transit Strait of Hormuz in mine clearance operation: Centcom",
+        "link": "https://www.dawn.com/news/1990850/us-warships-transit-strait-of-hormuz-in-mine-clearance-operation-centcom"
       },
       {
-        "title": "London police arrest 212 people at protest over Palestine Action ban",
-        "link": "https://www.dawn.com/news/1990844/london-police-arrest-212-people-at-protest-over-palestine-action-ban"
+        "title": "Bilawal terms Islamabad Talks ‘biggest achievement so far’ in efforts for US-Iran de-escalation",
+        "link": "https://www.dawn.com/news/1990810/bilawal-terms-islamabad-talks-biggest-achievement-so-far-in-efforts-for-us-iran-de-escalation"
       }
     ],
     "APNews": [],
@@ -115,46 +121,46 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Israel will continue to fight Iran, Netanyahu says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-will-continue-fight-iran-netanyahu-says"
+        "title": "White House says in-person talks with Iran ‘ongoing’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-says-person-talks-iran-ongoing"
       },
       {
-        "title": "US continues ‘extravagant’ demands in talks, says Iran state TV",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-continues-extravagant-demands-talks-says-iran-state-tv"
+        "title": "Netanyahu: Israel wants ‘true peace pact’ with Lebanon, campaign in Iran 'not over'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-israel-wants-true-peace-pact-lebanon"
       },
       {
-        "title": "Death toll in Lebanon surpasses 2,000",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-lebanon-surpasses-2000"
+        "title": "Hezbollah supporters demonstrate to protest Lebanon’s talks with Israel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-supporters-demonstrate-protest-lebanons-talks-israel"
       },
       {
-        "title": "Iranian state media reports: US-Iran talks over, more likely held tonight or tomorrow",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-state-media-reports-us-iran-talks-over-more-likely-held-tonight"
+        "title": "Iranian media: Third session of US-Iran talks to be held tonight",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-third-session-us-iran-talks-be-held-tonight"
       },
       {
-        "title": "Iranian spokesperson accuses US media of double standards",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-spokesperson-accuses-us-media-double-standards-amid-negotiations"
+        "title": "US agreed to unfreeze Iranian assets, sources tell Al Jazeera",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-agreed-unfreeze-iranian-assets-sources-tell-al-jazeera"
       }
     ],
     "GeoTV": [
       {
-        "title": "Grand Central stabbing: Three stabbed, suspect fatally shot by NYPD",
-        "link": "https://www.geo.tv/latest/659567-grand-central-stabbing-three-stabbed-suspect-fatally-shot-by-nypd"
+        "title": "Sombr sets internet on fire after hinting on 'special guest' at Coachella",
+        "link": "https://www.geo.tv/latest/659569-sombr-sets-internet-on-fire-after-hinting-on-special-guest-at-coachella"
       },
       {
-        "title": "Zara Tindall says ‘let the girls win' at Grand National Festival",
-        "link": "https://www.geo.tv/latest/659566-zara-tindall-says-let-the-girls-win-at-grand-national-festival"
+        "title": "AI ‘will destroy' humanities jobs, Palantir CEO warns",
+        "link": "https://www.geo.tv/latest/659571-ai-will-destroy-humanities-jobs-palantir-ceo-warns"
       },
       {
-        "title": "Prince William makes emotional plea to Duchess Sophie",
-        "link": "https://www.geo.tv/latest/659541-prince-william-makes-emotional-plea-to-duchess-sophie"
+        "title": "WhatsApp expands status updates to unsaved contacts",
+        "link": "https://www.geo.tv/latest/659562-whatsapp-rolls-out"
       },
       {
-        "title": "Harriet Sperling's Windsor appearance reveals heartbreaking story",
-        "link": "https://www.geo.tv/latest/659560-harriet-sperlings-windsor-appearance-reveals-heartbreaking-story"
+        "title": "Ryan Reynolds to play key role in Blake Lively, Justin Baldoni trial",
+        "link": "https://www.geo.tv/latest/659565-ryan-reynolds-to-play-key-role-in-blake-lively-justin-baldoni-trial"
       },
       {
-        "title": "US warships cross Strait of Hormuz for first time since Iran war began",
-        "link": "https://www.geo.tv/latest/659564-us-warships-cross-strait-of-hormuz-for-first-time-since-iran-war-began"
+        "title": "London police arrest 212 people at protest over Palestine Action ban",
+        "link": "https://www.geo.tv/latest/659568-london-police-arrest-212-people-at-protest-over-palestine-action-ban"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-11 18:22 UTC"
+  "last_updated": "2026-04-11 19:09 UTC"
 }
