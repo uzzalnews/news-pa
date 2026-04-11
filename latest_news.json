@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Israel-Iran War LIVE Updates: US Vice President JD Vance Meets Pak PM Shehbaz Sharif",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,19 +11,31 @@
         "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "NHS to offer second dose of MenB vaccine after Kent outbreak",
-        "link": "https://www.bbc.com/news/articles/cqxlyepd09no?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Murder arrest over Primrose Hill stabbing",
         "link": "https://www.bbc.com/news/articles/c17vz9d905qo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Eamonn Holmes recovering in hospital after stroke",
         "link": "https://www.bbc.com/news/articles/c8r4mvyrdl3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Woman, 19, killed in dog attack at house",
+        "link": "https://www.bbc.com/news/articles/cew78nrdykqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Video: JD Vance meets with Pakistani PM ahead of Iran talks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-jd-vance-meets-with-pakistani-pm-ahead-of-iran-talks?traffic_source=rss"
+      },
+      {
+        "title": "Makeshift Gaza university offers chance to resurrect academic studies",
+        "link": "https://www.aljazeera.com/features/2026/4/11/makeshift-gaza-university-offers-chance-to-resurrect-academic-studies?traffic_source=rss"
+      },
+      {
+        "title": "Hungary’s Viktor Orban struggling for political survival ahead of vote",
+        "link": "https://www.aljazeera.com/news/2026/4/11/hungarys-viktor-orban-struggling-for-political-survival-ahead-of-vote?traffic_source=rss"
+      },
       {
         "title": "Artemis II crew seen on recovery ship after moon mission return",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-crew-seen-on-recovery-ship-after-moon-mission-return?traffic_source=rss"
@@ -37,18 +43,6 @@
       {
         "title": "We need a regional agreement for the Strait of Hormuz",
         "link": "https://www.aljazeera.com/opinions/2026/4/11/we-need-a-regional-agreement-for-the-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "Israel in row with South Korean leader over Palestinian abuse concerns",
-        "link": "https://www.aljazeera.com/news/2026/4/11/israel-in-row-with-south-korea-leader-over-palestinian-abuse-concerns?traffic_source=rss"
-      },
-      {
-        "title": "Video: ‘Crucial talks’ says Al Jazeera reporter at US-Iran meeting venue",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-crucial-talks-says-al-jazeera-reporter-at-us-iran-meeting-venue?traffic_source=rss"
-      },
-      {
-        "title": "NASA hails success of Artemis moon mission but says more work to do",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/nasa-hails-success-of-artemis-moon-mission-but-says-more-work-to-do?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "‘Stepping stone toward durable peace’: PM Shehbaz meets Vance as Islamabad Talks between US, Iran commence",
-        "link": "https://www.dawn.com/news/1990743/stepping-stone-toward-durable-peace-pm-shehbaz-meets-vance-as-islamabad-talks-between-us-iran-commence"
+        "title": "In meetings with US, Iran delegations, PM Shehbaz expresses Pakistan’s desire for durable peace",
+        "link": "https://www.dawn.com/news/1990743/in-meetings-with-us-iran-delegations-pm-shehbaz-expresses-pakistans-desire-for-durable-peace"
       },
       {
         "title": "Aurangzeb departs for US to participate in IMF-WB meetings",
@@ -88,12 +82,12 @@
         "link": "https://www.dawn.com/news/1990792/general-elections-in-gilgit-baltistan-to-be-held-on-june-7"
       },
       {
-        "title": "Artemis II astronauts safely back on Earth after historic trip around moon",
-        "link": "https://www.dawn.com/news/1990741/artemis-ii-astronauts-safely-back-on-earth-after-historic-trip-around-moon"
+        "title": "Bilawal terms Islamabad Talks ‘biggest achievement so far’ in de-escalation efforts between US, Iran",
+        "link": "https://www.dawn.com/news/1990810/bilawal-terms-islamabad-talks-biggest-achievement-so-far-in-de-escalation-efforts-between-us-iran"
       },
       {
-        "title": "Global growth to suffer due to Middle East war: World Bank chief",
-        "link": "https://www.dawn.com/news/1990654/global-growth-to-suffer-due-to-middle-east-war-world-bank-chief"
+        "title": "US authorities launch new effort to uncover birth tourism schemes",
+        "link": "https://www.dawn.com/news/1990809/us-authorities-launch-new-effort-to-uncover-birth-tourism-schemes"
       }
     ],
     "APNews": [],
@@ -107,8 +101,8 @@
         "link": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-economy-war.html"
       },
       {
-        "title": "What to Know About the U.S.-Iran Cease-Fire",
-        "link": "https://www.nytimes.com/2026/04/08/world/middleeast/iran-ceasefire-us-explainer.html"
+        "title": "What We Know About the U.S.-Iran Cease-Fire Talks in Pakistan",
+        "link": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-us-ceasefire-talks-negotiations.html"
       },
       {
         "title": "Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race",
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "US and Iran begin negotiations in Islamabad",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-begin-negotiations-islamabad"
+      },
+      {
+        "title": "Erdogan and Macron discuss US-Iran ceasefire talks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-and-macron-discuss-us-iran-ceasefire-talks"
+      },
+      {
+        "title": "Pakistan's PM says he 'appreciated Iran's engagement'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistani-pm-says-he-appreciated-irans-engagement"
+      },
+      {
         "title": "Israeli attacks kill 10 in southern Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-10-south-lebanon"
       },
       {
         "title": "Pakistani fighter jets land in Saudi Arabia as part of defence pact",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistani-fighter-jets-land-saudi-arabia-part-defence-pact"
-      },
-      {
-        "title": "‘I wished for death’: Sexual violence in Israel’s prisons is an ‘organised state policy’",
-        "link": "https://www.middleeasteye.net/news/i-wished-death-sexual-violence-israels-prisons-organised-state-policy"
-      },
-      {
-        "title": "US denies agreeing to unfreeze Iranian assets",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-denies-agreeing-unfreeze-iranian-assets"
-      },
-      {
-        "title": "Can a lasting deal emerge from the Islamabad talks?",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/can-lasting-deal-emerge-islamabad-talks"
       }
     ],
     "GeoTV": [
       {
-        "title": "Does Ben Affleck still have a thing for Jennifer Lopez?",
-        "link": "https://www.geo.tv/latest/659510-does-ben-affleck-still-have-a-thing-for-jennifer-lopez"
+        "title": "Eamonn Holmes' latest health update after being hospitalized for stroke",
+        "link": "https://www.geo.tv/latest/659525-eamonn-holmes-suffers-stroke-taken-to-hoospital"
       },
       {
-        "title": "Meghan Markle, Prince Harry's conversation with Queen: Bombshell truth",
-        "link": "https://www.geo.tv/latest/659512-meghan-markle-prince-harry"
+        "title": "George, Charlotte, Louis receive crucial assignment amid royal turmoil",
+        "link": "https://www.geo.tv/latest/659526-george-charlotte-louis-receive-crucial-assignment-amid-royal-turmoil"
       },
       {
-        "title": "Sabrina Carpenter proves her Coachella 2026 prediction right",
-        "link": "https://www.geo.tv/latest/659513-sabrina-carpenter-proves-her-coachella-2026-prediction-right"
+        "title": "Megan Fox isn't interested in reconciling with MGK: Source",
+        "link": "https://www.geo.tv/latest/659520-megan-fox-isnt-interested-in-reconciling-with-mgk-source"
       },
       {
-        "title": "Kai Trump posts Augusta National snaps following Wood's DUI arrest",
-        "link": "https://www.geo.tv/latest/659508-kai-trump-shares-snaps"
+        "title": "Sabrina Carpenter drags Hailey, Kylie to Coachella ahead of Justin's show",
+        "link": "https://www.geo.tv/latest/659522-sabrina-carpenter-drags-hailey-kylie-to-coachella-ahead-of-justins-show"
       },
       {
-        "title": "Prince Harry's fresh nightmare as Sentebale files defamation lawsuit",
-        "link": "https://www.geo.tv/latest/659514-prince-harrys-fresh-nightmare-as-sentebale-files-defamation-lawsuit"
+        "title": "UK pauses its plan to cede Chagos Islands after US opposition",
+        "link": "https://www.geo.tv/latest/659518-uk-pauses-its-plan-to-cede-chagos-islands-after-us-opposition"
       }
     ],
     "NDTV": [
       {
-        "title": "Watch: PM Modi, Rahul Gandhi's Rare Candid Chat In Parliament Complex",
-        "link": "https://www.ndtv.com/india-news/watch-pm-rahul-gandhis-rare-candid-chat-in-parliament-complex-11343174#publisher=newsstand"
+        "title": "\"Only Pak Can Play That Role\": Shashi Tharoor's Swipe At Shehbaz Sharif",
+        "link": "https://www.ndtv.com/world-news/us-iran-talks-only-pakistan-can-play-that-role-shashi-tharoor-swipe-at-shehbaz-sharif-11343410#publisher=newsstand"
       },
       {
-        "title": "Decoding Trinamool's Poll Campaign: Strategy, Messaging And Narrative",
-        "link": "https://www.ndtv.com/india-news/decoding-trinamools-poll-campaign-strategy-messaging-and-narrative-11343171#publisher=newsstand"
+        "title": "More Than \"Next 2 Largest Oil Economies Combined\": Trump Trumpets US Reserves",
+        "link": "https://www.ndtv.com/world-news/more-than-next-2-largest-oil-economies-combined-trump-trumpets-us-reserves-11343365#publisher=newsstand"
       },
       {
-        "title": "US-Israel-Iran War LIVE Updates: US Vice President JD Vance Meets Pak PM Shehbaz Sharif",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
-      },
-      {
-        "title": "'Will End Appeasement Politics; Not Allow Bengalis Become Minority': PM Modi",
-        "link": "https://www.ndtv.com/india-news/will-end-appeasement-politics-not-allow-bengalis-become-minority-pm-modi-11343197#publisher=newsstand"
+        "title": "After 28 Years As BJP Peon, Ramesh Bhil Gets Ticket For Civic Election",
+        "link": "https://www.ndtv.com/india-news/after-28-years-as-bjp-peon-ramesh-bhil-gets-ticket-for-civic-election-11343362#publisher=newsstand"
       },
       {
         "title": "Amid Bombing In Lebanon, Sanitation Workers Keep Streets Alive",
         "link": "https://www.ndtv.com/world-news/israel-iran-war-middle-east-conflict-amid-bombing-in-lebanon-sanitation-workers-keep-streets-alive-11343188#publisher=newsstand"
+      },
+      {
+        "title": "Watch: PM Modi, Rahul Gandhi's Rare Candid Chat In Parliament Complex",
+        "link": "https://www.ndtv.com/india-news/watch-pm-rahul-gandhis-rare-candid-chat-in-parliament-complex-11343174#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-11 12:00 UTC"
+  "last_updated": "2026-04-11 13:18 UTC"
 }
