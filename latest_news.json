@@ -1,9 +1,9 @@
 {
   "breaking": [
     {
-      "source": "AlJazeera",
-      "title": "LIVE: Chelsea vs Manchester City – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/12/live-chelsea-vs-manchester-city-premier-league-football?traffic_source=rss"
+      "source": "NDTV",
+      "title": "US-Israel-Iran War LIVE Updates: Putin Dials Up Iran President, Says Will Mediate Efforts To Achieve Peace",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
     }
   ],
   "news": {
@@ -31,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
+        "link": "https://www.aljazeera.com/news/2026/4/12/palestinians-condemn-storming-of-al-aqsa-mosque-by-israels-ben-gvir?traffic_source=rss"
+      },
+      {
         "title": "Explaining Benin’s presidential election",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/explaining-benins-presidential-election?traffic_source=rss"
       },
@@ -45,10 +49,6 @@
       {
         "title": "US-Iran ceasefire talks: What are the key sticking points?",
         "link": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Chelsea vs Manchester City – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/12/live-chelsea-vs-manchester-city-premier-league-football?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +76,8 @@
     ],
     "Dawn": [
       {
-        "title": "Trump says US to soon begin naval blockade of Strait of Hormuz",
-        "link": "https://www.dawn.com/news/1991096/trump-says-us-to-soon-begin-naval-blockade-of-strait-of-hormuz"
+        "title": "Trump says US-Iran talks yielded progress on ‘most points’ but no nuclear agreement",
+        "link": "https://www.dawn.com/news/1991096/trump-says-us-iran-talks-yielded-progress-on-most-points-but-no-nuclear-agreement"
       },
       {
         "title": "Dar urges US, Iran to uphold commitment to ceasefire as talks conclude without deal",
@@ -99,7 +99,7 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Control of the Strait of Hormuz and Iran’s Uranium Stockpiles Were Sticking Points",
+        "title": "The Strait of Hormuz and Iran’s Uranium Stockpiles Were Sticking Points in U.S.-Iran Peace Talks",
         "link": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html"
       },
       {
@@ -111,15 +111,19 @@
         "link": "https://www.nytimes.com/2026/04/12/world/middleeast/iran-united-states-negotiations.html"
       },
       {
-        "title": "Manhattan DA Opens Investigation Into Eric Swalwell After Sexual Assault Allegations",
-        "link": "https://www.nytimes.com/2026/04/11/us/politics/eric-swalwell-california-governor-sexual-misconduct.html"
-      },
-      {
         "title": "Push to Expel Swalwell Could Touch Off Chain Reaction of House Removal Votes",
         "link": "https://www.nytimes.com/2026/04/11/us/swalwell-house-removal-votes.html"
+      },
+      {
+        "title": "What We Know About the Eric Swalwell Sexual Misconduct Allegations",
+        "link": "https://www.nytimes.com/2026/04/12/us/eric-swalwell-sexual-misconduct.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Trump says points agreed to in talks 'don't matter' due to Iran's 'nuclear ambitions'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-points-agreed-talks-dont-matter-due-irans-nuclear-ambitions"
+      },
       {
         "title": "Trump says US military is 'locked and loaded' to 'finish up' Iran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-military-locked-and-loaded-finish-iran"
@@ -135,35 +139,43 @@
       {
         "title": "Putin says he is ready to help mediate peace efforts",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/putin-says-ready-help-mediate-peace-efforts"
-      },
-      {
-        "title": "Hezbollah claims attack on Israeli military vehicle in occupied West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-attack-israeli-military-vehicle-west-bank"
       }
     ],
     "GeoTV": [
       {
-        "title": "Colman Domingo's SNL debut packed with ‘Euphoria' jokes, wild sketches",
-        "link": "https://www.geo.tv/latest/659645-colman-domingos-snl-debut-packed-with-euphoria-jokes-wild-sketches"
+        "title": "Taylor Swift makes new appearance in Blake Lively lawsuit ahead of trial",
+        "link": "https://www.geo.tv/latest/659643-taylor-swift-makes-new-appearance-in-blake-lively-lawsuit-ahead-of-trial"
       },
       {
-        "title": "PSL 11: Hyderabad Kingsmen win toss, opt to bowl first against Islamabad United",
-        "link": "https://www.geo.tv/latest/659642-psl-11-hyderabad-kingsmen-win-toss-opt-to-bowl-first-against-islamabad-united"
+        "title": "Offset returns to stage on a wheelchair one week after shooting",
+        "link": "https://www.geo.tv/latest/659651-offset-returns-to-stage-on-a-wheelchair-one-week-after-shooting"
       },
       {
-        "title": "Justin Bieber blasted for 'low effort' Coachella headline set",
-        "link": "https://www.geo.tv/latest/659630-justin-bieber-blasted-for-low-effort-coachella-headline-set"
+        "title": "Justin Bieber makes 'smart' move to avoid legal scuffle with Scooter Braun",
+        "link": "https://www.geo.tv/latest/659640-justin-bieber-makes-smart-move-to-avoid-legal-scuffle-with-ex-manager-scooter-braun"
       },
       {
-        "title": "Palace reaction over Prince Harry, Meghan Markle huge announcement of 2026",
-        "link": "https://www.geo.tv/latest/659633-palace-reaction-over-prince-harry-meghan-markle-huge-announcement-of-2026"
+        "title": "Anyma left devastated as Coachella set is cancelled due to weather",
+        "link": "https://www.geo.tv/latest/659647-anyma-left-devastated-as-coachella-set-is-cancelled-due-to-weather"
       },
       {
-        "title": "Cillian Murphy sparks buzz amid Harry Potter rumours",
-        "link": "https://www.geo.tv/latest/659638-cillian-murphy-sparks-buzz-amid-harry-potter-rumours"
+        "title": "Prince William cashes in millions from deserted jail",
+        "link": "https://www.geo.tv/latest/659644-prince-william-cashes-in-millions-from-deserted-jail"
       }
     ],
     "NDTV": [
+      {
+        "title": "In Big Escalation, US Says Will Block Strait Of Hormuz After Iran Talks Fail",
+        "link": "https://www.ndtv.com/world-news/iran-war-latest-news-in-big-escalation-us-says-will-block-strait-of-hormuz-after-iran-talks-fail-11347213#publisher=newsstand"
+      },
+      {
+        "title": "US And Iran's Claims On American Warships Sail Into Strait Of 'Confusion'",
+        "link": "https://www.ndtv.com/world-news/us-and-irans-claims-on-american-warships-sail-into-strait-of-confusion-11347174#publisher=newsstand"
+      },
+      {
+        "title": "US-Israel-Iran War LIVE Updates: Putin Dials Up Iran President, Says Will Mediate Efforts To Achieve Peace",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
+      },
       {
         "title": "\"Can't Alter Undeniable Reality\": India On China Giving Fake Names To Areas",
         "link": "https://www.ndtv.com/india-news/cant-alter-undeniable-reality-india-on-china-giving-fake-names-to-areas-11346940#publisher=newsstand"
@@ -171,18 +183,6 @@
       {
         "title": "Opinion: Blog | When Tom Cruise Showed Up At 'Asha's'",
         "link": "https://www.ndtv.com/opinion/when-tom-cruise-showed-up-at-ashas-and-other-morsels-of-the-legends-culinary-legacy-11346888#publisher=newsstand"
-      },
-      {
-        "title": "Opinion: Blog | Asha Bhosle Is Gone, But Her 'Bad Girl' Anthems Live On",
-        "link": "https://www.ndtv.com/opinion/asha-bhosle-the-voice-of-modernity-11346834#publisher=newsstand"
-      },
-      {
-        "title": "Israel Wiped Out Entire Lebanese Villages By Rigging Homes With Explosives",
-        "link": "https://www.ndtv.com/world-news/iran-us-israel-lebanon-donald-trump-hezbollah-beirut-israel-blew-up-entire-lebanese-villages-by-rigging-homes-with-explosives-11346772#publisher=newsstand"
-      },
-      {
-        "title": "Probe Agency ED In Overdrive In Bengal, Launches Action In Flurry Of Cases",
-        "link": "https://www.ndtv.com/india-news/probe-agency-ed-in-overdrive-in-bengal-launches-action-in-flurry-of-cases-11346715#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-12 13:41 UTC"
+  "last_updated": "2026-04-12 14:25 UTC"
 }
