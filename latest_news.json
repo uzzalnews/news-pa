@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Israel-Iran War LIVE Updates: JD Vance Says No Breakthrough In US-Iran Peace Talks",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Palestinians appalled as Israel approves settlements in occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/palestinians-appalled-as-israel-approves-settlements-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israel-reprimands-spanish-diplomat-over-detonation-of-netanyahu-effigy?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Talks with US to continue for a second day in Islamabad",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss"
+      },
+      {
         "title": "Fury beats Makhmudov in heavyweight boxing comeback, then calls out Joshua",
         "link": "https://www.aljazeera.com/sports/2026/4/11/fury-beats-makhmudov-in-heavyweight-boxing-comeback-then-calls-out-joshua?traffic_source=rss"
       },
       {
         "title": "US President Trump says US ‘wins’ regardless of how Iran talks go",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss"
-      },
-      {
-        "title": "“Diplomacy is not an event, it’s a process, it takes time.”",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/diplomacy-is-not-an-event-its-a-process-it-takes-time?traffic_source=rss"
-      },
-      {
-        "title": "Pope Leo urges world leaders to reject war and negotiate peace",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pope-leo-urges-world-leaders-to-reject-war-and-negotiate-peace?traffic_source=rss"
-      },
-      {
-        "title": "Iraqi parliament elects new president",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/iraqi-parliament-elects-new-president?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,8 @@
     ],
     "Dawn": [
       {
-        "title": "US, Iran search for breakthrough in Islamabad as talks stretch into third round",
-        "link": "https://www.dawn.com/news/1990743/us-iran-search-for-breakthrough-in-islamabad-as-talks-stretch-into-third-round"
+        "title": "Bad News! Agreement not reached with Iran, says Vance",
+        "link": "https://www.dawn.com/news/1990743/bad-news-agreement-not-reached-with-iran-says-vance"
       },
       {
         "title": "Pakistan sends military force, fighter jets to Saudi Arabia",
@@ -101,42 +107,67 @@
         "link": "https://www.nytimes.com/2026/04/11/us/politics/us-navy-warships-strait-of-hormuz-iran-mines.html"
       },
       {
-        "title": "What We Know About the U.S.-Iran Cease-Fire Talks in Pakistan",
-        "link": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-us-ceasefire-talks-negotiations.html"
-      },
-      {
         "title": "NASA’s Artemis II Astronauts Reunite With Friends and Family After 10-Day Moon Mission",
         "link": "https://www.nytimes.com/2026/04/11/science/nasa-artemis-moon-astronauts-houston.html"
       },
       {
-        "title": "Another Giant Leap Reminds Us How Small We Are",
-        "link": "https://www.nytimes.com/2026/04/11/us/artemis-landing-splashdown-moon.html"
+        "title": "Manhattan DA Opens Investigation Into Eric Swalwell After Sexual Assault Allegations",
+        "link": "https://www.nytimes.com/2026/04/11/us/politics/eric-swalwell-california-governor-sexual-misconduct.html"
+      },
+      {
+        "title": "Push to Expel Swalwell Could Touch Off Chain Reaction of House Removal Votes",
+        "link": "https://www.nytimes.com/2026/04/11/us/swalwell-house-removal-votes.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Evening update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-update-30"
+        "title": "Quds Force chief links ceasefire to broader regional groups",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/quds-force-chief-links-ceasefire-broader-regional-groups"
       },
       {
-        "title": "Iranian media: peace talks to continue on Sunday after no agreement reached",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-us-talks-continue-sunday-after-no-agreement-reached-iran-state-tv"
+        "title": "Trump says Iran talks 'make no difference', attends UFC fight in Miami",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-talks-make-no-difference-attends-ufc-fight-miami"
       },
       {
-        "title": "Hezbollah says it fired on Israeli military in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-fired-israeli-military-southern-lebanon"
+        "title": "Ship traffic rises in Hormuz as US-Iran talks continue in Islamabad",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ship-traffic-rises-hormuz-us-iran-talks-continue-islamabad"
       },
       {
-        "title": "Over 500 protestors in London arrested over Palestine Action ban, says Met police",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-500-protestors-london-arrested-over-palestine-action-ban-says-met"
+        "title": "Iran says Islamabad talks involved extensive exchanges on key issues",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-islamabad-talks-involved-extensive-exchanges-key-issues"
       },
       {
-        "title": "US-Iran peace negotiations end after 14 hours but disagreements remain, says Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-peace-negotiations-end-after-14-hours-disagreements-remain-says"
+        "title": "Fighting in Lebanon intensifies with strikes and missile fire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fighting-lebanon-intensifies-strikes-and-missile-fire"
       }
     ],
-    "GeoTV": [],
+    "GeoTV": [
+      {
+        "title": "‘Batman' star John Nolan passes away at 87 as fans mourn his loss",
+        "link": "https://www.geo.tv/latest/659585-batman-star-john-nolan-passes-away-at-87-as-fans-mourn-his-loss"
+      },
+      {
+        "title": "Blake Lively pulls Ryan Reynolds into legal battle update",
+        "link": "https://www.geo.tv/latest/659583-blake-lively-pulls-ryan-reynolds-into-legal-battle-update"
+      },
+      {
+        "title": "Lucy Liu reveals shocking cancer misdiagnosis story",
+        "link": "https://www.geo.tv/latest/659581-lucy-liu-reveals-shocking-cancer-misdiagnosis-story"
+      },
+      {
+        "title": "Noah Wyle hints at deeper issues behind ‘The Pitt' episode edits",
+        "link": "https://www.geo.tv/latest/659580-noah-wyle-hints-at-deeper-issues-behind-the-pitt-episode-edits"
+      },
+      {
+        "title": "Justin Bieber hypes fans up with beloved song ahead of Coachella set",
+        "link": "https://www.geo.tv/latest/659573-justin-bieber-hypes-fans-up-with-beloved-song-ahead-of-coachella-set"
+      }
+    ],
     "NDTV": [
+      {
+        "title": "US-Israel-Iran War LIVE Updates: JD Vance Says No Breakthrough In US-Iran Peace Talks",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
+      },
       {
         "title": "Mob Attacks, Vandalises Hindu Households, Businesses In Bangladesh",
         "link": "https://www.ndtv.com/world-news/mob-attacks-vandalises-hindu-households-businesses-in-bangladesh-11344690#publisher=newsstand"
@@ -152,10 +183,6 @@
       {
         "title": "13 Killed, 30 Injured In Massive Highway Pile-Up In Bihar",
         "link": "https://www.ndtv.com/india-news/10-killed-25-injured-in-massive-highway-pile-up-in-bihar-11344351#publisher=newsstand"
-      },
-      {
-        "title": "Bhopal's Infamous 90-Degree Bridge To Be Redesigned After Months of Outrage",
-        "link": "https://www.ndtv.com/india-news/bhopals-infamous-90-degree-bridge-to-be-redesigned-after-months-of-outrage-11344353#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -181,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-11 23:53 UTC"
+  "last_updated": "2026-04-12 02:06 UTC"
 }
