@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Israel-Iran War LIVE Updates: Trump Says US To Block Hormuz, Threatens China With 50% Tariffs",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Dozens feared dead in air strike on village in northeastern Nigeria",
+        "link": "https://www.aljazeera.com/news/2026/4/12/dozens-feared-dead-in-air-strike-on-village-in-northeastern-nigeria?traffic_source=rss"
+      },
+      {
+        "title": "US media trapped between oligarchy and presidency",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/12/us-media-trapped-between-oligarchy-and-presidency?traffic_source=rss"
+      },
+      {
+        "title": "Man City rout Chelsea 3-0 to close gap on Premier League leaders Arsenal",
+        "link": "https://www.aljazeera.com/sports/2026/4/12/man-city-rout-chelsea-3-0-to-close-gap-on-premier-league-leaders-arsenal?traffic_source=rss"
+      },
+      {
         "title": "Iranian authorities remain defiant, urge supporters to stay in streets",
         "link": "https://www.aljazeera.com/news/2026/4/12/iranian-authorities-remain-defiant-urge-supporters-to-stay-in?traffic_source=rss"
-      },
-      {
-        "title": "Seven ways America can win the ceasefire and end the war",
-        "link": "https://www.aljazeera.com/opinions/2026/4/12/seven-ways-america-can-win-the-ceasefire-and-end-the-war?traffic_source=rss"
-      },
-      {
-        "title": "Video: Severe flooding closes schools in Saudi Arabia",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/video-severe-flooding-closes-schools-in-saudi-arabia?traffic_source=rss"
-      },
-      {
-        "title": "Trump announces Strait of Hormuz blockade after US-Iran peace talks end",
-        "link": "https://www.aljazeera.com/news/2026/4/12/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end?traffic_source=rss"
-      },
-      {
-        "title": "Peru votes for ninth president in less than decade",
-        "link": "https://www.aljazeera.com/news/2026/4/12/peru-votes-for-ninth-president-in-less-than-decade?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,8 +103,8 @@
         "link": "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
       },
       {
-        "title": "The Strait of Hormuz and Iran’s Uranium Stockpiles Were Sticking Points in U.S.-Iran Peace Talks",
-        "link": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html"
+        "title": "Iran’s Top Negotiator Says Talks Failed Because U.S. Failed to Win Trust",
+        "link": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
       },
       {
         "title": "What Now? Vance Leaves Iran Talks Without a Deal.",
@@ -115,27 +121,39 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Netanyahu appoints army general as new Mossad chief",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-appoints-army-general-new-mossad-chief"
+      },
+      {
+        "title": "Iran says goodwill steps advanced US talks, dismisses Trump threats",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-goodwill-steps-advanced-us-talks-dismisses-trump-threats"
+      },
+      {
+        "title": "UN says Israeli tank rammed peacekeeper vehicles in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-israeli-tank-rammed-peacekeeper-vehicles-south-lebanon"
+      },
+      {
         "title": "UK rules out role in Hormuz blockade, backs navigation coalition",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-rules-out-role-hormuz-blockade-backs-navigation-coalition"
       },
       {
         "title": "Israeli lawmaker taunts Trump with apparent call to attack Iran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-lawmaker-taunts-trump-apparent-call-attack-iran"
-      },
-      {
-        "title": "Iran says Hormuz open to civilian vessels, warns military ships",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-hormuz-open-civilian-vessels-warns-military-ships"
-      },
-      {
-        "title": "Iran warns any military ships nearing Strait of Hormuz would breach ceasefire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-any-military-ships-nearing-strait-hormuz-would-breach"
-      },
-      {
-        "title": "How Iran's universities became a target of US-Israeli attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/how-irans-universities-became-target-us-israeli-attacks"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Jacob Elordi, Kendall Jenner spark romance rumours after Coachella outing",
+        "link": "https://www.geo.tv/latest/659676-jacob-elordi-kendall-jenner-spark-romance-rumours-after-coachella-outing"
+      },
+      {
+        "title": "Sinner sinks Alcaraz to win Monte Carlo Masters, returns to No 1",
+        "link": "https://www.geo.tv/latest/659681-sinner-sinks-alcaraz-to-win-monte-carlo-masters-returns-to-no-1"
+      },
+      {
+        "title": "Niall Horan reveals deep meaning behind new single 'Little More Time'",
+        "link": "https://www.geo.tv/latest/659680-niall-horan-reveals-deep-meaning-behind-new-single-little-more-time"
+      },
       {
         "title": "Trump says oil, gas prices may remain high through November midterm election",
         "link": "https://www.geo.tv/latest/659671-trump-says-oil-gas-prices-may-remain-high-through-november-midterm-election"
@@ -143,40 +161,28 @@
       {
         "title": "Andrew's relocation leaves Royal Lodge in ghostly silence",
         "link": "https://www.geo.tv/latest/659677-andrews-relocation-leaves-royal-lodge-in-ghostly-silence"
-      },
-      {
-        "title": "Adele breaks cover at Coachella in surprise appearance",
-        "link": "https://www.geo.tv/latest/659670-adele-makes-rare-appearance-at-coachella"
-      },
-      {
-        "title": "Coachella incident leaves woman injured as fixture crashes down",
-        "link": "https://www.geo.tv/latest/659665-coachella-incident-leaves-woman-injured-as-fixture-crashes-down"
-      },
-      {
-        "title": "Barbie Ferreira reveals why she really left 'Euphoria' after season 2",
-        "link": "https://www.geo.tv/latest/659669-barbie-ferreira-reveals-why-she-really-left-euphoria-after-season-2"
       }
     ],
     "NDTV": [
       {
-        "title": "Trinamool Appeasing \"Tukde Tukde Gang\": In Bengal, PM Invokes National Security",
-        "link": "https://www.ndtv.com/india-news/trinamool-appeasing-tukde-tukde-gang-in-bengal-pm-invokes-national-security-11347921#publisher=newsstand"
+        "title": "US-Israel-Iran War LIVE Updates: Trump Says US To Block Hormuz, Threatens China With 50% Tariffs",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
       },
       {
-        "title": "\"Enemy To Be Trapped In Deadly Vortex\": Iran After Trump's Hormuz Blockade",
-        "link": "https://www.ndtv.com/world-news/iran-war-latest-news-enemy-to-be-trapped-in-deadly-vortex-irans-retort-after-trump-blockade-11347748#publisher=newsstand"
+        "title": "Bengaluru Fitness Trainer Dies By Suicide, Family Alleges Blackmail By Married Woman",
+        "link": "https://www.ndtv.com/bangalore-news/bengaluru-fitness-trainer-dies-by-suicide-family-alleges-blackmail-by-married-woman-11348140#publisher=newsstand"
       },
       {
-        "title": "PM Modi To Address Special Conference In Delhi Ahead Of Women's Quota Bill",
-        "link": "https://www.ndtv.com/india-news/pm-modi-to-address-special-conference-in-delhi-ahead-of-womens-quota-bill-11347693#publisher=newsstand"
+        "title": "India's Aggressive Energy Diplomacy In Middle East To Restore Oil Imports",
+        "link": "https://www.ndtv.com/india-news/indias-aggressive-energy-diplomacy-in-middle-east-to-restore-oil-imports-11348304#publisher=newsstand"
       },
       {
-        "title": "Trump Watched Fist Fights At UFC As US, Iran Wrestled At Peace Talks",
-        "link": "https://www.ndtv.com/world-news/trump-watched-fist-fights-at-ufc-as-us-iran-wrestled-at-peace-talks-11347838#publisher=newsstand"
+        "title": "Noida Workers To Get Double Overtime Pay, Control Room Set Up",
+        "link": "https://www.ndtv.com/india-news/noida-workers-to-get-double-overtime-pay-control-room-set-up-11348077#publisher=newsstand"
       },
       {
-        "title": "While US-Iran Talked Peace In Pak, A Netanyahu Phone Call Changed Everything",
-        "link": "https://www.ndtv.com/world-news/while-us-iran-talked-peace-in-pak-a-netanyahu-phone-call-changed-everything-11347738#publisher=newsstand"
+        "title": "Tributes Pour In For Ali Khamenei At Iran Culture House In Delhi",
+        "link": "https://www.ndtv.com/india-news/israel-iran-war-tributes-pour-in-for-ali-khamenei-at-iran-culture-house-in-delhi-11348259#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-12 18:27 UTC"
+  "last_updated": "2026-04-12 19:22 UTC"
 }
