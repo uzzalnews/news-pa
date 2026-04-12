@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Chelsea vs Manchester City – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/12/live-chelsea-vs-manchester-city-premier-league-football?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "US-Iran talks ending without deal disappointing, Streeting says",
-        "link": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
-        "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss"
+        "title": "After Iran talks falter, the big question is 'what happens next?'",
+        "link": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Woman raped by several men outside church",
         "link": "https://www.bbc.com/news/articles/crk18mke8gjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Golden eagles to return to English skies as government backs reintroduction",
-        "link": "https://www.bbc.com/news/articles/cje4zlxqkqdo?at_medium=RSS&at_campaign=rss"
+        "title": "Murder charge over Primrose Hill stabbing",
+        "link": "https://www.bbc.com/news/articles/cx2dgmz20p1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Eamonn Holmes 'doing OK' after stroke, his son says",
-        "link": "https://www.bbc.com/news/articles/c4gdlg7je4po?at_medium=RSS&at_campaign=rss"
+        "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+        "link": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Balamory is back - Miss Hoolie and PC Plum lift the lid on what to expect",
+        "link": "https://www.bbc.com/news/articles/cjenek89l97o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Who is running US foreign policy? Varsha Gandikota and Jeremy Scahill",
-        "link": "https://www.aljazeera.com/video/reframe/2026/4/12/who-is-running-us-foreign-policy-varsha-gandikota-and-jeremy-scahill?traffic_source=rss"
+        "title": "Explaining Benin’s presidential election",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/explaining-benins-presidential-election?traffic_source=rss"
       },
       {
-        "title": "Israeli army raids across the occupied West Bank overnight",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/israeli-army-raids-across-the-occupied-west-bank-overnight?traffic_source=rss"
+        "title": "Lessons from the Iran war",
+        "link": "https://www.aljazeera.com/opinions/2026/4/12/lessons-from-the-iran-war?traffic_source=rss"
       },
       {
-        "title": "Benin holds presidential election amid deteriorating security situation",
-        "link": "https://www.aljazeera.com/news/2026/4/12/benin-holds-presidential-election-amid-deteriorating-security-situation?traffic_source=rss"
+        "title": "Ukraine and Russia accuse each other of breaching Easter ceasefire",
+        "link": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss"
       },
       {
-        "title": "Union Berlin’s Marie-Louise Eta becomes first female manager of men’s team",
-        "link": "https://www.aljazeera.com/sports/2026/4/12/union-berlins-marie-louise-eta-becomes-first-woman-manager-of-mens-team?traffic_source=rss"
+        "title": "US-Iran ceasefire talks: What are the key sticking points?",
+        "link": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points?traffic_source=rss"
       },
       {
-        "title": "Saudi Arabia says key oil pipeline back to full capacity after attacks",
-        "link": "https://www.aljazeera.com/economy/2026/4/12/saudi-arabia-says-key-oil-pipeline-back-to-full-capacity-after-attacks?traffic_source=rss"
+        "title": "LIVE: Chelsea vs Manchester City – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/12/live-chelsea-vs-manchester-city-premier-league-football?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "Trump says US to soon begin naval blockade of Strait of Hormuz",
+        "link": "https://www.dawn.com/news/1991096/trump-says-us-to-soon-begin-naval-blockade-of-strait-of-hormuz"
+      },
+      {
         "title": "Dar urges US, Iran to uphold commitment to ceasefire as talks conclude without deal",
         "link": "https://www.dawn.com/news/1990743/dar-urges-us-iran-to-uphold-commitment-to-ceasefire-as-talks-conclude-without-deal"
       },
@@ -82,12 +92,8 @@
         "link": "https://www.dawn.com/news/1991077/at-least-two-members-of-quettas-hazara-community-killed-in-firing-incident"
       },
       {
-        "title": "Riyadh, Doha to provide $5bn lifeline to Islamabad",
-        "link": "https://www.dawn.com/news/1990932/riyadh-doha-to-provide-5bn-lifeline-to-islamabad"
-      },
-      {
-        "title": "Pakistan sends military force, fighter jets to Saudi Arabia",
-        "link": "https://www.dawn.com/news/1990849/pakistan-sends-military-force-fighter-jets-to-saudi-arabia"
+        "title": "China offers incentives to Taiwan following opposition leader’s visit",
+        "link": "https://www.dawn.com/news/1991085/china-offers-incentives-to-taiwan-following-opposition-leaders-visit"
       }
     ],
     "APNews": [],
@@ -115,46 +121,46 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Hezbollah claims attack on Israeli military vehicle in West Bank",
+        "title": "Trump says US military is 'locked and loaded' to 'finish up' Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-military-locked-and-loaded-finish-iran"
+      },
+      {
+        "title": "Trump says US will 'blockade all ships entering or leaving Hormuz'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-will-blockade-all-ships-entering-or-leaving-hormuz"
+      },
+      {
+        "title": "How Iran's universities became a target of US-Israeli attacks",
+        "link": "https://www.middleeasteye.net/news/how-iran-universities-became-target-us-israeli-attacks"
+      },
+      {
+        "title": "Putin says he is ready to help mediate peace efforts",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/putin-says-ready-help-mediate-peace-efforts"
+      },
+      {
+        "title": "Hezbollah claims attack on Israeli military vehicle in occupied West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-attack-israeli-military-vehicle-west-bank"
-      },
-      {
-        "title": "Tucker Carlson slams UK's Palestine Action ban, calls Keir Starmer 'enslaved'",
-        "link": "https://www.middleeasteye.net/news/tucker-carlson-slams-uks-palestine-action-ban-says-keir-starmer-enslaved"
-      },
-      {
-        "title": "UK-Israel attacks killed 3,375 people, Iran says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-israel-attacks-killed-3375-people-iran-says"
-      },
-      {
-        "title": "Ben Gvir visits Al-Aqsa Mosque complex, says 'I feel like the owner'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-visits-al-aqsa-compound-says-i-feel-owner"
-      },
-      {
-        "title": "Israeli energy minister calls for bombing Lebanese civilian infrastructure",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-energy-minister-calls-bombing-lebanese-civilian-infrastructure"
       }
     ],
     "GeoTV": [
       {
-        "title": "US 'unable' to gain Tehran's trust in Islamabad Talks, says Iran's parliament speaker",
-        "link": "https://www.geo.tv/latest/659632-us-unable-to-gain-tehrans-trust-in-islamabad-talks-says-irans-parliament-speaker"
+        "title": "Colman Domingo's SNL debut packed with ‘Euphoria' jokes, wild sketches",
+        "link": "https://www.geo.tv/latest/659645-colman-domingos-snl-debut-packed-with-euphoria-jokes-wild-sketches"
       },
       {
-        "title": "Kate Middleton gives ultimatum to Harry after Meghan's 'calculated' moveÂ",
-        "link": "https://www.geo.tv/latest/659627-kate-middleton-gives-ultimatum-to-harry-after-meghans-calculated-move"
+        "title": "PSL 11: Hyderabad Kingsmen win toss, opt to bowl first against Islamabad United",
+        "link": "https://www.geo.tv/latest/659642-psl-11-hyderabad-kingsmen-win-toss-opt-to-bowl-first-against-islamabad-united"
       },
       {
-        "title": "Katy Perry reacts to Justin Bieber's unexpected Coachella twist",
-        "link": "https://www.geo.tv/latest/659625-katy-perry-reacts-to-justin-biebers-unexpected-coachella-twist"
+        "title": "Justin Bieber blasted for 'low effort' Coachella headline set",
+        "link": "https://www.geo.tv/latest/659630-justin-bieber-blasted-for-low-effort-coachella-headline-set"
       },
       {
-        "title": "'Euphoria' season 3: Episode list, release schedule, and more details",
-        "link": "https://www.geo.tv/latest/659629-euphoria-season-3-episode-list-release-schedule-and-more-details"
+        "title": "Palace reaction over Prince Harry, Meghan Markle huge announcement of 2026",
+        "link": "https://www.geo.tv/latest/659633-palace-reaction-over-prince-harry-meghan-markle-huge-announcement-of-2026"
       },
       {
-        "title": "Queen Camilla forced to give up royal privilege to avoid new row with Kate",
-        "link": "https://www.geo.tv/latest/659626-queen-camilla-forced-to-give-up-royal-privilege-to-avoid-new-row-with-kate"
+        "title": "Cillian Murphy sparks buzz amid Harry Potter rumours",
+        "link": "https://www.geo.tv/latest/659638-cillian-murphy-sparks-buzz-amid-harry-potter-rumours"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-12 12:27 UTC"
+  "last_updated": "2026-04-12 13:41 UTC"
 }
