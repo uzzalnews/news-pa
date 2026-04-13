@@ -1,6 +1,11 @@
 {
   "breaking": [
     {
+      "source": "GeoTV",
+      "title": "Bryan Cranston sides with ‘Breaking Bad' wife Skyler amid fans' criticism",
+      "link": "https://www.geo.tv/latest/659693-bryan-cranston-sides-with-breaking-bad-wife-skyler-amid-fans-criticism"
+    },
+    {
       "source": "NDTV",
       "title": "US-Israel-Iran War LIVE Updates: Trump Says US To Block Hormuz, Threatens China With 50% Tariffs",
       "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
@@ -9,8 +14,16 @@
   "news": {
     "BBC": [
       {
-        "title": "'A truly historic moment': BBC reports from Hungary as Péter Magyar set to become new PM",
-        "link": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&at_campaign=rss"
+        "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+        "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'A truly historic moment': Hungarian opposition wins election landslide",
+        "link": "https://www.bbc.co.uk/programmes/p0nd186m?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "McIlroy proves he really is free by defending Masters title",
+        "link": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Swinney says Scottish independence referendum could be held in 2028",
@@ -19,17 +32,17 @@
       {
         "title": "Deep-fried food banned in new plans for school dinners",
         "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Olivier Awards 2026: Rachel Zegler's heroes, Brian Cranston's nap schedule and more moments from the night",
-        "link": "https://www.bbc.com/news/articles/c78rjxj19mno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The surprising reality of how teenage girls still define themselves",
-        "link": "https://www.bbc.com/news/articles/c62je1g000eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US military threatens to blockade all Iranian ports starting on Monday",
+        "link": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US military says it will block Iranian traffic in Hormuz",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss"
+      },
       {
         "title": "Peter Magyar says his election win has ‘liberated Hungary’ from Orban",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/peter-magyar-says-his-election-win-has-liberated-hungary-from-orban?traffic_source=rss"
@@ -39,16 +52,8 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss"
       },
       {
-        "title": "Abuse allegations against lead Democrat shake race for California governor",
+        "title": "Eric Swalwell exits California governor race after sex assault allegations",
         "link": "https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor?traffic_source=rss"
-      },
-      {
-        "title": "Nigerian artisans preserve handwoven fabric amid rising global demand",
-        "link": "https://www.aljazeera.com/gallery/2026/4/12/nigerian-artisans-preserve-handwoven-fabric-amid-rising-global-demand?traffic_source=rss"
-      },
-      {
-        "title": "Could the Iran war pose lasting risks to global food security?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/4/12/could-the-iran-war-pose-lasting-risks-to-global-food-security?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,27 +126,35 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "'Game on’: How Iran can exact a toll in the Strait of Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/game-how-iran-can-exact-toll-strait-hormuz-0"
+        "title": "Israel kills Red Cross paramedic in air strike in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-red-cross-paramedic-air-strike-south-lebanon"
       },
       {
-        "title": "Oil tops $100 after US-Iran talks collapse",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-tops-100-after-us-iran-talks-collapse"
+        "title": "Australia’s Albanese says US has not requested help with blockade",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/australias-albanese-says-us-has-not-requested-help-blockade"
       },
       {
-        "title": "Trump weighs renewed strikes on Iran after talks collapse",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-weighs-renewed-strikes-iran-after-talks-collapse"
+        "title": "Conflicting US statements cloud blockade details as Centcom differs with Trump",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/conflicting-us-statements-cloud-blockade-details-centcom-differs-trump"
       },
       {
-        "title": "Iran says talks were ‘two steps away’ from a deal before US ‘intransigence’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-talks-were-two-steps-away-deal-us-intransigence"
+        "title": "WSJ: Trump open to diplomacy despite Hormuz blockade move",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/wsj-trump-open-diplomacy-despite-hormuz-blockade-move"
       },
       {
-        "title": "Iran navy chief mocks Trump Hormuz blockade threat as ‘ridiculous’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-navy-chief-mocks-trump-hormuz-blockade-threat-ridiculous"
+        "title": "Australia’s Albanese calls for return to negotiations to end conflict",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/australias-albanese-calls-return-negotiations-end-conflict"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Bryan Cranston sides with ‘Breaking Bad' wife Skyler amid fans' criticism",
+        "link": "https://www.geo.tv/latest/659693-bryan-cranston-sides-with-breaking-bad-wife-skyler-amid-fans-criticism"
+      },
+      {
+        "title": "Britney Spears life update: Rehab after DUI arrest",
+        "link": "https://www.geo.tv/latest/659692-britney-spears-life-update-rehab-after-dui-arrest"
+      },
       {
         "title": "Lauren Sánchez, Jeff Bezos drop bombshell baby news",
         "link": "https://www.geo.tv/latest/659691-lauren-snchez-jeff-bezos-drop-bombshell-baby-plans"
@@ -153,14 +166,6 @@
       {
         "title": "Pete Davidson shares bad habit comic left after daughter's birth",
         "link": "https://www.geo.tv/latest/659684-pete-davidson-shares-bad-habit-comic-left-after-daughters-birth"
-      },
-      {
-        "title": "Jacob Elordi, Kendall Jenner spark romance rumours after Coachella outing",
-        "link": "https://www.geo.tv/latest/659676-jacob-elordi-kendall-jenner-spark-romance-rumours-after-coachella-outing"
-      },
-      {
-        "title": "Sinner sinks Alcaraz to win Monte Carlo Masters, returns to No 1",
-        "link": "https://www.geo.tv/latest/659681-sinner-sinks-alcaraz-to-win-monte-carlo-masters-returns-to-no-1"
       }
     ],
     "NDTV": [
@@ -208,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-12 23:49 UTC"
+  "last_updated": "2026-04-13 01:11 UTC"
 }
