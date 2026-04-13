@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 1,000 Points, Nifty Down 300 As Oil Prices Hit $102",
+      "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-13-april-us-iran-israel-war-oil-prices-donald-trump-11348859#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,8 +21,8 @@
         "link": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Swinney says Scottish independence referendum could be held in 2028",
-        "link": "https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&at_campaign=rss"
+        "title": "Rory McIlroy defends Masters title, underlining why he is one of golf's greats",
+        "link": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "The surprising reality of how teenage girls still define themselves",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Sinner beats Alcaraz in straight sets to win Monte Carlo; reclaim No.1 spot",
+        "link": "https://www.aljazeera.com/sports/2026/4/13/sinner-beats-alcaraz-in-straight-sets-to-win-monte-carlo-reclaim-no-1-spot?traffic_source=rss"
+      },
+      {
+        "title": "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal",
+        "link": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss"
+      },
+      {
+        "title": "Viktor Orban swept from power after 16 years ruling Hungary",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/viktor-orban-swept-from-power-after-16-years-ruling-hungary?traffic_source=rss"
+      },
+      {
         "title": "Rory McIlroy wins Masters to become fourth back-to-back champion",
         "link": "https://www.aljazeera.com/sports/2026/4/13/rory-mcilroy-wins-masters-to-become-fourth-back-to-back-champion?traffic_source=rss"
       },
       {
         "title": "Oil prices surge past $103 a barrel after US announces blockade of Iran",
         "link": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss"
-      },
-      {
-        "title": "US military threatens to blockade all Iranian ports starting on Monday",
-        "link": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: US military says it will block Iranian traffic in Hormuz",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait?traffic_source=rss"
-      },
-      {
-        "title": "Peter Magyar says his election win has ‘liberated Hungary’ from Orban",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/peter-magyar-says-his-election-win-has-liberated-hungary-from-orban?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,14 @@
     ],
     "Dawn": [
       {
+        "title": "US military to begin blockade of Iranian ports on Monday",
+        "link": "https://www.dawn.com/news/1991295/us-military-to-begin-blockade-of-iranian-ports-on-monday"
+      },
+      {
+        "title": "Aurangzeb arrives in Washington for IMF, World Bank spring meetings",
+        "link": "https://www.dawn.com/news/1991299/aurangzeb-arrives-in-washington-for-imf-world-bank-spring-meetings"
+      },
+      {
         "title": "Gas supply to power sector may double amid LNG shortfall",
         "link": "https://www.dawn.com/news/1991162/gas-supply-to-power-sector-may-double-amid-lng-shortfall"
       },
@@ -80,14 +94,6 @@
       {
         "title": "Fashion brands in Lahore ‘ignore’ labour rights violations in textile recycling sector",
         "link": "https://www.dawn.com/news/1991248/fashion-brands-in-lahore-ignore-labour-rights-violations-in-textile-recycling-sector"
-      },
-      {
-        "title": "Iran ‘will not bow to any threats’, Ghalibaf declares",
-        "link": "https://www.dawn.com/news/1991174/iran-will-not-bow-to-any-threats-ghalibaf-declares"
-      },
-      {
-        "title": "Over 500 held at pro-Palestinian rally in UK",
-        "link": "https://www.dawn.com/news/1991169/over-500-held-at-pro-palestinian-rally-in-uk"
       }
     ],
     "APNews": [],
@@ -115,71 +121,75 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Video: Participants demand action from leaders as Flotilla sets sail",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-participants-demand-action-leaders-flotilla-sets-sail"
+        "title": "Iran says 77 historic sites damaged in strikes on Tehran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-77-historic-sites-damaged-strikes-tehran"
       },
       {
-        "title": "Activists announce ‘Freedom Fleet 2’ to Gaza from European ports",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/activists-announce-freedom-fleet-2-gaza-european-ports"
+        "title": "Trump says US spending on Nato under ‘serious examination’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-spending-nato-under-serious-examination"
       },
       {
-        "title": "Over 6,500 wounded in Lebanon, death toll climbs amid relentless Israeli attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-6500-wounded-lebanon-death-toll-climbs-amid-relentless-israeli"
+        "title": "IRGC: Military vessels approaching Hormuz constitute 'breach of ceasefire'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-military-vessels-approaching-hormuz-constitute-breach-ceasefire"
       },
       {
-        "title": "Shipping halts in Hormuz after US blockade announcement",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/shipping-halts-hormuz-after-us-blockade-announcement"
+        "title": "Saudi Arabia restores East-West pipeline, Manifa output after Hormuz disruption",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-restores-east-west-pipeline-manifa-output-after-hormuz"
       },
       {
-        "title": "'Leo should get his act together': Trump attacks Pope over Iran comments",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/leo-should-get-his-act-together-trump-attacks-pope-over-iran-comments"
+        "title": "US Senator calls Trump’s attack on pope ‘abhorrent’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-calls-trumps-attack-pope-abhorrent"
       }
     ],
     "GeoTV": [
       {
-        "title": "Trump attacks Pope Leo, calling him 'terrible' for foreign policy and 'weak' on crime",
-        "link": "https://www.geo.tv/latest/659698-trump-attacks-pope-leo-calling-him-terrible-for-foreign-policy-and-weak-on-crime"
+        "title": "George, Charlotte, Louis receive delightful title in Archie, Lilibet absence",
+        "link": "https://www.geo.tv/latest/659709-george-charlotte-louis-receive-delightful-title-in-archie-lilibet-absence"
       },
       {
-        "title": "The law is failing the environment",
-        "link": "https://www.geo.tv/latest/659699-the-law-is-failing-the-environment"
+        "title": "Katy Perry, Justin Trudeau get cozy at Coachella",
+        "link": "https://www.geo.tv/latest/659714-katy-perry-justin-trudeau-get-cozy-at-coachella"
       },
       {
-        "title": "Sabrina Carpenter apologises for calling out Arabic fan mid Coachella",
-        "link": "https://www.geo.tv/latest/659697-sabrina-carpenter-apologises-for-calling-out-arabic-fan-mid-coachella"
+        "title": "Karachi matric exams marred by leaks, bribery, shifting centres chaos",
+        "link": "https://www.geo.tv/latest/659713-karachi-matric-exams-marred-by-leaks-bribery-shifting-centres-chaos"
       },
       {
-        "title": "Crude oil shoots up 8% above $100 on peace talks deadlock, Trump naval blockade plans",
-        "link": "https://www.geo.tv/latest/659696-oil-shoots-up-8-past-100-on-peace-talks-deadlock-us-naval-blockade-plans"
+        "title": "Palace left in shock as Prince William cancels grand ceremony",
+        "link": "https://www.geo.tv/latest/659711-palace-left-in-shock-as-prince-william-cancels-grand-ceremony"
       },
       {
-        "title": "How Justin Baldoni lawsuit has ‘ruined' Blake Lively?",
-        "link": "https://www.geo.tv/latest/659695-how-justin-baldoni-lawsuit-has-ruined-blake-lively"
+        "title": "Pakistan 'pushes' for fresh US-Iran talks before ceasefire deadline",
+        "link": "https://www.geo.tv/latest/659708-pakistan-pushes-for-fresh-us-iran-talks-before-ceasefire-deadline"
       }
     ],
     "NDTV": [
       {
-        "title": "'f(f(O))>f(O)': Iran's 'Mathematical' Warning To US After Hormuz Blockade",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-news-iran-mb-ghalibaf-oil-prices-nostalgia-warning-after-trumps-hormuz-blockade-threat-11348862#publisher=newsstand"
+        "title": "College Students Wanted Lavish Life. They Kidnapped Classmate With Fake Gun",
+        "link": "https://www.ndtv.com/bangalore-news/bengaluru-college-students-wanted-lavish-life-they-kidnapped-classmate-with-fake-gun-11349514#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Failed Iran-US Talks Show Limits Of Pakistan's Peace Push",
-        "link": "https://www.ndtv.com/opinion/failed-iran-us-talks-show-limits-of-pakistans-peace-push-11349044#publisher=newsstand"
+        "title": "Got Rs 100 To Invest? Here's How To Split It Between Shares, Gold And FD",
+        "link": "https://www.ndtv.com/india-news/stock-market-investment-shares-gold-silver-fixed-deposit-rd-iran-war-us-wealth-management-11348992#publisher=newsstand"
       },
       {
-        "title": "Cash-Strapped Pak To Receive $5 Billion Financial Aid From Saudi, Qatar",
-        "link": "https://www.ndtv.com/world-news/cash-strapped-pakistan-to-receive-5-billion-financial-aid-from-saudi-arabia-qatar-11346422#publisher=newsstand"
+        "title": "Cars Burnt, Roads Blocked: Haryana Move Sparks Noida Workers' Protest",
+        "link": "https://www.ndtv.com/india-news/noida-workers-protest-phase-2-vehicles-burnt-stones-thrown-as-noida-workers-protest-for-better-pay-11349392#publisher=newsstand"
       },
       {
-        "title": "US-Iran Talks Failed \"Inches Away\" From Deal In Islamabad. Tehran Tells Why",
-        "link": "https://www.ndtv.com/world-news/us-iran-talks-failed-inches-away-from-deal-in-islamabad-tehran-tells-why-11349024#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 1,000 Points, Nifty Down 300 As Oil Prices Hit $102",
+        "link": "https://www.ndtv.com/india-news/stock-market-sensex-share-market-nifty-live-updates-today-13-april-us-iran-israel-war-oil-prices-donald-trump-11348859#publisher=newsstand"
       },
       {
-        "title": "\"Very Extraordinary Men\": Trump Praises Pak's Shehbaz Sharif, Asim Munir",
-        "link": "https://www.ndtv.com/world-news/donald-trump-praises-pakistans-shehbaz-sharif-asim-munir-after-us-iran-talks-calls-them-very-extraordinary-men-11348910#publisher=newsstand"
+        "title": "Investors Lose Rs 4 Lakh Crore: Three Reasons Behind Market Crash Today",
+        "link": "https://www.ndtv.com/india-news/stock-market-investment-sensex-nifty-crash-today-us-iran-peace-talks-oil-prices-11349481#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "‘This scene is alive’: Abidjan art week showcases city as growing cultural hub",
+        "link": "https://www.theguardian.com/world/2026/apr/13/abidjan-art-week-cote-d-ivoire-culture"
+      },
       {
         "title": "Nigerian airstrike targeting jihadists reportedly kills at least 100 civilians",
         "link": "https://www.theguardian.com/world/2026/apr/12/nigeria-airstrike-market-yobe-state-boko-haram"
@@ -195,12 +205,8 @@
       {
         "title": "Prince Harry sued for defamation by charity he co-founded",
         "link": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale"
-      },
-      {
-        "title": "Four men deported by US to Eswatini have right to see lawyer, court rules",
-        "link": "https://www.theguardian.com/us-news/2026/apr/10/trump-administration-deport-men-eswatini-court-rule"
       }
     ]
   },
-  "last_updated": "2026-04-13 04:30 UTC"
+  "last_updated": "2026-04-13 06:33 UTC"
 }
