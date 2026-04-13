@@ -1,16 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "GeoTV",
-      "title": "Bryan Cranston sides with ‘Breaking Bad' wife Skyler amid fans' criticism",
-      "link": "https://www.geo.tv/latest/659693-bryan-cranston-sides-with-breaking-bad-wife-skyler-amid-fans-criticism"
-    },
-    {
-      "source": "NDTV",
-      "title": "US-Israel-Iran War LIVE Updates: Trump Says US To Block Hormuz, Threatens China With 50% Tariffs",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -18,23 +7,31 @@
         "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'A truly historic moment': Hungarian opposition wins election landslide",
-        "link": "https://www.bbc.co.uk/programmes/p0nd186m?at_medium=RSS&at_campaign=rss"
+        "title": "Viktor Orbán's Hungarian experiment runs out of steam",
+        "link": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "McIlroy proves he really is free by defending Masters title",
-        "link": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&at_campaign=rss"
+        "title": "UK could adopt EU single market rules under new legislation",
+        "link": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Swinney says Scottish independence referendum could be held in 2028",
         "link": "https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Deep-fried food banned in new plans for school dinners",
-        "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss"
+        "title": "The surprising reality of how teenage girls still define themselves",
+        "link": "https://www.bbc.com/news/articles/c62je1g000eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Rory McIlroy wins Masters to become fourth back-to-back champion",
+        "link": "https://www.aljazeera.com/sports/2026/4/13/rory-mcilroy-wins-masters-to-become-fourth-back-to-back-champion?traffic_source=rss"
+      },
+      {
+        "title": "Oil prices surge past $103 a barrel after US announces blockade of Iran",
+        "link": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss"
+      },
       {
         "title": "US military threatens to blockade all Iranian ports starting on Monday",
         "link": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss"
@@ -46,14 +43,6 @@
       {
         "title": "Peter Magyar says his election win has ‘liberated Hungary’ from Orban",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/peter-magyar-says-his-election-win-has-liberated-hungary-from-orban?traffic_source=rss"
-      },
-      {
-        "title": "These are people Israel killed in Lebanon on a single day",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss"
-      },
-      {
-        "title": "Eric Swalwell exits California governor race after sex assault allegations",
-        "link": "https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -81,24 +70,24 @@
     ],
     "Dawn": [
       {
-        "title": "After Trump’s blockade announcement, IRGC says will view military vessels approaching Hormuz as ceasefire breach",
-        "link": "https://www.dawn.com/news/1991096/after-trumps-blockade-announcement-irgc-says-will-view-military-vessels-approaching-hormuz-as-ceasefire-breach"
+        "title": "Gas supply to power sector may double amid LNG shortfall",
+        "link": "https://www.dawn.com/news/1991162/gas-supply-to-power-sector-may-double-amid-lng-shortfall"
       },
       {
-        "title": "Dar briefs Turkish, Saudi, Egyptian FMs on Islamabad Talks, reaffirms support for diplomacy and dialogue",
-        "link": "https://www.dawn.com/news/1991120/dar-briefs-turkish-saudi-egyptian-fms-on-islamabad-talks-reaffirms-support-for-diplomacy-and-dialogue"
+        "title": "Four officials hurt as Afghan residents clash with police in Islamabad",
+        "link": "https://www.dawn.com/news/1991159/four-officials-hurt-as-afghan-residents-clash-with-police-in-islamabad"
       },
       {
-        "title": "Israeli minister storms Al Aqsa Mosque again amid restrictions on worshippers",
-        "link": "https://www.dawn.com/news/1991141/israeli-minister-storms-al-aqsa-mosque-again-amid-restrictions-on-worshippers"
+        "title": "Fashion brands in Lahore ‘ignore’ labour rights violations in textile recycling sector",
+        "link": "https://www.dawn.com/news/1991248/fashion-brands-in-lahore-ignore-labour-rights-violations-in-textile-recycling-sector"
       },
       {
-        "title": "Viktor Orban concedes ‘painful’ defeat to conservative Peter Magyar in Hungary polls",
-        "link": "https://www.dawn.com/news/1991135/viktor-orban-concedes-painful-defeat-to-conservative-peter-magyar-in-hungary-polls"
+        "title": "Iran ‘will not bow to any threats’, Ghalibaf declares",
+        "link": "https://www.dawn.com/news/1991174/iran-will-not-bow-to-any-threats-ghalibaf-declares"
       },
       {
-        "title": "Dar urges US, Iran to uphold commitment to ceasefire as talks conclude without deal",
-        "link": "https://www.dawn.com/news/1990743/dar-urges-us-iran-to-uphold-commitment-to-ceasefire-as-talks-conclude-without-deal"
+        "title": "Over 500 held at pro-Palestinian rally in UK",
+        "link": "https://www.dawn.com/news/1991169/over-500-held-at-pro-palestinian-rally-in-uk"
       }
     ],
     "APNews": [],
@@ -106,6 +95,10 @@
       {
         "title": "Hungary Election Results: Viktor Orban Concedes Defeat and Congratulates Peter Magyar",
         "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
+      },
+      {
+        "title": "Orban Loss May Ease Hungary’s Tensions with European Union",
+        "link": "https://www.nytimes.com/2026/04/13/world/europe/hungary-eu-orban-magyar.html"
       },
       {
         "title": "Who Is Peter Magyar, the Man Who Toppled Hungary’s Orban",
@@ -116,78 +109,74 @@
         "link": "https://www.nytimes.com/2026/04/10/world/europe/hungary-corruption-orban-magyar-election.html"
       },
       {
-        "title": "How JD Vance Tried and Failed to End the War in Iran That He Opposed",
-        "link": "https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html"
-      },
-      {
-        "title": "Iran’s Top Negotiator Says Talks Failed Because U.S. Failed to Win Trust",
-        "link": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
+        "title": "China’s Electrostate Is Poised to Win From War in the Middle East",
+        "link": "https://www.nytimes.com/2026/04/13/business/energy-environment/china-energy-battery-grid.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israel kills Red Cross paramedic in air strike in south Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-red-cross-paramedic-air-strike-south-lebanon"
+        "title": "Video: Participants demand action from leaders as Flotilla sets sail",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-participants-demand-action-leaders-flotilla-sets-sail"
       },
       {
-        "title": "Australia’s Albanese says US has not requested help with blockade",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/australias-albanese-says-us-has-not-requested-help-blockade"
+        "title": "Activists announce ‘Freedom Fleet 2’ to Gaza from European ports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/activists-announce-freedom-fleet-2-gaza-european-ports"
       },
       {
-        "title": "Conflicting US statements cloud blockade details as Centcom differs with Trump",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/conflicting-us-statements-cloud-blockade-details-centcom-differs-trump"
+        "title": "Over 6,500 wounded in Lebanon, death toll climbs amid relentless Israeli attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-6500-wounded-lebanon-death-toll-climbs-amid-relentless-israeli"
       },
       {
-        "title": "WSJ: Trump open to diplomacy despite Hormuz blockade move",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/wsj-trump-open-diplomacy-despite-hormuz-blockade-move"
+        "title": "Shipping halts in Hormuz after US blockade announcement",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/shipping-halts-hormuz-after-us-blockade-announcement"
       },
       {
-        "title": "Australia’s Albanese calls for return to negotiations to end conflict",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/australias-albanese-calls-return-negotiations-end-conflict"
+        "title": "'Leo should get his act together': Trump attacks Pope over Iran comments",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/leo-should-get-his-act-together-trump-attacks-pope-over-iran-comments"
       }
     ],
     "GeoTV": [
       {
-        "title": "Bryan Cranston sides with ‘Breaking Bad' wife Skyler amid fans' criticism",
-        "link": "https://www.geo.tv/latest/659693-bryan-cranston-sides-with-breaking-bad-wife-skyler-amid-fans-criticism"
+        "title": "Trump attacks Pope Leo, calling him 'terrible' for foreign policy and 'weak' on crime",
+        "link": "https://www.geo.tv/latest/659698-trump-attacks-pope-leo-calling-him-terrible-for-foreign-policy-and-weak-on-crime"
       },
       {
-        "title": "Britney Spears life update: Rehab after DUI arrest",
-        "link": "https://www.geo.tv/latest/659692-britney-spears-life-update-rehab-after-dui-arrest"
+        "title": "The law is failing the environment",
+        "link": "https://www.geo.tv/latest/659699-the-law-is-failing-the-environment"
       },
       {
-        "title": "Lauren Sánchez, Jeff Bezos drop bombshell baby news",
-        "link": "https://www.geo.tv/latest/659691-lauren-snchez-jeff-bezos-drop-bombshell-baby-plans"
+        "title": "Sabrina Carpenter apologises for calling out Arabic fan mid Coachella",
+        "link": "https://www.geo.tv/latest/659697-sabrina-carpenter-apologises-for-calling-out-arabic-fan-mid-coachella"
       },
       {
-        "title": "‘Pigeon-Holed' Scarlett Johansson reflects on typecasting in early career",
-        "link": "https://www.geo.tv/latest/659686-pigeon-holed-scarlett-johansson-reflects-on-typecasting-in-early-career"
+        "title": "Crude oil shoots up 8% above $100 on peace talks deadlock, Trump naval blockade plans",
+        "link": "https://www.geo.tv/latest/659696-oil-shoots-up-8-past-100-on-peace-talks-deadlock-us-naval-blockade-plans"
       },
       {
-        "title": "Pete Davidson shares bad habit comic left after daughter's birth",
-        "link": "https://www.geo.tv/latest/659684-pete-davidson-shares-bad-habit-comic-left-after-daughters-birth"
+        "title": "How Justin Baldoni lawsuit has ‘ruined' Blake Lively?",
+        "link": "https://www.geo.tv/latest/659695-how-justin-baldoni-lawsuit-has-ruined-blake-lively"
       }
     ],
     "NDTV": [
       {
-        "title": "Hungary's Viktor Orban, A Trump Ally, Loses Polls After 16 Years In Power",
-        "link": "https://www.ndtv.com/world-news/hungarys-viktor-orban-a-trump-ally-loses-polls-after-16-years-in-power-11348436#publisher=newsstand"
+        "title": "'f(f(O))>f(O)': Iran's 'Mathematical' Warning To US After Hormuz Blockade",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-iran-mb-ghalibaf-oil-prices-nostalgia-warning-after-trumps-hormuz-blockade-threat-11348862#publisher=newsstand"
       },
       {
-        "title": "Armed Men Kill 3 Pakistani Coast Guards In Arabian Sea",
-        "link": "https://www.ndtv.com/world-news/armed-men-kill-3-pakistani-coast-guards-in-arabian-sea-11348354#publisher=newsstand"
+        "title": "Opinion: Opinion | Failed Iran-US Talks Show Limits Of Pakistan's Peace Push",
+        "link": "https://www.ndtv.com/opinion/failed-iran-us-talks-show-limits-of-pakistans-peace-push-11349044#publisher=newsstand"
       },
       {
-        "title": "US-Israel-Iran War LIVE Updates: Trump Says US To Block Hormuz, Threatens China With 50% Tariffs",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-us-israel-peace-talks-in-islamabad-pakistan-ghalibaf-jd-vance-donald-trump-strait-of-hormuz-shehbaz-sharif-asim-munir-11341504#publisher=newsstand"
+        "title": "Cash-Strapped Pak To Receive $5 Billion Financial Aid From Saudi, Qatar",
+        "link": "https://www.ndtv.com/world-news/cash-strapped-pakistan-to-receive-5-billion-financial-aid-from-saudi-arabia-qatar-11346422#publisher=newsstand"
       },
       {
-        "title": "Bengaluru Fitness Trainer Dies By Suicide, Family Alleges Blackmail By Married Woman",
-        "link": "https://www.ndtv.com/bangalore-news/bengaluru-fitness-trainer-dies-by-suicide-family-alleges-blackmail-by-married-woman-11348140#publisher=newsstand"
+        "title": "US-Iran Talks Failed \"Inches Away\" From Deal In Islamabad. Tehran Tells Why",
+        "link": "https://www.ndtv.com/world-news/us-iran-talks-failed-inches-away-from-deal-in-islamabad-tehran-tells-why-11349024#publisher=newsstand"
       },
       {
-        "title": "India's Aggressive Energy Diplomacy In Middle East To Restore Oil Imports",
-        "link": "https://www.ndtv.com/india-news/indias-aggressive-energy-diplomacy-in-middle-east-to-restore-oil-imports-11348304#publisher=newsstand"
+        "title": "\"Very Extraordinary Men\": Trump Praises Pak's Shehbaz Sharif, Asim Munir",
+        "link": "https://www.ndtv.com/world-news/donald-trump-praises-pakistans-shehbaz-sharif-asim-munir-after-us-iran-talks-calls-them-very-extraordinary-men-11348910#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-13 01:11 UTC"
+  "last_updated": "2026-04-13 04:30 UTC"
 }
