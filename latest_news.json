@@ -3,8 +3,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Former Nato chief warns UK's national security 'in peril'",
+        "title": "Former Nato chief warns UK security 'in peril' as he accuses Starmer of 'corrosive complacency'",
         "link": "https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US blockade of Iranian ports explained in two minutes",
+        "link": "https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Watchdog investigates 11 police officers over handling of Wimbledon school crash",
@@ -17,13 +21,21 @@
       {
         "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
         "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Harry and Meghan arrive in Australia for four-day tour",
-        "link": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Carlos Queiroz named Ghana head coach before World Cup",
+        "link": "https://www.aljazeera.com/sports/2026/4/14/carlos-queiroz-named-ghana-head-coach-before-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Palestine weekly wrap: ‘Master of the house’ says Ben-Gvir as Al-Aqsa opens",
+        "link": "https://www.aljazeera.com/news/2026/4/14/palestine-weekly-wrap-master-of-the-house-says-ben-gvir-as-al-aqsa-opens?traffic_source=rss"
+      },
+      {
+        "title": "Yamal seeks inspiration from LeBron, Neymar for Champions League comeback",
+        "link": "https://www.aljazeera.com/sports/2026/4/14/yamal-seeks-inspiration-from-lebron-neymar-for-champions-league-comeback?traffic_source=rss"
+      },
       {
         "title": "Iran war: What is happening on day 46 of the US-Iran conflict?",
         "link": "https://www.aljazeera.com/news/2026/4/14/iran-war-what-is-happening-on-day-46-of-the-us-iran-conflict?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "China dismisses Vice Minister of Foreign Affairs Sun Weidong",
         "link": "https://www.aljazeera.com/news/2026/4/14/china-dismisses-vice-minister-of-foreign-affairs-sun-weidong?traffic_source=rss"
-      },
-      {
-        "title": "The Sea of Azov: Ukraine’s loss but hardly Russia’s gain",
-        "link": "https://www.aljazeera.com/features/2026/4/14/the-sea-of-azov-ukraines-loss-but-hardly-russias-gain?traffic_source=rss"
-      },
-      {
-        "title": "New trial over football great Maradona’s death begins in Argentina",
-        "link": "https://www.aljazeera.com/sports/2026/4/14/new-trial-over-football-great-maradonas-death-begins-in-argentina?traffic_source=rss"
-      },
-      {
-        "title": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks",
-        "link": "https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +70,24 @@
     ],
     "Dawn": [
       {
+        "title": "US, Iranian teams could return to Islamabad for 2nd round of peace talks this week: sources",
+        "link": "https://www.dawn.com/news/1991640/us-iranian-teams-could-return-to-islamabad-for-2nd-round-of-peace-talks-this-week-sources"
+      },
+      {
         "title": "Aurangzeb says ‘all options on table’ to replace UAE’s $3.5bn loan, weighs strategic fuel reserve",
         "link": "https://www.dawn.com/news/1991606/aurangzeb-says-all-options-on-table-to-replace-uaes-35bn-loan-weighs-strategic-fuel-reserve"
       },
       {
-        "title": "Efforts afoot for second round of US-Iran talks",
-        "link": "https://www.dawn.com/news/1991497/efforts-afoot-for-second-round-of-us-iran-talks"
+        "title": "Naval chief says Pakistan stands ready to deter any aggression, vows ‘befitting response’",
+        "link": "https://www.dawn.com/news/1991636/naval-chief-says-pakistan-stands-ready-to-deter-any-aggression-vows-befitting-response"
+      },
+      {
+        "title": "Around 90 detained in New York City protest over US arms sales to Israel",
+        "link": "https://www.dawn.com/news/1991624/around-90-detained-in-new-york-city-protest-over-us-arms-sales-to-israel"
       },
       {
         "title": "PSX recovers over 4,000 points during intraday trade",
         "link": "https://www.dawn.com/news/1991610/psx-recovers-over-4000-points-during-intraday-trade"
-      },
-      {
-        "title": "US blockade of Hormuz puts ceasefire to test",
-        "link": "https://www.dawn.com/news/1991499/us-blockade-of-hormuz-puts-ceasefire-to-test"
-      },
-      {
-        "title": "Tax rationalisation to cut auto prices",
-        "link": "https://www.dawn.com/news/1991486/tax-rationalisation-to-cut-auto-prices"
       }
     ],
     "APNews": [],
@@ -115,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Chinese President Xi Jinping urges respect for Gulf sovereignty",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/chinese-president-xi-jinping-urges-respect-gulf-sovereignty"
+        "title": "Israeli settlers storm Al-Aqsa mosque under Israeli forces’ protection",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-storm-al-aqsa-mosque-under-israeli-forces-protection"
       },
       {
-        "title": "Sweden calls for reduced reliance on US military support",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sweden-calls-reduced-reliance-us-defense-support"
+        "title": "US and Iran keep talking as Trump's blockade takes effect",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iran-keep-talking-trumps-blockade-takes-effect-0"
       },
       {
-        "title": "Australia ‘deeply invested’ in Hormuz access, defence minister says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/australia-deeply-invested-hormuz-access-defence-minister-says"
+        "title": "War on Iran: Why the Islamabad talks failed",
+        "link": "https://www.middleeasteye.net/opinion/war-iran-why-islamabad-talks-failed"
       },
       {
-        "title": "Video: Fidan says Israel seeking to declare Turkey as a ‘new enemy’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-fidan-says-israel-seeking-declare-turkey-new-enemy"
+        "title": "China calls US blockade of Iranian ports ‘dangerous and irresponsible’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-calls-us-blockade-iranian-ports-dangerous-and-irresponsible"
       },
       {
-        "title": "Israeli strike hits south Lebanon homes as sirens sound in northern Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-hits-south-lebanon-homes-sirens-sound-northern-israel"
+        "title": "Israeli envoy calls Italian magazine antisemitic over settler violence coverage",
+        "link": "https://www.middleeasteye.net/news/israeli-envoy-italy-calls-magazine-antisemitic-over-settler-violence-coverage"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince Harry takes lead in Australia interview, Meghan Markle gets ignored",
-        "link": "https://www.geo.tv/latest/659913-prince-harry-takes-lead-in-australia-interview-meghan-markle-gets-ignored"
+        "title": "'The Social Reckoning' reveals first look at Jeremy Strong Mark Zuckerberg",
+        "link": "https://www.geo.tv/latest/659943-the-social-reckonin-g-reveals-first-look-at-jeremy-strongs-mark-zuckerberg"
       },
       {
-        "title": "World Quantum Day: Why is it celebrated on April 14?",
-        "link": "https://www.geo.tv/latest/659906-world-quantum-day-why-is-it-celebrated-on-april-14"
+        "title": "Meghan Markle's good time in Australia hit with setback: ‘humiliating'",
+        "link": "https://www.geo.tv/latest/659939-meghan-markles-good-time-in-australia-hit-with-setback-humiliating"
       },
       {
-        "title": "Alix Earle fires back after Alex Cooper's “passive aggressive” comment",
-        "link": "https://www.geo.tv/latest/659916-alix-earle-fires-back-after-alex-coopers-passive-aggressive-call-out"
+        "title": "Billie Eilish melts fans' hearts with 'rescue operation'",
+        "link": "https://www.geo.tv/latest/659935-billie-eilish-melts-fans-hearts-with-rescue-operation"
       },
       {
-        "title": "Britney Spears' ex Kevin Federline shows support for big step after arrest",
-        "link": "https://www.geo.tv/latest/659904-britney-spears-ex-kevin-federline-shows-support-for-big-step-after-arrest"
+        "title": "Prince Edward resumes King Charles mission after emotional reunion",
+        "link": "https://www.geo.tv/latest/659926-prince-edward-resumes-king-charles-mission-after-emotional-reunion"
       },
       {
-        "title": "Sindh sees 894 new HIV cases in first quarter of 2026",
-        "link": "https://www.geo.tv/latest/659901-sindh-sees-894-new-hiv-cases-in-first-quarter-of-2026"
+        "title": "Lady Gaga closes Mayhem Ball Tour with exciting update on future plans",
+        "link": "https://www.geo.tv/latest/659924-lady-gaga-closes-mayhem-ball-tour-with-exciting-update-on-future-plans"
       }
     ],
     "NDTV": [
       {
-        "title": "Samrat Choudhary Leads Probables' List In Bihar Chief Ministerial Race",
-        "link": "https://www.ndtv.com/india-news/samrat-choudhary-leads-probables-list-in-bihar-chief-ministerial-race-11354698#publisher=newsstand"
+        "title": "Live Updates: UP Government Increases Interim Wages Of Workers Amid Protests",
+        "link": "https://www.ndtv.com/india-news/noida-factory-workers-protest-live-updates-workers-protest-over-wage-hike-turns-violent-in-noida-11349472#publisher=newsstand"
       },
       {
-        "title": "Iran Condemns \"Insult\" To Pope After Trump Targets Him Over Calls For Peace",
-        "link": "https://www.ndtv.com/world-news/iran-condemns-insult-to-pope-leo-after-donald-trump-targets-him-over-calls-for-peace-11354495#publisher=newsstand"
+        "title": "\"Is It Epstein Being Cared For?\" Iran's Dig At Trump Over \"Jesus\" Image",
+        "link": "https://www.ndtv.com/world-news/irans-dig-at-donald-trump-over-jesus-image-is-it-jeffrey-epstein-being-cared-for-11354164#publisher=newsstand"
       },
       {
-        "title": "CCTV Shows The Moment Angry Protesters Stormed Into Noida Factory",
-        "link": "https://www.ndtv.com/noida-news/noida-protests-today-news-cctv-shows-the-moment-angry-protesters-stormed-into-noida-factory-11354455#publisher=newsstand"
+        "title": "\"Indian Memes Are GOAT\": Iran Mocks US' Hormuz Blockade With 'Dhamaal' Video",
+        "link": "https://www.ndtv.com/world-news/iran-us-war-news-indian-memes-are-goat-iran-mocks-us-hormuz-blockade-with-dhamaal-video-11355145#publisher=newsstand"
       },
       {
-        "title": "QR Codes And WhatsApp Groups: How Noida Protests Were Planned Overnight",
-        "link": "https://www.ndtv.com/noida-news/noida-protests-unrest-in-noida-qr-codes-and-whatsapp-groups-how-noida-protests-were-planned-overnight-protest-in-noida-11354468#publisher=newsstand"
+        "title": "UP Bride Demands 90 Lakhs From Groom On Wedding Night, Death Threats Follow",
+        "link": "https://www.ndtv.com/india-news/up-bride-demands-90-lakhs-from-groom-on-wedding-night-death-threats-follow-11355158#publisher=newsstand"
       },
       {
-        "title": "Pay Hike Demand, 300 Arrests, Pak Link Under Probe: The Violent Noida Protest",
-        "link": "https://www.ndtv.com/noida-news/noida-protest-noida-unrest-pay-hike-demand-300-arrests-pak-link-under-probe-the-violent-noida-protest-wage-hike-demand-11353862#publisher=newsstand"
+        "title": "Telangana Cops Launch Safety Audits In Hyderabad Amid TCS Nashik Harassment Case",
+        "link": "https://www.ndtv.com/telangana-news/telangana-cops-launch-safety-audits-in-hyderabad-amid-tcs-nashik-harassment-case-11355156#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-14 07:10 UTC"
+  "last_updated": "2026-04-14 08:53 UTC"
 }
