@@ -1,18 +1,24 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Bayern Munich vs Real Madrid – Champions League quarterfinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/15/live-bayern-munich-vs-real-madrid-champions-league-quarterfinal?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Starmer says he is 'not going to yield' to pressure from Trump on Iran war",
-        "link": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss"
+        "title": "Mahmood promises action against 'sham lawyers' abusing asylum system after BBC investigation",
+        "link": "https://www.bbc.com/news/articles/cj944dgwvm8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds",
+        "title": "Legal advisers help migrants pose as gay to get asylum, BBC finds",
         "link": "https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Mahmood promises action against 'sham lawyers' abusing asylum system",
-        "link": "https://www.bbc.com/news/articles/cj944dgwvm8o?at_medium=RSS&at_campaign=rss"
+        "title": "Starmer says he is 'not going to yield' to pressure from Trump on Iran war",
+        "link": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Two officers charged after pregnant woman killed in crash with police car",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "‘Erosion of a country’s future’: What has the war cost Sudan?",
-        "link": "https://www.aljazeera.com/news/2026/4/15/erosion-of-a-countrys-future-what-has-the-war-cost-sudan?traffic_source=rss"
+        "title": "Why has Italy’s Giorgia Meloni suspended a defence pact with Israel?",
+        "link": "https://www.aljazeera.com/news/2026/4/15/why-has-italys-giorgia-meloni-suspended-a-defence-pact-with-israel?traffic_source=rss"
       },
       {
-        "title": "Every 27 minutes, someone is killed in Sudan’s war",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/15/every-27-minutes-someone-is-killed-in-sudans-war-2?traffic_source=rss"
+        "title": "LIVE: Bayern Munich vs Real Madrid – Champions League quarterfinal",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/15/live-bayern-munich-vs-real-madrid-champions-league-quarterfinal?traffic_source=rss"
       },
       {
-        "title": "Italian magazine cover of Israeli settler sparks diplomatic backlash",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/italian-magazine-cover-of-israeli-settler-sparks-diplomatic-backlash?traffic_source=rss"
+        "title": "Trump escalates threats to fire US Federal Reserve Chair Powell",
+        "link": "https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell?traffic_source=rss"
       },
       {
-        "title": "US-Iran talks: What’s the latest on mediation efforts?",
-        "link": "https://www.aljazeera.com/news/2026/4/15/us-iran-talks-whats-the-latest-on-mediation-efforts?traffic_source=rss"
+        "title": "Can Japan’s arms industry gain from Trump trust loss?",
+        "link": "https://www.aljazeera.com/news/2026/4/15/can-japans-arms-industry-gain-from-trump-trust-loss?traffic_source=rss"
       },
       {
-        "title": "What people in Lebanon are saying about talks with Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-people-in-lebanon-are-saying-about-talks-with-israel?traffic_source=rss"
+        "title": "Iran warns US naval blockade threatens ceasefire",
+        "link": "https://www.aljazeera.com/news/2026/4/15/iran-warns-us-naval-blockade-threatens-ceasefire?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,100 +92,108 @@
         "link": "https://www.dawn.com/news/1991953/bar-association-calls-meeting-after-400-lawyers-demand-urgent-hearing-of-imaan-hadis-sentence-suspension-pleas"
       },
       {
-        "title": "Govt apologises for excessive loadshedding, blames it on reduced hydropower availability",
-        "link": "https://www.dawn.com/news/1991961/govt-apologises-for-excessive-loadshedding-blames-it-on-reduced-hydropower-availability"
+        "title": "Nine killed, 13 wounded after school shooting in Turkiye’s second school shooting in 2 days",
+        "link": "https://www.dawn.com/news/1991984/nine-killed-13-wounded-after-school-shooting-in-turkiyes-second-school-shooting-in-2-days"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Israel Considering Cease-fire With Lebanon, Officials Say",
+        "link": "https://www.nytimes.com/2026/04/15/world/middleeast/israel-lebanon-ceasefire-preparations-hezbollah.html"
+      },
+      {
         "title": "Ship ‘Spoofing’ in Strait of Hormuz May Compound Confusion",
         "link": "https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html"
       },
       {
-        "title": "Trump’s Blockade Risks Upending an Emerging Détente With China",
-        "link": "https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html"
-      },
-      {
-        "title": "How China’s Weapons Transfers to Iran Have Evolved Over Decades",
-        "link": "https://www.nytimes.com/2026/04/15/world/asia/china-iran-weapons-sales.html"
-      },
-      {
-        "title": "The Republicans Who Disapprove of the War, and a Wave of College Closures",
-        "link": "https://www.nytimes.com/2026/04/15/podcasts/the-headlines/republicans-disapprove-iran-war-college-closures.html"
-      },
-      {
         "title": "Trump’s Go-To Justification for Contentious Decisions: National Security",
         "link": "https://www.nytimes.com/2026/04/15/us/white-house-ballroom-trump-national-security.html"
+      },
+      {
+        "title": "Trump Increased Tax Refunds, but a Political Challenge Still Looms",
+        "link": "https://www.nytimes.com/2026/04/15/business/trump-tax-law-refunds-voters.html"
+      },
+      {
+        "title": "Swalwell’s Exit Injects ‘Chaos’ Into California Governor’s Race",
+        "link": "https://www.nytimes.com/2026/04/14/us/california-governor-race-swalwell.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Germany not taking part in Iran war but feeling its effects, says minister",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-not-taking-part-iran-war-feeling-its-effects-says-minister"
+        "title": "Israeli strikes kill three paramedics in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-3-paramedics-lebanon"
       },
       {
-        "title": "'Frightening milestone': Saudi Arabia hits 2,000 executions since King Salman took power",
-        "link": "https://www.middleeasteye.net/news/frightening-milestone-saudi-arabia-hits-2000-executions-king-salman-took-power"
+        "title": "UAE's Burj Al Arab to close for 18 months refurbishment after Dubai tourism drop-off",
+        "link": "https://www.middleeasteye.net/news/burj-al-arab-close-18-months-refurbishment-following-dubai-tourism-drop"
       },
       {
-        "title": "IMF chief hopes US-Iran ceasefire leads to durable peace",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-chief-hopes-us-iran-ceasefire-leads-durable-peace"
+        "title": "Hezbollah says ceasefire possible ‘soon’ as talks continue",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-ceasefire-possible-soon-talks-continue"
       },
       {
-        "title": "Another flight attendant detained in Dubai over Iran war WhatsApp message",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/another-flight-attendant-detained-dubai-over-iran-war-whatsapp-message"
+        "title": "Belgium seizes arms shipment sent from Britain to Israel",
+        "link": "https://www.middleeasteye.net/news/belgium-seizes-arms-shipment-sent-britain-israel"
       },
       {
-        "title": "Israeli security cabinet to discuss possible Lebanon ceasefire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-security-cabinet-discuss-possible-lebanon-ceasefire"
+        "title": "Pakistan's army chief lands in Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-hosts-pakistani-delegation-amid-reports-us-message"
       }
     ],
     "GeoTV": [
       {
-        "title": "Taylor Swift sings high praises for Dakota Johnson ahead of TIME100 honour",
-        "link": "https://www.geo.tv/latest/660159-taylor-swift-sings-high-praises-for-dakota-johnson-ahead-of-time100-honour"
+        "title": "Robots, drones could slash global food delivery costs to $1 per order",
+        "link": "https://www.geo.tv/latest/660178-robots-drones-could-slash-global-food-delivery-costs-to-1-per-order"
       },
       {
-        "title": "Prince Harry's bombshell encounter with Queen's aide",
-        "link": "https://www.geo.tv/latest/660153-prince-harrys-bombshell-encounter-with-queens-aide"
+        "title": "Day 47 of Iran war: Tehran threatens to close Red Sea as US naval pressure intensifies",
+        "link": "https://www.geo.tv/latest/660177-day-47-of-iran-war-tehran-threatens-to-close-red-sea-as-us-naval-pressure-intensifies"
       },
       {
-        "title": "Pete Hegseth impeachment articles: Everything you need to know",
-        "link": "https://www.geo.tv/latest/660168-pete-hegseth-impeachment-articles-everything-you-need-to-know"
+        "title": "Is Claude down? Here's why users are seeing errors",
+        "link": "https://www.geo.tv/latest/660175-is-claude-down-heres-why-users-are-seeing-errors"
       },
       {
-        "title": "Upcoming book-to-screen adaptations: 'The Husbands,' 'Beach Read' and more",
-        "link": "https://www.geo.tv/latest/660150-upcoming-book-to-screen-adaptations-the-husbands-beach-read-and-more"
+        "title": "Jamie Murray announces retirement after stellar doubles career",
+        "link": "https://www.geo.tv/latest/660174-jamie-murray-announces-retirement-after-stellar-doubles-career"
       },
       {
-        "title": "Prince Edward makes powerful comeback after Andrew criticism",
-        "link": "https://www.geo.tv/latest/660155-prince-edward-makes-powerful-comeback-after-andrew-criticism"
+        "title": "Taylor Momsen hospitalised week after getting bit by spider on AC/DC tour",
+        "link": "https://www.geo.tv/latest/660173-taylor-momsen-hospitalised-week-after-getting-bit-by-spider-on-acdc-tour"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Politically Motivated, Will Fight Women's Quota Bill\": M Kharge After Opposition Meet",
-        "link": "https://www.ndtv.com/india-news/politically-motivated-will-fight-womens-quota-bill-m-kharge-after-opposition-meet-11361515#publisher=newsstand"
+        "title": "Jobs Or Schemes? What Sways Voters In Bengal's Coal Belt Durgapur",
+        "link": "https://www.ndtv.com/india-news/jobs-or-schemes-what-sways-voters-in-bengals-coal-belt-durgapur-11361435#publisher=newsstand"
       },
       {
-        "title": "US-Iran War Live Updates: US Denies Agreeing To Extend Iran Ceasefire: Report",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-2nd-round-of-ceasefire-donald-trump-jd-vance-on-us-iran-mistrust-israel-lebanon-talks-pakistan-talks-strait-of-hormuz-11358654#publisher=newsstand"
-      },
-      {
-        "title": "4 Dead In Shooting At School In Turkey, Second Such Incident In 24 Hours",
+        "title": "5 Guns, 7 Magazines: 13-Year-Old Kills 9 In Turkey School, Then Shoots Self",
         "link": "https://www.ndtv.com/world-news/1-dead-in-shooting-at-school-in-turkey-second-such-incident-in-24-hours-11361250#publisher=newsstand"
       },
       {
-        "title": "In Trump's Post On Strait Of Hormuz, A \"China Very Happy\" Message",
-        "link": "https://www.ndtv.com/world-news/in-trumps-post-on-strait-of-hormuz-a-china-very-happy-message-11361371#publisher=newsstand"
+        "title": "\"Thank God I Survived\": TCS Nashik Woman Employee Reveals More Horrors",
+        "link": "https://www.ndtv.com/india-news/tcs-nashik-made-to-work-alone-on-rooftop-phone-snatched-tcs-nashik-victims-to-ndtv-11362391#publisher=newsstand"
       },
       {
-        "title": "MK Stalin Calls For Black Flag Protest Across Tamil Nadu Over Delimitation",
-        "link": "https://www.ndtv.com/india-news/mk-stalin-calls-for-black-flag-protest-across-tamil-nadu-over-delimitation-11361609#publisher=newsstand"
+        "title": "Centre's New Delimitation Bill Has Provisions For Pak-Occupied Kashmir Too",
+        "link": "https://www.ndtv.com/india-news/2026-delimitation-bill-centres-new-delimitation-bill-has-provisions-for-pak-occupied-kashmir-too-11362759#publisher=newsstand"
+      },
+      {
+        "title": "US To Send More Troops To Middle East As Iran Ceasefire Nears End: Report",
+        "link": "https://www.ndtv.com/world-news/us-to-send-more-troops-to-middle-east-as-iran-ceasefire-nears-end-report-11362644#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Suspicion surrounds death of US influencer Ashly Robinson in Zanzibar",
+        "link": "https://www.theguardian.com/world/2026/apr/15/ashly-robinson-death-influencer-zanzibar"
+      },
+      {
+        "title": "South Africa names apartheid-era negotiator as ambassador to US",
+        "link": "https://www.theguardian.com/world/2026/apr/15/south-africa-names-ambassador-us-roelf-meyer"
+      },
       {
         "title": "Ant smuggler sentenced to a year in jail by Kenyan court",
         "link": "https://www.theguardian.com/environment/2026/apr/15/ant-smuggler-sentenced-to-a-year-in-jail-by-kenyan-court"
@@ -191,16 +205,8 @@
       {
         "title": "UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war",
         "link": "https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae"
-      },
-      {
-        "title": "Survivors ask why busy market bombed in Nigerian anti-terror campaign",
-        "link": "https://www.theguardian.com/world/2026/apr/14/survivors-ask-why-nigeria-bombed-busy-market-in-effort-to-target-jihadist-group"
-      },
-      {
-        "title": "Anger at ‘bloody unacceptable’ efforts to end Sudan’s war as conflict enters fourth year",
-        "link": "https://www.theguardian.com/global-development/2026/apr/14/no-end-sudan-war-conflict-third-anniversary"
       }
     ]
   },
-  "last_updated": "2026-04-15 15:19 UTC"
+  "last_updated": "2026-04-15 16:33 UTC"
 }
