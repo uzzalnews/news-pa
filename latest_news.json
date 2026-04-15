@@ -11,7 +11,7 @@
         "link": "https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+        "title": "Lyse Doucet in Iran: Under fragile ceasefire, Iranians wonder if US deal can be done",
         "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -24,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Brazil’s police open a probe into presidential candidate Flavio Bolsonaro",
+        "link": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss"
+      },
       {
         "title": "Bayern edge Real Madrid 4-3 in classic to reach Champions League semifinals",
         "link": "https://www.aljazeera.com/sports/2026/4/15/bayern-edge-real-madrid-4-3-in-classic-to-reach-champions-league-semifinals?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Israel appoints first ambassador to Somaliland",
         "link": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss"
-      },
-      {
-        "title": "Could the US oil blockade snuff out the Cuban cigar?",
-        "link": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -105,15 +105,27 @@
         "link": "https://www.nytimes.com/2026/04/15/business/economy/companies-profits-prices-iran-war.html"
       },
       {
-        "title": "Trump Breaks With Meloni, Italy’s Leader, Amid Dispute Over Pope and Iran",
-        "link": "https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html"
+        "title": "Can Trump and Republicans Get Back on Message on the Economy?",
+        "link": "https://www.nytimes.com/2026/04/15/us/politics/trump-taxes-economy-iran-war.html"
       },
       {
-        "title": "Trump’s Quest for More Sway Over Fed Faces Fresh Hurdles",
-        "link": "https://www.nytimes.com/2026/04/15/business/trump-federal-bank-fresh-hurdles.html"
+        "title": "Stocks Hit a Record High",
+        "link": "https://www.nytimes.com/2026/04/15/briefing/stocks-hit-a-record-high.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "US says destroyer turned back Iranian cargo vessel under Hormuz blockade",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-destroyer-turned-back-iranian-cargo-vessel-under-hormuz-blockade"
+      },
+      {
+        "title": "Israeli security cabinet weighs Lebanon ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-security-cabinet-weighs-lebanon-ceasefire"
+      },
+      {
+        "title": "Sri Lankan buyer paid $286 for barrel of oil, as actual prices diverge from markets",
+        "link": "https://www.middleeasteye.net/news/sri-lanka-buyer-paid-286-barrel-oil-actual-prices-world-diverge-markets"
+      },
       {
         "title": "US imposes new sanctions on Iran’s oil shipping network",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-imposes-new-sanctions-irans-oil-shipping-network"
@@ -121,18 +133,6 @@
       {
         "title": "Qatar emir, Trump discuss Hormuz tensions and regional escalation",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-emir-trump-discuss-hormuz-tensions-and-regional-escalation"
-      },
-      {
-        "title": "US Senate rejects bid to halt war on Iran without congressional approval",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senate-rejects-bid-halt-war-iran-without-congressional-approval"
-      },
-      {
-        "title": "Israeli military chief says plans approved for continued strikes in Iran, Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-chief-says-plans-approved-continued-strikes-iran"
-      },
-      {
-        "title": "Saudi Arabia on cusp of severing ties with LIV Golf: Report",
-        "link": "https://www.middleeasteye.net/news/saudi-arabia-cusp-severing-ties-liv-golf-report"
       }
     ],
     "GeoTV": [
@@ -159,24 +159,24 @@
     ],
     "NDTV": [
       {
+        "title": "No Compromise On Workers' Rights, Strict Action For Violations: Yogi Adityanath",
+        "link": "https://www.ndtv.com/india-news/no-compromise-on-workers-rights-strict-action-for-noida-violations-up-chief-minister-yogi-adityanath-11363668#publisher=newsstand"
+      },
+      {
+        "title": "Delivery Agent Killed As Speeding Thar Hits Motorcycle In Gurgaon",
+        "link": "https://www.ndtv.com/gurgaon-news/delivery-agent-killed-as-speeding-thar-hits-motorcycle-in-gurgaon-11363603#publisher=newsstand"
+      },
+      {
+        "title": "Israel Continues To Strike Hezbollah Amid Lebanon Peace Talk: Netanyahu",
+        "link": "https://www.ndtv.com/world-news/israel-continues-to-strike-hezbollah-amid-lebanon-peace-talk-benjamin-netanyahu-11363551#publisher=newsstand"
+      },
+      {
         "title": "World Bank Chief Economist Warns Of Hunger Risk From War In Iran",
         "link": "https://www.ndtv.com/world-news/world-bank-chief-economist-warns-of-hunger-risk-from-war-in-iran-11363516#publisher=newsstand"
       },
       {
         "title": "Iran Bought Chinese Satellite In Orbit, Then Used It To Target US Bases: Report",
         "link": "https://www.ndtv.com/world-news/iran-used-chinese-spy-satellite-to-track-us-bases-during-war-report-11363335#publisher=newsstand"
-      },
-      {
-        "title": "Hezbollah Hints At Ceasefire In Lebanon, Israel To Ramp Up Attacks",
-        "link": "https://www.ndtv.com/world-news/hezbollah-hints-at-ceasefire-in-lebanon-israel-says-it-will-ramp-up-attacks-11363255#publisher=newsstand"
-      },
-      {
-        "title": "Can't Hollow Out Religion In Name Of Reforms: Supreme Court In Sabarimala Case",
-        "link": "https://www.ndtv.com/india-news/cant-hollow-out-religion-in-name-of-reforms-supreme-court-in-sabarimala-case-11363379#publisher=newsstand"
-      },
-      {
-        "title": "US-Iran War Live Updates: Netanyahu Says US, Israel Have 'Identical Goals' On Iran",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-2nd-round-of-ceasefire-donald-trump-jd-vance-on-us-iran-mistrust-israel-lebanon-talks-pakistan-talks-strait-of-hormuz-11358654#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-15 21:43 UTC"
+  "last_updated": "2026-04-15 22:28 UTC"
 }
