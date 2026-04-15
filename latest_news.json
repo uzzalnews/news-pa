@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Bayern Munich vs Real Madrid – Champions League quarterfinal",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/15/live-bayern-munich-vs-real-madrid-champions-league-quarterfinal?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "UN experts urge member states to suspend Israel arms transfers",
+        "link": "https://www.aljazeera.com/news/2026/4/15/un-experts-urge-member-states-to-suspend-israel-arms-transfers?traffic_source=rss"
+      },
+      {
+        "title": "Is Iran beating the US at its own propaganda game?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/is-iran-beating-the-us-at-its-own-propaganda-game?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s High Court hears petitions to oust Ben-Gvir",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israels-high-court-hears-petitions-to-oust-ben-gvir?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu sees Lebanon as his last chance for a ‘win’",
+        "link": "https://www.aljazeera.com/opinions/2026/4/15/netanyahu-sees-lebanon-as-his-last-chance-for-a?traffic_source=rss"
+      },
+      {
         "title": "Why has Italy’s Giorgia Meloni suspended a defence pact with Israel?",
         "link": "https://www.aljazeera.com/news/2026/4/15/why-has-italys-giorgia-meloni-suspended-a-defence-pact-with-israel?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Bayern Munich vs Real Madrid – Champions League quarterfinal",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/15/live-bayern-munich-vs-real-madrid-champions-league-quarterfinal?traffic_source=rss"
-      },
-      {
-        "title": "Trump escalates threats to fire US Federal Reserve Chair Powell",
-        "link": "https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell?traffic_source=rss"
-      },
-      {
-        "title": "Can Japan’s arms industry gain from Trump trust loss?",
-        "link": "https://www.aljazeera.com/news/2026/4/15/can-japans-arms-industry-gain-from-trump-trust-loss?traffic_source=rss"
-      },
-      {
-        "title": "Iran warns US naval blockade threatens ceasefire",
-        "link": "https://www.aljazeera.com/news/2026/4/15/iran-warns-us-naval-blockade-threatens-ceasefire?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,27 +93,39 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Israel Considering Cease-fire With Lebanon, Officials Say",
-        "link": "https://www.nytimes.com/2026/04/15/world/middleeast/israel-lebanon-ceasefire-preparations-hezbollah.html"
+        "title": "Debt Alarms Ring as Countries Rack Up More Emergency Spending",
+        "link": "https://www.nytimes.com/2026/04/15/business/iran-war-fiscal-debt-impact.html"
       },
       {
-        "title": "Ship ‘Spoofing’ in Strait of Hormuz May Compound Confusion",
-        "link": "https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html"
+        "title": "Amid Iran War, Companies Look to Extend a Record Profit Run by Raising Prices",
+        "link": "https://www.nytimes.com/2026/04/15/business/economy/companies-profits-prices-iran-war.html"
+      },
+      {
+        "title": "Trump Breaks With Meloni, Italy’s Leader, Amid Dispute Over Pope and Iran",
+        "link": "https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html"
+      },
+      {
+        "title": "Vance Says Pope Leo Should Be More Careful When Talking About Theology",
+        "link": "https://www.nytimes.com/2026/04/14/us/politics/vance-pope-trump-georgia.html"
       },
       {
         "title": "Trump’s Go-To Justification for Contentious Decisions: National Security",
         "link": "https://www.nytimes.com/2026/04/15/us/white-house-ballroom-trump-national-security.html"
-      },
-      {
-        "title": "Trump Increased Tax Refunds, but a Political Challenge Still Looms",
-        "link": "https://www.nytimes.com/2026/04/15/business/trump-tax-law-refunds-voters.html"
-      },
-      {
-        "title": "Swalwell’s Exit Injects ‘Chaos’ Into California Governor’s Race",
-        "link": "https://www.nytimes.com/2026/04/14/us/california-governor-race-swalwell.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iran used Chinese spy satellite to attack US bases in Gulf: Report",
+        "link": "https://www.middleeasteye.net/news/iran-used-chinese-spy-satellite-attack-us-bases-gulf-report"
+      },
+      {
+        "title": "Eight Palestinians killed by Israeli military in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/8-palestinians-killed-israeli-military-gaza-0"
+      },
+      {
+        "title": "US claims no vessels moved through under Hormuz blockade",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-claims-no-vessels-moved-through-under-hormuz-blockade"
+      },
       {
         "title": "Israeli strikes kill three paramedics in Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-3-paramedics-lebanon"
@@ -127,46 +133,38 @@
       {
         "title": "UAE's Burj Al Arab to close for 18 months refurbishment after Dubai tourism drop-off",
         "link": "https://www.middleeasteye.net/news/burj-al-arab-close-18-months-refurbishment-following-dubai-tourism-drop"
-      },
-      {
-        "title": "Hezbollah says ceasefire possible ‘soon’ as talks continue",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-ceasefire-possible-soon-talks-continue"
-      },
-      {
-        "title": "Belgium seizes arms shipment sent from Britain to Israel",
-        "link": "https://www.middleeasteye.net/news/belgium-seizes-arms-shipment-sent-britain-israel"
-      },
-      {
-        "title": "Pakistan's army chief lands in Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-hosts-pakistani-delegation-amid-reports-us-message"
       }
     ],
     "GeoTV": [
       {
-        "title": "Robots, drones could slash global food delivery costs to $1 per order",
-        "link": "https://www.geo.tv/latest/660178-robots-drones-could-slash-global-food-delivery-costs-to-1-per-order"
+        "title": "Why is universe expanding faster than expected? Scientists investigate cosmic puzzle",
+        "link": "https://www.geo.tv/latest/660188-why-is-universe-expanding-faster-than-expected-scientists-investigate-cosmic-puzzle"
       },
       {
-        "title": "Day 47 of Iran war: Tehran threatens to close Red Sea as US naval pressure intensifies",
-        "link": "https://www.geo.tv/latest/660177-day-47-of-iran-war-tehran-threatens-to-close-red-sea-as-us-naval-pressure-intensifies"
+        "title": "Kate Middleton, Princess Anne come together to honour Australians",
+        "link": "https://www.geo.tv/latest/660182-kate-middleton-princess-anne-come-together-to-honour-australians"
       },
       {
-        "title": "Is Claude down? Here's why users are seeing errors",
-        "link": "https://www.geo.tv/latest/660175-is-claude-down-heres-why-users-are-seeing-errors"
+        "title": "PSL 11: Waseem, Khuzaima released from Karachi Kings squad",
+        "link": "https://www.geo.tv/latest/660186-psl-11-waseem-khuzaima-released-from-karachi-kings-squad"
       },
       {
-        "title": "Jamie Murray announces retirement after stellar doubles career",
-        "link": "https://www.geo.tv/latest/660174-jamie-murray-announces-retirement-after-stellar-doubles-career"
+        "title": "Amazon sued over ‘bricked' fire TV sticks: Will owners get refund?",
+        "link": "https://www.geo.tv/latest/660187-amazon-sued-over-bricked-fire-tv-sticks-will-owners-get-refund"
       },
       {
-        "title": "Taylor Momsen hospitalised week after getting bit by spider on AC/DC tour",
-        "link": "https://www.geo.tv/latest/660173-taylor-momsen-hospitalised-week-after-getting-bit-by-spider-on-acdc-tour"
+        "title": "'A Knight of the Seven Kingdoms' forced to halt filming for season 2: Report",
+        "link": "https://www.geo.tv/latest/660185-a-knight-of-the-seven-kingdoms-forced-to-halt-filming-for-season-2-report"
       }
     ],
     "NDTV": [
       {
         "title": "Jobs Or Schemes? What Sways Voters In Bengal's Coal Belt Durgapur",
         "link": "https://www.ndtv.com/india-news/jobs-or-schemes-what-sways-voters-in-bengals-coal-belt-durgapur-11361435#publisher=newsstand"
+      },
+      {
+        "title": "'Ready To Move Forward': Canadian Envoy On India-Canada Reset",
+        "link": "https://www.ndtv.com/india-news/ready-to-move-forward-canadian-envoy-on-india-canada-reset-11362909#publisher=newsstand"
       },
       {
         "title": "5 Guns, 7 Magazines: 13-Year-Old Kills 9 In Turkey School, Then Shoots Self",
@@ -179,10 +177,6 @@
       {
         "title": "Centre's New Delimitation Bill Has Provisions For Pak-Occupied Kashmir Too",
         "link": "https://www.ndtv.com/india-news/2026-delimitation-bill-centres-new-delimitation-bill-has-provisions-for-pak-occupied-kashmir-too-11362759#publisher=newsstand"
-      },
-      {
-        "title": "US To Send More Troops To Middle East As Iran Ceasefire Nears End: Report",
-        "link": "https://www.ndtv.com/world-news/us-to-send-more-troops-to-middle-east-as-iran-ceasefire-nears-end-report-11362644#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-15 16:33 UTC"
+  "last_updated": "2026-04-15 17:42 UTC"
 }
