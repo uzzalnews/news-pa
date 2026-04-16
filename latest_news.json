@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Parliament Special Session LIVE: Lok Sabha Proceedings Extended Till Midnight Amid Debate Over Women's Reservation Bill",
+      "link": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,8 +21,8 @@
         "link": "https://www.bbc.com/news/articles/cp8dpjx1yvmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Former Arsenal goalkeeper Alex Manninger dies after car struck by train in Austria",
-        "link": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss"
+        "title": "Andrew invited to relinquish Freedom of City",
+        "link": "https://www.bbc.com/news/articles/c239219g7l5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Churchwarden jailed for murdering pensioner has conviction quashed",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "No date set for US-Iran talks, as Pakistan pushes to keep diplomacy alive",
-        "link": "https://www.aljazeera.com/news/2026/4/16/no-date-set-for-us-iran-talks-as-pakistan-pushes-to-keep-diplomacy-alive?traffic_source=rss"
+        "title": "Ex-Arsenal and Liverpool keeper Manninger killed in car crash with train",
+        "link": "https://www.aljazeera.com/sports/2026/4/16/former-arsenal-and-juventus-keeper-killed-in-austria-car-crash-with-train?traffic_source=rss"
       },
       {
-        "title": "US general clarifies Iranian ports under blockade, not Strait of Hormuz",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/us-general-clarifies-iranian-ports-under-blockade-not-strait-of-hormuz?traffic_source=rss"
+        "title": "Barcelona appeal to UEFA over Laws of Game failure in Champions League exit",
+        "link": "https://www.aljazeera.com/sports/2026/4/16/barcelona-appeal-to-uefa-over-laws-of-game-failure-in-champions-league-exit?traffic_source=rss"
       },
       {
-        "title": "Syria takes control of all bases where US forces were deployed",
-        "link": "https://www.aljazeera.com/news/2026/4/16/syria-takes-control-of-all-bases-where-us-forces-were-deployed?traffic_source=rss"
+        "title": "Gaza’s new generation of journalists face challenges, but stay resilient",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/gazas-new-generation-of-journalists-face-challenges-but-stay-resilient?traffic_source=rss"
       },
       {
-        "title": "Marie-Louise Eta: Football’s Game-changer",
-        "link": "https://www.aljazeera.com/video/game-theory/2026/4/16/marie-louise-eta-footballs-game-changer?traffic_source=rss"
+        "title": "Former lieutenant governor of Virginia kills wife and himself, police say",
+        "link": "https://www.aljazeera.com/news/2026/4/16/former-lieutenant-governor-of-virginia-kills-wife-and-himself-police-say?traffic_source=rss"
       },
       {
-        "title": "Trump says Israel and Lebanon agree to temporary ceasefire",
-        "link": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanon-agree-to-temporary-ceasefire?traffic_source=rss"
+        "title": "‘Endless grief’: Turkiye mourns victims of second school shooting in a week",
+        "link": "https://www.aljazeera.com/news/2026/4/16/endless-grief-turkey-mourns-victims-of-second-school-shooting-in-a-week?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/1992354/trump-says-israel-lebanon-have-agreed-to-10-day-ceasefire"
       },
       {
+        "title": "8 killed, 10 injured as gas supply line catches fire in KP’s Haripur",
+        "link": "https://www.dawn.com/news/1992380/8-killed-10-injured-as-gas-supply-line-catches-fire-in-kps-haripur"
+      },
+      {
         "title": "PM Shehbaz arrives in Turkiye on third leg of tri-nation tour",
         "link": "https://www.dawn.com/news/1992240/pm-shehbaz-arrives-in-turkiye-on-third-leg-of-tri-nation-tour"
       },
@@ -82,12 +92,8 @@
         "link": "https://www.dawn.com/news/1992355/pti-leaders-no-show-at-adiala-jail-on-court-mandated-day-for-meeting-with-imran"
       },
       {
-        "title": "Man buried under rubble rescued alive 16 days after mine collapse in KP’s Mardan",
-        "link": "https://www.dawn.com/news/1992304/man-buried-under-rubble-rescued-alive-16-days-after-mine-collapse-in-kps-mardan"
-      },
-      {
-        "title": "No date set for second round of US-Iran talks, FO says",
-        "link": "https://www.dawn.com/news/1992276/no-date-set-for-second-round-of-us-iran-talks-fo-says"
+        "title": "Cuba ‘ready’ for possible US attack: president",
+        "link": "https://www.dawn.com/news/1992366/cuba-ready-for-possible-us-attack-president"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Trump says Iran agrees to hand over enriched uranium as deal nears",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-agrees-hand-over-enriched-uranium-deal-nears"
+      },
+      {
+        "title": "Saudi Arabia pressed US to secure a Lebanon ceasefire to preserve Iran negotiations, sources say",
+        "link": "https://www.middleeasteye.net/news/saudi-arabia-pressed-us-ceasefire-lebanon-preserve-iran-negotiations-sources-say"
+      },
+      {
+        "title": "Hezbollah says Israeli troop presence gives Lebanon ‘right to resist’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israeli-troop-presence-gives-lebanon-right-resist"
+      },
+      {
         "title": "Israeli strike kills seven in Lebanon hours before ceasefire",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-seven-lebanon-hours-ceasefire"
       },
       {
         "title": "US says it will pursue ships in Pacific Ocean supporting Iran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-will-pursue-ships-pacific-ocean-supporting-iran"
-      },
-      {
-        "title": "Gulf and EU leaders believe that at least six-months is needed for a US-Iran deal: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-and-eu-leaders-believe-least-six-months-needed-us-iran-deal"
-      },
-      {
-        "title": "US says it will pursue ships in Pacific Ocean supporting Iran",
-        "link": "https://www.middleeasteye.net/news/us-says-it-will-pursue-ships-pacific-ocean-supporting-iran"
-      },
-      {
-        "title": "EU welcomes Israel-Lebanon ceasefire, urges respect for sovereignty",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-welcomes-israel-lebanon-ceasefire-urges-respect-sovereignty"
       }
     ],
     "GeoTV": [
       {
-        "title": "Layla Banaras: Bridging two worlds, building Pakistan's women's football future",
-        "link": "https://www.geo.tv/latest/660331-bridging-two-worlds-building-pakistans-womens-football-future-layla-banaras"
+        "title": "Anthropic releases Claude Opus 4, but says it's less capable than Mythos",
+        "link": "https://www.geo.tv/latest/660358-anthropic-releases-claude-opus-4-but-says-its-less-capable-than-mythos"
       },
       {
-        "title": "Princess Charlotte faces her big day without King Charles",
-        "link": "https://www.geo.tv/latest/660334-princess-charlotte-faces-her-big-day-without-king-charles"
+        "title": "Meghan takes Harry's hand as couple share soft moment on Sydney arrival",
+        "link": "https://www.geo.tv/latest/660351-meghan-takes-harrys-hand-as-couple-share-soft-moment-on-sydney-arrival"
       },
       {
-        "title": "Santiago de Compostela Airport closure: What travellers need to know",
-        "link": "https://www.geo.tv/latest/660341-santiago-de-compostela-airport-closure-what-travellers-need-to-know"
+        "title": "Germany plans to deduct salary for first sick day: Here's what it means",
+        "link": "https://www.geo.tv/latest/660355-germany-plans-to-deduct-salary-for-first-sick-day-heres-what-it-means"
       },
       {
-        "title": "Field Marshal Munir visits Iran army's headquarters in Tehran",
-        "link": "https://www.geo.tv/latest/660337-field-marshal-munir-visits-iran-armys-headquarters-in-tehran"
+        "title": "Insight into ‘Hunger Games' star arrest over shocking assault claims",
+        "link": "https://www.geo.tv/latest/660353-insight-into-hunger-games-star-arrest-over-shocking-assault-claims"
       },
       {
-        "title": "PM Shehbaz reaches Turkiye on third leg of his tri-nation trip",
-        "link": "https://www.geo.tv/latest/660336-pm-shehbaz-reaches-turkiye-on-third-leg-of-his-tri-nation-trip"
+        "title": "Why are US scientists going missing? White House responds",
+        "link": "https://www.geo.tv/latest/660354-why-are-us-scientists-going-missing-white-house-responds"
       }
     ],
     "NDTV": [
       {
-        "title": "Women's Reservation Bill To Remain A Post-Dated Cheque Forever: K Kavitha",
-        "link": "https://www.ndtv.com/india-news/womens-reservation-bill-to-remain-a-post-dated-cheque-forever-k-kavitha-11367860#publisher=newsstand"
+        "title": "Is Suvendu Adhikari BJP's Chief Minister Face In Bengal? What He Told NDTV",
+        "link": "https://www.ndtv.com/india-news/is-suvendu-adhikari-bjps-chief-minister-face-in-bengal-what-he-told-ndtv-11368130#publisher=newsstand"
       },
       {
-        "title": "Israel, Lebanon To Begin 10-Day Ceasefire In Less Than Six Hours: Trump",
-        "link": "https://www.ndtv.com/world-news/israel-lebanon-to-begin-10-day-ceasefire-in-less-than-six-hours-trump-11367864#publisher=newsstand"
+        "title": "Parliament Special Session LIVE: Lok Sabha Proceedings Extended Till Midnight Amid Debate Over Women's Reservation Bill",
+        "link": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand"
       },
       {
-        "title": "Competition Panel Rejects Complaint Against Adani Group, Azure Power In Solar Tender Case",
-        "link": "https://www.ndtv.com/india-news/competition-panel-rejects-complaint-against-adani-group-azure-power-in-solar-tender-case-11367952#publisher=newsstand"
+        "title": "Jobs, Clean Governance: Suvendu Adhikari On What BJP Will Deliver In Bengal",
+        "link": "https://www.ndtv.com/india-news/2026-west-bengal-election-jobs-clean-governance-suvendu-adhikari-on-what-bjp-will-deliver-in-bengal-11368096#publisher=newsstand"
       },
       {
-        "title": "Bhopal Woman, 64, Duped Of Rs 26 Lakh In Digital Arrest Fraud",
-        "link": "https://www.ndtv.com/india-news/bhopal-woman-64-duped-of-rs-26-lakh-in-digital-arrest-fraud-11367898#publisher=newsstand"
+        "title": "Asim Munir In Iran To Discuss Next Round Of US Talks",
+        "link": "https://www.ndtv.com/world-news/israel-us-iran-war-asim-munir-in-iran-to-discuss-new-round-of-us-talks-11366690#publisher=newsstand"
       },
       {
-        "title": "Probe Agency Raids 32nd Avenue Group In Rs 500 Crore Scam, Seizes Cash, Gold",
-        "link": "https://www.ndtv.com/india-news/probe-agency-ed-raids-32nd-avenue-group-in-rs-500-crore-scam-seizes-cash-gold-11367753#publisher=newsstand"
+        "title": "Who's Behind The Hits? India's Most-Wanted Terror Figures Fall In Pakistan",
+        "link": "https://www.ndtv.com/world-news/from-karachi-to-lahore-a-kill-trail-of-terrorists-in-pakistan-by-unknown-gunmen-11367052#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-16 17:41 UTC"
+  "last_updated": "2026-04-16 18:48 UTC"
 }
