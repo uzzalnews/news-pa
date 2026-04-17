@@ -1,22 +1,28 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Parliament Special Session LIVE: Amit Shah Says Opposition Against Reservation For Women",
+      "link": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Chris Mason: Mandelson nightmare haunts Starmer again",
-        "link": "https://www.bbc.com/news/articles/c8dl8l5l008o?at_medium=RSS&at_campaign=rss"
+        "title": "Kensington Gardens shut after claims of drones near Israeli embassy",
+        "link": "https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Kensington Gardens shut as police 'assess items'",
-        "link": "https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&at_campaign=rss"
+        "title": "Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66",
+        "link": "https://www.bbc.com/news/articles/cn9qprx2ljlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK petrol and diesel prices fall after weeks of rises",
+        "link": "https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Lamborghini among 160,000 cars seized as uninsured driving reaches 17-year high",
         "link": "https://www.bbc.com/news/articles/clyr7dmry5mo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Harry and Meghan meet Bondi shooting survivors",
-        "link": "https://www.bbc.com/news/articles/c625dd1zjy3o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Avengers reassemble and Ariana meets the Fockers - Hollywood studios preview new movies",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Tennis: Djokovic pulls out of Madrid Open over injury concerns",
-        "link": "https://www.aljazeera.com/sports/2026/4/17/tennis-djokovic-pulls-out-of-madrid-open-over-injury-concerns?traffic_source=rss"
+        "title": "The three clocks of the Iran war",
+        "link": "https://www.aljazeera.com/opinions/2026/4/17/the-three-clocks-of-the-iran-war?traffic_source=rss"
       },
       {
-        "title": "Could the Lebanon ceasefire lead to US-Iran talks breakthrough?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/could-the-lebanon-ceasefire-lead-to-us-iran-talks-breakthrough?traffic_source=rss"
+        "title": "World Cup 2026: Saudi Arabia sack coach Herve Renard",
+        "link": "https://www.aljazeera.com/sports/2026/4/17/saudi-arabia-sack-coach-herve-renard-ahead-of-fifa-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Lebanese celebrate return to homes as 10-day ceasefire begins",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/lebanese-celebrate-return-to-homes-as-10-day-ceasefire-begins?traffic_source=rss"
+        "title": "How the Lebanon ceasefire is viewed in Israel",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/how-the-lebanon-ceasefire-is-viewed-in-israel?traffic_source=rss"
       },
       {
-        "title": "Israeli attacks kill several over two days in Gaza despite ‘ceasefire’",
-        "link": "https://www.aljazeera.com/news/2026/4/17/israeli-attacks-kill-several-over-two-days-in-gaza-despite-ceasefire?traffic_source=rss"
+        "title": "Bulgaria elections: Who’s running and what’s at stake?",
+        "link": "https://www.aljazeera.com/news/2026/4/17/bulgaria-elections-whos-running-and-whats-at-stake?traffic_source=rss"
       },
       {
-        "title": "What we know about the Israel-Lebanon ceasefire",
-        "link": "https://www.aljazeera.com/news/2026/4/17/what-we-know-about-the-israel-lebanon-ceasefire?traffic_source=rss"
+        "title": "Macron and Starmer host allies for summit on Hormuz maritime security",
+        "link": "https://www.aljazeera.com/news/2026/4/17/macron-and-starmer-host-allies-for-summit-on-hormuz-maritime-security?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "Pakistan escorted Iranian negotiators home from peace talks amid concerns of Israeli attack, sources say",
+        "link": "https://www.dawn.com/news/1992620/pakistan-escorted-iranian-negotiators-home-from-peace-talks-amid-concerns-of-israeli-attack-sources-say"
+      },
+      {
         "title": "Bushra Bibi shifted back to prison following eye surgery: Adiala jail authorities",
         "link": "https://www.dawn.com/news/1992563/bushra-bibi-shifted-back-to-prison-following-eye-surgery-adiala-jail-authorities"
       },
@@ -82,28 +92,12 @@
         "link": "https://www.dawn.com/news/1992601/canada-t20-world-cup-game-under-icc-scrutiny-after-corruption-claim"
       },
       {
-        "title": "Pakistan, Saudi Arabia sign agreement to extend $3bn deposit",
-        "link": "https://www.dawn.com/news/1992553/pakistan-saudi-arabia-sign-agreement-to-extend-3bn-deposit"
-      },
-      {
-        "title": "PM Shehbaz to meet President Erdogan, attend diplomacy forum on third leg of tour today",
-        "link": "https://www.dawn.com/news/1992556/pm-shehbaz-to-meet-president-erdogan-attend-diplomacy-forum-on-third-leg-of-tour-today"
+        "title": "Islamabad administration denies claims regarding closure of transport terminals",
+        "link": "https://www.dawn.com/news/1992605/islamabad-administration-denies-claims-regarding-closure-of-transport-terminals"
       }
     ],
     "APNews": [],
     "NYTimes": [
-      {
-        "title": "Lebanon’s Cease-Fire Buys Time, Not a Way Out",
-        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-israel-ceasefire-hezbollah.html"
-      },
-      {
-        "title": "Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot",
-        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/lebanon-cease-fire-netanyahu-israel.html"
-      },
-      {
-        "title": "Israel-Lebanon Cease-Fire: What to Know",
-        "link": "https://www.nytimes.com/2026/04/17/world/middleeast/israel-lebanon-ceasefire.html"
-      },
       {
         "title": "What to Know About the Israel-Lebanon Cease-Fire, and R.F.K. Jr.’s Shifting Tone on Vaccines",
         "link": "https://www.nytimes.com/2026/04/17/podcasts/the-headlines/israel-lebanon-cease-fire-rfk-jr-vaccines-heelys.html"
@@ -111,72 +105,84 @@
       {
         "title": "House Votes to Extend Expiring FISA Surveillance Law for 10 Days",
         "link": "https://www.nytimes.com/2026/04/17/us/politics/fisa-702-surveillance-house-vote-trump.html"
+      },
+      {
+        "title": "Marie-Thérèse Ross-Mahé Detained by ICE in Alabama Is Released",
+        "link": "https://www.nytimes.com/2026/04/17/us/french-woman-release-alabama-ice.html"
+      },
+      {
+        "title": "She Made Sure Her Baby Was Born an American. Then Federal Agents Separated Them.",
+        "link": "https://www.nytimes.com/2026/04/17/us/politics/ice-cbp-birth-pregnancy-detention.html"
+      },
+      {
+        "title": "Acting ICE Director Says He Plans to Resign in May",
+        "link": "https://www.nytimes.com/2026/04/16/us/politics/lyons-ice-director-resigns.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli military will “continue to hold” areas captured in Southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-will-continue-hold-areas-captured-southern-lebanon"
+        "title": "US envoy Barrack plays down idea Turkey could be 'next Iran' for Israel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-envoy-barrack-plays-down-idea-turkey-could-be-next-iran-israel"
       },
       {
-        "title": "Foreign Ministers from Turkey, Pakistan, Saudi Arabia, and Egypt to meet at Antalya forum",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/foreign-ministers-turkey-pakistan-saudi-arabia-and-egypt-meet-antalya"
+        "title": "Iran says Strait of Hormuz reopened after Lebanon ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-strait-hormuz-reopened-after-lebanon-ceasefire"
       },
       {
-        "title": "Iran rejects temporary ceasefire, calls for end to war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-rejects-temporary-ceasefire-calls-end-war"
+        "title": "No ceasefire for Iran’s Kurdish opposition parties in exile",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/no-ceasefire-irans-kurdish-opposition-parties-exile"
       },
       {
-        "title": "'All changed with the genocide': Palestinian women and girls face brutal abuse in Israeli jails",
-        "link": "https://www.middleeasteye.net/opinion/we-failed-prisoners-palestinian-women-suffer-israeli-jails"
+        "title": "US envoy Barrack plays down idea Turkey could be 'next Iran' for Israel",
+        "link": "https://www.middleeasteye.net/news/turkey-next-iran-us-envoy-barrack-says-turkey-isnt-country-be-messed"
       },
       {
-        "title": "Tens of thousands return to south Lebanon after ceasefire, defying Israeli warnings",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tens-thousands-return-south-lebanon-after-ceasefire-defying-israeli"
+        "title": "Lebanese President Aoun calls for negotiations following ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-president-aoun-calls-negotiations-following-ceasefire"
       }
     ],
     "GeoTV": [
       {
-        "title": "Tilly Norwood sparks AI backlash at Duffer Brothers' former film school",
-        "link": "https://www.geo.tv/latest/660452-tilly-norwood-sparks-ai-backlash-at-duffer-brothers-former-film-school"
+        "title": "What is FISA? Everything to know about Section 702 expiring April 20",
+        "link": "https://www.geo.tv/latest/660472-what-is-fisa-everything-to-know-about-section-702-expiring-april-20"
       },
       {
-        "title": "Prince Harry pushes Meghan into spotlight to teach trolls a lesson",
-        "link": "https://www.geo.tv/latest/660449-prince-harry-pushes-meghan-into-spotlight-to-teach-trolls-a-lesson"
+        "title": "Lahore Qalandars opt to bat first against Quetta Gladiators in PSL 11 encounter",
+        "link": "https://www.geo.tv/latest/660465-lahore-qalandars-opt-to-bat-first-against-quetta-gladiators-in-psl-11-encounter"
       },
       {
-        "title": "Katy Perry beau Justin Trudeau takes firm decision amid Ruby Rose assault claims",
-        "link": "https://www.geo.tv/latest/660440-explosive-allegations-on-katy-perry-revealed-her-trusted-circle"
+        "title": "LHC dismisses petition against withdrawal of free electricity for power sector employees",
+        "link": "https://www.geo.tv/latest/660460-lhc-dismisses-petition-against-withdrawal-of-free-electricity-for-power-sector-employees"
       },
       {
-        "title": "'Street Fighter' trailer drops: Noah Centineo, Jason Momoa go big on classic game",
-        "link": "https://www.geo.tv/latest/660445-street-fighter-trailer-drops-noah-centineo-jason-momoa-go-big-on-classic-game"
+        "title": "Queen Camilla protects King Charles reign with painful sacrifice",
+        "link": "https://www.geo.tv/latest/660456-queen-camilla-protects-king-charles-reign-with-painful-sacrifice"
       },
       {
-        "title": "Pedro Almodóvar throws shade at Jacob Elordi",
-        "link": "https://www.geo.tv/latest/660447-pedro-almodvar-throws-shade-at-jacob-elordi"
+        "title": "Central US braces for monster hail, EF-3 tornadoes as level 3 risk issued",
+        "link": "https://www.geo.tv/latest/660467-central-us-braces-for-monster-hail-ef-3-tornadoes-as-level-3-risk-issued"
       }
     ],
     "NDTV": [
       {
-        "title": "'PM Modi's Leadership Gives Us Confidence': Sanjiv Goenka To NDTV On Iran War",
-        "link": "https://www.ndtv.com/india-news/pm-modis-leadership-gives-us-confidence-industrialist-sanjiv-goenka-to-ndtv-on-iran-war-11371232#publisher=newsstand"
+        "title": "After Iran's \"Hormuz Open\" Declaration, Trump's Blockade In \"Full Force\" Update",
+        "link": "https://www.ndtv.com/world-news/strait-of-hormuz-hormuz-completely-open-but-blockade-will-remain-in-full-force-says-donald-trump-11372232#publisher=newsstand"
       },
       {
-        "title": "Russia Is Building Army Of Teen Influencers To Create Pro-War Content",
-        "link": "https://www.ndtv.com/world-news/russia-is-building-army-of-teen-influencers-to-creat-pro-war-content-11370661#publisher=newsstand"
+        "title": "Strait Of Hormuz \"Completely Open\" During Ceasefire: Iran's Big Announcement",
+        "link": "https://www.ndtv.com/world-news/iran-declares-passage-for-all-commercial-vessels-through-strait-of-hormuz-completely-open-during-ceasefire-period-11372002#publisher=newsstand"
       },
       {
-        "title": "Myanmar Reduces Ex-Leader Aung San Suu Kyi's Sentence: Report",
-        "link": "https://www.ndtv.com/world-news/myanmar-reduces-ex-leader-aung-san-suu-kyis-sentence-report-11370738#publisher=newsstand"
+        "title": "Parliament Special Session LIVE: Amit Shah Says Opposition Against Reservation For Women",
+        "link": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand"
       },
       {
-        "title": "'24 Hours Without Food, Water': Indian Woman In US For 35 Years Detained By ICE",
-        "link": "https://www.ndtv.com/world-news/indian-woman-meenu-batra-in-us-for-35-years-detained-by-ice-24-hours-without-food-water-11371156#publisher=newsstand"
+        "title": "1st Loaded Iranian Oil Tankers Leave Through Hormuz Since US Blockade",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-1st-loaded-iranian-oil-tankers-leave-through-hormuz-since-us-blockade-11372033#publisher=newsstand"
       },
       {
-        "title": "Stock Market Highlights: Sensex Closes 500 Points Higher Amid US-Iran Talk Hopes",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-17-april-oil-prices-donald-trump-us-iran-peace-talks-11369331#publisher=newsstand"
+        "title": "Rs 2,500 To Women, Rs 25 Lakh Loan: Vijay's Welfare Push In TVK Manifesto",
+        "link": "https://www.ndtv.com/india-news/rs-2-500-to-women-rs-25-lakh-loan-vijays-welfare-push-in-tvk-manifesto-11371992#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-17 12:04 UTC"
+  "last_updated": "2026-04-17 13:55 UTC"
 }
