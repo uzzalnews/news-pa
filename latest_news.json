@@ -25,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "US Congress temporarily extends controversial surveillance power under FISA",
+        "link": "https://www.aljazeera.com/news/2026/4/17/us-congress-temporarily-extends-controversial-surveillance-power-under-fisa?traffic_source=rss"
+      },
+      {
         "title": "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
         "link": "https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict?traffic_source=rss"
       },
@@ -39,10 +43,6 @@
       {
         "title": "Shipping firms seek clarifications before crossing Hormuz",
         "link": "https://www.aljazeera.com/economy/2026/4/17/shipping-firms-seek-clarifications-before-crossing-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "What has Trump said before possible US-Iran talks and what could it mean?",
-        "link": "https://www.aljazeera.com/news/2026/4/17/what-has-trump-said-ahead-of-possible-us-iran-talks-and-what-could-it-mean?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -105,15 +105,19 @@
         "link": "https://www.nytimes.com/2026/04/17/business/stocks-oil-iran-war-strait-of-hormuz.html"
       },
       {
-        "title": "Marie-Thérèse Ross-Mahé, Detained by ICE in Alabama, Is Released",
-        "link": "https://www.nytimes.com/2026/04/17/us/french-woman-release-alabama-ice.html"
+        "title": "Prosecutor Withdraws From Trump Team’s Investigation of Ex-CIA Director John O. Brennan",
+        "link": "https://www.nytimes.com/2026/04/17/us/justice-dept-trump-investigation-cia-brennan.html"
       },
       {
-        "title": "She Made Sure Her Baby Was Born an American. Then Federal Agents Separated Them.",
-        "link": "https://www.nytimes.com/2026/04/17/us/politics/ice-cbp-birth-pregnancy-detention.html"
+        "title": "The 27-Year-Old Diplomat Waging Trump’s Cultural War With Europe",
+        "link": "https://www.nytimes.com/2026/04/17/world/europe/trump-samson-europe.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iran says its enriched uranium 'not going to be transferred'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-its-enriched-uranium-not-going-be-transferred"
+      },
       {
         "title": "More than 38,000 women, girls killed in Gaza war by end of 2025, UN says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-38000-women-girls-killed-gaza-war-end-2025-un-says"
@@ -129,13 +133,17 @@
       {
         "title": "Lebanon president says country no longer 'arena for anyone's wars'",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-country-no-longer-arena-anyones-wars"
-      },
-      {
-        "title": "Significant differences remain between Iran-US, including on nuclear issues, senior Iranian official says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/significant-differences-remain-between-iran-us-including-nuclear-issues"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Why did DOJ remove lead prosecutor Maria Medetis from John Brennan investigation?",
+        "link": "https://www.geo.tv/latest/660515-why-did-doj-remove-lead-prosecutor-maria-medetis-from-john-brennan-investigation"
+      },
+      {
+        "title": "PM Shehbaz lauds Trump's ‘gracious' remarks praising Pakistan's mediation efforts",
+        "link": "https://www.geo.tv/latest/660508-pm-shehbaz-lauds-trumps-gracious-remarks-praising-pakistans-mediation-efforts"
+      },
       {
         "title": "GPT-Rosalind explained: OpenAI's new AI model for drug discovery, Biology",
         "link": "https://www.geo.tv/latest/660510-gpt-rosalind-explained-openais-new-ai-model-for-drug-discovery-biology"
@@ -147,36 +155,28 @@
       {
         "title": "Will Claude Design replace designers? Anthropic launches new AI to generate prototypes",
         "link": "https://www.geo.tv/latest/660509-will-claude-design-replace-designers-anthropic-launches-new-ai-to-generate-prototypes"
-      },
-      {
-        "title": "Unbeaten Peshawar Zalmi seal PSL 11 playoff spot",
-        "link": "https://www.geo.tv/latest/660498-unbeaten-peshawar-zalmi-seal-psl-11-playoff-spot"
-      },
-      {
-        "title": "Will Trump pardon Epstein's accomplice Ghislaine Maxwell? Her lawyer seems relieved",
-        "link": "https://www.geo.tv/latest/660506-will-trump-pardon-epsteins-accomplice-ghislaine-maxwell-her-lawyer-seems-relieved"
       }
     ],
     "NDTV": [
       {
+        "title": "Strait Of Hormuz \"Completely Open\". But Iran's Guards Impose Fresh Conditions",
+        "link": "https://www.ndtv.com/world-news/strait-of-hormuz-completely-open-but-irans-revolutionary-guards-impose-fresh-conditions-11373756#publisher=newsstand"
+      },
+      {
+        "title": "\"Mine Threat In Parts Of Hormuz Not Fully Understood\": US Navy Advisory",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-mine-threat-in-parts-of-hormuz-not-fully-understood-us-navy-advisory-11373688#publisher=newsstand"
+      },
+      {
+        "title": "Parliament Special Session Highlights: Constitutional Amendment Fails In Lok Sabha, Falls Short Of Two-Thirds Majority",
+        "link": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand"
+      },
+      {
+        "title": "9 Tourists Killed As Van Falls In Gorge Into Tamil Nadu, PM Condoles Deaths",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-9-tourists-killed-as-van-falls-in-gorge-pm-condoles-deaths-11373170#publisher=newsstand"
+      },
+      {
         "title": "Rain, Gusty Winds Hit Delhi As Met Department Warns Of Thunderstorms",
         "link": "https://www.ndtv.com/india-news/rain-gusty-winds-hit-delhi-as-met-department-warns-of-thunderstorms-11373584#publisher=newsstand"
-      },
-      {
-        "title": "Women's Representation In Legislatures: What The Numbers Reveal",
-        "link": "https://www.ndtv.com/india-news/womens-reservation-bill-womens-quota-bill-womens-representation-in-legislatures-what-the-numbers-reveal-11373494#publisher=newsstand"
-      },
-      {
-        "title": "Liquor, Goat Liver, Aghori Rituals: Self-Styled Godman's Web Of Lies Exposed",
-        "link": "https://www.ndtv.com/india-news/liquor-goat-liver-aghori-rituals-self-styled-godmans-web-of-lies-exposed-11373530#publisher=newsstand"
-      },
-      {
-        "title": "Petrol Queues, Search Spikes: India's Oil Panic Eases After Hormuz Opens",
-        "link": "https://www.ndtv.com/india-news/us-israel-iran-war-petrol-queues-search-spikes-indias-oil-panic-eases-after-hormuz-opens-11373444#publisher=newsstand"
-      },
-      {
-        "title": "Indian Navy Veteran Can't Return From Qatar Despite Commuted Death Sentence",
-        "link": "https://www.ndtv.com/india-news/indian-navy-veteran-stuck-in-doha-despite-commuted-death-sentence-heres-why-11373342#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-17 19:14 UTC"
+  "last_updated": "2026-04-17 20:04 UTC"
 }
