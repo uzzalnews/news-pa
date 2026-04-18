@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Chelsea vs Manchester United – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/18/live-chelsea-vs-manchester-united-english-premier-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Mazzucato on the Iran war’s economic shock: Who pays the price?",
+        "link": "https://www.aljazeera.com/video/upfront/2026/4/18/mazzucato-on-the-iran-wars-economic-shock-who-pays-the-price?traffic_source=rss"
+      },
+      {
+        "title": "Mexico arrests suspected Hungarian drug trafficker amid crime crackdown",
+        "link": "https://www.aljazeera.com/news/2026/4/18/mexico-arrests-suspected-hungarian-drug-trafficker-amid-crime-crackdown?traffic_source=rss"
+      },
+      {
         "title": "Sudanese refugees trapped between borders and bureaucracy in Morocco",
         "link": "https://www.aljazeera.com/features/longform/2026/4/18/sudanese-refugees-trapped-between-borders-and-bureaucracy-in-morocco?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "Trump joined by Joe Rogan as he signs order to speed up psychedelic review",
         "link": "https://www.aljazeera.com/news/2026/4/18/trump-joined-by-joe-rogan-as-he-signs-order-to-speed-up-psychedelic-review?traffic_source=rss"
-      },
-      {
-        "title": "‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump",
-        "link": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Chelsea vs Manchester United – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/18/live-chelsea-vs-manchester-united-english-premier-league?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli army says at least 14 soldiers killed in Lebanon war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-least-14-soldiers-killed-lebanon-war"
+      },
+      {
+        "title": "Israel probes soldiers over suspected links to Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-probes-soldiers-over-suspected-links-iran"
+      },
+      {
         "title": "Iran warns ships near Hormuz will be treated as targets",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-ships-near-hormuz-will-be-treated-targets"
       },
@@ -131,17 +133,17 @@
       {
         "title": "Israel establishes ‘Yellow Line’ in Lebanon, strikes targets despite ceasefire",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-establishes-yellow-line-lebanon-strikes-targets-despite-ceasefire"
-      },
-      {
-        "title": "Amid Israel's 'forever wars', Palestinians must not abandon the one-state solution",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/amid-israels-forever-wars-palestinians-must-not-abandon-one-state"
-      },
-      {
-        "title": "Unicef halts Gaza operations after Israeli attack kills drivers",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/unicef-halts-gaza-operations-after-israeli-attack-kills-drivers"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Watch: Max Fosh sets referee's yellow card on FIRE during Sidemen Charity Match",
+        "link": "https://www.geo.tv/latest/660652-watch-max-fosh-sets-referees-yellow-card-on-fire-during-sidemen-charity-match"
+      },
+      {
+        "title": "FBI director Kash Patel threatens to sue ‘The Atlantic': Here's everything to know",
+        "link": "https://www.geo.tv/latest/660651-fbi-director-kash-patel-threatens-to-sue-the-atlantic-heres-everything-to-know"
+      },
       {
         "title": "Sofia Isella details heartfelt interaction with Taylor Swift at Eras Tour",
         "link": "https://www.geo.tv/latest/660646-sofia-isella-details-heartfelt-interaction-with-taylor-swift-at-eras-tour"
@@ -153,14 +155,6 @@
       {
         "title": "Trump vs Pope Leo XIV: Explosive feud escalates as president calls pontiff 'weak'",
         "link": "https://www.geo.tv/latest/660647-trump-vs-pope-leo-xiv-explosive-feud-escalates-as-president-calls-pontiff-weak"
-      },
-      {
-        "title": "Behind the scenes: Meghan Markle's at 'Her Best Life' event",
-        "link": "https://www.geo.tv/latest/660645-behind-the-scenes-meghan-markles-at-her-best-life-event"
-      },
-      {
-        "title": "Zara Tindall's family support remains a question at Burnham Market",
-        "link": "https://www.geo.tv/latest/660644-zara-tindalls-family-support-remains-a-question-at-burnham-market"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-18 19:27 UTC"
+  "last_updated": "2026-04-18 20:02 UTC"
 }
