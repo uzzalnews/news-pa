@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Chelsea vs Manchester United – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/18/live-chelsea-vs-manchester-united-english-premier-league?traffic_source=rss"
+    },
+    {
+      "source": "NDTV",
+      "title": "PM Modi LIVE: Congress Missed Chance To Script History, Correct Mistakes: PM On Women's Bill",
+      "link": "https://www.ndtv.com/india-news/pm-modi-address-nation-live-updates-women-reservation-bill-11376289#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,15 +26,23 @@
         "link": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "At least two dead as gunman opens fire and takes hostages in Kyiv",
+        "title": "At least five killed in Kyiv as gunman opens fire and takes hostages",
         "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Counter-terror police investigate another London arson attack",
-        "link": "https://www.bbc.com/news/articles/cqxl1qr11q2o?at_medium=RSS&at_campaign=rss"
+        "title": "Coachella campers are turning tents fancy - and not all Brits are happy",
+        "link": "https://www.bbc.com/news/articles/c2032x399w1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Chelsea vs Manchester United – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/18/live-chelsea-vs-manchester-united-english-premier-league?traffic_source=rss"
+      },
+      {
+        "title": "“Lords of war.” Brazil’s president condemns UN Security Council",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/lords-of-war-brazils-president-condemns-un-security?traffic_source=rss"
+      },
       {
         "title": "French soldier serving with UNIFIL killed in Lebanon attack",
         "link": "https://www.aljazeera.com/news/2026/4/18/french-soldier-serving-with-unifil-killed-in-lebanon-attack?traffic_source=rss"
@@ -35,14 +54,6 @@
       {
         "title": "UNICEF ‘outraged’ after Israeli forces kill water truck drivers in Gaza",
         "link": "https://www.aljazeera.com/news/2026/4/18/unicef-outraged-after-israeli-forces-kill-water-truck-drivers-in-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Trump claims on Iranian concessions trigger questions, rejections in Tehran",
-        "link": "https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss"
-      },
-      {
-        "title": "Slavery reparations are just, but who exactly owes whom?",
-        "link": "https://www.aljazeera.com/opinions/2026/4/18/slavery-reparations-are-just-but-who-exactly-owes-whom?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,8 +97,8 @@
         "link": "https://www.dawn.com/news/1992985/after-bbc-expose-ex-sapm-on-health-voices-alarm-at-uptick-in-hiv-cases-in-pakistan"
       },
       {
-        "title": "Foreign ministers of Pakistan, Saudi Arabia, Turkiye and Egypt discuss ‘evolving regional dynamics’",
-        "link": "https://www.dawn.com/news/1992953/foreign-ministers-of-pakistan-saudi-arabia-turkiye-and-egypt-discuss-evolving-regional-dynamics"
+        "title": "Mob torches water tanker after it runs over, kills motorcyclist in Karachi’s Gulistan-i-Jauhar",
+        "link": "https://www.dawn.com/news/1992999/mob-torches-water-tanker-after-it-runs-over-kills-motorcyclist-in-karachis-gulistan-i-jauhar"
       }
     ],
     "APNews": [],
@@ -115,6 +126,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Gaza genocide death toll reaches 72,549",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-genocide-death-toll-reaches-72549"
+      },
+      {
         "title": "India protests after ships attacked in Strait of Hormuz",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/india-protests-after-ships-attacked-strait-hormuz"
       },
@@ -129,13 +144,21 @@
       {
         "title": "Hezbollah denies involvement in deadly attack on UN peacekeepers",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-denies-involvement-deadly-attack-un-peacekeepers"
-      },
-      {
-        "title": "Iran says reviewing 'new proposals' from US",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-reviewing-new-proposals-us"
       }
     ],
     "GeoTV": [
+      {
+        "title": "King Charles shatters Prince Harry's hope of face-to-face meeting",
+        "link": "https://www.geo.tv/latest/660626-king-charles-shatters-prince-harrys-hope-of-face-to-face-meeting"
+      },
+      {
+        "title": "NVIDIA's CEO Jensen Huang warns China is set to become superior to US in AI",
+        "link": "https://www.geo.tv/latest/660630-nvidias-ceo-jensen-huang-warns-china-is-set-to-become-superior-to-us-in-ai"
+      },
+      {
+        "title": "Duke of Edinburgh returns to Clarence House after busy day of engagements",
+        "link": "https://www.geo.tv/latest/660629-duke-of-edinburgh-returns-to-clarence-house-after-busy-day-of-engagements"
+      },
       {
         "title": "Iran closed Strait of Hormuz, imposing ‘strict control' on waterway",
         "link": "https://www.geo.tv/latest/660625-iran-closed-strait-of-hormuz-imposing-strict-control-on-waterway"
@@ -143,40 +166,28 @@
       {
         "title": "King Charles delights locals with surprise stop in Aboyne",
         "link": "https://www.geo.tv/latest/660609-king-charles-delights-locals-with-surprise-stop-in-aboyne"
-      },
-      {
-        "title": "WrestleMania 42: Dates, full match card, how to watch",
-        "link": "https://www.geo.tv/latest/660624-wrestlemania-42-dates-full-match-card-how-to-watch"
-      },
-      {
-        "title": "Trump signs executive order to fast-track psychedelic drugs, including ibogaine",
-        "link": "https://www.geo.tv/latest/660623-trump-signs-executive-order-to-fast-track-psychedelic-drugs-including-ibogaine"
-      },
-      {
-        "title": "US extends Russian oil sanctions waiver despite earlier vow to end it: Here's why",
-        "link": "https://www.geo.tv/latest/660622-us-extends-russian-oil-sanctions-waiver-despite-earlier-vow-to-end-it-heres-why"
       }
     ],
     "NDTV": [
       {
-        "title": "US-Iran War Live Updates: Conveyed \"Deep Concern\" To Iran Envoy: India On Firing On 2 Ships In Hormuz",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-2nd-round-of-ceasefire-donald-trump-jd-vance-on-us-iran-mistrust-israel-lebanon-talks-pakistan-talks-strait-of-hormuz-11358654#publisher=newsstand"
+        "title": "5 Killed As Gunman Takes Hostages, Opens Fire In Supermarket In Kyiv",
+        "link": "https://www.ndtv.com/world-news/several-people-killed-as-gunman-opens-fire-in-kyiv-says-mayor-11376755#publisher=newsstand"
       },
       {
-        "title": "Noble Effort Derailed Due To Opposition's Petty Politics: PM On Women's Bill",
-        "link": "https://www.ndtv.com/india-news/noble-effort-derailed-due-to-oppositions-petty-politics-pm-on-womens-bill-11376418#publisher=newsstand"
+        "title": "'Congress And Its Allies Have Been Unmasked': PM's Top Quotes On Women's Bill",
+        "link": "https://www.ndtv.com/india-news/pm-modi-address-women-reservation-bill-lok-sabha-top-quotes-live-updates-congress-and-its-allies-have-been-unmasked-pms-top-quotes-on-womens-bill-11376763#publisher=newsstand"
+      },
+      {
+        "title": "DMK Citadel Chepauk In Focus As Udhayanidhi Stalin Seeks Re-Election",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-dmk-citadel-chepauk-in-focus-as-udhayanidhi-stalin-seeks-re-election-11376906#publisher=newsstand"
       },
       {
         "title": "2 Indian-Flagged Vessels Attacked By Iran Gunboats In Hormuz, Crew Safe: Sources",
         "link": "https://www.ndtv.com/world-news/2-indian-flagged-vessels-attacked-by-iran-gunboats-in-hormuz-crew-safe-sources-11376143#publisher=newsstand"
       },
       {
-        "title": "\"Iran Can't Blackmail Us: Trump After Tehran's Flip-Flop On Strait Of Hormuz",
-        "link": "https://www.ndtv.com/world-news/iran-cant-blackmail-us-trump-after-tehrans-flip-flop-on-strait-of-hormuz-11376420#publisher=newsstand"
-      },
-      {
-        "title": "16-Year-Old Tribal Girl Raped By 5 In Jharkhand: Police",
-        "link": "https://www.ndtv.com/india-news/16-year-old-tribal-girl-raped-by-5-in-jharkhand-police-11376568#publisher=newsstand"
+        "title": "PM Modi LIVE: Congress Missed Chance To Script History, Correct Mistakes: PM On Women's Bill",
+        "link": "https://www.ndtv.com/india-news/pm-modi-address-nation-live-updates-women-reservation-bill-11376289#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-18 15:51 UTC"
+  "last_updated": "2026-04-18 16:28 UTC"
 }
