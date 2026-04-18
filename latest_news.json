@@ -1,11 +1,13 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Parliament Special Session LIVE: Constitutional Amendment Fails In Lok Sabha, Falls Short Of Two-Thirds Majority",
+      "link": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
-      {
-        "title": "Iran says Strait of Hormuz is 'open' but tracking shows few ships moving",
-        "link": "https://www.bbc.com/news/articles/cwydexp39ddo?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
         "link": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&at_campaign=rss"
@@ -19,11 +21,23 @@
         "link": "https://www.bbc.com/news/articles/cq6jq12dmmro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Irish fugitive and alleged crime boss Daniel Kinahan arrested in Dubai",
-        "link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss"
+        "title": "'I'm the lucky one' - more than one in three young men now live with their parents",
+        "link": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Swinney predicts SNP majority at Holyrood election",
+        "link": "https://www.bbc.com/news/articles/c9wq2jvqqxvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Al-Noor centre: A lifeline for blind children in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/al-noor-centre-a-lifeline-for-blind-children-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "New Jersey announces $150 transit tickets to reach the World Cup",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/new-jersey-announces-150-transit-tickets-to-reach-the-world-cup?traffic_source=rss"
+      },
       {
         "title": "Lebanese man removes Israeli flag from castle in southern Lebanon",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/lebanese-man-removes-israeli-flag-from-castle-in-southern-lebanon?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "UN aid chief warns of possible ‘full-scale famine’ in South Sudan",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/un-aid-chief-warns-of-possible-full-scale-famine-in-south-sudan?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran says Trump made ‘false’ claims, amid peace talks",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss"
-      },
-      {
-        "title": "Pressure mounts on Peru’s election authorities amid presidential race delay",
-        "link": "https://www.aljazeera.com/news/2026/4/17/pressure-mounts-on-perus-election-authorities-amid-presidential-race-delay?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "Trump says US blockade of Iranian ports will ‘remain’ if no deal reached",
+        "link": "https://www.dawn.com/news/1992831/trump-says-us-blockade-of-iranian-ports-will-remain-if-no-deal-reached"
+      },
+      {
         "title": "Hormuz ‘fully open’ but US keeps Iran blockade intact",
         "link": "https://www.dawn.com/news/1992816/hormuz-fully-open-but-us-keeps-iran-blockade-intact"
       },
@@ -78,16 +88,12 @@
         "link": "https://www.dawn.com/news/1992761/pakistan-seeks-early-approval-of-next-imf-tranche"
       },
       {
-        "title": "Diesel price cut by Rs32 a litre, petrol unchanged",
-        "link": "https://www.dawn.com/news/1992815/diesel-price-cut-by-rs32-a-litre-petrol-unchanged"
-      },
-      {
         "title": "Pakistan escorted Iran negotiators home amid Israel concerns",
         "link": "https://www.dawn.com/news/1992758/pakistan-escorted-iran-negotiators-home-amid-israel-concerns"
       },
       {
-        "title": "Tragedy averted as 125 ferried to safety from Mangla Dam",
-        "link": "https://www.dawn.com/news/1992814/tragedy-averted-as-125-ferried-to-safety-from-mangla-dam"
+        "title": "Karachi records dramatic increase in paediatric HIV cases",
+        "link": "https://www.dawn.com/news/1992741/karachi-records-dramatic-increase-in-paediatric-hiv-cases"
       }
     ],
     "APNews": [],
@@ -101,82 +107,82 @@
         "link": "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html"
       },
       {
-        "title": "Stocks Extend Rally as Tensions Ease Over War in Iran",
-        "link": "https://www.nytimes.com/2026/04/17/business/stocks-oil-iran-war-strait-of-hormuz.html"
-      },
-      {
-        "title": "Strait of Hormuz Is Declared ‘Open,’ Boosting Hope for a Deal",
-        "link": "https://www.nytimes.com/2026/04/17/briefing/the-strait-of-hormuz-college-cookies.html"
+        "title": "A Potent Threat in Strait of Hormuz: Iran’s “Mosquito Fleet”",
+        "link": "https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html"
       },
       {
         "title": "Federal Court Temporarily Freezes Nexstar’s Merger With Tegna",
         "link": "https://www.nytimes.com/2026/04/17/business/media/nexstar-tegna-merger-freeze.html"
+      },
+      {
+        "title": "Trump’s Dispute With Pope Leo Deepens Divisions on the Right",
+        "link": "https://www.nytimes.com/2026/04/17/us/politics/republicans-trump-pope-midterms.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "US sends third aircraft carrier toward Middle East, officials say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sends-third-aircraft-carrier-toward-middle-east-officials-say"
+        "title": "Israeli forces kill person in Negohot settlement, army says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-person-negohot-settlement-army-says"
       },
       {
-        "title": "Asian markets fall as conflicting US-Iran messages creates uncertainty",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/asian-markets-fall-conflicting-us-iran-messages-creates-uncertainty"
+        "title": "Trump says Iran ceasefire may end if no deal by Wednesday",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-ceasefire-may-end-if-no-deal-wednesday"
       },
       {
-        "title": "Trump says ‘things going very well’ as Iran rejects uranium transfer",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-things-going-very-well-iran-rejects-uranium-transfer"
+        "title": "Canada stands in ‘full solidarity’ with Gulf partners, PM says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/canada-stands-full-solidarity-gulf-partners-pm-says"
       },
       {
-        "title": "US military says 21 ships complied with blockade of Iranian ports",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-21-ships-complied-blockade-iranian-ports"
+        "title": "Iran says its enriched uranium ‘not going to be transferred anywhere’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-its-enriched-uranium-not-going-be-transferred-anywhere"
       },
       {
-        "title": "Tehran says ship passage to require coordination, not standard fees",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-ship-passage-require-coordination-not-standard-fees"
+        "title": "Erdogan urges dialogue as Turkey convenes regional talks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-urges-dialogue-turkey-convenes-regional-talks"
       }
     ],
     "GeoTV": [
       {
-        "title": "Ice Spice breaks silence on fight at McDonalds",
-        "link": "https://www.geo.tv/latest/660536-ice-spice-breaks-silence-on-fight-at-mcdonalds"
+        "title": "Prince Harry, Meghan rush out of Australia amid reports of privacy breach",
+        "link": "https://www.geo.tv/latest/660544-prince-harry-meghan-rush-out-of-australia-amid-reports-of-privacy-breach"
       },
       {
-        "title": "Elle Fanning praises how ‘Margo's Got Money Troubles' handles skin exposure",
-        "link": "https://www.geo.tv/latest/660531-elle-fanning-praises-how-margos-got-money-troubles-handles-skin-exposure"
+        "title": "Dylan Sprouse rushes to protect Barbara Palvin during shocking home break-in",
+        "link": "https://www.geo.tv/latest/660541-dylan-sprouse-rushes-to-protect-barbara-palvin-during-shocking-home-break-in"
       },
       {
-        "title": "Crude oil slumps after reopening of Hormuz drains geopolitical risk from markets",
-        "link": "https://www.geo.tv/latest/660530-oil-slumps-as-hormuz-reopening-drains-geopolitical-risk-from-markets"
+        "title": "'Gouged': World Cup fans to pay 'insane' $150 for NY stadium train ticket",
+        "link": "https://www.geo.tv/latest/660540-gouged-world-cup-fans-to-pay-insane-150-for-ny-stadium-train-ticket"
       },
       {
-        "title": "‘Sinners' actress Li Jun Li to star in ‘The Last Of Us' season 3",
-        "link": "https://www.geo.tv/latest/660529-sinners-actress-li-jun-li-to-star-in-the-last-of-us-season-3"
+        "title": "Pakistan unveil 16-member squad for Test series against Bangladesh",
+        "link": "https://www.geo.tv/latest/660538-pakistan-unveil-16-member-squad-for-test-series-against-bangladesh"
       },
       {
-        "title": "Mardan mine tragedy: Funeral held, grave dug… then a miracle happened",
-        "link": "https://www.geo.tv/latest/660528-mardan-mine-tragedy-funeral-held-grave-dug-then-a-miracle-happened"
+        "title": "Natalie Portman going to become a mother again",
+        "link": "https://www.geo.tv/latest/660539-natalie-portman-going-to-become-a-mother-again"
       }
     ],
     "NDTV": [
       {
-        "title": "\"7 Claims In 1 Hour, All False\": Iran After Trump's 'Hormuz Blockade' Post",
-        "link": "https://www.ndtv.com/world-news/irans-hormuz-wont-remain-open-warning-after-trumps-blockade-post-mohammad-bagher-ghalibaf-iran-war-strait-of-hormuz-uranium-11374202#publisher=newsstand"
+        "title": "Indian Refiners Settle Iran Oil Deals In Yuan? Centre Says 'Nothing Wrong'",
+        "link": "https://www.ndtv.com/india-news/indian-refiners-using-yuan-to-settle-iran-oil-deals-what-centre-said-11374428#publisher=newsstand"
       },
       {
-        "title": "\"We Came In Fast And Hot\": Artemis Astronauts On Re-Entry At 48,021 Kmph",
-        "link": "https://www.ndtv.com/world-news/artemis-astronauts-describe-charring-on-heat-shield-during-fiery-return-to-earth-after-moon-mission-11374184#publisher=newsstand"
+        "title": "\"Enough Is Enough\": Trump Says US Banned Israel From Bombing Lebanon",
+        "link": "https://www.ndtv.com/world-news/israel-iran-war-enough-is-enough-trump-says-us-banned-israel-from-bombing-lebanon-11372883#publisher=newsstand"
       },
       {
-        "title": "Trump Says Will Bring Iran Uranium \"Back Home To US\", Tehran Responds",
-        "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-will-bring-iran-uranium-back-home-to-us-11374049#publisher=newsstand"
+        "title": "\"US Will Start Dropping Bombs Again If No Deal Reached\": Trump Warns Iran",
+        "link": "https://www.ndtv.com/world-news/iran-us-israel-war-us-will-start-dropping-bombs-again-if-no-deal-reached-president-donald-trump-warns-iran-middle-east-conflict-11374474#publisher=newsstand"
       },
       {
-        "title": "Meta To Lay Off Around 8,000 Employees By Next Month: Report",
-        "link": "https://www.ndtv.com/world-news/meta-facebook-instagram-to-lay-off-around-8-000-employees-by-may-20-report-mark-zuckerberg-ai-investment-11374187#publisher=newsstand"
+        "title": "Parliament Special Session LIVE: Constitutional Amendment Fails In Lok Sabha, Falls Short Of Two-Thirds Majority",
+        "link": "https://www.ndtv.com/india-news/parliament-special-session-live-updates-women-reservation-delimitation-bill-women-reservation-law-special-sitting-of-parliament-to-begin-today-11364182#publisher=newsstand"
       },
       {
-        "title": "Vijay Steps Up Perambur Campaign, Bets On Youth, Women And Proxy Outreach",
-        "link": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-assembly-elections-tvk-vijay-steps-up-perambur-campaign-bets-on-youth-women-and-proxy-outreach-11374144#publisher=newsstand"
+        "title": "TCS Accused Nida Khan's Husband Gave Cops Her Location, They Found It Locked",
+        "link": "https://www.ndtv.com/india-news/tcs-conversion-accused-nida-khans-husband-gave-cops-her-location-they-found-it-locked-tcs-sexual-harassment-11374452#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-18 03:26 UTC"
+  "last_updated": "2026-04-18 05:22 UTC"
 }
