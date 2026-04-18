@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+        "link": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Senior official ousted over Mandelson security row to face MPs",
         "link": "https://www.bbc.com/news/articles/c0kryzd8l7no?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,13 @@
       {
         "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
         "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Counter-terror police investigate another London arson attack",
-        "link": "https://www.bbc.com/news/articles/cqxl1qr11q2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’",
+        "link": "https://www.aljazeera.com/news/2026/4/18/iran-reasserts-control-of-hormuz-strait-as-trump-warns-against-blackmail?traffic_source=rss"
+      },
       {
         "title": "Manchester United beat Chelsea as Cunha strike boosts Champions League hope",
         "link": "https://www.aljazeera.com/sports/2026/4/18/manchester-united-beat-chelsea-as-cunha-strike-boosts-champions-league-hope?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza",
         "link": "https://www.aljazeera.com/news/2026/4/18/israel-says-established-a-yellow-line-in-lebanon-as-it-has-in-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Will Keir Starmer resign?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/4/18/will-keir-starmer-resign?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,23 +97,27 @@
         "link": "https://www.nytimes.com/2026/04/18/us/politics/iran-hormuz-strait-trump.html"
       },
       {
+        "title": "Reopening Strait of Hormuz Would Ease Oil Crisis but Only So Much",
+        "link": "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"
+      },
+      {
+        "title": "More Displaced Lebanese Head Home as Cease-Fire Is Tested",
+        "link": "https://www.nytimes.com/2026/04/18/world/middleeast/lebanon-israel-cease-fire-hezbollah-un.html"
+      },
+      {
         "title": "‘Turning Point Was Charlie Kirk’: Why This Student Group Moved On",
         "link": "https://www.nytimes.com/2026/04/18/us/politics/turning-point-university-arkansas-disbands.html"
       },
       {
         "title": "The Primary That Could End a State G.O.P.’s Independent Streak",
         "link": "https://www.nytimes.com/2026/04/18/us/politics/montana-republican-primaries.html"
-      },
-      {
-        "title": "The Doctor Will Seek Your Vote Now",
-        "link": "https://www.nytimes.com/2026/04/18/us/politics/democratic-doctors-running-for-congress.html"
-      },
-      {
-        "title": "Maduro’s Successor Is Purging Allies Who Kept Him in Power in Venezuela",
-        "link": "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iran rejects EU call to keep Hormuz open",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-rejects-eu-call-keep-hormuz-open"
+      },
       {
         "title": "US says Iran retains 40 percent of its attack drone arsenal",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-iran-retains-40-percent-its-attack-drone-arsenal"
@@ -129,13 +133,13 @@
       {
         "title": "Iran says nearly 3,500 killed in war with US and Israel",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-nearly-3500-killed-war-us-and-israel"
-      },
-      {
-        "title": "Israeli army says at least 14 soldiers killed in Lebanon war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-least-14-soldiers-killed-lebanon-war"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Harry Styles explains emotional story behind ‘Dance No More' track",
+        "link": "https://www.geo.tv/latest/660665-harry-styles-explains-emotional-story-behind-dance-no-more-track"
+      },
       {
         "title": "‘The Batman' sequel adds new cast in mystery role as buzz builds",
         "link": "https://www.geo.tv/latest/660663-the-batman-sequel-adds-new-cast-in-mystery-role-as-buzz-builds"
@@ -151,10 +155,6 @@
       {
         "title": "Taylor Swift, Travis Kelce's wedding: Everything to know about venue, guest list, dress, more",
         "link": "https://www.geo.tv/latest/660660-taylor-swift-travis-kelces-wedding-everything-to-know-about-venue-guest-list-dress-more"
-      },
-      {
-        "title": "Lena Dunham discusses how young love with Jack Antonoff shaped perspective",
-        "link": "https://www.geo.tv/latest/660653-lena-dunham-discusses-how-young-love-with-jack-antonoff-shaped-perspective"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-18 21:55 UTC"
+  "last_updated": "2026-04-18 22:35 UTC"
 }
