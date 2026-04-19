@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Manchester City vs Arsenal – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/19/live-manchester-city-vs-arsenal-premier-league-2?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,7 +25,11 @@
     ],
     "AlJazeera": [
       {
-        "title": "Trump says US negotiators to head to Pakistan for Iran ceasefire talks",
+        "title": "Displaced Lebanese woman returns to find home destroyed after ceasefire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/displaced-lebanese-woman-returns-to-find-home-destroyed-after-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Trump says US negotiators to head to Pakistan for Iran talks",
         "link": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks?traffic_source=rss"
       },
       {
@@ -45,10 +43,6 @@
       {
         "title": "Iran war: 10 frequently used words and their meanings",
         "link": "https://www.aljazeera.com/news/2026/4/19/iran-war-10-frequently-used-words-and-their-meanings?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Manchester City vs Arsenal – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/19/live-manchester-city-vs-arsenal-premier-league-2?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -112,7 +106,7 @@
       },
       {
         "title": "Syrian Billionaires Needed a Favor in Washington. They Invoked the Trump Name.",
-        "link": "https://www.nytimes.com/2026/04/19/us/politics/syrian-billionaires-needed-a-favor-in-washington-they-invoked-the-trump-name.html"
+        "link": "https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html"
       },
       {
         "title": "U.S. Installs a Trump Loyalist to Lead ‘Grand Conspiracy’ Case Into Trump Foes",
@@ -143,46 +137,46 @@
     ],
     "GeoTV": [
       {
-        "title": "US negotiators will be in Islamabad on Monday for Iran talks, confirms Trump",
-        "link": "https://www.geo.tv/latest/660726-us-negotiators-will-be-in-islamabad-on-monday-for-iran-talks-confirms-trump"
+        "title": "Taylor Swift, Travis Kelce leave musician in awe after surprise appearance",
+        "link": "https://www.geo.tv/latest/660718-taylor-swift-travis-kelce-leave-musician-in-awe-after-surprise-appearance"
       },
       {
-        "title": "Cardi B nearly cancels her final 'Little Miss Drama Tour' show: Here's why",
-        "link": "https://www.geo.tv/latest/660724-cardi-b-nearly-cancels-her-final-little-miss-drama-tour-show-heres-why"
+        "title": "Jesy Nelson shares urgent message after daughters' car goes missing",
+        "link": "https://www.geo.tv/latest/660732-jesy-nelson-shares-urgent-message-after-daughters-car-goes-missing"
       },
       {
-        "title": "Beatrice, Eugenie secure royal spot as Fergie senses betrayal: Details",
-        "link": "https://www.geo.tv/latest/660717-beatrice-eugenie-secure-royal-spot-as-fergie-senses-betrayal-details"
+        "title": "Lady Pamela Hicks marks 97th birthday with sweet 'wedding napkins'",
+        "link": "https://www.geo.tv/latest/660730-lady-pamela-hicks-marks-97th-birthday-with-sweet-wedding-napkins"
       },
       {
-        "title": "Dylan Sprouse breaks silence after house trespassing incident",
-        "link": "https://www.geo.tv/latest/660719-dylan-sprouse-breaks-silence-after-house-trespassing-incident"
+        "title": "Quetta Gladiators opt to bowl after winning toss against Peshawar Zalmi in PSL 11 clash",
+        "link": "https://www.geo.tv/latest/660727-quetta-gladiators-opt-to-bowl-after-winning-toss-against-peshawar-zalmi-in-psl-11-clash"
       },
       {
-        "title": "King Charles confirms new honour for Princess Anne in special update",
-        "link": "https://www.geo.tv/latest/660720-king-charles-confirms-new-honour-for-princess-anne-in-special-update"
+        "title": "Fire at India firecracker factory kills 20: police",
+        "link": "https://www.geo.tv/latest/660728-fire-at-india-firecracker-factory-kills-20-police"
       }
     ],
     "NDTV": [
       {
-        "title": "US-Iran War Live Updates: US Delegation To Visit Islamabad On Monday For Iran Talks, Trump Announces",
-        "link": "https://www.ndtv.com/world-news/donald-trump-us-iran-war-live-updates-strait-of-hormuz-chaos-peace-deal-israel-lebanon-hezbollah-ceasefire-11378272#publisher=newsstand"
+        "title": "What Will It Take To Make Kolkata Great Again? Sanjiv Goenka Explains",
+        "link": "https://www.ndtv.com/india-news/what-will-it-take-to-make-kolkata-great-again-sanjiv-goenka-explains-11371338#publisher=newsstand"
+      },
+      {
+        "title": "Indian Delegation To Reach Washington Tomorrow For 3-Day Talks On Trade Pact",
+        "link": "https://www.ndtv.com/india-news/indian-delegation-to-reach-washington-tomorrow-for-3-day-talks-on-trade-pact-11379615#publisher=newsstand"
+      },
+      {
+        "title": "20 Killed In Blast At Tamil Nadu Cracker Manufacturing Unit",
+        "link": "https://www.ndtv.com/india-news/13-killed-after-blast-at-cracker-manufacturing-unit-in-tamil-nadus-virudhunagar-11379401#publisher=newsstand"
       },
       {
         "title": "\"No More Mr Nice Guy, Time For Iran Killing Machine To End\": Trump's Latest Threat",
         "link": "https://www.ndtv.com/world-news/no-more-mr-nice-guy-time-for-iran-killing-machine-to-end-trumps-latest-threat-11379455#publisher=newsstand"
       },
       {
-        "title": "13 Killed In Blast At Tamil Nadu Cracker Manufacturing Unit",
-        "link": "https://www.ndtv.com/india-news/13-killed-after-blast-at-cracker-manufacturing-unit-in-tamil-nadus-virudhunagar-11379401#publisher=newsstand"
-      },
-      {
-        "title": "2 Women Killed, 31 Injured As Bus Falls Into Gorge In Rajasthan's Ajmer",
-        "link": "https://www.ndtv.com/india-news/2-women-killed-31-injured-as-bus-falls-into-gorge-in-rajasthans-ajmer-11379464#publisher=newsstand"
-      },
-      {
-        "title": "Who Was Ghazal Molan? Youngest Woman Kurdish Fighter Killed In Iran Strike",
-        "link": "https://www.ndtv.com/world-news/who-was-ghazal-molan-youngest-woman-in-kurdish-peshmerga-ranks-dies-after-irgc-strike-11379309#publisher=newsstand"
+        "title": "Delhi Bets Big On Semiconductors, Eyes Chip Hub Status With New Policy",
+        "link": "https://www.ndtv.com/india-news/delhi-bets-big-on-semiconductors-eyes-chip-hub-status-with-new-policy-11379526#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-19 13:40 UTC"
+  "last_updated": "2026-04-19 14:25 UTC"
 }
