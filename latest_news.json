@@ -1,10 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Negative As US-Iran Talks Hangs In Balance",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-20-april-us-iran-peace-talks-donald-trump-oil-prices-11381137#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Chief Rabbi says attacks 'gathering momentum' after another synagogue targeted",
-        "link": "https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&at_campaign=rss"
+        "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+        "link": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+        "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Five questions awaiting Starmer as he faces Commons over Mandelson scandal",
@@ -15,15 +25,23 @@
         "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
-        "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "The insider trading suspicions looming over Trump's presidency",
         "link": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Oil prices surge amid mixed signals on US-Iran peace talks",
+        "link": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks?traffic_source=rss"
+      },
+      {
+        "title": "What’s behind the US army’s decision to raise enlistment age to 42?",
+        "link": "https://www.aljazeera.com/news/2026/4/20/whats-behind-the-us-armys-decision-to-raise-enlistment-age-to-42?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss"
+      },
       {
         "title": "Outrage after photo shows Israeli soldier smashing Jesus statue in Lebanon",
         "link": "https://www.aljazeera.com/news/2026/4/19/outrage-after-photo-shows-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "US forces attack and seize Iranian ship Touska near Strait of Hormuz",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/us-forces-attack-and-seize-iranian-ship-touska-near-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "Argentina’s Milei backs US-Israel war on Iran in Jerusalem visit",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/argentinas-milei-backs-us-israel-war-on-iran-in-jerusalem-visit?traffic_source=rss"
-      },
-      {
-        "title": "Schools, shops shut in northern Israel to protest the Lebanon ceasefire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/schools-shops-shut-in-northern-israel-to-protest-the-lebanon-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "Protesters defy Berlin rain to call for end to global wars",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/protesters-defy-berlin-rain-to-call-for-end-to-global-wars?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "Trump says US representatives heading to Islamabad, will be ‘there tomorrow evening for negotiations’ with Iran",
-        "link": "https://www.dawn.com/news/1993224/trump-says-us-representatives-heading-to-islamabad-will-be-there-tomorrow-evening-for-negotiations-with-iran"
+        "title": "Assault on vessel overshadows preparation for round two of US-Iran dialogue",
+        "link": "https://www.dawn.com/news/1993405/assault-on-vessel-overshadows-preparation-for-round-two-of-us-iran-dialogue"
       },
       {
-        "title": "In 45-minute phone call with Pezeshkian, PM Shehbaz reaffirms Pakistan’s commitment to advancing regional peace",
-        "link": "https://www.dawn.com/news/1993250/in-45-minute-phone-call-with-pezeshkian-pm-shehbaz-reaffirms-pakistans-commitment-to-advancing-regional-peace"
+        "title": "Shipping channels unaffected  by Hormuz tensions",
+        "link": "https://www.dawn.com/news/1993401/shipping-channels-unaffected-by-hormuz-tensions"
       },
       {
-        "title": "Islamabad DC dismisses notification falsely announcing closure of all offices in twin cities from April 20",
-        "link": "https://www.dawn.com/news/1993252/islamabad-dc-dismisses-notification-falsely-announcing-closure-of-all-offices-in-twin-cities-from-april-20"
+        "title": "Lebanon restores lifelines as Israel extends demolition",
+        "link": "https://www.dawn.com/news/1993375/lebanon-restores-lifelines-as-israel-extends-demolition"
       },
       {
-        "title": "Pakistan in discussion with Qatar for supply of LNG cargoes amid electricity shortfall",
-        "link": "https://www.dawn.com/news/1993233/pakistan-in-discussion-with-qatar-for-supply-of-lng-cargoes-amid-electricity-shortfall"
+        "title": "Pakistan Medical Association warns of surge in hepatitis cases on World Liver Day",
+        "link": "https://www.dawn.com/news/1993388/pakistan-medical-association-warns-of-surge-in-hepatitis-cases-on-world-liver-day"
       },
       {
-        "title": "Israeli military publishes map of new deployment line in Lebanon, bringing dozens of villages under its control",
-        "link": "https://www.dawn.com/news/1993257/israeli-military-publishes-map-of-new-deployment-line-in-lebanon-bringing-dozens-of-villages-under-its-control"
+        "title": "Hinglaj Mata festival draws nearly 300,000 Hindu pilgrims in Balochistan",
+        "link": "https://www.dawn.com/news/1993400/hinglaj-mata-festival-draws-nearly-300000-hindu-pilgrims-in-balochistan"
       }
     ],
     "APNews": [],
@@ -109,74 +115,74 @@
         "link": "https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html"
       },
       {
-        "title": "Democrats Eye a Broader Battlefield to Capture Congress in November",
-        "link": "https://www.nytimes.com/2026/04/19/us/politics/house-battleground-midterms-tennessee.html"
+        "title": "U.S. Military Strikes a Boat in the Caribbean, Killing 3",
+        "link": "https://www.nytimes.com/2026/04/19/us/politics/us-military-strike-boat-strike-caribbean.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran says it will defend ports, ships amid tensions",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-will-defend-ports-ships-amid-tensions"
+        "title": "Israeli forces demolishing towns in Lebanon buffer zone, report says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-demolishing-towns-lebanon-buffer-zone-report-says"
       },
       {
-        "title": "Israeli army says photo of soldier damaging Jesus statue is authentic",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-photo-soldier-damaging-jesus-statue-authentic"
+        "title": "Video: Israeli soldier destroys Jesus statue in southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-soldier-destroys-jesus-statue-southern-lebanon"
       },
       {
-        "title": "Tehran warns of ‘significant costs’ if pressure continues",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-warns-significant-costs-if-pressure-continues"
+        "title": "Oil jumps over 4% after US seizes Iranian ship",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-jumps-over-4-after-us-seizes-iranian-ship"
       },
       {
-        "title": "Israeli soldier filmed smashing Jesus statue in Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-filmed-smashing-jesus-statue-lebanon"
+        "title": "WSJ: UAE discusses economic lifeline with US officials",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/wsj-uae-discusses-economic-lifeline-us-officials"
       },
       {
-        "title": "Israeli forces wound boys in Hebron, man shot near Jenin",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-wound-boys-hebron-man-shot-near-jenin"
+        "title": "Netanyahu says conflict with Iran could shift at any moment",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-conflict-iran-could-shift-any-moment"
       }
     ],
     "GeoTV": [
       {
+        "title": "Daniel Radcliffe compares ‘Harry Potter' movies: ‘Which one was better'?",
+        "link": "https://www.geo.tv/latest/660779-daniel-radcliffe-compares-harry-potter-movies-which-one-was-better"
+      },
+      {
+        "title": "See Travis Barker's cheeky birthday wish to wife Kourtney Kardashian",
+        "link": "https://www.geo.tv/latest/660778-see-travis-barkers-cheeky-birthday-wish-to-wife-kourtney-kardashian"
+      },
+      {
+        "title": "Did 'Charlie's Angels' star Jaclyn Smith say no to Bond girl role?",
+        "link": "https://www.geo.tv/latest/660776-did-charlies-angels-star-jaclyn-smith-say-no-to-bond-girl-role"
+      },
+      {
+        "title": "Oil surges over 7%, stocks slide as Iran-US naval flare-up unsettles markets",
+        "link": "https://www.geo.tv/latest/660775-oil-jumps-stock-futures-slip-as-renewed-iran-us-tensions-unsettle-markets"
+      },
+      {
         "title": "Ryan Reynolds praises Blake Lively on handling Justin Baldoni lawsuit",
         "link": "https://www.geo.tv/latest/660773-ryan-reynolds-praises-blake-lively-on-handling-justin-baldoni-lawsuit"
-      },
-      {
-        "title": "FAKE: No April 20 shutdown of offices or education centres in ICT, Rawalpindi, DC clarifies",
-        "link": "https://www.geo.tv/latest/660772-authorities-deny-claims-of-april-20-shutdown-for-islamabad-rawalpindi-offices"
-      },
-      {
-        "title": "Alix Earle finally addresses Alex Cooper feud",
-        "link": "https://www.geo.tv/latest/660771-alix-earle-finally-addresses-alex-cooper-feud"
-      },
-      {
-        "title": "Experts carry out controlled blast of WWII bomb near Paris",
-        "link": "https://www.geo.tv/latest/660766-experts-carry-out-controlled-blast-of-wwii-bomb-near-paris"
-      },
-      {
-        "title": "Kris Jenner's surprising procedure backfires soon after transformation",
-        "link": "https://www.geo.tv/latest/660737-kris-jenners-surprising-procedure-backfires-soon-after-transformation"
       }
     ],
     "NDTV": [
       {
-        "title": "Court To Hear Plea Against Sonia, Rahul Gandhi In National Herald Case Today",
-        "link": "https://www.ndtv.com/india-news/court-to-hear-plea-against-sonia-rahul-gandhi-in-national-herald-case-today-11380709#publisher=newsstand"
+        "title": "DMK Deploys Kamal Haasan Against TVK's Vijay In High-Stakes Chennai Battle",
+        "link": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-assembly-elections-2026-dmk-deploys-kamal-haasan-against-tvks-vijay-in-high-stakes-chennai-battle-11381170#publisher=newsstand"
       },
       {
-        "title": "CBI's New AI Chatbot To Tackle Digital Arrests By Helping Verify Notices",
-        "link": "https://www.ndtv.com/india-news/cbis-new-ai-chatbot-to-tackle-digital-arrests-by-helping-verify-notices-11380701#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Negative As US-Iran Talks Hangs In Balance",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-20-april-us-iran-peace-talks-donald-trump-oil-prices-11381137#publisher=newsstand"
       },
       {
-        "title": "Israeli Army Probes Image Of Soldier Hitting Jesus Statue In Lebanon",
-        "link": "https://www.ndtv.com/world-news/israeli-army-probes-image-of-soldier-hitting-jesus-statue-in-lebanon-11380595#publisher=newsstand"
+        "title": "Iran Calls US Seizure Of Cargo Ship Near Hormuz \"Piracy, Ceasefire Violation\"",
+        "link": "https://www.ndtv.com/world-news/us-iran-israel-war-iran-calls-us-seizure-of-cargo-ship-near-hormuz-piracy-ceasefire-violation-middle-east-conflict-11381147#publisher=newsstand"
       },
       {
-        "title": "UP Government Pauses Smart Meter Rollout, Announces New Zero Balance Rule",
-        "link": "https://www.ndtv.com/india-news/up-government-pauses-smart-meter-rollout-announces-new-zero-balance-rule-11380585#publisher=newsstand"
+        "title": "Is Your Savings Account Making You Poorer? Here's The Real Math",
+        "link": "https://www.ndtv.com/business-news/savings-account-may-quietly-be-losing-money-mutual-funds-inflation-investment-personal-finance-11381082#publisher=newsstand"
       },
       {
-        "title": "CBI Arrests Aviation Body Official In Rs 2.5 Lakh Bribery Case",
-        "link": "https://www.ndtv.com/india-news/cbi-arrests-aviation-body-dgca-official-in-rs-2-5-lakh-bribery-case-11380269#publisher=newsstand"
+        "title": "Char Dham Yatra Begins As Portals Of Gangotri, Yamunotri Temples Open",
+        "link": "https://www.ndtv.com/india-news/char-dham-yatra-begins-as-portals-of-gangotri-yamunotri-temples-open-11379922#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-19 23:59 UTC"
+  "last_updated": "2026-04-20 03:45 UTC"
 }
