@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Real Madrid vs Alaves – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/21/live-real-madrid-vs-alaves-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Flu vaccine no longer mandatory for soldiers, says US military chief",
+        "link": "https://www.aljazeera.com/news/2026/4/21/flu-vaccine-no-longer-mandatory-for-soldiers-says-us-military-chief?traffic_source=rss"
+      },
+      {
+        "title": "The US exit from Syria, explained",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/4/21/aje-onl-aj_tt_syr_uswithdrawal_full_v1-210426?traffic_source=rss"
+      },
+      {
         "title": "What’s the bill to rebuild Gaza, and who will pay?",
         "link": "https://www.aljazeera.com/video/inside-story/2026/4/21/whats-the-bill-to-rebuild-gaza-and-who-will-pay?traffic_source=rss"
       },
@@ -41,14 +43,6 @@
       {
         "title": "EU court rules Hungary’s LGBTQ law violates human rights",
         "link": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Real Madrid vs Alaves – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/21/live-real-madrid-vs-alaves-la-liga?traffic_source=rss"
-      },
-      {
-        "title": "Video: Moment hikers get caught in Guatemala volcano eruption",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-moment-hikers-get-caught-in-guatemala-volcano-eruption?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1993810/iran-foreign-ministry-spokesperson-says-tehran-yet-to-decide-on-participating-in-talks-with-us-in-islamabad"
       },
       {
+        "title": "‘Reprehensible’: Pakistan condemns storming of Al Aqsa Mosque compound, raising of Israeli flag in its courtyard",
+        "link": "https://www.dawn.com/news/1993856/reprehensible-pakistan-condemns-storming-of-al-aqsa-mosque-compound-raising-of-israeli-flag-in-its-courtyard"
+      },
+      {
         "title": "Azerbaijan says it is ready to supply LNG to Pakistan",
         "link": "https://www.dawn.com/news/1993802/azerbaijan-says-it-is-ready-to-supply-lng-to-pakistan"
       },
@@ -88,38 +86,42 @@
         "link": "https://www.dawn.com/news/1993801/nawaz-highlights-pml-ns-focus-on-development-ahead-of-gb-elections"
       },
       {
-        "title": "Health minister says medicine stocks sufficient to meet demand for next 5 to 6 months",
-        "link": "https://www.dawn.com/news/1993828/health-minister-says-medicine-stocks-sufficient-to-meet-demand-for-next-5-to-6-months"
-      },
-      {
-        "title": "4 suspects arrested in Karachi in action against gangs involved in leaking matric exams",
-        "link": "https://www.dawn.com/news/1993833/4-suspects-arrested-in-karachi-in-action-against-gangs-involved-in-leaking-matric-exams"
+        "title": "Downing Street denies exerting pressure on civil servants to approve Mandelson’s appointment as envoy to US",
+        "link": "https://www.dawn.com/news/1993798/downing-street-denies-exerting-pressure-on-civil-servants-to-approve-mandelsons-appointment-as-envoy-to-us"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Strait of Hormuz May Not Return to Normal, Whether It’s Open or Closed",
-        "link": "https://www.nytimes.com/2026/04/21/business/energy-environment/strait-hormuz-oil-natural-gas.html"
+        "title": "Trust Trump? Iran’s Doubts Shadow Peace Talks.",
+        "link": "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html"
+      },
+      {
+        "title": "U.S. Turns Up Pressure on Iraq to Distance Itself From Iran",
+        "link": "https://www.nytimes.com/2026/04/21/world/middleeast/us-iraq-security-cooperation.html"
       },
       {
         "title": "Europe Wanted a Say on the Iran War, but It’s Still on the Sidelines",
         "link": "https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html"
       },
       {
-        "title": "Supreme Court Reviews F.C.C.’s Enforcement Power Against Communications Companies",
-        "link": "https://www.nytimes.com/2026/04/21/us/politics/supreme-court-fcc-fines.html"
+        "title": "Pentagon to Stop Requiring Members of Military to Get Flu Vaccines",
+        "link": "https://www.nytimes.com/2026/04/21/us/politics/pentagon-to-stop-requiring-members-of-military-get-flu-vaccines.html"
       },
       {
-        "title": "Trump Dismisses a Merger While Seeking Suitors for Spirit Airlines",
-        "link": "https://www.nytimes.com/2026/04/21/business/trump-spirit-airlines-united-american.html"
-      },
-      {
-        "title": "A Year After U.S.A.I.D.’s Death, Fired Workers Find Few Jobs and Much Loss",
-        "link": "https://www.nytimes.com/2026/04/21/us/politics/usaid-former-employees.html"
+        "title": "Virginia Redistricting Referendum: What to Watch",
+        "link": "https://www.nytimes.com/2026/04/21/us/elections/virginia-redistricting-referendum-what-to-watch.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iran state TV says ceasefire ends at midnight GMT",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-state-tv-says-ceasefire-ends-midnight-gmt"
+      },
+      {
+        "title": "Lebanon says €500m needed for humanitarian response as ceasefire holds",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-eu500m-needed-humanitarian-response-ceasefire-holds"
+      },
       {
         "title": "Trump turning negotiations into ‘table of surrender’, Iran's top negotiator says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-turning-negotiations-table-surrender-irans-top-negotiator-says"
@@ -131,58 +133,50 @@
       {
         "title": "Israeli soldiers jailed for damaging crucifix in southern Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-jailed-damaging-crucifix-southern-lebanon"
-      },
-      {
-        "title": "Israel must take sharply declining US public support seriously, think tank warns",
-        "link": "https://www.middleeasteye.net/news/israel-must-take-sharply-declining-us-public-support-seriously-think-tank-warns"
-      },
-      {
-        "title": "Iran slams US seizure of cargo vessel, demands release",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-slams-us-seizure-cargo-vessel-demands-release"
       }
     ],
     "GeoTV": [
       {
-        "title": "Social Security Administration warns of local office closures: Here's everything to know",
-        "link": "https://www.geo.tv/latest/661044-social-security-administration-warns-of-local-office-closures-heres-everything-to-know"
+        "title": "Prince Harry's uncle drops big news about beloved person",
+        "link": "https://www.geo.tv/latest/661059-prince-harrys-uncle-drops-big-news-about-beloved-person"
       },
       {
-        "title": "Iran and the bomb",
-        "link": "https://www.geo.tv/latest/661041-iran-and-the-bomb"
+        "title": "Mike Vrabel breaks silence on photos with Dianna Russini photos: Full controversy explained",
+        "link": "https://www.geo.tv/latest/661058-mike-vrabel-breaks-silence-on-photos-with-dianna-russini-photos-full-controversy-explained"
       },
       {
-        "title": "McDonald's employee flees after stabbing coworker in Virginia",
-        "link": "https://www.geo.tv/latest/661043-mcdonalds-employee-flees-after-stabbing-coworker-in-virginia"
+        "title": "Wasim Khan expected to leave ICC role as general manager",
+        "link": "https://www.geo.tv/latest/661056-wasim-khan-expected-to-leave-icc-role-as-general-manager"
       },
       {
-        "title": "King Charles adorns Windsor in surprise move after Andrew's exit",
-        "link": "https://www.geo.tv/latest/660988-king-charles-welcomes-iconic-guest-to-windsor-after-andrews-exit"
+        "title": "Oil prices climb 5% after Trump says he does not want to extend Iran ceasefire",
+        "link": "https://www.geo.tv/latest/661047-oil-prices-climb-5-after-trump-says-he-does-not-want-to-extend-iran-ceasefire"
       },
       {
-        "title": "The Onion moves to license Infowars after failed takeover bid",
-        "link": "https://www.geo.tv/latest/661040-the-onion-moves-to-license-infowars-after-failed-takeover-bid"
+        "title": "King Charles leads birthday cheers inside the Palace's vibrant tribute",
+        "link": "https://www.geo.tv/latest/661036-king-charles-leads-birthday-cheers-inside-the-palaces-vibrant-tribute"
       }
     ],
     "NDTV": [
       {
-        "title": "96-Hour Ban On Liquor Sale Imposed In Bengal For Polls, Trinamool Sees Red",
-        "link": "https://www.ndtv.com/india-news/west-bengal-assembly-elections-2026-bengal-polls-96-hour-ban-on-liquor-sale-imposed-in-bengal-for-polls-trinamool-congress-sees-red-11389597#publisher=newsstand"
+        "title": "Will Pak Talks Happen? Iran Says \"No Plans\" To Attend, Vance Puts Trip On Hold",
+        "link": "https://www.ndtv.com/world-news/iran-war-latest-news-will-pak-talks-happen-iran-says-no-plans-to-attend-vance-puts-trip-on-hold-11390065#publisher=newsstand"
       },
       {
-        "title": "'Proposal' Turns Murder: Bengaluru Woman Blindfolds, Ties Up Boyfriend, Sets Him Afire",
-        "link": "https://www.ndtv.com/india-news/felt-ignored-bengaluru-woman-ties-up-boyfriend-sets-him-afire-watches-him-die-11388962#publisher=newsstand"
+        "title": "Case Ordered Against Karnataka Home Minister For Rs 500 Kabaddi 'Bet'",
+        "link": "https://www.ndtv.com/india-news/g-parameshwara-case-ordered-against-karnataka-home-minister-for-rs-500-kabaddi-bet-11390182#publisher=newsstand"
       },
       {
-        "title": "US \"Ready To Go\" On War Path. Iran Prepares Fresh Targets, \"Surprises\"",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-live-donald-trump-says-us-raring-to-go-to-war-iran-warns-of-creating-another-hell-11389563#publisher=newsstand"
+        "title": "2 Arrested For Terror Conspiracy Targeting Politicians Linked To RSS: Cops",
+        "link": "https://www.ndtv.com/india-news/2-arrested-for-terror-conspiracy-targeting-politicians-linked-to-rss-cops-11390134#publisher=newsstand"
       },
       {
-        "title": "\"Mallikarjun Kharge Brought Shame To Nation By Calling PM Modi A Terrorist\": Amit Shah",
-        "link": "https://www.ndtv.com/india-news/mallikarjun-kharge-brought-shame-to-nation-by-calling-pm-modi-a-terrorist-amit-shah-11389643#publisher=newsstand"
+        "title": "US-Iran War Live Updates: Will Pak Talks Happen? Iran Says \"No Plans\" To Attend, Vance Puts Trip On Hold",
+        "link": "https://www.ndtv.com/world-news/donald-trump-us-iran-war-live-updates-strait-of-hormuz-chaos-peace-deal-israel-lebanon-hezbollah-ceasefire-11378272#publisher=newsstand"
       },
       {
-        "title": "Woman Rejects Man's Proposal. He Slits Her Son's Throat, Stuffs Body In Blue Drum",
-        "link": "https://www.ndtv.com/india-news/madhya-pradesh-satna-woman-rejects-mans-proposal-he-slits-her-sons-throat-stuffs-body-in-blue-drum-11389613#publisher=newsstand"
+        "title": "\"Get Out of Here\": Angry Mumbai Woman Confronts State Minister At Rally",
+        "link": "https://www.ndtv.com/india-news/viral-video-get-out-of-here-angry-mumbai-woman-confronts-state-minister-at-rally-11390029#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-21 17:41 UTC"
+  "last_updated": "2026-04-21 18:45 UTC"
 }
