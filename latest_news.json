@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Real Madrid vs Alaves – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/21/live-real-madrid-vs-alaves-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,12 +17,12 @@
         "link": "https://www.bbc.com/news/articles/c86exglegwno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Court challenge over Met Police's use of live facial recognition thrown out",
+        "title": "Court challenge over Met Police's use of live facial recognition lost",
         "link": "https://www.bbc.com/news/articles/cq59x4vv954o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Mass trial for 486 alleged MS-13 gang members begins in El Salvador",
-        "link": "https://www.bbc.com/news/articles/c20ql985gryo?at_medium=RSS&at_campaign=rss"
+        "title": "Smoking ban for people born after 2008 in the UK agreed",
+        "link": "https://www.bbc.com/news/articles/cn08jy6w0l5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Real Madrid vs Alaves – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/21/live-real-madrid-vs-alaves-la-liga?traffic_source=rss"
+      },
+      {
+        "title": "Video: Moment hikers get caught in Guatemala volcano eruption",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-moment-hikers-get-caught-in-guatemala-volcano-eruption?traffic_source=rss"
+      },
+      {
+        "title": "Rabbi accused of war crimes selected for Israel’s national celebration",
+        "link": "https://www.aljazeera.com/news/2026/4/21/rabbi-accused-of-war-crimes-selected-for-israels-national-celebration?traffic_source=rss"
+      },
+      {
         "title": "Video: US forces board sanctioned tanker in Asia Pacific",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/video-us-forces-board-sanctioned-tanker-in-asia-pacific?traffic_source=rss"
       },
       {
         "title": "Trump says he opposes extending Iran ceasefire amid talks uncertainty",
         "link": "https://www.aljazeera.com/news/2026/4/21/trump-says-he-opposes-extending-iran-ceasefire-amid-talks-uncertainty?traffic_source=rss"
-      },
-      {
-        "title": "Why is the EU under pressure to suspend its trade agreement with Israel?",
-        "link": "https://www.aljazeera.com/news/2026/4/21/why-is-the-eu-under-pressure-to-suspend-its-trade-agreement-with-israel?traffic_source=rss"
-      },
-      {
-        "title": "Nigeria charges six people with ‘terrorism’, treason over 2025 coup plot",
-        "link": "https://www.aljazeera.com/news/2026/4/21/nigeria-charges-six-people-with-terrorism-treason-over-2025-coup-plot?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s World Cup participation depends on team’s safety in the US: Minister",
-        "link": "https://www.aljazeera.com/sports/2026/4/21/irans-world-cup-participation-depends-on-teams-safety-in-the-us-minister?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,8 +92,8 @@
         "link": "https://www.dawn.com/news/1993828/health-minister-says-medicine-stocks-sufficient-to-meet-demand-for-next-5-to-6-months"
       },
       {
-        "title": "SC to function with minimal staff on Wednesday; no judicial work to be conducted at FCC for 2nd consecutive day",
-        "link": "https://www.dawn.com/news/1993783/sc-to-function-with-minimal-staff-on-wednesday-no-judicial-work-to-be-conducted-at-fcc-for-2nd-consecutive-day"
+        "title": "4 suspects arrested in Karachi in action against gangs involved in leaking matric exams",
+        "link": "https://www.dawn.com/news/1993833/4-suspects-arrested-in-karachi-in-action-against-gangs-involved-in-leaking-matric-exams"
       }
     ],
     "APNews": [],
@@ -105,78 +111,78 @@
         "link": "https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html"
       },
       {
-        "title": "Labor Secretary Resigns Amid Scandals, and F.B.I. Director Sues Over Drinking Claims",
-        "link": "https://www.nytimes.com/2026/04/21/podcasts/the-headlines/labor-secretary-resigns-patel-excessive-drinking-atlantic.html"
-      },
-      {
         "title": "Supreme Court Reviews F.C.C.’s Enforcement Power Against Communications Companies",
         "link": "https://www.nytimes.com/2026/04/21/us/politics/supreme-court-fcc-fines.html"
+      },
+      {
+        "title": "Trump Dismisses a Merger While Seeking Suitors for Spirit Airlines",
+        "link": "https://www.nytimes.com/2026/04/21/business/trump-spirit-airlines-united-american.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli soldiers jailed for damaging crucifix in southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-jailed-damaging-crucifix-southern-lebanon"
+      },
+      {
+        "title": "Israel must take sharply declining US public support seriously, think tank warns",
+        "link": "https://www.middleeasteye.net/news/israel-must-take-sharply-declining-us-public-support-seriously-think-tank-warns"
+      },
+      {
+        "title": "Iran slams US seizure of cargo vessel, demands release",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-slams-us-seizure-cargo-vessel-demands-release"
+      },
+      {
+        "title": "UK: Newham council investigates Labour mayoral candidate's past flat purchase",
+        "link": "https://www.middleeasteye.net/news/uk-newham-council-investigating-labour-mayoral-candidates-past-flat-purchase"
+      },
+      {
         "title": "US budget earmarks record funding for drones and counter-drone systems",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-budget-earmarks-record-funding-drones-and-counter-drone-systems"
-      },
-      {
-        "title": "Iran says World Cup decision hinges on player safety in US",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-world-cup-decision-hinges-player-safety-us"
-      },
-      {
-        "title": "Israeli forces block Palestinian student protest after barring access to school",
-        "link": "https://www.middleeasteye.net/news/israeli-forces-block-palestinian-student-protest-after-barring-access-school"
-      },
-      {
-        "title": "Video: US veterans protest Iran war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-us-veterans-protest-iran-war"
-      },
-      {
-        "title": "Pakistan urges US and Iran to extend ceasefire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-urges-us-and-iran-extend-ceasefire"
       }
     ],
     "GeoTV": [
       {
-        "title": "Princess Alexandra steps out for special Buckingham Palace tribute",
-        "link": "https://www.geo.tv/latest/661026-princess-alexandra-steps-out-for-special-buckingham-palace-tribute"
+        "title": "Sydney Sweeney scene removed from ‘The Devil Wears Prada 2' sparks curiosity",
+        "link": "https://www.geo.tv/latest/661038-sydney-sweeney-scene-removed-from-the-devil-wears-prada-2-sparks-curiosity"
       },
       {
-        "title": "Shipping traffic through Hormuz still largely halted",
-        "link": "https://www.geo.tv/latest/661029-shipping-traffic-through-hormuz-still-largely-halted"
+        "title": "Kanye West exits quietly after private visit to Human Rights Center",
+        "link": "https://www.geo.tv/latest/661035-kanye-west-exits-quietly-after-private-visit-to-human-rights-center"
       },
       {
-        "title": "John Ternus to replace Tim Cook as Apple CEO: Key facts, what comes next",
-        "link": "https://www.geo.tv/latest/661025-john-ternus-to-replace-tim-cook-as-apple-ceo-key-facts-what-comes-next"
+        "title": "‘Michael' director speaks out as accusations around Jackson face new debate",
+        "link": "https://www.geo.tv/latest/661012-michael-director-speaks-out-as-accusations-around-jackson-face-new-debate"
       },
       {
-        "title": "WhatsApp to let users generate private summaries of unread chats",
-        "link": "https://www.geo.tv/latest/661018-whatsapp-testing-ai-powered-message-summaries-to-catch-up-on-chats-faster"
+        "title": "Palace issues statement as royals unite for Queen",
+        "link": "https://www.geo.tv/latest/661028-palace-issues-statement-as-royals-unite-for-queen"
       },
       {
-        "title": "Haylie Duff and Matthew Rosenberg split after 12-year engagement",
-        "link": "https://www.geo.tv/latest/661024-haylie-duff-and-matthew-rosenberg-split-after-12-year-engagement"
+        "title": "Jessie J opens up about 'intense guilt' of touring as her child falls ill",
+        "link": "https://www.geo.tv/latest/661034-jessie-j-opens-about-about-intense-guilt-of-touring-as-her-child-falls-ill"
       }
     ],
     "NDTV": [
       {
-        "title": "'Proposal' Turns Murder: Bengaluru Woman Blindfolds, Ties Up Boyfriend, Sets Him Afire",
-        "link": "https://www.ndtv.com/india-news/felt-ignored-bengaluru-woman-ties-up-boyfriend-sets-him-afire-watches-him-die-11388962#publisher=newsstand"
+        "title": "\"Mallikarjun Kharge Brought Shame To Nation By Calling PM Modi A Terrorist\": Amit Shah",
+        "link": "https://www.ndtv.com/india-news/mallikarjun-kharge-brought-shame-to-nation-by-calling-pm-modi-a-terrorist-amit-shah-11389643#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Iran's Game Of Thrones: Inside The 'Group' That Wants Ghalibaf Gone, And No Deal",
-        "link": "https://www.ndtv.com/opinion/us-israel-iran-war-why-a-section-in-iran-doesnt-want-a-deal-to-succeed-11388821#publisher=newsstand"
+        "title": "Woman Rejects Man's Proposal. He Slits Her Son's Throat, Stuffs Body In Blue Drum",
+        "link": "https://www.ndtv.com/india-news/madhya-pradesh-satna-woman-rejects-mans-proposal-he-slits-her-sons-throat-stuffs-body-in-blue-drum-11389613#publisher=newsstand"
       },
       {
-        "title": "Mossad Operative Behind Op Roaring Lion Was Killed On Mission, Says Spy Chief",
-        "link": "https://www.ndtv.com/world-news/mossad-operative-behind-operation-roaring-lion-was-killed-on-mission-says-spy-chief-david-barnea-11388835#publisher=newsstand"
+        "title": "96-Hour Ban On Liquor Sale Imposed In Bengal For Polls, Trinamool Sees Red",
+        "link": "https://www.ndtv.com/india-news/west-bengal-assembly-elections-2026-bengal-polls-96-hour-ban-on-liquor-sale-imposed-in-bengal-for-polls-trinamool-congress-sees-red-11389597#publisher=newsstand"
       },
       {
-        "title": "Naga, Kukis Clash In Manipur's Senapati District After Civilians Ambushed",
-        "link": "https://www.ndtv.com/india-news/naga-kukis-clash-in-manipurs-senapati-district-after-civilians-ambushed-11388934#publisher=newsstand"
+        "title": "'Unprovoked Acts Of Terror': UAE Minister To NDTV On Iran's Drone Attacks",
+        "link": "https://www.ndtv.com/world-news/iran-uae-dubai-israel-unprovoked-acts-of-terror-uae-minister-to-ndtv-on-irans-drone-attacks-11388534#publisher=newsstand"
       },
       {
-        "title": "\"International Waters Not Refuge\": US' Tanker Action In Indo-Pacific",
-        "link": "https://www.ndtv.com/world-news/international-waters-not-refuge-us-tanker-action-in-indo-pacific-11388688#publisher=newsstand"
+        "title": "Trump Says US \"Raring To Go\" To War. Iran Warns Of Creating \"Another Hell\"",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-live-donald-trump-says-us-raring-to-go-to-war-iran-warns-of-creating-another-hell-11389563#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-21 15:40 UTC"
+  "last_updated": "2026-04-21 16:40 UTC"
 }
