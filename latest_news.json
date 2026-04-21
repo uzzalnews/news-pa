@@ -1,7 +1,17 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 700 Points Higher, Nifty Up 200 Amid Mixed Global Cues",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-21-april-oil-prices-donald-trump-us-iran-peace-talks-11385785#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Key takeaways from sacked official at heart of Mandelson vetting row",
+        "link": "https://www.bbc.com/news/articles/cdxk5e570qxo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Unemployment rate unexpectedly falls as fewer students look for work",
         "link": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss"
@@ -15,15 +25,23 @@
         "link": "https://www.bbc.com/news/articles/cn08jy6w0l5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Boy, 17, charged with Kenton synagogue arson",
-        "link": "https://www.bbc.com/news/articles/c4gdmee362ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Apple names new boss to replace Tim Cook after 15 years",
-        "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss"
+        "title": "Madonna offers reward for missing Coachella costume worn during Sabrina Carpenter guest slot",
+        "link": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Afghans displaced by Pakistan conflict survive in tent camps",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/afghans-displaced-by-pakistan-conflict-survive-in-tent-camps?traffic_source=rss"
+      },
+      {
+        "title": "Is China a winner of the Iran war or facing economic risks?",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/21/is-china-a-winner-of-the-iran-war-or-facing-economic-risks?traffic_source=rss"
+      },
+      {
+        "title": "Clean electricity meets all new demand, curbing fossil fuels, says Ember",
+        "link": "https://www.aljazeera.com/news/2026/4/21/clean-electricity-meets-all-new-demand-curbing-fossil-fuels-says-ember?traffic_source=rss"
+      },
       {
         "title": "Spain, Slovenia, Ireland push EU to debate Israel pact suspension",
         "link": "https://www.aljazeera.com/news/2026/4/21/spain-slovenia-ireland-push-eu-to-debate-israel-pact-suspension?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Burn treatment for Gaza children threatened by Israeli restrictions",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/burn-treatment-for-gaza-children-threatened-by-israeli-restrictions?traffic_source=rss"
-      },
-      {
-        "title": "Usain Bolt hopes Australian sprint sensation Gout has strong support system",
-        "link": "https://www.aljazeera.com/sports/2026/4/21/usain-bolt-hopes-australian-sprint-sensation-gout-has-strong-support-system?traffic_source=rss"
-      },
-      {
-        "title": "Kenya’s John Korir, Sharon Lokedi win Boston Marathon on record-breaking day",
-        "link": "https://www.aljazeera.com/sports/2026/4/21/kenyas-john-korir-sharon-lokedi-win-boston-marathon-on-record-breaking-day?traffic_source=rss"
-      },
-      {
-        "title": "As Iran crisis drags on, fears of global food crisis grow",
-        "link": "https://www.aljazeera.com/economy/2026/4/21/as-iran-crisis-drags-on-fears-of-global-food-crisis-grow?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,16 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan receives $1bn from Saudi Arabia as second tranche of $3bn deposit",
-        "link": "https://www.dawn.com/news/1993728/pakistan-receives-1bn-from-saudi-arabia-as-second-tranche-of-3bn-deposit"
+        "title": "Pakistan Navy conducts successful test of locally developed air-launched cruise missile: ISPR",
+        "link": "https://www.dawn.com/news/1993781/pakistan-navy-conducts-successful-test-of-locally-developed-air-launched-cruise-missile-ispr"
+      },
+      {
+        "title": "PAA extends airspace ban for Indian aircraft until May 24",
+        "link": "https://www.dawn.com/news/1993752/paa-extends-airspace-ban-for-indian-aircraft-until-may-24"
+      },
+      {
+        "title": "SC notifies SOPs to ensure uninterrupted functioning during ‘unforeseen public holidays’",
+        "link": "https://www.dawn.com/news/1993783/sc-notifies-sops-to-ensure-uninterrupted-functioning-during-unforeseen-public-holidays"
       },
       {
         "title": "Young doctor shot dead near Karachi’s Mehran Hotel",
@@ -80,103 +94,95 @@
       {
         "title": "ECP halts Senate by-election for Murad Saeed’s vacant seat",
         "link": "https://www.dawn.com/news/1993764/ecp-halts-senate-by-election-for-murad-saeeds-vacant-seat"
-      },
-      {
-        "title": "PAA extends airspace ban for Indian aircraft until May 24",
-        "link": "https://www.dawn.com/news/1993752/paa-extends-airspace-ban-for-indian-aircraft-until-may-24"
-      },
-      {
-        "title": "Japan opens door to global arms market with overhaul of defence export rules",
-        "link": "https://www.dawn.com/news/1993777/japan-opens-door-to-global-arms-market-with-overhaul-of-defence-export-rules"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "How the Cole Disaster Drove the U.S. to Develop New Warship Defenses",
+        "link": "https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html"
+      },
+      {
         "title": "Trump and Iran Face Off in Iran War Negotiations",
         "link": "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html"
       },
       {
-        "title": "The Touska, the Iranian-Flagged Ship Seized by U.S. Forces, Was Under Sanctions",
-        "link": "https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html"
+        "title": "Oil Prices Recede and Stocks Gain as Investors Eye Peace Talks",
+        "link": "https://www.nytimes.com/2026/04/21/business/oil-stocks-gas-iran.html"
       },
       {
-        "title": "Israeli Soldier in Lebanon Sledgehammered a Statue of Jesus",
-        "link": "https://www.nytimes.com/2026/04/20/world/middleeast/israeli-soldier-lebanon-sledgehammer-jesus.html"
+        "title": "Labor Secretary Resigns Amid Scandals, and F.B.I. Director Sues Over Drinking Claims",
+        "link": "https://www.nytimes.com/2026/04/21/podcasts/the-headlines/labor-secretary-resigns-patel-excessive-drinking-atlantic.html"
       },
       {
-        "title": "Tim Cook Will Step Down as Apple C.E.O.",
-        "link": "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html"
-      },
-      {
-        "title": "Who Is John Ternus, Apple’s Low-Profile Leader?",
-        "link": "https://www.nytimes.com/2026/01/08/technology/apple-ceo-tim-cook-john-ternus.html"
+        "title": "Virginia Redistricting Referendum: What to Watch",
+        "link": "https://www.nytimes.com/2026/04/21/us/elections/virginia-redistricting-referendum-what-to-watch.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli strikes level homes in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-level-homes-southern-lebanon"
+        "title": "Trump's 'Board of Peace' held talks with DP World over Gaza reconstruction",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-board-peace-held-talks-dp-world-over-gaza-reconstruction"
       },
       {
-        "title": "Germany's foreign minister urges Iran to take 'extended hand' of US and join talks in Islamabad",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/germanys-wadephul-urges-iran-take-extended-hand-us-sake-own-population"
+        "title": "Israeli minister's convoy hits and kills Palestinian boy in occupied West Bank",
+        "link": "https://www.middleeasteye.net/news/palestinian-boy-killed-israeli-ministers-convoy-west-bank"
       },
       {
-        "title": "No Iranian delegation has departed for Pakistan yet, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/no-iranian-delegation-has-departed-pakistan-yet-state-tv-says"
+        "title": "UN maritime agency urges help for seafarers stranded in Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-maritime-agency-urges-help-seafarers-stranded-hormuz"
       },
       {
-        "title": "Netanyahu, Trump: On Gaza and the Iran war, the parallels with World War Two are clear",
-        "link": "https://www.middleeasteye.net/opinion/netanyahu-trump-gaza-iran-war-parallels-second-world-war-are-clear"
+        "title": "Trump's 'Board of Peace' held talks with DP World over Gaza reconstruction",
+        "link": "https://www.middleeasteye.net/news/donald-trumps-board-peace-held-talks-dp-world-over-gaza-reconstruction"
       },
       {
-        "title": "Israeli settler kills teenager in Hebron",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-kills-teenager-hebron"
+        "title": "Exclusive: Inside Hezbollah’s battle for Bint Jbeil and Khiam",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-inside-hezbollahs-battle-bint-jbeil-and-khiam"
       }
     ],
     "GeoTV": [
       {
-        "title": "Mariah Carey shrugs off Rock & Roll Hall of Fame snub: ‘Who cares?'",
-        "link": "https://www.geo.tv/latest/660981-mariah-carey-shrugs-off-rock-roll-hall-of-fame-snub-who-cares"
+        "title": "Prince William, Kate Middleton join King Charles to honour Queen Elizabeth",
+        "link": "https://www.geo.tv/latest/660989-prince-william-kate-middleton-join-king-charles-to-honour-queen-elizabeth"
       },
       {
-        "title": "Drake fans spot hidden 'ICEMAN' clue after viral stunt",
-        "link": "https://www.geo.tv/latest/660976-drake-fans-spot-hidden-iceman-clue-after-viral-stunt"
+        "title": "Taylor Swift wedding plan skips THIS major step for meaningful cause",
+        "link": "https://www.geo.tv/latest/660984-taylor-swift-wedding-plan-skips-this-major-step-for-meaningful-cause"
       },
       {
-        "title": "Kate Middleton's Bombshell encounter with Queen: 'Terrified'",
-        "link": "https://www.geo.tv/latest/660970-kate-middletons-bombshell-encounter-with-queen-terrified"
+        "title": "'Michael' first reactions are in: find out what's buzzing after Monday's premiere in LA",
+        "link": "https://www.geo.tv/latest/660983-michael-first-reactions-are-in-find-out-whats-buzzing-after-mondays-premiere-in-la"
       },
       {
-        "title": "Prince Harry's gesture for Meghan that stirred entire Palace: Truth exposed",
-        "link": "https://www.geo.tv/latest/660974-prince-harrys-gesture-for-meghan-that-stirred-entire-palace-truth-exposed"
+        "title": "‘Protective' William could finally cave in for Prince Harry: Here's why",
+        "link": "https://www.geo.tv/latest/660987-protective-william-could-finally-cave-in-for-prince-harry-heres-why"
       },
       {
-        "title": "UK's Starmer seeks to deflect blame over Mandelson appointment",
-        "link": "https://www.geo.tv/latest/660975-uks-starmer-seeks-to-deflect-blame-over-mandelson-appointment"
+        "title": "Prince Harry, Meghan Markle refuse to give up: 'Will impress royals'",
+        "link": "https://www.geo.tv/latest/660977-prince-harry-meghan-markle-refuse-to-give-up-will-impress-royals"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Time Not My Adversary\": Trump Slams Iran War Critics Ahead Of Peace Talks",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-end-islamabad-peace-talks-trump-slams-iran-war-critics-ahead-of-peace-talks-time-not-my-adversary-11387148#publisher=newsstand"
+        "title": "2 Indian-Origin Men Charged With H-1B Fraud. They Hired For 'Ghost' Jobs",
+        "link": "https://www.ndtv.com/world-news/2-indian-origin-men-charged-with-h-1b-fraud-they-hired-for-ghost-jobs-11387491#publisher=newsstand"
       },
       {
-        "title": "Video: UP Thar Driver's Drifting Stunt Near Police Post Gets SUV Seized",
-        "link": "https://www.ndtv.com/india-news/prayagraj-thar-stunt-video-uttar-pradesh-thar-drivers-drifting-stunt-near-police-post-gets-suv-seized-11387161#publisher=newsstand"
+        "title": "Yusuf Pathan's In-Laws Beat Mumbai Family With Sticks, Baseball Bat, Arrested",
+        "link": "https://www.ndtv.com/india-news/yusuf-pathans-in-laws-beat-mumbai-family-with-sticks-baseball-bat-arrested-11387424#publisher=newsstand"
       },
       {
-        "title": "Time Stands Still For Family Of Pahalgam Horse Rider Who Died Fighting Terrorist",
-        "link": "https://www.ndtv.com/india-news/pahalgam-terror-attack-jammu-kashmir-time-stands-still-for-family-of-horse-rider-who-died-fighting-terrorist-11386980#publisher=newsstand"
+        "title": "Opinion: Opinion | Rahul-Stalin Aren't On The Same Stage. Are Congress-DMK On The Same Page?",
+        "link": "https://www.ndtv.com/opinion/rahul-stalin-arent-on-the-same-stage-are-congress-dmk-on-the-same-page-11387407#publisher=newsstand"
       },
       {
-        "title": "Caller Claims Lawrence Bishnoi Gang Ties, Threatens RTO Officer In Bengaluru",
-        "link": "https://www.ndtv.com/india-news/caller-claims-lawrence-bishnoi-gang-ties-threatens-rto-officer-in-bengaluru-11386939#publisher=newsstand"
+        "title": "India May Get $10-12 Billion As US Processes Trump Tariff Refunds: Report",
+        "link": "https://www.ndtv.com/business-news/india-us-trade-deal-donald-trump-tariff-refund-indian-exports-gtri-report-11387347#publisher=newsstand"
       },
       {
-        "title": "9 Reasons Delhi High Court Judge Didn't Back Out From Arvind Kejriwal's Case",
-        "link": "https://www.ndtv.com/india-news/9-reasons-delhi-high-court-judge-swarana-kanta-sharma-didnt-back-out-from-arvind-kejriwals-liquor-policy-case-11386960#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 700 Points Higher, Nifty Up 200 Amid Mixed Global Cues",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-21-april-oil-prices-donald-trump-us-iran-peace-talks-11385785#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-21 09:54 UTC"
+  "last_updated": "2026-04-21 11:04 UTC"
 }
