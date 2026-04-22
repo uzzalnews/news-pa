@@ -1,10 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "The war on Iran: Breaking down the words you’re hearing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/the-war-on-iran-breaking-down-the-words-youre-hearing?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
         "title": "Starmer admits No 10 asked about job for aide Matthew Doyle",
         "link": "https://www.bbc.com/news/articles/cq59xx6n3j7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "PM's ex-chief of staff to give evidence on Mandelson vetting",
+        "link": "https://www.bbc.com/news/articles/c5yjl1pmv55o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Husband cleared of manslaughter over wife's suicide",
@@ -15,34 +25,30 @@
         "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
-        "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Three ways the latest inflation figures affect you",
-        "link": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss"
+        "title": "'Superstar' runners praised for helping exhausted man finish marathon",
+        "link": "https://www.bbc.com/news/articles/cj0v632yddzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Arsenal have grown, but they still have not learned how to dominate",
-        "link": "https://www.aljazeera.com/opinions/2026/4/22/arsenal-have-grown-but-they-still-have-not-learned-how-to-dominate?traffic_source=rss"
+        "title": "Pakistan out of women’s football tournament in India over political strife",
+        "link": "https://www.aljazeera.com/sports/2026/4/22/pakistan-out-of-womens-football-tournament-in-india-over-political-strife?traffic_source=rss"
       },
       {
-        "title": "New York exhibit casts ‘Trumpism’ as a modern faith",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/new-york-exhibit-casts-trumpism-as-a-modern-faith?traffic_source=rss"
+        "title": "The war on Iran: Breaking down the words you’re hearing",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/the-war-on-iran-breaking-down-the-words-youre-hearing?traffic_source=rss"
       },
       {
-        "title": "Beyond the desecrated statue: What truly demands our outrage",
-        "link": "https://www.aljazeera.com/opinions/2026/4/22/beyond-the-desecrated-statue-what-truly-demands-our-outrage?traffic_source=rss"
+        "title": "Russia says will halt oil flow to Germany via Druzhba pipeline",
+        "link": "https://www.aljazeera.com/economy/2026/4/22/russia-says-will-halt-oil-flow-to-germany-via-druzhba-pipeline?traffic_source=rss"
       },
       {
-        "title": "Deadly Israeli settler attack on school kills two in Ramallah",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/deadly-israeli-settler-attack-on-school-kills-two-in-ramallah?traffic_source=rss"
+        "title": "What is uranium enrichment and how quickly could Iran build a nuclear bomb?",
+        "link": "https://www.aljazeera.com/news/2026/4/22/what-is-uranium-enrichment-and-how-quickly-could-iran-build-a-nuclear-bomb?traffic_source=rss"
       },
       {
-        "title": "Runners help collapsed competitor at Boston Marathon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/runners-help-collapsed-competitor-at-boston-marathon?traffic_source=rss"
+        "title": "Will Iraq’s Shia bloc overcome obstacles to pick the next PM?",
+        "link": "https://www.aljazeera.com/news/2026/4/22/will-iraqs-shia-bloc-overcome-obstacles-to-pick-the-next-pm?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "Discos found purchasing power outside national grid at exorbitant rates",
+        "link": "https://www.dawn.com/news/1994109/discos-found-purchasing-power-outside-national-grid-at-exorbitant-rates"
+      },
+      {
         "title": "Islamabad’s Red Zone remains off-limits; other routes in twin cities reopen to public after days-long closure",
         "link": "https://www.dawn.com/news/1994078/islamabads-red-zone-remains-off-limits-other-routes-in-twin-cities-reopen-to-public-after-days-long-closure"
       },
@@ -78,12 +88,8 @@
         "link": "https://www.dawn.com/news/1994090/2-pakistani-astronauts-selected-as-candidates-for-chinas-space-programme"
       },
       {
-        "title": "Pakistan moves toward one-window airport clearance with e-gates, smart scanners",
-        "link": "https://www.dawn.com/news/1994106/pakistan-moves-toward-one-window-airport-clearance-with-e-gates-smart-scanners"
-      },
-      {
-        "title": "Sindh govt cancels BRT Red Line construction contract, to re-award it on emergency basis: Sharjeel Memon",
-        "link": "https://www.dawn.com/news/1994042/sindh-govt-cancels-brt-red-line-construction-contract-to-re-award-it-on-emergency-basis-sharjeel-memon"
+        "title": "Pakistan moves towards one-window airport clearance with e-gates, smart scanners",
+        "link": "https://www.dawn.com/news/1994106/pakistan-moves-towards-one-window-airport-clearance-with-e-gates-smart-scanners"
       },
       {
         "title": "PCB investigates all-rounder Mohammad Nawaz for alleged recreational drug use",
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Turkey and Pakistan discuss latest on ceasefire talks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-and-pakistan-discuss-latest-ceasefire-talks"
+        "title": "Lebanon says over 62,000 homes damaged or destroyed in Israeli attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-over-62000-homes-damaged-or-destroyed-israeli-attacks"
       },
       {
-        "title": "How the scapegoating of a respected civil servant may lead to Starmer's downfall",
-        "link": "https://www.middleeasteye.net/opinion/uk-how-scapegoating-respected-civil-servant-may-lead-starmers-ousting"
+        "title": "Labour councillor defending seat in election posed with rifle in Israeli army uniform",
+        "link": "https://www.middleeasteye.net/news/labour-councillor-defending-seat-election-posed-rifle-israeli-army-uniform"
       },
       {
-        "title": "Israeli strike on car in southern Lebanon kills two, say medics",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-car-southern-lebanon-kills-two-say-medics"
+        "title": "US treasury to extend sanctions relief on Russian and Iranian oil",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-extend-sanctions-relief-russian-and-iranian-oil"
       },
       {
-        "title": "FedEx targeted by French lawsuit over 'complicity' in Gaza genocide",
-        "link": "https://www.middleeasteye.net/news/fedex-targeted-french-lawsuit-over-complicity-gaza-genocide"
+        "title": "The Strokes frontman calls out 'US Zionists' on SubwayTakes",
+        "link": "https://www.middleeasteye.net/trending/strokes-lead-julian-casablancas-calls-out-us-zionists"
       },
       {
-        "title": "When the map turns red: Inside the lives upended by Israel’s expulsion orders",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/when-map-turns-red-inside-lives-upended-israels-expulsion-orders"
+        "title": "Trump has not set a timeline for extension of Iran ceasefire, source says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-has-not-set-timeline-extension-iran-ceasefire-source-says"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles told to 'get ready' for big shock from Sarah Ferguson",
-        "link": "https://www.geo.tv/latest/661161-king-charles-told-to-get-ready-for-big-shock-from-sarah-ferguson"
+        "title": "Mark Cuban distances himself from Kamala Harris: Warning sign for Democrats before 2028",
+        "link": "https://www.geo.tv/latest/661185-mark-cuban-distances-himself-from-kamala-harris-warning-sign-for-democrats-before-2028"
       },
       {
-        "title": "Olivia Rodrigo drops new twist about upcoming album after 'Drop Dead'",
-        "link": "https://www.geo.tv/latest/661172-olivia-rodrigo-drops-new-twist-about-upcoming-album-after-drop-dead"
+        "title": "Prince Edward attends ‘Fawlty Towers' Cornwall run without Duchess Sophie",
+        "link": "https://www.geo.tv/latest/661175-prince-edward-attends-fawlty-towers-cornwall-run-without-duchess-sophie"
       },
       {
-        "title": "Nasa unveils new space telescope to probe mysteries of 'dark energy'",
-        "link": "https://www.geo.tv/latest/661169-nasa-unveils-new-space-telescope-to-probe-mysteries-of-dark-energy"
+        "title": "National karate player Arzoo Haider succumbs to injuries",
+        "link": "https://www.geo.tv/latest/661181-national-karate-player-arzoo-haider-succumbs-to-injuries"
       },
       {
-        "title": "Toronto fire crew melt Drake's Ice sculpture: Did fans find what was hidden inside?",
-        "link": "https://www.geo.tv/latest/661174-toronto-fire-crew-melt-drakes-ice-sculpture-did-fans-find-what-was-hidden-inside"
+        "title": "South Korean fighter pilot fined for mid-air photos that caused crash",
+        "link": "https://www.geo.tv/latest/661180-south-korean-fighter-pilot-fined-for-mid-air-photos-that-caused-crash"
       },
       {
-        "title": "PSL 11: Hyderabad Kingsmen opt to field after winning toss against Multan Sultans",
-        "link": "https://www.geo.tv/latest/661168-psl-11-hyderabad-kingsmen-opt-to-field-after-winning-toss-against-multan-sultans"
+        "title": "Anne Hathaway shares major news about 'Princess Diaries 3'",
+        "link": "https://www.geo.tv/latest/661179-anne-hathaway-shares-major-news-about-princess-diaries-3"
       }
     ],
     "NDTV": [
-      {
-        "title": "Pro-Hamas Candidates To Contest Gaza's First Poll Of Any Kind Since 2006",
-        "link": "https://www.ndtv.com/world-news/israel-palestine-war-israel-gaza-war-pro-hamas-candidates-to-contest-gazas-first-poll-of-any-kind-since-2006-11393878#publisher=newsstand"
-      },
-      {
-        "title": "34 Iran Tankers Slip Past US Hormuz Blockade, With Over $900 Million In Oil: Report",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-live-34-iran-tankers-slip-past-us-strait-of-hormuz-blockade-with-over-900-million-in-oil-11393844#publisher=newsstand"
-      },
       {
         "title": "Mallikarjun Kharge Gets Election Commission Notice For PM Modi \"Terrorist\" Remark",
         "link": "https://www.ndtv.com/india-news/mallikarjun-kharge-gets-election-commission-notice-for-pm-modi-terrorist-remark-11393669#publisher=newsstand"
       },
       {
-        "title": "Ballots vs Beasts: The High-Stakes Polls In Jalpaiguri's Leopard Territory",
-        "link": "https://www.ndtv.com/india-news/ballots-vs-beasts-the-high-stakes-polls-in-jalpaiguris-leopard-territory-11393807#publisher=newsstand"
+        "title": "Meet Agnimitra Paul, BJP MLA Defending Asansol Dakshin Seat",
+        "link": "https://www.ndtv.com/india-news/bengal-polls-2026-meet-agnimitra-paul-bjp-mla-eyeing-consecutive-term-from-asansol-dakshin-11391996#publisher=newsstand"
       },
       {
-        "title": "5 Crore Voters, 3 Lakh Officials: Tamil Nadu Gears Up For Key Polls",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-election-5-crore-voters-3-lakh-officials-tamil-nadu-gears-up-for-key-polls-11392543#publisher=newsstand"
+        "title": "Pune Man Fakes Police Selection To Get Marriage Offers, Faces Police Case",
+        "link": "https://www.ndtv.com/india-news/pune-man-fakes-police-selection-to-get-marriage-offers-faces-police-case-11394104#publisher=newsstand"
+      },
+      {
+        "title": "Himanta Biswa Sarma's Bengal Campaign Aims To Consolidate Hindu Votes",
+        "link": "https://www.ndtv.com/india-news/2026-west-bengal-assembly-elections-himanta-biswa-sarmas-bengal-campaign-aims-to-consolidate-hindu-votes-11394005#publisher=newsstand"
+      },
+      {
+        "title": "Guarding The Booth: The Battle Against Leopard Fear In North Bengal",
+        "link": "https://www.ndtv.com/india-news/ballots-vs-beasts-the-high-stakes-polls-in-jalpaiguris-leopard-territory-11393807#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-22 14:03 UTC"
+  "last_updated": "2026-04-22 15:23 UTC"
 }
