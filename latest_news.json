@@ -1,11 +1,18 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "West Bengal Elections 1st Phase Voting LIVE Updates: Bengal Votes For 152 Seats",
+      "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-trinamool-tmc-bjp-fight-for-152-seats-pm-modi-mamata-banerjee-11395947#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "West Bengal, Tamil Nadu Elections 2026 LIVE Updates: Voting Begins",
+      "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-mamata-banerjee-tmc-tamil-nadu-election-2026-voting-live-updates-tamil-nadu-poll-bjp-dmk-aiadmk-11395961#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
-      {
-        "title": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches",
-        "link": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
         "link": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss"
@@ -15,15 +22,27 @@
         "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK and France strike new £662m small boats deal",
+        "title": "Riot police to deploy on French beaches under new deal to stop illegal Channel migrant crossings",
         "link": "https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Ban 'forever chemicals' in uniforms and frying pans, MPs urge",
         "link": "https://www.bbc.com/news/articles/ckg98q1yx9vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fairway or driveway? Why golf courses are in the crosshairs of Britain's housing crisis",
+        "link": "https://www.bbc.com/news/articles/ce8jjne5ereo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Israel kills journalist and wounds another in south Lebanon targeted attack",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss"
+      },
+      {
+        "title": "Ultra-Orthodox Jews burn Israeli flags to protest national day",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/ultra-orthodox-jews-burn-israeli-flags-to-protest-national-day?traffic_source=rss"
+      },
       {
         "title": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss"
@@ -35,14 +54,6 @@
       {
         "title": "South American migrants deported to DRC say facing pressure to return home",
         "link": "https://www.aljazeera.com/news/2026/4/22/south-american-migrants-deported-to-drc-say-facing-pressure-to-return-home?traffic_source=rss"
-      },
-      {
-        "title": "Top ministers quit after Peru’s president postpones F-16 fighter jet deal",
-        "link": "https://www.aljazeera.com/news/2026/4/22/top-ministers-quit-after-perus-president-postpones-f-16-fighter-jet-deal?traffic_source=rss"
-      },
-      {
-        "title": "US Treasury Secretary Bessent says Gulf, Asian allies request swap lines",
-        "link": "https://www.aljazeera.com/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,31 +81,35 @@
     ],
     "Dawn": [
       {
-        "title": "Iran appreciates Pakistan’s efforts to mediate between Tehran and Washington",
-        "link": "https://www.dawn.com/news/1994127/iran-appreciates-pakistans-efforts-to-mediate-between-tehran-and-washington"
+        "title": "US optimistic about Iran talks ‘this week’",
+        "link": "https://www.dawn.com/news/1994216/us-optimistic-about-iran-talks-this-week"
       },
       {
-        "title": "Discos found purchasing power outside national grid at exorbitant rates",
-        "link": "https://www.dawn.com/news/1994109/discos-found-purchasing-power-outside-national-grid-at-exorbitant-rates"
+        "title": "‘Strict security’ triggers food, fuel shortages in twin cities",
+        "link": "https://www.dawn.com/news/1994215/strict-security-triggers-food-fuel-shortages-in-twin-cities"
       },
       {
-        "title": "Interpol issues red notice for Lyari gangster Wasiullah Lakho",
-        "link": "https://www.dawn.com/news/1994137/interpol-issues-red-notice-for-lyari-gangster-wasiullah-lakho"
+        "title": "Despite snags, Pakistan works to keep channels open",
+        "link": "https://www.dawn.com/news/1994212/despite-snags-pakistan-works-to-keep-channels-open"
       },
       {
-        "title": "Islamabad’s Red Zone remains off-limits; other routes in twin cities reopen to public after days-long closure",
-        "link": "https://www.dawn.com/news/1994078/islamabads-red-zone-remains-off-limits-other-routes-in-twin-cities-reopen-to-public-after-days-long-closure"
+        "title": "Israeli airstrike kills journalist in south Lebanon: civil defence",
+        "link": "https://www.dawn.com/news/1994261/israeli-airstrike-kills-journalist-in-south-lebanon-civil-defence"
       },
       {
-        "title": "2 Pakistani astronauts selected as candidates for China’s space programme",
-        "link": "https://www.dawn.com/news/1994090/2-pakistani-astronauts-selected-as-candidates-for-chinas-space-programme"
+        "title": "Sindh records year’s first death from Congo fever",
+        "link": "https://www.dawn.com/news/1994279/sindh-records-years-first-death-from-congo-fever"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Kevin Warsh, Trump’s Fed Pick, Has Tough Task Shedding ‘Sock Puppet’ Label",
-        "link": "https://www.nytimes.com/2026/04/22/business/trumps-warsh-fed-sock-puppet.html"
+        "title": "Navy Secretary John Phelan Is Leaving the Pentagon and the Trump Administration",
+        "link": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
+      },
+      {
+        "title": "Combative, Defensive and Occasionally Contrite, Kennedy Walks a Fine Line",
+        "link": "https://www.nytimes.com/2026/04/22/us/politics/rfk-vaccines-measles-testimony.html"
       },
       {
         "title": "RFK Jr. Says His Department Advises All Children to Get Measles Vaccine",
@@ -107,76 +122,72 @@
       {
         "title": "Iran Again Tightens Its Grip on Shipping in the Strait of Hormuz",
         "link": "https://www.nytimes.com/2026/04/22/business/strait-of-hormuz-traffic-iran.html"
-      },
-      {
-        "title": "How the War Powers Act Could Pressure Trump to End the Iran War",
-        "link": "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "US downplays Iran's seizure of European vessels",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-downplays-irans-seizure-european-vessels"
+        "title": "Israeli soldiers looting civilian property in southern Lebanon: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-looting-civilian-property-southern-lebanon-report"
       },
       {
-        "title": "US Centcom says 31 vessels have been redirected as part of blockade on Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-31-vessel-have-been-redirected-part-blockade-iran"
+        "title": "Iran Foreign Minister tells South Korea envoy of 'US-Israeli crimes'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-tells-south-korea-envoy-us-israeli-crimes"
       },
       {
-        "title": "Israeli attacks on journalists constitute 'war crimes', Lebanese Prime Minister says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-journalists-constitute-war-crimes-lebanese-prime"
+        "title": "Opinion: Why Iran will not surrender",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-why-iran-will-not-surrender"
       },
       {
-        "title": "Israel kills five, including three children, in north Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-five-including-three-children-north-gaza"
+        "title": "CPJ 'outraged' over Israeli targeting of Lebanese journalists",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/cpj-outraged-over-israeli-targeting-lebanese-journalists"
       },
       {
-        "title": "White House denies Trump setting a timeline for receiving Iran proposal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-denies-trump-setting-timeline-receiving-iran-proposal"
+        "title": "Israel destroys 428 housing units in southern Lebanon despite ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-destroys-428-housing-units-southern-lebanon-despite-ceasefire"
       }
     ],
     "GeoTV": [
       {
-        "title": "Lee ‘Big Poppa' Najjar dies: ‘RHOA' alum and Kim Zolciak's ex was 68",
-        "link": "https://www.geo.tv/latest/661219-lee-big-poppa-najjar-dies-rhoa-alum-and-kim-zolciaks-ex-was-68"
+        "title": "Finn Wolfhard doubles down on Taylor Swift, Kanye West dig after backlash",
+        "link": "https://www.geo.tv/latest/661228-finn-wolfhard-doubles-down-on-taylor-swift-kanye-west-dig-after-backlash"
       },
       {
-        "title": "Emily Blunt reveals daughters' reaction to ‘The Devil Wears Prada 2'",
-        "link": "https://www.geo.tv/latest/661218-emily-blunt-reveals-daughters-reaction-to-the-devil-wears-prada-2"
+        "title": "Pete Davidson makes sweet gesture for baby daughter after tattoo removal",
+        "link": "https://www.geo.tv/latest/661226-pete-davidson-makes-sweet-gesture-for-baby-daughter-after-tattoo-removal"
       },
       {
-        "title": "‘Storage Wars' star Darrell Sheets dies at 57; death reported as suicide",
-        "link": "https://www.geo.tv/latest/661217-storage-wars-star-darrell-sheets-dies-at-57-death-reported-as-suicide"
+        "title": "US Navy Secretary Phelan fired, say sources",
+        "link": "https://www.geo.tv/latest/661227-us-navy-secretary-phelan-fired-say-sources"
       },
       {
-        "title": "AI to replace Air Traffic Controllers? US greenlights $12.5B ATC overhaul",
-        "link": "https://www.geo.tv/latest/661216-ai-to-replace-air-traffic-controllers-us-greenlights-125b-atc-overhaul"
+        "title": "Michael Jackson's nephew takes brutal jab at journalists before biopic release",
+        "link": "https://www.geo.tv/latest/661225-michael-jacksons-takes-brutal-jab-at-media-before-biopic-release"
       },
       {
-        "title": "Michael B. Jordan, Austin Butler's ‘Miami Vice' reboot gets official name",
-        "link": "https://www.geo.tv/latest/661214-michael-b-jordan-austin-butlers-miami-vice-reboot-gets-official-name"
+        "title": "‘The Devil Wears Prada 2' cameos: Ashley Graham teases appearance",
+        "link": "https://www.geo.tv/latest/661223-the-devil-wears-prada-2-cameos-ashley-graham-teases-appearance"
       }
     ],
     "NDTV": [
       {
-        "title": "LinkedIn Gets New CEO",
-        "link": "https://www.ndtv.com/world-news/linkedin-names-insider-daniel-shapero-as-new-ceo-11395884#publisher=newsstand"
+        "title": "\"Shut Up\": Iran Mocks Trump's Ceasefire Extension With AI Video",
+        "link": "https://www.ndtv.com/world-news/us-iran-ceasefire-shut-up-iran-mocks-trumps-ceasefire-extension-with-ai-video-11396234#publisher=newsstand"
       },
       {
-        "title": "Turkey Votes To Ban Social Media For Under-15s",
-        "link": "https://www.ndtv.com/world-news/turkey-votes-to-ban-social-media-for-under-15s-11395877#publisher=newsstand"
+        "title": "At 578 Kmph, South Korean Fighter Pilot Was Taking Mid-Air Selfies. It Then Crashed",
+        "link": "https://www.ndtv.com/world-news/at-578-kmph-south-korean-pilot-was-taking-mid-air-selfies-it-then-crashed-11396244#publisher=newsstand"
       },
       {
-        "title": "Iran Says Won't Reopen Hormuz As Long As US Blockade Remains",
-        "link": "https://www.ndtv.com/world-news/iran-says-wont-reopen-hormuz-as-long-as-us-blockade-remains-11395868#publisher=newsstand"
+        "title": "West Bengal Elections 1st Phase Voting LIVE Updates: Bengal Votes For 152 Seats",
+        "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-trinamool-tmc-bjp-fight-for-152-seats-pm-modi-mamata-banerjee-11395947#publisher=newsstand"
       },
       {
-        "title": "UK To Pay France Up To $892 Million In Deal To Reduce Migrant Crossings",
-        "link": "https://www.ndtv.com/world-news/uk-to-pay-france-up-to-892-million-in-deal-to-reduce-migrant-crossings-11395853#publisher=newsstand"
+        "title": "DMK vs AIADMK, And A Vijay 'Hero Or Cameo' Question As Tamil Nadu Votes Today",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-elections-2026-dmk-vs-aiadmk-and-a-vijay-hero-or-cameo-question-as-tamil-nadu-votes-today-11395361#publisher=newsstand"
       },
       {
-        "title": "5 Lebanese Killed In Israeli Strikes As Lebanon Seeks Truce Extension",
-        "link": "https://www.ndtv.com/world-news/iran-war-5-lebanese-killed-in-israeli-strikes-as-lebanon-seeks-truce-extension-11395829#publisher=newsstand"
+        "title": "West Bengal, Tamil Nadu Elections 2026 LIVE Updates: Voting Begins",
+        "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-mamata-banerjee-tmc-tamil-nadu-election-2026-voting-live-updates-tamil-nadu-poll-bjp-dmk-aiadmk-11395961#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-23 01:09 UTC"
+  "last_updated": "2026-04-23 04:21 UTC"
 }
