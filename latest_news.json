@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "West Bengal Elections 1st Phase Voting LIVE Updates | BJP MLA Agnimitra Paul's Car Attacked",
-      "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-trinamool-tmc-bjp-fight-for-152-seats-pm-modi-mamata-banerjee-11395947#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage",
+        "link": "https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss"
+      },
+      {
+        "title": "What we know about Israel killing Lebanese journalist Amal Khalil",
+        "link": "https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces levelling Lebanese villages behind ‘yellow line’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-forces-levelling-lebanese-villages-behind-yellow?traffic_source=rss"
+      },
+      {
+        "title": "Who is John Phelan, the US Navy Secretary fired by Pete Hegseth?",
+        "link": "https://www.aljazeera.com/news/2026/4/23/who-is-john-phelan-the-us-navy-secretary-fired-by-pete-hegseth?traffic_source=rss"
+      },
+      {
         "title": "India to Iran: How two wars shaped the rise of Pakistan’s Asim Munir",
         "link": "https://www.aljazeera.com/features/2026/4/23/india-to-iran-how-two-wars-shaped-the-rise-of-pakistans-asim-munir?traffic_source=rss"
-      },
-      {
-        "title": "Gaza’s second front: The battle against disease-carrying rats",
-        "link": "https://www.aljazeera.com/features/2026/4/23/gazas-second-front-the-battle-against-disease-carrying-rats?traffic_source=rss"
-      },
-      {
-        "title": "Lamine Yamal’s World Cup status unclear after Barcelona injury",
-        "link": "https://www.aljazeera.com/sports/2026/4/23/lamine-yamals-world-cup-status-unclear-after-barcelona-injury?traffic_source=rss"
-      },
-      {
-        "title": "Thunder cruise past Suns again but lose Jalen Williams",
-        "link": "https://www.aljazeera.com/sports/2026/4/23/thunder-cruise-past-suns-again-but-lose-jalen-williams?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strike kills five in Gaza, including three children",
-        "link": "https://www.aljazeera.com/news/2026/4/23/israeli-strike-kills-five-in-gaza-including-three-children?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,24 +74,32 @@
         "link": "https://www.dawn.com/news/1994343/9-killed-in-armed-attack-at-mining-site-in-balochistans-chagai"
       },
       {
-        "title": "Naqvi, US envoy discuss diplomatic efforts for holding 2nd round of US-Iran talks in Islamabad",
-        "link": "https://www.dawn.com/news/1994319/naqvi-us-envoy-discuss-diplomatic-efforts-for-holding-2nd-round-of-us-iran-talks-in-islamabad"
+        "title": "PM meets astronauts selected for China's space mission, hopes it will 'usher in era of space research'",
+        "link": "https://www.dawn.com/news/1994354/pm-meets-astronauts-selected-for-chinas-space-mission-hopes-it-will-usher-in-era-of-space-research"
       },
       {
         "title": "AI startup Cursor with Pakistani co-founder set for $60bn deal with SpaceX",
         "link": "https://www.dawn.com/news/1994327/ai-startup-cursor-with-pakistani-co-founder-set-for-60bn-deal-with-spacex"
       },
       {
-        "title": "PM Shehbaz directs that transport nationwide be gradually shifted to EVs",
-        "link": "https://www.dawn.com/news/1994337/pm-shehbaz-directs-that-transport-nationwide-be-gradually-shifted-to-evs"
+        "title": "Naqvi, US envoy discuss diplomatic efforts for holding 2nd round of US-Iran talks in Islamabad",
+        "link": "https://www.dawn.com/news/1994319/naqvi-us-envoy-discuss-diplomatic-efforts-for-holding-2nd-round-of-us-iran-talks-in-islamabad"
       },
       {
-        "title": "Pakistan seeks three spot LNG cargoes in first tender since Dec 2023",
-        "link": "https://www.dawn.com/news/1994311/pakistan-seeks-three-spot-lng-cargoes-in-first-tender-since-dec-2023"
+        "title": "ADB deepens Pakistan engagement with $3.67bn commitments, targets fiscal reform and minerals",
+        "link": "https://www.dawn.com/news/1994349/adb-deepens-pakistan-engagement-with-367bn-commitments-targets-fiscal-reform-and-minerals"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "The Generals Who Are Now Running Iran",
+        "link": "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html"
+      },
+      {
+        "title": "Who Is Running Iran, and How Doctors Cashed In on a Consumer Protection Law",
+        "link": "https://www.nytimes.com/2026/04/23/podcasts/the-headlines/iran-breast-reductions.html"
+      },
       {
         "title": "Navy Secretary John Phelan Is Leaving the Pentagon and the Trump Administration",
         "link": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html"
@@ -107,82 +109,74 @@
         "link": "https://www.nytimes.com/2026/04/22/us/politics/rfk-vaccines-measles-testimony.html"
       },
       {
-        "title": "RFK Jr. Says His Department Advises All Children to Get Measles Vaccine",
-        "link": "https://www.nytimes.com/2026/04/22/us/politics/kennedy-measles-vaccine.html"
-      },
-      {
         "title": "Senate Adopts G.O.P. Budget, Defeating Democrats’ Affordability Proposals",
         "link": "https://www.nytimes.com/2026/04/23/us/politics/senate-plunges-into-vote-marathon-as-gop-advances-ice-funding-boost.html"
-      },
-      {
-        "title": "Iran Again Tightens Its Grip on Shipping in the Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/04/22/business/strait-of-hormuz-traffic-iran.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran has a long history of defying bullies. Trump has reaped the whirlwind",
-        "link": "https://www.middleeasteye.net/opinion/iran-long-history-facing-down-bullies-shame-trump-failed-take-notes"
+        "title": "Iranian women held by US immigration not Qassem Soleimani's relatives: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-women-held-us-immigration-not-qassem-soleimanis-relatives-report"
       },
       {
-        "title": "Israel signs major $200m deal with Elbit Systems",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-signs-major-200m-deal-elbit-systems"
+        "title": "Israel at 78 still believes it can live by the sword alone. A reckoning is due",
+        "link": "https://www.middleeasteye.net/opinion/israel-78-believes-it-can-live-by-sword-alone-reckoning-due"
       },
       {
-        "title": "Israel kills and wounds several Palestinians in Khan Younis",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-and-wounds-several-palestinian-khan-younis"
+        "title": "Iranian women held by US immigration not Qassem Soleimani's relatives: Report",
+        "link": "https://www.middleeasteye.net/news/iranian-women-held-us-immigration-not-qassem-soleimani-relatives-report"
       },
       {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-513"
+        "title": "Lebanon's president calls Israeli killing of journalist a 'war crime'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-president-calls-israeli-killing-journalist-war-crime"
       },
       {
-        "title": "Israel kills Lebanese journalist in targeted strike",
-        "link": "https://www.middleeasteye.net/news/israeli-strike-kills-lebanese-journalist-despite-ceasefire"
+        "title": "What the Iran-Iraq war taught today’s Iranian leaders - and why that matters",
+        "link": "https://www.middleeasteye.net/news/what-iran-iraq-war-taught-todays-iranian-leaders-and-why-matters"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles receives special surprise for protecting nature",
-        "link": "https://www.geo.tv/latest/661279-king-charles-receives-special-surprise-for-protecting-nature"
+        "title": "Meghan Markle plots royal bombshell sequel to Prince Harry's big hit",
+        "link": "https://www.geo.tv/latest/661300-meghan-markle-plots-royal-bombshell-sequel-to-prince-harrys-big-hit"
       },
       {
-        "title": "Billie Eilish vs Chappell Roan? Viral clips fuel fan culture talk",
-        "link": "https://www.geo.tv/latest/661269-billie-eilish-vs-chappell-roan-viral-clips-fuel-fan-culture-talk"
+        "title": "Russell Brand blasts ex-wife Katy Perry's new beau Justin Trudeau",
+        "link": "https://www.geo.tv/latest/661299-russell-brand-blasts-ex-wife-katy-perrys-new-beau-justin-trudeau"
       },
       {
-        "title": "Prince William, Princess Kate release Louis 8th birthday photo: Huge change",
-        "link": "https://www.geo.tv/latest/661272-prince-william-princess-kate-release-louis-8th-birthday-photo-huge-change"
+        "title": "Fact-check: True. Marathon participants in Lahore wore T-shirts featuring Punjab CM",
+        "link": "https://www.geo.tv/latest/661293-fact-check-true-marathon-participants-in-lahore-wore-t-shirts-featuring-cm-punjab"
       },
       {
-        "title": "PSL 11: RawalPindiz win toss, elect to bowl first against Islamabad United",
-        "link": "https://www.geo.tv/latest/661270-psl-11-rawalpindiz-win-toss-elect-to-bowl-first-against-islamabad-united"
+        "title": "Meet Josh Windass: Wrexham hero who refuses to celebrate as club claims play-off spot",
+        "link": "https://www.geo.tv/latest/661284-meet"
       },
       {
-        "title": "Leonardo DiCaprio shocked Nikki Glaser after 'awkward' joke at award show",
-        "link": "https://www.geo.tv/latest/661254-leonardo-dicaprio-shocked-nikki-glaser-after-awkward-joke-at-award-show"
+        "title": "US military runs Bitcoin node, tests cybersecurity applications",
+        "link": "https://www.geo.tv/latest/661274-us-military-runs-bitcoin-node-tests-cybersecurity-applications"
       }
     ],
     "NDTV": [
       {
-        "title": "US-Iran War Live Updates: Tehran Claims It Received First Revenue From Hormuz Tolls",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-iran-ceasefire-islamabad-talks-starit-of-hormuz-blockade-donald-trump-mojtaba-khamenei-11396003#publisher=newsstand"
+        "title": "Stock Market Highlights, Sensex Today: Sensex Closes 850 Points Lower, Nifty Down 205 Amid Mixed Global Cues",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-23-april-us-iran-talks-donald-trump-oil-prices-11396064#publisher=newsstand"
       },
       {
-        "title": "Iran Still Has Half Its Missiles, 60% Naval Forces: US Officials",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-iran-still-has-half-its-missiles-60-naval-forces-us-officials-11396443#publisher=newsstand"
+        "title": "MK Stalin, Vijay, EPS Face High-Stakes Battles In Key Tamil Nadu Seats",
+        "link": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-assembly-election-2026-tamil-nadu-polls-2026-mk-stalin-vijay-eps-face-high-stakes-battles-in-key-seats-11393570#publisher=newsstand"
       },
       {
-        "title": "UP Property Dealer, Under Debt, Poisons Pet Labrador, Then Dies By Suicide",
-        "link": "https://www.ndtv.com/india-news/up-property-dealer-under-debt-poisons-pet-dog-then-dies-by-suicide-11397522#publisher=newsstand"
+        "title": "\"I Ate Jhalmuri, But Trinamool Felt The Sting\": PM Modi In Bengal",
+        "link": "https://www.ndtv.com/india-news/i-ate-jhalmuri-but-trinamool-felt-the-sting-pm-modi-in-bengal-11397877#publisher=newsstand"
       },
       {
-        "title": "West Bengal Elections 1st Phase Voting LIVE Updates | BJP MLA Agnimitra Paul's Car Attacked",
-        "link": "https://www.ndtv.com/india-news/west-bengal-election-2026-phase-1-voting-live-updates-trinamool-tmc-bjp-fight-for-152-seats-pm-modi-mamata-banerjee-11395947#publisher=newsstand"
+        "title": "\"China, India Or Some Other Hell-Hole...\": Trump Reposts Anti-India Rant Over Birthright Citizenship",
+        "link": "https://www.ndtv.com/world-news/china-india-or-some-other-hell-hole-trump-reposts-anti-india-rant-over-birthright-citizenship-11396765#publisher=newsstand"
       },
       {
-        "title": "Video: Iran Shows Off Its Ballistic Missile At Tehran Rally Amid US Ceasefire",
-        "link": "https://www.ndtv.com/world-news/us-iran-news-iran-shows-off-its-ballistic-missile-at-tehran-rally-amid-us-ceasefire-video-11397707#publisher=newsstand"
+        "title": "PM Modi's \"10 Guarantees\" For Bengal Women Ahead Of 2nd Phase Of Voting",
+        "link": "https://www.ndtv.com/india-news/pm-modis-10-guarantees-for-bengal-women-ahead-of-2nd-phase-of-voting-for-2026-assembly-elections-11397858#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-23 09:58 UTC"
+  "last_updated": "2026-04-23 11:16 UTC"
 }
