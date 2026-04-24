@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Positive, Traders Cautious As Oil Rallies",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-24-april-donald-trump-oil-prices-us-iran-peace-talks-11401435#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +17,23 @@
         "link": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation",
-        "link": "https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&at_campaign=rss"
+        "title": "Ringo Starr: 'I made all my mistakes on stage'",
+        "link": "https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Stock markets are too high and set to fall, says Bank of England deputy",
         "link": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "PM's ex-chief of staff says he doesn't recognise claims about his behaviour",
-        "link": "https://www.bbc.com/news/articles/cy01r3jedgdo?at_medium=RSS&at_campaign=rss"
+        "title": "Southport dads: 'Running for our girls has made us like brothers'",
+        "link": "https://www.bbc.com/news/articles/cj37d4gzz4xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
+        "link": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss"
+      },
       {
         "title": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side",
         "link": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "Meta lines up layoffs while Microsoft offers buyouts",
         "link": "https://www.aljazeera.com/economy/2026/4/23/meta-lines-up-layoffs-while-microsoft-offers-buyouts?traffic_source=rss"
-      },
-      {
-        "title": "Milei administration in Argentina blocks journalist access to Casa Rosada",
-        "link": "https://www.aljazeera.com/news/2026/4/23/milei-administration-in-argentina-blocks-journalist-access-to-casa-rosada?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,72 +76,84 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan rejects Indian propaganda on Pahalgam attack, deplores 'weaponisation of false narrative'",
-        "link": "https://www.dawn.com/news/1994381/pakistan-rejects-indian-propaganda-on-pahalgam-attack-deplores-weaponisation-of-false-narrative"
+        "title": "Trump rules out N-option amid Hormuz struggle",
+        "link": "https://www.dawn.com/news/1994561/trump-rules-out-n-option-amid-hormuz-struggle"
       },
       {
-        "title": "Pakistan, 7 other Muslim nations reject attempts to alter historic, legal status quo in Jerusalem, at its holy sites",
-        "link": "https://www.dawn.com/news/1994444/pakistan-7-other-muslim-nations-reject-attempts-to-alter-historic-legal-status-quo-in-jerusalem-at-its-holy-sites"
+        "title": "Israel, Lebanon extend ceasefire as Iran peace talks stall",
+        "link": "https://www.dawn.com/news/1994581/israel-lebanon-extend-ceasefire-as-iran-peace-talks-stall"
       },
       {
-        "title": "For 2nd consecutive week, PTI leaders no-show at Adiala jail on court-mandated day for meeting with Imran",
-        "link": "https://www.dawn.com/news/1994414/for-2nd-consecutive-week-pti-leaders-no-show-at-adiala-jail-on-court-mandated-day-for-meeting-with-imran"
+        "title": "US soldier allegedly bet on Maduro operation using intel",
+        "link": "https://www.dawn.com/news/1994582/us-soldier-allegedly-bet-on-maduro-operation-using-intel"
       },
       {
-        "title": "Customs increases import valuation for 62 old and used mobile phone models",
-        "link": "https://www.dawn.com/news/1994373/customs-increases-import-valuation-for-62-old-and-used-mobile-phone-models"
+        "title": "CJP Afridi openly opposes Judicial Commission of Pakistan meeting for judges’ transfer",
+        "link": "https://www.dawn.com/news/1994558/cjp-afridi-openly-opposes-judicial-commission-of-pakistan-meeting-for-judges-transfer"
       },
       {
-        "title": "In letter to UNSC president, Dar draws attention to 'grave' consequences of Indus Waters Treaty suspension by India",
-        "link": "https://www.dawn.com/news/1994438/in-letter-to-unsc-president-dar-draws-attention-to-grave-consequences-of-indus-waters-treaty-suspension-by-india"
+        "title": "Uproar as Israel kills Lebanese journalist amid peace talks",
+        "link": "https://www.dawn.com/news/1994535/uproar-as-israel-kills-lebanese-journalist-amid-peace-talks"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump’s Dreams for a Battleship Led to His Navy Secretary’s Ouster",
-        "link": "https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html"
+        "title": "Iran War Has Drained U.S. Supplies of Critical, Costly Weapons",
+        "link": "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html"
       },
       {
-        "title": "The ‘Make America Healthy Again’ Movement Is Cooling on Trump and Republicans",
-        "link": "https://www.nytimes.com/2026/04/23/us/politics/maha-voters-midterms.html"
+        "title": "How the Iran War Is Morphing Into a Volatile Standoff in the Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/04/23/us/politics/strait-iran-willpower.html"
       },
       {
-        "title": "Trump’s Disapproval Rating Hits Highest Point of His Second Term",
-        "link": "https://www.nytimes.com/2026/04/23/us/politics/trump-approval-rating-poll.html"
+        "title": "Trump Keeps Talking About Iran’s ‘Nuclear Dust.’ What Is It?",
+        "link": "https://www.nytimes.com/2026/04/23/us/politics/trump-iran-nuclear-dust-uranium.html"
       },
       {
         "title": "Trump Says Israel-Lebanon Cease-Fire Is Extended",
         "link": "https://www.nytimes.com/2026/04/23/briefing/trump-says-israel-lebanon-cease-fire-is-extended.html"
       },
       {
-        "title": "How the Iran War Is Morphing Into a Volatile Standoff in the Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/04/23/us/politics/strait-iran-willpower.html"
+        "title": "Trump’s Dreams for a Battleship Led to His Navy Secretary’s Ouster",
+        "link": "https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "'A nuclear weapon should never be allowed to be used by anybody': Trump",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nuclear-weapon-should-never-be-allowed-be-used-anybody-trump"
+        "title": "Israeli Ambassador to the US says Lebanon 'must recognise' Israeli presence",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-ambassador-us-says-lebanon-must-recognise-israeli-presence"
       },
       {
-        "title": "Trump extends Lebanon ceasefire, hails ‘historic’ White House talks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-extends-lebanon-ceasefire-hails-historic-white-house-talks"
+        "title": "Iranian cargo ship reaches port safely despite US efforts to seize it",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-cargo-ship-reaches-port-safely-despite-us-efforts-seize-it"
       },
       {
-        "title": "Israel, Lebanon envoys hail ‘historic’ moment at White House",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-envoys-hail-historic-moment-white-house"
+        "title": "Ceasefire with Lebanon 'not 100 percent', Israel’s ambassador to the UN says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ceasefire-lebanon-not-100-percent-israels-ambassador-un-says"
       },
       {
-        "title": "IRGC commander backs Iran ‘unity’ after Trump division claims",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-commander-backs-iran-unity-after-trump-division-claims"
+        "title": "Report: Iran War 'drained' essential US ammunition supplies",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-iran-war-drained-essential-us-ammunition-supplies"
       },
       {
-        "title": "Heavy weapons use in Iran war sparks concerns over US readiness in Taiwan: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/heavy-weapons-use-iran-war-sparks-concerns-over-us-readiness-taiwan"
+        "title": "Israeli army launches air strikes on southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-launches-air-strikes-southern-lebanon"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Harry Styles and Zoe Kravitz's friends react to engagement news",
+        "link": "https://www.geo.tv/latest/661389-harry-styles-and-zoe-kravitzs-friends-react-to-engagement-news"
+      },
+      {
+        "title": "Mariska Hargitay expresses love for Christopher Meloni's ‘Law & Order' series",
+        "link": "https://www.geo.tv/latest/661387-mariska-hargitay-expresses-love-for-christopher-melonis-law-order-series"
+      },
+      {
+        "title": "‘The Devil Wears Prada 2' takes jab at Jeff Bezos, Lauren Sánchez",
+        "link": "https://www.geo.tv/latest/661386-the-devil-wears-prada-2-takes-jab-at-jeff-bezos-lauren-snchez"
+      },
       {
         "title": "Luke Grimes shares what disappoints ‘Yellowstone' fans the most",
         "link": "https://www.geo.tv/latest/661382-luke-grimes-shares-what-disappoints-yellowstone-fans-the-most"
@@ -143,40 +161,28 @@
       {
         "title": "Steve Carell reveals why he didn't watch much of British ‘The Office'",
         "link": "https://www.geo.tv/latest/661378-steve-carell-reveals-why-he-didnt-watch-much-of-british-the-office"
-      },
-      {
-        "title": "Italy rejects proposal to replace Iran at 2026 World Cup: ‘You qualify on pitch'",
-        "link": "https://www.geo.tv/latest/661379-italy-rejects-proposal-to-replace-iran-at-2026-world-cup-you-qualify-on-pitch"
-      },
-      {
-        "title": "Elizabeth Banks shares sexist remark she got as a female filmmaker",
-        "link": "https://www.geo.tv/latest/661377-elizabeth-banks-shares-sexist-remark-she-got-as-a-female-filmmaker"
-      },
-      {
-        "title": "Charlize Theron shares daughter's daring feat: ‘Daredevil'",
-        "link": "https://www.geo.tv/latest/661371-charlize-theron-shares-daughters-daring-feat-daredevil"
       }
     ],
     "NDTV": [
       {
-        "title": "2 Giants, 20 Scientists: Mysterious Deaths, Disappearances Rattle US, China",
-        "link": "https://www.ndtv.com/world-news/20-scientists-2-giants-mysterious-deaths-disappearances-rattle-us-china-11400824#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Positive, Traders Cautious As Oil Rallies",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-24-april-donald-trump-oil-prices-us-iran-peace-talks-11401435#publisher=newsstand"
       },
       {
-        "title": "Millions Of Americans May Now Also Be Considered Canadian Under New Law",
-        "link": "https://www.ndtv.com/world-news/millions-of-americans-may-now-also-be-considered-canadian-under-new-law-11400837#publisher=newsstand"
+        "title": "How Karnataka Bypolls Could Decide Crisis Manager DK Shivakumar's Future",
+        "link": "https://www.ndtv.com/india-news/karnataka-bypolls-could-decide-crisis-manager-dk-shivakumars-future-siddaramaiah-davangere-south-bagalkot-11401454#publisher=newsstand"
       },
       {
-        "title": "Delhi Murder Autopsy Reveals Ex-Help's Brutality, Woman's Fight To Save Life",
-        "link": "https://www.ndtv.com/india-news/delhi-murder-autopsy-reveals-ex-helps-brutality-womans-fight-to-save-life-11400806#publisher=newsstand"
+        "title": "US-Iran War Live Updates: Trump Says US \"In No Rush\" To End Iran War",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-iran-ceasefire-islamabad-talks-starit-of-hormuz-blockade-donald-trump-mojtaba-khamenei-11396003#publisher=newsstand"
       },
       {
-        "title": "Teen Killed Over Old Instagram Post In Ahmedabad, 3 Arrested",
-        "link": "https://www.ndtv.com/india-news/gujarat-murder-do-what-you-can-ahmedabad-teen-dared-attackers-on-instagram-killed-11400769#publisher=newsstand"
+        "title": "\"Clock's Ticking\": Trump's New Ultimatum To Iran, Rules Out Nuke Strike",
+        "link": "https://www.ndtv.com/world-news/iran-us-war-live-news-donald-trumps-new-ultimatum-to-iran-rules-out-nuclear-strike-clocks-ticking-11401382#publisher=newsstand"
       },
       {
-        "title": "Assam Teen Decapitates Mother, Spends Night With Severed Head",
-        "link": "https://www.ndtv.com/india-news/assam-woman-decapitates-mother-spends-night-with-severed-head-11400478#publisher=newsstand"
+        "title": "Israel-Hezbollah Ceasefire Extended By 3 Weeks, Says Trump",
+        "link": "https://www.ndtv.com/world-news/iran-war-israel-hezbollah-ceasefire-extended-trump-says-israel-lebanon-agree-11401164#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-24 00:10 UTC"
+  "last_updated": "2026-04-24 03:51 UTC"
 }
