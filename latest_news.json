@@ -1,8 +1,13 @@
 {
   "breaking": [
     {
+      "source": "AlJazeera",
+      "title": "LIVE: Arsenal vs Newcastle – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/25/live-arsenal-vs-newcastle-premier-league?traffic_source=rss"
+    },
+    {
       "source": "NDTV",
-      "title": "NDTV Yuva 2026 LIVE: Asian Wrestling Gold Medalist Sujeet Kalkal Takes Centre Stage",
+      "title": "NDTV Yuva 2026 LIVE: Avinash Tiwary On His Journey To Bollywood And Being An 'Outsider'",
       "link": "https://www.ndtv.com/india-news/ndtv-yuva-2026-live-updates-ndtv-yuva-brings-together-indias-brightest-minds-boldest-voices-rajyavardhan-singh-rathore-sanya-malhotra-11406788#publisher=newsstand"
     }
   ],
@@ -21,34 +26,34 @@
         "link": "https://www.bbc.com/news/articles/cdxd1e899r4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Tensions flare in heated I'm A Celebrity live final",
-        "link": "https://www.bbc.com/news/articles/cy8138z5zn7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
         "link": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tensions flare in heated I'm A Celebrity live final",
+        "link": "https://www.bbc.com/news/articles/cy8138z5zn7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Iran’s Infowar: Lego, AI and ever tightening control",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss"
+        "title": "Israeli attacks kill four in southern Lebanon",
+        "link": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
       },
       {
-        "title": "Mali attacks live: Gunfire heard near Bamako airport and in several cities",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss"
+        "title": "LIVE: Arsenal vs Newcastle – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/25/live-arsenal-vs-newcastle-premier-league?traffic_source=rss"
       },
       {
-        "title": "Palestinians cast their ballots as Gaza holds first election in 21 years",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss"
+        "title": "‘Scale and coordination of Mali attacks appear unprecedented’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/scale-and-coordination-of-mali-attacks-appear-unprecedented?traffic_source=rss"
       },
       {
-        "title": "Gunmen stage simultaneous attacks across Mali, army says",
-        "link": "https://www.aljazeera.com/news/2026/4/25/mali-army-says-armed-groups-launch-nationwide-attacks-gunfire-near-airport?traffic_source=rss"
+        "title": "Indonesian UN peacekeeper becomes sixth killed in Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/indonesian-un-peacekeeper-becomes-sixth-killed-in-lebanon?traffic_source=rss"
       },
       {
-        "title": "Top Iranian and Pakistani officials meet in Islamabad",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss"
+        "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +85,10 @@
         "link": "https://www.dawn.com/news/1994958/irans-fm-araghchi-meets-pm-shehbaz-cdf-munir-amid-hopes-for-renewed-us-iran-talks"
       },
       {
+        "title": "Journalist Fakharur Rehman sent to jail on judicial remand following arrest in Peca case",
+        "link": "https://www.dawn.com/news/1995015/journalist-fakharur-rehman-sent-to-jail-on-judicial-remand-following-arrest-in-peca-case"
+      },
+      {
         "title": "Strait of Hormuz closure pushes Pakistan into expensive $18.4 per mmBtu LNG deal",
         "link": "https://www.dawn.com/news/1994972/strait-of-hormuz-closure-pushes-pakistan-into-expensive-184-per-mmbtu-lng-deal"
       },
@@ -88,12 +97,8 @@
         "link": "https://www.dawn.com/news/1994951/president-zardari-departs-for-china-for-visit-focused-on-economic-cooperation-cpec"
       },
       {
-        "title": "Four family members gunned down in Islamabad suburbs, police say",
-        "link": "https://www.dawn.com/news/1994995/four-family-members-gunned-down-in-islamabad-suburbs-police-say"
-      },
-      {
-        "title": "Billionaire Elon Musk enters courtroom showdown with OpenAI",
-        "link": "https://www.dawn.com/news/1994993/billionaire-elon-musk-enters-courtroom-showdown-with-openai"
+        "title": "Afghans in Qatar can return 'with full confidence', says Taliban govt",
+        "link": "https://www.dawn.com/news/1995010/afghans-in-qatar-can-return-with-full-confidence-says-taliban-govt"
       }
     ],
     "APNews": [],
@@ -121,68 +126,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Turkey casts itself as 'adult in the room' amid global reordering, FM tells Oxford audience",
+        "link": "https://www.middleeasteye.net/news/turkey-casts-itself-adult-room-global-reordering-fidan-oxford-audience"
+      },
+      {
+        "title": "Araghchi meeting with Pakistan's Sharif ends in Islamabad: Al Jazeera",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/aragchi-meeting-pakistans-sharif-ends-islamabad-al-jazeera"
+      },
+      {
+        "title": "How the war on Iran is rewriting regional trade routes",
+        "link": "https://www.middleeasteye.net/opinion/how-war-iran-rewriting-regional-trade-routes"
+      },
+      {
         "title": "Four people killed in Israeli strikes on southern Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-people-killed-israeli-strikes-southern-lebanon"
       },
       {
         "title": "What levers can Turkey use against Israel if their war of words escalates?",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/what-levers-can-turkey-use-against-israel-if-their-war-words-escalates"
-      },
-      {
-        "title": "Iran conveyed 'demands and reservations' about US positions to Pakistan",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-conveyed-demands-and-reservations-about-us-positions-pakistan"
-      },
-      {
-        "title": "What levers can Turkey use against Israel if their war of words escalates?",
-        "link": "https://www.middleeasteye.net/news/turkey-what-levers-use-against-israel-if-war-words-escalates"
-      },
-      {
-        "title": "Israel continues attacks and demolitions in south Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-continues-attacks-and-demolitions-south-lebanon"
       }
     ],
     "GeoTV": [
       {
-        "title": "Jake Reiner opens up on the night he learned of Rob, Michele Reiner's murders",
-        "link": "https://www.geo.tv/latest/661597-jake-reiner-opens-up-on-the-night-he-learned-of-rob-michele-reiners-murders"
+        "title": "Princess Kate and William's handwritten message salutes soldiers",
+        "link": "https://www.geo.tv/latest/661607-princess-kate-and-williams-handwritten-message-salutes-soldiers"
       },
       {
-        "title": "President Asif Ali Zardari departs for five-day official visit to China",
-        "link": "https://www.geo.tv/latest/661594-president-asif-ali-zardari-departs-for-five-day-official-visit-to-china"
+        "title": "Nepra clarifies no licence required for off-grid solar systems",
+        "link": "https://www.geo.tv/latest/661601-nepra-clarifies-no-licence-required-for-off-grid-solar-systems"
       },
       {
-        "title": "WWE post-WrestleMania shake-up begins, big names among early releases",
-        "link": "https://www.geo.tv/latest/661595-wwe-post-wrestlemania-shake-up-begins-big-names-among-early-releases"
+        "title": "PSL 11: Lahore Qalandars win toss, elect to field first against Peshawar Zalmi",
+        "link": "https://www.geo.tv/latest/661609-psl-11-lahore-qalandars-win-toss-elect-to-field-first-against-peshawar-zalmi"
       },
       {
-        "title": "Former royal chef exposes King Charles, Queen Camilla's kitchen secrets",
-        "link": "https://www.geo.tv/latest/661592-former-royal-chef-exposes-king-charles-queen-camillas-kitchen-secrets"
+        "title": "How Justin Bieber steps up to support young artists like Billie Eilish",
+        "link": "https://www.geo.tv/latest/661604-how-justin-bieber-steps-up-to-support-young-artists-like-billie-eilish"
       },
       {
-        "title": "King Charles private meeting with Zohran Mamdani: Full details unveiled",
-        "link": "https://www.geo.tv/latest/661593-king-charles-private-meeting-with-zohran-mamdani-full-details-unveiled"
+        "title": "Iran's FM holds talks with PM Shehbaz, CDF Munir amid fresh push for US-Iran dialogue",
+        "link": "https://www.geo.tv/latest/661596-irans-fm-araghchi-holds-talks-with-pm-shehbaz-cdf-munir-amid-fresh-push-for-us-iran-dialogue"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Clear Message From Voters\": Rajnath Singh To NDTV On Bengal Turnout",
-        "link": "https://www.ndtv.com/india-news/west-bengal-assembly-elections-2026-bengal-polls-bjp-trinamool-congress-clear-message-from-voters-rajnath-singh-to-ndtv-on-bengal-turnout-11408115#publisher=newsstand"
+        "title": "AAP vs BJP Over 'Sheesh Mahal 2'. Raghav Chadha Weighs In",
+        "link": "https://www.ndtv.com/india-news/bjp-vs-aap-on-sheesh-mahal-2-and-a-raghav-chadha-few-good-workers-dig-11407817#publisher=newsstand"
       },
       {
-        "title": "Watch: Trump-Epstein Videos Projected Onto Washington DC Building",
-        "link": "https://www.ndtv.com/world-news/watch-donald-trump-jeffrey-epstein-videos-projected-onto-washington-dc-building-11408090#publisher=newsstand"
-      },
-      {
-        "title": "NDTV Yuva 2026 LIVE: Asian Wrestling Gold Medalist Sujeet Kalkal Takes Centre Stage",
+        "title": "NDTV Yuva 2026 LIVE: Avinash Tiwary On His Journey To Bollywood And Being An 'Outsider'",
         "link": "https://www.ndtv.com/india-news/ndtv-yuva-2026-live-updates-ndtv-yuva-brings-together-indias-brightest-minds-boldest-voices-rajyavardhan-singh-rathore-sanya-malhotra-11406788#publisher=newsstand"
       },
       {
-        "title": "In A First, Press-Critic Trump To Attend Media Event On Saturday",
-        "link": "https://www.ndtv.com/world-news/donald-trump-white-house-correspondents-association-dinner-in-a-first-press-critic-trump-to-attend-media-event-on-saturday-11408061#publisher=newsstand"
+        "title": "Ukrainian Drone Hits Building In Russian City 1,900 Kms Away From Kyiv",
+        "link": "https://www.ndtv.com/world-news/russia-ukraine-war-yekaterinburg-drone-attack-ukrainian-drone-hits-building-in-russian-city-1-900-kms-away-from-kyiv-11408230#publisher=newsstand"
       },
       {
-        "title": "Meet Nitu Samra, Interim CEO Steering Noida Airport Through Clearance Hurdle",
-        "link": "https://www.ndtv.com/india-news/meet-nitu-samra-interim-ceo-steering-noida-airport-through-clearance-hurdle-11408099#publisher=newsstand"
+        "title": "WFH To Limited AC Use: How Countries Are Dealing With Iran War Energy Shock",
+        "link": "https://www.ndtv.com/world-news/wfh-to-limited-ac-use-how-countries-are-dealing-with-iran-war-energy-shock-11408197#publisher=newsstand"
+      },
+      {
+        "title": "\"Clear Message From Voters\": Rajnath Singh To NDTV On Bengal Turnout",
+        "link": "https://www.ndtv.com/india-news/west-bengal-assembly-elections-2026-bengal-polls-bjp-trinamool-congress-clear-message-from-voters-rajnath-singh-to-ndtv-on-bengal-turnout-11408115#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-25 12:30 UTC"
+  "last_updated": "2026-04-25 13:46 UTC"
 }
