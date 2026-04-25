@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Arsenal vs Newcastle – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/4/25/live-arsenal-vs-newcastle-premier-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,11 +7,7 @@
         "link": "https://www.bbc.com/news/articles/cq59xvdzjv7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
-        "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Woman, 29, dies week after being hit by car outside club in London's Soho",
+        "title": "Influencer dies days after being hit by car in London's Soho",
         "link": "https://www.bbc.com/news/articles/cx29w1z1lkzo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,11 +15,19 @@
         "link": "https://www.bbc.com/news/articles/c3dlgz3mm39o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Woman arrested after two children die in house fire",
+        "title": "Woman arrested after two children die in Wolverhampton house fire",
         "link": "https://www.bbc.com/news/articles/ckg0vpeqk78o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+        "link": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
+        "link": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss"
+      },
       {
         "title": "After years of avoidance, Trump to attend first White House press dinner",
         "link": "https://www.aljazeera.com/news/2026/4/25/after-years-of-avoidance-trump-to-attend-first-white-house-press-dinner?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "Israeli attacks kill four in southern Lebanon",
         "link": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Arsenal vs Newcastle – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/4/25/live-arsenal-vs-newcastle-premier-league?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "Iranian delegation led by FM Araghchi leaves after meeting with PM Shehbaz, CDF Munir",
-        "link": "https://www.dawn.com/news/1994958/iranian-delegation-led-by-fm-araghchi-leaves-after-meeting-with-pm-shehbaz-cdf-munir"
+        "title": "Iranian delegation led by Araghchi leaves after meeting PM, CDF Munir; Trump cancels US envoys' visit",
+        "link": "https://www.dawn.com/news/1994958/iranian-delegation-led-by-araghchi-leaves-after-meeting-pm-cdf-munir-trump-cancels-us-envoys-visit"
       },
       {
         "title": "Pakistan successfully launches indigenous satellite from China",
@@ -88,12 +82,12 @@
         "link": "https://www.dawn.com/news/1995015/journalist-fakharur-rehman-sent-to-jail-on-judicial-remand-following-arrest-in-peca-case"
       },
       {
-        "title": "President Zardari departs for China for visit focused on 'economic cooperation, CPEC'",
-        "link": "https://www.dawn.com/news/1994951/president-zardari-departs-for-china-for-visit-focused-on-economic-cooperation-cpec"
-      },
-      {
         "title": "US State Department orders global warning about alleged AI theft by DeepSeek, other Chinese firms",
         "link": "https://www.dawn.com/news/1995029/us-state-department-orders-global-warning-about-alleged-ai-theft-by-deepseek-other-chinese-firms"
+      },
+      {
+        "title": "Operation to recover boy swept away while swimming in water line continues for 2nd day in Karachi",
+        "link": "https://www.dawn.com/news/1995030/operation-to-recover-boy-swept-away-while-swimming-in-water-line-continues-for-2nd-day-in-karachi"
       }
     ],
     "APNews": [],
@@ -101,10 +95,6 @@
       {
         "title": "Trump Seeks to Abolish Iran’s Nuclear Stockpile, a Problem He Helped Create",
         "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html"
-      },
-      {
-        "title": "Rubio’s Absence From Iran Talks Highlights Stay-at-Home Role",
-        "link": "https://www.nytimes.com/2026/04/24/us/politics/marco-rubio-absence-iran-talks.html"
       },
       {
         "title": "On Iran’s Border, Cooking Oil Trade Is a Snapshot of the Country’s Struggles",
@@ -117,9 +107,21 @@
       {
         "title": "Firm Building Trump’s Ballroom Got a Secret No-Bid Contract for a Nearby Job",
         "link": "https://www.nytimes.com/2026/04/25/us/politics/lafayette-park-fountains-trump-contract.html"
+      },
+      {
+        "title": "U.S. Says Venezuelan Government Can Pay for Nicolás Maduro’s Defense",
+        "link": "https://www.nytimes.com/2026/04/24/nyregion/us-venezuela-maduro-court-cost.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Trump says canceling envoys' trip does not mean restart of Iran war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-canceling-envoys-trip-does-not-mean-restart-iran-war"
+      },
+      {
+        "title": "Trump cancels envoy visit to Pakistan, says Iran can ‘call us’ to negotiate",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-cancels-envoy-visit-pakistan-says-iran-can-call-us-negotiate"
+      },
       {
         "title": "Pakistan's Shehbaz Sharif confirms Iran's delegation has left Islamabad",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistans-shehbaz-sharif-confirms-irans-delegation-has-left-islambad"
@@ -131,17 +133,13 @@
       {
         "title": "Palestinians head to the polls for first time since Gaza war",
         "link": "https://www.middleeasteye.net/news/palestinians-head-polls-first-time-gaza-war"
-      },
-      {
-        "title": "Turkey casts itself as 'adult in the room' amid global reordering, FM tells Oxford audience",
-        "link": "https://www.middleeasteye.net/news/turkey-casts-itself-adult-room-global-reordering-fidan-oxford-audience"
-      },
-      {
-        "title": "Araghchi meeting with Pakistan's Sharif ends in Islamabad: Al Jazeera",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/aragchi-meeting-pakistans-sharif-ends-islamabad-al-jazeera"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Princess Kate and Harry share powerful acts of connection and support",
+        "link": "https://www.geo.tv/latest/661629-princess-kate-and-harry-share-powerful-acts-of-connection-and-support"
+      },
       {
         "title": "Why Michael Jackson biopic skips his biggest controversy?",
         "link": "https://www.geo.tv/latest/661625-why-michael-jackson-biopic-skips-his-biggest-controversy"
@@ -157,32 +155,28 @@
       {
         "title": "Prince Harry toasts the night with surprise red gift at Invictus celebration",
         "link": "https://www.geo.tv/latest/661621-prince-harry-toasts-the-night-with-surprise-red-gift-at-invictus-celebration"
-      },
-      {
-        "title": "India to bid for 2038 Asian Games in Ahmedabad",
-        "link": "https://www.geo.tv/latest/661614-india-to-bid-for-2038-asian-games-in-ahmedabad"
       }
     ],
     "NDTV": [
       {
-        "title": "AAP Rebel Met Arvind Kejriwal Before Raghav Chadha Shocker. What He Told Him",
-        "link": "https://www.ndtv.com/india-news/aap-rebel-met-arvind-kejriwal-before-raghav-chadha-shocker-what-he-told-him-11408735#publisher=newsstand"
+        "title": "US-Iran War Live Updates: Trump Cancels Top Officials' Pakistan Trip For Iran Talks",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-iran-ceasefire-islamabad-talks-starit-of-hormuz-blockade-donald-trump-mojtaba-khamenei-11396003#publisher=newsstand"
       },
       {
-        "title": "Beijing Warns Europe As Chinese Entities Included In Russia Sanctions",
-        "link": "https://www.ndtv.com/world-news/european-union-sanction-russia-beijing-warns-europe-as-chinese-entities-included-in-russia-sanctions-11408680#publisher=newsstand"
+        "title": "45 Governments, 4 Years: Defections And Indian Politics' Era Of Instability",
+        "link": "https://www.ndtv.com/india-news/raghav-chadha-rebellion-aap-rebellion-aap-exodus-45-governments-4-years-defections-and-indian-politics-era-of-instability-11408868#publisher=newsstand"
       },
       {
-        "title": "'Economic Growth Disconnected From Poll Outcomes': Ruchir Sharma On Bengal Election",
-        "link": "https://www.ndtv.com/india-news/economic-growth-disconnected-from-poll-outcomes-ruchir-sharma-on-west-bengal-assembly-election-11408386#publisher=newsstand"
+        "title": "India's First Private Orbital Rocket Vikram-1 Inches Closer To Launch",
+        "link": "https://www.ndtv.com/india-news/isro-vikram-1-rocket-launch-sriharikota-indias-first-private-orbital-rocket-vikram-1-inches-closer-to-launch-11408927#publisher=newsstand"
       },
       {
-        "title": "FBI Chief Kash Patel Was Arrested For Public Drinking, Urination: Report",
-        "link": "https://www.ndtv.com/world-news/fbi-chief-kash-patel-was-arrested-for-public-drinking-urination-report-11408730#publisher=newsstand"
+        "title": "2 Missing, 1 Body, 1 Killer: In US University, Bangladeshi Students' Murder",
+        "link": "https://www.ndtv.com/world-news/zamil-limon-nahida-bristy-hisham-abugharbieh-2-vanished-1-body-found-bangladeshi-students-disappearance-murder-in-us-11408865#publisher=newsstand"
       },
       {
-        "title": "Many Injured In Clashes At Imphal Rally Called Over Recent Attacks",
-        "link": "https://www.ndtv.com/india-news/many-injured-in-clashes-at-manipur-imphal-rally-called-over-recent-attacks-11408721#publisher=newsstand"
+        "title": "Adani Foundation Sets Up Garment Centre To Empower Women In Madhya Pradesh",
+        "link": "https://www.ndtv.com/india-news/adani-foundation-sets-up-garment-centre-to-empower-women-in-madhya-pradesh-11408840#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-25 16:01 UTC"
+  "last_updated": "2026-04-25 16:57 UTC"
 }
