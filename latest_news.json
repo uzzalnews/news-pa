@@ -3,8 +3,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Watch: How the Golders Green attack unfolded",
-        "link": "https://www.bbc.com/news/videos/cddp47gj07yo?at_medium=RSS&at_campaign=rss"
+        "title": "Police declare terrorist incident after two Jewish men stabbed in London",
+        "link": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Met Police body-worn footage of Golders Green arrest",
+        "link": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "King and Queen lay flowers at 9/11 Memorial in New York",
@@ -17,32 +21,28 @@
       {
         "title": "Hereditary peers' last hurrah as 700-year-old system abolished",
         "link": "https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Stephen Fry sues tech conference for up to £100,000 after falling off stage",
-        "link": "https://www.bbc.com/news/articles/cvgzr2yy6vro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "What’s behind Israel’s plan to move the Bnei Menashe?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/whats-behind-israels-plan-to-move-the-bnei-menashe?traffic_source=rss"
+        "title": "UAE quits OPEC",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss"
       },
       {
-        "title": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
-        "link": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss"
+        "title": "Arsenal cruelly denied penalty by VAR in Champions League draw at Atletico",
+        "link": "https://www.aljazeera.com/sports/2026/4/29/arsenal-cruelly-denied-penalty-by-var-in-champions-league-tie-at-atletico?traffic_source=rss"
       },
       {
-        "title": "Musk accuses Altman of betraying OpenAI’s nonprofit founding mission",
-        "link": "https://www.aljazeera.com/economy/2026/4/29/musk-accuses-altman-of-betraying-openais-nonprofit-founding-mission?traffic_source=rss"
+        "title": "New Florida map boosts Republican seats amid national redistricting fight",
+        "link": "https://www.aljazeera.com/news/2026/4/29/new-florida-map-boosts-republican-seats-amid-national-redistricting-fight?traffic_source=rss"
       },
       {
-        "title": "Mali’s Tuareg rebels say Russian fighters must withdraw from country",
-        "link": "https://www.aljazeera.com/news/2026/4/29/malis-tuareg-rebels-say-russian-fighters-must-withdraw-from-country?traffic_source=rss"
+        "title": "Trump: Putin offered to help settle Iranian nuclear enrichment impasse",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/trump-putin-offered-to-help-settle-iranian-nuclear-enrichment-impasse?traffic_source=rss"
       },
       {
-        "title": "Ex-FBI chief Comey appears in court over alleged Trump threat",
-        "link": "https://www.aljazeera.com/news/2026/4/29/ex-fbi-chief-comey-appears-in-court-over-alleged-trump-threat?traffic_source=rss"
+        "title": "Why is the UAE quitting OPEC – and what’s the impact?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/4/29/why-is-the-uae-quitting-opec-and-whats-the-impact?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,27 +93,39 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Supreme Court Grapples With Trump’s Plan to Revoke Deportation Protections",
+        "link": "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-trump-deportations.html"
+      },
+      {
         "title": "What the Supreme Court’s Voting Rights Ruling Could Mean for the Midterms",
         "link": "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html"
       },
       {
+        "title": "Florida Approves Redistricting Map That Could Add 4 Republican House Seats",
+        "link": "https://www.nytimes.com/2026/04/29/us/florida-house-gop-map.html"
+      },
+      {
+        "title": "Supreme Court Sides With Anti-Abortion Clinic in Fight Over Donor Records",
+        "link": "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-abortion-subpoena.html"
+      },
+      {
         "title": "Powell Says He Will Stay On as Fed Governor After Term as Chair Ends",
         "link": "https://www.nytimes.com/2026/04/29/business/economy/powell-fed-stay-governor.html"
-      },
-      {
-        "title": "At State Dinner, King Charles Charms the Court of Trump",
-        "link": "https://www.nytimes.com/2026/04/29/us/politics/king-charles-trump-state-dinner.html"
-      },
-      {
-        "title": "Melania Trump, Queen Camilla and the Look of the Special Relationship",
-        "link": "https://www.nytimes.com/2026/04/29/style/melania-trump-queen-camilla-state-visit.html"
-      },
-      {
-        "title": "Pentagon Puts Iran War Cost at $25 Billion as Hegseth Berates Skeptics",
-        "link": "https://www.nytimes.com/2026/04/29/us/politics/hegseth-iran-war-cost.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Putin, Trump discuss Iran war, Ukraine ceasefire in call",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/putin-trump-discuss-iran-war-ukraine-ceasefire-call"
+      },
+      {
+        "title": "Gaza-bound aid ship intercepted by Israeli forces",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-bound-aid-ship-intercepted-israeli-forces"
+      },
+      {
+        "title": "Trump calls UAE exit from Opec ‘great’, says it could lower prices",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-calls-uae-exit-opec-great-says-it-could-lower-prices"
+      },
       {
         "title": "Trump's image on US passports sparks backlash as critics decry 'vanity project'",
         "link": "https://www.middleeasteye.net/trending/trump-passport-design-sparks-backlash-critics-decry-vanity-project"
@@ -121,21 +133,17 @@
       {
         "title": "Iran says US blockade not disrupting oil supply",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-has-say-we-give-reach-deal-0"
-      },
-      {
-        "title": "Trump says Iran is 'choking like a stuffed pig', as he mulls extending blockade",
-        "link": "https://www.middleeasteye.net/news/further-strikes-planned-trump-rejects-iranian-proposal-lift-us-blockade-strait-hormuz"
-      },
-      {
-        "title": "Iran officials skip FIFA congress after airport incident in Canada",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-officials-skip-fifa-congress-after-airport-incident-canada"
-      },
-      {
-        "title": "Trump says Iran ‘has to say we give up’ to reach deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-has-say-we-give-reach-deal"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Former NFL defensive end Josh Mauro dies at 35",
+        "link": "https://www.geo.tv/latest/662212-former-nfl-defensiveeend-josh-mauro-dies-at-35"
+      },
+      {
+        "title": "Zohran Mamdani asks King Charles to return Kohinoor to India",
+        "link": "https://www.geo.tv/latest/662211-zohran-mamdani-asks-king-charles-to-return-kohinoor-to-india"
+      },
       {
         "title": "Apple set to introduce camera AI in iOS 27",
         "link": "https://www.geo.tv/latest/662208-apple-set-to-introduce-camera-ai-in-ios-27"
@@ -147,17 +155,17 @@
       {
         "title": "Meryl Streep said no to ‘Devil Wears Prada' first: Know the full story",
         "link": "https://www.geo.tv/latest/662203-meryl-streep-said-no-to-devil-wears-prada-first-know-the-full-story"
-      },
-      {
-        "title": "Powell to remain on Fed board after chair term ends: Should Trump worry?",
-        "link": "https://www.geo.tv/latest/662204-powell-to-remain-on-fed-board-after-chair-term-ends-should-trump-worry"
-      },
-      {
-        "title": "Vanessa Williams reveals why she always plays negative roles",
-        "link": "https://www.geo.tv/latest/662201-vanessa-williams-reveals-why-she-always-plays-negative-roles"
       }
     ],
     "NDTV": [
+      {
+        "title": "Trump Says US Has \"A Shot\" At Crewed Moon Landing Before Presidency Ends",
+        "link": "https://www.ndtv.com/world-news/trump-says-us-has-a-shot-at-crewed-moon-landing-before-presidency-ends-11428346#publisher=newsstand"
+      },
+      {
+        "title": "Alleged Trump Assassin Took Selfie Moments Before Attack: Prosecutors",
+        "link": "https://www.ndtv.com/world-news/alleged-trump-assassin-cole-allen-took-selfie-moments-before-attack-prosecutors-11428308#publisher=newsstand"
+      },
       {
         "title": "\"I Literally Was A Fool\": Elon Musk Grilled In OpenAI Trial",
         "link": "https://www.ndtv.com/world-news/i-literally-was-a-fool-elon-musk-grilled-in-openai-trial-11428148#publisher=newsstand"
@@ -169,14 +177,6 @@
       {
         "title": "Pakistan Facing Major Economic Fallout Due To Iran War, Says PM Sharif",
         "link": "https://www.ndtv.com/world-news/pakistan-facing-major-economic-fallout-due-to-iran-war-says-pm-sharif-11428071#publisher=newsstand"
-      },
-      {
-        "title": "US Supreme Court Undermines Key Provision Of Voting Rights Act",
-        "link": "https://www.ndtv.com/world-news/us-supreme-court-undermines-key-provision-of-voting-rights-act-11428066#publisher=newsstand"
-      },
-      {
-        "title": "Canoe Carrying 35 Passengers Overturns In Uganda River",
-        "link": "https://www.ndtv.com/world-news/canoe-carrying-35-passengers-overturns-in-uganda-river-11428058#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-04-29 21:00 UTC"
+  "last_updated": "2026-04-29 22:07 UTC"
 }
