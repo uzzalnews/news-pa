@@ -1,9 +1,15 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US Iran Ceasefire News LIVE: Trump Administration Says War 'Terminated' Before 60-day Deadline",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "UK terrorism threat level raised to severe after Golders Green attack",
+        "title": "Public told 'be alert, not alarmed' as terror threat level raised after Golders Green attack",
         "link": "https://www.bbc.com/news/articles/cq6p4pz6p62o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Condemnation and protests against Israel’s raid of Gaza aid flotilla",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss"
+      },
+      {
         "title": "Arsenal vs Fulham: Premier League – teams, start, lineups, title race",
         "link": "https://www.aljazeera.com/sports/2026/4/30/arsenal-vs-fulham-premier-league-teams-start-lineups-title-race?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "First US-Venezuela flight lands in Caracas after seven-year suspension",
         "link": "https://www.aljazeera.com/economy/2026/4/30/first-us-venezuela-flight-lands-in-caracas-after-seven-year-suspension?traffic_source=rss"
-      },
-      {
-        "title": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
-        "link": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "Palestinians mourn football loving teenager killed by Israeli army",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,116 +76,120 @@
     ],
     "Dawn": [
       {
-        "title": "Govt hikes petrol price by Rs6, diesel by Rs19",
-        "link": "https://www.dawn.com/news/1996451/govt-hikes-petrol-price-by-rs6-diesel-by-rs19"
+        "title": "Fuel hits Rs400 per litre as govt passes on global impact",
+        "link": "https://www.dawn.com/news/1996570/fuel-hits-rs400-per-litre-as-govt-passes-on-global-impact"
       },
       {
-        "title": "Pakistan, 10 other nations condemn Israeli assault on Gaza aid flotilla, 'unlawful detention' of activists",
-        "link": "https://www.dawn.com/news/1996359/pakistan-10-other-nations-condemn-israeli-assault-on-gaza-aid-flotilla-unlawful-detention-of-activists"
+        "title": "Trump likely among 287 candidates for Nobel Peace Prize",
+        "link": "https://www.dawn.com/news/1996525/trump-likely-among-287-candidates-for-nobel-peace-prize"
       },
       {
-        "title": "13 terrorists killed as bids to infiltrate Pak-Afghan border in KP foiled: ISPR",
-        "link": "https://www.dawn.com/news/1996454/13-terrorists-killed-as-bids-to-infiltrate-pak-afghan-border-in-kp-foiled-ispr"
+        "title": "IHC upholds Capital Development Authority’s decision of canceling One Constitution Avenue lease",
+        "link": "https://www.dawn.com/news/1996486/ihc-upholds-capital-development-authoritys-decision-of-canceling-one-constitution-avenue-lease"
       },
       {
-        "title": "Arif Habib-led consortium notifies Privatisation Commission of its intent to acquire remaining 25pc PIA stake",
-        "link": "https://www.dawn.com/news/1996427/arif-habib-led-consortium-notifies-privatisation-commission-of-its-intent-to-acquire-remaining-25pc-pia-stake"
+        "title": "Breathe Pakistan conference  to be held at Serena",
+        "link": "https://www.dawn.com/news/1996562/breathe-pakistan-conference-to-be-held-at-serena"
       },
       {
-        "title": "PM Shehbaz extends fuel subsidy for motorcyclists, goods transport by one month",
-        "link": "https://www.dawn.com/news/1996417/pm-shehbaz-extends-fuel-subsidy-for-motorcyclists-goods-transport-by-one-month"
+        "title": "Governance gaps weaken Pakistan’s climate disaster response, report warns",
+        "link": "https://www.dawn.com/news/1996479/governance-gaps-weaken-pakistans-climate-disaster-response-report-warns"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Supreme Court Voting Rights Ruling Could Fuel New Era of Redistricting Wars",
-        "link": "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+        "title": "Trump’s Plans to Boost Weapons Production Might Not Deliver for Years",
+        "link": "https://www.nytimes.com/2026/04/30/us/politics/trumps-hegseth-weapons-production.html"
       },
       {
-        "title": "After Supreme Court Decision, Louisiana Weighs Redrawing House Maps",
-        "link": "https://www.nytimes.com/2026/04/30/us/politics/louisiana-suspend-primaries-supreme-court.html"
+        "title": "Hegseth Says Iran Cease-Fire Stops Clock for Congressional Approval",
+        "link": "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html"
       },
       {
-        "title": "How the Voting Rights Decision May Block the Rise of Young Black Leaders",
-        "link": "https://www.nytimes.com/2026/04/30/us/politics/voting-rights-act-young-black-democrats.html"
+        "title": "Takeaways From Hegseth’s Second Day of Testimony on the Iran War",
+        "link": "https://www.nytimes.com/2026/04/30/us/politics/hegseth-senate-hearing-takeaways.html"
+      },
+      {
+        "title": "Oil Companies’ Huge Profits Revive Calls for Temporary Windfall Taxes",
+        "link": "https://www.nytimes.com/2026/05/01/business/economy/iran-war-oil-profits-tax.html"
       },
       {
         "title": "The Homeland Security Shutdown Ends",
         "link": "https://www.nytimes.com/2026/04/30/briefing/homeland-security-shutdown-ends.html"
-      },
-      {
-        "title": "Comey Indictment Shows Justice Dept. Got the Message From Bondi’s Firing",
-        "link": "https://www.nytimes.com/2026/04/30/us/politics/james-comey-indictment-trump.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Evening update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-update-31"
+        "title": "UN Chief warns consequences of Middle East crisis 'grow dramatically worse'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-warns-consequences-middle-east-crisis-grow-dramatically-worse"
       },
       {
-        "title": "Lebanon death toll from Thursday reaches 32, Israeli troops hit",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-thursday-reaches-32-israeli-troops-hit"
+        "title": "Report: Cost of war on Iran closer to $50 billion",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-cost-war-iran-closer-50-billion"
       },
       {
-        "title": "US embassy in Beirut says Lebanon is at ‘crossroads’, calls for meeting with Netanyahu",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-beirut-says-lebanon-crossroads-calls-meeting-netanyahu"
+        "title": "US determines hostilities against Iran have ended, says official",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-determines-hostilities-against-iran-have-ended-says-official"
       },
       {
-        "title": "Iranian media: Iran’s air defence engaging drones over Tehran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-irans-air-defence-engaging-drones-over-tehran"
+        "title": "Trump, Fox News praise UAE decision to leave Opec",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-fox-news-praise-uae-decision-leave-opec"
       },
       {
-        "title": "US condemns ‘counterproductive’ Gaza aid flotilla seized by Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-condemns-counterproductive-gaza-aid-flotilla-seized-israel"
+        "title": "US suffered 'disgraceful defeat', Iran’s Supreme Leader says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-suffered-disgraceful-defeat-irans-supreme-leader-says"
       }
     ],
     "GeoTV": [
       {
+        "title": "Palestinian football chief slams Israeli official at Fifa meeting",
+        "link": "https://www.geo.tv/latest/662384-palestinian-football-chief-slams-israeli-official-at-fifa-meeting"
+      },
+      {
+        "title": "Beyond the exit",
+        "link": "https://www.geo.tv/latest/662383-beyond-the-exit"
+      },
+      {
+        "title": "Meryl Streep and Goldie Hawn once had a fight",
+        "link": "https://www.geo.tv/latest/662382-meryl-streep-and-goldie-hawn-once-had-a-fight"
+      },
+      {
+        "title": "David Allen Coe's estranged daughter mourns death of father: ‘Hell'",
+        "link": "https://www.geo.tv/latest/662381-david-allen-coes-estranged-daughter-mourns-death-of-father-hell"
+      },
+      {
         "title": "Britney Spears life update: Popstar out of rehab",
         "link": "https://www.geo.tv/latest/662380-britney-spears-life-update-popstar-out-of-rehab"
-      },
-      {
-        "title": "David Allan Coe dies: ‘The Ride' country star was 86",
-        "link": "https://www.geo.tv/latest/662379-david-allan-coe-dies-the-ride-country-star-was-86"
-      },
-      {
-        "title": "‘Vampire Diaries' Ian Somerhalder had to sell ‘everything': Here's why",
-        "link": "https://www.geo.tv/latest/662373-vampire-diaries-ian-somerhalder-had-to-sell-everything-heres-why"
-      },
-      {
-        "title": "Mortgage rates rise 6.3%, snapping 3-week losing streak",
-        "link": "https://www.geo.tv/latest/662372-mortgage-rates-rise-63-snapping-3-week-losing-streak"
-      },
-      {
-        "title": "What is on Taylor Swift's website? Here's everything to know about ‘Toy Story' style countdown",
-        "link": "https://www.geo.tv/latest/662371-what-is-on-taylor-swifts-website-heres-everything-to-know-about-toy-story-style-countdown"
       }
     ],
     "NDTV": [
       {
-        "title": "Trump Says Iran \"Dying To Make A Deal\", Refuses To Call It War",
-        "link": "https://www.ndtv.com/world-news/trump-says-iran-dying-to-make-a-deal-refuses-to-call-it-war-11433800#publisher=newsstand"
+        "title": "9 Tourists Dead, Many Missing As Cruise Boat With 29 On Board Sinks In Madhya Pradesh",
+        "link": "https://www.ndtv.com/india-news/4-dead-as-cruise-boat-with-31-on-board-sinks-in-madhya-pradeshs-jabalpur-11431977#publisher=newsstand"
       },
       {
-        "title": "Trump Says Lifting Scottish Whisky Tariffs To 'Honor' King Charles",
-        "link": "https://www.ndtv.com/world-news/trump-says-lifting-scottish-whisky-tariffs-to-honor-king-charles-11433706#publisher=newsstand"
+        "title": "Mamata Banerjee's Visit To Strongroom, Trinamool's Protest: Late-Night EVM Drama In Bengal",
+        "link": "https://www.ndtv.com/india-news/mamata-banerjees-visit-trinamool-protest-late-night-evm-drama-in-bengal-bjp-responds-ballot-boxes-opened-west-bengal-elections-11434024#publisher=newsstand"
       },
       {
-        "title": "After Germany, Trump Says US Considering Reducing Troops In Italy, Spain",
-        "link": "https://www.ndtv.com/world-news/after-germany-trump-says-us-considering-reducing-troops-in-italy-spain-11433548#publisher=newsstand"
+        "title": "US Iran Ceasefire News LIVE: Trump Administration Says War 'Terminated' Before 60-day Deadline",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
       },
       {
-        "title": "Mamata Banerjee Visits Bhabanipur Strongroom, Flags Counting Irregularities",
-        "link": "https://www.ndtv.com/india-news/mamata-banerjee-visits-bhabanipur-strongroom-flags-counting-irregularities-11433463#publisher=newsstand"
+        "title": "US Releases New Video Of Trump Event Shooter Amid 'Friendly Fire' Claims",
+        "link": "https://www.ndtv.com/world-news/trump-event-shooting-us-releases-video-of-cole-tomas-allen-amid-friendly-fire-claims-11434042#publisher=newsstand"
       },
       {
-        "title": "UP Man Who Murdered 3 In Gym Over Birthday Cake Killed In Encounter",
-        "link": "https://www.ndtv.com/india-news/up-man-who-murdered-3-in-gym-over-birthday-cake-killed-in-encounter-11433356#publisher=newsstand"
+        "title": "Man Visited Odisha Bank With Sister's Skeleton After He Was Told 'No' 4 Times",
+        "link": "https://www.ndtv.com/india-news/man-visited-odisha-bank-with-sisters-skeleton-after-he-was-told-no-4-times-odisha-grameen-bank-11434071#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Iran war may cause food shortages in Africa, world’s largest fertiliser firm says",
+        "link": "https://www.theguardian.com/business/2026/may/01/iran-war-may-cause-food-shortages-in-africa-world-largest-fertiliser-firm-yara-says"
+      },
       {
         "title": "South Africa deports Mugabe’s son for unrelated offences after employee shot at family home",
         "link": "https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home"
@@ -195,12 +205,8 @@
       {
         "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
         "link": "https://www.theguardian.com/world/2026/apr/28/russia-claims-its-africa-corps-group-prevented-coup-in-mali-after-rebels-seize-towns"
-      },
-      {
-        "title": "Fears of resurgence in Somali piracy after three vessels hijacked in a week",
-        "link": "https://www.theguardian.com/world/2026/apr/28/fears-resurgence-somalia-piracy-three-vessels-hijacked-past-week"
       }
     ]
   },
-  "last_updated": "2026-05-01 00:06 UTC"
+  "last_updated": "2026-05-01 04:13 UTC"
 }
