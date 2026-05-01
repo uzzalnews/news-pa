@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US Iran Ceasefire News LIVE: Iran Delivers New Proposal For Talks With US Via Pakistan",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "Polanski apologises for sharing post criticising officers who arrested Golders Green suspect",
+        "link": "https://www.bbc.com/news/articles/cp8p7k4k8xno?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Woman charged over fatal Wimbledon school crash",
         "link": "https://www.bbc.com/news/articles/c2026d7586zo?at_medium=RSS&at_campaign=rss"
@@ -17,12 +15,8 @@
         "link": "https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Superdry co-founder found guilty of rape",
+        "title": "Superdry co-founder guilty of rape",
         "link": "https://www.bbc.com/news/articles/czx2gwpe9evo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Small boat migrant guilty of attempting knife attack on Israeli embassy",
-        "link": "https://www.bbc.com/news/articles/cze25yz8dnxo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
@@ -30,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Benfica’s Mourinho says no contact with Real Madrid about manager’s job",
+        "link": "https://www.aljazeera.com/sports/2026/5/1/benficas-mourinho-says-no-contact-with-real-madrid-about-managers-job?traffic_source=rss"
+      },
       {
         "title": "Howe says Saudi owners’ desire for success at Newcastle remains unchanged",
         "link": "https://www.aljazeera.com/sports/2026/5/1/howe-says-saudi-owners-desire-for-success-at-newcastle-remains-unchanged?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "‘Turbulent and dangerous’: How shipping is the new global battleground",
         "link": "https://www.aljazeera.com/news/2026/5/1/turbulent-and-dangerous-how-shipping-is-the-new-global-battleground?traffic_source=rss"
-      },
-      {
-        "title": "Giorgia Meloni’s moral retreat on Gaza",
-        "link": "https://www.aljazeera.com/opinions/2026/5/1/giorgia-melonis-moral-retreat-on-gaza?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,24 +70,24 @@
     ],
     "Dawn": [
       {
-        "title": "Power minister declares end to month-long loadshedding following arrival of LNG shipment",
-        "link": "https://www.dawn.com/news/1996657/power-minister-declares-end-to-month-long-loadshedding-following-arrival-of-lng-shipment"
+        "title": "PM Shehbaz says regulatory system for virtual assets should be operationalised at the earliest",
+        "link": "https://www.dawn.com/news/1996695/pm-shehbaz-says-regulatory-system-for-virtual-assets-should-be-operationalised-at-the-earliest"
       },
       {
         "title": "PM forms committee to review One Constitution Avenue case, halts authorities from taking action",
         "link": "https://www.dawn.com/news/1996669/pm-forms-committee-to-review-one-constitution-avenue-case-halts-authorities-from-taking-action"
       },
       {
+        "title": "Over 100 Gaza aid flotilla activists taken to Crete after Israeli interception",
+        "link": "https://www.dawn.com/news/1996697/over-100-gaza-aid-flotilla-activists-taken-to-crete-after-israeli-interception"
+      },
+      {
+        "title": "Pentagon reaches agreements with top AI companies, but not Anthropic",
+        "link": "https://www.dawn.com/news/1996692/pentagon-reaches-agreements-with-top-ai-companies-but-not-anthropic"
+      },
+      {
         "title": "Pakistan sees decline in militant violence for 2nd straight month: PICSS",
         "link": "https://www.dawn.com/news/1996670/pakistan-sees-decline-in-militant-violence-for-2nd-straight-month-picss"
-      },
-      {
-        "title": "India raises cooking gas, jet fuel prices as supply pressures mount",
-        "link": "https://www.dawn.com/news/1996683/india-raises-cooking-gas-jet-fuel-prices-as-supply-pressures-mount"
-      },
-      {
-        "title": "Pakistan reports two polio cases, tally for current year reaches three",
-        "link": "https://www.dawn.com/news/1996654/pakistan-reports-two-polio-cases-tally-for-current-year-reaches-three"
       }
     ],
     "APNews": [],
@@ -101,6 +95,10 @@
       {
         "title": "Obamacare Enrollment Drops Sharply as Costs Rise",
         "link": "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html"
+      },
+      {
+        "title": "The 60-Day Deadline for the War in Iran, and an End to the D.H.S. Shutdown",
+        "link": "https://www.nytimes.com/2026/05/01/podcasts/the-headlines/war-iran-dhs-shutdown.html"
       },
       {
         "title": "Trump’s Plans to Boost Weapons Production Might Not Deliver for Years",
@@ -113,76 +111,72 @@
       {
         "title": "Hezbollah Using Fiber-Optic Drones Against Israeli Targets",
         "link": "https://www.nytimes.com/2026/04/30/world/middleeast/hezbollah-fiber-optic-drones.html"
-      },
-      {
-        "title": "Billionaire Chris Larsen Plans to Spend $3.5 Million in NY House Race Amid Midterm Clash Over A.I.",
-        "link": "https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "UAE's Opec exit seeks to hit Saudi Arabia where it hurts",
-        "link": "https://www.middleeasteye.net/opinion/uaes-opec-exit-seeks-hit-saudi-arabia-where-it-hurts"
+        "title": "Iranian official calls Strait of Hormuz Iran’s “natural right”",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-calls-strait-hormuz-irans-natural-right"
       },
       {
-        "title": "Iran demands reparations from Arab states for enabling US-Israeli attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-demands-reparations-arab-states-enabling-us-israeli-attacks"
+        "title": "How Iranian monarchists have targeted anti-war activists",
+        "link": "https://www.middleeasteye.net/news/how-iranian-monarchists-targeted-anti-war-activists"
       },
       {
-        "title": "Hezbollah announces operations against Israeli military in Southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-announces-operations-against-israeli-military-southern-lebanon"
+        "title": "WHO recorded 149 attacks on health care in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/who-recorded-149-attacks-health-care-lebanon"
       },
       {
-        "title": "Israeli continues strikes near Tyre and Nabatieh",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-continues-strikes-near-tyre-and-nabatieh"
+        "title": "Fifa Congress: Infantino tried to stage an Israel-Palestine handshake. He failed",
+        "link": "https://www.middleeasteye.net/trending/fifa-congress-infantino-tried-stage-israel-palestine-handshake-he-failed"
       },
       {
-        "title": "Lebanese President met with US Ambassador to discuss ceasefire developments",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-president-met-us-ambassador-discuss-ceasefire-developments"
+        "title": "Lebanese Health Ministry: Israel has killed 2618 since March",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-israeli-attacks-reaches-2618-march"
       }
     ],
     "GeoTV": [
       {
-        "title": "Princess Anne launches Jersey Zoo's new Gorilla home",
-        "link": "https://www.geo.tv/latest/662449-princess-anne-launches-jersey-zoos-new-gorilla-home"
+        "title": "Meryl Streep gives rare glimpse into family life ahead of new release",
+        "link": "https://www.geo.tv/latest/662469-meryl-streep-gives-rare-glimpse-into-family-life-ahead-of-new-release"
       },
       {
-        "title": "Olivia Rodrigo hints at major update on upcoming sad love album",
-        "link": "https://www.geo.tv/latest/662439-olivia-rodrigo-hints-at-major-update-on-upcoming-sad-love-album"
+        "title": "Meghan Markle, Prince Harry may drop marriage shock",
+        "link": "https://www.geo.tv/latest/662462-meghan-markle-prince-harry-may-drop-marriage-shock"
       },
       {
-        "title": "Islamabad United opt to field against Hyderabad Kingsmen in PSL 11 Eliminator 2",
-        "link": "https://www.geo.tv/latest/662454-islamabad-united-opt-to-field-against-hyderabad-kingsmen-in-psl-11-eliminator-2"
+        "title": "Prince Harry's most moving keepsake comes from Ukraine's front lines",
+        "link": "https://www.geo.tv/latest/662459-prince-harrys-most-moving-keepsake-comes-from-ukraines-front-lines"
       },
       {
-        "title": "May's ‘Flower Moon'  is set to appear smaller in size with yellow-orange hue: Here's why",
-        "link": "https://www.geo.tv/latest/662455-mays-flower-moon-is-set-to-appear-smaller-in-size-with-yellow-orange-hue-heres-why"
+        "title": "Kid Cudi thanks Taylor Swift for major help during Eras Tour",
+        "link": "https://www.geo.tv/latest/662458-kid-cudi-thanks-taylor-swift-for-major-help-during-eras-tour"
       },
       {
-        "title": "PMD warns of heavy rains, hailstorms across Pakistan from May 2",
-        "link": "https://www.geo.tv/latest/662450-pmd-warns-of-heavy-rains-hailstorms-across-pakistan-from-may-2"
+        "title": "One Constitution Avenue: PM bars authorities from action, forms committee to review issue",
+        "link": "https://www.geo.tv/latest/662456-one-constitution-avenue-pm-bars-authorities-from-action-forms-committee-to-review-issue"
       }
     ],
     "NDTV": [
-      {
-        "title": "Kolkata EVM Strongrooms Fortified After Mamata Banerjee's Visit, Trinamool's Protests",
-        "link": "https://www.ndtv.com/india-news/after-high-drama-at-kolkata-counting-centres-cops-ban-large-gatherings-11435218#publisher=newsstand"
-      },
       {
         "title": "Repolling At 15 Booths In 2 West Bengal Constituencies Tomorrow",
         "link": "https://www.ndtv.com/india-news/west-bengal-elections-repolling-at-15-booths-in-2-west-bengal-constituencies-tomorrow-11436092#publisher=newsstand"
       },
       {
-        "title": "'Don't Accept Imposition, Don't Want War': Iran Says Open To Talk To US",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-dont-accept-imposition-dont-want-war-iran-says-open-to-talk-to-us-11436121#publisher=newsstand"
+        "title": "Six Trapped As Bridge Collapses In Jammu, 2 Rescued",
+        "link": "https://www.ndtv.com/india-news/six-trapped-as-bridge-collapses-in-jammu-2-rescued-11436454#publisher=newsstand"
       },
       {
-        "title": "US Iran Ceasefire News LIVE: Iran Delivers New Proposal For Talks With US Via Pakistan",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
+        "title": "6 Of Family Killed As Speeding Car Rams Parked Truck In Hyderabad",
+        "link": "https://www.ndtv.com/hyderabad-news/6-of-family-killed-as-speeding-car-rams-parked-truck-in-hyderabad-11436366#publisher=newsstand"
       },
       {
-        "title": "Operation Global Hunt: An India-Interpol Plan To Track Down Fugitives",
-        "link": "https://www.ndtv.com/india-news/operation-global-hunt-an-india-interpol-plan-to-track-down-fugitives-11435971#publisher=newsstand"
+        "title": "Kolkata EVM Strongrooms Fortified After Mamata Banerjee's Visit, Trinamool's Protests",
+        "link": "https://www.ndtv.com/india-news/after-high-drama-at-kolkata-counting-centres-cops-ban-large-gatherings-11435218#publisher=newsstand"
+      },
+      {
+        "title": "'Concerned': Taiwan After China Calls Taipei Biggest Risk In Ties With US",
+        "link": "https://www.ndtv.com/world-news/concerned-taiwan-after-china-calls-taipei-biggest-risk-in-us-china-ties-11436134#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-01 14:05 UTC"
+  "last_updated": "2026-05-01 15:12 UTC"
 }
