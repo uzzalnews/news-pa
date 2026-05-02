@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US Iran Ceasefire News LIVE: Trump Warns Of More Oil Disruptions, US Aircraft Carrier Leaves Gulf",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Ex-Formula One driver turned Paralympic champion Alex Zanardi dies aged 59",
+        "link": "https://www.aljazeera.com/sports/2026/5/2/ex-formula-one-driver-turned-paralympic-champion-alex-zanardi-dies-aged-59?traffic_source=rss"
+      },
+      {
         "title": "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
         "link": "https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Who Is Nayib Bukele? El Salvador’s ‘coolest dictator’",
         "link": "https://www.aljazeera.com/features/2026/5/2/who-is-nayib-bukele-el-salvadors-coolest-dictator?traffic_source=rss"
-      },
-      {
-        "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,12 @@
     ],
     "Dawn": [
       {
-        "title": "US awards F-16 upgrade contract for Pakistan, other states",
-        "link": "https://www.dawn.com/news/1996840/us-awards-f-16-upgrade-contract-for-pakistan-other-states"
+        "title": "Saudi Arabia sets minimum age for Haj pilgrims at 15 years",
+        "link": "https://www.dawn.com/news/1996941/saudi-arabia-sets-minimum-age-for-haj-pilgrims-at-15-years"
+      },
+      {
+        "title": "FCC rejects Balochistan govt plea for lifetime facilities to retired chief secretaries, widows",
+        "link": "https://www.dawn.com/news/1996945/fcc-rejects-balochistan-govt-plea-for-lifetime-facilities-to-retired-chief-secretaries-widows"
       },
       {
         "title": "Dar discusses Middle East situation, its economic implications with Kuwaiti FM: FO",
@@ -88,19 +86,15 @@
         "link": "https://www.dawn.com/news/1996916/pmd-issues-glof-alert-due-to-westerly-wave-rainfall-across-gb-and-kp"
       },
       {
-        "title": "US bypasses congressional review for military sales of $8.6 billion to Middle East allies",
-        "link": "https://www.dawn.com/news/1996915/us-bypasses-congressional-review-for-military-sales-of-86-billion-to-middle-east-allies"
-      },
-      {
-        "title": "IED attack targets police official’s residence in Lakki Marwat, causes significant damage",
-        "link": "https://www.dawn.com/news/1996937/ied-attack-targets-police-officials-residence-in-lakki-marwat-causes-significant-damage"
+        "title": "US awards F-16 upgrade contract for Pakistan, other states",
+        "link": "https://www.dawn.com/news/1996840/us-awards-f-16-upgrade-contract-for-pakistan-other-states"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
         "title": "Trump’s Push for Electoral Retribution Heads to the Ballot Box",
-        "link": "https://www.nytimes.com/2026/05/02/us/politics/trumps-push-for-electoral-retribution-heads-to-the-ballot-box.html"
+        "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html"
       },
       {
         "title": "These G.O.P. Women Want Congress Members to Pay a Price for Abuse. Will It Work?",
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "UKMTO reports 'suspicious approach' off Yemen, urges caution",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-suspicious-approach-yemen-urges-caution"
+      },
+      {
+        "title": "War 'likely' to resume, says Iran's military headquarters",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/war-likely-resume-says-irans-military-headquarters"
+      },
+      {
         "title": "Germany-US spat over Iran war intensifies",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-us-spat-over-iran-war-intensifies"
       },
@@ -131,61 +133,57 @@
       {
         "title": "Spirit Airlines closes as fuel prices double due to Iran war",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spirit-airlines-closes-fuel-prices-double-due-iran-war"
-      },
-      {
-        "title": "Four killed in Israeli strikes on southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-killed-israeli-strikes-southern-lebanon-0"
-      },
-      {
-        "title": "UK considers restrictions on pro-Palestine rallies",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/britain-considers-restrictions-pro-palestinian-rallies"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles receives stunning welcome in Bermuda",
-        "link": "https://www.geo.tv/latest/662550-king-charles-receives-stunning-welcome-in-bermuda"
+        "title": "Kanye West, Bianca Censori show affection during North West's event",
+        "link": "https://www.geo.tv/latest/662559-kanye-west-bianca-censori-show-affection-during-north-wests-event"
       },
       {
-        "title": "Alex Zanardi, Italian trailblazer: former F1 driver, Paralympic champion, dies aged 59",
-        "link": "https://www.geo.tv/latest/662548-alex-zanardi-former-f1-driver-paralympic-champion-dies-aged-59"
+        "title": "Dwayne Johnson pulled over in Hollywood after Walk of Fame ceremony",
+        "link": "https://www.geo.tv/latest/662560-dwayne-johnson-pulled-over-in-hollywood-after-walk-of-fame-ceremony"
       },
       {
-        "title": "Germany urges stronger European defence after US reduces troops",
-        "link": "https://www.geo.tv/latest/662544-germany-urges-stronger-european-defence-after-us-reduces-troops"
+        "title": "Prince William, Princess Kate set new condition for Charlotte's royal role",
+        "link": "https://www.geo.tv/latest/662561-prince-william-princess-kate-set-new-condition-for-charlottes-royal-role"
       },
       {
-        "title": "Palace drops Princess Charlotte unseen photo for 11th birthday",
-        "link": "https://www.geo.tv/latest/662547-palace-drops-princess-charlotte-unseen-photo-for-11th-birthday"
+        "title": "Kanye West, Bianca Censori humiliate Kim on North West's event with bold move",
+        "link": "https://www.geo.tv/latest/662557-kanye-west-bianca-censori-humiliate-kim-on-north-wests-event-with-bold-move"
       },
       {
-        "title": "Tom Holland credits sobriety for career ‘blossom'",
-        "link": "https://www.geo.tv/latest/662546-tom-holland-credits-sobriety-for-career-blossom"
+        "title": "Saudi Arabia bans Hajj entry for pilgrims under 15 years old",
+        "link": "https://www.geo.tv/latest/662543-saudi-arabia-bans-hajj-entry-for-pilgrims-under-15-years-old"
       }
     ],
     "NDTV": [
       {
-        "title": "US Iran Ceasefire News LIVE: Trump Warns Of More Oil Disruptions, US Aircraft Carrier Leaves Gulf",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
+        "title": "Bengal Assembly Elections 2026 Voting Live Updates: 73% Turnout In Magrahat Paschim, 72% In Diamond Harbour Till 3 PM",
+        "link": "https://www.ndtv.com/india-news/bengal-assembly-elections-2026-repolling-diamond-harbour-magrahat-paschim-trinamool-mamata-banerjee-bjp-suvendu-adhikari-11438018#publisher=newsstand"
       },
       {
-        "title": "Spirit Airlines Begins 'Wind-down' After 34 Years In Business, Cancels All Flights",
-        "link": "https://www.ndtv.com/world-news/spirit-airlines-begins-wind-down-after-34-years-in-business-cancels-all-flights-11439038#publisher=newsstand"
+        "title": "Tight Security Around EVM Strong Rooms In Assam: Chief Electoral Officer",
+        "link": "https://www.ndtv.com/india-news/tight-security-around-evm-strong-rooms-in-assam-chief-electoral-officer-anurag-goel-11439165#publisher=newsstand"
       },
       {
-        "title": "Trinamool, BJP Supporters Clash In Bengal's South 24 Parganas Amid Repolling At 15 Booths",
-        "link": "https://www.ndtv.com/india-news/trinamool-bjp-supporters-clash-in-bengals-south-24-parganas-amid-repolling-at-15-booths-11438914#publisher=newsstand"
+        "title": "New Phone Alert System Aimed At Protecting Lives During Disasters: Jyotiraditya Scindia",
+        "link": "https://www.ndtv.com/india-news/new-phone-alert-system-aimed-at-protecting-lives-during-disasters-jyotiraditya-scindia-11439163#publisher=newsstand"
       },
       {
-        "title": "AAP Rebel Sandeep Pathak Untraceable As Arrest Looms In Two Cases",
-        "link": "https://www.ndtv.com/india-news/sandeep-pathak-who-switched-from-aap-to-bjp-faces-likely-arrest-in-punjab-11438396#publisher=newsstand"
+        "title": "\"Can't Eat, Sleep\": Jabalpur Boat Pilot To NDTV On Tragedy That Killed 9",
+        "link": "https://www.ndtv.com/india-news/jabalpur-bargi-dam-cruise-accident-cant-eat-sleep-boat-pilot-on-tragedy-that-killed-9-11438828#publisher=newsstand"
       },
       {
-        "title": "Video: IIT Jodhpur Students Chase Tanker Amid Drinking Water Shortage",
-        "link": "https://www.ndtv.com/india-news/video-iit-jodhpur-students-chase-water-tanker-amid-drinking-water-shortage-11438885#publisher=newsstand"
+        "title": "From Welfare To Fraud: How A Coaching Scheme Went Off Track",
+        "link": "https://www.ndtv.com/india-news/from-welfare-to-fraud-how-a-coaching-scheme-went-off-track-11439082#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Zambia cancels world’s largest human rights and tech summit days before start",
+        "link": "https://www.theguardian.com/global-development/2026/may/02/zambia-cancels-rightscon-summit-largest-human-rights-technology-conference"
+      },
       {
         "title": "First malaria drug for babies is approved in ‘major public health milestone’",
         "link": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment"
@@ -201,12 +199,8 @@
       {
         "title": "BAE faces £120m lawsuit over decision to scrap support for aid aircraft",
         "link": "https://www.theguardian.com/global-development/2026/may/01/bae-lawsuit-scrap-support-aid-aircraft-encomm-aviation"
-      },
-      {
-        "title": "Iran war may cause food shortages in Africa, world’s largest fertiliser firm says",
-        "link": "https://www.theguardian.com/business/2026/may/01/iran-war-may-cause-food-shortages-in-africa-world-largest-fertiliser-firm-yara-says"
       }
     ]
   },
-  "last_updated": "2026-05-02 10:14 UTC"
+  "last_updated": "2026-05-02 11:09 UTC"
 }
