@@ -15,12 +15,12 @@
         "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Celebrity Traitors line-up announced - 21 famous faces set to enter castle",
-        "link": "https://www.bbc.com/news/articles/c5yx5w43jzko?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Man charged after bomb hoax at Peter Kay show",
         "link": "https://www.bbc.com/news/articles/c1d2pvle9lqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four injured in Brixton drive-by shooting",
+        "link": "https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
@@ -93,6 +93,14 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Abortion Providers Forced to Adapt After Court Ruling Blocks Pill Access by Mail",
+        "link": "https://www.nytimes.com/2026/05/02/us/abortion-pill-mifepristone-5th-circuit-court-ruling.html"
+      },
+      {
+        "title": "Supreme Court Asked to Restore Access to Abortion Pill by Mail",
+        "link": "https://www.nytimes.com/2026/05/02/us/politics/supreme-court-mail-abortion-pill.html"
+      },
+      {
         "title": "U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners",
         "link": "https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html"
       },
@@ -103,17 +111,17 @@
       {
         "title": "U.S. to Withdraw 5,000 Troops From Germany. But Thousands Will Remain.",
         "link": "https://www.nytimes.com/2026/05/02/world/europe/us-troops-germany-trump.html"
-      },
-      {
-        "title": "How Germany May Have Misjudged Trump’s Anger on Iran",
-        "link": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html"
-      },
-      {
-        "title": "Supreme Court Asked to Restore Access to Abortion Pill by Mail",
-        "link": "https://www.nytimes.com/2026/05/02/us/politics/supreme-court-mail-abortion-pill.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli strike kills three in south Lebanon despite ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-three-south-lebanon-despite-ceasefire"
+      },
+      {
+        "title": "Iran says US comments confirm ‘piracy’ in maritime actions",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-comments-confirm-piracy-maritime-actions"
+      },
       {
         "title": "Chronic patients neglected in Lebanon as war strains healthcare, MSF doctor says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/chronic-patients-neglected-lebanon-war-strains-healthcare-msf-doctor"
@@ -125,17 +133,13 @@
       {
         "title": "Israel accused of destroying Christian convent in Lebanon in latest attack on Christians",
         "link": "https://www.middleeasteye.net/news/israel-accused-destroying-christian-convent-lebanon-latest-attacks-christians"
-      },
-      {
-        "title": "UK Muslim groups slam government for ‘scapegoating’ Gaza anti-genocide protests as antisemitism",
-        "link": "https://www.middleeasteye.net/news/uk-muslim-groups-slam-government-scapegoating-gaza-anti-genocide-protests-antisemitism"
-      },
-      {
-        "title": "Months into the US-Israel 'ceasefire', Gaza remains a scene of chaos and terror",
-        "link": "https://www.middleeasteye.net/opinion/months-us-israel-ceasefire-gaza-remains-scene-chaos-and-terror"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Trump's Qatar-gifted Air Force One nears launch after $400M overhaul",
+        "link": "https://www.geo.tv/latest/662628-trumps-qatar-gifted-air-force-one-nears-launch-after-400m-overhaul"
+      },
       {
         "title": "Facebook blue badge scam hijacked 30K accounts: How to protect yours?",
         "link": "https://www.geo.tv/latest/662627-facebook-blue-badge-scam-hijacked-30k-accounts-how-to-protect-yours"
@@ -151,10 +155,6 @@
       {
         "title": "Iran executes two accused of spying for Israel after Trump declares Iran War 'terminated'",
         "link": "https://www.geo.tv/latest/662619-iran-executes-two-accused-of-spying-for-israel-after-trump-declares-iran-war-terminated"
-      },
-      {
-        "title": "Roku becomes most-watched free streaming service with addition of 34 new channels",
-        "link": "https://www.geo.tv/latest/662618-roku-becomes-most-watched-free-streaming-service-with-addition-of-34-new-channels"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-02 21:37 UTC"
+  "last_updated": "2026-05-02 22:21 UTC"
 }
