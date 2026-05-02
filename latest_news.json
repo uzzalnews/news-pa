@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US Iran Ceasefire News LIVE: Trump Warns Of More Oil Disruptions, US Aircraft Carrier Leaves Gulf",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +17,27 @@
         "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+        "link": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Polanski apologises for sharing post criticising officers who arrested Golders Green suspect",
         "link": "https://www.bbc.com/news/articles/cp8p7k4k8xno?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Golders Green stabbing suspect in court on three charges of attempted murder",
         "link": "https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Peter Kay show evacuated and man held after police investigate 'suspicious bag'",
-        "link": "https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Peru probes trafficking of citizens to fight for Russia in Ukraine",
+        "link": "https://www.aljazeera.com/news/2026/5/2/peru-probes-trafficking-of-citizens-to-fight-for-russia-in-ukraine?traffic_source=rss"
+      },
+      {
+        "title": "K-pop’s BTS comeback tour rallies South Korea’s global ‘soft power’ drive",
+        "link": "https://www.aljazeera.com/economy/2026/5/2/k-pops-bts-comeback-tour-rallies-south-koreas-global-soft-power-drive?traffic_source=rss"
+      },
       {
         "title": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
         "link": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Trump considering option to ‘blast the hell out of’ Iran",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss"
-      },
-      {
-        "title": "Trump expands red snapper fishing as critics warn of overfishing",
-        "link": "https://www.aljazeera.com/news/2026/5/1/trump-expands-red-snapper-fishing-as-critics-warn-of-overfishing?traffic_source=rss"
-      },
-      {
-        "title": "At least 12 killed in latest Israeli attacks on Lebanon",
-        "link": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "Trump 'not satisfied' with Iran's new proposal; says truce 'terminated' hostilities, as War Powers deadline arrives",
-        "link": "https://www.dawn.com/news/1996711/trump-not-satisfied-with-irans-new-proposal-says-truce-terminated-hostilities-as-war-powers-deadline-arrives"
+        "title": "US awards F-16 upgrade contract for Pakistan, other states",
+        "link": "https://www.dawn.com/news/1996840/us-awards-f-16-upgrade-contract-for-pakistan-other-states"
       },
       {
-        "title": "Upper, central parts of country expected to see dust storms, rain from May 2-5; extreme heat grips Sindh cities",
-        "link": "https://www.dawn.com/news/1996726/upper-central-parts-of-country-expected-to-see-dust-storms-rain-from-may-2-5-extreme-heat-grips-sindh-cities"
+        "title": "US to ‘close its flagship Gaza mission’",
+        "link": "https://www.dawn.com/news/1996844/us-to-close-its-flagship-gaza-mission"
       },
       {
-        "title": "Gaza aid flotilla activists, including former Pakistani senator Mushtaq Ahmad, released after Israeli interception",
-        "link": "https://www.dawn.com/news/1996697/gaza-aid-flotilla-activists-including-former-pakistani-senator-mushtaq-ahmad-released-after-israeli-interception"
+        "title": "Inflation hits double digits for first time in 21 months",
+        "link": "https://www.dawn.com/news/1996853/inflation-hits-double-digits-for-first-time-in-21-months"
       },
       {
-        "title": "PM Shehbaz says regulatory system for virtual assets should be operationalised at the earliest",
-        "link": "https://www.dawn.com/news/1996695/pm-shehbaz-says-regulatory-system-for-virtual-assets-should-be-operationalised-at-the-earliest"
+        "title": "Crisis in Sindh health department as 75pc of top-level technical posts lying vacant",
+        "link": "https://www.dawn.com/news/1996782/crisis-in-sindh-health-department-as-75pc-of-top-level-technical-posts-lying-vacant"
       },
       {
-        "title": "Pentagon reaches agreements with top AI companies, but not Anthropic",
-        "link": "https://www.dawn.com/news/1996692/pentagon-reaches-agreements-with-top-ai-companies-but-not-anthropic"
+        "title": "US ‘still not satisfied’ after Tehran conveys another offer",
+        "link": "https://www.dawn.com/news/1996841/us-still-not-satisfied-after-tehran-conveys-another-offer"
       }
     ],
     "APNews": [],
@@ -105,7 +111,7 @@
         "link": "https://www.nytimes.com/2026/05/01/briefing/trump-iran-proposal-spirit-airlines.html"
       },
       {
-        "title": "Federal Appeals Court Temporarily Halts Abortion Pills by Mail",
+        "title": "Federal Appeals Court Temporarily Halts Abortion Pill Access by Mail",
         "link": "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html"
       },
       {
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "US sanctions China-based oil terminal over Iran trade",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-china-based-oil-terminal-over-iran-trade"
+        "title": "Khamenei urges focus on domestic production, calls for economic jihad",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/khamenei-urges-focus-domestic-production-calls-economic-jihad"
       },
       {
-        "title": "US sanctions three Iranian currency exchange firms",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-three-iranian-currency-exchange-firms"
+        "title": "India repatriates seafarers amid ongoing maritime crisis",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/india-repatriates-seafarers-amid-ongoing-maritime-crisis"
       },
       {
-        "title": "14 IRGC members killed clearing unexploded munitions in Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/14-irgc-members-killed-clearing-unexploded-munitions-iran"
+        "title": "China questions ceasefire as Israel continues bombardment in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-questions-ceasefire-israel-continues-bombardment-lebanon"
       },
       {
-        "title": "Trump says no need for congressional approval on Iran war after ceasefire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-no-need-congressional-approval-iran-war-after-ceasefire"
+        "title": "Trump says US-Iran talks ongoing by phone",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-iran-talks-ongoing-phone"
       },
       {
-        "title": "Iran says US must drop ‘threatening rhetoric’ for diplomacy",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-must-drop-threatening-rhetoric-diplomacy"
+        "title": "German minister pushes oil firms to lower pump prices",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/german-minister-pushes-oil-firms-lower-pump-prices"
       }
     ],
     "GeoTV": [
       {
-        "title": "Jon Cryer breaks silence over relationship with Charlie Sheen",
-        "link": "https://www.geo.tv/latest/662511-jon-cryer-breaks-silence-over-relationship-with-charlie-sheen"
+        "title": "The limits of American power",
+        "link": "https://www.geo.tv/latest/662517-the-limits-of-american-power"
       },
       {
-        "title": "US to pull 5,000 troops from Germany amid Trump–Merz clash over Iran war rhetoric",
-        "link": "https://www.geo.tv/latest/662510-us-to-pull-5000-troops-from-germany-amid-trump-merz-clash-over-iran-war-rhetoric"
+        "title": "Trump expands US sanctions on Cuban government and affiliates",
+        "link": "https://www.geo.tv/latest/662516-trump-expands-us-sanctions-on-cuban-government-and-affiliates"
       },
       {
-        "title": "Zayn Malik has bad news for fans after hospitalisation last month",
-        "link": "https://www.geo.tv/latest/662508-zayn-malik-has-bad-news-for-fans-after-hospitalisation-last-month"
+        "title": "Meryl Streep calls Marvel ‘boring'",
+        "link": "https://www.geo.tv/latest/662515-meryl-streep-takes-jab-at-marvel-movies-promoting-devil-wears-prada-2"
       },
       {
-        "title": "Valerie Bertinelli reflects on ‘Love, Again': ‘I was looking for it'",
-        "link": "https://www.geo.tv/latest/662498-valerie-bertinelli-reflects-on-love-again-i-was-looking-for-it"
+        "title": "Are Bella Hadid and ex Adan Banuelos getting back together?",
+        "link": "https://www.geo.tv/latest/662514-are-bella-hadid-and-ex-adan-banuelos-getting-back-together"
       },
       {
-        "title": "Met Gala 2026: Who's attending, who's banned? See full list",
-        "link": "https://www.geo.tv/latest/662499-met-gala-2026-whos-attending-whos-banned-see-full-list"
+        "title": "Influencer Julia McGuire becomes a mother",
+        "link": "https://www.geo.tv/latest/662513-influencer-julia-mcguire-becomes-a-mother"
       }
     ],
     "NDTV": [
       {
-        "title": "Middle East, Europe Would Have Blown To Pieces: Trump On Iran Nuclear Threat",
-        "link": "https://www.ndtv.com/world-news/middle-east-europe-would-have-blown-to-pieces-trump-on-iran-nuclear-threat-11437876#publisher=newsstand"
+        "title": "Trump Approves Nearly $9 Billion Weapons Sales To Israel, UAE, Other Mideast Allies Amid Iran War",
+        "link": "https://www.ndtv.com/world-news/trump-approves-9-billion-weapons-sales-to-israel-uae-other-mideast-allies-amid-iran-war-11438217#publisher=newsstand"
       },
       {
-        "title": "\"Blast Or Make Deal\": Trump Outlines Iran War Options",
-        "link": "https://www.ndtv.com/world-news/donald-trump-outlines-iran-war-options-11437855#publisher=newsstand"
+        "title": "WWII-Era Bomb Found In Assam Village, Army Safely Defuses Device",
+        "link": "https://www.ndtv.com/india-news/wwii-era-bomb-found-in-assam-ledo-lekhapani-in-tinsukia-army-safely-defuses-device-11438215#publisher=newsstand"
       },
       {
-        "title": "5 Killed After Small Plane Crashes In US' Texas",
-        "link": "https://www.ndtv.com/world-news/5-killed-after-small-plane-crashes-in-us-texas-11437827#publisher=newsstand"
+        "title": "Screams, Sealed Life Jackets: New Video Of Jabalpur Boat Tragedy Shows Safety Lapses",
+        "link": "https://www.ndtv.com/india-news/jabalpur-bargi-dam-cruise-boat-accident-screams-sealed-life-jackets-new-video-shows-safety-lapses-11438172#publisher=newsstand"
       },
       {
-        "title": "US Withdrawing 5,000 Troops From Germany",
+        "title": "Germany's Iran \"Humiliating\" US Comment Costs It 5,000 American Troops",
         "link": "https://www.ndtv.com/world-news/us-withdrawing-5-000-troops-from-germany-11437775#publisher=newsstand"
       },
       {
-        "title": "Trump Tells US Congress Hostilities In Iran \"Have Terminated\"",
-        "link": "https://www.ndtv.com/world-news/donald-trump-tells-us-congress-hostilities-in-iran-have-terminated-11437760#publisher=newsstand"
+        "title": "US Iran Ceasefire News LIVE: Trump Warns Of More Oil Disruptions, US Aircraft Carrier Leaves Gulf",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-02 01:13 UTC"
+  "last_updated": "2026-05-02 04:27 UTC"
 }
