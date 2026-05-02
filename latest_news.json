@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Arsenal vs Fulham – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/2/live-arsenal-vs-fulham-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Arsenal vs Fulham – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/2/live-arsenal-vs-fulham-premier-league?traffic_source=rss"
+      },
+      {
+        "title": "The United States of Conspiracy",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/2/the-united-states-of-conspiracy?traffic_source=rss"
+      },
+      {
         "title": "The dark side of Gaza’s new fancy cafes and restaurants",
         "link": "https://www.aljazeera.com/opinions/2026/5/2/the-dark-side-of-gazas-new-fancy-cafes-and-restaurants?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "Israeli air strikes kill 10 people in southern Lebanon",
         "link": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Flotilla activists return to Istanbul after Israel detains them at sea",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss"
-      },
-      {
-        "title": "Rallies under way as workers gather for International Labour Day",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/rallies-under-way-as-workers-gather-for-international-labour-day-2?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +84,16 @@
         "link": "https://www.dawn.com/news/1996941/saudi-arabia-reverses-decision-setting-minimum-age-for-haj-pilgrims-at-15-years"
       },
       {
-        "title": "2 Gaza aid flotilla activists brought to Israel for questioning, its foreign ministry says",
-        "link": "https://www.dawn.com/news/1996950/2-gaza-aid-flotilla-activists-brought-to-israel-for-questioning-its-foreign-ministry-says"
+        "title": "Jirga convened by KP CM decides on holding talks with Centre, other stakeholders over drone attacks",
+        "link": "https://www.dawn.com/news/1996959/jirga-convened-by-kp-cm-decides-on-holding-talks-with-centre-other-stakeholders-over-drone-attacks"
       },
       {
         "title": "Karachi court grants bail to SSP's son arrested following heated exchange with police in DHA",
         "link": "https://www.dawn.com/news/1996951/karachi-court-grants-bail-to-ssps-son-arrested-following-heated-exchange-with-police-in-dha"
       },
       {
-        "title": "Nato seeks details as US says it will pull about 5,000 troops from Germany",
-        "link": "https://www.dawn.com/news/1996900/nato-seeks-details-as-us-says-it-will-pull-about-5000-troops-from-germany"
+        "title": "PM Shehbaz orders formulation of strategy to stabilise electricity tariffs",
+        "link": "https://www.dawn.com/news/1996962/pm-shehbaz-orders-formulation-of-strategy-to-stabilise-electricity-tariffs"
       }
     ],
     "APNews": [],
@@ -97,7 +103,7 @@
         "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html"
       },
       {
-        "title": "These G.O.P. Women Want Congress Members to Pay a Price for Abuse. Will It Work?",
+        "title": "Mace, Boebert and Luna Want Congress Members to Pay a Price for Sexual Abuse. Will It Work?",
         "link": "https://www.nytimes.com/2026/05/02/us/politics/boebert-mace-luna-republican-women.html"
       },
       {
@@ -115,46 +121,46 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Lebanese health officials: 2,659 killed in Israeli attacks since 2 March",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-health-officials-2659-killed-israel-2-march"
+      },
+      {
+        "title": "What exactly is white phosphorus and why is it controversial?",
+        "link": "https://www.middleeasteye.net/explainers/what-white-phosphorus-controversial-israel-lebanon"
+      },
+      {
+        "title": "Nato seeking to understand US decision to withdraw troops from Germany",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nato-seeking-understand-us-decision-withdraw-troops-germany"
+      },
+      {
         "title": "Pro-Palestine coalition condemns Starmer for suggesting ban on marches",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestine-coalition-condemns-starmer-suggesting-ban-marches"
       },
       {
         "title": "China blocks US sanctions against refineries accused of buying Iranian oil",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-blocks-us-sanctions-against-refineries-accused-buying-iranian-oil"
-      },
-      {
-        "title": "Oil tanker hijacked off coast of Yemen, says coast guard",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-tanker-hijacked-coast-yemen-says-coast-guard"
-      },
-      {
-        "title": "UAE says air traffic back to normal as measures lifted",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-says-air-traffic-back-normal-measures-lifted"
-      },
-      {
-        "title": "Pro-Palestine coalition condemns Starmer for suggesting ban on marches",
-        "link": "https://www.middleeasteye.net/news/pro-palestine-coalition-condemns-starmer-suggesting-ban-marches"
       }
     ],
     "GeoTV": [
       {
-        "title": "Harry Styles, Zoe Kravitz in major wedding planning mode after big step",
-        "link": "https://www.geo.tv/latest/662571-harry-styles-zoe-kravitz-in-major-wedding-planning-mode-after-big-step"
+        "title": "Taylor Swift reignites 'Reputation (TV)' speculations with latest move",
+        "link": "https://www.geo.tv/latest/662574-taylor-swift-reignites-reputation-tv-speculations-with-latest-move"
       },
       {
-        "title": "King Charles sends birthday surprise for Princess Charlotte from Bermuda",
-        "link": "https://www.geo.tv/latest/662564-king-charles-sends-birthday-surprise-for-princess-charlotte-from-bermuda"
+        "title": "Debbie Allen promises Shonda Rhimes THIS about ‘Grey's Anatomy'",
+        "link": "https://www.geo.tv/latest/662580-debbie-allen-promises-shonda-rhimes-this-about-greys-anatomy"
       },
       {
-        "title": "Mariah Carey, Nick Cannon celebrate as Moroccan, Monroe Cannon turn 15",
-        "link": "https://www.geo.tv/latest/662569-mariah-carey-nick-cannon-celebrate-as-moroccan-monroe-cannon-turn-15"
+        "title": "Kelly Brook breaks silence on Ant and Dec feud with savage six-word response",
+        "link": "https://www.geo.tv/latest/662572-kelly-brook-breaks-silence-on-ant-and-dec-feud-with-blunt-six-word-response"
       },
       {
-        "title": "Spirit Airlines shuts down, cancels all-flights: what happens to stranded passengers now?",
-        "link": "https://www.geo.tv/latest/662568-spirit-airlines-shuts-down-cancels-all-flights-what-happens-to-stranded-passengers-now"
+        "title": "King Charles brings Prince Edward in spotlight amid Andrew's fresh headache",
+        "link": "https://www.geo.tv/latest/662578-king-charles-brings-prince-edward-in-spotlight-amid-andrews-fresh-headache"
       },
       {
-        "title": "Melania Trump pokes fun at King Charles, Queen Camilla",
-        "link": "https://www.geo.tv/latest/662566-melania-trump-pokes-fun-at-king-charles-queen-camilla"
+        "title": "Brando Pericic scores brutal KO at UFC Perth, puts heavyweights on notice",
+        "link": "https://www.geo.tv/latest/662577-brando-pericic-scores-brutal-ko-at-ufc-perth-puts-heavyweights-on-notice"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-02 13:39 UTC"
+  "last_updated": "2026-05-02 14:33 UTC"
 }
