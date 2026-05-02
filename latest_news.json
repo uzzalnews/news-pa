@@ -1,13 +1,15 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US Iran Ceasefire News LIVE: Trump Warns Of More Oil Disruptions, US Aircraft Carrier Leaves Gulf",
-      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "Protests may need to be stopped in some cases, PM suggests",
+        "link": "https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I bought a baseball cap to hide my kippah': Jews observe first Shabbat after Golders Green attack",
+        "link": "https://www.bbc.com/news/articles/c3w2qp5gzn0o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
         "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss"
@@ -19,17 +21,21 @@
       {
         "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
         "link": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Polanski apologises for sharing post criticising officers who arrested Golders Green suspect",
-        "link": "https://www.bbc.com/news/articles/cp8p7k4k8xno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Golders Green stabbing suspect in court on three charges of attempted murder",
-        "link": "https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss"
+      },
+      {
+        "title": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss"
+      },
+      {
+        "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+        "link": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss"
+      },
       {
         "title": "Peru probes trafficking of citizens to fight for Russia in Ukraine",
         "link": "https://www.aljazeera.com/news/2026/5/2/peru-probes-trafficking-of-citizens-to-fight-for-russia-in-ukraine?traffic_source=rss"
@@ -37,18 +43,6 @@
       {
         "title": "K-pop’s BTS comeback tour rallies South Korea’s global ‘soft power’ drive",
         "link": "https://www.aljazeera.com/economy/2026/5/2/k-pops-bts-comeback-tour-rallies-south-koreas-global-soft-power-drive?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss"
-      },
-      {
-        "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
-        "link": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss"
-      },
-      {
-        "title": "Trump considering option to ‘blast the hell out of’ Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,20 +74,20 @@
         "link": "https://www.dawn.com/news/1996840/us-awards-f-16-upgrade-contract-for-pakistan-other-states"
       },
       {
-        "title": "US to ‘close its flagship Gaza mission’",
-        "link": "https://www.dawn.com/news/1996844/us-to-close-its-flagship-gaza-mission"
+        "title": "Trump expands US sanctions on Cuban government and affiliates",
+        "link": "https://www.dawn.com/news/1996898/trump-expands-us-sanctions-on-cuban-government-and-affiliates"
+      },
+      {
+        "title": "US to withdraw about 5,000 troops from Germany",
+        "link": "https://www.dawn.com/news/1996900/us-to-withdraw-about-5000-troops-from-germany"
       },
       {
         "title": "Inflation hits double digits for first time in 21 months",
         "link": "https://www.dawn.com/news/1996853/inflation-hits-double-digits-for-first-time-in-21-months"
       },
       {
-        "title": "Crisis in Sindh health department as 75pc of top-level technical posts lying vacant",
-        "link": "https://www.dawn.com/news/1996782/crisis-in-sindh-health-department-as-75pc-of-top-level-technical-posts-lying-vacant"
-      },
-      {
-        "title": "US ‘still not satisfied’ after Tehran conveys another offer",
-        "link": "https://www.dawn.com/news/1996841/us-still-not-satisfied-after-tehran-conveys-another-offer"
+        "title": "Islamabad United blink in last over as Hyderabad Kingsmen win cliffhanger to make PSL decider",
+        "link": "https://www.dawn.com/news/1996874/islamabad-united-blink-in-last-over-as-hyderabad-kingsmen-win-cliffhanger-to-make-psl-decider"
       }
     ],
     "APNews": [],
@@ -107,85 +101,89 @@
         "link": "https://www.nytimes.com/2026/05/01/us/politics/trump-congress-authorization-iran-war.html"
       },
       {
-        "title": "Trump Says He’s ‘Not Satisfied’ With Iran’s Latest Proposal",
-        "link": "https://www.nytimes.com/2026/05/01/briefing/trump-iran-proposal-spirit-airlines.html"
-      },
-      {
         "title": "Federal Appeals Court Temporarily Halts Abortion Pill Access by Mail",
         "link": "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html"
       },
       {
         "title": "Obamacare Enrollment Drops Sharply as Costs Rise",
         "link": "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html"
+      },
+      {
+        "title": "F.D.A. Grants Early Access to Promising Drug for Pancreatic Cancer",
+        "link": "https://www.nytimes.com/2026/05/01/business/fda-pancreatic-cancer-drug.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Khamenei urges focus on domestic production, calls for economic jihad",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/khamenei-urges-focus-domestic-production-calls-economic-jihad"
+        "title": "Trump says 'not happy' with Iran proposal, claims hostilities 'terminated'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-not-happy-iran-proposal-claims-hostilities-terminated"
       },
       {
-        "title": "India repatriates seafarers amid ongoing maritime crisis",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/india-repatriates-seafarers-amid-ongoing-maritime-crisis"
+        "title": "Turkish activist slams Israel’s illegal interception of Gaza aid flotilla, calls it ‘piracy’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-activist-slams-israels-illegal-interception-gaza-aid-flotilla"
       },
       {
-        "title": "China questions ceasefire as Israel continues bombardment in Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-questions-ceasefire-israel-continues-bombardment-lebanon"
+        "title": "US to withdraw 5,000 troops from Germany, Pentagon says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-withdraw-5000-troops-germany-pentagon-says"
       },
       {
-        "title": "Trump says US-Iran talks ongoing by phone",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-iran-talks-ongoing-phone"
+        "title": "Canada police expand case over protest at event platforming Israeli soldiers",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/canada-police-expand-case-over-protest-event-featuring-israeli-soldiers"
       },
       {
-        "title": "German minister pushes oil firms to lower pump prices",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/german-minister-pushes-oil-firms-lower-pump-prices"
+        "title": "WSJ: Iran war exposes gaps in US defence systems",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/wsj-iran-war-exposes-gaps-us-defence-systems"
       }
     ],
     "GeoTV": [
       {
-        "title": "The limits of American power",
-        "link": "https://www.geo.tv/latest/662517-the-limits-of-american-power"
+        "title": "PM's Apna Ghar scheme may meet a 'constitutional blockade'",
+        "link": "https://www.geo.tv/latest/662526-pms-apna-ghar-scheme-may-meet-a-constitutional-blockade"
       },
       {
-        "title": "Trump expands US sanctions on Cuban government and affiliates",
-        "link": "https://www.geo.tv/latest/662516-trump-expands-us-sanctions-on-cuban-government-and-affiliates"
+        "title": "Inside Britney Spears' emotional spiral after leaving rehab",
+        "link": "https://www.geo.tv/latest/662524-inside-britney-spears-emotional-spiral-after-leaving-rehab"
       },
       {
-        "title": "Meryl Streep calls Marvel ‘boring'",
-        "link": "https://www.geo.tv/latest/662515-meryl-streep-takes-jab-at-marvel-movies-promoting-devil-wears-prada-2"
+        "title": "Greta Gerwig finally reveals her wild new 'Narnia' movie title",
+        "link": "https://www.geo.tv/latest/662523-greta-gerwig-finally-reveals-her-wild-new-narnia-movie-title"
       },
       {
-        "title": "Are Bella Hadid and ex Adan Banuelos getting back together?",
-        "link": "https://www.geo.tv/latest/662514-are-bella-hadid-and-ex-adan-banuelos-getting-back-together"
+        "title": "Was MQM leader Azeem Ahmed Tariq aware of his fate in 1988?",
+        "link": "https://www.geo.tv/latest/662493-was-mqm-leader-azeem-tariq-aware-of-his-fate-in-1988"
       },
       {
-        "title": "Influencer Julia McGuire becomes a mother",
-        "link": "https://www.geo.tv/latest/662513-influencer-julia-mcguire-becomes-a-mother"
+        "title": "Buckingham Palace shares update from King Charles as new royal drama erupts",
+        "link": "https://www.geo.tv/latest/662520-buckingham-palace-shares-update-from-king-charles-as-new-royal-drama-erupts"
       }
     ],
     "NDTV": [
       {
-        "title": "Trump Approves Nearly $9 Billion Weapons Sales To Israel, UAE, Other Mideast Allies Amid Iran War",
-        "link": "https://www.ndtv.com/world-news/trump-approves-9-billion-weapons-sales-to-israel-uae-other-mideast-allies-amid-iran-war-11438217#publisher=newsstand"
+        "title": "Sandeep Pathak, Who Switched From AAP To BJP, Faces Likely Arrest In Punjab",
+        "link": "https://www.ndtv.com/india-news/sandeep-pathak-who-switched-from-aap-to-bjp-faces-likely-arrest-in-punjab-11438396#publisher=newsstand"
       },
       {
-        "title": "WWII-Era Bomb Found In Assam Village, Army Safely Defuses Device",
-        "link": "https://www.ndtv.com/india-news/wwii-era-bomb-found-in-assam-ledo-lekhapani-in-tinsukia-army-safely-defuses-device-11438215#publisher=newsstand"
+        "title": "\"Central Staff, Give Credence\": Top Court To Trinamool Over Plea Against Poll Body",
+        "link": "https://www.ndtv.com/india-news/theyre-government-staff-give-them-some-credence-supreme-court-to-trinamool-over-petition-against-election-commission-11438368#publisher=newsstand"
       },
       {
-        "title": "Screams, Sealed Life Jackets: New Video Of Jabalpur Boat Tragedy Shows Safety Lapses",
-        "link": "https://www.ndtv.com/india-news/jabalpur-bargi-dam-cruise-boat-accident-screams-sealed-life-jackets-new-video-shows-safety-lapses-11438172#publisher=newsstand"
+        "title": "NTR, MGR, Jayalalithaa, Rajinikanth, Pawan Kalyan - Vijay, Respectfully, Is None Of Them",
+        "link": "https://www.ndtv.com/india-news/ntr-mgr-jayalalithaa-rajinikanth-pawan-kalyan-vijay-is-none-of-them-11438335#publisher=newsstand"
       },
       {
-        "title": "Germany's Iran \"Humiliating\" US Comment Costs It 5,000 American Troops",
-        "link": "https://www.ndtv.com/world-news/us-withdrawing-5-000-troops-from-germany-11437775#publisher=newsstand"
+        "title": "Bengal Assembly Elections 2026 Voting Live Updates: 16% Turnout In Magrahat Paschim Till 9 am, 15% In Diamond Harbour",
+        "link": "https://www.ndtv.com/india-news/bengal-assembly-elections-2026-repolling-diamond-harbour-magrahat-paschim-trinamool-mamata-banerjee-bjp-suvendu-adhikari-11438018#publisher=newsstand"
       },
       {
-        "title": "US Iran Ceasefire News LIVE: Trump Warns Of More Oil Disruptions, US Aircraft Carrier Leaves Gulf",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
+        "title": "Hezbollah's Fibre-optic Drones Pose New Challenge For Israel",
+        "link": "https://www.ndtv.com/world-news/iran-war-hezbollahs-fibre-optic-drones-pose-new-challenge-for-israel-11438007#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "First malaria drug for babies is approved in ‘major public health milestone’",
+        "link": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment"
+      },
       {
         "title": "Sabastian Sawe receives hero’s welcome in Kenya after sub-two hour marathon feat",
         "link": "https://www.theguardian.com/global-development/2026/may/01/sabastian-sawe-hero-welcome-kenya-sub-two-marathon"
@@ -201,12 +199,8 @@
       {
         "title": "Iran war may cause food shortages in Africa, world’s largest fertiliser firm says",
         "link": "https://www.theguardian.com/business/2026/may/01/iran-war-may-cause-food-shortages-in-africa-world-largest-fertiliser-firm-yara-says"
-      },
-      {
-        "title": "South Africa deports Mugabe’s son for unrelated offences after employee shot at family home",
-        "link": "https://www.theguardian.com/world/2026/apr/29/south-africa-deports-mugabes-son-after-separate-offences-three-months-after-shooting-at-family-home"
       }
     ]
   },
-  "last_updated": "2026-05-02 04:27 UTC"
+  "last_updated": "2026-05-02 06:26 UTC"
 }
