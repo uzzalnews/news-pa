@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US Iran Ceasefire News LIVE: Trump Warns Of More Oil Disruptions, US Aircraft Carrier Leaves Gulf",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,15 +21,19 @@
         "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-        "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss"
+        "title": "Celebrity Traitors line-up announced - 21 famous faces set to enter castle",
+        "link": "https://www.bbc.com/news/articles/c5yx5w43jzko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Bomb hoax arrest after Peter Kay show evacuated",
-        "link": "https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&at_campaign=rss"
+        "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+        "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
+        "link": "https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss"
+      },
       {
         "title": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
         "link": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss"
@@ -39,10 +49,6 @@
       {
         "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss"
-      },
-      {
-        "title": "Nepal celebrates return of stolen 13th-century Buddha statue from New York",
-        "link": "https://www.aljazeera.com/news/2026/5/2/nepal-celebrates-return-of-stolen-13th-century-buddha-statue-from-new-york?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/1996840/us-awards-f-16-upgrade-contract-for-pakistan-other-states"
       },
       {
+        "title": "Dar discusses Middle East situation, its economic implications with Kuwaiti FM: FO",
+        "link": "https://www.dawn.com/news/1996936/dar-discusses-middle-east-situation-its-economic-implications-with-kuwaiti-fm-fo"
+      },
+      {
         "title": "PMD issues Glof alert due to westerly wave, rainfall across GB and KP",
         "link": "https://www.dawn.com/news/1996916/pmd-issues-glof-alert-due-to-westerly-wave-rainfall-across-gb-and-kp"
       },
@@ -82,23 +92,23 @@
         "link": "https://www.dawn.com/news/1996915/us-bypasses-congressional-review-for-military-sales-of-86-billion-to-middle-east-allies"
       },
       {
-        "title": "Police in Punjab's Hafizabad arrest man for alleged rape, kidnapping of teenage girl",
-        "link": "https://www.dawn.com/news/1996935/police-in-punjabs-hafizabad-arrest-man-for-alleged-rape-kidnapping-of-teenage-girl"
-      },
-      {
-        "title": "Inflation hits double digits for first time in 21 months",
-        "link": "https://www.dawn.com/news/1996853/inflation-hits-double-digits-for-first-time-in-21-months"
+        "title": "IED attack targets police official’s residence in Lakki Marwat, causes significant damage",
+        "link": "https://www.dawn.com/news/1996937/ied-attack-targets-police-officials-residence-in-lakki-marwat-causes-significant-damage"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "U.S. to Withdraw 5,000 Troops From Germany, Pentagon Says",
-        "link": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html"
+        "title": "Trump’s Push for Electoral Retribution Heads to the Ballot Box",
+        "link": "https://www.nytimes.com/2026/05/02/us/politics/trumps-push-for-electoral-retribution-heads-to-the-ballot-box.html"
       },
       {
-        "title": "How Germany Misjudged Trump’s Anger on Iran",
-        "link": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html"
+        "title": "These G.O.P. Women Want Congress Members to Pay a Price for Abuse. Will It Work?",
+        "link": "https://www.nytimes.com/2026/05/02/us/politics/boebert-mace-luna-republican-women.html"
+      },
+      {
+        "title": "Eric Swalwell Was Proficient in Social Media. So Were His Accusers.",
+        "link": "https://www.nytimes.com/2026/05/01/us/eric-swalwell-social-media.html"
       },
       {
         "title": "Spirit Airlines, a Pioneer of Low-Fare Flights, Shuts Down",
@@ -107,13 +117,17 @@
       {
         "title": "Spirit Airlines is Shutting Down. Here’s What to Do if You’re Scheduled to Fly.",
         "link": "https://www.nytimes.com/2026/05/01/travel/spirit-airlines-bankruptcy-tickets-refunds.html"
-      },
-      {
-        "title": "Federal Appeals Court Temporarily Halts Abortion Pill Access by Mail",
-        "link": "https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Germany-US spat over Iran war intensifies",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-us-spat-over-iran-war-intensifies"
+      },
+      {
+        "title": "US-Germany spat over Iran intensifies as Hegseth orders troop removal",
+        "link": "https://www.middleeasteye.net/news/us-germany-spat-over-iran-intensifies-hegseth-orders-troop-removal"
+      },
       {
         "title": "Spirit Airlines closes as fuel prices double due to Iran war",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spirit-airlines-closes-fuel-prices-double-due-iran-war"
@@ -123,19 +137,23 @@
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-killed-israeli-strikes-southern-lebanon-0"
       },
       {
-        "title": "'Completely off limits': Britain considers restrictions on pro-Palestine rallies",
+        "title": "UK considers restrictions on pro-Palestine rallies",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/britain-considers-restrictions-pro-palestinian-rallies"
-      },
-      {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-521"
-      },
-      {
-        "title": "'Very profitable business': Trump says US Navy seizing Iranian oil ‘like pirates’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/very-profitable-business-trump-says-us-navy-seizing-iranian-oil-pirates"
       }
     ],
     "GeoTV": [
+      {
+        "title": "King Charles receives stunning welcome in Bermuda",
+        "link": "https://www.geo.tv/latest/662550-king-charles-receives-stunning-welcome-in-bermuda"
+      },
+      {
+        "title": "Alex Zanardi, Italian trailblazer: former F1 driver, Paralympic champion, dies aged 59",
+        "link": "https://www.geo.tv/latest/662548-alex-zanardi-former-f1-driver-paralympic-champion-dies-aged-59"
+      },
+      {
+        "title": "Germany urges stronger European defence after US reduces troops",
+        "link": "https://www.geo.tv/latest/662544-germany-urges-stronger-european-defence-after-us-reduces-troops"
+      },
       {
         "title": "Palace drops Princess Charlotte unseen photo for 11th birthday",
         "link": "https://www.geo.tv/latest/662547-palace-drops-princess-charlotte-unseen-photo-for-11th-birthday"
@@ -143,40 +161,28 @@
       {
         "title": "Tom Holland credits sobriety for career ‘blossom'",
         "link": "https://www.geo.tv/latest/662546-tom-holland-credits-sobriety-for-career-blossom"
-      },
-      {
-        "title": "D4vd murder case: Celeste Rivas family reacts to internet rumours",
-        "link": "https://www.geo.tv/latest/662530-d4vd-murder-case-celeste-rivas-family-reacts-to-internet-rumours"
-      },
-      {
-        "title": "King Charles finally dethroned by beloved royal",
-        "link": "https://www.geo.tv/latest/662541-king-charles-finally-dethroned-by-beloved-royal"
-      },
-      {
-        "title": "Lakers' 27-3 surge burries Rockets, sets up blockbuster clash against NBA-best Thunder",
-        "link": "https://www.geo.tv/latest/662542-lakers-27-3-surge-burries-rockets-sets-up-blockbuster-clash-against-nba-best-thunder"
       }
     ],
     "NDTV": [
       {
-        "title": "Sandeep Pathak, Who Switched From AAP To BJP, Faces Likely Arrest In Punjab",
+        "title": "US Iran Ceasefire News LIVE: Trump Warns Of More Oil Disruptions, US Aircraft Carrier Leaves Gulf",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
+      },
+      {
+        "title": "Spirit Airlines Begins 'Wind-down' After 34 Years In Business, Cancels All Flights",
+        "link": "https://www.ndtv.com/world-news/spirit-airlines-begins-wind-down-after-34-years-in-business-cancels-all-flights-11439038#publisher=newsstand"
+      },
+      {
+        "title": "Trinamool, BJP Supporters Clash In Bengal's South 24 Parganas Amid Repolling At 15 Booths",
+        "link": "https://www.ndtv.com/india-news/trinamool-bjp-supporters-clash-in-bengals-south-24-parganas-amid-repolling-at-15-booths-11438914#publisher=newsstand"
+      },
+      {
+        "title": "AAP Rebel Sandeep Pathak Untraceable As Arrest Looms In Two Cases",
         "link": "https://www.ndtv.com/india-news/sandeep-pathak-who-switched-from-aap-to-bjp-faces-likely-arrest-in-punjab-11438396#publisher=newsstand"
       },
       {
-        "title": "As Strait Of Hormuz Chokes, What Options Do Gulf States Really Have?",
-        "link": "https://www.ndtv.com/world-news/iran-us-israel-war-as-strait-of-hormuz-chokes-what-options-do-gulf-states-really-have-middle-east-conflict-11438487#publisher=newsstand"
-      },
-      {
-        "title": "3 Labourers Killed In Jammu Bridge Collapse During Repair Work",
-        "link": "https://www.ndtv.com/jammu-news/jammu-bridge-collapse-3-labourers-killed-in-jammu-bridge-collapse-during-repair-work-11438402#publisher=newsstand"
-      },
-      {
-        "title": "Pakistan's Map Faux Pas In Peace Talks Meeting With Afghanistan",
-        "link": "https://www.ndtv.com/world-news/pakistans-map-faux-pas-in-peace-talks-meeting-with-afghanistan-11438685#publisher=newsstand"
-      },
-      {
-        "title": "'Exit Polls Are For TV Debates': Gaurav Gogoi Confident Of Congress Win In Assam",
-        "link": "https://www.ndtv.com/india-news/assam-assembly-election-2026-exit-polls-are-for-tv-debates-gaurav-gogoi-confident-of-congress-win-11438144#publisher=newsstand"
+        "title": "Video: IIT Jodhpur Students Chase Tanker Amid Drinking Water Shortage",
+        "link": "https://www.ndtv.com/india-news/video-iit-jodhpur-students-chase-water-tanker-amid-drinking-water-shortage-11438885#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-02 09:20 UTC"
+  "last_updated": "2026-05-02 10:14 UTC"
 }
