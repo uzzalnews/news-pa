@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Manchester United vs Liverpool – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/3/live-manchester-united-vs-liverpool-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Gaza aid flotilla activists appear in Israeli court after abduction",
+        "link": "https://www.aljazeera.com/news/2026/5/3/gaza-flotilla-activists-appear-in-israeli-court-allege-torture-in-custody?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Manchester United vs Liverpool – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/3/live-manchester-united-vs-liverpool-premier-league?traffic_source=rss"
+      },
+      {
+        "title": "Who is Cherie DeVaux, the first female trainer to win the Kentucky Derby?",
+        "link": "https://www.aljazeera.com/sports/2026/5/3/who-is-cherie-devaux-the-first-female-trainer-to-win-the-kentucky-derby?traffic_source=rss"
+      },
+      {
+        "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+        "link": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss"
+      },
+      {
         "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
         "link": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss"
-      },
-      {
-        "title": "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/hospitals-in-lebanon-overwhelmed-with-patients-injured-by-israeli-attacks?traffic_source=rss"
-      },
-      {
-        "title": "After Maduro",
-        "link": "https://www.aljazeera.com/video/people-power/2026/5/3/after-maduro?traffic_source=rss"
-      },
-      {
-        "title": "Ben-Gvir celebrates birthday with cake decorated with death penalty noose",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/ben-gvir-celebrates-birthday-with-cake-decorated-with-death-penalty-noose?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine drone attack hits Russian Baltic port, governor says",
-        "link": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,8 +84,8 @@
         "link": "https://www.dawn.com/news/1997195/sajid-sadpara-summits-worlds-5th-highest-mountain-makalu-without-supplemental-oxygen"
       },
       {
-        "title": "Sharjeel Memon says BRT Red Line 'very tough' project, asserts no delay from govt",
-        "link": "https://www.dawn.com/news/1997209/sharjeel-memon-says-brt-red-line-very-tough-project-asserts-no-delay-from-govt"
+        "title": "Sharjeel Memon says BRT Red Line 'very tough' project, asserts no delay from Sindh govt",
+        "link": "https://www.dawn.com/news/1997209/sharjeel-memon-says-brt-red-line-very-tough-project-asserts-no-delay-from-sindh-govt"
       },
       {
         "title": "Policeman gunned down near his home in KP's Lakki Marwat",
@@ -115,27 +121,35 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Green Party leader Zack Polanski condemns 'vile antisemitic caricature' in The Times",
+        "link": "https://www.middleeasteye.net/news/uk-zack-polanski-condemns-vile-antisemitic-caricature-times"
+      },
+      {
+        "title": "Five people, including four paramedics, wounded in Israeli attack on southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/five-people-including-four-paramedics-wounded-israeli-attack-southern"
+      },
+      {
+        "title": "Iran's IRGC: US must choose between 'impossible military operation' and 'bad deal'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-trump-must-choose-between-impossible-military-operation-and"
+      },
+      {
         "title": "Israel approves plan to buy F-35 and F-15I aircraft from US",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-approves-plan-buy-f-35-and-f-15i-aircraft-us"
       },
       {
         "title": "Two Palestinians killed by Israeli fire since dawn",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-fire-dawn"
-      },
-      {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-522"
-      },
-      {
-        "title": "CNN: Hezbollah fibre-optic drones pose major challenge",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/cnn-hezbollah-fibre-optic-drones-pose-major-challenge"
-      },
-      {
-        "title": "Iraq oil exports could resume within a week, minister says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-oil-exports-could-resume-within-week-minister-says"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince William forced to come clean about key issue after intense scrutiny",
+        "link": "https://www.geo.tv/latest/662681-prince-william-forced-to-come-clean-about-key-issue-after-intense-scrutiny"
+      },
+      {
+        "title": "Prince Harry dismisses 'half in, half out' backlash: 'Nonsense'Â",
+        "link": "https://www.geo.tv/latest/662676-prince-harry-dismisses-half-in-half-out-backlash-nonsense"
+      },
       {
         "title": "Two women die on migrant boat seeking to reach UK",
         "link": "https://www.geo.tv/latest/662675-two-women-die-on-migrant-boat-seeking-to-reach-uk"
@@ -147,14 +161,6 @@
       {
         "title": "Princess Eugenie 'greatest enemy' revealed as royal dream shattered",
         "link": "https://www.geo.tv/latest/662674-princess-eugenie-greatest-enemy-revealed-as-royal-dream-shattered"
-      },
-      {
-        "title": "King Charles returns home with good news for scandal-hit royal familyÂ",
-        "link": "https://www.geo.tv/latest/662670-king-charles-returns-home-with-good-news-for-scandal-hit-royal-family"
-      },
-      {
-        "title": "King Charles ‘quietly endorsed' Prince Harry's message, Palace reveals",
-        "link": "https://www.geo.tv/latest/662671-king-charles-quietly-endorsed-prince-harrys-message-palace-reveals"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-03 11:26 UTC"
+  "last_updated": "2026-05-03 12:06 UTC"
 }
