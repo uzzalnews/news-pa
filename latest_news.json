@@ -1,15 +1,9 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Manchester United vs Liverpool – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/3/live-manchester-united-vs-liverpool-premier-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Polanski stands by concerns over police response to Golders Green attack",
+        "title": "Polanski says police 'should not be above scrutiny' over Golders Green response",
         "link": "https://www.bbc.com/news/articles/c78q6w1vzz7o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -21,34 +15,34 @@
         "link": "https://www.bbc.com/news/articles/cy72d4g5pdyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-        "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss"
+        "title": "Two dead and major incident declared after explosion",
+        "link": "https://www.bbc.com/news/articles/c202w3lzdvjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-        "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss"
+        "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+        "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Gaza aid flotilla activists appear in Israeli court after abduction",
-        "link": "https://www.aljazeera.com/news/2026/5/3/gaza-flotilla-activists-appear-in-israeli-court-allege-torture-in-custody?traffic_source=rss"
+        "title": "Netanyahu boasts of Israel’s billion-dollar military investments",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/netanyahu-boasts-of-israels-billion-dollar-military-investments?traffic_source=rss"
       },
       {
-        "title": "LIVE: Manchester United vs Liverpool – Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/3/live-manchester-united-vs-liverpool-premier-league?traffic_source=rss"
+        "title": "Was the Iran war the final blow in the collapse of Spirit Airlines?",
+        "link": "https://www.aljazeera.com/news/2026/5/3/was-the-iran-war-the-final-blow-in-the-collapse-of-spirit-airlines?traffic_source=rss"
       },
       {
-        "title": "Who is Cherie DeVaux, the first female trainer to win the Kentucky Derby?",
-        "link": "https://www.aljazeera.com/sports/2026/5/3/who-is-cherie-devaux-the-first-female-trainer-to-win-the-kentucky-derby?traffic_source=rss"
+        "title": "OPEC+ announces symbolic oil output rise during Strait of Hormuz closure",
+        "link": "https://www.aljazeera.com/news/2026/5/3/opec-announces-symbolic-oil-output-rise-during-strait-of-hormuz-closure?traffic_source=rss"
       },
       {
-        "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
-        "link": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss"
+        "title": "Israel approves purchase of fighter jets from the US",
+        "link": "https://www.aljazeera.com/news/2026/5/3/israel-approves-purchase-of-fighter-jets-from-the-us?traffic_source=rss"
       },
       {
-        "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
-        "link": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss"
+        "title": "US military says two service members taking part in Morocco drills missing",
+        "link": "https://www.aljazeera.com/news/2026/5/3/us-military-says-two-service-members-taking-part-in-morocco-drills-missing?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "PM Shehbaz calls on Nawaz, discusses political situation in country, steps taken for peace in Middle East",
+        "link": "https://www.dawn.com/news/1997218/pm-shehbaz-calls-on-nawaz-discusses-political-situation-in-country-steps-taken-for-peace-in-middle-east"
+      },
+      {
         "title": "President, PM renew resolve to protect journalistic freedom, stress credible reporting",
         "link": "https://www.dawn.com/news/1997192/president-pm-renew-resolve-to-protect-journalistic-freedom-stress-credible-reporting"
       },
@@ -84,16 +82,12 @@
         "link": "https://www.dawn.com/news/1997195/sajid-sadpara-summits-worlds-5th-highest-mountain-makalu-without-supplemental-oxygen"
       },
       {
-        "title": "Sharjeel Memon says BRT Red Line 'very tough' project, asserts no delay from Sindh govt",
-        "link": "https://www.dawn.com/news/1997209/sharjeel-memon-says-brt-red-line-very-tough-project-asserts-no-delay-from-sindh-govt"
+        "title": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing",
+        "link": "https://www.dawn.com/news/1997222/israel-approves-plan-to-buy-f-35-and-f-15ia-fighter-jets-from-lockheed-boeing"
       },
       {
-        "title": "Policeman gunned down near his home in KP's Lakki Marwat",
-        "link": "https://www.dawn.com/news/1997202/policeman-gunned-down-near-his-home-in-kps-lakki-marwat"
-      },
-      {
-        "title": "US Secretary of State Rubio to visit Vatican, Rome after Trump's row with Pope",
-        "link": "https://www.dawn.com/news/1997196/us-secretary-of-state-rubio-to-visit-vatican-rome-after-trumps-row-with-pope"
+        "title": "Opec+ agrees third oil output quota hike since Hormuz closure",
+        "link": "https://www.dawn.com/news/1997215/opec-agrees-third-oil-output-quota-hike-since-hormuz-closure"
       }
     ],
     "APNews": [],
@@ -121,71 +115,75 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Trump: Iran has 'not yet paid a big enough price'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-iran-has-not-yet-paid-big-enough-price"
+      },
+      {
+        "title": "Exclusive: US and Israel reject joint Palestinian proposal for Gaza after meetings",
+        "link": "https://www.middleeasteye.net/news/exclusive-us-israel-reject-joint-palestinian-proposal-gaza-after-meetings"
+      },
+      {
+        "title": "Trump says US will withdraw 'a lot' more troops from Germany",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-withdrawing-lot-more-troops-germany-5000-announced"
+      },
+      {
         "title": "Green Party leader Zack Polanski condemns 'vile antisemitic caricature' in The Times",
         "link": "https://www.middleeasteye.net/news/uk-zack-polanski-condemns-vile-antisemitic-caricature-times"
       },
       {
         "title": "Five people, including four paramedics, wounded in Israeli attack on southern Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/five-people-including-four-paramedics-wounded-israeli-attack-southern"
-      },
-      {
-        "title": "Iran's IRGC: US must choose between 'impossible military operation' and 'bad deal'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-trump-must-choose-between-impossible-military-operation-and"
-      },
-      {
-        "title": "Israel approves plan to buy F-35 and F-15I aircraft from US",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-approves-plan-buy-f-35-and-f-15i-aircraft-us"
-      },
-      {
-        "title": "Two Palestinians killed by Israeli fire since dawn",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-fire-dawn"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince William forced to come clean about key issue after intense scrutiny",
-        "link": "https://www.geo.tv/latest/662681-prince-william-forced-to-come-clean-about-key-issue-after-intense-scrutiny"
+        "title": "'Saturday Night Live' puts Alex Cooper, Alix Earle beef on blast",
+        "link": "https://www.geo.tv/latest/662690-saturday-night-live-puts-alex-cooper-alix-earle-beef-on-blast"
       },
       {
-        "title": "Prince Harry dismisses 'half in, half out' backlash: 'Nonsense'Â",
-        "link": "https://www.geo.tv/latest/662676-prince-harry-dismisses-half-in-half-out-backlash-nonsense"
+        "title": "Prince Harry's true feelings over King Charles missing Montecito reunion",
+        "link": "https://www.geo.tv/latest/662688-prince-harry-true-feelings-over-king-charles-missing-montecito-reunion"
       },
       {
-        "title": "Two women die on migrant boat seeking to reach UK",
-        "link": "https://www.geo.tv/latest/662675-two-women-die-on-migrant-boat-seeking-to-reach-uk"
+        "title": "Iranian envoy reaffirms Pakistan's 'central role' in ongoing talks with US",
+        "link": "https://www.geo.tv/latest/662689-iranian-envoy-reaffirms-pakistans-central-role-in-ongoing-talks-with-us"
       },
       {
-        "title": "'Devil Wears Prada' director talks about filming chaos: 'Really hard'",
-        "link": "https://www.geo.tv/latest/662672-devil-wears-prada-director-talks-about-filming-chaos-really-hard"
+        "title": "Kate Middleton takes bold step for George, Charlotte, Louis",
+        "link": "https://www.geo.tv/latest/662682-kate-middleton-takes-bold-step-for-george-charlotte-louis"
       },
       {
-        "title": "Princess Eugenie 'greatest enemy' revealed as royal dream shattered",
-        "link": "https://www.geo.tv/latest/662674-princess-eugenie-greatest-enemy-revealed-as-royal-dream-shattered"
+        "title": "Daughter says Maradona died after carers' plan 'went out of control'",
+        "link": "https://www.geo.tv/latest/662686-daughter-says-maradona-died-after-carers-plan-went-out-of-control"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Death Was In Front Of Us\": Jabalpur Boat Tragedy Survivors Recount Horror",
-        "link": "https://www.ndtv.com/india-news/death-was-in-front-of-us-jabalpur-boat-tragedy-survivors-recount-horror-11442634#publisher=newsstand"
+        "title": "How A Secret Smuggling Ring Is Providing Internet Access To Blacked-Out Iran",
+        "link": "https://www.ndtv.com/world-news/iran-internet-ban-us-iran-war-how-a-secret-smuggling-ring-is-supplying-starlink-terminal-to-blacked-out-iran-11442885#publisher=newsstand"
       },
       {
-        "title": "Joram Aniya Becomes First Full-Time NITI Aayog Member From Arunachal",
-        "link": "https://www.ndtv.com/india-news/joram-aniya-becomes-first-full-time-niti-aayog-member-from-arunachal-11442575#publisher=newsstand"
+        "title": "AAP vs Rebel MPs: Both Camps To Meet President Murmu On Tuesday",
+        "link": "https://www.ndtv.com/india-news/aap-vs-rebel-mps-both-camps-to-meet-president-murmu-on-tuesday-11442945#publisher=newsstand"
       },
       {
-        "title": "'Self-Funded Visit': NDTV Tracks Man In Mamata Banerjee's 'Outsider' Video",
-        "link": "https://www.ndtv.com/india-news/self-funded-visit-ndtv-tracks-man-in-mamata-banerjees-outsider-video-11442568#publisher=newsstand"
+        "title": "Stripped, Chased, Assaulted: Nigerian 'Rape Festival\" Causes Global Outrage",
+        "link": "https://www.ndtv.com/world-news/stripped-chased-assaulted-nigerian-rape-festival-causes-global-outrage-11442817#publisher=newsstand"
       },
       {
-        "title": "37 Bellwether Seats That Accurately Show Bengal's Poll Results Since 1977",
-        "link": "https://www.ndtv.com/india-news/west-bengal-assembly-election-bengal-election-result-37-bellwether-seats-that-accurately-show-bengals-poll-results-since-1977-11442172#publisher=newsstand"
+        "title": "Counting Of Votes For Nagaland's Koridang Assembly Bypoll Tomorrow",
+        "link": "https://www.ndtv.com/india-news/nagaland-elections-2026-counting-of-votes-for-nagalands-koridang-assembly-bypoll-tomorrow-11442753#publisher=newsstand"
       },
       {
-        "title": "Flier Vomits Twice, Jumps Off Moving Plane's Emergency Exit At Chennai Airport",
-        "link": "https://www.ndtv.com/india-news/air-arabia-passenger-opens-emergency-exit-door-jumps-off-taxiing-flight-at-chennai-airport-11441590#publisher=newsstand"
+        "title": "Vote Counting For Karnataka's Bagalkot, Davanagere South Bypolls Tomorrow",
+        "link": "https://www.ndtv.com/india-news/karnataka-elections-2026-vote-counting-for-karnatakas-bagalkot-davanagere-south-bypolls-tomorrow-11442712#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Two US service members missing after military exercises in Morocco",
+        "link": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco"
+      },
       {
         "title": "Zambia cancels world’s largest human rights and tech summit days before start",
         "link": "https://www.theguardian.com/global-development/2026/may/02/zambia-cancels-rightscon-summit-largest-human-rights-technology-conference"
@@ -201,12 +199,8 @@
       {
         "title": "Uganda copying Russia and China with new bill designed to crush dissent, say critics",
         "link": "https://www.theguardian.com/global-development/2026/may/01/uganda-copying-russia-and-china-with-new-bill-designed-to-crush-dissent-say-critics"
-      },
-      {
-        "title": "BAE faces £120m lawsuit over decision to scrap support for aid aircraft",
-        "link": "https://www.theguardian.com/global-development/2026/may/01/bae-lawsuit-scrap-support-aid-aircraft-encomm-aviation"
       }
     ]
   },
-  "last_updated": "2026-05-03 12:06 UTC"
+  "last_updated": "2026-05-03 13:46 UTC"
 }
