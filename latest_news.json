@@ -1,29 +1,57 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Markets News LIVE: Sensex, Nifty Signal Steady Start As Counting Begins For State Elections",
+      "link": "https://www.ndtv.com/business-news/stock-market-share-market-sensex-nifty-live-today-4-may-assembly-election-resullts-assam-kerala-tamil-nadu-west-bengal-puducherry-11444464#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Tamil Nadu Election Results 2026 LIVE Updates: DMK Ahead In Over 30 Seats, AIADMK In 9, Vijay's TVK In 6",
+      "link": "https://www.ndtv.com/india-news/tamil-nadu-election-results-2026-live-updates-vote-counting-results-vijay-tvk-mk-stalin-dmk-aiadmk-bjp-perambur-tiruchi-east-kolkathur-mylapore-11442281#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Puducherry Election Results 2026 LIVE Updates: Early Trends Show NDA Advantage In Puducherry, AINRC In Lead",
+      "link": "https://www.ndtv.com/india-news/puducherry-election-results-2026-live-updates-vote-counting-results-bjp-congress-dmk-aiadmk-puducherry-results-today-as-counting-begins-for-30-seats-11442310#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Iran says US has responded to its latest peace proposal",
-        "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss"
+        "title": "Trump says US to 'guide' stranded ships through Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/c775jevkyv2o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "The threat to summer holidays looming from jet fuel shortages",
         "link": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Man and woman die and three injured in house blast",
-        "link": "https://www.bbc.com/news/articles/c202w3lzdvjo?at_medium=RSS&at_campaign=rss"
+        "title": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
+        "link": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'I was trying to save a life,' man who intervened in Golders Green attack tells BBC",
-        "link": "https://www.bbc.com/news/articles/c1529vgdvlgo?at_medium=RSS&at_campaign=rss"
+        "title": "Chris Mason: Elections this week a smorgasbord of competitiveness",
+        "link": "https://www.bbc.com/news/articles/c202wg747qpo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK to enter talks to join £78bn EU loan scheme for Ukraine",
-        "link": "https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss"
+        "title": "Rudy Giuliani in critical condition in hospital",
+        "link": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm markets",
+        "link": "https://www.aljazeera.com/economy/2026/5/4/oil-prices-flat-as-trumps-plan-for-strait-of-hormuz-fails-to-move-markets?traffic_source=rss"
+      },
+      {
+        "title": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/illegal-free-party-at-french-military-site-draws-up-to-40000-ravers?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss"
+      },
       {
         "title": "Thousands in India’s Manipur mark three years since ethnic clashes began",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/thousands-in-indias-manipur-mark-three-years-since-ethnic-clashes-began?traffic_source=rss"
@@ -31,18 +59,6 @@
       {
         "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
         "link": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship?traffic_source=rss"
-      },
-      {
-        "title": "French left-wing’s Melenchon says he will run for president in 2027",
-        "link": "https://www.aljazeera.com/news/2026/5/3/french-left-wings-melenchon-says-he-will-run-for-president-in-2027?traffic_source=rss"
-      },
-      {
-        "title": "Real Madrid stays alive in La Liga title race with victory at Espanyol",
-        "link": "https://www.aljazeera.com/sports/2026/5/3/real-madrid-stays-alive-in-la-liga-title-race-with-victory-at-espanyol?traffic_source=rss"
-      },
-      {
-        "title": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +86,24 @@
     ],
     "Dawn": [
       {
-        "title": "Iran reviewing US response to 14-point plan; Trump says Washington having 'very positive' discussions with Tehran",
-        "link": "https://www.dawn.com/news/1997230/iran-reviewing-us-response-to-14-point-plan-trump-says-washington-having-very-positive-discussions-with-tehran"
+        "title": "Punjab cops in a bind over transfer to ‘hard areas’",
+        "link": "https://www.dawn.com/news/1997366/punjab-cops-in-a-bind-over-transfer-to-hard-areas"
       },
       {
-        "title": "Peshawar Zalmi beat Hyderabad Kingsmen by 5 wickets, lift PSL trophy a second time",
-        "link": "https://www.dawn.com/news/1997223/peshawar-zalmi-beat-hyderabad-kingsmen-by-5-wickets-lift-psl-trophy-a-second-time"
+        "title": "Minister vows to remove hurdles faced by investors",
+        "link": "https://www.dawn.com/news/1997361/minister-vows-to-remove-hurdles-faced-by-investors"
       },
       {
-        "title": "With a week left for Aurat March in Karachi, organisers say NOC yet to be issued",
-        "link": "https://www.dawn.com/news/1997240/with-a-week-left-for-aurat-march-in-karachi-organisers-say-noc-yet-to-be-issued"
+        "title": "Ministries told to surrender unspent funds",
+        "link": "https://www.dawn.com/news/1997364/ministries-told-to-surrender-unspent-funds"
       },
       {
-        "title": "PM Shehbaz calls on Nawaz, discusses political situation in country, steps taken for peace in Middle East",
-        "link": "https://www.dawn.com/news/1997218/pm-shehbaz-calls-on-nawaz-discusses-political-situation-in-country-steps-taken-for-peace-in-middle-east"
+        "title": "AJK PM grants land ownership to 1,000 families displaced by LoC shelling",
+        "link": "https://www.dawn.com/news/1997314/ajk-pm-grants-land-ownership-to-1000-families-displaced-by-loc-shelling"
       },
       {
-        "title": "Israel court extends detention of two Gaza flotilla activists; lawyers say pair subjected to 'severe physical abuse'",
-        "link": "https://www.dawn.com/news/1997237/israel-court-extends-detention-of-two-gaza-flotilla-activists-lawyers-say-pair-subjected-to-severe-physical-abuse"
+        "title": "Jemima ‘plans  to remarry’",
+        "link": "https://www.dawn.com/news/1997348/jemima-plans-to-remarry"
       }
     ],
     "APNews": [],
@@ -105,78 +121,78 @@
         "link": "https://www.nytimes.com/2026/05/03/business/oil-prices-stocks-iran.html"
       },
       {
-        "title": "A Long, Strange Trip: How the G.O.P. Came to Embrace Psychedelic Drugs",
-        "link": "https://www.nytimes.com/2026/05/03/science/ibogaine-psychedelics-rogan-trump.html"
+        "title": "Inquiry Into Fed Chair Jerome Powell Could Be Resurrected, Jeanine Pirro Says",
+        "link": "https://www.nytimes.com/2026/05/03/us/politics/justice-department-fed-chair-powell-inquiry-pirro.html"
       },
       {
-        "title": "Blanche Says Others Who Post ‘86 47’ Message Won’t Be Charged Like Comey",
-        "link": "https://www.nytimes.com/2026/05/03/us/politics/blanche-comey-indictment-seashells.html"
+        "title": "A Long, Strange Trip: How the G.O.P. Came to Embrace Psychedelic Drugs",
+        "link": "https://www.nytimes.com/2026/05/03/science/ibogaine-psychedelics-rogan-trump.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Centcom mobilises aircraft, troops for Hormuz maritime mission",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-mobilises-aircraft-troops-hormuz-maritime-mission"
+        "title": "IMO says 20,000 seafarers stranded in Hormuz crisis",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-says-20000-seafarers-stranded-hormuz-crisis"
       },
       {
-        "title": "Germany calls US key Nato partner amid tensions",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-calls-us-key-nato-partner-amid-tensions"
+        "title": "Iranian oil tankers reach Indonesian waters despite blockade",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-oil-tankers-reach-indonesian-waters-despite-blockade"
       },
       {
-        "title": "UN rapporteur warns of ‘Israelisation of Europe’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-rapporteur-warns-israelisation-europe"
+        "title": "Iranian diplomat says ‘satisfactory’ deal must include compensation",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-diplomat-says-satisfactory-deal-must-include-compensation"
       },
       {
-        "title": "Iran warns US over Hormuz escort plan, says interference breaks ceasefire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-over-hormuz-escort-plan-says-interference-breaks-ceasefire"
+        "title": "US Senator Graham rejects Iran offer, backs diplomacy with pressure",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-graham-rejects-iran-offer-backs-diplomacy-pressure"
       },
       {
-        "title": "Trump says US in ‘very positive discussions’ with Iran over war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-very-positive-discussions-iran-over-war"
+        "title": "White House posts Trump's photo with ‘I have all the cards’ message",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-posts-trumps-photo-i-have-all-cards-message"
       }
     ],
     "GeoTV": [
       {
+        "title": "Olivia Wilde reacts to ‘The Lord of the Rings' Gollum comparison",
+        "link": "https://www.geo.tv/latest/662738-olivia-wilde-reacts-to-the-lord-of-the-rings-gollum-comparison"
+      },
+      {
+        "title": "How ‘The Devil Wears Prada 2' created film's AI-generated meme?",
+        "link": "https://www.geo.tv/latest/662736-how-the-devil-wears-prada-2-created-films-ai-generated-meme"
+      },
+      {
+        "title": "Former New York Mayor Giuliani hospitalised in critical condition",
+        "link": "https://www.geo.tv/latest/662735-former-new-york-mayor-giuliani-hospitalised-in-critical-condition"
+      },
+      {
+        "title": "Germany's Merz dismisses rift with Trump, rejects link to US troop cuts in Germany",
+        "link": "https://www.geo.tv/latest/662734-german-chancellor-merz-dismisses-rift-with-trump-rejects-link-to-us-troop-cuts-in-germany"
+      },
+      {
         "title": "Sally Field on winning first Best Actress Oscar: 'Too Much'",
         "link": "https://www.geo.tv/latest/662732-sally-field-on-winning-first-best-actress-oscar-too-much"
-      },
-      {
-        "title": "Danish Royal marks milestone moment surrounded by family in the US",
-        "link": "https://www.geo.tv/latest/662713-danish-royal-marks-milestone-moment-surrounded-by-family-in-the-us"
-      },
-      {
-        "title": "Alan Cumming on ‘X-Men' stars: 'Bonded in Trauma'",
-        "link": "https://www.geo.tv/latest/662728-alan-cumming-on-x-men-stars-bonded-in-trauma"
-      },
-      {
-        "title": "Nick Cannon reflects on ‘double standard' dating rules for son and daughter",
-        "link": "https://www.geo.tv/latest/662724-nick-cannon-reflects-on-double-standard-dating-rules-for-son-and-daughter"
-      },
-      {
-        "title": "Jelly Roll reacts to daughter Bailee Ann's major life milestone",
-        "link": "https://www.geo.tv/latest/662722-jelly-roll-reacts-to-daughter-bailee-anns-major-life-milestone"
       }
     ],
     "NDTV": [
       {
-        "title": "Any US \"Interference\" In Hormuz Would Be Ceasefire Violation: Iran",
-        "link": "https://www.ndtv.com/world-news/any-us-interference-in-hormuz-would-be-ceasefire-violation-iran-official-11444295#publisher=newsstand"
+        "title": "Kerala Election Results 2026 Live Updates: UDF Leads In 20 Seats, LDF 8, BJP 4 In Early Trends",
+        "link": "https://www.ndtv.com/kerala-news/kerala-election-results-2026-live-updates-vote-counting-today-results-pinarayi-vijayan-vd-satheesan-ldf-udf-bjp-kerala-party-results-kerala-winners-11442291#publisher=newsstand"
       },
       {
-        "title": "Trump Says US Will \"Guide Ships\" Safely Out Of Strait Of Hormuz",
-        "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-us-to-guide-ships-safely-out-of-strait-of-hormuz-11444194#publisher=newsstand"
+        "title": "Markets News LIVE: Sensex, Nifty Signal Steady Start As Counting Begins For State Elections",
+        "link": "https://www.ndtv.com/business-news/stock-market-share-market-sensex-nifty-live-today-4-may-assembly-election-resullts-assam-kerala-tamil-nadu-west-bengal-puducherry-11444464#publisher=newsstand"
       },
       {
-        "title": "3 Die On Atlantic Cruise Ship From Suspected Hantavirus: WHO",
-        "link": "https://www.ndtv.com/world-news/3-die-on-atlantic-cruise-ship-from-suspected-hantavirus-who-11444086#publisher=newsstand"
+        "title": "Tamil Nadu Election Results 2026 LIVE Updates: DMK Ahead In Over 30 Seats, AIADMK In 9, Vijay's TVK In 6",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-election-results-2026-live-updates-vote-counting-results-vijay-tvk-mk-stalin-dmk-aiadmk-bjp-perambur-tiruchi-east-kolkathur-mylapore-11442281#publisher=newsstand"
       },
       {
-        "title": "Iran Says No Nuclear Talks, Reviewing US Response To End War",
-        "link": "https://www.ndtv.com/world-news/iran-says-no-nuclear-talks-reviewing-us-response-to-end-war-11444039#publisher=newsstand"
+        "title": "Puducherry Election Results 2026 LIVE Updates: Early Trends Show NDA Advantage In Puducherry, AINRC In Lead",
+        "link": "https://www.ndtv.com/india-news/puducherry-election-results-2026-live-updates-vote-counting-results-bjp-congress-dmk-aiadmk-puducherry-results-today-as-counting-begins-for-30-seats-11442310#publisher=newsstand"
       },
       {
-        "title": "BJP Blitz vs Mamata Banerjee's Canny Politics: Bengal Results Today",
-        "link": "https://www.ndtv.com/india-news/election-results-today-has-bengals-silent-voter-chosen-change-counting-for-states-294-seats-today-11444007#publisher=newsstand"
+        "title": "Live Updates: BJP Widens Gap With Trinamool In Bengal, DMK Ahead In Tamil Nadu, Show Early Leads",
+        "link": "https://www.ndtv.com/india-news/election-results-2026-live-updates-west-bengal-tamil-nadu-kerala-assam-puducherry-vote-counting-bjp-tmc-mamata-banerjee-tvk-vijay-dmk-udf-ldf-congress-11443744#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +218,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-04 00:09 UTC"
+  "last_updated": "2026-05-04 04:08 UTC"
 }
