@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Tamil Nadu Election Results 2026 LIVE Updates: DMK Wins 1 Seat, Vijay's TVK Leading In Over 100",
-      "link": "https://www.ndtv.com/india-news/tamil-nadu-election-results-2026-live-updates-vote-counting-results-vijay-tvk-mk-stalin-dmk-aiadmk-bjp-perambur-tiruchi-east-kolkathur-mylapore-11442281#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-says-it-fired-missiles-at-us-warship-to-prevent-it-entering-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
+        "link": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss"
+      },
+      {
+        "title": "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
+        "link": "https://www.aljazeera.com/news/2026/5/4/i-cant-feel-my-leg-israeli-gunfire-disables-teenagers-in-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
+        "link": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss"
+      },
+      {
         "title": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss"
-      },
-      {
-        "title": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
-        "link": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss"
-      },
-      {
-        "title": "Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says",
-        "link": "https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss"
-      },
-      {
-        "title": "Former NYC Mayor Giuliani hospitalised in ‘critical condition’",
-        "link": "https://www.aljazeera.com/news/2026/5/4/former-nyc-mayor-giuliani-hospitalised-in-critical-condition-spokesman?traffic_source=rss"
-      },
-      {
-        "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
-        "link": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1997392/fo-says-22-crew-members-on-iranian-ship-seized-by-us-have-been-evacuated-to-pakistan"
       },
       {
+        "title": "'Not a nation that bows': Bilawal hails Pakistan's victory against India during Marka-i-Haq",
+        "link": "https://www.dawn.com/news/1997435/not-a-nation-that-bows-bilawal-hails-pakistans-victory-against-india-during-marka-i-haq"
+      },
+      {
         "title": "IHC rejects Imran, Bushra's pleas seeking suspension of sentences in £190m graft case",
         "link": "https://www.dawn.com/news/1997421/ihc-rejects-imran-bushras-pleas-seeking-suspension-of-sentences-in-ps190m-graft-case"
       },
@@ -88,101 +86,97 @@
         "link": "https://www.dawn.com/news/1997425/uae-says-opec-exit-not-directed-against-anyone"
       },
       {
-        "title": "Dar and Iran's Araghchi discuss regional situation, Pakistan's ongoing diplomatic efforts",
-        "link": "https://www.dawn.com/news/1997400/dar-and-irans-araghchi-discuss-regional-situation-pakistans-ongoing-diplomatic-efforts"
-      },
-      {
-        "title": "Bulls in control as PSX gains 4,000 points during intraday trade",
-        "link": "https://www.dawn.com/news/1997405/bulls-in-control-as-psx-gains-4000-points-during-intraday-trade"
+        "title": "LHC conditionally suspends verdict ordering Meesha Shafi to pay Rs5m in damages to Ali Zafar",
+        "link": "https://www.dawn.com/news/1997442/lhc-conditionally-suspends-verdict-ordering-meesha-shafi-to-pay-rs5m-in-damages-to-ali-zafar"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Says U.S. Will Help Stranded Ships Leave Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/05/03/us/politics/strait-hormuz-stranded-ships.html"
+        "title": "China Seeks an Advantage With Both Trump and Iran as War Evolves",
+        "link": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html"
       },
       {
-        "title": "Trump Faces the Complicated Reality of a Costly, Unpopular War in Iran",
-        "link": "https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html"
-      },
-      {
-        "title": "Oil Prices Jump While Stock Futures Inch Up",
+        "title": "Oil Jumps as Iran Resists Trump’s Offer to Help Ships Through Strait of Hormuz",
         "link": "https://www.nytimes.com/2026/05/03/business/oil-prices-stocks-iran.html"
       },
       {
-        "title": "Pakistan Says It Helped Transfer Iranian Crew From Ship That U.S. Seized",
-        "link": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html"
+        "title": "Court Ruling Upends Abortion Access in the U.S., and Trump’s New Plan for the Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/05/04/podcasts/the-headlines/court-ruling-upends-abortion-access-in-the-us-and-trumps-new-plan-for-the-strait-of-hormuz.html"
       },
       {
-        "title": "Inquiry Into Fed Chair Jerome Powell Could Be Resurrected, Jeanine Pirro Says",
-        "link": "https://www.nytimes.com/2026/05/03/us/politics/justice-department-fed-chair-powell-inquiry-pirro.html"
+        "title": "The U.S. Army’s ‘Big Experiment’ in the Arctic Cold",
+        "link": "https://www.nytimes.com/2026/05/04/us/politics/us-army-arctic-cold.html"
+      },
+      {
+        "title": "Rubio to Visit Rome, Officials Say, After Trump’s Feud With Pope and Meloni",
+        "link": "https://www.nytimes.com/2026/05/04/world/europe/rubio-rome-trump-pope-italy.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Two killed in Israeli attack on southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-killed-israeli-attack-southern-lebanon"
+        "title": "Israel seizes nearly 60 percent of Gaza as it plans to resume war, report says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-seizes-nearly-60-percent-gaza-it-plans-resume-war-report-says"
       },
       {
-        "title": "No ceasefire in Lebanon while Israeli attacks ongoing, says Hezbollah",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/no-ceasefire-lebanon-while-israeli-attacks-ongoing-says-hezbollah"
+        "title": "No US Navy ships struck by Iran, says US Centcom",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/no-us-navy-ships-struck-iran-says-us-cencom"
       },
       {
-        "title": "Iran threatens to attack US warships that enter Strait of Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-attack-us-warships-enter-strait-hormuz"
+        "title": "Israel seizes nearly 60 percent of Gaza as it plans to resume war, report says",
+        "link": "https://www.middleeasteye.net/news/israel-seizes-nearly-60-percent-gaza-despite-ceasefire-plans-resume-genocide"
       },
       {
-        "title": "Any vessel violating Iran’s rules will be stopped by force, says IRGC",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/any-vessel-violating-irans-rules-will-be-stopped-force-says-irgc"
+        "title": "Italian prosecutors open investigation into kidnapping of Gaza flotilla activists",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/italian-prosecutors-open-investigation-kidnapping-gaza-flotilla"
       },
       {
-        "title": "Iran threatens to attack US warships that enter Strait of Hormuz",
-        "link": "https://www.middleeasteye.net/news/iran-threatens-attack-us-warships-enter-strait-hormuz"
+        "title": "US denies ship hit by Iranian missiles, Axios reporter says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-denies-ship-hit-iranian-missiles-axios-reporter-says"
       }
     ],
     "GeoTV": [
       {
-        "title": "Princess Eugenie celebrates her third pregnancy with Justin Bieber song",
-        "link": "https://www.geo.tv/latest/662784-princess-eugenie-celebrates-her-third-pregnancy-with-justin-bieber-song"
+        "title": "Crucible final gets heated as fan thrown out of World Snooker Championship",
+        "link": "https://www.geo.tv/latest/662798-crucible-final-gets-heated-as-fan-thrown-out-of-world-snooker-championship"
       },
       {
-        "title": "Buckingham Palace announces Princess Eugenie's delightful baby news",
-        "link": "https://www.geo.tv/latest/662783-buckingham-palace-announces-princess-eugenies-delightful-baby-news"
+        "title": "Sabrina Carpenter, Joe Keery romance rumours finally confirmed after buzz",
+        "link": "https://www.geo.tv/latest/662800-sabrina-carpenter-joe-keery-romance-rumours-finally-confirmed-after-buzz"
       },
       {
-        "title": "Meghan Markle suffers fresh blow from King Charles team",
-        "link": "https://www.geo.tv/latest/662767-meghan-markle-suffers-fresh-blow-from-king-charles-team"
+        "title": "Princess Eugenie is pregnant: King Charles sends blessings to his niece",
+        "link": "https://www.geo.tv/latest/662792-princess-eugenie-is-pregnant-king-charles-sends-blessings-to-his-niece"
       },
       {
-        "title": "Selena Gomez shares biggest misconception about Lupus: 'Not always visible'",
-        "link": "https://www.geo.tv/latest/662782-selena-gomez-shares-biggest-misconception-about-lupus-not-always-visible"
+        "title": "King Charles Epstein nightmare not over yet as ‘Project Camilla' surfaces",
+        "link": "https://www.geo.tv/latest/662799-king-charles-epstein-nightmare-not-over-yet-as-project-camilla-surfaces"
       },
       {
-        "title": "UAE says OPEC exit 'not directed against anyone'",
-        "link": "https://www.geo.tv/latest/662776-uae-says-opec-exit-not-directed-against-anyone"
+        "title": "Tom Holland reveals how he and Zendaya end a 'stressful day' together",
+        "link": "https://www.geo.tv/latest/662795-tom-holland-reveals-how-he-and-zendaya-end-a-stressful-day-together"
       }
     ],
     "NDTV": [
       {
-        "title": "Election Results Live Updates: Bengal Chooses BJP, Vijay Delivers Tamil Nadu Blockbuster, Congress Comeback In Kerala",
-        "link": "https://www.ndtv.com/india-news/election-results-2026-live-updates-west-bengal-tamil-nadu-kerala-assam-puducherry-vote-counting-bjp-tmc-mamata-banerjee-tvk-vijay-dmk-udf-ldf-congress-11443744#publisher=newsstand"
+        "title": "After Vijay's 'GOAT' Tamil Nadu Debut, Outreach By Congress: Sources",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-assembly-election-result-2026-after-vijays-goat-debut-outreach-by-congress-sources-11446385#publisher=newsstand"
       },
       {
-        "title": "Markets Rally On Election Results Amid Global Oil Risk Pressure",
-        "link": "https://www.ndtv.com/business-news/stock-market-news-sensex-nifty-election-day-markets-rally-on-election-results-amid-global-oil-risk-pressure-11446207#publisher=newsstand"
+        "title": "Kerala Election Results 2026 Live Updates: Congress-Led UDF Crosses Halfway Mark, Wins 27 Seats, BJP Leads In 3",
+        "link": "https://www.ndtv.com/kerala-news/kerala-election-results-2026-live-updates-vote-counting-today-results-pinarayi-vijayan-vd-satheesan-ldf-udf-bjp-kerala-party-results-kerala-winners-11442291#publisher=newsstand"
       },
       {
-        "title": "Tamil Nadu Election Results 2026 LIVE Updates: DMK Wins 1 Seat, Vijay's TVK Leading In Over 100",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-election-results-2026-live-updates-vote-counting-results-vijay-tvk-mk-stalin-dmk-aiadmk-bjp-perambur-tiruchi-east-kolkathur-mylapore-11442281#publisher=newsstand"
+        "title": "Iran Warns US To Drop \"Excessive Demands\", Says Ending War Is Its \"Priority\"",
+        "link": "https://www.ndtv.com/world-news/iran-warns-us-to-drop-excessive-demands-says-ending-war-is-its-priority-11446553#publisher=newsstand"
       },
       {
-        "title": "\"They'll First Show Their Results\": Mamata Banerjee Alleges BJP Has A Plan",
-        "link": "https://www.ndtv.com/india-news/west-bengal-assembly-election-results-2026-they-will-first-show-their-results-mamata-banerjee-on-bjps-plan-11445635#publisher=newsstand"
+        "title": "Markets News Highlights: Sensex, Nifty Open Week Higher As Amid New Gulf Proposal",
+        "link": "https://www.ndtv.com/business-news/stock-market-share-market-sensex-nifty-live-today-4-may-assembly-election-resullts-assam-kerala-tamil-nadu-west-bengal-puducherry-11444464#publisher=newsstand"
       },
       {
-        "title": "\"He Never Had 1% Of Doubt\": Vijay's Father On TVK's Landmark Win",
-        "link": "https://www.ndtv.com/india-news/vijay-tvk-sa-chandrasekhar-aiadmk-dmk-tamil-nadu-elections-2026-he-never-had-1-of-doubt-vijays-father-on-tvks-landmark-win-11446115#publisher=newsstand"
+        "title": "KC Venugopal, VD Satheesan Among Key Probables For Kerala Chief Minister Post",
+        "link": "https://www.ndtv.com/india-news/kerala-assembly-election-result-2026-kc-venugopal-vd-satheesan-among-key-probables-for-chief-minister-post-11446509#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-04 09:34 UTC"
+  "last_updated": "2026-05-04 11:24 UTC"
 }
