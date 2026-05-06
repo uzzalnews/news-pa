@@ -1,16 +1,10 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Bayern Munich vs PSG – Champions League semifinal",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/6/live-bayern-munich-vs-paris-saint-germain-champions-league-semifinal?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Trump pauses plan to escort ships through Hormuz after just 50 hours - what happened?",
-        "link": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss"
+        "title": "Trump's hopes for an Iran peace deal come with caveats",
+        "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "What is hantavirus and how does it spread? Key questions after outbreak",
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Shoot Palestinians, not settlers: Israeli general exposes double standard",
+        "link": "https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard?traffic_source=rss"
+      },
+      {
+        "title": "Iran ‘has attained an elevated international standing’ says FM",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iran-has-attained-an-elevated-international-standing-says-fm?traffic_source=rss"
+      },
+      {
+        "title": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
+        "link": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss"
+      },
+      {
         "title": "UN demands Israel immediately releases flotilla activists",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss"
       },
       {
         "title": "It’s not cricket: Pakistan athletes allowed in India for multilateral sport",
         "link": "https://www.aljazeera.com/sports/2026/5/6/its-not-cricket-pakistan-athletes-allowed-in-india-for-multilateral-sport?traffic_source=rss"
-      },
-      {
-        "title": "The anti-Semitism smear that ruined Corbyn’s Labour now targets the Greens",
-        "link": "https://www.aljazeera.com/opinions/2026/5/6/the-anti-semitism-smear-that-ruined-corbyns-labour-now-targets-the-greens?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Bayern Munich vs PSG – Champions League semifinal",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/6/live-bayern-munich-vs-paris-saint-germain-champions-league-semifinal?traffic_source=rss"
-      },
-      {
-        "title": "Amputee football grows in Rwanda, fostering unity and resilience",
-        "link": "https://www.aljazeera.com/gallery/2026/5/6/amputee-football-grows-in-rwanda-fostering-unity-and-resilience?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/1998087/power-consumers-to-get-rs175-per-unit-relief-over-next-3-months"
       },
       {
+        "title": "India says Pakistani players can visit for multilateral events but bilateral competitions ​remain off table",
+        "link": "https://www.dawn.com/news/1998085/india-says-pakistani-players-can-visit-for-multilateral-events-but-bilateral-competitions-remain-off-table"
+      },
+      {
         "title": "Heatwave conditions expected across Pakistan from May 7-11: PMD",
         "link": "https://www.dawn.com/news/1998074/heatwave-conditions-expected-across-pakistan-from-may-7-11-pmd"
       },
@@ -88,27 +86,15 @@
         "link": "https://www.dawn.com/news/1997828/breathe-pakistan-business-leaders-experts-stress-need-to-tackle-climate-changes-impact-on-agri-economy"
       },
       {
-        "title": "India says Pakistani players can visit for multilateral events but bilateral competitions ​remain off table",
-        "link": "https://www.dawn.com/news/1998085/india-says-pakistani-players-can-visit-for-multilateral-events-but-bilateral-competitions-remain-off-table"
-      },
-      {
-        "title": "Sindh police suspends three officials for alleged mistreatment of Aurat March activists",
-        "link": "https://www.dawn.com/news/1998055/sindh-police-suspends-three-officials-for-alleged-mistreatment-of-aurat-march-activists"
+        "title": "PTI's Raja says there will be no discussion on party's Punjab coordination and monitoring committee",
+        "link": "https://www.dawn.com/news/1998126/ptis-raja-says-there-will-be-no-discussion-on-partys-punjab-coordination-and-monitoring-committee"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Higher Gas Prices Are Hitting Lower-Income Americans the Hardest",
-        "link": "https://www.nytimes.com/2026/05/06/business/economy/gas-prices-inequality-lower-income-consumers.html"
-      },
-      {
-        "title": "Why Is Gas So Much More Expensive in Some States Than Others?",
-        "link": "https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html"
-      },
-      {
-        "title": "Oil Prices Fall on Hope U.S.-Iran War Turmoil in the Gulf May Be Easing",
-        "link": "https://www.nytimes.com/2026/05/06/business/oil-gas-price-iran.html"
+        "title": "How the Fight Over Israel Is Playing Out Inside MAGA",
+        "link": "https://www.nytimes.com/2026/05/06/us/politics/israel-maga-republicans.html"
       },
       {
         "title": "Trump and Rubio Insist Iran War Is Over, Even as Missiles Fly During Cease-Fire",
@@ -117,72 +103,80 @@
       {
         "title": "Iran’s Oil Sector and Economy Are Under Pressure as U.S. Blockade Bites",
         "link": "https://www.nytimes.com/2026/05/06/world/middleeast/irans-oil-capacity-blockade.html"
+      },
+      {
+        "title": "Macron Calls for U.S. and Iran to Open Strait of Hormuz While They Negotiate",
+        "link": "https://www.nytimes.com/2026/05/06/world/middleeast/france-macron-strait-of-hormuz-iran-us.html"
+      },
+      {
+        "title": "Higher Gas Prices Are Hitting Lower-Income Americans the Hardest",
+        "link": "https://www.nytimes.com/2026/05/06/business/economy/gas-prices-inequality-lower-income-consumers.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Two bodies recovered after Israeli strike in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-bodies-recovered-after-israeli-strike-southern-lebanon"
+        "title": "Israeli soldier wounded by drone as attacks continue in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-wounded-drone-attacks-continue-south-lebanon"
       },
       {
-        "title": "Israeli court rejects appeal to free detained Gaza flotilla activists",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-rejects-appeal-free-detained-gaza-flotilla-activists"
+        "title": "Iran urges UN states to reject US-backed Hormuz resolution",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-urges-un-states-reject-us-backed-hormuz-resolution"
       },
       {
-        "title": "Israel unaware of possible US-Iran agreement: Reuters",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-unaware-possible-us-iran-agreement-reuters"
+        "title": "Netanyahu says he ordered Beirut strike targeting Hezbollah commander",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-he-ordered-beirut-strike-targeting-hezbollah-commander"
       },
       {
-        "title": "Israel army chief sees ‘historic opportunity’ to reshape region",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-army-chief-sees-historic-opportunity-reshape-region-0"
+        "title": "Any deal with Israel must include guarantees, Lebanon’s parliament speaker says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/any-deal-israel-must-include-guarantees-lebanons-parliament-speaker-says"
       },
       {
-        "title": "Lebanese newspaper files complaint in France over remarks on killed journalist",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-newspaper-files-complaint-france-over-remarks-killed-journalist"
+        "title": "Iran says no formal response yet to latest US proposal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-formal-response-yet-latest-us-proposal"
       }
     ],
     "GeoTV": [
       {
-        "title": "Pioneering CNN founder Ted Turner dead at 87",
-        "link": "https://www.geo.tv/latest/663191-pioneering-cnn-founder-ted-turner-dead-at-87"
+        "title": "Kyle Loftis, founder of 1320Video, defining voice in street car culture, dies",
+        "link": "https://www.geo.tv/latest/663207-kyle-loftis-founder-of-1320video-defining-voice-in-street-car-culture-dies"
       },
       {
-        "title": "Billie Eilish gives final verdict on fourth album after Finneas' hint",
-        "link": "https://www.geo.tv/latest/663192-billie-eilish-gives-final-verdict-on-fourth-album-after-finneas-hint"
+        "title": "FBI searches Virginia Senator Louise Lucas' office in corruption probe",
+        "link": "https://www.geo.tv/latest/663206-fbi-searches-virginia-senator-louise-lucas-office-in-corruption-probe"
       },
       {
-        "title": "How does Hantavirus spread? Here's everything to know about how to protect yourself",
-        "link": "https://www.geo.tv/latest/663193-how-does-hantavirus-spread-heres-everything-to-know-about-how-to-protect-yourself"
+        "title": "Bushra Bibi shifted to Rawalpindi eye hospital for follow-up check-up: sources",
+        "link": "https://www.geo.tv/latest/663204-bushra-bibi-shifted-to-rawalpindi-eye-hospital-for-follow-up-check-up-sources"
       },
       {
-        "title": "King Charles, Queen Camilla's landmark celebration",
-        "link": "https://www.geo.tv/latest/663189-king-charles-queen-camillas-landmark-celebration-announced"
+        "title": "Duchess Sophie, Princess Anne join King, Queen at first garden party of 2026",
+        "link": "https://www.geo.tv/latest/663197-duchess-sophie-princess-anne-join-king-queen-at-first-garden-party-of-2026"
       },
       {
-        "title": "COVID-era internal revenue service (IRS) refund: Who qualifies, how to claim it?",
-        "link": "https://www.geo.tv/latest/663187-covid-era-internal-revenue-service-irs-refund-who-qualifies-how-to-claim-it"
+        "title": "Giant squid detected off Australia after 25 years using DNA technology",
+        "link": "https://www.geo.tv/latest/663205-giant-squid-detected-off-australia-after-25-years-using-dna-technology"
       }
     ],
     "NDTV": [
       {
-        "title": "Held Hostage By Ex-Girlfriend And Husband, Noida Man Jumps Off 3rd Floor, Dies",
-        "link": "https://www.ndtv.com/india-news/held-hostage-by-ex-girlfriend-and-husband-noida-man-jumps-off-3rd-floor-dies-11458569#publisher=newsstand"
+        "title": "Opinion: Opinion: Vijay Must Be Sworn In, Two Leaves Must Blow The Whistle",
+        "link": "https://www.ndtv.com/opinion/vijay-must-be-sworn-in-two-leaves-must-blow-the-whistle-11459109#publisher=newsstand"
       },
       {
-        "title": "Tamil Nadu Governor Not Convinced Vijay's TVK Has Majority, No Swearing-In Tomorrow: Sources",
-        "link": "https://www.ndtv.com/india-news/tvk-chief-vijay-meets-tamil-nadu-governor-stakes-claim-to-form-next-government-11456855#publisher=newsstand"
-      },
-      {
-        "title": "Tamil Nadu Election Results 2026 Live: VCK Wants More Time, Oath-Taking Set To Be Delayed: Sources",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-election-results-2026-live-updates-vijay-tvk-government-vijay-oath-taking-ceremony-tvk-cabinet-congress-dmk-mk-stalin-aiadmk-rahul-gandhi-b-11455021#publisher=newsstand"
+        "title": "Crimes In India Dipped By 6% In 2024: Crime Records Bureau",
+        "link": "https://www.ndtv.com/india-news/crimes-in-india-dipped-by-6-in-2024-crime-records-bureau-11459119#publisher=newsstand"
       },
       {
         "title": "Odisha Boy Gets Head Stuck In Crevice, Finds Snake Staring At Him",
         "link": "https://www.ndtv.com/india-news/odisha-boy-gets-head-stuck-in-crevice-finds-snake-staring-at-him-11458448#publisher=newsstand"
       },
       {
-        "title": "Bengal Election Results 2026 Live Updates: Mamata Banerjee Repeats Threat, Suvendu Adhikari Speaks Out On Violence",
-        "link": "https://www.ndtv.com/india-news/bengal-assembly-election-results-2026-live-updates-mamata-banerjee-resignation-bjp-tmc-suvendu-adhikari-trinamool-pm-modi-11455113#publisher=newsstand"
+        "title": "Held Hostage By Ex-Girlfriend And Husband, Noida Man Jumps Off 3rd Floor, Dies",
+        "link": "https://www.ndtv.com/india-news/held-hostage-by-ex-girlfriend-and-husband-noida-man-jumps-off-3rd-floor-dies-11458569#publisher=newsstand"
+      },
+      {
+        "title": "Patient Who Died Of Hantavirus Was 'Briefly' On International Flight",
+        "link": "https://www.ndtv.com/world-news/patient-who-died-of-hantavirus-was-briefly-on-international-flight-11458682#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-06 17:06 UTC"
+  "last_updated": "2026-05-06 18:55 UTC"
 }
