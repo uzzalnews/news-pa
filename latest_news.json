@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Tamil Nadu Government Formation LIVE: Vijay's TVK Loses Two Probable Allies, Its Hopes Now Rest On VCK",
+      "link": "https://www.ndtv.com/india-news/tamil-nadu-government-formation-new-cm-announcement-live-updates-vijay-tvk-government-congress-aiadmk-dmk-pact-bjp-governor-tamil-nadu-election-result-11465061#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +17,27 @@
         "link": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Election results so far - and what's still to come",
-        "link": "https://www.bbc.com/news/articles/cvgz155y9exo?at_medium=RSS&at_campaign=rss"
+        "title": "Reform election gains show shift in British politics, says Farage",
+        "link": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five election moments you may have missed",
+        "link": "https://www.bbc.com/news/articles/c5y84453d9qo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Iran accuses US of 'reckless military adventure'",
         "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Third British national has suspected hantavirus infection, government says",
-        "link": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Justice for Shireen: The American investigation",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/5/8/aje-onl-tt_rr_pal_shireeninvest_av_v1-080526?traffic_source=rss"
+      },
+      {
+        "title": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
+        "link": "https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight?traffic_source=rss"
+      },
       {
         "title": "South Koreans gear up to roar on football team from rival North",
         "link": "https://www.aljazeera.com/sports/2026/5/8/south-koreans-gear-up-to-roar-on-football-team-from-rival-north?traffic_source=rss"
@@ -33,16 +47,8 @@
         "link": "https://www.aljazeera.com/sports/2026/5/8/fifpro-in-landmark-win-as-european-body-admits-football-calendar-failings?traffic_source=rss"
       },
       {
-        "title": "‘Leader of the pack’: What next as Reform UK makes huge election gains?",
+        "title": "‘Leader of the pack’: Reform UK makes election gains, humiliating Labour",
         "link": "https://www.aljazeera.com/news/2026/5/8/leader-of-the-pack-what-next-as-reform-makes-huge-election-gains?traffic_source=rss"
-      },
-      {
-        "title": "Rubio says Iranian boats firing at Americans will be ‘blown up’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/rubio-says-iranian-boats-firing-at-americans-will-be-blown?traffic_source=rss"
-      },
-      {
-        "title": "South Africa’s top court revives impeachment inquiry against president",
-        "link": "https://www.aljazeera.com/news/2026/5/8/south-africas-top-court-revives-impeachment-inquiry-against-president?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "IMF's Executive Board approves $1.2 billion financing for Pakistan's reform programme",
+        "link": "https://www.dawn.com/news/1998725/imfs-executive-board-approves-12-billion-financing-for-pakistans-reform-programme"
+      },
+      {
         "title": "Interior ministry denies reports of 'country or sect-specific' deportation of Pakistanis from UAE",
         "link": "https://www.dawn.com/news/1998692/interior-ministry-denies-reports-of-country-or-sect-specific-deportation-of-pakistanis-from-uae"
       },
@@ -84,10 +94,6 @@
       {
         "title": "WHO says hantavirus risk low after flight attendant tests negative",
         "link": "https://www.dawn.com/news/1998687/who-says-hantavirus-risk-low-after-flight-attendant-tests-negative"
-      },
-      {
-        "title": "Pentagon releases previously secret files on UFOs",
-        "link": "https://www.dawn.com/news/1998710/pentagon-releases-previously-secret-files-on-ufos"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran foreign minister says ‘Iranians never bow to pressure’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-says-iranians-never-bow-pressure"
+        "title": "US presses allies to act as Rome balances ties with domestic pressure",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-presses-allies-act-rome-balances-ties-domestic-pressure"
       },
       {
         "title": "Israeli army chief recommends commander who destroyed Gaza university for senior role",
-        "link": "https://www.middleeasteye.net/news/israeli-army-chief-recommends-commander-who-destroyed-gaza-university-senior-role"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-chief-recommends-commander-who-destroyed-gaza-university"
       },
       {
-        "title": "Five killed in Israeli strikes on southern Lebanon, including child",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/five-killed-israeli-strikes-southern-lebanon-including-child"
+        "title": "Lebanon seeks to ‘solidify’ ceasefire ahead of Israel talks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-seeks-solidify-ceasefire-ahead-israel-talks"
       },
       {
-        "title": "Hondurasgate: Leaked recordings allege US-Israeli destabilisation plot in Latin America",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hondurasgate-leaked-recordings-allege-us-israeli-destabilisation-plot"
+        "title": "Iran warns US over ‘adventurism’ after strikes on vessels",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-over-adventurism-after-strikes-vessels"
       },
       {
-        "title": "Iran still reviewing US proposal for negotiations",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-still-reviewing-us-proposal-negotiations"
+        "title": "Iran foreign minister says ‘Iranians never bow to pressure’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-says-iranians-never-bow-pressure"
       }
     ],
     "GeoTV": [
       {
-        "title": "Steve Harvey cuts price on Georgia Mansion after $15 million upgrade",
-        "link": "https://www.geo.tv/latest/663515-steve-harvey-cuts-price-on-georgia-mansion-after-15-million-upgrade"
+        "title": "Vitamin K shot for newborns: Why doctors say not to skip it",
+        "link": "https://www.geo.tv/latest/663521-vitamin-k-shot-for-newborns-why-doctors-say-not-to-skip-it"
       },
       {
-        "title": "King Charles steps aside as Prince William, Kate take Buckingham Palace role",
-        "link": "https://www.geo.tv/latest/663508-king-charles-steps-aside-as-prince-william-kate-take-buckingham-palace-role"
+        "title": "Security forces kill five India-sponsored terrorists in KP IBOs: ISPR",
+        "link": "https://www.geo.tv/latest/663523-security-forces-kill-five-india-sponsored-terrorists-in-kp-ibos-ispr"
       },
       {
-        "title": "Bournemouth drop Alex Jimenez: here's what we know about social media allegations",
-        "link": "https://www.geo.tv/latest/663511-bournemouth-drop-alex-jimenez-heres-what-we-know-about-social-media-allegations"
+        "title": "Pentagon releases previously secret files on UFOs",
+        "link": "https://www.geo.tv/latest/663513-is-there-anybody-out-there-pentagon-releases-secret-ufo-files"
       },
       {
-        "title": "IMF board approves Pakistan's review, unlocking $1.2bn loan",
-        "link": "https://www.geo.tv/latest/663510-imf-board-approves-pakistans-review-unlocking-12bn-loan"
+        "title": "Blake Lively, Justin Baldoni 'It Ends With Us' drama takes shock turn",
+        "link": "https://www.geo.tv/latest/663516-blake-lively-justin-baldoni-it-ends-with-us-drama-takes-shock-turn"
       },
       {
-        "title": "Ariana Grande drops major news about upcoming album 'Petal'",
-        "link": "https://www.geo.tv/latest/663509-ariana-grande-announces-first-release-from-petal-album"
+        "title": "Prince William shares heartwarming reunion with suicide prevention campaigner",
+        "link": "https://www.geo.tv/latest/663522-prince-william-shares-heartwarming-reunion-with-suicide-prevention-campaigner"
       }
     ],
     "NDTV": [
       {
-        "title": "Pics: US Releases Fresh UFO Evidence After Years Of Secrecy",
-        "link": "https://www.ndtv.com/world-news/new-ufo-files-released-by-pentagon-what-we-know-so-far-11468111#publisher=newsstand"
+        "title": "Opinion: Opinion | No Permanent Rivals In Politics As Vijay Turns Tamil Nadu Into 3-Way Battle",
+        "link": "https://www.ndtv.com/opinion/tamil-nadu-chief-minister-vijay-no-permanent-rivals-in-politics-as-vijay-turns-tamil-nadu-into-3-way-battle-11468667#publisher=newsstand"
       },
       {
-        "title": "China Admits It Sent Experts To Pakistani Air Bases During Operation Sindoor",
-        "link": "https://www.ndtv.com/world-news/operation-sindoor-india-china-pakistan-for-1st-time-china-confesses-on-site-tech-support-to-pak-during-op-sindoor-11468095#publisher=newsstand"
+        "title": "Votes, Victory and Viral Interest: Vijay, TVK Ride High On Google Trends",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-election-results-votes-victory-and-viral-interest-vijay-tvk-ride-high-on-google-trends-11468679#publisher=newsstand"
       },
       {
-        "title": "Ahmedabad Air India Crash Probe In Final Stages, Report Likely In A Month: Minister",
-        "link": "https://www.ndtv.com/india-news/ahmedabad-air-india-crash-probe-in-final-stages-report-likely-in-a-month-aviationa-minister-ram-mohan-naidu-11467610#publisher=newsstand"
+        "title": "BJP Legislature Party To Pick New Assam Chief Minister On May 10",
+        "link": "https://www.ndtv.com/india-news/assam-chief-minister-oathtaking-bjp-legislature-party-to-pick-new-assam-chief-minister-on-may-10-11469107#publisher=newsstand"
       },
       {
-        "title": "Big Relief For Commuters As New Train Between Delhi And Faridabad Gets Nod",
-        "link": "https://www.ndtv.com/india-news/big-relief-for-commuters-as-new-train-between-delhi-and-faridabad-gets-nod-11468532#publisher=newsstand"
+        "title": "3 In Race, 1 Frontrunner: Inside Congress' Kerala Chief Minister Discussions",
+        "link": "https://www.ndtv.com/india-news/who-will-become-kerala-cm-inside-congress-kerala-chief-minister-discussions-3-in-race-1-frontrunner-11469105#publisher=newsstand"
       },
       {
-        "title": "3 Men Drown In Jhelum In J&K's Bandipora, Omar Abdullah Expresses Grief",
-        "link": "https://www.ndtv.com/india-news/3-men-drown-in-jhelum-in-j-ks-bandipora-omar-abdullah-expresses-grief-11468321#publisher=newsstand"
+        "title": "Tamil Nadu Government Formation LIVE: Vijay's TVK Loses Two Probable Allies, Its Hopes Now Rest On VCK",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-government-formation-new-cm-announcement-live-updates-vijay-tvk-government-congress-aiadmk-dmk-pact-bjp-governor-tamil-nadu-election-result-11465061#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-08 16:22 UTC"
+  "last_updated": "2026-05-08 17:50 UTC"
 }
