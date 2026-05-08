@@ -1,29 +1,47 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Tamil Nadu Government Formation LIVE: Vijay's TVK Loses Two Probable Allies, Its Hopes Now Rest On VCK",
+      "link": "https://www.ndtv.com/india-news/tamil-nadu-government-formation-new-cm-announcement-live-updates-vijay-tvk-government-congress-aiadmk-dmk-pact-bjp-governor-tamil-nadu-election-result-11465061#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Henry Zeffman: Election results leave Starmer vulnerable",
-        "link": "https://www.bbc.com/news/videos/clyp1qgxke7o?at_medium=RSS&at_campaign=rss"
+        "title": "Analysis: Many Labour MPs are blaming the boss for elections body blow",
+        "link": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "What latest election results show us in maps and charts",
-        "link": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss"
+        "title": "Sir John Curtice: Election results show politics in the UK has fragmented",
+        "link": "https://www.bbc.com/news/articles/ce8p4yn448vo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Reform election gains show shift in British politics, says Farage",
         "link": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Five election moments you may have missed",
-        "link": "https://www.bbc.com/news/articles/c5y84453d9qo?at_medium=RSS&at_campaign=rss"
+        "title": "Polanski says two-party politics 'dead' after election gains for Greens",
+        "link": "https://www.bbc.com/news/articles/c4g08e97523o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Britons on virus-hit cruise ship will be tested before charter flight back to UK",
-        "link": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss"
+        "title": "Five election moments you may have missed",
+        "link": "https://www.bbc.com/news/articles/c5y84453d9qo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Could Labour and Conservative party dominance in UK politics be ending?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/5/8/could-labours-and-the-conservatives-dominance-in-uk-politics-be-ending?traffic_source=rss"
+      },
+      {
+        "title": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Protests in the Canary Islands as virus-stricken ship heads for port",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss"
+      },
       {
         "title": "Libya’s largest oil refinery halts operations during fighting",
         "link": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Four convicted in US related to killing of Haitian President Jovenel Moise",
         "link": "https://www.aljazeera.com/news/2026/5/8/four-convicted-in-us-related-to-killing-of-haitian-president-jovenel-moise?traffic_source=rss"
-      },
-      {
-        "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
-        "link": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss"
-      },
-      {
-        "title": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
-        "link": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "Olympic water polo resignations cite lack of respect, belittling behaviour",
-        "link": "https://www.aljazeera.com/sports/2026/5/8/olympic-waterpolo-coach-players-resign-over-belittling-and-lack-of-respect?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "Govt hikes petrol by Rs14.92 per litre, diesel by Rs15",
+        "link": "https://www.dawn.com/news/1998722/govt-hikes-petrol-by-rs1492-per-litre-diesel-by-rs15"
+      },
+      {
         "title": "IMF's Executive Board approves $1.2 billion financing for Pakistan's reform programme",
         "link": "https://www.dawn.com/news/1998725/imfs-executive-board-approves-12-billion-financing-for-pakistans-reform-programme"
       },
@@ -82,12 +92,8 @@
         "link": "https://www.dawn.com/news/1998729/us-religious-freedom-commission-calls-for-india-to-be-listed-as-country-of-particular-concern"
       },
       {
-        "title": "Australia sanctions BLA, three senior leaders for 'engagement in and support of terrorist attacks'",
-        "link": "https://www.dawn.com/news/1998704/australia-sanctions-bla-three-senior-leaders-for-engagement-in-and-support-of-terrorist-attacks"
-      },
-      {
-        "title": "Quadcopter attack in KP's Bannu injures 8, including women",
-        "link": "https://www.dawn.com/news/1998732/quadcopter-attack-in-kps-bannu-injures-8-including-women"
+        "title": "Security forces kill five terrorists in Tank, DI Khan in IBOs: ISPR",
+        "link": "https://www.dawn.com/news/1998739/security-forces-kill-five-terrorists-in-tank-di-khan-in-ibos-ispr"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran’s president rejects ‘colonialism’, calls for respectful ties",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-president-rejects-colonialism-calls-respectful-ties"
+        "title": "Israeli strike in Lebanon kills at least four",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-lebanon-kills-least-four"
       },
       {
-        "title": "Iran warns of renewed clashes if US returns to Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-renewed-clashes-if-us-returns-hormuz"
+        "title": "Palestinian mountaineer is raising $10m for Gaza by climbing Mount Everest",
+        "link": "https://www.middleeasteye.net/news/palestinian-climber-everest-raising-10m-gazas-children"
       },
       {
-        "title": "US presses allies to act as Rome balances ties with domestic pressure",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-presses-allies-act-rome-balances-ties-domestic-pressure"
+        "title": "Hezbollah claims drone attack on Israeli air base in north",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-drone-attack-israeli-airbase-north"
       },
       {
-        "title": "Israeli army chief recommends commander who destroyed Gaza university for senior role",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-chief-recommends-commander-who-destroyed-gaza-university"
+        "title": "The myth of Gulf exceptionalism and US protection is over",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/myth-gulf-exceptionalism-and-us-protection-over"
       },
       {
-        "title": "Lebanon seeks to ‘solidify’ ceasefire ahead of Israel talks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-seeks-solidify-ceasefire-ahead-israel-talks"
+        "title": "Gaza genocide death toll rises to 72,628",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-genocide-death-toll-rises-72628"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Millie Bobby Brown gushes over husband Jake Bongiovi in cosy snap",
+        "link": "https://www.geo.tv/latest/663532-millie-bobby-brown-gushes-over-husband-jake-bongiovi-in-cosy-snap"
+      },
+      {
+        "title": "Virginia Supreme Court blocks Democratic redistricting map: Is it a win for Republicans?",
+        "link": "https://www.geo.tv/latest/663530-virginia-supreme-court-blocks-democratic-redistricting-map-is-it-a-win-for-republicans"
+      },
       {
         "title": "MetLife Stadium not on fire, officials confirm blaze struck nearby building",
         "link": "https://www.geo.tv/latest/663528-metlife-stadium-not-on-fire-officials-confirm-blaze-struck-nearby-building"
       },
       {
-        "title": "Govt hikes petrol, diesel prices by Rs15 per litre for next week",
+        "title": "Govt hikes petrol by Rs14.92, diesel price jumps to nearly Rs415",
         "link": "https://www.geo.tv/latest/663502-govt-hikes-petrol-price-by-nearly-rs15-per-litre"
       },
       {
         "title": "Trump announces three-day ceasefire between Russia and Ukraine",
         "link": "https://www.geo.tv/latest/663527-trump-announces-three-day-ceasefire-between-russia-and-ukraine"
-      },
-      {
-        "title": "Olivia Rodrigo marks major career milestone ahead of 'The Unraveled Tour'",
-        "link": "https://www.geo.tv/latest/663520-olivia-rodrigo-marks-major-career-milestone-ahead-of-the-unraveled-tour"
-      },
-      {
-        "title": "Beatrice, Eugenie skip Kate and William's Palace Garden party: Here's why",
-        "link": "https://www.geo.tv/latest/663525-beatrice-eugenie-skip-kate-and-williams-palace-garden-party-heres-why"
       }
     ],
     "NDTV": [
       {
-        "title": "Trump Announces 3-Day Russia-Ukraine Ceasefire Starting Saturday",
-        "link": "https://www.ndtv.com/world-news/trump-announces-3-day-russia-ukraine-ceasefire-starting-saturday-11469329#publisher=newsstand"
+        "title": "Did SIR Impact West Bengal result? What Election Commission Data Says",
+        "link": "https://www.ndtv.com/india-news/did-sir-impact-west-bengal-result-what-election-commission-data-says-11469480#publisher=newsstand"
       },
       {
-        "title": "Analysis: Vijay's TVK And Lessons From Pramod Mahajan's 1997 Lok Sabha Speech",
+        "title": "Tamil Nadu Government Formation LIVE: Vijay's TVK Loses Two Probable Allies, Its Hopes Now Rest On VCK",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-government-formation-new-cm-announcement-live-updates-vijay-tvk-government-congress-aiadmk-dmk-pact-bjp-governor-tamil-nadu-election-result-11465061#publisher=newsstand"
+      },
+      {
+        "title": "\"No Repentance\": Top Court On Minister's Colonel Sofiya Qureshi Remark",
+        "link": "https://www.ndtv.com/india-news/no-repentance-top-court-on-ministers-colonel-sofiya-qureshi-remark-11469442#publisher=newsstand"
+      },
+      {
+        "title": "In Tamil Nadu Political Chaos, A 1997 Pramod Mahajan Speech Finds Relevance",
         "link": "https://www.ndtv.com/india-news/tamil-nadu-chief-minister-vijays-tvk-and-lessons-from-pramod-mahajans-1997-lok-sabha-speech-11469350#publisher=newsstand"
       },
       {
-        "title": "'Could Be Forgery': AMMK Chief To NDTV On TVK Claiming Support Of His MLA",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-election-results-ammk-chief-to-ndtv-on-tvk-claiming-support-of-his-mla-could-be-forgery-11469321#publisher=newsstand"
-      },
-      {
-        "title": "\"Centre's Intervention May Be Needed\": Top Court On Drugs Menace In Punjab",
-        "link": "https://www.ndtv.com/india-news/centres-intervention-may-be-needed-top-court-on-drugs-menace-in-punjab-11469297#publisher=newsstand"
-      },
-      {
-        "title": "Amazon's Chile Data Centre To Be Built As Residents Lose Green Challenge",
-        "link": "https://www.ndtv.com/world-news/amazon-chile-data-centre-to-be-built-as-residents-lose-green-challenge-11469289#publisher=newsstand"
+        "title": "Marco Rubio Says US Ties With Church Can Withstand Trump-Pope Tensions",
+        "link": "https://www.ndtv.com/world-news/marco-rubio-says-us-ties-with-church-can-withstand-trump-pope-tensions-11469432#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-08 19:00 UTC"
+  "last_updated": "2026-05-08 20:12 UTC"
 }
