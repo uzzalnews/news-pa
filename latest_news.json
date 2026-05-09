@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Iran War News LIVE Updates: Trump Expects Iran Reply 'Tonight' On Latest US Proposal",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-ceasefire-violation-donald-trump-abbas-araghchi-tehran-peace-proposal-strait-of-hormuz-11465293#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +17,27 @@
         "link": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "SNP wins Scottish election as Reform and Labour tie for second",
+        "link": "https://www.bbc.com/news/articles/ckgp5ryv4qno?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Analysis: Many Labour MPs are blaming the boss for elections body blow",
         "link": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Reform election gains show shift in British politics, says Farage",
         "link": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Polanski says two-party politics 'dead' after election gains for Greens",
-        "link": "https://www.bbc.com/news/articles/c4g08e97523o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
+        "link": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss"
+      },
       {
         "title": "Pentagon releases video of strikes on Iranian oil tankers",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Costa Rica inaugurates right-wing president Laura Fernandez",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/costa-rica-inaugurates-right-wing-president-laura-fernandez?traffic_source=rss"
-      },
-      {
-        "title": "Laura Fernandez sworn in as Costa Rica’s new president",
-        "link": "https://www.aljazeera.com/news/2026/5/8/laura-fernandez-sworn-in-as-costa-ricas-new-president?traffic_source=rss"
-      },
-      {
-        "title": "Venice Biennale: The Art of the Unseen",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/venice-biennale-the-art-of-the-unseen?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "Govt hikes petrol by Rs14.92 per litre, diesel by Rs15",
-        "link": "https://www.dawn.com/news/1998722/govt-hikes-petrol-by-rs1492-per-litre-diesel-by-rs15"
+        "title": "Federal Constitutional Court staff pay, perks surpass Supreme Court's amid supremacy row",
+        "link": "https://www.dawn.com/news/1998858/federal-constitutional-court-staff-pay-perks-surpass-supreme-courts-amid-supremacy-row"
       },
       {
-        "title": "IMF's Executive Board approves $1.2 billion financing for Pakistan's reform programme",
-        "link": "https://www.dawn.com/news/1998725/imfs-executive-board-approves-12-billion-financing-for-pakistans-reform-programme"
+        "title": "Mideast war taking a toll on Pakistan’s ‘wedding economy’",
+        "link": "https://www.dawn.com/news/1998854/mideast-war-taking-a-toll-on-pakistans-wedding-economy"
       },
       {
-        "title": "Interior ministry denies reports of 'country or sect-specific' deportation of Pakistanis from UAE",
-        "link": "https://www.dawn.com/news/1998692/interior-ministry-denies-reports-of-country-or-sect-specific-deportation-of-pakistanis-from-uae"
+        "title": "Afghan Taliban leaders reach out to Fazl, express condolences over cleric’s killing in Charsadda",
+        "link": "https://www.dawn.com/news/1998856/afghan-taliban-leaders-reach-out-to-fazl-express-condolences-over-clerics-killing-in-charsadda"
       },
       {
-        "title": "US religious freedom commission calls for India to be listed as ‘country of particular concern’",
-        "link": "https://www.dawn.com/news/1998729/us-religious-freedom-commission-calls-for-india-to-be-listed-as-country-of-particular-concern"
+        "title": "Govt hikes petrol by Rs14.92 per litre, high-speed diesel by Rs15",
+        "link": "https://www.dawn.com/news/1998722/govt-hikes-petrol-by-rs1492-per-litre-high-speed-diesel-by-rs15"
       },
       {
-        "title": "Security forces kill five terrorists in Tank, DI Khan in IBOs: ISPR",
-        "link": "https://www.dawn.com/news/1998739/security-forces-kill-five-terrorists-in-tank-di-khan-in-ibos-ispr"
+        "title": "PAF jets light up skies in twin cities ahead of Marka-i-Haq anniversary",
+        "link": "https://www.dawn.com/news/1998782/paf-jets-light-up-skies-in-twin-cities-ahead-of-marka-i-haq-anniversary"
       }
     ],
     "APNews": [],
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "US-Iran talks could resume in Pakistan next week, WSJ report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-talks-could-resume-pakinstan-next-week-wsj-report-says"
+        "title": "Oil prices rise amid Hormuz tensions, hopes for agreement",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-rise-amid-hormuz-tensions-hopes-agreement"
       },
       {
-        "title": "OIC urges immediate action to end Israeli occupation of Palestine",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oic-urges-immediate-action-end-israeli-occupation-palestine"
+        "title": "Hezbollah claims 26 attacks amid deadly Israeli strikes in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-26-attacks-amid-deadly-israeli-strikes-lebanon"
       },
       {
-        "title": "At least 31 killed in Israeli attacks across Lebanon, local media says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-31-killed-israeli-attacks-across-lebanon-local-media-says"
+        "title": "Rubio says sanctions target Chinese entities providing Iran with satellite imagery",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-sanctions-target-chinese-entities-providing-iran-satellite"
       },
       {
-        "title": "Israeli strike hits home in Shati refugee camp in Gaza, six wounded including children",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-hits-home-shati-camp-six-wounded-including-children"
+        "title": "Israel condemns European criticism over West Bank settler violence",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-condemns-european-criticism-over-west-bank-settler-violence"
       },
       {
-        "title": "US sanctions target firms tied to Iran drone supply network",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-target-firms-tied-iran-drone-supply-network"
+        "title": "Oil spill spotted near Iran export terminal on Kharg Island, AP reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-spill-spotted-near-iran-export-terminal-kharg-island-ap-reports"
       }
     ],
     "GeoTV": [
       {
-        "title": "Is Discord down? Thousands of users forced ‘to touch grass' due to massive outage",
-        "link": "https://www.geo.tv/latest/663545-is-discord-down-thousands-of-users-forced-to-touch-grass-due-to-massive-outage"
+        "title": "Jon B flexes working with Michael Jackson",
+        "link": "https://www.geo.tv/latest/663551-jon-b-flexes-working-with-michael-jackson"
       },
       {
-        "title": "Rihanna embraces new tattoo given by children",
-        "link": "https://www.geo.tv/latest/663544-rihanna-embraces-new-tattoo-given-by-children"
+        "title": "Olivia Culpo expecting second baby with husband Christian McCaffrey",
+        "link": "https://www.geo.tv/latest/663550-olivia-culpo-expecting-second-baby-with-husband-christian-mccaffrey"
       },
       {
-        "title": "Tess Daly, Vernon Kay's changing relationship raises questions after split",
-        "link": "https://www.geo.tv/latest/663543-tess-daly-vernon-kays-changing-relationship-raises-questions-after-split"
+        "title": "‘Devil Wears Prada 2' salaries revealed",
+        "link": "https://www.geo.tv/latest/663548-devil-wears-prada-2-salaries-revealed"
       },
       {
-        "title": "Cher accused of ending son's financial support during court battle",
-        "link": "https://www.geo.tv/latest/663541-cher-accused-of-ending-sons-financial-support-during-court-battle"
+        "title": "At least 10 dead after road accident on Dalbandin highway in Chagai",
+        "link": "https://www.geo.tv/latest/663549-10-dead-after-road-accident-on-dalbandin-highway-in-chagai"
       },
       {
-        "title": "Millie Bobby Brown gushes over husband Jake Bongiovi in cosy snap",
-        "link": "https://www.geo.tv/latest/663532-millie-bobby-brown-gushes-over-husband-jake-bongiovi-in-cosy-snap"
+        "title": "Renée Zellweger joins cast of ‘A Woman in the Sun'",
+        "link": "https://www.geo.tv/latest/663547-rene-zellweger-joins-cast-of-a-woman-in-the-sun"
       }
     ],
     "NDTV": [
       {
-        "title": "TVK Claims MLA Kamaraj Wrote Letter In support, Refutes AMMK Chief's Remarks",
-        "link": "https://www.ndtv.com/india-news/tvk-claims-mla-kamaraj-wrote-letter-in-support-refutes-ammk-chief-ttv-dhinakarans-remarks-11469720#publisher=newsstand"
+        "title": "Over 100 Sick With 'Food Poisoning' After Eating Sweets At Rajasthan Wedding",
+        "link": "https://www.ndtv.com/india-news/over-100-sick-with-food-poisoning-after-eating-sweets-at-rajasthan-wedding-11469263#publisher=newsstand"
       },
       {
-        "title": "AMMK Alleges 'Horse Trading' After MLA Goes Missing Amid Tamil Nadu Drama",
-        "link": "https://www.ndtv.com/india-news/ammk-alleges-horse-trading-after-mla-goes-missing-amid-tamil-nadu-drama-11469707#publisher=newsstand"
+        "title": "US-Iran War News LIVE Updates: Trump Expects Iran Reply 'Tonight' On Latest US Proposal",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-ceasefire-violation-donald-trump-abbas-araghchi-tehran-peace-proposal-strait-of-hormuz-11465293#publisher=newsstand"
       },
       {
-        "title": "Google Settles Racial Discrimination Lawsuit For $50 Million",
-        "link": "https://www.ndtv.com/world-news/google-settles-racial-discrimination-lawsuit-for-50-million-11469573#publisher=newsstand"
+        "title": "Vice Admiral Krishna Swaminathan, Who Commanded INS Vikramaditya, Named New Navy Chief",
+        "link": "https://www.ndtv.com/india-news/vice-admiral-krishna-swaminathan-who-commanded-ins-vikramaditya-named-india-new-navy-chief-11469896#publisher=newsstand"
       },
       {
-        "title": "3-Year-Old Girl Raped By School Staff In Delhi; Accused Granted Bail",
-        "link": "https://www.ndtv.com/india-news/3-year-old-girl-raped-by-school-staff-in-delhi-accused-granted-bail-11469500#publisher=newsstand"
+        "title": "India Appoints New Defence, Navy Chiefs, To Assume Office By Month-End",
+        "link": "https://www.ndtv.com/india-news/lieutenant-general-ns-raja-subramani-to-be-new-chief-of-defence-staff-will-take-over-from-general-anil-chauhan-11469812#publisher=newsstand"
       },
       {
-        "title": "Did SIR Impact West Bengal result? What Election Commission Data Says",
-        "link": "https://www.ndtv.com/india-news/did-sir-impact-west-bengal-result-what-election-commission-data-says-11469480#publisher=newsstand"
+        "title": "West Bengal Government Formation Highlights: Suvendu Adhikari Named Next Chief Minister Of Bengal",
+        "link": "https://www.ndtv.com/india-news/west-bengal-government-formation-new-cm-announcement-live-updates-tmc-mamata-banerjee-resignation-bjp-govt-suvendu-adhikari-aide-murder-agnimitra-paul-11465102#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-09 00:11 UTC"
+  "last_updated": "2026-05-09 03:56 UTC"
 }
