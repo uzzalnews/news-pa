@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Tamil Nadu Government Formation LIVE: Thriller Over, Sequel With Vijay As Chief Minister To Begin Today",
+      "link": "https://www.ndtv.com/india-news/tamil-nadu-government-formation-new-cm-announcement-live-updates-vijay-tvk-government-congress-aiadmk-dmk-pact-bjp-governor-tamil-nadu-election-result-11465061#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,12 +17,12 @@
         "link": "https://www.bbc.com/news/articles/cx21e79qqlgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "PM turns to old Labour hands after election losses but some MPs left baffled",
-        "link": "https://www.bbc.com/news/articles/c2k2vyw88n8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "SNP leader John Swinney rules out Holyrood talks with Reform UK",
         "link": "https://www.bbc.com/news/articles/cddpevvv97jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "PM turns to old Labour hands after election losses but some MPs left baffled",
+        "link": "https://www.bbc.com/news/articles/c2k2vyw88n8o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Plaid Cymru wants to run Welsh government on its own, leader says",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss"
+        "title": "Missing Singaporeans Located Near Mt. Dukono Crater Rim",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/missing-singaporeans-located-near-mt-dukono-crater-rim?traffic_source=rss"
       },
       {
-        "title": "Israeli attacks across Lebanon kill at least 19",
-        "link": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss"
+        "title": "Man City beat Brentford to close gap to Arsenal to two points in title race",
+        "link": "https://www.aljazeera.com/sports/2026/5/9/man-city-beat-brentford-to-close-gap-to-arsenal-to-two-points-in-title-race?traffic_source=rss"
       },
       {
-        "title": "Péter Magyar Takes Office, Marking the Official End of the Orbán Era",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/peter-magyar-takes-office-marking-the-official-end-of-the-orban-era-2?traffic_source=rss"
+        "title": "Tucker Carlson’s pivot",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/9/tucker-carlsons-pivot?traffic_source=rss"
       },
       {
-        "title": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
-        "link": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss"
+        "title": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
+        "link": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss"
       },
       {
-        "title": "Niger suspends nine French media bodies: Watchdog slams ‘abusive’ decision",
-        "link": "https://www.aljazeera.com/news/2026/5/9/niger-suspends-nine-french-media-bodies-watchdog-slams-abusive-decision?traffic_source=rss"
+        "title": "Parent company of Trump’s Truth Social site reports $400m loss this year",
+        "link": "https://www.aljazeera.com/news/2026/5/9/parent-company-of-trumps-truth-social-site-reports-400m-loss-this-year?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,20 +84,28 @@
         "link": "https://www.dawn.com/news/1998954/marka-i-haq-a-defining-landmark-in-the-nations-journey-ispr"
       },
       {
-        "title": "GHQ to host ceremony marking one year since Marka-i-Haq victory on Sunday",
-        "link": "https://www.dawn.com/news/1998901/ghq-to-host-ceremony-marking-one-year-since-marka-i-haq-victory-on-sunday"
+        "title": "Suicide attack targets police post in KP's Bannu, casualties feared",
+        "link": "https://www.dawn.com/news/1998957/suicide-attack-targets-police-post-in-kps-bannu-casualties-feared"
       },
       {
-        "title": "Sindh govt issues Aurat March NOC with conditions for participants' clothing, slogans",
-        "link": "https://www.dawn.com/news/1998890/sindh-govt-issues-aurat-march-noc-with-conditions-for-participants-clothing-slogans"
+        "title": "Finmin says economic recovery remains intact amid regional conflict, assures uninterrupted fuel supply",
+        "link": "https://www.dawn.com/news/1998966/finmin-says-economic-recovery-remains-intact-amid-regional-conflict-assures-uninterrupted-fuel-supply"
       },
       {
-        "title": "PTI demands judicial commission to identify, punish culprits behind May 9 riots",
-        "link": "https://www.dawn.com/news/1998950/pti-demands-judicial-commission-to-identify-punish-culprits-behind-may-9-riots"
+        "title": "Pakistan expands US lobbying push with focus on defence, critical minerals and policy influence",
+        "link": "https://www.dawn.com/news/1998958/pakistan-expands-us-lobbying-push-with-focus-on-defence-critical-minerals-and-policy-influence"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran",
+        "link": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html"
+      },
+      {
+        "title": "Deadly Israeli Strikes Erode Cease-Fire in Lebanon",
+        "link": "https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html"
+      },
       {
         "title": "How Republicans Gained an Edge on the Midterm House Map Over 10 Days",
         "link": "https://www.nytimes.com/2026/05/09/us/politics/midterm-redistricting-house-map-republicans.html"
@@ -103,76 +117,68 @@
       {
         "title": "How Minority Districts Fueled the G.O.P.’s Southern Ascendancy in Congress",
         "link": "https://www.nytimes.com/2026/05/09/us/politics/how-minority-districts-fueled-the-gops-southern-ascendancy-in-congress.html"
-      },
-      {
-        "title": "Republicans Are Building an Advantage in Redistricting. How Much Is It Worth?",
-        "link": "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html"
-      },
-      {
-        "title": "Deadly Israeli Strikes Erode Cease-Fire in Lebanon",
-        "link": "https://www.nytimes.com/2026/05/09/world/middleeast/israel-strikes-lebanon-ceasefire.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "UN says Israel displaced nearly 40,000 Palestinians in West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-israel-displaced-nearly-40000-palestinians-west-bank"
+      },
+      {
+        "title": "Israeli strikes kill four in Lebanon, raising Lebanon death toll to 23",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-four-lebanon-raising-lebanon-death-toll-23"
+      },
+      {
+        "title": "Oil chiefs warn Hormuz closure exposes fragility of global energy system",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-chiefs-warn-hormuz-closure-exposes-fragility-global-energy-system"
+      },
+      {
+        "title": "Latmiya: Inside the Ashura rituals shaping Iran’s wartime narrative",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/latmiya-inside-ashura-rituals-shaping-irans-wartime-narrative"
+      },
+      {
         "title": "Jewish settler attack wounds two Palestinian women in occupied West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jewish-settler-attack-wounds-two-palestinian-women-occupied-west-bank"
-      },
-      {
-        "title": "Global oil stocks drop almost 270 million barrels since start of Iran war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/global-oil-stocks-drop-almost-270-million-barrels-start-iran-war"
-      },
-      {
-        "title": "Qatari LNG tanker heads to Strait of Hormuz in first transit since Iran war began",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-lng-tanker-heads-strait-hormuz-first-transit-iran-war-began"
-      },
-      {
-        "title": "US says naval blockade on Iran continues, 58 vessels diverted",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-naval-blockade-iran-continues-58-vessels-diverted"
-      },
-      {
-        "title": "Syrian president discusses security with Lebanon PM",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-president-discusses-security-lebanon-pm"
       }
     ],
     "GeoTV": [
       {
-        "title": "UFC 328 complete guide: Full fight card, start time, how to watch",
-        "link": "https://www.geo.tv/latest/663654-ufc-328-complete-guide-full-fight-card-start-time-how-to-watch"
+        "title": "Rhian Mannings shares emotional moment meeting William and Kate",
+        "link": "https://www.geo.tv/latest/663659-rhian-mannings-shares-emotional-moment-meeting-william-and-kate"
       },
       {
-        "title": "Pakistan seeks peace but resolute in defending sovereignty: PM Shehbaz",
-        "link": "https://www.geo.tv/latest/663652-pakistan-seeks-peace-but-resolute-in-defending-sovereignty-says-pm-on-marka-e-haq-anniversary"
+        "title": "Zoe Kravitz's dad Lenny shares wholesome moment with Harry Styles",
+        "link": "https://www.geo.tv/latest/663651-zoe-kravitzs-dad-lenny-shares-wholesome-moment-with-harry-styles"
       },
       {
-        "title": "Petrol, diesel price hiked to fulfil IMF commitments, says petroleum minister",
-        "link": "https://www.geo.tv/latest/663649-petrol-diesel-price-hiked-to-fulfil-imf-commitments-says-petroleum-minister"
+        "title": "Prince Louis charm fans in rare childhood Q&A",
+        "link": "https://www.geo.tv/latest/663640-prince-louis-charm-fans-in-rare-childhood-qa"
       },
       {
-        "title": "Can public buy an airline? Americans crowdfunding to buy Spirit after shutdown",
-        "link": "https://www.geo.tv/latest/663653-can-public-buy-an-airline-americans-crowdfunding-to-buy-spirit-after-shutdown"
+        "title": "Nancy Guthrie missing case update: Shocking human remains found",
+        "link": "https://www.geo.tv/latest/663657-nancy-guthrie-missing-case-update-shocking-human-remains-found"
       },
       {
-        "title": "Sarah Ferguson, Princess Eugenie return to headlines with Diddy connection",
-        "link": "https://www.geo.tv/latest/663650-sarah-ferguson-princess-eugenie-return-to-headlines-with-diddy-connection"
+        "title": "Atlanta Braves legendary manager Bobby Cox dies at 84",
+        "link": "https://www.geo.tv/latest/663656-atlanta-braves-legendary-manager-bobby-cox-dies-at-84"
       }
     ],
     "NDTV": [
       {
-        "title": "Indian Sailor Dies, 4 Injured After Boat Catches Fire, Sinks Near Hormuz",
-        "link": "https://www.ndtv.com/world-news/indian-sailor-dies-4-injured-after-boat-catches-fire-sinks-near-strait-of-hormuz-11470958#publisher=newsstand"
+        "title": "Tamil Nadu Government Formation LIVE: Thriller Over, Sequel With Vijay As Chief Minister To Begin Today",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-government-formation-new-cm-announcement-live-updates-vijay-tvk-government-congress-aiadmk-dmk-pact-bjp-governor-tamil-nadu-election-result-11465061#publisher=newsstand"
       },
       {
-        "title": "Vijay Insisted On Waiting To Get Letter: Inside Story Of Governor Meet",
-        "link": "https://www.ndtv.com/india-news/tvk-tamil-nadu-vijay-chief-minister-tamil-nadu-election-rajendra-arlekar-vijay-insisted-on-waiting-to-get-letter-inside-story-of-governor-meet-11472689#publisher=newsstand"
+        "title": "\"Coming To An End\": Vladimir Putin On Russia's War With Ukraine",
+        "link": "https://www.ndtv.com/world-news/coming-to-an-end-vladimir-putin-on-russias-war-with-ukraine-11473038#publisher=newsstand"
       },
       {
-        "title": "It's Official. Vijay To Be Chief Minister, Oath At 10 AM Tomorrow",
+        "title": "'Mamata Banerjee Not God': Bengal Minister Agnimitra Paul On Poll Results",
+        "link": "https://www.ndtv.com/india-news/bengal-minister-agnimitra-paul-on-poll-results-mamata-banerjee-not-god-11472980#publisher=newsstand"
+      },
+      {
+        "title": "It's Official. Vijay To Be Chief Minister, Oath At 10 AM Today",
         "link": "https://www.ndtv.com/india-news/tamil-nadu-elections-vijay-swearing-in-tvk-vijay-chief-minister-its-official-vijay-to-be-chief-minister-oath-at-3-15-pm-tomorrow-11472163#publisher=newsstand"
-      },
-      {
-        "title": "'Hope DMK Remains In INDIA Bloc, And TVK Joins Too': P Chidambaram To NDTV",
-        "link": "https://www.ndtv.com/india-news/hope-dmk-remains-in-india-bloc-and-tvk-joins-too-p-chidambaram-to-ndtv-11472560#publisher=newsstand"
       },
       {
         "title": "Vadai, Halwa, Coffee: What Vijay, Allies Were Served At Big Lok Bhavan Meet",
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-09 18:04 UTC"
+  "last_updated": "2026-05-09 19:18 UTC"
 }
