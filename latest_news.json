@@ -1,6 +1,11 @@
 {
   "breaking": [
     {
+      "source": "AlJazeera",
+      "title": "LIVE: Barcelona vs Real Madrid – El Clasico La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/10/live-barcelona-vs-real-madrid-el-clasico-la-liga?traffic_source=rss"
+    },
+    {
       "source": "NDTV",
       "title": "Vijay Oath Ceremony LIVE Updates: \"I'm Like Your Son, Your Brother,\" Vijay Tells Supporters After Taking Oath",
       "link": "https://www.ndtv.com/india-news/vijay-oath-ceremony-live-updates-tamil-nadu-politics-vijay-new-chief-minister-sworn-in-as-tvk-proves-majority-after-2026-assembly-election-results-11473368#publisher=newsstand"
@@ -9,11 +14,7 @@
   "news": {
     "BBC": [
       {
-        "title": "Labour MP challenges ministers to move against Starmer",
-        "link": "https://www.bbc.com/news/articles/c362573l4gdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Rayner delivers 'last chance' warning to Starmer",
+        "title": "Rayner issues 'last chance' warning to Starmer and backs Burnham's return",
         "link": "https://www.bbc.com/news/articles/c5yekp5j36zo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -21,15 +22,31 @@
         "link": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Countries airlift nationals evacuated from from virus-hit cruise ship",
+        "title": "Countries airlift nationals evacuated from virus-hit cruise ship",
         "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Iran sends response to US proposals to end war",
         "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands gather for protest against antisemitism in London",
+        "link": "https://www.bbc.com/news/articles/cy92v3j999yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Food inflation hammers households in war-hit Iran",
+        "link": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Barcelona vs Real Madrid – El Clasico La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/10/live-barcelona-vs-real-madrid-el-clasico-la-liga?traffic_source=rss"
+      },
+      {
+        "title": "Russia kills three Ukrainians in 24 hours, accuses Kyiv of violating truce",
+        "link": "https://www.aljazeera.com/news/2026/5/10/russia-kills-three-ukrainians-in-24-hours-accuses-kyiv-of-violating-truce?traffic_source=rss"
+      },
       {
         "title": "Putin hints at ending Russia’s war in Ukraine, but why now?",
         "link": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss"
@@ -37,18 +54,6 @@
       {
         "title": "With food benefit cuts looming in the US, Californians eye billionaire tax",
         "link": "https://www.aljazeera.com/economy/2026/5/10/with-food-benefit-cuts-looming-in-the-us-californians-eye-billionaire?traffic_source=rss"
-      },
-      {
-        "title": "Iran sends response to US ceasefire proposal via Pakistan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss"
-      },
-      {
-        "title": "Football on ruins: Gaza’s orphans find refuge on the pitch",
-        "link": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss"
-      },
-      {
-        "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,24 +97,12 @@
         "link": "https://www.dawn.com/news/1999182/governor-kundi-meets-pti-leaders-asserts-kps-case-should-be-presented-firmly-collectively-to-the-centre"
       },
       {
-        "title": "Pakistan Test against Bangladesh evenly poised after Mehidy takes 5 wickets on 3rd day",
-        "link": "https://www.dawn.com/news/1999193/pakistan-test-against-bangladesh-evenly-poised-after-mehidy-takes-5-wickets-on-3rd-day"
+        "title": "Pakistan's Test against Bangladesh evenly poised after Mehidy takes 5 wickets",
+        "link": "https://www.dawn.com/news/1999193/pakistans-test-against-bangladesh-evenly-poised-after-mehidy-takes-5-wickets"
       }
     ],
     "APNews": [],
     "NYTimes": [
-      {
-        "title": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
-        "link": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html"
-      },
-      {
-        "title": "Trump Administration Is Considering Pausing the Federal Gas Tax to Lower Prices, Energy Secretary Says",
-        "link": "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html"
-      },
-      {
-        "title": "Lebanese Mourn Eight Members of One Family Killed in Israeli Strike",
-        "link": "https://www.nytimes.com/2026/05/10/world/middleeast/lebanon-family-funeral-israel-strikes.html"
-      },
       {
         "title": "After Virginia Redistricting Map Is Tossed, Democrats Search Desperately for a Response",
         "link": "https://www.nytimes.com/2026/05/10/us/politics/democrats-virginia-plans-gerrymandering.html"
@@ -117,31 +110,55 @@
       {
         "title": "Democratic Candidates Scramble in Virginia After Court Tosses Map",
         "link": "https://www.nytimes.com/2026/05/10/us/politics/virginia-democratic-candidates-redistricting.html"
+      },
+      {
+        "title": "One Big Headache for Politicians These Days: a Messy Digital Footprint",
+        "link": "https://www.nytimes.com/2026/05/10/us/politics/politicians-old-tweets-controversies.html"
+      },
+      {
+        "title": "G.O.P. Fatigue in Iowa Strains the Republican Primary for Governor",
+        "link": "https://www.nytimes.com/2026/05/10/us/elections/republican-primary-governor-iowa.html"
+      },
+      {
+        "title": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
+        "link": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Macron says France 'never considered' Hormuz deployment, backs Iran coordination",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-says-france-never-considered-hormuz-deployment-backs-iran"
+      },
+      {
+        "title": "Israel orders evacuation of villages in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-orders-evacuation-villages-south-lebanon"
+      },
+      {
+        "title": "Israeli soldiers say orders were to kill any man encountered in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-say-orders-were-kill-any-man-encountered-gaza"
+      },
+      {
+        "title": "Lebanese Red Cross retrieves bodies after days of blocked access by Israel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-red-cross-retrieves-bodies-after-days-blocked-access-israel"
+      },
+      {
         "title": "Iran warns of response to French and British warships in Hormuz",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-response-french-and-british-warships-hormuz"
-      },
-      {
-        "title": "Iraqi parliament ‘to summon defence minister’ over alleged secret Israeli base",
-        "link": "https://www.middleeasteye.net/news/iraqi-parliament-summon-defence-minister-over-alleged-secret-israeli-base"
-      },
-      {
-        "title": "Netanyahu says Iran war 'not over' amid fragile US ceasefire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-iran-war-not-over-amid-fragile-us-ceasefire"
-      },
-      {
-        "title": "Iran sends response to US proposal via Pakistan, states agency says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-sends-response-us-proposal"
-      },
-      {
-        "title": "Qatar’s foreign ministry urges freedom of navigation in call with Iranian counterpart",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-foreign-minister-urges-iranian-counterpart-permit-freedom"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Pakistani celebs join in Mother's Day festivities",
+        "link": "https://www.geo.tv/latest/663758-pakistani-celebs-join-in-mothers-day-festivities"
+      },
+      {
+        "title": "Pakistan embassy in Washington commemorates Marka-e-Haq anniversary, honours national unity",
+        "link": "https://www.geo.tv/latest/663754-pakistan-embassy-in-washington-commemorates-marka-e-haq-anniversary-honours-national-unity"
+      },
+      {
+        "title": "Royal peace talks on ice as Kate Middleton ended chances of family meeting",
+        "link": "https://www.geo.tv/latest/663755-royal-peace-talks-on-ice-as-kate-middleton-ended-chances-of-family-meeting"
+      },
       {
         "title": "Taylor Swift, Travis Kelce send fans wild with 'wedding' appearance",
         "link": "https://www.geo.tv/latest/663753-taylor-swift-travis-kelce-send-fans-wild-with-wedding-appearance"
@@ -149,18 +166,6 @@
       {
         "title": "Adele breaks internet with new album update after five years: '35'",
         "link": "https://www.geo.tv/latest/663748-adele-breaks-internet-with-new-album-update-after-five-years-35"
-      },
-      {
-        "title": "Prince Harry made me ‘feel less alone,' says youth ambassador",
-        "link": "https://www.geo.tv/latest/663745-prince-harry-made-me-feel-less-alone-says-youth-ambassador"
-      },
-      {
-        "title": "Evacuation of hantavirus-hit ship begins in Canary Islands",
-        "link": "https://www.geo.tv/latest/663751-evacuation-of-hantavirus-hit-ship-begins-in-canary-islands"
-      },
-      {
-        "title": "Marka-e-Haq ceremony: PM says historic military response forced India to seek ceasefire",
-        "link": "https://www.geo.tv/latest/663752-main-marka-e-haq-ceremony-gets-underway-at-pakistan-monument"
       }
     ],
     "NDTV": [
@@ -208,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-10 16:09 UTC"
+  "last_updated": "2026-05-10 17:12 UTC"
 }
