@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Barcelona vs Real Madrid – El Clasico La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/10/live-barcelona-vs-real-madrid-el-clasico-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,30 +19,30 @@
         "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Thousands gather for protest against antisemitism in London",
-        "link": "https://www.bbc.com/news/articles/cy92v3j999yo?at_medium=RSS&at_campaign=rss"
+        "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+        "link": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "South Korea says ship was struck by ‘unidentified flying objects’ in Hormuz",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/south-korea-says-ship-was-struck-by-unidentified-flying-objects-in-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Trossard scores late as Arsenal beats West Ham, moves closer to title",
+        "link": "https://www.aljazeera.com/sports/2026/5/10/trossard-scores-late-as-arsenal-beats-west-ham-moves-closer-to-title?traffic_source=rss"
+      },
+      {
+        "title": "Gaza volunteers plant olive trees at devastated al-Shifa Hospital",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss"
+      },
+      {
+        "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
+        "link": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss"
+      },
+      {
         "title": "Iran may ‘give assurances on the use of nuclear facilities’",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss"
-      },
-      {
-        "title": "Trump says US will not allow Iran to reach enriched uranium",
-        "link": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss"
-      },
-      {
-        "title": "Food inflation hammers households in war-hit Iran",
-        "link": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Barcelona vs Real Madrid – El Clasico La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/10/live-barcelona-vs-real-madrid-el-clasico-la-liga?traffic_source=rss"
-      },
-      {
-        "title": "Russia kills three Ukrainians in 24 hours, accuses Kyiv of violating truce",
-        "link": "https://www.aljazeera.com/news/2026/5/10/russia-kills-three-ukrainians-in-24-hours-accuses-kyiv-of-violating-truce?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran offers to move uranium abroad but rejects dismantling nuclear sites: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-offers-move-uranium-abroad-rejects-dismantling-nuclear-sites-report"
+      },
+      {
+        "title": "Saudi Arabia condemns Gulf attacks, urges protection of Hormuz shipping",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-gulf-attacks-urges-protection-hormuz-shipping"
+      },
+      {
         "title": "Trump accuses Iran of 'playing games' after ceasefire response",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-accuses-iran-playing-games-after-ceasefire-response"
       },
@@ -131,17 +133,13 @@
       {
         "title": "Hezbollah claims multiple attacks on Israeli forces in south Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-multiple-attacks-israeli-forces-south-lebanon"
-      },
-      {
-        "title": "Macron says France 'never considered' Hormuz deployment, backs Iran coordination",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-says-france-never-considered-hormuz-deployment-backs-iran"
-      },
-      {
-        "title": "Israel orders evacuation of villages in south Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-orders-evacuation-villages-south-lebanon"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Justin Timberlake pays Mother's Day tribute to \"greatest women\" in life",
+        "link": "https://www.geo.tv/latest/663771-justin-timberlake-pays-mothers-day-tribute-to-greatest-women-in-life"
+      },
       {
         "title": "Princess Kate shares emotional message on ‘complex motherhood' for Mother's Day",
         "link": "https://www.geo.tv/latest/663765-princess-kate-shares-emotional-message-on-complex-motherhood-for-mothers-day"
@@ -157,10 +155,6 @@
       {
         "title": "China, US to hold trade talks in Seoul ahead of Trump-Xi summit",
         "link": "https://www.geo.tv/latest/663764-china-us-to-hold-trade-talks-in-seoul-ahead-of-trump-xi-summit"
-      },
-      {
-        "title": "Indian PM Modi urges citizens to conserve fuel amid Middle East war disruption",
-        "link": "https://www.geo.tv/latest/663762-indian-pm-modi-urges-reduced-fuel-use-amid-middle-east-war-disruption"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-10 19:21 UTC"
+  "last_updated": "2026-05-10 20:07 UTC"
 }
