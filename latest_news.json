@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Manchester City vs Crystal Palace – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/13/live-manchester-city-vs-crystal-palace-premier-league-football?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,42 +13,42 @@
         "link": "https://www.bbc.com/news/articles/c1j2nr8kgk3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Bodies of three women recovered from sea off Brighton",
+        "title": "Watch: What next after the King's Speech?",
+        "link": "https://www.bbc.com/news/videos/crepv72x5xqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bodies of three young women pulled from sea off Brighton",
         "link": "https://www.bbc.com/news/articles/c0e29n94ze4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Standards watchdog launches probe into £5m Farage gift",
+        "title": "Farage faces standards probe into £5m gift from crypto billionaire",
         "link": "https://www.bbc.com/news/articles/c0l26g01703o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
-        "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
-        "link": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss"
+        "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+        "link": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Is the Pentagon’s UFO dump a political distraction?",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/5/13/aje-onl-tt_usa_ufos_full_v2-120526?traffic_source=rss"
+      },
+      {
+        "title": "India’s salt workers brave brutal heat on Gujarat’s desert plains",
+        "link": "https://www.aljazeera.com/gallery/2026/5/13/indias-salt-workers-endure-brutal-heat-in-gujarats-remote-desert?traffic_source=rss"
+      },
+      {
+        "title": "Reform UK leader Farage faces parliamentary probe over nearly $7m gift",
+        "link": "https://www.aljazeera.com/news/2026/5/13/reform-uk-leader-farage-faces-parliamentary-investigation-over-7m-gift?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Manchester City vs Crystal Palace – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/13/live-manchester-city-vs-crystal-palace-premier-league-football?traffic_source=rss"
+      },
+      {
         "title": "France confines over 1,700 passengers on cruise ship over gastroenteritis",
         "link": "https://www.aljazeera.com/news/2026/5/13/cruise-ship-passengers-barred-from-disembraking-amid-illness-outbreak?traffic_source=rss"
-      },
-      {
-        "title": "Trump arrives in China for two-day summit with Xi",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/trump-arrives-in-china-for-two-day-summit-with-xi?traffic_source=rss"
-      },
-      {
-        "title": "12 killed by a series of Israeli strikes on cars in Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "What Trump and Xi want from China visit",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss"
-      },
-      {
-        "title": "‘Most powerful’: What’s the Sarmat missile Russia has test-launched?",
-        "link": "https://www.aljazeera.com/news/2026/5/13/most-powerful-whats-the-sarmat-missile-russia-has-test-launched?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,35 +80,31 @@
         "link": "https://www.dawn.com/news/1999895/trump-arrives-in-beijing-for-high-stakes-meeting-with-chinese-president-xi"
       },
       {
-        "title": "PM Shehbaz to undertake official three-day China visit: DPM Dar",
-        "link": "https://www.dawn.com/news/1999931/pm-shehbaz-to-undertake-official-three-day-china-visit-dpm-dar"
+        "title": "IHC rules high courts can assume jurisdiction in cases of promotion assessments",
+        "link": "https://www.dawn.com/news/1999971/ihc0513"
       },
       {
         "title": "Cambridge confirms leak of AS-level Mathematics paper, postpones upcoming exam as 'precautionary step'",
         "link": "https://www.dawn.com/news/1999962/cambridge-confirms-leak-of-as-level-mathematics-paper-postpones-upcoming-exam-as-precautionary-step"
       },
       {
-        "title": "Flydubai suspends flights to Islamabad, Lahore, Peshawar till Oct due to 'operational issues'",
-        "link": "https://www.dawn.com/news/1999930/flydubai-suspends-flights-to-islamabad-lahore-peshawar-till-oct-due-to-operational-issues"
+        "title": "PM Shehbaz to undertake official three-day China visit: DPM Dar",
+        "link": "https://www.dawn.com/news/1999931/pm-shehbaz-to-undertake-official-three-day-china-visit-dpm-dar"
       },
       {
-        "title": "Punjab CM Office denies RTI requests seeking details of Maryam's tours and vehicles, luxury jet acquired by govt",
-        "link": "https://www.dawn.com/news/1999927/punjab-cm-office-denies-rti-requests-seeking-details-of-maryams-tours-and-vehicles-luxury-jet-acquired-by-govt"
+        "title": "Flydubai suspends flights to Islamabad, Lahore, Peshawar till Oct due to 'operational issues'",
+        "link": "https://www.dawn.com/news/1999930/flydubai-suspends-flights-to-islamabad-lahore-peshawar-till-oct-due-to-operational-issues"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump’s Shrinking Ambitions on China",
-        "link": "https://www.nytimes.com/2026/05/13/us/politics/trump-china-trade-us.html"
+        "title": "For Trump, the Iran War Looms Over China Summit",
+        "link": "https://www.nytimes.com/2026/05/13/us/politics/trump-iran-war-china.html"
       },
       {
-        "title": "The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors",
-        "link": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html"
-      },
-      {
-        "title": "U.S. Intelligence Undercuts Trump’s War Claims, and the Cost of ‘Alligator Alcatraz’",
-        "link": "https://www.nytimes.com/2026/05/13/podcasts/the-headlines/iran-missiles-alligator-alcatraz.html"
+        "title": "Why the Bombing of Iran Tied the U.S. More Closely to China",
+        "link": "https://www.nytimes.com/2026/05/13/business/economy/iran-war-trump-china-us.html"
       },
       {
         "title": "U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities",
@@ -111,72 +113,76 @@
       {
         "title": "Trump Is in China as Iran War Continues With No End in Sight",
         "link": "https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html"
+      },
+      {
+        "title": "Trump and Xi: Beneath the Pomp and Niceties, a Geopolitical Rivalry",
+        "link": "https://www.nytimes.com/2026/05/13/us/politics/trump-xi-rivalry.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Watermelons and Handala: Germany outlines symbols of 'secular pro-Palestinian extremism'",
-        "link": "https://www.middleeasteye.net/news/german-intelligence-publishes-dossier-secular-pro-palestinian-extremism"
+        "title": "Netanyahu made ‘secret visit’ to the UAE during war with Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-made-secret-visit-uae-during-war-iran"
       },
       {
-        "title": "Trump-backed envoy says Gaza ceasefire 'far from perfect' but working",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-backed-envoy-says-gaza-ceasefire-far-perfect-working"
+        "title": "Over 10,000 homes destroyed or damaged since ceasefire, Lebanon says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-10000-homes-destroyed-or-damaged-ceasefire-lebanon-says"
       },
       {
-        "title": "'Europe must become more Jewish' says owner of Telegraph and Politico",
-        "link": "https://www.middleeasteye.net/news/im-goy-europe-must-become-more-jewish-says-telegraph-and-politico-owner"
+        "title": "Iran's foreign minister demands immediate release of four Iranians detained in Kuwait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-demands-immediate-release-four-iranians-detained"
       },
       {
-        "title": "Nearly 600 killed in Lebanon since so-called ceasefire began, says NRC",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nearly-600-killed-lebanon-so-called-ceasefire-began-says-nrc"
+        "title": "1953: The CIA led coup that still shapes Iran | Turning Point",
+        "link": "https://www.middleeasteye.net/video/1953-cia-led-coup-still-shapes-iran-turning-point"
       },
       {
-        "title": "Through Nakba, exile and genocide, my aunt Fatima never lost faith",
-        "link": "https://www.middleeasteye.net/opinion/through-nakba-exile-and-genocide-my-aunt-fatima-never-lost-faith"
+        "title": "Israeli attack wounds Palestinians in northern Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-wounded-israeli-attack-northern-gaza"
       }
     ],
     "GeoTV": [
       {
-        "title": "Palace makes bombshell move to ensure King Charles safety",
-        "link": "https://www.geo.tv/latest/664251-palace-makes-bombshell-move-to-ensure-king-charles-safety"
+        "title": "Travis Kelce spills the tea on recent London trip with Taylor Swift",
+        "link": "https://www.geo.tv/latest/664248-travis-kelce-spills-the-tea-on-recent-london-trip-with-taylor-swift"
       },
       {
-        "title": "Alex Murdaugh murder conviction reversed: Here's what he was accused of",
-        "link": "https://www.geo.tv/latest/664256-alex-murdaugh-murder-conviction-reversed-heres-what-he-was-accused-of"
+        "title": "Philippine Senate under lockdown after gunfire as ICC-linked senator takes refuge",
+        "link": "https://www.geo.tv/latest/664263-philippine-senate-under-lockdown-after-gunfire-as-icc-linked-senator-takes-refuge"
       },
       {
-        "title": "Gunshots fired in standoff at Philippine Senate over ICC suspect",
-        "link": "https://www.geo.tv/latest/664252-gunshots-fired-in-standoff-at-philippine-senate-over-icc-suspect"
+        "title": "Kate Middleton rebuilds royal family's image with messge of hope, strength",
+        "link": "https://www.geo.tv/latest/664259-kate-middleton-rebuilds-royal-familys-image-with-messge-of-hope-strength"
       },
       {
-        "title": "Travis Kelce bonds over being 'less famous' partner with Colin Jost",
-        "link": "https://www.geo.tv/latest/664227-travis-kelce-bonds-over"
+        "title": "Who's ICE's new acting head? Everything to know about ruthless bureaucrat critics call dangerous",
+        "link": "https://www.geo.tv/latest/664262-whos-ices-new-acting-head-everything-to-know-about-ruthless-bureaucrat-critics-call-dangerous"
       },
       {
-        "title": "GTA 6 £100 price tag splits gamers: only 40% say fair—find out why rest said no",
-        "link": "https://www.geo.tv/latest/664238-gta-6-100-price-tag-splits-gamers-only-40-say-fairwhy-rest-said-no"
+        "title": "President Zardari confers civil awards on recipients from various fields",
+        "link": "https://www.geo.tv/latest/664258-president-zardari-confers-civil-awards-on-recipients-from-various-fields"
       }
     ],
     "NDTV": [
       {
-        "title": "Amid NEET Row, Vijay Says \"Abolish\" Exam, Admit Students With Class 12 Marks",
-        "link": "https://www.ndtv.com/india-news/amid-neet-row-vijay-says-abolish-exam-admit-students-with-class-12-marks-11490734#publisher=newsstand"
+        "title": "Atishi Clarifies Arvind Kejriwal's 'Gen Z' Remark: 'Not Suggesting Violence'",
+        "link": "https://www.ndtv.com/india-news/atishi-clarifies-arvind-kejriwals-gen-z-remark-not-suggesting-violence-11491331#publisher=newsstand"
       },
       {
-        "title": "Prateek Yadav Had 6 Injuries Before Death, Clot In Lung Killed Him: Autopsy",
-        "link": "https://www.ndtv.com/india-news/prateek-yadav-had-6-injuries-before-death-clot-in-lung-killed-him-autopsy-11490184#publisher=newsstand"
+        "title": "'Costly For Government, Right For Student': Sources On Cancelling NEET Exam",
+        "link": "https://www.ndtv.com/education/costly-for-government-right-for-student-sources-on-cancelling-neet-exam-11491294#publisher=newsstand"
       },
       {
-        "title": "Parts Of Delhi See Light Rain, Orange Alert Issued For Thunderstorms, Hail",
-        "link": "https://www.ndtv.com/india-news/parts-of-delhi-see-light-rain-orange-alert-issued-for-thunderstorms-hail-11490571#publisher=newsstand"
+        "title": "Karnataka Revokes 2022 Order, Allows Hijab, Sacred Thread In Schools",
+        "link": "https://www.ndtv.com/india-news/karnataka-hijab-karnataka-revokes-2022-order-allows-hijab-sacred-thread-in-schools-11490857#publisher=newsstand"
       },
       {
-        "title": "'Don't Have Control Over Our Enriched Uranium': Iran Minister",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-live-dont-have-control-over-our-enriched-uranium-iran-minister-to-ndtv-11490594#publisher=newsstand"
+        "title": "Several Flights Diverted As Rain, Hail Hit Delhi-NCR",
+        "link": "https://www.ndtv.com/india-news/several-flights-diverted-as-rain-hail-hit-delhi-ncr-11491009#publisher=newsstand"
       },
       {
-        "title": "Mumbai Airport Strengthens Green Push With Top Recognition",
-        "link": "https://www.ndtv.com/india-news/mumbai-airport-strengthens-green-push-with-top-recognition-11490653#publisher=newsstand"
+        "title": "India's Fuel Map Explained: Who Burns More Per Person?",
+        "link": "https://www.ndtv.com/india-news/indias-fuel-map-explained-who-burns-more-per-person-11491022#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-13 15:19 UTC"
+  "last_updated": "2026-05-13 17:29 UTC"
 }
