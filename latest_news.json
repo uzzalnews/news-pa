@@ -3,8 +3,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Starmer to meet Streeting on Wednesday as leadership crisis divides Labour",
+        "title": "Starmer to meet Streeting as leadership crisis divides Labour",
         "link": "https://www.bbc.com/news/articles/cx21jkmxd42o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Starmer prepares for King's Speech as he faces leadership crisis",
+        "link": "https://www.bbc.com/news/articles/c4gvd81681qo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "The potential challengers to Keir Starmer",
@@ -17,13 +21,17 @@
       {
         "title": "All the Labour MPs who have come out against Starmer, and the ones who want him to stay",
         "link": "https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Read all the ministers' resignation letters in full",
-        "link": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Chinese firm unveils ‘transformer’ style manned robot",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/chinese-firm-unveils-transformer-style-manned-robot?traffic_source=rss"
+      },
+      {
+        "title": "Honduras mayor arrested for masterminding environmentalist’s killing",
+        "link": "https://www.aljazeera.com/news/2026/5/12/honduras-mayor-arrested-for-masterminding-environmentalists-killing?traffic_source=rss"
+      },
       {
         "title": "Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial",
         "link": "https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
         "link": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss"
-      },
-      {
-        "title": "US court pauses decision blocking Trump’s 10 percent global tariff",
-        "link": "https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff?traffic_source=rss"
-      },
-      {
-        "title": "Cannes juror denounces Hollywood boycott of actors for Gaza war views",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -109,33 +109,45 @@
         "link": "https://www.nytimes.com/2026/05/12/us/politics/hegseth-trump-china-xi.html"
       },
       {
-        "title": "Reflecting Pool Repairs Appear Uneven and Behind Schedule, Officials Say",
-        "link": "https://www.nytimes.com/2026/05/12/us/politics/lincoln-memorial-pool-repairs.html"
+        "title": "Marty Makary, Trump’s F.D.A. Commissioner, Resigns After Weeks of Pressure",
+        "link": "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli drone strike kills Palestinian in central Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-palestinian-central-gaza"
+        "title": "Senate Democrats seek seventh vote to curb Trump's war powers",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/senate-democrats-seek-seventh-vote-curb-trump-war-powers"
       },
       {
-        "title": "US heading for ‘checkmate’ and ‘total defeat’ in Iran war, says neocon Robert Kagan",
-        "link": "https://www.middleeasteye.net/news/us-heading-checkmate-and-total-defeat-iran-war-says-neocon-robert-kagan"
+        "title": "Yemen says Iran using cross-border militias for blackmail, exporting chaos",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-says-iran-using-cross-border-militias-blackmail-exporting-chaos"
       },
       {
-        "title": "Gulf investments and economic interests motivate Beijing to help Trump end war",
-        "link": "https://www.middleeasteye.net/news/gulf-investments-and-economic-motivate-beijing-help-trump-end-war"
+        "title": "Norway and Iran discuss latest round of negotiations in Tehran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/norway-and-iran-discuss-latest-round-negotiations-tehran"
       },
       {
-        "title": "'Make a choice': Huckabee warns Gulf to choose between Iran and Israel",
-        "link": "https://www.middleeasteye.net/news/huckabee-warns-gulf-choose-between-iran-and-israel"
+        "title": "Saudi Arabia and UAE coordinate on regional security efforts",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-and-uae-coordinate-regional-security-efforts"
       },
       {
-        "title": "Iran says ceasefire terms meet minimum standards for lasting peace",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-ceasefire-terms-meet-minimum-standards-lasting-peace"
+        "title": "Hezbollah says it repelled Israeli advance near Wadi al-Ain",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-repelled-israeli-advance-near-wadi-al-ain"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Kim Kardashian faces legal trouble by ‘innocent' man",
+        "link": "https://www.geo.tv/latest/664122-kim-kardashian-faces-legal-trouble-by-innocent-man"
+      },
+      {
+        "title": "Blake Lively faces shocking allegations from interview reporter",
+        "link": "https://www.geo.tv/latest/664118-blake-lively-faces-shocking-allegations-from-interview-reporter"
+      },
+      {
+        "title": "Messi remains MLS's highest-paid player with $25m salary",
+        "link": "https://www.geo.tv/latest/664121-messi-remains-mlss-highest-paid-player-with-25m-salary"
+      },
       {
         "title": "Trump health update: President to undergo medical examination amid serious concerns",
         "link": "https://www.geo.tv/latest/664119-trump-health-update-president-to-undergo-medical-examination-amid-serious-concerns"
@@ -143,18 +155,6 @@
       {
         "title": "Katy Perry reacts to ex Josh Groban and Natalie McQueen's engagement",
         "link": "https://www.geo.tv/latest/664116-katy-perry-reacts-to-ex-josh-groban-and-natalie-mcqueens-engagement"
-      },
-      {
-        "title": "Disney+ makes ‘Avatar: Fire and Ash' release date public",
-        "link": "https://www.geo.tv/latest/664110-disney-makes-avatar-fire-and-ash-release-date-public"
-      },
-      {
-        "title": "Trump departs for China: What to expect from high-stakes diplomatic visit?",
-        "link": "https://www.geo.tv/latest/664115-trump-departs-for-china-what-to-expect-from-high-stakes-diplomatic-visit"
-      },
-      {
-        "title": "FDA Commissioner Marty Makary out after vape policy clashes",
-        "link": "https://www.geo.tv/latest/664114-fda-commissioner-marty-makary-out-after-vape-policy-clashes"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-12 23:17 UTC"
+  "last_updated": "2026-05-13 00:15 UTC"
 }
