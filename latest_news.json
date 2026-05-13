@@ -1,13 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Markets Set To Open Flat Amid Negative Global Cues, Rupee Gains",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-pm-modi-austerity-gold-import-today-13-may-donald-trump-us-iran-war-oil-prices-11487171#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Prateek Yadav Death News LIVE: Prateek Yadav, Mulayam Singh Yadav's Son, Dies At 38",
+      "link": "https://www.ndtv.com/india-news/prateek-yadav-death-news-updates-prateek-yadav-son-of-mulayam-singh-yadav-stepbrother-of-samajwadi-party-chief-akhilesh-yadav-aparna-yadav-dies-at-38-11487000#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Starmer to meet Streeting as leadership crisis divides Labour",
-        "link": "https://www.bbc.com/news/articles/cx21jkmxd42o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Starmer prepares for King's Speech as he faces leadership crisis",
+        "title": "PM prepares for King's Speech as he faces leadership crisis",
         "link": "https://www.bbc.com/news/articles/c4gvd81681qo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -21,28 +28,32 @@
       {
         "title": "All the Labour MPs who have come out against Starmer, and the ones who want him to stay",
         "link": "https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Read all the ministers' resignation letters in full",
+        "link": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Chinese firm unveils ‘transformer’ style manned robot",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/12/chinese-firm-unveils-transformer-style-manned-robot?traffic_source=rss"
+        "title": "‘It’s a failed nation’: Trump pressures Cuba as fuel crisis deepens",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/its-a-failed-nation-trump-pressures-cuba-as-fuel-crisis-deepens?traffic_source=rss"
       },
       {
-        "title": "Honduras mayor arrested for masterminding environmentalist’s killing",
-        "link": "https://www.aljazeera.com/news/2026/5/12/honduras-mayor-arrested-for-masterminding-environmentalists-killing?traffic_source=rss"
+        "title": "Argentines protest against Milei’s defunding of public universities",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/argentines-protest-against-mileis-defunding-of-public-universities?traffic_source=rss"
       },
       {
-        "title": "Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial",
-        "link": "https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss"
+        "title": "FBI Director Kash Patel fires back at drinking allegations",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/aje-onl-nf_clip_fbi-director-patel-fires-back-at-allegations-120526?traffic_source=rss"
       },
       {
-        "title": "Basketball star Brandon Clarke, Memphis Grizzlies forward, dies at age 29",
-        "link": "https://www.aljazeera.com/sports/2026/5/12/basketball-star-brandon-clarke-memphis-grizzlies-forward-dies-at-age-29?traffic_source=rss"
+        "title": "Peru presidential candidate Roberto Sanchez charged with financial crimes",
+        "link": "https://www.aljazeera.com/news/2026/5/13/peru-presidential-candidate-roberto-sanchez-charged-with-financial-crimes?traffic_source=rss"
       },
       {
-        "title": "Trump downplays US-Iran differences as he heads to Beijing to meet with Xi",
-        "link": "https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss"
+        "title": "Starmer at risk because he pushed Labour to be ‘new Conservative Party’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/starmer-at-risk-because-he-pushed-labour-to-be-new-conservative?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +81,24 @@
     ],
     "Dawn": [
       {
-        "title": "Despite improved macroeconomic stability in first half of FY26, war in Middle East poses significant risks to outlook: SBP",
-        "link": "https://www.dawn.com/news/1999677/despite-improved-macroeconomic-stability-in-first-half-of-fy26-war-in-middle-east-poses-significant-risks-to-outlook-sbp"
+        "title": "Fuel levy yields lowest fiscal deficit in nearly three decades",
+        "link": "https://www.dawn.com/news/1999803/fuel-levy-yields-lowest-fiscal-deficit-in-nearly-three-decades"
       },
       {
-        "title": "PM Shehbaz, Azerbaijan's President Aliyev discuss peace efforts in Mideast: PMO",
-        "link": "https://www.dawn.com/news/1999715/pm-shehbaz-azerbaijans-president-aliyev-discuss-peace-efforts-in-mideast-pmo"
+        "title": "Iran war costs soar past $29bn as truce teeters",
+        "link": "https://www.dawn.com/news/1999806/iran-war-costs-soar-past-29bn-as-truce-teeters"
       },
       {
-        "title": "Treasury, opposition clash in Senate as JUI-F senator questions terrorism in KP",
-        "link": "https://www.dawn.com/news/1999725/treasury-opposition-clash-in-senate-as-jui-f-senator-questions-terrorism-in-kp"
+        "title": "Man who averted suicide attack nominated for ‘highest civil award’",
+        "link": "https://www.dawn.com/news/1999798/man-who-averted-suicide-attack-nominated-for-highest-civil-award"
       },
       {
-        "title": "Karachi police arrest 'most wanted' cocaine queenpin",
-        "link": "https://www.dawn.com/news/1999686/karachi-police-arrest-most-wanted-cocaine-queenpin"
+        "title": "Full Epstein files put on display in New York",
+        "link": "https://www.dawn.com/news/1999788/full-epstein-files-put-on-display-in-new-york"
       },
       {
-        "title": "PMDC says medical students must qualify for MDCAT, obtain registration before going abroad",
-        "link": "https://www.dawn.com/news/1999709/pmdc-says-medical-students-must-qualify-for-mdcat-obtain-registration-before-going-abroad"
+        "title": "Minister asks IBCC to contact Cambridge over fresh paper leak claims",
+        "link": "https://www.dawn.com/news/1999857/minister-asks-ibcc-to-contact-cambridge-over-fresh-paper-leak-claims"
       }
     ],
     "APNews": [],
@@ -97,89 +108,93 @@
         "link": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html"
       },
       {
+        "title": "Battle Over the Strait of Hormuz Leaves Safe Passage a Gamble",
+        "link": "https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html"
+      },
+      {
         "title": "Inflation Accelerates as Iran War Drives Up Energy Costs",
         "link": "https://www.nytimes.com/2026/05/12/briefing/iran-war-costs-inflation.html"
       },
       {
-        "title": "Trump and Xi Enter China Summit Distracted by Iran War",
-        "link": "https://www.nytimes.com/2026/05/12/us/politics/trump-xi-summit.html"
+        "title": "Trump’s Shrinking Ambitions on China",
+        "link": "https://www.nytimes.com/2026/05/13/us/politics/trumps-shrinking-ambitions-on-china.html"
       },
       {
-        "title": "Hegseth to Accompany Trump on Trip to China",
-        "link": "https://www.nytimes.com/2026/05/12/us/politics/hegseth-trump-china-xi.html"
-      },
-      {
-        "title": "Marty Makary, Trump’s F.D.A. Commissioner, Resigns After Weeks of Pressure",
-        "link": "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html"
+        "title": "The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors",
+        "link": "https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Senate Democrats seek seventh vote to curb Trump's war powers",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/senate-democrats-seek-seventh-vote-curb-trump-war-powers"
+        "title": "China urges Pakistan to intensify Iran-US mediation efforts",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-urges-pakistan-intensify-iran-us-mediation-efforts-0"
       },
       {
-        "title": "Yemen says Iran using cross-border militias for blackmail, exporting chaos",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-says-iran-using-cross-border-militias-blackmail-exporting-chaos"
+        "title": "China urges Pakistan to intensify Iran-US mediation efforts",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-urges-pakistan-intensify-iran-us-mediation-efforts"
       },
       {
-        "title": "Norway and Iran discuss latest round of negotiations in Tehran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/norway-and-iran-discuss-latest-round-negotiations-tehran"
+        "title": "US offers $15m reward over information on Iran-linked oil transfers",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-offers-15m-reward-over-information-iran-linked-oil-transfers"
       },
       {
-        "title": "Saudi Arabia and UAE coordinate on regional security efforts",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-and-uae-coordinate-regional-security-efforts"
+        "title": "Oil prices fall as markets watch Iran ceasefire and China talks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-fall-markets-watch-iran-ceasefire-and-china-talks"
       },
       {
-        "title": "Hezbollah says it repelled Israeli advance near Wadi al-Ain",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-repelled-israeli-advance-near-wadi-al-ain"
+        "title": "Abu Dhabi sanctions 21 people and groups over Hezbollah links, state media reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/abu-dhabi-sanctions-21-people-and-groups-over-hezbollah-links-state"
       }
     ],
     "GeoTV": [
       {
+        "title": "James Van Der Beek's widow makes painful admission 3 months after his death",
+        "link": "https://www.geo.tv/latest/664128-james-van-der-beeks-widow-makes-painful-admission-3-months-after-his-death"
+      },
+      {
+        "title": "Conan O'Brien hat tricks as Oscar host",
+        "link": "https://www.geo.tv/latest/664127-conan-obrien-hat-tricks-as-oscar-host"
+      },
+      {
+        "title": "Will LeBron James retire after current season?",
+        "link": "https://www.geo.tv/latest/664125-will-lebron-james-retire-after-current-season"
+      },
+      {
+        "title": "South Korea reviews phased support for Strait of Hormuz security efforts",
+        "link": "https://www.geo.tv/latest/664126-south-korea-reviews-phased-support-for-strait-of-hormuz-security-efforts"
+      },
+      {
         "title": "Kim Kardashian faces legal trouble by ‘innocent' man",
         "link": "https://www.geo.tv/latest/664122-kim-kardashian-faces-legal-trouble-by-innocent-man"
-      },
-      {
-        "title": "Blake Lively faces shocking allegations from interview reporter",
-        "link": "https://www.geo.tv/latest/664118-blake-lively-faces-shocking-allegations-from-interview-reporter"
-      },
-      {
-        "title": "Messi remains MLS's highest-paid player with $25m salary",
-        "link": "https://www.geo.tv/latest/664121-messi-remains-mlss-highest-paid-player-with-25m-salary"
-      },
-      {
-        "title": "Trump health update: President to undergo medical examination amid serious concerns",
-        "link": "https://www.geo.tv/latest/664119-trump-health-update-president-to-undergo-medical-examination-amid-serious-concerns"
-      },
-      {
-        "title": "Katy Perry reacts to ex Josh Groban and Natalie McQueen's engagement",
-        "link": "https://www.geo.tv/latest/664116-katy-perry-reacts-to-ex-josh-groban-and-natalie-mcqueens-engagement"
       }
     ],
     "NDTV": [
       {
-        "title": "At Tech Trial, Sam Altman Says Elon Musk Wanted 90% Stake In OpenAI",
-        "link": "https://www.ndtv.com/world-news/at-tech-trial-sam-altman-says-elon-musk-wanted-90-stake-in-openai-11486712#publisher=newsstand"
+        "title": "PM Modi Orders Cut In Convoy Size, Calls For More EVs In Austerity Push",
+        "link": "https://www.ndtv.com/india-news/pm-modi-orders-cut-in-convoy-size-calls-for-more-evs-in-austerity-push-11487076#publisher=newsstand"
       },
       {
-        "title": "13 Killed In Israeli Strikes In Lebanon",
-        "link": "https://www.ndtv.com/world-news/13-killed-in-israeli-strikes-in-lebanon-11486650#publisher=newsstand"
+        "title": "Who Was Prateek Yadav? Mulayam Singh Yadav's 38-Year-Old Apolitical Son",
+        "link": "https://www.ndtv.com/india-news/prateek-yadav-death-news-all-about-prateek-yadav-mulayam-singh-yadavs-son-fitness-enthusiast-11487101#publisher=newsstand"
       },
       {
-        "title": "Tamil Nadu Government Formation Highlights: Vijay Meets Allies To Rally Support As Row Erupts Over Astrologer's Appointment",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-government-formation-live-updates-aiadmks-cv-shanmugam-faction-announces-support-to-vijays-tvk-tamil-nadu-new-cm-vijay-11481944#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Markets Set To Open Flat Amid Negative Global Cues, Rupee Gains",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-pm-modi-austerity-gold-import-today-13-may-donald-trump-us-iran-war-oil-prices-11487171#publisher=newsstand"
       },
       {
-        "title": "Meta US Employees Organise Protest Against Mouse Tracking Tech",
-        "link": "https://www.ndtv.com/world-news/meta-us-employees-organise-protest-against-mouse-tracking-tech-11486564#publisher=newsstand"
+        "title": "Prateek Yadav Death News LIVE: Prateek Yadav, Mulayam Singh Yadav's Son, Dies At 38",
+        "link": "https://www.ndtv.com/india-news/prateek-yadav-death-news-updates-prateek-yadav-son-of-mulayam-singh-yadav-stepbrother-of-samajwadi-party-chief-akhilesh-yadav-aparna-yadav-dies-at-38-11487000#publisher=newsstand"
       },
       {
-        "title": "Exclusive: Satellite Images Confirm Pak May Be Shielding Iran's Military Aircraft",
-        "link": "https://www.ndtv.com/world-news/exclusive-satellite-images-confirm-pakistan-may-be-shielding-irans-military-aircraft-11486514#publisher=newsstand"
+        "title": "Mulayam Singh Yadav's Younger Son, Prateek Yadav, Dies At 38",
+        "link": "https://www.ndtv.com/india-news/mulayam-singh-yadavs-younger-son-prateek-yadav-dies-at-38-11486976#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
+        "link": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights"
+      },
       {
         "title": "Internal displacements caused by violence or conflict at record high in 2025",
         "link": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025"
@@ -195,12 +210,8 @@
       {
         "title": "Body of missing US soldier recovered off coast of Morocco",
         "link": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco"
-      },
-      {
-        "title": "‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere",
-        "link": "https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media"
       }
     ]
   },
-  "last_updated": "2026-05-13 00:15 UTC"
+  "last_updated": "2026-05-13 04:15 UTC"
 }
