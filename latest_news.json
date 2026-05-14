@@ -3,7 +3,7 @@
   "news": {
     "BBC": [
       {
-        "title": "Four key excerpts from Streeting's resignation letter",
+        "title": "Key excerpts from Streeting's resignation letter as he quits as health secretary",
         "link": "https://www.bbc.com/news/articles/c626wvqy1yzo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
-        "link": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss"
+        "title": "Mbappe and Dembele head up star-studded France World Cup squad",
+        "link": "https://www.aljazeera.com/sports/2026/5/14/mbappe-and-dembele-head-up-star-studded-france-world-cup-squad?traffic_source=rss"
       },
       {
-        "title": "The Palestinian game fighting to exist",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/the-palestinian-game-fighting-to-exist?traffic_source=rss"
+        "title": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss"
       },
       {
-        "title": "Iran urges BRICS nations to condemn US-Israeli war aggression",
-        "link": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss"
+        "title": "US Air Force rescues 11 after plane crashes into waters off Florida coast",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss"
       },
       {
-        "title": "Iraq’s parliament approves new Ali al-Zaidi government",
-        "link": "https://www.aljazeera.com/news/2026/5/14/iraqs-parliament-approves-new-ali-al-zaidi-government?traffic_source=rss"
+        "title": "What does the US hope to achieve from Lebanon-Israel talks?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss"
       },
       {
-        "title": "‘Absolutely no fuel’: Cuba hit by blackouts, protests amid power outages",
-        "link": "https://www.aljazeera.com/news/2026/5/14/absolutely-no-fuel-cuba-hit-by-blackouts-protests-amid-power-outages?traffic_source=rss"
+        "title": "Iran expands tiered internet access amid continued online blackout",
+        "link": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +74,10 @@
         "link": "https://www.dawn.com/news/2000249/pakistan-raises-250m-equivalent-in-inaugural-panda-bond-issuance"
       },
       {
+        "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
+        "link": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal"
+      },
+      {
         "title": "Pakistan-UAE ties unaffected by external engagements, says FO",
         "link": "https://www.dawn.com/news/2000199/pakistan-uae-ties-unaffected-by-external-engagements-says-fo"
       },
@@ -84,14 +88,18 @@
       {
         "title": "Trump hails Xi talks at grand Beijing banquet attended by leaders, CEOs",
         "link": "https://www.dawn.com/news/2000073/trump-hails-xi-talks-at-grand-beijing-banquet-attended-by-leaders-ceos"
-      },
-      {
-        "title": "Iran and UAE clash at Brics foreign ministers' meeting",
-        "link": "https://www.dawn.com/news/2000224/iran-and-uae-clash-at-brics-foreign-ministers-meeting"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Saudi Arabia and U.A.E. Carried Out Secret Attacks in Iran, U.S. Officials Say",
+        "link": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html"
+      },
+      {
+        "title": "In Qatar, Energy Sector Damage Is Severe, and the Way Back Will Be Long",
+        "link": "https://www.nytimes.com/2026/05/14/business/qatar-lng-iran.html"
+      },
       {
         "title": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes",
         "link": "https://www.nytimes.com/2026/05/14/us/politics/china-us-sanctions-ai-cybersecurity.html"
@@ -101,85 +109,81 @@
         "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html"
       },
       {
-        "title": "Trump Might Welcome Chinese Investment, but America Is Wary",
-        "link": "https://www.nytimes.com/2026/05/14/business/trump-china-xi-investment.html"
-      },
-      {
-        "title": "Inside Jack Schlossberg’s Chaotic Campaign to Revive Camelot",
-        "link": "https://www.nytimes.com/2026/05/14/nyregion/jack-schlossberg-campaign.html"
-      },
-      {
-        "title": "Strategist Tied to Becerra and Newsom Pleads Guilty in Corruption Case",
-        "link": "https://www.nytimes.com/2026/05/14/us/becerra-newsom-strategist-plea-california-governor-race.html"
+        "title": "The Body Language of the Trump-Xi Summit Mirrored Their Styles",
+        "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Hezbollah: Israel-Lebanon talks are ‘free concessions’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-israel-lebanon-talks-are-free-concessions"
+        "title": "Israeli army fires at towns in southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-fires-towns-southern-lebanon"
       },
       {
-        "title": "Israelis chant ‘Death to Arabs’ during Jerusalem ‘Flag March’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israelis-chant-death-arabs-during-jerusalem-flag-march"
+        "title": "New Iraq PM pledges monopoly on arms",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/new-iraq-pm-pledges-monopoly-arms"
       },
       {
-        "title": "Palestinian President Abbas re-elected to lead Fatah movement",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-president-abbas-re-elected-lead-fatah-movement"
+        "title": "Hezbollah says it targeted Israeli troops in northern Israel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-targeted-israeli-troops-northern-israel"
       },
       {
-        "title": "Saudi Arabia floats non-aggression pact with Iran and regional states: Report",
-        "link": "https://www.middleeasteye.net/news/saudi-arabia-floats-non-aggression-pact-iran-and-regional-states-report"
+        "title": "IMF warns of 'worst-case scenario' economic impact from Iran war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/imf-warns-worst-case-scenario-economic-impact-iran-war"
       },
       {
-        "title": "UAE an ‘active partner’ in US-Israeli war, says Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-active-partner-us-israeli-war-says-iran"
+        "title": "Four killed in Israeli strikes on northern Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-killed-israeli-strikes-northern-gaza"
       }
     ],
     "GeoTV": [
       {
-        "title": "Trump says China will order 200 Boeing jets",
-        "link": "https://www.geo.tv/latest/664459-trump-says-china-will-order-200-boeing-jets"
+        "title": "IMF says lower US-China tensions positive for global economy",
+        "link": "https://www.geo.tv/latest/664475-imf-says-lower-us-china-tensions-positive-for-global-economy"
       },
       {
-        "title": "‘The Boys' suffers rare ratings disaster with Season 5 Episode 7",
-        "link": "https://www.geo.tv/latest/664464-the-boys-suffers-rare-ratings-disaster-with-season-5-episode-7"
+        "title": "Putin granted sweeping new powers to deploy troops abroad amid Ukraine War",
+        "link": "https://www.geo.tv/latest/664474-putin-granted-sweeping-new-powers-to-deploy-troops-abroad-amid-ukraine-war"
       },
       {
-        "title": "President Zardari confers military awards on armed forces personnel",
-        "link": "https://www.geo.tv/latest/664458-president-zardari-confers-military-awards-on-armed-forces-personnel"
+        "title": "Spring storm dumps up to 56cm of fresh snow on Alpine glaciers, favouring summer skiing",
+        "link": "https://www.geo.tv/latest/664473-spring-storm-dumps-up-to-56cm-of-fresh-snow-on-alpine-glaciers-favouring-summer-skiing"
       },
       {
-        "title": "King Charles meets Māori Queen after key talks with William",
-        "link": "https://www.geo.tv/latest/664461-king-charles-meets-mori-queen-after-key-talks-with-william"
+        "title": "Howard Stern's SiriusXM contract: Wife shares details",
+        "link": "https://www.geo.tv/latest/664471-howard-sterns-siriusxm-contract-wife-shares-details"
       },
       {
-        "title": "YouTube TV's Roku guide nightmare is over: Here's what changed",
-        "link": "https://www.geo.tv/latest/664460-youtube-tvs-roku-guide-nightmare-is-over-heres-what-changed"
+        "title": "‘Chud the Builder' charged with attempted murder: What happened at Tennessee courthouse",
+        "link": "https://www.geo.tv/latest/664472-chud-the-builder-charged-with-attempted-murder-what-happened-at-tennessee-courthouse"
       }
     ],
     "NDTV": [
       {
-        "title": "'Judicial Discipline': Judge Says Another Bench To Hear Arvind Kejriwal Case",
-        "link": "https://www.ndtv.com/india-news/judicial-discipline-judge-says-another-bench-to-hear-arvind-kejriwal-case-11496240#publisher=newsstand"
+        "title": "Amid NEET Paper Leak Row, Dharmendra Pradhan Chairs 1st Meeting On Re-Exam",
+        "link": "https://www.ndtv.com/india-news/amid-neet-paper-leak-row-dharmendra-pradhan-chairs-1st-meeting-on-re-exam-11497390#publisher=newsstand"
       },
       {
-        "title": "Attack On Indian Ship Shows No Route Is Safe In Hormuz As Iran Tightens Grip",
-        "link": "https://www.ndtv.com/world-news/attack-on-indian-ship-shows-no-route-is-safe-in-hormuz-as-iran-tightens-grip-11496833#publisher=newsstand"
+        "title": "'Petrol Prices Should Be Allowed To Rise': Economist Arvind Panagariya On PM Modi's Forex Appeal",
+        "link": "https://www.ndtv.com/india-news/arvind-panagariya-on-pm-modis-appeal-petrol-prices-should-be-allowed-to-rise-11497256#publisher=newsstand"
       },
       {
-        "title": "Dubai Gold Market Grows 15% Despite Brief Setback Due To Iran War",
-        "link": "https://www.ndtv.com/india-news/dubai-gold-market-grows-15-despite-brief-setback-due-to-war-11496817#publisher=newsstand"
+        "title": "US Jury Awards $49.5 Million To 2019 Boeing 737 MAX Crash Victim's Family",
+        "link": "https://www.ndtv.com/world-news/us-jury-awards-49-5-million-to-2019-boeing-737-max-crash-victims-family-11497304#publisher=newsstand"
       },
       {
-        "title": "\"Truth Has Won\": Arvind Kejriwal On Judge Stepping Away From Liquor Case",
-        "link": "https://www.ndtv.com/india-news/truth-has-won-arvind-kejriwal-on-judge-stepping-away-from-liquor-case-11496588#publisher=newsstand"
+        "title": "US Man Arrested After Video Shows He Hurled Rock At Endangered Seal In Hawaii",
+        "link": "https://www.ndtv.com/world-news/us-man-arrested-after-video-shows-he-hurled-rock-at-endangered-seal-in-hawaii-11497294#publisher=newsstand"
       },
       {
-        "title": "Lebanon, Israel Hold New Peace Talks In US As Ceasefire Nears End",
-        "link": "https://www.ndtv.com/world-news/lebanon-israel-war-lebanon-israel-hold-new-peace-talks-in-us-as-ceasefire-nears-end-11496680#publisher=newsstand"
+        "title": "US-Iran War News Live Updates: Trump Says Xi Offered Help To Open Hormuz, Vowed Not To Arm Iran",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-news-live-donald-trump-xi-jinping-summit-in-china-updates-us-wants-china-to-play-active-role-in-ending-iran-war-says-marco-rubio-ah-11492241#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+        "link": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc"
+      },
       {
         "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
         "link": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees"
@@ -195,12 +199,8 @@
       {
         "title": "Internal displacements caused by violence or conflict at record high in 2025",
         "link": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025"
-      },
-      {
-        "title": "Gaborone gold rush: how Botswana rose to the top of men’s sprinting",
-        "link": "https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics"
       }
     ]
   },
-  "last_updated": "2026-05-14 18:29 UTC"
+  "last_updated": "2026-05-14 20:16 UTC"
 }
