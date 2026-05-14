@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Trump China Visit LIVE Updates: Rubio Calls China 'Most Important' US Partner Ahead  Of Trump-Xi Summit",
+      "link": "https://www.ndtv.com/world-news/donald-trump-2-day-china-visit-live-updates-donald-trump-beijing-xi-jinping-bilateral-meeting-iran-war-trade-tariff-boeing-taiwan-11487005#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +17,27 @@
         "link": "https://www.bbc.com/news/articles/c392djn3zzdo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
+        "link": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is Donald Trump in China? BBC explains",
+        "link": "https://www.bbc.com/news/videos/clypvn70783o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Higher Europe air fares 'inevitable', says industry head",
         "link": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Drug addiction counsellor sentenced in Matthew Perry's overdose death",
-        "link": "https://www.bbc.com/news/articles/cvgz1emrn8go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Farage faces standards probe into £5m gift from crypto billionaire",
-        "link": "https://www.bbc.com/news/articles/c0l26g01703o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump-Xi summit live: US, China leaders to hold talks on trade, tech, Iran",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran slams ‘collusion’ as Netanyahu ‘secretly’ visits UAE",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/5/14/iran-war-live-tehran-slams-collusion-as-netanyahu-secretly-visits-uae?traffic_source=rss"
+      },
       {
         "title": "Trump administration offers $100m in aid to Cuba in exchange for reform",
         "link": "https://www.aljazeera.com/news/2026/5/13/trump-administration-offers-100m-in-aid-to-cuba-in-exchange-for-reform?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Man City beat Palace to close gap with Arsenal to 2, with two games to play",
         "link": "https://www.aljazeera.com/sports/2026/5/13/man-city-beat-palace-to-close-the-gap-to-arsenal-to-two-with-two-to-play?traffic_source=rss"
-      },
-      {
-        "title": "Trump taps David Venturella, former private prison executive, to lead ICE",
-        "link": "https://www.aljazeera.com/news/2026/5/13/trump-taps-david-venturella-former-private-prison-executive-to-lead-ice?traffic_source=rss"
-      },
-      {
-        "title": "Funeral held for two Lebanese paramedics killed in Israeli attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,45 +103,53 @@
         "link": "https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html"
       },
       {
-        "title": "Trump and Xi: Beneath the Pomp and Niceties, a Geopolitical Rivalry",
-        "link": "https://www.nytimes.com/2026/05/13/us/politics/trump-xi-rivalry.html"
+        "title": "The China Gambit: From Nixon to Trump",
+        "link": "https://www.nytimes.com/2026/05/13/us/politics/china-visits-nixon-to-trump.html"
       },
       {
-        "title": "Chinese Firms Plot Secret Arms Sales to Iran, U.S. Officials Say",
-        "link": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html"
-      },
-      {
-        "title": "What to Watch at Trump and Xi’s U.S.-China Summit",
-        "link": "https://www.nytimes.com/2026/05/13/business/economy/china-trump-xi-beijing-summit.html"
+        "title": "As Trump and Xi Meet in China, Why Typical Displays of Cultural Exchange Won’t Be on Show",
+        "link": "https://www.nytimes.com/2026/05/13/world/asia/trump-xi-summit-people-culture.html"
       },
       {
         "title": "Two of the World’s Most Powerful Men Are About to Meet",
         "link": "https://www.nytimes.com/2026/05/13/briefing/trump-china-meeting-fed-chair.html"
+      },
+      {
+        "title": "Senate Confirms Kevin Warsh as Fed Chair",
+        "link": "https://www.nytimes.com/2026/05/13/us/politics/kevin-warsh-fed-chair-confirmed.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Settlers kill Palestinian teen in Ramallah",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-kill-palestinian-teen-ramallah"
+      },
+      {
+        "title": "Board of Peace High Representative for Gaza says ceasefire 'far from perfect'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/board-peace-high-representative-gaza-says-ceasefire-far-perfect"
+      },
+      {
+        "title": "Netanyahu's office says he visited UAE, Gulf state denies claim",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-office-says-he-visited-uae-gulf-state-denies-claim"
+      },
+      {
+        "title": "Israeli attacks kill, wound nearly 60 children over the past week, despite truce deal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-wound-nearly-60-children-over-past-week-despite"
+      },
+      {
         "title": "Israeli settlers attack Palestinians and burn land in occupied West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-palestinians-and-burn-land-occupied-west-bank"
-      },
-      {
-        "title": "UAE denies Netanyahu held secret meeting with Emirati president during Iran war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-denies-netanyahu-held-secret-meeting-emirati-president-during-iran"
-      },
-      {
-        "title": "US wants China to press Iran to change course in Gulf: Secretary of State",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-wants-china-press-iran-change-course-gulf-secretary-state"
-      },
-      {
-        "title": "Lebanon says 10 more killed in Israeli strikes on south",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-10-more-killed-israeli-strikes-south"
-      },
-      {
-        "title": "'Rogue state behaviour': Israel carrying out covert influence operations in Canada, report says",
-        "link": "https://www.middleeasteye.net/news/rogue-state-behaviour-israel-carrying-out-covert-influence-operations-canada-report-says"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Cardi B, Stefon Diggs get into fight soon after Mother's Day PDA",
+        "link": "https://www.geo.tv/latest/664294-cardi-b-stefon-diggs-get-into-fight-soon-after-mothers-day-pda"
+      },
+      {
+        "title": "'Grey's Anatomy' alum Chyler Leigh, Nathan West part ways",
+        "link": "https://www.geo.tv/latest/664293-greys-anatomy-alum-chyler-leigh-nathan-west-part-ways"
+      },
       {
         "title": "WHO says eight passengers tested positive for hantavirus",
         "link": "https://www.geo.tv/latest/664292-who-says-eight-passengers-tested-positive-for-hantavirus"
@@ -147,36 +161,28 @@
       {
         "title": "Taylor Swift attends Lena Dunham's 40th birthday dinner",
         "link": "https://www.geo.tv/latest/664288-taylor-swift-attends-lena-dunhams-40th-birthday-dinner"
-      },
-      {
-        "title": "LeAnn Rimes shares hardcore update on life: ‘Raw'",
-        "link": "https://www.geo.tv/latest/664285-leann-rimes-shares-hardcore-update-on-life-raw"
-      },
-      {
-        "title": "Man who supplied fatal ketamine dose to Matthew Perry gets two years in prison",
-        "link": "https://www.geo.tv/latest/664284-man-who-supplied-fatal-ketamine-dose-to-matthew-perry-gets-two-years-in-prison"
       }
     ],
     "NDTV": [
       {
-        "title": "UAE Denies Reports' Of \"Secret Visit\" By Israeli PM Netanyahu",
-        "link": "https://www.ndtv.com/world-news/uae-denies-reports-of-secret-visit-by-israeli-pm-benjamin-netanyahu-11492126#publisher=newsstand"
+        "title": "US-Iran War News Live Updates: US Wants China To Play Active Role In Ending Iran War, Says Marco Rubio Ahead Of Trump-Xi Summit",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-us-wants-china-to-play-active-role-in-ending-iran-war-says-marco-rubio-ahead-of-trump-xi-summit-11492241#publisher=newsstand"
       },
       {
-        "title": "Analysis: Trump Wants China's Help On Iran, But Beijing Has Other Plans",
-        "link": "https://www.ndtv.com/world-news/analysis-trump-wants-chinas-help-on-iran-but-beijing-has-other-plans-11492075#publisher=newsstand"
+        "title": "Trump China Visit LIVE Updates: Rubio Calls China 'Most Important' US Partner Ahead  Of Trump-Xi Summit",
+        "link": "https://www.ndtv.com/world-news/donald-trump-2-day-china-visit-live-updates-donald-trump-beijing-xi-jinping-bilateral-meeting-iran-war-trade-tariff-boeing-taiwan-11487005#publisher=newsstand"
       },
       {
-        "title": "Matthew Perry Drug middleman Jailed For Two Years",
-        "link": "https://www.ndtv.com/world-news/matthew-perry-drug-middleman-jailed-for-two-years-11491712#publisher=newsstand"
+        "title": "India Bans Sugar Exports Till September 2026 Amid Domestic Supply Concerns",
+        "link": "https://www.ndtv.com/india-news/india-bans-sugar-exports-till-september-2026-amid-domestic-supply-concerns-11492219#publisher=newsstand"
       },
       {
-        "title": "Netanyahu's Coalition Submits Bill To Dissolve Parliament, Trigger Fresh Polls",
-        "link": "https://www.ndtv.com/world-news/benjamin-netanyahus-coalition-submits-bill-to-dissolve-parliament-trigger-fresh-polls-11491939#publisher=newsstand"
+        "title": "Delhi Cuts Official Vehicles, Foreign Trips, Pushes EVs After PM's Appeal",
+        "link": "https://www.ndtv.com/delhi-news/delhi-cuts-official-vehicles-foreign-trips-pushes-evs-after-pm-modis-appeal-11492201#publisher=newsstand"
       },
       {
-        "title": "US Senate Confirms Trump Nominee Kevin Warsh As Federal Reserve Chair",
-        "link": "https://www.ndtv.com/world-news/us-senate-confirms-donald-trump-nominee-kevin-warsh-as-federal-reserve-chair-11491762#publisher=newsstand"
+        "title": "Live Updates: Kerala To Get New Chief Minister Today After Days Of Congress-Led UDF Deadlock",
+        "link": "https://www.ndtv.com/india-news/kerala-chief-minister-announcement-live-updates-kc-venugopal-vd-satheesan-rahul-gandhi-ramesh-chennithala-k-muraleedharan-11489265#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-13 23:34 UTC"
+  "last_updated": "2026-05-14 01:29 UTC"
 }
