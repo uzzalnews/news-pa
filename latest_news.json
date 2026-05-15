@@ -1,10 +1,29 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Trump China Visit LIVE Updates: China Says Trump, Xi Reached 'New Consensuses' On Handling Concerns",
+      "link": "https://www.ndtv.com/world-news/donald-trump-2-day-china-visit-live-updates-donald-trump-beijing-xi-jinping-bilateral-meeting-iran-war-trade-tariff-boeing-taiwan-11487005#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Markets Open Flat Amid Mixed Global Cues, India Hikes Fuel Prices",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-15-may-petrol-diesel-price-hike-us-iran-war-11498020#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
         "title": "Burnham to make bid to return as MP as pressure mounts on Starmer",
         "link": "https://www.bbc.com/news/articles/c1l2e325zvgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Analysis: Andy Burnham's route back to the Commons is clearer - but one big hurdle remains",
+        "link": "https://www.bbc.com/news/articles/cx21x2rpm12o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: The day Labour's potential leadership race began to heat up",
+        "link": "https://www.bbc.com/news/videos/c3w2ngny1v6o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
@@ -13,36 +32,28 @@
       {
         "title": "Royal finances face a cut. But will much really change?",
         "link": "https://www.bbc.com/news/articles/c4g0e92dp6ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "One dead and two ill after meningitis cases",
-        "link": "https://www.bbc.com/news/articles/cn4p750q857o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hundreds of comedians unpaid by one of UK's biggest comedy festivals",
-        "link": "https://www.bbc.com/news/articles/czx2ypgwxx7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Top US admiral: Strikes severely degraded Iran’s military, defence",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/top-us-admiral-strikes-severely-degraded-irans-military-defence?traffic_source=rss"
+      },
+      {
+        "title": "After Trump’s pledge to ‘open up’ China, low expectations for trade deal",
+        "link": "https://www.aljazeera.com/economy/2026/5/15/after-trumps-pledge-to-open-up-china-low-expectations-for-summit-deal?traffic_source=rss"
+      },
+      {
+        "title": "What happens to those who say no to fighting wars?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-happens-to-those-who-say-no-to-fighting-wars?traffic_source=rss"
+      },
+      {
+        "title": "Israel-Lebanon talks held in Washington as expiration of ceasefire nears",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israel-lebanon-talks-held-in-washington-as-expiration-of-ceasefire-nears?traffic_source=rss"
+      },
+      {
         "title": "Eurovision braces for new protests over Israel’s participation",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump’s visit to China shadowed by conflict with Tehran",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss"
-      },
-      {
-        "title": "Explosions heard as mining groups stage antigovernment protest in Bolivia",
-        "link": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss"
-      },
-      {
-        "title": "UN aid convoy hit by drone strikes in Ukraine’s Kherson",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson?traffic_source=rss"
-      },
-      {
-        "title": "Cuba’s Diaz-Canel open to US aid amid worsening fuel crisis, blackouts",
-        "link": "https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,39 +81,39 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan raises $250m equivalent in inaugural Panda bond issuance",
-        "link": "https://www.dawn.com/news/2000249/pakistan-raises-250m-equivalent-in-inaugural-panda-bond-issuance"
+        "title": "Trump says made 'fantastic trade deals' with Xi as pair meets for final talks of superpower summit",
+        "link": "https://www.dawn.com/news/2000415/trump-says-made-fantastic-trade-deals-with-xi-as-pair-meets-for-final-talks-of-superpower-summit"
       },
       {
-        "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
-        "link": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal"
+        "title": "IMF highlights ‘Gulf exposure’ as biggest external risk for Pakistan",
+        "link": "https://www.dawn.com/news/2000334/imf-highlights-gulf-exposure-as-biggest-external-risk-for-pakistan"
       },
       {
-        "title": "Pakistan-UAE ties unaffected by external engagements, says FO",
-        "link": "https://www.dawn.com/news/2000199/pakistan-uae-ties-unaffected-by-external-engagements-says-fo"
+        "title": "‘Detractors of peace’ campaigning against Pakistan, says Tarar",
+        "link": "https://www.dawn.com/news/2000353/detractors-of-peace-campaigning-against-pakistan-says-tarar"
       },
       {
-        "title": "Civil servants’ asset declarations to be made public in redacted form, says govt",
-        "link": "https://www.dawn.com/news/2000259/civil-servants-asset-declarations-to-be-made-public-in-redacted-form-says-govt"
+        "title": "Punjab police want Anmol alias Pinky’s custody from Sindh",
+        "link": "https://www.dawn.com/news/2000297/punjab-police-want-anmol-alias-pinkys-custody-from-sindh"
       },
       {
-        "title": "Trump hails Xi talks at grand Beijing banquet attended by leaders, CEOs",
-        "link": "https://www.dawn.com/news/2000073/trump-hails-xi-talks-at-grand-beijing-banquet-attended-by-leaders-ceos"
+        "title": "Israel threatens to sue New York Times over report on sexual abuse of Palestinian inmates",
+        "link": "https://www.dawn.com/news/2000419/israel-threatens-to-sue-new-york-times-over-report-on-sexual-abuse-of-palestinian-inmates"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.",
-        "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html"
+        "title": "China Starting to Fulfill ‘Promises,’ U.S. Trade Representative Says",
+        "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-us-trade.html"
       },
       {
         "title": "Trump’s and Xi’s Body Language at the Summit Mirrored Their Styles",
         "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html"
       },
       {
-        "title": "Justices Allow Abortion Pill Access by Mail to Continue",
-        "link": "https://www.nytimes.com/2026/05/14/briefing/supreme-court-abortion-pills.html"
+        "title": "U.S. and China Will Start Discussing A.I. Safety, Bessent Says",
+        "link": "https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html"
       },
       {
         "title": "Supreme Court Allows Abortion Pill Access by Mail to Continue",
@@ -115,68 +126,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "More Israeli strikes hit towns across southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-israeli-strikes-hit-towns-across-southern-lebanon"
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-534"
       },
       {
-        "title": "US official says first day of Lebanon-Israel talks ‘positive’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-official-says-first-day-lebanon-israel-talks-positive"
+        "title": "Israel issues forced displacement orders for five towns, villages in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-issues-forced-displacement-orders-five-towns-villages-south"
       },
       {
-        "title": "Spain PM defends Barcelona footballer against Israeli criticism",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spain-pm-defends-barcelona-footballer-against-israeli-criticism"
+        "title": "Hezbollah claims targeting of Israeli drones with missiles",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-targeting-israeli-drones-missiles"
       },
       {
-        "title": "Senior Emirati scholar says ‘war criminal’ Netanyahu never visited UAE",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/senior-emirati-scholar-says-war-criminal-netanyahu-never-visited-uae"
+        "title": "Israeli shelling reported in Lebanon, as army issues expulsion orders to towns",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-shelling-reported-lebanon-army-issues-expulsion-orders-towns"
       },
       {
-        "title": "Trump says Beijing opposes Iranian toll in Hormuz, as Chinese vessels exit waterway",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-beijing-opposes-iranian-toll-hormuz-chinese-vessels-exit"
+        "title": "Israel says soldier killed in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-soldier-killed-south-lebanon-fighting"
       }
     ],
     "GeoTV": [
       {
-        "title": "Pete Davidson, Elsie Hewitt break up 5 months after welcoming baby girl",
-        "link": "https://www.geo.tv/latest/664488-pete-davidson-elsie-hewitt-break-up-5-months-after-welcoming-baby-girl"
+        "title": "Adam Peaty's family react to star's controversial Ramsay-Peaty name change",
+        "link": "https://www.geo.tv/latest/664508-adam-peatys"
       },
       {
-        "title": "IMF says Pakistan recovery continues but ME war clouds outlook",
-        "link": "https://www.geo.tv/latest/664487-imf-says-pakistan-recovery-continues-but-me-war-clouds-outlook"
+        "title": "Jenny Mollen, Jason Biggs call it quits after 18 years of marriage: Report",
+        "link": "https://www.geo.tv/latest/664511-jenny-mollen-jason-biggs-call-it-quits-after-18-years-of-marriage-report"
       },
       {
-        "title": "FBI offers $200,000 reward for ex-USAF officer Monica Witt accused of spying for Iran",
-        "link": "https://www.geo.tv/latest/664486-fbi-offers-200000-reward-for-ex-usaf-officer-monica-witt-accused-of-spying-for-iran"
+        "title": "PCB set for 'major overhaul' in central contracts ahead of new cycle",
+        "link": "https://www.geo.tv/latest/664507-pcb-set-for-major-overhaul-in-central-contracts-ahead-of-new-cycle"
       },
       {
-        "title": "Seth Rogen on how he related with ‘Tangles' because of Dementia",
-        "link": "https://www.geo.tv/latest/664485-seth-rogen-on-how-he-related-with-tangles-because-of-dementia"
+        "title": "Britney Spears breaks silence on chaotic dinner rumours",
+        "link": "https://www.geo.tv/latest/664509-britney-spears-breaks-silence-on-chaotic-dinner-rumours"
       },
       {
-        "title": "Scarlett Johansson to star in ‘The Batman 2'",
-        "link": "https://www.geo.tv/latest/664484-scarlett-johansson-to-star-in-the-batman-2"
+        "title": "Muslim American groups say Republicans are weaponising congressional hearings",
+        "link": "https://www.geo.tv/latest/664505-muslim-american-groups-say-republicans-are-weaponising-congressional-hearings"
       }
     ],
     "NDTV": [
       {
-        "title": "Trump Hopes US-China Ties Will Be \"Stronger And Better Than Ever Before\"",
-        "link": "https://www.ndtv.com/world-news/donald-trump-hopes-us-china-ties-will-be-stronger-and-better-than-ever-before-11497713#publisher=newsstand"
+        "title": "Trump China Visit LIVE Updates: China Says Trump, Xi Reached 'New Consensuses' On Handling Concerns",
+        "link": "https://www.ndtv.com/world-news/donald-trump-2-day-china-visit-live-updates-donald-trump-beijing-xi-jinping-bilateral-meeting-iran-war-trade-tariff-boeing-taiwan-11487005#publisher=newsstand"
       },
       {
-        "title": "Russia's Lavrov Meets PM Modi In Delhi, Discusses Ukraine, Middle East Conflict",
-        "link": "https://www.ndtv.com/india-news/india-reiterates-support-for-peaceful-resolution-of-conflicts-as-pm-modi-meets-lavrov-11497653#publisher=newsstand"
+        "title": "Goa Congress Leader Ketan Bhatikar, 38, Dies Of Snakebite",
+        "link": "https://www.ndtv.com/india-news/goa-congress-leader-ketan-bhatikar-dies-of-snakebite-11498088#publisher=newsstand"
       },
       {
-        "title": "5 Italians Die In Scuba Diving Tragedy In Maldives",
-        "link": "https://www.ndtv.com/world-news/5-italians-die-in-scuba-diving-tragedy-in-maldives-11497676#publisher=newsstand"
+        "title": "Can PM Modi's UAE Visit Insulate India From Oil Shocks? What To Expect",
+        "link": "https://www.ndtv.com/world-news/pm-modi-5-nation-tour-uae-visit-india-fuel-lng-supply-opec-iran-war-strait-of-hormuz-11494421#publisher=newsstand"
       },
       {
-        "title": "How VD Satheesan Was Picked For Kerala Top Job: Behind The Scenes",
-        "link": "https://www.ndtv.com/india-news/rahul-gandhi-kc-venugopal-how-vd-satheesan-was-picked-for-kerala-top-job-behind-the-scenes-11497669#publisher=newsstand"
+        "title": "Trump Explains Why He Agreed With Xi Jinping Calling US A \"Declining Nation\"",
+        "link": "https://www.ndtv.com/world-news/trump-in-china-donald-trump-explains-why-xi-jinping-called-us-a-declining-nation-11498026#publisher=newsstand"
       },
       {
-        "title": "Noida Protest Accused Got Over Rs 1 Crore From Foreign Countries: Cops",
-        "link": "https://www.ndtv.com/india-news/noida-labour-protest-accused-got-over-rs-1-crore-from-foreign-countries-cops-11497613#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Markets Open Flat Amid Mixed Global Cues, India Hikes Fuel Prices",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-15-may-petrol-diesel-price-hike-us-iran-war-11498020#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-15 01:29 UTC"
+  "last_updated": "2026-05-15 05:34 UTC"
 }
