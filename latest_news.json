@@ -3,11 +3,15 @@
   "news": {
     "BBC": [
       {
-        "title": "What does Makerfield make of by-election and can Burnham win?",
+        "title": "Burnham cleared to run for selection in pivotal by-election",
+        "link": "https://www.bbc.com/news/articles/ckgp2e0rrj4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What does Makerfield think of by-election and can Burnham win?",
         "link": "https://www.bbc.com/news/articles/cyv26e7yd89o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump says he 'made no commitment either way' to Xi on Taiwan",
+        "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
         "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -15,34 +19,30 @@
         "link": "https://www.bbc.com/news/articles/cy42jn311y1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Five Italians die during cave scuba dive in Maldives",
-        "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "NHS staff accessed Southport victims' records 'inappropriately', hospital trust admits",
-        "link": "https://www.bbc.com/news/articles/cgmpz1mxzd9o?at_medium=RSS&at_campaign=rss"
+        "title": "Judge declares another mistrial in Harvey Weinstein New York rape charge",
+        "link": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "FA Cup final: Chelsea vs Manchester City – teams, start, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/5/15/fa-cup-final-chelsea-vs-manchester-city-teams-start-lineups?traffic_source=rss"
+        "title": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
+        "link": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss"
       },
       {
-        "title": "Israel kills seven in Lebanon as direct talks continue in US for second day",
-        "link": "https://www.aljazeera.com/news/2026/5/15/lebanon-talks-israel-attack?traffic_source=rss"
+        "title": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
+        "link": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss"
       },
       {
-        "title": "Iran says lack of trust is the main obstacle in US negotiations",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/iran-says-lack-of-trust-is-the-main-obstacle-in-us-negotiations?traffic_source=rss"
+        "title": "Russia pounds Kyiv as its advance in eastern Ukraine slows to a crawl",
+        "link": "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill?traffic_source=rss"
       },
       {
-        "title": "California county scam ad lawsuit adds to mounting Meta legal woes",
-        "link": "https://www.aljazeera.com/news/2026/5/15/california-county-scam-ad-lawsuit-adds-to-mounting-meta-legal-woes?traffic_source=rss"
+        "title": "Hantavirus: how scared should we be?",
+        "link": "https://www.aljazeera.com/video/the-take-2/2026/5/15/aje-onl-tt_glb_hantavirus_av_v2-150526?traffic_source=rss"
       },
       {
-        "title": "India and UAE sign defence pacts, as Iran war tensions simmer",
-        "link": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer?traffic_source=rss"
+        "title": "UAE to accelerate oil pipeline project to bypass Strait of Hormuz",
+        "link": "https://www.aljazeera.com/news/2026/5/15/uae-to-accelerate-oil-pipeline-project-to-bypass-hormuz?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,20 +70,20 @@
     ],
     "Dawn": [
       {
-        "title": "Probe shows foreigners' involvement in network run by alleged drug queenpin Anmol alias Pinky: Karachi AIG",
-        "link": "https://www.dawn.com/news/2000457/probe-shows-foreigners-involvement-in-network-run-by-alleged-drug-queenpin-anmol-alias-pinky-karachi-aig"
-      },
-      {
         "title": "India, UAE agree on framework for strategic defence partnership during Modi visit",
         "link": "https://www.dawn.com/news/2000469/india-uae-agree-on-framework-for-strategic-defence-partnership-during-modi-visit"
+      },
+      {
+        "title": "Probe shows foreigners' involvement in network run by alleged drug queenpin Anmol alias Pinky: Karachi AIG",
+        "link": "https://www.dawn.com/news/2000457/probe-shows-foreigners-involvement-in-network-run-by-alleged-drug-queenpin-anmol-alias-pinky-karachi-aig"
       },
       {
         "title": "Barbs fly in Senate over PTI founder’s health, access to political prisoners",
         "link": "https://www.dawn.com/news/2000491/barbs-fly-in-senate-over-pti-founders-health-access-to-political-prisoners"
       },
       {
-        "title": "ICC fines Pakistan, docks eight WTC points for slow over rate in Dhaka Test",
-        "link": "https://www.dawn.com/news/2000483/icc-fines-pakistan-docks-eight-wtc-points-for-slow-over-rate-in-dhaka-test"
+        "title": "US scraps deployment of 4,000 troops to Poland",
+        "link": "https://www.dawn.com/news/2000506/us-scraps-deployment-of-4000-troops-to-poland"
       },
       {
         "title": "11 Pakistanis, 20 Iranians aboard US-seized vessels repatriated, says DPM Dar",
@@ -93,100 +93,100 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Kataib Hezbollah Commander Accused of Planning Attacks on N.Y.C.",
-        "link": "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
-      },
-      {
-        "title": "Trump Touts ‘Fantastic Trade Deals’ With China, but Details Are Scarce",
-        "link": "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html"
+        "title": "Trump’s ‘Learning Curve’ on China Ends With Conciliation at Summit",
+        "link": "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html"
       },
       {
         "title": "Xi Pitches His Vision for Avoiding Conflict With the U.S.",
         "link": "https://www.nytimes.com/2026/05/15/world/asia/xi-trump-superpower-thucydides-stability.html"
       },
       {
-        "title": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
-        "link": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html"
+        "title": "For Xi’s Critics, Trump’s China Visit Is Fuel for Jokes They Can’t Tell",
+        "link": "https://www.nytimes.com/2026/05/15/business/trump-xi-meeting-china-social-media.html"
       },
       {
-        "title": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War",
-        "link": "https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html"
+        "title": "Trump Discussed U.S. Arms Sales With Xi ‘In Great Detail’",
+        "link": "https://www.nytimes.com/2026/05/15/world/asia/trump-china-arms-sales.html"
+      },
+      {
+        "title": "Kataib Hezbollah Commander Accused of Planning Attacks on N.Y.C.",
+        "link": "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Hezbollah says it targeted Israeli tank and bulldozers in south Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-targeted-israeli-tank-and-bulldozers-south-lebanon"
+        "title": "Israel claims killing of Hamas military commander Izz al-Din al-Haddad",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-claims-killing-hamas-military-commander-izz-al-din-al-haddad"
       },
       {
-        "title": "Israeli army chief stresses 'readiness' during surprise military drill",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-chief-stresses-readiness-after-oct-7-surprise-military"
+        "title": "UN says Israeli military obstructed peacekeepers in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-israeli-military-obstructed-peacekeepers-south-lebanon"
       },
       {
-        "title": "Trump dismisses reports Iran retains missile launchers as ‘fake news’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-dismisses-reports-iran-retains-missile-launchers-fake-news"
+        "title": "Israel says it targeted senior Hamas military leader in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-targeted-senior-hamas-military-leader-gaza"
       },
       {
-        "title": "Pakistan repatriates nationals from vessels seized by US",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-repatriates-nationals-vessels-seized-us"
+        "title": "European markets fall as Iran war fuel inflation fears",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/european-markets-fall-iran-war-fuel-inflation-fears"
       },
       {
-        "title": "US energy secretary says China likely to buy more American oil",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-energy-secretary-says-china-likely-buy-more-american-oil"
+        "title": "UAE made failed attempt to get Saudi Arabia, Qatar to jointly attack Iran: Report",
+        "link": "https://www.middleeasteye.net/news/uae-made-failed-attempt-get-saudi-arabia-qatar-jointly-attack-iran-report"
       }
     ],
     "GeoTV": [
       {
-        "title": "Princess Kate's sister Pippa Middleton comes under fire after brutal clash",
-        "link": "https://www.geo.tv/latest/664617-princess-kates-sister-pippa-middleton-comes-under-fire-after-brutal-clash"
+        "title": "Govt slashes petrol, diesel prices by Rs5 per litre for next week",
+        "link": "https://www.geo.tv/latest/664598-govt-slashes-petrol-diesel-prices-by-rs5-per-litre-for-next-week"
       },
       {
-        "title": "Is Patrick Gibson the next James Bond? Actor responds to rumours",
-        "link": "https://www.geo.tv/latest/664624-is-patrick-gibson-the-next-james-bond-actor-responds-to-rumours"
+        "title": "Sanam Saeed set to make debut at Cannes Film Festival 2026",
+        "link": "https://www.geo.tv/latest/664632-sanam-saeed-set-to-make-debut-at-cannes-film-festival-2026"
       },
       {
-        "title": "Duchess of Edinburgh brings childhood dream to life after emotional 'home' memory",
-        "link": "https://www.geo.tv/latest/664621-duchess-of-edinburgh-brings-childhood-dream-to-life-after-emotional-home-memory"
+        "title": "Bong Joon Ho embraces his 'control freak' nature with new animation project",
+        "link": "https://www.geo.tv/latest/664634-bong-joon-ho-breaks-silence-on-mickey-17-backlash-during-cannes-appearance"
       },
       {
-        "title": "Nancy Guthrie's family mystery intensifies as Annie stays silent",
-        "link": "https://www.geo.tv/latest/664618-nancy-guthries-family-mystery-intensifies-as-annie-stays-silent"
+        "title": "Gracie Abrams explains how 'DFH' is different from previous albums",
+        "link": "https://www.geo.tv/latest/664615-gracie-abrams-explains-how-dfh-is-different-from-previous-albums"
       },
       {
-        "title": "Kash Patel's growing list of scandals paves his road to ouster: See all details on new controversy",
-        "link": "https://www.geo.tv/latest/664619-kash-patels-growing-list-of-scandals-paves-his-road-to-ouster-see-all-details-on-new-controversy"
+        "title": "Princess Anne lands in style by helicopter for high-speed mission with Aston Martin",
+        "link": "https://www.geo.tv/latest/664623-princess-anne-lands-in-style-by-helicopter-for-high-speed-mission-with-aston-martin"
       }
     ],
     "NDTV": [
       {
-        "title": "Pune Chemistry Professor Kingpin Of NEET Paper Leak, Arrested: CBI",
-        "link": "https://www.ndtv.com/india-news/neet-ug-2026-paper-leak-cbi-neet-leak-arrest-neet-leak-pune-chemistry-professor-kingpin-of-neet-paper-leak-arrested-cbi-11501703#publisher=newsstand"
+        "title": "Trump's Beijing Visit Ends With 'Bin Order' For Chinese-Issued Items",
+        "link": "https://www.ndtv.com/world-news/trump-xi-meet-donald-trump-china-visit-us-china-trumps-beijing-visit-ends-with-bin-order-for-chinese-issued-items-11502363#publisher=newsstand"
       },
       {
-        "title": "\"Favour To Pakistan\": Trump Reveals Why US Backed Ceasefire With Iran",
-        "link": "https://www.ndtv.com/world-news/favour-to-pakistan-donald-trump-reveals-why-us-backed-ceasefire-with-iran-11501620#publisher=newsstand"
+        "title": "UAE Announces $5-Billion Investment In India As PM Modi Visits Abu Dhabi",
+        "link": "https://www.ndtv.com/india-news/narendra-modi-uae-visit-uae-announces-5-billion-investment-in-india-as-pm-modi-visits-abu-dhabi-11501183#publisher=newsstand"
       },
       {
-        "title": "\"Hope Supreme Court Will Set This Right\": Asaduddin Owaisi On Bhojshala Order",
-        "link": "https://www.ndtv.com/india-news/hope-supreme-court-will-set-this-right-asaduddin-owaisi-on-bhojshala-order-11500556#publisher=newsstand"
+        "title": "Tamil Nadu Man Murders Grandparents, Sets Bodies On Fire, Arrested",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-man-murders-grandparents-sets-bodies-on-fire-arrested-11502320#publisher=newsstand"
       },
       {
-        "title": "Gig Workers' Union Calls For 5-Hour Nationwide Strike Amid Fuel Price Hike",
-        "link": "https://www.ndtv.com/india-news/gig-workers-union-calls-for-5-hour-nationwide-strike-amid-fuel-price-hike-11501571#publisher=newsstand"
+        "title": "\"Will Impact Poor, Middle Class\": Vijay Slams Centre Over Fuel Price Hike",
+        "link": "https://www.ndtv.com/india-news/will-impact-poor-middle-class-vijay-slams-centre-over-fuel-price-hike-11502278#publisher=newsstand"
       },
       {
-        "title": "\"Not 1 Gram Will Pass\": Amit Shah On India's Zero Drug Tolerance Pledge",
-        "link": "https://www.ndtv.com/india-news/not-1-gram-will-pass-amit-shah-on-indias-zero-drug-tolerance-pledge-11501541#publisher=newsstand"
+        "title": "Centre Imposes Export Duty On Petrol, Cuts Tax On Diesel, Aviation Fuel",
+        "link": "https://www.ndtv.com/india-news/centre-imposes-export-duty-on-petrol-cuts-tax-on-diesel-aviation-fuel-11502241#publisher=newsstand"
       }
     ],
     "TheGuardian": [
       {
-        "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
-        "link": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists"
-      },
-      {
         "title": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
         "link": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths"
+      },
+      {
+        "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
+        "link": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists"
       },
       {
         "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-15 17:06 UTC"
+  "last_updated": "2026-05-15 18:51 UTC"
 }
