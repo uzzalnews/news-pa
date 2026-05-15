@@ -1,20 +1,10 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 300 Points Amid Mixed Global Cues, India Hikes Fuel Prices",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-15-may-petrol-diesel-price-hike-us-iran-war-11498020#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
         "title": "Analysis: Andy Burnham's route back to Commons is clearer - but can he win in Makerfield?",
         "link": "https://www.bbc.com/news/articles/cx21x2rpm12o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: The day Labour's potential leadership race began to heat up",
-        "link": "https://www.bbc.com/news/videos/c3w2ngny1v6o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
@@ -27,28 +17,32 @@
       {
         "title": "Five Italians die during cave scuba dive in Maldives",
         "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
+        "link": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Nadim Bawalsa & the Palestinian diaspora: From denial to genocide",
-        "link": "https://www.aljazeera.com/video/centre-stage/2026/5/15/nadim-bawalsa-the-palestinian-diaspora-from-denial-to-genocide?traffic_source=rss"
+        "title": "India hikes fuel prices as Iran crisis bites",
+        "link": "https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss"
       },
       {
-        "title": "Scientists identify massive new dinosaur following Thailand dig",
-        "link": "https://www.aljazeera.com/news/2026/5/15/scientists-identify-massive-new-dinosaur-following-thailand-dig?traffic_source=rss"
+        "title": "Three years of the West Bank’s ‘third Nakba’",
+        "link": "https://www.aljazeera.com/features/2026/5/15/three-years-of-the-west-banks-third-nakba?traffic_source=rss"
       },
       {
-        "title": "Benched Mbappe says he’s fourth-choice forward at Real Madrid under Arbeloa",
-        "link": "https://www.aljazeera.com/sports/2026/5/15/benched-mbappe-says-hes-fourth-choice-forward-at-real-madrid-under-arbeloa?traffic_source=rss"
+        "title": "Trump and Xi move towards business-first relationship after Beijing summit",
+        "link": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss"
       },
       {
-        "title": "Nakba Day: 78 years of ethnic cleansing",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/nakba-day-78-years-of-ethnic-cleansing?traffic_source=rss"
+        "title": "How Xi-Trump summit failed to yield Iran war breakthrough",
+        "link": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss"
       },
       {
-        "title": "Millions of Palestinians mark 78 years since the Nakba",
-        "link": "https://www.aljazeera.com/gallery/2026/5/15/millions-of-palestinians-mark-78-years-since-the-nakba?traffic_source=rss"
+        "title": "Xi praises US ‘milestone’ visit and relationship, offers Trump roses",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/xi-praises-us-milestone-visit-and-relationship-offers-trump-roses?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,24 +70,24 @@
     ],
     "Dawn": [
       {
+        "title": "Probe shows foreigners' involvement in network run by alleged drug queenpin Anmol alias Pinky: Karachi AIG",
+        "link": "https://www.dawn.com/news/2000457/probe-shows-foreigners-involvement-in-network-run-by-alleged-drug-queenpin-anmol-alias-pinky-karachi-aig"
+      },
+      {
         "title": "PM Shehbaz lauds 'historic' Pak-China ties in meeting with Chinese business delegation",
         "link": "https://www.dawn.com/news/2000425/pm-shehbaz-lauds-historic-pak-china-ties-in-meeting-with-chinese-business-delegation"
       },
       {
+        "title": "9 terrorists killed, 4 security personnel martyred as attack on army camp in Bajaur repulsed: sources",
+        "link": "https://www.dawn.com/news/2000446/9-terrorists-killed-4-security-personnel-martyred-as-attack-on-army-camp-in-bajaur-repulsed-sources"
+      },
+      {
+        "title": "One interaction cannot be viewed in isolation, says PPP's Shazia Marri after Bilawal's mid-presser curtness",
+        "link": "https://www.dawn.com/news/2000440/one-interaction-cannot-be-viewed-in-isolation-says-ppps-shazia-marri-after-bilawals-mid-presser-curtness"
+      },
+      {
         "title": "Trump concludes visit to China, says made 'fantastic trade deals' with Xi",
         "link": "https://www.dawn.com/news/2000415/trump-concludes-visit-to-china-says-made-fantastic-trade-deals-with-xi"
-      },
-      {
-        "title": "India raises retail fuel prices for first time since Mideast war began",
-        "link": "https://www.dawn.com/news/2000426/india-raises-retail-fuel-prices-for-first-time-since-mideast-war-began"
-      },
-      {
-        "title": "Pak-US ties have strengthened during Trump's tenure, Naqvi says in meeting with American official",
-        "link": "https://www.dawn.com/news/2000427/pak-us-ties-have-strengthened-during-trumps-tenure-naqvi-says-in-meeting-with-american-official"
-      },
-      {
-        "title": "IMF highlights ‘Gulf exposure’ as biggest external risk for Pakistan",
-        "link": "https://www.dawn.com/news/2000334/imf-highlights-gulf-exposure-as-biggest-external-risk-for-pakistan"
       }
     ],
     "APNews": [],
@@ -107,82 +101,82 @@
         "link": "https://www.nytimes.com/2026/05/15/world/asia/nvidia-china-chips.html"
       },
       {
-        "title": "Trump’s and Xi’s Body Language at the Summit Mirrored Their Styles",
-        "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html"
+        "title": "In Photos and Video: President Trump Goes to China",
+        "link": "https://www.nytimes.com/2026/05/14/world/asia/trump-china-photos.html"
       },
       {
-        "title": "Supreme Court Allows Abortion Pill Access by Mail to Continue",
-        "link": "https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html"
+        "title": "A Surge of U.S. Spy Planes Over Cuba, and Retailers’ $20 Billion Bet on Physical Stores",
+        "link": "https://www.nytimes.com/2026/05/15/podcasts/the-headlines/spy-planes-cuba-physical-stores-retailers.html"
       },
       {
-        "title": "Mail-Order Abortions Have Quickly Become Common",
-        "link": "https://www.nytimes.com/2026/05/14/upshot/abortion-pills-court.html"
+        "title": "As Powell Steps Down, the Fed Confronts ‘Regime Change’",
+        "link": "https://www.nytimes.com/2026/05/15/us/politics/jerome-powell-kevin-warsh-federal-reserve.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli settlers injure elderly woman in West Bank village",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-elderly-woman-west-bank-village"
+        "title": "Palestinian ambassador Husam Zomlot to run for Fatah's central committee",
+        "link": "https://www.middleeasteye.net/news/palestinian-ambassador-uk-run-fatah-central-committee"
       },
       {
-        "title": "Iran turns to Pakistan land corridor as US naval pressure disrupts Gulf trade",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-turns-pakistan-land-corridor-us-naval-pressure-disrupts-gulf-trade"
+        "title": "Iran’s Araghchi says open to China’s help to resolve Iran war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-open-chinas-help-resolve-mideast-conflict"
       },
       {
-        "title": "Iran turns to Pakistan land corridor as US naval pressure disrupts Gulf trade",
-        "link": "https://www.middleeasteye.net/news/iran-turns-pakistan-land-corridor-us-naval-pressure-disrupts-gulf-trade"
+        "title": "Inside Israel’s Flag March and the erasure of Palestinians in Jerusalem",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/inside-israels-flag-march-and-erasure-palestinians-jerusalem"
       },
       {
-        "title": "Violence, trauma and rising crime rates: How Israel's wars of aggression are hitting home",
-        "link": "https://www.middleeasteye.net/opinion/how-israels-wars-aggression-are-hitting-home"
+        "title": "Mossad, Shin Bet chiefs joined Netanyahu on 'secret' UAE visit during Iran war, report says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/mossad-shin-bet-chiefs-joined-netanyahu-secret-uae-visit-during-iran-war"
       },
       {
-        "title": "From Nakba to genocide: A Gaza grandmother’s lifetime of loss and resilience",
-        "link": "https://www.middleeasteye.net/news/nakba-genocide-gaza-grandmothers-lifetime-loss-and-resilience"
+        "title": "Inside Israel’s Flag March and the erasure of Palestinians in Jerusalem",
+        "link": "https://www.middleeasteye.net/news/inside-israels-flag-march-and-its-erasure-palestinians-jerusalem"
       }
     ],
     "GeoTV": [
       {
-        "title": "Colbert welcomes Letterman as they crash CBS logo with 'The Late Show' props",
-        "link": "https://www.geo.tv/latest/664535-colbert-welcomes-letterman-as-they-crash-cbs-logo-with-late-show-props"
+        "title": "Elon Musk's son Lil X goes viral for handmade Chinese tiger bag",
+        "link": "https://www.geo.tv/latest/664560-elon-musks-son-lil-x-goes-viral-for-handmade-c"
       },
       {
-        "title": "Govt seeks early launch of Pakistan-US direct flights: Naqvi",
-        "link": "https://www.geo.tv/latest/664534-govt-seeks-early-launch-of-direct-flights-between-pakistan-and-us-says-naqvi"
+        "title": "Indian PM seeks trade, energy stability on UAE-Europe tour",
+        "link": "https://www.geo.tv/latest/664559-indian-pm-seeks-trade-energy-stability-on-uae-europe-tour"
       },
       {
-        "title": "Prince Harry, Meghan's marriage strengthens amid criticism: No divorce on the cards",
-        "link": "https://www.geo.tv/latest/664531-prince-harry-meghans-marriage-strengthens-amid-criticism-no-divorce-on-the-cards"
+        "title": "Israel threatens to sue NYT over report on sex abuse of Palestinian inmates",
+        "link": "https://www.geo.tv/latest/664558-israel-threatens-to-sue-nyt-over-report-on-sex-abuse-of-palestinian-inmates"
       },
       {
-        "title": "Indian magnate Adani agrees to multimillion-dollar penalty in US court case",
-        "link": "https://www.geo.tv/latest/664533-indian-magnate-adani-agrees-multi-million-dollar-penalty-in-us-court-case"
+        "title": "Taylor Swift fans find hidden code behind black-and-white wardrobe",
+        "link": "https://www.geo.tv/latest/664561-taylor-swift-fans-find-hidden-code-behind-black-and-white-wardrobe"
       },
       {
-        "title": "Vernon Kay tops BBC radio ratings amid split from Tess Daly",
-        "link": "https://www.geo.tv/latest/664526-vernon-kay-tops-bbc-radio-ratings-amid-split-from-tess-dlay"
+        "title": "Why Katie Price believes every new romance will be different",
+        "link": "https://www.geo.tv/latest/664557-why-katie-price-believes-every-new-men-will-be-different"
       }
     ],
     "NDTV": [
       {
-        "title": "Watch: UAE's F-16 Jet Escorts PM Modi's Aircraft As He Arrives In Abu Dhabi",
-        "link": "https://www.ndtv.com/world-news/watch-uaes-f-16-jet-escorts-pm-modis-aircraft-as-he-arrives-in-abu-dhabi-11499053#publisher=newsstand"
-      },
-      {
-        "title": "52% In UAE, 44% In US: How India's Rs 3 Fuel Hike Compares To Other Nations",
-        "link": "https://www.ndtv.com/world-news/india-petrol-diesel-fuel-price-hike-comparison-major-economies-pm-modi-iran-war-crude-oil-11498839#publisher=newsstand"
-      },
-      {
-        "title": "Noida Woman, 31, Dies 5 Months After Marriage, Family Alleges Harassment",
-        "link": "https://www.ndtv.com/india-news/noida-woman-31-dies-5-months-after-marriage-family-alleges-harassment-bhopal-suicide-twisha-sharma-11499059#publisher=newsstand"
-      },
-      {
-        "title": "Rs 82-Lakh Robbery, 3 Arrests: Telangana Police Busts Interstate Gang",
-        "link": "https://www.ndtv.com/telangana-news/rs-82-lakh-robbery-3-arrests-telangana-police-busts-interstate-gang-11499030#publisher=newsstand"
-      },
-      {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 300 Points Amid Mixed Global Cues, India Hikes Fuel Prices",
+        "title": "Stock Market Highlights, Sensex Today: Markets End Week In Red, India Hikes Fuel Prices",
         "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-15-may-petrol-diesel-price-hike-us-iran-war-11498020#publisher=newsstand"
+      },
+      {
+        "title": "\"Very Slow\": Supreme Court Orders Fast Track Trial In Renukaswamy Murder Case",
+        "link": "https://www.ndtv.com/india-news/very-slow-supreme-court-orders-fast-track-trial-in-renukaswamy-murder-case-11499416#publisher=newsstand"
+      },
+      {
+        "title": "Bengal Suspends 3 IPS Officers Over \"Lapses\" In RG Kar Rape-Murder Case",
+        "link": "https://www.ndtv.com/india-news/bengal-suspends-3-ips-officers-over-lapses-in-rg-kar-rape-murder-case-11499775#publisher=newsstand"
+      },
+      {
+        "title": "Opinion: Blog | The Inescapable Curse Of Being A Woman Politician In India",
+        "link": "https://www.ndtv.com/opinion/the-curse-of-being-a-woman-politician-in-india-11499829#publisher=newsstand"
+      },
+      {
+        "title": "Bhojshala Complex's Disputed Area Declared Temple By Madhya Pradesh High Court",
+        "link": "https://www.ndtv.com/india-news/bhojshala-complexs-disputed-area-declared-temple-by-madhya-pradesh-high-court-11499534#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-15 08:25 UTC"
+  "last_updated": "2026-05-15 10:57 UTC"
 }
