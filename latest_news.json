@@ -1,7 +1,17 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Chelsea vs Manchester City – FA Cup final",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/16/live-chelsea-vs-manchester-city-fa-cup-final?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Tens of thousands descend on London for rival protests",
+        "link": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "The race to replace Starmer is on - but he still faces a momentous choice",
         "link": "https://www.bbc.com/news/articles/cx213m1d82lo?at_medium=RSS&at_campaign=rss"
@@ -11,38 +21,34 @@
         "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Thousands of officers deployed as crowds gather for London protests",
-        "link": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
         "link": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Call for more meningitis vaccines after teen dies",
-        "link": "https://www.bbc.com/news/articles/c99lg2d4r84o?at_medium=RSS&at_campaign=rss"
+        "title": "Eurovision final: Sex, violins and seven other things to look out for",
+        "link": "https://www.bbc.com/news/articles/c1d2qe73ly7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss"
+        "title": "Israel’s Image Crisis: Becoming Too Big to Spin?",
+        "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss"
       },
       {
-        "title": "Britain is losing the ability to tell anti-Semitism from dissent",
-        "link": "https://www.aljazeera.com/opinions/2026/5/16/britain-is-losing-the-ability-to-tell-anti-semitism-from-dissent?traffic_source=rss"
+        "title": "LIVE: Chelsea vs Manchester City – FA Cup final",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/16/live-chelsea-vs-manchester-city-fa-cup-final?traffic_source=rss"
       },
       {
-        "title": "From the Nakba to Gaza’s ruins: One man’s lifetime of displacement",
-        "link": "https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss"
+        "title": "At least eight killed, 25 injured as train hits bus in Bangkok",
+        "link": "https://www.aljazeera.com/news/2026/5/16/at-least-eight-killed-25-injured-as-train-hits-bus-in-bangkok?traffic_source=rss"
       },
       {
-        "title": "Russia’s Putin to visit China following Trump’s trip",
-        "link": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss"
+        "title": "How Kansas City became unlikely 2026 World Cup hosts for the US",
+        "link": "https://www.aljazeera.com/sports/2026/5/16/how-kansas-city-became-unlikely-2026-world-cup-hosts-for-the-us?traffic_source=rss"
       },
       {
-        "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
-        "link": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss"
+        "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
+        "link": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/2000662/trump-says-isis-second-in-command-abu-bilal-al-minuki-eliminated"
       },
       {
-        "title": "Putin to visit China on May 19-20 to further strengthen 'comprehensive partnership'",
-        "link": "https://www.dawn.com/news/2000686/putin-to-visit-china-on-may-19-20-to-further-strengthen-comprehensive-partnership"
+        "title": "Hamas confirms killing of military chief after Israeli strike",
+        "link": "https://www.dawn.com/news/2000705/hamas-confirms-killing-of-military-chief-after-israeli-strike"
       },
       {
-        "title": "Fatima Sana to lead women’s side as PCB announces squad for T20 World Cup, Ireland tri-series",
-        "link": "https://www.dawn.com/news/2000687/fatima-sana-to-lead-womens-side-as-pcb-announces-squad-for-t20-world-cup-ireland-tri-series"
+        "title": "Putin to visit China on May 19-20 to further strengthen 'comprehensive partnership'",
+        "link": "https://www.dawn.com/news/2000686/putin-to-visit-china-on-may-19-20-to-further-strengthen-comprehensive-partnership"
       }
     ],
     "APNews": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Thousands to march in parallel Nakba Day and far-right rallies in central London",
+        "link": "https://www.middleeasteye.net/news/thousands-march-parallel-nakba-day-and-far-right-rallies-central-london"
+      },
+      {
+        "title": "Israel launches air raid on town in southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-air-raid-town-southern-lebanon"
+      },
+      {
         "title": "Israel says it killed Hamas military chief in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-killed-hamas-military-chief-gaza"
       },
@@ -125,58 +139,50 @@
       {
         "title": "LGBTQ campaigners denounce Eurovision 'pinkwashing' ahead of final",
         "link": "https://www.middleeasteye.net/news/queer-campaigners-denounce-israeli-pinkwashing-eurovision-ahead-final"
-      },
-      {
-        "title": "Israeli military orders residents to flee nine Lebanese towns",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-orders-residents-flee-nine-lebanese-towns"
-      },
-      {
-        "title": "Video: Israeli settlers spit towards shrine of Virgin Mary in Jerusalem",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-settlers-spit-towards-shrine-virgin-mary-jerusalem"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles ‘can no longer protect' Princess Eugenie after new turmoil",
-        "link": "https://www.geo.tv/latest/664719-king-charles-can-no-longer-protect-princess-eugenie-after-new-turmoil"
+        "title": "Brian Lindstrom, filmmaker who humanized society's underdogs, dies at 65",
+        "link": "https://www.geo.tv/latest/664727-brian-lindstrom-filmmaker-who-humanized-societys-underdogs-dies-at-65"
       },
       {
-        "title": "Eurovision 2026: All you need to know about the song contest final",
-        "link": "https://www.geo.tv/latest/664716-eurovision-2026-all-you-need-to-know-about-the-song-contest-final"
+        "title": "Prince Harry touches Prince William's raw nerve with brazen move",
+        "link": "https://www.geo.tv/latest/664722-prince-harry-touches-prince-williams-raw-nerve-with-brazen-move"
       },
       {
-        "title": "Prince Harry, Meghan Markle Montecito neigbours reveal bitter truth",
-        "link": "https://www.geo.tv/latest/664713-prince-harry-meghan-markle-montecito-neigbours-reveal-bitter-truth"
+        "title": "Thandiani's 400 kanals set to rewrite Pakistan's tourism landscape",
+        "link": "https://www.geo.tv/latest/664724-thandianis-400-kanals-set-to-rewrite-pakistans-tourism-landscape"
       },
       {
-        "title": "King Charles key celebrations takes surprise turn: ‘terrible mix up'",
-        "link": "https://www.geo.tv/latest/664717-king-charles-key-celebrations-takes-surprise-turn-terrible-mix-up"
+        "title": "FA Cup Final: Can Fernandez be Chelsea's answer to Man City at Wembley tonight?",
+        "link": "https://www.geo.tv/latest/664718-fa-cup-final-can-fernandez-be-chelseas-answer-to-man-city-at-wembley-tonight"
       },
       {
-        "title": "Theo Von responds after Joe Rogan raises suicide concerns",
-        "link": "https://www.geo.tv/latest/664715-theo-von-responds-after-joe-rogan-raises-suicide-concerns"
+        "title": "Olly Murs explains why he turned down ‘Celebrity Traitors'",
+        "link": "https://www.geo.tv/latest/664721-olly-murs-explains-why-he-turned-down-celebrity-traitors"
       }
     ],
     "NDTV": [
       {
-        "title": "Diver Mauled To Death By 16-Foot Shark In Australian Tourist Hotspot",
-        "link": "https://www.ndtv.com/world-news/shark-attack-in-australia-diver-mauled-to-death-by-16-foot-shark-in-australian-tourist-hotspot-11504337#publisher=newsstand"
+        "title": "There Was Ruler's Law In Bengal, Now It Will Be Rule Of Law: Suvendu Adhikari",
+        "link": "https://www.ndtv.com/india-news/police-welfare-board-police-administration-there-was-rulers-law-in-west-bengal-now-it-will-be-rule-of-law-suvendu-adhikari-11504585#publisher=newsstand"
+      },
+      {
+        "title": "Handcuffed Inmate Attacks Cop, Tries To Flee In Punjab, Shot Dead: Police",
+        "link": "https://www.ndtv.com/india-news/handcuffed-inmate-attacks-cop-tries-to-flee-in-punjab-shot-dead-police-11504526#publisher=newsstand"
       },
       {
         "title": "Pune Teacher Behind NEET Biology Question Paper Leak Arrested",
         "link": "https://www.ndtv.com/india-news/manisha-mandhare-pune-teacher-behind-neet-ug-2026-exam-biology-question-paper-leak-arrested-11504145#publisher=newsstand"
       },
       {
-        "title": "Stay With Siddaramaiah Or Go With DK Shivakumar, Congress' Karnataka Conundrum",
-        "link": "https://www.ndtv.com/india-news/kerala-leadership-issue-resolved-congress-next-challenge-karnataka-11503867#publisher=newsstand"
+        "title": "8 Dead, 20 Injured After Cargo Train Rams Bus In Bangkok",
+        "link": "https://www.ndtv.com/world-news/bangkok-cargo-train-collides-with-bus-multiple-deaths-injuries-accident-captured-on-video-11504471#publisher=newsstand"
       },
       {
-        "title": "In 1st Captagon Bust, 227 Kilograms Of \"Jihadi Drug\" Worth Rs 182 Crore Seized",
-        "link": "https://www.ndtv.com/india-news/in-1st-captagon-bust-227-kilograms-of-jihadi-drug-worth-rs-182-crore-seized-11504170#publisher=newsstand"
-      },
-      {
-        "title": "What Is \"Jihadi Drug\" Captagon Seized By India Under 'Operation Ragepill'",
-        "link": "https://www.ndtv.com/india-news/what-is-jihadi-drug-captagon-seized-by-india-under-operation-ragepill-syrias-fallen-assad-regime-11504057#publisher=newsstand"
+        "title": "\"India's Diverse Culture Still Lives In Its People\": PM Modi In Netherlands",
+        "link": "https://www.ndtv.com/india-news/pm-modi-netherlands-indias-diverse-culture-still-lives-in-its-people-pm-modi-in-netherlands-11504434#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-16 11:02 UTC"
+  "last_updated": "2026-05-16 12:00 UTC"
 }
