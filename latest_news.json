@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US Iran War News LIVE Updates: Trump's \"Clock Ticking\" Threat To Iran, Tehran Readies Hormuz Traffic \"Mechanism\"",
-      "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-tehran-prepares-professional-mechanism-for-strait-of-hormuz-traffic-strikes-lebanon-despite-ceasefire-trump-11506528#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Mexican officials announce 10 dead in early-morning shooting in Tehuitzingo",
+        "link": "https://www.aljazeera.com/news/2026/5/17/mexican-officials-announce-10-dead-in-early-morning-shooting-in-tehuitzingo?traffic_source=rss"
+      },
+      {
+        "title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Peruvian authorities confirm Fujimori and Sanchez advance to runoff",
+        "link": "https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff?traffic_source=rss"
+      },
+      {
         "title": "France listening to 10 ‘new’ suspected victims of Epstein: Prosecutor",
         "link": "https://www.aljazeera.com/news/2026/5/17/france-listening-to-10-new-suspected-victims-of-epstein-prosecutor?traffic_source=rss"
       },
       {
         "title": "Sudanese army advances in Blue Nile state deepen displacement crisis",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/sudanese-army-advances-in-blue-nile-state-deepen-displacement-crisis?traffic_source=rss"
-      },
-      {
-        "title": "Italy’s leaders visit victims of Modena car-ramming, stabbing attacks",
-        "link": "https://www.aljazeera.com/news/2026/5/17/italian-leaders-visit-victims-of-modena-car-ramming-stabbing-attacks?traffic_source=rss"
-      },
-      {
-        "title": "Three community kitchen workers among five killed by Israel in Gaza",
-        "link": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Canadian FM: Is the US still a reliable ally?",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,8 +78,8 @@
         "link": "https://www.dawn.com/news/2000923/zilhaj-moon-sighted-eidul-azha-to-fall-on-may-27"
       },
       {
-        "title": "PM Shehbaz thanks Qatari PM for 'strong endorsement, support' of Pakistan-led peace efforts",
-        "link": "https://www.dawn.com/news/2000945/pm-shehbaz-thanks-qatari-pm-for-strong-endorsement-support-of-pakistan-led-peace-efforts"
+        "title": "PM Shehbaz credits 'political-military partnership' for Pakistan's recognition as US-Iran mediator, changed image",
+        "link": "https://www.dawn.com/news/2000962/pm-shehbaz-credits-political-military-partnership-for-pakistans-recognition-as-us-iran-mediator-changed-image"
       },
       {
         "title": "Section 144 imposed throughout Balochistan for one month",
@@ -99,6 +93,14 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "The Iran War Is Crippling One of the World’s Wealthiest Nations",
+        "link": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html"
+      },
+      {
+        "title": "In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months",
+        "link": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html"
+      },
+      {
         "title": "For Trump, Soaring Prices Test Voters’ Finances and Patience",
         "link": "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html"
       },
@@ -109,17 +111,13 @@
       {
         "title": "Trump Administration Pushes Narrative of Christian Nation at Prayer Rally in D.C.",
         "link": "https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html"
-      },
-      {
-        "title": "Trump Tightens Grasp on G.O.P. as Cassidy Loss Shows Cost of Defiance",
-        "link": "https://www.nytimes.com/2026/05/17/us/politics/trump-cassidy-midterms-louisiana-primary.html"
-      },
-      {
-        "title": "Why Neutral Maps Could Empower Black Voters as Much as the Voting Rights Act",
-        "link": "https://www.nytimes.com/2026/05/17/upshot/redistricting-race-court-gerrymanders-elections.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Saudi Arabia condemns UAE drone strike, backs security measures",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-uae-drone-strike-backs-security-measures"
+      },
       {
         "title": "Israeli strikes in south Lebanon kill five, wound several",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-south-lebanon-kill-five-wound-several"
@@ -135,13 +133,21 @@
       {
         "title": "Trump warns Iran ‘clock is ticking’ threatening severe consequences",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-warns-iran-clock-ticking-threatening-severe-consequences"
-      },
-      {
-        "title": "Israeli strikes in Gaza kill one, wound several in Khan Younis and Gaza City",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-gaza-kill-one-wound-several-khan-younis-and-gaza-city"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Sindh govt to conduct random drug testing in schools: minister",
+        "link": "https://www.geo.tv/latest/664891-sindh-govt-to-conduct-random-drug-testing-in-schools-minister"
+      },
+      {
+        "title": "China to buy at least $17bn in US agricultural products annually, says White House",
+        "link": "https://www.geo.tv/latest/664890-china-to-buy-at-least-17-billion-in-us-agricultural-products-annually-says-white-house"
+      },
+      {
+        "title": "Prince Harry left off guest list for 'gang of kids' reunion",
+        "link": "https://www.geo.tv/latest/664884-prince-harry-left-off-guest-list-for-gang-of-kids-reunion"
+      },
       {
         "title": "Sanam Saeed marks Cannes debut in traditional attire",
         "link": "https://www.geo.tv/latest/664887-sanam-saeed-marks-cannes-debut-in-traditional-attire"
@@ -149,40 +155,28 @@
       {
         "title": "Inside Taylor Swift, Travis Kelce's recent wedding appearance",
         "link": "https://www.geo.tv/latest/664879-inside-taylor-swift-travis-kelces-recent-wedding-appearance"
-      },
-      {
-        "title": "Suspect in Karachi's Defence fatal hit-and-run remains at large",
-        "link": "https://www.geo.tv/latest/664888-suspect-in-karachis-defence-fatal-hit-and-run-remains-at-large"
-      },
-      {
-        "title": "Princess of Wales praised as 'step ahead' of royal family",
-        "link": "https://www.geo.tv/latest/664882-princess-of-wales-praised-as-step-ahead-of-royal-family"
-      },
-      {
-        "title": "Prince William's 'quick selfie' with Rayan Cherki is going viral",
-        "link": "https://www.geo.tv/latest/664873-prince-williams-quick-selfie-with-rayan-cherki-is-going-viral"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Won't Be Anything Left Of Them\": Trump's \"Clock Ticking\" Warning To Iran",
-        "link": "https://www.ndtv.com/world-news/clock-is-ticking-better-get-moving-trumps-latest-warning-to-iran-11509064#publisher=newsstand"
+        "title": "'Shimla Agreement Table Stays As Reminder Of Mistakes': Himachal Governor",
+        "link": "https://www.ndtv.com/india-news/shimla-agreement-table-stays-as-reminder-of-mistakes-himachal-pradesh-governor-kavinder-gupta-11509368#publisher=newsstand"
       },
       {
-        "title": "US Iran War News LIVE Updates: Trump's \"Clock Ticking\" Threat To Iran, Tehran Readies Hormuz Traffic \"Mechanism\"",
+        "title": "US Iran War News Highlights: Trump's \"Clock Ticking\" Threat To Iran, Tehran Readies Hormuz Traffic \"Mechanism\"",
         "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-tehran-prepares-professional-mechanism-for-strait-of-hormuz-traffic-strikes-lebanon-despite-ceasefire-trump-11506528#publisher=newsstand"
       },
       {
-        "title": "Paris Probes Child Abuse By Staff At 84 Kindergartens, 20 Primary Schools",
-        "link": "https://www.ndtv.com/world-news/paris-probes-child-abuse-by-staff-at-84-kindergartens-20-primary-schools-11509039#publisher=newsstand"
+        "title": "Trump Likely To Hold Key Meeting Over Military Action On Iran: Report",
+        "link": "https://www.ndtv.com/world-news/trump-likely-to-hold-key-meeting-over-military-action-on-iran-report-11509277#publisher=newsstand"
       },
       {
-        "title": "PM Modi Receives Sweden's Top Honour, Royal Order Of Polar Star",
-        "link": "https://www.ndtv.com/world-news/pm-modi-receives-swedens-top-honour-royal-order-of-polar-star-11508986#publisher=newsstand"
+        "title": "India, Netherlands Sign Pact To Fast Track Freshwater Reservoir In Gujarat",
+        "link": "https://www.ndtv.com/india-news/india-netherlands-sign-pact-to-fast-track-freshwater-reservoir-in-gujarat-11509244#publisher=newsstand"
       },
       {
-        "title": "Iran Has Found Another Achilles' Heel Lurking Beneath Strait Of Hormuz",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-tehran-iran-has-found-another-achilles-heel-lurking-beneath-strait-of-hormuz-11508894#publisher=newsstand"
+        "title": "UP Cabinet Portfolios Allocated Week After Expansion: Who Got What",
+        "link": "https://www.ndtv.com/india-news/up-cabinet-portfolios-allocated-week-after-expansion-who-got-what-11509238#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-17 18:39 UTC"
+  "last_updated": "2026-05-17 19:49 UTC"
 }
