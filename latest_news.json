@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "PM Modi Sweden Visit LIVE: PM Modi To Visit Sweden Today On Third Leg Of Five-Nation Tour",
-      "link": "https://www.ndtv.com/world-news/pm-modi-netherlands-visit-live-updates-modi-five-nation-tour-netherlands-sweden-norway-italy-uae-energy-trade-updates-pm-narendra-modi-praises-indians-11504070#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "Personal decision for Starmer on whether to fight leadership contest, minister says",
+        "link": "https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "The UK is churning through leaders. Is the country becoming harder to govern?",
         "link": "https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&at_campaign=rss"
@@ -23,13 +21,13 @@
       {
         "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
         "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-        "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "WHO declares Ebola outbreak in DRC, Uganda a global emergency: What to know",
+        "link": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-drc-uganda-a-global-emergency-what-to-know?traffic_source=rss"
+      },
       {
         "title": "Republican Senator Cassidy loses Louisiana primary after opposing Trump",
         "link": "https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "Two Nepali Sherpa climbers break own records on Mount Everest",
         "link": "https://www.aljazeera.com/news/2026/5/17/two-nepali-sherpa-climbers-break-own-records-on-mount-everest?traffic_source=rss"
-      },
-      {
-        "title": "Egyptian teen Amina Orfi beats El-Sherbini to win PSA world squash title",
-        "link": "https://www.aljazeera.com/sports/2026/5/17/egyptian-teen-amina-orfi-beats-el-sherbini-to-win-psa-world-squash-title?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/2000883/ispr-takes-exception-after-indian-army-chief-says-pakistan-should-decide-between-being-part-of-geography-or-not"
       },
       {
+        "title": "Kundi calls on PM to 'take interest' in KP's issues, says told CM Afridi to focus on governance not Adiala",
+        "link": "https://www.dawn.com/news/2000922/kundi-calls-on-pm-to-take-interest-in-kps-issues-says-told-cm-afridi-to-focus-on-governance-not-adiala"
+      },
+      {
         "title": "Islamabad, Baku developing ties within Pakistan-Turkiye-Azerbaijan trilateral framework: President Aliyev",
         "link": "https://www.dawn.com/news/2000914/islamabad-baku-developing-ties-within-pakistan-turkiye-azerbaijan-trilateral-framework-president-aliyev"
       },
@@ -90,10 +88,6 @@
       {
         "title": "E-challan system yet to bring order on Karachi’s roads",
         "link": "https://www.dawn.com/news/2000760/e-challan-system-yet-to-bring-order-on-karachis-roads"
-      },
-      {
-        "title": "India-Pakistan dialogue push gains steam in held Kashmir too",
-        "link": "https://www.dawn.com/news/2000813/india-pakistan-dialogue-push-gains-steam-in-held-kashmir-too"
       }
     ],
     "APNews": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Drone strike causes fire at Abu Dhabi nuclear power plant",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-strike-causes-fire-abu-dhabi-nuclear-power-plant"
+      },
+      {
         "title": "Russia lures Yemenis with cash incentives to fight against Ukraine",
         "link": "https://www.middleeasteye.net/news/russia-lures-yemen-soldiers-cash-incentives-fight-against-ukraine"
       },
@@ -135,54 +133,50 @@
       {
         "title": "UAE foreign minister treats Nigel Farage like prime-minister-in-waiting on UK trip",
         "link": "https://www.middleeasteye.net/news/uae-foreign-minister-treats-nigel-farage-prime-minister-waiting-uk-trip"
-      },
-      {
-        "title": "Qatari and Saudi foreign ministers discuss US-Iran ceasefire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-and-saudi-foreign-ministers-speak-phone-call"
       }
     ],
     "GeoTV": [
       {
+        "title": "Taylor Swift teases TS13 with subtle clue in new outing",
+        "link": "https://www.geo.tv/latest/664849-taylor-swift-teases-ts13-with-subtle-clue-in-new-outing"
+      },
+      {
+        "title": "Palace takes U-turn on pregnant Princess Eugenie amid charity row",
+        "link": "https://www.geo.tv/latest/664851-palace-takes-u-turn-on-pregnant-princess-eugenie-amid-charity-row"
+      },
+      {
+        "title": "Princess Charlotte ready to pave way for new royal era: ‘different path'",
+        "link": "https://www.geo.tv/latest/664848-princess-charlotte-ready-to-pave-way-for-new-royal-era-different-path"
+      },
+      {
+        "title": "Prince William heated arguments with King Charles exposed: 'Seek help'",
+        "link": "https://www.geo.tv/latest/664846-prince-william-heated-arguments-with-king-charles-exposed-seek-help"
+      },
+      {
         "title": "Centcom chief hails Pakistan for cooperation in counterterrorism operations",
         "link": "https://www.geo.tv/latest/664847-centcom-chief-hails-pakistan-for-cooperation-in-counterterrorism-operations"
-      },
-      {
-        "title": "Eurovision fans lose it as Bulgaria pulls of shock victory: Watch",
-        "link": "https://www.geo.tv/latest/664845-eurovision-fans-lose-it-as-bulgaria-pulls-of-shock-victory"
-      },
-      {
-        "title": "Prince Harry gets postive update on royal role despite William's objection",
-        "link": "https://www.geo.tv/latest/664844-prince-harry-gets-postive-update-on-royal-role-despite-williams-objection"
-      },
-      {
-        "title": "Why are snakes being spotted more frequently in Islamabad?",
-        "link": "https://www.geo.tv/latest/664835-why-are-snakes-being-spotted-more-frequently-in-islamabad"
-      },
-      {
-        "title": "Joshua Bassett reveals shocking truth after near-death experience",
-        "link": "https://www.geo.tv/latest/664843-joshua-bassett-reveals-shocking-truth-after-near-death-experience"
       }
     ],
     "NDTV": [
       {
-        "title": "In 'Cut Money' Outburst, Exploited Villagers Target Trinamool Leaders",
-        "link": "https://www.ndtv.com/india-news/in-cut-money-outburst-exploited-villagers-target-trinamool-leaders-11507642#publisher=newsstand"
+        "title": "Man Hangs Self After Getting Slapped By Woman In Public In Maharashtra: Cops",
+        "link": "https://www.ndtv.com/india-news/man-hangs-self-after-getting-slapped-by-woman-in-public-in-maharashtra-cops-11507905#publisher=newsstand"
       },
       {
-        "title": "Delhi To Face Severe Heatwave Soon, Temperature May Hit 45 Degrees Celsius",
-        "link": "https://www.ndtv.com/india-news/delhi-to-face-severe-heatwave-soon-temperatures-may-hit-45-degrees-celsius-heatwave-across-india-summer-weather-in-india-11507395#publisher=newsstand"
+        "title": "In Bizarre Case, Karnataka Shopkeeper Alleges Gang Hypnotised Him, Looted Cash",
+        "link": "https://www.ndtv.com/karnataka-news/in-bizarre-case-karnataka-shopkeeper-alleges-gang-hypnotised-him-looted-cash-11507846#publisher=newsstand"
       },
       {
-        "title": "Asked To Give Way, 2 Men Stop Bengaluru Woman's Range Rover, Assault Her Husband",
-        "link": "https://www.ndtv.com/bangalore-news/asked-to-give-way-2-men-stop-bengaluru-womans-range-rover-assault-her-husband-11507653#publisher=newsstand"
+        "title": "Lashkar Terrorist's Mission Detour: A Hair Transplant In Kashmir",
+        "link": "https://www.ndtv.com/india-news/lashkar-terrorists-mission-detour-a-hair-transplant-in-kashmir-11507830#publisher=newsstand"
       },
       {
-        "title": "'Jilted Lover' Kills Woman In Telangana, Claims She 'Refused To Return Money'",
-        "link": "https://www.ndtv.com/telangana-news/jilted-lover-kills-woman-in-telangana-claims-she-refused-to-return-money-locals-thrash-him-11506797#publisher=newsstand"
+        "title": "No Doctor, Locked Gate: Faridabad Woman Gives Birth In Hospital Parking Lot",
+        "link": "https://www.ndtv.com/india-news/no-doctor-locked-gate-faridabad-woman-gives-birth-in-hospital-parking-lot-11507823#publisher=newsstand"
       },
       {
-        "title": "PM Modi Sweden Visit LIVE: PM Modi To Visit Sweden Today On Third Leg Of Five-Nation Tour",
-        "link": "https://www.ndtv.com/world-news/pm-modi-netherlands-visit-live-updates-modi-five-nation-tour-netherlands-sweden-norway-italy-uae-energy-trade-updates-pm-narendra-modi-praises-indians-11504070#publisher=newsstand"
+        "title": "NP Narvekar, Behind Harvard's $57 Billion Endowment Fund, Plans To Retire",
+        "link": "https://www.ndtv.com/world-news/np-narvekar-behind-harvards-57-billion-endowment-fund-plans-to-retire-11506997#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-17 10:49 UTC"
+  "last_updated": "2026-05-17 11:49 UTC"
 }
