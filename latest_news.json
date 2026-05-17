@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Nepal's Kami Rita Climbs Mount Everest For 32nd Time, Breaking His Own Record",
+      "link": "https://www.ndtv.com/world-news/nepals-kami-rita-sherpa-climbs-mount-everest-for-32nd-time-breaking-his-own-record-11507282#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,34 +21,34 @@
         "link": "https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "North of England Olympic bid for 2040s being assessed",
-        "link": "https://www.bbc.com/sport/olympics/articles/clypl9pzy6jo?at_medium=RSS&at_campaign=rss"
+        "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+        "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-        "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
+        "title": "North of England Olympic bid for 2040s being assessed",
+        "link": "https://www.bbc.com/sport/olympics/articles/clypl9pzy6jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit",
-        "link": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss"
+        "title": "At least four killed in Ukrainian drone attacks on Russia",
+        "link": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss"
       },
       {
-        "title": "Could a leadership change undo Israel’s international isolation?",
-        "link": "https://www.aljazeera.com/news/2026/5/17/could-a-leadership-change-undo-israels-international-isolation?traffic_source=rss"
+        "title": "Conor McGregor to fight Max Holloway in UFC return on July 11",
+        "link": "https://www.aljazeera.com/sports/2026/5/17/conor-mcgregor-to-fight-max-holloway-in-ufc-return-on-july-11?traffic_source=rss"
       },
       {
-        "title": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
-        "link": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss"
+        "title": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss"
       },
       {
-        "title": "WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency",
-        "link": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-dr-congo-uganda-a-global-health-emergency?traffic_source=rss"
+        "title": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
+        "link": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss"
       },
       {
-        "title": "FIFA holds ‘positive’ talks with Iranian football officials on World Cup",
-        "link": "https://www.aljazeera.com/sports/2026/5/17/fifa-holds-positive-talks-with-iranian-football-officials-on-world-cup?traffic_source=rss"
+        "title": "Sardar Azmoun left out as Iran announce World Cup 2026 squad",
+        "link": "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,16 +80,16 @@
         "link": "https://www.dawn.com/news/2000883/ispr-takes-exception-after-indian-army-chief-says-pakistan-should-decide-between-being-part-of-geography-or-not"
       },
       {
-        "title": "Pakistan makes fresh bid to revive US-Iran talks",
-        "link": "https://www.dawn.com/news/2000823/pakistan-makes-fresh-bid-to-revive-us-iran-talks"
+        "title": "E-challan system yet to bring order on Karachi’s roads",
+        "link": "https://www.dawn.com/news/2000760/e-challan-system-yet-to-bring-order-on-karachis-roads"
       },
       {
         "title": "India-Pakistan dialogue push gains steam in held Kashmir too",
         "link": "https://www.dawn.com/news/2000813/india-pakistan-dialogue-push-gains-steam-in-held-kashmir-too"
       },
       {
-        "title": "E-challan system yet to bring order on Karachi’s roads",
-        "link": "https://www.dawn.com/news/2000760/e-challan-system-yet-to-bring-order-on-karachis-roads"
+        "title": "Qantas flight diverted after man bites flight attendant",
+        "link": "https://www.dawn.com/news/2000901/qantas-flight-diverted-after-man-bites-flight-attendant"
       },
       {
         "title": "Anmol Pinky complains of ‘pressure to give false statements’, disputes official claim on arrest timing",
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "UAE foreign minister treats Nigel Farage like prime-minister-in-waiting on UK trip",
+        "link": "https://www.middleeasteye.net/news/uae-foreign-minister-treats-nigel-farage-prime-minister-waiting-uk-trip"
+      },
+      {
+        "title": "Qatari and Saudi foreign ministers discuss US-Iran ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-and-saudi-foreign-ministers-speak-phone-call"
+      },
+      {
         "title": "Israeli shelling strikes Khan Younis and Bureij refugee camp, Wafa reports",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-shelling-strikes-khan-younis-and-bureij-refugee-camp-wafa"
       },
@@ -125,58 +139,50 @@
       {
         "title": "Israeli minister praises Eurovision result amid boycott protests",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-minister-praises-eurovision-result-amid-boycott-protests"
-      },
-      {
-        "title": "Israel reports drone and rocket attacks from Hezbollah",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-reports-drone-and-rocket-attacks-hezbollah"
-      },
-      {
-        "title": "Hezbollah reports rocket attack on Israeli troops near Hadatha",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-reports-rocket-attack-israeli-troops-near-hadatha"
       }
     ],
     "GeoTV": [
       {
-        "title": "King's team ‘reacts' to Prince Harry bold statement on division in kingdom",
-        "link": "https://www.geo.tv/latest/664831-kings-team-reacts-to-prince-harry-bold-statement-on-division-in-kingdom"
+        "title": "Andrew Mountbatten-Windsor ‘hidden' agreement with Firm after near-attack",
+        "link": "https://www.geo.tv/latest/664841-andrew-mountbatten-windsor-hidden-agreement-with-firm-after-near-attack"
       },
       {
-        "title": "Sarah Ferguson breaks silence on claims that 'hurt' Eugenie, Beatrice",
-        "link": "https://www.geo.tv/latest/664828-sarah-ferguson-breaks-silence-on-claims-that-hurt-eugenie-beatrice"
+        "title": "Katie Price takes drastic action after husband Lee Andrews goes missing",
+        "link": "https://www.geo.tv/latest/664836-katie-price-takes-drastic-action-after-husband-lee-andrews-goes-missing"
       },
       {
-        "title": "Prince William, Kate forced to take action for Forest Lodge amid royal blunder",
-        "link": "https://www.geo.tv/latest/664826-prince-william-kate-forced-to-take-action-for-forest-lodge-amid-royal-blunder"
+        "title": "Prince William takes picture with Rayan Cherki at FA Cup: 'Selfie King'",
+        "link": "https://www.geo.tv/latest/664840-prince-william-takes-picture-with-rayan-cherki-at-fa-cup-selfie-king"
       },
       {
-        "title": "Molly Mae arrives in style at Venezuela Fury's wedding aboard £15k private jet",
-        "link": "https://www.geo.tv/latest/664822-molly-mae-arrives-in-style-at-venezuela-furys"
+        "title": "Chelsea appoint Xabi Alonso as new manager",
+        "link": "https://www.geo.tv/latest/664837-chelsea-appoint-xabi-alonso-as-new-manager"
       },
       {
-        "title": "Second Test: Pakistan's top-order collapses as Bangladesh dominate morning session",
-        "link": "https://www.geo.tv/latest/664824-second-test-pakistans-top-order-collapses-as-bangladesh-dominate-morning-session"
+        "title": "Pete Davidson dubs as main character during split with Elsie Hewitt",
+        "link": "https://www.geo.tv/latest/664838-pete-davidson-dubs-as-main-character-during-split-with-elsie-hewitt"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Love You\" Note Scribbled In Dust After Taps Stolen From Congress Office In Chhattisgarh",
-        "link": "https://www.ndtv.com/india-news/love-you-note-scribbled-in-dust-after-taps-stolen-from-chhattisgarh-congress-office-11507208#publisher=newsstand"
+        "title": "FBI Jet, $35,000 Suite Date, Pearl Harbour Snorkel: Kash Patel Faces Heat",
+        "link": "https://www.ndtv.com/world-news/date-on-fbi-jet-pearl-harbour-snorkel-kash-patel-faces-fresh-scrutiny-11507342#publisher=newsstand"
       },
       {
-        "title": "Census 2027: Door-To-Door Survey Begins In Delhi, Maharashtra, Other States",
-        "link": "https://www.ndtv.com/india-news/census-2027-door-to-door-survey-begins-in-delhi-maharashtra-rajasthan-jharkhand-other-states-11507181#publisher=newsstand"
+        "title": "Delhi To Face Severe Heatwave Soon, Temperatures May Hit 45 Degrees Celsius",
+        "link": "https://www.ndtv.com/india-news/delhi-to-face-severe-heatwave-soon-temperatures-may-hit-45-degrees-celsius-heatwave-across-india-summer-weather-in-india-11507395#publisher=newsstand"
       },
       {
-        "title": "CNG Gets Costlier In Delhi, Second Price Hike In Two Days",
-        "link": "https://www.ndtv.com/india-news/cng-prices-increased-by-re-1-in-delhi-second-hike-in-two-days-11506728#publisher=newsstand"
+        "title": "Man Who Struck Mumbai Teen, Left Her In Coma 9 Years Ago Fined Rs 20,000",
+        "link": "https://www.ndtv.com/mumbai-news/man-who-struck-mumbai-teen-left-her-in-coma-9-years-ago-fined-rs-20-000-11507372#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | The Beijing Spectacle And The Recalibration Of Global Power",
-        "link": "https://www.ndtv.com/opinion/trump-xi-summit-us-china-decide-to-carve-up-their-share-of-the-world-11507160#publisher=newsstand"
+        "title": "Inside NEET Paper Leak: How Questions Reached Aspirants From Insiders",
+        "link": "https://www.ndtv.com/education/neet-ug-2026-paper-leak-how-questions-reached-aspirants-from-insiders-11507367#publisher=newsstand"
       },
       {
-        "title": "'Rahul, Priyanka Forget Wayanad': Case Filed Over Posters Warning Gandhi Siblings",
-        "link": "https://www.ndtv.com/india-news/case-filed-over-wayanad-will-become-next-amethi-posters-near-congress-office-targetting-rahul-gandhi-priyanka-11507093#publisher=newsstand"
+        "title": "Nepal's Kami Rita Climbs Mount Everest For 32nd Time, Breaking His Own Record",
+        "link": "https://www.ndtv.com/world-news/nepals-kami-rita-sherpa-climbs-mount-everest-for-32nd-time-breaking-his-own-record-11507282#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-17 07:43 UTC"
+  "last_updated": "2026-05-17 09:24 UTC"
 }
