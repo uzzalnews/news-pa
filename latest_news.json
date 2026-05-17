@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US Iran War News LIVE Updates: Trump's \"Clock Ticking\" Threat To Iran, Tehran Readies Hormuz Traffic \"Mechanism\"",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-tehran-prepares-professional-mechanism-for-strait-of-hormuz-traffic-strikes-lebanon-despite-ceasefire-trump-11506528#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,8 +17,8 @@
         "link": "https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Forty-three arrests after £4.5m police operation to keep rival London protests apart",
-        "link": "https://www.bbc.com/news/articles/ckgpznn202po?at_medium=RSS&at_campaign=rss"
+        "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+        "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'Look Mum, one point': How the UK keeps getting Eurovision wrong",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Italy’s leaders visit victims of Modena car-ramming, stabbing attacks",
+        "link": "https://www.aljazeera.com/news/2026/5/17/italian-leaders-visit-victims-of-modena-car-ramming-stabbing-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Three community kitchen workers among five killed by Israel in Gaza",
+        "link": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Canadian FM: Is the US still a reliable ally?",
+        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss"
+      },
+      {
         "title": "DRC faces deadly Ebola resurgence amid worsening humanitarian crisis",
         "link": "https://www.aljazeera.com/features/2026/5/17/drc-faces-deadly-ebola-resurgence-amid-worsening-humanitarian-crisis?traffic_source=rss"
       },
       {
         "title": "Iranian civilians get defence training",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss"
-      },
-      {
-        "title": "US college graduates face harsh job market amid economic uncertainty",
-        "link": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss"
-      },
-      {
-        "title": "Taiwan not to give up ‘free way of life under pressure’: President",
-        "link": "https://www.aljazeera.com/news/2026/5/17/taiwan-not-to-give-up-free-way-of-life-under-pressure-president?traffic_source=rss"
-      },
-      {
-        "title": "What to know about Panama at the FIFA World Cup 2026",
-        "link": "https://www.aljazeera.com/sports/2026/5/17/what-to-know-about-panama-at-the-fifa-world-cup-2026?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "Pakistan hails PCA's decision in IWT proceedings, says it affirms limits on India’s water-control capability",
+        "link": "https://www.dawn.com/news/2000952/pakistan-hails-pcas-decision-in-iwt-proceedings-says-it-affirms-limits-on-indias-water-control-capability"
+      },
+      {
         "title": "Zilhaj moon sighted, Eidul Azha to fall on May 27",
         "link": "https://www.dawn.com/news/2000923/zilhaj-moon-sighted-eidul-azha-to-fall-on-may-27"
       },
@@ -84,10 +94,6 @@
       {
         "title": "Pakistan 'critical counter-terrorism partner' in US fight against IS-K: Centcom",
         "link": "https://www.dawn.com/news/2000930/pakistan-critical-counter-terrorism-partner-in-us-fight-against-is-k-centcom"
-      },
-      {
-        "title": "Applicants will soon have the option to get passports delivered to their doorsteps, says official",
-        "link": "https://www.dawn.com/news/2000939/applicants-will-soon-have-the-option-to-get-passports-delivered-to-their-doorsteps-says-official"
       }
     ],
     "APNews": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Trump warns Iran ‘clock is ticking’ threatening severe consequences",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-warns-iran-clock-ticking-threatening-severe-consequences"
+      },
+      {
+        "title": "Israeli strikes in Gaza kill one, wound several in Khan Younis and Gaza City",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-gaza-kill-one-wound-several-khan-younis-and-gaza-city"
+      },
+      {
         "title": "UAE condemns drone strike near nuclear plant as ‘dangerous escalation’",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-drone-strike-near-nuclear-plant-dangerous-escalation"
       },
@@ -125,17 +139,13 @@
       {
         "title": "Iran thanks Pakistan, Iraq and Afghanistan for refusing US-Israeli access",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-thanks-pakistan-iraq-and-afghanistan"
-      },
-      {
-        "title": "Iraqi farmer killed to hide evidence of two Israeli bases: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-farmer-killed-hide-evidence-two-israeli-bases-report"
-      },
-      {
-        "title": "Iraqi farmer killed to hide evidence of two Israeli bases in country: Report",
-        "link": "https://www.middleeasteye.net/news/iraqi-farmer-killed-hide-evidence-two-israeli-bases-country"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Princess of Wales praised as 'step ahead' of royal family",
+        "link": "https://www.geo.tv/latest/664882-princess-of-wales-praised-as-step-ahead-of-royal-family"
+      },
       {
         "title": "Prince William's 'quick selfie' with Rayan Cherki is going viral",
         "link": "https://www.geo.tv/latest/664873-prince-williams-quick-selfie-with-rayan-cherki-is-going-viral"
@@ -151,32 +161,28 @@
       {
         "title": "Gina Carano breaks silence on ‘Star Wars' firing and social media backlash",
         "link": "https://www.geo.tv/latest/664881-gina-carano-breaks-silence-on-star-wars-firing-and-social-media-backlash"
-      },
-      {
-        "title": "King Charles pushes Duchess Sophie to compete with Meghan Markle",
-        "link": "https://www.geo.tv/latest/664874-king-charles-pushes-duchess-sophie-to-compete-with-meghan-markle"
       }
     ],
     "NDTV": [
       {
-        "title": "20 Ministers In VD Satheesan Cabinet In Kerala, 14 Will Be New Faces",
-        "link": "https://www.ndtv.com/india-news/20-ministers-in-vd-satheesan-cabinet-in-kerala-14-will-be-new-faces-11508705#publisher=newsstand"
+        "title": "\"Won't Be Anything Left Of Them\": Trump's \"Clock Ticking\" Warning To Iran",
+        "link": "https://www.ndtv.com/world-news/clock-is-ticking-better-get-moving-trumps-latest-warning-to-iran-11509064#publisher=newsstand"
       },
       {
-        "title": "Indian Among 3 Killed In Ukrainian Drone Attack On Moscow",
-        "link": "https://www.ndtv.com/world-news/russia-ukraine-war-indian-among-3-killed-in-ukrainian-drone-attack-on-moscow-11508659#publisher=newsstand"
+        "title": "US Iran War News LIVE Updates: Trump's \"Clock Ticking\" Threat To Iran, Tehran Readies Hormuz Traffic \"Mechanism\"",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-tehran-prepares-professional-mechanism-for-strait-of-hormuz-traffic-strikes-lebanon-despite-ceasefire-trump-11506528#publisher=newsstand"
       },
       {
-        "title": "Ground Report: Delhi's Narela Gets Rs 55-Crore Drainage Upgrade Ahead Of Monsoon",
-        "link": "https://www.ndtv.com/india-news/delhis-narela-gets-rs-55-crore-drainage-upgrade-ahead-of-monsoon-11508581#publisher=newsstand"
+        "title": "Paris Probes Child Abuse By Staff At 84 Kindergartens, 20 Primary Schools",
+        "link": "https://www.ndtv.com/world-news/paris-probes-child-abuse-by-staff-at-84-kindergartens-20-primary-schools-11509039#publisher=newsstand"
       },
       {
-        "title": "UAE Nuclear Power Plant Hit By Drone, Triggers Massive Fire",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-uae-nuclear-power-plant-hit-by-drone-triggers-massive-fire-11508523#publisher=newsstand"
+        "title": "PM Modi Receives Sweden's Top Honour, Royal Order Of Polar Star",
+        "link": "https://www.ndtv.com/world-news/pm-modi-receives-swedens-top-honour-royal-order-of-polar-star-11508986#publisher=newsstand"
       },
       {
-        "title": "No Actual Concessions In US Response To Iran's Proposal To End War: Report",
-        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-no-actual-concessions-in-us-response-to-irans-proposal-to-end-war-report-11508510#publisher=newsstand"
+        "title": "Iran Has Found Another Achilles' Heel Lurking Beneath Strait Of Hormuz",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-tehran-iran-has-found-another-achilles-heel-lurking-beneath-strait-of-hormuz-11508894#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-17 16:32 UTC"
+  "last_updated": "2026-05-17 17:35 UTC"
 }
