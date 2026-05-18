@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Arsenal vs Burnley – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/18/live-arsenal-vs-burnley-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "UK companies linked to payments for small boat crossings, BBC finds",
-        "link": "https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&at_campaign=rss"
+        "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
+        "link": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "PM insists he will not walk away as Burnham promises to change Labour",
+        "link": "https://www.bbc.com/news/articles/cx21en4807wo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Bodies of missing Italian divers found in Maldives",
         "link": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Are baby boomers like me the luckiest generation in history?",
-        "link": "https://www.bbc.com/news/articles/cj6pyk7e3w4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "UK growth forecast upgraded by IMF but risks remain",
-        "link": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Prince William selling 20% of duchy property for housing and nature projects",
         "link": "https://www.bbc.com/news/articles/ce8pg8ryjkzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK companies linked to payments for small boat crossings, BBC finds",
+        "link": "https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "DRC health minister visits hotspot for Ebola outbreak",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/drc-health-minister-visits-hotspot-for-ebola-outbreak?traffic_source=rss"
+        "title": "LIVE: Arsenal vs Burnley – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/18/live-arsenal-vs-burnley-premier-league?traffic_source=rss"
       },
       {
-        "title": "Iran plans to offer insurance for Hormuz transit: Will it work?",
-        "link": "https://www.aljazeera.com/news/2026/5/18/iran-plans-to-offer-insurance-for-hormuz-transit-will-it-work?traffic_source=rss"
+        "title": "Could the Iran war trigger the next debt shock?",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/18/could-the-iran-war-trigger-the-next-debt-shock?traffic_source=rss"
       },
       {
-        "title": "Iran says nuclear enrichment rights cannot be ‘negotiated’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/iran-says-nuclear-enrichment-rights-cannot-be-negotiated?traffic_source=rss"
+        "title": "Former US negotiator with Iran: Trump falling into Vietnam trap",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/18/former-us-negotiator-with-iran-trump-falling-into-vietnam-trap?traffic_source=rss"
       },
       {
-        "title": "Russian drone hits Chinese ship off Ukraine before Putin visits Xi Jinping",
-        "link": "https://www.aljazeera.com/news/2026/5/18/russian-drone-hits-chinese-ship-off-ukraine-before-putin-visits-xi-jinping?traffic_source=rss"
+        "title": "Tata-ASML deal: How significant is it for India’s semiconductor push?",
+        "link": "https://www.aljazeera.com/news/2026/5/18/tata-asml-deal-how-significant-is-it-for-indias-semiconductor-push?traffic_source=rss"
       },
       {
-        "title": "Israeli forces begin intercepting Gaza-bound aid flotilla near Cyprus",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-forces-begin-intercepting-gaza-bound-aid-flotilla-near-cyprus?traffic_source=rss"
+        "title": "World Cup Golden Boot: which players have top scored at each tournament?",
+        "link": "https://www.aljazeera.com/sports/2026/5/18/world-cup-golden-boot-which-players-have-top-scored-at-each-tournament?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,28 +76,36 @@
     ],
     "Dawn": [
       {
-        "title": "Markets, shops, eateries exempted from early closure timings till May 31",
-        "link": "https://www.dawn.com/news/2001253/markets-shops-eateries-exempted-from-early-closure-timings-till-may-31"
+        "title": "Israeli forces reportedly detain Saad Edhi, others after intercepting Gaza aid flotilla",
+        "link": "https://www.dawn.com/news/2001229/israeli-forces-reportedly-detain-saad-edhi-others-after-intercepting-gaza-aid-flotilla"
       },
       {
         "title": "Iran officially announces new body to manage Strait of Hormuz: top security council",
         "link": "https://www.dawn.com/news/2001272/iran-officially-announces-new-body-to-manage-strait-of-hormuz-top-security-council"
       },
       {
-        "title": "Federal Shariat Court strikes down 2022 legislation decriminalising suicide attempts",
-        "link": "https://www.dawn.com/news/2001254/federal-shariat-court-strikes-down-2022-legislation-decriminalising-suicide-attempts"
-      },
-      {
-        "title": "Karachi court extends Anmol alias Pinky's physical remand in murder case by 4 days",
-        "link": "https://www.dawn.com/news/2001249/karachi-court-extends-anmol-alias-pinkys-physical-remand-in-murder-case-by-4-days"
-      },
-      {
         "title": "Accused in teenage TikTok star Sana Yousaf’s murder retracts confession, alleges false implication",
         "link": "https://www.dawn.com/news/2001269/accused-in-teenage-tiktok-star-sana-yousafs-murder-retracts-confession-alleges-false-implication"
+      },
+      {
+        "title": "Mushfiqur ton leaves Pakistan needing record run chase to beat Bangladesh",
+        "link": "https://www.dawn.com/news/2001279/mushfiqur-ton-leaves-pakistan-needing-record-run-chase-to-beat-bangladesh"
+      },
+      {
+        "title": "UAE standardises deadline for payments of private-sector salaries",
+        "link": "https://www.dawn.com/news/2001273/uae-standardises-deadline-for-payments-of-private-sector-salaries"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Brookings Institution Report: Over 100,000 Family Separations in Trump Crackdown",
+        "link": "https://www.nytimes.com/2026/05/18/us/brookings-institution-report-family-separations.html"
+      },
+      {
+        "title": "How a Funding Pause Derailed an Artificial Heart for Babies",
+        "link": "https://www.nytimes.com/2026/05/18/well/federal-cuts-artificial-baby-heart-cornell.html"
+      },
       {
         "title": "Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects",
         "link": "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
@@ -101,85 +115,85 @@
         "link": "https://www.nytimes.com/2026/05/18/upshot/trump-poll-times-siena-analyis.html"
       },
       {
-        "title": "The Supreme Court’s Voting Rights Decision Spurred Swift Action in Louisiana and Alabama",
-        "link": "https://www.nytimes.com/2026/05/18/us/politics/supreme-court-voting-rights-act-timing.html"
-      },
-      {
-        "title": "Trump’s Approval Rating Hits New Low, and Ebola Outbreak Declared a Global Health Emergency",
-        "link": "https://www.nytimes.com/2026/05/18/podcasts/the-headlines/trumps-approval-rating-ebola-outbreak.html"
-      },
-      {
         "title": "L.I.R.R. Riders Stranded by Strike Have Few Commute Alternatives. Here’s What To Know.",
         "link": "https://www.nytimes.com/2026/05/18/nyregion/lirr-strike-update-shuttle-bus.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israel raid of Gaza-bound flotilla near Cyprus sparks outrage",
-        "link": "https://www.middleeasteye.net/news/israel-raid-gaza-bound-flotilla-near-cyprus-sparks-outrage"
+        "title": "Iran warns unauthorised Strait of Hormuz passage will be 'illegal'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-unauthorised-strait-hormuz-passage-will-be-illegal"
       },
       {
-        "title": "Iran's nuclear project is 'unchanged', says senior ex-Israeli intelligence officer",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-nuclear-project-unchanged-says-senior-ex-israeli-intelligence"
+        "title": "English Premier League clubs accused of sportswashing Israel's atrocities",
+        "link": "https://www.middleeasteye.net/news/english-premier-league-clubs-accused-sportswashing-israels-atrocities"
       },
       {
-        "title": "Israel to build military 'museum' on ruins of Unrwa HQ in Jerusalem",
-        "link": "https://www.middleeasteye.net/news/israel-build-military-museum-ruins-unrwa-hq-jerusalem"
+        "title": "Israeli attacks kill more than 3,020 in Lebanon since March",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-more-3020-lebanon-march"
       },
       {
-        "title": "Israeli attacks across Lebanon kill seven",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-across-lebanon-kill-seven"
+        "title": "'Like madmen': Palestinian family attacked in their sleep by Israeli settlers",
+        "link": "https://www.middleeasteye.net/news/mad-men-palestinian-family-attacked-sleep-israeli-settlers"
       },
       {
-        "title": "Iran's foreign ministry: US talks ongoing through Pakistan",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-ministry-us-talks-ongoing-through-pakistan"
+        "title": "MPs question lack of action on hate speech at Tommy Robinson's anti-Muslim rally",
+        "link": "https://www.middleeasteye.net/news/stop-islam-mps-question-lack-action-hate-speech-tommy-robinson-rally"
       }
     ],
     "GeoTV": [
       {
-        "title": "Iran officially announces new body to manage Strait of Hormuz: top security council",
-        "link": "https://www.geo.tv/latest/664987-iran-officially-announces-new-body-to-manage-strait-of-hormuz-top-security-council"
+        "title": "Scooter Braun reacts to Sydney Sweeney's risqué ‘Euphoria' moments",
+        "link": "https://www.geo.tv/latest/665029-scooter-braun-reacts-to-sydney-sweeneys-risqu-euphoria-moments"
       },
       {
-        "title": "Katsuhiro Otomo gives major update on 'Orbital Era' with new studio",
-        "link": "https://www.geo.tv/latest/664993-katsuhiro-otomo-gives-major-update-on-orbital-era-with-new-studio"
+        "title": "Viral ‘Punch' monkey incident: Two Americans arrested at Japanese zoo",
+        "link": "https://www.geo.tv/latest/665028-viral-punch-monkey-incident-two-americans-arrested-at-japanese-zoo"
       },
       {
-        "title": "NDMA issues high alert as severe heatwave to grip Pakistan till May 26",
-        "link": "https://www.geo.tv/latest/664986-ndma-issues-high-alert-as-severe-heatwave-to-grip-pakistan-till-may-26"
+        "title": "Meryl Streep, Martin Short confirm romance rumours in new special outing",
+        "link": "https://www.geo.tv/latest/665024-meryl-streep-martin-short"
       },
       {
-        "title": "Prince Harry breaks silence as Meghan Markle becomes target of trolls",
-        "link": "https://www.geo.tv/latest/664988-prince-harry-breaks-silence-as-meghan-markle-becomes-target-of-trolls"
+        "title": "Did Taylor Swift push Blake Lively into settling lawsuit with Justin Baldoni?",
+        "link": "https://www.geo.tv/latest/665014-did-taylor-swift-push-blake-lively-into-settling-a-lawsuit-with-justin-baldoni"
       },
       {
-        "title": "Michael Jackson daughter Paris addresses fans concern after medical check up",
-        "link": "https://www.geo.tv/latest/664992-michael-jackson-daughter-paris-addresses-fan-concerns-after-medical-check-up"
+        "title": "Hailey Bieber, Justin join Kendall Jenner, Jacob Elordi on triple date",
+        "link": "https://www.geo.tv/latest/665015-hailey-bieber-justin-join-kendall-jenner-jacob-elordi-on-triple-date"
       }
     ],
     "NDTV": [
       {
-        "title": "Tourist Trampled Under Two Fighting Elephants At Karnataka Wildlife Camp",
-        "link": "https://www.ndtv.com/india-news/tourist-trampled-under-two-fighting-elephants-at-karnataka-wildlife-camp-11511386#publisher=newsstand"
+        "title": "Key Accused In Suvendu Adhikari Aide's Murder Arrested From UP",
+        "link": "https://www.ndtv.com/india-news/key-accused-in-suvendu-adhikari-aides-murder-arrested-from-up-11513243#publisher=newsstand"
       },
       {
-        "title": "Tamil Nadu Chief Minister Vijay Orders Revamp Of Amma Canteens",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-chief-minister-vijay-orders-revamp-of-amma-canteens-11512544#publisher=newsstand"
+        "title": "Relief For Adani Group, US Sanctions Probe Ends In $275 Million Settlement",
+        "link": "https://www.ndtv.com/india-news/relief-for-adani-group-us-sanctions-probe-ends-in-275-million-settlement-11513403#publisher=newsstand"
       },
       {
-        "title": "\"Grown Bit Too Complex\": Ikea To Cut 850 Jobs At Parent Company",
-        "link": "https://www.ndtv.com/world-news/ikea-layoff-grown-bit-too-complex-ikea-to-cut-850-jobs-at-parent-company-11512530#publisher=newsstand"
+        "title": "Enough Petrol, Diesel Stocks: Centre After US Waiver On Russian Oil Expires",
+        "link": "https://www.ndtv.com/india-news/enough-petrol-diesel-stocks-centre-after-us-waiver-on-russian-oil-expires-11513375#publisher=newsstand"
       },
       {
-        "title": "On NDTV Camera, Nashik Institute's \"180 Out Of 180 NEET Questions\" Brag",
-        "link": "https://www.ndtv.com/india-news/neet-exam-paper-leak-on-ndtv-camera-nashik-institutes-180-out-of-180-neet-questions-brag-11512506#publisher=newsstand"
+        "title": "Man, Daughter Die After Getting Locked In Burning Car In Gujarat",
+        "link": "https://www.ndtv.com/india-news/man-daughter-die-after-getting-locked-in-burning-car-in-gujarat-11513360#publisher=newsstand"
       },
       {
-        "title": "J&K Police Attach Rs 1.10 Crore Property Linked To Drug Peddler",
-        "link": "https://www.ndtv.com/india-news/j-k-police-attach-rs-1-10-crore-property-in-major-anti-narcotics-push-11512314#publisher=newsstand"
+        "title": "Coimbatore Horror: Boy, 13, Killed And Buried Allegedly By School Friends",
+        "link": "https://www.ndtv.com/india-news/boy-13-killed-buried-by-drunk-school-friends-after-fight-in-tamil-nadu-11513086#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Belgian ex-diplomat dies before standing trial over 1961 murder of Congolese leader",
+        "link": "https://www.theguardian.com/world/2026/may/18/belgium-diplomat-dies-etienne-davignon-congo-leader-patrice-lumumba"
+      },
+      {
+        "title": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts",
+        "link": "https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak"
+      },
       {
         "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
         "link": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says"
@@ -191,16 +205,8 @@
       {
         "title": "Mali’s forces target rebel alliance in junta’s fight to keep power",
         "link": "https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists"
-      },
-      {
-        "title": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
-        "link": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc"
-      },
-      {
-        "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
-        "link": "https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees"
       }
     ]
   },
-  "last_updated": "2026-05-18 12:55 UTC"
+  "last_updated": "2026-05-18 16:24 UTC"
 }
