@@ -1,10 +1,29 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Falls 700 Points As Trump Warns Iran 'Clock Is Ticking'",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-18-may-hormuz-iran-us-donald-trump-oil-price-11509767#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Kerala Oath Taking Ceremony LIVE Updates: VD Satheesan Sworn In As Chief Minister",
+      "link": "https://www.ndtv.com/india-news/vd-satheesan-oath-as-kerala-cm-live-updates-congress-led-udf-government-formation-11509747#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Personal decision for Starmer on whether to fight leadership contest, minister says",
-        "link": "https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss"
+        "title": "UK-registered firms linked to payments for small-boat crossings, BBC finds",
+        "link": "https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'All I thought about was running for my life': Footballer recalls train stabbing attack",
+        "link": "https://www.bbc.com/sport/football/articles/cp8py1n500lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Am I part of the luckiest generation in history?",
+        "link": "https://www.bbc.com/news/articles/cj6pyk7e3w4o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
@@ -13,36 +32,28 @@
       {
         "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
         "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Am I part of the luckiest generation in history?",
-        "link": "https://www.bbc.com/news/articles/cj6pyk7e3w4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'All I thought about was running for my life': Footballer recalls train stabbing attack",
-        "link": "https://www.bbc.com/sport/football/articles/cp8py1n500lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss"
+        "title": "When are Hajj and Eid al-Adha 2026? A visual guide to the Muslim pilgrimage",
+        "link": "https://www.aljazeera.com/news/2026/5/18/when-are-hajj-and-eid-al-adha-2026-a-visual-guide-to-the-muslim-pilgrimage?traffic_source=rss"
       },
       {
-        "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss"
+        "title": "Uganda responds with emergency measures to Ebola outbreak",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/aje-onl-nf_cllip-uganda-responds-with-measures-to-ebola-180526?traffic_source=rss"
       },
       {
-        "title": "Trump holds prayer rally to ‘rededicate’ US as ‘one nation under God’",
-        "link": "https://www.aljazeera.com/gallery/2026/5/17/trump-holds-prayer-rally-to-rededicate-us-as-one-nation-under-god?traffic_source=rss"
+        "title": "US says China to buy billions in agricultural goods after Trump-Xi talks",
+        "link": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss"
       },
       {
-        "title": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
-        "link": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss"
+        "title": "Moment of collision between two Navy jets at Idaho air show",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/moment-of-collision-between-two-navy-jets-at-idaho-air-show?traffic_source=rss"
       },
       {
-        "title": "Israel kills at least five in Lebanon after ‘ceasefire’ extended",
-        "link": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss"
+        "title": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +81,24 @@
     ],
     "Dawn": [
       {
-        "title": "Pakistan hails PCA's decision in IWT proceedings, says it affirms limits on India’s water-control capability",
-        "link": "https://www.dawn.com/news/2000952/pakistan-hails-pcas-decision-in-iwt-proceedings-says-it-affirms-limits-on-indias-water-control-capability"
+        "title": "Proposal to raise voting age to 25 finds few takers",
+        "link": "https://www.dawn.com/news/2001025/proposal-to-raise-voting-age-to-25-finds-few-takers"
       },
       {
-        "title": "Zilhaj moon sighted, Eidul Azha to fall on May 27",
-        "link": "https://www.dawn.com/news/2000923/zilhaj-moon-sighted-eidul-azha-to-fall-on-may-27"
+        "title": "Oil touches two-week high after drone attack on UAE nuclear power plant",
+        "link": "https://www.dawn.com/news/2001116/oil-touches-two-week-high-after-drone-attack-on-uae-nuclear-power-plant"
       },
       {
-        "title": "PM Shehbaz credits 'political-military partnership' for Pakistan's recognition as US-Iran mediator, changed image",
-        "link": "https://www.dawn.com/news/2000962/pm-shehbaz-credits-political-military-partnership-for-pakistans-recognition-as-us-iran-mediator-changed-image"
+        "title": "2 cops martyred as speeding dumper collides with parked police van on M9 Motorway",
+        "link": "https://www.dawn.com/news/2001115/2-cops-martyred-as-speeding-dumper-collides-with-parked-police-van-on-m9-motorway"
       },
       {
-        "title": "Section 144 imposed throughout Balochistan for one month",
-        "link": "https://www.dawn.com/news/2000944/section-144-imposed-throughout-balochistan-for-one-month"
+        "title": "In Tehran, Naqvi keeps diplomatic channel open",
+        "link": "https://www.dawn.com/news/2001029/in-tehran-naqvi-keeps-diplomatic-channel-open"
       },
       {
-        "title": "ISPR takes exception after Indian army chief says Pakistan should decide between being 'part of geography' or not",
-        "link": "https://www.dawn.com/news/2000883/ispr-takes-exception-after-indian-army-chief-says-pakistan-should-decide-between-being-part-of-geography-or-not"
+        "title": "Military jets' crew members safely ejected after Idaho air show collision, US Navy says",
+        "link": "https://www.dawn.com/news/2001118/military-jets-crew-members-safely-ejected-after-idaho-air-show-collision-us-navy-says"
       }
     ],
     "APNews": [],
@@ -101,82 +112,82 @@
         "link": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html"
       },
       {
+        "title": "Oil Prices Edge Higher as Cease-Fire Remains Tenuous",
+        "link": "https://www.nytimes.com/2026/05/18/business/oil-gas-price-iran.html"
+      },
+      {
         "title": "To Critics, Trump Remarks Reveal a Billionaire Out of Touch",
         "link": "https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html"
       },
       {
         "title": "Eager for Arms Deal, Taiwan Stresses Need for U.S. Support",
         "link": "https://www.nytimes.com/2026/05/17/us/politics/taiwan-china-us-arms-deal.html"
-      },
-      {
-        "title": "Trump Administration Pushes Narrative of Christian Nation at Prayer Rally in D.C.",
-        "link": "https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran discusses Strait of Hormuz with French and South Korean ministers",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-discusses-strait-hormuz-french-and-south-korean-ministers"
+        "title": "Former Trump ally threatens ‘political revolution’ against US troop deployment to Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-trump-ally-threatens-political-revolution-against-us-troop"
       },
       {
-        "title": "Charity workers killed in Israeli strike on community kitchen in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/charity-workers-killed-israeli-strike-community-kitchen-gaza"
+        "title": "Report: US ammunition flights arriving in Tel Aviv for resumption of Iran war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-ammunition-flights-arriving-tel-aviv-resumption-iran-war"
       },
       {
-        "title": "Araghchi and Fidan hold talks on regional tensions",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-and-fidan-hold-talks-regional-tensions"
+        "title": "Video: Berlin police storm Nakba Day march and pepper spray demonstrators",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/berlin-police-storm-nakba-day-march-and-pepper-spray-demonstrators"
       },
       {
-        "title": "Palestinian ministry condemns Israeli property seizure plan near Al-Aqsa",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-ministry-condemns-israeli-property-seizure-plan-near-al-aqsa"
+        "title": "CNN: Iran eyeing control over key internet cable routes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/cnn-iran-eyeing-control-over-key-internet-cable-routes"
       },
       {
-        "title": "Gaza aid flotilla activist reports military vessel near convoy",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-aid-flotilla-activist-reports-military-vessel-near-convoy"
+        "title": "Israeli media reports military preparing for possible Iran strikes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-reports-military-preparing-possible-iran-strikes"
       }
     ],
     "GeoTV": [
       {
-        "title": "Pete Davidson's friends support comic against ex Elsie Hewitt allegations",
-        "link": "https://www.geo.tv/latest/664904-pete-davidsons-friends-support-comic-against-ex-elsie-hewitt-allegations"
+        "title": "US weighs drone threat from Cuba: report",
+        "link": "https://www.geo.tv/latest/664921-us-weighs-drone-threat-from-cuba-report"
       },
       {
-        "title": "Paris Hilton shows off new hair transformation for Gucci",
-        "link": "https://www.geo.tv/latest/664902-paris-hilton-shows-off-new-hair-transformation"
+        "title": "Alec Baldwin blasts Elon Musk for Lupita Nyong'o's ‘The Odyssey' criticism",
+        "link": "https://www.geo.tv/latest/664910-alec-baldwin-blasts-elon-musk-for-lupita-nyongos-the-odyssey-criticism"
       },
       {
-        "title": "Selena Gomez signs to star in Brady Corbet's new movie",
-        "link": "https://www.geo.tv/latest/664900-selena-gomez-signs-to-star-in-brady-corbets-new-movie"
+        "title": "Katie Price's husband Lee Andrews officially declared missing",
+        "link": "https://www.geo.tv/latest/664917-katie-prices-husband-lee-andrews-officially-declared-missing"
       },
       {
-        "title": "Kim Kardashian gets slammed over outfit at Gucci show",
-        "link": "https://www.geo.tv/latest/664899-kim-kardashian-gets-slammed-over-outfit-at-gucci-show"
+        "title": "Harry Styles divides fans after bold stance at Amsterdam concert",
+        "link": "https://www.geo.tv/latest/664911-harry-styles-divides-fans-after-bold-stance-at-amsterdam-concert"
       },
       {
-        "title": "Shania Twain wants to sing at Harry Styles, Zoe Kravitz wedding",
-        "link": "https://www.geo.tv/latest/664898-shania-twain-wants-to-sing-at-harry-styles-zoe-kravitz-wedding"
+        "title": "Meghan Markle delivers powerful message at global platform: ‘must act'",
+        "link": "https://www.geo.tv/latest/664916-meghan-markle-delivers-powerful-message-at-global-platform-must-act"
       }
     ],
     "NDTV": [
       {
-        "title": "20 Ministers In VD Satheesan Cabinet In Kerala, 14 Will Be New Faces",
-        "link": "https://www.ndtv.com/india-news/20-ministers-in-vd-satheesan-cabinet-in-kerala-14-will-be-new-faces-11508705#publisher=newsstand"
-      },
-      {
-        "title": "Video: Moment 2 Jets Collided Mid-Air At US Air Show",
-        "link": "https://www.ndtv.com/world-news/two-us-navy-ea18-g-growlers-collide-during-air-show-in-idaho-11509715#publisher=newsstand"
-      },
-      {
-        "title": "Throwing Non-Veg Food Waste In Ganga Can Hurt Religious Sentiments: Court",
-        "link": "https://www.ndtv.com/india-news/throwing-non-veg-food-waste-in-ganga-can-hurt-religious-sentiments-allahabad-high-court-11509112#publisher=newsstand"
-      },
-      {
-        "title": "US Waiver On Russian Oil Ends: Will India Raise Fuel Prices Again?",
-        "link": "https://www.ndtv.com/business-news/us-waiver-russian-oil-purchase-india-import-fuel-price-hike-petrol-diesel-hormuz-crisis-iran-war-11509716#publisher=newsstand"
-      },
-      {
-        "title": "VD Satheesan, With 20-Member Cabinet, To Take Oath In Kerala Today",
+        "title": "VD Satheesan Takes Oath As Kerala Chief Minister With 20-Member Cabinet",
         "link": "https://www.ndtv.com/india-news/vd-satheesan-with-20-member-cabinet-to-take-oath-in-kerala-today-11509390#publisher=newsstand"
+      },
+      {
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Falls 700 Points As Trump Warns Iran 'Clock Is Ticking'",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-18-may-hormuz-iran-us-donald-trump-oil-price-11509767#publisher=newsstand"
+      },
+      {
+        "title": "Severe Heatwave In Telangana To Continue Till May 20: Weather Office",
+        "link": "https://www.ndtv.com/telangana-news/severe-heatwave-in-telangana-to-continue-till-may-20-weather-office-11510299#publisher=newsstand"
+      },
+      {
+        "title": "Kerala Oath Taking Ceremony LIVE Updates: VD Satheesan Sworn In As Chief Minister",
+        "link": "https://www.ndtv.com/india-news/vd-satheesan-oath-as-kerala-cm-live-updates-congress-led-udf-government-formation-11509747#publisher=newsstand"
+      },
+      {
+        "title": "Opinion: Opinion | India's Big Kitchen Revolution May Solve Its Rs 1 Lakh Crore Problem",
+        "link": "https://www.ndtv.com/opinion/indias-big-kitchen-revolution-may-solve-its-rs-1-lakh-crore-problem-11510283#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-18 01:32 UTC"
+  "last_updated": "2026-05-18 05:51 UTC"
 }
