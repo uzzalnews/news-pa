@@ -1,20 +1,9 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Falls 700 Points As Trump Warns Iran 'Clock Is Ticking'",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-18-may-hormuz-iran-us-donald-trump-oil-price-11509767#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "Kerala Oath Taking Ceremony LIVE Updates: VD Satheesan Sworn In As Chief Minister",
-      "link": "https://www.ndtv.com/india-news/vd-satheesan-oath-as-kerala-cm-live-updates-congress-led-udf-government-formation-11509747#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "UK-registered firms linked to payments for small-boat crossings, BBC finds",
+        "title": "UK companies linked to payments for small-boat crossings, BBC finds",
         "link": "https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -22,38 +11,38 @@
         "link": "https://www.bbc.com/sport/football/articles/cp8py1n500lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Am I part of the luckiest generation in history?",
+        "title": "Are baby boomers like me the luckiest generation in history?",
         "link": "https://www.bbc.com/news/articles/cj6pyk7e3w4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-        "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
         "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "HS2 failings blamed on high-speed focus and political pressure",
+        "link": "https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "When are Hajj and Eid al-Adha 2026? A visual guide to the Muslim pilgrimage",
-        "link": "https://www.aljazeera.com/news/2026/5/18/when-are-hajj-and-eid-al-adha-2026-a-visual-guide-to-the-muslim-pilgrimage?traffic_source=rss"
+        "title": "Israeli settlers run over livestock in occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-settlers-run-over-livestock-in-occupied-west-bank?traffic_source=rss"
       },
       {
-        "title": "Uganda responds with emergency measures to Ebola outbreak",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/aje-onl-nf_cllip-uganda-responds-with-measures-to-ebola-180526?traffic_source=rss"
+        "title": "Israel built two military bases in Iraq before war on Iran: New York Times",
+        "link": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss"
       },
       {
-        "title": "US says China to buy billions in agricultural goods after Trump-Xi talks",
-        "link": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss"
+        "title": "Why was Neymar angry at his substitution and will he play in the World Cup?",
+        "link": "https://www.aljazeera.com/sports/2026/5/18/why-was-neymar-angry-at-his-substitution-and-will-he-play-in-the-world-cup?traffic_source=rss"
       },
       {
-        "title": "Moment of collision between two Navy jets at Idaho air show",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/moment-of-collision-between-two-navy-jets-at-idaho-air-show?traffic_source=rss"
+        "title": "Mitchell, Cavaliers eliminate Pistons, will play Knicks in East finals",
+        "link": "https://www.aljazeera.com/sports/2026/5/18/mitchell-cavaliers-eliminate-pistons-will-play-knicks-in-east-finals?traffic_source=rss"
       },
       {
-        "title": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss"
+        "title": "Netanyahu says Israel controls 60 percent of Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/netanyahu-says-israel-controls-60-percent-of-gaza?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -81,24 +70,24 @@
     ],
     "Dawn": [
       {
-        "title": "Proposal to raise voting age to 25 finds few takers",
-        "link": "https://www.dawn.com/news/2001025/proposal-to-raise-voting-age-to-25-finds-few-takers"
+        "title": "Pakistan condemns drone attack on UAE nuclear power plant",
+        "link": "https://www.dawn.com/news/2001136/pakistan-condemns-drone-attack-on-uae-nuclear-power-plant"
+      },
+      {
+        "title": "CM Afridi seeks PM's intervention on CNG crisis in KP, warns of possible 'widespread agitation'",
+        "link": "https://www.dawn.com/news/2001139/cm-afridi-seeks-pms-intervention-on-cng-crisis-in-kp-warns-of-possible-widespread-agitation"
+      },
+      {
+        "title": "Tribal chief among 3 killed in IED blast in KP's Wana",
+        "link": "https://www.dawn.com/news/2001126/tribal-chief-among-3-killed-in-ied-blast-in-kps-wana"
       },
       {
         "title": "Oil touches two-week high after drone attack on UAE nuclear power plant",
         "link": "https://www.dawn.com/news/2001116/oil-touches-two-week-high-after-drone-attack-on-uae-nuclear-power-plant"
       },
       {
-        "title": "2 cops martyred as speeding dumper collides with parked police van on M9 Motorway",
-        "link": "https://www.dawn.com/news/2001115/2-cops-martyred-as-speeding-dumper-collides-with-parked-police-van-on-m9-motorway"
-      },
-      {
-        "title": "In Tehran, Naqvi keeps diplomatic channel open",
-        "link": "https://www.dawn.com/news/2001029/in-tehran-naqvi-keeps-diplomatic-channel-open"
-      },
-      {
-        "title": "Military jets' crew members safely ejected after Idaho air show collision, US Navy says",
-        "link": "https://www.dawn.com/news/2001118/military-jets-crew-members-safely-ejected-after-idaho-air-show-collision-us-navy-says"
+        "title": "JI emir challenges petroleum levy in FCC, terms it 'unconstitutional'",
+        "link": "https://www.dawn.com/news/2001228/fcc-ji-petrol"
       }
     ],
     "APNews": [],
@@ -126,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Former Trump ally threatens ‘political revolution’ against US troop deployment to Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-trump-ally-threatens-political-revolution-against-us-troop"
+        "title": "Israeli forces kill six Palestinians and wound 40 others in Gaza in last 24 hours",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-six-palestinians-and-wound-40-others-gaza-last-24"
       },
       {
-        "title": "Report: US ammunition flights arriving in Tel Aviv for resumption of Iran war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-ammunition-flights-arriving-tel-aviv-resumption-iran-war"
+        "title": "Israel intercepts Gaza flotilla and arrests activists",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-intercepts-gaza-flotilla-and-arrests-activists"
       },
       {
-        "title": "Video: Berlin police storm Nakba Day march and pepper spray demonstrators",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/berlin-police-storm-nakba-day-march-and-pepper-spray-demonstrators"
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-537"
       },
       {
-        "title": "CNN: Iran eyeing control over key internet cable routes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/cnn-iran-eyeing-control-over-key-internet-cable-routes"
+        "title": "Video: US fighter jets crash mid-air during Idaho air show",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-us-fighter-jets-crash-mid-air-during-idaho-air-show"
       },
       {
-        "title": "Israeli media reports military preparing for possible Iran strikes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-reports-military-preparing-possible-iran-strikes"
+        "title": "Wall Street Journal warns of rising US fuel prices amid export surge",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/wall-street-journal-warns-rising-us-fuel-prices-amid-export-surge"
       }
     ],
     "GeoTV": [
       {
-        "title": "US weighs drone threat from Cuba: report",
-        "link": "https://www.geo.tv/latest/664921-us-weighs-drone-threat-from-cuba-report"
+        "title": "Chad Smith tries to steal Will Ferrell's 'Saturday Night Live' spotlight",
+        "link": "https://www.geo.tv/latest/664958-chad-smith-tries-to-steal-will-ferrells-saturday-night-live-spotlight"
       },
       {
-        "title": "Alec Baldwin blasts Elon Musk for Lupita Nyong'o's ‘The Odyssey' criticism",
-        "link": "https://www.geo.tv/latest/664910-alec-baldwin-blasts-elon-musk-for-lupita-nyongos-the-odyssey-criticism"
+        "title": "Paris Fury praises pregnant Molly Mae for showing support at Venezuela's big day",
+        "link": "https://www.geo.tv/latest/664951-paris-fury-praises-molly-mae-hague-for-showing-support-at-venezuelas-big-day"
       },
       {
-        "title": "Katie Price's husband Lee Andrews officially declared missing",
-        "link": "https://www.geo.tv/latest/664917-katie-prices-husband-lee-andrews-officially-declared-missing"
+        "title": "Paul McCartney rocks ‘SNL' season 51 finale with surprise encore",
+        "link": "https://www.geo.tv/latest/664954-paul-mccartney-rocks-snl-season-51-finale-with-surprise-encore"
       },
       {
-        "title": "Harry Styles divides fans after bold stance at Amsterdam concert",
-        "link": "https://www.geo.tv/latest/664911-harry-styles-divides-fans-after-bold-stance-at-amsterdam-concert"
+        "title": "Anderson Cooper steps away from ‘60 Minutes' after two decades",
+        "link": "https://www.geo.tv/latest/664950-anderson-cooper-steps-away-from-60-minutes-after-two-decades"
       },
       {
-        "title": "Meghan Markle delivers powerful message at global platform: ‘must act'",
-        "link": "https://www.geo.tv/latest/664916-meghan-markle-delivers-powerful-message-at-global-platform-must-act"
+        "title": "Pakistan strongly condemns drone attack on UAE nuclear energy plant",
+        "link": "https://www.geo.tv/latest/664949-pakistan-strongly-condemns-drone-attack-on-uae-nuclear-energy-plant"
       }
     ],
     "NDTV": [
       {
-        "title": "VD Satheesan Takes Oath As Kerala Chief Minister With 20-Member Cabinet",
-        "link": "https://www.ndtv.com/india-news/vd-satheesan-with-20-member-cabinet-to-take-oath-in-kerala-today-11509390#publisher=newsstand"
+        "title": "On Camera, Woman Saves 3 Children From Burning Building. She Doesn't Make It",
+        "link": "https://www.ndtv.com/india-news/up-prayagraj-fire-on-camera-woman-saves-3-children-from-burning-building-she-doesnt-make-it-11511449#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Falls 700 Points As Trump Warns Iran 'Clock Is Ticking'",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-18-may-hormuz-iran-us-donald-trump-oil-price-11509767#publisher=newsstand"
+        "title": "US Iran War News Live Updates: \"Clock Is ticking\": Trump Warns 'Nothing Will Be Left' Of Iran Without Deal",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-tehran-prepares-professional-mechanism-for-strait-of-hormuz-traffic-strikes-lebanon-despite-ceasefire-trump-11506528#publisher=newsstand"
       },
       {
-        "title": "Severe Heatwave In Telangana To Continue Till May 20: Weather Office",
-        "link": "https://www.ndtv.com/telangana-news/severe-heatwave-in-telangana-to-continue-till-may-20-weather-office-11510299#publisher=newsstand"
+        "title": "'Trapped, Lonely, Unhappy': Noida Woman Had Asked Her Mother To Take Her Home",
+        "link": "https://www.ndtv.com/india-news/noidas-twisha-sharma-wanted-to-return-home-bhopal-suicide-i-feel-suffocated-ma-11510727#publisher=newsstand"
       },
       {
-        "title": "Kerala Oath Taking Ceremony LIVE Updates: VD Satheesan Sworn In As Chief Minister",
-        "link": "https://www.ndtv.com/india-news/vd-satheesan-oath-as-kerala-cm-live-updates-congress-led-udf-government-formation-11509747#publisher=newsstand"
+        "title": "Tourist Trampled Under Two Fighting Elephants At Karnataka Wildlife Camp",
+        "link": "https://www.ndtv.com/india-news/tourist-trampled-under-two-fighting-elephants-at-karnataka-wildlife-camp-11511386#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | India's Big Kitchen Revolution May Solve Its Rs 1 Lakh Crore Problem",
-        "link": "https://www.ndtv.com/opinion/indias-big-kitchen-revolution-may-solve-its-rs-1-lakh-crore-problem-11510283#publisher=newsstand"
+        "title": "'Gave 11 Lakhs, Scorpio, But...': Father Of Greater Noida Woman Found Dead",
+        "link": "https://www.ndtv.com/india-news/deepika-nagar-dowry-death-in-greater-noida-woman-falls-from-3rd-floor-year-after-wedding-11510621#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-18 05:51 UTC"
+  "last_updated": "2026-05-18 09:40 UTC"
 }
