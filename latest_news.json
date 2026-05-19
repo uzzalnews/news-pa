@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Petrol Diesel Price LIVE Updates: Fuel Prices Up Again, Petrol, Diesel Costlier By Around 90 paise",
+      "link": "https://www.ndtv.com/india-news/petrol-diesel-price-hike-today-live-updates-fuel-prices-up-again-petrol-diesel-costlier-by-around-90-paise-delhi-mumbai-chennai-petrol-diesel-prices-11514819#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,19 +17,31 @@
         "link": "https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Three killed in suspected hate crime at San Diego mosque",
+        "link": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Trump says he called off new Iran attack at request of Gulf states",
         "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules",
         "link": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ex-British soldier imprisoned by Russia says he feels abandoned in occupied Ukraine",
-        "link": "https://www.bbc.com/news/articles/cdxper4k5w1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Two teen gunmen kill three at San Diego mosque in suspected hate crime",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/two-teen-gunmen-kill-three-at-san-diego-mosque-in-suspected-hate-crime?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss"
+      },
+      {
+        "title": "US suspends joint defence effort with Canada dating back to World War II",
+        "link": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss"
+      },
       {
         "title": "A packed race for governor: What to know about Oregon’s primary elections",
         "link": "https://www.aljazeera.com/news/2026/5/18/a-packed-race-for-governor-what-to-know-about-oregons-primary-elections?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Brazil call up Neymar to World Cup 2026 squad",
         "link": "https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss"
-      },
-      {
-        "title": "A redistricting re-do? What to know about Alabama’s primary elections",
-        "link": "https://www.aljazeera.com/news/2026/5/18/a-redistricting-re-do-what-to-know-about-alabamas-primary-elections?traffic_source=rss"
-      },
-      {
-        "title": "Is the US trying to force regime change in Cuba?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/is-the-us-trying-to-force-regime-change-in-cuba?traffic_source=rss"
-      },
-      {
-        "title": "Guardiola on verge of Manchester City exit at end of Premier League season",
-        "link": "https://www.aljazeera.com/sports/2026/5/18/guardiola-on-verge-of-manchester-city-exit-at-end-of-premier-league-season?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,49 +99,53 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Abortion Pill Lawsuit Leaves Trump in a Political Bind Ahead of the Midterms",
-        "link": "https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html"
+        "title": "Trump Threatens Iran and Then Pulls Back, All in the Same Day",
+        "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html"
       },
       {
-        "title": "Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects",
-        "link": "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
+        "title": "Here’s How Iran Could Respond to Renewed U.S.-Israeli Strikes",
+        "link": "https://www.nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html"
       },
       {
         "title": "Elon Musk Loses His Blockbuster Case Against OpenAI",
         "link": "https://www.nytimes.com/2026/05/18/briefing/elon-musk-openai-trial.html"
       },
       {
-        "title": "Trump Says He Authorized New Strikes on Iran, but Has Decided to Hold Off",
-        "link": "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html"
+        "title": "What to Know About San Diego’s Islamic Center",
+        "link": "https://www.nytimes.com/2026/05/18/us/islamic-center-san-diego-mosque.html"
       },
       {
-        "title": "L-I-R-R vs. Lurr: The Debate Splitting New York Commuters",
-        "link": "https://www.nytimes.com/2026/05/18/nyregion/lirr-pronunciation-long-island.html"
+        "title": "San Diego Mosque Shooting Comes Amid Rising Reports of Islamophobia in the U.S.",
+        "link": "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-islamaphobia.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Analyst says Trump’s Iran demand blocks path to deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/analyst-says-trumps-iran-demand-blocks-path-deal"
+        "title": "Hezbollah claims drone and rocket attacks on Israeli army positions",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-claims-drone-and-rocket-attacks-israeli-army-positions"
       },
       {
-        "title": "Trump says US may accept Iran deal if Gulf allies back terms",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-may-accept-iran-deal-if-gulf-allies-back-terms"
+        "title": "US Senate Democrats push eighth vote to limit Iran conflict",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senate-democrats-push-eighth-vote-limit-iran-conflict"
       },
       {
-        "title": "Iran commander warns US against ‘strategic mistake’ amid tensions",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-commander-warns-us-against-strategic-mistake-amid-tensions"
+        "title": "Qatar condemns Israeli interception of Gaza-bound flotilla",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-israeli-interception-gaza-bound-flotilla"
       },
       {
-        "title": "Indian firm to pay $275m to settle US Iran sanctions probe",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/indian-firm-pay-275m-settle-us-iran-sanctions-probe"
+        "title": "Israel bombs Tyre in Lebanon following displacement threat",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-bombs-tyre-lebanon-following-displacement-threat"
       },
       {
-        "title": "Analyst says Trump giving false impression of control in Iran talks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/analyst-says-trump-giving-false-impression-control-iran-talks"
+        "title": "Official says Iran will force US to 'retreat and surrender'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/official-says-iran-will-force-us-retreat-and-surrender"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Apple Martin to star opposite mom Gwyneth Paltrow's ex costar",
+        "link": "https://www.geo.tv/latest/665077-apple-martin-to-star-opposite-mom-gwyneth-paltrows-ex-costar"
+      },
       {
         "title": "Tom Kane dies: ‘Star Wars' voice actor was 64",
         "link": "https://www.geo.tv/latest/665075-tom-kane-dies-star-wars-voice-actor-was-64"
@@ -151,32 +161,28 @@
       {
         "title": "Pep Guardiola set to leave Manchester City after historic era: Who will replace him?",
         "link": "https://www.geo.tv/latest/665070-pep-guardiola-set-to-leave-manchester-city-after-historic-era-who-will-replace-him"
-      },
-      {
-        "title": "San Diego Islamic Center shooting: Police neutralize gunman, situation under control",
-        "link": "https://www.geo.tv/latest/665064-active-shooter-reported-at-islamic-center-of-san-diego-as-police-respond-to-unfolding-situation"
       }
     ],
     "NDTV": [
       {
-        "title": "Medical Student Stabbed To Death In Punjab: Cops",
-        "link": "https://www.ndtv.com/india-news/medical-student-stabbed-to-death-in-punjabs-patiala-cops-11514657#publisher=newsstand"
+        "title": "Petrol, Diesel Prices Hiked By Nearly 90 Paise Per Litre, Second Time In A Week",
+        "link": "https://www.ndtv.com/india-news/fuel-price-hike-petrol-diesel-prices-hiked-by-nearly-90-paise-per-litre-second-time-in-a-week-11514795#publisher=newsstand"
       },
       {
-        "title": "3 Killed In Shooting At US' San Diego Mosque, 2 Suspects Dead: Cops",
-        "link": "https://www.ndtv.com/world-news/3-killed-in-shooting-at-us-san-diego-mosque-2-suspects-dead-cops-11514615#publisher=newsstand"
+        "title": "Petrol Diesel Price LIVE Updates: Fuel Prices Up Again, Petrol, Diesel Costlier By Around 90 paise",
+        "link": "https://www.ndtv.com/india-news/petrol-diesel-price-hike-today-live-updates-fuel-prices-up-again-petrol-diesel-costlier-by-around-90-paise-delhi-mumbai-chennai-petrol-diesel-prices-11514819#publisher=newsstand"
       },
       {
-        "title": "Cuba Warns Of \"Bloodbath\" If US Attacks",
-        "link": "https://www.ndtv.com/world-news/cuba-warns-of-bloodbath-if-us-attacks-11514525#publisher=newsstand"
+        "title": "Elon Musk Loses Lawsuit Against OpenAI, Jury Finds He 'Waited Too Long'",
+        "link": "https://www.ndtv.com/world-news/elon-musk-loses-lawsuit-against-openai-jury-finds-he-waited-too-long-11514137#publisher=newsstand"
       },
       {
-        "title": "Meta Plans May 20 Layoffs, To Cut 10% Of Its Global Workforce",
-        "link": "https://www.ndtv.com/world-news/meta-plans-may-20-layoffs-to-cut-10-of-its-global-workforce-11514485#publisher=newsstand"
+        "title": "\"Wolf In Sheep's Clothing\": Twisha Sharma's Father On Her Husband Samarth Singh",
+        "link": "https://www.ndtv.com/india-news/twisha-sharma-death-latest-news-wolf-in-sheep-attire-twisha-sharmas-father-on-her-husband-samarth-singh-11514098#publisher=newsstand"
       },
       {
-        "title": "Key Moments In Elon Musk Vs OpenAI Trial",
-        "link": "https://www.ndtv.com/world-news/key-moments-in-elon-musk-vs-openai-trial-11514454#publisher=newsstand"
+        "title": "US Iran War News Live Updates: Trump Holds Off Iran Attack Planned For Tuesday After Gulf Intervention",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-tehran-prepares-professional-mechanism-for-strait-of-hormuz-traffic-strikes-lebanon-despite-ceasefire-trump-11506528#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-18 23:41 UTC"
+  "last_updated": "2026-05-19 01:48 UTC"
 }
