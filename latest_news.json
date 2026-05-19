@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Bournemouth vs Man City – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/19/live-bournemouth-vs-manchester-city-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,42 +13,42 @@
         "link": "https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Channel 4 boss asked if she will apologise to MAFS UK women",
-        "link": "https://www.bbc.com/news/videos/c052881dmylo?at_medium=RSS&at_campaign=rss"
+        "title": "Surrey Police investigating child sex abuse allegations after Epstein files release",
+        "link": "https://www.bbc.com/news/articles/c0k2d2pl6x0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
-        "link": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss"
+        "title": "BBC confirms new Strictly Come Dancing hosts",
+        "link": "https://www.bbc.com/news/articles/cgep5ez80rzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Charges sought for up to 57 people over Grenfell",
-        "link": "https://www.bbc.com/news/articles/c1e24vxyqnwo?at_medium=RSS&at_campaign=rss"
+        "title": "Petrol hits highest price since start of Iran war",
+        "link": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "New High Street crime unit to target gangs fronting shops after BBC investigation",
-        "link": "https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&at_campaign=rss"
+        "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
+        "link": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Xi Jinping seeks to strengthen ties with Putin during China visit",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/xi-jinping-seeks-to-strengthen-ties-with-putin-during-china-visit?traffic_source=rss"
+        "title": "Qatar says US-Iran negotiations need ‘more time’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/qatar-says-us-iran-negotiations-need-more?traffic_source=rss"
       },
       {
-        "title": "Trump says Iran attack on ‘hold’: What we know about latest negotiations",
-        "link": "https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations?traffic_source=rss"
+        "title": "At least one killed, 21 wounded in car bomb explosion in Syria’s Damascus",
+        "link": "https://www.aljazeera.com/news/2026/5/19/at-least-one-killed-21-wounded-in-car-bomb-explosion-in-syrias-damascus?traffic_source=rss"
       },
       {
-        "title": "Thailand to slash tourist visa-free stays",
-        "link": "https://www.aljazeera.com/news/2026/5/19/thailand-to-slash-tourist-visa-free-stays?traffic_source=rss"
+        "title": "LIVE: Bournemouth vs Man City – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/5/19/live-bournemouth-vs-manchester-city-premier-league?traffic_source=rss"
       },
       {
-        "title": "Gaza aid flotilla organisers say 41 boats intercepted, 10 still sailing",
-        "link": "https://www.aljazeera.com/news/2026/5/19/gaza-aid-flotilla-organisers-say-41-boats-intercepted-10-still-sailing?traffic_source=rss"
+        "title": "Neymar is going to the World Cup: Why did Brazil name him in the squad?",
+        "link": "https://www.aljazeera.com/sports/2026/5/19/fifa-world-cup-2026-all-to-know-about-neymar-surprise-brazil-selection-ancelotti?traffic_source=rss"
       },
       {
-        "title": "Musk vs Altman: What to know about the OpenAI verdict",
-        "link": "https://www.aljazeera.com/news/2026/5/19/musk-vs-altman-what-to-know-about-the-openai-verdict?traffic_source=rss"
+        "title": "Flight to Argentina: How significant is it for Israel’s LatAm outreach?",
+        "link": "https://www.aljazeera.com/economy/2026/5/19/flight-to-argentina-how-significant-is-it-for-israels-latam-outreach?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,119 +76,123 @@
     ],
     "Dawn": [
       {
+        "title": "Pakistan a net regional stabiliser contributing to peace in the region and beyond: PM Shehbaz",
+        "link": "https://www.dawn.com/news/2001538/pakistan-a-net-regional-stabiliser-contributing-to-peace-in-the-region-and-beyond-pm-shehbaz"
+      },
+      {
+        "title": "Security forces kill 22 terrorists in North Waziristan operation: ISPR",
+        "link": "https://www.dawn.com/news/2001537/security-forces-kill-22-terrorists-in-north-waziristan-operation-ispr"
+      },
+      {
         "title": "Islamabad court hands death sentence to convict in Sana Yousaf murder case",
         "link": "https://www.dawn.com/news/2001506/islamabad-court-hands-death-sentence-to-convict-in-sana-yousaf-murder-case"
       },
       {
-        "title": "Externally-sponsored terrorism, propaganda cannot derail Pakistan’s progress: CDF Munir",
-        "link": "https://www.dawn.com/news/2001476/externally-sponsored-terrorism-propaganda-cannot-derail-pakistans-progress-cdf-munir"
+        "title": "KP CM Afridi, Imran Khan’s sisters stopped from meeting former premier at Adiala Jail",
+        "link": "https://www.dawn.com/news/2001530/kp-cm-afridi-imran-khans-sisters-stopped-from-meeting-former-premier-at-adiala-jail"
       },
       {
-        "title": "Sindh IG vows transparency in cases against Anmol alias Pinky stretching across 'multiple domains'",
-        "link": "https://www.dawn.com/news/2001505/sindh-ig-vows-transparency-in-cases-against-anmol-alias-pinky-stretching-across-multiple-domains"
-      },
-      {
-        "title": "Social media posts case: IHC raises objections over failure to submit certified copies of SC order",
-        "link": "https://www.dawn.com/news/2001479/social-media-posts-case-ihc-raises-objections-over-failure-to-submit-certified-copies-of-sc-order"
-      },
-      {
-        "title": "KP governor says PM has formed committee to address CNG crisis in province",
-        "link": "https://www.dawn.com/news/2001491/kp-governor-says-pm-has-formed-committee-to-address-cng-crisis-in-province"
+        "title": "Taijul puts Bangladesh on brink of Test series win over Pakistan",
+        "link": "https://www.dawn.com/news/2001532/taijul-puts-bangladesh-on-brink-of-test-series-win-over-pakistan"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Justices Hint at Strains as Supreme Court Comes Under Scrutiny",
-        "link": "https://www.nytimes.com/2026/05/18/us/politics/supreme-court-political-tensions.html"
+        "title": "Iran War Exposes Shortcomings in U.S. Military Industrial Base",
+        "link": "https://www.nytimes.com/2026/05/19/us/politics/pentagon-weapons-drones-iran-war-hegseth.html"
+      },
+      {
+        "title": "Trump Says He Postponed a ‘Very Major Attack’ on Iran, Leaving Mideast on Edge",
+        "link": "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html"
+      },
+      {
+        "title": "Oil Slick Reaches a Pristine Persian Gulf Island in Iran",
+        "link": "https://www.nytimes.com/2026/05/19/world/europe/oil-spill-iran-shidvar-island.html"
       },
       {
         "title": "Trump’s New $1.8 Billion Pot of Money, and a Deadly Mosque Attack in California",
         "link": "https://www.nytimes.com/2026/05/19/podcasts/the-headlines/trump-irs-mosque-attack-california.html"
       },
       {
-        "title": "G.O.P. Supporters Back Trump, but a Third Seek a New Direction for the Party",
-        "link": "https://www.nytimes.com/2026/05/19/us/politics/poll-trump-republicans.html"
-      },
-      {
-        "title": "Last-Minute Donation Could Upend G.O.P. Primary for Texas Attorney General",
-        "link": "https://www.nytimes.com/2026/05/19/us/chip-roy-donation-texas-attorney-general.html"
-      },
-      {
-        "title": "The Race to Control Congress",
-        "link": "https://www.nytimes.com/2026/05/19/briefing/the-race-to-control-congress.html"
+        "title": "Justices Hint at Strains as Supreme Court Comes Under Scrutiny",
+        "link": "https://www.nytimes.com/2026/05/18/us/politics/supreme-court-political-tensions.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Qatar says no special arrangements for energy exports currently",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-no-special-arrangements-energy-exports-currently"
+        "title": "Unite the Kingdom: Hateful theatre of niqab ‘unveiling’ feeds far-right fantasies",
+        "link": "https://www.middleeasteye.net/opinion/unite-kingdom-hateful-far-right-fantasy-unveiling-niqab"
       },
       {
-        "title": "Israeli settler filmed throwing concrete block at cats days after dog beating",
-        "link": "https://www.middleeasteye.net/news/israeli-settler-filmed-throwing-block-cats-days-after-clubbing-dog"
+        "title": "Israel orders evacuations in 12 towns in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-orders-evacuations-12-towns-south-lebanon"
       },
       {
-        "title": "Flotilla activists say Gaza-bound ships still sailing, while UN warns humanitarian situation remains dire",
-        "link": "https://www.middleeasteye.net/news/activists-say-gaza-bound-flotilla-ships-still-sailing-towards-gaza-un-warns-dire-humanitarian"
+        "title": "Trump says US was close to launching new strike on Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-was-close-launching-new-strike-iran"
       },
       {
-        "title": "Qatar says diplomatic efforts between Iran and the need 'more time'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-diplomatic-efforts-between-iran-and-need-more-time"
+        "title": "San Diego mosque shooting: Social media decries 'dehumanising' coverage and anti-Muslim rhetoric",
+        "link": "https://www.middleeasteye.net/trending/social-media-reacts-san-diego-mosque-shooting-decries-anti-muslim-rhetoric"
       },
       {
-        "title": "Iran warns it will 'open new fronts' against US in the event of another attack",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-it-will-open-new-fronts-against-us-event-another-attack"
+        "title": "'Rats are eating our food': Palestinians describe harrowing conditions in Gaza camp",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rats-are-eating-our-food-palestinians-describe-harrowing-conditions-gaza"
       }
     ],
     "GeoTV": [
       {
-        "title": "Royal experts reveal biggest truth about Prince Harry, Meghan Markle",
-        "link": "https://www.geo.tv/latest/665149-royal-experts-reveal-biggest-truth-about-prince-harry-meghan-markle"
+        "title": "Memorial Day travel alert: Here's everything to know about new warning issued by CBP",
+        "link": "https://www.geo.tv/latest/665197-memorial-day-travel-alert-heres-everything-to-know-about-new-warning-issued-by-cbp"
       },
       {
-        "title": "Louis Tomlinson fans turn emotional after new online controversary emerge",
-        "link": "https://www.geo.tv/latest/665160-louis-tomlinson-fans-turn-emotional-after-new-online-controversary-emerge"
+        "title": "Stephen Colbert says hosting ‘The Late Show' was an ‘accident'",
+        "link": "https://www.geo.tv/latest/665192-stephen-colbert-says-hosting-the-late-show-was-an-accident"
       },
       {
-        "title": "Southampton's 'Spygate' hearing looms as play-off final clarity awaits",
-        "link": "https://www.geo.tv/latest/665152-southamptons-spygate-hearing-looms-as-play-off-final-clarity-awaits"
+        "title": "Chris Rock seen with ex wife Malaak Compton-Rock after years apart",
+        "link": "https://www.geo.tv/latest/665182-chris-rock-seen-with-ex-wife-malaak-compton-rock-after-years-apart"
       },
       {
-        "title": "'Grave threat': Indian court rules historic Bhojshala mosque site a temple",
-        "link": "https://www.geo.tv/latest/665142-indian-court-rules-historic-bhojshala-mosque-site-a-temple"
+        "title": "Robert Downey Jr., Paul Bettany reunion at Spring Gala breaks the internet",
+        "link": "https://www.geo.tv/latest/665191-robert-downey-jr-paul-bettany-reunion-at-spring-gala-breaks-the-internet"
       },
       {
-        "title": "King Charles, Queen Camilla 'react' to Sarah Ferguson, Diddy 'ties'",
-        "link": "https://www.geo.tv/latest/665148-king-charles-queen-camilla-react-to-sarah-ferguson-diddy-ties"
+        "title": "Op Ghazab lil-Haq underway with full resolve against Taliban-backed terrorists: PM",
+        "link": "https://www.geo.tv/latest/665183-op-ghazab-lil-haq-underway-with-full-resolve-against-taliban-backed-terrorists-pm-shehbaz"
       }
     ],
     "NDTV": [
       {
-        "title": "Putin To Visit Delhi In September For BRICS Summit",
-        "link": "https://www.ndtv.com/world-news/putin-to-visit-delhi-in-september-for-brics-summit-11517361#publisher=newsstand"
+        "title": "'Pushpa Has Bowed, Abhishek Banerjee Will Too': BJP Leader On Falta Repoll",
+        "link": "https://www.ndtv.com/india-news/trinamools-pushpa-backs-out-bjps-abhishek-banerjee-bhi-jhukega-dig-11518658#publisher=newsstand"
       },
       {
-        "title": "25-Year-Old Odisha Man Killed In Ukranian Drone Attack In Russia",
-        "link": "https://www.ndtv.com/india-news/25-year-old-odisha-man-killed-in-ukranian-drone-attack-in-russia-11517602#publisher=newsstand"
+        "title": "PM Modi Leaves For Italy After Norway Visit, India-Nordic Summit",
+        "link": "https://www.ndtv.com/world-news/pm-narendra-modi-leaves-for-italy-after-norway-visit-india-nordic-summit-11518477#publisher=newsstand"
       },
       {
-        "title": "7-Year-Old Boy Electrocuted After Live Wire Falls On Road In Karnataka",
-        "link": "https://www.ndtv.com/india-news/7-year-old-boy-electrocuted-after-live-wire-falls-on-road-in-karnataka-11517581#publisher=newsstand"
+        "title": "Watch: Rajasthan MLA Ravindra Bhati Pours Petrol On Himself At Barmer Collectorate",
+        "link": "https://www.ndtv.com/india-news/rajasthan-mla-ravindra-singh-bhati-pours-petrol-on-himself-at-barmer-collectorate-11518664#publisher=newsstand"
       },
       {
-        "title": "\"She Said Dad If Things Don't Work Out...\": Twisha Sharma's Parents Break Down",
-        "link": "https://www.ndtv.com/india-news/shouldnt-have-left-her-in-that-house-twisha-sharmas-father-to-ndtv-11516106#publisher=newsstand"
+        "title": "Spanish Court Sets $1 Million Bail For Mango Founder's Son In Murder Inquiry",
+        "link": "https://www.ndtv.com/world-news/spanish-court-sets-1-million-bail-for-mango-founders-son-in-murder-inquiry-11518646#publisher=newsstand"
       },
       {
-        "title": "\"Grounds Raised Unreasonable\": Umar Khalid Denied Interim Bail",
-        "link": "https://www.ndtv.com/india-news/grounds-raised-are-unreasonable-umar-khalids-interim-bail-request-denied-11517297#publisher=newsstand"
+        "title": "NATO Discussing Deploying Troops In Hormuz If It Isn't Opened By July: Report",
+        "link": "https://www.ndtv.com/world-news/nato-discussing-deploying-troops-in-hormuz-if-it-isnt-opened-by-july-report-11518643#publisher=newsstand"
       }
     ],
     "TheGuardian": [
       {
-        "title": "WHO official warns Ebola outbreak unlikely to be over in two months as cases and deaths rise in DRC",
+        "title": "WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC",
         "link": "https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned"
+      },
+      {
+        "title": "As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?",
+        "link": "https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again"
       },
       {
         "title": "US claims ‘emergency refugee situation’ as it admits 10,000 more white South Africans",
@@ -195,12 +205,8 @@
       {
         "title": "‘Huge milestone’ as Libyan militia commander accused of torture appears at ICC",
         "link": "https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court"
-      },
-      {
-        "title": "‘It’s heartbreaking’: panic in eastern DRC over return of Ebola",
-        "link": "https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear"
       }
     ]
   },
-  "last_updated": "2026-05-19 12:28 UTC"
+  "last_updated": "2026-05-19 15:58 UTC"
 }
