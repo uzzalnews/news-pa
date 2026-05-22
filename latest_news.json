@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 406 Points, Oil Still Above $104 A Barrel",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-22-may-us-iran-war-donald-trump-hormuz-oil-prices-11530862#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,8 +7,12 @@
         "link": "https://www.bbc.com/news/articles/c0j2q988x17o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Andrew investigation police renew call for information",
+        "title": "Andrew investigation could look into sexual misconduct allegations",
         "link": "https://www.bbc.com/news/articles/c707l2jx0z4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+        "link": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
@@ -23,32 +21,28 @@
       {
         "title": "Riskiest skin cancer cases hit UK record high",
         "link": "https://www.bbc.com/news/articles/c4g0ryrewdxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Prepare for half term queues at Dover due to EU border process, port says",
-        "link": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Knicks move two wins from the NBA Finals with 109-93 victory over the Cavs",
-        "link": "https://www.aljazeera.com/sports/2026/5/22/knicks-move-two-wins-from-the-nba-finals-with-109-93-victory-over-the-cavs?traffic_source=rss"
+        "title": "US raises threat of military action against Cuba",
+        "link": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss"
       },
       {
-        "title": "Thousands attend funeral prayers for San Diego mosque attack victims",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-attend-funeral-prayers-for-san-diego-mosque-attack-victims?traffic_source=rss"
+        "title": "Japan’s World Cup 2026 team preview: Players to watch, group, squad",
+        "link": "https://www.aljazeera.com/sports/2026/5/22/japans-world-cup-2026-team-preview-players-to-watch-group-squad?traffic_source=rss"
       },
       {
-        "title": "Turkish opposition leader vows to stay after court ousts him",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/turkish-opposition-leader-vows-to-stay-after-court-ousts-him?traffic_source=rss"
+        "title": "Iran war day 84: US-Iran talks advance amid mediation push",
+        "link": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss"
       },
       {
-        "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
-        "link": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss"
+        "title": "Monfils warms up for final French Open with star-studded farewell party",
+        "link": "https://www.aljazeera.com/sports/2026/5/22/monfils-warms-up-for-final-french-open-with-star-studded-farewell-party?traffic_source=rss"
       },
       {
-        "title": "Malaysia orders TikTok to address ‘defamatory’ content about king",
-        "link": "https://www.aljazeera.com/economy/2026/5/22/malaysia-orders-tiktok-to-address-defamatory-content-about-king?traffic_source=rss"
+        "title": "Two-time NASCAR champ Kyle Busch dies at 41 after ‘severe illness’",
+        "link": "https://www.aljazeera.com/sports/2026/5/22/two-time-nascar-champ-kyle-busch-dies-at-41-after-severe-illness?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,24 +70,24 @@
     ],
     "Dawn": [
       {
-        "title": "UAE deportations issue referred to Senate panel",
-        "link": "https://www.dawn.com/news/2002124/uae-deportations-issue-referred-to-senate-panel"
+        "title": "FO says PM Shehbaz to visit China from May 23-26",
+        "link": "https://www.dawn.com/news/2002224/fo-says-pm-shehbaz-to-visit-china-from-may-23-26"
+      },
+      {
+        "title": "PM Shehbaz says Pakistan taking measures on a priority basis to increase foreign investment",
+        "link": "https://www.dawn.com/news/2002240/pm-shehbaz-says-pakistan-taking-measures-on-a-priority-basis-to-increase-foreign-investment"
+      },
+      {
+        "title": "IHC bans killing of stray dogs, orders authorities to implement humane methods of population control",
+        "link": "https://www.dawn.com/news/2002223/ihc-bans-killing-of-stray-dogs-orders-authorities-to-implement-humane-methods-of-population-control"
       },
       {
         "title": "Babar, Naseem recalled as PCB announces 16-member squad for Australia ODIs",
         "link": "https://www.dawn.com/news/2002210/babar-naseem-recalled-as-pcb-announces-16-member-squad-for-australia-odis"
       },
       {
-        "title": "US ‘hopeful’ as Islamabad tries to prevail on Tehran",
-        "link": "https://www.dawn.com/news/2002129/us-hopeful-as-islamabad-tries-to-prevail-on-tehran"
-      },
-      {
-        "title": "Dismissed complaints against CJP Afridi made public",
-        "link": "https://www.dawn.com/news/2002127/dismissed-complaints-against-cjp-afridi-made-public"
-      },
-      {
-        "title": "Emergency funding approved to accelerate work on Red Line",
-        "link": "https://www.dawn.com/news/2002188/emergency-funding-approved-to-accelerate-work-on-red-line"
+        "title": "Turkiye's Erdogan shuts Istanbul Bilgi University seized by state in criminal probe",
+        "link": "https://www.dawn.com/news/2002235/turkiyes-erdogan-shuts-istanbul-bilgi-university-seized-by-state-in-criminal-probe"
       }
     ],
     "APNews": [],
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-499"
+        "title": "Palestinian UN ambassador withdraws General Assembly vice presidency bid after US pressure",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-un-ambassador-withdraws-general-assembly-vice-presidency-bid"
       },
       {
-        "title": "Iran condemns US sanctions on Lebanese officials",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-condemns-us-sanctions-lebanese-officials"
+        "title": "France may consider windfall tax on sectors buoyed by Iran crisis, finance minister says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/france-may-consider-windfall-tax-sectors-buoyed-iran-crisis-finance"
       },
       {
-        "title": "Clarity needed on Iran war before states tap into oil reserves, French Finance Minister says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/clarity-needed-iran-war-states-tap-oil-reserves-french-finance-minister"
+        "title": "Double tap strike in southern Lebanon kills, injures paramedics",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/double-tap-strike-southern-lebanon-kills-injures-paramedics"
       },
       {
-        "title": "Activists onboard Gaza-bound flotilla recount abuse in Israeli detention",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/activists-onboard-gaza-bound-flotilla-recount-abuse-israeli-detention"
+        "title": "How activists pushed the UK's largest pension megafund to divest from Israel",
+        "link": "https://www.middleeasteye.net/news/how-activists-pushed-uk-largest-pension-megafund-divest-israel"
       },
       {
-        "title": "Centcom says army remains at ‘peak readiness’ as US blockade on Iran ongoing",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-army-remains-peak-readiness-us-blockade-iran-ongoing"
+        "title": "NATO chief says Hormuz Strait 'not necessarily our problem as an alliance'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nato-chief-says-hormuz-strait-not-necessarily-our-problem-alliance"
       }
     ],
     "GeoTV": [
       {
-        "title": "Jimmy Kimmel fires back ahead of Stephen Colbert's final goodbye",
-        "link": "https://www.geo.tv/latest/665584-jimmy-kimmel-fires-back-ahead-of-stephen-colberts-final-goodbye"
+        "title": "Harry Styles makes wild confession at Ivor Novello Awards: 'Shocking'",
+        "link": "https://www.geo.tv/latest/665599-harry-styles-makes-wild-confession-at-ivor-novello-awards-shocking"
       },
       {
-        "title": "Michael Keating, ‘Blake's 7' actor, dies at 79",
-        "link": "https://www.geo.tv/latest/665588-michael-keating-blakes-7-actor-dies-at-79"
+        "title": "Prince William breaks silence on Taylor Swift, Travis Kelce wedding invite",
+        "link": "https://www.geo.tv/latest/665609-prince-william-breaks-silence-on-taylor-swift-travis-kelce-wedding-invite"
       },
       {
-        "title": "Olivia Rodrigo celebrates 'The Cure' release with emotional message",
-        "link": "https://www.geo.tv/latest/665581-olivia-rodrigo-celebrates-the-cure-release-with-emotional-message"
+        "title": "Fact-check: Lahore has not banned tying sacrificial animals on streets ahead of Eid",
+        "link": "https://www.geo.tv/latest/665606-fact-check-lahore-has-not-banned-tying-sacrificial-animals-on-streets"
       },
       {
-        "title": "Zendaya, Tom Holland expand family with 'wonderful addition\"",
-        "link": "https://www.geo.tv/latest/665583-zendaya-tom-holland-expand-family-with-wonderful-addition"
+        "title": "Jack Avery says first words after child's mother, her father charged in alleged murder plot",
+        "link": "https://www.geo.tv/latest/665602-avery-says-first-words-after-ex-her-dad-charged-in-alleged-murder-plot"
       },
       {
-        "title": "Ronaldo strikes twice to end long wait for Saudi title",
-        "link": "https://www.geo.tv/latest/665582-ronaldo-strikes-twice-to-end-long-wait-for-saudi-title"
+        "title": "Palace drops big announcement as Edward, Sophie leave UK after Andrew news",
+        "link": "https://www.geo.tv/latest/665604-palace-drops-big-announcement-as-edward-sophie-leave-uk-after-andrew-news"
       }
     ],
     "NDTV": [
       {
-        "title": "Meet The Key Allies Of Elon Musk Set To Turn Billionaires After SpaceX IPO",
-        "link": "https://www.ndtv.com/world-news/meet-the-key-allies-of-elon-musk-set-to-turn-billionaires-after-spacex-ipo-gwynne-shotwell-bret-johnsen-luke-nosek-antonio-gracias-11531336#publisher=newsstand"
+        "title": "Lunch Under Tree, Then Attack At 2:23 PM: New Details In Pahalgam Attack",
+        "link": "https://www.ndtv.com/india-news/pahalgam-terror-attack-lunch-under-tree-then-attack-at-2-23-pm-new-nia-details-in-baisaran-valley-attack-11531860#publisher=newsstand"
       },
       {
-        "title": "Who Is Abhijeet Dipke, Founder Of Online Sensation Cockroach Janta Party",
-        "link": "https://www.ndtv.com/india-news/cockroach-janta-party-who-is-abhijeet-dipke-founder-of-online-sensation-cockroach-janta-party-11531319#publisher=newsstand"
+        "title": "Delhi Issues Bakrid Advisory, Bans Cow, Camel Sacrifice In Public Places",
+        "link": "https://www.ndtv.com/delhi-news/delhi-government-issues-bakrid-advisory-bans-cow-camel-sacrifice-in-public-places-11531907#publisher=newsstand"
       },
       {
-        "title": "A 'Band Of Brothers' Is Running Iran With Mojtaba Khamenei: Report",
-        "link": "https://www.ndtv.com/world-news/iran-war-who-runs-iran-today-no-its-not-just-mojtaba-khamenei-11531165#publisher=newsstand"
+        "title": "\"Worked Really Hard\": 2 Indian Mountaineers Die While Descending Everest",
+        "link": "https://www.ndtv.com/india-news/worked-really-hard-2-indian-mountaineers-die-while-descending-everest-11531763#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 406 Points, Oil Still Above $104 A Barrel",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-22-may-us-iran-war-donald-trump-hormuz-oil-prices-11530862#publisher=newsstand"
+        "title": "Umar Khalid Gets Interim Bail To Attend To Ailing Mother",
+        "link": "https://www.ndtv.com/india-news/umar-khalid-gets-interim-bail-to-attend-to-ailing-mother-11531794#publisher=newsstand"
       },
       {
-        "title": "Iran In Talks With Oman For Permanent Hormuz Toll System",
-        "link": "https://www.ndtv.com/world-news/iran-in-talks-with-oman-for-permanent-hormuz-toll-system-11531285#publisher=newsstand"
+        "title": "Did Chinese General Disguise As Waitress To Spy On Elon Musk? What Report Said",
+        "link": "https://www.ndtv.com/world-news/did-chinese-general-disguised-as-waitress-to-spy-on-musk-what-report-said-11531820#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-22 05:52 UTC"
+  "last_updated": "2026-05-22 08:50 UTC"
 }
