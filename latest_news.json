@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,7 +11,7 @@
         "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Four dead and dozens injured in wave of Russian strikes on Kyiv",
+        "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
         "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears",
-        "link": "https://www.aljazeera.com/news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc-amid-outbreak-fears?traffic_source=rss"
+        "title": "US, Iran inch closer to deal to end the war: What to know",
+        "link": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss"
       },
       {
-        "title": "Man dies in northeast Australia after shark attack",
-        "link": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss"
+        "title": "Russia pounds Ukraine’s capital with hypersonic missile",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss"
       },
       {
-        "title": "Usyk avoids shock defeat with 11th-round stoppage of Verhoeven",
-        "link": "https://www.aljazeera.com/sports/2026/5/24/usyk-avoids-shock-defeat-with-11th-round-stoppage-of-verhoeven?traffic_source=rss"
+        "title": "Trump says US and Iran deal to end war is ‘largely negotiated’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss"
       },
       {
-        "title": "‘Want equal respect’: Pakistan’s females galloping to glory in tent pegging",
-        "link": "https://www.aljazeera.com/news/2026/5/24/want-equal-respect-pakistan-females-galloping-to-glory-in-tent-pegging?traffic_source=rss"
+        "title": "Gunman shot dead by Secret Service agents near White House: What we know",
+        "link": "https://www.aljazeera.com/news/2026/5/24/gunman-shot-dead-by-secret-service-agents-near-white-house-what-we-know?traffic_source=rss"
       },
       {
-        "title": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss"
+        "title": "Rubio says ‘significant progress’ made in US-Iran negotiations",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/rubio-says-significant-progress-made-in-us-iran-negotiations?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,20 +70,20 @@
     ],
     "Dawn": [
       {
+        "title": "At least 14 killed in Quetta shuttle train blast: Balochistan govt",
+        "link": "https://www.dawn.com/news/2002744/at-least-14-killed-in-quetta-shuttle-train-blast-balochistan-govt"
+      },
+      {
         "title": "PM Shehbaz hails Trump's 'extraordinary efforts to pursue peace' after phone call with CDF, leaders of other countries",
         "link": "https://www.dawn.com/news/2002720/pm-shehbaz-hails-trumps-extraordinary-efforts-to-pursue-peace-after-phone-call-with-cdf-leaders-of-other-countries"
       },
       {
-        "title": "Several feared killed in Quetta shuttle train blast",
-        "link": "https://www.dawn.com/news/2002744/several-feared-killed-in-quetta-shuttle-train-blast"
+        "title": "Heatstroke kills 16 in southern India as temperatures climb",
+        "link": "https://www.dawn.com/news/2002757/heatstroke-kills-16-in-southern-india-as-temperatures-climb"
       },
       {
         "title": "Gunman killed by US Secret Service after opening fire near White House",
         "link": "https://www.dawn.com/news/2002729/gunman-killed-by-us-secret-service-after-opening-fire-near-white-house"
-      },
-      {
-        "title": "US-Iran deal in sight as CDF wraps up trip",
-        "link": "https://www.dawn.com/news/2002652/us-iran-deal-in-sight-as-cdf-wraps-up-trip"
       },
       {
         "title": "More facts surface ahead of high profile One Constitution project case hearing",
@@ -99,27 +93,39 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service",
-        "link": "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html"
+        "title": "How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency",
+        "link": "https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html"
+      },
+      {
+        "title": "With Big Decisions Ahead, the Supreme Court Collides With a Testy Trump",
+        "link": "https://www.nytimes.com/2026/05/24/us/politics/supreme-court-trump-vance.html"
+      },
+      {
+        "title": "Do U.S. Automakers Have a Future in Canada?",
+        "link": "https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html"
       },
       {
         "title": "Trump Is Setting His Sights on Restricting Legal Immigration",
         "link": "https://www.nytimes.com/2026/05/23/us/politics/trump-legal-immigration.html"
       },
       {
-        "title": "Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6",
-        "link": "https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html"
-      },
-      {
-        "title": "Short Naps, Long Hours: How Autism Clinics Squeeze Medicaid Dollars Out of Preschoolers",
-        "link": "https://www.nytimes.com/2026/05/23/health/autism-therapy-clinics.html"
-      },
-      {
-        "title": "Garden Grove Chemical Tank Could Be Inching Toward Explosion, Authorities Say",
-        "link": "https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-tank-orange-county.html"
+        "title": "RFK Jr.’s Push to Curb Antidepressants Has Shaken Psychiatry",
+        "link": "https://www.nytimes.com/2026/05/24/science/rfk-jr-antidepressants-ssri-psychiatry.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "European Commission President welcomes possible peace deal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/european-commission-president-welcomes-possible-peace-deal"
+      },
+      {
+        "title": "UK welcomes progress on US-Iran talks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-welcomes-progress-us-iran-talks"
+      },
+      {
+        "title": "Rubio labels Iran world leading sponsor of 'terrorism'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-labels-iran-world-leading-sponsor-terrorism"
+      },
       {
         "title": "Former US envoy says escalation would have been worse than deal",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-us-envoy-says-escalation-would-have-been-worse-deal"
@@ -127,62 +133,50 @@
       {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-507"
-      },
-      {
-        "title": "'Imminent' US-Iran deal not in Tel Aviv's interest, Israeli media says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/emerging-us-iran-deal-not-tel-avivs-favour-israeli-media-says"
-      },
-      {
-        "title": "Video: Berlin activist says police arrested him again over pro-Palestine pin",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-berlin-activist-says-police-arrested-him-again-over-pro-palestine"
-      },
-      {
-        "title": "Tehran says armed forces remain on highest alert",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-armed-forces-remain-highest-alert"
       }
     ],
     "GeoTV": [
       {
-        "title": "Taylor Swift responds to 'Rep TV' theories with subtle sign at Knicks game",
-        "link": "https://www.geo.tv/latest/665877-taylor-swift-responds-to-rep-tv-theories-with-subtle-sign-at-knicks-game"
+        "title": "Bobby Brazier enjoys sweet moments with niece Isla amid Freddy's 'nasty' split",
+        "link": "https://www.geo.tv/latest/665897-bobby-brazier-enjoys-sweet-moments-with-niece"
       },
       {
-        "title": "One Direction singers Louis Tomlinson, Niall Horan to reunite in Sunderland?",
-        "link": "https://www.geo.tv/latest/665878-one-direction-singers-louis-tomlinson-niall-horan-to-reunite-in-sunderland"
+        "title": "King Charles creates major problem for William with Harry decision",
+        "link": "https://www.geo.tv/latest/665885-king-charles-creates-major-problem-for-william-with-harry-decision"
       },
       {
-        "title": "China to send astronaut on year-long space mission as it eyes 2030 moon landing",
-        "link": "https://www.geo.tv/latest/665875-china-to-send-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing"
+        "title": "Michelle Keegan shares 'pure magic' moments from family getaway",
+        "link": "https://www.geo.tv/latest/665893-michelle-keegan-shares-pure-magic-moments-with-daughter-palma-on-family-getaway"
       },
       {
-        "title": "Holly Ramsay shares sweet bond with sister in law Bethany Peaty",
-        "link": "https://www.geo.tv/latest/665873-holly-ramsay-shares-sweet-bond-with-sister-in-law-bethany-peaty"
+        "title": "Why Pete Davidson's ex Elsie Hewitt's remarks left comedian in disbelief?",
+        "link": "https://www.geo.tv/latest/665884-why-pete-davidsons-ex-elsie-hewitts-remarks-left-comedian-in-disbelief"
       },
       {
-        "title": "Royals take protective step for Beatrice, Eugenie as key appearance looms",
-        "link": "https://www.geo.tv/latest/665872-royals-take-protective-step-for-beatrice-eugenie-as-key-appearance-looms"
+        "title": "Taylor Swift, Travis Kelce melt hearts with young fan interaction: Watch",
+        "link": "https://www.geo.tv/latest/665892-taylor-swift-travis-kelce-melt-hearts-with-young-fan-interaction-watch"
       }
     ],
     "NDTV": [
       {
-        "title": "Life Convict Walked Out Of Bengaluru Jail Using Fake Court Order 8 Years Ago",
-        "link": "https://www.ndtv.com/india-news/life-convict-used-fake-court-order-to-walk-out-of-bengaluru-jail-case-filed-8-years-later-11540189#publisher=newsstand"
+        "title": "17-Year-Old Tourist Dies After Fight With Security Guards At Varanasi Ghat",
+        "link": "https://www.ndtv.com/india-news/17-year-old-tourist-dies-after-alleged-fight-with-private-security-guards-at-namo-ghat-in-varanasi-11540440#publisher=newsstand"
       },
       {
-        "title": "\"World May Get Some Good News In Next Few Hours\": Marco Rubio On US-Iran Deal",
-        "link": "https://www.ndtv.com/world-news/marco-rubio-press-conference-with-s-jaishankar-on-iran-war-possibility-that-world-will-get-some-good-news-in-next-few-hours-11540128#publisher=newsstand"
+        "title": "17-Year-Old Tourist Dies After Fight With Security Guards At Varanasi Ghat",
+        "link": "https://www.ndtv.com/india-news/17-year-old-tourist-dies-after-alleged-fight-with-private-security-guards-at-namo-ghat-in-varanasi-11540440#publisher=newsstand"
       },
       {
-        "title": "Iranian Oil Sale, Hormuz Reopening: US-Iran Working On 60-Day Truce",
-        "link": "https://www.ndtv.com/world-news/iranian-oil-sale-hormuz-reopening-us-iran-working-on-60-day-truce-11540180#publisher=newsstand"
+        "title": "Man Dies After Shark Attack On Australia's Great Barrier Reef",
+        "link": "https://www.ndtv.com/world-news/man-dies-after-shark-attack-on-australias-great-barrier-reef-11539985#publisher=newsstand"
       },
       {
-        "title": "Marco Rubio India Visit Live Updates: \"India Among Few Nations Able To Influence Global Issues\": Marco Rubio",
-        "link": "https://www.ndtv.com/world-news/marco-rubio-india-visit-live-updates-top-trump-aide-in-india-today-to-meet-pm-modi-s-jaishankar-visit-kolkata-amid-iran-war-11535604#publisher=newsstand"
+        "title": "California Chemical Tank At Risk Of Exploding, 40,000 Residents To Evacuate",
+        "link": "https://www.ndtv.com/world-news/california-chemical-tank-at-risk-of-exploding-40-000-residents-to-evacuate-11539603#publisher=newsstand"
       },
       {
-        "title": "Twisha Sharma Death Case Updates: Twisha Sharma's Funeral To Be Held Today Evening In Bhopal",
-        "link": "https://www.ndtv.com/india-news/twisha-sharma-husband-surrender-updates-dowry-case-madhya-pradesh-high-court-bhopal-orders-samarth-singh-giribala-singh-11532960#publisher=newsstand"
+        "title": "Ro Khanna Jabs Trump For Skipping Son's Wedding After His \"Dumocrat\" Post",
+        "link": "https://www.ndtv.com/world-news/ro-khanna-jabs-trump-for-skipping-sons-wedding-after-his-dumocrat-post-us-congressman-donald-trump-jr-wedding-11539649#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-24 08:08 UTC"
+  "last_updated": "2026-05-24 10:07 UTC"
 }
