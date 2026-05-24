@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,38 +17,38 @@
         "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-        "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss"
+        "title": "Four dead and dozens injured in wave of Russian strikes on Kyiv",
+        "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Heatwave likely to be confirmed as record-breaking temperatures forecast",
-        "link": "https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&at_campaign=rss"
+        "title": "Midnight Sun-derland: Zara Larsson electrifies the crowd at Big Weekend",
+        "link": "https://www.bbc.com/news/articles/c4g07gdzneno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-        "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss"
+        "title": "Why the stakes are so high in Spurs and West Ham's relegation shootout",
+        "link": "https://www.bbc.com/sport/football/articles/cpqpyprner9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "19 feared trapped after building collapse in Philippines",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/19-feared-trapped-after-building-collapse-in-philippines?traffic_source=rss"
+        "title": "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears",
+        "link": "https://www.aljazeera.com/news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc-amid-outbreak-fears?traffic_source=rss"
       },
       {
-        "title": "Iranian sources lay out Iran-US deal details",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss"
+        "title": "Man dies in northeast Australia after shark attack",
+        "link": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss"
       },
       {
-        "title": "US Secret Service fatally shoots gunman who fired at White House checkpoint",
-        "link": "https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss"
+        "title": "Usyk avoids shock defeat with 11th-round stoppage of Verhoeven",
+        "link": "https://www.aljazeera.com/sports/2026/5/24/usyk-avoids-shock-defeat-with-11th-round-stoppage-of-verhoeven?traffic_source=rss"
       },
       {
-        "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss"
+        "title": "‘Want equal respect’: Pakistan’s females galloping to glory in tent pegging",
+        "link": "https://www.aljazeera.com/news/2026/5/24/want-equal-respect-pakistan-females-galloping-to-glory-in-tent-pegging?traffic_source=rss"
       },
       {
-        "title": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
-        "link": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss"
+        "title": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/2002720/pm-shehbaz-hails-trumps-extraordinary-efforts-to-pursue-peace-after-phone-call-with-cdf-leaders-of-other-countries"
       },
       {
+        "title": "Several feared killed in Quetta shuttle train blast",
+        "link": "https://www.dawn.com/news/2002744/several-feared-killed-in-quetta-shuttle-train-blast"
+      },
+      {
         "title": "Gunman killed by US Secret Service after opening fire near White House",
         "link": "https://www.dawn.com/news/2002729/gunman-killed-by-us-secret-service-after-opening-fire-near-white-house"
       },
@@ -82,12 +92,8 @@
         "link": "https://www.dawn.com/news/2002652/us-iran-deal-in-sight-as-cdf-wraps-up-trip"
       },
       {
-        "title": "Karachi Museum of History to be built by the seaside",
-        "link": "https://www.dawn.com/news/2002626/karachi-museum-of-history-to-be-built-by-the-seaside"
-      },
-      {
-        "title": "25 terrorists killed in Bannu clash",
-        "link": "https://www.dawn.com/news/2002648/25-terrorists-killed-in-bannu-clash"
+        "title": "More facts surface ahead of high profile One Constitution project case hearing",
+        "link": "https://www.dawn.com/news/2002704/more-facts-surface-ahead-of-high-profile-one-constitution-project-case-hearing"
       }
     ],
     "APNews": [],
@@ -95,10 +101,6 @@
       {
         "title": "Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service",
         "link": "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html"
-      },
-      {
-        "title": "Iran Agreed to Give Up Enriched Uranium in Deal Announced by Trump, U.S. Officials Say",
-        "link": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-deal-uranium-nuclear.html"
       },
       {
         "title": "Trump Is Setting His Sights on Restricting Legal Immigration",
@@ -111,75 +113,83 @@
       {
         "title": "Short Naps, Long Hours: How Autism Clinics Squeeze Medicaid Dollars Out of Preschoolers",
         "link": "https://www.nytimes.com/2026/05/23/health/autism-therapy-clinics.html"
+      },
+      {
+        "title": "Garden Grove Chemical Tank Could Be Inching Toward Explosion, Authorities Say",
+        "link": "https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-tank-orange-county.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran and Saudi Arabia foreign ministers hold talks on regional tensions",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-saudi-arabia-foreign-ministers-hold-talks-regional-tensions"
+        "title": "Former US envoy says escalation would have been worse than deal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-us-envoy-says-escalation-would-have-been-worse-deal"
       },
       {
-        "title": "Video: Israel kills Palestinian police officers in overnight Gaza strike",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israel-kills-palestinian-police-officers-overnight-gaza-strike"
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-507"
       },
       {
-        "title": "Haaretz says Netanyahu’s influence over Trump has declined",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/haaretz-says-netanyahus-influence-over-trump-has-declined"
+        "title": "'Imminent' US-Iran deal not in Tel Aviv's interest, Israeli media says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/emerging-us-iran-deal-not-tel-avivs-favour-israeli-media-says"
       },
       {
-        "title": "White House to announce Iran agreement on Sunday, says report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-announce-iran-agreement-sunday-says-report"
+        "title": "Video: Berlin activist says police arrested him again over pro-Palestine pin",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-berlin-activist-says-police-arrested-him-again-over-pro-palestine"
       },
       {
-        "title": "Video: Flotilla activists allege abuse after release from Israeli custody",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-flotilla-activists-allege-abuse-after-release-israeli-custody"
+        "title": "Tehran says armed forces remain on highest alert",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-armed-forces-remain-highest-alert"
       }
     ],
     "GeoTV": [
       {
-        "title": "Bangladesh puts AI in driving seat to tackle terrible traffic",
-        "link": "https://www.geo.tv/latest/665868-bangladesh-puts-ai-in-driving-seat-to-tackle-terrible-traffic"
+        "title": "Taylor Swift responds to 'Rep TV' theories with subtle sign at Knicks game",
+        "link": "https://www.geo.tv/latest/665877-taylor-swift-responds-to-rep-tv-theories-with-subtle-sign-at-knicks-game"
       },
       {
-        "title": "Katie Price refuses to accept Lee Andrews dad's arrest story",
-        "link": "https://www.geo.tv/latest/665865-katie-price-refuses-to-accept-lee-andrews-dads-arrest-story"
+        "title": "One Direction singers Louis Tomlinson, Niall Horan to reunite in Sunderland?",
+        "link": "https://www.geo.tv/latest/665878-one-direction-singers-louis-tomlinson-niall-horan-to-reunite-in-sunderland"
       },
       {
-        "title": "Andrew Mountbatten-Windsor makes shocking confession after King's orders",
-        "link": "https://www.geo.tv/latest/665867-andrew-mountbatten-windsor-makes-shocking-confession-after-kings-orders"
+        "title": "China to send astronaut on year-long space mission as it eyes 2030 moon landing",
+        "link": "https://www.geo.tv/latest/665875-china-to-send-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing"
       },
       {
-        "title": "Budgeting beyond control",
-        "link": "https://www.geo.tv/latest/665863-budgeting-beyond-control"
+        "title": "Holly Ramsay shares sweet bond with sister in law Bethany Peaty",
+        "link": "https://www.geo.tv/latest/665873-holly-ramsay-shares-sweet-bond-with-sister-in-law-bethany-peaty"
       },
       {
-        "title": "Nicolas Cage explains one thing he never do in Hollywood",
-        "link": "https://www.geo.tv/latest/665864-nicolas-cage-explains-one-thing-he-never-do-in-hollywood"
+        "title": "Royals take protective step for Beatrice, Eugenie as key appearance looms",
+        "link": "https://www.geo.tv/latest/665872-royals-take-protective-step-for-beatrice-eugenie-as-key-appearance-looms"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Never Allow Them Near Us\": DMK Rips Into Congress Over Support To Vijay",
-        "link": "https://www.ndtv.com/india-news/tamil-nadu-dmk-slams-congress-backstabbers-leeches-dmk-rips-into-congress-over-support-to-vijay-11539631#publisher=newsstand"
+        "title": "Life Convict Walked Out Of Bengaluru Jail Using Fake Court Order 8 Years Ago",
+        "link": "https://www.ndtv.com/india-news/life-convict-used-fake-court-order-to-walk-out-of-bengaluru-jail-case-filed-8-years-later-11540189#publisher=newsstand"
       },
       {
-        "title": "US Conducts Military Drill Over Venezuelan Capital Caracas",
-        "link": "https://www.ndtv.com/world-news/us-conducts-military-drill-over-venezuelan-capital-caracas-11539137#publisher=newsstand"
+        "title": "\"World May Get Some Good News In Next Few Hours\": Marco Rubio On US-Iran Deal",
+        "link": "https://www.ndtv.com/world-news/marco-rubio-press-conference-with-s-jaishankar-on-iran-war-possibility-that-world-will-get-some-good-news-in-next-few-hours-11540128#publisher=newsstand"
       },
       {
-        "title": "Ghaziabad Man Attacked Women With Scissors In Noida, Arrested",
-        "link": "https://www.ndtv.com/noida-news/ghaziabad-man-attacked-women-with-scissors-in-noida-arrested-11539698#publisher=newsstand"
+        "title": "Iranian Oil Sale, Hormuz Reopening: US-Iran Working On 60-Day Truce",
+        "link": "https://www.ndtv.com/world-news/iranian-oil-sale-hormuz-reopening-us-iran-working-on-60-day-truce-11540180#publisher=newsstand"
       },
       {
-        "title": "Waiting For Peace Deal, Britain Preps For A Mission To Clear Hormuz",
-        "link": "https://www.ndtv.com/world-news/waiting-for-peace-deal-britain-preps-for-a-mission-to-clear-hormuz-11539286#publisher=newsstand"
+        "title": "Marco Rubio India Visit Live Updates: \"India Among Few Nations Able To Influence Global Issues\": Marco Rubio",
+        "link": "https://www.ndtv.com/world-news/marco-rubio-india-visit-live-updates-top-trump-aide-in-india-today-to-meet-pm-modi-s-jaishankar-visit-kolkata-amid-iran-war-11535604#publisher=newsstand"
       },
       {
-        "title": "After Eviction Notice, Delhi Gymkhana Club Seeks Clarity, Meeting With Centre",
-        "link": "https://www.ndtv.com/india-news/after-eviction-notice-delhi-gymkhana-club-seeks-clarity-meeting-with-centre-11539685#publisher=newsstand"
+        "title": "Twisha Sharma Death Case Updates: Twisha Sharma's Funeral To Be Held Today Evening In Bhopal",
+        "link": "https://www.ndtv.com/india-news/twisha-sharma-husband-surrender-updates-dowry-case-madhya-pradesh-high-court-bhopal-orders-samarth-singh-giribala-singh-11532960#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+        "link": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges"
+      },
       {
         "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
         "link": "https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola"
@@ -195,12 +205,8 @@
       {
         "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
         "link": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc"
-      },
-      {
-        "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’",
-        "link": "https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan"
       }
     ]
   },
-  "last_updated": "2026-05-24 05:42 UTC"
+  "last_updated": "2026-05-24 08:08 UTC"
 }
