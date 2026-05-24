@@ -15,15 +15,27 @@
         "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Heatwave conditions met in eight parts of England as record-breaking temperatures forecast",
+        "title": "Heatwave conditions met in parts of England as record-breaking temperatures forecast",
         "link": "https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-        "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
+        "title": "Ebola outbreak poses massive challenges, warns senior charity official",
+        "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Senegal parliament speaker steps down as political crisis worsens",
+        "link": "https://www.aljazeera.com/news/2026/5/24/senegal-parliament-speaker-steps-down-as-political-crisis-worsens?traffic_source=rss"
+      },
+      {
+        "title": "‘Trump needs a deal, no matter how bad it is’",
+        "link": "https://www.aljazeera.com/video/quotable/2026/5/24/trump-needs-a-deal-no-matter-how-bad-it?traffic_source=rss"
+      },
+      {
+        "title": "Ebola spreads in the DRC as authorities struggle to contain outbreak",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/ebola-spreads-in-the-drc-as-authorities-struggle-to-contain-outbreak?traffic_source=rss"
+      },
       {
         "title": "How will Iran war fallout impact upcoming US elections?",
         "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
         "link": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss"
-      },
-      {
-        "title": "Zelenskyy speaks to Al Jazeera at site of major Russian attacks in Kyiv",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/zelenskyy-speaks-to-al-jazeera-at-site-of-major-russian-attacks-in-kyiv?traffic_source=rss"
-      },
-      {
-        "title": "Fatou Bensouda on Israeli threats against her and the ICC",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/24/fatou-bensouda-on-israeli-threats-against-her-and-the-icc?traffic_source=rss"
-      },
-      {
-        "title": "West Ham go down as Salah and Guardiola make emotional Premier League exits",
-        "link": "https://www.aljazeera.com/sports/2026/5/24/premier-league-west-ham-go-down-salah-and-guardiola-make-emotional-exits?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel warns Iran-US deal ‘not good’: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-warns-iran-us-deal-not-good-report"
+      },
+      {
         "title": "'No Eid' in Gaza for third year as livestock crisis erases holiday rituals",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/no-eid-gaza-third-year-livestock-crisis-erases-holiday-rituals"
       },
@@ -129,13 +133,17 @@
       {
         "title": "Hajj pilgrims press on despite Iran war uncertainty",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hajj-pilgrims-press-despite-iran-war-uncertainty"
-      },
-      {
-        "title": "Iran media says US obstructing deal clauses, warns talks could collapse",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-media-says-us-obstructing-deal-clauses-warns-talks-could-collapse"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Lizzo breaks silence over rumours of badmouthing Taylor Swift",
+        "link": "https://www.geo.tv/latest/665957-lizzo-breaks-silence-over-rumours-of-badmouthing-taylor-swift"
+      },
+      {
+        "title": "Sydney Sweeney responds to backlash over ‘Euphoria' dark scenes",
+        "link": "https://www.geo.tv/latest/665960-sydney-sweeney-responds-to-backlash-over-euphoria-dark-scenes"
+      },
       {
         "title": "Christopher Nolan's ‘The Odyssey' trailer sparks major backlash online",
         "link": "https://www.geo.tv/latest/665954-christopher-nolans-the-odyssey-trailer-sparks-major-backlash-online"
@@ -147,24 +155,16 @@
       {
         "title": "China launches three-crew space flight as part of Moon ambitions",
         "link": "https://www.geo.tv/latest/665946-china-launches-three-crew-space-flight-as-part-of-moon-ambitions"
-      },
-      {
-        "title": "Pakistan's Faisal Shafi becomes first local runner to achieve provisional eighth marathon star",
-        "link": "https://www.geo.tv/latest/665938-pakistans-faisal-shafi-becomes-first-local-runner-to-achieve-provisional-eighth-marathon-star"
-      },
-      {
-        "title": "Netflix star Stewart McLean found dead as murder investigation begins",
-        "link": "https://www.geo.tv/latest/665950-netflix-star-stewart-mclean-found-dead-as-murder-investigation-begins"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Agreement With Iran Must Eliminate Nuclear Danger\": Netanyahu To Trump",
-        "link": "https://www.ndtv.com/world-news/agreement-with-iran-must-eliminate-nuclear-danger-netanyahu-to-trump-11542198#publisher=newsstand"
-      },
-      {
         "title": "'Any Appropriately Located Alternate Plot?': Delhi Gymkhana Club Writes To Centre",
         "link": "https://www.ndtv.com/india-news/delhi-gymkhana-club-writes-to-centre-any-appropriately-located-alternate-plot-11542120#publisher=newsstand"
+      },
+      {
+        "title": "\"Agreement With Iran Must Eliminate Nuclear Danger\": Netanyahu To Trump",
+        "link": "https://www.ndtv.com/world-news/agreement-with-iran-must-eliminate-nuclear-danger-netanyahu-to-trump-11542198#publisher=newsstand"
       },
       {
         "title": "China Launches 3-Crew Space Flight As Part Of Moon Ambitions",
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-24 19:56 UTC"
+  "last_updated": "2026-05-24 21:01 UTC"
 }
