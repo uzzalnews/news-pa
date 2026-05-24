@@ -3,7 +3,7 @@
   "news": {
     "BBC": [
       {
-        "title": "Keir Starmer says rape of two girls by boys spared custody 'appalling'",
+        "title": "Starmer says case of girls raped by boys spared custody 'appalling'",
         "link": "https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -11,38 +11,38 @@
         "link": "https://www.bbc.com/news/videos/ce9pmyz7jrxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
-        "link": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "It's like the Olympics, except steroids are allowed",
-        "link": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss"
+        "title": "Heatwave conditions met in eight parts of England as record-breaking temperatures forecast",
+        "link": "https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
         "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "It's like the Olympics, except steroids are allowed",
+        "link": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Iran team trains through World Cup uncertainty",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iran-team-trains-through-world-cup-uncertainty?traffic_source=rss"
+      },
+      {
+        "title": "Turkish police storm main opposition CHP’s party headquarters",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/turkish-police-storm-main-opposition-chps-party-headquarters?traffic_source=rss"
+      },
+      {
+        "title": "China’s Shenzhou-23 astronauts blast off on space station mission",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/chinas-shenzhou-23-astronauts-blast-off-on-space-station-mission?traffic_source=rss"
+      },
+      {
+        "title": "Iran recounts historic battles in response to Trump’s talk of agreement",
+        "link": "https://www.aljazeera.com/news/2026/5/24/iran-recounts-historic-battles-in-response-to-trumps-talk-of-agreement?traffic_source=rss"
+      },
+      {
         "title": "‘A paper city’: New York ‘library’ hosts 3.5 million pages of Epstein files",
         "link": "https://www.aljazeera.com/features/2026/5/24/a-paper-city-new-york-library-hosts-3-5-million-pages-of-epstein-files?traffic_source=rss"
-      },
-      {
-        "title": "China sends aid to Cuba amid a harsh US blockade",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/china-sends-aid-to-cuba-amid-a-harsh-us-blockade?traffic_source=rss"
-      },
-      {
-        "title": "Bahrain jails nine defendants for life for ‘cooperating’ with Iran’s IRGC",
-        "link": "https://www.aljazeera.com/news/2026/5/24/bahrain-jails-nine-defendants-for-life-for-cooperating-with-irans-irgc?traffic_source=rss"
-      },
-      {
-        "title": "France bans Ben-Gvir: Which other Israeli leaders have been penalised?",
-        "link": "https://www.aljazeera.com/news/2026/5/24/france-bans-ben-gvir-which-other-israeli-leaders-have-been-penalised?traffic_source=rss"
-      },
-      {
-        "title": "For third year in a row, Israel blocks Hajj pilgrimage for Gaza Muslims",
-        "link": "https://www.aljazeera.com/news/2026/5/24/for-third-year-in-a-row-israel-blocks-hajj-pilgrimage-for-gaza-muslims?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +78,16 @@
         "link": "https://www.dawn.com/news/2002753/pm-shehbaz-lands-in-beijing-will-hold-high-level-meetings-with-chinese-leadership"
       },
       {
+        "title": "Gwadar University VC, pro-vice chancellor return home 10 days after they were reported missing",
+        "link": "https://www.dawn.com/news/2002789/gwadar-university-vc-pro-vice-chancellor-return-home-10-days-after-they-were-reported-missing"
+      },
+      {
         "title": "PM Shehbaz hails Trump's 'extraordinary efforts to pursue peace' after phone call with CDF, leaders of other countries",
         "link": "https://www.dawn.com/news/2002720/pm-shehbaz-hails-trumps-extraordinary-efforts-to-pursue-peace-after-phone-call-with-cdf-leaders-of-other-countries"
       },
       {
         "title": "China launches three-crew space flight as part of Moon ambitions",
         "link": "https://www.dawn.com/news/2002786/china-launches-three-crew-space-flight-as-part-of-moon-ambitions"
-      },
-      {
-        "title": "Security forces kill 11 terrorists in KP's North Waziristan: ISPR",
-        "link": "https://www.dawn.com/news/2002766/security-forces-kill-11-terrorists-in-kps-north-waziristan-ispr"
       }
     ],
     "APNews": [],
@@ -115,49 +115,61 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Pro-Israeli Republicans come out against a deal with Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-israeli-republicans-come-out-against-deal-iran"
+        "title": "No US-Iran deal expected today as talks drag on",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/no-us-iran-deal-expected-today-talks-drag"
       },
       {
-        "title": "Hajj pilgrims press on despite Iran war uncertainty",
-        "link": "https://www.middleeasteye.net/news/muslims-press-ahead-hajj-amid-iran-war-uncertainty"
+        "title": "Hezbollah chief rejects Israel talks, warns disarmament ‘unacceptable’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-israel-talks-warns-disarmament-unacceptable"
       },
       {
-        "title": "Iran says it has ‘solid legal and security reasons’ for Strait of Hormuz control",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-has-solid-legal-and-security-reasons-strait-hormuz-control"
+        "title": "Death toll from Israeli strikes on Lebanon climbs to 3,151",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-strikes-lebanon-climbs-3151"
       },
       {
-        "title": "Israel says it will keep striking region as Trump pushes Iran deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-will-keep-striking-region-trump-pushes-iran-deal"
+        "title": "Democrats slam Trump Iran deal, say US position now ‘worse than before’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/democrats-slam-trump-iran-deal-say-us-position-now-worse"
       },
       {
-        "title": "Netanyahu backs Trump on Iran, demands dismantling of nuclear programme",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-backs-trump-iran-demands-dismantling-nuclear-programme"
+        "title": "Iran wary of generous US deal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-wary-generous-us-deal"
       }
     ],
     "GeoTV": [
       {
-        "title": "'Game of Thrones' star details horrifying reason she retired from acting",
-        "link": "https://www.geo.tv/latest/665945-game-of-thrones-star-details-horrifying-reason-she-retired-from-acting"
+        "title": "Buckingham Palace shares update on Princess Anne's crucial overseas trip",
+        "link": "https://www.geo.tv/latest/665953-buckingham-palace-shares-update-on-princess-annes-crucial-overseas-trip"
       },
       {
-        "title": "Lena Dunham reveals rare detail about first interaction with Luis Felber",
-        "link": "https://www.geo.tv/latest/665922-lena-dunham-reveals-rare-detail-about-first-interaction-with-luis-felber"
+        "title": "China launches three-crew space flight as part of Moon ambitions",
+        "link": "https://www.geo.tv/latest/665946-china-launches-three-crew-space-flight-as-part-of-moon-ambitions"
       },
       {
-        "title": "Bruno Mars speaks out as fans furious over postponed Toronto show",
-        "link": "https://www.geo.tv/latest/665940-bruno-mars-speaks-out-as-fans-furious-over-postponed-toronto-show"
+        "title": "Pakistan's Faisal Shafi becomes first local runner to achieve provisional eighth marathon star",
+        "link": "https://www.geo.tv/latest/665938-pakistans-faisal-shafi-becomes-first-local-runner-to-achieve-provisional-eighth-marathon-star"
       },
       {
-        "title": "‘Star Wars: Mandalorian & Grogu' storms box office with huge opening",
-        "link": "https://www.geo.tv/latest/665937-star-wars-mandalorian-grogu-storms-box-office-with-huge-opening"
+        "title": "Netflix star Stewart McLean found dead as murder investigation begins",
+        "link": "https://www.geo.tv/latest/665950-netflix-star-stewart-mclean-found-dead-as-murder-investigation-begins"
       },
       {
-        "title": "PM Shehbaz reaches Beijing for 'high-level' talks with Chinese leadership",
-        "link": "https://www.geo.tv/latest/665936-pm-shehbaz-reaches-beijing-for-high-level-talks-with-chinese-leadership"
+        "title": "Shailene Woodley admits playing Ansel Elgort's girlfriend was 'awkward'",
+        "link": "https://www.geo.tv/latest/665949-shailene-woodley-admits-playing-ansel-elgorts-girlfriend-was-awkward"
       }
     ],
     "NDTV": [
+      {
+        "title": "\"Anything India Wants, They Get\": Trump's Phone Call At Live Delhi Event",
+        "link": "https://www.ndtv.com/world-news/trump-dials-rubio-during-live-delhi-event-says-i-love-prime-minister-modi-11541694#publisher=newsstand"
+      },
+      {
+        "title": "Marco Rubio India Visit Live Updates: Trump Dials Marco Rubio At Event, Says \"India Can Count On Me 100%\"",
+        "link": "https://www.ndtv.com/world-news/marco-rubio-india-visit-live-updates-top-trump-aide-in-india-today-to-meet-pm-modi-s-jaishankar-visit-kolkata-amid-iran-war-11535604#publisher=newsstand"
+      },
+      {
+        "title": "74-Year-Old Bengaluru Woman Cheated Of Rs 24 Crore In Digital Arrest Scam",
+        "link": "https://www.ndtv.com/india-news/74-year-old-bengaluru-woman-cheated-of-rs-24-crore-in-digital-arrest-scam-11541658#publisher=newsstand"
+      },
       {
         "title": "'Do Not Rush': Trump To US Negotiators On Signing Deal With Iran",
         "link": "https://www.ndtv.com/world-news/us-iran-talks-do-not-rush-trump-to-us-negotiators-on-signing-deal-with-iran-11541633#publisher=newsstand"
@@ -165,18 +177,6 @@
       {
         "title": "Twisha Sharma Case Spotlights How Mental Health Becomes Weapon In Divorces",
         "link": "https://www.ndtv.com/india-news/twisha-sharma-case-spotlights-how-mental-health-becomes-weapon-in-divorces-11541634#publisher=newsstand"
-      },
-      {
-        "title": "Mekedatu Dam Row Turns 1st Political Test For Vijay's Government In Tamil Nadu",
-        "link": "https://www.ndtv.com/tamil-nadu-news/mekedatu-dam-row-turns-1st-political-test-for-vijays-government-in-tamil-nadu-11541582#publisher=newsstand"
-      },
-      {
-        "title": "What Is Russia's 'Indestructible' Oreshnik Missile Used In Kyiv Strikes",
-        "link": "https://www.ndtv.com/world-news/russia-ukraine-war-what-is-russia-oreshnik-missile-used-in-today-kyiv-strikes-explained-11541462#publisher=newsstand"
-      },
-      {
-        "title": "US Iran War Live Updates: US Not Rushing To Secure Peace Deal With Iran, Says Trump",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-live-updates-peace-deal-strait-of-hormuz-trump-israel-oil-prices-11539479#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-24 16:41 UTC"
+  "last_updated": "2026-05-24 17:42 UTC"
 }
