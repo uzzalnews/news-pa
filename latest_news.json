@@ -1,54 +1,48 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Iran War LIVE: Iran Says War With US Unlikely, Warns It Is Ready To Respond",
-      "link": "https://www.ndtv.com/world-news/iran-us-israel-war-news-live-updates-us-strikes-iran-boats-missile-sites-trump-attack-self-defence-11547133#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
+        "title": "Water safety warning after nine people die during heatwave",
+        "link": "https://www.bbc.com/news/articles/cp8plymvm47o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Energy bills to rise for millions as impact of Iran war hits",
         "link": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five people found alive after week trapped in flooded Laos cave",
+        "link": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Labour has 'no coherent plan' for country, says Blair",
         "link": "https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Body found in search for boy, 12, missing in river as heatwave continues",
-        "link": "https://www.bbc.com/news/articles/cx211k9rl5lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Sturgeon defends 'no comment' police interview after SNP funds probe arrest",
         "link": "https://www.bbc.com/news/articles/cwy2kww2jzpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Nasa unveils next steps to build permanent Moon base",
-        "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Sanctions fears as Krygyzstan shutters companies suspected of aiding Russia",
-        "link": "https://www.aljazeera.com/news/2026/5/27/kyrgyzstan-russia-tensions?traffic_source=rss"
+        "title": "Rescue teams celebrate as survivors found in Laos cave",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/rescue-teams-celebrate-as-survivors-found-in-laos-cave?traffic_source=rss"
       },
       {
-        "title": "Aerial video shows ruptured chemical tank in Washington",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aerial-video-shows-ruptured-chemical-tank-in-washington?traffic_source=rss"
+        "title": "Who is Moise Kouame, the youngest French Open match winner since 1991?",
+        "link": "https://www.aljazeera.com/sports/2026/5/27/who-is-moise-kouame-the-youngest-french-open-match-winner-since-1991?traffic_source=rss"
       },
       {
-        "title": "Video: Muslims around the world attend Eid prayers",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/video-muslims-around-the-world-attend-eid-prayers?traffic_source=rss"
+        "title": "The Baltics urgently need a de-escalation mechanism; Belarus can help",
+        "link": "https://www.aljazeera.com/opinions/2026/5/27/the-baltics-urgently-need-a-de-escalation-mechanism-belarus-can-help?traffic_source=rss"
       },
       {
-        "title": "German police clash with Crystal Palace and Vallecano fans at Europa final",
-        "link": "https://www.aljazeera.com/sports/2026/5/27/german-police-clash-with-english-and-spanish-fans-ahead-of-europa-final?traffic_source=rss"
+        "title": "Nigeria’s Eid Crisis: When a ram becomes a luxury",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/nigerias-eid-crisis-when-a-ram-becomes-a-luxury?traffic_source=rss"
       },
       {
-        "title": "Ken Paxton wins Texas primary election: Results and key takeaways",
-        "link": "https://www.aljazeera.com/news/2026/5/27/ken-paxton-wins-texas-primary-election-results-and-key-takeaways?traffic_source=rss"
+        "title": "DRC facing ‘catastrophic collision’ of Ebola and war, WHO chief warns",
+        "link": "https://www.aljazeera.com/news/2026/5/27/drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "PM Shehbaz extends Eid greetings to armed forces chiefs, pays tribute to on-duty personnel",
+        "link": "https://www.dawn.com/news/2003477/pm-shehbaz-extends-eid-greetings-to-armed-forces-chiefs-pays-tribute-to-on-duty-personnel"
+      },
+      {
         "title": "CDF Munir spends Eidul Azha with frontline troops in Zhob, says brutal acts cannot weaken nation’s resolve",
         "link": "https://www.dawn.com/news/2003468/cdf-munir-spends-eidul-azha-with-frontline-troops-in-zhob-says-brutal-acts-cannot-weaken-nations-resolve"
       },
@@ -88,101 +86,97 @@
         "link": "https://www.dawn.com/news/2003447/armed-forces-reaffirm-commitment-to-peace-and-national-unity-on-eidul-azha"
       },
       {
-        "title": "FM Dar assures UN chief of Pakistan's 'continued engagement and dialogue' to restore peace in region",
-        "link": "https://www.dawn.com/news/2003453/fm-dar-assures-un-chief-of-pakistans-continued-engagement-and-dialogue-to-restore-peace-in-region"
-      },
-      {
-        "title": "Israel claims it killed new Hamas armed wing chief in Gaza strike",
-        "link": "https://www.dawn.com/news/2003457/israel-claims-it-killed-new-hamas-armed-wing-chief-in-gaza-strike"
+        "title": "India seeks proposals for 5th generation combat jets: ANI",
+        "link": "https://www.dawn.com/news/2003481/india-seeks-proposals-for-5th-generation-combat-jets-ani"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Cornyn’s Defeat Fuels Tensions With President Trump in Senate G.O.P.",
+        "link": "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html"
+      },
+      {
         "title": "Paxton’s Texas Victory Opens a New Front in the Battle for the Senate",
         "link": "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html"
+      },
+      {
+        "title": "A Blue Texas May Be More Than a Dream for Democrats",
+        "link": "https://www.nytimes.com/2026/05/27/upshot/paxton-talarico-texas-polling.html"
       },
       {
         "title": "Ken Paxton Victory Tests Whether Texas Republicans Can Reunite for November",
         "link": "https://www.nytimes.com/2026/05/27/us/texas-republicans-ken-paxton-primary-aftermath.html"
       },
       {
-        "title": "Cornyn Crushed: 7 Takeaways From Tuesday’s Runoffs in Texas",
-        "link": "https://www.nytimes.com/2026/05/26/us/politics/texas-runoff-senate-cornyn-paxton.html"
-      },
-      {
-        "title": "5 Things to Know About Ken Paxton, the Republican Senate Nominee in Texas",
-        "link": "https://www.nytimes.com/2026/05/26/us/politics/ken-paxton-republican-senate-candidate.html"
-      },
-      {
-        "title": "A Quiet Pacific Village Becomes China’s Security Testing Ground",
-        "link": "https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html"
+        "title": "A MAGA Victory in Texas, and the Trump Administration’s New Ebola Plan",
+        "link": "https://www.nytimes.com/2026/05/27/podcasts/the-headlines/texas-election-ebola-plan.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli army issues forced displacement order for Nabatieh",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-issues-forced-displacement-order-nabatieh"
+        "title": "Defected Sudanese RSF commander Savannah performs Hajj in Mecca",
+        "link": "https://www.middleeasteye.net/news/defected-sudanese-rsf-commander-savannah-performs-hajj-mecca"
       },
       {
-        "title": "Erdogan marks Eid by calling Netanyahu a 'tyrant'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-marks-eid-calling-netanyahu-tyrant"
+        "title": "Israeli issues another forced evacuation order for Lebanon’s Tyre city",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-issues-another-forced-evacuation-order-lebanons-tyre-city"
       },
       {
-        "title": "UK's Ofgem says energy price cap will rise by 13 percent from July",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uks-ofgem-says-energy-price-cap-will-rise-13-percent-july"
+        "title": "Hamas confirms death of newly appointed military chief",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-confirms-death-newly-appointed-military-chief"
       },
       {
-        "title": "Israel blames Lebanon after Israeli attacks kill dozens",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-blames-lebanon-after-israeli-attacks-kills-dozens"
+        "title": "Israeli strikes kill Palestinians and Lebanese preparing to celebrate Eid al-Adha",
+        "link": "https://www.middleeasteye.net/trending/israeli-strikes-kill-palestinians-lebanese-preparing-celebrate-eid-al-adha"
       },
       {
-        "title": "South Korea says attack on ship in Hormuz likely came from Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-says-attack-ship-hormuz-likely-came-iran"
+        "title": "Israeli army issues more forced displacement threats in Lebanon, attacks intensify",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-issues-more-forced-displacement-threats-lebanon-attacks"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince William, Princess Kate ‘AI photo' sparks panic, royal aide clears air",
-        "link": "https://www.geo.tv/latest/666274-prince-william-princess-kate-ai-photo-sparks-panic-royal-aide-clears-air"
+        "title": "PM Shehbaz extends Eid greetings to services chiefs, political dignitaries",
+        "link": "https://www.geo.tv/latest/666302-pm-shehbaz-extends-eid-greetings-to-services-chiefs-political-dignitaries"
       },
       {
-        "title": "Quetta attack: Inhuman, brutal acts cannot weaken Pakistan's resolve, says Field Marshal Munir",
-        "link": "https://www.geo.tv/latest/666272-quetta-attack-inhuman-brutal-acts-cannot-weaken-pakistans-resolve-says-field-marshal-munir"
+        "title": "Travis Kelce gushes over 'Taylor Swift effect' after recent Knicks game",
+        "link": "https://www.geo.tv/latest/666299-travis-kelce-gushes-over-taylor-swift-effect-after-recent-knicks-game"
       },
       {
-        "title": "Travis Kelce faces one major challenge in relationship with Taylor Swift",
-        "link": "https://www.geo.tv/latest/666273-travis-kelce-faces-one-major-challenge-in-relationship-with-taylor-swift"
+        "title": "Jimmy Kimmel exposes ‘real reason' Trump missed son's wedding",
+        "link": "https://www.geo.tv/latest/666301-jimmy-kimmel-exposes-real-reason-trump-missed-sons-wedding"
       },
       {
-        "title": "Naomi Osaka dazzles in gold French Open outfit echoes Eiffel Tower after dark",
-        "link": "https://www.geo.tv/latest/666268-naomi-osaka-makes-entrance-in-dazzling-gold-french-open-outfit"
+        "title": "Queen undergoes surgery after fall: Senior royal shares update",
+        "link": "https://www.geo.tv/latest/666298-queen-undergoes-surgery-after-fall-senior-royal-shares-update"
       },
       {
-        "title": "Princess Anne faces dilemma about royal tradition ahead of son's wedding",
-        "link": "https://www.geo.tv/latest/666270-princess-anne-faces-dilemma-about-royal-tradition-ahead-of-sons-wedding"
+        "title": "Emily Blunt shares rare insight about costar Meryl Streep after movie",
+        "link": "https://www.geo.tv/latest/666294-emily-blunt-shares-rare-insight-about-costar-meryl-streep-after-movie"
       }
     ],
     "NDTV": [
       {
-        "title": "US-Iran War LIVE: Iran Says War With US Unlikely, Warns It Is Ready To Respond",
-        "link": "https://www.ndtv.com/world-news/iran-us-israel-war-news-live-updates-us-strikes-iran-boats-missile-sites-trump-attack-self-defence-11547133#publisher=newsstand"
+        "title": "In Vijay's 20-Minute Meeting With PM, Requests On State Anthem, Mekedatu",
+        "link": "https://www.ndtv.com/tamil-nadu-news/tamil-nadus-new-chief-minister-c-joseph-vijay-meets-pm-narendra-modi-11555137#publisher=newsstand"
       },
       {
-        "title": "Vijay Arrives In Delhi, A Look At His Power-Packed Agenda",
-        "link": "https://www.ndtv.com/india-news/vijay-arrives-in-delhi-a-look-at-his-power-packed-agenda-11554072#publisher=newsstand"
+        "title": "West Bank On Edge As Israeli Army Steps Up Vigil In Samaria Amid Regional Tensions",
+        "link": "https://www.ndtv.com/world-news/west-bank-on-edge-as-idf-steps-up-vigil-in-samaria-amid-regional-tensions-11554801#publisher=newsstand"
       },
       {
-        "title": "Woman Missing Since 1978 May Have Been Kidnapped, Turned Spy In North Korea: Report",
-        "link": "https://www.ndtv.com/world-news/dutch-woman-aleida-maria-anderske-kaspersma-leidy-missing-since-1978-may-have-been-kidnapped-turned-spy-in-north-korea-report-11553316#publisher=newsstand"
+        "title": "Trinamool MP Quits Party Posts, Cites RG Kar In Bombshell Letter",
+        "link": "https://www.ndtv.com/india-news/trinamool-mp-kakoli-ghosh-dastidar-quits-party-posts-cites-corruption-rg-kar-rape-murder-11555205#publisher=newsstand"
       },
       {
-        "title": "Weather Live Updates: Yellow Alert For Heat Wave In Delhi Today, Relief Likely On Friday",
-        "link": "https://www.ndtv.com/india-news/weather-live-updates-news-forecast-heat-wave-delhi-rajasthan-uttar-pradesh-today-monsoon-11552294#publisher=newsstand"
+        "title": "\"Marriage Partnership Of Equals, Wife Not A Maid\": Bombay High Court",
+        "link": "https://www.ndtv.com/india-news/marriage-partnership-of-equals-wife-not-a-maid-bombay-high-court-11555126#publisher=newsstand"
       },
       {
-        "title": "Brutal Death To Families' Compromise: 9 Months On, Turn In Nikki Bhati Case",
-        "link": "https://www.ndtv.com/india-news/greater-noida-dowry-death-case-families-compromise-9-months-on-turn-in-nikki-bhati-case-11554058#publisher=newsstand"
+        "title": "Tamil Nadu Chief Minister Live Updates: Vijay Meets PM Modi In Delhi",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-chief-minister-c-joseph-vijay-delhi-visit-live-updates-tvk-chief-vijay-to-meet-pm-narendra-modi-congress-leaders-in-first-delhi-visit-11552846#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-27 10:18 UTC"
+  "last_updated": "2026-05-27 13:53 UTC"
 }
