@@ -3,27 +3,31 @@
   "news": {
     "BBC": [
       {
+        "title": "'We are at risk of a lost generation': One in six young people will not be in work or training in five years without action, report warns",
+        "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "I just want freedom from fear, says girl raped by teenage boys as sentences to be reviewed",
+        "link": "https://www.bbc.com/news/articles/cwy20d5440go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Girl tells BBC she is 'scared to go out' after teenage rapists spared jail time",
+        "link": "https://www.bbc.com/news/videos/cy024pdweppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Burnham and Streeting accuse Blair of ignoring inequality as they hit back at ex-PM",
         "link": "https://www.bbc.com/news/articles/ckgp4llnn12o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Safety warning after nine water-related deaths during heatwave",
         "link": "https://www.bbc.com/news/articles/cp8plymvm47o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump says US 'not satisfied' with Iran deal yet",
-        "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Family of mum, 30, shot dead outside Sheffield bar pay tribute to 'beautiful soul'",
-        "link": "https://www.bbc.com/news/articles/c0q2yle5e0yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'It's not a nice world to bring children into': Births fall to the lowest level in 50 years",
-        "link": "https://www.bbc.com/news/articles/cvgzdq23xpgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Markets rally amid hopes of US-Iran deal",
+        "link": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss"
+      },
       {
         "title": "Former assistant to TV star Matthew Perry sentenced to 41 months in prison",
         "link": "https://www.aljazeera.com/news/2026/5/27/former-assistant-to-tv-star-matthew-perry-sentenced-to-41-months-in-prison?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Ghana welcomes first group fleeing South African anti-immigration protests",
         "link": "https://www.aljazeera.com/news/2026/5/27/ghana-welcomes-first-group-escaping-south-african-anti-immigrant-protests?traffic_source=rss"
-      },
-      {
-        "title": "Alabama pushes US Supreme Court to approve congressional map for midterms",
-        "link": "https://www.aljazeera.com/news/2026/5/27/alabama-pushes-us-supreme-court-to-approve-congressional-map-for-midterms?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,27 +93,39 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal",
-        "link": "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html"
-      },
-      {
-        "title": "To Make a Deal With Trump, Iran Wants Billions of Its Money Unfrozen",
-        "link": "https://www.nytimes.com/2026/05/27/world/middleeast/iran-frozen-funds-trump-deal.html"
+        "title": "Cornyn’s Defeat in Texas Runoff Underscores Trump's Grip on the G.O.P.",
+        "link": "https://www.nytimes.com/2026/05/27/us/politics/paxton-cornyn-texas-republican-primary.html"
       },
       {
         "title": "Cornyn’s Defeat Fuels Tensions With President Trump in Senate G.O.P.",
         "link": "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html"
       },
       {
-        "title": "Paxton’s Texas Victory Opens a New Front in the Battle for the Senate",
-        "link": "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html"
+        "title": "Meeting Voters, a Republican Tries to Outrun His Party’s Woes",
+        "link": "https://www.nytimes.com/2026/05/27/us/politics/mike-flood-gop-town-hall.html"
       },
       {
-        "title": "A Blue Texas May Be More Than a Dream for Democrats",
-        "link": "https://www.nytimes.com/2026/05/27/upshot/paxton-talarico-texas-polling.html"
+        "title": "Alabama Republicans Ask Supreme Court to Allow New Congressional Map in Redistricting Fight",
+        "link": "https://www.nytimes.com/2026/05/27/us/politics/supreme-court-alabama-voting-maps.html"
+      },
+      {
+        "title": "Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal",
+        "link": "https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "South Korea summons Iranian ambassador over attack on vessel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-summons-iranian-ambassador-over-attack-vessel"
+      },
+      {
+        "title": "Death toll rises after Israeli strike on Gaza City home",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-rises-after-israeli-strike-gaza-city-home"
+      },
+      {
+        "title": "Lebanese soldier killed in Israeli strike in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-soldier-killed-israeli-strike-south-lebanon"
+      },
       {
         "title": "Iran reopens Isfahan airport after more than 80 days",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-reopens-isfahan-airport-after-more-80-days"
@@ -121,21 +133,13 @@
       {
         "title": "Trump says he will not ease sanctions on Iran as part of a deal",
         "link": "https://www.middleeasteye.net/news/trump-says-he-will-not-ease-sanctions-as-part-iran-deal"
-      },
-      {
-        "title": "Israeli strike on Gaza City home kills at least four people",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-city-home-kills-least-four-people"
-      },
-      {
-        "title": "Trump negotiating over his legacy, says former US official",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-negotiating-over-his-legacy-says-former-us-official"
-      },
-      {
-        "title": "Trump threatens to ‘blow up’ Oman despite centuries of US ties",
-        "link": "https://www.middleeasteye.net/news/trump-threatens-to-blow-up-oman-despite-centuries-of-us-ties"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Matthew Perry's assistant gets jailtime",
+        "link": "https://www.geo.tv/latest/666334-matthew-perrys-assistant-gets-jailtime"
+      },
       {
         "title": "Science behind vitamin C serums: Do they actually work?",
         "link": "https://www.geo.tv/latest/666330-science-behind-vitamin-c-serums-do-they-actually-work"
@@ -151,13 +155,13 @@
       {
         "title": "Travis Kelce hints at 'cute' post-marriage arrangement with Taylor Swift",
         "link": "https://www.geo.tv/latest/666320-travis-kelce-hints-at-cute-post-marriage-arrangement-with-taylor-swift"
-      },
-      {
-        "title": "FBI warns Microsoft 365 users of new scam: Here's everything to know",
-        "link": "https://www.geo.tv/latest/666324-fbi-warns-microsoft-365-users-of-new-scam-heres-everything-to-know"
       }
     ],
     "NDTV": [
+      {
+        "title": "\"Would Blow Them Up\": Trump Threatens To Attack Oman Amid Hormuz Standoff",
+        "link": "https://www.ndtv.com/world-news/would-blow-them-up-trump-threatens-to-attack-oman-amid-strait-of-hormuz-standoff-11557213#publisher=newsstand"
+      },
       {
         "title": "Delhi Renames Metro Stations, Britannia Chowk Among Key Changes: Full List",
         "link": "https://www.ndtv.com/delhi-news/delhi-renames-metro-stations-britannia-chowk-among-key-changes-full-list-11557056#publisher=newsstand"
@@ -173,10 +177,6 @@
       {
         "title": "Oil Firms Return Profits As Dividends That Fund Roads, Highways: Sources",
         "link": "https://www.ndtv.com/india-news/oil-firms-return-profits-as-dividends-that-fund-roads-highways-sources-11556925#publisher=newsstand"
-      },
-      {
-        "title": "Rubio's India Visit Seals Landmark Deals On Critical Minerals, Energy And Tech",
-        "link": "https://www.ndtv.com/world-news/marco-rubios-india-visit-seals-landmark-deals-on-critical-minerals-energy-and-tech-11556938#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-27 21:22 UTC"
+  "last_updated": "2026-05-27 22:53 UTC"
 }
