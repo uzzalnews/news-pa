@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Weather Today LIVE: Delhi May Get Relief As Weather Body Predicts Rain, Storms Today",
+      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-may-28-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-updates-delhi-may-get-relief-as-imd-predicts-rain-storms-11557402#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "One in six young people will not be in work or training in five years without action, report warns",
-        "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss"
+        "title": "An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture",
+        "link": "https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The £5 coffee that tells a story of global economic turmoil",
+        "link": "https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US strikes Iran military site as Tehran says it has targeted American base",
+        "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "I just want freedom from fear, says girl raped by teenage boys as sentences to be reviewed",
         "link": "https://www.bbc.com/news/articles/cwy20d5440go?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Girl tells BBC she is 'scared to go out' after teenage rapists spared jail time",
-        "link": "https://www.bbc.com/news/videos/cy024pdweppo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US strikes Iran targets for second time in three days",
-        "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture",
-        "link": "https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&at_campaign=rss"
+        "title": "Israel targets southern Lebanon after evacuation orders",
+        "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Google employee charged with insider trading over Polymarket bets",
-        "link": "https://www.aljazeera.com/news/2026/5/28/google-employee-charged-with-insider-trading-over-polymarket-bets?traffic_source=rss"
+        "title": "Australia charges alleged ISIL-linked woman after return from Syria",
+        "link": "https://www.aljazeera.com/news/2026/5/28/australia-charges-alleged-isil-linked-woman-after-return-from-syria?traffic_source=rss"
       },
       {
-        "title": "Aid cuts and climate change drive deadly malaria surge in Zimbabwe",
-        "link": "https://www.aljazeera.com/news/2026/5/28/aid-cuts-and-climate-change-drive-deadly-malaria-surge-in-zimbabwe?traffic_source=rss"
+        "title": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
+        "link": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss"
       },
       {
-        "title": "Parisians defy swimming ban to cool off as record heat hits Europe",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/parisians-defy-swimming-ban-to-cool-off-as-record-heat-hits-europe?traffic_source=rss"
+        "title": "What’s happening on Iran war day 90 as US launches new strikes",
+        "link": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss"
       },
       {
-        "title": "Uganda closes border with DRC in an effort to contain Ebola outbreak",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/uganda-closes-border-with-drc-in-an-effort-to-contain-ebola-outbreak?traffic_source=rss"
+        "title": "Morocco tops Africa’s industrialisation index for first time",
+        "link": "https://www.aljazeera.com/news/2026/5/28/morocco-tops-africas-industrialisation-index-for-first-time?traffic_source=rss"
       },
       {
-        "title": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
-        "link": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss"
+        "title": "Palestinian graduates in the West Bank enter a collapsed job market",
+        "link": "https://www.aljazeera.com/economy/2026/5/28/palestinian-graduates-in-the-west-bank-enter-a-collapsed-job-market?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,14 @@
     ],
     "Dawn": [
       {
+        "title": "US strikes Iran, drawing retaliatory attack on American base after Trump dismisses report of Hormuz deal",
+        "link": "https://www.dawn.com/news/2003525/us-strikes-iran-drawing-retaliatory-attack-on-american-base-after-trump-dismisses-report-of-hormuz-deal"
+      },
+      {
+        "title": "Global temperatures likely to remain at record levels in 2026-2030: UN",
+        "link": "https://www.dawn.com/news/2003536/global-temperatures-likely-to-remain-at-record-levels-in-2026-2030-un"
+      },
+      {
         "title": "PM Shehbaz says Youm-i-Takbeer symbolises Pakistan's strength, sovereignty and national unity",
         "link": "https://www.dawn.com/news/2003518/pm-shehbaz-says-youm-i-takbeer-symbolises-pakistans-strength-sovereignty-and-national-unity"
       },
@@ -78,16 +92,8 @@
         "link": "https://www.dawn.com/news/2003523/oil-prices-bounce-higher-after-new-us-strikes-on-iran"
       },
       {
-        "title": "Development work in Islamabad's E-12 sector finally comes under the radar",
-        "link": "https://www.dawn.com/news/2003430/development-work-in-islamabads-e-12-sector-finally-comes-under-the-radar"
-      },
-      {
-        "title": "Justice Babar Sattar decides to retain official residence in Islamabad",
-        "link": "https://www.dawn.com/news/2003428/justice-babar-sattar-decides-to-retain-official-residence-in-islamabad"
-      },
-      {
-        "title": "Viral fame spares ‘Donald Trump’ buffalo from Eid sacrifice in Bangladesh",
-        "link": "https://www.dawn.com/news/2003504/viral-fame-spares-donald-trump-buffalo-from-eid-sacrifice-in-bangladesh"
+        "title": "200 personnel from Federal Constabulary's diplomatic protection unit to receive training in Saudi Arabia",
+        "link": "https://www.dawn.com/news/2003528/200-personnel-from-federal-constabularys-diplomatic-protection-unit-to-receive-training-in-saudi-arabia"
       }
     ],
     "APNews": [],
@@ -95,10 +101,6 @@
       {
         "title": "Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll, Who Accused Trump of Rape",
         "link": "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html"
-      },
-      {
-        "title": "White House Dismisses Outline of ‘Unofficial’ Iran Deal",
-        "link": "https://www.nytimes.com/2026/05/27/briefing/iran-reflecting-pool.html"
       },
       {
         "title": "Trump Says He Feels No Political Pressure to Make an Iran Deal",
@@ -111,72 +113,76 @@
       {
         "title": "Meeting Voters, a Republican Tries to Outrun His Party’s Woes",
         "link": "https://www.nytimes.com/2026/05/27/us/politics/mike-flood-gop-town-hall.html"
+      },
+      {
+        "title": "James Talarico Opens Texas Senate Campaign Against Ken Paxton With Houston Rally",
+        "link": "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Trump threatens to 'blow up' Oman if it joins Iran in imposing fees on Hormuz Strait",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-blow-oman-if-it-joins-iran-imposing-fees-hormuz-strait"
+        "title": "Israel 'added to UN blacklist' for sexual violence in conflict zones",
+        "link": "https://www.middleeasteye.net/news/israel-added-un-blacklist-sexual-violence-conflict-zones"
       },
       {
-        "title": "IRGC claims attack on US base in retaliation to Washington's strikes near Bandar Abbas",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-attack-us-base-retaliation-washingtons-strikes-near-bandar"
+        "title": "In pictures: Israel pounds southern Lebanon, two killed in Tyre",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pictures-israel-pounds-southern-lebanon-two-killed-tyre"
       },
       {
-        "title": "Iran fired at four ships attempting to pass through Hormuz Strait",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-fired-four-ships-attempting-pass-through-hormuz-strait"
+        "title": "Iran demands release of frozen assets seized by the US",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-demands-release-frozen-assets-seized-us"
       },
       {
-        "title": "Footage shows deadly Israeli attacks in Gaza on the first day of Eid al-Adha",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/footage-shows-deadly-israeli-attacks-gaza-first-day-eid-al-adha"
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-544"
       },
       {
-        "title": "Israeli air strikes reported across south Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-reported-across-south-lebanon"
+        "title": "EU top diplomat says 'not in anybody's interest' that war on Iran continues",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-top-diplomat-says-not-anybodys-interest-war-iran-continues"
       }
     ],
     "GeoTV": [
       {
-        "title": "Katie Price's missing husband Lee Andrews found in Dubai jail",
-        "link": "https://www.geo.tv/latest/666348-spy-charges-katie-prices-missing-husband-lee-andrews-found-in-dubai-jail"
+        "title": "Temperatures likely to remain at record levels in 2026-2030: UN",
+        "link": "https://www.geo.tv/latest/666362-temperatures-likely-to-remain-at-record-levels-in-2026-2030-un"
       },
       {
-        "title": "Pakistan's armed forces reaffirm defence pledge on 28th anniversary of nuclear tests",
-        "link": "https://www.geo.tv/latest/666347-pakistans-armed-forces-reaffirm-defence-pledge-on-28th-anniversary-of-nuclear-tests"
+        "title": "In meeting with Naqvi, Saudi counterpart lauds Pakistan's regional de-escalation efforts",
+        "link": "https://www.geo.tv/latest/666365-in-meeting-with-naqvi-saudi-counterpart-lauds-pakistans-regional-de-escalation-efforts"
       },
       {
-        "title": "Joe Jonas remembers ‘saddest' The Morning Show audition",
-        "link": "https://www.geo.tv/latest/666346-joe-jonas-remembers-saddest-the-morning-show-audition"
+        "title": "Vogue Williams says miscarriage made her feel her body had 'failed'",
+        "link": "https://www.geo.tv/latest/666364-vogue-williams-reveals-emotional-toll-of-late-miscarriages-experience"
       },
       {
-        "title": "Steven Spielberg on AI in Hollywood: ‘Never'",
-        "link": "https://www.geo.tv/latest/666343-steven-spielberg-on-ai-in-hollywood-never"
+        "title": "Harper Beckham puts beauty dreams on hold to focus on GCSEs",
+        "link": "https://www.geo.tv/latest/666353-harper-beckham-puts"
       },
       {
-        "title": "Are Cynthia Erivo and Ariana Grande still friends?",
-        "link": "https://www.geo.tv/latest/666342-are-cynthia-erivo-and-ariana-grande-still-friends"
+        "title": "JoJo's Broadway return cut short before it even began",
+        "link": "https://www.geo.tv/latest/666363-joj"
       }
     ],
     "NDTV": [
       {
-        "title": "\"No One Will Control Hormuz\": Trump Warns As US, Iran \"Negotiating On Fumes\"",
-        "link": "https://www.ndtv.com/world-news/iran-war-no-one-will-control-strait-of-hormuz-trump-warns-both-sides-negotiating-on-fumes-11557603#publisher=newsstand"
+        "title": "Weather Today LIVE: Delhi May Get Relief As Weather Body Predicts Rain, Storms Today",
+        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-may-28-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-updates-delhi-may-get-relief-as-imd-predicts-rain-storms-11557402#publisher=newsstand"
       },
       {
-        "title": "Siddaramaiah Not Interested In Taking Rajya Sabha Post: Sources",
+        "title": "Opinion: Opinion | Karnataka Tussle: Is This Where Congress Finally Understands The Value Of 'Timing'?",
+        "link": "https://www.ndtv.com/opinion/karnataka-tussle-is-this-the-congress-high-command-finally-waking-up-11558216#publisher=newsstand"
+      },
+      {
+        "title": "Siddaramaiah Refuses Rajya Sabha Post, To Continue As Karnataka MLA",
         "link": "https://www.ndtv.com/india-news/siddaramaiah-not-interested-in-taking-rajya-sabha-post-sources-11557464#publisher=newsstand"
       },
       {
-        "title": "4 Cubs Die In Gujarat's Gir Forest Of Suspected Infection, 17 Lions Isolated",
-        "link": "https://www.ndtv.com/india-news/4-cubs-die-in-gujarats-gir-forest-of-suspected-infection-17-lions-isolated-11557599#publisher=newsstand"
+        "title": "Probe Into Pinarayi Vijayan's Daughter's Firm, Dealings Widens Amid Protests",
+        "link": "https://www.ndtv.com/india-news/probe-into-pinarayi-vijayans-daughter-veenas-firm-dealings-widens-amid-protests-11558498#publisher=newsstand"
       },
       {
-        "title": "Camel From Rajasthan Sparks Buzz In Assam Village On Eid",
-        "link": "https://www.ndtv.com/india-news/camel-from-rajasthan-sparks-buzz-in-assam-village-before-eid-11557557#publisher=newsstand"
-      },
-      {
-        "title": "\"I Don't Care About Midterms\": Trump Dismisses Iran War Fallout",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-i-dont-care-about-midterms-president-donald-trump-dismisses-iran-war-fallout-11557551#publisher=newsstand"
+        "title": "\"Planned Attack\": Kerala Minister On Violence During Raids At Pinarayi Vijayan's Home",
+        "link": "https://www.ndtv.com/india-news/planned-attack-kerala-minister-on-violence-during-raids-at-pinarayi-vijayans-home-11558221#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-28 04:21 UTC"
+  "last_updated": "2026-05-28 08:14 UTC"
 }
