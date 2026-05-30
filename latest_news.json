@@ -3,16 +3,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Palace was handed Andrew's controversial envoy emails six years ago",
-        "link": "https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "US, UK and Australia to develop underwater drone technology",
         "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Liverpool sack head coach Arne Slot year after Premier League title win",
-        "link": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss"
+        "title": "Palace was handed Andrew's controversial envoy emails six years ago",
+        "link": "https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
@@ -21,9 +17,25 @@
       {
         "title": "Millions of breast cancer patients could safely avoid chemotherapy, study suggests",
         "link": "https://www.bbc.com/news/articles/c2325j0xk1vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Arne Slot's Liverpool sacking completes a remarkable fall from grace",
+        "link": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘Opposite visions’: What to know about Colombia’s presidential election",
+        "link": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss"
+      },
+      {
+        "title": "Indonesia’s Mount Merapi volcano erupts, spewing ash into the sky",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/indonesias-mount-merapi-volcano-erupts-spewing-ash-into-the-sky?traffic_source=rss"
+      },
+      {
+        "title": "Senior Sri Lankan monk suspended over child sex abuse allegation",
+        "link": "https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation?traffic_source=rss"
+      },
       {
         "title": "Rescuers free four more men from flooded Laos cave, two still missing",
         "link": "https://www.aljazeera.com/news/2026/5/30/rescuers-free-four-more-men-from-flooded-laos-cave-two-still-missing?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Truck carrying Afghan returnees from Pakistan flips on highway, killing 18",
         "link": "https://www.aljazeera.com/news/2026/5/30/truck-carrying-afghan-returnees-from-pakistan-flips-on-highway-killing-18?traffic_source=rss"
-      },
-      {
-        "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
-        "link": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss"
-      },
-      {
-        "title": "Violence against foreign-owned shops in South Africa",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss"
-      },
-      {
-        "title": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/who-chief-visits-bunia-epicentre-of-the-ebola-outbreak?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,6 +97,10 @@
         "link": "https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html"
       },
       {
+        "title": "What to Know About the Ebola Outbreak",
+        "link": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
+      },
+      {
         "title": "Judge Reopens Trump’s Lawsuit Demanding $10 Billion From IRS",
         "link": "https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html"
       },
@@ -107,35 +111,43 @@
       {
         "title": "5 Takeaways From a Kennedy Center Ruling That Angered Trump",
         "link": "https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html"
-      },
-      {
-        "title": "Among Mamdani’s Priorities, Economic Development Seems Low on the List",
-        "link": "https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "UAE joined US-Israeli war against Iran from the outset: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-joined-us-israeli-war-against-iran-outset-report"
+      },
+      {
+        "title": "Iran warns vessels must follow its Strait of Hormuz transit rules",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-vessels-must-follow-its-strait-hormuz-transit-rules"
+      },
+      {
+        "title": "Qatar open to temporary Strait of Hormuz charges but rejects permanent fees",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-open-temporary-strait-hormuz-charges-rejects-permanent-fees"
+      },
+      {
+        "title": "Cafe owner says UK police tried to recruit him to spy on Palestine Action",
+        "link": "https://www.middleeasteye.net/news/cafe-owner-says-uk-police-tried-recruit-him-spy-palestine-action"
+      },
+      {
         "title": "Kataeb Hezbollah vows to keep arms, as Iraq faces US pressure",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kataeb-hezbollah-vows-keep-arms-iraq-faces-us-pressure"
-      },
-      {
-        "title": "Gaza death toll rises to 72,938 as Israeli attacks continue",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-72938-israeli-attacks-continue"
-      },
-      {
-        "title": "Israeli military readies for possible surge in fire from Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-readies-possible-surge-fire-lebanon"
-      },
-      {
-        "title": "Lebanon army says targeted Israeli strike wounds two soldiers",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-army-says-targeted-israeli-strike-wounds-two-soldiers"
-      },
-      {
-        "title": "Israel issues new expulsion orders as forces press deeper into Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-issues-new-expulsion-orders-forces-press-deeper-lebanon"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Why Meryl Streep 'fell' for Martin Short after settling into single life",
+        "link": "https://www.geo.tv/latest/666647-why-meryl-streep-fell-for-martin-short-after-settling-into-single-life"
+      },
+      {
+        "title": "Who is Tim Payne: FIFA World Cup 'least-known' star goes viral, sends internet into frenzy",
+        "link": "https://www.geo.tv/latest/666640-who-is-tim-payne-fifa-world-cup-least-known-star-goes-viral-heres-why"
+      },
+      {
+        "title": "Arafat Minhas enters record books with rare achievement on ODI debut",
+        "link": "https://www.geo.tv/latest/666646-arafat-minhas-enters-record-books-with-rare-achievement-on-odi-debut"
+      },
       {
         "title": "Erika Kirk calls boyfriend allegations ‘vicious lies,' provides birthday party alibi",
         "link": "https://www.geo.tv/latest/666644-erika-kirk-calls-boyfriend-allegations-vicious-lies-provides-birthday-party-alibi"
@@ -143,40 +155,28 @@
       {
         "title": "Jacob Elordi, Kendall Jenner romance shocking origin laid bare",
         "link": "https://www.geo.tv/latest/666641-jacob-elordi-kendall-jenner-romance-shocking-origin-laid-bare"
-      },
-      {
-        "title": "Karachi hospitals see surge in stomach illness cases during Eid ul Adha holidays",
-        "link": "https://www.geo.tv/latest/666638-hospitals-see-surge-in-stomach-illness-cases-during-eid-ul-adha-holidays"
-      },
-      {
-        "title": "Prince William disguises for partying with loved ones at pub",
-        "link": "https://www.geo.tv/latest/666639-prince-william-disguises-for-partying-with-loved-ones-at-pub"
-      },
-      {
-        "title": "Taylor Swift teases special 'Toy Story' surprise with '1989' twist",
-        "link": "https://www.geo.tv/latest/666635-taylor-swift-teases-special-toy-story-surprise-with-1989-twist"
       }
     ],
     "NDTV": [
       {
+        "title": "India's Exercise PRAGATI: Troops From Many Nations Train To Fight Together",
+        "link": "https://www.ndtv.com/india-news/indias-exercise-pragati-troops-from-many-nations-train-to-fight-together-11569526#publisher=newsstand"
+      },
+      {
+        "title": "Jacqueline Fernandez, Conman Sukesh Face Charges In Money Laundering Case",
+        "link": "https://www.ndtv.com/india-news/jacqueline-fernandez-conman-sukesh-face-charges-in-money-laundering-case-11569310#publisher=newsstand"
+      },
+      {
+        "title": "As The War Rages In Iran, Tensions Brew In Other Parts Of The World",
+        "link": "https://www.ndtv.com/world-news/beyond-iran-war-nukes-and-conflict-bring-building-tensions-to-eastern-front-11567772#publisher=newsstand"
+      },
+      {
+        "title": "\"Must Erase Every Trace Of Colonial Mindset\": J&K Lt Governor Manoj Sinha",
+        "link": "https://www.ndtv.com/india-news/must-erase-every-trace-of-colonial-mindset-j-k-lt-governor-manoj-sinha-11569288#publisher=newsstand"
+      },
+      {
         "title": "\"Rulers Became Killers\": Mamata Banerjee vs BJP On Abhishek Banerjee Assault",
         "link": "https://www.ndtv.com/india-news/mamata-banerjee-vs-bjp-on-abhishek-banerjee-assault-rulers-became-killers-11569177#publisher=newsstand"
-      },
-      {
-        "title": "Video: Abhishek Banerjee Assaulted During Visit To Party Worker's House",
-        "link": "https://www.ndtv.com/india-news/video-trinamool-congress-leader-abhishek-banerjee-assaulted-during-visit-to-party-workers-house-11568682#publisher=newsstand"
-      },
-      {
-        "title": "Trump Aide Warns US \"More Than Capable\" Of Restarting Iran War",
-        "link": "https://www.ndtv.com/world-news/pete-hegseth-us-iran-war-trump-aide-warns-us-more-than-capable-of-restarting-iran-war-11569102#publisher=newsstand"
-      },
-      {
-        "title": "How Iran's Hardliners Are Trying To Sabotage A Peace Deal With US",
-        "link": "https://www.ndtv.com/world-news/how-irans-hardliners-are-trying-to-sabotage-a-peace-deal-with-us-11569009#publisher=newsstand"
-      },
-      {
-        "title": "Karnataka Politics Live Updates: DK Shivakumar Meets Governor, Stakes Claim As Chief Minister",
-        "link": "https://www.ndtv.com/karnataka-news/karnataka-cm-siddaramaiah-latest-news-karnataka-politics-live-updates-siddaramaiah-hosts-breakfast-meet-amid-buzz-of-leadership-change-in-karnataka-11557756#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-05-30 15:21 UTC"
+  "last_updated": "2026-05-30 16:32 UTC"
 }
