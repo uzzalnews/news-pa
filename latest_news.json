@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Weather Today LIVE: Delhi Records Coolest Start To June In 3 Years",
+      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-updates-delhi-records-coolest-start-to-june-in-3-years-11578184#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,34 +21,34 @@
         "link": "https://www.bbc.com/news/articles/c1d2w411rgro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
-        "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss"
+        "title": "Four dead and several injured after massive Russian strikes across Ukraine",
+        "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Jeremy Bowen: Trump needs this war to end but Iran is not backing down",
-        "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss"
+        "title": "British woman dies after Pyrenees peak fall",
+        "link": "https://www.bbc.com/news/articles/cjwpen68p92o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Who attended this year’s Israel Day Parade in New York?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss"
+        "title": "Celebration, shock and scepticism follow Colombia’s presidential election",
+        "link": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election?traffic_source=rss"
       },
       {
-        "title": "Video: Presidential election has Colombia on edge",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/video-presidential-election-has-colombia-on-edge?traffic_source=rss"
+        "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss"
       },
       {
-        "title": "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/foreign-christians-ask-for-forgiveness-over-failure-to-support-israel-at-knesset?traffic_source=rss"
+        "title": "Ultra-Orthodox protesters clash with Israeli police over army draft",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss"
       },
       {
-        "title": "Denmark gets new government as Greenland crisis persists",
-        "link": "https://www.aljazeera.com/news/2026/6/1/denmark-gets-new-government-as-greenland-crisis-persists?traffic_source=rss"
+        "title": "Violent protests erupt in Chile over government cuts of social programmes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_clip_violent-protests-erupt-in-chile-010626?traffic_source=rss"
       },
       {
-        "title": "Kenyans protest Ebola quarantine centre for US citizens",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kenyans-protest-ebola-quarantine-centre-for-us-citizens?traffic_source=rss"
+        "title": "US court upholds injunction against Trump policy banning transgender troops",
+        "link": "https://www.aljazeera.com/news/2026/6/1/us-court-upholds-injunction-against-trump-policy-banning-transgender-troops?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -97,45 +103,49 @@
         "link": "https://www.nytimes.com/2026/06/01/us/justice-department-lawyers-judges-trump.html"
       },
       {
+        "title": "Trump Backs Off Plans for $1.8 Billion Fund After Backlash",
+        "link": "https://www.nytimes.com/2026/06/01/briefing/trump-fund-back-off-serena-williams.html"
+      },
+      {
         "title": "Trump Finds High-Wire Iran Negotiations ‘Very Boring’",
         "link": "https://www.nytimes.com/2026/06/01/us/politics/trump-iran-negotiations-boring.html"
       },
       {
+        "title": "U.S. Says More People May Be Charged in Terror Case Linked to Iran",
+        "link": "https://www.nytimes.com/2026/06/01/nyregion/nyc-synagogue-plot-iran.html"
+      },
+      {
         "title": "Oil Prices Jump as Middle East Tensions Build",
         "link": "https://www.nytimes.com/2026/06/01/business/energy-environment/iran-war-oil-prices.html"
-      },
-      {
-        "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
-        "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html"
-      },
-      {
-        "title": "California’s Public Universities Went All in on A.I. Now They’re Tearing Themselves Apart.",
-        "link": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Hezbollah MP says group backs nationwide ceasefire in Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-mp-says-group-backs-nationwide-ceasefire-lebanon"
+        "title": "Iran’s chief negotiator links US dialogue to developments in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-chief-negotiator-links-us-dialogue-developments-lebanon"
       },
       {
-        "title": "IRGC claims missile strike on container ship in Gulf",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-missile-strike-container-ship-gulf"
+        "title": "Trump says Iran deal could be reached ‘over the next week’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-deal-could-be-reached-over-next-week"
       },
       {
-        "title": "Qatar says planned Israeli strikes on Beirut suburbs were cancelled",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-says-planned-israeli-strikes-beirut-suburbs-were-cancelled"
+        "title": "Future UN mission needed to help prevent escalation, Guterres says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/future-un-mission-needed-help-prevent-escalation-guterres-says"
       },
       {
-        "title": "Israeli forces and settlers carry out attacks across occupied West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-and-settlers-carry-out-attacks-across-occupied-west-bank"
+        "title": "France says Israel’s security lies in peace, not occupation",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/france-says-israels-security-lies-peace-not-occupation"
       },
       {
-        "title": "Israeli soldier killed in fighting in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-killed-fighting-southern-lebanon"
+        "title": "Settler violence is facilitating ‘ethnic cleansing’, UN experts warn",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-experts-warn-settler-violence-facilitating-ethnic-cleansing"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Pakistan urges UN to make mediation first line of defence against conflicts amid ME crisis",
+        "link": "https://www.geo.tv/latest/666932-amid-us-iran-war-pakistan-urges-un-to-make-mediation-first-line-of-defence-against-conflicts"
+      },
       {
         "title": "NYC Mayor Zohran Mamdani signs executive order letting kids stay up late: Here's why",
         "link": "https://www.geo.tv/latest/666930-nyc-mayor-zohran-mamdani-signs-executive-order-letting-kids-stay-up-late-heres-why"
@@ -151,32 +161,28 @@
       {
         "title": "UFC fighter killed in bear attack while working at Canadian uranium site: See full details",
         "link": "https://www.geo.tv/latest/666922-ufc-fighter-killed-in-bear-attack-while-working-at-canadian-uranium-site-see-full-details"
-      },
-      {
-        "title": "Authorities move to revive inactive airports to expand air connectivity across Pakistan",
-        "link": "https://www.geo.tv/latest/666921-authorities-move-to-revive-inactive-airports-in-push-to-expand-air-connectivity"
       }
     ],
     "NDTV": [
       {
-        "title": "17-Year-Old Boy Stabbed To Death In Delhi, Probe On: Cops",
-        "link": "https://www.ndtv.com/delhi-news/17-year-old-boy-stabbed-to-death-in-delhi-probe-on-cops-11578067#publisher=newsstand"
+        "title": "\"You're F***ing Crazy, Would Be In Prison If It Weren't For Me\": Trump Lashes Out At Netanyahu Over Lebanon",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-latest-news-youre-f-ing-crazy-would-be-in-prison-if-it-werent-for-me-trump-lashes-out-at-netanyahu-over-lebanon-11578150#publisher=newsstand"
+      },
+      {
+        "title": "Won't Allow Our Territory To Be Used Against India: Myanmar President",
+        "link": "https://www.ndtv.com/world-news/india-myanmar-vow-deeper-ties-on-security-trade-and-connectivity-11576904#publisher=newsstand"
+      },
+      {
+        "title": "Weather Today LIVE: Delhi Records Coolest Start To June In 3 Years",
+        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-updates-delhi-records-coolest-start-to-june-in-3-years-11578184#publisher=newsstand"
       },
       {
         "title": "Trump's \"Eternity\" Hope For Israel And Iran-Backed Hezbollah",
         "link": "https://www.ndtv.com/world-news/donald-trumps-eternity-hope-for-israel-and-iran-backed-hezbollah-hezbollah-11578060#publisher=newsstand"
       },
       {
-        "title": "UAPA Accused Gets Bail After Nearly 5 Years In Custody",
-        "link": "https://www.ndtv.com/india-news/uapa-accused-madhesh-shankar-gets-bail-after-nearly-5-years-in-custody-11577993#publisher=newsstand"
-      },
-      {
-        "title": "Hezbollah Accepts US Proposal For Mutual Halt To Attacks With Israel: Lebanon",
-        "link": "https://www.ndtv.com/world-news/hezbollah-accepts-us-proposal-for-mutual-halt-to-attacks-with-israel-11577899#publisher=newsstand"
-      },
-      {
-        "title": "\"Endangering Our Kids\": Florida Sues OpenAI Over ChatGPT Safety Risks",
-        "link": "https://www.ndtv.com/world-news/florida-sues-openai-sam-altman-over-chatgpt-safety-risks-11577830#publisher=newsstand"
+        "title": "Pentagon Bars Journalists From Its Press Office. Here's Why",
+        "link": "https://www.ndtv.com/world-news/pentagon-bars-journalists-from-its-press-office-heres-why-11578090#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-01 23:20 UTC"
+  "last_updated": "2026-06-02 01:41 UTC"
 }
