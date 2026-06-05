@@ -93,10 +93,6 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "U.S. Job Market Pushes Past Shocks and Strains",
-        "link": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
-      },
-      {
         "title": "Stocks Slide as Investors See Rates Rising After Strong Jobs Data",
         "link": "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html"
       },
@@ -105,15 +101,23 @@
         "link": "https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html"
       },
       {
-        "title": "Judge Strikes Down a Slate of Trump’s Immigration Policies",
-        "link": "https://www.nytimes.com/2026/06/05/briefing/judge-trump-immigration-policies.html"
+        "title": "U.S. Job Market Pushes Past Shocks and Strains",
+        "link": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html"
       },
       {
-        "title": "Trump Keeps Immunity from I.R.S. Audits, Even as $1.8 Billion Fund Falls Away",
-        "link": "https://www.nytimes.com/2026/06/05/us/politics/trump-immunity-tax-audit.html"
+        "title": "Why the SpaceX IPO Will Affect Your 401(k), Like It or Not",
+        "link": "https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html"
+      },
+      {
+        "title": "Judge Strikes Down a Slate of Trump’s Immigration Policies",
+        "link": "https://www.nytimes.com/2026/06/05/briefing/judge-trump-immigration-policies.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "US energy secretary links lower fuel prices to Iran resolution",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-energy-secretary-links-lower-fuel-prices-iran-resolution"
+      },
       {
         "title": "UN says Israeli attacks leave 1.4 million in Lebanon needing aid",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-says-israeli-attacks-leave-14-million-lebanon-needing-aid"
@@ -129,10 +133,6 @@
       {
         "title": "Palestinian baby killed after Israeli forces fire on family car",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-baby-killed-after-israeli-forces-fire-family-car"
-      },
-      {
-        "title": "Slovenia’s new prime minister takes down Palestinian flag in pro-Israel turn",
-        "link": "https://www.middleeasteye.net/news/slovenias-new-prime-minister-takes-down-palestinian-flag-pro-israel-turn"
       }
     ],
     "GeoTV": [
@@ -159,6 +159,14 @@
     ],
     "NDTV": [
       {
+        "title": "US Military Shot Down Iranian Drones Launched Towards Strait Of Hormuz",
+        "link": "https://www.ndtv.com/world-news/iran-war-iran-has-launched-multiple-drones-towards-the-strait-of-hormuz-report-11598205#publisher=newsstand"
+      },
+      {
+        "title": "US-Iran Live Updates: US Says It Carried Out Strikes On Iranian Radar Sites",
+        "link": "https://www.ndtv.com/world-news/us-iran-live-updates-kuwait-intercepts-missiles-drones-after-new-us-strikes-on-irans-qeshm-island-amid-strait-of-hormuz-blockade-iran-nuclear-programm-11583196#publisher=newsstand"
+      },
+      {
         "title": "US Court Strikes Down Trump Policies Targeting Immigrants From 39 Countries",
         "link": "https://www.ndtv.com/world-news/us-court-strikes-down-trump-policies-targeting-immigrants-from-39-countries-11598195#publisher=newsstand"
       },
@@ -169,14 +177,6 @@
       {
         "title": "Smart Border Project Is In Final Stage, Says Amit Shah",
         "link": "https://www.ndtv.com/india-news/smart-border-project-is-in-final-stage-says-amit-shah-11598075#publisher=newsstand"
-      },
-      {
-        "title": "\"Righteous Anger\": JD Vance Blames EU Migration Policy For UK Student's Murder",
-        "link": "https://www.ndtv.com/world-news/jd-vance-blames-eu-migration-policy-for-uk-students-murder-11598030#publisher=newsstand"
-      },
-      {
-        "title": "High-Risk Iran Mission For Uranium Trump Considered, Then Walked Away From",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-live-high-risk-iran-mission-for-uranium-donald-trump-considered-then-walked-away-from-11597923#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-05 22:49 UTC"
+  "last_updated": "2026-06-05 23:54 UTC"
 }
