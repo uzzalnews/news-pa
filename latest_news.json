@@ -3,27 +3,39 @@
   "news": {
     "BBC": [
       {
+        "title": "West Ham joint chairman David Sullivan steps down after 'serious' historical allegations",
+        "link": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
         "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-        "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
+        "title": "The Nowak murder has lit a match under British politics. This is how we got here",
+        "link": "https://www.bbc.com/news/articles/c39297vxmw2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+        "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
         "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-        "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Six more charged with violent disorder after Nowak protest",
-        "link": "https://www.bbc.com/news/articles/c05yjg452geo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘Cockroach Party’ leader returns to India for first New Delhi protest",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cockroach-party-leader-returns-to-india-for-first-new-delhi-protest?traffic_source=rss"
+      },
+      {
+        "title": "Cockroach Janta Party rallies at New Delhi for youth protests",
+        "link": "https://www.aljazeera.com/gallery/2026/6/6/youth-led-satire-cockroach-janta-party-protests-exam-system-failures?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+        "link": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss"
+      },
       {
         "title": "Vaibhav Sooryavanshi, 15-year-old sensation, called up to India’s T20 squad",
         "link": "https://www.aljazeera.com/sports/2026/6/6/vaibhav-sooryavanshi-ipl-india-t20-team-call-up-england-ireland-asian-games?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Jordan World Cup 2026 preview: Players to watch, group matches and squad",
         "link": "https://www.aljazeera.com/sports/2026/6/6/jordan-world-cup-2026-preview-players-to-watch-group-matches-and-squad?traffic_source=rss"
-      },
-      {
-        "title": "Ebola border shutdown leaves goods rotting between Uganda and DRC",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/ebola-border-shutdown-leaves-goods-rotting-between-uganda-and-drc?traffic_source=rss"
-      },
-      {
-        "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
-        "link": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss"
-      },
-      {
-        "title": "Supporters of the Cockroach People’s Party hold protest in New Delhi",
-        "link": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,16 +78,16 @@
         "link": "https://www.dawn.com/news/2005619/occupied-kashmir-will-never-be-integral-part-of-india-islamabad-slams-new-delhi-for-misleading-unsc"
       },
       {
+        "title": "Tribesmen block highway in KP's Khyber over targeted killings",
+        "link": "https://www.dawn.com/news/2005658/tribesmen-block-highway-in-kps-khyber-over-targeted-killings"
+      },
+      {
         "title": "Pakistan, Russia sign pacts for cooperation against illegal immigration, drug trafficking",
         "link": "https://www.dawn.com/news/2005617/pakistan-russia-sign-pacts-for-cooperation-against-illegal-immigration-drug-trafficking"
       },
       {
         "title": "Hundreds join protest led by India's viral 'Cockroach Party'",
         "link": "https://www.dawn.com/news/2005616/hundreds-join-protest-led-by-indias-viral-cockroach-party"
-      },
-      {
-        "title": "MoU signed with Saudi Arabia, local partners for 140-acre Karachi waterfront development",
-        "link": "https://www.dawn.com/news/2005638/mou-signed-with-saudi-arabia-local-partners-for-140-acre-karachi-waterfront-development"
       }
     ],
     "APNews": [],
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Kuwait condemns Iran's 'brazen assault'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-condemns-irans-brazen-assault"
+      },
+      {
+        "title": "Israeli tanks and drone open fire near Gaza hospital",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-tanks-and-drone-open-fire-near-gaza-hospital"
+      },
+      {
         "title": "Israeli strike kills two Lebanese officers and one soldier",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-two-lebanese-officers-and-one-soldier"
       },
@@ -125,17 +133,21 @@
       {
         "title": "Iran's World Cup squad granted US visas but some staff blocked",
         "link": "https://www.middleeasteye.net/news/irans-world-cup-squad-granted-us-visas-some-staff-blocked"
-      },
-      {
-        "title": "Iran says US and Israeli strikes to blame for partial loss of nuclear oversight",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-and-israeli-strikes-blame-partial-loss-nuclear-oversight"
-      },
-      {
-        "title": "Iran’s nightly pro-government rallies reveal both unity and deep divisions",
-        "link": "https://www.middleeasteye.net/news/irans-nightly-pro-government-rallies-reveal-unity-deep-division"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Younis Khan expected to 'replace' Sarfaraz Ahmed as Pakistan Test head coach",
+        "link": "https://www.geo.tv/latest/667552-younis-khan-expected-to-replace-sarfaraz-ahmed-as-pakistan-test-head-coach"
+      },
+      {
+        "title": "This weekend's 6/7 dates make viral 'generational' slang hit differently: Here's why",
+        "link": "https://www.geo.tv/latest/667546-this-weekends-67-dates-make-viral-generational-slang-hit-differently"
+      },
+      {
+        "title": "Duchess Sophie, Prince Edward hit with major setback after shocking report",
+        "link": "https://www.geo.tv/latest/667553-duchess-sophie-prince-edward-hit-with-major-setback-after-shocking-report"
+      },
       {
         "title": "Justin Bieber to perform in Super Bowl LXI?",
         "link": "https://www.geo.tv/latest/667550-justin-bieber-to-perform-in-super-bowl-lxi"
@@ -143,40 +155,28 @@
       {
         "title": "Prince Harry receives heartbreaking message from William amid estrangement",
         "link": "https://www.geo.tv/latest/667551-prince-harry-receives-heartbreaking-message-from-william-amid-estrangement"
-      },
-      {
-        "title": "Pakistan tells UN Kashmir 'never was, is not, and never will be' integral part of India",
-        "link": "https://www.geo.tv/latest/667547-pakistan-tells-un-kashmir-never-was-is-not-and-never-will-be-part-of-india"
-      },
-      {
-        "title": "King Charles may drop hammer on royal estates after Beatrice, Eugenie bombshell",
-        "link": "https://www.geo.tv/latest/667549-king-charles-may-drop-hammer-on-royal-estates-after-beatrice-eugenie-bombshell"
-      },
-      {
-        "title": "Pakistan inks MoU with Saudi, local partners for Karachi waterfront development",
-        "link": "https://www.geo.tv/latest/667540-pakistan-inks-mou-with-saudi-local-partners-for-karachi-waterfront-development"
       }
     ],
     "NDTV": [
       {
-        "title": "Israeli Forces Kill Palestinian Baby In Occupied West Bank",
-        "link": "https://www.ndtv.com/world-news/israeli-forces-kill-palestinian-baby-in-occupied-west-bank-11599645#publisher=newsstand"
+        "title": "Tibetan Monk, Once Detained By China, Disappears Amid Crackdown Accusations",
+        "link": "https://www.ndtv.com/india-news/tibetan-monk-once-detained-by-china-disappears-amid-crackdown-accusations-11600017#publisher=newsstand"
       },
       {
-        "title": "Madhya Pradesh Man Attacks Teen's Face With Axe 20 Times, Tries To Hang Her, Arrested",
-        "link": "https://www.ndtv.com/india-news/madhya-pradesh-man-attacks-teens-face-with-axe-20-times-tries-to-hang-her-arrested-11599805#publisher=newsstand"
+        "title": "Ladakh Sees Historic 121% Jump In Tourists In May, 72,834 Arrivals Recorded",
+        "link": "https://www.ndtv.com/india-news/ladakh-sees-historic-121-jump-in-tourists-in-may-72-834-arrivals-recorded-11599859#publisher=newsstand"
       },
       {
-        "title": "Ozempic, Fitness Apps, Olive Oil: Inside India's $170 Billion Wellness Rush",
-        "link": "https://www.ndtv.com/business-news/ozempic-fitness-apps-and-olive-oil-inside-indias-170-billion-wellness-rush-11585408#publisher=newsstand"
+        "title": "24 Hours After Annamalai Leaves BJP, Nearly 14 Lakh Join His New Movement",
+        "link": "https://www.ndtv.com/india-news/k-annamalai-tamil-nadu-politics-we-the-leaders-24-hours-after-annamalai-leaves-bjp-nearly-14-lakh-join-his-new-movement-11599979#publisher=newsstand"
       },
       {
-        "title": "\"Made In Pakistan\" Bedsheet Sold At Pune Religious Fair? Viral Video Sparks Probe",
-        "link": "https://www.ndtv.com/india-news/made-in-pakistan-bedsheet-sold-at-pune-religious-fair-viral-video-sparks-probe-11599675#publisher=newsstand"
+        "title": "Goa Student Dies By Suicide After Viral Littering Video, Social Media Trolling",
+        "link": "https://www.ndtv.com/india-news/goa-student-dies-by-suicide-after-viral-littering-video-social-media-trolling-11599945#publisher=newsstand"
       },
       {
-        "title": "Adani Plants 1.6 Million Trees To Turn Chhattisgarh Coal Mine Green",
-        "link": "https://www.ndtv.com/india-news/adani-enterprises-ltd-plants-1-6-million-trees-to-turn-chhattisgarh-coal-mine-green-11599618#publisher=newsstand"
+        "title": "\"Just Courier Service\": Ex-Army Chief On Pakistan's Role In US-Iran Talks",
+        "link": "https://www.ndtv.com/india-news/us-iran-war-peace-talks-just-courier-service-ex-army-chief-on-pakistans-role-in-us-iran-talks-11599930#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-06 10:58 UTC"
+  "last_updated": "2026-06-06 12:11 UTC"
 }
