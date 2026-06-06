@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Weather Today LIVE: Monsoon Set To Arrive In Delhi-NCR By June-End After Weeks of Heat",
+      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-kerala-southwest-monsoon-odisha-reels-under-heatwave-11598434#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,23 +13,31 @@
         "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+        "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
         "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US military says it struck Iranian drones and radar sites",
-        "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ex-Channel 4 News host Jon Snow reveals he has Alzheimer's",
-        "link": "https://www.bbc.com/news/articles/c3626ry101lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
         "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are devastating mice plagues happening in Australia?",
+        "link": "https://www.bbc.com/news/videos/cn9p9y07d94o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "New York Knicks hold off San Antonio Spurs 105-104 for 2-0 NBA Finals lead",
+        "link": "https://www.aljazeera.com/sports/2026/6/6/new-york-knicks-hold-off-san-antonio-spurs-105-104-for-2-0-nba-finals-lead?traffic_source=rss"
+      },
+      {
+        "title": "Israeli soldier shoots Palestinian baby dead near Hebron",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss"
+      },
       {
         "title": "Arrests of critics in Ghana provokes alarm over free speech under Mahama",
         "link": "https://www.aljazeera.com/news/2026/6/6/arrests-of-critics-in-ghana-provokes-alarm-over-free-speech-under-mahama?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Gaza fishermen stay afloat with dinghies made from doorframes",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: US strikes Iranian radar sites; Kuwait, Bahrain under attack",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss"
-      },
-      {
-        "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
-        "link": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,20 +76,20 @@
     ],
     "Dawn": [
       {
+        "title": "US, Iran exchange strikes in Gulf in latest flare-up",
+        "link": "https://www.dawn.com/news/2005618/us-iran-exchange-strikes-in-gulf-in-latest-flare-up"
+      },
+      {
+        "title": "Pakistan, Russia sign pacts for cooperation against illegal immigration, drug trafficking",
+        "link": "https://www.dawn.com/news/2005617/pakistan-russia-sign-pacts-for-cooperation-against-illegal-immigration-drug-trafficking"
+      },
+      {
         "title": "BUDGET 2026-27: ECC expands bureaucrats’ stipend, okays Rs40bn grants",
         "link": "https://www.dawn.com/news/2005583/budget-2026-27-ecc-expands-bureaucrats-stipend-okays-rs40bn-grants"
       },
       {
-        "title": "Pakistan pitches motorways to Saudi investors",
-        "link": "https://www.dawn.com/news/2005550/pakistan-pitches-motorways-to-saudi-investors"
-      },
-      {
-        "title": "IHC rejects reliance on intelligence reports for coveted postings",
-        "link": "https://www.dawn.com/news/2005576/ihc-rejects-reliance-on-intelligence-reports-for-coveted-postings"
-      },
-      {
-        "title": "Govt reduces petrol price by Rs4, keeps diesel price unchanged",
-        "link": "https://www.dawn.com/news/2005447/govt-reduces-petrol-price-by-rs4-keeps-diesel-price-unchanged"
+        "title": "Founder of India's 'Cockroach Party' arrives in New Delhi to protest Modi",
+        "link": "https://www.dawn.com/news/2005616/founder-of-indias-cockroach-party-arrives-in-new-delhi-to-protest-modi"
       },
       {
         "title": "Gul Ahmed announces $230m data centre",
@@ -101,85 +107,89 @@
         "link": "https://www.nytimes.com/2026/06/04/us/california-primary-governor-mayor-results.html"
       },
       {
-        "title": "Judge Strikes Down a Slate of Trump’s Immigration Policies",
-        "link": "https://www.nytimes.com/2026/06/05/briefing/judge-trump-immigration-policies.html"
-      },
-      {
         "title": "Amid Mounting Democratic Concern, Platner Says His Past Is Being ‘Weaponized’",
         "link": "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html"
       },
       {
         "title": "Graham Platner Controversy Deepens Democratic Unease Before Maine Senate Primary",
         "link": "https://www.nytimes.com/2026/06/05/us/politics/platner-democrats-maine-senate-primary-election.html"
+      },
+      {
+        "title": "Amid Graham Platner Controversy, Where Does the Maine Senate Race Go Next?",
+        "link": "https://www.nytimes.com/2026/06/05/us/politics/maine-senate-graham-platner-democrats.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Slovenian president raises Palestinian flag after PM removes it",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/slovenian-president-raises-palestinian-flag-after-pm-removes-it"
+        "title": "Video: Israeli forces shoot infant in the occupied West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-israeli-forces-shoot-infant-occupied-west-bank"
       },
       {
-        "title": "Kuwait and Bahrain issue public alerts amid missile and drone threats",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-and-bahrain-issue-public-alerts-amid-missile-and-drone-threats"
+        "title": "Iranian media says US denied visas to members of World Cup delegation",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-says-us-denied-visas-members-world-cup-delegation"
       },
       {
-        "title": "Trump says Iran retains about 22% of missile capability",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-retains-about-22-missile-capability"
+        "title": "Video: Palestinians in West Bank protest amid settler raids",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-palestinians-west-bank-protest-amid-settler-raids"
       },
       {
-        "title": "US approves potential $1.98bn counter-drone sale to Kuwait",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-approves-potential-198bn-counter-drone-sale-kuwait"
+        "title": "Amnesty chief calls for release of Gaza hospital director Abu Safia",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/amnesty-chief-calls-release-gaza-hospital-director-abu-safia"
       },
       {
-        "title": "Iran says half of frozen assets should be released immediately",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-half-frozen-assets-should-be-released-immediately"
+        "title": "Araghchi rejects claim that Iran is using Lebanon as leverage",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-rejects-claim-iran-using-lebanon-leverage"
       }
     ],
     "GeoTV": [
       {
-        "title": "Nasa reverses evacuation alert order for astronauts aboard space station",
-        "link": "https://www.geo.tv/latest/667495-nasa-reverses-evacuation-alert-order-for-astronauts-aboard-space-station"
+        "title": "Retail council chief says new tax scheme avoids pitfalls of Tajir Dost programme",
+        "link": "https://www.geo.tv/latest/667512-retail-council-chief-says-new-tax-scheme-avoids-pitfalls-of-tajir-dost-programme"
       },
       {
-        "title": "US judge strikes down Trump policies targeting immigrants from 39 countries",
-        "link": "https://www.geo.tv/latest/667494-us-judge-strikes-down-trump-policies-targeting-immigrants-from-39-countries"
+        "title": "Timothée Chalamet, Ben Stiller revel in Knicks' Game 2 victory",
+        "link": "https://www.geo.tv/latest/667511-timothe-chalamet-ben-stiller-revel-in-knicks-game-2-victory"
       },
       {
-        "title": "The Rock reacts to influencer's criticism over star selling shampoo",
-        "link": "https://www.geo.tv/latest/667493-the-rock-reacts-to-influencers-criticism-over-star-selling-shampoo"
+        "title": "Karl-Anthony Towns' fragility in Knicks Game 2 triumph mirrors far beyond basketball",
+        "link": "https://www.geo.tv/latest/667510-karl-anthony-towns-fragility-in-knicks-win-mirrors-far-beyond-basketball"
       },
       {
-        "title": "Netflix takes major decision against ‘filmmakers'",
-        "link": "https://www.geo.tv/latest/667492-netflix-takes-major-decision-against-filmmakers"
+        "title": "Angelina Jolie's birthday celebration comes days after Maddox's reported legal move",
+        "link": "https://www.geo.tv/latest/667508-angelina-jolies-birthday-celebration-comes-days-after-maddoxs-reported-legal-move"
       },
       {
-        "title": "Did Anna Faris really make fun of Cameron Diaz in ‘Lost in Translation'?",
-        "link": "https://www.geo.tv/latest/667491-did-anna-faris-really-make-fun-of-cameron-diaz-in-lost-in-translation"
+        "title": "India's 'Cockroach' youth movement founder arrives in New Delhi to protest Modi",
+        "link": "https://www.geo.tv/latest/667505-indias-cockroach-youth-movement-founder-arrives-in-new-delhi-to-protest-modi"
       }
     ],
     "NDTV": [
       {
-        "title": "Earthquake Of Magnitude 5 Hits Himachal Pradesh",
-        "link": "https://www.ndtv.com/india-news/earthquake-of-magnitude-5-hits-himachal-pradesh-11598386#publisher=newsstand"
+        "title": "US Bill Seeks To End H-1B Visa Route To Green Card",
+        "link": "https://www.ndtv.com/world-news/us-bill-seeks-to-end-h-1b-visa-route-to-green-card-11598751#publisher=newsstand"
       },
       {
-        "title": "'False Narrative': India's Sharp Retort To Pak Over \"Unwarranted\" J&K Remark At UN",
-        "link": "https://www.ndtv.com/india-news/false-narrative-indias-sharp-retort-to-pakistan-over-unwarranted-j-k-remark-at-un-11598408#publisher=newsstand"
+        "title": "PM Modi's Yoga Guru To Lead Yoga Day Event At New York's Times Square",
+        "link": "https://www.ndtv.com/world-news/pm-narendra-modis-yoga-guru-hr-nagendra-to-lead-international-day-of-yoga-event-at-new-yorks-times-square-11598816#publisher=newsstand"
       },
       {
-        "title": "\"Tragic, Enraging\": Vance On UK Cops Arresting Dying Teen Stabbed By Indian",
-        "link": "https://www.ndtv.com/world-news/jd-vance-blames-eu-migration-policy-for-uk-students-murder-11598030#publisher=newsstand"
+        "title": "Weather Today LIVE: Monsoon Set To Arrive In Delhi-NCR By June-End After Weeks of Heat",
+        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-heatwave-kerala-southwest-monsoon-odisha-reels-under-heatwave-11598434#publisher=newsstand"
       },
       {
-        "title": "Over 500 Killed In Delhi Fire Accidents In 6 Years, Data Shows",
-        "link": "https://www.ndtv.com/delhi-news/malviya-nagar-fire-over-500-killed-in-delhi-fire-accidents-in-6-years-data-shows-anaj-mandi-fire-upahar-fire-tragedy-11598374#publisher=newsstand"
+        "title": "Cockroach Kingpin In Australia Caught With 1,00,000 Illegal Insects In Record Bust",
+        "link": "https://www.ndtv.com/world-news/cockroach-kingpin-in-australia-caught-with-1-00-000-illegal-insects-in-record-bust-11594494#publisher=newsstand"
       },
       {
-        "title": "Over 3,500 Indians deported From US In 2025, More Than 1,000 This Year",
-        "link": "https://www.ndtv.com/world-news/over-3-500-indians-deported-from-us-in-2025-more-than-1-000-this-year-ministry-of-external-affairs-mea-said-11598360#publisher=newsstand"
+        "title": "11 Days After Their Deaths, Man Found Dead Clutching Wife, Son's Graves In UP",
+        "link": "https://www.ndtv.com/india-news/11-days-after-their-deaths-man-found-dead-clutching-wife-sons-graves-in-uttar-pradesh-11598724#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
+        "link": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say"
+      },
       {
         "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
         "link": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights"
@@ -195,12 +205,8 @@
       {
         "title": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
         "link": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response"
-      },
-      {
-        "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
-        "link": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says"
       }
     ]
   },
-  "last_updated": "2026-06-06 02:55 UTC"
+  "last_updated": "2026-06-06 06:31 UTC"
 }
