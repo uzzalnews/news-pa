@@ -1,7 +1,17 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Union Minister On Success Of J&K's Lavender Fields, Breaking Startup Myths",
+      "link": "https://www.ndtv.com/india-news/union-minister-jitendra-singh-on-success-of-j-ks-bhaderwah-lavender-fields-breaking-startup-myths-11603068#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Lammy says he told JD Vance his Nowak comments were 'wrong'",
+        "link": "https://www.bbc.com/news/articles/cjwg387040wo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
         "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
@@ -15,34 +25,30 @@
         "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Starmer tells supporters he will fight any leadership contest",
-        "link": "https://www.bbc.com/news/articles/c3vyxzl625po?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Cosmeticorexia: How girls are falling down a skincare rabbit hole",
         "link": "https://www.bbc.com/news/articles/cx212x41evwo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Iran criticizes US refusal to grant visas for World Cup delegation",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-criticizes-us-refusal-to-grant-visas-for-world-cup-delegation?traffic_source=rss"
+        "title": "One killed, five wounded in shooting attack in Israel: Medics",
+        "link": "https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics?traffic_source=rss"
       },
       {
-        "title": "Who are the best star players to watch at World Cup 2026?",
-        "link": "https://www.aljazeera.com/sports/2026/6/7/who-are-the-best-star-players-to-watch-at-fifa-world-cup-2026?traffic_source=rss"
+        "title": "1 killed and 5 injured in Israel shootings",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/1-killed-and-5-injured-in-israel-shootings?traffic_source=rss"
       },
       {
-        "title": "Massive human wave in Mexico ahead of World Cup 2026",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/massive-human-wave-in-mexico-ahead-of-world-cup-2026?traffic_source=rss"
+        "title": "Israeli settlers threaten to kill Palestinian farmer and harass sheep",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/israeli-settlers-threaten-to-kill-palestinian-farmer-and-harass-sheep?traffic_source=rss"
       },
       {
-        "title": "The accomplishments of 100 days of war on Iran are undeniable",
-        "link": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss"
+        "title": "An Eid celebration on a Gaza rooftop turns into a ‘horror movie’",
+        "link": "https://www.aljazeera.com/features/2026/6/7/an-eid-celebration-on-a-gaza-rooftop-turns-into-a-horror-movie?traffic_source=rss"
       },
       {
-        "title": "Iran after 100 days of war: The triumph of survival",
-        "link": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss"
+        "title": "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
+        "link": "https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/2005670/people-across-gb-head-to-polling-stations-as-24-seats-up-for-grabs"
       },
       {
+        "title": "One killed, 5 wounded in Israel shooting attacks; suspect dead",
+        "link": "https://www.dawn.com/news/2005859/one-killed-5-wounded-in-israel-shooting-attacks-suspect-dead"
+      },
+      {
         "title": "Irrigation water shortage in Sindh reaches alarming level",
         "link": "https://www.dawn.com/news/2005737/irrigation-water-shortage-in-sindh-reaches-alarming-level"
       },
@@ -82,27 +92,15 @@
         "link": "https://www.dawn.com/news/2005845/north-korea-nuclear-programme-absolutely-non-negotiable-kim-jong-uns-sister"
       },
       {
-        "title": "White House AI policy adviser Krishnan to leave position",
-        "link": "https://www.dawn.com/news/2005854/white-house-ai-policy-adviser-krishnan-to-leave-position"
-      },
-      {
-        "title": "FIA arrests 2 in Lahore over 'illegal' currency exchange, another 2 for copyright violations",
-        "link": "https://www.dawn.com/news/2005849/fia-arrests-2-in-lahore-over-illegal-currency-exchange-another-2-for-copyright-violations"
+        "title": "Peshawar-Torkham Highway reopens after protests against recent 'targeted attack'",
+        "link": "https://www.dawn.com/news/2005858/peshawar-torkham-highway-reopens-after-protests-against-recent-targeted-attack"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump’s Defense Department Sees Growing Espionage Threat From Israel",
-        "link": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
-      },
-      {
-        "title": "Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed",
-        "link": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html"
-      },
-      {
-        "title": "Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say",
-        "link": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-west-bank-infant.html"
+        "title": "RFK Jr. Appears Disengaged on Many Health Department Matters Beyond Vaccines",
+        "link": "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html"
       },
       {
         "title": "An Uncertain Win for Immigrants Seeking to Stay in U.S.",
@@ -111,9 +109,29 @@
       {
         "title": "Kennedy Center Loses Case Against Musician Who Canceled Over Trump Naming Dispute",
         "link": "https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html"
+      },
+      {
+        "title": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
+        "link": "https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html"
+      },
+      {
+        "title": "Trump’s Defense Department Sees Growing Espionage Threat From Israel",
+        "link": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "One killed and five wounded in shooting attack in central Israel",
+        "link": "https://www.middleeasteye.net/news/one-killed-five-wounded-deadly-shooting-attack-central-israel"
+      },
+      {
+        "title": "Israeli army issues expulsion orders for Tyre residents",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-issues-expulsion-orders-tyre-residents"
+      },
+      {
+        "title": "Hamas, Palestinian Islamic Jihad says shooting 'natural consequence' of settler violence",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-palestinian-islamic-jihad-says-shooting-natural-consequence"
+      },
       {
         "title": "Israeli police confirm two shooting suspects killed",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-police-confirm-two-shooting-suspects-killed"
@@ -121,62 +139,50 @@
       {
         "title": "Israeli security officials say shooting suspect is Palestinian citizen of Israel",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-security-officials-say-shooter-suspect-arab-israeli"
-      },
-      {
-        "title": "Ben Gvir calls for execution of shooter suspects",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-calls-execution-shooter-suspects"
-      },
-      {
-        "title": "One killed, five wounded in shooting attack in Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-five-wounded-shooting-attack-israel"
-      },
-      {
-        "title": "Israel claims killing of Hamas commander in southern Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-claims-killing-hamas-commander-southern-gaza"
       }
     ],
     "GeoTV": [
       {
-        "title": "Katie Price shares loved up message for jailed husband despite meeting his ex",
-        "link": "https://www.geo.tv/latest/667639-katie-price-shares-loved-up-message-for-jailed-husband-despite-meeting-his-ex"
+        "title": "Peter Phillips' wedding becomes unexpected royal reunion amid years of turbulence",
+        "link": "https://www.geo.tv/latest/667642-peter-phillips-wedding-becomes-unexpected-royal-reunion-amid-years-of-turbulence"
       },
       {
-        "title": "Beatrice, Eugenie face 'critical press' with bold decisionÂ",
-        "link": "https://www.geo.tv/latest/667635-beatrice-eugenie-face-critical-press-with-bold-decision"
+        "title": "Holly Willoughby enjoys Formula 1 outing amid career changes",
+        "link": "https://www.geo.tv/latest/667647-holly-willoughby-enjoys-formula-1-outing-amid-career-changes"
       },
       {
-        "title": "Prince William's decisive step for Harry, Meghan upon UK return laid bare",
-        "link": "https://www.geo.tv/latest/667640-prince-williams-decisive-step-for-harry-meghan-upon-uk-return-laid-bare"
+        "title": "King Charles issues orders for important position: ‘highest honour'",
+        "link": "https://www.geo.tv/latest/667649-king-charles-issues-orders-for-important-position-highest-honour"
       },
       {
-        "title": "Anna Faris recalls near-fatal incident during Thanksgiving trip",
-        "link": "https://www.geo.tv/latest/667630-anna-faris-recalls-near-fatal-incident-during-thanksgiving-trip"
+        "title": "Prince Harry 'pushed' monarchy into crisis: Key royal lashed out",
+        "link": "https://www.geo.tv/latest/667645-prince-harry-pushed-monarchy-into-crisis-key-royal-lashed-out"
       },
       {
-        "title": "AJK Supreme Court upholds govt's stance on refugee seats in presidential reference",
-        "link": "https://www.geo.tv/latest/667637-ajk-supreme-court-upholds-govts-stance-on-refugee-seats-in-presidential-reference"
+        "title": "US eyes Iranian assets for Gulf allies' reconstruction, says source",
+        "link": "https://www.geo.tv/latest/667646-us-eyes-iranian-assets-for-gulf-allies-reconstruction-says-source"
       }
     ],
     "NDTV": [
       {
-        "title": "Nepal Seeks \"Open-Heart\" Talks With India To Resolve Border Dispute",
-        "link": "https://www.ndtv.com/world-news/india-nepal-relations-nepal-seeks-open-heart-talks-with-india-to-resolve-border-dispute-11602669#publisher=newsstand"
+        "title": "Congress-JMM Seat Share Plan For Rajya Sabha Polls: Here's How They Can Win",
+        "link": "https://www.ndtv.com/india-news/congress-jmm-seat-share-plan-for-rajya-sabha-polls-heres-how-they-can-win-11603099#publisher=newsstand"
       },
       {
-        "title": "'Stop It': Vijay After 1,600 Crores 'Party Fund' Collected From Liquor Shops In Tamil Nadu",
-        "link": "https://www.ndtv.com/india-news/arrest-liquor-shop-tasmac-leakages-tamil-nadu-chief-minister-vijays-big-crackdown-on-party-fund-system-in-1st-cabinet-meeting-11601809#publisher=newsstand"
+        "title": "Union Minister On Success Of J&K's Lavender Fields, Breaking Startup Myths",
+        "link": "https://www.ndtv.com/india-news/union-minister-jitendra-singh-on-success-of-j-ks-bhaderwah-lavender-fields-breaking-startup-myths-11603068#publisher=newsstand"
       },
       {
-        "title": "Bengal Couple Travelled 1,400 km To Kill Delhi Professor. How Cops Found Them",
-        "link": "https://www.ndtv.com/india-news/new-ashok-nagar-devosmita-paul-couple-arrested-from-bengal-over-delhi-university-professors-murder-11602322#publisher=newsstand"
+        "title": "1 Dead, 5 Injured In Multiple Shooting Attacks In Israel-Occupied West Bank",
+        "link": "https://www.ndtv.com/world-news/1-dead-5-injured-in-multiple-shooting-attacks-in-israel-occupied-west-bank-11603047#publisher=newsstand"
       },
       {
-        "title": "Actor Raghava Lawrence To Contest From Vijay's Trichy Seat? What He Said",
-        "link": "https://www.ndtv.com/india-news/actor-raghava-lawrence-to-contest-from-vijays-trichy-seat-what-he-said-11602656#publisher=newsstand"
+        "title": "Not Just Bullet Train, Centre Has Big Railway Development Plans For Bengal",
+        "link": "https://www.ndtv.com/india-news/not-just-bullet-train-centre-has-big-railway-development-plans-for-bengal-11603049#publisher=newsstand"
       },
       {
-        "title": "1965-Built Monastery Destroyed In Sikkim Fire, Religious Artefacts Damaged",
-        "link": "https://www.ndtv.com/india-news/1965-built-monastery-thangu-sertok-gumpa-destroyed-in-sikkim-fire-religious-artefacts-damaged-11602615#publisher=newsstand"
+        "title": "\"Era Of 7-8 Year Timelines Over\": Devendra Fadnavis On Project Delays",
+        "link": "https://www.ndtv.com/india-news/era-of-7-8-year-timelines-over-devendra-fadnavis-on-project-delays-11602799#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-07 09:49 UTC"
+  "last_updated": "2026-06-07 11:29 UTC"
 }
