@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Violence erupts in Belfast as man charged over knife attack",
+        "link": "https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "David Sullivan banned from contact with West Ham women's and youth teams since 2023",
         "link": "https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&at_campaign=rss"
       },
@@ -11,19 +15,27 @@
         "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US striking Iran in response to downing of helicopter, military says",
-        "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss"
+        "title": "The rebels at the front line of Myanmar's civil war",
+        "link": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
         "link": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Men jailed for violence at Henry Nowak police protest",
-        "link": "https://www.bbc.com/news/articles/c982y5n0nlno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US judge halts execution by nitrogen gas, ruling it unconstitutional",
+        "link": "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss"
+      },
+      {
+        "title": "Mississippi residents sue Musk’s xAI and SpaceX over data centre ‘nuisance’",
+        "link": "https://www.aljazeera.com/economy/2026/6/9/mississippi-residents-sue-musks-xai-and-spacex-over-data-centre-nuisance?traffic_source=rss"
+      },
+      {
+        "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss"
+      },
       {
         "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Israeli forces kill nine in Tyre after issuing forced displacement orders",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss"
-      },
-      {
-        "title": "Canada confirms opening of Gordie Howe Bridge, despite Trump’s threats",
-        "link": "https://www.aljazeera.com/news/2026/6/9/canada-confirms-opening-of-gordie-howe-bridge-despite-trumps-threats?traffic_source=rss"
-      },
-      {
-        "title": "Bear captured after days of panic and school closures in Japan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/bear-captured-after-days-of-panic-and-school-closures-in-japan?traffic_source=rss"
-      },
-      {
-        "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -101,41 +101,45 @@
         "link": "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html"
       },
       {
+        "title": "The U.S. Strikes Iran After Trump Vowed to Retaliate",
+        "link": "https://www.nytimes.com/2026/06/09/briefing/united-states-iran-strikes-maine-primary-election.html"
+      },
+      {
         "title": "A Timeline of Donald Trump and Lindsey Graham’s Relationship Before the South Carolina Primary",
         "link": "https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html"
       },
       {
         "title": "Pro-Israel Group Pushes for Haley Stevens in Michigan Senate Race",
         "link": "https://www.nytimes.com/2026/06/09/us/politics/aipac-haley-stevens-michigan-senate.html"
-      },
-      {
-        "title": "House Passes G.O.P.’s $70 Billion Immigration Bill",
-        "link": "https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran foreign minister vows that no US attack or threat will be left 'unanswered'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-vows-no-us-attack-or-threat-will-be-left"
+      },
+      {
+        "title": "New blasts reported in south Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/new-blasts-reported-south-iran"
+      },
+      {
+        "title": "Lebanon says 11 killed in Israeli strikes on Tyre",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-11-killed-israeli-strikes-tire"
+      },
+      {
+        "title": "Explosions in Hormozgan as Centcom says Iran strikes underway, report says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-hormozgan-centcom-says-iran-strikes-underway-report-says"
+      },
+      {
         "title": "Opinion: How a regional defence pact could deal the final blow to Israel's violent expansionism",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-how-regional-defence-pact-could-deal-final-blow-israels-violent"
-      },
-      {
-        "title": "US says it is striking Iran in response to helicopter shootdown",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-striking-iran-response-helicopter-shootdown"
-      },
-      {
-        "title": "Trump says downing of US helicopter not a big deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-downing-us-helicopter-no-big-deal"
-      },
-      {
-        "title": "Meet the Mamdani-endorsed candidate that could become the first Palestinian in New York Senate",
-        "link": "https://www.middleeasteye.net/news/meet-mamdani-endorsed-candidate-could-become-first-palestinian-new-york-senate"
-      },
-      {
-        "title": "Child killed in Israeli attack on Gaza City",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/child-killed-israeli-attack-gaza-city"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Machine Gun Kelly reveals the bad that came with 2024 blackout tattoo",
+        "link": "https://www.geo.tv/latest/668009-machine-gun-kelly-reveals-the-bad-that-came-with-2024-blackout-tattoo"
+      },
       {
         "title": "Serena Williams bags first Tennis victory in four years",
         "link": "https://www.geo.tv/latest/668007-serena-williams-bags-first-tennis-victory-in-four-years"
@@ -151,13 +155,21 @@
       {
         "title": "NASA names four astronauts for Artemis III as spacesuit delays threaten moon mission",
         "link": "https://www.geo.tv/latest/667998-nasa-names-four-astronauts-for-artemis-iii-as-spacesuit-delays-threaten-moon-mission"
-      },
-      {
-        "title": "When is FIFA World Cup 2026 opening ceremony? See who's performing",
-        "link": "https://www.geo.tv/latest/667997-when-is-fifa-world-cup-2026-opening-ceremony-see-whos-performing"
       }
     ],
     "NDTV": [
+      {
+        "title": "UK, Canada, France, Norway Sanction Israeli Settlers Over West Bank Violence",
+        "link": "https://www.ndtv.com/world-news/iran-war-uk-canada-france-norway-sanction-israeli-settlers-over-west-bank-violence-11614802#publisher=newsstand"
+      },
+      {
+        "title": "US Begins Strikes Against Iran After Tehran Downs American Apache Chopper",
+        "link": "https://www.ndtv.com/world-news/us-begins-strikes-against-iran-after-tehran-downs-american-apache-chopper-11614741#publisher=newsstand"
+      },
+      {
+        "title": "US Iran War Live: US Says It Is Striking Iran In Response To Helicopter Shootdown",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-live-updates-israel-iran-trade-attacks-trump-says-i-call-the-shots-11605112#publisher=newsstand"
+      },
       {
         "title": "Girl, 16, Raped By 5 Youths In Haryana's Nuh: Cops",
         "link": "https://www.ndtv.com/india-news/girl-16-raped-by-5-youths-in-haryanas-nuh-cops-11614575#publisher=newsstand"
@@ -165,18 +177,6 @@
       {
         "title": "Will Hobnobbing With Trinamool Rebels Cost BJP? What State Leaders Say",
         "link": "https://www.ndtv.com/india-news/will-hobnobbing-with-trinamool-rebels-cost-bjp-what-state-leaders-say-11614468#publisher=newsstand"
-      },
-      {
-        "title": "\"She Said Will Fight, Rebuild\": Kirti Azad On Mamata Banerjee's Crisis Plan",
-        "link": "https://www.ndtv.com/india-news/trinamool-congress-crisis-trinamool-she-said-will-fight-rebuild-kirti-azad-on-mamata-banerjees-crisis-plan-11614451#publisher=newsstand"
-      },
-      {
-        "title": "Indian-American CEO Facing US Citizenship Loss Over H-1B Visa Fraud",
-        "link": "https://www.ndtv.com/world-news/indian-american-ceo-facing-us-citizenship-loss-over-h-1b-visa-fraud-11614443#publisher=newsstand"
-      },
-      {
-        "title": "Today Weather Highlights: Delhi-NCR To Witness More Rain, Says Weather Office",
-        "link": "https://www.ndtv.com/india-news/today-weather-live-heatwave-today-rain-alert-live-delhi-ncr-to-witness-more-rain-says-weather-office-11610040#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-09 22:05 UTC"
+  "last_updated": "2026-06-09 23:39 UTC"
 }
