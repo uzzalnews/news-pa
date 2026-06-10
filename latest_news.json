@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US Iran War News LIVE: US Carries Out \"Self-Defence Strikes\" Against Iran In Latest Escalation Of Tensions",
+      "link": "https://www.ndtv.com/world-news/us-israel-iran-war-news-live-updates-centcom-strikes-bandar-abbas-sirik-jask-qeshm-island-tehran-attack-jordan-kuwait-bahrain-ceasefire-trump-hormuz-11615195#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
-        "link": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss"
+        "title": "Water cannon fired in latest disorder after Belfast knife attack",
+        "link": "https://www.bbc.com/news/articles/c1dypzw1d29o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US launches new strikes on Iran after Trump vows to 'hit them hard'",
+        "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Essex Police given new information on West Ham co-owner David Sullivan",
         "link": "https://www.bbc.com/news/articles/c802l191rd3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump says US will hit Iran 'hard' again today",
-        "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss"
+        "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
+        "link": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Changing visa rules for care workers is wrong, says Rayner",
-        "link": "https://www.bbc.com/news/articles/cddl0nz4v5vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Vets advise ban on over the counter flea treatment for pets",
-        "link": "https://www.bbc.com/news/articles/cp9pd4d3m5ko?at_medium=RSS&at_campaign=rss"
+        "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+        "link": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Trial begins for man accused of sparking Palisades Fire in California",
+        "link": "https://www.aljazeera.com/news/2026/6/10/trial-begins-for-man-accused-of-sparking-palisades-fire-in-california?traffic_source=rss"
+      },
+      {
+        "title": "Canada introduces bill to ban social media for children under 16",
+        "link": "https://www.aljazeera.com/economy/2026/6/10/canada-introduces-bill-to-ban-social-media-for-children-under-16?traffic_source=rss"
+      },
+      {
+        "title": "Ronaldo misses big chances in Portugal’s World Cup warmup win over Nigeria",
+        "link": "https://www.aljazeera.com/sports/2026/6/10/ronaldo-misses-big-chances-in-portugals-world-cup-warmup-win-over-nigeria?traffic_source=rss"
+      },
+      {
+        "title": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
+        "link": "https://www.aljazeera.com/news/2026/6/10/us-defence-secretary-hegseth-pledges-strikes-on-key-facilities-in-iran?traffic_source=rss"
+      },
+      {
         "title": "Trump directs interim US intelligence chief Bill Pulte to downsize agency",
         "link": "https://www.aljazeera.com/news/2026/6/10/trump-directs-interim-us-intelligence-chief-bill-pulte-to-downsize-agency?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills 16 in Lebanon, UN to probe international law violations",
-        "link": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss"
-      },
-      {
-        "title": "Hero’s welcome for Omar Artan after Somali’s World Cup dreams dashed",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/heros-welcome-for-omar-artan-after-somalis-world-cup-dreams-dashed?traffic_source=rss"
-      },
-      {
-        "title": "Gwyneth Paltrow’s Israeli real estate ad goes viral",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/gwyneth-paltrows-israeli-real-estate-ad-goes-viral?traffic_source=rss"
-      },
-      {
-        "title": "First image in months emerges of Dr. Hussam Abu Safia",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/first-image-in-months-emerges-of-dr-hussam-abu-safia?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,6 +99,10 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Trump’s ‘Secret Mission’ to Ferry Oil Past Iran Was Widely Disclosed",
+        "link": "https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html"
+      },
+      {
         "title": "FISA Surveillance Law May Expire After Trump Picks Bill Pulte for Intel Post",
         "link": "https://www.nytimes.com/2026/06/10/us/politics/trump-bill-pulte-spy-law.html"
       },
@@ -105,15 +115,19 @@
         "link": "https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html"
       },
       {
-        "title": "Trump’s ‘Secret Mission’ to Ferry Oil Past Iran Was Widely Disclosed",
-        "link": "https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html"
-      },
-      {
-        "title": "SpaceX’s IPO Could Turn 4,400 Employees Into Millionaires",
-        "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html"
+        "title": "Trump Muses About Government Taking a Piece of A.I. Companies",
+        "link": "https://www.nytimes.com/2026/06/10/technology/president-trump-americans-sharing-ai-wealth.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Opinion: As World Cup host, the US is sportsmaxxing through war and genocide",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-world-cup-host-us-sportsmaxxing-through-war-and-genocide"
+      },
+      {
+        "title": "Iranian media reports explosions in south near Strait of Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-explosions-south-near-strait-hormuz"
+      },
       {
         "title": "US military says carrying out strikes against Iran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-carrying-out-strikes-against-iran"
@@ -125,14 +139,6 @@
       {
         "title": "Saudi crown prince orders resumption of Lebanese exports",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-crown-prince-orders-resumption-lebanese-exports"
-      },
-      {
-        "title": "Opinion: Israel's military adventures have backfired - and the public is losing patience",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-israels-military-adventures-have-backfired-and-public-losing"
-      },
-      {
-        "title": "No sustainable deal can be reached under threats, Iran's UN envoy says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/no-sustainable-deal-can-be-reached-under-threats-irans-un-envoy-says"
       }
     ],
     "GeoTV": [
@@ -159,24 +165,24 @@
     ],
     "NDTV": [
       {
-        "title": "US Says Will Bomb \"Key Facilities\" In Iran, Hours After Trump Warning",
+        "title": "US Strikes \"Multiple Targets\" In Iran After Trump's Warning",
         "link": "https://www.ndtv.com/world-news/us-says-will-bomb-key-facilities-in-iran-hours-after-trump-warning-11619951#publisher=newsstand"
+      },
+      {
+        "title": "Amid Rising Prices, Trump Says He 'Loves Inflation'",
+        "link": "https://www.ndtv.com/world-news/donald-trump-says-he-loves-inflation-amid-rising-prices-due-to-iran-war-11620059#publisher=newsstand"
+      },
+      {
+        "title": "\"Failing Our Children\": Canada Seeks To Ban Social Media For Under-16s",
+        "link": "https://www.ndtv.com/world-news/canada-seeks-to-ban-social-media-for-under-16s-11620045#publisher=newsstand"
+      },
+      {
+        "title": "US Iran War News LIVE: US Carries Out \"Self-Defence Strikes\" Against Iran In Latest Escalation Of Tensions",
+        "link": "https://www.ndtv.com/world-news/us-israel-iran-war-news-live-updates-centcom-strikes-bandar-abbas-sirik-jask-qeshm-island-tehran-attack-jordan-kuwait-bahrain-ceasefire-trump-hormuz-11615195#publisher=newsstand"
       },
       {
         "title": "First Made-In-India C-295 Carries Out Maiden Test Flight",
         "link": "https://www.ndtv.com/india-news/first-made-in-india-c-295-carries-out-maiden-test-flight-11619813#publisher=newsstand"
-      },
-      {
-        "title": "4 Bangladeshi Robbers Jump In Gurugram Underpass To Run From Cops, Arrested",
-        "link": "https://www.ndtv.com/india-news/4-bangladeshi-robbers-jump-in-gurugram-underpass-to-run-from-cops-arrested-11619726#publisher=newsstand"
-      },
-      {
-        "title": "NDA Leaders Adopt Resolution Lauding PM Modi's 12 Years In Power",
-        "link": "https://www.ndtv.com/india-news/nda-leaders-adopt-resolution-lauding-pm-modis-12-years-in-power-11619718#publisher=newsstand"
-      },
-      {
-        "title": "Protests Erupt In Manipur After Bodies Of 6 Naga Hostages Recovered",
-        "link": "https://www.ndtv.com/india-news/protests-erupt-in-manipur-after-bodies-of-6-naga-hostages-recovered-11619711#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-10 21:52 UTC"
+  "last_updated": "2026-06-10 23:20 UTC"
 }
