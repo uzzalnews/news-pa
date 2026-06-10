@@ -1,9 +1,15 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Weather Today LIVE: High Speed Winds Hit Delhi, But Temperatures Continue To Soar",
+      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-heatwave-warnings-high-speed-winds-hit-delhi-temperatures-continue-to-soar-11615043#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Violence erupts in Belfast as man charged over knife attack",
+        "title": "Disorder breaks out in Belfast after man charged over knife attack",
         "link": "https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -19,30 +25,30 @@
         "link": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
-        "link": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss"
+        "title": "US strikes Iran in response to downing of helicopter, military says",
+        "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Brazil intercepts 108 Cuban immigrants amid growing asylum applications",
+        "link": "https://www.aljazeera.com/news/2026/6/10/brazil-intercepts-108-cuban-immigrants-amid-growing-asylum-applications?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss"
+      },
+      {
+        "title": "US military launches ‘self-defence strikes’ targeting Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss"
+      },
+      {
+        "title": "Afghan authorities open fire on protesters over women’s dress code",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss"
+      },
+      {
         "title": "US judge halts execution by nitrogen gas, ruling it unconstitutional",
         "link": "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss"
-      },
-      {
-        "title": "Mississippi residents sue Musk’s xAI and SpaceX over data centre ‘nuisance’",
-        "link": "https://www.aljazeera.com/economy/2026/6/9/mississippi-residents-sue-musks-xai-and-spacex-over-data-centre-nuisance?traffic_source=rss"
-      },
-      {
-        "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on-2?traffic_source=rss"
-      },
-      {
-        "title": "Trump vows retaliation after claiming Iran shot down Apache helicopter",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces kill nine in Tyre after issuing forced displacement orders",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israeli-forces-kill-nine-in-tyre-after-issuing-forced-displacement-orders?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -101,41 +107,49 @@
         "link": "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html"
       },
       {
-        "title": "The U.S. Strikes Iran After Trump Vowed to Retaliate",
-        "link": "https://www.nytimes.com/2026/06/09/briefing/united-states-iran-strikes-maine-primary-election.html"
+        "title": "Steve Hilton Wins Second Spot in California Governor Race, Beating Tom Steyer",
+        "link": "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html"
       },
       {
-        "title": "A Timeline of Donald Trump and Lindsey Graham’s Relationship Before the South Carolina Primary",
-        "link": "https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html"
+        "title": "Sanders-Backed Progressive Advances in California Swing District Against Valadao",
+        "link": "https://www.nytimes.com/2026/06/09/us/politics/bains-villegas-california-democrats-primary.html"
       },
       {
-        "title": "Pro-Israel Group Pushes for Haley Stevens in Michigan Senate Race",
-        "link": "https://www.nytimes.com/2026/06/09/us/politics/aipac-haley-stevens-michigan-senate.html"
+        "title": "Rep. Kevin Kiley, Independent, to Face Richard Pan in California House Race",
+        "link": "https://www.nytimes.com/2026/06/09/us/politics/pan-ho-kiley-california-primary.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran foreign minister vows that no US attack or threat will be left 'unanswered'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-foreign-minister-vows-no-us-attack-or-threat-will-be-left"
+        "title": "Sirens sound off in Bahrain",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sirens-sounds-bahrain"
       },
       {
-        "title": "New blasts reported in south Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/new-blasts-reported-south-iran"
+        "title": "US Centcom says it completed 'self-defense strikes' against Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-it-completed-self-defense-strikes-against-iran"
       },
       {
-        "title": "Lebanon says 11 killed in Israeli strikes on Tyre",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-says-11-killed-israeli-strikes-tire"
+        "title": "IRGC says it targeted US fleet in Bahrain",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-targeted-us-fleet-bahrain"
       },
       {
-        "title": "Explosions in Hormozgan as Centcom says Iran strikes underway, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-hormozgan-centcom-says-iran-strikes-underway-report-says"
+        "title": "Blasts heard in Ahvaz, amid reports of damaged infrastructure in Sirik",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-ahvaz-amid-reports-damaged-infrastructure-sirik"
       },
       {
-        "title": "Opinion: How a regional defence pact could deal the final blow to Israel's violent expansionism",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-how-regional-defence-pact-could-deal-final-blow-israels-violent"
+        "title": "Iran targeting US bases across the region",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-targeting-us-bases-across-region"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Asian stocks slide, oil gains as Middle East tensions escalate",
+        "link": "https://www.geo.tv/latest/668011-asian-stocks-slide-oil-gains-as-middle-east-tensions-escalate"
+      },
+      {
+        "title": "Jennifer Lopez wells up with tears of joy at son Max's graduation",
+        "link": "https://www.geo.tv/latest/668010-jennifer-lopez-wells-up-with-tears-of-joy-at-son-maxs-graduation"
+      },
       {
         "title": "Machine Gun Kelly reveals the bad that came with 2024 blackout tattoo",
         "link": "https://www.geo.tv/latest/668009-machine-gun-kelly-reveals-the-bad-that-came-with-2024-blackout-tattoo"
@@ -147,36 +161,28 @@
       {
         "title": "Karmelo Anthony found guilty in Austin Metcalf murder case",
         "link": "https://www.geo.tv/latest/668006-karmelo-anthony-found-guilty-in-austin-metcalf-murder-case"
-      },
-      {
-        "title": "Trump vows retaliation after US Apache helicopter crash in Strait of Hormuz",
-        "link": "https://www.geo.tv/latest/668000-trump-vows-retaliation-after-us-apache-helicopter-crash-in-strait-of-hormuz"
-      },
-      {
-        "title": "NASA names four astronauts for Artemis III as spacesuit delays threaten moon mission",
-        "link": "https://www.geo.tv/latest/667998-nasa-names-four-astronauts-for-artemis-iii-as-spacesuit-delays-threaten-moon-mission"
       }
     ],
     "NDTV": [
       {
-        "title": "UK, Canada, France, Norway Sanction Israeli Settlers Over West Bank Violence",
-        "link": "https://www.ndtv.com/world-news/iran-war-uk-canada-france-norway-sanction-israeli-settlers-over-west-bank-violence-11614802#publisher=newsstand"
+        "title": "Iran Strikes US Navy's 5th Fleet After Attacks Over Apache Chopper Downing",
+        "link": "https://www.ndtv.com/world-news/iran-strikes-us-navys-5th-fleet-after-attacks-over-apache-chopper-downing-11615042#publisher=newsstand"
+      },
+      {
+        "title": "Weather Today LIVE: High Speed Winds Hit Delhi, But Temperatures Continue To Soar",
+        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-heatwave-warnings-high-speed-winds-hit-delhi-temperatures-continue-to-soar-11615043#publisher=newsstand"
       },
       {
         "title": "US Begins Strikes Against Iran After Tehran Downs American Apache Chopper",
         "link": "https://www.ndtv.com/world-news/us-begins-strikes-against-iran-after-tehran-downs-american-apache-chopper-11614741#publisher=newsstand"
       },
       {
-        "title": "US Iran War Live: US Says It Is Striking Iran In Response To Helicopter Shootdown",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-live-updates-israel-iran-trade-attacks-trump-says-i-call-the-shots-11605112#publisher=newsstand"
+        "title": "\"Leave Our Region If You...\": Iran Warns After Fresh US Strikes",
+        "link": "https://www.ndtv.com/world-news/iran-warns-us-after-fresh-strikes-near-strait-of-hormuz-11614901#publisher=newsstand"
       },
       {
-        "title": "Girl, 16, Raped By 5 Youths In Haryana's Nuh: Cops",
-        "link": "https://www.ndtv.com/india-news/girl-16-raped-by-5-youths-in-haryanas-nuh-cops-11614575#publisher=newsstand"
-      },
-      {
-        "title": "Will Hobnobbing With Trinamool Rebels Cost BJP? What State Leaders Say",
-        "link": "https://www.ndtv.com/india-news/will-hobnobbing-with-trinamool-rebels-cost-bjp-what-state-leaders-say-11614468#publisher=newsstand"
+        "title": "Explainer: Congress Has Backed Iran War Powers Resolutions. What Next?",
+        "link": "https://www.ndtv.com/world-news/explainer-congress-has-backed-iran-war-powers-resolutions-what-next-11614879#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-09 23:39 UTC"
+  "last_updated": "2026-06-10 01:52 UTC"
 }
