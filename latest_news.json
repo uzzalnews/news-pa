@@ -1,6 +1,11 @@
 {
   "breaking": [
     {
+      "source": "MiddleEastEye",
+      "title": "BREAKING: Israel launches air strikes on Beirut's southern suburbs",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/breaking-israel-launches-air-strikes-beiruts-southern-suburbs"
+    },
+    {
       "source": "NDTV",
       "title": "US-Iran War LIVE Updates: Tehran Says No Decision On US Deal, Qatar Delegation Arrives For Talks",
       "link": "https://www.ndtv.com/world-news/us-iran-war-live-updates-trump-says-peace-deal-to-be-signed-today-iran-denies-11633550#publisher=newsstand"
@@ -9,8 +14,16 @@
   "news": {
     "BBC": [
       {
-        "title": "UK armed forces board Russian shadow fleet oil tanker in English Channel, PM says",
+        "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
         "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: MOD video shows Russian shadow fleet tanker interception",
+        "link": "https://www.bbc.com/news/videos/ce8k5kj64lgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Haiti v Scotland was antidote to the ills of world football",
+        "link": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Tech firms had 'enough time' says Nandy, ahead of social media announcement",
@@ -19,17 +32,21 @@
       {
         "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Molly Russell's dad says PM rushing social media restrictions 'deplorable'",
-        "link": "https://www.bbc.com/news/articles/cwykw759v3po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Two men charged over theft of England World Cup kit",
-        "link": "https://www.bbc.com/sport/football/articles/cm2r35lk8ejo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "World Cup 2026: Biggest takeaways from Brazil-Morocco group match",
+        "link": "https://www.aljazeera.com/sports/2026/6/14/world-cup-2026-biggest-takeaways-from-brazil-morocco-group-match?traffic_source=rss"
+      },
+      {
+        "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss"
+      },
+      {
+        "title": "Israel accuses Hezbollah of ceasefire violation, issues displacement orders",
+        "link": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss"
+      },
       {
         "title": "Romanian president picks Liberal former mayor as PM to form new government",
         "link": "https://www.aljazeera.com/news/2026/6/14/romanian-president-picks-liberal-former-mayor-as-pm-to-form-new-government?traffic_source=rss"
@@ -37,18 +54,6 @@
       {
         "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
         "link": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss"
-      },
-      {
-        "title": "World Cup Day 4: Netherlands vs Japan, Curacao debut, prediction, schedule",
-        "link": "https://www.aljazeera.com/sports/2026/6/14/fifa-world-cup-2026-schedule-netherlands-japan-prediction-germany-curacao-schedule?traffic_source=rss"
-      },
-      {
-        "title": "UK court to rule on Palestine Action ‘terrorist’ label: What we know",
-        "link": "https://www.aljazeera.com/news/2026/6/14/uk-court-to-rule-on-palestine-action-terrorist-label-what-we-know?traffic_source=rss"
-      },
-      {
-        "title": "The World Cup cicada: India’s rare insect on a four-year clock",
-        "link": "https://www.aljazeera.com/features/longform/2026/6/14/the-world-cup-cicada-indias-rare-insect-on-a-four-year-clock?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,109 +85,109 @@
         "link": "https://www.dawn.com/news/2007773/info-minister-invites-opposition-for-charter-of-economy-defends-proposed-fy27-budget"
       },
       {
-        "title": "Agriculture largely ignored",
-        "link": "https://www.dawn.com/news/2007672/agriculture-largely-ignored"
+        "title": "At least 7 killed, 33 injured in rain-related incidents across KP in a day",
+        "link": "https://www.dawn.com/news/2007786/at-least-7-killed-33-injured-in-rain-related-incidents-across-kp-in-a-day"
+      },
+      {
+        "title": "Shooting over property dispute in KP's Bannu kills 4 of same family",
+        "link": "https://www.dawn.com/news/2007764/shooting-over-property-dispute-in-kps-bannu-kills-4-of-same-family"
       },
       {
         "title": "FIFA World Cup bus set alight as chaotic celebrations erupt in NYC's Manhattan after Knicks win",
         "link": "https://www.dawn.com/news/2007778/fifa-world-cup-bus-set-alight-as-chaotic-celebrations-erupt-in-nycs-manhattan-after-knicks-win"
       },
       {
-        "title": "Bilawal calls for end to AJK protests as unrest 'damaging' Pakistan's reputation amid global spotlight",
-        "link": "https://www.dawn.com/news/2007765/bilawal-calls-for-end-to-ajk-protests-as-unrest-damaging-pakistans-reputation-amid-global-spotlight"
-      },
-      {
-        "title": "Switzerland votes on proposal to cap population at 10m",
-        "link": "https://www.dawn.com/news/2007775/switzerland-votes-on-proposal-to-cap-population-at-10m"
+        "title": "Punjab expands Liquid Tree project to tackle urban pollution",
+        "link": "https://www.dawn.com/news/2007783/punjab-expands-liquid-tree-project-to-tackle-urban-pollution"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Is Losing Ground With White Working-Class Voters on the Economy",
-        "link": "https://www.nytimes.com/2026/06/13/us/politics/trump-white-working-class-voters-economy.html"
+        "title": "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
+        "link": "https://www.nytimes.com/2026/06/14/world/europe/us-iran-rusisa-ukraine.html"
       },
       {
-        "title": "At the Kennedy Center, a Name Change Shrouded in Uncertainty",
-        "link": "https://www.nytimes.com/2026/06/13/us/politics/trump-kennedy-center-name.html"
+        "title": "UK Forces Seize Russian Shadow Fleet Oil Tanker",
+        "link": "https://www.nytimes.com/2026/06/14/world/europe/uk-russia-shadow-fleet-oil-tanker-channel.html"
       },
       {
-        "title": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models",
-        "link": "https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html"
+        "title": "Knicks Give Their City Something New: Impossible Joy",
+        "link": "https://www.nytimes.com/2026/06/14/nyregion/knicks-new-york-city-nba-championship-win.html"
       },
       {
-        "title": "Trump Again Picks Personal Lawyer for a Top Job, as U.S. Attorney in Manhattan",
-        "link": "https://www.nytimes.com/2026/06/13/us/politics/trump-lawyer-us-attorney-manhattan.html"
+        "title": "Trump at 80: A President ‘Really Uncomfortable’ With Aging",
+        "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-age-birthday-80.html"
       },
       {
-        "title": "New Yorkers Waited 53 Years for This. Time to Celebrate.",
-        "link": "https://www.nytimes.com/2026/06/14/nyregion/knicks-championship-photos.html"
+        "title": "Kash Patel Keeps Suing the Press",
+        "link": "https://www.nytimes.com/2026/06/14/business/media/kash-patel-defamation-lawsuits.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Palestinian citizen of Israel announced dead in Israeli custody",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-citizen-israel-announced-dead-israeli-custody"
+        "title": "Israel confirms attacks on Beirut's southern suburbs",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-confirms-attacks-beiruts-southern-suburbs"
       },
       {
-        "title": "Qatari delegation met with Iranian officials, as Tehran reviews proposal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-delegation-met-iranian-officials-tehran-reviews-proposal"
+        "title": "Iranian official says draft US deal includes nuclear limits and asset release: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-says-draft-us-deal-includes-nuclear-limits-and-asset"
       },
       {
-        "title": "Israel launches attacks across southern Lebanon, one killed in Sidon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-attacks-across-southern-lebanon-one-killed-sidon"
+        "title": "BREAKING: Israel launches air strikes on Beirut's southern suburbs",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/breaking-israel-launches-air-strikes-beiruts-southern-suburbs"
       },
       {
-        "title": "Pro-Palestine protesters arrested under counter-terrorism laws at London rally",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-palestine-protesters-arrested-under-counter-terrorism-laws-london"
+        "title": "Continued Israeli assault on Gaza kills over 72,996 Palestinians",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/continued-israeli-assault-gaza-kills-over-72996-palestinians"
       },
       {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-561"
+        "title": "Germany's UN defeat is a verdict on its complicity in genocide",
+        "link": "https://www.middleeasteye.net/opinion/germanys-un-defeat-verdict-its-complicity-genocide"
       }
     ],
     "GeoTV": [
       {
-        "title": "Princess Kate breaks two major Palace rules for historic event",
-        "link": "https://www.geo.tv/latest/668670-princess-kate-breaks-two-major-palace-rules-for-historic-event"
+        "title": "Taylor Swift shares major heart breaking moment of her life",
+        "link": "https://www.geo.tv/latest/668686-taylor-swift-shares-major-heart-breaking-moment-of-her-life"
       },
       {
-        "title": "Dua Lipa, Callum Turner packs on PDA during dreamy honeymoon in Italy",
-        "link": "https://www.geo.tv/latest/668671-dua-lipa-callum-turner-packs-on-pda-during-dreamy-honeymoon-in-italy"
+        "title": "Budget: Experts welcome tax relief on sanitary pads, contraceptives but urge caution",
+        "link": "https://www.geo.tv/latest/668683-budget-experts-welcome-tax-relief-on-sanitary-pads-contraceptives-but-urge-caution"
       },
       {
-        "title": "Duke of Kent captures flypast from Palace balcony: 'He's the cutest'",
-        "link": "https://www.geo.tv/latest/668661-duke-of-kent-captures-flypast-from-palace-balcony-hes-the-cutest"
+        "title": "World Cup bus set alight as chaotic celebrations erupt in Manhattan after Knicks win",
+        "link": "https://www.geo.tv/latest/668684-world-cup-bus-set-alight-as-chaotic-celebrations-erupt-in-manhattan-after-knicks-win"
       },
       {
-        "title": "Prince Harry rushes out after facing rejection in uneasy encounter",
-        "link": "https://www.geo.tv/latest/668669-prince-harry-rushes-out-after-facing-rejection-in-uneasy-encounter"
+        "title": "Beatrice, Eugenie turn deaf ear to Prince William message: 'Bold step'",
+        "link": "https://www.geo.tv/latest/668674-beatrice-eugenie-turn-deaf-ear-to-prince-william-message-bold-step"
       },
       {
-        "title": "'Rulers deceiving themselves': Opposition leaders reject budget, say public crushed by poverty",
-        "link": "https://www.geo.tv/latest/668665-rulers-deceiving-themselves-opposition-leaders-reject-budget-say-public-crushed-by-poverty"
+        "title": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release",
+        "link": "https://www.geo.tv/latest/668679-iran-says-draft-us-deal-includes-oil-sanctions-waiver-nuclear-limits-and-asset-release"
       }
     ],
     "NDTV": [
       {
-        "title": "Deadly Philippine Quake Raised Seabed By Up To Two Metres",
-        "link": "https://www.ndtv.com/world-news/deadly-philippine-quake-raised-seabed-by-up-to-two-metres-11634458#publisher=newsstand"
+        "title": "More Trouble For Mamata Banerjee? Rebel Leader Revises Strength",
+        "link": "https://www.ndtv.com/india-news/more-trouble-for-mamata-banerjee-rebel-mp-kakoli-ghosh-dastidar-revises-strength-11634931#publisher=newsstand"
+      },
+      {
+        "title": "14 Indians Evacuated After Vessel Suffers Engine Failure Off Oman Coast",
+        "link": "https://www.ndtv.com/india-news/14-indians-evacuated-after-vessel-suffers-engine-failure-off-oman-coast-11634753#publisher=newsstand"
+      },
+      {
+        "title": "\"India Is Country Of Innovation:\" France's Macron At 'Bharat Innovates' Event",
+        "link": "https://www.ndtv.com/india-news/india-is-country-of-innovation-frances-macron-at-bharat-innovates-event-11634848#publisher=newsstand"
+      },
+      {
+        "title": "Trinamool Chief Mamata Banerjee Removes MPs Saayoni Ghosh, Mala Roy From Key Trinamool Posts",
+        "link": "https://www.ndtv.com/india-news/trinamool-chief-mamata-banerjee-removes-saayoni-ghosh-mala-roy-from-key-positions-11633729#publisher=newsstand"
       },
       {
         "title": "US-Iran War LIVE Updates: Tehran Says No Decision On US Deal, Qatar Delegation Arrives For Talks",
         "link": "https://www.ndtv.com/world-news/us-iran-war-live-updates-trump-says-peace-deal-to-be-signed-today-iran-denies-11633550#publisher=newsstand"
-      },
-      {
-        "title": "1 Killed, House Set On Fire As Water Dispute In Uttarakhand Turns Violent",
-        "link": "https://www.ndtv.com/india-news/dehradun-1-killed-house-set-on-fire-as-water-dispute-in-uttarakhand-turns-violent-11634477#publisher=newsstand"
-      },
-      {
-        "title": "German Heiress Shot Dead At Family's Luxury Safari Estate In South Africa",
-        "link": "https://www.ndtv.com/world-news/german-heiress-caroline-von-rantzau-26-shot-dead-at-familys-luxury-safari-estate-in-south-africa-11634393#publisher=newsstand"
-      },
-      {
-        "title": "Inside 24-Hour Talks That Led White House To Act Against Anthropic's AI Model",
-        "link": "https://www.ndtv.com/world-news/inside-24-hour-talks-that-led-white-house-to-act-against-anthropics-ai-model-11634274#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-14 09:59 UTC"
+  "last_updated": "2026-06-14 12:06 UTC"
 }
