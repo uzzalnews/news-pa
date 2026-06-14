@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Iran War LIVE Updates: Iran Says No Point Talking To US After Israel Strikes Lebanon",
-      "link": "https://www.ndtv.com/world-news/us-iran-war-live-updates-trump-says-peace-deal-to-be-signed-today-iran-denies-11633550#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,23 +7,35 @@
         "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: MOD video shows Russian shadow fleet tanker interception",
-        "link": "https://www.bbc.com/news/videos/ce8k5kj64lgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why Haiti v Scotland was antidote to the ills of world football",
-        "link": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Tech firms had 'enough time' says Nandy, ahead of social media announcement",
         "link": "https://www.bbc.com/news/articles/ce8jyp78mklo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+        "title": "UK and Japan agree £18bn investment deal",
+        "link": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lewis Hamilton wins first grand prix for Ferrari",
+        "link": "https://www.bbc.com/sport/formula1/articles/cn8k5n737p4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Swiss voters reject 10 million population cap, early projections say",
+        "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump condemns Israel attack on Beirut, says Iran deal still close",
+        "link": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss"
+      },
+      {
+        "title": "EU set to hold membership talks with Ukraine",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/eu-set-to-hold-membership-talks-with-ukraine?traffic_source=rss"
+      },
+      {
+        "title": "‘We were herded like animals’: Freed from Boko Haram captivity",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/we-were-herded-like-animals-freed-from-boko-haram-captivity?traffic_source=rss"
+      },
       {
         "title": "US asks Anthropic to block global access to top AI models: Why it matters",
         "link": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters?traffic_source=rss"
@@ -37,18 +43,6 @@
       {
         "title": "Donald Trump’s name removed from Kennedy Center",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/donald-trumps-name-removed-from-kennedy-center?traffic_source=rss"
-      },
-      {
-        "title": "Sexual Violence in Israeli Prisons: What History Tells Us",
-        "link": "https://www.aljazeera.com/video/2026/6/14/sexual-violence-in-israeli-prisons-what-history-tells-us?traffic_source=rss"
-      },
-      {
-        "title": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
-        "link": "https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us?traffic_source=rss"
-      },
-      {
-        "title": "Spain vs Cape Verde: World Cup – Lamine Yamal, predictions and how to watch",
-        "link": "https://www.aljazeera.com/sports/2026/6/14/spain-vs-cape-verde-world-cup-predictions-lamine-yamal-schedule-how-to-watch?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,6 +74,10 @@
         "link": "https://www.dawn.com/news/2007773/info-minister-invites-opposition-to-sign-charter-of-economy-defends-proposed-fy27-budget"
       },
       {
+        "title": "PPP-AJK urges election commission to withdraw polling schedule for 12 refugee seats amid unrest",
+        "link": "https://www.dawn.com/news/2007805/ppp-ajk-urges-election-commission-to-withdraw-polling-schedule-for-12-refugee-seats-amid-unrest"
+      },
+      {
         "title": "Punjab expands Liquid Tree project to tackle urban pollution",
         "link": "https://www.dawn.com/news/2007783/punjab-expands-liquid-tree-project-to-tackle-urban-pollution"
       },
@@ -90,10 +88,6 @@
       {
         "title": "Shooting over property dispute in KP's Bannu kills 4 of same family",
         "link": "https://www.dawn.com/news/2007764/shooting-over-property-dispute-in-kps-bannu-kills-4-of-same-family"
-      },
-      {
-        "title": "FIA foils alleged attempt to travel abroad using fake NOC in Multan",
-        "link": "https://www.dawn.com/news/2007804/fia-foils-alleged-attempt-to-travel-abroad-using-fake-noc-in-multan"
       }
     ],
     "APNews": [],
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Somaliland's president visits Israel for the first time",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/somalilands-president-visits-israel-first-time"
+        "title": "Somaliland president meets Israeli counterpart in first Jerusalem visit",
+        "link": "https://www.middleeasteye.net/news/somaliland-president-meets-israeli-counterpart-first-visit-jerusalem"
       },
       {
-        "title": "Israel kills four Palestinians in north Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-four-palestinians-north-gaza"
+        "title": "Lebanon death toll climbs to 3,783 as Israeli continues to target country",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-death-toll-climbs-3783-israeli-continues-target-country"
       },
       {
-        "title": "Iranian army official vows that Israel's attack on Beirut 'will not go unanswered'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-official-vows-israels-attack-beirut-will-not-go-unanswered"
+        "title": "Trump says Israeli strike on Beirut 'should not have happened'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-israeli-strike-beirut-should-not-have-happened"
       },
       {
-        "title": "Israeli strike on Beirut kills three",
-        "link": "https://www.middleeasteye.net/news/israeli-strike-beirut-kills-three"
+        "title": "Can Tunisia finally break through at the World Cup?",
+        "link": "https://www.middleeasteye.net/news/can-tunisia-finally-break-through-world-cup-2026"
       },
       {
-        "title": "Iran's top negotiator says US 'lacks will to fulfill its commitments' after Israeli hit on Beirut",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-top-negotiator-says-us-lacks-will-fulfill-its-commitments-after"
+        "title": "Sisi set to hold meeting with Trump at upcoming G7 summit",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sisi-set-hold-meeting-trump-upcoming-g7-summit"
       }
     ],
     "GeoTV": [
       {
-        "title": "Behind the scenes of Red Arrows as Trooping the Colour finishes with dazzling flypast",
-        "link": "https://www.geo.tv/latest/668704-behind-the-scenes-of-red-arrows-as-trooping-the-colour-finishes-with-dazzling-flypast"
+        "title": "Labour unions, victims demand fresh probe into Baldia factory fire",
+        "link": "https://www.geo.tv/latest/668705-labour-unions-victims-demand-fresh-probe-into-baldia-town-factory-fire"
       },
       {
-        "title": "Sarah Ferguson gives shock to family with major decision",
-        "link": "https://www.geo.tv/latest/668689-sarah-ferguson-gives-shock-to-family-with-major-decision"
+        "title": "Lucky charm? Lewis Hamilton secures major F1 win with Kim Kardashian' effect",
+        "link": "https://www.geo.tv/latest/668715-lucky-charm-lewis-hamilton-secures-major-f1-win-with-kim-kardashian-effect"
       },
       {
-        "title": "U2's Bono confronts Bruce Springsteen over song refusal: 'You said no!'",
-        "link": "https://www.geo.tv/latest/668701-u2s-bono-confronts-bruce-springsteen-over-song-refusal-you-said-no"
+        "title": "Farewell to Lady Pamela Hicks marked by royal absences due to ceremony",
+        "link": "https://www.geo.tv/latest/668713-farewell-to-lady-pamela-hicks-marked-by-royal-absences-due-to-ceremony"
       },
       {
-        "title": "Princess Kate's steely reaction ensures protesters don't overshadow major event",
-        "link": "https://www.geo.tv/latest/668698-princess-kates-steely-reaction-ensures-protesters-dont-overshadow-major-event"
+        "title": "Wendy Williams hit with rough patch as court battle continues",
+        "link": "https://www.geo.tv/latest/668714-wendy-williams-hit-with-rough-patch-as-court-battle-continues"
       },
       {
-        "title": "UK intercepts Russian shadow fleet vessel in Channel: ministry",
-        "link": "https://www.geo.tv/latest/668697-uk-intercepts-russian-shadow-fleet-vessel-in-channel-ministry"
+        "title": "Prince Harry's absence no longer felt as royal family adapts to life without him",
+        "link": "https://www.geo.tv/latest/668712-prince-harrys-absence-no-longer-felt-as-royal-family-adapts-to-life-without-him"
       }
     ],
     "NDTV": [
       {
-        "title": "US-Iran War LIVE Updates: Iran Says No Point Talking To US After Israel Strikes Lebanon",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-live-updates-trump-says-peace-deal-to-be-signed-today-iran-denies-11633550#publisher=newsstand"
+        "title": "On Camera, 'Spider-Man Of Yemen' Falls Into Volcanic Crater, Dies",
+        "link": "https://www.ndtv.com/india-news/on-camera-spider-man-of-yemen-falls-into-volcanic-crater-dies-11635603#publisher=newsstand"
       },
       {
-        "title": "In Trinamool Rebel Camp, 'New Entrant' Triggers Leadership Tussle",
-        "link": "https://www.ndtv.com/india-news/trinamool-rebel-mps-to-get-new-leader-sources-hint-at-this-6-time-mp-11635020#publisher=newsstand"
+        "title": "Trinamool Rebel Bloc To Merge With Nationalist Citizens Party: Kakoli Ghosh",
+        "link": "https://www.ndtv.com/india-news/trinamool-rebel-bloc-to-merge-with-nationalist-citizens-party-kakoli-ghosh-11635562#publisher=newsstand"
       },
       {
-        "title": "Video: UK Military Intercepts Russian Shadow Fleet Tanker In English Channel",
-        "link": "https://www.ndtv.com/world-news/video-uk-military-intercepts-russian-shadow-fleet-tanker-in-english-channel-11635311#publisher=newsstand"
+        "title": "Sheikh Hasina Aide And Bangladesh Ex-Top Cop Arrested By Interpol In Dubai",
+        "link": "https://www.ndtv.com/world-news/sheikh-hasina-aide-and-bangladesh-ex-top-cop-arrested-by-interpol-in-dubai-11635602#publisher=newsstand"
       },
       {
-        "title": "\"Situation Very Bad\": Seafarers Claim \"Only Indians\" Being Attacked In Gulf",
-        "link": "https://www.ndtv.com/india-news/situation-very-bad-seafarers-claim-only-indians-being-attacked-in-gulf-11634887#publisher=newsstand"
+        "title": "How A Ukrainian Erotic Model Led Deep-Sea Nord Stream Sabotage Mission",
+        "link": "https://www.ndtv.com/world-news/russia-ukraine-war-how-a-former-erotic-model-ended-up-in-the-nord-stream-plot-11635514#publisher=newsstand"
       },
       {
-        "title": "Video: Israeli Air Force Strikes Hezbollah Headquarters In Beirut",
-        "link": "https://www.ndtv.com/world-news/video-israel-pounds-beirut-with-airstrikes-says-hit-hezbollah-headquarters-11635112#publisher=newsstand"
+        "title": "\"Significant Action\": Ram Temple Committee Chief On Donation Row Probe Team",
+        "link": "https://www.ndtv.com/india-news/significant-action-ram-temple-committee-chief-on-donation-row-probe-team-11635520#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-14 14:25 UTC"
+  "last_updated": "2026-06-14 16:05 UTC"
 }
