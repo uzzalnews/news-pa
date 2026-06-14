@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Ilia Topuria vs Justin Gaethje title fight at UFC Freedom 250",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/14/live-ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
+        "title": "New social media restrictions will end 'system failing our kids', PM says",
+        "link": "https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
         "link": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Roy Hattersley, former Labour deputy leader, dies aged 93",
+        "link": "https://www.bbc.com/news/articles/cvgq1egykr9o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
         "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK electric car sales target set to be weakened",
-        "link": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Thunderstorms threaten Trump's UFC cage fight on the White House lawn",
         "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Protesters clash with police ahead of G7 summit in Geneva",
-        "link": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Six people killed as helicopters collide over Brazil’s Rio de Janeiro",
-        "link": "https://www.aljazeera.com/news/2026/6/14/six-people-killed-as-helicopters-collide-over-brazils-rio-de-janeiro?traffic_source=rss"
+        "title": "India beat Pakistan by 64 runs to open Women’s T20 World Cup campaign",
+        "link": "https://www.aljazeera.com/sports/2026/6/14/india-beat-pakistan-by-64-runs-to-open-womens-t20-world-cup-campaign?traffic_source=rss"
       },
       {
-        "title": "Lewis Hamilton wins first F1 race with Ferrari in Barcelona",
-        "link": "https://www.aljazeera.com/sports/2026/6/14/lewis-hamilton-wins-first-f1-race-with-ferrari-in-barcelona?traffic_source=rss"
+        "title": "LIVE: Ilia Topuria vs Justin Gaethje title fight at UFC Freedom 250",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/14/live-ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250?traffic_source=rss"
       },
       {
-        "title": "The president, the billionaires and the news",
-        "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/14/the-president-the-billionaires-and-the-news?traffic_source=rss"
+        "title": "Gaza mourns four killed in Israeli strike",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss"
       },
       {
-        "title": "Twelve killed in plane crash in US state of Missouri",
-        "link": "https://www.aljazeera.com/news/2026/6/14/twelve-killed-in-plane-crash-in-us-state-of-missouri?traffic_source=rss"
+        "title": "Violence erupts during anti-G7 protests in Geneva on eve of summit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit?traffic_source=rss"
       },
       {
-        "title": "Germany hit Curacao for seven to open their World Cup",
-        "link": "https://www.aljazeera.com/sports/2026/6/14/germany-hit-curacao-for-seven-to-open-their-world-cup?traffic_source=rss"
+        "title": "Swiss right-wing plan to cap population rejected by narrow margins",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/swiss-right-wing-plan-to-cap-population-rejected-by-narrow-margins?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,27 +121,35 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Trump announces agreement with Tehran to end US-Israeli war on all fronts",
+        "link": "https://www.middleeasteye.net/news/israeli-us-war-iran-over-after-trump-announces-deal-signed"
+      },
+      {
+        "title": "Pakistan says US-Iran deal ends war on all fronts",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-says-us-iran-deal-ends-war-all-fronts"
+      },
+      {
+        "title": "Trump says US has agreed to Iran deal, WSJ reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-has-agreed-iran-deal-wsj-reports"
+      },
+      {
+        "title": "Trump says Strait of Hormuz will reopen ‘very shortly’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-strait-hormuz-will-reopen-very-shortly"
+      },
+      {
         "title": "Iran condemns Israeli Beirut strike as ‘terrorist crime’",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-condemns-israeli-beirut-strike-terrorist-crime"
-      },
-      {
-        "title": "Iran says flights continue as normal across the country",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-flights-continue-normal-across-country"
-      },
-      {
-        "title": "UN chief condemns Israeli attack on Beirut",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-condemns-israeli-attack-beirut"
-      },
-      {
-        "title": "Iran cancels flights from western airports: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-cancels-flights-western-airports-report"
-      },
-      {
-        "title": "Iran says ‘strong response is coming’ after Israeli strike on Beirut",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-strong-response-coming-after-israeli-strike-beirut"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Eminem's daughter Alaina's 'heart is breaking' as maternity leave ends",
+        "link": "https://www.geo.tv/latest/668748-eminems-daughter-alainas-heart-is-breaking-as-maternity-leave-ends"
+      },
+      {
+        "title": "Germany cruise to 7-1 win over debutants Curacao in Houston",
+        "link": "https://www.geo.tv/latest/668741-germany-cruise-to-7-1-win-over-debutants-curacao-in-houston"
+      },
       {
         "title": "Dua Lipa, Callum Turner showoff PDA during Italy honeymoon",
         "link": "https://www.geo.tv/latest/668739-dua-lipa-callum-turner-showoff-pda-during-italy-honeymoon"
@@ -147,14 +161,6 @@
       {
         "title": "Light rain turns weather pleasant in Karachi",
         "link": "https://www.geo.tv/latest/668736-light-rain-turns-weather-pleasant-in-karachi"
-      },
-      {
-        "title": "Buckingham Palace lifts the curtain on King's birthday parade with rare pictures",
-        "link": "https://www.geo.tv/latest/668732-buckingham-palace-lifts-the-curtain-on-kings-birthday-parade-with-rare-pictures"
-      },
-      {
-        "title": "Courteney Cox, ex-husband David Arquette celebrate daughter Coco's birthday",
-        "link": "https://www.geo.tv/latest/668735-courteney-cox-ex-husband-david-arquette-celebrate-daughter-cocos-birthday"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-14 20:22 UTC"
+  "last_updated": "2026-06-14 21:49 UTC"
 }
