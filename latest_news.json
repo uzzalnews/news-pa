@@ -1,9 +1,15 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "LIVE Updates: US-Iran Deal To Be Signed In Switzerland On Friday",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-peace-deal-strait-of-hormuz-live-updates-protests-trump-israel-netanyahu-oil-prices-11641718#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Russian warship fires warning shots near UK-registered yacht in Channel",
+        "title": "'It was surreal': British couple describe having warning shots fired at them by Russian warship",
         "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "‘I know what you’ve been through’: FIFA president visits Iran team",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/i-know-what-youve-been-through-fifa-president-visits-iran-team?traffic_source=rss"
+        "title": "Mbappe brace fires France to 3-1 win over Senegal in World Cup 2026 opener",
+        "link": "https://www.aljazeera.com/sports/2026/6/16/mbappe-brace-fires-france-to-3-1-win-over-senegal-in-world-cup-2026-opener?traffic_source=rss"
       },
       {
-        "title": "Ohio Governor Mike DeWine opposes death penalty, reversing past support",
-        "link": "https://www.aljazeera.com/news/2026/6/16/ohio-governor-mike-dewine-opposes-death-penalty-reversing-past-support?traffic_source=rss"
+        "title": "Argentina vs Algeria live: World Cup 2026",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/16/argentina-vs-algeria-live-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Repairs begin at 1,000-year-old Kyiv monastery after Russian attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/repairs-begin-at-1000-year-old-kyiv-monastery-after-russian-attack?traffic_source=rss"
+        "title": "South Korea World Cup squad at odds with media over Son Heung-min mockery",
+        "link": "https://www.aljazeera.com/sports/2026/6/16/south-korea-world-cup-squad-at-odds-with-media-over-son-heung-min-mockery?traffic_source=rss"
       },
       {
-        "title": "Israeli strikes kill four in southern Lebanon amid ceasefire talks",
-        "link": "https://www.aljazeera.com/news/2026/6/16/israeli-strikes-kill-four-in-southern-lebanon-amid-ceasefire-talks?traffic_source=rss"
+        "title": "Palestinian Bedouin villagers demolish homes after Israeli orders",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/palestinian-bedouin-villagers-demolish-homes-after-israeli-orders?traffic_source=rss"
       },
       {
-        "title": "Africa’s chances at the World Cup",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/africas-chances-at-the-world-cup-2?traffic_source=rss"
+        "title": "US Justice Department accuses 15 Minnesota activists of ‘antifa’ activities",
+        "link": "https://www.aljazeera.com/news/2026/6/16/us-justice-department-accuses-15-minnesota-activists-of-antifa-activities?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,90 +99,90 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "The Iran War Permanently Altered the Global Economy",
-        "link": "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html"
+        "title": "After a Bitter Split, European Leaders Play Nice With Trump",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html"
+      },
+      {
+        "title": "Who Are the Leaders at the G7 Summit in France?",
+        "link": "https://www.nytimes.com/2026/06/16/world/europe/who-are-g7-leaders.html"
       },
       {
         "title": "After U.S. Strike on Iranian School, Months Pass Without Answers",
         "link": "https://www.nytimes.com/2026/06/16/us/politics/us-strike-iranian-school.html"
       },
       {
-        "title": "War Hangs Over American Farmers as Fertilizer Prices Rise",
-        "link": "https://www.nytimes.com/2026/06/16/business/fertilizer-farming-iran.html"
+        "title": "The Iran War Permanently Altered the Global Economy",
+        "link": "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html"
       },
       {
-        "title": "How Our Reporters Got at the Truth of Jeffrey Epstein’s Death",
-        "link": "https://www.nytimes.com/2026/06/16/insider/jeffrey-epstein-files-suicide.html"
-      },
-      {
-        "title": "How Ukraine Uses A.I. to Knock Deadly Russian Drones Out of the Skies",
-        "link": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-russia-war-ai.html"
+        "title": "Republicans Again Block War Powers Measure in the Senate",
+        "link": "https://www.nytimes.com/2026/06/16/us/politics/republicans-iran-war-powers-senate.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli army says it intercepted Hezbollah rockets in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-intercepted-hezbollah-rockets-southern-lebanon"
+        "title": "Germany signals readiness to support regional peace efforts after Iran-US deal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/germany-signals-readiness-support-regional-peace-efforts-after-iran-us"
       },
       {
-        "title": "Oil prices fall to three-month low ahead of US-Iran agreement",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-fall-three-month-low-ahead-us-iran-agreement"
+        "title": "Iranian military warns Israel after reporting dozens of ceasefire violations in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-military-warns-israel-after-reporting-dozens-ceasefire"
       },
       {
-        "title": "World Cup 2026: Iraq's long-awaited return sparks pride at home and abroad",
-        "link": "https://www.middleeasteye.net/news/world-cup-2026-iraq-long-awaited-return-sparks-pride-home-and-abroad"
+        "title": "IEA warns Southeast Asia faces soaring energy costs after war-related disruptions",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iea-warns-southeast-asia-faces-soaring-energy-costs-after-war-related"
       },
       {
-        "title": "Trump told Israel to let Syria attack Hezbollah in Lebanon",
-        "link": "https://www.middleeasteye.net/news/trump-told-israel-let-syria-attack-hezbollah-lebanon"
+        "title": "Netanyahu yet to see US-Iran agreement as questions grow over Lebanon provisions",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-yet-see-us-iran-agreement-questions-grow-over-lebanon"
       },
       {
-        "title": "Trump suggests Syria could take on Hezbollah",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-suggests-syria-could-take-hezbollah"
+        "title": "US refused to share Iran deal text with Israel: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-refused-share-iran-deal-text-israel-report"
       }
     ],
     "GeoTV": [
       {
+        "title": "Kurt Russell shares what he thinks of movies vs. shows",
+        "link": "https://www.geo.tv/latest/669050-kurt-russell-shares-what-he-thinks-of-movies-vs-shows"
+      },
+      {
+        "title": "Why did Wizard Liz leave her son behind? Inside her controversial exit from America",
+        "link": "https://www.geo.tv/latest/669048-why-did-wizard-liz-leave-her-son-behind-inside-her-controversial-exit-from-america"
+      },
+      {
+        "title": "Why Jelly Roll filed for divorce from Bunnie Xo after almost 10 years of marriage",
+        "link": "https://www.geo.tv/latest/669047-why-jelly-roll-filed-for-divorce-from-bunnie-xo-after-almost-10-years-of-marriage"
+      },
+      {
+        "title": "Filmmaker Guillermo del Toro label's AI as threat to ‘cinema'",
+        "link": "https://www.geo.tv/latest/669042-filmmaker-guillermo-del-toro-labels-ai-as-threat-to-cinema"
+      },
+      {
         "title": "Corey Feldman remains hospitalised after medical emergency on flight",
         "link": "https://www.geo.tv/latest/669041-corey-feldman-remains-hospitalised-after-medical-emergency-on-flight"
-      },
-      {
-        "title": "PM to decide on PTI demand linking funds contribution to jailed Imran meeting: FinMin",
-        "link": "https://www.geo.tv/latest/669038-pm-to-decide-on-pti-demand-linking-funds-contribution-to-jailed-imran-meeting-finmin"
-      },
-      {
-        "title": "Meghan Markle makes big announcement after King Charles' powerful move",
-        "link": "https://www.geo.tv/latest/669037-meghan-markle-makes-big-announcement-after-king-charles-powerful-move"
-      },
-      {
-        "title": "Mayor Zohran Mamdani accidently confirms Taylor Swift, Travis Kelce wedding date",
-        "link": "https://www.geo.tv/latest/669036-mayor-zohran-mamdani-accidently-confirms-taylor-swift-travis-kelce-wedding-date"
-      },
-      {
-        "title": "Tom Holland says Owen Cooper 'would be awesome' as next Spider-Man",
-        "link": "https://www.geo.tv/latest/669035-tom-holland-says-owen-cooper-would-be-awesome-as-next-spider-man"
       }
     ],
     "NDTV": [
       {
-        "title": "Phones Off, Uddhav Sena MPs Not Reachable, Focus Now Shifts To Delhi",
-        "link": "https://www.ndtv.com/india-news/shiv-sena-uddhav-thackeray-eknath-shinde-phones-off-uddhav-sena-mps-not-reachable-focus-now-shifts-to-delhi-11645957#publisher=newsstand"
+        "title": "LIVE Updates: US-Iran Deal To Be Signed In Switzerland On Friday",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-peace-deal-strait-of-hormuz-live-updates-protests-trump-israel-netanyahu-oil-prices-11641718#publisher=newsstand"
       },
       {
-        "title": "India-UK Trade Deal Takes Centre Stage As PM Modi Meets Starmer At G7 Summit",
-        "link": "https://www.ndtv.com/india-news/india-uk-trade-deal-takes-centre-stage-as-pm-modi-meets-starmer-at-g7-summit-11646220#publisher=newsstand"
+        "title": "US-Iran Deal To Be Signed In Switzerland On Friday",
+        "link": "https://www.ndtv.com/world-news/us-iran-deal-to-be-signed-in-switzerland-on-friday-11646363#publisher=newsstand"
       },
       {
-        "title": "Devrishi Narad Awards Honour Excellence In Journalism Across 12 Categories",
-        "link": "https://www.ndtv.com/india-news/devrishi-narad-awards-honour-excellence-in-journalism-across-12-categories-11646158#publisher=newsstand"
+        "title": "Iran Threatens \"Harsh Response\" To Israeli Attacks In Lebanon",
+        "link": "https://www.ndtv.com/world-news/iran-threatens-harsh-response-to-israeli-attacks-in-lebanon-11646350#publisher=newsstand"
       },
       {
-        "title": "With Trump Present, PM Modi's \"Indians Also Lost Their Lives\" Remark At G7 Summit",
-        "link": "https://www.ndtv.com/world-news/indians-also-lost-their-lives-pm-modi-flags-sailors-safety-in-front-of-trump-at-g7-summit-11646098#publisher=newsstand"
+        "title": "'Bharat Innovates' To Be Annual Event? Harish Salve Exclusive",
+        "link": "https://www.ndtv.com/india-news/bharat-innovates-to-be-annual-event-harish-salve-exclusive-11646337#publisher=newsstand"
       },
       {
-        "title": "4 Meets In 12 Days: Congress Scrambles To End Punjab Infighting Before Polls",
-        "link": "https://www.ndtv.com/india-news/4-meets-in-12-days-congress-scrambles-to-end-punjab-infighting-before-polls-11646195#publisher=newsstand"
+        "title": "Protest Held In Dhaka Over Opposition To Construction Of Lord Ram Statue",
+        "link": "https://www.ndtv.com/world-news/protest-held-in-dhaka-over-opposition-to-construction-of-lord-ram-statue-11646304#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-16 19:03 UTC"
+  "last_updated": "2026-06-16 21:45 UTC"
 }
