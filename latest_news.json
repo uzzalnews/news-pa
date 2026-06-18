@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "South Africa vs Czechia LIVE: World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/18/czechia-vs-south-africa-live-world-cup-2026?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "What's in the US-Iran agreement?",
-        "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Young women now have 'close to zero' risk of cervical cancer death after HPV jab",
-        "link": "https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Church of England apologises for role in forced adoptions",
-        "link": "https://www.bbc.com/news/articles/clywz07y942o?at_medium=RSS&at_campaign=rss"
+        "title": "Teacher who murdered adopted baby son Preston Davey given whole life prison sentence",
+        "link": "https://www.bbc.com/news/articles/czrx8gj112mo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
         "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Amber heat health alerts issued with UK temperatures set to soar above 30C",
-        "link": "https://www.bbc.com/weather/articles/c79y35nl719o?at_medium=RSS&at_campaign=rss"
+        "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+        "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Young women now have 'close to zero' risk of cervical cancer death after HPV jab",
+        "link": "https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'My brother hid in a rice sack': The refugee stars playing at the World Cup",
+        "link": "https://www.bbc.com/news/articles/c1eygyg2zeno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Taiwan hopes US arms sale package can be approved soon, president says",
-        "link": "https://www.aljazeera.com/news/2026/6/18/taiwan-hopes-us-arms-sale-package-can-be-approved-soon-president-says?traffic_source=rss"
+        "title": "Rial rebounds and stocks soar, but Iranians still grapple with high prices",
+        "link": "https://www.aljazeera.com/economy/2026/6/18/rial-rebounds-and-stocks-soar-but-iranians-still-grapple-with-high-prices?traffic_source=rss"
       },
       {
-        "title": "World Cup 2026: Full group schedule and top second-round matches to watch",
-        "link": "https://www.aljazeera.com/sports/2026/6/18/world-cup-2026-top-five-must-watch-matches-second-group-phase-full-match-schedule?traffic_source=rss"
+        "title": "In Britain, resisting a genocide is now treated as terrorism",
+        "link": "https://www.aljazeera.com/opinions/2026/6/18/in-britain-resisting-a-genocide-is-now-treated-as-terrorism?traffic_source=rss"
       },
       {
-        "title": "Why do AI models struggle with online hate speech detection?",
-        "link": "https://www.aljazeera.com/news/2026/6/18/why-do-ai-models-struggle-with-online-hate-speech-detection?traffic_source=rss"
+        "title": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
+        "link": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal?traffic_source=rss"
       },
       {
-        "title": "Is the G7 hearing the Global South?",
-        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/18/is-the-g7-hearing-the-global-south?traffic_source=rss"
+        "title": "South Africa vs Czechia LIVE: World Cup 2026",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/18/czechia-vs-south-africa-live-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
-        "link": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss"
+        "title": "Pentagon chief announces review of US forces in Europe, slams NATO allies",
+        "link": "https://www.aljazeera.com/news/2026/6/18/pentagon-chief-announces-review-of-us-forces-in-europe-slams-nato-allies?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "Center committed to not ask for further 'sacrifices' after freeze on provinces' development funds: Bilawal",
-        "link": "https://www.dawn.com/news/2008864/center-committed-to-not-ask-for-further-sacrifices-after-freeze-on-provinces-development-funds-bilawal"
+        "title": "Pakistan assails 17 Indian water projects, calls them ‘tools for hydro-hegemony’",
+        "link": "https://www.dawn.com/news/2008889/pakistan-assails-17-indian-water-projects-calls-them-tools-for-hydro-hegemony"
+      },
+      {
+        "title": "Centre committed not to ask for further 'sacrifices' after freeze on provinces' development funds: Bilawal",
+        "link": "https://www.dawn.com/news/2008864/centre-committed-not-to-ask-for-further-sacrifices-after-freeze-on-provinces-development-funds-bilawal"
+      },
+      {
+        "title": "FY2026-27 budget: Senate seeks increase of income tax exemption threshold, reduction in electricity tariffs",
+        "link": "https://www.dawn.com/news/2008863/fy2026-27-budget-senate-seeks-increase-of-income-tax-exemption-threshold-reduction-in-electricity-tariffs"
+      },
+      {
+        "title": "SC orders Adiala superintendent, other officials to submit replies on denial of access to Imran",
+        "link": "https://www.dawn.com/news/2008883/sc-orders-adiala-superintendent-other-officials-to-submit-replies-on-denial-of-access-to-imran"
       },
       {
         "title": "PM says US, Iran have signed deal electronically; Iran to 'instantly' reopen Hormuz, US to 'immediately' lift blockade",
         "link": "https://www.dawn.com/news/2008730/pm-says-us-iran-have-signed-deal-electronically-iran-to-instantly-reopen-hormuz-us-to-immediately-lift-blockade"
-      },
-      {
-        "title": "£190m corruption case: IHC orders Imran, Bushra's meeting with legal counsel within 7 days",
-        "link": "https://www.dawn.com/news/2008846/ps190m-corruption-case-ihc-orders-imran-bushras-meeting-with-legal-counsel-within-7-days"
-      },
-      {
-        "title": "ADB approves $700m loan for Pakistan's insurance sector",
-        "link": "https://www.dawn.com/news/2008839/adb-approves-700m-loan-for-pakistans-insurance-sector"
-      },
-      {
-        "title": "5 jailed PTI leaders urge opposition to 'engage constructively' with PM on 'Charter of Pakistan'",
-        "link": "https://www.dawn.com/news/2008845/5-jailed-pti-leaders-urge-opposition-to-engage-constructively-with-pm-on-charter-of-pakistan"
       }
     ],
     "APNews": [],
@@ -109,74 +115,74 @@
         "link": "https://www.nytimes.com/2026/06/18/podcasts/the-headlines/iran-benefit-deal-us-and-artificial-intelligence-arms-race-schools.html"
       },
       {
-        "title": "Bill Pulte, a Bulldog for Trump, Prepares to Take Reins at Spy Agency",
-        "link": "https://www.nytimes.com/2026/06/17/us/politics/bill-pulte-spy-agency.html"
+        "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
+        "link": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israel's Ben Gvir set to attend UN policing conference in New York next month",
-        "link": "https://www.middleeasteye.net/news/ben-gvir-set-attend-un-policing-conference-new-york-next-month"
+        "title": "US-Iran deal leaves Israel isolated and Netanyahu exposed",
+        "link": "https://www.middleeasteye.net/news/us-iran-deal-leaves-israel-isolated-and-netanyahu-exposed"
       },
       {
-        "title": "Israeli military: Our forces are operating in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-our-forces-are-operating-southern-lebanon"
+        "title": "Israeli forces kill three people in southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-three-people-southern-lebanon"
       },
       {
-        "title": "Trump brands critics who think he's been too soft on Iran 'stupid'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-brands-critics-who-think-hes-been-too-soft-iran-fools"
+        "title": "Former senior Israeli officials issue 'final warning' over West Bank settler terror",
+        "link": "https://www.middleeasteye.net/news/former-senior-israeli-officials-issue-final-warning-netanyahu-over-west-bank-settler-terror"
       },
       {
-        "title": "Hegseth announces review of US troop deployment in Europe",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hegseth-announces-review-us-troop-deployment-europe"
+        "title": "US and Israeli nuclear weapons 'brought no advantage in talks'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-israeli-nuclear-weapons-brought-no-advantage-talks"
       },
       {
-        "title": "Saudi supertankers sail through Strait of Hormuz following Iran deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-supertankers-sail-through-strait-hormuz-following-iran-deal"
+        "title": "'This was not easy': Trump and Iran sign interim ceasefire deal in France",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/was-not-easy-trump-and-iran-sign-interim-ceasefire-deal-france"
       }
     ],
     "GeoTV": [
       {
-        "title": "India learns to live with hotter summers",
-        "link": "https://www.geo.tv/latest/669264-india-learns-to-live-with-hotter-summers"
+        "title": "Prince Harry's donation to Children: Truth revealed",
+        "link": "https://www.geo.tv/latest/669308-prince-harrys-donation-to-children-truth-revealed"
       },
       {
-        "title": "Sherwood Forest's 1,000-year-old Major Oak is dead: have long, dry summers taken their toll?",
-        "link": "https://www.geo.tv/latest/669265-sherwood-forests-1000-year-old-major-oak-is-dead"
+        "title": "GTA 6 update: Rockstar drops cover art with pre-orders starting from June 25",
+        "link": "https://www.geo.tv/latest/669316-gta-6-update-rockstar-drops-cover-art-with-pre-orders-starting-from-june-25"
       },
       {
-        "title": "Prince William talks about mental well-being amid Beatrice, Eugenie crisis",
-        "link": "https://www.geo.tv/latest/669263-prince-william-talks-about-mental-well-being-amid-beatrice-eugenie-crisis"
+        "title": "Princess Kate faces tough test post-cancer: 'Huge burden'",
+        "link": "https://www.geo.tv/latest/669290-princess-kate-faces-tough-test-post-cancer-huge-burden"
       },
       {
-        "title": "IHC orders jail authorities to provide signed power of attorneys for Imran, Bushra",
-        "link": "https://www.geo.tv/latest/669267-ihc-orders-jail-authorities-to-provide-signed-power-of-attorneys-for-imran-bushra"
+        "title": "New York Knicks Championship Parade route, start time, how to watch",
+        "link": "https://www.geo.tv/latest/669314-new-york-knicks-championship-parade-route-start-time-how-to-watch"
       },
       {
-        "title": "Hegseth hails defence progress by Nato allies, says some must ´do more´",
-        "link": "https://www.geo.tv/latest/669268-hegseth-hails-defence-progress-by-nato-allies-says-some-must-do-more"
+        "title": "Justice Department denaturalization push targets 250 cases by October: See who are at risk",
+        "link": "https://www.geo.tv/latest/669315-justice-department-denaturalization-push-targets-250-cases-by-october-see-who-are-at-risk"
       }
     ],
     "NDTV": [
       {
-        "title": "Stock Market Highlights, Sensex Today: Sensex, Nifty Close Flat As US-Iran Sign MoU, Oil Drops",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-18-june-donald-trump-us-iran-peace-deal-oil-prices-11652260#publisher=newsstand"
+        "title": "Cross-Voting In Jharkhand Powers BJP-Backed Candidate To Rajya Sabha",
+        "link": "https://www.ndtv.com/india-news/cross-voting-in-jharkhand-powers-bjp-backed-candidate-to-rajya-sabha-11655226#publisher=newsstand"
       },
       {
-        "title": "UAE Announces Social Media Ban For Children Under 15",
-        "link": "https://www.ndtv.com/world-news/uae-announces-social-media-ban-for-children-under-15-11654031#publisher=newsstand"
+        "title": "Alleged Bomb Attack On BJP Workers In Bengal's Karimpur, Five Injured",
+        "link": "https://www.ndtv.com/india-news/alleged-bomb-attack-on-bjp-workers-in-bengals-karimpur-five-injured-11655278#publisher=newsstand"
       },
       {
-        "title": "Opinion: Trump's Iran War: Was It Worth It?",
-        "link": "https://www.ndtv.com/opinion/trumps-iran-war-was-it-worth-it-11653807#publisher=newsstand"
+        "title": "Trump May Have Won Iran War Militarily, He Lost The Negotiation",
+        "link": "https://www.ndtv.com/india-news/us-iran-war-us-iran-deal-tehran-donald-trump-mojtaba-khamenei-iran-us-agreement-trump-may-have-won-iran-war-militarily-he-lost-the-negotiation-11655231#publisher=newsstand"
       },
       {
-        "title": "Why India's New Data Law Is A Costly Wake-Up Call",
-        "link": "https://www.ndtv.com/business-news/digital-personal-data-protection-dpdp-act-privacy-cyber-security-india-startup-ai-11648440#publisher=newsstand"
+        "title": "Rare, Under-Studied Goat-Antelope Spotted In Sikkim After Nearly 3 Decades",
+        "link": "https://www.ndtv.com/india-news/mishmi-takin-rare-under-studied-goat-antelope-spotted-in-sikkim-after-nearly-3-decades-11654875#publisher=newsstand"
       },
       {
-        "title": "Powerful El Nino To Impact Global Weather Through 2027, Scientists Warn",
-        "link": "https://www.ndtv.com/india-news/powerful-el-nino-to-impact-global-weather-through-2027-scientists-warn-11653945#publisher=newsstand"
+        "title": "Trump Called Obama's Iran Deal 'Horrible'. How 2026 Memorandum Compares",
+        "link": "https://www.ndtv.com/world-news/us-iran-deal-iran-war-nuclear-dealtrump-called-obamas-iran-deal-horrible-how-2026-memorandum-compares-11655160#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-18 10:56 UTC"
+  "last_updated": "2026-06-18 14:11 UTC"
 }
