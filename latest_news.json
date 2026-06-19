@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Eyewitnesses describe injuries and confusion of Bedford train crash",
+        "link": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Video shows scene of Bedford train crash as passenger describes aftermath",
         "link": "https://www.bbc.com/news/videos/c8d21z2q77do?at_medium=RSS&at_campaign=rss"
       },
@@ -17,32 +21,28 @@
       {
         "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
         "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Boy, 3, hurt at zoo was attacked by a crocodile",
-        "link": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Iran deputy FM says ‘ready to move forward’ in deal with US",
-        "link": "https://www.aljazeera.com/news/2026/6/19/iran-deputy-fm-says-ready-to-move-forward-in-deal-with-us?traffic_source=rss"
+        "title": "Canada’s Kone undergoes major leg surgery; to miss rest of World Cup",
+        "link": "https://www.aljazeera.com/sports/2026/6/19/canadas-kone-undergoes-major-leg-surgery-to-miss-rest-of-world-cup?traffic_source=rss"
       },
       {
-        "title": "Norway seeks to ban trade with illegal Israeli settlements in Palestine",
-        "link": "https://www.aljazeera.com/news/2026/6/19/norway-seeks-to-ban-trade-with-illegal-israeli-settlements-in-palestine?traffic_source=rss"
+        "title": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
+        "link": "https://www.aljazeera.com/news/2026/6/19/does-trump-have-to-submit-the-iran-memorandum-of-understanding-to-congress?traffic_source=rss"
       },
       {
-        "title": "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
-        "link": "https://www.aljazeera.com/video/head-to-head/2026/6/19/iran-war-success-or-disaster-mehdi-hasan-and-david-des-roches?traffic_source=rss"
+        "title": "US announces new round of Israel-Lebanon talks in Washington next week",
+        "link": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss"
       },
       {
-        "title": "How is the Iran-US agreement being viewed in Israel?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/6/19/how-is-the-iran-us-agreement-being-viewed-in-israel?traffic_source=rss"
+        "title": "Italian Prime Minister says she didn’t ‘beg’ Trump for G7 photograph",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/italian-prime-minister-says-she-didnt-beg-trump-for-g7-photograph?traffic_source=rss"
       },
       {
-        "title": "Injuries reported as two trains collide north of London",
-        "link": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss"
+        "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
+        "link": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,8 +93,8 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Stranded Ships Hoping for Escape Find a Turbulent Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/06/19/business/iran-us-hormuz-shipping.html"
+        "title": "Israel Is Likely to Continue Attacks in Lebanon, U.S. Intelligence Concludes",
+        "link": "https://www.nytimes.com/2026/06/19/us/politics/israel-lebanon-trump-cease-fire.html"
       },
       {
         "title": "Inside Hegseth’s War on Diversity and Blocked Promotions of Women and Black Officers",
@@ -115,27 +115,35 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Norway moves to cut trade with illegal Israeli settlements",
+        "title": "'This must end': Norway moves to cut trade with illegal Israeli settlements",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/must-end-norway-moves-cut-trade-illegal-israeli-settlements"
+      },
+      {
+        "title": "Trump warns Iran must reach deal within 60 days",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-warns-iran-must-reach-deal-within-60-days"
+      },
+      {
+        "title": "Trump boasts of Iran attacks at Air Force One event",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-boasts-iran-attacks-air-force-one-event"
+      },
+      {
+        "title": "'This must end': Norway moves to cut trade with illegal Israeli settlements",
         "link": "https://www.middleeasteye.net/news/norway-moves-cut-trade-ties-israels-illegal-settlement-economy"
       },
       {
         "title": "Trump thanks China for staying out of Iran conflict",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-thanks-china-staying-out-iran-conflict"
-      },
-      {
-        "title": "Trump heads to Camp David as Iran talks stall",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-heads-camp-david-iran-talks-stall"
-      },
-      {
-        "title": "UN calls on RSF to cease imminent offensive on Sudan’s el-Obeid",
-        "link": "https://www.middleeasteye.net/news/un-calls-rsf-cease-imminent-offensive-sudans-el-obeid"
-      },
-      {
-        "title": "Trump says he urged Israel to accept Hezbollah ceasefire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-urged-israel-accept-hezbollah-ceasefire"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Trump unveils Qatari 747 ahead of joining Air Force One fleet",
+        "link": "https://www.geo.tv/latest/669533-trump-unveils-qatari-747-ahead-of-joining-air-force-one-fleet"
+      },
+      {
+        "title": "Hailee Steinfeld daughter's name revealed",
+        "link": "https://www.geo.tv/latest/669534-hailee-steinfeld-daughters-name-revealed"
+      },
       {
         "title": "‘Jujutsu Kaisen' Season 4 teaser trailer drops major hints: Know subtle details you've missed",
         "link": "https://www.geo.tv/latest/669532-jujutsu-kaisen-season-4-teaser-trailer-drops-major-hints-know-subtle-details-youve-missed"
@@ -147,14 +155,6 @@
       {
         "title": "Google confirms timeline for android developer verification: Know about new sideloading rules",
         "link": "https://www.geo.tv/latest/669529-google-confirms-timeline-for-android-developer-verification-know-about-new-sideloading-rules"
-      },
-      {
-        "title": "King Charles and Queen Camilla nearly in tears on missing out on Ascot glory",
-        "link": "https://www.geo.tv/latest/669525-king-charles-and-queen-camilla-nearly-in-tears-on-missing-out-on-ascot-glory"
-      },
-      {
-        "title": "Christian Pulisic ruled out of crucial USA World Cup clash against Australia",
-        "link": "https://www.geo.tv/latest/669527-christian-pulisic-ruled-out-of-crucial-usa-world-cup-clash-against-australia"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-19 20:44 UTC"
+  "last_updated": "2026-06-19 21:52 UTC"
 }
