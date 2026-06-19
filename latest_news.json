@@ -3,16 +3,16 @@
   "news": {
     "BBC": [
       {
-        "title": "Eyewitnesses describe injuries and confusion of Bedford train crash",
+        "title": "'People flew from their seats': Passengers describe how crash unfolded",
         "link": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Video shows scene of Bedford train crash as passenger describes aftermath",
-        "link": "https://www.bbc.com/news/videos/c8d21z2q77do?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "What we know so far about Bedford train crash",
         "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Video shows scene of collision as passenger speaks about aftermath",
+        "link": "https://www.bbc.com/news/videos/c8d21z2q77do?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
@@ -25,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Thirty dead at DRC displacement camp as Ebola threat grows",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_thirty-dead-at-drc-displacement-camp-ebola-threat-190626?traffic_source=rss"
+      },
+      {
+        "title": "USA beat Australia 2–0 to book knockout spot at World Cup",
+        "link": "https://www.aljazeera.com/sports/2026/6/19/usa-beat-australia-2-0-to-book-knockout-spot-at-world?traffic_source=rss"
+      },
+      {
+        "title": "Spain’s Yamal says ‘very early, unnecessary’ to play full World Cup match",
+        "link": "https://www.aljazeera.com/sports/2026/6/19/spains-yamal-says-very-early-unnecessary-to-play-full-world-cup-match?traffic_source=rss"
+      },
+      {
         "title": "Canada’s Kone undergoes major leg surgery; to miss rest of World Cup",
         "link": "https://www.aljazeera.com/sports/2026/6/19/canadas-kone-undergoes-major-leg-surgery-to-miss-rest-of-world-cup?traffic_source=rss"
       },
       {
         "title": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
         "link": "https://www.aljazeera.com/news/2026/6/19/does-trump-have-to-submit-the-iran-memorandum-of-understanding-to-congress?traffic_source=rss"
-      },
-      {
-        "title": "US announces new round of Israel-Lebanon talks in Washington next week",
-        "link": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss"
-      },
-      {
-        "title": "Italian Prime Minister says she didn’t ‘beg’ Trump for G7 photograph",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/italian-prime-minister-says-she-didnt-beg-trump-for-g7-photograph?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
-        "link": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran lawmaker warns US over ceasefire violations",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-lawmaker-warns-us-over-ceasefire-violations"
+      },
+      {
         "title": "'This must end': Norway moves to cut trade with illegal Israeli settlements",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/must-end-norway-moves-cut-trade-illegal-israeli-settlements"
       },
@@ -129,13 +133,17 @@
       {
         "title": "'This must end': Norway moves to cut trade with illegal Israeli settlements",
         "link": "https://www.middleeasteye.net/news/norway-moves-cut-trade-ties-israels-illegal-settlement-economy"
-      },
-      {
-        "title": "Trump thanks China for staying out of Iran conflict",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-thanks-china-staying-out-iran-conflict"
       }
     ],
     "GeoTV": [
+      {
+        "title": "James Burrows dies: ‘Cheers' creator and famous director was 85",
+        "link": "https://www.geo.tv/latest/669542-james-burrows-dies-cheers-creator-and-famous-director-was-85"
+      },
+      {
+        "title": "Katy Perry takes jab at past romances Orlando Bloom, John Mayer at show",
+        "link": "https://www.geo.tv/latest/669540-katy-perry-takes-jab-at-past-romances-orlando-bloom-john-mayer-at-show"
+      },
       {
         "title": "Trump unveils Qatari 747 ahead of joining Air Force One fleet",
         "link": "https://www.geo.tv/latest/669533-trump-unveils-qatari-747-ahead-of-joining-air-force-one-fleet"
@@ -147,17 +155,17 @@
       {
         "title": "‘Jujutsu Kaisen' Season 4 teaser trailer drops major hints: Know subtle details you've missed",
         "link": "https://www.geo.tv/latest/669532-jujutsu-kaisen-season-4-teaser-trailer-drops-major-hints-know-subtle-details-youve-missed"
-      },
-      {
-        "title": "ECGB notifies official results for 21 of 24 Gilgit-Baltistan constituencies",
-        "link": "https://www.geo.tv/latest/669526-ecgb-notifies-official-results-for-21-of-24-gilgit-baltistan-constituencies"
-      },
-      {
-        "title": "Google confirms timeline for android developer verification: Know about new sideloading rules",
-        "link": "https://www.geo.tv/latest/669529-google-confirms-timeline-for-android-developer-verification-know-about-new-sideloading-rules"
       }
     ],
     "NDTV": [
+      {
+        "title": "Trump Says He Is Going To Turkey, China This Year",
+        "link": "https://www.ndtv.com/world-news/donald-trump-says-he-is-going-to-turkey-china-this-year-11661818#publisher=newsstand"
+      },
+      {
+        "title": "1 Dead, Several Injured In UK Train Collision: Police",
+        "link": "https://www.ndtv.com/world-news/two-trains-collide-near-london-injuries-reported-11661536#publisher=newsstand"
+      },
       {
         "title": "AK-47 Rifle, 26 Pistols Seized Near Indo-Pak Border In Amritsar, 1 Arrested",
         "link": "https://www.ndtv.com/india-news/ak-47-rifle-26-pistols-seized-near-indo-pak-border-in-amritsar-1-arrested-11661740#publisher=newsstand"
@@ -169,14 +177,6 @@
       {
         "title": "India Secures Historic Vice-Presidency Of Anti-Money Laundering Body FATF",
         "link": "https://www.ndtv.com/world-news/india-secures-historic-fatf-vice-presidency-signals-financial-leadership-11661653#publisher=newsstand"
-      },
-      {
-        "title": "Gulf Nations Now Realise US Alignment Comes At A Cost: Ravi Agrawal",
-        "link": "https://www.ndtv.com/world-news/gulf-nations-now-realise-us-alignment-comes-at-a-cost-ravi-agrawal-11661639#publisher=newsstand"
-      },
-      {
-        "title": "\"PM Modi Great Leader, Stays Out Of Wars, Which Is Smart\": Trump",
-        "link": "https://www.ndtv.com/world-news/donald-trump-says-pm-modi-great-leader-stays-out-of-wars-which-is-smart-11661637#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-19 21:52 UTC"
+  "last_updated": "2026-06-19 22:48 UTC"
 }
