@@ -1,7 +1,17 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Iran LIVE Updates: US Says It Has Lifted Naval Blockade Of Iranian Ports",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-peace-deal-strait-of-hormuz-live-updates-protests-trump-israel-netanyahu-oil-prices-11641718#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Scottish Conservatives win first Westminster by-election in more than 50 years",
+        "link": "https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
         "link": "https://www.bbc.com/news/articles/czx50n2vj74o?at_medium=RSS&at_campaign=rss"
@@ -15,34 +25,30 @@
         "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Teacher who murdered adopted baby son Preston Davey given whole life prison sentence",
-        "link": "https://www.bbc.com/news/articles/czrx8gj112mo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
-        "link": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss"
+        "title": "The pressure on the Church of England to ditch its slavery reparations plan",
+        "link": "https://www.bbc.com/news/articles/c5yz43n9513o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "US judge orders release of Palestinian rights advocate detained by ICE",
-        "link": "https://www.aljazeera.com/news/2026/6/18/us-judge-orders-release-of-palestinian-rights-advocate-detained-by-ice?traffic_source=rss"
+        "title": "Canada vs Qatar World Cup: 3 goals for David, 2 red cards, 1 injured Kone",
+        "link": "https://www.aljazeera.com/sports/2026/6/19/canada-vs-qatar-world-cup-3-goals-for-david-2-red-cards-1-injured-kone?traffic_source=rss"
       },
       {
-        "title": "Switzerland beat Bosnia and Herzegovina 4-1, top Group B in World Cup",
-        "link": "https://www.aljazeera.com/sports/2026/6/18/switzerland-beat-bosnia-and-herzegovina-4-1-top-group-b-in-world-cup?traffic_source=rss"
+        "title": "Obama opens presidential centre with call for unity",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/obama-opens-presidential-centre-with-call-for-unity?traffic_source=rss"
       },
       {
-        "title": "Mamdani gives New York Knicks keys to city after NBA title",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/mamdani-gives-new-york-knicks-keys-to-city-after-nba-title?traffic_source=rss"
+        "title": "Paint peeling after $14 million memorial pool renovation",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/paint-peeling-after-14-million-memorial-pool-renovation?traffic_source=rss"
       },
       {
-        "title": "Are prices really dropping in the US, as Trump claims?",
-        "link": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss"
+        "title": "EU won’t lift key Iran sanctions until formal nuclear deal reached",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/eu-wont-lift-key-iran-sanctions-until-formal-nuclear-deal-reached?traffic_source=rss"
       },
       {
-        "title": "Cuba’s Communist Party approves opening economy in unprecedented move",
-        "link": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss"
+        "title": "Zimbabwe bill to scrap presidential elections sparks backlash",
+        "link": "https://www.aljazeera.com/news/2026/6/19/zimbabwe-bill-to-scrap-presidential-elections-sparks-backlash?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,12 +84,12 @@
         "link": "https://www.dawn.com/news/2008928/wake-up-us-vp-vance-rebukes-israeli-critics-of-iran-deal"
       },
       {
-        "title": "Pakistan assails 17 Indian projects on Indus waterways, calls them ‘tools for hydro-hegemony’",
-        "link": "https://www.dawn.com/news/2008889/pakistan-assails-17-indian-projects-on-indus-waterways-calls-them-tools-for-hydro-hegemony"
-      },
-      {
         "title": "Police, CCD admit 'mistake' in Chakwal girl shooting, assure incident will not be covered up or defended",
         "link": "https://www.dawn.com/news/2008924/police-ccd-admit-mistake-in-chakwal-girl-shooting-assure-incident-will-not-be-covered-up-or-defended"
+      },
+      {
+        "title": "Pakistan assails 17 Indian projects on Indus waterways, calls them ‘tools for hydro-hegemony’",
+        "link": "https://www.dawn.com/news/2008889/pakistan-assails-17-indian-projects-on-indus-waterways-calls-them-tools-for-hydro-hegemony"
       },
       {
         "title": "South Africa hold Czechs, keep World Cup knockout dream alive",
@@ -93,6 +99,10 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims",
+        "link": "https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html"
+      },
+      {
         "title": "Iran and the U.S. Have an Understanding. Will It Lead to a Deal?",
         "link": "https://www.nytimes.com/2026/06/18/world/europe/iran-united-states-deal-israel.html"
       },
@@ -101,38 +111,34 @@
         "link": "https://www.nytimes.com/2026/06/18/briefing/vance-issues-a-blunt-warning-to-israel.html"
       },
       {
-        "title": "Ukraine Strikes Moscow Refinery in Large-Scale Drone Attack",
-        "link": "https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html"
+        "title": "Firm Tied to Trump Donor Got No-Bid Contract to Clean Reflecting Pool",
+        "link": "https://www.nytimes.com/2026/06/18/us/politics/trump-donor-contract-reflecting-pool.html"
       },
       {
-        "title": "A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’",
-        "link": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html"
-      },
-      {
-        "title": "NYC Erupts in Celebration Over Knicks Championship Win",
-        "link": "https://www.nytimes.com/2026/06/18/nyregion/knicks-championship-parade-celebration-nyc.html"
+        "title": "Trump Redirects Millions From Secret Service Amid White House Construction",
+        "link": "https://www.nytimes.com/2026/06/18/us/politics/trump-ballroom-security-secret-service-white-house.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iranian negotiators delay Switzerland talks trip after Israeli strikes in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-nuclear-team-delays-departure-switzerland-talks-over-israeli"
+        "title": "Vance postpones trip for US-Iran talks on Friday in Switzerland",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-postpones-trip-us-iran-talks-friday-switzerland"
       },
       {
-        "title": "Israeli artillery shelling kill Palestinian in central Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-artillery-shelling-kill-palestinian-central-gaza"
+        "title": "US-Iran agreement: What does the MoU actually include?",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-iran-agreement-what-does-mou-actually-include"
       },
       {
-        "title": "Death toll from Israeli attacks on Gaza since ceasefire passes 1,000",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-attacks-gaza-ceasefire-passes-1000"
+        "title": "Trump says war on Iran showed 'no limits' to his power",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-war-iran-showed-no-limits-his-power"
       },
       {
-        "title": "'We have lost': Trump's Iran pact seen as a strategic defeat in Washington",
-        "link": "https://www.middleeasteye.net/news/we-have-lost-trump-iran-pact-seen-strategic-defeat-washington"
+        "title": "Iranian official says breaches of deal with US will 'receive an even harder slap'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-says-us-will-receive-even-harder-slap-if-deal-breached"
       },
       {
-        "title": "Israeli army reservist 'flees' India after war crimes allegation filed",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-reservist-flees-india-after-war-crimes-allegation-filed"
+        "title": "US says it lifted blockade on Iranian ports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-lifted-blockade-iranian-ports"
       }
     ],
     "GeoTV": [
@@ -159,24 +165,24 @@
     ],
     "NDTV": [
       {
-        "title": "India, Germany Strengthen Renewables Partnership For Energy Security",
-        "link": "https://www.ndtv.com/india-news/india-germany-strengthen-renewables-partnership-for-energy-security-11657145#publisher=newsstand"
-      },
-      {
-        "title": "As Iran Deal Kicks In, US Gas Prices Dip Below $4 For 1st Time Since March",
-        "link": "https://www.ndtv.com/world-news/as-iran-deal-kicks-in-us-gas-prices-dip-below-4-for-1st-time-since-march-11657082#publisher=newsstand"
-      },
-      {
-        "title": "PM To Release PM-Kisan Installment Tomorrow, Benefiting 9.5 Crore Farmers",
-        "link": "https://www.ndtv.com/world-news/pm-modi-to-release-pm-kisan-installment-tomorrow-benefiting-9-5-crore-farmers-11656974#publisher=newsstand"
-      },
-      {
         "title": "\"Smell The Reality\": JD Vance Slams Israel For Criticising Iran Deal",
         "link": "https://www.ndtv.com/world-news/iran-war-jd-vance-slams-israel-for-criticising-iran-deal-11656889#publisher=newsstand"
       },
       {
-        "title": "US Lifts Iran Ports Blockade Ahead Of Swiss Ceremony",
-        "link": "https://www.ndtv.com/world-news/iran-war-us-lifts-iran-ports-blockade-ahead-of-swiss-ceremony-11656849#publisher=newsstand"
+        "title": "India Emerging As \"Trusted Partner\" To The World: PM Modi In France",
+        "link": "https://www.ndtv.com/india-news/india-emerging-as-trusted-partner-to-the-world-pm-modi-in-france-11657273#publisher=newsstand"
+      },
+      {
+        "title": "\"Blunder\": Republicans Blast Trump's Iran Agreement",
+        "link": "https://www.ndtv.com/world-news/republicans-blast-trumps-iran-agreement-11657241#publisher=newsstand"
+      },
+      {
+        "title": "US Faces Tough Path To New Iran Nuclear Deal",
+        "link": "https://www.ndtv.com/world-news/us-faces-tough-path-to-new-iran-nuclear-deal-11657230#publisher=newsstand"
+      },
+      {
+        "title": "US-Iran LIVE Updates: US Says It Has Lifted Naval Blockade Of Iranian Ports",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-peace-deal-strait-of-hormuz-live-updates-protests-trump-israel-netanyahu-oil-prices-11641718#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-18 23:26 UTC"
+  "last_updated": "2026-06-19 02:18 UTC"
 }
