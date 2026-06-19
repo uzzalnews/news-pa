@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Driver dead and 33 people seriously injured as Bedford train crash declared major incident",
+        "link": "https://www.bbc.com/news/articles/cr7xzg93ddxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "'People flew from their seats': Passengers describe how crash unfolded",
         "link": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,13 @@
       {
         "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
         "link": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-        "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US judge rejects Joe Biden’s lawsuit asking to withhold memoir recordings",
+        "link": "https://www.aljazeera.com/news/2026/6/19/us-judge-rejects-joe-bidens-lawsuit-asking-to-withhold-memoir-recordings?traffic_source=rss"
+      },
       {
         "title": "Thirty dead at DRC displacement camp as Ebola threat grows",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_thirty-dead-at-drc-displacement-camp-ebola-threat-190626?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Canada’s Kone undergoes major leg surgery; to miss rest of World Cup",
         "link": "https://www.aljazeera.com/sports/2026/6/19/canadas-kone-undergoes-major-leg-surgery-to-miss-rest-of-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
-        "link": "https://www.aljazeera.com/news/2026/6/19/does-trump-have-to-submit-the-iran-memorandum-of-understanding-to-congress?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -101,12 +101,12 @@
         "link": "https://www.nytimes.com/2026/06/19/us/politics/hegseth-navy-blocked-promotions-diversity.html"
       },
       {
-        "title": "U.S. to End AIDS Funding for South Africa",
-        "link": "https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html"
+        "title": "The Reflecting Pool Appears to Be Rejecting Its Makeover",
+        "link": "https://www.nytimes.com/2026/06/19/us/politics/reflecting-pool-paint-algae.html"
       },
       {
-        "title": "During Trump’s Immigration Crackdown, Minnesota Protester Remained Shackled in Hospital for Days",
-        "link": "https://www.nytimes.com/2026/06/18/us/minnesota-protester-isolation-trump-immigration-crackdown.html"
+        "title": "U.S. to End AIDS Funding for South Africa",
+        "link": "https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html"
       },
       {
         "title": "Italy Doesn’t ‘Beg,’ Giorgia Meloni Tells Trump",
@@ -115,27 +115,31 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iranian lawmaker accuses US of violating first clause of MoU",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-lawmaker-accuses-us-violating-first-clause-mou"
+      },
+      {
+        "title": "Israeli settlers vandalise Palestinian home in West Bank, report says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-vandalise-palestinian-home-west-bank-report-says"
+      },
+      {
+        "title": "Iran agreement sparks debate across Capitol Hill",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-agreement-sparks-debate-across-capitol-hill"
+      },
+      {
+        "title": "'All of Lebanon must burn,' Israeli minister Ben Gvir declares",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/all-lebanon-must-burn-israeli-minister-ben-gvir-declares"
+      },
+      {
         "title": "Iran lawmaker warns US over ceasefire violations",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-lawmaker-warns-us-over-ceasefire-violations"
-      },
-      {
-        "title": "'This must end': Norway moves to cut trade with illegal Israeli settlements",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/must-end-norway-moves-cut-trade-illegal-israeli-settlements"
-      },
-      {
-        "title": "Trump warns Iran must reach deal within 60 days",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-warns-iran-must-reach-deal-within-60-days"
-      },
-      {
-        "title": "Trump boasts of Iran attacks at Air Force One event",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-boasts-iran-attacks-air-force-one-event"
-      },
-      {
-        "title": "'This must end': Norway moves to cut trade with illegal Israeli settlements",
-        "link": "https://www.middleeasteye.net/news/norway-moves-cut-trade-ties-israels-illegal-settlement-economy"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Julia Roberts celebrates birthday of 19-year-old son Henry",
+        "link": "https://www.geo.tv/latest/669543-julia-roberts-celebrates-birthday-of-19-year-old-son-henry"
+      },
       {
         "title": "James Burrows dies: ‘Cheers' creator and famous director was 85",
         "link": "https://www.geo.tv/latest/669542-james-burrows-dies-cheers-creator-and-famous-director-was-85"
@@ -145,19 +149,23 @@
         "link": "https://www.geo.tv/latest/669540-katy-perry-takes-jab-at-past-romances-orlando-bloom-john-mayer-at-show"
       },
       {
+        "title": "US advance to last 32 with comfortable victory over Australia",
+        "link": "https://www.geo.tv/latest/669541-us-advance-to-last-32-with-comfortable-victory-over-australia"
+      },
+      {
         "title": "Trump unveils Qatari 747 ahead of joining Air Force One fleet",
         "link": "https://www.geo.tv/latest/669533-trump-unveils-qatari-747-ahead-of-joining-air-force-one-fleet"
-      },
-      {
-        "title": "Hailee Steinfeld daughter's name revealed",
-        "link": "https://www.geo.tv/latest/669534-hailee-steinfeld-daughters-name-revealed"
-      },
-      {
-        "title": "‘Jujutsu Kaisen' Season 4 teaser trailer drops major hints: Know subtle details you've missed",
-        "link": "https://www.geo.tv/latest/669532-jujutsu-kaisen-season-4-teaser-trailer-drops-major-hints-know-subtle-details-youve-missed"
       }
     ],
     "NDTV": [
+      {
+        "title": "\"World's Most Luxurious Plane\": Trump Unveils Qatar-Gifted Air Force One",
+        "link": "https://www.ndtv.com/world-news/qatar-gifted-air-force-one-replacement-unveiled-11661845#publisher=newsstand"
+      },
+      {
+        "title": "Trump Says He Urged Israel To Agree To Ceasefire Deal With Hezbollah",
+        "link": "https://www.ndtv.com/world-news/donald-trump-says-he-urged-israel-to-agree-to-ceasefire-deal-with-hezbollah-11661891#publisher=newsstand"
+      },
       {
         "title": "Trump Says He Is Going To Turkey, China This Year",
         "link": "https://www.ndtv.com/world-news/donald-trump-says-he-is-going-to-turkey-china-this-year-11661818#publisher=newsstand"
@@ -169,14 +177,6 @@
       {
         "title": "AK-47 Rifle, 26 Pistols Seized Near Indo-Pak Border In Amritsar, 1 Arrested",
         "link": "https://www.ndtv.com/india-news/ak-47-rifle-26-pistols-seized-near-indo-pak-border-in-amritsar-1-arrested-11661740#publisher=newsstand"
-      },
-      {
-        "title": "Kantara Actor Rukmini Vasanth Files Complaint Over Morphed Images, 3 Arrested",
-        "link": "https://www.ndtv.com/india-news/kantara-actor-rukmini-vasanth-files-complaint-over-morphed-images-3-arrested-11661580#publisher=newsstand"
-      },
-      {
-        "title": "India Secures Historic Vice-Presidency Of Anti-Money Laundering Body FATF",
-        "link": "https://www.ndtv.com/world-news/india-secures-historic-fatf-vice-presidency-signals-financial-leadership-11661653#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-19 22:48 UTC"
+  "last_updated": "2026-06-19 23:54 UTC"
 }
