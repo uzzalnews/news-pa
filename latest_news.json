@@ -3,12 +3,16 @@
   "news": {
     "BBC": [
       {
-        "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
-        "link": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss"
+        "title": "Video shows scene of Bedford train crash as passenger describes aftermath",
+        "link": "https://www.bbc.com/news/videos/c8d21z2q77do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Henry Zeffman: What does Keir Starmer do next after Andy Burnham's Makerfield win?",
-        "link": "https://www.bbc.com/news/articles/c3ryp0nejdro?at_medium=RSS&at_campaign=rss"
+        "title": "What we know so far about Bedford train crash",
+        "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
+        "link": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
@@ -17,32 +21,28 @@
       {
         "title": "Boy, 3, hurt at zoo was attacked by a crocodile",
         "link": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Neither I nor Italy ever beg': Meloni says Trump made up story about photo",
-        "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Iran deputy FM says ‘ready to move forward’ in deal with US",
+        "link": "https://www.aljazeera.com/news/2026/6/19/iran-deputy-fm-says-ready-to-move-forward-in-deal-with-us?traffic_source=rss"
+      },
+      {
+        "title": "Norway seeks to ban trade with illegal Israeli settlements in Palestine",
+        "link": "https://www.aljazeera.com/news/2026/6/19/norway-seeks-to-ban-trade-with-illegal-israeli-settlements-in-palestine?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
+        "link": "https://www.aljazeera.com/video/head-to-head/2026/6/19/iran-war-success-or-disaster-mehdi-hasan-and-david-des-roches?traffic_source=rss"
+      },
       {
         "title": "How is the Iran-US agreement being viewed in Israel?",
         "link": "https://www.aljazeera.com/video/inside-story/2026/6/19/how-is-the-iran-us-agreement-being-viewed-in-israel?traffic_source=rss"
       },
       {
-        "title": "Two trains collide near Bedford, north of London",
+        "title": "Injuries reported as two trains collide north of London",
         "link": "https://www.aljazeera.com/news/2026/6/19/two-trains-collide-near-bedford-north-of-london?traffic_source=rss"
-      },
-      {
-        "title": "Backlash for UK MP who linked England World Cup result to women’s safety",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/backlash-for-uk-mp-who-linked-england-world-cup-result-to-womens-safety?traffic_source=rss"
-      },
-      {
-        "title": "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’",
-        "link": "https://www.aljazeera.com/news/2026/6/19/more-than-70-medics-infected-with-ebola-as-drc-outbreak-spreads-fast?traffic_source=rss"
-      },
-      {
-        "title": "Dramatic rescue as fire rips through school in Japan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_dramatic-rescue-fire-rips-through-school-in-japan-190626?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -101,8 +101,8 @@
         "link": "https://www.nytimes.com/2026/06/19/us/politics/hegseth-navy-blocked-promotions-diversity.html"
       },
       {
-        "title": "Trump’s Intelligence Pick Renews Debate: Is the Director of National Intelligence Needed?",
-        "link": "https://www.nytimes.com/2026/06/18/us/politics/director-national-intelligence-pulte-gabbard-clayton.html"
+        "title": "U.S. to End AIDS Funding for South Africa",
+        "link": "https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html"
       },
       {
         "title": "During Trump’s Immigration Crackdown, Minnesota Protester Remained Shackled in Hospital for Days",
@@ -115,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Norway moves to cut trade with illegal Israeli settlements",
+        "link": "https://www.middleeasteye.net/news/norway-moves-cut-trade-ties-israels-illegal-settlement-economy"
+      },
+      {
+        "title": "Trump thanks China for staying out of Iran conflict",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-thanks-china-staying-out-iran-conflict"
+      },
+      {
+        "title": "Trump heads to Camp David as Iran talks stall",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-heads-camp-david-iran-talks-stall"
+      },
+      {
         "title": "UN calls on RSF to cease imminent offensive on Sudan’s el-Obeid",
         "link": "https://www.middleeasteye.net/news/un-calls-rsf-cease-imminent-offensive-sudans-el-obeid"
       },
       {
         "title": "Trump says he urged Israel to accept Hezbollah ceasefire",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-urged-israel-accept-hezbollah-ceasefire"
-      },
-      {
-        "title": "Iran plans to charge insurance fees to vessels in Hormuz after US deal expires",
-        "link": "https://www.middleeasteye.net/news/iran-plans-charge-insurance-fee-vessels-transiting-hormuz-after-us-deal-expires"
-      },
-      {
-        "title": "Israeli strike on Gaza tent wounds five Palestinians",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-tent-wounds-five-palestinians"
-      },
-      {
-        "title": "An organisation in 'crisis': Jewish anti-Zionists hit back at Board of Deputies",
-        "link": "https://www.middleeasteye.net/news/organisation-crisis-jewish-anti-zionists-hit-back-board-of-deputies"
       }
     ],
     "GeoTV": [
       {
-        "title": "Oliver Tree's mom breaks silence after singer's tragic death",
-        "link": "https://www.geo.tv/latest/669524-oliver-trees-mom-breaks-silence-after-singers-tragic-death"
+        "title": "‘Jujutsu Kaisen' Season 4 teaser trailer drops major hints: Know subtle details you've missed",
+        "link": "https://www.geo.tv/latest/669532-jujutsu-kaisen-season-4-teaser-trailer-drops-major-hints-know-subtle-details-youve-missed"
       },
       {
-        "title": "Princess Kate issues stark warning over decline in meaningful relationships",
-        "link": "https://www.geo.tv/latest/669521-princess-kate-issues-stark-warning-over-decline-in-meaningful-relationships"
+        "title": "ECGB notifies official results for 21 of 24 Gilgit-Baltistan constituencies",
+        "link": "https://www.geo.tv/latest/669526-ecgb-notifies-official-results-for-21-of-24-gilgit-baltistan-constituencies"
       },
       {
-        "title": "BTS drop mega news for ARMY: Wait is finally over",
-        "link": "https://www.geo.tv/latest/669520-bts-drop-mega-news-for-army-wait-is-finally-over"
+        "title": "Google confirms timeline for android developer verification: Know about new sideloading rules",
+        "link": "https://www.geo.tv/latest/669529-google-confirms-timeline-for-android-developer-verification-know-about-new-sideloading-rules"
       },
       {
-        "title": "Sixpence None the Richer bassist Justin Cary cause of death revealed",
-        "link": "https://www.geo.tv/latest/669518-sixpence-none-the-richer-bassist-justin-cary-cause-of-death-revealed"
+        "title": "King Charles and Queen Camilla nearly in tears on missing out on Ascot glory",
+        "link": "https://www.geo.tv/latest/669525-king-charles-and-queen-camilla-nearly-in-tears-on-missing-out-on-ascot-glory"
       },
       {
-        "title": "Sunscreen misinformation goes viral on TikTok: Check facts",
-        "link": "https://www.geo.tv/latest/669515-sunscreen-misinformation-goes-viral-on-tiktok-check-facts"
+        "title": "Christian Pulisic ruled out of crucial USA World Cup clash against Australia",
+        "link": "https://www.geo.tv/latest/669527-christian-pulisic-ruled-out-of-crucial-usa-world-cup-clash-against-australia"
       }
     ],
     "NDTV": [
       {
-        "title": "Implementation Of Guarantees To Change, Karnataka To Bring In New Checks",
-        "link": "https://www.ndtv.com/india-news/implementation-of-guarantees-to-change-karnataka-to-bring-in-new-checks-11661577#publisher=newsstand"
+        "title": "AK-47 Rifle, 26 Pistols Seized Near Indo-Pak Border In Amritsar, 1 Arrested",
+        "link": "https://www.ndtv.com/india-news/ak-47-rifle-26-pistols-seized-near-indo-pak-border-in-amritsar-1-arrested-11661740#publisher=newsstand"
       },
       {
-        "title": "Stealth Frigate 'Dunagiri', 2 Other Ships To Be Inducted Into Navy on Sunday",
-        "link": "https://www.ndtv.com/india-news/stealth-frigate-dunagiri-2-other-ships-to-be-inducted-into-navy-on-sunday-11661578#publisher=newsstand"
+        "title": "Kantara Actor Rukmini Vasanth Files Complaint Over Morphed Images, 3 Arrested",
+        "link": "https://www.ndtv.com/india-news/kantara-actor-rukmini-vasanth-files-complaint-over-morphed-images-3-arrested-11661580#publisher=newsstand"
       },
       {
-        "title": "India Gets Vice-Presidency Of Global Anti-Money Laundering Body FATF",
-        "link": "https://www.ndtv.com/india-news/india-gets-vice-presidency-of-global-anti-money-laundering-body-fatf-11661571#publisher=newsstand"
+        "title": "India Secures Historic Vice-Presidency Of Anti-Money Laundering Body FATF",
+        "link": "https://www.ndtv.com/world-news/india-secures-historic-fatf-vice-presidency-signals-financial-leadership-11661653#publisher=newsstand"
       },
       {
-        "title": "Massive Anti-Terror Agency NIA's Crackdown Across Manipur, 10 Arrested",
-        "link": "https://www.ndtv.com/india-news/massive-anti-terror-agency-nias-crackdown-across-manipur-10-arrested-11661526#publisher=newsstand"
+        "title": "Gulf Nations Now Realise US Alignment Comes At A Cost: Ravi Agrawal",
+        "link": "https://www.ndtv.com/world-news/gulf-nations-now-realise-us-alignment-comes-at-a-cost-ravi-agrawal-11661639#publisher=newsstand"
       },
       {
-        "title": "Two Trains Collide Near London, Injuries Reported",
-        "link": "https://www.ndtv.com/world-news/two-trains-collide-near-london-injuries-reported-11661536#publisher=newsstand"
+        "title": "\"PM Modi Great Leader, Stays Out Of Wars, Which Is Smart\": Trump",
+        "link": "https://www.ndtv.com/world-news/donald-trump-says-pm-modi-great-leader-stays-out-of-wars-which-is-smart-11661637#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-19 19:06 UTC"
+  "last_updated": "2026-06-19 20:44 UTC"
 }
