@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Iran says it has closed Strait of Hormuz over Israeli attacks in Lebanon",
+        "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Nine people in critical condition among 100 injured in fatal Bedford train crash",
         "link": "https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,17 @@
       {
         "title": "Extreme heat warning expanded as 37C heatwave approaches UK",
         "link": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Five injured in suspected anti-Muslim attacks after armed man roamed Edinburgh streets",
-        "link": "https://www.bbc.com/news/articles/cx2xg6lwz5jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
+        "link": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss"
+      },
+      {
+        "title": "Uncertain World Cup for Paraguay’s Almiron, sent off for covering his mouth",
+        "link": "https://www.aljazeera.com/sports/2026/6/20/uncertain-world-cup-for-paraguays-almiron-sent-off-for-covering-his-mouth?traffic_source=rss"
+      },
       {
         "title": "Bolivia declares state of emergency to clear protest blockades",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Netherlands vs Sweden: Gakpo, Brobbey doubles give Dutch 5–1 World Cup win",
         "link": "https://www.aljazeera.com/sports/2026/6/20/netherlands-vs-sweden-gakpo-brobbey-doubles-give-dutch-5-1-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine says Russian attack kills five people in Zaporizhzhia",
-        "link": "https://www.aljazeera.com/news/2026/6/20/ukraine-says-russian-attack-kills-five-people-in-zaporizhzhia?traffic_source=rss"
-      },
-      {
-        "title": "Are UK Prime Minister Keir Starmer’s political days numbered?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/6/20/are-uk-prime-minister-keir-starmers-political-days-numbered?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli strikes in Lebanon kill seven",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-lebanon-kill-seven"
+      },
+      {
+        "title": "Outcry after several injured in attacks targeting Muslims in Edinburgh",
+        "link": "https://www.middleeasteye.net/news/outcry-after-several-injured-violent-anti-muslim-attacks-edinburgh"
+      },
+      {
         "title": "Iranian delegation arrives in Switzerland",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-delegation-arrives-switzerland"
       },
@@ -125,17 +133,17 @@
       {
         "title": "Israeli strikes kill at least 20 in Lebanon hours after ceasefire",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-least-20-lebanon-hours-after-ceasefire"
-      },
-      {
-        "title": "Israeli strike kills journalist in central Gaza",
-        "link": "https://www.middleeasteye.net/news/israeli-strike-kills-journalist-central-gaza"
-      },
-      {
-        "title": "Israeli strike kills Al Jazeera cameraman in central Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-journalist-central-gaza"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Taylor Swift's friendship reset? Blake Lively reportedly welcomed back",
+        "link": "https://www.geo.tv/latest/669664-taylor-swifts-friendship-reset-blake-lively-reportedly-welcomed-back"
+      },
+      {
+        "title": "Marvel faces backlash as Famke Janssen calls out ‘Avengers Doomsday' snub",
+        "link": "https://www.geo.tv/latest/669663-marvel-faces-backlash-as-famke-janssen-calls-out-avengers-doomsday-snub"
+      },
       {
         "title": "Iran says Hormuz closed again after Israel strikes Lebanon",
         "link": "https://www.geo.tv/latest/669661-iran-says-hormuz-closed-again-after-israel-strikes-lebanon"
@@ -147,14 +155,6 @@
       {
         "title": "Brooklyn Beckham's $1M ad deal leaves estranged family ‘heartbroken'",
         "link": "https://www.geo.tv/latest/669658-brooklyn-beckhams-1m-ad-deal-leaves-estranged-family-heartbroken"
-      },
-      {
-        "title": "Messi or Ronaldo? Researchers say your answer reveals more than you think",
-        "link": "https://www.geo.tv/latest/669657-messi-or-ronaldo-researchers-say-your-answer-reveals-more-than-you-think"
-      },
-      {
-        "title": "State of emergency declared in Bolivia as protests paralyse economy",
-        "link": "https://www.geo.tv/latest/669656-state-of-emergency-declared-in-bolivia-as-protests-paralyse-economy"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-20 21:44 UTC"
+  "last_updated": "2026-06-20 22:51 UTC"
 }
