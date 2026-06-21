@@ -3,7 +3,11 @@
   "news": {
     "BBC": [
       {
-        "title": "Signs grow that Starmer will resign as government mood shifts",
+        "title": "Starmer considers political future as pressure to quit mounts",
+        "link": "https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Signs grow that PM will resign with mood in government shifting",
         "link": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -17,13 +21,21 @@
       {
         "title": "Low-key funeral held for giant of the art world David Hockney",
         "link": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Stokes and Atkinson found 'blameless for violent conduct' as pair return to squad",
-        "link": "https://www.bbc.com/sport/cricket/articles/c8r2pr1z5d3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "What’s next in the Strait of Hormuz crisis?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss"
+      },
+      {
+        "title": "Ethiopian prime minister’s party easily wins parliamentary election",
+        "link": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss"
+      },
+      {
+        "title": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
+        "link": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss"
+      },
       {
         "title": "Iran, US, Israel: Memorandum of misunderstanding?",
         "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "The looming Super El Nino",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/the-looming-super-el-nino?traffic_source=rss"
-      },
-      {
-        "title": "India’s ‘Cockroach’ movement camps out until education minister resigns",
-        "link": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss"
-      },
-      {
-        "title": "Syria frees activist Hassan Akkad days after he was detained",
-        "link": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss"
-      },
-      {
-        "title": "Mbappe, France play Iraq in World Cup match: prediction, team news, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/6/21/mbappe-france-play-iraq-in-world-cup-match-prediction-team-news-lineups?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "'Peace requires give and take': US-Iran talks underway in Burgenstock with mediators Pakistan, Qatar",
-        "link": "https://www.dawn.com/news/2009504/peace-requires-give-and-take-us-iran-talks-underway-in-burgenstock-with-mediators-pakistan-qatar"
+        "title": "US, Iran genuinely want peace in the region: PM Shehbaz",
+        "link": "https://www.dawn.com/news/2009504/us-iran-genuinely-want-peace-in-the-region-pm-shehbaz"
       },
       {
         "title": "Pakistan, Saudi Arabia, Turkiye, Egypt stress importance of swift conclusion to 'current phase' of US-Iran talks",
@@ -86,14 +86,14 @@
         "link": "https://www.dawn.com/news/2009704/ndma-warns-of-critical-24-hour-weather-window-nationwide"
       },
       {
-        "title": "PPP chairman gives the nod to Advocate Amjad Hussain for post of GB chief minister",
-        "link": "https://www.dawn.com/news/2009695/ppp-chairman-gives-the-nod-to-advocate-amjad-hussain-for-post-of-gb-chief-minister"
+        "title": "TTAP demands removal of IT Minister over 'anti-people' telecommunication bill",
+        "link": "https://www.dawn.com/news/2009775/ttap-demands-removal-of-it-minister-over-anti-people-telecommunication-bill"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Mideast Live Updates: New Round of U.S.-Iran Talks Underway in Switzerland",
+        "title": "Mideast Live Updates: Strains Quickly Emerge on First Day of U.S.-Iran Talks",
         "link": "https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon"
       },
       {
@@ -101,12 +101,12 @@
         "link": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html"
       },
       {
-        "title": "Israel Directs Its Military to Limit Its Actions in Lebanon, but Tensions Persist",
-        "link": "https://www.nytimes.com/2026/06/21/world/middleeast/israel-lebanon-hezbollah-fighting.html"
+        "title": "Uncertainty Remains Over the Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/06/21/world/middleeast/uncertainty-strait-hormuz-iran-us.html"
       },
       {
-        "title": "While the World Scrambles for Oil, China Sits on Full Tanks",
-        "link": "https://www.nytimes.com/2026/06/21/business/china-oil-iran.html"
+        "title": "Israel Directs Its Military to Limit Its Actions in Lebanon, but Tensions Persist",
+        "link": "https://www.nytimes.com/2026/06/21/world/middleeast/israel-lebanon-hezbollah-fighting.html"
       },
       {
         "title": "Trump Administration Shuttered a Criminal Probe Into Fraudster’s Clemency",
@@ -115,27 +115,39 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran-US talks in Switzerland paused but not ended, Iranian source says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-us-talks-switzerland-paused-not-ended-iranian-source-says-0"
+      },
+      {
+        "title": "Iran says talks covered frozen assets, oil sanctions relief proposal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-us-talks-switzerland-paused-not-ended-iranian-source-says"
+      },
+      {
+        "title": "Sanctions waivers for Iranian oil to be issued soon, says Iranian negotiator",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sanctions-waivers-iranian-oil-be-issued-soon-says-iranian-negotiator"
+      },
+      {
         "title": "Iran warns US to 'be careful' after Trump threat",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-be-careful-after-trump-threat"
       },
       {
         "title": "Hezbollah chief rejects any Israeli security zone in Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-rejects-any-israeli-security-zone-lebanon"
-      },
-      {
-        "title": "Hezbollah chief says would respond to any violation from Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-would-respond-any-violation-israel"
-      },
-      {
-        "title": "US hopes to turn over 'new leaf' with Iran, but Trump threatens to resume bombing",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-hopes-turn-over-new-leaf-iran-trump-threatens-resume-bombing"
-      },
-      {
-        "title": "Iran state media says nuclear programme not discussed in US talks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-state-media-says-nuclear-programme-not-discussed-us-talks"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Yamal off mark at World Cup as Spain rout Saudi Arabia",
+        "link": "https://www.geo.tv/latest/669761-yamal-off-mark-at-world-cup-as-spain-rout-saudi-arabia"
+      },
+      {
+        "title": "Pakistan's envoy to US hails BoP President Zafar Masud's contributions to banking sector",
+        "link": "https://www.geo.tv/latest/669756-pakistans-envoy-to-us-hails-bop-president-zafar-masuds-contributions-to-banking-sector"
+      },
+      {
+        "title": "Demi Lovato revisits iconic 'Camp Rock' scenes on film's 18th anniversary",
+        "link": "https://www.geo.tv/latest/669760-demi-lovato-revisits-iconic-camp-rock-scenes-on-films-18th-anniversary"
+      },
       {
         "title": "Taylor Swift's private jet appearance fuels growing bachelorette rumours",
         "link": "https://www.geo.tv/latest/669754-taylor-swifts-private-jet-appearance-fuels-growing-bachelorette-rumours"
@@ -143,40 +155,28 @@
       {
         "title": "Bruce Springsteen shares the truth about his Oscar win: 'Lucked out'",
         "link": "https://www.geo.tv/latest/669753-bruce-springsteen-shares-the-truth-about-his-oscar-win-lucked-out"
-      },
-      {
-        "title": "How Taylor Swift's 'Opalite' marks a turning point in Greta Lee's career",
-        "link": "https://www.geo.tv/latest/669733-how-taylor-swifts-opalite-marks-a-turning-point-in-greta-lees-career"
-      },
-      {
-        "title": "Meghan Markle says Archie and Lilibet are 'so lucky' to have Prince Harry",
-        "link": "https://www.geo.tv/latest/669750-meghan-markle-says-archie-and-lilibet-are-so-lucky-to-have-prince-harry"
-      },
-      {
-        "title": "Sharon Osbourne reveals she was hospitalised in worrying health update",
-        "link": "https://www.geo.tv/latest/669747-sharon-osbourne-reveals-she-was-hospitalised-in-worrying-health-update"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Faced Such Crisis Before\": Uddhav Thackeray As Party Rebels Move To Delhi",
-        "link": "https://www.ndtv.com/india-news/faced-such-crisis-before-uddhav-thackeray-as-party-rebels-move-to-delhi-11668066#publisher=newsstand"
+        "title": "Jailed Kashmir MP Engineer Rashid Wants To Step Down, Party To Take A Call",
+        "link": "https://www.ndtv.com/india-news/jailed-kashmir-mp-engineer-rashid-wants-to-step-down-party-to-take-a-call-11668322#publisher=newsstand"
       },
       {
-        "title": "US-Iran War News Live Updates: Trump Issues Threat To Iran During Peace Talks In Switzerland",
+        "title": "India's Naval Self-Reliance Gets Boost As 3 Indigenous Warships Commissioned",
+        "link": "https://www.ndtv.com/india-news/indias-naval-self-reliance-gets-boost-as-3-indigenous-warships-commissioned-11668250#publisher=newsstand"
+      },
+      {
+        "title": "Bus Services To Resume In Mumbai As BEST Employees' Unions Call Off Strike",
+        "link": "https://www.ndtv.com/india-news/bus-services-to-resume-in-mumbai-as-best-employees-unions-call-off-strike-11668240#publisher=newsstand"
+      },
+      {
+        "title": "US-Iran War News Live Updates: Trump Issues Threat To Iran As Peace Talks Underway",
         "link": "https://www.ndtv.com/world-news/us-iran-israel-war-ceasefire-live-news-updates-donald-trump-netanyahu-lebanon-hezbollah-switzerland-talks-11662662#publisher=newsstand"
       },
       {
-        "title": "UP Students Miss NEET Exam Due To Wrong Location Displayed On Google Maps",
-        "link": "https://www.ndtv.com/education/up-students-miss-neet-exam-due-to-wrong-location-displayed-on-google-maps-11668048#publisher=newsstand"
-      },
-      {
-        "title": "Congress vs Congress: Shashi Tharoor's Kashmir Remark Triggers Party Storm",
-        "link": "https://www.ndtv.com/india-news/congress-vs-congress-shashi-tharoors-kashmir-remark-triggers-party-storm-11668032#publisher=newsstand"
-      },
-      {
-        "title": "Analysis: Bhagwant Mann's Direct Connect Push To Offset Governance Challenges",
-        "link": "https://www.ndtv.com/india-news/analysis-bhagwant-manns-direct-connect-push-to-offset-governance-challenges-11668002#publisher=newsstand"
+        "title": "JD Vance Names His 2 \"Favourite\" Indian, Pakistani People. One Is Asim Munir",
+        "link": "https://www.ndtv.com/world-news/us-iran-talks-switzerland-jd-vance-names-his-2-favourite-indian-pakistani-people-one-is-asim-munir-11667421#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-21 17:06 UTC"
+  "last_updated": "2026-06-21 18:46 UTC"
 }
