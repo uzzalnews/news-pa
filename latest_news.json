@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+        "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Why this heatwave feels worse than the last one",
         "link": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss"
       },
@@ -17,32 +21,28 @@
       {
         "title": "King meets women's cricket team that is not allowed to exist",
         "link": "https://www.bbc.co.uk/news/articles/c4gykxdn6gwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Train passed red signal before fatal crash, says report",
-        "link": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
-        "link": "https://www.aljazeera.com/economy/2026/6/24/family-sues-tesla-for-wrongful-death-in-autopilot-crash-in-texas-us?traffic_source=rss"
+        "title": "Ronaldinho makes surprise return to football at 46",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ronaldinho-makes-surprise-return-to-football-at-46?traffic_source=rss"
       },
       {
-        "title": "Zimbabwe’s Senate approves amendment extending presidential term",
-        "link": "https://www.aljazeera.com/news/2026/6/24/zimbabwes-senate-approves-amendment-extending-presidential-term?traffic_source=rss"
+        "title": "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32",
+        "link": "https://www.aljazeera.com/sports/2026/6/24/bosnia-win-3-2-knock-out-qatar-to-keep-alive-hopes-of-world-cup-round-of-32?traffic_source=rss"
       },
       {
-        "title": "US public health agency concludes hantavirus response as outbreak eases",
-        "link": "https://www.aljazeera.com/news/2026/6/24/us-public-health-agency-concludes-hantavirus-response-as-outbreak-eases?traffic_source=rss"
+        "title": "Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone",
+        "link": "https://www.aljazeera.com/sports/2026/6/24/qatars-madibo-banned-for-5-games-after-breaking-leg-of-canadas-kone?traffic_source=rss"
       },
       {
-        "title": "Top European leaders vow ‘strong’ support for Ukraine ahead of NATO summit",
-        "link": "https://www.aljazeera.com/news/2026/6/24/top-european-leaders-vow-strong-support-for-ukraine-ahead-of-nato-summit?traffic_source=rss"
+        "title": "Katz: Israel will not withdraw from Lebanon even if US demands it",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_israel-will-not-withdraw-from-lebanon-us-demands-240626?traffic_source=rss"
       },
       {
-        "title": "US judge blocks Trump subpoenas into transgender care at New York hospitals",
-        "link": "https://www.aljazeera.com/news/2026/6/24/us-judge-blocks-trump-subpoenas-into-transgender-care-at-new-york-hospitals?traffic_source=rss"
+        "title": "Scotland fans take over Miami ahead of Brazil World Cup clash",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/scotland-fans-take-over-miami-ahead-of-brazil-world-cup-clash?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +82,12 @@
         "link": "https://www.dawn.com/news/2010557/prime-suspect-in-7-year-old-sargodha-girls-murder-case-killed-during-ccd-encounter-police-say"
       },
       {
-        "title": "Pakistan pushes for global action against hepatitis amid alarming WHO findings",
-        "link": "https://www.dawn.com/news/2010592/pakistan-pushes-for-global-action-against-hepatitis-amid-alarming-who-findings"
-      },
-      {
         "title": "NA approves over Rs500bn in supplementary budget for FY25, Rs475bn for FY26",
         "link": "https://www.dawn.com/news/2010552/na-approves-over-rs500bn-in-supplementary-budget-for-fy25-rs475bn-for-fy26"
+      },
+      {
+        "title": "Pakistan pushes for global action against hepatitis amid alarming WHO findings",
+        "link": "https://www.dawn.com/news/2010592/pakistan-pushes-for-global-action-against-hepatitis-amid-alarming-who-findings"
       }
     ],
     "APNews": [],
@@ -101,19 +101,31 @@
         "link": "https://www.nytimes.com/2026/06/24/business/housing-package-congress-midterms.html"
       },
       {
+        "title": "Trump Clashes With Senate Republicans Over Iran in Heated Closed-Door Meeting",
+        "link": "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html"
+      },
+      {
         "title": "From ‘Terrible People’ to ‘Smart People’: The Trump-Led Right Rethinks Iran",
         "link": "https://www.nytimes.com/2026/06/24/us/politics/republicans-iran.html"
       },
       {
         "title": "Iran’s Loyalists Promote a Wider Nationalism, Unveiled Women Included",
         "link": "https://www.nytimes.com/2026/06/24/world/europe/iran-war-regime-nationalism.html"
-      },
-      {
-        "title": "After Bruising Primaries in New York, Democrats Look to November Elections",
-        "link": "https://www.nytimes.com/2026/06/24/nyregion/new-york-primaries-congress-democrats.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Trump casts doubt on US responsibility for deadly Iran school strike",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-casts-doubt-us-responsibility-deadly-iran-school-strike"
+      },
+      {
+        "title": "Vance says US reviewing conditions for Türkiye's F-35 purchase",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-reviewing-conditions-turkiyes-f-35-purchase"
+      },
+      {
+        "title": "UN nuclear chief says inspections in Iran will go ahead despite Tehran's caution",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-nuclear-chief-says-inspections-iran-will-go-ahead-despite-tehrans"
+      },
       {
         "title": "Israeli army says it struck two people in southern Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-struck-two-people-southern-lebanon"
@@ -121,18 +133,6 @@
       {
         "title": "From cafes to fan zones: World Cup fever sweeps NYC and New Jersey",
         "link": "https://www.middleeasteye.net/news/cafes-fan-zones-world-cup-fever-sweeps-nyc-and-new-jersey"
-      },
-      {
-        "title": "US says 20 million barrels of crude passed through Hormuz in past day",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-20-million-barrels-crude-passed-through-hormuz-past-day"
-      },
-      {
-        "title": "Aipac rebuffed as Mamdani-backed candidates sweep NYC Democratic primaries",
-        "link": "https://www.middleeasteye.net/trending/aipac-rebuffed-mamdani-backed-candidates-sweep-nyc-democratic-primaries"
-      },
-      {
-        "title": "US and Iranian technical teams to meet again in Switzerland",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-iranian-technical-teams-meet-again-switzerland"
       }
     ],
     "GeoTV": [
@@ -159,24 +159,24 @@
     ],
     "NDTV": [
       {
+        "title": "Trump Seeks $88 Billion In Extra Funding, Mostly For Iran War",
+        "link": "https://www.ndtv.com/world-news/donald-trump-seeks-88-billion-in-extra-funding-mostly-for-iran-war-11683541#publisher=newsstand"
+      },
+      {
+        "title": "Trump Clashes With Republicans Over Iran War",
+        "link": "https://www.ndtv.com/world-news/donald-trump-clashes-with-republicans-over-iran-war-11683532#publisher=newsstand"
+      },
+      {
+        "title": "Israeli Strikes Kill 2 In Lebanon, Hezbollah Accuses It Of Truce Violation",
+        "link": "https://www.ndtv.com/world-news/israeli-strikes-kill-2-in-lebanon-hezbollah-accuses-it-of-truce-violation-11683510#publisher=newsstand"
+      },
+      {
+        "title": "\"We Were Let Down\" By Allies On Iran War: Trump Tells NATO Chief",
+        "link": "https://www.ndtv.com/world-news/we-were-let-down-by-allies-on-iran-war-trump-tells-nato-chief-11683468#publisher=newsstand"
+      },
+      {
         "title": "After Lucknow Tragedy, Coaching Centres, Libraries Sealed Across Districts",
         "link": "https://www.ndtv.com/india-news/after-lucknow-fire-tragedy-coaching-centres-libraries-sealed-across-districts-11683395#publisher=newsstand"
-      },
-      {
-        "title": "Zohran Mamdani-Backed Leftist Candidates Win New York Democratic Primaries",
-        "link": "https://www.ndtv.com/world-news/zohran-mamdani-backed-leftist-candidates-win-new-york-democratic-primaries-11683376#publisher=newsstand"
-      },
-      {
-        "title": "Hantavirus Outbreak Should Formally End On July 2: WHO",
-        "link": "https://www.ndtv.com/world-news/hantavirus-outbreak-should-formally-end-on-july-2-who-11683319#publisher=newsstand"
-      },
-      {
-        "title": "India, EU Discuss Achievements, Challenges In Advancing Human Rights",
-        "link": "https://www.ndtv.com/india-news/india-eu-discuss-achievements-challenges-in-advancing-human-rights-11683313#publisher=newsstand"
-      },
-      {
-        "title": "Heavy Rainfall Triggers Landslides, Blocks Geyzing-Legship Road In Sikkim",
-        "link": "https://www.ndtv.com/india-news/heavy-rainfall-triggers-landslides-blocks-geyzing-legship-road-in-sikkim-11683287#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-24 21:10 UTC"
+  "last_updated": "2026-06-24 22:39 UTC"
 }
