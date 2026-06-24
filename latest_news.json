@@ -1,7 +1,30 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat Amid Mixed Global Cues",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-24-june-us-iran-deal-oil-prices-11678918#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Weather LIVE Updates: Mumbai Wakes Up To Heavy Overnight Rains, More Showers Predicted",
+      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-rain-alert-delhi-ncr-rain-live-rain-strong-winds-in-delhi-rain-thundersto-11678810#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "England handed reality check by Ghana but remain in strong position after 0-0 draw",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Trash': England fans on either side of the Atlantic lament Ghana draw",
+        "link": "https://www.bbc.co.uk/news/videos/cyv0665djvjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Burnham likely to replace Reeves if he becomes PM",
+        "link": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Hundreds of schools plan closures ahead of red heat alerts",
         "link": "https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&at_campaign=rss"
@@ -9,40 +32,28 @@
       {
         "title": "The UK's summers are getting hotter - but how prepared are we?",
         "link": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Starmer holds talks with Burnham as he seeks 'orderly' transition",
-        "link": "https://www.bbc.co.uk/news/articles/c2eyj7j4evko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ten years on, Brexit's economic impact is becoming clearer",
-        "link": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-        "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Ronaldo late to World Cup party but still able to steal the show",
-        "link": "https://www.aljazeera.com/sports/2026/6/23/ronaldo-late-to-world-cup-party-but-still-able-to-steal-the-show?traffic_source=rss"
+        "title": "NBA Draft 2026: Wizards select teen sensation AJ Dybantsa with No. 1 pick",
+        "link": "https://www.aljazeera.com/sports/2026/6/24/nba-draft-2026-aj-dybantsa-no-1-pick-washington-wizards?traffic_source=rss"
       },
       {
-        "title": "Protesters sentenced to decades in US prison over alleged antifa ties",
-        "link": "https://www.aljazeera.com/news/2026/6/23/protesters-sentenced-to-decades-in-us-prison-over-alleged-antifa-ties?traffic_source=rss"
+        "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+        "link": "https://www.aljazeera.com/sports/2026/6/24/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss"
       },
       {
-        "title": "US Supreme Court says Rastafarian man shaved by prison guards can’t sue",
-        "link": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-says-rastafarian-man-shaved-by-prison-guards-cant-sue?traffic_source=rss"
+        "title": "Munoz sends Colombia into World Cup knockouts with 1-0 win over DR Congo",
+        "link": "https://www.aljazeera.com/sports/2026/6/24/colombia-dr-congo-1-0-fifa-world-cup-2026-knockout-munoz-rodrigruez-arias-mpasi?traffic_source=rss"
       },
       {
-        "title": "Israel’s deliberate targeting of Palestinian children",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss"
+        "title": "China takes US crown on ranking of world’s fastest supercomputers",
+        "link": "https://www.aljazeera.com/economy/2026/6/24/china-takes-us-crown-for-worlds-fastest-supercomputer?traffic_source=rss"
       },
       {
-        "title": "England held by Ghana at World Cup as pair close on last-32 passage",
-        "link": "https://www.aljazeera.com/sports/2026/6/23/england-held-by-ghana-at-world-cup-as-pair-seal-last-32-passage?traffic_source=rss"
+        "title": "Trump claims US recouped Venezuela war costs 28 times over",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/trump-claims-us-recouped-venezuela-war-costs-28-times-over?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,47 +81,47 @@
     ],
     "Dawn": [
       {
-        "title": "'Hands of friendship': Iran president calls for new regional security structure among Muslim nations",
-        "link": "https://www.dawn.com/news/2010220/hands-of-friendship-iran-president-calls-for-new-regional-security-structure-among-muslim-nations"
+        "title": "Telecom bill won’t infringe on private rights: minister",
+        "link": "https://www.dawn.com/news/2010461/telecom-bill-wont-infringe-on-private-rights-minister"
       },
       {
-        "title": "PTI rails against Adiala jail admin after another meeting with Imran denied",
-        "link": "https://www.dawn.com/news/2010336/pti-rails-against-adiala-jail-admin-after-another-meeting-with-imran-denied"
+        "title": "US Congress passes symbolic Iran war rebuke to Trump",
+        "link": "https://www.dawn.com/news/2010451/us-congress-passes-symbolic-iran-war-rebuke-to-trump"
       },
       {
-        "title": "Sargodha police arrest 4 suspects in 7-year-old girl's murder case",
-        "link": "https://www.dawn.com/news/2010300/sargodha-police-arrest-4-suspects-in-7-year-old-girls-murder-case"
+        "title": "Weekly oil pricing mechanism to stay",
+        "link": "https://www.dawn.com/news/2010419/weekly-oil-pricing-mechanism-to-stay"
       },
       {
-        "title": "Karachi police issue traffic plan for Muharram 8-10 processions",
-        "link": "https://www.dawn.com/news/2010289/karachi-police-issue-traffic-plan-for-muharram-8-10-processions"
+        "title": "Israel smuggled Starlink system into Iran, ex-PM admits",
+        "link": "https://www.dawn.com/news/2010445/israel-smuggled-starlink-system-into-iran-ex-pm-admits"
       },
       {
-        "title": "NAB to launch AI-based investigation system to probe financial crimes, white-collar offences",
-        "link": "https://www.dawn.com/news/2010341/nab-to-launch-ai-based-investigation-system-to-probe-financial-crimes-white-collar-offences"
+        "title": "Psychiatrists challenge FSC ruling on suicide attempts",
+        "link": "https://www.dawn.com/news/2010455/psychiatrists-challenge-fsc-ruling-on-suicide-attempts"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Schlossberg’s Defeat Dampens Dream of a Renewed Camelot",
+        "link": "https://www.nytimes.com/2026/06/23/nyregion/schlossberg-loses-camelot.html"
+      },
+      {
+        "title": "Fired Navy Admiral Wins Democratic Runoff in South Carolina’s 1st District",
+        "link": "https://www.nytimes.com/2026/06/23/us/politics/nancy-lacore-nancy-mace-south-carolina-house-democrats.html"
+      },
+      {
         "title": "Congress Clears Housing Bill, Cementing a Rare Bipartisan Feat",
         "link": "https://www.nytimes.com/2026/06/23/us/politics/congress-housing-bill.html"
       },
       {
-        "title": "New Yorkers Vote in High-Stakes Primaries",
-        "link": "https://www.nytimes.com/2026/06/23/briefing/new-york-primary-elections.html"
+        "title": "Trump’s Pick for Top I.R.S. Lawyer Works at Firm That Represents Him",
+        "link": "https://www.nytimes.com/2026/06/23/us/politics/trump-top-irs-lawyer.html"
       },
       {
         "title": "Trump Says Vandals Sabotaged the Reflecting Pool. Internal Documents Raise Doubts.",
         "link": "https://www.nytimes.com/2026/06/23/us/trump-reflecting-pool-green-peeling.html"
-      },
-      {
-        "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
-        "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html"
-      },
-      {
-        "title": "Photos Behind Kennedy Center Tarps Show No Sign of Trump’s Name",
-        "link": "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,49 +148,53 @@
     ],
     "GeoTV": [
       {
-        "title": "‘The Drama' starring Zendaya, Robert Pattinson confirms streaming release date",
-        "link": "https://www.geo.tv/latest/670122-the-drama-starring-zendaya-robert-pattinson-confirms-release-date"
+        "title": "Nicola Peltz shares wisdom on letting go of regret and embracing growth",
+        "link": "https://www.geo.tv/latest/670134-nicola-peltz-shares-wisdom-on-letting-go-of-regret-and-embracing-growth"
       },
       {
-        "title": "Tom Cruise promotes ‘Digger' with epic edit of past movies",
-        "link": "https://www.geo.tv/latest/670120-tom-cruise-promotes-digger-with-epic-edit-of-past-movies"
+        "title": "Prince Harry forced to accept King Charles terms before arriving in UK",
+        "link": "https://www.geo.tv/latest/670138-prince-harry-forced-to-accept-king-charles-terms-before-arriving-in-uk"
       },
       {
-        "title": "‘Hacks' star recalls furious response to losing Emmy",
-        "link": "https://www.geo.tv/latest/670114-hacks-star-recalls-furious-response-to-losing-emmy"
+        "title": "Diplomacy in 280 characters",
+        "link": "https://www.geo.tv/latest/670135-diplomacy-in-280-characters"
       },
       {
-        "title": "US Senate votes to halt Iran war in challenge to Trump",
-        "link": "https://www.geo.tv/latest/670113-us-senate-votes-to-halt-iran-war-in-challenge-to-trump"
+        "title": "Amy Adams remembers helping out man ‘stabbed in the neck'",
+        "link": "https://www.geo.tv/latest/670133-amy-adams-remembers-helping-out-man-stabbed-in-the-neck"
       },
       {
-        "title": "Google search traffic drops as users tend towards ChatGPT, DuckDuckGo: Here's why",
-        "link": "https://www.geo.tv/latest/670110-google-search-traffic-drops-as-users-tend-towards-chatgpt-duckduckgo-heres-why"
+        "title": "Jack White's wife Olivia Jean slams musician divorce",
+        "link": "https://www.geo.tv/latest/670132-jack-whites-wife-olivia-jean-slams-musician-divorce"
       }
     ],
     "NDTV": [
       {
-        "title": "Kim Jong Un Unveils Plans For 10,000-Ton Warships, Nuclear Navy",
-        "link": "https://www.ndtv.com/world-news/kim-jong-un-says-north-korea-equipping-destroyers-with-nuclear-weapons-11678611#publisher=newsstand"
+        "title": "\"Heart Found Its Home\": Pune Woman's Romantic Posts With Fiance Before Killing Him",
+        "link": "https://www.ndtv.com/india-news/siya-goyal-ketan-agarwal-flowers-hug-birthday-countdown-pune-womans-posts-before-killing-fiance-lohagad-fort-murder-fiance-murder-11679095#publisher=newsstand"
       },
       {
-        "title": "Would \"Cancel Meetings\" With Iran If UN Nuclear Inspections Denied: Trump",
-        "link": "https://www.ndtv.com/world-news/donald-trump-says-he-would-cancel-meetings-with-iran-if-un-nuclear-inspections-denied-11678601#publisher=newsstand"
-      },
-      {
-        "title": "Trump Claims Record 19 Million Barrels Of Oil Transited Hormuz; Prices Ease",
-        "link": "https://www.ndtv.com/world-news/donald-trump-claims-record-19-million-barrels-of-oil-transited-hormuz-prices-ease-11678582#publisher=newsstand"
-      },
-      {
-        "title": "5 Arrested For Chicken-And-Beer Party On Boat In Varanasi's Ganga",
+        "title": "Viral Video Of Chicken, Beer Party On Ganga Boat Lands 5 In Jail In Varanasi",
         "link": "https://www.ndtv.com/india-news/5-arrested-for-chicken-and-beer-party-on-boat-in-varanasis-ganga-11678568#publisher=newsstand"
       },
       {
-        "title": "Trains Halted Across Germany After Radio System Outage",
-        "link": "https://www.ndtv.com/world-news/trains-halted-across-germany-after-radio-system-outage-11678512#publisher=newsstand"
+        "title": "\"Papa Mujhe Bacha Lo\": 10-Year-Old's Last Words Before Being Kidnapped, Raped, Killed In Delhi",
+        "link": "https://www.ndtv.com/india-news/papa-mujhe-bacha-lo-10-year-olds-last-words-before-being-kidnapped-raped-killed-in-mehrauli-delhi-11679217#publisher=newsstand"
+      },
+      {
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat Amid Mixed Global Cues",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-24-june-us-iran-deal-oil-prices-11678918#publisher=newsstand"
+      },
+      {
+        "title": "Weather LIVE Updates: Mumbai Wakes Up To Heavy Overnight Rains, More Showers Predicted",
+        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-imd-weather-forecast-delhi-ncr-up-noida-rajasthan-rain-alert-delhi-ncr-rain-live-rain-strong-winds-in-delhi-rain-thundersto-11678810#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
+        "link": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence"
+      },
       {
         "title": "Kenyan minister orders halt to construction of US Ebola facility",
         "link": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility"
@@ -195,12 +210,8 @@
       {
         "title": "Ghana conference calls for formal apology for transatlantic slave trade",
         "link": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana"
-      },
-      {
-        "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
-        "link": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding"
       }
     ]
   },
-  "last_updated": "2026-06-24 00:13 UTC"
+  "last_updated": "2026-06-24 04:39 UTC"
 }
