@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NYTimes",
+      "title": "See Record-Breaking Extreme Heat Wave Across Europe in Photos",
+      "link": "https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,38 +17,38 @@
         "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Reeves backs Burnham to become next prime minister",
-        "link": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Bodies found in 'advanced deterioration' at under-fire trust",
+        "title": "Bodies found in state of 'advanced deterioration' at under-fire trust",
         "link": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Jail time and unlimited fines planned under conversion practices ban",
         "link": "https://www.bbc.co.uk/news/articles/cpwev2x4jw9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How brands banned from the World Cup became the story",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "In pictures: Aftermath of twin earthquakes in Venezuela",
-        "link": "https://www.aljazeera.com/gallery/2026/6/25/in-pictures-aftermath-of-the-twin-earthquakes-in-venezuela?traffic_source=rss"
+        "title": "Why Britain devours its prime ministers",
+        "link": "https://www.aljazeera.com/opinions/2026/6/25/why-britain-devours-its-prime-ministers?traffic_source=rss"
       },
       {
-        "title": "World reacts as devastating Venezuela earthquakes kill at least 32",
-        "link": "https://www.aljazeera.com/news/2026/6/25/world-reacts-as-devastating-venezuela-earthquakes-kill-at-least-32?traffic_source=rss"
+        "title": "Israeli forces kill Palestinian man during raid on his home",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss"
       },
       {
-        "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-        "link": "https://www.aljazeera.com/sports/2026/6/25/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss"
+        "title": "How minesweeping in the Strait of Hormuz works: A visual guide",
+        "link": "https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide?traffic_source=rss"
       },
       {
-        "title": "Iran warns against Hormuz crossings without authorisation",
-        "link": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss"
+        "title": "Rubio tells Gulf allies that Iran deal will ensure their security",
+        "link": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss"
       },
       {
-        "title": "Magnitude 6.9 earthquake strikes northern Japan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/magnitude-6-9-earthquake-strikes-northern-japan?traffic_source=rss"
+        "title": "Europe faces another day of extreme heat after more temperature records set",
+        "link": "https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,12 @@
     ],
     "Dawn": [
       {
-        "title": "At least 32 dead, more than 700 injured as twin quakes rock Venezuela",
-        "link": "https://www.dawn.com/news/2010737/at-least-32-dead-more-than-700-injured-as-twin-quakes-rock-venezuela"
+        "title": "Death toll from Venezuela's massive twin quakes jumps to 164, nearly 1,000 injured: president",
+        "link": "https://www.dawn.com/news/2010737/death-toll-from-venezuelas-massive-twin-quakes-jumps-to-164-nearly-1000-injured-president"
+      },
+      {
+        "title": "Any US-Iran deal will ensure security of Gulf allies, Rubio assures GCC nations during Mideast tour",
+        "link": "https://www.dawn.com/news/2010780/any-us-iran-deal-will-ensure-security-of-gulf-allies-rubio-assures-gcc-nations-during-mideast-tour"
       },
       {
         "title": "Pakistan, China organise UNSC meeting on steps to ensure implementation of resolutions",
@@ -84,10 +94,6 @@
       {
         "title": "Country observes Muharram 9 amid tight security arrangements",
         "link": "https://www.dawn.com/news/2010752/country-observes-muharram-9-amid-tight-security-arrangements"
-      },
-      {
-        "title": "Trump, Republican senator engage in shouting match over Iran war",
-        "link": "https://www.dawn.com/news/2010746/trump-republican-senator-engage-in-shouting-match-over-iran-war"
       }
     ],
     "APNews": [],
@@ -97,86 +103,86 @@
         "link": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html"
       },
       {
-        "title": "Representative Tom Kean, Missing for Months, Is Back Home in New Jersey",
-        "link": "https://www.nytimes.com/2026/06/24/nyregion/tom-kean-missing-found.html"
+        "title": "2 Deadly Earthquakes Hit Venezuela, and Why Chemo Drugs Could Soon Be Rationed",
+        "link": "https://www.nytimes.com/2026/06/25/podcasts/the-headlines/venezuela-earthquakes-chemo-drugs-shortage.html"
       },
       {
-        "title": "After Trump’s Outburst, Senate G.O.P. Reverses Course on Iran",
-        "link": "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-iran.html"
+        "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
+        "link": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html"
       },
       {
-        "title": "Trump Clashes With Senate Republicans Over Iran in Heated Closed-Door Meeting",
-        "link": "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html"
+        "title": "See Record-Breaking Extreme Heat Wave Across Europe in Photos",
+        "link": "https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html"
       },
       {
-        "title": "New Clues Point to Taylor Swift Wedding Event at M.S.G.",
-        "link": "https://www.nytimes.com/2026/06/24/nyregion/taylor-swift-wedding-madison-square-garden.html"
+        "title": "U.S. Inflation Problems Are Far From Over",
+        "link": "https://www.nytimes.com/2026/06/25/business/federal-reserve-inflation-pce.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Katz says Israel will not withdraw from Lebanon even if US demands it",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/katz-says-israel-will-not-withdraw-lebanon-even-if-us-demands-it"
+        "title": "Crimson Thread: The new Israeli separation wall that cuts through the 'breadbasket of Palestine'",
+        "link": "https://www.middleeasteye.net/news/crimson-thread-israel-separation-wall-cuts-through-palestine-west-bank"
       },
       {
-        "title": "Tucker Carlson: After 9/11, I was 'hysterical' about Islam",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tucker-carlson-after-911-i-was-hysterical-about-islam"
+        "title": "Iraq urges Opec to raise its quota",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-urges-opec-raise-its-quota"
       },
       {
-        "title": "Rubio warns ship transit fees in Hormuz would 'spread like contagion' to other waterways",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-warns-ship-transit-fees-hormuz-would-spread-contagion-other"
+        "title": "Billionaire who owns Camden Market 'finances' Israeli military programmes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/billionaire-who-owns-camden-market-finances-israeli-military-programmes"
       },
       {
-        "title": "Trump describes 'extremely liberal' Burnham as 'mayor of a town'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-describes-extremely-liberal-burnham-mayor-town"
+        "title": "Billionaire who owns Camden Market 'finances' Israeli military programmes",
+        "link": "https://www.middleeasteye.net/news/uk-prize-draw-players-funding-israeli-billionaire-who-finances-military"
       },
       {
-        "title": "Rubio says US wants deal with Iran but not 'at any price'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-wants-deal-iran-not-any-price"
+        "title": "Oman says 'no transit fees' in any future arrangement on Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-says-no-transit-fees-any-future-arrangement-hormuz"
       }
     ],
     "GeoTV": [
       {
-        "title": "David Beckham's warm gesture toward Cruz's flame Jackie Apostel goes viral",
-        "link": "https://www.geo.tv/latest/670246-david-beckhams-affectionate-gesture-toward"
+        "title": "Buckingham Palace releases King Charles powerful speech amid warning",
+        "link": "https://www.geo.tv/latest/670266-buckingham-palace-releases-king-charles-powerful-speech-amid-warning"
       },
       {
-        "title": "Meghan Markle faces major crisis as Britons deliver brutal blow",
-        "link": "https://www.geo.tv/latest/670244-meghan-markle-faces-major-crisis-as-britons-deliver-brutal-blow"
+        "title": "Inside Ines De Ramon's quiet mission to heal Brad Pitt's greatest heartbreak",
+        "link": "https://www.geo.tv/latest/670268-inside-ines-de-ramons-quiet-mission-to-heal-brad-pitts-greatest-heartbreak"
       },
       {
-        "title": "Olivia Wilde breaks silence on Florence Pugh feud rumours",
-        "link": "https://www.geo.tv/latest/670243-olivia-wilde-breaks-silence-on-florence-pugh-feud-rumours"
+        "title": "Who is Paris Jackson's mystery man? Star sparks buzz at premiere event",
+        "link": "https://www.geo.tv/latest/670245-who-is-paris-jacksons-mystery-man-star-sparks-buzz-at-premiere-event"
       },
       {
-        "title": "Brooklyn, Nicola Peltz pen strong words in birthday tributes to Nelson Peltz",
-        "link": "https://www.geo.tv/latest/670235-brooklyn-beckham-nicola-peltz-share-sweet-birthday-tributes-to-nelson-peltz"
+        "title": "Inside Taylor Swift, Travis Kelce wedding venue, date and special rule",
+        "link": "https://www.geo.tv/latest/670267-inside-taylor-swift-travis-kelce-wedding-venue-date-and-special-rule"
       },
       {
-        "title": "Pakistan conveys condolences to Venezuela after deadly earthquakes",
-        "link": "https://www.geo.tv/latest/670231-pakistan-conveys-condolences-to-venezuela-after-deadly-earthquakes"
+        "title": "King Charles beat the heat with much-needed help at climate event",
+        "link": "https://www.geo.tv/latest/670258-king-charles-beat-the-heat-with-much-needed-help-at-climate-event"
       }
     ],
     "NDTV": [
       {
-        "title": "40 Army Personnel Face FIR For Storming J&K Police Station, Assaulting Cops",
-        "link": "https://www.ndtv.com/india-news/40-army-personnel-face-fir-for-storming-jammu-and-kashmir-police-station-assaulting-cops-11685206#publisher=newsstand"
+        "title": "Video: Siya Goyal's Cafe Rendezvous With Lover Before Pushing Fiance To Death",
+        "link": "https://www.ndtv.com/india-news/siya-goyal-ketan-agarwal-chetan-chaudhary-lohagad-fort-video-siya-goyals-cafe-date-with-lover-hours-before-murdering-fiance-11685947#publisher=newsstand"
       },
       {
-        "title": "Venezuela Earthquakes Live: Venezuela's 7.5 Earthquake Is Most Powerful To Hit Country In Over A Century",
-        "link": "https://www.ndtv.com/world-news/venezuela-earthquakes-live-updates-7-5-magnitude-earthquake-hit-usgs-caracas-airport-shut-emergency-declared-after-quake-in-moron-delcy-rodriguez-11683955#publisher=newsstand"
+        "title": "Gautam Adani Launches Vande Bharatam Initiative To Support Entrepreneurs",
+        "link": "https://www.ndtv.com/india-news/gautam-adani-launches-vande-bharatam-initiative-to-support-entrepreneurs-11684932#publisher=newsstand"
       },
       {
-        "title": "\"Nobody's Laughing At Us Anymore\": Trump Opens US 250th Birthday Party",
-        "link": "https://www.ndtv.com/world-news/donald-trump-opens-us-250th-birthday-party-nobodys-laughing-at-us-anymore-11685153#publisher=newsstand"
+        "title": "Raghav Chadha Demands Bhagwant Mann's Resignation Over Video Row",
+        "link": "https://www.ndtv.com/india-news/raghav-chadha-demands-bhagwant-manns-resignation-over-video-row-11686179#publisher=newsstand"
       },
       {
-        "title": "1 Dead, 4 Missing, Several Injured In Arunachal Flash Floods",
-        "link": "https://www.ndtv.com/india-news/1-dead-4-missing-several-injured-in-arunachal-flash-floods-11683287#publisher=newsstand"
+        "title": "\"Jews Sick Of You\": Book Reveals Trump's Outburst At Netanyahu In 2025 Call",
+        "link": "https://www.ndtv.com/world-news/jews-sick-of-you-book-reveals-donald-trumps-outburst-at-benjamin-netanyahu-in-2025-call-11686157#publisher=newsstand"
       },
       {
-        "title": "Petrol Pump Staff Set On Fire After Fight Over Fuel Rate, Father Burnt Saving Him In Madhya Pradesh",
-        "link": "https://www.ndtv.com/india-news/petrol-pump-staff-set-on-fire-after-fight-over-fuel-rate-father-burnt-saving-him-in-madhya-pradesh-11685112#publisher=newsstand"
+        "title": "Spain Records 212 Deaths Due To Heatwave In 4 Days: Report",
+        "link": "https://www.ndtv.com/world-news/spain-records-212-deaths-due-to-heatwave-in-4-days-report-11686151#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-25 09:37 UTC"
+  "last_updated": "2026-06-25 12:04 UTC"
 }
