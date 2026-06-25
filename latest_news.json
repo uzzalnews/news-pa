@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NYTimes",
+      "title": "See Record-Breaking Extreme Heat Wave Across Europe in Photos",
+      "link": "https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,38 +17,38 @@
         "link": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "TikTok influencer charged with Dubai murder",
+        "title": "TikTok influencer charged with murdering boyfriend in Dubai",
         "link": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Burnham could be leader in weeks under Labour timetable",
+        "link": "https://www.bbc.co.uk/news/articles/cnv9e18r2qyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
         "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The games that show the flaws in a 48-team World Cup",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "IRGC warns against new Hormuz route for ships: What we know",
-        "link": "https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know?traffic_source=rss"
+        "title": "Venezuela struggles to respond to devastating twin earthquakes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-struggles-to-respond-to-devastating-twin-earthquakes?traffic_source=rss"
       },
       {
-        "title": "Iran negotiator Ghalibaf rejects claim unfrozen funds will buy US goods",
-        "link": "https://www.aljazeera.com/news/2026/6/25/iran-negotiator-ghalibaf-rejects-claim-unfrozen-funds-will-buy-us-goods?traffic_source=rss"
+        "title": "Rubio: Gulf countries don’t support Strait of Hormuz tolls",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rubio-gulf-countries-dont-support-strait-of-hormuz-tolls?traffic_source=rss"
       },
       {
-        "title": "UK’s hottest June: ‘The population should have been prepared for this’",
-        "link": "https://www.aljazeera.com/news/2026/6/25/uks-hottest-june-the-population-should-have-been-prepared-for?traffic_source=rss"
+        "title": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
+        "link": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss"
       },
       {
-        "title": "Deconfliction and disarmament: Can both be pursued in Lebanon?",
-        "link": "https://www.aljazeera.com/news/2026/6/25/deconfliction-and-disarmament-can-both-be-pursued-in-lebanon?traffic_source=rss"
+        "title": "US Supreme Court paves way for government to block asylum seekers at border",
+        "link": "https://www.aljazeera.com/news/2026/6/25/us-supreme-court-paves-way-for-government-to-block-asylum-seekers-at-border?traffic_source=rss"
       },
       {
-        "title": "Norway vs France at World Cup 2026: Mbappe vs Haaland, team news, lineups",
-        "link": "https://www.aljazeera.com/sports/2026/6/25/norway-vs-france-at-world-cup-2026-mbappe-vs-haaland-team-news-lineups?traffic_source=rss"
+        "title": "Escaping Darfur: Mothers face starvation under trees in Chad",
+        "link": "https://www.aljazeera.com/features/2026/6/25/escaping-darfur-mothers-face-starvation-under-trees-in-chad?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,116 +76,120 @@
     ],
     "Dawn": [
       {
-        "title": "Death toll from Venezuela's massive twin quakes jumps to 164, nearly 1,000 injured: president",
-        "link": "https://www.dawn.com/news/2010737/death-toll-from-venezuelas-massive-twin-quakes-jumps-to-164-nearly-1000-injured-president"
+        "title": "Thousands feared dead in Venezuela after two major earthquakes; world sends aid, rescue teams",
+        "link": "https://www.dawn.com/news/2010737/thousands-feared-dead-in-venezuela-after-two-major-earthquakes-world-sends-aid-rescue-teams"
       },
       {
-        "title": "Any US-Iran deal will ensure security of Gulf allies, Rubio assures GCC nations during Mideast tour",
-        "link": "https://www.dawn.com/news/2010780/any-us-iran-deal-will-ensure-security-of-gulf-allies-rubio-assures-gcc-nations-during-mideast-tour"
+        "title": "Police launch high-level probe into horrific rape, murder of 3-year-old girl in Karachi's Quaidabad",
+        "link": "https://www.dawn.com/news/2010824/police-launch-high-level-probe-into-horrific-rape-murder-of-3-year-old-girl-in-karachis-quaidabad"
       },
       {
         "title": "Country observes Muharram 9 amid tight security arrangements",
         "link": "https://www.dawn.com/news/2010752/country-observes-muharram-9-amid-tight-security-arrangements"
       },
       {
-        "title": "Pakistan, China organise UNSC meeting on steps to ensure implementation of resolutions",
-        "link": "https://www.dawn.com/news/2010761/pakistan-china-organise-unsc-meeting-on-steps-to-ensure-implementation-of-resolutions"
+        "title": "Preliminary postmortem report of 7-year-old girl in Sargodha indicates possibility of rape: police",
+        "link": "https://www.dawn.com/news/2010828/preliminary-postmortem-report-of-7-year-old-girl-in-sargodha-indicates-possibility-of-rape-police"
       },
       {
-        "title": "Five abducted individuals including police constable safely return home in Bannu",
-        "link": "https://www.dawn.com/news/2010804/five-abducted-individuals-including-police-constable-safely-return-home-in-bannu"
+        "title": "Any US-Iran deal will ensure security of Gulf allies, Rubio assures GCC nations during Mideast tour",
+        "link": "https://www.dawn.com/news/2010780/any-us-iran-deal-will-ensure-security-of-gulf-allies-rubio-assures-gcc-nations-during-mideast-tour"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Supreme Court Lets Trump End Deportation Protection for Haitians and Syrians",
+        "title": "With TPS and Southern Border Decisions, Supreme Court Expands Trump’s Power Over Immigration",
         "link": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html"
       },
       {
-        "title": "Supreme Court Allows Trump to Block Asylum Seekers at Border",
-        "link": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-asylum-border.html"
-      },
-      {
-        "title": "2 Deadly Earthquakes Hit Venezuela, and Why Chemo Drugs Could Soon Be Rationed",
-        "link": "https://www.nytimes.com/2026/06/25/podcasts/the-headlines/venezuela-earthquakes-chemo-drugs-shortage.html"
-      },
-      {
-        "title": "Photos: Earthquakes Strike Venezuela",
-        "link": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html"
+        "title": "Why the Venezuelan Earthquakes Happened, and What to Expect Next",
+        "link": "https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html"
       },
       {
         "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
         "link": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html"
+      },
+      {
+        "title": "See Record-Breaking Extreme Heat Wave Across Europe in Photos",
+        "link": "https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html"
+      },
+      {
+        "title": "Inflation Accelerated in May as Iran War Pushed Up Prices",
+        "link": "https://www.nytimes.com/2026/06/25/business/inflation-iran-war-prices.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Why Palestinian Christians can view the archbishop of Canterbury's visit with cautious hope",
-        "link": "https://www.middleeasteye.net/opinion/why-palestinian-christians-can-view-archbishop-canterburys-visit-cautious-hope"
+        "title": "Gulf stock markets fall as oil prices return to pre-war levels",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-stock-markets-fall-oil-prices-return-pre-war-levels"
       },
       {
-        "title": "Archbishop of Canterbury vows to help Palestinians achieve 'freedom you deserve'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/archbishop-canterbury-vows-help-palestinians-achieve-freedom-you-deserve"
+        "title": "Italy denies authorising use of airbases for US attacks on Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/italy-denies-authorising-use-airbases-us-attacks-iran"
       },
       {
-        "title": "Israel says will only withdraw from Lebanon after Hezbollah disarmed",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-will-only-withdraw-lebanon-after-hezbollah-disarmed"
+        "title": "'The face of a tortured man': Photos of Palestinian journalist released from Israeli prison spark outrage",
+        "link": "https://www.middleeasteye.net/trending/photos-palestinian-journalist-following-release-israeli-detention-spark-outrage"
       },
       {
-        "title": "Archbishop of Canterbury vows to help Palestinians achieve 'freedom you deserve'",
-        "link": "https://www.middleeasteye.net/news/archbishop-canterbury-vows-help-palestinians-achieve-freedom"
+        "title": "Vance says US and Iran to establish direct military channel with IRGC",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-us-and-iran-establish-direct-military-channel-irgc"
       },
       {
-        "title": "Ghalibaf rejects US claim that Iran's unfrozen assets will be spent on US goods",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ghalibaf-rejects-us-claim-irans-unfrozen-assets-will-be-spent-us-goods"
+        "title": "Three killed in Israeli strike on southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-israeli-strike-southern-lebanon-0"
       }
     ],
     "GeoTV": [
       {
-        "title": "Jacob Elordi, Jenna Ortega score major Oscars honour with Academy invite",
-        "link": "https://www.geo.tv/latest/670285-jacob-elordi-jenna-ortega-score-major-oscars-honour-with-academy-invite"
+        "title": "End of an era: Blood, Sweat & Tears star David Clayton-Thomas dies",
+        "link": "https://www.geo.tv/latest/670308-david-clayton-thomas-died-at-84-cause-of-death-revealed"
       },
       {
-        "title": "Prince George's big move was no foregone conclusion, expert reveals",
-        "link": "https://www.geo.tv/latest/670290-prince-georges-big-move-was-no-foregone-conclusion-expert-reveals"
+        "title": "Princess Anne keeps cool while championing coaches after King Charles",
+        "link": "https://www.geo.tv/latest/670306-princess-anne-keeps-cool-while-championing-coaches-after-king-charles"
       },
       {
-        "title": "'Everything collapsed': Venezuela region hit hardest by quakes cries for help",
-        "link": "https://www.geo.tv/latest/670279-everything-collapsed-venezuela-region-hit-hardest-by-quakes-cries-for-help"
+        "title": "Dwayne Johnson says 'Moana' actress is destined for Hollywood stardom",
+        "link": "https://www.geo.tv/latest/670301-dwayne-johnson-says-moana-actress-is-destined-for-hollywood-stardom"
       },
       {
-        "title": "Drew Barrymore celebrates Cameron Diaz with heartfelt message",
-        "link": "https://www.geo.tv/latest/670288-drew-barrymore-celebrates-cameron-diaz-with-heartfelt-message"
+        "title": "Twin earthquakes devastate Venezuela: At least 164 dead, toll expected to rise",
+        "link": "https://www.geo.tv/latest/670299-twin-earthquakes-devastate-venezuela-at-least-164-dead-toll-expected-to-rise"
       },
       {
-        "title": "Why are Republicans already planning for another government shutdown?",
-        "link": "https://www.geo.tv/latest/670275-why-are-republicans-already-planning-for-another-government-shutdown"
+        "title": "Sandra Bullock, Nicole Kidman back with 'Practical Magic 2'",
+        "link": "https://www.geo.tv/latest/670298-sandra-bullock-nicole-kidman-back-with-practical-magic-2"
       }
     ],
     "NDTV": [
       {
-        "title": "Delhi High Court Allows 15-Year-Old Rape Survivor To End 28-Week Pregnancy",
-        "link": "https://www.ndtv.com/india-news/delhi-high-court-allows-15-year-old-rape-survivor-to-end-28-week-pregnancy-11686904#publisher=newsstand"
+        "title": "UP Man Leans Over To Get Ice Cream From Vendor, Falls From Balcony",
+        "link": "https://www.ndtv.com/india-news/up-man-leans-over-to-get-ice-cream-from-vendor-falls-from-balcony-11687992#publisher=newsstand"
       },
       {
-        "title": "Death Count In Tamil Nadu Ammonia Gas Leak Rises To 11",
-        "link": "https://www.ndtv.com/india-news/death-count-in-tamil-nadu-ammonia-gas-leak-rises-to-11-11686903#publisher=newsstand"
+        "title": "Case Filed Over Ram Temple Donation Theft, 6 In Custody",
+        "link": "https://www.ndtv.com/india-news/case-filed-over-ram-temple-donation-theft-two-arrested-11687549#publisher=newsstand"
+      },
+      {
+        "title": "Passport Fees Hiked To Rs 2,500 For New, Rs 5,000 For Tatkal",
+        "link": "https://www.ndtv.com/india-news/passport-fees-hiked-to-rs-2-500-for-new-rs-5-000-for-tatkal-11687701#publisher=newsstand"
+      },
+      {
+        "title": "Amazon $48 Billion, Google $15 Billion: Global CEOs' India Investment Push",
+        "link": "https://www.ndtv.com/india-news/amazon-48-billion-google-15-billion-global-ceos-india-investment-push-11687717#publisher=newsstand"
       },
       {
         "title": "Car Lifted 40 Feet, 'Blown Up' In Madhya Pradesh During Muharram Procession",
         "link": "https://www.ndtv.com/india-news/car-lifted-40-feet-blown-up-in-madhya-pradesh-during-muharram-procession-11686879#publisher=newsstand"
-      },
-      {
-        "title": "'I'll Kill You': Uddhav Sena Rebel Threatens Journalists, Eknath Shinde Reacts",
-        "link": "https://www.ndtv.com/india-news/uddhav-sena-rebel-sanjay-dina-patil-threatens-journalists-eknath-shinde-reacts-11686656#publisher=newsstand"
-      },
-      {
-        "title": "PM Modi To Visit Seychelles From June 27-29, For National Day Celebrations",
-        "link": "https://www.ndtv.com/world-news/pm-narendra-modi-to-visit-seychelles-from-june-27-29-for-national-day-celebrations-11686787#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
+        "link": "https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term"
+      },
       {
         "title": "France confirms first Ebola case in doctor who had worked in DRC",
         "link": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc"
@@ -195,12 +205,8 @@
       {
         "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
         "link": "https://www.theguardian.com/global-development/2026/jun/23/uk-ties-uae-mass-atrocities-sudan-mps-select-committee-nathaniel-raymond"
-      },
-      {
-        "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
-        "link": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa"
       }
     ]
   },
-  "last_updated": "2026-06-25 14:52 UTC"
+  "last_updated": "2026-06-25 17:03 UTC"
 }
