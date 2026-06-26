@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "Uruguay vs Spain LIVE: World Cup 2026",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/uruguay-vs-spain-live-world-cup-2026?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,42 +7,42 @@
         "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
         "link": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+        "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Mother dies saving daughter in Venezuela earthquakes",
         "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Man who punched female police officers at Manchester Airport jailed",
-        "link": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Canada eligible to join Eurovision competition",
-        "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "After progressive US primary wins, Trump takes aim at ‘godless communists’",
-        "link": "https://www.aljazeera.com/news/2026/6/26/after-progressive-us-primary-wins-trump-takes-aim-at-godless-communists?traffic_source=rss"
+        "title": "Senegal score 5-0 win over 10-man Iraq, keep World Cup knockout hopes alive",
+        "link": "https://www.aljazeera.com/sports/2026/6/26/senegal-score-5-0-win-over-10-man-iraq-keep-world-cup-knockout-hopes-alive?traffic_source=rss"
       },
       {
-        "title": "Uruguay vs Spain LIVE: World Cup 2026",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/uruguay-vs-spain-live-world-cup-2026?traffic_source=rss"
+        "title": "Dembele scores hat-trick as France beat Norway 4-1 at World Cup 2026",
+        "link": "https://www.aljazeera.com/sports/2026/6/26/dembele-scores-hat-trick-as-france-beat-norway-4-1-at-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "US federal judge questions DOJ decision to drop Adani charges",
-        "link": "https://www.aljazeera.com/economy/2026/6/26/us-federal-judge-questions-doj-decision-to-drop-adani-charges?traffic_source=rss"
+        "title": "Thousands of migrants flee South Africa ahead of anti-immigrant protests",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/thousands-of-migrants-flee-south-africa-ahead-of-anti-immigrant-protests?traffic_source=rss"
       },
       {
-        "title": "Israeli attack on car in central Gaza kills three Palestinians",
-        "link": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss"
+        "title": "Burkina Faso cuts diplomatic ties with former colonial ruler France",
+        "link": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france?traffic_source=rss"
       },
       {
-        "title": "How much disaster aid will the US provide to Venezuela?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/6/26/how-much-disaster-aid-will-the-u-s-provide-to-venezuela?traffic_source=rss"
+        "title": "US strikes Iran in response to drone strike on commercial ship",
+        "link": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,16 +93,16 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Says Iran Attack on Cargo Ship in Strait of Hormuz Violated Cease-fire",
-        "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html"
+        "title": "The Venezuela Earthquakes Hit a Health System Already in Crisis",
+        "link": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-shortages-doctors.html"
       },
       {
-        "title": "Oil Prices Return to Prewar Levels After Four Months",
-        "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html"
+        "title": "Venezuelans in New York Confront Earthquake Back Home",
+        "link": "https://www.nytimes.com/2026/06/26/nyregion/earthquakes-immigrants-grief-venezuela.html"
       },
       {
-        "title": "Americans Are Feeling Better About the Economy, Consumer Survey Shows",
-        "link": "https://www.nytimes.com/2026/06/26/business/economy/consumer-sentiment.html"
+        "title": "Centrist Democrats Rebuke Party’s Left Wing: ‘We Are Capitalist, Not Socialist’",
+        "link": "https://www.nytimes.com/2026/06/26/us/politics/moderate-democrats-capitalist-socialism.html"
       },
       {
         "title": "Pro-Palestinian Activists Sense a Tide Turning After N.Y. Primary Wins",
@@ -121,27 +115,39 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Lebanon and Israel sign 'framework agreement' to end war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-sign-framework-agreement-end-war"
+      },
+      {
+        "title": "US confirms strikes on Iran, Tehran vows swift response",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-confirms-strikes-against-iran-tehran-vows-swift-response"
+      },
+      {
+        "title": "Sanctioned ICC judges sue Trump in US over 'attack on judicial independence'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sanctioned-icc-judges-sue-trump-us-over-attack-judicial-independence"
+      },
+      {
         "title": "Iranian media report sound of explosion in southern Iran's Sirik",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-report-sound-explosion-southern-irans-sirik"
       },
       {
         "title": "Lebanon president says Israel deal first step to restoring sovereignty",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-israel-deal-first-step-restoring-sovereignty"
-      },
-      {
-        "title": "Pro-Israel rabbis demand Mamdani apologise for likening Aipac to 'monsters'",
-        "link": "https://www.middleeasteye.net/news/pro-israel-rabbis-demand-mamdani-apologise-likening-aipac-monsters"
-      },
-      {
-        "title": "Netanyahu says Israeli military to stay in southern Lebanon until Hezbollah 'disarm'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-israeli-military-stay-southern-lebanon-until-hezbollah"
-      },
-      {
-        "title": "Hezbollah lawmaker warns Lebanese authorities against enforcing agreement with Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-hezbollah-lawmaker-warns-lebanese-authorities-against-enforcing"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Channing Tatum stars in a FIFA ad",
+        "link": "https://www.geo.tv/latest/670450-channing-tatum-stars-in-a-fifa-ad"
+      },
+      {
+        "title": "What is Angelina Jolie's take on Brad Pitt's legal win?",
+        "link": "https://www.geo.tv/latest/670447-what-is-angelina-jolies-take-on-brad-pitts-legal-win"
+      },
+      {
+        "title": "India crush Pakistan 7-1 in second FIH Pro League clash",
+        "link": "https://www.geo.tv/latest/670448-india-crush-pakistan-7-1-in-second-fih-pro-league-clash"
+      },
       {
         "title": "Tom Holland teases next career plans with Zendaya after ‘Spider-Man'",
         "link": "https://www.geo.tv/latest/670446-tom-holland-teases-next-career-plans-with-zendaya-after-spider-man"
@@ -149,21 +155,21 @@
       {
         "title": "Yungblud reveals he's having surgery after cancelling festival appearance",
         "link": "https://www.geo.tv/latest/670444-yungblud-reveals-hes-having-surgery-after-cancelling-festival-appearance"
-      },
-      {
-        "title": "Twin earthquakes flatten parts of Venezuela as death toll nears 1,000",
-        "link": "https://www.geo.tv/latest/670442-twin-earthquakes-flatten-parts-of-venezuela-as-death-toll-nears-1000"
-      },
-      {
-        "title": "Petrol, diesel prices to remain unchanged 'till further orders'",
-        "link": "https://www.geo.tv/latest/670433-petrol-diesel-prices-to-remain-unchanged-till-further-orders"
-      },
-      {
-        "title": "How some Venezuelans' smartphones warned of quake",
-        "link": "https://www.geo.tv/latest/670441-how-some-venezuelans-smartphones-warned-of-quake"
       }
     ],
     "NDTV": [
+      {
+        "title": "US Forces Strike Iranian Drone, Missile Sites After Attack On Cargo Ship",
+        "link": "https://www.ndtv.com/world-news/us-forces-strike-iranian-drone-missile-sites-after-attack-on-cargo-ship-11693221#publisher=newsstand"
+      },
+      {
+        "title": "Hezbollah Rejects Israel-Lebanon Deal, Warns Of \"Civil War\"",
+        "link": "https://www.ndtv.com/world-news/hezbollah-rejects-israel-lebanon-ceasefire-deal-warns-of-civil-war-11693248#publisher=newsstand"
+      },
+      {
+        "title": "\"Foolish Violation\": Trump Says Iran Fired 4 Drones At Ships In Hormuz, 1 Hit",
+        "link": "https://www.ndtv.com/world-news/foolish-violation-trump-says-iran-fired-4-drones-at-ships-in-hormuz-1-hit-11692486#publisher=newsstand"
+      },
       {
         "title": "Trump Blasts \"Godless\" Democrats In Incendiary Speech To Evangelicals",
         "link": "https://www.ndtv.com/world-news/donald-trump-blasts-godless-democrats-in-incendiary-speech-to-evangelicals-11693131#publisher=newsstand"
@@ -171,18 +177,6 @@
       {
         "title": "JD Vance Says Watergate Would Be '12-Hour News Story' Today",
         "link": "https://www.ndtv.com/world-news/jd-vance-says-watergate-would-be-12-hour-news-story-today-11693101#publisher=newsstand"
-      },
-      {
-        "title": "Punjab BJP Chief Praises Maharashtra's Move To Consult Sikhs On Takht Law",
-        "link": "https://www.ndtv.com/india-news/punjab-bjp-chief-praises-maharashtras-move-to-consult-sikhs-on-takht-law-11693024#publisher=newsstand"
-      },
-      {
-        "title": "Israel To Remain In South Lebanon Until Hezbollah Disarms: Netanyahu",
-        "link": "https://www.ndtv.com/world-news/israel-to-remain-in-south-lebanon-until-hezbollah-disarms-benjamin-netanyahu-11693023#publisher=newsstand"
-      },
-      {
-        "title": "Netherlands Euthanises Sick Child Under 12 For First Time In History",
-        "link": "https://www.ndtv.com/world-news/netherlands-euthanises-sick-child-under-12-for-first-time-in-history-11693020#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-26 20:55 UTC"
+  "last_updated": "2026-06-26 22:14 UTC"
 }
