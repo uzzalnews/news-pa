@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "Egypt vs Iran LIVE: FIFA World Cup 2026",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/live-egypt-vs-iran-world-cup-2026?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -21,34 +15,34 @@
         "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Three unusual things about the King's tax bill",
-        "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss"
+        "title": "Home Office to introduce new asylum routes to UK",
+        "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-        "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss"
+        "title": "Three unusual things about the King's tax bill",
+        "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Trump justifies strikes on Iran amid ceasefire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Paris Diamond League to go ahead with safety measures amid heatwave",
+        "link": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss"
+      },
       {
         "title": "US judge holds prosecutor in contempt in Charlie Kirk murder case",
         "link": "https://www.aljazeera.com/news/2026/6/26/us-judge-holds-prosecutor-in-contempt-in-charlie-kirk-murder-case?traffic_source=rss"
       },
       {
-        "title": "4.9 earthquake detected in Venezuela just days after major quakes",
+        "title": "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
         "link": "https://www.aljazeera.com/news/2026/6/26/4-9-earthquake-detected-in-venezuela-just-days-after-major-quakes?traffic_source=rss"
-      },
-      {
-        "title": "Egypt vs Iran LIVE: FIFA World Cup 2026",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/live-egypt-vs-iran-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "What is the framework agreement signed by Israel and Lebanon?",
-        "link": "https://www.aljazeera.com/news/2026/6/26/what-is-the-framework-agreement-signed-by-israel-and-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "Desperate families search for missing loved ones in Venezuela",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/desperate-families-search-for-missing-loved-ones-in-venezuela?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,6 +93,10 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html"
+      },
+      {
         "title": "In Small Step, Israel Agrees to Withdrawal From Two Areas in Lebanon",
         "link": "https://www.nytimes.com/2026/06/26/us/politics/israel-lebanon-agreement.html"
       },
@@ -107,19 +105,27 @@
         "link": "https://www.nytimes.com/2026/06/26/briefing/us-military-strikes-iran.html"
       },
       {
-        "title": "The Venezuela Earthquakes Hit a Health System Already in Crisis",
-        "link": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-shortages-doctors.html"
+        "title": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
+        "link": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html"
       },
       {
-        "title": "Venezuelans in New York Confront Earthquake Back Home",
-        "link": "https://www.nytimes.com/2026/06/26/nyregion/earthquakes-immigrants-grief-venezuela.html"
-      },
-      {
-        "title": "Centrist Democrats Rebuke Party’s Left Wing: ‘We Are Capitalist, Not Socialist’",
-        "link": "https://www.nytimes.com/2026/06/26/us/politics/moderate-democrats-capitalist-socialism.html"
+        "title": "What to Know About Problems at the Reflecting Pool and Trump’s Claims of Vandalism",
+        "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-vandalism-claims-reflecting-pool.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Kpler: Qatar-Energy LNG tanker latest to reverse course near Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kpler-qatar-energy-lng-tanker-reversed-course-near-hormuz"
+      },
+      {
+        "title": "JD Vance defends US strikes, warns Iran against escalation",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jd-vance-defends-us-strikes-warns-iran-against-escalation"
+      },
+      {
+        "title": "Hezbollah supporters block Beirut road to protest Israel-Lebanon agreement",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-supporters-block-beirut-road-burn-tires-protest-israel-lebanon"
+      },
       {
         "title": "‘Washington violated commitments’: IRGC says it targeted US forces in the region",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/washington-violated-commitments-irgc-says-it-targeted-us-forces-region"
@@ -127,21 +133,17 @@
       {
         "title": "Iranian official condemns US attack as ‘reckless violation of ceasefire’",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-condemns-us-attack-reckless-violation-ceasefire"
-      },
-      {
-        "title": "Lebanon and Israel sign 'framework agreement' to end war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-and-israel-sign-framework-agreement-end-war"
-      },
-      {
-        "title": "US confirms strikes on Iran, Tehran vows swift response",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-confirms-strikes-against-iran-tehran-vows-swift-response"
-      },
-      {
-        "title": "Sanctioned ICC judges sue Trump in US over 'attack on judicial independence'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sanctioned-icc-judges-sue-trump-us-over-attack-judicial-independence"
       }
     ],
     "GeoTV": [
+      {
+        "title": "‘Euphoria' star Chloe Cherry announces memoir",
+        "link": "https://www.geo.tv/latest/670454-euphoria-star-chloe-cherry-announces-memoir"
+      },
+      {
+        "title": "Madonna dodges question about Kylie Minogue collaboration",
+        "link": "https://www.geo.tv/latest/670452-madonna-dodges-question-about-kylie-minogue-collaboration"
+      },
       {
         "title": "Ariana Grande sparks romance rumours with ex after Ethan Slater split",
         "link": "https://www.geo.tv/latest/670451-ariana-grande-sparks-romance-rumours-with-ex-after-ethan-slater-split"
@@ -153,36 +155,28 @@
       {
         "title": "What is Angelina Jolie's take on Brad Pitt's legal win?",
         "link": "https://www.geo.tv/latest/670447-what-is-angelina-jolies-take-on-brad-pitts-legal-win"
-      },
-      {
-        "title": "India crush Pakistan 7-1 in second FIH Pro League clash",
-        "link": "https://www.geo.tv/latest/670448-india-crush-pakistan-7-1-in-second-fih-pro-league-clash"
-      },
-      {
-        "title": "Tom Holland teases next career plans with Zendaya after ‘Spider-Man'",
-        "link": "https://www.geo.tv/latest/670446-tom-holland-teases-next-career-plans-with-zendaya-after-spider-man"
       }
     ],
     "NDTV": [
       {
-        "title": "\"They Shouldn't Be Doing That\": Trump After Iran's Attack On Ship In Hormuz",
-        "link": "https://www.ndtv.com/world-news/donald-trump-after-irans-attack-on-ship-in-hormuz-11693351#publisher=newsstand"
+        "title": "Siachen Base Camp To Get Power Grid For First Time By September: Lt Governor",
+        "link": "https://www.ndtv.com/india-news/siachen-base-camp-to-get-power-grid-for-first-time-by-september-lt-governor-11693427#publisher=newsstand"
       },
       {
-        "title": "US Forces Strike Iranian Drone, Missile Sites After Attack On Cargo Ship",
-        "link": "https://www.ndtv.com/world-news/us-forces-strike-iranian-drone-missile-sites-after-attack-on-cargo-ship-11693221#publisher=newsstand"
+        "title": "Trump Thanks India After Hyderabad Renames Road After Him",
+        "link": "https://www.ndtv.com/world-news/donald-trump-thanks-india-after-hyderabad-renames-road-after-him-11693398#publisher=newsstand"
       },
       {
-        "title": "Hezbollah Rejects Israel-Lebanon Deal, Warns Of \"Civil War\"",
-        "link": "https://www.ndtv.com/world-news/hezbollah-rejects-israel-lebanon-ceasefire-deal-warns-of-civil-war-11693248#publisher=newsstand"
+        "title": "Iran Says It Targeted US Positions In The Region In Response To Attack",
+        "link": "https://www.ndtv.com/world-news/iran-says-it-targeted-us-positions-in-the-region-in-response-to-attack-11693388#publisher=newsstand"
       },
       {
-        "title": "\"Foolish Violation\": Trump Says Iran Fired 4 Drones At Ships In Hormuz, 1 Hit",
-        "link": "https://www.ndtv.com/world-news/foolish-violation-trump-says-iran-fired-4-drones-at-ships-in-hormuz-1-hit-11692486#publisher=newsstand"
+        "title": "Venezuela Earthquakes Live: New 4.9 Magnitude Earthquake Hits Venezuela",
+        "link": "https://www.ndtv.com/world-news/venezuela-earthquakes-live-updates-7-5-magnitude-earthquake-hit-usgs-caracas-airport-shut-emergency-declared-after-quake-in-moron-delcy-rodriguez-11683955#publisher=newsstand"
       },
       {
-        "title": "Trump Blasts \"Godless\" Democrats In Incendiary Speech To Evangelicals",
-        "link": "https://www.ndtv.com/world-news/donald-trump-blasts-godless-democrats-in-incendiary-speech-to-evangelicals-11693131#publisher=newsstand"
+        "title": "Days After Twin Quakes, Another Earthquake Hits Venezuela",
+        "link": "https://www.ndtv.com/world-news/days-after-twin-quakes-new-4-9-magnitude-earthquake-hits-venezuela-11693364#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-26 23:36 UTC"
+  "last_updated": "2026-06-27 01:32 UTC"
 }
