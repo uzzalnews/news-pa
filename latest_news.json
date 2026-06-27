@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Delhi-NCR Earthquake LIVE Updates: 6.2 Magnitude Earthquake Strikes Afghanistan, Tremors Felt In Delhi",
-      "link": "https://www.ndtv.com/india-news/delhi-earthquake-live-6-2-magnitude-earthquake-earthquake-today-live-updates-in-delhi-ncr-jammu-kashmir-poonch-afghanistan-26-june-11695740#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Australia to double fines on Big Tech as children bypass social media ban",
-        "link": "https://www.aljazeera.com/news/2026/6/27/australia-to-double-fines-on-big-tech-as-children-bypass-social-media-ban?traffic_source=rss"
+        "title": "Why is Crimea critical to the Russia–Ukraine war?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss"
       },
       {
-        "title": "How is framework agreement with Lebanon viewed in Israel?",
-        "link": "https://www.aljazeera.com/news/2026/6/27/how-is-framework-agreement-with-lebanon-viewed-in-israel?traffic_source=rss"
+        "title": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss"
       },
       {
-        "title": "Tropical Storm Mekkhala leaves Taiwan underwater",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss"
+        "title": "US Senate challenger, incumbent with same name to appear on Alaska ballot",
+        "link": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss"
       },
       {
-        "title": "Three security personnel killed in attack in Pakistan’s Karachi",
-        "link": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss"
+        "title": "South Africa’s Broos smiles and snarls before Canada World Cup showdown",
+        "link": "https://www.aljazeera.com/sports/2026/6/27/south-africas-broos-smiles-and-snarls-ahead-of-canada-world-cup-showdown?traffic_source=rss"
       },
       {
-        "title": "Lebanon divided over framework agreement signed in Washington",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/lebanon-divided-over-framework-agreement-signed-in-washington?traffic_source=rss"
+        "title": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,8 +78,8 @@
         "link": "https://www.dawn.com/news/2011136/tremors-felt-in-punjab-kp-hours-after-quakes-in-balochistan"
       },
       {
-        "title": "Venezuela welcomes 1,600 foreign rescuers in urgent search for quake survivors",
-        "link": "https://www.dawn.com/news/2011171/venezuela-welcomes-1600-foreign-rescuers-in-urgent-search-for-quake-survivors"
+        "title": "Venezuela quakes kill almost 1,500, with millions more in need",
+        "link": "https://www.dawn.com/news/2011171/venezuela-quakes-kill-almost-1500-with-millions-more-in-need"
       },
       {
         "title": "Traders to resume business activities in Muzaffarabad from Sunday, distance themselves from JAAC",
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Netanyahu says he wants broad coalition after Israel election",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-he-wants-broad-coalition-after-israel-election"
+      },
+      {
+        "title": "Netanyahu hails Lebanon deal as ‘blow’ to Iran and Hezbollah",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-hails-lebanon-deal-blow-iran-and-hezbollah"
+      },
+      {
         "title": "Israeli far-right minister Ben-Gvir attacks Lebanon deal",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-far-right-minister-ben-gvir-attacks-lebanon-deal"
       },
@@ -131,37 +133,29 @@
       {
         "title": "In the shadow of Minab: Inside the US testing of 'new missiles' on Iran’s Lamerd",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-army-chief-holds-uk-talks-ceasefire-and-border-security"
-      },
-      {
-        "title": "Israel says troops will occupy southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-troops-will-occupy-southern-lebanon"
-      },
-      {
-        "title": "Israel strikes southern Lebanon after US-brokered security deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-southern-lebanon-after-us-brokered-security-deal"
       }
     ],
     "GeoTV": [],
     "NDTV": [
       {
-        "title": "CBI Attaches Rs 53 Crore Assets Of Former Assam Top Cop In Corruption Case",
-        "link": "https://www.ndtv.com/india-news/cbi-attaches-rs-53-crore-assets-of-former-assam-top-cop-in-corruption-case-11696579#publisher=newsstand"
-      },
-      {
-        "title": "Manipur Civil Groups Seek Action After Kuki Body Apologises For Killing 6 Naga Hostages",
-        "link": "https://www.ndtv.com/india-news/manipur-meitei-naga-civil-groups-seek-action-after-kuki-zo-council-kzc-apologises-for-killing-6-naga-hostages-11696566#publisher=newsstand"
+        "title": "Bangladesh-China Joint Statement, Mongla Port's Implications For India Decoded",
+        "link": "https://www.ndtv.com/india-news/bangladesh-china-joint-statement-mongla-ports-implications-for-india-decoded-11696681#publisher=newsstand"
       },
       {
         "title": "Explosion, Gunfire In Pakistan's Karachi, 3 Army Rangers Dead: Local Media",
         "link": "https://www.ndtv.com/world-news/explosion-gunfire-in-pakistans-karachi-3-army-rangers-dead-local-media-11696472#publisher=newsstand"
       },
       {
-        "title": "Venezuela Earthquakes Live: Officials Say Death Count From Venezuela Earthquake Rises To 1,430",
-        "link": "https://www.ndtv.com/world-news/venezuela-earthquakes-live-updates-7-5-magnitude-earthquake-hit-usgs-caracas-airport-shut-emergency-declared-after-quake-in-moron-delcy-rodriguez-11683955#publisher=newsstand"
+        "title": "The Subtext Behind Congress's New UP Incharge On \"Equal\" Seat-Sharing",
+        "link": "https://www.ndtv.com/india-news/the-subtext-behind-congresss-new-up-incharge-rajendra-pal-gautam-on-equal-seat-sharing-11696679#publisher=newsstand"
       },
       {
-        "title": "Delhi-NCR Earthquake LIVE Updates: 6.2 Magnitude Earthquake Strikes Afghanistan, Tremors Felt In Delhi",
+        "title": "Delhi-NCR Earthquake Highlights: 6.2 Magnitude Earthquake Strikes Afghanistan, Tremors Felt In Delhi",
         "link": "https://www.ndtv.com/india-news/delhi-earthquake-live-6-2-magnitude-earthquake-earthquake-today-live-updates-in-delhi-ncr-jammu-kashmir-poonch-afghanistan-26-june-11695740#publisher=newsstand"
+      },
+      {
+        "title": "Father Lynches Two Children After Fight With Wife In Tripura",
+        "link": "https://www.ndtv.com/india-news/father-lynches-two-children-after-fight-with-wife-in-tripura-11696596#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -187,5 +181,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-27 18:47 UTC"
+  "last_updated": "2026-06-27 20:00 UTC"
 }
