@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Watch: Moment newborn baby is rescued from Venezuela earthquake rubble",
+        "link": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Mahmood announces new refugee sponsorship route into UK",
         "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,13 @@
       {
         "title": "US strikes Iran after attack on cargo ship",
         "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-        "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Three killed as Ukraine and Russia trade attacks overnight",
+        "link": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss"
+      },
       {
         "title": "Childhood interrupted: Family awaits justice 8 years after baby was raped",
         "link": "https://www.aljazeera.com/features/longform/2026/6/27/childhood-interrupted-family-awaits-justice-8-years-after-baby-was-raped?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Ronaldo, Portugal play Colombia in World Cup: Prediction, kickoff, schedule",
         "link": "https://www.aljazeera.com/sports/2026/6/27/colombia-portugal-fifa-world-cup-2026-schedule-ronaldo-prediction?traffic_source=rss"
-      },
-      {
-        "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
-        "link": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +74,10 @@
         "link": "https://www.dawn.com/news/2011102/india-increasingly-resorting-to-covert-tactics-proxies-to-undermine-peace-in-pakistan-pm-shehbaz"
       },
       {
+        "title": "Aleema challenges PTI founder Imran Khan's 'solitary confinement' before IHC",
+        "link": "https://www.dawn.com/news/2011160/aleema-challenges-pti-founder-imran-khans-solitary-confinement-before-ihc"
+      },
+      {
         "title": "8 terrorists killed in high-tempo intelligence operations in Balochistan: ISPR",
         "link": "https://www.dawn.com/news/2011113/8-terrorists-killed-in-high-tempo-intelligence-operations-in-balochistan-ispr"
       },
@@ -82,12 +86,8 @@
         "link": "https://www.dawn.com/news/2011094/us-and-iran-trade-strikes-putting-fresh-strain-on-mideast-ceasefire"
       },
       {
-        "title": "Minister says govt not giving preference to any sector after petrol, diesel prices kept unchanged",
-        "link": "https://www.dawn.com/news/2011121/minister-says-govt-not-giving-preference-to-any-sector-after-petrol-diesel-prices-kept-unchanged"
-      },
-      {
-        "title": "3 injured after two earthquakes hit Balochistan",
-        "link": "https://www.dawn.com/news/2011136/3-injured-after-two-earthquakes-hit-balochistan"
+        "title": "UK to expand refugee sponsorship schemes",
+        "link": "https://www.dawn.com/news/2011157/uk-to-expand-refugee-sponsorship-schemes"
       }
     ],
     "APNews": [],
@@ -109,53 +109,53 @@
         "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html"
       },
       {
-        "title": "Two Earthquakes Hit Venezuela: What to Know About Death Toll, Damage and Rescue Response",
-        "link": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquakes-death-toll-aid-response.html"
+        "title": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
+        "link": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Hezbollah chief accuses Lebanese government of 'legitimising' Israeli occupation with deal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-it-will-continue-pressure-until-israel-withdraws"
+      },
+      {
+        "title": "Iran and US trade attacks in worst escalation since peace deal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-us-trade-attacks-worst-escalation-peace-deal"
+      },
+      {
+        "title": "Qatar, GCC condemn Iranian drone attacks on Bahrain",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-gcc-condemn-iranian-drone-attacks-bahrain"
+      },
+      {
+        "title": "Iran and US trade attacks in worst escalation since peace deal",
+        "link": "https://www.middleeasteye.net/news/iran-and-us-trade-attacks-worst-escalation-peace-deal"
+      },
+      {
         "title": "Kuwait condemns Iranian attack on Bahrain",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-condemns-iranian-attack-bahrain"
-      },
-      {
-        "title": "Hezbollah supporters protest in Beirut against Israel deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-supporters-protest-beirut-against-israel-deal"
-      },
-      {
-        "title": "Iran says more ships seek Hormuz transit permits after warning shots fired",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-more-ships-seek-hormuz-transit-permits-after-warning-shots"
-      },
-      {
-        "title": "Hezbollah supporters protest in Beirut against Israel deal",
-        "link": "https://www.middleeasteye.net/news/hezbollah-supporters-protest-beirut-against-israel-deal"
-      },
-      {
-        "title": "Israeli media: Israel’s ‘goal from the start’ was leading Lebanon into civil war",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-leading-lebanon-civil-war-israels-goal-start"
       }
     ],
     "GeoTV": [],
     "NDTV": [
       {
-        "title": "Oil Tanker Hit By \"Unknown Projectile\" In Hormuz As Iran, US Exchange Fire",
-        "link": "https://www.ndtv.com/world-news/oil-tanker-hit-by-unknown-projectile-in-hormuz-as-iran-us-exchange-fire-11695105#publisher=newsstand"
+        "title": "70 Years, Four Generations Later, Supreme Court Settles Land Dispute",
+        "link": "https://www.ndtv.com/india-news/70-years-four-generations-later-supreme-court-settles-land-dispute-11694571#publisher=newsstand"
       },
       {
-        "title": "YSRCP Alleges Attack By TDP Supporters Over Amaravati Land Row",
-        "link": "https://www.ndtv.com/andhra-pradesh-news/ysrcp-alleges-attack-by-tdp-supporters-over-amaravati-land-row-11695034#publisher=newsstand"
+        "title": "Small Plane Crash At Beijing's Tallest Building Kills Pilot, Injures 13",
+        "link": "https://www.ndtv.com/world-news/small-plane-crash-at-beijings-tallest-building-kills-pilot-injures-13-others-11695329#publisher=newsstand"
       },
       {
-        "title": "PM Modi Meets World's Oldest Living Land Animal During Seychelles Visit",
-        "link": "https://www.ndtv.com/india-news/prime-minister-narendra-modi-to-meet-worlds-oldest-living-land-animal-during-seychelles-visit-11694172#publisher=newsstand"
+        "title": "Punjab BJP Chief Praises Maharashtra's Move To Consult Sikhs On Takht Law",
+        "link": "https://www.ndtv.com/india-news/punjab-bjp-chief-praises-maharashtras-move-to-consult-sikhs-on-takht-law-11693024#publisher=newsstand"
       },
       {
-        "title": "Raids In 3 Kashmir Districts In Terror Funding Case, Digital Devices Seized",
-        "link": "https://www.ndtv.com/india-news/raids-in-3-kashmir-districts-in-terror-funding-case-digital-devices-seized-11695023#publisher=newsstand"
+        "title": "Karnataka Man Stabs Woman In Car, He Dies After Vehicle Explodes",
+        "link": "https://www.ndtv.com/karnataka-news/karnataka-man-stabs-woman-in-car-he-dies-after-vehicle-explodes-11695279#publisher=newsstand"
       },
       {
-        "title": "Amit Shah Launches Bharat Taxi In Gujarat, Says Other Apps Exploit Drivers",
-        "link": "https://www.ndtv.com/india-news/amit-shah-launches-bharat-taxi-in-gujarat-says-other-apps-exploit-drivers-11695011#publisher=newsstand"
+        "title": "\"Blatant Violation Of Peace Deal\": Iran Slams US After Strikes",
+        "link": "https://www.ndtv.com/world-news/blatant-violation-of-peace-deal-iran-slams-us-after-strikes-11695226#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -181,5 +181,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-27 11:53 UTC"
+  "last_updated": "2026-06-27 13:21 UTC"
 }
