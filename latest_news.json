@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Delhi-NCR Earthquake LIVE Updates: 6.2 Magnitude Earthquake Strikes Afghanistan, Tremors Felt In Delhi",
-      "link": "https://www.ndtv.com/india-news/delhi-earthquake-live-6-2-magnitude-earthquake-earthquake-today-live-updates-in-delhi-ncr-jammu-kashmir-poonch-afghanistan-26-june-11695740#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,7 +7,7 @@
         "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Hundreds of Heathrow and Gatwick flights delayed due to thunderstorms",
+        "title": "Thunderstorms delay hundreds of Heathrow and Gatwick flights",
         "link": "https://www.bbc.co.uk/news/articles/cjwgynnwyw2o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Tropical Storm Mekkhala leaves Taiwan underwater",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/tropical-storm-mekkhala-leaves-taiwan-underwater?traffic_source=rss"
+      },
+      {
+        "title": "Explosion and gunfire reported in Pakistan’s Karachi",
+        "link": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon divided over framework agreement signed in Washington",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/lebanon-divided-over-framework-agreement-signed-in-washington?traffic_source=rss"
+      },
+      {
         "title": "Israeli drone attack kills young girl in Gaza safe zone",
         "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss"
       },
       {
         "title": "Bosnia: The lilies and dragons of the World Cup",
         "link": "https://www.aljazeera.com/opinions/2026/6/27/bosnia-the-lilies-and-dragons-of-the-world?traffic_source=rss"
-      },
-      {
-        "title": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south",
-        "link": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss"
-      },
-      {
-        "title": "With water cuts looming in Arizona in US, locals fight data centres",
-        "link": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss"
-      },
-      {
-        "title": "Sabalenka defends Wimbledon prize protest, says it’s for struggling players",
-        "link": "https://www.aljazeera.com/sports/2026/6/27/sabalenka-defends-wimbledon-protest-says-its-for-struggling-players?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "Heavy firing, explosion reported in Karachi's Gulistan-i-Jauhar",
-        "link": "https://www.dawn.com/news/2011178/heavy-firing-explosion-reported-in-karachis-gulistan-i-jauhar"
+        "title": "3 Sindh Rangers personnel martyred during attack on local headquarters in Karachi's Gulistan-i-Jauhar: Sindh IG",
+        "link": "https://www.dawn.com/news/2011178/3-sindh-rangers-personnel-martyred-during-attack-on-local-headquarters-in-karachis-gulistan-i-jauhar-sindh-ig"
       },
       {
         "title": "Tremors felt in Punjab, KP hours after quakes in Balochistan",
@@ -99,7 +93,7 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Renewed Strikes Threaten to Set Back Shipping Recovery in Persian Gulf",
+        "title": "In Strait of Hormuz, Renewed Strikes Threaten to Set Back Shipping Recovery",
         "link": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html"
       },
       {
@@ -121,47 +115,47 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Lebanon army chief holds UK talks on ceasefire and border security",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-army-chief-holds-uk-talks-ceasefire-and-border-security"
+      },
+      {
+        "title": "Israel says troops will occupy southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-troops-will-occupy-southern-lebanon"
+      },
+      {
+        "title": "Israel strikes southern Lebanon after US-brokered security deal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-strikes-southern-lebanon-after-us-brokered-security-deal"
+      },
+      {
         "title": "Lebanese army commander meets UK defence chiefs",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-commander-meets-uk-defence-chiefs"
       },
       {
         "title": "Damascus races to reassure Beirut as Trump pushes Syria to take on Hezbollah",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/damascus-races-reassure-beirut-trump-pushes-syria-take-hezbollah"
-      },
-      {
-        "title": "Several Palestinians injured in Israeli drone strike on Gaza City tent",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-israeli-drone-strike-gaza-city-tent"
-      },
-      {
-        "title": "Damascus races to reassure Beirut as Trump pushes Syria to take on Hezbollah",
-        "link": "https://www.middleeasteye.net/news/damascus-races-reassure-beirut-trump-pushes-syria-take-on-hezbollah"
-      },
-      {
-        "title": "Jordan, European Commission chief welcome Israel-Lebanon deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-eu-chief-welcome-israel-lebanon-deal"
       }
     ],
     "GeoTV": [],
     "NDTV": [
       {
-        "title": "Air India May Restore Some International Flights As Tensions In Gulf Ease",
-        "link": "https://www.ndtv.com/india-news/air-india-may-restore-some-international-flights-as-tensions-in-gulf-ease-11696142#publisher=newsstand"
+        "title": "Venezuela Earthquakes May Have Affected Nearly 7 Million People: UN",
+        "link": "https://www.ndtv.com/world-news/venezuela-earthquakes-may-have-affected-nearly-7-million-people-un-11696335#publisher=newsstand"
       },
       {
-        "title": "10,000 Vespas Swarm Rome's Historic Sites To Mark Scooter's 80th Anniversary",
-        "link": "https://www.ndtv.com/world-news/10-000-vespas-swarm-romes-historic-sites-to-mark-scooters-80th-anniversary-11696062#publisher=newsstand"
+        "title": "Many Similarities In Leadership Style: US Envoy Says PM Modi, Trump Think Alike",
+        "link": "https://www.ndtv.com/world-news/many-similarities-in-leadership-style-us-envoy-says-pm-modi-trump-think-alike-11696257#publisher=newsstand"
       },
       {
-        "title": "Delhi-NCR Earthquake LIVE Updates: 6.2 Magnitude Earthquake Strikes Afghanistan, Tremors Felt In Delhi",
-        "link": "https://www.ndtv.com/india-news/delhi-earthquake-live-6-2-magnitude-earthquake-earthquake-today-live-updates-in-delhi-ncr-jammu-kashmir-poonch-afghanistan-26-june-11695740#publisher=newsstand"
+        "title": "Video: Siya Goyal, Chetan Chaudhary At Undated Cricket Match",
+        "link": "https://www.ndtv.com/india-news/video-siya-goyal-chetan-chaudhary-at-undated-cricket-match-11696239#publisher=newsstand"
       },
       {
-        "title": "Behind Siya Goyal-Ketan Agarwal Matchmaking, Role Of \"Mittal Family\" In Focus",
-        "link": "https://www.ndtv.com/india-news/behind-siya-goyal-ketan-agarwal-matchmaking-role-of-mittal-family-in-focus-11695625#publisher=newsstand"
+        "title": "India's Electronics Revolution: The Jewar Leap",
+        "link": "https://www.ndtv.com/india-news/indias-electronics-revolution-the-jewar-leap-11696236#publisher=newsstand"
       },
       {
-        "title": "MacBook, iPad Price Hikes Only The Beginning: Here's What You May Pay Next",
-        "link": "https://www.ndtv.com/world-news/macbook-ipad-price-hikes-only-the-beginning-heres-what-you-may-pay-next-11695936#publisher=newsstand"
+        "title": "Inside Details Of FIR Alleging Siya Goyal Killed Her Fiance Ketan Agarwal",
+        "link": "https://www.ndtv.com/india-news/inside-details-of-fir-alleging-siya-goyal-killed-her-fiance-ketan-agarwal-11696215#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -187,5 +181,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-27 16:13 UTC"
+  "last_updated": "2026-06-27 17:32 UTC"
 }
