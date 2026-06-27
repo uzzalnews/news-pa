@@ -1,14 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Delhi-NCR Earthquake LIVE Updates: 6.2 Magnitude Earthquake Strikes Afghanistan, Tremors Felt In Delhi",
+      "link": "https://www.ndtv.com/india-news/delhi-earthquake-live-6-2-magnitude-earthquake-earthquake-today-live-updates-in-delhi-ncr-jammu-kashmir-poonch-afghanistan-26-june-11695740#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Watch: Moment newborn baby is rescued from Venezuela earthquake rubble",
-        "link": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mahmood announces new refugee sponsorship route into UK",
-        "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss"
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Hundreds of Heathrow and Gatwick flights delayed due to thunderstorms",
@@ -19,30 +21,34 @@
         "link": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Mahmood announces new refugee sponsorship route into UK",
+        "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "US strikes Iran after attack on cargo ship",
         "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Three killed as Ukraine and Russia trade attacks overnight",
-        "link": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss"
+        "title": "Bodycam shows driver offering armed police a lift mid-chase",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss"
       },
       {
-        "title": "Childhood interrupted: Family awaits justice 8 years after baby was raped",
-        "link": "https://www.aljazeera.com/features/longform/2026/6/27/childhood-interrupted-family-awaits-justice-8-years-after-baby-was-raped?traffic_source=rss"
+        "title": "Toxic Bielsa leaves ‘nothing good’ behind as Uruguay suffer World Cup shock",
+        "link": "https://www.aljazeera.com/sports/2026/6/27/toxic-bielsa-leaves-nothing-good-behind-in-uruguay-shock-world-cup-exit?traffic_source=rss"
       },
       {
-        "title": "Exclusive: Infiltrating Myanmar’s scam syndicates",
-        "link": "https://www.aljazeera.com/video/101-east/2026/6/27/exclusive-infiltrating-myanmars-scam-syndicates?traffic_source=rss"
+        "title": "Cape Verde break record as smallest nation to reach World Cup knockouts",
+        "link": "https://www.aljazeera.com/sports/2026/6/27/cape-verde-break-record-as-smallest-nation-to-reach-world-cup-knockouts?traffic_source=rss"
       },
       {
-        "title": "No school, living in a tent, but it’s exam time in Gaza",
-        "link": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss"
+        "title": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
+        "link": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss"
       },
       {
-        "title": "Ronaldo, Portugal play Colombia in World Cup: Prediction, kickoff, schedule",
-        "link": "https://www.aljazeera.com/sports/2026/6/27/colombia-portugal-fifa-world-cup-2026-schedule-ronaldo-prediction?traffic_source=rss"
+        "title": "Venezuela leader jeered as rescue efforts hampered",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/venezuela-leader-jeered-as-rescue-efforts-hampered?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,20 +76,20 @@
     ],
     "Dawn": [
       {
-        "title": "India increasingly resorting to covert tactics, proxies to undermine peace in Pakistan: PM Shehbaz",
-        "link": "https://www.dawn.com/news/2011102/india-increasingly-resorting-to-covert-tactics-proxies-to-undermine-peace-in-pakistan-pm-shehbaz"
+        "title": "Tremors felt in Punjab, KP hours after quakes in Balochistan",
+        "link": "https://www.dawn.com/news/2011136/tremors-felt-in-punjab-kp-hours-after-quakes-in-balochistan"
       },
       {
         "title": "Aleema challenges PTI founder Imran Khan's 'solitary confinement' before IHC",
         "link": "https://www.dawn.com/news/2011160/aleema-challenges-pti-founder-imran-khans-solitary-confinement-before-ihc"
       },
       {
-        "title": "8 terrorists killed in high-tempo intelligence operations in Balochistan: ISPR",
-        "link": "https://www.dawn.com/news/2011113/8-terrorists-killed-in-high-tempo-intelligence-operations-in-balochistan-ispr"
+        "title": "Venezuela welcomes 1,600 foreign rescuers in urgent search for quake survivors",
+        "link": "https://www.dawn.com/news/2011171/venezuela-welcomes-1600-foreign-rescuers-in-urgent-search-for-quake-survivors"
       },
       {
-        "title": "US and Iran trade strikes, putting fresh strain on Mideast ceasefire",
-        "link": "https://www.dawn.com/news/2011094/us-and-iran-trade-strikes-putting-fresh-strain-on-mideast-ceasefire"
+        "title": "PMD issues Glof alert for GB, KP amid soaring temperatures",
+        "link": "https://www.dawn.com/news/2011118/pmd-issues-glof-alert-for-gb-kp-amid-soaring-temperatures"
       },
       {
         "title": "UK to expand refugee sponsorship schemes",
@@ -101,61 +107,61 @@
         "link": "https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html"
       },
       {
-        "title": "In Small Step, Israel Agrees to Withdrawal From Two Areas in Lebanon",
-        "link": "https://www.nytimes.com/2026/06/26/us/politics/israel-lebanon-agreement.html"
-      },
-      {
-        "title": "Venezuela’s Economy Was On the Rise. Then the Earthquakes Struck.",
-        "link": "https://www.nytimes.com/2026/06/27/world/americas/venezuelas-economy-earthquake.html"
+        "title": "Deal With Israel Divides Lebanese, Fueling Protests in Beirut",
+        "link": "https://www.nytimes.com/2026/06/27/world/middleeast/lebanon-israel-deal-divisions-protests-beirut.html"
       },
       {
         "title": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
         "link": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html"
+      },
+      {
+        "title": "Watergate Today as a Blip of a Story? Vance Might Not Be Entirely Wrong.",
+        "link": "https://www.nytimes.com/2026/06/27/us/politics/watergate-vance-trump-nixon.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "Damascus races to reassure Beirut as Trump pushes Syria to take on Hezbollah",
+        "link": "https://www.middleeasteye.net/news/damascus-races-reassure-beirut-trump-pushes-syria-take-on-hezbollah"
+      },
+      {
+        "title": "Jordan, European Commission chief welcome Israel-Lebanon deal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-eu-chief-welcome-israel-lebanon-deal"
+      },
+      {
+        "title": "Israel attack on Gaza refugee camp kills two, including a young girl",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-attack-gaza-refugee-camp-kills-two-including-young-girl"
+      },
+      {
+        "title": "UAE condemns Iranian strike on Bahrain",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-strike-bahrain"
+      },
+      {
         "title": "Hezbollah chief accuses Lebanese government of 'legitimising' Israeli occupation with deal",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-it-will-continue-pressure-until-israel-withdraws"
-      },
-      {
-        "title": "Iran and US trade attacks in worst escalation since peace deal",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-us-trade-attacks-worst-escalation-peace-deal"
-      },
-      {
-        "title": "Qatar, GCC condemn Iranian drone attacks on Bahrain",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-gcc-condemn-iranian-drone-attacks-bahrain"
-      },
-      {
-        "title": "Iran and US trade attacks in worst escalation since peace deal",
-        "link": "https://www.middleeasteye.net/news/iran-and-us-trade-attacks-worst-escalation-peace-deal"
-      },
-      {
-        "title": "Kuwait condemns Iranian attack on Bahrain",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-condemns-iranian-attack-bahrain"
       }
     ],
     "GeoTV": [],
     "NDTV": [
       {
-        "title": "70 Years, Four Generations Later, Supreme Court Settles Land Dispute",
-        "link": "https://www.ndtv.com/india-news/70-years-four-generations-later-supreme-court-settles-land-dispute-11694571#publisher=newsstand"
+        "title": "Couple, Toddler Found Dead In Kerala River, Search On For Missing Daughter",
+        "link": "https://www.ndtv.com/india-news/couple-toddler-found-dead-in-kerala-river-search-on-for-missing-daughter-11695861#publisher=newsstand"
       },
       {
-        "title": "Small Plane Crash At Beijing's Tallest Building Kills Pilot, Injures 13",
-        "link": "https://www.ndtv.com/world-news/small-plane-crash-at-beijings-tallest-building-kills-pilot-injures-13-others-11695329#publisher=newsstand"
+        "title": "Delhi-NCR Earthquake LIVE Updates: 6.2 Magnitude Earthquake Strikes Afghanistan, Tremors Felt In Delhi",
+        "link": "https://www.ndtv.com/india-news/delhi-earthquake-live-6-2-magnitude-earthquake-earthquake-today-live-updates-in-delhi-ncr-jammu-kashmir-poonch-afghanistan-26-june-11695740#publisher=newsstand"
       },
       {
-        "title": "Punjab BJP Chief Praises Maharashtra's Move To Consult Sikhs On Takht Law",
-        "link": "https://www.ndtv.com/india-news/punjab-bjp-chief-praises-maharashtras-move-to-consult-sikhs-on-takht-law-11693024#publisher=newsstand"
+        "title": "\"Playhouse For Predator\": Epstein Used 'Fake' Science Office As Prison Escape",
+        "link": "https://www.ndtv.com/world-news/inside-epsteins-palm-beach-science-office-that-helped-him-live-beyond-prison-11695603#publisher=newsstand"
       },
       {
-        "title": "Karnataka Man Stabs Woman In Car, He Dies After Vehicle Explodes",
-        "link": "https://www.ndtv.com/karnataka-news/karnataka-man-stabs-woman-in-car-he-dies-after-vehicle-explodes-11695279#publisher=newsstand"
+        "title": "Behind Siya Goyal-Ketan Agarwal Matchmaking, Role Of \"Mittal Family\" In Focus",
+        "link": "https://www.ndtv.com/india-news/behind-siya-goyal-ketan-agarwal-matchmaking-role-of-mittal-family-in-focus-11695625#publisher=newsstand"
       },
       {
-        "title": "\"Blatant Violation Of Peace Deal\": Iran Slams US After Strikes",
-        "link": "https://www.ndtv.com/world-news/blatant-violation-of-peace-deal-iran-slams-us-after-strikes-11695226#publisher=newsstand"
+        "title": "Small Aircraft Crashes That Rocked Beijing Over The Past 20 Years",
+        "link": "https://www.ndtv.com/world-news/small-aircraft-crashes-that-rocked-beijing-over-the-past-20-years-11695572#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -181,5 +187,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-27 13:21 UTC"
+  "last_updated": "2026-06-27 14:58 UTC"
 }
