@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "South Africa vs Canada LIVE: FIFA World Cup 2026",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -21,34 +15,34 @@
         "link": "https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "How Bellingham became Tuchel's most important player",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss"
+        "title": "Catherine completes Three Peaks Challenge to 'explore life beyond' cancer diagnosis",
+        "link": "https://www.bbc.co.uk/news/articles/cwydwgy7125o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Harry reconsiders bringing Meghan and children on UK trip",
-        "link": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss"
+        "title": "How Bellingham became Tuchel's most important player",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
+        "link": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss"
+      },
+      {
+        "title": "The aftermath of Venezuela’s deadly earthquake",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-aftermath-of-venezuelas-deadly-earthquake?traffic_source=rss"
+      },
+      {
+        "title": "The match that changed the World Cup forever",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-match-that-changed-the-world-cup-forever?traffic_source=rss"
+      },
       {
         "title": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss"
       },
       {
-        "title": "Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes",
-        "link": "https://www.aljazeera.com/sports/2026/6/28/russell-beats-verstappen-at-austrian-grand-prix-to-boost-f1-title-hopes?traffic_source=rss"
-      },
-      {
-        "title": "Israel strikes Lebanon, testing days-old peace deal",
-        "link": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss"
-      },
-      {
-        "title": "South Africa vs Canada LIVE: FIFA World Cup 2026",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "Iraq arrests senior officials in anti-corruption raids",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss"
+        "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
+        "link": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,47 +115,47 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Qatari citizen killed by shrapnel after vessel goes missing",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-citizen-killed-shrapnel-after-vessel-goes-missing"
+      },
+      {
+        "title": "Tehran-Dubai flights to restart after Israeli-US war",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-dubai-flights-restart-after-israeli-us-war"
+      },
+      {
+        "title": "Israel took wounded Palestinian from hospital; 18 months later, family told he is dead",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-took-wounded-palestinian-hospital-18-months-later-family-told-he"
+      },
+      {
         "title": "Israel kills three Palestinians in Gaza attacks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-gaza-attacks"
       },
       {
         "title": "Iran and Lebanon speakers discuss Israel’s war",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-lebanon-speakers-discuss-israels-war"
-      },
-      {
-        "title": "Israeli army chief says 'we will honour' Lebanon agreement",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-chief-says-we-will-honour-lebanon-agreement"
-      },
-      {
-        "title": "Israeli attacks kill three in Gaza over past 24 hours",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-3-gaza-over-past-24-hours"
-      },
-      {
-        "title": "Iraq arrests 47 officials in anti-corruption crackdown",
-        "link": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown"
       }
     ],
     "GeoTV": [],
     "NDTV": [
       {
-        "title": "PM Modi Highlights Climate Impact On Island Nations In Seychelles",
-        "link": "https://www.ndtv.com/india-news/pm-modi-highlights-climate-impact-on-island-nations-in-seychelles-11699347#publisher=newsstand"
+        "title": "\"I'm Human\": D Fadnavis After Uddhav Thackeray's \"Clip Wings\" Remark",
+        "link": "https://www.ndtv.com/india-news/im-human-d-fadnavis-after-uddhav-thackerays-clip-wings-remark-11699555#publisher=newsstand"
+      },
+      {
+        "title": "NASA's $30 Million Mission To Save Telescope From Falling Back To Earth",
+        "link": "https://www.ndtv.com/world-news/nasa-30-million-mission-to-save-telescope-from-falling-back-to-earth-11699550#publisher=newsstand"
+      },
+      {
+        "title": "19-Month-Old Taken To Madhya Pradesh Hospital With Cold. He Loses Eyesight",
+        "link": "https://www.ndtv.com/india-news/19-month-old-taken-to-madhya-pradesh-hospital-with-cold-he-loses-eyesight-11699477#publisher=newsstand"
+      },
+      {
+        "title": "Dance, Dive, Tragedy: Man Dies After Jumping Into Resort Pool In Maharashtra",
+        "link": "https://www.ndtv.com/india-news/dance-dive-tragedy-man-dies-after-jumping-into-resort-pool-in-maharashtra-11699455#publisher=newsstand"
       },
       {
         "title": "How A Rats' Nest Led To Poison Pills At Mumbai's Muharram Procession",
         "link": "https://www.ndtv.com/india-news/how-a-rats-nest-led-to-poison-pills-at-mumbais-muharram-procession-11699345#publisher=newsstand"
-      },
-      {
-        "title": "'17 Years Of Silence': Baloch Activist's Open Letter Exposes Pak's Forced Disappearances",
-        "link": "https://www.ndtv.com/world-news/17-years-of-silence-baloch-activists-open-letter-exposes-pak-forced-disappearances-11699323#publisher=newsstand"
-      },
-      {
-        "title": "50 kg Poison, 30,000 Pills, Iran Trips: Mumbai Accused's '15,000 Deaths' Plan",
-        "link": "https://www.ndtv.com/india-news/who-is-fayyaz-premji-50-kg-poison-30-000-pills-iran-trips-mumbai-accuseds-15-000-deaths-plan-11699241#publisher=newsstand"
-      },
-      {
-        "title": "On Camera, 4 Members Of Family Killed As Speeding SUV Rams Car On UP Highway",
-        "link": "https://www.ndtv.com/india-news/on-camera-4-members-of-family-killed-as-speeding-suv-rams-car-on-up-highway-11699277#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -187,5 +181,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-28 17:02 UTC"
+  "last_updated": "2026-06-28 18:14 UTC"
 }
