@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "South Africa vs Canada LIVE: FIFA World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss"
+      },
+      {
+        "title": "Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes",
+        "link": "https://www.aljazeera.com/sports/2026/6/28/russell-beats-verstappen-at-austrian-grand-prix-to-boost-f1-title-hopes?traffic_source=rss"
+      },
+      {
+        "title": "Israel strikes Lebanon, testing days-old peace deal",
+        "link": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss"
+      },
+      {
+        "title": "South Africa vs Canada LIVE: FIFA World Cup 2026",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026?traffic_source=rss"
+      },
+      {
         "title": "Iraq arrests senior officials in anti-corruption raids",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss"
-      },
-      {
-        "title": "Ben Stokes, England test captain, to retire from international cricket",
-        "link": "https://www.aljazeera.com/sports/2026/6/28/ben-stokes-england-test-captain-to-retire-from-international-cricket?traffic_source=rss"
-      },
-      {
-        "title": "Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak",
-        "link": "https://www.aljazeera.com/news/2026/6/28/qa-why-humanitarian-aid-is-crucial-to-stopping-the-ebola-outbreak?traffic_source=rss"
-      },
-      {
-        "title": "If USMCA is not renewed, analysts expect uncertainty for businesses",
-        "link": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss"
-      },
-      {
-        "title": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,8 @@
     ],
     "Dawn": [
       {
-        "title": "After tit-for-tat strikes by US and Iran, Araghchi says any challenge to Hormuz routes will 'increase tensions'",
-        "link": "https://www.dawn.com/news/2011386/after-tit-for-tat-strikes-by-us-and-iran-araghchi-says-any-challenge-to-hormuz-routes-will-increase-tensions"
+        "title": "Iran's supreme leader says legal cases must be pursued against US, Israel over 'child killings, war crimes'",
+        "link": "https://www.dawn.com/news/2011424/irans-supreme-leader-says-legal-cases-must-be-pursued-against-us-israel-over-child-killings-war-crimes"
       },
       {
         "title": "Provincial autonomy 'must remain free from interference', nothing in 'black and white' on 28th amendment yet: PPP",
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel kills three Palestinians in Gaza attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-gaza-attacks"
+      },
+      {
         "title": "Iran and Lebanon speakers discuss Israel’s war",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-lebanon-speakers-discuss-israels-war"
       },
@@ -129,10 +139,6 @@
       {
         "title": "Iraq arrests 47 officials in anti-corruption crackdown",
         "link": "https://www.middleeasteye.net/news/iraq-arrest-47-officials-anti-corruption-crackdown"
-      },
-      {
-        "title": "Israeli soldiers shoot at journalists in Syrian village",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldiers-shoot-journalists-syrian-village"
       }
     ],
     "GeoTV": [],
@@ -181,5 +187,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-28 15:52 UTC"
+  "last_updated": "2026-06-28 17:02 UTC"
 }
