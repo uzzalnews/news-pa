@@ -1,59 +1,48 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Green Amid Mixed Global Cues",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-30-june-us-iran-war-oil-prices-11705309#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "Weather LIVE Updates: Delhi Sees Season's Warmest Nights In 4 Years As Summer Nears End",
-      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-delhi-sees-seasons-warmest-nights-in-4-years-as-summer-nears-end-11705109#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
-      {
-        "title": "Long-delayed defence spending plan to be published on Tuesday, with focus on drone warfare",
-        "link": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss"
-      },
       {
         "title": "Chris Mason: Burnham revels on public stage but has little time to hammer ideas into shape",
         "link": "https://www.bbc.co.uk/news/articles/crkvr3xjxx3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Left on your own': Angry Venezuelans accuse government of negligence and apathy",
-        "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Refugees will be told to repay around £10,000 under new asylum rules",
+        "title": "Refugees will be told to repay up to £10,000 under new asylum rules",
         "link": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'We can't continue like this': Inquiry demands NHS maternity overhaul",
-        "link": "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss"
+        "title": "Pupil put in isolation booth for more than half a school year, BBC learns",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzlnp6p52o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+        "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'No rescuers have been sent' Angry Venezuelans accuse government of negligence over earthquake response",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "How Germany were handed a World Cup humbling and what it means to Paraguay",
-        "link": "https://www.aljazeera.com/sports/2026/6/30/how-germany-were-handed-a-world-cup-humbling-and-what-it-means-to-paraguay?traffic_source=rss"
+        "title": "How each prime minister broke Britain’s economy",
+        "link": "https://www.aljazeera.com/video/money-works/2026/6/30/how-each-prime-minister-broke-britains-economy?traffic_source=rss"
       },
       {
-        "title": "US education faces ‘a crisis for low-wealth students’",
-        "link": "https://www.aljazeera.com/video/quotable/2026/6/30/us-education-faces-a-crisis-for-low-wealth?traffic_source=rss"
+        "title": "At the World Cup, the media has set up a moral checkpoint",
+        "link": "https://www.aljazeera.com/opinions/2026/6/30/at-the-world-cup-the-media-has-set-up-a-moral-checkpoint?traffic_source=rss"
       },
       {
-        "title": "Police hunt for suspect after three wounded in Monaco blast",
-        "link": "https://www.aljazeera.com/news/2026/6/30/police-hunt-for-suspect-after-three-wounded-in-monaco?traffic_source=rss"
+        "title": "DR Congo says 1,307 Ebola cases confirmed, including 377 deaths",
+        "link": "https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths?traffic_source=rss"
       },
       {
-        "title": "Mourners light candles after deadly German shelter shooting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/mourners-light-candles-after-deadly-german-shelter-shooting?traffic_source=rss"
+        "title": "Social media calculator: How much of your life is spent on social media?",
+        "link": "https://www.aljazeera.com/news/2026/6/30/social-media-calculator-how-much-of-your-life-is-spent-on-social-media?traffic_source=rss"
       },
       {
-        "title": "Trump: US envoys enroute to Doha for ‘perhaps important’ Iran meeting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/trump-us-envoys-enroute-to-doha-for-perhaps-important-iran-meeting?traffic_source=rss"
+        "title": "WhatsApp to let users go by usernames, not phone numbers",
+        "link": "https://www.aljazeera.com/news/2026/6/30/whatsapp-to-let-users-go-by-usernames-not-phone-numbers?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -81,24 +70,24 @@
     ],
     "Dawn": [
       {
+        "title": "Pakistan's population has an inalienable right to water from the Indus, says info minister",
+        "link": "https://www.dawn.com/news/2011838/pakistans-population-has-an-inalienable-right-to-water-from-the-indus-says-info-minister"
+      },
+      {
+        "title": "Terrorists must not be called by any other name, says info minister",
+        "link": "https://www.dawn.com/news/2011827/terrorists-must-not-be-called-by-any-other-name-says-info-minister"
+      },
+      {
+        "title": "Senate opposition leader files privilege motion against Bhara Kahu SHO over 'discourteous' conduct",
+        "link": "https://www.dawn.com/news/2011841/senate-opposition-leader-files-privilege-motion-against-bhara-kahu-sho-over-discourteous-conduct"
+      },
+      {
+        "title": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Indian supplier's data leak",
+        "link": "https://www.dawn.com/news/2011837/apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-indian-suppliers-data-leak"
+      },
+      {
         "title": "IT ministry unveils draft data governance policy",
         "link": "https://www.dawn.com/news/2011804/it-ministry-unveils-draft-data-governance-policy"
-      },
-      {
-        "title": "Gulf turmoil hurting Pakistan’s economic outlook",
-        "link": "https://www.dawn.com/news/2011767/gulf-turmoil-hurting-pakistans-economic-outlook"
-      },
-      {
-        "title": "Hands off bride’s jewellery, wedding gifts, Supreme Court says",
-        "link": "https://www.dawn.com/news/2011800/hands-off-brides-jewellery-wedding-gifts-supreme-court-says"
-      },
-      {
-        "title": "JKLF chief Mohammad Yasin Malik implicated in 35-year-old murder case",
-        "link": "https://www.dawn.com/news/2011769/jklf-chief-mohammad-yasin-malik-implicated-in-35-year-old-murder-case"
-      },
-      {
-        "title": "Controversial bill to be last nail in coffin of freedom of expression: opposition",
-        "link": "https://www.dawn.com/news/2011722/controversial-bill-to-be-last-nail-in-coffin-of-freedom-of-expression-opposition"
       }
     ],
     "APNews": [],
@@ -126,47 +115,47 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Shipping continues through Hormuz despite regional tensions",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/shipping-continues-through-hormuz-despite-regional-tensions"
+        "title": "Has Greece become Israel's Trojan Horse in the Gulf?",
+        "link": "https://www.middleeasteye.net/opinion/has-greece-become-israels-trojan-horse-gulf"
       },
       {
-        "title": "US to play direct role in Lebanon agreement oversight, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-play-direct-role-lebanon-agreement-oversight-report-says"
+        "title": "Report: US tells Israel to proceed with Gaza reconstruction even if Hamas stays armed",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-tells-israel-proceed-gaza-reconstruction-even-if-hamas-stays"
       },
       {
-        "title": "UAE lifts war-related ban on travel to Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-lifts-war-related-ban-travel-lebanon"
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-574"
       },
       {
-        "title": "Bill to ban Red Cross visits to Palestinian prisoners fails",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bill-ban-red-cross-visits-palestinian-prisoners-fails"
+        "title": "Iran lawmaker says US role in region has ended",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-lawmaker-says-us-role-region-has-ended"
       },
       {
-        "title": "Only two South Korean ships remain in Hormuz, says president",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/only-two-south-korean-ships-remain-hormuz-says-president"
+        "title": "Moody's economist: Iran war has cost average American household $1,000",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-war-has-cost-average-american-household-1000-moody-economist"
       }
     ],
     "GeoTV": [],
     "NDTV": [
       {
-        "title": "UP Ice Cream Seller Travels To Delhi To Kill Wife Over Suspicion Of Affair",
-        "link": "https://www.ndtv.com/delhi-news/up-ice-cream-seller-travels-to-delhi-to-kill-wife-over-suspicion-of-affair-11705304#publisher=newsstand"
+        "title": "India Crosses 107 Crore Internet Connections, 75 Crore Daily UPI Payments",
+        "link": "https://www.ndtv.com/india-news/india-crosses-107-crore-internet-connections-75-crore-daily-upi-payments-11706252#publisher=newsstand"
       },
       {
-        "title": "15 Injured In Fire In Naphtha-Carrying Pipeline At Haldia Refinery In Bengal",
-        "link": "https://www.ndtv.com/india-news/15-injured-in-fire-in-a-naphtha-carrying-pipeline-at-haldia-refinery-in-bengal-11705281#publisher=newsstand"
+        "title": "2 Lawyers In Siya Goyal Case And A Rs 10-Crore Defamation Suit",
+        "link": "https://www.ndtv.com/india-news/pune-fort-murder-ketan-agarwal-2-lawyers-in-siya-goyal-case-and-a-rs-10-crore-defamation-suit-lawyer-ashutosh-srivastava-11706279#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Green Amid Mixed Global Cues",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-30-june-us-iran-war-oil-prices-11705309#publisher=newsstand"
+        "title": "Villages Cut Off, Bridges Washed Away In Monsoon Fury In Arunachal, Assam",
+        "link": "https://www.ndtv.com/india-news/villages-cut-off-bridges-washed-away-in-monsoon-fury-in-arunachal-assam-11706224#publisher=newsstand"
       },
       {
-        "title": "Weather LIVE Updates: Delhi Sees Season's Warmest Nights In 4 Years As Summer Nears End",
-        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-delhi-sees-seasons-warmest-nights-in-4-years-as-summer-nears-end-11705109#publisher=newsstand"
+        "title": "India Visit Was Among Trump's Best Bilateral Tours: Ex-US Diplomat To NDTV",
+        "link": "https://www.ndtv.com/world-news/india-visit-was-among-trumps-best-bilateral-tours-ex-us-diplomat-to-ndtv-11706256#publisher=newsstand"
       },
       {
-        "title": "Rs 5,000 SIP vs Rs 5 Lakh Fixed Deposit: Which Delivers Bigger Returns",
-        "link": "https://www.ndtv.com/business-news/fixed-deposit-sip-investment-wealth-creation-investor-inflation-personal-finance-11700288#publisher=newsstand"
+        "title": "Tamil Nadu Woman Dies After Family's Wish For 'Natural Birth' At Home",
+        "link": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-woman-dies-after-familys-wish-for-natural-birth-at-home-11706212#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -192,5 +181,5 @@
       }
     ]
   },
-  "last_updated": "2026-06-30 04:32 UTC"
+  "last_updated": "2026-06-30 08:07 UTC"
 }
