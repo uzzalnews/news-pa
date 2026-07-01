@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,42 +13,42 @@
         "link": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+        "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham",
         "link": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Is Burnham facing a £5bn defence 'black hole'?",
-        "link": "https://www.bbc.co.uk/news/articles/c14ymy41v5go?at_medium=RSS&at_campaign=rss"
+        "title": "Bibles, Home Alone and perfume: Six things about how Trump made money in 2025",
+        "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "England's warmest June on record following historic heatwave",
         "link": "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Two people climb to highest point of Empire State Building",
-        "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
-        "link": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss"
+        "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss"
       },
       {
-        "title": "As Venezuela responds to earthquake devastation, volunteers take charge",
-        "link": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss"
+        "title": "US Supreme Court hands wealthy donors more sway with latest decision",
+        "link": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss"
       },
       {
-        "title": "One week on from Venezuela’s deadly earthquakes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/one-week-on-from-venezuelas-deadly-earthquakes?traffic_source=rss"
+        "title": "LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Kane double fires England to comeback win over DR Congo at World Cup 2026",
-        "link": "https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026?traffic_source=rss"
+        "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+        "link": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss"
       },
       {
-        "title": "How AI is being weaponised against India’s Muslim women",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss"
+        "title": "Russian couple arrested after climbing Empire State Building",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,49 +99,57 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Crypto Brought Trump a Huge Windfall, Even as Many Investors Lost Big",
+        "link": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
+      },
+      {
         "title": "How the Iran War Ignited a Clash Between Trump and the Saudi Crown Prince",
         "link": "https://www.nytimes.com/2026/07/01/us/politics/trump-saudi-crown-prince-iran.html"
       },
       {
-        "title": "U.S. and Iran Set to Hold Indirect Talks After Trading Attacks: What to Know",
-        "link": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html"
-      },
-      {
-        "title": "Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast",
-        "link": "https://www.nytimes.com/2026/07/01/world/middleeast/syria-trump-hezbollah-lebanon.html"
+        "title": "JD Vance Defends Iran War in Speech to Military Members",
+        "link": "https://www.nytimes.com/2026/07/01/us/vance-iran-war-military.html"
       },
       {
         "title": "SpudCell: Scientists Made a Cell With Most of the Hallmarks of Life. Here’s What to Know.",
         "link": "https://www.nytimes.com/2026/07/01/science/spud-cell-what-to-know.html"
       },
       {
-        "title": "Trump Pulled In About $1.4 Billion From Crypto Ventures, Financial Disclosure Shows",
-        "link": "https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html"
+        "title": "As Earthquake Death Toll Mounts, Venezuela Grapples With Recovering and Burying Bodies",
+        "link": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "CENTCOM leads regional security dialogue with Middle East military officials",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-leads-regional-security-dialogue-middle-east-military-officials"
+      },
+      {
+        "title": "RSF committed crimes against humanity in Sudan's el-Fasher, Amnesty says",
+        "link": "https://www.middleeasteye.net/news/rsf-committed-crimes-against-humanity-and-ethnic-cleansing-sudans-el-fasher-amnesty-concludes"
+      },
+      {
+        "title": "Israeli army detonates large explosion in southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-detonates-large-explosion-southern-lebanon"
+      },
+      {
+        "title": "Iranian deputy foreign minister says channel to be set up for MoU breaches",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-deputy-foreign-minister-says-channel-be-set-mou-breaches"
+      },
+      {
         "title": "Spanish government ‘quietly bans’ use of Palantir over national security concerns",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spanish-government-quietly-bans-use-palantir-over-national-security"
-      },
-      {
-        "title": "Gaza interim administration says talks in Cyprus ‘highly productive’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-interim-administration-says-talks-cyprus-highly-productive"
-      },
-      {
-        "title": "Israeli Knesset passes bill limiting mosque loudspeakers",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-knesset-passes-bill-limiting-mosque-loudspeakers"
-      },
-      {
-        "title": "Lebanon’s president defends Lebanon-Israel framework agreement",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-president-defends-lebanon-israel-framework-agreement"
-      },
-      {
-        "title": "US signs agreement for construction of permanent embassy in Jerusalem",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-signs-agreement-construction-permanent-embassy-jerusalem"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Japan's new visa rules force foreign entrepreneurs out: Here's everything to know",
+        "link": "https://www.geo.tv/latest/671153-japans-new-visa-rules-force-foreign-entrepreneurs-out-heres-everything-to-know"
+      },
+      {
+        "title": "Microsoft to layoff 220,000 employees in sales, Xbox divisions",
+        "link": "https://www.geo.tv/latest/671146-microsoft-to-layoff-220000-employees-in-sales-xbox-divisions"
+      },
       {
         "title": "Harry Kane surpasses Pele, solidifies position in Golden Boot race",
         "link": "https://www.geo.tv/latest/671145-harry-kane-surpasses-pele-solidifies-position-in-golden-boot-race"
@@ -147,17 +161,21 @@
       {
         "title": "NYPD reveals police plans for Taylor Swift, Travis Kelce wedding",
         "link": "https://www.geo.tv/latest/671142-nypd-reveals-police-plans-for-taylor-swift-travis-kelce-wedding"
-      },
-      {
-        "title": "'Minions & Monsters' sets new record for Despicable Me franchise",
-        "link": "https://www.geo.tv/latest/671126-minions-monsters-sets-new-record-for-despicable-me-franchise"
-      },
-      {
-        "title": "King Charles unveils lion that roars with Scotland's Military Legacy",
-        "link": "https://www.geo.tv/latest/671122-king-charles-unveils-lion-that-roars-with-scotlands-military-legacy"
       }
     ],
     "NDTV": [
+      {
+        "title": "More Than 2 Million Military Casualties In Ukraine War: Report",
+        "link": "https://www.ndtv.com/world-news/more-than-2-million-military-casualties-in-ukraine-war-report-11715118#publisher=newsstand"
+      },
+      {
+        "title": "Why Delhi's New EV Policy Aims Two And Three Wheelers",
+        "link": "https://www.ndtv.com/india-news/why-delhis-new-ev-policy-aims-two-and-three-wheelers-11715090#publisher=newsstand"
+      },
+      {
+        "title": "5.5 Magnitude Earthquake Hits Afghanistan",
+        "link": "https://www.ndtv.com/world-news/5-5-magnitude-earthquake-hits-afghanistan-11715005#publisher=newsstand"
+      },
       {
         "title": "\"Unbreakable Alliance\": US Signs Deal To Build Permanent Embassy In Jerusalem",
         "link": "https://www.ndtv.com/world-news/us-signs-deal-to-build-permanent-embassy-in-jerusalem-11714942#publisher=newsstand"
@@ -165,18 +183,6 @@
       {
         "title": "Man Kills Stepfather Over Marriage With Mother In Gurugram: Cops",
         "link": "https://www.ndtv.com/gurgaon-news/man-kills-stepfather-over-marriage-with-mother-in-gurugram-cops-11714915#publisher=newsstand"
-      },
-      {
-        "title": "\"Highly Deplorable \": India Slams Demolition of 125-Year-Old Pak Gurdwara",
-        "link": "https://www.ndtv.com/india-news/highly-deplorable-india-slams-demolition-of-125-year-old-pak-gurdwara-11714884#publisher=newsstand"
-      },
-      {
-        "title": "25 Years After CNG Revolution, Delhi's Auto Drivers Face A New Transition",
-        "link": "https://www.ndtv.com/india-news/dehi-ev-push-25-years-after-cng-revolution-delhis-auto-drivers-face-a-new-transition-11714488#publisher=newsstand"
-      },
-      {
-        "title": "Fake Call Centre Busted In Uttarakhand, 11 Arrested For Duping Job Seekers",
-        "link": "https://www.ndtv.com/india-news/fake-call-centre-busted-in-uttarakhand-11-arrested-for-duping-job-seekers-11714878#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-01 20:11 UTC"
+  "last_updated": "2026-07-01 21:48 UTC"
 }
