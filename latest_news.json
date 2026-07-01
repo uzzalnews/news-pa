@@ -9,27 +9,31 @@
   "news": {
     "BBC": [
       {
-        "title": "Watch full highlights as England come from behind to beat DR Congo",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
         "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&at_campaign=rss"
+        "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+        "link": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Bibles, Home Alone and perfume: Six things about how Trump made money in 2025",
-        "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss"
+        "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+        "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "England's warmest June on record following historic heatwave",
         "link": "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Teenage boy injured after shooting in Birmingham",
+        "link": "https://www.bbc.co.uk/news/articles/ce37g3p4dlqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
+        "link": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss"
+      },
       {
         "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss"
@@ -45,10 +49,6 @@
       {
         "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
         "link": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss"
-      },
-      {
-        "title": "Russian couple arrested after climbing Empire State Building",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -103,6 +103,10 @@
         "link": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
       },
       {
+        "title": "Ukraine War Crosses a Grim Milestone",
+        "link": "https://www.nytimes.com/2026/07/01/briefing/ukraine-war-casualties-air-force-one.html"
+      },
+      {
         "title": "How the Iran War Ignited a Clash Between Trump and the Saudi Crown Prince",
         "link": "https://www.nytimes.com/2026/07/01/us/politics/trump-saudi-crown-prince-iran.html"
       },
@@ -113,15 +117,19 @@
       {
         "title": "SpudCell: Scientists Made a Cell With Most of the Hallmarks of Life. Here’s What to Know.",
         "link": "https://www.nytimes.com/2026/07/01/science/spud-cell-what-to-know.html"
-      },
-      {
-        "title": "As Earthquake Death Toll Mounts, Venezuela Grapples With Recovering and Burying Bodies",
-        "link": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "CENTCOM leads regional security dialogue with Middle East military officials",
+        "title": "Oil prices fall as US leaders strike positive note on Iran talks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-fall-us-leaders-strike-positive-note-iran-talks"
+      },
+      {
+        "title": "Iranian parliament speaker says IAEA barred from bombed nuclear sites",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-parliament-speaker-says-iaea-barred-bombed-nuclear-sites"
+      },
+      {
+        "title": "Centcom leads regional security dialogue with Middle East military officials",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-leads-regional-security-dialogue-middle-east-military-officials"
       },
       {
@@ -131,14 +139,6 @@
       {
         "title": "Israeli army detonates large explosion in southern Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-detonates-large-explosion-southern-lebanon"
-      },
-      {
-        "title": "Iranian deputy foreign minister says channel to be set up for MoU breaches",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-deputy-foreign-minister-says-channel-be-set-mou-breaches"
-      },
-      {
-        "title": "Spanish government ‘quietly bans’ use of Palantir over national security concerns",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/spanish-government-quietly-bans-use-palantir-over-national-security"
       }
     ],
     "GeoTV": [
@@ -165,24 +165,24 @@
     ],
     "NDTV": [
       {
+        "title": "\"Getting Along Very Well\": Trump Sees Progress As US, Iran Hold Qatar Talks",
+        "link": "https://www.ndtv.com/world-news/donald-trump-sees-progress-as-us-iran-hold-qatar-talks-11715206#publisher=newsstand"
+      },
+      {
+        "title": "'Vagabond' Who Changed The World: Einstein's Journey From Failure To Fame",
+        "link": "https://www.ndtv.com/india-news/vagabond-who-changed-the-world-einsteins-journey-from-failure-to-fame-11713804#publisher=newsstand"
+      },
+      {
+        "title": "Alibaba To Pay $600 Million To Settle US Charges It Allowed Illegal Drug",
+        "link": "https://www.ndtv.com/world-news/alibaba-to-pay-600-million-to-settle-us-charges-it-allowed-illegal-drug-11715182#publisher=newsstand"
+      },
+      {
         "title": "More Than 2 Million Military Casualties In Ukraine War: Report",
         "link": "https://www.ndtv.com/world-news/more-than-2-million-military-casualties-in-ukraine-war-report-11715118#publisher=newsstand"
       },
       {
         "title": "Why Delhi's New EV Policy Aims Two And Three Wheelers",
         "link": "https://www.ndtv.com/india-news/why-delhis-new-ev-policy-aims-two-and-three-wheelers-11715090#publisher=newsstand"
-      },
-      {
-        "title": "5.5 Magnitude Earthquake Hits Afghanistan",
-        "link": "https://www.ndtv.com/world-news/5-5-magnitude-earthquake-hits-afghanistan-11715005#publisher=newsstand"
-      },
-      {
-        "title": "\"Unbreakable Alliance\": US Signs Deal To Build Permanent Embassy In Jerusalem",
-        "link": "https://www.ndtv.com/world-news/us-signs-deal-to-build-permanent-embassy-in-jerusalem-11714942#publisher=newsstand"
-      },
-      {
-        "title": "Man Kills Stepfather Over Marriage With Mother In Gurugram: Cops",
-        "link": "https://www.ndtv.com/gurgaon-news/man-kills-stepfather-over-marriage-with-mother-in-gurugram-cops-11714915#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-01 21:48 UTC"
+  "last_updated": "2026-07-01 22:57 UTC"
 }
