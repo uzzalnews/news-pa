@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "Superstar Kane produces his biggest England moment",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
         "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
@@ -21,15 +19,23 @@
         "link": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "England's warmest June on record following historic heatwave",
-        "link": "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Teenage boy injured after shooting in Birmingham",
-        "link": "https://www.bbc.co.uk/news/articles/ce37g3p4dlqo?at_medium=RSS&at_campaign=rss"
+        "title": "Third UK heatwave increasingly likely as 30C temperatures forecast",
+        "link": "https://www.bbc.co.uk/weather/articles/c4gyjvpl4eno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Couple arrested after daring Empire State marriage proposal stunt",
+        "link": "https://www.aljazeera.com/news/2026/7/1/couple-arrested-after-daring-empire-state-marriage-proposal-stunt?traffic_source=rss"
+      },
+      {
+        "title": "US judge sides with NAACP over proposed mail-in ballot restrictions",
+        "link": "https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss"
+      },
+      {
+        "title": "Iran football team welcomed home after World Cup exit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-football-team-welcomed-home-after-world-cup-exit?traffic_source=rss"
+      },
       {
         "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
         "link": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss"
@@ -37,18 +43,6 @@
       {
         "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss"
-      },
-      {
-        "title": "US Supreme Court hands wealthy donors more sway with latest decision",
-        "link": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-        "link": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -103,23 +97,35 @@
         "link": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
       },
       {
+        "title": "Does Trump Worry About Conflicts of Interest? ‘I Found Out That Nobody Cared.’",
+        "link": "https://www.nytimes.com/2026/07/01/us/politics/trump-money-conflicts-presidency.html"
+      },
+      {
+        "title": "The Key Ways Trump’s Financial Interests Intersect With Government Policy",
+        "link": "https://www.nytimes.com/2026/07/01/us/politics/trump-finances-government-conflicts.html"
+      },
+      {
         "title": "Ukraine War Crosses a Grim Milestone",
         "link": "https://www.nytimes.com/2026/07/01/briefing/ukraine-war-casualties-air-force-one.html"
       },
       {
         "title": "How the Iran War Ignited a Clash Between Trump and the Saudi Crown Prince",
         "link": "https://www.nytimes.com/2026/07/01/us/politics/trump-saudi-crown-prince-iran.html"
-      },
-      {
-        "title": "JD Vance Defends Iran War in Speech to Military Members",
-        "link": "https://www.nytimes.com/2026/07/01/us/vance-iran-war-military.html"
-      },
-      {
-        "title": "SpudCell: Scientists Made a Cell With Most of the Hallmarks of Life. Here’s What to Know.",
-        "link": "https://www.nytimes.com/2026/07/01/science/spud-cell-what-to-know.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Qatari official says 'positive progress' made on US-Iran MoU",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-official-says-positive-progress-made-us-iran-mou"
+      },
+      {
+        "title": "Airlines restore some Middle East flights as suspensions continue",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/airlines-restore-some-middle-east-flights-suspensions-continue"
+      },
+      {
+        "title": "Hormuz shipping may take months to return to normal, French shipping company says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-shipping-may-take-months-return-normal-french-shipping-company"
+      },
       {
         "title": "Oil prices fall as US leaders strike positive note on Iran talks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-fall-us-leaders-strike-positive-note-iran-talks"
@@ -127,43 +133,43 @@
       {
         "title": "Iranian parliament speaker says IAEA barred from bombed nuclear sites",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-parliament-speaker-says-iaea-barred-bombed-nuclear-sites"
-      },
-      {
-        "title": "Centcom leads regional security dialogue with Middle East military officials",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-leads-regional-security-dialogue-middle-east-military-officials"
-      },
-      {
-        "title": "RSF committed crimes against humanity in Sudan's el-Fasher, Amnesty says",
-        "link": "https://www.middleeasteye.net/news/rsf-committed-crimes-against-humanity-and-ethnic-cleansing-sudans-el-fasher-amnesty-concludes"
-      },
-      {
-        "title": "Israeli army detonates large explosion in southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-detonates-large-explosion-southern-lebanon"
       }
     ],
     "GeoTV": [
       {
+        "title": "Josh Brolin recalls almost exiting Ridley Scott's new movie",
+        "link": "https://www.geo.tv/latest/671169-josh-brolin-recalls-almost-exiting-ridley-scotts-new-movie"
+      },
+      {
+        "title": "Famke Janssen wants ‘Backrooms' filmmaker to direct an ‘X-Men' film",
+        "link": "https://www.geo.tv/latest/671167-famke-janssen-wants-backrooms-filmmaker-to-direct-an-x-men-film"
+      },
+      {
+        "title": "Taylor Swift, Travis Kelce's pals seen in NYC before wedding",
+        "link": "https://www.geo.tv/latest/671162-taylor-swift-travis-kelce-pals-seen-in-nyc-before-wedding"
+      },
+      {
+        "title": "Belgium stun Senegal to reach World Cup last 16",
+        "link": "https://www.geo.tv/latest/671166-belgium-stun-senegal-to-reach-world-cup-last-16"
+      },
+      {
         "title": "Japan's new visa rules force foreign entrepreneurs out: Here's everything to know",
         "link": "https://www.geo.tv/latest/671153-japans-new-visa-rules-force-foreign-entrepreneurs-out-heres-everything-to-know"
-      },
-      {
-        "title": "Microsoft to layoff 220,000 employees in sales, Xbox divisions",
-        "link": "https://www.geo.tv/latest/671146-microsoft-to-layoff-220000-employees-in-sales-xbox-divisions"
-      },
-      {
-        "title": "Harry Kane surpasses Pele, solidifies position in Golden Boot race",
-        "link": "https://www.geo.tv/latest/671145-harry-kane-surpasses-pele-solidifies-position-in-golden-boot-race"
-      },
-      {
-        "title": "Taylor Frankie Paul could lose custody of 2 more kids in new legal battle",
-        "link": "https://www.geo.tv/latest/671144-taylor-frankie-paul-could-lose-custody-of-2-more-kids-in-new-legal-battle"
-      },
-      {
-        "title": "NYPD reveals police plans for Taylor Swift, Travis Kelce wedding",
-        "link": "https://www.geo.tv/latest/671142-nypd-reveals-police-plans-for-taylor-swift-travis-kelce-wedding"
       }
     ],
     "NDTV": [
+      {
+        "title": "Qatar Says US-Iran Doha Talks Make \"Positive Progress\" On 14-Point Deal",
+        "link": "https://www.ndtv.com/world-news/qatar-says-us-iran-doha-talks-make-positive-progress-on-14-point-deal-11715298#publisher=newsstand"
+      },
+      {
+        "title": "13 kg Opium, Rs 30 Lakh Drug-Linked Property Seized In Haryana; 2 Arrested",
+        "link": "https://www.ndtv.com/india-news/13-kg-opium-rs-30-lakh-drug-linked-property-seized-in-haryana-2-arrested-11715290#publisher=newsstand"
+      },
+      {
+        "title": "Rs 700-Crore Delhi Medical Scam: Two Accused Sent To Judicial Custody",
+        "link": "https://www.ndtv.com/india-news/rs-700-crore-delhi-medical-scam-two-accused-sent-to-judicial-custody-11715269#publisher=newsstand"
+      },
       {
         "title": "\"Getting Along Very Well\": Trump Sees Progress As US, Iran Hold Qatar Talks",
         "link": "https://www.ndtv.com/world-news/donald-trump-sees-progress-as-us-iran-hold-qatar-talks-11715206#publisher=newsstand"
@@ -171,18 +177,6 @@
       {
         "title": "'Vagabond' Who Changed The World: Einstein's Journey From Failure To Fame",
         "link": "https://www.ndtv.com/india-news/vagabond-who-changed-the-world-einsteins-journey-from-failure-to-fame-11713804#publisher=newsstand"
-      },
-      {
-        "title": "Alibaba To Pay $600 Million To Settle US Charges It Allowed Illegal Drug",
-        "link": "https://www.ndtv.com/world-news/alibaba-to-pay-600-million-to-settle-us-charges-it-allowed-illegal-drug-11715182#publisher=newsstand"
-      },
-      {
-        "title": "More Than 2 Million Military Casualties In Ukraine War: Report",
-        "link": "https://www.ndtv.com/world-news/more-than-2-million-military-casualties-in-ukraine-war-report-11715118#publisher=newsstand"
-      },
-      {
-        "title": "Why Delhi's New EV Policy Aims Two And Three Wheelers",
-        "link": "https://www.ndtv.com/india-news/why-delhis-new-ev-policy-aims-two-and-three-wheelers-11715090#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-01 22:57 UTC"
+  "last_updated": "2026-07-02 00:14 UTC"
 }
