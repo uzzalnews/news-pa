@@ -1,7 +1,25 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "Spain vs Austria LIVE: FIFA World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/2/spain-vs-austria-live-fifa-world-cup-2026?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Married at First Sight UK star arrested on suspicion of rape",
+        "link": "https://www.bbc.co.uk/news/articles/cn8k774pm3jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Boys who raped teen girls given custodial sentences",
+        "link": "https://www.bbc.co.uk/news/articles/cvg53d9p18vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pubs allowed to stay open until 5am for England Mexico match",
+        "link": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Labour failed to prepare for power, admits PM's former top aide",
         "link": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&at_campaign=rss"
@@ -9,40 +27,28 @@
       {
         "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
         "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Venezuela quake survivor pulled out alive after eight days",
-        "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Forced adoptions 'a stain on our history' says Starmer as he gives formal apology",
-        "link": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Gary Glitter charged with historical sexual offences",
-        "link": "https://www.bbc.co.uk/news/articles/c2lywez0zddo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
-        "link": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz?traffic_source=rss"
+        "title": "Why is Prada facing pro-Israeli backlash?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss"
       },
       {
-        "title": "Man City sign Elliot Anderson from Forest in record British transfer",
-        "link": "https://www.aljazeera.com/sports/2026/7/2/man-city-sign-elliot-anderson-from-forest-in-record-british-transfer?traffic_source=rss"
+        "title": "What is the Society of St Pius X? Why Pope Leo excommunicated its bishops",
+        "link": "https://www.aljazeera.com/news/2026/7/2/what-is-the-society-of-st-pius-x-why-pope-leo-excommunicated-its-bishops?traffic_source=rss"
       },
       {
-        "title": "With Hormuz reopened, has the oil shortage turned into a glut?",
-        "link": "https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut?traffic_source=rss"
+        "title": "Spain vs Austria LIVE: FIFA World Cup 2026",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/2/spain-vs-austria-live-fifa-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Gaza’s first women’s amputee football team reclaims the pitch after war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/gazas-first-womens-amputee-football-team-reclaims-the-pitch-after-war?traffic_source=rss"
+        "title": "Into the Darkness",
+        "link": "https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss"
       },
       {
-        "title": "Explosion in Damascus cafe causes casualties",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/explosion-in-damascus-cafe-causes-casualties?traffic_source=rss"
+        "title": "US job growth slows in June; hospitality sheds roles despite World Cup",
+        "link": "https://www.aljazeera.com/economy/2026/7/2/us-job-growth-slows-in-june-hospitality-sheds-roles-despite-world-cup?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,27 +88,27 @@
         "link": "https://www.dawn.com/news/2012445/child-killed-5-people-injured-in-roof-collapse-incident-in-lahore"
       },
       {
-        "title": "AJK Supreme Court defers hearing on petition against PTI’s provisional registration",
-        "link": "https://www.dawn.com/news/2012475/ajk-supreme-court-defers-hearing-on-petition-against-ptis-provisional-registration"
+        "title": "Rescuers dig out Venezuelan man eight days after quakes; death toll nears 2,300",
+        "link": "https://www.dawn.com/news/2012393/rescuers-dig-out-venezuelan-man-eight-days-after-quakes-death-toll-nears-2300"
       },
       {
-        "title": "Nine Thai monks killed after boy drives truck into procession",
-        "link": "https://www.dawn.com/news/2012466/nine-thai-monks-killed-after-boy-drives-truck-into-procession"
+        "title": "AJK Supreme Court defers hearing on petition against PTI’s provisional registration",
+        "link": "https://www.dawn.com/news/2012475/ajk-supreme-court-defers-hearing-on-petition-against-ptis-provisional-registration"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "A.I. Is Reshaping the Economy. Good Luck Measuring How.",
-        "link": "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html"
+        "title": "Tucker Carlson, Who Broke With Trump, Plans to ‘Help Build a Third Party’",
+        "link": "https://www.nytimes.com/2026/07/02/us/politics/tucker-carlson-third-party.html"
       },
       {
-        "title": "Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to.",
-        "link": "https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html"
+        "title": "Republicans’ Home-Field Edge for Senate Seems Just Enough for Now",
+        "link": "https://www.nytimes.com/2026/07/01/upshot/polls-ohio-iowa-alaska-carolina.html"
       },
       {
-        "title": "A Quiet Surge in ICE Arrests, and Trump’s First Flight on Plane Given by Qatar",
-        "link": "https://www.nytimes.com/2026/07/02/podcasts/the-headlines/ice-arrests-trump-plane.html"
+        "title": "Ocasio-Cortez Endorses Abdul El-Sayed in Crucial Michigan Senate Race",
+        "link": "https://www.nytimes.com/2026/07/02/us/politics/ocasio-cortez-endorses-abdul-el-sayed-in-crucial-michigan-senate-race.html"
       },
       {
         "title": "Putin Retaliates With New Strikes After Ukraine Takes the War to Russia",
@@ -115,27 +121,35 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "A local’s guide to Ankara ahead of the Nato summit",
-        "link": "https://www.middleeasteye.net/news/locals-guide-ankara-ahead-nato-summit"
+        "title": "Israeli drone strike targets hospital in southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-targets-hospital-southern-lebanon"
       },
       {
-        "title": "Israeli press alarmed as criticism of Israel becomes winning recipe in US politics",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-press-alarmed-criticism-israel-becomes-winning-recipe-us"
+        "title": "OIC condemns Israeli bill restricting Muslim call to prayer",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oic-condemns-israeli-bill-restricting-muslim-call-prayer"
       },
       {
-        "title": "'His death has killed a part of me': The Ethiopians awaiting execution in Saudi Arabia",
-        "link": "https://www.middleeasteye.net/news/his-death-has-killed-part-me-ethiopians-awaiting-execution-saudi-arabia"
+        "title": "Birmingham University weakens restrictions on investing in arms companies",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/birmingham-university-weakens-restrictions-investing-arms-companies"
       },
       {
-        "title": "Israeli press alarmed as criticism of Israel becomes winning recipe in US politics",
-        "link": "https://www.middleeasteye.net/news/israeli-press-alarmed-criticism-israel-becomes-winning-force-us-politics"
+        "title": "Reuters: several European countries join Canada as founding members of global defence bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/reuters-several-european-countries-join-canada-founding-members-global"
       },
       {
-        "title": "IRGC say they killed Kurdish fighters in northwest Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-say-they-killed-kurdish-fighters-northwest-iran"
+        "title": "Seven Palestinians wounded in Israeli drone strike on central Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-palestinians-wounded-israeli-drone-strike-central-gaza"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Folarin Balogun's red makes him 5th USMNT player sent off, out for Belgium clash",
+        "link": "https://www.geo.tv/latest/671300-folarin-baloguns-red-makes-him-5th-usmnt-player-sent-off-out-for-belgium-clash"
+      },
+      {
+        "title": "Did NASA just reveal an 'alien gun' on Mars? Red planet mystery goes viral",
+        "link": "https://www.geo.tv/latest/671293-did-nasa-just-reveal-an-alien-gun-on-mars-red-planet-mystery-goes-viral"
+      },
       {
         "title": "Freestyle rap artist Ghani Tiger making waves in London",
         "link": "https://www.geo.tv/latest/671259-freestyle-rap-artist-ghani-tiger-making-waves-in-london"
@@ -147,36 +161,28 @@
       {
         "title": "Sarah Ferguson's quiet response to Andrew's big decision revealed",
         "link": "https://www.geo.tv/latest/671286-sarah-fergusons-quiet-response-to-andrews-big-decision-revealed"
-      },
-      {
-        "title": "Taylor Swift, Travis Kelce wedding prep heats up with food deliveries to MSG",
-        "link": "https://www.geo.tv/latest/671283-taylor-swift-travis-kelce-wedding-prep-heats-up-with-food-deliveries-to-msg"
-      },
-      {
-        "title": "Smart to Houston: Marcus Smart lands 2-year, $13M deal with Rockets",
-        "link": "https://www.geo.tv/latest/671280-smart-to-houston-marcus-smart-lands-2-year-13m-deal-with-rockets"
       }
     ],
     "NDTV": [
       {
-        "title": "5 Killed, 16 Injured As Blast Rips Through Damascus Cafe",
-        "link": "https://www.ndtv.com/world-news/5-killed-16-injured-as-blast-rips-through-damascus-cafe-11718707#publisher=newsstand"
+        "title": "Pak Army Handed Guns To Kashmiris, Now They Call Us Terrorists: PoK Leader",
+        "link": "https://www.ndtv.com/world-news/pok-protests-pakistan-army-handed-guns-to-kashmiris-now-they-call-us-terrorists-pok-leader-11718963#publisher=newsstand"
       },
       {
-        "title": "High Court Rejects 16 Documents Presented By Man As Proof Of Citizenship",
-        "link": "https://www.ndtv.com/india-news/high-court-rejects-16-documents-presented-by-man-as-proof-of-citizenship-11717913#publisher=newsstand"
+        "title": "India, Japan Vibrant Democracies With Shared Values: Envoy Nagma Mallick",
+        "link": "https://www.ndtv.com/india-news/india-japan-vibrant-democracies-with-shared-values-envoy-nagma-mallick-11719166#publisher=newsstand"
+      },
+      {
+        "title": "After Pak, It's Bangladesh, Myanmar: China Plans New Corridor Bordering India",
+        "link": "https://www.ndtv.com/world-news/after-pakistan-its-bangladesh-myanmar-china-plans-new-corridor-bordering-india-11718625#publisher=newsstand"
+      },
+      {
+        "title": "Chinese Presence Growing In Indo-Pacific, India-Japan Ties Closer: Experts",
+        "link": "https://www.ndtv.com/india-news/chinese-presence-growing-in-indo-pacific-india-japan-ties-closer-experts-11719088#publisher=newsstand"
       },
       {
         "title": "Siya Goyal Agrees To Lie Detector Test In Ketan Agarwal Murder Probe",
         "link": "https://www.ndtv.com/india-news/siya-goyal-agrees-to-lie-detector-test-in-ketan-agarwal-murder-probe-11718641#publisher=newsstand"
-      },
-      {
-        "title": "In Punjab Reset, Congress Steers Clear Of 2022 Pitfalls, Sends Unity Message",
-        "link": "https://www.ndtv.com/india-news/in-punjab-reset-congress-steers-clear-of-2022-pitfalls-sends-unity-message-11718627#publisher=newsstand"
-      },
-      {
-        "title": "Woman Stripped, Paraded In Madhya Pradesh By In-Laws Over Property Dispute",
-        "link": "https://www.ndtv.com/india-news/woman-stripped-paraded-in-madhya-pradesh-by-in-laws-over-property-dispute-11718635#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-02 14:55 UTC"
+  "last_updated": "2026-07-02 16:47 UTC"
 }
