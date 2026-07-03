@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Weather LIVE Updates: Many Parts Of Gujarat Flooded After Rain, Schools Declare Holiday Near Mumbai",
-      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-mumbai-rain-mumbai-monsoon-rain-delhi-ncr-rain-monsoon-update-live-orange-alert-in-mumbai-11720679#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,19 +11,27 @@
         "link": "https://www.bbc.co.uk/news/articles/cpd357j7020o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-        "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss"
+        "title": "Henry Nowak's killer appeals conviction and sentence",
+        "link": "https://www.bbc.co.uk/news/articles/c3wy26p5lexo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
         "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "NHS to reward people who walk 30 minutes a day",
-        "link": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&at_campaign=rss"
+        "title": "Polish PM warns critical months ahead in face of Russian threat",
+        "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Pakistan bus crash kills 40",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss"
+      },
+      {
+        "title": "World leaders pay tribute to Iran’s late leader Khamenei in Tehran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/world-leaders-pay-tribute-to-irans-late-leader-khamenei-in-tehran?traffic_source=rss"
+      },
       {
         "title": "Heavy rain floods Mumbai during intense monsoon spell",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Hottest June on record in France as heatwave deaths rise to alarming levels",
         "link": "https://www.aljazeera.com/news/2026/7/3/hottest-june-on-record-in-france-as-heatwave-deaths-rise-to-alarming-levels?traffic_source=rss"
-      },
-      {
-        "title": "Yemen’s Houthis threaten Saudi Arabia after alleged airspace intrusion",
-        "link": "https://www.aljazeera.com/news/2026/7/3/yemens-houthis-threaten-saudi-arabia-after-alleged-airspace-intrusion?traffic_source=rss"
-      },
-      {
-        "title": "Why is the UK mired in a maternity and neonatal deaths scandal?",
-        "link": "https://www.aljazeera.com/news/2026/7/3/why-is-the-uk-mired-in-a-maternity-and-neonatal-deaths-scandal?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/2012724/india-approves-buying-546-billion-in-military-equipment"
       },
       {
-        "title": "EPA Punjab launches skimming boat to remove plastic waste from Lahore Canal",
-        "link": "https://www.dawn.com/news/2012725/epa-punjab-launches-skimming-boat-to-remove-plastic-waste-from-lahore-canal"
+        "title": "Sukkur-Hyderabad M-6 motorway project split into five sections, NA body informed",
+        "link": "https://www.dawn.com/news/2012731/sukkur-hyderabad-m-6-motorway-project-split-into-five-sections-na-body-informed"
       }
     ],
     "APNews": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "More on Netanyahu-Trump phone call",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-netanyahu-trump-phone-call"
+      },
+      {
+        "title": "Netanyahu and Trump held phone call on Friday, Israeli leader's office says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-and-trump-held-phone-call-friday-israeli-leaders-office-says"
+      },
+      {
         "title": "Israeli settlers injure five Palestinians in occupied West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-five-palestinians-occupied-west-bank"
       },
@@ -131,58 +133,50 @@
       {
         "title": "More than 600,000 displaced Lebanese return home amid ceasefire",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-600000-displaced-lebanese-return-home-amid-ceasefire"
-      },
-      {
-        "title": "Exclusive: ICC prosecutors shelved RSF arrest warrant as Sudan atrocities mounted",
-        "link": "https://www.middleeasteye.net/news/exclusive-icc-prosecutors-shelved-rsf-arrest-warrant-atrocities-mounted"
-      },
-      {
-        "title": "France weighs up resetting Turkey ties as Europe's security landscape shifts",
-        "link": "https://www.middleeasteye.net/news/france-weighs-resetting-turkey-ties-europe-security-shifts"
       }
     ],
     "GeoTV": [
       {
-        "title": "Kim Kardashian shares video of Kanye West performing with daughter North",
-        "link": "https://www.geo.tv/latest/671453-kim-kardashian-shares-video-of-kanye-west-performing-with-daughter-north"
+        "title": "Taylor Swift teases first bridal look ahead of wedding ceremony",
+        "link": "https://www.geo.tv/latest/671457-taylor-swift-teases-first-bridal-look-ahead-of-wedding-ceremony"
       },
       {
-        "title": "US supports Pakistan's right to defend after Islamabad struck terrorists in Afghanistan",
-        "link": "https://www.geo.tv/latest/671448-us-supports-pakistans-right-to-defend-after-islamabad-struck-terrorists-in-afghanistan"
+        "title": "Kelly Osbourne gets Ozzy Osbourne tattoo ahead of 1st death anniversary",
+        "link": "https://www.geo.tv/latest/671460-kelly-osbourne-gets-ozzy-osbourne-tattoo-ahead-of-1st-death-anniversary"
       },
       {
-        "title": "Angelina Jolie fights Brad Pitt over new court demand",
-        "link": "https://www.geo.tv/latest/671442-angelina-jolie-fights-brad-pitt-over-new-court-demand"
+        "title": "Cruise passenger hospitalized after ship breaks moorings in Greek storm",
+        "link": "https://www.geo.tv/latest/671428-cruise-passenger-hospitalized-after-ship-breaks-moorings-in-greek-storm"
       },
       {
-        "title": "Selena Gomez misses Benny Blanco amid ‘bridesmaid duties' for Taylor Swift",
-        "link": "https://www.geo.tv/latest/671450-selena-gomez-misses-benny-blanco-amid-bridesmaid-duties-for-taylor-swift"
+        "title": "Court grants 5-day physical remand for Ahmad Raza Dar, others in foreign nationals' assault case",
+        "link": "https://www.geo.tv/latest/671458-court-grants-5-day-physical-remand-for-ahmad-raza-dar-others-in-foreign-nationals-assault-case"
       },
       {
-        "title": "Dolly Parton asks Taylor Swift, Travis Kelce for their ‘firstborn' child",
-        "link": "https://www.geo.tv/latest/671445-dolly-parton-asks-taylor-swift-travis-kelce-for-their-firstborn-child"
+        "title": "Taylor Swift, Travis Kelce give special surprise to wedding guests at MSG",
+        "link": "https://www.geo.tv/latest/671452-taylor-swift-travis-kelce-give-special-surprise-to-wedding-guests-at-msg"
       }
     ],
     "NDTV": [
       {
-        "title": "Provident Fund Over Rs 1,800 Optional: Why It's Hard to Ignore 8.25% Returns",
-        "link": "https://www.ndtv.com/india-news/provident-fund-contribution-beyond-rs-1-800-not-mandatory-why-it-matters-11723309#publisher=newsstand"
+        "title": "Delhi Police Arrest Man, Recover 59 Rolls Of Banned Chinese Manja",
+        "link": "https://www.ndtv.com/india-news/delhi-police-arrest-man-recover-59-rolls-of-banned-chinese-manja-11724272#publisher=newsstand"
       },
       {
-        "title": "Weather LIVE Updates: Many Parts Of Gujarat Flooded After Rain, Schools Declare Holiday Near Mumbai",
-        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-mumbai-rain-mumbai-monsoon-rain-delhi-ncr-rain-monsoon-update-live-orange-alert-in-mumbai-11720679#publisher=newsstand"
+        "title": "No Minister For 26 Years, Karnataka's Kodavas Seek Cabinet Berth",
+        "link": "https://www.ndtv.com/karnataka-news/no-minister-for-26-years-karnatakas-kodavas-seek-state-cabinet-berth-11724197#publisher=newsstand"
       },
       {
-        "title": "Agra Woman Kills Husband, Buries Body In Bathroom. Tells People He's Missing",
-        "link": "https://www.ndtv.com/agra-news/agra-woman-kills-husband-buries-body-in-bathroom-tells-people-hes-missing-11723934#publisher=newsstand"
+        "title": "'Digital Propaganda On App': How Jaish Planned To Spread Terror In Gujarat",
+        "link": "https://www.ndtv.com/india-news/terror-module-busted-in-gujarat-propaganda-app-found-on-accuseds-phone-11724144#publisher=newsstand"
       },
       {
-        "title": "87 Staff, Transfers, No Building: Inside Indore's 6-Year-Old 'Ghost Hospital'",
-        "link": "https://www.ndtv.com/india-news/87-staff-transfers-no-building-inside-indores-6-year-old-ghost-hospital-11723866#publisher=newsstand"
+        "title": "Man Who Killed Wife Gets Reduced Sentence Over Her '1,000 Husbands' Remark",
+        "link": "https://www.ndtv.com/india-news/man-who-killed-wife-gets-reduced-sentence-over-her-1-000-husbands-remark-11724190#publisher=newsstand"
       },
       {
-        "title": "Trinamool vs Trinamool As Rebel Faction 'Takes Control' Of Party Office",
-        "link": "https://www.ndtv.com/india-news/trinamool-congress-tmc-mamata-banerjee-trinamool-vs-trinamool-as-rebel-faction-takes-control-of-party-office-11723848#publisher=newsstand"
+        "title": "Domestic Help Thought No One Would Notice, Instagram Reel Exposes Her Theft",
+        "link": "https://www.ndtv.com/india-news/domestic-help-steals-rs-10-lakh-jewellery-caught-after-flaunting-it-on-reel-11723513#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-03 16:51 UTC"
+  "last_updated": "2026-07-03 18:06 UTC"
 }
