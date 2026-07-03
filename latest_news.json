@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Argentina vs Cape Verde – FIFA World Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/3/live-argentina-vs-cape-verde-fifa-world-cup-2026?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Police criticise timing of decision on pubs staying open for England match",
-        "link": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&at_campaign=rss"
+        "title": "England v Mexico set to move to earlier kick-off time",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Three men found not guilty of journalist Lyra McKee's murder",
         "link": "https://www.bbc.co.uk/news/articles/cpd357j7020o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Henry Nowak's killer appeals conviction and sentence",
+        "title": "Nowak killer appeals against conviction and sentence",
         "link": "https://www.bbc.co.uk/news/articles/c3wy26p5lexo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-        "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Polish PM warns critical months ahead in face of Russian threat",
         "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+        "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Pakistan bus crash kills 40",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss"
+        "title": "Settlers attack activists, Palestinians trying to access their land",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/settlers-attack-activists-palestinians-trying-to-access-their-land?traffic_source=rss"
       },
       {
-        "title": "World leaders pay tribute to Iran’s late leader Khamenei in Tehran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/world-leaders-pay-tribute-to-irans-late-leader-khamenei-in-tehran?traffic_source=rss"
+        "title": "Saudi deputy foreign minister pays respects at Khamenei funeral",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/saudi-deputy-foreign-minister-pays-respects-at-khamenei-funeral?traffic_source=rss"
       },
       {
-        "title": "Heavy rain floods Mumbai during intense monsoon spell",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss"
+        "title": "LIVE: Argentina vs Cape Verde – FIFA World Cup 2026",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/3/live-argentina-vs-cape-verde-fifa-world-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Germany’s Merz defends NATO spending after Trump calls it ‘ridiculous’",
-        "link": "https://www.aljazeera.com/news/2026/7/3/germanys-merz-defends-nato-spending-after-trump-calls-it-ridiculous?traffic_source=rss"
+        "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+        "link": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss"
       },
       {
-        "title": "Hottest June on record in France as heatwave deaths rise to alarming levels",
-        "link": "https://www.aljazeera.com/news/2026/7/3/hottest-june-on-record-in-france-as-heatwave-deaths-rise-to-alarming-levels?traffic_source=rss"
+        "title": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
+        "link": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
+        "title": "Govt slashes petrol, diesel prices by Rs1.97",
+        "link": "https://www.dawn.com/news/2012738/govt-slashes-petrol-diesel-prices-by-rs197"
+      },
+      {
         "title": "PM Shehbaz, CDF Munir pay respects to Iran's assassinated supreme leader Khamenei",
         "link": "https://www.dawn.com/news/2012668/pm-shehbaz-cdf-munir-pay-respects-to-irans-assassinated-supreme-leader-khamenei"
       },
       {
-        "title": "40 killed, 8 injured as passenger bus falls into ravine near Balochistan-KP border",
-        "link": "https://www.dawn.com/news/2012664/40-killed-8-injured-as-passenger-bus-falls-into-ravine-near-balochistan-kp-border"
+        "title": "PM Shehbaz arrives in Turkiye on official visit",
+        "link": "https://www.dawn.com/news/2012743/pm-shehbaz-arrives-in-turkiye-on-official-visit"
       },
       {
         "title": "Unidentified quadcopter crashes on rooftop of house in Islamabad’s Humak locality",
         "link": "https://www.dawn.com/news/2012735/unidentified-quadcopter-crashes-on-rooftop-of-house-in-islamabads-humak-locality"
       },
       {
-        "title": "India approves buying $5.46 billion in military equipment",
-        "link": "https://www.dawn.com/news/2012724/india-approves-buying-546-billion-in-military-equipment"
-      },
-      {
-        "title": "Sukkur-Hyderabad M-6 motorway project split into five sections, NA body informed",
-        "link": "https://www.dawn.com/news/2012731/sukkur-hyderabad-m-6-motorway-project-split-into-five-sections-na-body-informed"
+        "title": "UK in talks with Pakistan over deportation of Rochdale grooming gang leader: BBC",
+        "link": "https://www.dawn.com/news/2012747/uk-in-talks-with-pakistan-over-deportation-of-rochdale-grooming-gang-leader-bbc"
       }
     ],
     "APNews": [],
@@ -105,15 +111,23 @@
         "link": "https://www.nytimes.com/2026/07/03/business/strait-malacca-hormuz.html"
       },
       {
-        "title": "Trump’s Huge Windfall Has Few Known Global Precedents",
-        "link": "https://www.nytimes.com/2026/07/02/world/europe/trump-world-leaders-corruption-wealth.html"
+        "title": "E Pluribus Algae: Why Green Pond Scum Is as American as Red, White and Blue",
+        "link": "https://www.nytimes.com/2026/07/03/science/algae-reflecting-pool.html"
       },
       {
-        "title": "MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains",
-        "link": "https://www.nytimes.com/2026/07/02/us/politics/trump-earnings-maga-reaction.html"
+        "title": "Trump’s National Guard Deployment in Washington Expands Ahead of Holiday",
+        "link": "https://www.nytimes.com/2026/07/03/us/trump-national-guard-washington.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Settler attack injures several Palestinians near Hebron",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settler-attack-injures-several-palestinians-near-hebron"
+      },
+      {
+        "title": "Birmingham University accused of weakening restrictions on investing in arms companies",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/birmingham-university-accused-weakening-restrictions-investing-arms"
+      },
       {
         "title": "More on Netanyahu-Trump phone call",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-netanyahu-trump-phone-call"
@@ -125,58 +139,50 @@
       {
         "title": "Israeli settlers injure five Palestinians in occupied West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-five-palestinians-occupied-west-bank"
-      },
-      {
-        "title": "Saudi deputy foreign minister in Tehran for Khamenei funeral",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-deputy-foreign-minister-tehran-khamenei-funeral"
-      },
-      {
-        "title": "More than 600,000 displaced Lebanese return home amid ceasefire",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-600000-displaced-lebanese-return-home-amid-ceasefire"
       }
     ],
     "GeoTV": [
       {
-        "title": "Taylor Swift teases first bridal look ahead of wedding ceremony",
-        "link": "https://www.geo.tv/latest/671457-taylor-swift-teases-first-bridal-look-ahead-of-wedding-ceremony"
+        "title": "Europe's record heatwave linked to mysterious ‘cold blob' in Atlantic",
+        "link": "https://www.geo.tv/latest/671456-europes-record-heatwave-linked-to-mysterious-cold-blob-in-atlantic"
       },
       {
-        "title": "Kelly Osbourne gets Ozzy Osbourne tattoo ahead of 1st death anniversary",
-        "link": "https://www.geo.tv/latest/671460-kelly-osbourne-gets-ozzy-osbourne-tattoo-ahead-of-1st-death-anniversary"
+        "title": "Prince William's candid 5-word response to Jason Kelce has everyone talking",
+        "link": "https://www.geo.tv/latest/671467-prince-williams-candid-5-word-response-to-jason-kelce-has-everyone-talking"
       },
       {
-        "title": "Cruise passenger hospitalized after ship breaks moorings in Greek storm",
-        "link": "https://www.geo.tv/latest/671428-cruise-passenger-hospitalized-after-ship-breaks-moorings-in-greek-storm"
+        "title": "Ice Spice finally responds to Tobey Maguire dating speculation",
+        "link": "https://www.geo.tv/latest/671461-ice-spice-finally-responds-to-tobey-maguire-dating-speculation"
       },
       {
-        "title": "Court grants 5-day physical remand for Ahmad Raza Dar, others in foreign nationals' assault case",
-        "link": "https://www.geo.tv/latest/671458-court-grants-5-day-physical-remand-for-ahmad-raza-dar-others-in-foreign-nationals-assault-case"
+        "title": "Robot football World Cup begins in South Korea",
+        "link": "https://www.geo.tv/latest/671471-robot-football-world-cup-begins-in-south-korea"
       },
       {
-        "title": "Taylor Swift, Travis Kelce give special surprise to wedding guests at MSG",
-        "link": "https://www.geo.tv/latest/671452-taylor-swift-travis-kelce-give-special-surprise-to-wedding-guests-at-msg"
+        "title": "WhatsApp to roll out new interface feature for users",
+        "link": "https://www.geo.tv/latest/671469-whatsapp-to-roll-out-new-interface-feature-for-users"
       }
     ],
     "NDTV": [
       {
-        "title": "Delhi Police Arrest Man, Recover 59 Rolls Of Banned Chinese Manja",
-        "link": "https://www.ndtv.com/india-news/delhi-police-arrest-man-recover-59-rolls-of-banned-chinese-manja-11724272#publisher=newsstand"
+        "title": "Tragedy Strikes Mumbai, Delhi's Long-Delayed Tree Census Still Stuck",
+        "link": "https://www.ndtv.com/delhi-news/tragedy-strikes-mumbai-delhis-long-delayed-tree-census-still-stuck-11724472#publisher=newsstand"
       },
       {
-        "title": "No Minister For 26 Years, Karnataka's Kodavas Seek Cabinet Berth",
-        "link": "https://www.ndtv.com/karnataka-news/no-minister-for-26-years-karnatakas-kodavas-seek-state-cabinet-berth-11724197#publisher=newsstand"
+        "title": "On Usha Vance's \"Book-Reading\" Podcast, Trump Discusses Past Presidents",
+        "link": "https://www.ndtv.com/world-news/on-usha-vances-book-reading-podcast-trump-discusses-past-presidents-11724467#publisher=newsstand"
       },
       {
-        "title": "'Digital Propaganda On App': How Jaish Planned To Spread Terror In Gujarat",
-        "link": "https://www.ndtv.com/india-news/terror-module-busted-in-gujarat-propaganda-app-found-on-accuseds-phone-11724144#publisher=newsstand"
+        "title": "Trump And Netanyahu Hold Phone Call, Agree To Meet \"Soon\"",
+        "link": "https://www.ndtv.com/world-news/trump-and-netanyahu-hold-phone-call-agree-to-meet-soon-11724448#publisher=newsstand"
       },
       {
-        "title": "Man Who Killed Wife Gets Reduced Sentence Over Her '1,000 Husbands' Remark",
-        "link": "https://www.ndtv.com/india-news/man-who-killed-wife-gets-reduced-sentence-over-her-1-000-husbands-remark-11724190#publisher=newsstand"
+        "title": "Weather Highlights: Many Parts Of Gujarat Flooded After Rain, Schools Declare Holiday Near Mumbai",
+        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-mumbai-rain-mumbai-monsoon-rain-delhi-ncr-rain-monsoon-update-live-orange-alert-in-mumbai-11720679#publisher=newsstand"
       },
       {
-        "title": "Domestic Help Thought No One Would Notice, Instagram Reel Exposes Her Theft",
-        "link": "https://www.ndtv.com/india-news/domestic-help-steals-rs-10-lakh-jewellery-caught-after-flaunting-it-on-reel-11723513#publisher=newsstand"
+        "title": "Cross-Border Handlers, Propaganda: Inside Jaish Module Busted In Gujarat",
+        "link": "https://www.ndtv.com/india-news/cross-border-handlers-propaganda-inside-jaish-module-busted-in-gujarat-11724437#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-03 18:06 UTC"
+  "last_updated": "2026-07-03 19:46 UTC"
 }
