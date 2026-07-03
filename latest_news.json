@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Weather LIVE Updates: Many Parts Of Gujarat Flooded After Rain, Schools Declare Holiday Near Mumbai",
+      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-mumbai-rain-mumbai-monsoon-rain-delhi-ncr-rain-monsoon-update-live-orange-alert-in-mumbai-11720679#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Heavy rain floods Mumbai during intense monsoon spell",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss"
+      },
+      {
+        "title": "Germany’s Merz defends NATO spending after Trump calls it ‘ridiculous’",
+        "link": "https://www.aljazeera.com/news/2026/7/3/germanys-merz-defends-nato-spending-after-trump-calls-it-ridiculous?traffic_source=rss"
+      },
+      {
+        "title": "Hottest June on record in France as heatwave deaths rise to alarming levels",
+        "link": "https://www.aljazeera.com/news/2026/7/3/hottest-june-on-record-in-france-as-heatwave-deaths-rise-to-alarming-levels?traffic_source=rss"
+      },
+      {
+        "title": "Yemen’s Houthis threaten Saudi Arabia after alleged airspace intrusion",
+        "link": "https://www.aljazeera.com/news/2026/7/3/yemens-houthis-threaten-saudi-arabia-after-alleged-airspace-intrusion?traffic_source=rss"
+      },
+      {
         "title": "Why is the UK mired in a maternity and neonatal deaths scandal?",
         "link": "https://www.aljazeera.com/news/2026/7/3/why-is-the-uk-mired-in-a-maternity-and-neonatal-deaths-scandal?traffic_source=rss"
-      },
-      {
-        "title": "Gaza sports community pledges to continue legacy of killed goalkeeper",
-        "link": "https://www.aljazeera.com/sports/2026/7/3/gaza-sports-community-pledges-to-continue-legacy-of-killed-goalkeeper?traffic_source=rss"
-      },
-      {
-        "title": "Mourners bury victims of Damascus cafe bombing with six lawyers among dead",
-        "link": "https://www.aljazeera.com/news/2026/7/3/mourners-bury-victims-of-damascus-cafe-bombing-with-six-lawyers-among-dead?traffic_source=rss"
-      },
-      {
-        "title": "Election wins prove pro-Palestine US campus protests didn’t fail: Activists",
-        "link": "https://www.aljazeera.com/news/2026/7/3/election-wins-prove-pro-palestine-us-campus-protests-didnt-fail-activists?traffic_source=rss"
-      },
-      {
-        "title": "Osaka defeats Kasatkina to make Wimbledon round of 16",
-        "link": "https://www.aljazeera.com/sports/2026/7/3/osaka-defeats-kasatkina-to-make-wimbledon-round-of-16?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,20 +84,32 @@
         "link": "https://www.dawn.com/news/2012664/40-killed-8-injured-as-passenger-bus-falls-into-ravine-near-balochistan-kp-border"
       },
       {
-        "title": "FIA arrests five in Islamabad for alleged smuggling of human placenta: report",
-        "link": "https://www.dawn.com/news/2012727/fia-arrests-five-in-islamabad-for-alleged-smuggling-of-human-placenta-report"
+        "title": "Unidentified quadcopter crashes on rooftop of house in Islamabad’s Humak locality",
+        "link": "https://www.dawn.com/news/2012735/unidentified-quadcopter-crashes-on-rooftop-of-house-in-islamabads-humak-locality"
       },
       {
         "title": "India approves buying $5.46 billion in military equipment",
         "link": "https://www.dawn.com/news/2012724/india-approves-buying-546-billion-in-military-equipment"
       },
       {
-        "title": "IHC suspends National Highway Authority notification to impose 50pc additional toll on vehicles without M-Tag",
-        "link": "https://www.dawn.com/news/2012713/ihc-suspends-national-highway-authority-notification-to-impose-50pc-additional-toll-on-vehicles-without-m-tag"
+        "title": "EPA Punjab launches skimming boat to remove plastic waste from Lahore Canal",
+        "link": "https://www.dawn.com/news/2012725/epa-punjab-launches-skimming-boat-to-remove-plastic-waste-from-lahore-canal"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran",
+        "link": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html"
+      },
+      {
+        "title": "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
+        "link": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html"
+      },
+      {
+        "title": "Why One Global Shipping Choke Point Isn’t a Blueprint for Another",
+        "link": "https://www.nytimes.com/2026/07/03/business/strait-malacca-hormuz.html"
+      },
       {
         "title": "Trump’s Huge Windfall Has Few Known Global Precedents",
         "link": "https://www.nytimes.com/2026/07/02/world/europe/trump-world-leaders-corruption-wealth.html"
@@ -99,84 +117,72 @@
       {
         "title": "MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains",
         "link": "https://www.nytimes.com/2026/07/02/us/politics/trump-earnings-maga-reaction.html"
-      },
-      {
-        "title": "JD Vance and Melania Trump Also Had Sharp Earnings Increases in 2025",
-        "link": "https://www.nytimes.com/2026/07/02/us/politics/vance-melania-trump-financial-disclosures.html"
-      },
-      {
-        "title": "As Ukraine War Escalates, Witkoff and Kushner Are Focused on Iran",
-        "link": "https://www.nytimes.com/2026/07/02/us/politics/ukraine-russia-witkoff-kushner-trump.html"
-      },
-      {
-        "title": "Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia",
-        "link": "https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Inside the UAE-backed RSF siege of Sudan's el-Obeid",
-        "link": "https://www.middleeasteye.net/news/inside-uae-backed-rsf-siege-sudans-el-obeid"
+        "title": "Israeli settlers injure five Palestinians in occupied West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-five-palestinians-occupied-west-bank"
       },
       {
-        "title": "Syrian foreign minister's visit opens cautious channel to Hezbollah amid US pressure",
-        "link": "https://www.middleeasteye.net/news/syrian-fms-visit-opens-cautious-channel-hezbollah-amid-us-pressure"
+        "title": "Saudi deputy foreign minister in Tehran for Khamenei funeral",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-deputy-foreign-minister-tehran-khamenei-funeral"
       },
       {
-        "title": "Wimbledon 2026: Zeynep Sonmez sports watermelon shock absorber for Palestine",
-        "link": "https://www.middleeasteye.net/wimbledon-2026-zeynep-sonmez-watermelon-palestine-ukraine"
+        "title": "More than 600,000 displaced Lebanese return home amid ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-600000-displaced-lebanese-return-home-amid-ceasefire"
       },
       {
-        "title": "Child killed in Israeli strike while searching for water in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/child-killed-israeli-strike-while-searching-water-gaza"
+        "title": "Exclusive: ICC prosecutors shelved RSF arrest warrant as Sudan atrocities mounted",
+        "link": "https://www.middleeasteye.net/news/exclusive-icc-prosecutors-shelved-rsf-arrest-warrant-atrocities-mounted"
       },
       {
-        "title": "Outrage after Turkish stand-up comedian arrested for 'insulting' Erdogan",
-        "link": "https://www.middleeasteye.net/news/outrage-after-turkish-stand-comedian-arrest-insulting-erdogan"
+        "title": "France weighs up resetting Turkey ties as Europe's security landscape shifts",
+        "link": "https://www.middleeasteye.net/news/france-weighs-resetting-turkey-ties-europe-security-shifts"
       }
     ],
     "GeoTV": [
       {
-        "title": "India approves buying military equipment worth $5.46bn",
-        "link": "https://www.geo.tv/latest/671435-india-approves-buying-military-equipment-worth-546bn"
+        "title": "Kim Kardashian shares video of Kanye West performing with daughter North",
+        "link": "https://www.geo.tv/latest/671453-kim-kardashian-shares-video-of-kanye-west-performing-with-daughter-north"
       },
       {
-        "title": "Duke of Kent marks two Scottish milestones in inspiring day of royal service",
-        "link": "https://www.geo.tv/latest/671433-duke-of-kent-marks-two-scottish-milestones-in-inspiring-day-of-royal-service"
+        "title": "US supports Pakistan's right to defend after Islamabad struck terrorists in Afghanistan",
+        "link": "https://www.geo.tv/latest/671448-us-supports-pakistans-right-to-defend-after-islamabad-struck-terrorists-in-afghanistan"
       },
       {
-        "title": "Kate Moss' love of gardening inspires exciting new business venture",
-        "link": "https://www.geo.tv/latest/671419-kate-moss-love-of-gardening-inspires-exciting-new-business-venture"
+        "title": "Angelina Jolie fights Brad Pitt over new court demand",
+        "link": "https://www.geo.tv/latest/671442-angelina-jolie-fights-brad-pitt-over-new-court-demand"
       },
       {
-        "title": "Prince George hits new milestone after Lady Louise inspires with gold award",
-        "link": "https://www.geo.tv/latest/671424-prince-george-hits-new-milestone-after-lady-louise-inspires-with-gold-award"
+        "title": "Selena Gomez misses Benny Blanco amid ‘bridesmaid duties' for Taylor Swift",
+        "link": "https://www.geo.tv/latest/671450-selena-gomez-misses-benny-blanco-amid-bridesmaid-duties-for-taylor-swift"
       },
       {
-        "title": "Lillah-Jhelum dual carriageway project targeted for completion by December",
-        "link": "https://www.geo.tv/latest/671429-lillah-jhelum-dual-carriageway-project-targeted-for-completion-by-december"
+        "title": "Dolly Parton asks Taylor Swift, Travis Kelce for their ‘firstborn' child",
+        "link": "https://www.geo.tv/latest/671445-dolly-parton-asks-taylor-swift-travis-kelce-for-their-firstborn-child"
       }
     ],
     "NDTV": [
       {
-        "title": "Europe's Deadly Heatwave: Why The World Is Warming At Different Speeds",
-        "link": "https://www.ndtv.com/world-news/europes-deadly-heatwave-why-the-world-is-warming-at-different-speeds-11723812#publisher=newsstand"
+        "title": "Provident Fund Over Rs 1,800 Optional: Why It's Hard to Ignore 8.25% Returns",
+        "link": "https://www.ndtv.com/india-news/provident-fund-contribution-beyond-rs-1-800-not-mandatory-why-it-matters-11723309#publisher=newsstand"
       },
       {
-        "title": "Global Network Used Chat Groups To Drug, Rape Women In 9 Countries, Busted",
-        "link": "https://www.ndtv.com/world-news/global-network-used-chat-groups-to-drug-rape-women-in-9-countries-busted-11723806#publisher=newsstand"
+        "title": "Weather LIVE Updates: Many Parts Of Gujarat Flooded After Rain, Schools Declare Holiday Near Mumbai",
+        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-mumbai-rain-mumbai-monsoon-rain-delhi-ncr-rain-monsoon-update-live-orange-alert-in-mumbai-11720679#publisher=newsstand"
       },
       {
-        "title": "EU Sanctions 6 People Involved In Death Of Putin Critic Alexei Navalny",
-        "link": "https://www.ndtv.com/world-news/eu-sanctions-6-people-involved-in-death-of-putin-critic-alexei-navalny-11723683#publisher=newsstand"
+        "title": "Agra Woman Kills Husband, Buries Body In Bathroom. Tells People He's Missing",
+        "link": "https://www.ndtv.com/agra-news/agra-woman-kills-husband-buries-body-in-bathroom-tells-people-hes-missing-11723934#publisher=newsstand"
       },
       {
-        "title": "Activists Allowed To Sue Sweden Over Failure To Tackle Climate Change",
-        "link": "https://www.ndtv.com/world-news/activists-allowed-to-sue-sweden-over-failure-to-tackle-climate-change-11723681#publisher=newsstand"
+        "title": "87 Staff, Transfers, No Building: Inside Indore's 6-Year-Old 'Ghost Hospital'",
+        "link": "https://www.ndtv.com/india-news/87-staff-transfers-no-building-inside-indores-6-year-old-ghost-hospital-11723866#publisher=newsstand"
       },
       {
-        "title": "Ocean Temperatures In June Surge Past Extreme 2023-24 El Nino Records",
-        "link": "https://www.ndtv.com/world-news/ocean-temperatures-in-june-surge-past-extreme-2023-24-el-nino-records-11723669#publisher=newsstand"
+        "title": "Trinamool vs Trinamool As Rebel Faction 'Takes Control' Of Party Office",
+        "link": "https://www.ndtv.com/india-news/trinamool-congress-tmc-mamata-banerjee-trinamool-vs-trinamool-as-rebel-faction-takes-control-of-party-office-11723848#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-03 15:22 UTC"
+  "last_updated": "2026-07-03 16:51 UTC"
 }
