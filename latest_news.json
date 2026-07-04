@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "Canada vs Morocco LIVE: FIFA World Cup 2026 last 16",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/4/canada-vs-morocco-live-fifa-world-cup-2026-last-16?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,19 +11,27 @@
         "link": "https://www.bbc.co.uk/news/articles/cr5jpzn2814o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Dior dress and a man of honour: What we know about Taylor Swift and Travis Kelce's wedding",
-        "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
         "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "The massive scramble behind the scenes before the new PM arrives",
         "link": "https://www.bbc.co.uk/news/articles/cj4g0n0p15xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New heatwave likely to peak at 34C with week-long health alert issued",
+        "link": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Police clash with protesters outside AfD meeting",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/police-clash-with-protesters-outside-afd-meeting?traffic_source=rss"
+      },
+      {
+        "title": "FIFA World Cup 2026: Best Round of 16 knockout matches to watch",
+        "link": "https://www.aljazeera.com/sports/2026/7/4/biggest-fifa-world-cup-matches-to-watch-in-round-of-16-knockout-stage?traffic_source=rss"
+      },
       {
         "title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
         "link": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Russian attacks leave trail of destruction across Ukraine",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss"
-      },
-      {
-        "title": "Canada vs Morocco LIVE: FIFA World Cup 2026 last 16",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/4/canada-vs-morocco-live-fifa-world-cup-2026-last-16?traffic_source=rss"
-      },
-      {
-        "title": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
-        "link": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -107,8 +101,8 @@
         "link": "https://www.nytimes.com/2026/07/03/us/politics/trump-mount-rushmore-america-250.html"
       },
       {
-        "title": "Momentary Unity at a Funeral Masks Deep Divisions Among Iran’s Leaders",
-        "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html"
+        "title": "The Funeral of Iran’s Supreme Leader, Ali Khamenei",
+        "link": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html"
       },
       {
         "title": "Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin",
@@ -143,46 +137,46 @@
     ],
     "GeoTV": [
       {
+        "title": "Victoria Beckham ready to grow her luxury empire with new venture",
+        "link": "https://www.geo.tv/latest/671568-victoria-beckham-ready-to-grow-her-luxury-empire-with-new-venture"
+      },
+      {
+        "title": "Scientists warn of new risks linked to plan to dim the Sun",
+        "link": "https://www.geo.tv/latest/671564-scientists-warn-of-new-risks-linked-to-plan-to-dim-the-sun"
+      },
+      {
+        "title": "Simple guide to Trump accounts: New child investment program explained",
+        "link": "https://www.geo.tv/latest/671563-simple-guide-to-trump-accounts-new-child-investment-program-explained"
+      },
+      {
+        "title": "What did Taylor Swift wear for Travis Kelce wedding?",
+        "link": "https://www.geo.tv/latest/671556-what-did-taylor-swift-wear-for-travis-kelce-wedding"
+      },
+      {
         "title": "Jennifer Lopez says breakups deserve a celebration, not tears",
         "link": "https://www.geo.tv/latest/671558-jennifer-lopez-says-breakups-deserve-a-celebration-not-tears"
-      },
-      {
-        "title": "Joey Chestnut returns to Nathan's Hot Dog eating contest seeking 18th title",
-        "link": "https://www.geo.tv/latest/671561-joey-chestnut-returns-to-nathans-hot-dog-eating-contest-seeking-18th-title"
-      },
-      {
-        "title": "Serena Williams' Wimbledon comeback over after knee injury",
-        "link": "https://www.geo.tv/latest/671562-serena-williams-wimbledon-comeback-over-after-knee-injury"
-      },
-      {
-        "title": "Maren Morris shares Taylor Swift, Travis Kelce wedding highlights",
-        "link": "https://www.geo.tv/latest/671560-maren-morris-shares-taylor-swift-travis-kelce-wedding-highlights"
-      },
-      {
-        "title": "Family of Cuban migrant who died in ICE custody files $1m lawsuit against camp operators",
-        "link": "https://www.geo.tv/latest/671557-family-of-cuban-migrant-who-died-in-ice-custody-files-1m-lawsuit-against-camp-operators"
       }
     ],
     "NDTV": [
       {
-        "title": "Rohit Lamba Gang Member Arrested For Attacking Rival's Aide In Delhi",
-        "link": "https://www.ndtv.com/india-news/rohit-lamba-gang-member-arrested-for-attacking-rivals-aide-in-delhi-11727389#publisher=newsstand"
+        "title": "In A First, Ladakh Deploys 100 Ex-Armymen To Curb Eco Violations, Off-Roading",
+        "link": "https://www.ndtv.com/india-news/in-a-first-ladakh-deploys-100-ex-armymen-to-curb-eco-violations-off-roading-11727766#publisher=newsstand"
       },
       {
-        "title": "Palestinian Children Born From Smuggled Sperm Still Wait To Meet Freed Fathers",
-        "link": "https://www.ndtv.com/world-news/palestinian-children-born-from-smuggled-sperm-still-wait-to-meet-freed-fathers-11727384#publisher=newsstand"
+        "title": "Cannabis And A Corpse: UK Woman Arrested For Stabbing Boyfriend In Thailand",
+        "link": "https://www.ndtv.com/world-news/cannabis-and-a-corpse-uk-woman-arrested-for-stabbing-boyfriend-in-thailand-11727734#publisher=newsstand"
       },
       {
-        "title": "Assam Outpaces National GST Growth Average In June",
-        "link": "https://www.ndtv.com/india-news/assam-outpaces-national-gst-growth-average-in-june-11727379#publisher=newsstand"
+        "title": "Trust Issues, Accusation: Chandrima Bhattacharya On Why She Quit Trinamool",
+        "link": "https://www.ndtv.com/india-news/trinamool-rebellion-trinamool-leader-quits-mamata-banerjee-tmc-trust-issues-accusation-chandrima-bhattacharya-on-why-she-quit-trinamool-congress-11727702#publisher=newsstand"
       },
       {
-        "title": "\"Kill Me To Stop Me\": Defiant Mamata Banerjee Calls Trinamool Rebels \"Traitors\"",
-        "link": "https://www.ndtv.com/india-news/mamata-banerjee-calls-trinamool-congress-rebels-traitors-says-kill-me-to-stop-me-11726834#publisher=newsstand"
+        "title": "Roads Flooded, Trains Delayed As Mumbai Get 200 mm Rain In 12 Hours",
+        "link": "https://www.ndtv.com/india-news/roads-flooded-trains-delayed-as-mumbai-get-200-mm-rain-in-12-hours-11727705#publisher=newsstand"
       },
       {
-        "title": "When A Birthday Reminds Of Unresolved Conflict: Beijing vs The Dalai Lama",
-        "link": "https://www.ndtv.com/world-news/when-a-birthday-reminds-of-unresolved-conflict-beijing-vs-the-dalai-lama-11727356#publisher=newsstand"
+        "title": "At Ali Khamenei's Funeral, Hezbollah And Hamas Members Meet Iran's Araghchi",
+        "link": "https://www.ndtv.com/world-news/iran-supremem-leader-burial-at-ali-khameneis-funeral-hezbollah-and-hamas-members-meet-irans-araghchi-11727651#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-04 16:43 UTC"
+  "last_updated": "2026-07-04 17:47 UTC"
 }
