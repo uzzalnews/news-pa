@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "Brazil vs Norway LIVE: FIFA World Cup 2026 – last 16",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/5/brazil-vs-norway-live-fifa-world-cup-2026-last-16?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,7 +17,7 @@
         "link": "https://www.bbc.co.uk/news/articles/c5yzzw5vk8vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "England battling history as well as Mexican nation in Azteca cauldron",
+        "title": "England battling the weight of history as well as Mexican nation in Azteca cauldron",
         "link": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "50 Houthi fighters killed in renewed clashes in Yemen",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss"
+      },
+      {
+        "title": "Super Typhoon Bavi threatens Guam with catastrophic winds and flooding",
+        "link": "https://www.aljazeera.com/news/2026/7/5/super-typhoon-bavi-threatens-guam-with-catastrophic-winds-and-flooding?traffic_source=rss"
+      },
+      {
+        "title": "What is the religious and political messaging behind Khamenei’s funeral?",
+        "link": "https://www.aljazeera.com/news/2026/7/5/what-is-the-religious-and-political-messaging-behind-khameneis-funeral?traffic_source=rss"
+      },
+      {
+        "title": "Brazil vs Norway LIVE: FIFA World Cup 2026 – last 16",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/5/brazil-vs-norway-live-fifa-world-cup-2026-last-16?traffic_source=rss"
+      },
+      {
         "title": "Syria delays first session of transitional parliament without explanation",
         "link": "https://www.aljazeera.com/news/2026/7/5/syria-delays-first-session-of-transitional-parliament-without-explanation?traffic_source=rss"
-      },
-      {
-        "title": "Charles Leclerc wins F1 British Grand Prix behind the safety car",
-        "link": "https://www.aljazeera.com/sports/2026/7/5/charles-leclerc-wins-f1-british-grand-prix-behind-the-safety-car?traffic_source=rss"
-      },
-      {
-        "title": "Photo of abused Palestinian detainee causes anguish for two Gaza mothers",
-        "link": "https://www.aljazeera.com/features/2026/7/5/photo-of-abused-palestinian-detainee-sparks-anguish-for-two-gaza-mothers?traffic_source=rss"
-      },
-      {
-        "title": "Cape Verde celebrates team’s return after historic World Cup",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/cape-verde-celebrates-teams-return-after-historic-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "Extreme weather disrupts US’s 250th anniversary celebrations",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/extreme-weather-disrupts-uss-250th-anniversary-celebrations?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +80,20 @@
         "link": "https://www.dawn.com/news/2013143/foreign-women-abduction-case-police-ordered-to-treat-minister-linked-suspect-like-any-other-criminal"
       },
       {
+        "title": "Suspect who shot PAF officer dead arrested within 9 hours: Islamabad IG",
+        "link": "https://www.dawn.com/news/2013169/suspect-who-shot-paf-officer-dead-arrested-within-9-hours-islamabad-ig"
+      },
+      {
         "title": "IT minister stresses proposed telecom bill needed as existing laws insufficient for 5G, other modern tech",
         "link": "https://www.dawn.com/news/2013161/it-minister-stresses-proposed-telecom-bill-needed-as-existing-laws-insufficient-for-5g-other-modern-tech"
       },
       {
+        "title": "Djokovic makes Wimbledon history to reach quarter-finals",
+        "link": "https://www.dawn.com/news/2013167/djokovic-makes-wimbledon-history-to-reach-quarter-finals"
+      },
+      {
         "title": "8 tribesmen, young girl killed in separate incidents in Balochistan",
         "link": "https://www.dawn.com/news/2013156/8-tribesmen-young-girl-killed-in-separate-incidents-in-balochistan"
-      },
-      {
-        "title": "Babar Azam named captain of West Indies, England Test squads",
-        "link": "https://www.dawn.com/news/2013127/babar-azam-named-captain-of-west-indies-england-test-squads"
-      },
-      {
-        "title": "Opec+ approves further oil output increase as Hormuz exports start to recover",
-        "link": "https://www.dawn.com/news/2013159/opec-approves-further-oil-output-increase-as-hormuz-exports-start-to-recover"
       }
     ],
     "APNews": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli drone attack kills two Palestinians in Gaza City",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-attack-kills-two-palestinians-gaza-city"
+      },
+      {
+        "title": "Former UK minister demands reparations from Britain’s ex-colonies",
+        "link": "https://www.middleeasteye.net/news/former-uk-minister-demands-reparations-britains-ex-colonies"
+      },
+      {
         "title": "Police arrest 14 activists at London protest marking Palestine Action ban",
         "link": "https://www.middleeasteye.net/news/uk-legal-group-marks-palestine-action-ban-anniversary-urging-police-join-banned-group"
       },
@@ -125,17 +139,17 @@
       {
         "title": "Iran and Qatar resume maritime trade: Iranian state media",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-qatar-resume-maritime-trade-iranian-state-media"
-      },
-      {
-        "title": "Netanyahu vows to not rebuild Gaza until Hamas surrenders its weapons",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-vows-not-rebuild-gaza-until-hamas-surrenders-its-weapons"
-      },
-      {
-        "title": "Iran's Revolutionary Guard diverts six ships from Strait of Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-revolutionary-guards-divers-6-ships-strait-hormuz"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Sanaullah says attempts being made to drag DPM Dar into foreign women assault case",
+        "link": "https://www.geo.tv/latest/671667-sanaullah-says-attempts-being-made-to-drag-dpm-dar-into-foreign-women-assault-case"
+      },
+      {
+        "title": "Djokovic makes Wimbledon history to reach quarter-finals",
+        "link": "https://www.geo.tv/latest/671668-djokovic-makes-wimbledon-history-to-reach-quarter-finals"
+      },
       {
         "title": "Niall Horan reveals what happened to bizarre gift from One Direction boys",
         "link": "https://www.geo.tv/latest/671665-niall-horan-reveals-what-happened-to-bizarre-gift-from-one-direction-boys"
@@ -147,20 +161,16 @@
       {
         "title": "Lady Louise Windsor sparks emotional comparisons to Queen Elizabeth after graduation",
         "link": "https://www.geo.tv/latest/671658-lady-louise-windsor-sparks-emotional-comparisons-to-queen-elizabeth-after-graduation"
-      },
-      {
-        "title": "Olivia Cooke reacts to Alicent Hightower, Princess Fiona comparisons",
-        "link": "https://www.geo.tv/latest/671656-olivia-cooke-reacts-to-alicent-hightower-princess-fiona-comparisons"
-      },
-      {
-        "title": "Princess Kate celebrates breakthrough in mission to give babies stronger voice",
-        "link": "https://www.geo.tv/latest/671653-princess-kate-celebrates-breakthrough-in-mission-to-give-babies-stronger-voice"
       }
     ],
     "NDTV": [
       {
         "title": "'Abandoned Ram's Path': BJP Retort On Uddhav Thackeray's Temple Theft Barbs",
         "link": "https://www.ndtv.com/india-news/bjp-retort-on-uddhav-thackerays-temple-theft-barbs-abandoned-rams-path-11730758#publisher=newsstand"
+      },
+      {
+        "title": "Focus On Indo-Pacific As PM Modi Begins 3-Nation Visit On Monday",
+        "link": "https://www.ndtv.com/india-news/focus-on-indo-pacific-as-pm-modi-begins-3-nation-visit-on-monday-11730812#publisher=newsstand"
       },
       {
         "title": "In \"Businesslike\" Putin Call, Trump Offers To Help End Ukraine War, Again",
@@ -173,10 +183,6 @@
       {
         "title": "2 Months After Wedding, Delhi Woman Found Dead, Family Alleges Murder",
         "link": "https://www.ndtv.com/india-news/two-months-after-wedding-bride-falls-to-death-in-delhi-family-alleges-murder-11729922#publisher=newsstand"
-      },
-      {
-        "title": "Japan Space Probe Performs Flyby Of Asteroid. It May Help Protect The Earth",
-        "link": "https://www.ndtv.com/world-news/japan-space-probe-performs-flyby-of-asteroid-it-may-help-protect-the-earth-11730682#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-05 16:47 UTC"
+  "last_updated": "2026-07-05 17:50 UTC"
 }
