@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "Portugal vs Spain LIVE: FIFA World Cup 2026 round of 16",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/6/portugal-vs-spain-live-fifa-world-cup-2026-round-of-16?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Uefa says 'integrity of game at stake' after Fifa's decision to overturn US star's red card ban",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&at_campaign=rss"
+        "title": "Trump confirms he asked Fifa boss for review of US striker's ban",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "All-nighters, phone bans and school screenings - how you watched England's epic win",
+        "link": "https://www.bbc.co.uk/news/articles/c9q22p2v9dxo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Buckingham Palace says Prince Harry will not stay there despite his team announcing he would",
         "link": "https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Amber heat-health alerts issued as UK could see 10 consecutive days of temperatures over 30C",
-        "link": "https://www.bbc.co.uk/weather/articles/cly77zjey40o?at_medium=RSS&at_campaign=rss"
+        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran for Ayatollah Ali Khamenei's funeral",
+        "link": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Pizza Express held inquiry into Andrew's Woking claim",
-        "link": "https://www.bbc.co.uk/news/articles/c1my27lyjx9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Why Australia's PM apologised for 'inappropriate' Kylie comments",
-        "link": "https://www.bbc.co.uk/news/videos/c1kyylkz9vyo?at_medium=RSS&at_campaign=rss"
+        "title": "NHS senior doctors in England vote in favour of strikes",
+        "link": "https://www.bbc.co.uk/news/articles/c79yyyxzergo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Baby dies after Israeli troops block emergency journey to hospital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss"
+        "title": "Lebanon latest: Teacher killed by Israeli airstrike",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/lebanon-latest-teacher-killed-by-israeli-airstrike-2?traffic_source=rss"
       },
       {
-        "title": "Refugees killed in landslides at Rohingya camps in Bangladesh",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss"
+        "title": "Portugal vs Spain LIVE: FIFA World Cup 2026 round of 16",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/6/portugal-vs-spain-live-fifa-world-cup-2026-round-of-16?traffic_source=rss"
       },
       {
-        "title": "Large-scale Russian attack on Ukraine before NATO summit",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss"
+        "title": "Netanyahu says his ties with Trump are ‘fine’, takes aim at Turkiye",
+        "link": "https://www.aljazeera.com/news/2026/7/6/netanyahu-says-his-ties-with-trump-are-fine-takes-aim-at-turkiye?traffic_source=rss"
       },
       {
-        "title": "The World Cup must pay its carbon bill",
-        "link": "https://www.aljazeera.com/opinions/2026/7/6/the-world-cup-must-pay-its-carbon-bill?traffic_source=rss"
+        "title": "UN discusses prevention of genocide: Six times it failed to do just that",
+        "link": "https://www.aljazeera.com/news/2026/7/6/un-discusses-prevention-of-genocide-six-times-it-failed-to-do-just-that?traffic_source=rss"
       },
       {
-        "title": "El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?",
-        "link": "https://www.aljazeera.com/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher?traffic_source=rss"
+        "title": "US president Trump defends FIFA’s Balogun red card reversal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/us-president-trump-defends-fifas-balogun-red-card-reversal?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,30 +76,38 @@
     ],
     "Dawn": [
       {
+        "title": "Army top brass affirms commitment to take 'all measures necessary' to ensure availability of Pakistan’s water share",
+        "link": "https://www.dawn.com/news/2013406/army-top-brass-affirms-commitment-to-take-all-measures-necessary-to-ensure-availability-of-pakistans-water-share"
+      },
+      {
         "title": "Hamas announces dissolution of Gaza governing body",
         "link": "https://www.dawn.com/news/2013378/hamas-announces-dissolution-of-gaza-governing-body"
       },
       {
+        "title": "NAB takes possession of Karachi's Bahria Icon Tower amid investigation against property tycoon Malik Riaz",
+        "link": "https://www.dawn.com/news/2013398/nab-takes-possession-of-karachis-bahria-icon-tower-amid-investigation-against-property-tycoon-malik-riaz"
+      },
+      {
+        "title": "State institutions have evidence of Indian funding behind JAAC’s agenda in AJK: official",
+        "link": "https://www.dawn.com/news/2013391/state-institutions-have-evidence-of-indian-funding-behind-jaacs-agenda-in-ajk-official"
+      },
+      {
         "title": "PPP’s Amjad Hussain sworn in as GB chief minister",
         "link": "https://www.dawn.com/news/2013368/ppps-amjad-hussain-sworn-in-as-gb-chief-minister"
-      },
-      {
-        "title": "Rain, thunderstorms forecast for northern, central parts of country: PMD",
-        "link": "https://www.dawn.com/news/2013377/rain-thunderstorms-forecast-for-northern-central-parts-of-country-pmd"
-      },
-      {
-        "title": "President Zardari departs on 4-day official visit to Kyrgyzstan",
-        "link": "https://www.dawn.com/news/2013361/president-zardari-departs-on-4-day-official-visit-to-kyrgyzstan"
-      },
-      {
-        "title": "11-year-old boy, 4 others accused in Karachi's Gul Plaza blaze granted interim bail",
-        "link": "https://www.dawn.com/news/2013384/11-year-old-boy-4-others-accused-in-karachis-gul-plaza-blaze-granted-interim-bail"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit",
+        "title": "Trump’s Intervention in Balogun’s World Cup Suspension Adds to Conflict With Europe",
+        "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html"
+      },
+      {
+        "title": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
+        "link": "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html"
+      },
+      {
+        "title": "Russia Strikes Kyiv, Ukraine’s Capital, on Eve of NATO Summit",
         "link": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html"
       },
       {
@@ -101,82 +115,74 @@
         "link": "https://www.nytimes.com/2026/07/06/world/europe/ukraine-russia-patriot-air-defense.html"
       },
       {
-        "title": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
-        "link": "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html"
-      },
-      {
-        "title": "Huge Crowds Gather for Ayatollah’s Funeral, and China Tests Long-Range Ballistic Missile",
-        "link": "https://www.nytimes.com/2026/07/06/podcasts/the-headlines/huge-crowds-gather-for-ayatollahs-funeral-and-china-tests-long-range-ballistic-missile.html"
-      },
-      {
-        "title": "In Trump’s Second Midterm, Democrats Are Looking for Fighters",
-        "link": "https://www.nytimes.com/2026/07/06/us/politics/democrats-midterms-trump-mood-fighters.html"
+        "title": "Turkey Hosts NATO Summit While Cracking Down on Critics",
+        "link": "https://www.nytimes.com/2026/07/06/world/middleeast/turkey-hosts-nato-summit-while-cracking-down-on-critics.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Russian staff set to return to Iran's Bushehr nuclear plant",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russian-staff-set-return-irans-bushehr-nuclear-plant"
+        "title": "Israeli forces strike southern Lebanon town after funeral attack",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-strike-southern-lebanon-town-after-funeral-attack"
       },
       {
-        "title": "The West must to act to save Dr Hussam Abu Safiya from being killed by Israel",
-        "link": "https://www.middleeasteye.net/opinion/gaza-west-must-act-save-hussam-abu-safiya-risk-killed-captivity"
+        "title": "Russian nuclear firm to send staff back to Iran's Bushehr plant",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russian-nuclear-firm-send-staff-back-irans-bushehr-plant"
       },
       {
-        "title": "Lebanon president says Israeli occupation in south preventing army deployment",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-israeli-occupation-south-preventing-army"
+        "title": "Israeli army says it targeted vehicle near southern Lebanon 'security zone'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-it-targeted-vehicle-near-southern-lebanon-security"
       },
       {
-        "title": "Trump, Turkey and Nato: What's at stake at the Ankara summit?",
-        "link": "https://www.middleeasteye.net/news/nato-ankara-summit-what-is-at-stake"
+        "title": "Nephew of PA vice president arrested over Gaza smuggling with Israeli soldiers",
+        "link": "https://www.middleeasteye.net/news/nephew-pa-vice-president-arrested-over-gaza-smuggling-israeli-soldiers"
       },
       {
-        "title": "Israel's death towers: Gaza civilians killed by remote attacks during ceasefire",
-        "link": "https://www.middleeasteye.net/news/death-towers-gaza-civilians-killed-remote-israeli-attacks-during-ceasefire"
+        "title": "Trump says there will be a deal with Iran or US will 'finish the job'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-there-will-be-deal-iran-or-us-will-finish-job"
       }
     ],
     "GeoTV": [
       {
-        "title": "PAF officer murder suspect sent to jail for identification parade",
-        "link": "https://www.geo.tv/latest/671763-paf-officer-murder-suspect-sent-to-jail-for-identification-parade"
+        "title": "Trump rings opening bell from White House to launch 'Trump Accounts' for kids",
+        "link": "https://www.geo.tv/latest/671792-trump-rings-opening-bell-from-white-house-to-launch-trump-accounts-for-kids"
       },
       {
-        "title": "SZA says autism diagnosis answered questions she had for years",
-        "link": "https://www.geo.tv/latest/671762-sza-says-autism-diagnosis-answered-questions-she-had-for-years"
+        "title": "Marriage-based immigration is changing under Trump: Everything you need to know",
+        "link": "https://www.geo.tv/latest/671785-marriage-based-immigration-is-changing-under-trump-everything-you-need-to-know"
       },
       {
-        "title": "Prince Harry team announces UK schedule after royal rejection",
-        "link": "https://www.geo.tv/latest/671761-prince-harry-team-announces-uk-schedule-after-royal-rejection"
+        "title": "Fatima Sana named in ICC Women's T20 World Cup 2026 Team of the Tournament",
+        "link": "https://www.geo.tv/latest/671790-fatima-sana-named-in-icc-womens-t20-world-cup-2026-team-of-the-tournament"
       },
       {
-        "title": "Gracie Abrams faces backlash after Joe Alwyn nod at Taylor Swift wedding",
-        "link": "https://www.geo.tv/latest/671760-gracie-abrams-faces-backlash-after-joe-alwyn-nod-at-taylor-swift-wedding"
+        "title": "Active digital payment merchants surpass 2m, says state minister",
+        "link": "https://www.geo.tv/latest/671791-active-digital-payment-merchants-surpass-2m-says-state-minister"
       },
       {
-        "title": "Taylor Swift's wedding brings Karlie Kloss back into the spotlight",
-        "link": "https://www.geo.tv/latest/671757-taylor-swifts-wedding-brings-karlie-kloss-back-into-the-spotlight"
+        "title": "Trump says he sought Fifa review of Balogun red card",
+        "link": "https://www.geo.tv/latest/671788-trump-says-he-sought-fifa-review-of-balogun-red-card"
       }
     ],
     "NDTV": [
       {
-        "title": "India Helps Unlock Universe's Secrets, From God Particle To Dark Matter",
-        "link": "https://www.ndtv.com/world-news/india-helps-unlock-universes-secrets-from-god-particle-to-dark-matter-11733646#publisher=newsstand"
+        "title": "Vijay Writes To PM Modi, Seeks Rethink On Food Security Law Tweaks",
+        "link": "https://www.ndtv.com/india-news/vijay-writes-to-pm-modi-seeks-rethink-on-food-security-law-tweaks-11735211#publisher=newsstand"
       },
       {
-        "title": "Delhi Police Bust Interstate Racket Selling Fake Governmentt IDs, 2 Arrested",
-        "link": "https://www.ndtv.com/india-news/delhi-police-bust-interstate-racket-selling-fake-governmentt-ids-2-arrested-11733067#publisher=newsstand"
+        "title": "Xbox CEO Asha Sharma's Message For Staff After Firing 3,200 Employees",
+        "link": "https://www.ndtv.com/world-news/xbox-layoffs-microsoft-layoffs-today-xbox-ceo-asha-sharmas-message-for-staff-after-firing-3200-employees-11735158#publisher=newsstand"
       },
       {
-        "title": "Indian-Origin Man Poses As 'CIA Agent' To Secure Indonesia Defence Deal",
-        "link": "https://www.ndtv.com/india-news/indian-origin-man-poses-as-cia-agent-to-secure-indonesia-defence-deal-11733907#publisher=newsstand"
+        "title": "Jharkhand Man Killed Trying To Save Daughter From Snapped Power Line",
+        "link": "https://www.ndtv.com/india-news/jharkhand-man-killed-trying-to-save-daughter-from-snapped-power-line-11734951#publisher=newsstand"
       },
       {
-        "title": "China Submarine Test Fires Nuclear-Capable Missile Into Pacific",
-        "link": "https://www.ndtv.com/world-news/china-submarine-test-fires-nuclear-capable-missile-into-pacific-11732680#publisher=newsstand"
+        "title": "Video Shows Terrifying Moment Lion Refuses To Let Go Of Gujarat Man",
+        "link": "https://www.ndtv.com/india-news/video-lion-clenches-gujarat-man-on-ground-for-30-minutes-11734784#publisher=newsstand"
       },
       {
-        "title": "4-Year-Old Mauled To Death By Stray Dogs In Punjab's Hoshiarpur",
-        "link": "https://www.ndtv.com/india-news/4-year-old-mauled-to-death-by-stray-dogs-in-punjabs-hoshiarpur-11734006#publisher=newsstand"
+        "title": "India Closes Field Hospital In Venezuela After Earthquake Relief Mission",
+        "link": "https://www.ndtv.com/world-news/india-closes-field-hospital-in-venezuela-after-earthquake-relief-mission-11735007#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-06 13:34 UTC"
+  "last_updated": "2026-07-06 16:42 UTC"
 }
