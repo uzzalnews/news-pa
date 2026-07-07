@@ -1,13 +1,15 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "Argentina vs Egypt LIVE: FIFA World Cup 2026",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/7/argentina-vs-egypt-live-fifa-world-cup-2026?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "Harry loses High Court privacy case against Daily Mail publisher",
+        "link": "https://www.bbc.co.uk/news/articles/c9324nyqwjno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Marine Le Pen found guilty, but court clears way for presidential run if she wears tag",
+        "link": "https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
         "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss"
@@ -17,38 +19,30 @@
         "link": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The Odyssey stars wow red carpet at world premiere in London",
-        "link": "https://www.bbc.co.uk/news/videos/cj0g3rze2gqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Two tests set to speed up diagnosis of endometriosis",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo?at_medium=RSS&at_campaign=rss"
+        "title": "What do Farage's constituents think about his resignation?",
+        "link": "https://www.bbc.co.uk/news/articles/c892npw2jkvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Two mothers, each certain a viral Gaza prisoner photo shows her son",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/two-mothers-each-certain-a-viral-gaza-prisoner-photo-shows-her-son?traffic_source=rss"
+        "title": "Nigel Farage resigns as MP, will run in UK by-election",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/nigel-farage-resigns-as-mp-will-run-in-uk-by-election?traffic_source=rss"
       },
       {
-        "title": "At least nine police officers killed in southwestern Pakistan attack",
-        "link": "https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss"
+        "title": "How much does playing in the World Cup pay?",
+        "link": "https://www.aljazeera.com/video/money-works/2026/7/7/how-much-does-playing-in-the-world-cup-pay?traffic_source=rss"
       },
       {
-        "title": "Displaced Gaza farmers turn to dirt near tents to grow crops",
-        "link": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss"
+        "title": "Netanyahu’s Christian comments ‘aimed at sowing strife’: Lebanese analysts",
+        "link": "https://www.aljazeera.com/news/2026/7/7/netanyahus-christian-comments-aimed-at-sowing-strife-lebanese-analysts?traffic_source=rss"
       },
       {
-        "title": "Argentina vs Egypt LIVE: FIFA World Cup 2026",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/7/argentina-vs-egypt-live-fifa-world-cup-2026?traffic_source=rss"
+        "title": "Reform UK’s Farage resigns as MP amid funding scandal, forcing by-election",
+        "link": "https://www.aljazeera.com/news/2026/7/7/reform-uks-farage-resigns-as-mp-amid-funding-scandal-forcing-by-election?traffic_source=rss"
       },
       {
-        "title": "France appeals court opens door for Le Pen presidential run, with ankle tag",
-        "link": "https://www.aljazeera.com/news/2026/7/7/france-appeals-court-opens-door-for-le-pen-presidential-run-with-ankle-tag?traffic_source=rss"
+        "title": "The World Cup is exposing the contradictions of national identity",
+        "link": "https://www.aljazeera.com/opinions/2026/7/7/the-world-cup-is-exposing-the-contradictions-of-national-identity?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,116 +70,120 @@
     ],
     "Dawn": [
       {
-        "title": "9 cops martyred in terrorist attack on police post in Ziarat",
-        "link": "https://www.dawn.com/news/2013564/9-cops-martyred-in-terrorist-attack-on-police-post-in-ziarat"
+        "title": "Cabinet approves new Haj policy aimed at improving pilgrim services",
+        "link": "https://www.dawn.com/news/2013624/cabinet-approves-new-haj-policy-aimed-at-improving-pilgrim-services"
       },
       {
-        "title": "Nato showcases big arms deals in Ankara before summit with Trump",
-        "link": "https://www.dawn.com/news/2013605/nato-showcases-big-arms-deals-in-ankara-before-summit-with-trump"
-      },
-      {
-        "title": "PSX snaps 5-day bullish streak, falls by over 1,100 points",
-        "link": "https://www.dawn.com/news/2013602/psx-snaps-5-day-bullish-streak-falls-by-over-1100-points"
+        "title": "Trump says he will lift Turkiye sanctions, decide on selling F-35s",
+        "link": "https://www.dawn.com/news/2013605/trump-says-he-will-lift-turkiye-sanctions-decide-on-selling-f-35s"
       },
       {
         "title": "PAF officer who sacrificed his life saving woman in distress laid to rest with military honours: ISPR",
         "link": "https://www.dawn.com/news/2013616/paf-officer-who-sacrificed-his-life-saving-woman-in-distress-laid-to-rest-with-military-honours-ispr"
       },
       {
-        "title": "JI chief announces countrywide protests against 'extortionary' petroleum levy on Friday",
-        "link": "https://www.dawn.com/news/2013604/ji-chief-announces-countrywide-protests-against-extortionary-petroleum-levy-on-friday"
+        "title": "PSX snaps 5-day bullish streak, falls by over 1,100 points",
+        "link": "https://www.dawn.com/news/2013602/psx-snaps-5-day-bullish-streak-falls-by-over-1100-points"
+      },
+      {
+        "title": "This year's El Nino likely to become record-breaker: top expert",
+        "link": "https://www.dawn.com/news/2013607/this-years-el-nino-likely-to-become-record-breaker-top-expert"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "In NATO’s Next Act, Can Europe Lead?",
-        "link": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html"
+        "title": "Trump Administration Guts Efforts to Prevent Gun Violence, Suppressing Reports",
+        "link": "https://www.nytimes.com/2026/07/07/us/politics/trump-gun-violence-cdc-dhs-justice.html"
+      },
+      {
+        "title": "Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies",
+        "link": "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html"
+      },
+      {
+        "title": "After Courting Black Voters, Trump Downplays Black Unemployment",
+        "link": "https://www.nytimes.com/2026/07/07/us/politics/trump-black-voters-unemployment.html"
       },
       {
         "title": "Trump Expected to Tell Turkey He Is Ready to Restore Access to F-35 Jets",
         "link": "https://www.nytimes.com/2026/07/06/us/politics/trump-turkey-f35.html"
       },
       {
-        "title": "What to Watch at the NATO Summit, and Platner’s Allies Rescind Endorsements",
-        "link": "https://www.nytimes.com/2026/07/07/podcasts/the-headlines/what-to-watch-at-the-nato-summit-and-platners-allies-rescind-endorsements.html"
-      },
-      {
-        "title": "Abandoned by Allies, Graham Platner Faces Pressure to End Maine Senate Campaign",
-        "link": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html"
-      },
-      {
-        "title": "In CNN Interview, Woman Details Alleged Sexual Assault by Graham Platner",
-        "link": "https://www.nytimes.com/2026/07/06/us/politics/jenny-racicot-cnn-interview-graham-platner.html"
+        "title": "Court Upholds Le Pen’s Conviction, but Leaves a Path to Presidency",
+        "link": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Peace Now report: 2025 witnessed largest West Bank settlement expansion",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/peace-now-report-2025-witnessed-largest-west-bank-settlement-expansion"
+        "title": "Israeli strikes kill at least three Palestinians in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-least-three-palestinians-gaza"
       },
       {
-        "title": "Trump joins NATO summit amid Ukraine, spending tensions",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-joins-nato-summit-amid-ukraine-spending-tensions"
+        "title": "Three tankers struck within hours in Hormuz, Qatar slams Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-tankers-struck-within-hours-hormuz-qatar-slams-iran"
       },
       {
-        "title": "'This is our sport, not theirs': Klopp attacks Fifa chief over Balogun red card reversal",
-        "link": "https://www.middleeasteye.net/news/klopp-criticises-infantino-belgium-beat-us-after-balogun-red-card-debacle"
+        "title": "Trump praises Turkey as 'great ally' of US",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-praises-turkiye-great-ally-us"
       },
       {
-        "title": "Israeli strikes kill two Palestinians in Gaza, wound seven including two children",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-two-palestinians-gaza-wound-seven-including-two"
+        "title": "UK train operator bans Palestine badges after pressure from pro-Israel legal group",
+        "link": "https://www.middleeasteye.net/news/uk-train-operator-bans-palestine-badges-after-pressure-pro-israel-legal-group"
       },
       {
-        "title": "UN report: Gaza recorded 9,300 chickenpox cases in just two weeks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-report-gaza-recorded-9300-chickenpox-cases-just-two-weeks"
+        "title": "Erdogan: Turkey working to bring US and Iran to common ground",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-turkey-working-bring-us-and-iran-common-ground"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince Harry suffers defeat as judge dismisses UK tabloid case",
-        "link": "https://www.geo.tv/latest/671941-prince-harry-suffers-defeat-as-judge-dismisses-uk-tabloid-case"
+        "title": "'She's a nice person actually': Trump on Meloni",
+        "link": "https://www.geo.tv/latest/671962-shes-a-nice-person-actually-trump-on-meloni"
       },
       {
-        "title": "Palace drops surprise Queen Camilla video as Britain welcomes Harry home",
-        "link": "https://www.geo.tv/latest/671935-palace-drops-surprise-queen-camilla-video-as-britain-welcomes-harry-home"
+        "title": "Prince Harry laughs off court loss with one joke",
+        "link": "https://www.geo.tv/latest/671959-prince-harry-laughs-off-court-loss-with-one-joke"
       },
       {
-        "title": "Govt to further streamline passport home delivery for overseas Pakistanis",
-        "link": "https://www.geo.tv/latest/671940-govt-to-further-streamline-passport-home-delivery-for-overseas-pakistanis"
+        "title": "King Charles joins Britons for meaningful cause: Statement released",
+        "link": "https://www.geo.tv/latest/671960-king-charles-joins-britons-for-meaningful-cause-statement-released"
       },
       {
-        "title": "Jonathan Anderson opens up about creating Taylor Swift's wedding dress",
-        "link": "https://www.geo.tv/latest/671938-jonathan-anderson-opens-up-about-creating-taylor-swifts-wedding-dress"
+        "title": "Nigel Farage quits as MP, declares war on UK establishment",
+        "link": "https://www.geo.tv/latest/671956-nigel-farage-quits-as-mp-declares-war-on-uk-establishment"
       },
       {
-        "title": "Rich Paul refuses to spill LeBron's free agency plans despite Max Kellerman's grilling",
-        "link": "https://www.geo.tv/latest/671934-rich-paul-refuses-to-spill-lebrons-free-agency-plans-despite-max-kellermans-grilling"
+        "title": "Brad Pitt moves forward with Ines de Ramon as new photos gets attention",
+        "link": "https://www.geo.tv/latest/671952-brad-pitt-moves-forward-with-ines-de-ramon-as-new-photos-gets-attention"
       }
     ],
     "NDTV": [
       {
-        "title": "Ukraine Strikes 8 Russian 'Shadow Fleet' Tankers Delivering Fuel To Crimea",
-        "link": "https://www.ndtv.com/world-news/ukraine-strikes-eight-russian-shadow-fleet-tankers-kyiv-says-11738707#publisher=newsstand"
+        "title": "'Car Manufacturers Comfortable, There's Some Misreporting': Hardeep Puri On E20 Row",
+        "link": "https://www.ndtv.com/india-news/misreporting-misinterpretation-hardeep-singh-puri-on-e20-fuel-row-11739819#publisher=newsstand"
       },
       {
-        "title": "China Storms Kill 15, Trigger Evacuations, Xi Jingping Orders Rescue Effort",
-        "link": "https://www.ndtv.com/world-news/climate-change-storm-china-death-china-storms-kill-15-trigger-mass-evacuations-as-xi-orders-rescue-effort-11738587#publisher=newsstand"
+        "title": "3 Tankers Attacked In Strait Of Hormuz In 24 Hours Amid US-Iran Ceasefire",
+        "link": "https://www.ndtv.com/world-news/3-tankers-attacked-in-strait-of-hormuz-in-24-hours-amid-us-iran-ceasefire-11739814#publisher=newsstand"
       },
       {
-        "title": "75-Year-Old With 32 Degrees Appears For Another Exam In Himachal",
-        "link": "https://www.ndtv.com/india-news/75-year-old-with-32-degrees-appears-for-another-exam-in-himachal-pradeshs-kangra-11738774#publisher=newsstand"
+        "title": "'Laxity Allowed': Champat Rai Blames Bank For Ram Temple Donation Theft",
+        "link": "https://www.ndtv.com/india-news/champat-rai-blames-sbi-for-ram-temple-donation-theft-in-ayodhya-says-laxity-allowed-11740048#publisher=newsstand"
       },
       {
-        "title": "Israel, Lebanon To Hold Direct US-Mediated Talks In Rome Next Week",
-        "link": "https://www.ndtv.com/world-news/rome-italy-foreign-minister-israel-lebanon-to-hold-direct-us-mediated-talks-in-rome-11738546#publisher=newsstand"
+        "title": "India-Indonesia Ties And A Biju Patnaik Link: What PM Modi Said In Jakarta",
+        "link": "https://www.ndtv.com/india-news/india-indonesia-ties-and-a-biju-patnaik-link-what-pm-modi-said-in-jakarta-11739920#publisher=newsstand"
       },
       {
-        "title": "Character Certificates, Local Focus: Maharashtra To Overhaul Bike Taxi Rules",
-        "link": "https://www.ndtv.com/india-news/character-certificates-local-focus-maharashtra-to-overhaul-bike-taxi-rules-11738908#publisher=newsstand"
+        "title": "Jaipur Woman Kills Mother For Job, Property, Tries To Pass It Off As Road Accident",
+        "link": "https://www.ndtv.com/india-news/jaipur-woman-kills-mother-for-job-property-tries-to-pass-it-off-as-road-accident-11739171#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+        "link": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds"
+      },
       {
         "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
         "link": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola"
@@ -201,12 +199,8 @@
       {
         "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
         "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes"
-      },
-      {
-        "title": "Overseas education project for women and girls axed by UK after two years",
-        "link": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years"
       }
     ]
   },
-  "last_updated": "2026-07-07 13:37 UTC"
+  "last_updated": "2026-07-07 16:09 UTC"
 }
