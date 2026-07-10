@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens 600 Points Higher, Asian Markets Advance",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-10-july-us-iran-war-trump-oil-prices-11751809#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Weather LIVE Updates: Landslide Alert In Himachal Pradesh",
+      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-southwest-monsoon-delayed-by-a-day-covers-entire-country-11751692#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,38 +22,38 @@
         "link": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US and Iran trade attacks as Khamenei is buried",
-        "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+        "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+        "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-        "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss"
+        "title": "Twelve die in wildfire in Spain as heatwave continues in southern Europe",
+        "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Restore Britain leader describes Dunblane school shooting as 'one murder'",
-        "link": "https://www.bbc.co.uk/news/articles/cj3gdj300lyo?at_medium=RSS&at_campaign=rss"
+        "title": "BBC radio DJ Paul Gambaccini diagnosed with Alzheimer's",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyvp7y89jo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Venezuela earthquakes toll rises to 3,889 as risk of disease grows",
-        "link": "https://www.aljazeera.com/news/2026/7/9/venezuela-earthquakes-toll-rises-to-3889-as-risk-of-disease-grows?traffic_source=rss"
+        "title": "Zelenskyy urges urgent efforts in Ukraine to start Patriot production",
+        "link": "https://www.aljazeera.com/news/2026/7/10/zelenskyy-urges-urgent-efforts-in-ukraine-to-start-patriot-production?traffic_source=rss"
       },
       {
-        "title": "New Mexico accuses US Justice Department of impeding Epstein investigation",
-        "link": "https://www.aljazeera.com/news/2026/7/9/new-mexico-accuses-us-justice-department-of-impeding-epstein-investigation?traffic_source=rss"
+        "title": "Iran says strikes hit southern areas, but US denies it carried attacks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/iran-says-strikes-hit-southern-areas-but-us-denies-it-carried-attacks?traffic_source=rss"
       },
       {
-        "title": "Waiting for Moses: Africa’s sons in Russia’s war",
-        "link": "https://www.aljazeera.com/features/2026/7/9/waiting-for-moses-africas-sons-in-russias-war?traffic_source=rss"
+        "title": "Strait of Hormuz traffic plunges as US, Iran resume fighting",
+        "link": "https://www.aljazeera.com/economy/2026/7/10/strait-of-hormuz-shipping-grinds-to-halt-as-us-iran-resume-fighting?traffic_source=rss"
       },
       {
-        "title": "Mbappe and Dembele net as France beat Morocco to reach World Cup semifinal",
-        "link": "https://www.aljazeera.com/sports/2026/7/9/mbappe-and-dembele-net-as-france-beat-morocco-to-reach-world-cup-semifinal?traffic_source=rss"
+        "title": "Muchova beats Gauff in tie-break thriller to reach first Wimbledon final",
+        "link": "https://www.aljazeera.com/sports/2026/7/10/muchova-beats-gauff-in-tie-break-thriller-to-reach-first-wimbledon-final?traffic_source=rss"
       },
       {
-        "title": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
-        "link": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss"
+        "title": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
+        "link": "https://www.aljazeera.com/sports/2026/7/10/gaza-mourns-aid-worker-killed-by-israel-who-helped-them-see-the-world-cup?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,113 +81,113 @@
     ],
     "Dawn": [
       {
-        "title": "Funeral prayers offered for supreme leader Ali Khamenei in Iran's Mashhad",
-        "link": "https://www.dawn.com/news/2014150/funeral-prayers-offered-for-supreme-leader-ali-khamenei-in-irans-mashhad"
+        "title": "JAAC warns of ‘march on Muzaffarabad’ if demands not met",
+        "link": "https://www.dawn.com/news/2014281/jaac-warns-of-march-on-muzaffarabad-if-demands-not-met"
       },
       {
-        "title": "'Mutual and singular decision' by leadership to end terrorism, PM Shehbaz says after Balochistan attacks",
-        "link": "https://www.dawn.com/news/2014127/mutual-and-singular-decision-by-leadership-to-end-terrorism-pm-shehbaz-says-after-balochistan-attacks"
+        "title": "Assassinated Iranian supreme leader Ayatollah Khamenei laid to rest in Mashhad",
+        "link": "https://www.dawn.com/news/2014323/assassinated-iranian-supreme-leader-ayatollah-khamenei-laid-to-rest-in-mashhad"
       },
       {
-        "title": "20 crew members rescued from sinking cargo dhow east of Ormara: ISPR",
-        "link": "https://www.dawn.com/news/2014176/20-crew-members-rescued-from-sinking-cargo-dhow-east-of-ormara-ispr"
+        "title": "Govt pins hopes on Field Marshal Munir to tackle population growth",
+        "link": "https://www.dawn.com/news/2014245/govt-pins-hopes-on-field-marshal-munir-to-tackle-population-growth"
       },
       {
-        "title": "Strengthening El Nino likely to 'rank among largest' on record: US agency",
-        "link": "https://www.dawn.com/news/2014189/strengthening-el-nino-likely-to-rank-among-largest-on-record-us-agency"
+        "title": "Mbappe strikes again as France beat Morocco to reach FIFA World Cup semi-finals",
+        "link": "https://www.dawn.com/news/2014274/mbappe-strikes-again-as-france-beat-morocco-to-reach-fifa-world-cup-semi-finals"
       },
       {
-        "title": "Workers' remittances hit record $41.6bn in FY26",
-        "link": "https://www.dawn.com/news/2014137/workers-remittances-hit-record-416bn-in-fy26"
+        "title": "Pakistan assures EU of fulfilling obligations under GSP+ framework",
+        "link": "https://www.dawn.com/news/2014279/pakistan-assures-eu-of-fulfilling-obligations-under-gsp-framework"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say",
+        "link": "https://www.nytimes.com/2026/07/09/us/politics/new-air-force-one-defensive-countermeasures.html"
+      },
+      {
         "title": "Mexican Man Fatally Shot by ICE Wasn’t the Intended Target",
         "link": "https://www.nytimes.com/2026/07/09/us/witnesses-houston-ice-shooting.html"
       },
       {
-        "title": "Prosecutors Show New Evidence in Charlie Kirk Case",
-        "link": "https://www.nytimes.com/2026/07/09/briefing/charlie-kirk-case-maine-democrats.html"
+        "title": "What We Know About the ICE Shooting of Lorenzo Salgado Araujo",
+        "link": "https://www.nytimes.com/2026/07/09/us/houston-ice-shooting-lorenzo-salgado-araujo.html"
       },
       {
-        "title": "China, Russia and Others Seek to Inflame Debate Over A.I. Data Centers",
-        "link": "https://www.nytimes.com/2026/07/09/business/china-russia-ai-data-centers.html"
+        "title": "Bombing Iran, Then a Tentative Accord Didn’t Work. Does Trump Have a Plan C?",
+        "link": "https://www.nytimes.com/2026/07/09/us/politics/trump-iran-war.html"
       },
       {
-        "title": "A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy",
-        "link": "https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html"
-      },
-      {
-        "title": "Erika Kirk Requests All Evidence in Husband’s Killing to Be Shown Publicly",
-        "link": "https://www.nytimes.com/2026/07/09/us/erika-charlie-kirk-hearing-evidence-court.html"
+        "title": "The U.S. and Iran Are Fighting Again. Is the Cease-Fire Over?",
+        "link": "https://www.nytimes.com/video/us/politics/100000011019171/the-us-and-iran-are-fighting-again-is-the-cease-fire-over.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Hezbollah supporters in Lebanon mourn Khamenei",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-supporters-lebanon-mourn-khamenei"
+        "title": "Report: Hamas spokesperson survives Israeli air strike",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-hamas-spokesperson-survives-israeli-air-strike"
       },
       {
-        "title": "Iran's late supreme leader Khamenei buried in Mashdad",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-late-supreme-leader-khamenei-buried-mashdad"
+        "title": "Iranian foreign ministry says Nato chief exposed Europe's 'willful complicity' in US attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-foreign-ministry-says-nato-chief-exposed-europes-willful"
       },
       {
-        "title": "US Senator urges Congress to cut off funding for Trump’s ‘reckless war’ with Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-urges-congress-cut-funding-trumps-reckless-war-iran"
+        "title": "Iran slams Nato talks on navigating Hormuz Strait as 'politically motivated'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-slams-nato-talks-navigating-hormuz-strait-politically-motivated"
       },
       {
-        "title": "US military says it facilitated 380 million barrels of oil transiting Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-it-facilitated-380m-barrels-oil-transiting-hormiz"
+        "title": "Normalising US attacks does not guarantee security, Iranian envoy warns Europe",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/normalising-us-attacks-does-not-guarantee-security-iranian-envoy-warns"
       },
       {
-        "title": "US still committed to talks with Iran, official says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-still-committed-talks-iran-official-says"
+        "title": "Report: US official says 'technical talks' with Iran ongoing, despite attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-official-says-technical-talks-iran-ongoing-despite-attacks"
       }
     ],
     "GeoTV": [
       {
-        "title": "‘Born This Way' Reality star Cristina Sanz Dies at 36",
-        "link": "https://www.geo.tv/latest/672391-born-this-way-reality-star-cristina-sanz-dies-at-36"
+        "title": "Oil heads for weekly gain as Middle East supply risks persist",
+        "link": "https://www.geo.tv/latest/672400-oil-heads-for-weekly-gain-as-middle-east-supply-risks-persist"
       },
       {
-        "title": "Bonnie Tyler dies: ‘Total Eclipse of the Heart' singer was 75",
-        "link": "https://www.geo.tv/latest/672389-bonnie-tyler-dies-total-eclipse-of-the-heart-singer-was-75"
+        "title": "Humanitarians look to put the AI in aid",
+        "link": "https://www.geo.tv/latest/672399-humanitarians-look-to-put-the-ai-in-aid"
       },
       {
-        "title": "Emmy Rossum makes major revelation about ‘Shameless' salary dispute",
-        "link": "https://www.geo.tv/latest/672385-emmy-rossum-makes-major-revelation-about-shameless-salary-dispute"
+        "title": "Michael Bublé reacts to Kevin Jonas' sweet gesture",
+        "link": "https://www.geo.tv/latest/672398-michael-bubl-reacts-to-kevin-jonas-sweet-gesture"
       },
       {
-        "title": "OpenAI unveils AI agent to complete work tasks across apps",
-        "link": "https://www.geo.tv/latest/672386-openai-unveils-ai-agent-to-complete-work-tasks-across-apps"
+        "title": "Kylie Kelce breaks silence over Taylor Swift, Travis Kelce wedding with one word",
+        "link": "https://www.geo.tv/latest/672397-kylie-kelce-breaks-silence-over-taylor-swift-travis-kelce-wedding-with-one-word"
       },
       {
-        "title": "Yungblud exits festival mid performance",
-        "link": "https://www.geo.tv/latest/672381-yungblud-exits-festival-mid-performance"
+        "title": "Jennifer Garner emphasises on working in L.A.: ‘It's so important'",
+        "link": "https://www.geo.tv/latest/672394-jennifer-garner-emphasises-on-working-in-la-its-so-important"
       }
     ],
     "NDTV": [
       {
-        "title": "Syria Says ISIS Was Behind Damascus Bombings During Macron's Visit",
-        "link": "https://www.ndtv.com/world-news/syria-says-isis-was-behind-damascus-bombings-during-macrons-visit-11751569#publisher=newsstand"
+        "title": "\"US Bases Our Problem, Not Neighbours\": Iranian Experts On Middle East Attacks",
+        "link": "https://www.ndtv.com/world-news/us-bases-our-problem-not-neighbours-iranian-experts-on-middle-east-attacks-us-iran-war-ali-khamenei-funeral-11747881#publisher=newsstand"
       },
       {
-        "title": "Venezuela Earthquake: Death Count Rises To 3,889, Nearly 17,000 Injured",
-        "link": "https://www.ndtv.com/world-news/venezuela-earthquake-death-count-rises-to-3-889-nearly-17-000-injured-11751548#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens 600 Points Higher, Asian Markets Advance",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-10-july-us-iran-war-trump-oil-prices-11751809#publisher=newsstand"
       },
       {
-        "title": "North Korea Decides On Measures To Strengthen Its Nuclear Forces: Report",
-        "link": "https://www.ndtv.com/world-news/north-korea-decides-on-measures-to-strengthen-its-nuclear-forces-report-11751535#publisher=newsstand"
+        "title": "Weather LIVE Updates: Landslide Alert In Himachal Pradesh",
+        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-southwest-monsoon-delayed-by-a-day-covers-entire-country-11751692#publisher=newsstand"
       },
       {
-        "title": "After Fresh US Strikes On Iran, Trump Briefs Netanyahu On \"Moves In Gulf\"",
-        "link": "https://www.ndtv.com/world-news/donald-trump-updated-benjamin-netanyahu-on-us-moves-in-gulf-israeli-pms-office-11751450#publisher=newsstand"
+        "title": "4 Gangsters Killed, 3 Cops Injured, 60 Rounds Of Firing In Gurugram Encounter",
+        "link": "https://www.ndtv.com/india-news/4-gangsters-killed-3-cops-injured-60-rounds-of-firing-in-gurugram-encounter-11751920#publisher=newsstand"
       },
       {
-        "title": "US-Iran War Live Updates: Iran Reports Fresh American Strikes, Trump Updates Netanyahu",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-live-updates-us-strikes-iran-after-tanker-attacks-in-hormuz-donald-trump-nato-israel-lebanon-hezbollah-ceasefire-11741497#publisher=newsstand"
+        "title": "Explosions Heard In Iran As Ali Khamenei Is Buried, US Denies Strikes",
+        "link": "https://www.ndtv.com/world-news/explosions-heard-in-iran-day-after-khameneis-funeral-us-denies-strikes-11751832#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-10 00:19 UTC"
+  "last_updated": "2026-07-10 04:28 UTC"
 }
