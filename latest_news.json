@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
+        "link": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss"
+      },
+      {
+        "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss"
+      },
+      {
         "title": "UK police investigate murder of politician Ann Widdecombe",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
         "link": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss"
-      },
-      {
-        "title": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
-        "link": "https://www.aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss"
-      },
-      {
-        "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -137,24 +143,24 @@
     ],
     "GeoTV": [
       {
+        "title": "Death toll from Venezuela earthquakes climbs to 4,333",
+        "link": "https://www.geo.tv/latest/672679-death-toll-from-venezuela-earthquakes-climbs-to-4333"
+      },
+      {
+        "title": "Katie Price's husband back in jail months after release",
+        "link": "https://www.geo.tv/latest/672678-katie-prices-husband-back-in-jail-months-after-release"
+      },
+      {
+        "title": "Typhoon Bavi makes landfall in eastern China's Taizhou after nearly 2 million evacuated",
+        "link": "https://www.geo.tv/latest/672677-typhoon-bavi-makes-landfall-in-eastern-chinas-taizhou-after-nearly-2-million-evacuated"
+      },
+      {
         "title": "Who's performing at FIFA's World Cup final half time show? See full lineu",
         "link": "https://www.geo.tv/latest/672676-whos-performing-at-fifas-world-cup-final-half-time-show-see-full-lineu"
       },
       {
         "title": "Spain battles deadly wildfires as death toll reaches 12 in one of country's worst blazes",
         "link": "https://www.geo.tv/latest/672674-spain-battles-deadly-wildfires-as-death-toll-reaches-12-in-one-of-countrys-worst-blazes"
-      },
-      {
-        "title": "Kendall Jenner at odds with Kris Jenner over Jacob Elordi",
-        "link": "https://www.geo.tv/latest/672673-kendall-jenner-at-odds-with-kris-jenner-over-jacob-elordi"
-      },
-      {
-        "title": "Ariana Grande gives disappointing update about 'American Horror Story'",
-        "link": "https://www.geo.tv/latest/672669-ariana-grande-gives-disappointing-update-about-american-horror-story"
-      },
-      {
-        "title": "Geo News transmission resumes as Pemra issues final order over Muharram documentary",
-        "link": "https://www.geo.tv/latest/672672-geo-news-transmission-resumes-as-pemra-issues-final-order-over-muharram-documentary"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-11 21:28 UTC"
+  "last_updated": "2026-07-11 22:25 UTC"
 }
