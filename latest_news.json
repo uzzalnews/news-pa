@@ -1,10 +1,24 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "England vs Norway LIVE: FIFA World Cup 2026 – quarterfinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/11/england-vs-norway-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
+        "title": "Ann Widdecombe attacked nearly 24 hours before she was found dead, police believe",
+        "link": "https://www.bbc.co.uk/news/articles/cgjx912wxw3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Village in shock as 'horrific' Ann Widdecombe murder case unfolds",
         "link": "https://www.bbc.co.uk/news/articles/c0ky0e147jzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Noskova holds off extraordinary Muchova fightback to win Wimbledon",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "TV presenter Dermot Murnaghan dies aged 68",
@@ -13,36 +27,28 @@
       {
         "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
         "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
-        "link": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Prince Harry talks grief, stress and loss in final event of UK trip",
-        "link": "https://www.bbc.co.uk/news/articles/c5yzn9xqz0po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
+        "link": "https://www.aljazeera.com/news/2026/7/11/us-lebanese-delegations-meet-to-discuss-israeli-pilot-zones-withdrawal?traffic_source=rss"
+      },
       {
         "title": "Evacuations as landslide threatens Indian village, construction firm blamed",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss"
       },
       {
-        "title": "FIFA is not an independent sporting organisation; it is a political tool.",
-        "link": "https://www.aljazeera.com/opinions/2026/7/11/fifa-is-not-an-independent-sporting-organisation-it-is-a-political-tool?traffic_source=rss"
+        "title": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
+        "link": "https://www.aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss"
       },
       {
-        "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
-        "link": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss"
+        "title": "England vs Norway LIVE: FIFA World Cup 2026 – quarterfinal",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/11/england-vs-norway-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss"
       },
       {
-        "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
-        "link": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss"
-      },
-      {
-        "title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
-        "link": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss"
+        "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
+        "link": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/2014642/irans-supreme-leader-mojtaba-khamenei-vows-revenge-for-assassinated-father"
       },
       {
-        "title": "Crypto czar holds 'constructive' discussion with Mufti Taqi Usmani on Shariah status of digital assets",
-        "link": "https://www.dawn.com/news/2014640/crypto-czar-holds-constructive-discussion-with-mufti-taqi-usmani-on-shariah-status-of-digital-assets"
+        "title": "Gwadar Port carries out first successful commercial bunkering operation",
+        "link": "https://www.dawn.com/news/2014650/gwadar-port-carries-out-first-successful-commercial-bunkering-operation"
       },
       {
-        "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
-        "link": "https://www.dawn.com/news/2014620/us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-visit"
+        "title": "Crypto czar holds 'constructive' discussion with Mufti Taqi Usmani on Shariah status of digital assets",
+        "link": "https://www.dawn.com/news/2014640/crypto-czar-holds-constructive-discussion-with-mufti-taqi-usmani-on-shariah-status-of-digital-assets"
       }
     ],
     "APNews": [],
@@ -105,15 +111,19 @@
         "link": "https://www.nytimes.com/2026/07/11/arts/design/whistle-blowers-accuse-kennedy-center-of-contracting-flaws-under-trump.html"
       },
       {
-        "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
-        "link": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html"
+        "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
+        "link": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html"
       },
       {
-        "title": "What We Know About the ICE Shooting of Lorenzo Salgado Araujo",
-        "link": "https://www.nytimes.com/2026/07/09/us/houston-ice-shooting-lorenzo-salgado-araujo.html"
+        "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+        "link": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli attacks on Lebanon kill 4,322 since 2 March",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-lebanon-kill-4322-2-march"
+      },
       {
         "title": "Seven wounded in Israeli strikes on south Lebanon town",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-wounded-israeli-strikes-south-lebanon-town"
@@ -129,13 +139,21 @@
       {
         "title": "Israeli settlers held US lawmaker Ro Khanna at gunpoint in occupied West Bank",
         "link": "https://www.middleeasteye.net/news/israeli-settlers-held-us-lawmaker-ro-khanna-gunpoint-occupied-west-bank"
-      },
-      {
-        "title": "Iran warns it will not be bound by deal with US if violations continue",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-it-will-not-be-bound-deal-us-if-violations-continue"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Legionnaires' outbreak hits New York's Upper East Side: Here's what you need to know",
+        "link": "https://www.geo.tv/latest/672666-legionnaires-outbreak-hits-new-yorks-upper-east-side-heres-what-you-need-to-know"
+      },
+      {
+        "title": "England's victory in fifth T20I condemns India to winless series",
+        "link": "https://www.geo.tv/latest/672665-englands-victory-in-fifth-t20i-condemns-india-to-winless-series"
+      },
+      {
+        "title": "Noskova survives tearful meltdown to win first Wimbledon title",
+        "link": "https://www.geo.tv/latest/672663-noskova-survives-tearful-meltdown-to-win-first-wimbledon-title"
+      },
       {
         "title": "Princess Kate pens personal message on brothers' big win as Harry gives in",
         "link": "https://www.geo.tv/latest/672660-princess-kate-pens-personal-message-on-brothers-big-win-as-harry-gives-in"
@@ -143,18 +161,6 @@
       {
         "title": "Beyonce surprises audience at Jay-Z's 30th anniversary concert",
         "link": "https://www.geo.tv/latest/672661-beyonce-surprises-audience-at-jay-zs-30th-anniversary-concert"
-      },
-      {
-        "title": "Millie Bobby Brown wreaks havoc with burning question to Louis Partridge",
-        "link": "https://www.geo.tv/latest/672651-millie-bobby-brown-wreaks-havoc-with-burning-question-to-louis-partridge"
-      },
-      {
-        "title": "Floods in Bangladesh kill 44, leave over a million stranded",
-        "link": "https://www.geo.tv/latest/672659-floods-in-bangladesh-kill-44-leave-over-a-million-stranded"
-      },
-      {
-        "title": "Prince Harry breaks cover after meeting with King Charles",
-        "link": "https://www.geo.tv/latest/672656-prince-harry-breaks-cover-after-meeting-with-king-charles"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-11 17:35 UTC"
+  "last_updated": "2026-07-11 18:32 UTC"
 }
