@@ -1,54 +1,48 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "'Man of all the moments' - Bellingham gives England the lead",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Man arrested on suspicion of murder of Ann Widdecombe, police say",
         "link": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Iran says Strait of Hormuz closed 'until further notice'",
+        "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
         "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "We are living fewer years in good health: Is the NHS part of the problem?",
+        "link": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Tributes paid to TV presenter Dermot Murnaghan",
         "link": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
-        "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
-        "link": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "FIFA to sell pieces of World Cup final stadium pitch, could earn millions",
-        "link": "https://www.aljazeera.com/sports/2026/7/11/fifa-to-sell-pieces-of-world-cup-final-stadium-pitch-could-earn-millions?traffic_source=rss"
+        "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss"
       },
       {
-        "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
-        "link": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss"
+        "title": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
+        "link": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss"
       },
       {
-        "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss"
+        "title": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss"
       },
       {
-        "title": "UK police investigate murder of politician Ann Widdecombe",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss"
+        "title": "Indian tourists killed after speedboat capsizes in Vietnam",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss"
       },
       {
-        "title": "What’s behind Pakistan’s mass deportation of Afghans?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss"
+        "title": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
+        "link": "https://www.aljazeera.com/news/2026/7/11/whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,27 +115,39 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Blasts heard along Iran's coastal areas, Iranian media reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-along-irans-coastal-areas-iranian-media-reports"
+      },
+      {
+        "title": "Pete Hegseth says 'Iran made a poor choice, now they pay'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pete-hegseth-says-iran-made-poor-choice-now-they-pay"
+      },
+      {
+        "title": "US launches strikes on Iran after IRGC hits container in Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-us-launches-strikes-iran-after-irgc-hits-container-hormuz"
+      },
+      {
+        "title": "Iranian media says ship hit with missile after 'ignoring warnings'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-says-ship-hit-missile-after-ignoring-warning"
+      },
+      {
         "title": "IRGC says Strait of Hormuz closed 'until further notice'",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-strait-hormuz-closed-until-further-notice"
-      },
-      {
-        "title": "Germany moves to criminalise denial of Israel’s existence while refusing to recognise Palestine",
-        "link": "https://www.middleeasteye.net/news/germany-moves-criminalise-denial-israels-existence-while-refusing-recognise-palestine"
-      },
-      {
-        "title": "UAE oil production hits record high after leaving Opec",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-oil-production-hits-record-high-after-leaving-opec"
-      },
-      {
-        "title": "Iran warns it could abandon US memorandum over violations",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-it-could-abandon-us-memorandum-over-violations"
-      },
-      {
-        "title": "Oman and Iran hold Strait of Hormuz navigation talks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-and-iran-hold-strait-hormuz-navigation-talks"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Bellingham double fires England past Norway into World Cup semis",
+        "link": "https://www.geo.tv/latest/672683-bellingham-double-fires-england-past-norway-into-world-cup-semis"
+      },
+      {
+        "title": "Star Trek and Twilight Zone actress Antoinette Bower dies at 93",
+        "link": "https://www.geo.tv/latest/672682-star-trek-and-twilight-zone-actress-antoinette-bower-dies-at-93"
+      },
+      {
+        "title": "Rosie O'Donnell reveals what made her quit hit TV show",
+        "link": "https://www.geo.tv/latest/672681-rosie-odonnell-reveals-what-made-her-quit-hit-tv-show"
+      },
       {
         "title": "Dwayne Johnson reveals his unexpected skincare superpower",
         "link": "https://www.geo.tv/latest/672680-dwayne-johnson-reveals-his-unexpected-skincare-superpower"
@@ -149,21 +155,13 @@
       {
         "title": "Death toll from Venezuela earthquakes climbs to 4,333",
         "link": "https://www.geo.tv/latest/672679-death-toll-from-venezuela-earthquakes-climbs-to-4333"
-      },
-      {
-        "title": "Katie Price's husband back in jail months after release",
-        "link": "https://www.geo.tv/latest/672678-katie-prices-husband-back-in-jail-months-after-release"
-      },
-      {
-        "title": "Typhoon Bavi makes landfall in eastern China's Taizhou after nearly 2 million evacuated",
-        "link": "https://www.geo.tv/latest/672677-typhoon-bavi-makes-landfall-in-eastern-chinas-taizhou-after-nearly-2-million-evacuated"
-      },
-      {
-        "title": "Who's performing at FIFA's World Cup final half time show? See full lineu",
-        "link": "https://www.geo.tv/latest/672676-whos-performing-at-fifas-world-cup-final-half-time-show-see-full-lineu"
       }
     ],
     "NDTV": [
+      {
+        "title": "Iran Shuts Hormuz, Attacks Ship Over \"Unauthorised Route\", US Begins New Strikes",
+        "link": "https://www.ndtv.com/world-news/iran-shuts-hormuz-attacks-ship-over-unauthorised-route-us-begins-new-strikes-11759702#publisher=newsstand"
+      },
       {
         "title": "New Zealand's Space Sector Played Key Role In Chandrayaan-3 Success, Says PM Modi",
         "link": "https://www.ndtv.com/india-news/new-zealands-space-sector-played-key-role-in-chandrayaan-3-success-says-pm-modi-11759433#publisher=newsstand"
@@ -179,10 +177,6 @@
       {
         "title": "US Lawmaker Ro Khanna Detained By Israeli Settlers During West Bank Visit",
         "link": "https://www.ndtv.com/world-news/us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-visit-11758682#publisher=newsstand"
-      },
-      {
-        "title": "Man Arrested For Raping 12-Year-Old Neighbour In Assam's Sivasagar",
-        "link": "https://www.ndtv.com/india-news/man-arrested-for-raping-12-year-old-neighbour-in-assams-sivasagar-11759349#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-11 23:26 UTC"
+  "last_updated": "2026-07-12 01:04 UTC"
 }
