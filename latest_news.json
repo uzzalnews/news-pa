@@ -1,5 +1,21 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Iran War News LIVE: Indian Crew Member Killed After Iran Strikes 2 UAE Tankers In Hormuz",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Oil Prices Hit $85-Mark",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-14-july-us-iran-war-oil-prices-11767701#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Weather LIVE Updates: Delhi Gets Warmer, Partly Cloudy Sky Expected Today",
+      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-delhi-gets-warmer-partly-cloudy-sky-expected-today-11767631#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,34 +31,34 @@
         "link": "https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Twelve arrested over alleged right-wing terror threat to UK Islamic event, police say",
-        "link": "https://www.bbc.co.uk/news/articles/cvgl20x1ggpo?at_medium=RSS&at_campaign=rss"
+        "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+        "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-        "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss"
+        "title": "YouTube still recommending eating disorder videos to teens, research finds",
+        "link": "https://www.bbc.co.uk/news/articles/c5yzn2g0xw9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Iran war live: US launches more attacks, UAE says 1 killed in tanker strike",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss"
+        "title": "Oil hits 1-month high as US-Iran fighting clouds Strait of Hormuz outlook",
+        "link": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss"
       },
       {
-        "title": "Hundreds of experts warn the world must prepare now for AI’s impact",
-        "link": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact?traffic_source=rss"
+        "title": "ICE officer kills motorist in Maine; the second fatality in a week",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/ice-officer-kills-motorist-in-maine-the-second-fatality-in-a-week-2?traffic_source=rss"
       },
       {
-        "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
-        "link": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
+        "title": "Hungary’s parliament votes to oust president in latest anti-Orban move",
+        "link": "https://www.aljazeera.com/news/2026/7/14/hungarys-parliament-votes-to-oust-president-in-latest-anti-orban-move?traffic_source=rss"
       },
       {
-        "title": "Norway ‘rows’ at the royal palace to welcome back World Cup heroes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_norway-rows-at-the-royal-palace-world-cup-heroes-130726?traffic_source=rss"
+        "title": "Trump demands payment to protect Gulf nations from Iranian attacks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss"
       },
       {
-        "title": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
-        "link": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss"
+        "title": "Record El Niño threatens to unleash floods across East Africa and Asia",
+        "link": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +86,24 @@
     ],
     "Dawn": [
       {
-        "title": "Middle East rocked by heaviest attacks since US-Iran April ceasefire",
-        "link": "https://www.dawn.com/news/2015083/middle-east-rocked-by-heaviest-attacks-since-us-iran-april-ceasefire"
+        "title": "NA panel flags key hurdles to e-bike rollout in Pakistan",
+        "link": "https://www.dawn.com/news/2015282/na-panel-flags-key-hurdles-to-e-bike-rollout-in-pakistan"
       },
       {
-        "title": "FCC sets aside SC judgment that allowed demolition of restaurants in Margalla Hills National Park",
-        "link": "https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park"
+        "title": "Battery storage made mandatory for power auctions",
+        "link": "https://www.dawn.com/news/2015260/battery-storage-made-mandatory-for-power-auctions"
       },
       {
-        "title": "Young doctor shot dead in robbery near Karachi's Teen Talwar: police",
-        "link": "https://www.dawn.com/news/2015139/young-doctor-shot-dead-in-robbery-near-karachis-teen-talwar-police"
+        "title": "UK to change law in bid to deport Rochdale grooming gang ringleader Shabir Ahmed",
+        "link": "https://www.dawn.com/news/2015275/uk-to-change-law-in-bid-to-deport-rochdale-grooming-gang-ringleader-shabir-ahmed"
       },
       {
-        "title": "Yemen govt says hit Sanaa airport, Houthis attack Saudi Arabia",
-        "link": "https://www.dawn.com/news/2015162/yemen-govt-says-hit-sanaa-airport-houthis-attack-saudi-arabia"
+        "title": "UN scrutinises India over ‘mass voter deletions’",
+        "link": "https://www.dawn.com/news/2015273/un-scrutinises-india-over-mass-voter-deletions"
       },
       {
-        "title": "KP Assembly speaker refers controversial legislation expanding lawmakers’ privileges to house committee for review",
-        "link": "https://www.dawn.com/news/2015167/kp-assembly-speaker-refers-controversial-legislation-expanding-lawmakers-privileges-to-house-committee-for-review"
+        "title": "PTI backs Aleema’s march call, fears ‘false flag’",
+        "link": "https://www.dawn.com/news/2015276/pti-backs-aleemas-march-call-fears-false-flag"
       }
     ],
     "APNews": [],
@@ -97,45 +113,57 @@
         "link": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html"
       },
       {
+        "title": "Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping",
+        "link": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html"
+      },
+      {
+        "title": "Lebanese Hold Fast to Their Land Despite Threat of Long Israeli Occupation",
+        "link": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html"
+      },
+      {
         "title": "Trump Reimposes a Naval Blockade of Iran",
         "link": "https://www.nytimes.com/2026/07/13/briefing/hormuz-fee-graham.html"
       },
       {
         "title": "Graham’s Death Complicates G.O.P. Agenda in Congress",
         "link": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-complications-gop-agenda.html"
-      },
-      {
-        "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
-        "link": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
-      },
-      {
-        "title": "How Lindsey Graham’s Journey From Trump Critic to Ally Made Him a Power Player",
-        "link": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-donald-trump.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Bahraini air defences intercept, destroy Iranian attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahraini-air-defences-intercept-destroy-iranian-attacks"
+        "title": "Jordan says it downed four Iranian missiles",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-says-it-downed-four-iranian-missiles"
       },
       {
-        "title": "Trumps says he wants Gulf states to reimburse US for 'protection'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-says-he-wants-gulf-states-reimburse-us-protection"
+        "title": "Trump reiterates that US attacks brought Iran back to 'the Stone Ages'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-reiterates-us-attacks-brought-iran-back-stone-ages"
       },
       {
-        "title": "Explosion heard in Iran's Bushehr, four wounded in US attack on Omidiyeh",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-heard-irans-bushehr-four-wounded-us-attack-omidiyeh"
+        "title": "Missile targets Iranian Kurdish opposition group site in Iraq's Erbil: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-targets-iranian-kurdish-opposition-group-site-iraqs-erbil-report"
       },
       {
-        "title": "Fresh US hits on Iran, despite Trump saying a deal with Tehran 'possible'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fresh-us-hits-iran-despite-trump-saying-deal-tehran-possible"
+        "title": "Centcom says US launched attacks across Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-us-launched-attacks-across-iran"
       },
       {
-        "title": "Iran warns it would not allow US to 'interfere' in Hormuz Strait",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-it-would-not-allow-us-interfere-hormuz-strait"
+        "title": "IRGC claim attack on two vessels in Hormuz Strait, targets Bahrain's Juffair base",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claim-attack-two-vessels-hormuz-strait"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Christopher Nolan doesn't agree with Matt Damon's opinion about ‘The Odyssey'",
+        "link": "https://www.geo.tv/latest/672932-christopher-nolan-doesnt-agree-with-matt-damons-opinion-about-the-odyssey"
+      },
+      {
+        "title": "Brian Austin Green makes major revelation about marriage to ex Megan Fox",
+        "link": "https://www.geo.tv/latest/672931-brian-austin-green-makes-major-revelation-about-marriage-to-ex-megan-foxbrian-austin-green-makes-major-revelation-about-marriage-to-ex-megan-fox"
+      },
+      {
+        "title": "King Charles expands Buckingham Palace secrity with new screening role",
+        "link": "https://www.geo.tv/latest/672907-king-charles-expands-buckingham-palace-secrity-with-new-screening-role"
+      },
       {
         "title": "‘Hotel Transylvania 5' release date revealed",
         "link": "https://www.geo.tv/latest/672928-hotel-transylvania-5-release-date-revealed"
@@ -143,40 +171,28 @@
       {
         "title": "Ex-Guns N' Roses drummer Frank Ferrer talks about Axl Rose: ‘Doesn't suffer'",
         "link": "https://www.geo.tv/latest/672923-ex-guns-n-roses-drummer-frank-ferrer-talks-about-axl-rose-doesnt-suffer"
-      },
-      {
-        "title": "Kim Kardashian shares sweet snaps with daughter, Lewis Hamilton from holiday",
-        "link": "https://www.geo.tv/latest/672919-kim-kardashian-shares-sweet-snaps-with-daughter-lewis-hamilton-from-holiday"
-      },
-      {
-        "title": "Heatwave forces France to shut down nuclear reactors",
-        "link": "https://www.geo.tv/latest/672917-heatwave-forces-france-to-shut-down-nuclear-reactors"
-      },
-      {
-        "title": "Rihanna's daughter Rocki dress up for Jay-Z concert",
-        "link": "https://www.geo.tv/latest/672913-rihannas-daughter-rocki-dress-up-for-jay-z-concert"
       }
     ],
     "NDTV": [
       {
-        "title": "4 Boys Kill Watchman, Escape From Observation Home In Chhattisgarh",
-        "link": "https://www.ndtv.com/india-news/4-boys-kill-watchman-escape-from-observation-home-in-chhattisgarh-11767543#publisher=newsstand"
+        "title": "Tirupati Temple Employee Among 3 Arrested In Drug Bust",
+        "link": "https://www.ndtv.com/andhra-pradesh-news/tirupati-temple-employee-among-3-arrested-in-drug-bust-11767727#publisher=newsstand"
       },
       {
-        "title": "Bodies Of 15 Indians Who Died In Vietnam Boat Tragedy Reach Mumbai",
-        "link": "https://www.ndtv.com/india-news/bodies-of-15-indians-who-died-in-vietnam-boat-tragedy-reach-mumbai-11767526#publisher=newsstand"
+        "title": "Amid Iran War, Centre Urged To Roll Out India's 1st LPG Efficiency Policy",
+        "link": "https://www.ndtv.com/business-news/amid-us-iran-war-centre-urged-to-roll-out-india-first-lpg-efficiency-policy-11764052#publisher=newsstand"
       },
       {
-        "title": "Trump's Thursday Speech To Focus On 2020 Election Interference: Report",
-        "link": "https://www.ndtv.com/world-news/donald-trumps-thursday-speech-to-focus-on-2020-election-interference-report-11767512#publisher=newsstand"
+        "title": "US-Iran War News LIVE: Indian Crew Member Killed After Iran Strikes 2 UAE Tankers In Hormuz",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
       },
       {
-        "title": "Trump Sends Congress Formal Notice That Iran Conflict Has Resumed",
-        "link": "https://www.ndtv.com/world-news/trump-sends-congress-formal-notice-that-iran-conflict-has-resumed-11767501#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Oil Prices Hit $85-Mark",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-14-july-us-iran-war-oil-prices-11767701#publisher=newsstand"
       },
       {
-        "title": "US Launches Strikes On Iran For Third Consecutive Night",
-        "link": "https://www.ndtv.com/world-news/us-launches-strikes-on-iran-for-third-consecutive-night-11767407#publisher=newsstand"
+        "title": "Weather LIVE Updates: Delhi Gets Warmer, Partly Cloudy Sky Expected Today",
+        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-delhi-gets-warmer-partly-cloudy-sky-expected-today-11767631#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +218,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-14 00:56 UTC"
+  "last_updated": "2026-07-14 03:57 UTC"
 }
