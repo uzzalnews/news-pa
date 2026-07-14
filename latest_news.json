@@ -1,38 +1,22 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Iran War News LIVE: Indian Crew Member Killed After Iran Strikes 2 UAE Tankers In Hormuz",
-      "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Oil Prices Hit $85-Mark",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-14-july-us-iran-war-oil-prices-11767701#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "Weather LIVE Updates: Delhi Gets Warmer, Partly Cloudy Sky Expected Today",
-      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-delhi-gets-warmer-partly-cloudy-sky-expected-today-11767631#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-        "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation",
         "link": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Chris Mason: Investigation into Widdecombe's death rekindles debate over how to protect politicians",
+        "link": "https://www.bbc.co.uk/news/articles/cvgdgx01y98o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "No significant rain forecast for at least a week as UK heatwave continues",
         "link": "https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
-        "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss"
+        "title": "The secretive crypto firm backed by Farage's biggest donor",
+        "link": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "YouTube still recommending eating disorder videos to teens, research finds",
@@ -41,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Oil hits 1-month high as US-Iran fighting clouds Strait of Hormuz outlook",
-        "link": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss"
+        "title": "Why is India blocking film on a man who counted Punjab insurgency killings?",
+        "link": "https://www.aljazeera.com/news/2026/7/14/why-is-india-blocking-film-on-a-man-who-counted-punjab-insurgency-killings?traffic_source=rss"
       },
       {
-        "title": "ICE officer kills motorist in Maine; the second fatality in a week",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/ice-officer-kills-motorist-in-maine-the-second-fatality-in-a-week-2?traffic_source=rss"
+        "title": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss"
       },
       {
-        "title": "Hungary’s parliament votes to oust president in latest anti-Orban move",
-        "link": "https://www.aljazeera.com/news/2026/7/14/hungarys-parliament-votes-to-oust-president-in-latest-anti-orban-move?traffic_source=rss"
+        "title": "‘Beijing is laughing’ at US-Mexico-Canada stalled trade talks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/beijing-is-laughing-at-us-mexico-canada-stalled-trade-talks?traffic_source=rss"
       },
       {
-        "title": "Trump demands payment to protect Gulf nations from Iranian attacks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss"
+        "title": "Birthday present for Spain’s Yamal? World Cup semifinal win over France",
+        "link": "https://www.aljazeera.com/sports/2026/7/14/birthday-present-for-spains-yamal-world-cup-semifinal-win-over-france?traffic_source=rss"
       },
       {
-        "title": "Record El Niño threatens to unleash floods across East Africa and Asia",
-        "link": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss"
+        "title": "Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths",
+        "link": "https://www.aljazeera.com/news/2026/7/14/mexicos-sheinbaum-announces-criminal-charges-request-in-us-over-ice-deaths?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,24 +70,24 @@
     ],
     "Dawn": [
       {
-        "title": "NA panel flags key hurdles to e-bike rollout in Pakistan",
-        "link": "https://www.dawn.com/news/2015282/na-panel-flags-key-hurdles-to-e-bike-rollout-in-pakistan"
+        "title": "US launches third night of strikes on Iran; IRGC targets American assets in Bahrain and Jordan",
+        "link": "https://www.dawn.com/news/2015335/us-launches-third-night-of-strikes-on-iran-irgc-targets-american-assets-in-bahrain-and-jordan"
       },
       {
-        "title": "Battery storage made mandatory for power auctions",
-        "link": "https://www.dawn.com/news/2015260/battery-storage-made-mandatory-for-power-auctions"
+        "title": "FBI chief Kash Patel hosts Naqvi in Washington, hails 'critical partnership'",
+        "link": "https://www.dawn.com/news/2015325/fbi-chief-kash-patel-hosts-naqvi-in-washington-hails-critical-partnership"
+      },
+      {
+        "title": "Pakistan expresses solidarity with Saudi Arabia at UNSC, condemns Houthi attacks on kingdom",
+        "link": "https://www.dawn.com/news/2015330/pakistan-expresses-solidarity-with-saudi-arabia-at-unsc-condemns-houthi-attacks-on-kingdom"
       },
       {
         "title": "UK to change law in bid to deport Rochdale grooming gang ringleader Shabir Ahmed",
         "link": "https://www.dawn.com/news/2015275/uk-to-change-law-in-bid-to-deport-rochdale-grooming-gang-ringleader-shabir-ahmed"
       },
       {
-        "title": "UN scrutinises India over ‘mass voter deletions’",
-        "link": "https://www.dawn.com/news/2015273/un-scrutinises-india-over-mass-voter-deletions"
-      },
-      {
-        "title": "PTI backs Aleema’s march call, fears ‘false flag’",
-        "link": "https://www.dawn.com/news/2015276/pti-backs-aleemas-march-call-fears-false-flag"
+        "title": "PSX continues in the red, loses more than 3,000 points in early trade",
+        "link": "https://www.dawn.com/news/2015331/psx-continues-in-the-red-loses-more-than-3000-points-in-early-trade"
       }
     ],
     "APNews": [],
@@ -121,78 +105,78 @@
         "link": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html"
       },
       {
-        "title": "Trump Reimposes a Naval Blockade of Iran",
-        "link": "https://www.nytimes.com/2026/07/13/briefing/hormuz-fee-graham.html"
-      },
-      {
         "title": "Graham’s Death Complicates G.O.P. Agenda in Congress",
         "link": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-complications-gop-agenda.html"
+      },
+      {
+        "title": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
+        "link": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Jordan says it downed four Iranian missiles",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-says-it-downed-four-iranian-missiles"
+        "title": "Blasts heard in Bahrain",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-bahrain-0"
       },
       {
-        "title": "Trump reiterates that US attacks brought Iran back to 'the Stone Ages'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-reiterates-us-attacks-brought-iran-back-stone-ages"
+        "title": "India summons Iranian deputy ambassador over killing of citizen in Hormuz Strait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/india-summons-iranian-deputy-ambassador-over-killing-citizen-hormz"
       },
       {
-        "title": "Missile targets Iranian Kurdish opposition group site in Iraq's Erbil: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-targets-iranian-kurdish-opposition-group-site-iraqs-erbil-report"
+        "title": "Report: Iran rescues over a dozen bulk carrier crew after collision in Hormuz Strait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-iran-rescues-over-dozen-bulk-carrier-crew-after-collision-hormuz"
       },
       {
-        "title": "Centcom says US launched attacks across Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-us-launched-attacks-across-iran"
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-583"
       },
       {
-        "title": "IRGC claim attack on two vessels in Hormuz Strait, targets Bahrain's Juffair base",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claim-attack-two-vessels-hormuz-strait"
+        "title": "IRGC says US air base in Jordan targeted",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-us-air-base-jordan-targeted"
       }
     ],
     "GeoTV": [
       {
-        "title": "Christopher Nolan doesn't agree with Matt Damon's opinion about ‘The Odyssey'",
-        "link": "https://www.geo.tv/latest/672932-christopher-nolan-doesnt-agree-with-matt-damons-opinion-about-the-odyssey"
+        "title": "Prince Harry talks ‘biggest gift' for children in new video message",
+        "link": "https://www.geo.tv/latest/672946-prince-harry-talks-biggest-gift-for-children-in-new-video-message"
       },
       {
-        "title": "Brian Austin Green makes major revelation about marriage to ex Megan Fox",
-        "link": "https://www.geo.tv/latest/672931-brian-austin-green-makes-major-revelation-about-marriage-to-ex-megan-foxbrian-austin-green-makes-major-revelation-about-marriage-to-ex-megan-fox"
+        "title": "Justin Baldoni tries to push back Blake Lively's million-dollar demand",
+        "link": "https://www.geo.tv/latest/672945-justin-baldoni-tries-to-push-back-blake-livelys-million-dollar-demand"
       },
       {
-        "title": "King Charles expands Buckingham Palace secrity with new screening role",
-        "link": "https://www.geo.tv/latest/672907-king-charles-expands-buckingham-palace-secrity-with-new-screening-role"
+        "title": "ICE agent fatally shoots driver in Maine, six days after similar death in Texas",
+        "link": "https://www.geo.tv/latest/672939-ice-agent-fatally-shoots-driver-in-maine-six-days-after-similar-death-in-texas"
       },
       {
-        "title": "‘Hotel Transylvania 5' release date revealed",
-        "link": "https://www.geo.tv/latest/672928-hotel-transylvania-5-release-date-revealed"
+        "title": "King Charles, Prince William face alarming breach at Palace throne room",
+        "link": "https://www.geo.tv/latest/672943-king-charles-prince-william-face-alarming-breach-at-palace-throne-room"
       },
       {
-        "title": "Ex-Guns N' Roses drummer Frank Ferrer talks about Axl Rose: ‘Doesn't suffer'",
-        "link": "https://www.geo.tv/latest/672923-ex-guns-n-roses-drummer-frank-ferrer-talks-about-axl-rose-doesnt-suffer"
+        "title": "FBI chief Patel meets Naqvi, lauds Pakistan's support in protecting US regional interests",
+        "link": "https://www.geo.tv/latest/672940-fbi-chief-patel-meets-naqvi-lauds-pakistans-support-in-protecting-us-regional-interests"
       }
     ],
     "NDTV": [
       {
-        "title": "Tirupati Temple Employee Among 3 Arrested In Drug Bust",
-        "link": "https://www.ndtv.com/andhra-pradesh-news/tirupati-temple-employee-among-3-arrested-in-drug-bust-11767727#publisher=newsstand"
+        "title": "India's Youngest Airline Seeks Funds As Iran War Drives Up Costs: Report",
+        "link": "https://www.ndtv.com/india-news/akasa-air-indias-youngest-airline-seeks-funds-as-iran-war-drives-up-costs-report-11768072#publisher=newsstand"
       },
       {
-        "title": "Amid Iran War, Centre Urged To Roll Out India's 1st LPG Efficiency Policy",
-        "link": "https://www.ndtv.com/business-news/amid-us-iran-war-centre-urged-to-roll-out-india-first-lpg-efficiency-policy-11764052#publisher=newsstand"
+        "title": "'When Will Mumma Return?' Rajasthan Maternal Deaths Tear Families Apart",
+        "link": "https://www.ndtv.com/india-news/rajasthan-maternal-deaths-when-will-mumma-return-rajasthan-maternal-deaths-tear-families-apart-rajasthan-healthcare-system-11768300#publisher=newsstand"
       },
       {
-        "title": "US-Iran War News LIVE: Indian Crew Member Killed After Iran Strikes 2 UAE Tankers In Hormuz",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
+        "title": "Centre Summons Iranian Envoy After Indian Killed In Strikes On Ship In Hormuz",
+        "link": "https://www.ndtv.com/india-news/centre-summons-iranian-envoy-after-indian-killed-in-strikes-on-ship-in-hormuz-11768263#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Oil Prices Hit $85-Mark",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-14-july-us-iran-war-oil-prices-11767701#publisher=newsstand"
+        "title": "\"Within 3 Minutes, It Flipped\", Recalls Vietnam Boat Tragedy Survivor",
+        "link": "https://www.ndtv.com/india-news/phu-quoc-island-vietnam-boat-tragedy-survivor-recalls-within-3-minutes-it-flipped-11768223#publisher=newsstand"
       },
       {
-        "title": "Weather LIVE Updates: Delhi Gets Warmer, Partly Cloudy Sky Expected Today",
-        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-delhi-gets-warmer-partly-cloudy-sky-expected-today-11767631#publisher=newsstand"
+        "title": "Man Behind Bangladesh's Tallest Ram Statue Arrested On Fraud Charges",
+        "link": "https://www.ndtv.com/world-news/man-behind-bangladeshs-tallest-ram-statue-haridas-chandra-tarani-das-arrested-on-fraud-charges-11765953#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -218,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-14 03:57 UTC"
+  "last_updated": "2026-07-14 06:16 UTC"
 }
