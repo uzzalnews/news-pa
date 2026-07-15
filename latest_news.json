@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Iran War News LIVE: Iran Threatens To Shut More Energy Corridors After Hormuz Closure",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -11,38 +17,38 @@
         "link": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Police say Ann Widdecombe killed in 'targeted attack' as motive investigated",
-        "link": "https://www.bbc.co.uk/news/articles/c0ryr74zjzvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+        "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
         "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
         "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Review of MP security needed after Widdecombe death, Burnham says",
+        "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss"
+        "title": "How Iran’s southern coast is bearing the brunt of US attacks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks?traffic_source=rss"
       },
       {
-        "title": "Argentina happy to be in World Cup semifinal, coach Scaloni says",
-        "link": "https://www.aljazeera.com/sports/2026/7/15/argentina-happy-to-be-in-world-cup-semifinal-coach-scaloni-says?traffic_source=rss"
+        "title": "Spain knock out France, prepare for World Cup final",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-knock-out-france-prepare-for-world-cup-final?traffic_source=rss"
       },
       {
-        "title": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
-        "link": "https://www.aljazeera.com/sports/2026/7/15/mbappe-blames-technical-tactical-blunders-for-world-cup-semifinal-loss?traffic_source=rss"
+        "title": "T.Rex skeleton sells for $50.1 million at New York auction",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/t-rex-skeleton-sells-for-50-1-million-at-new-york-auction?traffic_source=rss"
       },
       {
-        "title": "Spain crashes Paris party by beating France in the World Cup semis",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss"
+        "title": "Saving shea: How a Ugandan woman is turning waste into clean energy",
+        "link": "https://www.aljazeera.com/news/2026/7/15/saving-shea-how-a-ugandan-woman-is-turning-waste-into-clean-energy?traffic_source=rss"
       },
       {
-        "title": "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
-        "link": "https://www.aljazeera.com/sports/2026/7/15/us-star-balogun-knew-red-card-reversal-would-cause-a-lot-of-controversy?traffic_source=rss"
+        "title": "Nearly 75% of Americans think there’s too much money in politics",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/nearly-75-of-americans-think-theres-too-much-money-in-politics?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/2015537/protesters-law-enforcers-clash-during-ajk-clearance-operation"
       },
       {
+        "title": "Bulls snap losing streak as PSX gains 2,500 points during intraday trade",
+        "link": "https://www.dawn.com/news/2015614/bulls-snap-losing-streak-as-psx-gains-2500-points-during-intraday-trade"
+      },
+      {
         "title": "Internet quality poor even in major cities, NA panel told",
         "link": "https://www.dawn.com/news/2015535/internet-quality-poor-even-in-major-cities-na-panel-told"
       },
@@ -82,16 +92,16 @@
         "link": "https://www.dawn.com/news/2015530/supreme-court-to-decide-if-it-can-still-hear-nab-bails"
       },
       {
-        "title": "Majestic Spain stun France to reach FIFA World Cup final",
-        "link": "https://www.dawn.com/news/2015496/majestic-spain-stun-france-to-reach-fifa-world-cup-final"
-      },
-      {
         "title": "FBR proposes voluntary tax regime for small traders",
         "link": "https://www.dawn.com/news/2015525/fbr-proposes-voluntary-tax-regime-for-small-traders"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "China’s Economy Grows at Slowest Pace in Years",
+        "link": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html"
+      },
       {
         "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
         "link": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html"
@@ -107,76 +117,72 @@
       {
         "title": "Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine",
         "link": "https://www.nytimes.com/2026/07/14/us/maine-ice-shooting-video-joan-sebastian-guerrero.html"
-      },
-      {
-        "title": "ICE Shootings Put Spotlight on Lack of Body Cameras",
-        "link": "https://www.nytimes.com/2026/07/14/us/politics/ice-body-cameras.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran will 'never' request talks with US, deputy foreign minister says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-will-never-request-talks-us-deputy-foreign-minister-says"
+        "title": "Morning recap",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-142"
       },
       {
-        "title": "IRGC warns energy exports would be 'for everyone or for no one' if US interferes in maritime routes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-warns-energy-exports-would-be-everyone-or-no-one-if-us-interferes"
+        "title": "US strike hits wheat storage silo in Iran's Hoveyzeh",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strike-hits-wheat-storage-silo-irans-hoveyzeh"
       },
       {
-        "title": "Iran claims attacks across the region, including in Jordan, Bahrain and Kuwait",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-claims-attacks-across-region-including-jordan-bahrain-and-kuwait"
+        "title": "Iran relocates exam centres away from military sites",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-relocates-exam-centres-away-military-sites"
       },
       {
-        "title": "Trump threatens to target Iran's power plants, bridges next week if talks not resumed",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-target-irans-power-plants-bridges-next-week-if-talks-not"
+        "title": "Iran accuses US of violating MoU in letter to UN",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-us-violating-mou-letter-un"
       },
       {
-        "title": "Watch: Trump says he will drop Hormuz fee for trade with Gulf states",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-trump-says-he-will-drop-hormuz-fee-trade-gulf-states"
+        "title": "Centcom officials protest against Israeli transport minister's restrictions on refueling aircrafts",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-officials-protest-against-israeli-transport-ministers"
       }
     ],
     "GeoTV": [
       {
-        "title": "Ariana Grande rekindles romance with ex Ricky Alvarez",
-        "link": "https://www.geo.tv/latest/673096-ariana-grande-rekindles-romance-with-ex-ricky-alvarez"
+        "title": "FBR issues fixed tax scheme draft for small shopkeepers",
+        "link": "https://www.geo.tv/latest/673110-fbr-issues-fixed-tax-scheme-draft-for-small-shopkeepers"
       },
       {
-        "title": "Katie Holmes fuels new romance rumours in recent spotting",
-        "link": "https://www.geo.tv/latest/673094-katie-holmes-fuels-new-romance-rumours-in-recent-spotting"
+        "title": "Benny Blanco reveals never-before-heard details about Selena Gomez romance",
+        "link": "https://www.geo.tv/latest/673107-benny-blanco-reveals-never-before-heard-details-about-selena-gomez-romance"
       },
       {
-        "title": "One dead, two missing after boat capsizes in San Francisco Bay",
-        "link": "https://www.geo.tv/latest/673095-one-dead-two-missing-after-boat-capsizes-in-san-francisco-bay"
+        "title": "Muslim man stabbed multiple times in Utah over his religion, say police",
+        "link": "https://www.geo.tv/latest/673105-muslim-man-stabbed-multiple-times-in-utah-over-his-religion-say-police"
       },
       {
-        "title": "Kim Scott, Eminem's ex-wife, rushed to hospital",
-        "link": "https://www.geo.tv/latest/673092-kim-scott-eminems-ex-wife-rushed-to-hospital"
+        "title": "Queen Camilla makes big sacrifice for King Charles ‘top secret' mission",
+        "link": "https://www.geo.tv/latest/673106-queen-camilla-makes-big-sacrifice-for-king-charles-top-secret-mission"
       },
       {
-        "title": "Trump resumes Iran port blockade and threatens strikes on energy targets",
-        "link": "https://www.geo.tv/latest/673093-trump-resumes-iran-port-blockade-and-threatens-strikes-on-energy-targets"
+        "title": "Meghan Markle receives exciting news amid ‘bankruptcy' claims",
+        "link": "https://www.geo.tv/latest/673101-meghan-markle-receives-exciting-news-amid-bankruptcy-claims"
       }
     ],
     "NDTV": [
       {
-        "title": "IBM Stocks Slide Most In 58 Years Over CEO Arvind Krishna's \"We Faltered On AI\" Remark",
-        "link": "https://www.ndtv.com/business-news/ibm-stock-price-crash-most-in-58-years-ceo-arvind-krishna-we-faltered-on-ai-remark-11772813#publisher=newsstand"
+        "title": "India-UK Trade Deal Kicks In: What Gets Cheaper, Which Sectors Gain Most",
+        "link": "https://www.ndtv.com/business-news/india-uk-fta-free-trade-agreement-cheaper-cars-whiskey-cosmetics-exports-11772677#publisher=newsstand"
       },
       {
-        "title": "'Hormuz Control Is A Must': Iran Withdraws From US Deal Over New Blockade",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-iran-says-us-hormuz-blockade-has-dismantled-deal-as-both-countries-exchange-fire-again-trump-issues-new-warning-11772589#publisher=newsstand"
+        "title": "Stones Thrown, Vehicles Torched: Mob Attack At Assam Rifles Camp In Manipur",
+        "link": "https://www.ndtv.com/india-news/stones-thrown-vehicles-torched-mob-attack-at-assam-rifles-camp-in-manipur-11773240#publisher=newsstand"
       },
       {
-        "title": "Relief For India, China As US Eases 500% Russian Oil Tariff Threat",
+        "title": "\"Ship Has Safely Crossed\": Indian Man's Last Text To Family Before Strike Killed Him",
+        "link": "https://www.ndtv.com/world-news/ship-has-safely-crossed-indian-mans-last-text-to-family-before-strike-killed-him-11773226#publisher=newsstand"
+      },
+      {
+        "title": "US-Iran War News LIVE: Iran Threatens To Shut More Energy Corridors After Hormuz Closure",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
+      },
+      {
+        "title": "Relief For India, China As US Lowers 500% Russian Oil Tariff Threat To 100%",
         "link": "https://www.ndtv.com/world-news/relief-to-india-china-as-us-eases-500-russian-oil-tariff-threat-11772684#publisher=newsstand"
-      },
-      {
-        "title": "What Is Pickaxe Mountain And Why Donald Trump Wants To \"Take It Out\"",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-what-is-pickaxe-mountain-and-why-president-donald-trump-wants-to-take-it-out-pickaxe-mountain-nuclear-site-11772790#publisher=newsstand"
-      },
-      {
-        "title": "Centre Expands PM Internship Scheme: How Aspirants, Businesses Will Benefit",
-        "link": "https://www.ndtv.com/business-news/prime-minister-internship-scheme-job-aspirant-youth-skill-development-employment-11768197#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-15 03:27 UTC"
+  "last_updated": "2026-07-15 05:53 UTC"
 }
