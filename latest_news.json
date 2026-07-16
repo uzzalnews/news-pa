@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Iran War News LIVE: US Launches 5th Consecutive Night Of Strikes Against Iran",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,8 +13,8 @@
         "link": "https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "World Cup might not be ours but Falklands definitely are, says No 10",
-        "link": "https://www.bbc.co.uk/news/articles/clyen1ned7no?at_medium=RSS&at_campaign=rss"
+        "title": "Fifa 'assessing match reports' over Falklands banner",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Why you should care about the third-place play-off between England and France",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Iraq says $19M found in hideouts linked to ex-oil minister",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss"
+      },
+      {
+        "title": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free",
+        "link": "https://www.aljazeera.com/news/2026/7/16/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free?traffic_source=rss"
+      },
+      {
+        "title": "What could a US ground invasion of Iran look like?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss"
+      },
+      {
+        "title": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital",
+        "link": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss"
+      },
+      {
         "title": "WHO: Ebola spreading faster than ever recorded in DR Congo",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/who-ebola-spreading-faster-than-ever-recorded-in-dr-congo?traffic_source=rss"
-      },
-      {
-        "title": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
-        "link": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss"
-      },
-      {
-        "title": "US approves nearly $2bn in weapons sale to Saudi Arabia",
-        "link": "https://www.aljazeera.com/news/2026/7/16/us-approves-nearly-2bn-in-weapons-sale-to-saudi-arabia?traffic_source=rss"
-      },
-      {
-        "title": "Rare protests in Kyiv over dismissal of defence minister",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss"
-      },
-      {
-        "title": "Eleven killed in Algeria orphanage fire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/eleven-killed-in-algeria-orphanage-fire?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/2015982/us-to-tighten-visa-regulations-for-foreign-students-journalists"
       },
       {
-        "title": "PM Shehbaz warns renewed US-Iran conflict could hit economy again",
-        "link": "https://www.dawn.com/news/2015941/pm-shehbaz-warns-renewed-us-iran-conflict-could-hit-economy-again"
+        "title": "Gaza reconstruction plan under Trump’s Board of Peace reduced to pilot project: British publication",
+        "link": "https://www.dawn.com/news/2015988/gaza-reconstruction-plan-under-trumps-board-of-peace-reduced-to-pilot-project-british-publication"
       },
       {
-        "title": "Oil industry prompts government to discourage hoarding as petrol stocks decline to 14-day cover",
-        "link": "https://www.dawn.com/news/2015959/oil-industry-prompts-government-to-discourage-hoarding-as-petrol-stocks-decline-to-14-day-cover"
+        "title": "PM Shehbaz warns renewed US-Iran conflict could hit economy again",
+        "link": "https://www.dawn.com/news/2015941/pm-shehbaz-warns-renewed-us-iran-conflict-could-hit-economy-again"
       }
     ],
     "APNews": [],
@@ -105,78 +111,78 @@
         "link": "https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html"
       },
       {
-        "title": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
-        "link": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html"
+        "title": "White House Faces Stiff Pushback on Subjecting Grants to Political Review",
+        "link": "https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html"
       },
       {
-        "title": "The Essentials About Mykhailo Fedorov, the Ousted Ukrainian Minister",
-        "link": "https://www.nytimes.com/2026/07/16/world/europe/who-mykhailo-fedorov-ukraine-defense-minister.html"
+        "title": "Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard",
+        "link": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Qatar rejects ‘false Israeli media reports’ on Iran war participation, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-rejects-false-israeli-media-reports-iran-war-participation-report"
+        "title": "Iranian strikes on Kuwait resulted in material damage, report says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-strikes-kuwait-resulted-material-damage-report-says"
       },
       {
-        "title": "Dubai media office says no sounds of 'explosions' in downtown Dubai",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/dubai-media-office-says-no-sounds-explosions-downtown-dubai"
+        "title": "Israeli strikes kill five in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-five-gaza"
       },
       {
-        "title": "Israeli settlers injure three Palestinians in occupied West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-three-palestinians-occupied-west-bank"
+        "title": "Muslim man stabbed more than 15 times in Islamophobic attack in Utah",
+        "link": "https://www.middleeasteye.net/trending/muslim-mall-worker-stabbed-more-15-times-islamophobic-attack-utah"
       },
       {
-        "title": "Colombia president-elect to open Israel embassy in Jerusalem",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/colombia-president-elect-open-israel-embassy-jerusalem"
+        "title": "Iran judiciary denies Trump statement that American prisoner was freed",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-judiciary-denies-trump-statement-american-prisoner-was-freed"
       },
       {
-        "title": "Inside Khamenei's funeral: Revealing moments from a week of mourning",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/inside-khameneis-funeral-revealing-moments-week-mourning"
+        "title": "US forces launch new strikes on Iran, US military says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-forces-launch-new-strikes-against-iran-us-military-says"
       }
     ],
     "GeoTV": [
       {
-        "title": "US unveils 'invisible' drone that could change future of warfare: Here's how it works",
-        "link": "https://www.geo.tv/latest/673412-us-unveils-invisible-drone-that-could-change-future-of-warfare-heres-how-it-works"
+        "title": "Kris Jenner's mother MJ, a two-time cancer survivor, passed away at 91",
+        "link": "https://www.geo.tv/latest/673432-kris-jenners-mother-mj-a-two-time-cancer-survivor-passed-away-at-91"
       },
       {
-        "title": "Govt denies fuel shortage, says Pakistan has sufficient stock",
-        "link": "https://www.geo.tv/latest/673396-govt-denies-fuel-shortage-says-pakistan-has-sufficient-stock"
+        "title": "Meteorite that hit New Jersey contains ‘alien world chemistry' containing rare brine signatures",
+        "link": "https://www.geo.tv/latest/673429-meteorite-that-hit-new-jersey-contains-alien-world-chemistry-containing-rare-brine-signatures"
       },
       {
-        "title": "Fifa World Cup trophy to arrive in style in bespoke Louis Vuitton trunk",
-        "link": "https://www.geo.tv/latest/673410-fifa-world-cup-trophy-to-arrive-in-style-in-bespoke-louis-vuitton-trunk"
+        "title": "'Wonder drug' could delay Alzheimer's symptoms for three years",
+        "link": "https://www.geo.tv/latest/673424-wonder-drug-could-delay-alzheimers-symptoms-for-three-years-new-data-shows"
       },
       {
-        "title": "Prince William's biggest summer priority wasn't England's World Cup campaign",
-        "link": "https://www.geo.tv/latest/673403-prince-williams-biggest-summer-priority-wasnt-englands-world-cup-campaign"
+        "title": "Kris Jenner announces death in family: 'Our hearts are broken'",
+        "link": "https://www.geo.tv/latest/673423-kris-jenner-announces-death-in-family-our-hearts-are-broken"
       },
       {
-        "title": "Naqvi, Boeing chief discuss acquisition of 16 aircraft for PIA",
-        "link": "https://www.geo.tv/latest/673385-naqvi-boeing-chief-discuss-acquisition-of-16-aircraft-for-pia"
+        "title": "Queen Camilla plays key role in Prince Harry and King Charles' reunion",
+        "link": "https://www.geo.tv/latest/673404-queen-camilla-plays-key-role-in-prince-harry-and-king-charles-reunion"
       }
     ],
     "NDTV": [
       {
-        "title": "CCTV Emerges After Gurugram Thar Driver Runs Over Domestic Worker",
-        "link": "https://www.ndtv.com/india-news/gurugram-thar-run-over-cctv-emerges-after-gurugram-thar-driver-runs-over-domestic-worker-11781547#publisher=newsstand"
+        "title": "US-Iran War News LIVE: US Launches 5th Consecutive Night Of Strikes Against Iran",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
       },
       {
-        "title": "1 Dead, Several Taken To Hospital After Crowd Surge At Puri Rath Yatra",
-        "link": "https://www.ndtv.com/india-news/1-dead-several-taken-to-hospital-after-crowd-surge-at-puri-rath-yatra-11780248#publisher=newsstand"
+        "title": "'SAARC, BIMSTEC Don't Need To Be Rivals': Bangladesh At Delhi Meet",
+        "link": "https://www.ndtv.com/world-news/saarc-bimstec-dont-need-to-be-rivals-bangladesh-at-delhi-meet-11781793#publisher=newsstand"
       },
       {
-        "title": "Troops In Hormuz Islands, Bombing Pickaxe Mountain: Trump's Big Iran War Plan",
-        "link": "https://www.ndtv.com/world-news/troops-in-hormuz-islands-bombing-pickaxe-mountain-donald-trumps-big-iran-war-plan-11781382#publisher=newsstand"
+        "title": "Weather Highlights: Orange Alert Issued For Heavy Rainfall In Parts Of Himachal",
+        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-warm-day-in-delhi-rain-expected-from-july-14-to-18-11772639#publisher=newsstand"
       },
       {
-        "title": "1 Dead, 3 Injured As Crane Collapses From 13th Floor Near Mumbai",
-        "link": "https://www.ndtv.com/india-news/1-dead-3-injured-as-13-floor-high-crane-collapses-near-mumbai-11781138#publisher=newsstand"
+        "title": "Trump Administration Tightens Visa Limits For Foreign Students And Journalists",
+        "link": "https://www.ndtv.com/world-news/trump-administration-tightens-visa-limits-for-foreign-students-and-journalists-11781779#publisher=newsstand"
       },
       {
-        "title": "11 Killed In Algerian Orphanage Fire Amid Severe Heatwave",
-        "link": "https://www.ndtv.com/world-news/algerian-heatwave-orphanage-fire-11-killed-in-algerian-orphanage-fire-amid-severe-heatwave-11779665#publisher=newsstand"
+        "title": "28-Year-Old Shot Dead By Friend In Gurugram: Cops",
+        "link": "https://www.ndtv.com/india-news/28-year-old-shot-dead-by-friend-in-gurugram-cops-11781777#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-16 18:45 UTC"
+  "last_updated": "2026-07-16 19:49 UTC"
 }
