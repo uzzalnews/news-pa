@@ -1,20 +1,14 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Iran War News LIVE: US Launches 6th Consecutive Night Of Strikes Against Iran",
-      "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Sadiq Khan among 26 new peers to enter the Lords",
-        "link": "https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Burnham to promise new path for UK when he becomes new Labour leader",
         "link": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Sadiq Khan among 26 new peers to enter the Lords",
+        "link": "https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Fifa 'assessing match reports' over Falklands banner",
@@ -25,11 +19,19 @@
         "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Couples free to marry at the beach or the pub in England and Wales under new plans",
-        "link": "https://www.bbc.co.uk/news/articles/ckgvwxygpv2o?at_medium=RSS&at_campaign=rss"
+        "title": "UK heatwave approaches two-week mark",
+        "link": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Qatar rejects Israeli reports of military action against Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss"
+      },
+      {
+        "title": "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
+        "link": "https://www.aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss"
+      },
       {
         "title": "Former Italian motorway chief sentenced over bridge collapse",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-italian-motorway-chief-sentenced-over-bridge-collapse?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Grand Mosque of Paris celebrates 100-year anniversary",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss"
-      },
-      {
-        "title": "FIFA to probe Argentina’s Falklands banner display at World Cup semifinal",
-        "link": "https://www.aljazeera.com/sports/2026/7/16/fifa-to-probe-argentinas-falklands-banner-display-at-world-cup-semifinal?traffic_source=rss"
-      },
-      {
-        "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
-        "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -107,16 +101,16 @@
         "link": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html"
       },
       {
-        "title": "National Academies Report Backs Climate Change Attribution Science",
-        "link": "https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html"
-      },
-      {
-        "title": "White House Faces Stiff Pushback on Subjecting Grants to Political Review",
-        "link": "https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html"
-      },
-      {
         "title": "Republican Senator Thom Tillis Demands Todd Blanche Meet With Epstein Survivors",
         "link": "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html"
+      },
+      {
+        "title": "White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says",
+        "link": "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html"
+      },
+      {
+        "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
+        "link": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Will Ferrell asks Kim Kardashian's help for one life goal",
+        "link": "https://www.geo.tv/latest/673438-will-ferrell-asks-kim-kardashians-help-for-one-life-goal"
+      },
+      {
         "title": "‘Saturday Night Live' says goodbye to cast member after 7 seasons",
         "link": "https://www.geo.tv/latest/673436-saturday-night-live-says-goodbye-to-cast-member-after-7-seasons"
       },
@@ -157,13 +155,21 @@
       {
         "title": "Tom Cruise shares his thoughts about Christopher Nolan's ‘The Odyssey'",
         "link": "https://www.geo.tv/latest/673430-tom-cruise-shares-his-thoughts-about-christopher-nolans-the-odyssey"
-      },
-      {
-        "title": "Meteorite that hit New Jersey contains ‘alien world chemistry' containing rare brine signatures",
-        "link": "https://www.geo.tv/latest/673429-meteorite-that-hit-new-jersey-contains-alien-world-chemistry-containing-rare-brine-signatures"
       }
     ],
     "NDTV": [
+      {
+        "title": "Philippines Condemns Chinese Media's Video Depicting Filipinos As Monkeys",
+        "link": "https://www.ndtv.com/world-news/philippines-condemns-chinese-medias-video-depicting-filipinos-as-monkeys-11782166#publisher=newsstand"
+      },
+      {
+        "title": "Andhra Pradesh Reports 4 Covid-19 Deaths, 12 Cases In Less Than A Month",
+        "link": "https://www.ndtv.com/india-news/andhra-pradesh-reports-4-covid-19-deaths-12-cases-in-less-than-a-month-11782132#publisher=newsstand"
+      },
+      {
+        "title": "Trump Media To Sell High Speed Access To Truth Social Posts",
+        "link": "https://www.ndtv.com/world-news/trump-media-to-sell-high-speed-access-to-truth-social-posts-11782100#publisher=newsstand"
+      },
       {
         "title": "US Strikes Hit Bridges, Airport, Railway Station In Iran: Report",
         "link": "https://www.ndtv.com/world-news/us-strikes-hit-bridges-airport-in-iran-report-11782076#publisher=newsstand"
@@ -171,18 +177,6 @@
       {
         "title": "US Forces Continue \"Wave Of Strikes\" Against Iran For 6th Consecutive Night",
         "link": "https://www.ndtv.com/world-news/us-forces-continue-wave-of-strikes-against-iran-for-6th-consecutive-night-11782065#publisher=newsstand"
-      },
-      {
-        "title": "US-Iran War News LIVE: US Launches 6th Consecutive Night Of Strikes Against Iran",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
-      },
-      {
-        "title": "Xi Jinping To Present China's AI Dream At Major Conference Today",
-        "link": "https://www.ndtv.com/world-news/xi-jinping-to-present-chinas-ai-dream-at-major-conference-today-11781947#publisher=newsstand"
-      },
-      {
-        "title": "Odisha Government Confirms 2 Deaths, Denies Stampede At Puri Rath Yatra",
-        "link": "https://www.ndtv.com/india-news/odisha-government-confirms-2-deaths-denies-stampede-at-puri-rath-yatra-11781910#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-16 22:41 UTC"
+  "last_updated": "2026-07-16 23:38 UTC"
 }
