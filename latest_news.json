@@ -1,13 +1,23 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Open Flat As US Launches Fresh Strikes",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-16-july-us-iran-war-oil-price-11777698#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "William tells England to 'hold their heads high' after loss",
         "link": "https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Argentina face disciplinary action for Falklands banner in semi-final win",
+        "title": "Argentina face action after waving Falklands banner",
         "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -17,32 +27,28 @@
       {
         "title": "Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
         "link": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Weekend cooldown to mark end of heatwave for some",
-        "link": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "‘Epic squared’: Scaloni lauds Argentina’s back-to-back World Cup comebacks",
-        "link": "https://www.aljazeera.com/sports/2026/7/16/epic-squared-scaloni-lauds-argentinas-back-to-back-world-cup-comebacks?traffic_source=rss"
+        "title": "Senior Chinese delegation visits North Korea for talks",
+        "link": "https://www.aljazeera.com/news/2026/7/16/senior-chinese-delegation-visits-north-korea-for-talks?traffic_source=rss"
       },
       {
-        "title": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss"
+        "title": "South Korea’s international adoptees seek justice, not homecoming",
+        "link": "https://www.aljazeera.com/features/2026/7/16/south-koreas-international-adoptees-seek-justice-not-homecoming?traffic_source=rss"
       },
       {
-        "title": "Tuchel defends tactics after Argentina send England packing from World Cup",
-        "link": "https://www.aljazeera.com/sports/2026/7/15/tuchel-defends-tactics-after-argentina-send-england-packing-from-world-cup?traffic_source=rss"
+        "title": "Toronto engulfed by wildfire smoke as US cities threatened",
+        "link": "https://www.aljazeera.com/news/2026/7/16/toronto-engulfed-by-wildfire-smoke-as-us-cities-threatened?traffic_source=rss"
       },
       {
-        "title": "Argentina players brandish political Falklands flag after England match",
-        "link": "https://www.aljazeera.com/sports/2026/7/15/argentina-players-brandish-political-falklands-flag-after-england-match?traffic_source=rss"
+        "title": "Iran launches strikes on Gulf, even as FM visits Qatar",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss"
       },
       {
-        "title": "US Justice Department refuses New Mexico’s request for Epstein files",
-        "link": "https://www.aljazeera.com/news/2026/7/15/us-justice-department-refuses-new-mexicos-request-for-epstein-files?traffic_source=rss"
+        "title": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
+        "link": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,118 +76,118 @@
     ],
     "Dawn": [
       {
-        "title": "At least 5 injured, including police official, in attack on Bannu police station",
-        "link": "https://www.dawn.com/news/2015690/at-least-5-injured-including-police-official-in-attack-on-bannu-police-station"
+        "title": "Security forces foil suicide attack on military post in South Waziristan's Wana, kill 4 terrorists: sources",
+        "link": "https://www.dawn.com/news/2015848/security-forces-foil-suicide-attack-on-military-post-in-south-waziristans-wana-kill-4-terrorists-sources"
       },
       {
-        "title": "Crypto czar asks Jamia Darul Uloom to distinguish between speculative crypto, asset-backed tokens",
-        "link": "https://www.dawn.com/news/2015697/crypto-czar-asks-jamia-darul-uloom-to-distinguish-between-speculative-crypto-asset-backed-tokens"
+        "title": "PMA issues red alert over 651,000 zero-dose children",
+        "link": "https://www.dawn.com/news/2015789/pma-issues-red-alert-over-651000-zero-dose-children"
       },
       {
-        "title": "Authorities increasing security around Saindak copper and gold mine in Balochistan: minister",
-        "link": "https://www.dawn.com/news/2015683/authorities-increasing-security-around-saindak-copper-and-gold-mine-in-balochistan-minister"
+        "title": "Frontline communities face longer wait for funds",
+        "link": "https://www.dawn.com/news/2015776/frontline-communities-face-longer-wait-for-funds"
       },
       {
-        "title": "Italian Supreme Court upholds murder convictions of family members of Pakistani girl killed for refusing arranged marriage",
-        "link": "https://www.dawn.com/news/2015686/italian-supreme-court-upholds-murder-convictions-of-family-members-of-pakistani-girl-killed-for-refusing-arranged-marriage"
+        "title": "NFC share declined after aiding Centre, says Sindh chief minister",
+        "link": "https://www.dawn.com/news/2015745/nfc-share-declined-after-aiding-centre-says-sindh-chief-minister"
       },
       {
-        "title": "ICC revamp of ODI, T20I World Cup formats may result in extra Pakistan-India clash",
-        "link": "https://www.dawn.com/news/2015665/icc-revamp-of-odi-t20i-world-cup-formats-may-result-in-extra-pakistan-india-clash"
+        "title": "Generative AI’s power sparks fears of dumbing humans down",
+        "link": "https://www.dawn.com/news/2015756/generative-ais-power-sparks-fears-of-dumbing-humans-down"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing",
-        "link": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html"
+        "title": "Almost Half of House Democrats Vote to End Aid to Israel",
+        "link": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html"
       },
       {
-        "title": "Hegseth Plans to Screen All Troops, Including Women, for Low Testosterone",
-        "link": "https://www.nytimes.com/2026/07/15/us/politics/hegseth-troops-testosterone.html"
+        "title": "Iranian American Woman Held in Iran on Spying Charges Is Released",
+        "link": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html"
       },
       {
-        "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
-        "link": "https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html"
+        "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
+        "link": "https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html"
       },
       {
         "title": "A Key Senator Says He Is Undecided on Trump’s Attorney General Pick",
         "link": "https://www.nytimes.com/2026/07/15/briefing/blanche-confirmation-hearing-cyclospora-cases.html"
       },
       {
-        "title": "Almost Half of House Democrats Vote to End Aid to Israel",
-        "link": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html"
+        "title": "Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing",
+        "link": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iranian air defence activated to respond to 'hostile threats' over Tehran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-air-defence-activated-respond-hostile-threats-over-tehran"
+        "title": "Centcom says it ended latest strikes against Iran, as Tehran targets US facilities",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-it-ended-latest-strikes-against-iran-tehran-targets-us"
       },
       {
-        "title": "Trump says US 'appreciates' Iran for releasing American citizen",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-appreciates-iran-releasing-american-citizen"
+        "title": "Death toll in Iran rises to 35 since start of US attacks in July",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-iran-rises-35-start-attacks-july"
       },
       {
-        "title": "Blasts heard in Iran's Bandar Abbas, Sirik and Qeshm Island",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-irans-bandar-abbas-0"
+        "title": "Trump says Iran 'wants to settle so badly'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-wants-settle-so-badly"
       },
       {
-        "title": "Kuwait says it is intercepting Iranian attacks, Bahrain sounds off air raid sirens",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-intercepts-iranian-attacks-bahrain-sounds-air-raid-sirens"
+        "title": "Hospital in Iran's Ahvaz temporarily evacuated following nearby US attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hospital-irans-ahvaz-temporarily-evacuated-following-nearby-us-attacks"
       },
       {
-        "title": "US: Democrats stall crucial defence budget in protest against Trump policies",
-        "link": "https://www.middleeasteye.net/news/us-democrats-stall-crucial-defence-budget-protest-trump-policies"
+        "title": "Iran says it shot down US drone over Andimeshk",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-shot-down-us-drone-over-andimeshk"
       }
     ],
     "GeoTV": [
       {
-        "title": "Sean ‘Diddy' Combs sells important residence from prison",
-        "link": "https://www.geo.tv/latest/673265-sean-diddy-combs-sells-important-residence-from-prison"
+        "title": "King Charles Office issues public statement to Harry after major upset",
+        "link": "https://www.geo.tv/latest/673276-king-charles-office-issues-public-statement-to-harry-after-major-upset"
       },
       {
-        "title": "Andy Serkis gets asked political question about ‘Lord of the Rings' cast",
-        "link": "https://www.geo.tv/latest/673262-andy-serkis-gets-asked-political-question-about-lord-of-the-rings-cast"
+        "title": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict",
+        "link": "https://www.geo.tv/latest/673275-oil-prices-rise-for-4th-day-as-us-strikes-on-iran-raise-fears-of-wider-conflict"
       },
       {
-        "title": "Kevin Bacon teases Ethan Hawke on social media: ‘24 hours to respond'",
-        "link": "https://www.geo.tv/latest/673257-kevin-bacon-teases-ethan-hawke-on-social-media-24-hours-to-respond"
+        "title": "Rob Reiner's on Nick in shocking state during solitary confinement",
+        "link": "https://www.geo.tv/latest/673273-rob-reiners-on-nick-in-shocking-state-during-solitary-confinement"
       },
       {
-        "title": "Prince Williams breaks silence over England Vs. Argentina defeat",
-        "link": "https://www.geo.tv/latest/673255-prince-williams-breaks-silence-over-england-vs-argentina-defeat"
+        "title": "Lana Del Rey drops new bombshell about upcoming music ahead of 'Stove'",
+        "link": "https://www.geo.tv/latest/673272-lana-del-rey-drops-new-bombshell-about-upcoming-music-ahead-of-stove"
       },
       {
-        "title": "Messi inspires Argentina into second straight World Cup final",
-        "link": "https://www.geo.tv/latest/673251-messi-inspires-argentina-into-second-straight-world-cup-final"
+        "title": "Eminem's ex-wife Kim Scott got tased by cop",
+        "link": "https://www.geo.tv/latest/673267-eminems-ex-wife-kim-scott-got-tased-by-cop"
       }
     ],
     "NDTV": [
       {
-        "title": "Rs 5 Lakh Paid To NTA Paper-Setter In NEET Leak, 111 Questions Matched: CBI",
-        "link": "https://www.ndtv.com/india-news/latur-coaching-owner-shivraj-raghunath-motegaonkar-paid-rs-5-lakh-to-get-neet-questions-from-nta-paper-setter-cbi-11777373#publisher=newsstand"
+        "title": "\"Human Rights Disaster\": Detainees At ICE's Texas Facility Allege Abuse",
+        "link": "https://www.ndtv.com/world-news/ices-fort-bliss-camp-say-they-were-beaten-human-rights-watch-aclu-report-11777588#publisher=newsstand"
       },
       {
-        "title": "Blasts Heard In Kyiv As EU Chief Visits Ukraine Amid Russian Missile Alert",
-        "link": "https://www.ndtv.com/world-news/russia-hits-kyiv-with-missiles-as-eu-chief-ursula-von-der-leyen-visits-ukraine-11777324#publisher=newsstand"
+        "title": "PM Modi's Rs 25,000 Crore Bet: Ganga, Varuna Corridors To Transform Kashi",
+        "link": "https://www.ndtv.com/india-news/cabinet-okay-ganga-varuna-corridor-pm-modi-varanasi-kashi-infrastructure-11774386#publisher=newsstand"
       },
       {
-        "title": "3 Policemen Killed, 34 Injured In 2 Terrorist Attacks In Pakistan",
-        "link": "https://www.ndtv.com/world-news/3-policemen-killed-34-injured-in-2-terrorist-attacks-in-pakistan-11777346#publisher=newsstand"
+        "title": "Delhi Cop Installing Speed Monitoring Device Gets Killed By Speeding Car",
+        "link": "https://www.ndtv.com/delhi-news/delhi-cop-who-was-installing-speed-monitoring-device-killed-by-speeding-car-11777747#publisher=newsstand"
       },
       {
-        "title": "Scooter Catches Fire As High-Tension Power Line Snapped In Noida, 5 Injured",
-        "link": "https://www.ndtv.com/noida-news/scooter-catches-fire-as-high-tension-power-line-snapped-in-noida-5-injured-11777302#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Open Flat As US Launches Fresh Strikes",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-16-july-us-iran-war-oil-price-11777698#publisher=newsstand"
       },
       {
-        "title": "BJP Core Group Meet At PM's Residence Ahead Of Monsoon Session Of Parliament",
-        "link": "https://www.ndtv.com/india-news/bjp-core-group-meet-at-pm-modis-residence-ahead-of-monsoon-session-of-parliament-11777254#publisher=newsstand"
+        "title": "Why Europe's Deadly Heatwave Is More Than Just A Summer Crisis",
+        "link": "https://www.ndtv.com/world-news/why-europes-deadly-heatwave-is-more-than-just-a-summer-crisis-11774059#publisher=newsstand"
       }
     ],
     "TheGuardian": [
       {
-        "title": "How global heating supercharged floods in West Africa displacing thousands",
+        "title": "How global heating supercharged floods in West Africa, displacing thousands",
         "link": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands"
       },
       {
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-16 01:02 UTC"
+  "last_updated": "2026-07-16 04:18 UTC"
 }
