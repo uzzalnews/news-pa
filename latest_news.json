@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Iran War News LIVE: US Launches Fresh Strikes Against Iran As Hormuz Tensions Intensify",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,8 +13,8 @@
         "link": "https://www.bbc.co.uk/news/articles/c5y300l2zvno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Zeffman: Burnham promises huge change - but leaves questions about plan to deliver it",
-        "link": "https://www.bbc.co.uk/news/articles/cz7djw5dznpo?at_medium=RSS&at_campaign=rss"
+        "title": "Labour pins hopes on Burnham reboot as he plans policy blitz",
+        "link": "https://www.bbc.co.uk/news/articles/cjd45xmexnyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Mother of Henry Nowak killer jailed for removing knife from murder scene",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "How an Italian sculptor created the iconic World Cup trophy",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/how-an-italian-sculptor-created-the-iconic-world-cup-trophy?traffic_source=rss"
+        "title": "ICE agent behind fatal shooting in Maine reportedly had troubled history",
+        "link": "https://www.aljazeera.com/news/2026/7/17/ice-agent-behind-fatal-shooting-in-maine-reportedly-had-troubled-history?traffic_source=rss"
       },
       {
-        "title": "At least two dead as heavy rains, floods strike central Texas",
-        "link": "https://www.aljazeera.com/gallery/2026/7/17/at-least-two-dead-as-heavy-rains-floods-strike-central-texas?traffic_source=rss"
+        "title": "Food emergency deepens across Uganda’s Karamoja",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/food-emergency-deepens-across-ugandas-karamoja?traffic_source=rss"
       },
       {
-        "title": "Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?",
-        "link": "https://www.aljazeera.com/sports/2026/7/17/will-the-canadian-wildfire-smoke-affect-spain-vs-argentina-world-cup-final?traffic_source=rss"
+        "title": "World Cup winners to receive US-style championship rings, FIFA says",
+        "link": "https://www.aljazeera.com/sports/2026/7/17/world-cup-winners-to-receive-us-style-championship-rings-fifa-says?traffic_source=rss"
       },
       {
-        "title": "At least three killed and hundreds displaced by heavy rain in Chile",
-        "link": "https://www.aljazeera.com/news/2026/7/17/at-least-three-killed-and-hundreds-displaced-by-heavy-rain-in-chile?traffic_source=rss"
+        "title": "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/houthi-supporters-rally-in-sanaa-against-saudi-led?traffic_source=rss"
       },
       {
-        "title": "All-time West Indies cricket great Garfield Sobers dies aged 89",
-        "link": "https://www.aljazeera.com/sports/2026/7/17/all-time-west-indies-cricket-great-garfield-sobers-dies-aged-89?traffic_source=rss"
+        "title": "Suspected Somali pirates seize tanker near Yemen amid wave of hijackings",
+        "link": "https://www.aljazeera.com/news/2026/7/17/suspected-somali-pirates-seize-tanker-near-yemen-amid-wave-of-hijackings?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,27 +121,35 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Iraq and Syria sign deal to rehabilitate Mediterranean pipeline, bypass Strait of Hormuz",
-        "link": "https://www.middleeasteye.net/news/iraq-and-syria-sign-deal-rehabilitate-mediterranean-pipeline-bypass-strait-hormuz"
+        "title": "Centcom says it redirected, disabled vessels during Iran naval blockade",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-it-redirected-disabled-vessels"
+      },
+      {
+        "title": "Trump’s 'Board of Peace' abandons Gaza ‘recovery plan’: Report",
+        "link": "https://www.middleeasteye.net/news/trumps-board-peace-abandons-gaza-recovery-plan-report"
+      },
+      {
+        "title": "ISNA says US military has attacked area around Sirik in southern Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/isna-says-us-military-has-attacked-area-around-sirik-southern-iran"
       },
       {
         "title": "US judge rules in favour of Palestinian-American activist after phone seizure",
-        "link": "https://www.middleeasteye.net/news/us-judge-rules-favour-palestinian-american-activist-after-phone-seizure-and-search"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-judge-rules-favour-palestinian-american-activist-after-phone-seizure"
       },
       {
-        "title": "US military launched fresh strikes on Iran, Central Command says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-launched-fresh-strikes-iran-central-command-says"
-      },
-      {
-        "title": "EU reiterates its call on Israel to refrain from more expansion of settlements",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eu-reiterates-its-call-israel-refrain-more-expansion-settlements"
-      },
-      {
-        "title": "Israeli general praises illegal outposts driving Palestinian ethnic cleansing",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-general-praises-illegal-outposts-driving-palestinian-ethnic"
+        "title": "Iraq and Syria sign deal to rehabilitate Mediterranean pipeline, bypass Strait of Hormuz",
+        "link": "https://www.middleeasteye.net/news/iraq-and-syria-sign-deal-rehabilitate-mediterranean-pipeline-bypass-strait-hormuz"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince Harry and Meghan's UK move marks a turning point for royal family",
+        "link": "https://www.geo.tv/latest/673594-prince-harry-and-meghans-uk-move-marks-a-turning-point-for-royal-family"
+      },
+      {
+        "title": "Prince William's surprise TV appearance earns double Emmy recognition",
+        "link": "https://www.geo.tv/latest/673591-prince-williams-surprise-tv-appearance-earns-double-emmy-recognition"
+      },
       {
         "title": "Taylor Swift, Travis Kelce's wedding details get out",
         "link": "https://www.geo.tv/latest/673604-taylor-swift-travis-kelces-wedding-details-get-out"
@@ -147,36 +161,28 @@
       {
         "title": "Trump threatens new tariffs on Canada over wildfire smoke drifting into US",
         "link": "https://www.geo.tv/latest/673608-trump-threatens-new-tariffs-on-canada-over-wildfire-smoke-drifting-into-us"
-      },
-      {
-        "title": "ICE now arresting more than 1,400 people every day",
-        "link": "https://www.geo.tv/latest/673605-ice-now-arresting-more-than-1400-people-every-day"
-      },
-      {
-        "title": "Trump's health concerns take center stage after primetime address",
-        "link": "https://www.geo.tv/latest/673600-trumps-health-concerns-take-center-stage-after-primetime-address"
       }
     ],
     "NDTV": [
       {
-        "title": "Court Adjourns Hearing In Krishna Janmabhumi-Shahi Idgah Mosque Dispute",
-        "link": "https://www.ndtv.com/india-news/allahabad-high-court-adjourns-hearing-in-krishna-janmabhumi-shahi-idgah-mosque-dispute-11786600#publisher=newsstand"
+        "title": "'No Border Will Be Safe': Iran Warns Of Full-Scale Offensive Against US",
+        "link": "https://www.ndtv.com/world-news/iran-war-iran-warns-of-full-scale-offensive-against-us-amid-escalating-tensions-in-strait-of-hormuz-11786749#publisher=newsstand"
       },
       {
-        "title": "\"We Don't Want Them\": Trump Set To Replace Immigrant Truckers With Veterans",
-        "link": "https://www.ndtv.com/world-news/we-dont-want-them-donald-trump-set-to-replace-immigrant-truckers-with-veterans-11786572#publisher=newsstand"
+        "title": "US-Iran War News LIVE: US Launches Fresh Strikes Against Iran As Hormuz Tensions Intensify",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
       },
       {
-        "title": "UK Nationalises British Steel, Takes Control From China's Jingye",
-        "link": "https://www.ndtv.com/world-news/uk-nationalises-british-steel-takes-control-from-chinas-jingye-11786554#publisher=newsstand"
+        "title": "US Strikes Iran Again, Now 7 Nights In A Row",
+        "link": "https://www.ndtv.com/world-news/us-strikes-iran-again-now-7-nights-in-a-row-11786666#publisher=newsstand"
       },
       {
-        "title": "\"Trying To Find New Purpose\": Parents Of Boy Killed In Mumbai Tree Collapse",
-        "link": "https://www.ndtv.com/india-news/vihaan-chembur-trying-to-find-new-purpose-parents-of-boy-killed-in-mumbai-tree-collapse-11786548#publisher=newsstand"
+        "title": "Human Face Of Noida Tragedy: She Prayed Through Cab Ride. He Was Already Gone",
+        "link": "https://www.ndtv.com/india-news/noida-fire-death-10-calls-a-locket-friend-on-techie-burnt-beyond-recognition-in-noida-fire-11783508#publisher=newsstand"
       },
       {
-        "title": "PM Modi's \"Vande Mataram\" Message Set To Fly Into Space Today",
-        "link": "https://www.ndtv.com/india-news/pm-modis-vande-mataram-message-set-to-fly-into-space-tomorrow-11786226#publisher=newsstand"
+        "title": "Weather Office Warns Of Heavy Rain In Northeast Over Next 4 Days",
+        "link": "https://www.ndtv.com/india-news/weather-office-warns-of-heavy-rain-in-northeast-over-next-4-days-11786646#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-17 20:37 UTC"
+  "last_updated": "2026-07-17 21:31 UTC"
 }
