@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Likely To Open Flat, Asian Markets Decline",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-17-july-us-iran-war-oil-prices-11782568#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "US-Iran War News LIVE: 7 Killed As US Launches 6th Consecutive Night Of Strikes Against Iran",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,42 +18,42 @@
         "link": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Sadiq Khan among 26 new peers to enter the Lords",
-        "link": "https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&at_campaign=rss"
+        "title": "China hits out at British Steel nationalisation",
+        "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fifa 'assessing match reports' over Falklands banner",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Blasts reported in Iran as US launches new wave of strikes",
+        "title": "US launches fresh wave of strikes as Iran says civilian infrastructure hit",
         "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "UK heatwave approaches two-week mark",
-        "link": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss"
+        "title": "How testosterone testing will work in Hegseth's 'manly' military",
+        "link": "https://www.bbc.co.uk/news/videos/cy746z15ej3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
+        "link": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss"
+        "title": "China rebukes UK over nationalisation of British Steel",
+        "link": "https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss"
       },
       {
-        "title": "Venezuela earthquake: Number of known dead rises to nearly 5,000 victims",
-        "link": "https://www.aljazeera.com/news/2026/7/16/venezuela-earthquake-number-of-known-dead-rises-to-nearly-5000-victims?traffic_source=rss"
+        "title": "Which players are favourites to be FIFA World Cup 2026 award winners?",
+        "link": "https://www.aljazeera.com/sports/2026/7/17/which-players-are-favourites-to-be-fifa-world-cup-2026-award-winners?traffic_source=rss"
       },
       {
-        "title": "Vietnamese activist Bao Ngoc places rare national spotlight on Gaza",
-        "link": "https://www.aljazeera.com/news/2026/7/16/vietnamese-activist-places-rare-national-spotlight-on-gazas-suffering?traffic_source=rss"
+        "title": "Iranian sources say US strikes hit civilian infrastructure",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss"
       },
       {
-        "title": "Qatar rejects Israeli reports of military action against Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss"
+        "title": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
+        "link": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss"
       },
       {
-        "title": "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
-        "link": "https://www.aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss"
+        "title": "Goa’s forgotten orchata drink lives on in family kitchens",
+        "link": "https://www.aljazeera.com/features/longform/2026/7/17/goas-forgotten-orchata-drink-lives-on-in-family-kitchens?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,113 +81,113 @@
     ],
     "Dawn": [
       {
-        "title": "EU notes ‘issues’ in Pakistan’s GSP+ compliance, urges Islamabad to address 'shortcomings'",
-        "link": "https://www.dawn.com/news/2015939/eu-notes-issues-in-pakistans-gsp-compliance-urges-islamabad-to-address-shortcomings"
+        "title": "Iran launches fresh attacks on American infrastructure in Gulf after sixth consecutive day of US strikes",
+        "link": "https://www.dawn.com/news/2016140/iran-launches-fresh-attacks-on-american-infrastructure-in-gulf-after-sixth-consecutive-day-of-us-strikes"
       },
       {
-        "title": "Pakistan becomes founding member of World Artificial Intelligence Cooperation Organisation",
-        "link": "https://www.dawn.com/news/2015858/pakistan-becomes-founding-member-of-world-artificial-intelligence-cooperation-organisation"
+        "title": "Authorities going ‘extra mile’ in the absence of flood data",
+        "link": "https://www.dawn.com/news/2016059/authorities-going-extra-mile-in-the-absence-of-flood-data"
+      },
+      {
+        "title": "Trump revives sweeping election fraud claims ahead of US midterms, accuses China of meddling",
+        "link": "https://www.dawn.com/news/2016135/trump-revives-sweeping-election-fraud-claims-ahead-of-us-midterms-accuses-china-of-meddling"
+      },
+      {
+        "title": "Gulf war triggers investment outflow from Pakistan",
+        "link": "https://www.dawn.com/news/2016026/gulf-war-triggers-investment-outflow-from-pakistan"
       },
       {
         "title": "US to tighten visa regulations for foreign students, journalists",
         "link": "https://www.dawn.com/news/2015982/us-to-tighten-visa-regulations-for-foreign-students-journalists"
-      },
-      {
-        "title": "Gaza reconstruction plan under Trump’s Board of Peace reduced to pilot project: British publication",
-        "link": "https://www.dawn.com/news/2015988/gaza-reconstruction-plan-under-trumps-board-of-peace-reduced-to-pilot-project-british-publication"
-      },
-      {
-        "title": "PM Shehbaz warns renewed US-Iran conflict could hit economy again",
-        "link": "https://www.dawn.com/news/2015941/pm-shehbaz-warns-renewed-us-iran-conflict-could-hit-economy-again"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Is Expected to Revisit Election Fraud Claims in Speech: What to Know.",
-        "link": "https://www.nytimes.com/2026/07/16/us/politics/us-election-interference-security.html"
-      },
-      {
-        "title": "ABC and NBC Will Not Take Trump’s Speech Live as Other TV Networks’ Plans Remain Uncertain",
-        "link": "https://www.nytimes.com/2026/07/16/us/politics/trump-speech-television-networks.html"
-      },
-      {
-        "title": "Wildfires Continue in Ontario as Officials Brace for More Evacuations",
-        "link": "https://www.nytimes.com/2026/07/16/weather/ontario-canada-wildfires.html"
+        "title": "Wildfire Smokes Makes Air Hazardous for Millions in Midwest and East Coast",
+        "link": "https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html"
       },
       {
         "title": "Canada’s Wildfires Are Burning Through the Night",
         "link": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html"
       },
       {
+        "title": "What to Know About Canada Wildfire Smoke and Air Quality in U.S. Cities",
+        "link": "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html"
+      },
+      {
         "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
         "link": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html"
+      },
+      {
+        "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
+        "link": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Blasts rock Qatar's Doha",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-rock-qatars-doha"
+        "title": "IRGC says it launched attack on US command centre in Syria",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-launched-attack-us-command-centre-syria"
       },
       {
-        "title": "US hit on Iran's Iranshahr Airport causes damage, wounds one",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-hit-irans-iranshahr-airport-causes-damage-wounds-one"
+        "title": "US strikes on Iranian bridges kill seven, fresh blasts reported in Iran's Chabahar,",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strikes-iranian-bridges-kill-seven-fresh-blasts-reported-irans"
       },
       {
-        "title": "Kuwait army says confronting 'hostile' attacks, air raid sirens blare in Bahrain",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-army-says-confronting-hostile-attacks-air-raid-sirens-blare"
+        "title": "Explosions heard in Qatar, sirens sound off in Bahrain as Iran claims attacks in Kuwait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-qatar-sirens-sound-bahrain-iran-claims-attacks-kuwait"
       },
       {
-        "title": "Strait of Hormuz won’t return to pre-war status, Iran says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/strait-hormuz-wont-return-pre-war-status-iran-says"
+        "title": "Israel establishing new permanent military posts in southern Lebanon: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-establishing-new-permanent-military-posts-southern-lebanon-report"
       },
       {
-        "title": "‘Series of explosions in Kuwait’, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/series-explosions-kuwait-report-says"
+        "title": "Trump is still 'open to diplomacy' with Iran, White House press secretary says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-still-open-diplomacy-iran-white-house-press-secretary-says"
       }
     ],
     "GeoTV": [
       {
+        "title": "Canada wildfire smoke blankets US Midwest, Northeast with hazardous air",
+        "link": "https://www.geo.tv/latest/673444-canada-wildfire-smoke-blankets-us-midwest-northeast-with-hazardous-air"
+      },
+      {
+        "title": "Trump claims China interfered in 2020 US election",
+        "link": "https://www.geo.tv/latest/673443-trump-claims-china-interfered-in-2020-us-election"
+      },
+      {
+        "title": "Truth Social to sell fastest access to Trump's posts for traders",
+        "link": "https://www.geo.tv/latest/673442-truth-social-to-sell-fastest-access-to-trumps-posts-for-traders"
+      },
+      {
+        "title": "US hits bridges, transport links in latest strikes on Iran",
+        "link": "https://www.geo.tv/latest/673441-us-hits-bridges-transport-links-in-latest-strikes-on-iran"
+      },
+      {
         "title": "Spotify gets slammed for Artificial Intelligence",
         "link": "https://www.geo.tv/latest/673440-spotify-gets-slammed-for-artificial-intelligence"
-      },
-      {
-        "title": "Will Ferrell asks Kim Kardashian's help for one life goal",
-        "link": "https://www.geo.tv/latest/673438-will-ferrell-asks-kim-kardashians-help-for-one-life-goal"
-      },
-      {
-        "title": "‘Saturday Night Live' says goodbye to cast member after 7 seasons",
-        "link": "https://www.geo.tv/latest/673436-saturday-night-live-says-goodbye-to-cast-member-after-7-seasons"
-      },
-      {
-        "title": "China shuts down AI girlfriends, boyfriends, leaving users heartbroken",
-        "link": "https://www.geo.tv/latest/673435-china-shuts-down-ai-girlfriends-boyfriends-leaving-users-heartbroken"
-      },
-      {
-        "title": "Trump puts new time limits on visas for students, journalists: How long can foreigners stay in US now?",
-        "link": "https://www.geo.tv/latest/673434-trump-puts-new-time-limits-on-visas-for-students-journalists"
       }
     ],
     "NDTV": [
       {
-        "title": "US Announces Visa Curbs On Members Linked To \"Far-Left Terrorist\" Groups",
-        "link": "https://www.ndtv.com/world-news/us-announces-visa-curbs-on-members-linked-to-far-left-terrorist-groups-11782219#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Likely To Open Flat, Asian Markets Decline",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-17-july-us-iran-war-oil-prices-11782568#publisher=newsstand"
       },
       {
-        "title": "SpaceX Starship Rocket Aborts Before Liftoff In 13th Flight Test Attempt",
-        "link": "https://www.ndtv.com/world-news/spacex-starship-rocket-aborts-before-liftoff-in-13th-flight-test-attempt-11782209#publisher=newsstand"
+        "title": "\"Nightmare\": Trump Claims China Interfered In 2020 US Polls, Beijing Responds",
+        "link": "https://www.ndtv.com/world-news/trump-accuses-china-of-largest-compromise-of-2020-us-election-data-claims-it-acquired-220-million-voter-files-in-polls-he-lost-to-joe-biden-11782301#publisher=newsstand"
       },
       {
-        "title": "Iron Rod Falls On Congress Worker At Rahul Gandhi's Dehradun Event, Dies",
-        "link": "https://www.ndtv.com/india-news/iron-rod-falls-on-congress-worker-at-rahul-gandhis-dehradun-event-dies-11782195#publisher=newsstand"
+        "title": "Gujarat's Lion Paradox: Why Big Cat Boom Poses A New Test For Authorities",
+        "link": "https://www.ndtv.com/india-news/gujarats-lion-paradox-why-big-cat-boom-poses-a-new-test-for-authorities-11782503#publisher=newsstand"
       },
       {
-        "title": "US Immigrant Agent In Maine Shooting Has History Of Violent Behavior: Family",
-        "link": "https://www.ndtv.com/world-news/us-immigrant-agent-in-maine-shooting-has-history-of-violent-behavior-family-11782181#publisher=newsstand"
+        "title": "US-Iran War News LIVE: 7 Killed As US Launches 6th Consecutive Night Of Strikes Against Iran",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
       },
       {
-        "title": "Philippines Condemns Chinese Media's Video Depicting Filipinos As Monkeys",
-        "link": "https://www.ndtv.com/world-news/philippines-condemns-chinese-medias-video-depicting-filipinos-as-monkeys-11782166#publisher=newsstand"
+        "title": "Covid Cases Rising Again: Here's What Your Health Insurance Won't Cover",
+        "link": "https://www.ndtv.com/business-news/covid-cases-rising-india-health-insurance-covers-medical-cost-vaccination-11782378#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-17 01:10 UTC"
+  "last_updated": "2026-07-17 04:25 UTC"
 }
