@@ -1,16 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Likely To Open Flat, Asian Markets Decline",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-17-july-us-iran-war-oil-prices-11782568#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "US-Iran War News LIVE: 7 Killed As US Launches 6th Consecutive Night Of Strikes Against Iran",
-      "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -18,42 +7,42 @@
         "link": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
+        "link": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "China hits out at British Steel nationalisation",
         "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US launches fresh wave of strikes as Iran says civilian infrastructure hit",
+        "title": "US launches new strikes as Iran says civilian infrastructure hit",
         "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "How testosterone testing will work in Hegseth's 'manly' military",
-        "link": "https://www.bbc.co.uk/news/videos/cy746z15ej3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
-        "link": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss"
+        "title": "Targeted prostate cancer treatment cuts risk of side effects, study suggests",
+        "link": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "China rebukes UK over nationalisation of British Steel",
-        "link": "https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss"
+        "title": "China’s Xi says AI ‘should not be a solo performance by a single country’",
+        "link": "https://www.aljazeera.com/news/2026/7/17/ai-xi?traffic_source=rss"
       },
       {
-        "title": "Which players are favourites to be FIFA World Cup 2026 award winners?",
-        "link": "https://www.aljazeera.com/sports/2026/7/17/which-players-are-favourites-to-be-fifa-world-cup-2026-award-winners?traffic_source=rss"
+        "title": "Texas floods ravage through southwestern areas of state",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/texas-floods-ravage-through-southwestern-areas-of-state?traffic_source=rss"
       },
       {
-        "title": "Iranian sources say US strikes hit civilian infrastructure",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss"
+        "title": "Key takeaways from Donald Trump’s controversial speech on election security",
+        "link": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss"
       },
       {
-        "title": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
-        "link": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss"
+        "title": "US bombards Iran in sixth-straight night of attacks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss"
       },
       {
-        "title": "Goa’s forgotten orchata drink lives on in family kitchens",
-        "link": "https://www.aljazeera.com/features/longform/2026/7/17/goas-forgotten-orchata-drink-lives-on-in-family-kitchens?traffic_source=rss"
+        "title": "Israeli settlers attack Sinjil town in occupied West Bank",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -81,24 +70,24 @@
     ],
     "Dawn": [
       {
+        "title": "China and Pakistan call on US, Iran to resume talks, cease hostilities",
+        "link": "https://www.dawn.com/news/2016159/china-and-pakistan-call-on-us-iran-to-resume-talks-cease-hostilities"
+      },
+      {
         "title": "Iran launches fresh attacks on American infrastructure in Gulf after sixth consecutive day of US strikes",
         "link": "https://www.dawn.com/news/2016140/iran-launches-fresh-attacks-on-american-infrastructure-in-gulf-after-sixth-consecutive-day-of-us-strikes"
       },
       {
-        "title": "Authorities going ‘extra mile’ in the absence of flood data",
-        "link": "https://www.dawn.com/news/2016059/authorities-going-extra-mile-in-the-absence-of-flood-data"
+        "title": "Finance minister to visit Washington for trade, tariff talks with US",
+        "link": "https://www.dawn.com/news/2016143/finance-minister-to-visit-washington-for-trade-tariff-talks-with-us"
       },
       {
         "title": "Trump revives sweeping election fraud claims ahead of US midterms, accuses China of meddling",
         "link": "https://www.dawn.com/news/2016135/trump-revives-sweeping-election-fraud-claims-ahead-of-us-midterms-accuses-china-of-meddling"
       },
       {
-        "title": "Gulf war triggers investment outflow from Pakistan",
-        "link": "https://www.dawn.com/news/2016026/gulf-war-triggers-investment-outflow-from-pakistan"
-      },
-      {
-        "title": "US to tighten visa regulations for foreign students, journalists",
-        "link": "https://www.dawn.com/news/2015982/us-to-tighten-visa-regulations-for-foreign-students-journalists"
+        "title": "Authorities going ‘extra mile’ in the absence of flood data",
+        "link": "https://www.dawn.com/news/2016059/authorities-going-extra-mile-in-the-absence-of-flood-data"
       }
     ],
     "APNews": [],
@@ -126,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "IRGC says it launched attack on US command centre in Syria",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-launched-attack-us-command-centre-syria"
+        "title": "Child wounded during 'interception operations': Qatar’s Ministry of Interior",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/child-wounded-during-interception-operations-qatars-ministry-interior"
       },
       {
-        "title": "US strikes on Iranian bridges kill seven, fresh blasts reported in Iran's Chabahar,",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strikes-iranian-bridges-kill-seven-fresh-blasts-reported-irans"
+        "title": "China and Pakistan urge resumption of US-Iran peace talks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/china-and-pakistan-urge-resumption-us-iran-peace-talks"
       },
       {
-        "title": "Explosions heard in Qatar, sirens sound off in Bahrain as Iran claims attacks in Kuwait",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-qatar-sirens-sound-bahrain-iran-claims-attacks-kuwait"
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-584"
       },
       {
-        "title": "Israel establishing new permanent military posts in southern Lebanon: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-establishing-new-permanent-military-posts-southern-lebanon-report"
+        "title": "IRGC says it targeted US radar in Oman",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-targeted-us-radar-oman"
       },
       {
-        "title": "Trump is still 'open to diplomacy' with Iran, White House press secretary says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-still-open-diplomacy-iran-white-house-press-secretary-says"
+        "title": "Jordan says it intercepted three Iranian missiles",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-says-it-intercepted-three-iranian-missiles"
       }
     ],
     "GeoTV": [
       {
-        "title": "Canada wildfire smoke blankets US Midwest, Northeast with hazardous air",
-        "link": "https://www.geo.tv/latest/673444-canada-wildfire-smoke-blankets-us-midwest-northeast-with-hazardous-air"
+        "title": "Prince Harry shares William's pain in first message after royal meeting",
+        "link": "https://www.geo.tv/latest/673452-prince-harry-shares-williams-pain-in-first-message-after-royal-meeting"
       },
       {
-        "title": "Trump claims China interfered in 2020 US election",
-        "link": "https://www.geo.tv/latest/673443-trump-claims-china-interfered-in-2020-us-election"
+        "title": "Anne Hathaway shares exciting update on baby no 03",
+        "link": "https://www.geo.tv/latest/673453-anne-hathaway-shares-exciting-update-on-baby-no-03"
       },
       {
-        "title": "Truth Social to sell fastest access to Trump's posts for traders",
-        "link": "https://www.geo.tv/latest/673442-truth-social-to-sell-fastest-access-to-trumps-posts-for-traders"
+        "title": "Junior Andre among star kids approached for reality show inspired by 'The Simple Life'",
+        "link": "https://www.geo.tv/latest/673449-junior-andre-among-star-kids-approached-for-reality-show-inspired-by-the-simple-life"
       },
       {
-        "title": "US hits bridges, transport links in latest strikes on Iran",
-        "link": "https://www.geo.tv/latest/673441-us-hits-bridges-transport-links-in-latest-strikes-on-iran"
+        "title": "Petroleum prices 'likely' to rise in upcoming review",
+        "link": "https://www.geo.tv/latest/673451-petroleum-prices-likely-to-jack-up-in-coming-review"
       },
       {
-        "title": "Spotify gets slammed for Artificial Intelligence",
-        "link": "https://www.geo.tv/latest/673440-spotify-gets-slammed-for-artificial-intelligence"
+        "title": "Kim Kardashian shares heartbreak amid Lewis Hamilton romance",
+        "link": "https://www.geo.tv/latest/673448-kim-kardashian-shares-heartbreak-amid-lewis-hamilton-romance"
       }
     ],
     "NDTV": [
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Likely To Open Flat, Asian Markets Decline",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-17-july-us-iran-war-oil-prices-11782568#publisher=newsstand"
+        "title": "\"Weak From Outside, Strong Inside\": Sonam Wangchuk As Fast Enters Day 20",
+        "link": "https://www.ndtv.com/india-news/weak-from-outside-strong-inside-sonam-wangchuk-as-fast-enters-day-20-11783085#publisher=newsstand"
       },
       {
-        "title": "\"Nightmare\": Trump Claims China Interfered In 2020 US Polls, Beijing Responds",
-        "link": "https://www.ndtv.com/world-news/trump-accuses-china-of-largest-compromise-of-2020-us-election-data-claims-it-acquired-220-million-voter-files-in-polls-he-lost-to-joe-biden-11782301#publisher=newsstand"
+        "title": "India Gets Its 1st Hydrogen-Powered Train, Will Run On 89 Km Route In Haryana",
+        "link": "https://www.ndtv.com/india-news/pm-modi-to-launch-indias-first-hydrogen-powered-train-which-other-countries-have-it-11782930#publisher=newsstand"
       },
       {
-        "title": "Gujarat's Lion Paradox: Why Big Cat Boom Poses A New Test For Authorities",
-        "link": "https://www.ndtv.com/india-news/gujarats-lion-paradox-why-big-cat-boom-poses-a-new-test-for-authorities-11782503#publisher=newsstand"
+        "title": "SpaceX Short Sellers Make $4 Billion: Why Investors Are Betting Against Elon Musk",
+        "link": "https://www.ndtv.com/business-news/spacex-short-sellers-make-4-billion-why-investors-are-betting-against-elon-musk-11783033#publisher=newsstand"
       },
       {
-        "title": "US-Iran War News LIVE: 7 Killed As US Launches 6th Consecutive Night Of Strikes Against Iran",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-live-news-us-launches-fresh-strikes-on-iran-as-fighting-flares-around-strait-of-hormuz-global-oil-energy-prices-us-president-donald-trump-11762907#publisher=newsstand"
+        "title": "China's Xi Says AI Should Not Be Dominated By One Nation",
+        "link": "https://www.ndtv.com/world-news/chinas-xi-says-ai-should-not-be-dominated-by-one-nation-11782614#publisher=newsstand"
       },
       {
-        "title": "Covid Cases Rising Again: Here's What Your Health Insurance Won't Cover",
-        "link": "https://www.ndtv.com/business-news/covid-cases-rising-india-health-insurance-covers-medical-cost-vaccination-11782378#publisher=newsstand"
+        "title": "Jagan Mohan Reddy Launched AI 'Super App' To Connect With Party Cadre",
+        "link": "https://www.ndtv.com/india-news/jagan-mohan-reddy-launched-ai-super-app-to-connect-with-party-cadre-11783045#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-17 04:25 UTC"
+  "last_updated": "2026-07-17 06:37 UTC"
 }
