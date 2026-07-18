@@ -1,20 +1,14 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Iran War News LIVE: Iran's Supreme Leader In A New Statement Warns Of 'Unforgettable Lessons'",
-      "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-        "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
+        "title": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
+        "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham to announce plans for new North Sea oil and gas drilling",
-        "link": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss"
+        "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+        "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Ruthless plotter? Flip-flopper? Dad dancer? Insiders reveal the real Andy Burnham",
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss"
+      },
+      {
+        "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
+        "link": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final?traffic_source=rss"
+      },
+      {
+        "title": "Thousands rally in London in support of Gaza, demand new PM take action",
+        "link": "https://www.aljazeera.com/news/2026/7/18/thousands-rally-in-london-in-support-of-gaza-demand-new-pm-take-action?traffic_source=rss"
+      },
+      {
         "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
         "link": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss"
       },
       {
         "title": "Israeli attacks on residential areas in Gaza kill eight",
         "link": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss"
-      },
-      {
-        "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
-        "link": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss"
-      },
-      {
-        "title": "Damage visible at Iran bridges and water plant after US attacks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss"
-      },
-      {
-        "title": "US military says two service members killed in Iranian strike in Jordan",
-        "link": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Lebanese soldier killed as army vehicle hits explosive in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-soldier-killed-army-vehicle-hits-explosive-south-lebanon"
+      },
+      {
         "title": "UKMTO says vessel seized in Gulf of Aden now in Somali waters",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-vessel-seized-gulf-aden-now-somali-waters"
       },
@@ -135,13 +133,17 @@
       {
         "title": "World Cup 2026: Palestinian flags become a target at US-based games",
         "link": "https://www.middleeasteye.net/news/world-cup-2026-palestine-flags-become-target-us-based-games"
-      },
-      {
-        "title": "Two US service members in Jordan killed in Iranian attack, US says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-us-service-members-jordan-killed-iranian-attack-us-says"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Matty Healy, Gabbriette's pictures leaked from wedding celebration",
+        "link": "https://www.geo.tv/latest/673756-matty-healy-gabbriettes-pictures-leaked-from-wedding-celebration"
+      },
+      {
+        "title": "Magnitude-4 earthquake jolts Quetta, Ziarat and surrounding areas",
+        "link": "https://www.geo.tv/latest/673757-magnitude-4-earthquake-jolts-quetta-ziarat-and-surrounding-areas"
+      },
       {
         "title": "Gracie Abrams reveals Taylor Swift's crucial tour advice",
         "link": "https://www.geo.tv/latest/673752-gracie-abrams-reveals-taylor-swifts-crucial"
@@ -153,36 +155,28 @@
       {
         "title": "Why is X (formerly Twitter) down? Here's what we know",
         "link": "https://www.geo.tv/latest/673754-why-is-x-formerly-twitter-down-heres-what-we-know"
-      },
-      {
-        "title": "Ethan Slater 'blindsided' by Ariana Grande, Ricky Alvarez romance?",
-        "link": "https://www.geo.tv/latest/673747-ethan-slater-blindsided-by-ariana-grande-ricky-alvarez-romance"
-      },
-      {
-        "title": "Britney Spears' son addresses new shocking headlines about mom",
-        "link": "https://www.geo.tv/latest/673751-britney-spears-son-addresses-new-shocking-headlines-about-mom"
       }
     ],
     "NDTV": [
       {
-        "title": "2 US Soldiers Killed, 1 Missing After Iranian Strikes On Jordan",
-        "link": "https://www.ndtv.com/world-news/2-us-soldiers-killed-1-missing-after-iranian-strikes-on-jordan-11789963#publisher=newsstand"
+        "title": "Skyroot's Vikram-1 Launch Highlights: \"Grand Success,\" Says Skyroot As Vikram-1 Successfully Releases Payload In Space",
+        "link": "https://www.ndtv.com/india-news/skyroot-vikram-1-launch-live-updates-indias-1st-private-orbital-rocket-historic-takeoff-today-pm-modi-vande-mataram-message-space-sector-11787076#publisher=newsstand"
       },
       {
-        "title": "\"Worthless, Devoid Of Credibility\": Mojtaba Tears Into Trump Over Iran Deal",
-        "link": "https://www.ndtv.com/world-news/worthless-devoid-of-credibility-mojtaba-tears-into-trump-over-iran-deal-11789866#publisher=newsstand"
+        "title": "Sonam Wangchuk's Fast, Ram Mandir Row To Dominate All-Party Meet Today",
+        "link": "https://www.ndtv.com/india-news/sonam-wangchuks-fast-ram-mandir-row-to-dominate-all-party-meet-tomorrow-11789556#publisher=newsstand"
       },
       {
-        "title": "US-Iran War News LIVE: Iran's Supreme Leader In A New Statement Warns Of 'Unforgettable Lessons'",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
+        "title": "BJP Starts Outreach Campaign In Muslim-Dominated Assembly Seat Of Manipur",
+        "link": "https://www.ndtv.com/india-news/bjp-starts-outreach-campaign-in-muslim-dominated-assembly-seat-of-manipur-11790090#publisher=newsstand"
       },
       {
-        "title": "Telangana Government To Enact Stringent Anti-Adulteration Law",
-        "link": "https://www.ndtv.com/india-news/telangana-government-to-enact-stringent-anti-adulteration-law-11789997#publisher=newsstand"
+        "title": "2 Robberies, 1 Chilling Pattern: Bihar Village Fears \"Hair-Chopping\" Gang",
+        "link": "https://www.ndtv.com/india-news/2-robberies-1-chilling-pattern-bihar-village-fears-hair-chopping-gang-11789968#publisher=newsstand"
       },
       {
-        "title": "Centre Signals Recognition Of NCPI With Trinamool Rebels, Triggers Row",
-        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-centre-signals-recognition-of-ncpi-with-trinamool-congress-rebels-triggers-row-11789971#publisher=newsstand"
+        "title": "Boy, 16, Dies By Suicide After Classmate's Remarks About Skin Colour",
+        "link": "https://www.ndtv.com/india-news/boy-16-dies-by-suicide-after-classmates-remarks-about-skin-colour-11790086#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-18 19:30 UTC"
+  "last_updated": "2026-07-18 20:22 UTC"
 }
