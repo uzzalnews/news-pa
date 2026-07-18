@@ -1,11 +1,6 @@
 {
   "breaking": [
     {
-      "source": "AlJazeera",
-      "title": "France vs England LIVE: FIFA World Cup 2026 third-place playoff",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss"
-    },
-    {
       "source": "NDTV",
       "title": "US-Iran War News LIVE: Iran's Supreme Leader In A New Statement Warns Of 'Unforgettable Lessons'",
       "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
@@ -13,6 +8,10 @@
   ],
   "news": {
     "BBC": [
+      {
+        "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+        "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Burnham to announce plans for new North Sea oil and gas drilling",
         "link": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss"
@@ -28,32 +27,28 @@
       {
         "title": "Britain's Kerr breaks 27-year mile world record in London",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mother killed while asleep with baby ‘was my world’, sister tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cd0xzy2r1m7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "France vs England LIVE: FIFA World Cup 2026 third-place playoff",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss"
+        "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
+        "link": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss"
       },
       {
-        "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
-        "link": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss"
+        "title": "Israeli attacks on residential areas in Gaza kill eight",
+        "link": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss"
       },
       {
-        "title": "UK’s Josh Kerr smashes longstanding world mile record in London",
-        "link": "https://www.aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss"
+        "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
+        "link": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss"
       },
       {
-        "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
-        "link": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss"
+        "title": "Damage visible at Iran bridges and water plant after US attacks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss"
       },
       {
-        "title": "Armed groups attack Malian military convoy in Gao region",
-        "link": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss"
+        "title": "US military says two service members killed in Iranian strike in Jordan",
+        "link": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,12 +88,12 @@
         "link": "https://www.dawn.com/news/2016426/iran-hits-gulf-states-and-jordan-after-seventh-night-of-us-strikes"
       },
       {
-        "title": "Palestinian teen footballer dies after being shot during settler attack in occupied West Bank",
-        "link": "https://www.dawn.com/news/2016519/palestinian-teen-footballer-dies-after-being-shot-during-settler-attack-in-occupied-west-bank"
+        "title": "Trump administration finalises overhaul of foreign journalists' visas, ends 'duration of status' system",
+        "link": "https://www.dawn.com/news/2016518/trump-administration-finalises-overhaul-of-foreign-journalists-visas-ends-duration-of-status-system"
       },
       {
-        "title": "Lawyers Action Committee terms JCP judge appointment process 'horse trading', announces nationwide movement",
-        "link": "https://www.dawn.com/news/2016484/lawyers-action-committee-terms-jcp-judge-appointment-process-horse-trading-announces-nationwide-movement"
+        "title": "Palestinian teen footballer dies after being shot during settler attack in occupied West Bank",
+        "link": "https://www.dawn.com/news/2016519/palestinian-teen-footballer-dies-after-being-shot-during-settler-attack-in-occupied-west-bank"
       }
     ],
     "APNews": [],
@@ -112,7 +107,7 @@
         "link": "https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html"
       },
       {
-        "title": "Mamdani Says He May Still Order Netanyahu’s Arrest",
+        "title": "Mamdani Says He May Still Order Israeli Prime Minister Netanyahu’s Arrest in NYC",
         "link": "https://www.nytimes.com/2026/07/18/nyregion/mamdani-netanyahu-interview.html"
       },
       {
@@ -126,46 +121,46 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "UKMTO says vessel seized in Gulf of Aden now in Somali waters",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-vessel-seized-gulf-aden-now-somali-waters"
+      },
+      {
+        "title": "UKMTO reports tanker incident involving military forces east of Oman's Duqm",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-tanker-incident-involving-military-forces-east-omans-duqm"
+      },
+      {
+        "title": "World Cup 2026: Palestinian flags become a target at US-based games",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/world-cup-2026-palestinian-flags-become-target-us-based-games"
+      },
+      {
         "title": "World Cup 2026: Palestinian flags become a target at US-based games",
         "link": "https://www.middleeasteye.net/news/world-cup-2026-palestine-flags-become-target-us-based-games"
       },
       {
         "title": "Two US service members in Jordan killed in Iranian attack, US says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-us-service-members-jordan-killed-iranian-attack-us-says"
-      },
-      {
-        "title": "Iran’s Khamenei says US president’s signature ‘worthless and invalid’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-khamenei-says-us-presidents-signature-worthless-and-invalid"
-      },
-      {
-        "title": "Qatar condemns Iran's latest attacks on Gulf countries 'in strongest terms'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-irans-latest-attacks-gulf-countries-strongest-terms"
-      },
-      {
-        "title": "US and Israel used Karim Khan misconduct claims to 'defang' ICC, says former EU top diplomat",
-        "link": "https://www.middleeasteye.net/news/us-and-israel-used-karim-khan-misconduct-claims-defang-icc-says-former-eu-top-diplomat"
       }
     ],
     "GeoTV": [
       {
-        "title": "Severe storms slam NYC with flash flooding, tornado threat as conditions worsen",
-        "link": "https://www.geo.tv/latest/673748-severe-storms-slam-nyc-with-flash-flooding-tornado-threat-as-conditions-worsen"
+        "title": "Gracie Abrams reveals Taylor Swift's crucial tour advice",
+        "link": "https://www.geo.tv/latest/673752-gracie-abrams-reveals-taylor-swifts-crucial"
       },
       {
-        "title": "Tom Holland reveals why 'The Odyssey' became 'life-changing' with Zendaya",
-        "link": "https://www.geo.tv/latest/673732-tom-holland-reveals-why-the-odyssey-became-life-changing-with-zendaya"
+        "title": "Tornado threat looms over NYC, New Jersey as storms roll through",
+        "link": "https://www.geo.tv/latest/673755-tornado-threat-looms-over-nyc-new-jersey-as-storms-roll-through"
       },
       {
-        "title": "Israeli rule change clears way for using crocodiles to deter prisonbreaks",
-        "link": "https://www.geo.tv/latest/673743-israeli-rule-change-clears-way-for-using-crocodiles-to-deter-prisonbreaks"
+        "title": "Why is X (formerly Twitter) down? Here's what we know",
+        "link": "https://www.geo.tv/latest/673754-why-is-x-formerly-twitter-down-heres-what-we-know"
       },
       {
-        "title": "Prince Harry shares William's sentiments in rare royal moment",
-        "link": "https://www.geo.tv/latest/673744-prince-harry-shares-williams-sentiments-in-rare-royal-moment"
+        "title": "Ethan Slater 'blindsided' by Ariana Grande, Ricky Alvarez romance?",
+        "link": "https://www.geo.tv/latest/673747-ethan-slater-blindsided-by-ariana-grande-ricky-alvarez-romance"
       },
       {
-        "title": "Spice Girls Mel C ties the knot in beautiful Lake District wedding",
-        "link": "https://www.geo.tv/latest/673741-spice-girls-mel-c-ties-the-knot-in-beautiful-lake-district-wedding"
+        "title": "Britney Spears' son addresses new shocking headlines about mom",
+        "link": "https://www.geo.tv/latest/673751-britney-spears-son-addresses-new-shocking-headlines-about-mom"
       }
     ],
     "NDTV": [
@@ -213,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-18 18:09 UTC"
+  "last_updated": "2026-07-18 19:30 UTC"
 }
