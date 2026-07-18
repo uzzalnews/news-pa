@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Iran War News LIVE: US Launches Fresh Strikes Against Iran As Hormuz Tensions Intensify",
-      "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "EU urges Israel to halt settlement expansion as settlers attack children",
-        "link": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss"
+        "title": "Landslide in southwest China kills eight and leaves 34 missing",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/landslide-in-southwest-china-kills-eight-and-leaves-34-missing?traffic_source=rss"
       },
       {
-        "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
-        "link": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss"
+        "title": "Trump Media reportedly mulling fee for first access to social media posts",
+        "link": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts?traffic_source=rss"
       },
       {
-        "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
-        "link": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss"
+        "title": "UK by-election sees record 34 candidates as Farage seeks return",
+        "link": "https://www.aljazeera.com/news/2026/7/18/uk-by-election-sees-record-34-candidates-as-farage-seeks-return?traffic_source=rss"
       },
       {
-        "title": "US launches seventh straight night of strikes on Iran",
-        "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss"
+        "title": "Homeland Security Secretary Mullin reiterates Trump threats about elections",
+        "link": "https://www.aljazeera.com/news/2026/7/18/homeland-security-secretary-mullin-reiterates-trump-threats-about-elections?traffic_source=rss"
       },
       {
-        "title": "Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino",
-        "link": "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss"
+        "title": "Iran war live: US and Iran exchange attacks for 7th consecutive night",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -99,6 +93,10 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Iran War Live Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
+        "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz"
+      },
+      {
         "title": "Trump’s Election Claims and SAVE Act Push Find Muted Response From G.O.P. Lawmakers",
         "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-election-save-act-republicans-midterms.html"
       },
@@ -107,41 +105,45 @@
         "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html"
       },
       {
-        "title": "Trump’s Homeland Security Chief Threatens Election Officials With Prison Time",
-        "link": "https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html"
+        "title": "Bridges and Water Plants Attacked as Iran War Escalates",
+        "link": "https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html"
       },
       {
         "title": "Trump Faces the Limits of U.S. Firepower and the Lessons of Past Wars",
         "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html"
-      },
-      {
-        "title": "Oil Prices Rise to Highest Level in a Month as Shipping in the Persian Gulf Nears a Halt",
-        "link": "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "IRGC says Hormuz fully sealed off as it has become 'highly perilous'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-hormuz-fully-sealed-it-has-become-highly-perilous"
+      },
+      {
+        "title": "IRIB: US missiles hit Larak Island maritime traffic control facility",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irib-us-missiles-hit-larak-island-maritime-traffic-control-facility"
+      },
+      {
+        "title": "Reports: US strikes kill three in Hormozgan, IRGC stops four ships",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/reports-us-strikes-kill-three-hormozgan-irgc-stops-four-ships"
+      },
+      {
+        "title": "Saudi Arabia says danger passed in Al-Kharj, Yanbu after 'potential danger' warnings",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-danger-passed-al-kharj-yanbu-after-potential-danger"
+      },
+      {
         "title": "Israeli strike on funeral kills eight, wounds 22 in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-funeral-kills-eight-wounds-22-gaza"
-      },
-      {
-        "title": "IRGC says US drone downed over Bushehr as projectiles hit Yazd",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-us-drone-downed-over-bushehr-projectiles-hit-yazd"
-      },
-      {
-        "title": "Two oil tankers exploded after passing through mined route south of Strait of Hormuz, Iran's state TV reports",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-oil-tankers-exploded-after-passing-through-mined-route-south-strait"
-      },
-      {
-        "title": "Five blasts heard in Yazd, in center of Iran, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/five-blasts-heard-yazd-center-iran-report-says"
-      },
-      {
-        "title": "Iraq and Syria sign deal to rehabilitate Mediterranean pipeline, bypass Strait of Hormuz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-and-syria-sign-deal-rehabilitate-mediterranean-pipeline-bypass"
       }
     ],
     "GeoTV": [
+      {
+        "title": "‘Mortal Kombat 2' HBO Max release date revealed",
+        "link": "https://www.geo.tv/latest/673628-mortal-kombat-2-hbo-max-release-date-revealed"
+      },
+      {
+        "title": "Shane Gillis sells the most tickets for a ‘Solo Comedy Show'",
+        "link": "https://www.geo.tv/latest/673627-shane-gillis-sells-the-most-tickets-for-a-solo-comedy-show"
+      },
       {
         "title": "Kim Kardashian shares last text conversation with late grandmother MJ Shannon",
         "link": "https://www.geo.tv/latest/673620-kim-kardashian-shares-last-text-conversation-with-late-grandmother-mj-shannon"
@@ -153,20 +155,20 @@
       {
         "title": "Prince Harry and Meghan's UK move marks a turning point for royal family",
         "link": "https://www.geo.tv/latest/673594-prince-harry-and-meghans-uk-move-marks-a-turning-point-for-royal-family"
-      },
-      {
-        "title": "Prince William's surprise TV appearance earns double Emmy recognition",
-        "link": "https://www.geo.tv/latest/673591-prince-williams-surprise-tv-appearance-earns-double-emmy-recognition"
-      },
-      {
-        "title": "Taylor Swift, Travis Kelce's wedding details get out",
-        "link": "https://www.geo.tv/latest/673604-taylor-swift-travis-kelces-wedding-details-get-out"
       }
     ],
     "NDTV": [
       {
-        "title": "US Strikes Iran Again, Now 7 Nights In A Row",
+        "title": "Leather Jacket Worn By Nvidia CEO Auctions For Nearly $1 Million",
+        "link": "https://www.ndtv.com/world-news/leather-jacket-worn-by-nvidia-ceo-jensen-huang-auctions-for-nearly-1-million-11786899#publisher=newsstand"
+      },
+      {
+        "title": "US Hits Iran 7th Night In Row, Tehran Replies With \"No Border Safe\" Warning",
         "link": "https://www.ndtv.com/world-news/us-strikes-iran-again-now-7-nights-in-a-row-11786666#publisher=newsstand"
+      },
+      {
+        "title": "Elon Musk's SpaceX In Talks To Provide Computing Power To Pentagon: Report",
+        "link": "https://www.ndtv.com/world-news/elon-musks-spacex-in-talks-to-provide-computing-power-to-pentagon-report-11786877#publisher=newsstand"
       },
       {
         "title": "Smoke, Fire, Floods: US Faces Triple Extreme Summer Weather Threats",
@@ -175,14 +177,6 @@
       {
         "title": "Venezuela Earthquake: Death Count Rises To More Than 5,000",
         "link": "https://www.ndtv.com/world-news/venezuela-earthquake-death-count-rises-to-more-than-5-000-11786786#publisher=newsstand"
-      },
-      {
-        "title": "'No Border Will Be Safe': Iran Warns Of Full-Scale Offensive Against US",
-        "link": "https://www.ndtv.com/world-news/iran-war-iran-warns-of-full-scale-offensive-against-us-amid-escalating-tensions-in-strait-of-hormuz-11786749#publisher=newsstand"
-      },
-      {
-        "title": "US-Iran War News LIVE: US Launches Fresh Strikes Against Iran As Hormuz Tensions Intensify",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-17 23:24 UTC"
+  "last_updated": "2026-07-18 00:54 UTC"
 }
