@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "France vs England LIVE: FIFA World Cup 2026 third-place playoff",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss"
+    },
+    {
+      "source": "NDTV",
+      "title": "US-Iran War News LIVE: Iran's Supreme Leader In A New Statement Warns Of 'Unforgettable Lessons'",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +30,23 @@
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Woman killed while asleep with baby ‘was my world’, sister tells BBC",
+        "title": "Mother killed while asleep with baby ‘was my world’, sister tells BBC",
         "link": "https://www.bbc.co.uk/news/articles/cd0xzy2r1m7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "France vs England LIVE: FIFA World Cup 2026 third-place playoff",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
+        "link": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss"
+      },
+      {
+        "title": "UK’s Josh Kerr smashes longstanding world mile record in London",
+        "link": "https://www.aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss"
+      },
       {
         "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
         "link": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss"
@@ -31,18 +54,6 @@
       {
         "title": "Armed groups attack Malian military convoy in Gao region",
         "link": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss"
-      },
-      {
-        "title": "Belgium bans imports from Israeli settlements in occupied Palestine",
-        "link": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss"
-      },
-      {
-        "title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid",
-        "link": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss"
-      },
-      {
-        "title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,8 +93,8 @@
         "link": "https://www.dawn.com/news/2016426/iran-hits-gulf-states-and-jordan-after-seventh-night-of-us-strikes"
       },
       {
-        "title": "Wildfire haze hangs over eastern US, World Cup final venue",
-        "link": "https://www.dawn.com/news/2016513/wildfire-haze-hangs-over-eastern-us-world-cup-final-venue"
+        "title": "Palestinian teen footballer dies after being shot during settler attack in occupied West Bank",
+        "link": "https://www.dawn.com/news/2016519/palestinian-teen-footballer-dies-after-being-shot-during-settler-attack-in-occupied-west-bank"
       },
       {
         "title": "Lawyers Action Committee terms JCP judge appointment process 'horse trading', announces nationwide movement",
@@ -93,8 +104,8 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Israel Counters Iranian Spying by Warning Against Recruitment",
-        "link": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html"
+        "title": "U.S. Strikes Leave Iranians Isolated and Scared",
+        "link": "https://www.nytimes.com/2026/07/18/world/middleeast/us-iran-war-strikes-bridges-bandar-abbas.html"
       },
       {
         "title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
@@ -109,11 +120,19 @@
         "link": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html"
       },
       {
-        "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
-        "link": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html"
+        "title": "Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor",
+        "link": "https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "World Cup 2026: Palestinian flags become a target at US-based games",
+        "link": "https://www.middleeasteye.net/news/world-cup-2026-palestine-flags-become-target-us-based-games"
+      },
+      {
+        "title": "Two US service members in Jordan killed in Iranian attack, US says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-us-service-members-jordan-killed-iranian-attack-us-says"
+      },
       {
         "title": "Iran’s Khamenei says US president’s signature ‘worthless and invalid’",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-khamenei-says-us-presidents-signature-worthless-and-invalid"
@@ -125,58 +144,50 @@
       {
         "title": "US and Israel used Karim Khan misconduct claims to 'defang' ICC, says former EU top diplomat",
         "link": "https://www.middleeasteye.net/news/us-and-israel-used-karim-khan-misconduct-claims-defang-icc-says-former-eu-top-diplomat"
-      },
-      {
-        "title": "Iran says renewed US strikes killed at least 50 people",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/renewed-us-strikes-kill-least-50-people-iran-tehran-says"
-      },
-      {
-        "title": "Iran declares Islamabad agreement suspended, blames US violations",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-declares-islamabad-agreement-suspended-blames-us-violations"
       }
     ],
     "GeoTV": [
       {
-        "title": "How Christopher Nolan still stands apart from the rest of Hollywood",
-        "link": "https://www.geo.tv/latest/673737-how-christopher-nolan-still-stands-apart-from-the-rest-of-hollywood"
+        "title": "Severe storms slam NYC with flash flooding, tornado threat as conditions worsen",
+        "link": "https://www.geo.tv/latest/673748-severe-storms-slam-nyc-with-flash-flooding-tornado-threat-as-conditions-worsen"
       },
       {
-        "title": "Drake bets $1.5m on Argentina to win World Cup: Will 'Drake Curse' strike again?",
-        "link": "https://www.geo.tv/latest/673736-drake-bets-15m-on-argentina-to-win-world-cup-will-drake-curse-strike-again"
+        "title": "Tom Holland reveals why 'The Odyssey' became 'life-changing' with Zendaya",
+        "link": "https://www.geo.tv/latest/673732-tom-holland-reveals-why-the-odyssey-became-life-changing-with-zendaya"
       },
       {
-        "title": "Who is Josh Kerr? Man who breaks ‘unbreakable' mile record in front of 60,000",
-        "link": "https://www.geo.tv/latest/673733-who-is-josh-kerr-man-who-breaks-unbreakable-mile-record-in-front-of-60000"
+        "title": "Israeli rule change clears way for using crocodiles to deter prisonbreaks",
+        "link": "https://www.geo.tv/latest/673743-israeli-rule-change-clears-way-for-using-crocodiles-to-deter-prisonbreaks"
       },
       {
-        "title": "Beyonce, Jay-Z face security threat amid anniversary concert series",
-        "link": "https://www.geo.tv/latest/673729-beyonce-jay-z-face-security-threat-amid-anniversary-concert-series"
+        "title": "Prince Harry shares William's sentiments in rare royal moment",
+        "link": "https://www.geo.tv/latest/673744-prince-harry-shares-williams-sentiments-in-rare-royal-moment"
       },
       {
-        "title": "Spain's World Cup winner Capdevila seeks Trump's help after US entry denial",
-        "link": "https://www.geo.tv/latest/673728-spains-world-cup-winner-capdevila-seeks-trumps-help-after-us-entry-denial"
+        "title": "Spice Girls Mel C ties the knot in beautiful Lake District wedding",
+        "link": "https://www.geo.tv/latest/673741-spice-girls-mel-c-ties-the-knot-in-beautiful-lake-district-wedding"
       }
     ],
     "NDTV": [
       {
-        "title": "2 July 18s, 46 Years Apart, And Abdul Kalam Connections To Vikram-1 Launch",
-        "link": "https://www.ndtv.com/india-news/skyroot-ceo-pawan-chandana-2-july-18s-46-years-apart-and-abdul-kalam-connections-to-vikram-1-launch-11789564#publisher=newsstand"
+        "title": "2 US Soldiers Killed, 1 Missing After Iranian Strikes On Jordan",
+        "link": "https://www.ndtv.com/world-news/2-us-soldiers-killed-1-missing-after-iranian-strikes-on-jordan-11789963#publisher=newsstand"
       },
       {
-        "title": "Sonam Wangchuk's Fast, Ram Mandir Row To Dominate All-Party Meet Tomorrow",
-        "link": "https://www.ndtv.com/india-news/sonam-wangchuks-fast-ram-mandir-row-to-dominate-all-party-meet-tomorrow-11789556#publisher=newsstand"
+        "title": "\"Worthless, Devoid Of Credibility\": Mojtaba Tears Into Trump Over Iran Deal",
+        "link": "https://www.ndtv.com/world-news/worthless-devoid-of-credibility-mojtaba-tears-into-trump-over-iran-deal-11789866#publisher=newsstand"
       },
       {
-        "title": "\"Us, Blade, Your Throat\": Iran Hardliners Turn On Leaders Amid Coup Claims",
-        "link": "https://www.ndtv.com/world-news/us-blade-your-throat-iran-hardliners-turn-on-leaders-amid-coup-claims-11789349#publisher=newsstand"
+        "title": "US-Iran War News LIVE: Iran's Supreme Leader In A New Statement Warns Of 'Unforgettable Lessons'",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
       },
       {
-        "title": "'Vaishu Is Finished': Nashik Man Kills Ex-Girlfriend, Informs Fiance",
-        "link": "https://www.ndtv.com/india-news/vaishu-is-finished-nashik-man-kills-ex-girlfriend-informs-fiance-11789388#publisher=newsstand"
+        "title": "Telangana Government To Enact Stringent Anti-Adulteration Law",
+        "link": "https://www.ndtv.com/india-news/telangana-government-to-enact-stringent-anti-adulteration-law-11789997#publisher=newsstand"
       },
       {
-        "title": "After NDTV Report, Centre Orders Probe Into B.Ed Colleges That May Not Exist",
-        "link": "https://www.ndtv.com/india-news/after-ndtv-report-centre-orders-probe-into-b-ed-colleges-that-may-not-exist-11789424#publisher=newsstand"
+        "title": "Centre Signals Recognition Of NCPI With Trinamool Rebels, Triggers Row",
+        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-centre-signals-recognition-of-ncpi-with-trinamool-congress-rebels-triggers-row-11789971#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-18 17:13 UTC"
+  "last_updated": "2026-07-18 18:09 UTC"
 }
