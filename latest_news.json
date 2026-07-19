@@ -1,5 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "\"Illegal Detention\": Sonam Wangchuk's Wife Seeks Urgent High Court Hearing",
+      "link": "https://www.ndtv.com/india-news/sonam-wangchuks-wife-gitanjali-angmo-approaches-delhi-high-court-to-shift-him-to-private-hospital-11790727#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "US-Iran War News LIVE: US Says Latest Strikes Targeted Iran Guards Behind Jordan Attack",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,16 +18,16 @@
         "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
+        "title": "Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
         "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Can Burnham's casual style survive contact with No 10?",
+        "title": "Can new PM's casual style survive contact with No 10?",
         "link": "https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-        "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
+        "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
+        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "The hidden cost of the night shift and how to sleep it off",
@@ -25,24 +36,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "US bombs Iran for eighth-straight night",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss"
+      },
+      {
+        "title": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss"
+      },
+      {
+        "title": "At least one killed as Russian ballistic missiles hit Kyiv",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss"
+      },
+      {
+        "title": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
+        "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss"
+      },
+      {
         "title": "Somalia races to save Radio Mogadishu’s fading archive",
         "link": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss"
-      },
-      {
-        "title": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss"
-      },
-      {
-        "title": "FIFA World Cup 2026 sees major increase in goals from outside the box",
-        "link": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box?traffic_source=rss"
-      },
-      {
-        "title": "‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final",
-        "link": "https://www.aljazeera.com/sports/2026/7/19/spanish-style-wins-over-new-yorks-die-hard-world-cup-fans-ahead-of-final?traffic_source=rss"
-      },
-      {
-        "title": "Palestinian teenage footballer dies after Israeli settler attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/palestinian-teenage-footballer-dies-after-israeli-settler-attack?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +85,10 @@
         "link": "https://www.dawn.com/news/2016645/us-renews-strikes-on-iran-to-punish-irgc-for-troops-killing-tehran-targets-american-bases-in-kuwait"
       },
       {
+        "title": "Finance Minister Aurangzeb arrives in US on 3-day visit, expected to hold talks on trade, finance, investment",
+        "link": "https://www.dawn.com/news/2016679/finance-minister-aurangzeb-arrives-in-us-on-3-day-visit-expected-to-hold-talks-on-trade-finance-investment"
+      },
+      {
         "title": "Transit trade with Kabul hits historic low",
         "link": "https://www.dawn.com/news/2016605/transit-trade-with-kabul-hits-historic-low"
       },
@@ -84,10 +99,6 @@
       {
         "title": "Bilawal urges all sides to engage in talks for Balochistan peace",
         "link": "https://www.dawn.com/news/2016610/bilawal-urges-all-sides-to-engage-in-talks-for-balochistan-peace"
-      },
-      {
-        "title": "Pakistan-China pharma conference ends with $850m agreements",
-        "link": "https://www.dawn.com/news/2016621/pakistan-china-pharma-conference-ends-with-850m-agreements"
       }
     ],
     "APNews": [],
@@ -109,77 +120,81 @@
         "link": "https://www.nytimes.com/2026/07/18/nyregion/mamdani-netanyahu-interview.html"
       },
       {
-        "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
-        "link": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html"
+        "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
+        "link": "https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Report: Aipac stops taking donations for Democrats who backed Israel aid cut",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-aipac-stops-taking-campaign-contributions-democrats-who-backed"
+        "title": "Lebanese president hopes to generate pressure on Israel during US trip",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-president-hopes-generate-pressure-israel-during-us-trip"
       },
       {
-        "title": "Family of five, including three children, killed in Israeli strike on Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/family-five-including-three-children-killed-israeli-strike-gaza"
+        "title": "Israeli military closes area around Gaza ahead of settler march, report says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-closes-area-around-gaza-ahead-settler-march-report-says"
       },
       {
-        "title": "West Bank attacks: Settlers set mosque on fire, Israeli forces olive trees",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-attacks-settlers-set-mosque-fire-israeli-forces-olive-trees"
+        "title": "Emergency services on alert in Iran's earthquake-hit Khuzestan",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/emergency-services-alert-irans-earthquake-hit-khuzestan"
       },
       {
-        "title": "US strike hits a location in Qeshm Island, Iranian media says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-strike-hits-location-qeshm-island-iranian-media-says"
+        "title": "Palestinians bid farewell to teenage footballer shot during settler raid",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-bid-farewell-teenage-footballer-who-succumbs-wounds"
       },
       {
-        "title": "US cautions Americans Middle East situation has ‘potential for unforeseen escalation’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-cautions-americans-middle-east-situation-has-potential-unforeseen"
+        "title": "Iranian commander warns of 'devastating response' to aggression",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-commander-warns-devastating-response-aggression"
       }
     ],
     "GeoTV": [
       {
-        "title": "France star Kylian Mbappe breaks World Cup career goals mark",
-        "link": "https://www.geo.tv/latest/673770-france-star-kylian-mbappe-breaks-world-cup-career-goals-mark"
+        "title": "Matty Healy ties knot days after Taylor Swift's grand wedding: Pictures inside",
+        "link": "https://www.geo.tv/latest/673781-matty-healy-ties-knot-days-after-taylor-swifts-grand-wedding-pictures-inside"
       },
       {
-        "title": "Mojtaba Khamenei says Iran will teach US 'unforgettable lessons'",
-        "link": "https://www.geo.tv/latest/673769-mojtaba-khamenei-says-iran-will-teach-us-unforgettable-lessons"
+        "title": "Trump to bask in World Cup final spotlight",
+        "link": "https://www.geo.tv/latest/673775-trump-to-bask-in-world-cup-final-spotlight"
       },
       {
-        "title": "Will Smith steps out with dramatic new look after viral Jada moment",
-        "link": "https://www.geo.tv/latest/673767-will-smith-steps-out-with-dramatic-new-look-after-viral-jada-moment"
+        "title": "Cat Deeley enjoys cosy festival date with movie executive after Patrick Kielty split",
+        "link": "https://www.geo.tv/latest/673779-cat-deeley-enjoys-cosy-festival-date-with"
       },
       {
-        "title": "England edge France 6-4 in chaotic World Cup bronze match",
-        "link": "https://www.geo.tv/latest/673768-england-edge-france-6-4-in-chaotic-world-cup-bronze-match"
+        "title": "Andrew, Tristan Tate face fresh legal blow after Florida arrest",
+        "link": "https://www.geo.tv/latest/673780-andrew-tristan-tate-face-fresh-legal-blow-after-florida-arrest"
       },
       {
-        "title": "BTS ‘Normal' makes K-pop history on Spotify",
-        "link": "https://www.geo.tv/latest/673765-bts-normal-makes-k-pop-history-on-spotify"
+        "title": "Prince Harry takes decisive step to win back royals despite setback",
+        "link": "https://www.geo.tv/latest/673777-prince-harry-takes-decisive-step-to-win-back-royals-despite-setback"
       }
     ],
     "NDTV": [
       {
-        "title": "Amarnath, Vaishno Devi Yatras To Be Temporarily Suspended From July 19 Amid Weather Forecast",
-        "link": "https://www.ndtv.com/india-news/amarnath-vaishno-devi-yatras-to-be-temporarily-suspended-from-july-19-amid-weather-forecast-11789883#publisher=newsstand"
+        "title": "\"Illegal Detention\": Sonam Wangchuk's Wife Seeks Urgent High Court Hearing",
+        "link": "https://www.ndtv.com/india-news/sonam-wangchuks-wife-gitanjali-angmo-approaches-delhi-high-court-to-shift-him-to-private-hospital-11790727#publisher=newsstand"
       },
       {
-        "title": "'I'll Quit Within An Hour If You...': Abhishek Banerjee's Dare To Rebels",
-        "link": "https://www.ndtv.com/india-news/return-to-mamata-banerjee-ill-resign-abhishek-banerjees-dare-to-rebels-11789767#publisher=newsstand"
+        "title": "1 Dead, Vehicles Swept Away As Flash Floods Hit J&K's Rajouri",
+        "link": "https://www.ndtv.com/india-news/1-dead-vehicles-swept-away-as-flash-floods-hit-jammu-and-kashmirs-rajouri-11790854#publisher=newsstand"
       },
       {
-        "title": "\"No Evidence\": Allahabad High Court Acquits Man Convicted Of Murdering Wife, Sons",
-        "link": "https://www.ndtv.com/india-news/allahabad-high-court-acquits-man-convicted-of-murdering-wife-sons-no-evidence-11789593#publisher=newsstand"
+        "title": "Delayed Orders, Missing Gear: What Hindered Venezuela's Quake Response",
+        "link": "https://www.ndtv.com/world-news/delayed-orders-missing-gear-what-hindered-venezuelas-quake-response-11790804#publisher=newsstand"
       },
       {
-        "title": "Andrew Tate, His Brother Tristan Arrested In US Over Rape, Sex Trafficking Charges In UK",
-        "link": "https://www.ndtv.com/world-news/social-media-influencers-andrew-and-tristan-tate-arrested-in-miami-us-marshals-service-tells-ap-11790421#publisher=newsstand"
+        "title": "'School Fees Are Just The Beginning': The Hidden Cost Of Educating Children",
+        "link": "https://www.ndtv.com/india-news/child-education-school-fee-middle-class-urban-india-financial-burden-11783442#publisher=newsstand"
       },
       {
-        "title": "Skyroot's Vikram-1 Launch Highlights: \"Grand Success,\" Says Skyroot As Vikram-1 Successfully Releases Payload In Space",
-        "link": "https://www.ndtv.com/india-news/skyroot-vikram-1-launch-live-updates-indias-1st-private-orbital-rocket-historic-takeoff-today-pm-modi-vande-mataram-message-space-sector-11787076#publisher=newsstand"
+        "title": "US-Iran War News LIVE: US Says Latest Strikes Targeted Iran Guards Behind Jordan Attack",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+        "link": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election"
+      },
       {
         "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
         "link": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art"
@@ -195,12 +210,8 @@
       {
         "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
         "link": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged"
-      },
-      {
-        "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
-        "link": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus"
       }
     ]
   },
-  "last_updated": "2026-07-19 03:51 UTC"
+  "last_updated": "2026-07-19 06:20 UTC"
 }
