@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "US-Iran War News LIVE: India Issues Travel Advisory As US Strikes Iran For 8th Straight Day",
-      "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,19 +11,27 @@
         "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-        "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
+        "title": "US soldier killed and one injured after Iranian attack in Iraq",
+        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Tate brothers arrested in US as further UK charges take total to 59",
         "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US soldier killed and one injured after Iranian attack in Iraq",
-        "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+        "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Israeli ministers join march to Gaza to demand return of settlements",
+        "link": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss"
+      },
+      {
+        "title": "World Cup 2026: What are the extra time and penalty shootout rules?",
+        "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-what-are-the-extra-time-and-penalty-shootout-rules?traffic_source=rss"
+      },
       {
         "title": "What happened in the first half of the Spain vs Argentina World Cup final?",
         "link": "https://www.aljazeera.com/sports/2026/7/19/what-happened-in-the-first-half-of-the-spain-vs-argentina-world-cup-final?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Twin earthquakes strike Peru killing at least five",
         "link": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss"
-      },
-      {
-        "title": "The UK gets its seventh prime minister in 10 years",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss"
-      },
-      {
-        "title": "Five passengers found drifting days after boat sinks in Indonesia",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/five-passengers-found-drifting-days-after-boat-sinks-in-indonesia?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel committed 3,795 ceasefire violations in Gaza: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-committed-3795-ceasefire-violations-gaza-report"
+      },
+      {
         "title": "Qatar condemns Iranian attacks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-iranian-attacks"
       },
@@ -135,13 +133,13 @@
       {
         "title": "Israeli settlers injure elderly Palestinian man near Hebron",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-elderly-palestinian-man-near-hebron"
-      },
-      {
-        "title": "ICC’s Khan probe ‘reduced to political referendum’, Palestinian rights groups warn",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iccs-khan-probe-reduced-political-referendum-palestinian-rights-groups"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Why Andrew and Fergie may miss their moment in Eugenie's first photo",
+        "link": "https://www.geo.tv/latest/673873-why-andrew-and-fergie-may-miss-their-moment-in-eugenies-first-photo"
+      },
       {
         "title": "Crown Estate to pour two-thirds of future investment for King Charles",
         "link": "https://www.geo.tv/latest/673872-crown-estate-to-pour-two-thirds-of-future-investment-for-king-charles"
@@ -157,13 +155,13 @@
       {
         "title": "Prince William can't keep his hands off Princess Kate, fans ask more",
         "link": "https://www.geo.tv/latest/673867-prince-william-cant-keep-his-hands-off-princess-kate-fans-ask-more"
-      },
-      {
-        "title": "Jelly Roll opens up about emotional prison return after Bunnie Xo divorce",
-        "link": "https://www.geo.tv/latest/673865-jelly-roll-opens-up-about-emotional-prison-return-after-bunnie-xo-divorce"
       }
     ],
     "NDTV": [
+      {
+        "title": "Another American Soldier Killed In US-Iran War, Was Detonating Iranian Drone",
+        "link": "https://www.ndtv.com/world-news/another-american-soldier-killed-in-us-iran-war-was-detonating-iranian-drone-11793448#publisher=newsstand"
+      },
       {
         "title": "Sleeping Couple Falls From 4-Storey Roof in Delhi, Man Dies, Wife Critical",
         "link": "https://www.ndtv.com/india-news/sleeping-couple-falls-from-4-storey-roof-in-delhi-man-dies-wife-critical-11793263#publisher=newsstand"
@@ -179,10 +177,6 @@
       {
         "title": "Girl, 4, Kidnapped From Railway Station In Gujarat, Found Murdered",
         "link": "https://www.ndtv.com/india-news/girl-4-kidnapped-from-railway-station-in-gujarat-found-murdered-11793244#publisher=newsstand"
-      },
-      {
-        "title": "US-Iran War News LIVE: India Issues Travel Advisory As US Strikes Iran For 8th Straight Day",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-19 20:26 UTC"
+  "last_updated": "2026-07-19 21:24 UTC"
 }
