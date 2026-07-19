@@ -1,10 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "US-Iran War News LIVE: India Issues Travel Advisory As US Strikes Iran For 8th Straight Day",
+      "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Burnham to promise 'more breathing room' in first speech as PM",
+        "title": "Burnham to promise 'more breathing room' for people in first speech as PM",
         "link": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+        "link": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Russia launches major ballistic missile attack on Ukrainian cities",
@@ -17,32 +27,28 @@
       {
         "title": "US and Iran trade fire after two US soldiers killed in Jordan",
         "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Record numbers of honours for working class heroes",
-        "link": "https://www.bbc.co.uk/news/articles/cpd3dd3vv65o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "What happened to the Jewish left?",
-        "link": "https://www.aljazeera.com/video/upfront/2026/7/19/what-happened-to-the-jewish-left?traffic_source=rss"
+        "title": "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-light-up-nycs-little-argentina-ahead-of-spain-world-cup-final-clash?traffic_source=rss"
       },
       {
-        "title": "Iraqi-born singer Emmanuel Kelly among World Cup half-time show headliners",
-        "link": "https://www.aljazeera.com/sports/2026/7/19/iraqi-born-singer-emmanuel-kelly-among-world-cup-half-time-show-headliners?traffic_source=rss"
+        "title": "Trump visit causes logistical delays at World Cup final",
+        "link": "https://www.aljazeera.com/sports/2026/7/19/trump-visit-causes-logistical-delays-at-world-cup-final?traffic_source=rss"
       },
       {
-        "title": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
-        "link": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss"
+        "title": "The story behind Gaza’s #TheyLiedToYou campaign",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss"
       },
       {
-        "title": "Israeli settlers torch homes and mosque in Masafer Yatta",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss"
+        "title": "Lebanese food influencer sentenced to life for drug smuggling",
+        "link": "https://www.aljazeera.com/news/2026/7/19/lebanese-food-influencer-sentenced-to-life-for-drug-smuggling?traffic_source=rss"
       },
       {
-        "title": "5.6 magnitude earthquake hits Peru",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/5-6-magnitude-earthquake-hits-peru?traffic_source=rss"
+        "title": "‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides",
+        "link": "https://www.aljazeera.com/news/2026/7/19/sacred-unity-irans-supreme-leader-calls-for-calm-amid-political-divides?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,8 +80,8 @@
         "link": "https://www.dawn.com/news/2016755/security-forces-counter-unprovoked-firing-by-afghan-taliban-targeting-kurram-border-posts"
       },
       {
-        "title": "Canadian Foreign Minister Anita Anand to visit Pakistan tomorrow",
-        "link": "https://www.dawn.com/news/2016734/canadian-foreign-minister-anita-anand-to-visit-pakistan-tomorrow"
+        "title": "Canadian Foreign Minister Anita Anand to visit Pakistan on Monday",
+        "link": "https://www.dawn.com/news/2016734/canadian-foreign-minister-anita-anand-to-visit-pakistan-on-monday"
       },
       {
         "title": "Multan police book Javed Hashmi, his 3 sons-in-law for alleged power theft",
@@ -93,10 +99,6 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
-        "link": "https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html"
-      },
-      {
         "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
         "link": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html"
       },
@@ -111,9 +113,21 @@
       {
         "title": "Man Killed by Truck After ICE Encounter in Florida Was Visiting From Mexico",
         "link": "https://www.nytimes.com/2026/07/19/us/florida-ice-death-mexico-visit.html"
+      },
+      {
+        "title": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
+        "link": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli settlers injure elderly Palestinian man near Hebron",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-elderly-palestinian-man-near-hebron"
+      },
+      {
+        "title": "ICC’s Khan probe ‘reduced to political referendum’, Palestinian rights groups warn",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iccs-khan-probe-reduced-political-referendum-palestinian-rights-groups"
+      },
       {
         "title": "Iraqi PM to visit Tehran this week, Iraqi state news agency says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-pm-visit-tehran-week-iraqi-state-news-agency-says"
@@ -125,58 +139,50 @@
       {
         "title": "Jordan summons Iranian diplomat over 'unjustified' attacks, ministry says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-summons-iranian-diplomat-over-unjustified-attacks-ministry-says"
-      },
-      {
-        "title": "Rubio meets Lebanon's president, discusses Israel-Lebanon framework agreement",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-meets-lebanons-president-discusses-israel-lebanon-framework"
-      },
-      {
-        "title": "Iran accuses US of violating international law after strike on nuclear plant",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-us-violating-international-law-after-strike-nuclear-plant"
       }
     ],
     "GeoTV": [
       {
-        "title": "Why Cara Delevingne walked away from life in the UK",
-        "link": "https://www.geo.tv/latest/673853-why-cara-delevingne-walked-away-from-life-in-the-uk"
+        "title": "Why Sir Tim Laurence was missing from Princess Anne's Thailand engagements",
+        "link": "https://www.geo.tv/latest/673868-why-sir-tim-laurence-was-missing-from-princess-annes-thailand-engagements"
       },
       {
-        "title": "India bans march on parliament by 'Cockroach' activists, standoff looms",
-        "link": "https://www.geo.tv/latest/673857-india-bans-march-on-parliament-by-cockroach-activists-standoff-looms"
+        "title": "Selena Gomez shares new photo from Taylor Swift wedding weekend",
+        "link": "https://www.geo.tv/latest/673871-selena-gomez-shares-new-photo-from-taylor-swift-wedding-weekend"
       },
       {
-        "title": "Shakira celebrates huge milestone ahead of FIFA World Cup halftime show",
-        "link": "https://www.geo.tv/latest/673860-shakira-celebrates-huge-milestone-ahead-of-fifa-world-cup-halftime-show"
+        "title": "Prince William can't keep his hands off Princess Kate, fans ask more",
+        "link": "https://www.geo.tv/latest/673867-prince-william-cant-keep-his-hands-off-princess-kate-fans-ask-more"
       },
       {
-        "title": "The Cure's Robert Smith blasts World Cup halftime show in furious rant",
-        "link": "https://www.geo.tv/latest/673856-the-cures-robert-smith-blasts-world-cup-halftime-show-in-furious-rant"
+        "title": "Jelly Roll opens up about emotional prison return after Bunnie Xo divorce",
+        "link": "https://www.geo.tv/latest/673865-jelly-roll-opens-up-about-emotional-prison-return-after-bunnie-xo-divorce"
       },
       {
-        "title": "Why Victoria Beckham ditched Mel C's wedding celebrations",
-        "link": "https://www.geo.tv/latest/673849-why-victoria-beckham-ditched-mel-cs-wedding-celebrations"
+        "title": "Argentina make three changes for World Cup final, Spain name same team",
+        "link": "https://www.geo.tv/latest/673862-argentina-make-three-changes-for-world-cup-final-spain-name-same-team"
       }
     ],
     "NDTV": [
       {
-        "title": "675 Parks, 4 Ridge Zones, 6.62 Lakh Plants: Delhi's Monsoon Plantation Push",
-        "link": "https://www.ndtv.com/india-news/675-parks-4-ridge-zones-6-62-lakh-plants-delhis-monsoon-plantation-push-11793043#publisher=newsstand"
+        "title": "Sleeping Couple Falls From 4-Storey Roof in Delhi, Man Dies, Wife Critical",
+        "link": "https://www.ndtv.com/india-news/sleeping-couple-falls-from-4-storey-roof-in-delhi-man-dies-wife-critical-11793263#publisher=newsstand"
       },
       {
-        "title": "Large Gatherings Banned, Cops Geared Up: Delhi's Plan For Parliament March",
-        "link": "https://www.ndtv.com/delhi-news/large-gatherings-banned-in-central-delhi-ahead-of-planned-protest-march-11793012#publisher=newsstand"
+        "title": "Sirens, Strikes, Shattered Deal: Middle East On Edge As US, Iran Trade Blows",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-khamenei-trump-strait-of-hormuz-us-military-sirens-strikes-shattered-deal-middle-east-on-edge-as-us-iran-trade-blows-11792544#publisher=newsstand"
       },
       {
-        "title": "Couple, Son, Killed After Car Rams Their Motorcycle In Madhya Pradesh",
-        "link": "https://www.ndtv.com/india-news/couple-son-killed-after-car-rams-their-motorcycle-in-madhya-pradesh-11792907#publisher=newsstand"
+        "title": "Man Dies After Fan Falls On Him In Hospital, It Blames 'Medical Condition'",
+        "link": "https://www.ndtv.com/india-news/man-dies-after-fan-falls-on-him-in-hospital-it-blames-medical-condition-11793237#publisher=newsstand"
       },
       {
-        "title": "Karnataka Congress Restructuring To Begin Tomorrow: State Party Chief",
-        "link": "https://www.ndtv.com/india-news/karnataka-congress-restructuring-to-begin-tomorrow-state-party-chief-11792879#publisher=newsstand"
+        "title": "Girl, 4, Kidnapped From Railway Station In Gujarat, Found Murdered",
+        "link": "https://www.ndtv.com/india-news/girl-4-kidnapped-from-railway-station-in-gujarat-found-murdered-11793244#publisher=newsstand"
       },
       {
-        "title": "FIFA's Biggest-Ever World Cup Is Also Its Most Polluting: Studies",
-        "link": "https://www.ndtv.com/india-news/fifa-2026-world-cup-fifas-biggest-ever-world-cup-is-also-its-most-polluting-studies-11792835#publisher=newsstand"
+        "title": "US-Iran War News LIVE: India Issues Travel Advisory As US Strikes Iran For 8th Straight Day",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-19 18:11 UTC"
+  "last_updated": "2026-07-19 19:32 UTC"
 }
