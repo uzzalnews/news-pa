@@ -3,6 +3,14 @@
   "news": {
     "BBC": [
       {
+        "title": "Who's in the cabinet?",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Faisal Islam: The new PM has big ideas - but what will they cost?",
+        "link": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Burnham promises help with your money. How could it affect you?",
         "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss"
       },
@@ -13,36 +21,28 @@
       {
         "title": "Key takeaways as Andy Burnham becomes PM",
         "link": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
-        "link": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
-        "link": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Yemen’s Houthis declare naval blockade of Saudi Arabia: What to know",
-        "link": "https://www.aljazeera.com/news/2026/7/20/yemens-houthis-declare-naval-blockade-of-saudi-arabia-what-to-know?traffic_source=rss"
+        "title": "‘Now or never’: Students defy Delhi lockdown to march on India’s parliament",
+        "link": "https://www.aljazeera.com/news/2026/7/20/now-or-never-students-defy-delhi-lockdown-to-march-on-indias-parliament?traffic_source=rss"
       },
       {
-        "title": "Ebola death toll in DRC surges to at least 930 as outbreak gathers pace",
-        "link": "https://www.aljazeera.com/news/2026/7/20/ebola-death-toll-in-drc-surges-to-at-least-930-as-outbreak-gathers-pace?traffic_source=rss"
+        "title": "Petrol prices climb as US–Iran tensions disrupt markets",
+        "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss"
       },
       {
-        "title": "Andy Burnham pledges end to political instability as he becomes UK PM",
-        "link": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-pledges-end-to-political-instability-as-he-becomes-uk-pm?traffic_source=rss"
+        "title": "FIFA World Cup: Five key takeaways from 2026 edition won by Spain",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-world-cup-five-key-takeaways-from-2026-edition-won-by-spain?traffic_source=rss"
       },
       {
-        "title": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
-        "link": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss"
+        "title": "Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in US prison",
+        "link": "https://www.aljazeera.com/news/2026/7/20/mexican-drug-lord-ismael-el-mayo-zambada-sentenced-to-life-in-us-prison?traffic_source=rss"
       },
       {
-        "title": "What we know about US soldiers killed in Iran war, and Iranian casualties",
-        "link": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss"
+        "title": "Spain team arrives home after winning the World Cup",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/spain-team-arrives-home-after-winning-the-world-cup?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "Govt decreases petrol price by Rs0.35, increases diesel by Rs5.71 per litre",
+        "link": "https://www.dawn.com/news/2017065/govt-decreases-petrol-price-by-rs035-increases-diesel-by-rs571-per-litre"
+      },
+      {
         "title": "Iran’s Interior Minister Eskandar Momeni arrives in Pakistan",
         "link": "https://www.dawn.com/news/2017051/irans-interior-minister-eskandar-momeni-arrives-in-pakistan"
       },
@@ -78,16 +82,12 @@
         "link": "https://www.dawn.com/news/2017007/andy-burnham-becomes-uk-pm-says-britain-needs-to-regain-stability"
       },
       {
-        "title": "Canada eyes new avenues for trade, economic cooperation with Pakistan as FM Anand visits Islamabad",
-        "link": "https://www.dawn.com/news/2017004/canada-eyes-new-avenues-for-trade-economic-cooperation-with-pakistan-as-fm-anand-visits-islamabad"
-      },
-      {
         "title": "Wife’s right to dower remains protected if marriage dissolved due to husband’s misconduct: LHC",
         "link": "https://www.dawn.com/news/2017050/wifes-right-to-dower-remains-protected-if-marriage-dissolved-due-to-husbands-misconduct-lhc"
       },
       {
-        "title": "Iran says fighting 'full-scale war' with United States",
-        "link": "https://www.dawn.com/news/2016977/iran-says-fighting-full-scale-war-with-united-states"
+        "title": "Trump dismisses NY Mayor Mamdani's threat to arrest Netanyahu",
+        "link": "https://www.dawn.com/news/2017066/trump-dismisses-ny-mayor-mamdanis-threat-to-arrest-netanyahu"
       }
     ],
     "APNews": [],
@@ -97,86 +97,86 @@
         "link": "https://www.nytimes.com/2026/07/20/us/politics/troops-injured-jordan-iran-war.html"
       },
       {
-        "title": "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
-        "link": "https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html"
+        "title": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
+        "link": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html"
       },
       {
-        "title": "Pentagon Identifies 2 U.S. Soldiers Killed in Jordan",
+        "title": "Pentagon Identifies 2 U.S. Soldiers Killed in Jordan During Iran Strike",
         "link": "https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html"
       },
       {
-        "title": "U.S. Sought Phone Records of Times Journalists and Their Relatives",
-        "link": "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html"
+        "title": "How Google’s A.I. Search Is Imperiling the Open Web",
+        "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html"
       },
       {
-        "title": "Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’",
-        "link": "https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html"
+        "title": "A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store",
+        "link": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "US Centcom says its blockade redirected seven ships and disabled one",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-says-its-blockade-redirected-seven-ships-and-disabled-one"
+        "title": "US greenlights Saudi nuclear enrichment without safeguards: Report",
+        "link": "https://www.middleeasteye.net/news/us-greenlights-saudi-nuclear-enrichment-without-safeguards-report"
       },
       {
-        "title": "Khalil al-Hayya: Who is the political veteran chosen to steer Hamas forward",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/khalil-al-hayya-who-political-veteran-chosen-steer-hamas-forward"
+        "title": "Ed Miliband appointed as UK foreign minister, Shabana Mahmood as interior minister",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ed-miliband-appointed-uk-foreign-minister-shabana-mahmood-interior"
       },
       {
-        "title": "France warns of consequences after Iranian security services detain embassy staff",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/france-warns-consequences-after-iranian-security-services-detain-embassy"
+        "title": "Israel kills two in strike on Gaza hospital, one killed in targeting of electric bike",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-two-strike-gaza-hospital-one-killed-targeting-electric-bike"
       },
       {
-        "title": "Former UN oversight chief says ICC prosecutor Karim Khan is ‘victim of massive stitch-up’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-un-oversight-chief-says-icc-prosecutor-karim-khan-victim-massive"
+        "title": "Yemen's Houthis declare blockade on Saudi Arabia, raising Red Sea tensions",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-declare-blockade-saudi-arabia-raising-red-sea-tensions"
       },
       {
-        "title": "Iranian official reports US attack on Shiraz",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-reports-us-attack-shiraz"
+        "title": "Yemen's Houthis declare blockade on Saudi Arabia, raising Red Sea tensions",
+        "link": "https://www.middleeasteye.net/news/yemens-houthis-declare-blockade-saudi-arabia-rising-red-sea-tensions"
       }
     ],
     "GeoTV": [
       {
-        "title": "Iran's Interior Minister Eskandar Momeni lands in Pakistan",
-        "link": "https://www.geo.tv/latest/673999-irans-interior-minister-eskandar-momeni-arrives-in-pakistan"
+        "title": "Trump quietly adds controversial statues to White House Rose Garden: Here's everything to know",
+        "link": "https://www.geo.tv/latest/674014-trump-quietly-adds-controversial-statues-to-white-house-rose-garden-heres-everything-to-know"
       },
       {
-        "title": "26 Federal Plaza explosion: Full details on arrest, motive, investigation on ‘incendiary device'",
-        "link": "https://www.geo.tv/latest/673990-26-federal-plaza-explosion-full-details-on-arrest-motive-investigation-on-incendiary-device"
+        "title": "Royal family kicks off celebrations as World Cup heroes return",
+        "link": "https://www.geo.tv/latest/673993-royal-family-kicks-off-celebrations-as-world-cup-heroes-return"
       },
       {
-        "title": "King Charles steps inside Europe's first eco-mosque",
-        "link": "https://www.geo.tv/latest/673977-king-charles-steps-inside-europes-first-eco-mosque"
+        "title": "Justin Bieber leaves fans disappointed with 'undercooked' FIFA performance",
+        "link": "https://www.geo.tv/latest/674001-justin-bieber-sparks-polarising-reaction-with-fifa-halftime-show"
       },
       {
-        "title": "Kevin Keegan dies at 75: Look back at Liverpool legend's career",
-        "link": "https://www.geo.tv/latest/673987-kevin-keegan-dies-at-75-look-back-at-liverpool-legends-career"
+        "title": "Petroleum rates in Pakistan for July 21, 2026",
+        "link": "https://www.geo.tv/latest/673967-petroleum-rates-in-pakistan-today"
       },
       {
-        "title": "Tropical depression two forms in Gulf, expected to become Storm Bertha",
-        "link": "https://www.geo.tv/latest/673986-tropical-depression-two-forms-in-gulf-expected-to-become-storm-bertha"
+        "title": "United Airlines worker threatened to call ICE on Bay Area family at SFO, video shows",
+        "link": "https://www.geo.tv/latest/674012-united-airlines-worker-threatened-to-call-ice-on-bay-area-family-at-sfo-video-shows"
       }
     ],
     "NDTV": [
       {
-        "title": "4 Indians killed, one critical after attack on ship at Odesa port in Ukraine",
-        "link": "https://www.ndtv.com/world-news/4-indians-killed-one-critical-after-attack-on-ship-at-odesa-port-in-ukraine-11797397#publisher=newsstand"
+        "title": "All Workers Trapped In Sikkim Tunnel Rescued After Massive Operation",
+        "link": "https://www.ndtv.com/india-news/all-workers-trapped-in-sikkim-tunnel-rescued-after-massive-operation-11797915#publisher=newsstand"
       },
       {
-        "title": "Pak's \"Victim Card\" On Indus Waters Can't Change India's Decision: Sources",
-        "link": "https://www.ndtv.com/world-news/pakistan-victim-card-on-indus-waters-treaty-cannot-change-india-decision-say-sources-11797420#publisher=newsstand"
+        "title": "Court Refuses To Stay Probe Into 'Diversion' Of Rs 133.84 Crore By Trinamool",
+        "link": "https://www.ndtv.com/india-news/court-refuses-to-stay-probe-into-diversion-of-rs-133-84-crore-by-trinamool-11797891#publisher=newsstand"
       },
       {
-        "title": "Explained: Why Punjab's MGNREGA Protest Is A Political Test For AAP",
-        "link": "https://www.ndtv.com/india-news/explained-why-punjabs-mgnrega-protest-is-a-political-test-for-aap-11797380#publisher=newsstand"
+        "title": "Class 10 Student Attacks Teacher With Screwdriver In Haryana's Sirsa",
+        "link": "https://www.ndtv.com/india-news/class-10-student-attacks-teacher-with-screwdriver-in-haryanas-sirsa-11797876#publisher=newsstand"
       },
       {
-        "title": "Over 1.7 Lakh People Affected In Assam Floods, Army Launches 'Operation Jal Rahat'",
-        "link": "https://www.ndtv.com/india-news/over-1-7-lakh-people-affected-in-assam-floods-army-launches-operation-jal-rahat-11794575#publisher=newsstand"
+        "title": "No Decision On Ethanol Blending Beyond 20%: Minister In Rajya Sabha",
+        "link": "https://www.ndtv.com/india-news/no-decision-on-ethanol-blending-beyond-20-minister-in-rajya-sabha-11797814#publisher=newsstand"
       },
       {
-        "title": "60,000 People Duped Of Rs 100 Crore In Job Scam, 6 Arrested In UP",
-        "link": "https://www.ndtv.com/india-news/60-000-people-duped-of-rs-100-crore-in-job-scam-6-arrested-in-ups-kanpur-11797088#publisher=newsstand"
+        "title": "CJP Leaders Meet Union Minister JP Nadda, Submit Letter Of Demands",
+        "link": "https://www.ndtv.com/india-news/cjp-leaders-meet-union-minister-jp-nadda-amid-protest-in-delhi-11795858#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-20 16:23 UTC"
+  "last_updated": "2026-07-20 18:26 UTC"
 }
