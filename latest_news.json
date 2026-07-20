@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "CJP Parliament March LIVE Updates: \"Protests To Continue,\" Says CJP After Meeting With JP Nadda",
+      "link": "https://www.ndtv.com/india-news/cjp-protest-in-delhi-live-cockroach-janta-party-parliament-protest-abhijeet-dipke-jantar-mantar-sonam-wangchuk-parliament-monsoon-session-saurav-das-11794314#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -15,8 +21,8 @@
         "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham's policy choices reveal what kind of PM he wants to be",
-        "link": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo?at_medium=RSS&at_campaign=rss"
+        "title": "Chancellor Healey will be under pressure to deliver for armed forces",
+        "link": "https://www.bbc.co.uk/news/articles/cjej92vgxkvo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Key takeaways as Andy Burnham becomes PM",
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "‘Now or never’: Students defy Delhi lockdown to march on India’s parliament",
-        "link": "https://www.aljazeera.com/news/2026/7/20/now-or-never-students-defy-delhi-lockdown-to-march-on-indias-parliament?traffic_source=rss"
+        "title": "What does Khalil al-Hayya’s election win mean for Gaza?",
+        "link": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss"
       },
       {
-        "title": "Petrol prices climb as US–Iran tensions disrupt markets",
-        "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss"
+        "title": "Yemeni women support families through enterprise as economic crisis bites",
+        "link": "https://www.aljazeera.com/economy/2026/7/20/yemeni-women-support-families-through-enterprise-as-economic-crisis-bites?traffic_source=rss"
       },
       {
-        "title": "FIFA World Cup: Five key takeaways from 2026 edition won by Spain",
-        "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-world-cup-five-key-takeaways-from-2026-edition-won-by-spain?traffic_source=rss"
+        "title": "EU pauses methane penalties amid energy crisis, US pressure",
+        "link": "https://www.aljazeera.com/news/2026/7/20/eu-pauses-methane-penalties-amid-energy-crisis-us-pressure?traffic_source=rss"
       },
       {
-        "title": "Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in US prison",
-        "link": "https://www.aljazeera.com/news/2026/7/20/mexican-drug-lord-ismael-el-mayo-zambada-sentenced-to-life-in-us-prison?traffic_source=rss"
+        "title": "US judge orders pause on Paramount–Warner Bros merger",
+        "link": "https://www.aljazeera.com/economy/2026/7/20/us-judge-orders-pause-on-paramount-warner-bros?traffic_source=rss"
       },
       {
-        "title": "Spain team arrives home after winning the World Cup",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/spain-team-arrives-home-after-winning-the-world-cup?traffic_source=rss"
+        "title": "A tournament of contradictions: What did we learn at World Cup 2026?",
+        "link": "https://www.aljazeera.com/sports/2026/7/20/a-tournament-of-contradictions-what-did-we-learn-at-world-cup-2026?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,16 +88,20 @@
         "link": "https://www.dawn.com/news/2017007/andy-burnham-becomes-uk-pm-says-britain-needs-to-regain-stability"
       },
       {
-        "title": "Wife’s right to dower remains protected if marriage dissolved due to husband’s misconduct: LHC",
-        "link": "https://www.dawn.com/news/2017050/wifes-right-to-dower-remains-protected-if-marriage-dissolved-due-to-husbands-misconduct-lhc"
+        "title": "Chenab water level likely to surge following ongoing rains in Indian-occupied Kashmir, Punjab",
+        "link": "https://www.dawn.com/news/2017067/chenab-water-level-likely-to-surge-following-ongoing-rains-in-indian-occupied-kashmir-punjab"
       },
       {
-        "title": "Trump dismisses NY Mayor Mamdani's threat to arrest Netanyahu",
-        "link": "https://www.dawn.com/news/2017066/trump-dismisses-ny-mayor-mamdanis-threat-to-arrest-netanyahu"
+        "title": "Wife’s right to dower remains protected if marriage dissolved due to husband’s misconduct: LHC",
+        "link": "https://www.dawn.com/news/2017050/wifes-right-to-dower-remains-protected-if-marriage-dissolved-due-to-husbands-misconduct-lhc"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress",
+        "link": "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html"
+      },
       {
         "title": "Pentagon Withheld Dozens of U.S. Military Injuries in Iran War",
         "link": "https://www.nytimes.com/2026/07/20/us/politics/troops-injured-jordan-iran-war.html"
@@ -99,10 +109,6 @@
       {
         "title": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
         "link": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html"
-      },
-      {
-        "title": "Pentagon Identifies 2 U.S. Soldiers Killed in Jordan During Iran Strike",
-        "link": "https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html"
       },
       {
         "title": "How Google’s A.I. Search Is Imperiling the Open Web",
@@ -115,68 +121,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Jordan's armed forces said that they intercepted three Iranian missiles",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordans-armed-forces-said-they-intercepted-three-iranian-missiles"
+      },
+      {
+        "title": "Arab recognition of Israel rewards its relentless land theft",
+        "link": "https://www.middleeasteye.net/opinion/arab-recognition-israel-rewards-its-relentless-land-theft"
+      },
+      {
+        "title": "Sirens sound in Jordan’s Amman",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sirens-sound-jordans-amman"
+      },
+      {
         "title": "US greenlights Saudi nuclear enrichment without safeguards: Report",
         "link": "https://www.middleeasteye.net/news/us-greenlights-saudi-nuclear-enrichment-without-safeguards-report"
       },
       {
         "title": "Ed Miliband appointed as UK foreign minister, Shabana Mahmood as interior minister",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ed-miliband-appointed-uk-foreign-minister-shabana-mahmood-interior"
-      },
-      {
-        "title": "Israel kills two in strike on Gaza hospital, one killed in targeting of electric bike",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-two-strike-gaza-hospital-one-killed-targeting-electric-bike"
-      },
-      {
-        "title": "Yemen's Houthis declare blockade on Saudi Arabia, raising Red Sea tensions",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-declare-blockade-saudi-arabia-raising-red-sea-tensions"
-      },
-      {
-        "title": "Yemen's Houthis declare blockade on Saudi Arabia, raising Red Sea tensions",
-        "link": "https://www.middleeasteye.net/news/yemens-houthis-declare-blockade-saudi-arabia-rising-red-sea-tensions"
       }
     ],
     "GeoTV": [
       {
-        "title": "Trump quietly adds controversial statues to White House Rose Garden: Here's everything to know",
-        "link": "https://www.geo.tv/latest/674014-trump-quietly-adds-controversial-statues-to-white-house-rose-garden-heres-everything-to-know"
+        "title": "Trump fires back after Mamdani said he may arrest Netanyahu",
+        "link": "https://www.geo.tv/latest/674026-trump-fires-back-after-mamdani-said-he-may-arrest-netanyahu"
       },
       {
-        "title": "Royal family kicks off celebrations as World Cup heroes return",
-        "link": "https://www.geo.tv/latest/673993-royal-family-kicks-off-celebrations-as-world-cup-heroes-return"
+        "title": "GE Aerospace flies hybrid-electric plane above 30,000 feet in historic first",
+        "link": "https://www.geo.tv/latest/674020-ge-aerospace-flies-hybrid-electric-plane-above-30000-feet-in-historic-first"
       },
       {
-        "title": "Justin Bieber leaves fans disappointed with 'undercooked' FIFA performance",
-        "link": "https://www.geo.tv/latest/674001-justin-bieber-sparks-polarising-reaction-with-fifa-halftime-show"
+        "title": "Mara Wilson says 'Matilda' sequel is 'possible' but there are 'some issues'",
+        "link": "https://www.geo.tv/latest/674023-mara-wilson-says-matilda-sequel-is-possible-but-there-are-some-issues"
       },
       {
-        "title": "Petroleum rates in Pakistan for July 21, 2026",
-        "link": "https://www.geo.tv/latest/673967-petroleum-rates-in-pakistan-today"
+        "title": "Trump revived public benefits rule for green card: Here's everything to know",
+        "link": "https://www.geo.tv/latest/674019-trump-revived-public-benefits-rule-for-green-card-heres-everything-to-know"
       },
       {
-        "title": "United Airlines worker threatened to call ICE on Bay Area family at SFO, video shows",
-        "link": "https://www.geo.tv/latest/674012-united-airlines-worker-threatened-to-call-ice-on-bay-area-family-at-sfo-video-shows"
+        "title": "King Charles opens £58 million Cambridge Whittle Laboratory",
+        "link": "https://www.geo.tv/latest/674016-king-charles-opens-58-million-cambridge-whittle-laboratory"
       }
     ],
     "NDTV": [
       {
-        "title": "All Workers Trapped In Sikkim Tunnel Rescued After Massive Operation",
-        "link": "https://www.ndtv.com/india-news/all-workers-trapped-in-sikkim-tunnel-rescued-after-massive-operation-11797915#publisher=newsstand"
+        "title": "20 Killed, 100 Missing In Afghanistan Flooding",
+        "link": "https://www.ndtv.com/world-news/20-killed-100-missing-in-afghanistan-flooding-11798219#publisher=newsstand"
       },
       {
-        "title": "Court Refuses To Stay Probe Into 'Diversion' Of Rs 133.84 Crore By Trinamool",
-        "link": "https://www.ndtv.com/india-news/court-refuses-to-stay-probe-into-diversion-of-rs-133-84-crore-by-trinamool-11797891#publisher=newsstand"
+        "title": "Netanyahu Won't Be Arrested In Any Shape Or Form: Trump After Mamdani Threat",
+        "link": "https://www.ndtv.com/world-news/netanyahu-wont-be-arrested-in-any-shape-or-form-trump-after-mamdani-threat-11798218#publisher=newsstand"
       },
       {
-        "title": "Class 10 Student Attacks Teacher With Screwdriver In Haryana's Sirsa",
-        "link": "https://www.ndtv.com/india-news/class-10-student-attacks-teacher-with-screwdriver-in-haryanas-sirsa-11797876#publisher=newsstand"
+        "title": "CJP Parliament March LIVE Updates: \"Protests To Continue,\" Says CJP After Meeting With JP Nadda",
+        "link": "https://www.ndtv.com/india-news/cjp-protest-in-delhi-live-cockroach-janta-party-parliament-protest-abhijeet-dipke-jantar-mantar-sonam-wangchuk-parliament-monsoon-session-saurav-das-11794314#publisher=newsstand"
       },
       {
-        "title": "No Decision On Ethanol Blending Beyond 20%: Minister In Rajya Sabha",
-        "link": "https://www.ndtv.com/india-news/no-decision-on-ethanol-blending-beyond-20-minister-in-rajya-sabha-11797814#publisher=newsstand"
+        "title": "1 Killed, Several Trapped In Sikkim Tunnel After Landslide Triggers Gas Leak",
+        "link": "https://www.ndtv.com/india-news/27-feared-trapped-in-sikkim-tunnel-after-landslide-triggers-gas-leak-11798079#publisher=newsstand"
       },
       {
-        "title": "CJP Leaders Meet Union Minister JP Nadda, Submit Letter Of Demands",
-        "link": "https://www.ndtv.com/india-news/cjp-leaders-meet-union-minister-jp-nadda-amid-protest-in-delhi-11795858#publisher=newsstand"
+        "title": "Trainee IPS Officer Accused Of Sexual Harassment Attempts Suicide",
+        "link": "https://www.ndtv.com/india-news/trainee-ips-officer-accused-of-sexual-harassment-attempts-suicide-11798201#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-20 18:26 UTC"
+  "last_updated": "2026-07-20 20:07 UTC"
 }
