@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Open Flat Amid US-Iran Tensions",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-21-july-us-iran-war-oil-prices-11798751#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,12 +13,8 @@
         "link": "https://www.bbc.co.uk/news/articles/cvg9w2e29eno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Man, 28, charged with murder of Ann Widdecombe",
-        "link": "https://www.bbc.co.uk/news/articles/cn4n2erympvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Kevin Keegan, Liverpool footballer who managed England and Newcastle United, dies aged 75",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss"
+        "title": "Who's in Andy Burnham's cabinet?",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
@@ -21,28 +23,32 @@
       {
         "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
         "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man, 28, charged with murder of Ann Widdecombe",
+        "link": "https://www.bbc.co.uk/news/articles/cn4n2erympvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
-        "link": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss"
+        "title": "China and Philippines trade accusations after sailor injured at sea",
+        "link": "https://www.aljazeera.com/news/2026/7/21/china-and-philippines-trade-accusations-after-sailor-injured-at-sea?traffic_source=rss"
       },
       {
-        "title": "US attacks Iran for 10th consecutive night",
-        "link": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss"
+        "title": "Lebanese return to ‘pilot zone’ villages they say Israel never occupied",
+        "link": "https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss"
       },
       {
-        "title": "Iran war live: US launches 10th night of strikes; Tehran attacks Kuwait",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss"
+        "title": "Spain’s World Cup heroes welcomed by millions in Madrid",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss"
       },
       {
-        "title": "MSF demands Israel release detained Palestinian healthcare workers",
-        "link": "https://www.aljazeera.com/news/2026/7/20/msf-demands-israel-release-detained-palestinian-healthcare-workers?traffic_source=rss"
+        "title": "US military releases footage of tenth consecutive night of strikes on Iran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss"
       },
       {
-        "title": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
-        "link": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss"
+        "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?",
+        "link": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,28 +76,36 @@
     ],
     "Dawn": [
       {
+        "title": "FIA sets up cryptocurrency investigation unit",
+        "link": "https://www.dawn.com/news/2017177/fia-sets-up-cryptocurrency-investigation-unit"
+      },
+      {
+        "title": "Araghchi identifies peace, security as key goals in relations with Islamabad",
+        "link": "https://www.dawn.com/news/2017147/araghchi-identifies-peace-security-as-key-goals-in-relations-with-islamabad"
+      },
+      {
+        "title": "Pakistan State Oil to be sole diesel importer in FY27",
+        "link": "https://www.dawn.com/news/2017158/pakistan-state-oil-to-be-sole-diesel-importer-in-fy27"
+      },
+      {
         "title": "Govt decreases petrol price by Rs0.35, increases diesel by Rs5.71 per litre",
         "link": "https://www.dawn.com/news/2017065/govt-decreases-petrol-price-by-rs035-increases-diesel-by-rs571-per-litre"
       },
       {
-        "title": "Iran’s Interior Minister Eskandar Momeni arrives in Pakistan",
-        "link": "https://www.dawn.com/news/2017051/irans-interior-minister-eskandar-momeni-arrives-in-pakistan"
-      },
-      {
-        "title": "Andy Burnham becomes UK PM, says Britain needs to 'regain stability'",
-        "link": "https://www.dawn.com/news/2017007/andy-burnham-becomes-uk-pm-says-britain-needs-to-regain-stability"
-      },
-      {
-        "title": "Chenab water level likely to surge following ongoing rains in Indian-occupied Kashmir, Punjab",
-        "link": "https://www.dawn.com/news/2017067/chenab-water-level-likely-to-surge-following-ongoing-rains-in-indian-occupied-kashmir-punjab"
-      },
-      {
-        "title": "Wife’s right to dower remains protected if marriage dissolved due to husband’s misconduct: LHC",
-        "link": "https://www.dawn.com/news/2017050/wifes-right-to-dower-remains-protected-if-marriage-dissolved-due-to-husbands-misconduct-lhc"
+        "title": "Better ties vital for Pak-India-China prosperity: ex-FM Khurshid Mahmud Kasuri",
+        "link": "https://www.dawn.com/news/2017164/better-ties-vital-for-pak-india-china-prosperity-ex-fm-khurshid-mahmud-kasuri"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Inside Andy Burnham’s 1st Day as U.K. Prime Minister",
+        "link": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html"
+      },
+      {
+        "title": "Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official",
+        "link": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html"
+      },
       {
         "title": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress",
         "link": "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html"
@@ -103,80 +117,72 @@
       {
         "title": "Trump Orders a 50% Tariff on Many Canadian Goods",
         "link": "https://www.nytimes.com/2026/07/20/briefing/trump-canada-tariffs-britain-new-leader.html"
-      },
-      {
-        "title": "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’",
-        "link": "https://www.nytimes.com/2026/07/20/us/politics/new-air-force-one-upgrades.html"
-      },
-      {
-        "title": "Trump Administration Sought Phone Records of Times Journalists and Their Relatives",
-        "link": "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran's Araghchi congratulates Khalil al-Hayya as new head of Hamas' political bureau",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-congratulates-khalil-al-hayya-new-head-hamas-political"
+        "title": "Iran says it targeted several key US army assets in Kuwait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-targeted-several-key-army-assets-kuwait"
       },
       {
-        "title": "Tanker hit off the coast of Oman, UK maritime agency says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-coast-oman-uk-maritime-agency-says"
+        "title": "US urges citizens 'exercise increased caution' amid Middle East conflict",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-urges-citizens-exercise-increased-caution-amid-middle-east-conflict"
       },
       {
-        "title": "Watch: Hamas elects Khalil al-Hayya as head of its political bureau",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-hamas-elects-khalil-al-hayya-head-its-political-bureau"
+        "title": "US hits civilian area in Iran's Abdanan, state media reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-hits-civilian-area-irans-abdanan-state-media-reports"
       },
       {
-        "title": "UN concerned about Houthi Red Sea naval blockade threats",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-concerned-about-houthi-red-sea-naval-blockade-threats"
+        "title": "IRGC targets more US army infrastructure in Kuwait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-targets-more-us-army-infrastructure-kuwait"
       },
       {
-        "title": "Reports of more explosions in Iran's Bandar Abbas",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/reports-more-explosions-irans-bandar-abbas"
+        "title": "IRGC says two tankers caught on fire after blasts while passing through Hormuz Strait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-two-tankers-caught-fire-after-blasts-while-passing-through"
       }
     ],
     "GeoTV": [
       {
+        "title": "Oil prices dip as mediation efforts offset US-Iran strikes",
+        "link": "https://www.geo.tv/latest/674044-oil-prices-dip-as-mediation-efforts-offset-us-iran-strikes"
+      },
+      {
+        "title": "Ryan Reynolds shares great news for ‘Deadpool' fans",
+        "link": "https://www.geo.tv/latest/674043-ryan-reynolds-shares-great-news-for-deadpool-fans"
+      },
+      {
+        "title": "Sharon Stone opens up about defeating ‘frigging' drug addiction",
+        "link": "https://www.geo.tv/latest/674041-sharon-stone-opens-up-about-defeating-frigging-drug-addiction"
+      },
+      {
+        "title": "Daughter teases reason behind Bunnie Xo, Jelly Roll divorce",
+        "link": "https://www.geo.tv/latest/674040-daughter-teases-reason-behind-bunnie-xo-jelly-roll-divorce"
+      },
+      {
         "title": "Kevin Feige expresses feelings over snubbed ‘Blade' movie",
         "link": "https://www.geo.tv/latest/674036-kevin-feige-expresses-feelings-over-snubbed-blade-movie"
-      },
-      {
-        "title": "Travis Kelce's team teases players NFL retirement",
-        "link": "https://www.geo.tv/latest/674028-travis-kelces-team-teases-players-nfl-retirement"
-      },
-      {
-        "title": "Chloe Fineman gets back to work after ‘Saturday Night Live' exit",
-        "link": "https://www.geo.tv/latest/674024-chloe-fineman-gets-back-to-work-after-saturday-night-live-exit"
-      },
-      {
-        "title": "AI company Hugging Face faces cyberattack carried out by an AI agent: AI vs AI?",
-        "link": "https://www.geo.tv/latest/674027-ai-company-hugging-face-faces-cyberattack-carried-out-by-an-ai-agent-ai-vs-ai"
-      },
-      {
-        "title": "Trump fires back after Mamdani said he may arrest Netanyahu",
-        "link": "https://www.geo.tv/latest/674026-trump-fires-back-after-mamdani-said-he-may-arrest-netanyahu"
       }
     ],
     "NDTV": [
       {
-        "title": "US Slams \"Dangerous\" China Action In Sea Clash With Philippines Navy",
-        "link": "https://www.ndtv.com/world-news/us-slams-dangerous-china-action-in-sea-clash-with-philippines-navy-11798573#publisher=newsstand"
+        "title": "FBI Issues 'Wanted' Notice Against Indian National In Drug Trafficking Case",
+        "link": "https://www.ndtv.com/world-news/harmanveer-singh-fbi-issues-wanted-notice-against-indian-national-in-drug-trafficking-case-11798819#publisher=newsstand"
       },
       {
-        "title": "27 Dead, 83 Missing From Capsised Guyana Ferry",
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Open Flat Amid US-Iran Tensions",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-21-july-us-iran-war-oil-prices-11798751#publisher=newsstand"
+      },
+      {
+        "title": "Indian Man Jailed For Attempted Theft Of Diamond Worth $1,54,000 In Singapore",
+        "link": "https://www.ndtv.com/world-news/indian-man-sentenced-to-jail-for-counterfeit-diamond-theft-at-singapore-jewellery-store-11798822#publisher=newsstand"
+      },
+      {
+        "title": "US-Iran War Highlights: US Conducts Strikes On Iran For 9th Straight Night After Another Soldier Killed",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-news-live-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-middle-east-conflict-11783939#publisher=newsstand"
+      },
+      {
+        "title": "27 Dead, 83 Missing As Ferry Overturns Off Guyana Coast",
         "link": "https://www.ndtv.com/world-news/27-dead-83-missing-from-capsised-guyana-ferry-11798556#publisher=newsstand"
-      },
-      {
-        "title": "Missiles Hit US Base In Kuwait As Iran Declares \"Full-Scale War\"",
-        "link": "https://www.ndtv.com/world-news/missiles-hit-us-base-in-kuwait-as-iran-declares-full-scale-war-11798542#publisher=newsstand"
-      },
-      {
-        "title": "Wes Streeting Named New UK Defence Minister",
-        "link": "https://www.ndtv.com/world-news/wes-streeting-named-new-uk-defence-minister-11798511#publisher=newsstand"
-      },
-      {
-        "title": "118 Cops Injured, 70 Detained After CJP Protest Turns Violent In Delhi",
-        "link": "https://www.ndtv.com/world-news/118-cops-injured-70-detained-after-cjp-protest-turns-violent-in-delhi-11798494#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-21 01:02 UTC"
+  "last_updated": "2026-07-21 04:25 UTC"
 }
