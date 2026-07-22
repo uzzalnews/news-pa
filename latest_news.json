@@ -1,7 +1,21 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Lower As Oil Advances Amid US-Iran Tensions",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-22-july-us-iran-war-oil-prices-11803911#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Burnham pulls back on suggestion to increase income tax allowance",
+        "link": "https://www.bbc.co.uk/news/articles/c935g67wyvgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+        "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Zelensky sacks Ukraine's top army commander after days of protests",
         "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
@@ -11,38 +25,30 @@
         "link": "https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham tells cabinet to tackle living costs at first meeting",
-        "link": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-        "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "More young women in their 20s are getting type 2 diabetes",
         "link": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss"
+        "title": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss"
       },
       {
-        "title": "US strikes Iran for ’11th consecutive night’",
-        "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss"
+        "title": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
+        "link": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss"
       },
       {
-        "title": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
-        "link": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss"
+        "title": "More than 140 dead, missing on refugee boat stranded off Mauritania",
+        "link": "https://www.aljazeera.com/news/2026/7/22/more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania?traffic_source=rss"
       },
       {
-        "title": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
-        "link": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss"
+        "title": "France becomes first EU country to officially ban social media for children",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/france-becomes-first-eu-country-to-officially-ban-social-media-for-children?traffic_source=rss"
       },
       {
-        "title": "Moldova chooses new prime minister as it pushes for EU membership",
-        "link": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss"
+        "title": "How armed group alliances are reshaping Mali’s conflict and the wider Sahel",
+        "link": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,113 +76,113 @@
     ],
     "Dawn": [
       {
-        "title": "Petrol pump owners announce nationwide strike after talks over daily pricing fail",
-        "link": "https://www.dawn.com/news/2017314/petrol-pump-owners-announce-nationwide-strike-after-talks-over-daily-pricing-fail"
+        "title": "Aurangzeb seeks $10bn support facility from US",
+        "link": "https://www.dawn.com/news/2017402/aurangzeb-seeks-10bn-support-facility-from-us"
+      },
+      {
+        "title": "India scrutiny fuels US push to criminalise foreign repression",
+        "link": "https://www.dawn.com/news/2017401/india-scrutiny-fuels-us-push-to-criminalise-foreign-repression"
+      },
+      {
+        "title": "'He is a war criminal': Mamdani says NY cannot arrest Netanyahu on ICC warrant, urges US federal officials to step in",
+        "link": "https://www.dawn.com/news/2017473/he-is-a-war-criminal-mamdani-says-ny-cannot-arrest-netanyahu-on-icc-warrant-urges-us-federal-officials-to-step-in"
+      },
+      {
+        "title": "Senate panel concerned over diversion of flood rehabilitation funds in KP",
+        "link": "https://www.dawn.com/news/2017399/senate-panel-concerned-over-diversion-of-flood-rehabilitation-funds-in-kp"
       },
       {
         "title": "Govt increases petrol price by Rs4.93, diesel by Rs7.15 per litre",
         "link": "https://www.dawn.com/news/2017311/govt-increases-petrol-price-by-rs493-diesel-by-rs715-per-litre"
-      },
-      {
-        "title": "Iranian interior minister meets PM Shehbaz, CDF Munir in Islamabad",
-        "link": "https://www.dawn.com/news/2017273/iranian-interior-minister-meets-pm-shehbaz-cdf-munir-in-islamabad"
-      },
-      {
-        "title": "PML-N supremo Nawaz kicks off party's election campaign in AJK",
-        "link": "https://www.dawn.com/news/2017265/pml-n-supremo-nawaz-kicks-off-partys-election-campaign-in-ajk"
-      },
-      {
-        "title": "French parliament backs social media ban for under-15s",
-        "link": "https://www.dawn.com/news/2017321/french-parliament-backs-social-media-ban-for-under-15s"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel",
+        "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html"
+      },
+      {
         "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
         "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
       },
       {
-        "title": "Zelensky Removes Ukraine’s Top General",
-        "link": "https://www.nytimes.com/2026/07/21/briefing/zelensky-removes-top-general.html"
+        "title": "Hegseth Estimates Iran War Has Cost $37.5 Billion",
+        "link": "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html"
+      },
+      {
+        "title": "Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him",
+        "link": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html"
       },
       {
         "title": "Zelensky Dismisses Ukraine’s Top General After Protests",
         "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html"
-      },
-      {
-        "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
-        "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html"
-      },
-      {
-        "title": "Trump Officials Withhold $1 Billion in Medicaid Funds From California and Minnesota Over Suspected Fraud",
-        "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Centcom announces completing 11th night of strikes against Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-announces-completing-11th-night-strikes-against-iran"
+        "title": "Mamdani calls Netanyahu a 'war criminal', urges US enforce ICC arrest warrant",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/mamdani-calls-netanyahu-war-criminal-urges-us-enforce-icc-arrest-warrant"
       },
       {
-        "title": "More US attacks reported in Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-us-attacks-reported-iran"
+        "title": "US soldier missing in Jordan likely killed in Iranian attack",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-soldier-missing-jordan-likely-killed-iranian-attack"
       },
       {
-        "title": "Centcom launches attacks against Iran, several blasts reported in Tabriz, Sirik",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-launches-attacks-against-iran-several-blasts-reported-tabriz"
+        "title": "Iran attacks US targets in Kuwait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-attacks-us-targets-kuwait"
       },
       {
-        "title": "Watch: Iran war cost the US $37.5bn so far, Hegseth says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-iran-war-cost-us-375bn-so-far-hegseth-says"
+        "title": "Iranian control of Hormus Strait Rubio sets 'dangerous precedent', Rubio warns",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-control-hormus-strait-rubio-sets-dangerous-precedent-rubio-warns"
       },
       {
-        "title": "'This will be your legacy': Aoun seeks financing for Lebanon, pressure on Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/will-be-your-legacy-aoun-seeks-financing-lebanon-pressure-israel"
+        "title": "Rubio says US open to talks on Middle East conflict, but Iran not serious",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-us-open-talks-middle-east-conflict-iran-not-serious"
       }
     ],
     "GeoTV": [
       {
-        "title": "Olivia Rodrigo fuels new romance rumours",
-        "link": "https://www.geo.tv/latest/674192-olivia-rodrigo-dating"
+        "title": "War against Iran has cost US $37.5bn so far",
+        "link": "https://www.geo.tv/latest/674199-war-against-iran-has-cost-us-375bn-so-far"
       },
       {
-        "title": "Italian restaurant gushes over Selena Gomez, Benny Blanco",
-        "link": "https://www.geo.tv/latest/674190-italian-restaurant-gushes-over-selena-gomez-benny-blanco"
+        "title": "Mamdani says New York can't arrest 'war criminal' Netanyahu on ICC warrant",
+        "link": "https://www.geo.tv/latest/674198-mamdani-says-new-york-cant-arrest-war-criminal-netanyahu-on-icc-warrant"
       },
       {
-        "title": "Millie Bobby Brown's 'devastated' over co-star Kaylee Hottle's death",
-        "link": "https://www.geo.tv/latest/674189-millie-bobby-browns-devastated-over-co-star-kaylee-hottles-death"
+        "title": "Oil prices rise slightly after US announces new round of strikes on Iran",
+        "link": "https://www.geo.tv/latest/674196-oil-prices-rise-slightly-after-us-announces-new-round-of-strikes-on-iran"
       },
       {
-        "title": "Marc Anthony embraces fatherhood eighth time",
-        "link": "https://www.geo.tv/latest/674187-marc-anthony-embraces-fatherhood-eighth-time"
+        "title": "Netflix calls back Jennifer Garner, Judy Greer for 13 Going on 30 reboot",
+        "link": "https://www.geo.tv/latest/674194-netflix-calls-back-jennifer-garner-judy-greer-for-13-going-on-30-reboot"
       },
       {
-        "title": "Prince Harry's new mission hits fresh headwinds over hypocrisy debate",
-        "link": "https://www.geo.tv/latest/674177-prince-harrys-new-mission-hits-fresh-headwinds-over-hypocrisy-debate"
+        "title": "Jennifer Garner share how crazy is the paparazzi",
+        "link": "https://www.geo.tv/latest/674193-jennifer-garner-share-how-crazy-is-the-paparazzi"
       }
     ],
     "NDTV": [
       {
-        "title": "US Military Launches 11th Consecutive Night Of Strikes On Iran",
-        "link": "https://www.ndtv.com/world-news/us-military-launches-11th-consecutive-night-of-strikes-on-iran-11803634#publisher=newsstand"
+        "title": "\"Why Go To Protest When I Could Study, Improve My Score\": NEET All India Rank 2 To NDTV",
+        "link": "https://www.ndtv.com/india-news/neet-ug-2026-why-go-to-protest-when-i-could-study-improve-my-score-neet-topper-to-ndtv-11803098#publisher=newsstand"
       },
       {
-        "title": "Trump Says Imported Generic Drugs To Face 100% Tariff From August 2028",
-        "link": "https://www.ndtv.com/world-news/donald-trump-says-imported-generic-drugs-to-face-100-tariff-from-august-2028-11803611#publisher=newsstand"
+        "title": "High-Speed Chase, Several Dents: Telangana Man Steals Bus, Gets Caught",
+        "link": "https://www.ndtv.com/telangana-news/high-speed-chase-several-dents-telangana-man-steals-bus-gets-caught-11803963#publisher=newsstand"
       },
       {
-        "title": "40 People Kidnapped By Nigerian Gang: Report",
-        "link": "https://www.ndtv.com/world-news/40-people-kidnapped-by-nigerian-gang-report-11803600#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Lower As Oil Advances Amid US-Iran Tensions",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-22-july-us-iran-war-oil-prices-11803911#publisher=newsstand"
       },
       {
-        "title": "3 Of Hyderabad Family Die In Road Accident In US",
-        "link": "https://www.ndtv.com/world-news/3-of-hyderabad-family-die-in-road-accident-in-us-11803575#publisher=newsstand"
+        "title": "\"Won't Forget\": China Thanks India For Rescuing Crew From Fire-Stricken Tanker",
+        "link": "https://www.ndtv.com/world-news/chinas-pla-attache-thanks-india-navy-for-kerala-cargo-ship-crew-rescue-seeks-deeper-military-ties-11803777#publisher=newsstand"
       },
       {
-        "title": "Trump Vows To Help Lebanon Pursue Peace With Israel",
-        "link": "https://www.ndtv.com/world-news/donald-trump-vows-to-help-lebanon-pursue-peace-with-israel-11803570#publisher=newsstand"
+        "title": "Parliament Monsoon Session Live Updates: Parliament Set To Resume Today Amid Deadlock Over CJP Protest Crackdown",
+        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-parliament-set-to-resume-today-amid-continued-deadlock-over-neet-cjp-protest-crackdown-dharmendra-pradhan-11803896#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-22 01:07 UTC"
+  "last_updated": "2026-07-22 04:32 UTC"
 }
