@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+        "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Ann Widdecombe was hit on head 21 times with hammer, prosecutors say",
         "link": "https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&at_campaign=rss"
       },
@@ -11,19 +15,23 @@
         "link": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Sackings, cabinet surprises and policies: Burnham's first 24 hours as PM",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjz907pppo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-        "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Iran war has cost US $37.5bn so far, Hegseth says",
+        "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
         "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "More young women in their 20s are getting type 2 diabetes",
+        "link": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss"
+      },
+      {
+        "title": "US strikes Iran for ’11th consecutive night’",
+        "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss"
+      },
       {
         "title": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
         "link": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Moldova chooses new prime minister as it pushes for EU membership",
         "link": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss"
-      },
-      {
-        "title": "Zelenskyy replaces Ukraine military chief after protests",
-        "link": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss"
-      },
-      {
-        "title": "Drone shows scorched landscape after Spain wildfire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,16 +93,8 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Houthis Threaten Red Sea Blockade, Putting Oil Market at Greater Risk",
-        "link": "https://www.nytimes.com/2026/07/21/business/oil-red-sea-houthis.html"
-      },
-      {
-        "title": "Water Plants Under Fire in the Gulf Are Crucial to Civilians",
-        "link": "https://www.nytimes.com/2026/07/21/world/middleeast/desalination-water-middle-east.html"
-      },
-      {
-        "title": "What to Know About Iran’s Pickaxe Mountain",
-        "link": "https://www.nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html"
+        "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
+        "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html"
       },
       {
         "title": "Zelensky Removes Ukraine’s Top General",
@@ -111,9 +103,29 @@
       {
         "title": "Zelensky Dismisses Ukraine’s Top General After Protests",
         "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html"
+      },
+      {
+        "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
+        "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html"
+      },
+      {
+        "title": "Trump Officials Withhold $1 Billion in Medicaid Funds From California and Minnesota Over Suspected Fraud",
+        "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Centcom announces completing 11th night of strikes against Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-announces-completing-11th-night-strikes-against-iran"
+      },
+      {
+        "title": "More US attacks reported in Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-us-attacks-reported-iran"
+      },
+      {
+        "title": "Centcom launches attacks against Iran, several blasts reported in Tabriz, Sirik",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-launches-attacks-against-iran-several-blasts-reported-tabriz"
+      },
       {
         "title": "Watch: Iran war cost the US $37.5bn so far, Hegseth says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-iran-war-cost-us-375bn-so-far-hegseth-says"
@@ -121,21 +133,13 @@
       {
         "title": "'This will be your legacy': Aoun seeks financing for Lebanon, pressure on Israel",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/will-be-your-legacy-aoun-seeks-financing-lebanon-pressure-israel"
-      },
-      {
-        "title": "Kuwaiti army says it is intercepting Iranian drones",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaiti-army-says-it-intercepting-iranian-drones"
-      },
-      {
-        "title": "'This will be your legacy': Aoun seeks financing for Lebanon, pressure on Israel",
-        "link": "https://www.middleeasteye.net/news/aoun-visits-trump-seeking-military-financing-and-pressure-israel"
-      },
-      {
-        "title": "Lebanon president says he insisted on 'full Israeli withdrawal' in Trump talks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-president-says-he-insisted-full-israeli-withdrawal-trump-talks"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Olivia Rodrigo fuels new romance rumours",
+        "link": "https://www.geo.tv/latest/674192-olivia-rodrigo-dating"
+      },
       {
         "title": "Italian restaurant gushes over Selena Gomez, Benny Blanco",
         "link": "https://www.geo.tv/latest/674190-italian-restaurant-gushes-over-selena-gomez-benny-blanco"
@@ -151,13 +155,21 @@
       {
         "title": "Prince Harry's new mission hits fresh headwinds over hypocrisy debate",
         "link": "https://www.geo.tv/latest/674177-prince-harrys-new-mission-hits-fresh-headwinds-over-hypocrisy-debate"
-      },
-      {
-        "title": "Princess Kate reveals the reality of ‘chemo brain' as patients face cognitive challenges",
-        "link": "https://www.geo.tv/latest/674175-princess-kate-reveals-the-reality-of-chemo-brain-as-patients-face-cognitive-challenges"
       }
     ],
     "NDTV": [
+      {
+        "title": "US Military Launches 11th Consecutive Night Of Strikes On Iran",
+        "link": "https://www.ndtv.com/world-news/us-military-launches-11th-consecutive-night-of-strikes-on-iran-11803634#publisher=newsstand"
+      },
+      {
+        "title": "Trump Says Imported Generic Drugs To Face 100% Tariff From August 2028",
+        "link": "https://www.ndtv.com/world-news/donald-trump-says-imported-generic-drugs-to-face-100-tariff-from-august-2028-11803611#publisher=newsstand"
+      },
+      {
+        "title": "40 People Kidnapped By Nigerian Gang: Report",
+        "link": "https://www.ndtv.com/world-news/40-people-kidnapped-by-nigerian-gang-report-11803600#publisher=newsstand"
+      },
       {
         "title": "3 Of Hyderabad Family Die In Road Accident In US",
         "link": "https://www.ndtv.com/world-news/3-of-hyderabad-family-die-in-road-accident-in-us-11803575#publisher=newsstand"
@@ -165,18 +177,6 @@
       {
         "title": "Trump Vows To Help Lebanon Pursue Peace With Israel",
         "link": "https://www.ndtv.com/world-news/donald-trump-vows-to-help-lebanon-pursue-peace-with-israel-11803570#publisher=newsstand"
-      },
-      {
-        "title": "Ukraine's Zelensky Sacks Army Chief Amid War",
-        "link": "https://www.ndtv.com/world-news/ukraines-zelensky-sacks-army-chief-amid-war-11803393#publisher=newsstand"
-      },
-      {
-        "title": "Pete Hegseth Estimates Iran War Has Cost $37.5 Billion So Far",
-        "link": "https://www.ndtv.com/world-news/pete-hegseth-estimates-iran-war-has-cost-37-5-billion-11803455#publisher=newsstand"
-      },
-      {
-        "title": "Weather Office Predicts Heavy Rain, Widespread Thundershowers Across UP",
-        "link": "https://www.ndtv.com/india-news/weather-office-predicts-heavy-rain-widespread-thundershowers-across-up-11803385#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-21 23:41 UTC"
+  "last_updated": "2026-07-22 01:07 UTC"
 }
