@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "US signs landmark nuclear deal with Saudi Arabia",
+        "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
         "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,21 @@
       {
         "title": "Hope for thousands of MS patients as 'life-changing' drug now on NHS in England",
         "link": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Rain to return this weekend as parts of UK on brink of drought",
-        "link": "https://www.bbc.co.uk/weather/articles/cx2rvej7lk7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
+        "link": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss"
+      },
+      {
+        "title": "AI, China, ‘dark factories’ and the future of the US auto industry",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/ai-china-dark-factories-and-the-future-of-the-us-auto-industry?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss"
+      },
       {
         "title": "Austrian home where Hitler was born reopened as police station",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Yemen’s Houthis claim attack on two Saudi oil tankers",
         "link": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss"
-      },
-      {
-        "title": "Rubio says US, China must ‘work through’ big differences at ASEAN meeting",
-        "link": "https://www.aljazeera.com/news/2026/7/22/rubio-says-us-china-must-work-through-big-differences-at-asean-meeting?traffic_source=rss"
-      },
-      {
-        "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
-        "link": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss"
-      },
-      {
-        "title": "US launches new strikes as Iran warns of regional turmoil",
-        "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,27 +93,31 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
-        "link": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html"
-      },
-      {
-        "title": "How the Trump Administration’s Nuclear Deal With Saudi Arabia May Work",
-        "link": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal-123-agreement.html"
-      },
-      {
-        "title": "The U.S. Signs a Nuclear Pact With Saudi Arabia",
-        "link": "https://www.nytimes.com/2026/07/22/briefing/the-us-signs-a-nuclear-pact-with-saudi-arabia.html"
-      },
-      {
         "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
         "link": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html"
       },
       {
         "title": "House Adopts $95 Billion G.O.P. Budget for Iran War",
         "link": "https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html"
+      },
+      {
+        "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
+        "link": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html"
+      },
+      {
+        "title": "The U.S. Signs a Nuclear Pact With Saudi Arabia",
+        "link": "https://www.nytimes.com/2026/07/22/briefing/the-us-signs-a-nuclear-pact-with-saudi-arabia.html"
+      },
+      {
+        "title": "With Saudi Deal, Trump Loosens Nuclear Standards for One Close Ally",
+        "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Houthis claim strikes on Saudi oil tankers",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-strikes-saudi-oil-tankers"
+      },
       {
         "title": "Kuwait intercepts Iranian drones",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-interceps-iranian-drones"
@@ -129,13 +133,17 @@
       {
         "title": "Israeli settlers forcibly evict Palestinian family from West Bank home",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-forcibly-evict-palestinian-family-west-bank-home"
-      },
-      {
-        "title": "From Syria to UAE, the race to bypass Strait of Hormuz is on",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-uae-race-bypass-strait-hormuz"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Sacha Baron Cohen's secret Ali G movie release date revealed",
+        "link": "https://www.geo.tv/latest/674335-sacha-baron-cohens-secret-ali-g-movie-release-date-revealed"
+      },
+      {
+        "title": "US House passes $1tr defence bill amid row over Iran war and Israel ties",
+        "link": "https://www.geo.tv/latest/674336-us-house-passes-1tr-defence-bill-amid-row-over-iran-war-and-israel-ties"
+      },
       {
         "title": "Michael J. Fox on Emmy-nominated 'Shrinking' comeback amid Parkinsons",
         "link": "https://www.geo.tv/latest/674333-michael-j-fox-on-emmy-nominated-shrinking-comeback-amid-parkinsons"
@@ -147,36 +155,28 @@
       {
         "title": "Timothée Chalamet and Selena Gomez bring ‘Not Alone' to life in new trailer",
         "link": "https://www.geo.tv/latest/674330-timothe-chalamet-and-selena-gomez-bring-not-alone-to-life-in-new-trailer"
-      },
-      {
-        "title": "Nolan Wells' friend shares chilling details about teen's final hours before vanishing",
-        "link": "https://www.geo.tv/latest/674328-nolan-wells-friend-shares-chilling-details-about-teens-final-hours-before-vanishing"
-      },
-      {
-        "title": "Academy onboards Guillermo del Toro on board of trustees",
-        "link": "https://www.geo.tv/latest/674320-academy-onboards"
       }
     ],
     "NDTV": [
       {
-        "title": "US House Approves $95 Billion Budget Plan With Iran War Funding",
-        "link": "https://www.ndtv.com/world-news/us-house-approves-95-billion-budget-plan-with-iran-war-funding-11808609#publisher=newsstand"
+        "title": "US Announces Landmark Nuclear Deal With Saudi Arabia",
+        "link": "https://www.ndtv.com/world-news/us-announces-landmark-nuclear-deal-with-saudi-arabia-11808518#publisher=newsstand"
       },
       {
-        "title": "Iran-US War News Live Updates: US Strikes Iran For 12th Consecutive Night",
-        "link": "https://www.ndtv.com/world-news/iran-us-war-news-live-update-new-strikes-middle-east-conflict-donald-trump-strait-of-hormuz-mojtaba-khamenei-israel-netanyahu-11799301#publisher=newsstand"
+        "title": "Unemployed Nurse Consumes Phenyl Outside Uttarakhand Health Minister's House",
+        "link": "https://www.ndtv.com/india-news/unemployed-nurse-consumes-phenyl-outside-uttarakhand-health-ministers-house-11808666#publisher=newsstand"
       },
       {
-        "title": "US Launches Fresh Wave Of Strikes Against Iran's Military Infrastructure",
+        "title": "Why New York's Zohran Mamdani Cannot Arrest Netanyahu. What The Law Says",
+        "link": "https://www.ndtv.com/world-news/why-new-yorks-zohran-mamdani-cannot-arrest-benjamin-netanyahu-what-the-law-says-11808657#publisher=newsstand"
+      },
+      {
+        "title": "US Says It's Carrying Out 12th Night Of Strikes On Iran",
         "link": "https://www.ndtv.com/world-news/iran-war-us-launches-fresh-wave-of-strikes-against-irans-military-infrastructure-11808586#publisher=newsstand"
       },
       {
-        "title": "Assam Floods: 10 More Deaths In 24 Hours; Over 6 Lakh People Affected",
-        "link": "https://www.ndtv.com/india-news/assam-floods-10-more-deaths-in-24-hours-over-6-lakh-people-affected-11808572#publisher=newsstand"
-      },
-      {
-        "title": "US Announces Landmark Nuclear Deal With Saudi Arabia",
-        "link": "https://www.ndtv.com/world-news/us-announces-landmark-nuclear-deal-with-saudi-arabia-11808518#publisher=newsstand"
+        "title": "US House Approves $95 Billion Budget Plan With Iran War Funding",
+        "link": "https://www.ndtv.com/world-news/us-house-approves-95-billion-budget-plan-with-iran-war-funding-11808609#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-22 23:44 UTC"
+  "last_updated": "2026-07-23 01:16 UTC"
 }
