@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "CJP Protest LIVE Updates: CJP, Union Ministers May Meet At 12.30 PM Today: Sources",
-      "link": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Burnham pauses plan to release some prisoners early from September",
         "link": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss"
@@ -17,38 +15,34 @@
         "link": "https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+        "title": "UK complacent about war threat, warns defence boss",
+        "link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Oil prices hit $100 for the first time since May",
-        "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "PM to spend first day working from northern branch of No 10",
-        "link": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss"
+        "title": "King's Tardis entrance as Commonwealth Games begin",
+        "link": "https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "How the Houthi Red Sea blockade will impact the world",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-the-houthi-red-sea-blockade-will-impact-the-world?traffic_source=rss"
+        "title": "Analyst: voting against Iran war funding a tough sell for Congress",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/analyst-voting-against-iran-war-funding-a-tough-sell-for-congress?traffic_source=rss"
       },
       {
-        "title": "Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque",
-        "link": "https://www.aljazeera.com/news/2026/7/23/arab-and-muslim-countries-condemn-israeli-escalation-at-al-aqsa-mosque?traffic_source=rss"
+        "title": "Israel bombs Gaza after displacement orders, kills two Palestinians",
+        "link": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss"
       },
       {
-        "title": "Is this Italy’s ‘George Floyd moment’?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss"
+        "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
+        "link": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss"
       },
       {
-        "title": "US war on Iran: The $110 billion price tag",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss"
+        "title": "Iran war live: Trump weighs ‘massive attack’ on Iran",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss"
       },
       {
-        "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
-        "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss"
+        "title": "Trump expands voluntary pledge to blunt AI-driven utility bill surges",
+        "link": "https://www.aljazeera.com/news/2026/7/23/trump-expands-voluntary-pledge-to-blunt-ai-driven-utility-bill-surges?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,27 +115,31 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli forces shoot and arrest Palestinian in Jerusalem",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-shoot-and-arrest-palestinian-jerusalem"
+      },
+      {
+        "title": "Air defence activated in Tehran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/air-defence-activated-tehran"
+      },
+      {
+        "title": "Two injured in Bandar Abbas, more strikes heard in Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-injured-bandar-abbas-more-strikes-heard-iran"
+      },
+      {
         "title": "Centcom claims fresh strikes on Iran, as blasts heard across the country",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-claims-fresh-strikes-iran-blasts-heard-across-country"
       },
       {
         "title": "The Karim Khan saga: a timeline",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/karim-khan-saga-timeline"
-      },
-      {
-        "title": "Iranian media reports explosions on Qeshm Island",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-explosions-qeshm-island"
-      },
-      {
-        "title": "Normalisation not discussed during months of Saudi-US nuclear negotiations, sources say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/normalisation-not-discussed-during-months-saudi-us-nuclear-negotiations"
-      },
-      {
-        "title": "Centcom says it has redirected 12 commercial vessels",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-it-has-redirected-12-commercial-vessels"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Whoopi Goldberg slams Elliot Page's critics: 'Don't go see The Odyssey'",
+        "link": "https://www.geo.tv/latest/674500-whoopi-goldberg-slams-elliot-pages-critics-dont-go-see-the-movie"
+      },
       {
         "title": "'Girls' star Zosia Mamet returns to HBO for 'Industry' last run",
         "link": "https://www.geo.tv/latest/674498-girls-star-zosia-mamet-returns-to-hbo-for-industry-last-run"
@@ -157,32 +155,28 @@
       {
         "title": "Mysterious new Cyclospora outbreak sickens 72, but source not linked to lettuce",
         "link": "https://www.geo.tv/latest/674488-mysterious-new-cyclospora-outbreak-sickens-72-but-source-not-linked-to-lettuce"
-      },
-      {
-        "title": "Nancy Guthrie ransom note to Savannah revealed: Full text and details revealed",
-        "link": "https://www.geo.tv/latest/674487-nancy-guthrie-ransom-note-to-savannah-revealed-full-text-and-details-revealed"
       }
     ],
     "NDTV": [
       {
-        "title": "Salman Rushdie Testifies At Knife Attacker's US Terror Trial",
-        "link": "https://www.ndtv.com/world-news/salman-rushdie-testifies-at-knife-attackers-us-terror-trial-11813944#publisher=newsstand"
+        "title": "US Strikes Iran As Tensions Escalate Over Shipping Routes In Hormuz",
+        "link": "https://www.ndtv.com/world-news/iran-war-us-military-launches-new-round-of-strikes-on-iran-amid-trump-warning-11813996#publisher=newsstand"
       },
       {
-        "title": "\"Long Negotiations\": Sonam Wangchuk Ends Hunger Strike After 26 Days",
-        "link": "https://www.ndtv.com/india-news/sonam-wangchuk-ends-hunger-strike-after-26-days-in-presence-of-ministers-11813634#publisher=newsstand"
+        "title": "Government Bars Communication Infra Providers From Sharing Data Outside India",
+        "link": "https://www.ndtv.com/world-news/government-bars-communication-infra-providers-from-sharing-data-outside-india-11814027#publisher=newsstand"
       },
       {
-        "title": "US Imposes New Tariffs On 60 Countries Over Forced Labour Concerns",
+        "title": "US Says Won't Block Tate Brothers' Extradition To UK Over Rape Charges",
+        "link": "https://www.ndtv.com/world-news/us-says-wont-block-tate-brothers-extradition-to-uk-over-rape-charges-11813983#publisher=newsstand"
+      },
+      {
+        "title": "US Imposes New Tariffs On 60 Countries Over Forced Labour Concerns: Report",
         "link": "https://www.ndtv.com/world-news/us-imposes-new-tariffs-on-60-countries-over-forced-labour-concerns-11813910#publisher=newsstand"
       },
       {
-        "title": "Trump Says Xi Jinping Will Visit US On September 24",
-        "link": "https://www.ndtv.com/world-news/donald-trump-says-xi-jinping-will-visit-us-on-september-24-11813878#publisher=newsstand"
-      },
-      {
-        "title": "CJP Protest LIVE Updates: CJP, Union Ministers May Meet At 12.30 PM Today: Sources",
-        "link": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand"
+        "title": "Trump Says Frozen Iranian Assets Will Pay For Damage To Shipping",
+        "link": "https://www.ndtv.com/world-news/iran-war-donald-trump-says-frozen-iranian-assets-will-pay-for-damage-to-shipping-11813952#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-23 23:40 UTC"
+  "last_updated": "2026-07-24 01:09 UTC"
 }
