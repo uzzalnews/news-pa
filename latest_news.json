@@ -1,18 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "CJP Protest LIVE Updates: 18 Delhi Metro Stations To Stay Shut From 7.30 AM Tomorrow",
+      "link": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
+        "title": "Man describes trying to save mother and daughter who drowned off Essex beach",
+        "link": "https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
         "link": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
-        "link": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Officers hurt as police boat hits Westminster Bridge",
-        "link": "https://www.bbc.co.uk/news/articles/c935k4k4pezo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Andy Burnham's first week pledges - how much do they add up to?",
@@ -21,28 +23,32 @@
       {
         "title": "Angela Rayner rules out rent controls in England",
         "link": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "NBA superstar LeBron James to join Philadelphia 76ers",
+        "link": "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Romanian jet fighter shoots down suspected Russian drone",
-        "link": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss"
+        "title": "ICC prosecutor Khan removed over sexual misconduct allegations: Sources",
+        "link": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss"
       },
       {
-        "title": "US records 2,318 measles cases, already surpassing 2025 total",
-        "link": "https://www.aljazeera.com/news/2026/7/24/us-records-2318-measles-cases-thus-far-in-2026-passing-2025-total?traffic_source=rss"
+        "title": "US school shooter pleads guilty in Georgia following father’s conviction",
+        "link": "https://www.aljazeera.com/news/2026/7/24/us-school-shooter-pleads-guilty-in-georgia-following-fathers-conviction?traffic_source=rss"
       },
       {
-        "title": "Life without refrigerators: Gaza residents fight heat and food spoilage",
-        "link": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss"
+        "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
+        "link": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss"
       },
       {
-        "title": "‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs",
-        "link": "https://www.aljazeera.com/news/2026/7/24/extremely-disappointing-us-trade-partners-respond-to-trumps-new-tariffs?traffic_source=rss"
+        "title": "Trump’s Israel condition on Saudi nuclear deal",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/trumps-israel-condition-on-saudi-nuclear-deal?traffic_source=rss"
       },
       {
-        "title": "Yemen’s valleys and farms are full of dangerous plastic waste",
-        "link": "https://www.aljazeera.com/features/2026/7/24/yemens-valleys-and-farms-are-full-of-dangerous-plastic-waste?traffic_source=rss"
+        "title": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "Petrol price up by Rs3.66, HSD by Rs4.80 as govt revises fuel rates",
+        "link": "https://www.dawn.com/news/2018099/petrol-price-up-by-rs366-hsd-by-rs480-as-govt-revises-fuel-rates"
+      },
+      {
         "title": "Terrorist attack on joint police checkpost in KP’s Tank martyrs 15, including 14 security personnel: ISPR",
         "link": "https://www.dawn.com/news/2018066/terrorist-attack-on-joint-police-checkpost-in-kps-tank-martyrs-15-including-14-security-personnel-ispr"
       },
@@ -78,105 +88,101 @@
         "link": "https://www.dawn.com/news/2018019/lt-gen-aamer-raza-promoted-to-4-star-rank-appointed-first-commander-national-strategic-command"
       },
       {
+        "title": "IHC registrar issues notice to Justice Babar Sattar, asks him to vacate Islamabad residence",
+        "link": "https://www.dawn.com/news/2018103/ihc-registrar-issues-notice-to-justice-babar-sattar-asks-him-to-vacate-islamabad-residence"
+      },
+      {
         "title": "Karachi receives season’s first monsoon showers, light to moderate rain reported in parts of city",
         "link": "https://www.dawn.com/news/2018094/karachi-receives-seasons-first-monsoon-showers-light-to-moderate-rain-reported-in-parts-of-city"
-      },
-      {
-        "title": "PM Shehbaz inaugurates country's 'largest' data centre, AI cloud Sky47 in Islamabad",
-        "link": "https://www.dawn.com/news/2018057/pm-shehbaz-inaugurates-countrys-largest-data-centre-ai-cloud-sky47-in-islamabad"
-      },
-      {
-        "title": "PMD forecasts monsoon rain, thunderstorms across the country from July 24-28",
-        "link": "https://www.dawn.com/news/2018038/pmd-forecasts-monsoon-rain-thunderstorms-across-the-country-from-july-24-28"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
+        "link": "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html"
+      },
+      {
+        "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
+        "link": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html"
+      },
+      {
         "title": "Measles Cases Hit New Record in U.S., as Vaccination Rates Wane",
         "link": "https://www.nytimes.com/2026/07/24/well/measles-record-united-states-numbers.html"
       },
       {
-        "title": "The New Race to Find Treatments for Measles",
-        "link": "https://www.nytimes.com/2026/06/11/well/measles-treatments-drug-vaccine.html"
+        "title": "C.D.C. Expands Cyclospora Outbreak Linked to Iceberg Lettuce to Nine States",
+        "link": "https://www.nytimes.com/2026/07/24/well/eat/cyclospora-outbreak-states-cdc.html"
       },
       {
-        "title": "Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term",
-        "link": "https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html"
-      },
-      {
-        "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
-        "link": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html"
-      },
-      {
-        "title": "Small Businesses Sue Trump Administration Over Latest Tariffs",
-        "link": "https://www.nytimes.com/2026/07/24/business/trump-tariffs-small-businesses-lawsuit.html"
+        "title": "Trump Administration Admits Canceling Grants to States That Did Not Vote for Him",
+        "link": "https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "ICC members dismiss prosecutor Karim Khan, diplomatic sources say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/icc-members-dismiss-prosecutor-karim-khan-diplomatic-sources-say"
+        "title": "Israel’s foreign minister calls for Netanyahu’s arrest warrant to be revoked after Khan’s removal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-foreign-minister-calls-netanyahus-arrest-warrant-be-revoked"
       },
       {
-        "title": "Israeli settlers open fire on Palestinians in West Bank village",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-open-fire-palestinians-west-bank-village"
+        "title": "Israeli settler attack injures several Palestinians in West Bank's Surra",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settler-attack-injures-several-palestinians-west-banks-surra"
       },
       {
-        "title": "Rights groups call for help stopping Israeli 'pogrom' against Palestinians in West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-groups-call-help-stopping-israeli-pogrom-against-palestinians"
+        "title": "ICC member states remove Prosecutor Karim Khan by majority vote",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/icc-member-states-remove-prosecutor-karim-khan-majority-vote"
       },
       {
-        "title": "B’Tselem calls for immediate action to stop Israeli violence in the West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/btselem-calls-immediate-action-stop-israeli-violence-west-bank"
+        "title": "Iran military says attacked US bases in Bahrain, Jordan, Kuwait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-military-says-attacked-us-bases-bahrain-jordan-kuwait"
       },
       {
-        "title": "Israeli settlers uproot more than 50 olive trees in Masafer Yatta",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-uproot-more-50-olive-trees-masafer-yatta"
+        "title": "John Esposito's warning against a clash of civilisations has never been more urgent",
+        "link": "https://www.middleeasteye.net/opinion/john-espositos-warning-against-clash-civilisations-has-never-been-more-urgent"
       }
     ],
     "GeoTV": [
       {
-        "title": "Chris Brown's history of violence in spotlight after guilty plea in London attack case",
-        "link": "https://www.geo.tv/latest/674634-chris-browns-history-of-violence-in-spotlight-after-guilty-plea-in-london-attack-case"
+        "title": "Selena Gomez shares stunning photos from Italian vacation with Benny Blanco",
+        "link": "https://www.geo.tv/latest/674654-selena-gomez-shares-stunning-photos-from-italian-vacation-with-benny-blanco"
       },
       {
-        "title": "Oprah Winfrey shocks Prince Harry with latest warning",
-        "link": "https://www.geo.tv/latest/674633-oprah-winfrey-shocks-prince-harry-with-latest-warning"
+        "title": "International Criminal Court members dismiss prosecutor Karim Khan: sources",
+        "link": "https://www.geo.tv/latest/674649-international-criminal-court-members-dismiss-prosecutor-khan-sources"
       },
       {
-        "title": "Abdullah Fazal ruled out of West Indies Test series due to back injury",
-        "link": "https://www.geo.tv/latest/674631-abdullah-fazal-ruled-out-of-west-indies-test-series-due-to-back-injury"
+        "title": "Taylor Swift releases new surprise for 'folklore' anniversary",
+        "link": "https://www.geo.tv/latest/674643-taylor-swift-releases-new-surprise-for-folklore-anniversary"
       },
       {
-        "title": "Pakistan, Iran explore path towards new talks with US in a China-initiated push: sources",
-        "link": "https://www.geo.tv/latest/674628-pakistan-iran-explore-path-towards-new-talks-with-us-in-a-china-initiated-push-sources-say"
+        "title": "Apple to launch first touchscreen Mac in late 2026: Here's everything to know",
+        "link": "https://www.geo.tv/latest/674648-apple-to-launch-first-touchscreen-mac-in-late-2026-heres-everything-to-know"
       },
       {
-        "title": "Parts of Karachi receive rain as PMD predicts more showers on weekend",
-        "link": "https://www.geo.tv/latest/674613-rain-lashes-parts-of-karachi-as-pmd-predicts-more-showers-on-weekend"
+        "title": "Trump says EU to pay 'very big price' for Google fine",
+        "link": "https://www.geo.tv/latest/674638-trump-says-eu-to-pay-very-big-price-for-google-fine"
       }
     ],
     "NDTV": [
       {
-        "title": "Trump Says EU To Pay \"Very Big Price\" For Google Fine, Threatens Tariffs",
-        "link": "https://www.ndtv.com/world-news/trump-says-eu-to-pay-very-big-price-for-google-fine-threatens-substantial-tariff-11818273#publisher=newsstand"
+        "title": "CJP Protest LIVE Updates: 18 Delhi Metro Stations To Stay Shut From 7.30 AM Tomorrow",
+        "link": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand"
+      },
+      {
+        "title": "Tej Pratap Yadav Extends Support To Prashant Kishor In Bankipur Bypolls",
+        "link": "https://www.ndtv.com/india-news/tej-pratap-yadav-extends-support-to-prashant-kishor-in-bankipur-by-polls-11818338#publisher=newsstand"
+      },
+      {
+        "title": "LPG Tanker With 28 Indian Crew Members Attacked In Iranian Waters, All Safe",
+        "link": "https://www.ndtv.com/world-news/ship-with-28-indian-crew-members-attacked-in-iranian-waters-all-safe-11818149#publisher=newsstand"
       },
       {
         "title": "Indian Killed In Attack On Ship In Black Sea, Ministry Expresses Concern",
         "link": "https://www.ndtv.com/india-news/indian-killed-in-attack-on-ship-in-black-sea-ministry-expresses-concern-11818250#publisher=newsstand"
       },
       {
-        "title": "'Avoid Notified Areas': Delhi Traffic Cops Issue Advisory Amid Protests",
-        "link": "https://www.ndtv.com/india-news/cjp-protest-jantar-mantar-avoid-notified-areas-delhi-traffic-cops-issue-advisory-amid-protests-11818204#publisher=newsstand"
-      },
-      {
-        "title": "No Ban On Food Delivery Services In New Delhi Area: Police",
-        "link": "https://www.ndtv.com/india-news/no-ban-on-food-delivery-services-in-new-delhi-area-police-11818197#publisher=newsstand"
-      },
-      {
-        "title": "Delhi Police Apologise After Video Of Lawyers Being Manhandled Goes Viral",
-        "link": "https://www.ndtv.com/india-news/delhi-police-apologies-after-video-of-lawyers-being-manhandled-goes-viral-11817143#publisher=newsstand"
+        "title": "Trump Says EU To Pay \"Very Big Price\" For Google Fine, Threatens Tariffs",
+        "link": "https://www.ndtv.com/world-news/trump-says-eu-to-pay-very-big-price-for-google-fine-threatens-substantial-tariff-11818273#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-24 17:49 UTC"
+  "last_updated": "2026-07-24 19:05 UTC"
 }
