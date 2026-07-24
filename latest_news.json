@@ -3,12 +3,16 @@
   "news": {
     "BBC": [
       {
+        "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+        "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Law student is charged over intercepted bomb in car",
         "link": "https://www.bbc.co.uk/news/articles/ckgdz7pz3e7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Huge explosion and fire rip through Essex industrial site",
-        "link": "https://www.bbc.co.uk/news/articles/cx2vgyzy1kyo?at_medium=RSS&at_campaign=rss"
+        "title": "Watch moment of explosion as huge fire breaks out in Essex",
+        "link": "https://www.bbc.co.uk/news/videos/cvg9e334d0yo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Man describes trying to save mother and daughter who drowned off Essex beach",
@@ -17,10 +21,6 @@
       {
         "title": "Andy Burnham's first week pledges - how much do they add up to?",
         "link": "https://www.bbc.co.uk/news/articles/cy078kj0ezyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Heatwave reveals lost archaeological sites across Wales",
-        "link": "https://www.bbc.co.uk/news/articles/cn8n99241y3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
@@ -97,6 +97,10 @@
         "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html"
       },
       {
+        "title": "U.S. Measles Cases Hit a Record",
+        "link": "https://www.nytimes.com/2026/07/24/briefing/us-measles-cases-hit-a-record.html"
+      },
+      {
         "title": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
         "link": "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html"
       },
@@ -107,13 +111,17 @@
       {
         "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
         "link": "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html"
-      },
-      {
-        "title": "The Artist Matthew Taylor Is Helping Trump Reshape Washington",
-        "link": "https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "US military disable tanker trying to breach blockade of Iranian ports, official says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-disable-tanker-trying-breach-blockade-iranian-ports-official"
+      },
+      {
+        "title": "Israeli UN envoy tells Mamdani to 'take note' after ICC prosecutor's removal",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-ambassador-un-tells-mamdani-take-note-after-khans-removal"
+      },
       {
         "title": "Yemeni rebels say two injured in Saudi strikes",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-rebels-say-two-injured-saudi-strikes"
@@ -125,17 +133,13 @@
       {
         "title": "Trump says Iranians getting 'very serious' in talks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iranians-getting-very-serious-talks"
-      },
-      {
-        "title": "Buried in the new defence budget, a plan to merge the US and Israeli militaries",
-        "link": "https://www.middleeasteye.net/news/buried-new-defence-budget-plan-to-merge-us-israeli-militaries"
-      },
-      {
-        "title": "Several strikes targeted Yemen's Hodeidah port, eyewitnesses say",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/several-strikes-yemens-hodeidah-port-eyewitnesses-say"
       }
     ],
     "GeoTV": [
+      {
+        "title": "'Hope' director Na Hong-Jin unveils new footage at Comic-Con debut",
+        "link": "https://www.geo.tv/latest/674677-2-hope-director-na-hong-jin-unveils-new-footage-at-first-ever-comic-con-appearance"
+      },
       {
         "title": "Resident Evil director Zach Cregger: 'I'm very proud of the last 30 seconds'",
         "link": "https://www.geo.tv/latest/674676-resident-evil-director-zach-cregger-im-very-proud-of-the-last-30-seconds"
@@ -151,13 +155,17 @@
       {
         "title": "Robert Pattinson hailed as 'funniest man alive' after 'Twilight' jab",
         "link": "https://www.geo.tv/latest/674658-robert-pattinson-hailed-as-funniest-man-alive-after-twilight-jab"
-      },
-      {
-        "title": "Gracie Abrams marks new milestone with 'Daughter From Hell' album",
-        "link": "https://www.geo.tv/latest/674651-gracie-abrams-marks-new-milestone-with-daughter-from-hell-album"
       }
     ],
     "NDTV": [
+      {
+        "title": "Saudi Strikes Houthi-Rebel-Controlled Hodeidah Province In Yemen",
+        "link": "https://www.ndtv.com/world-news/saudi-strikes-houthi-rebel-controlled-hodeidah-province-in-yemen-11818885#publisher=newsstand"
+      },
+      {
+        "title": "World Court Prosecutor Karim Khan Sacked Over Sexual Misconduct Allegations",
+        "link": "https://www.ndtv.com/world-news/world-court-prosecutor-karim-khan-sacked-over-sexual-misconduct-allegations-11818801#publisher=newsstand"
+      },
       {
         "title": "Trump Says Iranians Getting \"Very Serious\" In Talks",
         "link": "https://www.ndtv.com/world-news/donald-trump-says-iranians-getting-very-serious-in-talks-11818692#publisher=newsstand"
@@ -169,14 +177,6 @@
       {
         "title": "Liquor Shops To Shut By 8 PM In Delhi Over Weekend Amid CJP Protest",
         "link": "https://www.ndtv.com/india-news/liquor-shops-to-shut-by-8-pm-in-delhi-over-weekend-amid-cjp-protest-11818620#publisher=newsstand"
-      },
-      {
-        "title": "US Court Rules Abortion Pill Restrictions \"Unlawful\"",
-        "link": "https://www.ndtv.com/world-news/us-court-rules-abortion-pill-restrictions-unlawful-11818603#publisher=newsstand"
-      },
-      {
-        "title": "Students Saying '1st It Hurt Me, Then I Took Advantage': Nirmala Sitharaman On Leak",
-        "link": "https://www.ndtv.com/india-news/nirmala-sitharaman-on-neet-leak-students-saying-1st-it-hurt-me-then-i-took-advantage-11817949#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-24 21:44 UTC"
+  "last_updated": "2026-07-24 22:44 UTC"
 }
