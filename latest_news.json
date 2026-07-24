@@ -1,16 +1,14 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "CJP Protest LIVE Updates: 18 Delhi Metro Stations To Stay Shut From 7.30 AM Today",
-      "link": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
         "title": "Law student is charged over intercepted bomb in car",
         "link": "https://www.bbc.co.uk/news/articles/ckgdz7pz3e7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Huge explosion and fire rip through Essex industrial site",
+        "link": "https://www.bbc.co.uk/news/articles/cx2vgyzy1kyo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Man describes trying to save mother and daughter who drowned off Essex beach",
@@ -23,32 +21,28 @@
       {
         "title": "Heatwave reveals lost archaeological sites across Wales",
         "link": "https://www.bbc.co.uk/news/articles/cn8n99241y3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Officers hurt as police boat hits Westminster Bridge",
-        "link": "https://www.bbc.co.uk/news/articles/c935k4k4pezo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
-        "link": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss"
+        "title": "China, Philippine coastguard vessels clash in South China Sea",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss"
       },
       {
-        "title": "Who is Afrah al-Zouba, Yemen’s first female foreign minister?",
-        "link": "https://www.aljazeera.com/news/2026/7/24/who-is-afrah-al-zouba-yemens-first-female-foreign-minister?traffic_source=rss"
+        "title": "Paramount agrees to pause Warner Bros deal while court case plays out",
+        "link": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss"
       },
       {
-        "title": "Wildfire survivors tell of narrow escape as Spain declares emergency",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/wildfire-survivors-tell-of-narrow-escape-as-spain-declares-emergency?traffic_source=rss"
+        "title": "Iran’s Abbas Araghchi vows ‘we fear no one’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss"
       },
       {
-        "title": "Car bomb attack kills 27 in northwest Pakistan",
-        "link": "https://www.aljazeera.com/news/2026/7/24/car-bomb-attack-kills-27-in-northwest-pakistan?traffic_source=rss"
+        "title": "Fury dominates Wach in Thailand boxing bout ahead of Joshua showdown",
+        "link": "https://www.aljazeera.com/sports/2026/7/24/fury-dominates-wach-in-thailand-boxing-bout-ahead-of-joshua-showdown?traffic_source=rss"
       },
       {
-        "title": "ICC prosecutor Khan removed over ‘politicised’ sex abuse claims: Sources",
-        "link": "https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss"
+        "title": "Spanish police accuse tractor driver of sparking wildfire as blazes spread",
+        "link": "https://www.aljazeera.com/news/2026/7/24/spanish-police-accuse-tractor-driver-of-sparking-wildfire-as-blazes-spread?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,33 +109,45 @@
         "link": "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html"
       },
       {
-        "title": "Paramount Agrees to Delay Warner Bros. Merger for Months",
-        "link": "https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html"
+        "title": "The Artist Matthew Taylor Is Helping Trump Reshape Washington",
+        "link": "https://www.nytimes.com/2026/07/24/arts/design/matthew-taylor-artist-filmmaker-trump-washington.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Yemeni rebels say two injured in Saudi strikes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-rebels-say-two-injured-saudi-strikes"
+      },
+      {
+        "title": "Houthi media says Saudi struck Hodeida telecom facilities and Kamaran island",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-media-says-saudi-struck-hodeida-telecom-facilities-and-kamaran"
+      },
+      {
+        "title": "Trump says Iranians getting 'very serious' in talks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iranians-getting-very-serious-talks"
+      },
       {
         "title": "Buried in the new defence budget, a plan to merge the US and Israeli militaries",
         "link": "https://www.middleeasteye.net/news/buried-new-defence-budget-plan-to-merge-us-israeli-militaries"
       },
       {
-        "title": "Several strikes on Yemen's Hodeidah port, eyewitnesses say",
+        "title": "Several strikes targeted Yemen's Hodeidah port, eyewitnesses say",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/several-strikes-yemens-hodeidah-port-eyewitnesses-say"
-      },
-      {
-        "title": "Kuwait and Bahrain launch air strikes on Iran: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-and-bahrain-launch-air-strikes-iran-report"
-      },
-      {
-        "title": "Israel’s Sa’ar helped secure ICC prosecutor’s removal, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-saar-helped-secure-icc-prosecutors-removal-report-says"
-      },
-      {
-        "title": "Elderly Palestinian suffers shrapnel injuries in Israeli forces’ shooting",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/elderly-palestinian-suffers-shrapnel-injuries-israeli-forces-shooting"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Resident Evil director Zach Cregger: 'I'm very proud of the last 30 seconds'",
+        "link": "https://www.geo.tv/latest/674676-resident-evil-director-zach-cregger-im-very-proud-of-the-last-30-seconds"
+      },
+      {
+        "title": "Charli XCX releases seventh studio album, 'Music, Fashion, Film'",
+        "link": "https://www.geo.tv/latest/674675-charli-xcx-releases-seventh-studio-album-music-fashion-film"
+      },
+      {
+        "title": "'Nostalgic for the Present': Sia's faceless returns to the big screen",
+        "link": "https://www.geo.tv/latest/674668-sia"
+      },
       {
         "title": "Robert Pattinson hailed as 'funniest man alive' after 'Twilight' jab",
         "link": "https://www.geo.tv/latest/674658-robert-pattinson-hailed-as-funniest-man-alive-after-twilight-jab"
@@ -149,40 +155,28 @@
       {
         "title": "Gracie Abrams marks new milestone with 'Daughter From Hell' album",
         "link": "https://www.geo.tv/latest/674651-gracie-abrams-marks-new-milestone-with-daughter-from-hell-album"
-      },
-      {
-        "title": "Is Fury vs Joshua finally happening? Fury's Thai win keeps hope alive",
-        "link": "https://www.geo.tv/latest/674656-is-fury-vs-joshua-finally-happening-furys-thai-win-keeps-hope-alive"
-      },
-      {
-        "title": "What does ‘One Piece' pirate flag mean? How it became centerpiece of Gen Z protests",
-        "link": "https://www.geo.tv/latest/674655-what-does-one-piece-pirate-flag-mean-how-it-became-centerpiece-of-gen-z-protests"
-      },
-      {
-        "title": "From hashtags to streets: How Gen Z is redefining protest politics",
-        "link": "https://www.geo.tv/latest/674650-from-hashtags-to-streets-how-gen-z-is-redefining-protest-politics"
       }
     ],
     "NDTV": [
       {
-        "title": "2 Policemen Injured During CJP Protest Allege \"Pre-Planned Attack\"",
-        "link": "https://www.ndtv.com/india-news/cockroach-janta-party-2-policemen-injured-during-cjp-protest-allege-pre-planned-attack-11818510#publisher=newsstand"
+        "title": "Trump Says Iranians Getting \"Very Serious\" In Talks",
+        "link": "https://www.ndtv.com/world-news/donald-trump-says-iranians-getting-very-serious-in-talks-11818692#publisher=newsstand"
       },
       {
-        "title": "CJP Protest LIVE Updates: 18 Delhi Metro Stations To Stay Shut From 7.30 AM Today",
-        "link": "https://www.ndtv.com/india-news/cjp-protest-live-updates-delhi-jantar-mantar-sonam-wangchuk-hunger-strike-cockroach-janta-party-abhijeet-dipke-dharmendra-pradhan-neet-paper-leak-parl-11808852#publisher=newsstand"
+        "title": "Man, 30, Jailed For Life For Raping 18-Month-Old Cousin In UP: Cops",
+        "link": "https://www.ndtv.com/india-news/man-30-jailed-for-life-for-raping-18-month-old-cousin-in-up-cops-11818651#publisher=newsstand"
       },
       {
-        "title": "Japan Wants Its Own CIA-Like Spy Agency. China Is One Big Reason Why",
-        "link": "https://www.ndtv.com/world-news/japan-wants-its-own-cia-like-spy-agency-china-is-one-big-reason-why-11818568#publisher=newsstand"
+        "title": "Liquor Shops To Shut By 8 PM In Delhi Over Weekend Amid CJP Protest",
+        "link": "https://www.ndtv.com/india-news/liquor-shops-to-shut-by-8-pm-in-delhi-over-weekend-amid-cjp-protest-11818620#publisher=newsstand"
       },
       {
-        "title": "Army Officer's Son, 20, Killed After Car Falls Into Drain In Delhi",
-        "link": "https://www.ndtv.com/india-news/army-officers-son-20-killed-after-car-falls-into-drain-in-delhi-11818540#publisher=newsstand"
+        "title": "US Court Rules Abortion Pill Restrictions \"Unlawful\"",
+        "link": "https://www.ndtv.com/world-news/us-court-rules-abortion-pill-restrictions-unlawful-11818603#publisher=newsstand"
       },
       {
-        "title": "Pak, Iran Explore New Talks With US In China-Initiated Push: Report",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-pakistan-iran-explore-new-talks-with-us-in-china-initiated-push-report-11818561#publisher=newsstand"
+        "title": "Students Saying '1st It Hurt Me, Then I Took Advantage': Nirmala Sitharaman On Leak",
+        "link": "https://www.ndtv.com/india-news/nirmala-sitharaman-on-neet-leak-students-saying-1st-it-hurt-me-then-i-took-advantage-11817949#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-24 20:38 UTC"
+  "last_updated": "2026-07-24 21:44 UTC"
 }
