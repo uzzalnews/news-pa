@@ -3,27 +3,35 @@
   "news": {
     "BBC": [
       {
+        "title": "The moment Tuesday's powerful earthquake hit Japan",
+        "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+        "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Uefa reacts with fury to Infantino World Cup plan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "French Navy carries out 'shooting drill' during MP's BBC interview",
         "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Powell says student loan system at top of in-tray",
         "link": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
-        "link": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
-        "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US walks out of UN Security Council meeting during France's remarks",
-        "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "What are Trump’s military options?",
+        "link": "https://www.aljazeera.com/opinions/2026/7/28/what-are-trumps-military-options?traffic_source=rss"
+      },
+      {
+        "title": "Is Netanyahu’s Trump card losing its power in Israel?",
+        "link": "https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss"
+      },
       {
         "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "German investigators find apparent motive after Berlin Pride attack",
         "link": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss"
-      },
-      {
-        "title": "FIFA World Cup: For India, qualification is still just a distant dream",
-        "link": "https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream?traffic_source=rss"
-      },
-      {
-        "title": "Iraqi PM visits Turkiye to boost ties despite complex challenges",
-        "link": "https://www.aljazeera.com/economy/2026/7/28/iraqi-pm-visits-turkiye-to-boost-ties-despite-complex-challenges?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +70,8 @@
     ],
     "Dawn": [
       {
-        "title": "Significant number of Fitna Al Khawarij terrorists present among AJK protesters: information secretary",
-        "link": "https://www.dawn.com/news/2019021/significant-number-of-fitna-al-khawarij-terrorists-present-among-ajk-protesters-information-secretary"
+        "title": "Militant elements within proscribed JAAC protests pursuing foreign agenda: Tarar",
+        "link": "https://www.dawn.com/news/2019021/militant-elements-within-proscribed-jaac-protests-pursuing-foreign-agenda-tarar"
       },
       {
         "title": "Coalition partners PPP, PML-N spar after first phase of AJK elections as political temperatures rise",
@@ -101,82 +101,82 @@
         "link": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html"
       },
       {
-        "title": "Democratic Party Faces Debt and Disarray, and Wildfires Force Mass Evacuations in Europe",
-        "link": "https://www.nytimes.com/2026/07/28/podcasts/the-headlines/democratic-party-wildfires-europe.html"
-      },
-      {
         "title": "Kumamoto Castle, a Famed Landmark, Is Damaged in the Japan Earthquake",
         "link": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-castle-damage.html"
       },
       {
         "title": "Massive Wildfires Draw Close to Madrid",
         "link": "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html"
+      },
+      {
+        "title": "Fire Raging Near Bordeaux Brings More Bad News for Its Vineyards",
+        "link": "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Netanyahu arrives at the White House",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-arrives-white-house"
+        "title": "White House calls meetings with Netanyahu and Zelensky ‘positive’",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-calls-meetings-netanyahu-and-zelensky-positive"
       },
       {
-        "title": "UN expert urges immediate trade and arms embargo on Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-expert-urges-immediate-trade-and-arms-embargo-israel"
+        "title": "Israeli strike kills Palestinian man killed in Nuseirat camp",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-gazas-nuseirat-camp-following-israeli-air-strike"
       },
       {
-        "title": "London council set to cut Haifa ties over Israel's apartheid against Palestinians",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/london-council-set-cut-haifa-ties-over-israels-apartheid-against"
+        "title": "UN report: Children in Gaza lack access to functioning schools",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-report-hundreds-thousands-children-gaza-lack-access-functioning"
       },
       {
-        "title": "War on Iran: What is Tehran's 'shadow fleet' really and how does it work?",
-        "link": "https://www.middleeasteye.net/explainers/war-iran-china-oil-sanctions-shadow-fleet"
+        "title": "Exclusive: Does the UK's 'don't talk to the Muslim Council of Britain' policy actually exist?",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-does-uks-dont-talk-muslim-council-britain-policy-actually"
       },
       {
-        "title": "Iran threatens Hormuz ban on countries accepting frozen assets under Trump plan",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-hormuz-ban-countries-accepting-frozen-assets-under-trump"
+        "title": "Israeli forces demolish 11 homes in occupied West Bank over past 24 hours",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-demolish-eleven-homes-occupied-west-bank-during-past-24"
       }
     ],
     "GeoTV": [
       {
-        "title": "Banned JAAC tried to disrupt AJK elections through unrest: information secretary",
-        "link": "https://www.geo.tv/latest/675152-banned-jaac-tried-to-disrupt-ajk-elections-through-unrest-information-secretary"
+        "title": "Snoop Dogg breaks silence on near death experience",
+        "link": "https://www.geo.tv/latest/675163-snoop-dogg-breaks-silence-on-near-death-experience"
       },
       {
-        "title": "Why did US walk out on France at UN: What actually happened?",
-        "link": "https://www.geo.tv/latest/675154-why-did-us-walk-out-on-france-at-un-what-actually-happened"
+        "title": "Disneyland Pixie Hollow update: Tinker Bell meet-and-greet ends August 4",
+        "link": "https://www.geo.tv/latest/675164-disneyland-pixie-hollow-update-tinker-bell-meet-and-greet-ends-august-4"
       },
       {
-        "title": "Canadian politician Bill Oliver caught reading AI prompt in legislative speech",
-        "link": "https://www.geo.tv/latest/675153-canadian-politician-bill-oliver-caught-reading-ai-prompt-in-legislative-speech"
+        "title": "How to keep Claude chats private? Here's how to secure your search history",
+        "link": "https://www.geo.tv/latest/675162-how-to-keep-claude-chats-private-heres-how-to-secure-your-search-history"
       },
       {
-        "title": "US CENTCOM, UAE launch world's first AI military task force: Here's how it will work",
-        "link": "https://www.geo.tv/latest/675150-us-centcom-uae-launch-worlds-first-ai-military-task-force-heres-how-it-will-work"
+        "title": "Boxer Fatima Zahra earns Pakistan's first Commonwealth Games medal",
+        "link": "https://www.geo.tv/latest/675161-boxer-fatima-zahra-earns-pakistans-first-commonwealth-games-medal"
       },
       {
-        "title": "RAF Association celebrates Princess Anne's special keepsakes and moving tribute",
-        "link": "https://www.geo.tv/latest/675149-raf-association-celebrates-princess-annes"
+        "title": "First Test: Pakistan make shaky start to 211-run chase against West Indies",
+        "link": "https://www.geo.tv/latest/675156-pakistan-bowl-out-west-indies-for-181-set-to-chase-211-to-win-first-test"
       }
     ],
     "NDTV": [
       {
-        "title": "Pregnant Women Lured, Newborns Sold: Cops Bust Trafficking Racket In Kerala",
-        "link": "https://www.ndtv.com/india-news/pregnant-women-lured-newborns-sold-cops-bust-trafficking-racket-in-kerala-11834225#publisher=newsstand"
+        "title": "The 1972 Treaty That Defines How India, Pak Talk To Each Other",
+        "link": "https://www.ndtv.com/india-news/shimla-agreement-the-1972-treaty-that-defines-how-india-pak-talk-to-each-other-11834479#publisher=newsstand"
       },
       {
-        "title": "2 Days, 2 Warnings: CJP Threatens To Restart Protest If Agitators Face Action",
-        "link": "https://www.ndtv.com/india-news/cjp-protest-cjp-sourav-das-supreme-court-supreme-court-order-2-days-2-warnings-cjp-threatens-to-restart-protest-if-agitators-face-action-11834201#publisher=newsstand"
+        "title": "'Delulu', 'Clock It': Gen Z Lingo Reaches Lok Sabha During Paper Leak Debate",
+        "link": "https://www.ndtv.com/india-news/bansuri-swaraj-shrikant-shinde-tejasvi-surya-delulu-clock-it-gen-z-lingo-reaches-lok-sabha-during-paper-leak-debate-11834472#publisher=newsstand"
       },
       {
-        "title": "\"Ear Was Almost Severed\": Woman Recounts Police Crackdown During CJP Protest",
-        "link": "https://www.ndtv.com/india-news/cjp-protests-jantar-mantar-ear-was-almost-severed-woman-recounts-police-crackdown-during-cjp-protest-11834046#publisher=newsstand"
+        "title": "Assam Floods: Why Extreme Rainfall Turns Into A Recurring Disaster",
+        "link": "https://www.ndtv.com/india-news/assam-floods-why-extreme-rainfall-turns-into-a-recurring-disaster-11834463#publisher=newsstand"
       },
       {
-        "title": "Surat Locker Operator Steals Customers' Jewellery Worth Rs 2.67 Crore",
-        "link": "https://www.ndtv.com/india-news/surat-locker-operator-steals-customers-jewellery-worth-rs-2-67-crore-11834181#publisher=newsstand"
+        "title": "Priyanka Gandhi vs Anurag Thakur Over \"Cow Urine Expert\" Jab At IIT Professor",
+        "link": "https://www.ndtv.com/india-news/priyanka-gandhi-v-kamakoti-gaumutra-lok-sabha-priyanka-gandhi-vs-anurag-thakur-over-cow-urine-expert-jab-at-iit-professor-11834389#publisher=newsstand"
       },
       {
-        "title": "CPI(M) Alleges Delhi Police Tried To Arrest Student Leader At Party Office",
-        "link": "https://www.ndtv.com/india-news/cpi-m-alleges-delhi-police-tried-to-arrest-student-leader-aishe-ghosh-at-party-office-11833819#publisher=newsstand"
+        "title": "In Poll Postmortem, CPM's Biggest Admission Is About Hindutva",
+        "link": "https://www.ndtv.com/india-news/in-poll-postmortem-cpms-biggest-admission-is-about-hindutva-11834381#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-28 15:38 UTC"
+  "last_updated": "2026-07-28 17:07 UTC"
 }
