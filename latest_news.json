@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Parliament Monsoon Session 2026 LIVE Updates: Lok Sabha Passes Anti-Paper Leak Amendment Bill By Voice Vote",
+      "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-neet-paper-leak-row-anti-paper-leak-bill-lok-sabha-rajya-sabha-proceedings-rahul-gandhi-pm-modi-cjp-prote-11835603#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "More than half of England officially in drought, Environment Agency says",
+        "link": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
         "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-        "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
-        "link": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Today's 20-somethings really do have it worse than their parents - here's why",
-        "link": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss"
+        "title": "Boy, 7, dies after beach tragedy that killed mum and daughter",
+        "link": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "OpenAI says its rogue AI tried to hack other companies",
         "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Teenage Norwegian 'hitman' guilty of UK murder plot",
+        "link": "https://www.bbc.co.uk/news/articles/cwyqggvyp1do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss"
+        "title": "American, Asian confederations blindsided by FIFA’s World Cup plan",
+        "link": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss"
       },
       {
-        "title": "Jayden Seales takes five wickets as West Indies beat Pakistan in first Test",
-        "link": "https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss"
+        "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+        "link": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss"
       },
       {
-        "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
-        "link": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss"
+        "title": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+        "link": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss"
       },
       {
-        "title": "Will Germany bring back mandatory military conscription next year?",
-        "link": "https://www.aljazeera.com/news/2026/7/29/will-germany-bring-back-mandatory-military-conscription-next-year?traffic_source=rss"
+        "title": "‘Iran attacks now to send message as US assets build up in Israel’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss"
       },
       {
-        "title": "Why is Uganda experiencing a food crisis?",
-        "link": "https://www.aljazeera.com/news/2026/7/29/why-is-uganda-experiencing-a-food-crisis?traffic_source=rss"
+        "title": "Married couple deported by ICE killed in Guatemala",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,16 @@
     ],
     "Dawn": [
       {
-        "title": "Cop martyred as operation against terrorists continues in Swat's Shalkho Sar area: police",
-        "link": "https://www.dawn.com/news/2019223/cop-martyred-as-operation-against-terrorists-continues-in-swats-shalkho-sar-area-police"
+        "title": "Cop martyred, 4 terrorists killed as operation continues in Swat's Matta: security sources",
+        "link": "https://www.dawn.com/news/2019223/cop-martyred-4-terrorists-killed-as-operation-continues-in-swats-matta-security-sources"
+      },
+      {
+        "title": "Bilawal demands re-polling in AJK's Mirpur, resurrects 'Form-47' accusation",
+        "link": "https://www.dawn.com/news/2019220/bilawal-demands-re-polling-in-ajks-mirpur-resurrects-form-47-accusation"
+      },
+      {
+        "title": "Security forces kill 32 terrorists during operations in KP, Balochistan: ISPR",
+        "link": "https://www.dawn.com/news/2019231/security-forces-kill-32-terrorists-during-operations-in-kp-balochistan-ispr"
       },
       {
         "title": "Situation in Middle East comes under discussion as DPM Dar meets Kuwait FM",
@@ -80,14 +94,6 @@
       {
         "title": "AJK police accuse JAAC of working under an 'agenda', say sophisticated weapons seized from arrested suspects",
         "link": "https://www.dawn.com/news/2019216/ajk-police-accuse-jaac-of-working-under-an-agenda-say-sophisticated-weapons-seized-from-arrested-suspects"
-      },
-      {
-        "title": "PPP assails AJK Election Commission for 'facilitating rigging' in first phase of AJK polls",
-        "link": "https://www.dawn.com/news/2019220/ppp-assails-ajk-election-commission-for-facilitating-rigging-in-first-phase-of-ajk-polls"
-      },
-      {
-        "title": "US, Saudi forces strike 'Iran-aligned terrorists' in Iraq in retaliation for recent attacks",
-        "link": "https://www.dawn.com/news/2019202/us-saudi-forces-strike-iran-aligned-terrorists-in-iraq-in-retaliation-for-recent-attacks"
       }
     ],
     "APNews": [],
@@ -105,78 +111,78 @@
         "link": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html"
       },
       {
-        "title": "Some Jordanians Demand that American Troops Leave the Kingdom",
-        "link": "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html"
+        "title": "ICE Arrests Surge at Airports, and Fauci’s Private Diary Faces Scrutiny",
+        "link": "https://www.nytimes.com/2026/07/29/podcasts/the-headlines/ice-airports-fauci-diaries.html"
       },
       {
-        "title": "Houthis Claim Strike on Another Saudi Oil Tanker",
-        "link": "https://www.nytimes.com/2026/07/28/world/middleeast/houthis-strike-saudi-tanker.html"
+        "title": "Some Jordanians Dare to Speak Out Against U.S. Troop Presence",
+        "link": "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli defence minister boasts that US warplanes used Israeli bases to attack Iran",
-        "link": "https://www.middleeasteye.net/news/israeli-defence-minister-boasts-us-warplanes-used-israeli-bases-attack-iran"
+        "title": "US prosecutor who helped ICC's Karim Khan seek Israeli arrest warrants breaks her silence",
+        "link": "https://www.middleeasteye.net/news/us-prosecutor-who-worked-karim-khan-breaks-silence-netanyahus-arrest-warrants"
       },
       {
-        "title": "Iraq calls urgent security meeting after US and Saudi attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-calls-urgent-security-meeting-after-us-and-saudi-attacks"
+        "title": "Iraqi group threatens US and Saudi interests after deadly attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-group-threatens-us-and-saudi-interests-after-deadly-attacks"
       },
       {
-        "title": "Iraq calls urgent security meeting after US and Saudi attacks",
-        "link": "https://www.middleeasteye.net/news/iraq-government-calls-urgent-security-meeting-after-joint-us-and-saudi-attacks"
+        "title": "‘The war caused this’: Miscarriages soar in Gaza amid Israeli bombing and siege",
+        "link": "https://www.middleeasteye.net/news/war-caused-miscarriages-soar-gaza-amid-israeli-bombing-and-siege"
       },
       {
-        "title": "Israel served as launchpad for US attacks on Iran, says foreign minister",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-served-launchpad-us-attacks-iran-says-foreign-minister"
+        "title": "US missile strikes uninhabited area in northwestern Iran: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-missile-strikes-uninhabited-area-northwestern-iran-report"
       },
       {
-        "title": "GCC condemns attacks on Saudi Arabia by Iran-aligned Iraqi groups",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gcc-condemns-attacks-saudi-arabia-iran-aligned-iraqi-groups"
+        "title": "Iraqi cleric Muqtada al-Sadr condemns attacks by pro-Iranian factions on Saudi Arabia",
+        "link": "https://www.middleeasteye.net/news/muqtada-al-sadr-condemns-attacks-pro-iranian-iraqi-factions-saudi-arabia"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles shocking decision takes toll on William: 'Struggling'",
-        "link": "https://www.geo.tv/latest/675228-king-charles-shocking-decision-takes-toll-on-william-struggling"
+        "title": "Alison Hammond's 'Your Song' unlikely to return after ratings slump",
+        "link": "https://www.geo.tv/latest/675268-alison-hammonds-your-song-unlikely-to-return-after-ratings-slump"
       },
       {
-        "title": "Sandra Oh shares honest update on ‘Grey's Anatomy' comeback",
-        "link": "https://www.geo.tv/latest/675236-sandra-oh-shares-honest-update-on-greys-anatomy-comeback"
+        "title": "Suki Waterhouse shares glimpse into Robert Pattinson's bond with daughter",
+        "link": "https://www.geo.tv/latest/675264-suki-waterhouse-shares-glimpse-into-robert-pattinsons-bond-with-daughter"
       },
       {
-        "title": "Four terrorists killed in Swat operation, Elite Force constable martyred",
-        "link": "https://www.geo.tv/latest/675239-four-terrorists-killed-in-swat-operation-elite-force-constable-martyred"
+        "title": "French DJ Kavinsky, 50, found dead in Paris home; prosecutors launched probe",
+        "link": "https://www.geo.tv/latest/675265-french-dj-kavinsky-50-found-dead-in-paris-home-investigation-opened"
       },
       {
-        "title": "Meghan Markle steps out solo in LA as Prince Harry faces big challenge",
-        "link": "https://www.geo.tv/latest/675237-meghan-markle-steps-out-solo-in-la-as-prince-harry-faces-big-challenge"
+        "title": "Princess Andre admits she doesn't follow Katie Price's 'extreme' love life",
+        "link": "https://www.geo.tv/latest/675263-princess-andre-admits-she-doesnt-follow-katie-prices-extreme-love-life"
       },
       {
-        "title": "Middle East situation in focus as DPM Dar, Kuwaiti FM meet in Islamabad",
-        "link": "https://www.geo.tv/latest/675235-middle-east-situation-in-focus-as-dpm-dar-kuwaiti-fm-meet-in-islamabad"
+        "title": "Taylor Swift sparks tour speculations after 'secret talks'",
+        "link": "https://www.geo.tv/latest/675259-taylor-swift-sparks-tour-speculations-after-secret-talks"
       }
     ],
     "NDTV": [
       {
-        "title": "In Twisha Sharma Case, Judicial Custody Of Husband, Mother-In-Law Extended Till Aug 11",
-        "link": "https://www.ndtv.com/india-news/in-twisha-sharma-case-judicial-custody-of-husband-mother-in-law-extended-till-aug-11-11837564#publisher=newsstand"
+        "title": "Proposal To Settle Russia Bangladesh Trade In Indian Rupees Is Under Review",
+        "link": "https://www.ndtv.com/world-news/proposal-to-settle-russia-bangladesh-trade-in-indian-rupees-is-under-review-11838361#publisher=newsstand"
       },
       {
-        "title": "BMW Plans To Cut 8,000 Jobs By End Of 2027: Report",
-        "link": "https://www.ndtv.com/world-news/bmw-aims-to-cut-8-000-jobs-by-end-2027-company-source-11837426#publisher=newsstand"
+        "title": "Differently-Abled Boy, 6, Swept Away In Open Drain While Playing In Bareilly",
+        "link": "https://www.ndtv.com/india-news/differently-abled-boy-6-swept-away-in-open-drain-while-playing-in-bareilly-11837405#publisher=newsstand"
       },
       {
-        "title": "Israeli Elections: How They Work And Who Is In The Race",
-        "link": "https://www.ndtv.com/world-news/israeli-elections-how-they-work-and-who-is-in-the-race-11837380#publisher=newsstand"
+        "title": "Parliament Monsoon Session 2026 LIVE Updates: Lok Sabha Passes Anti-Paper Leak Amendment Bill By Voice Vote",
+        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-neet-paper-leak-row-anti-paper-leak-bill-lok-sabha-rajya-sabha-proceedings-rahul-gandhi-pm-modi-cjp-prote-11835603#publisher=newsstand"
       },
       {
-        "title": "After Earthquake Came The Blast: Inside Japan's Shopping Mall Disaster",
-        "link": "https://www.ndtv.com/world-news/massive-earthquake-triggers-explosion-at-southern-japan-mall-several-dead-11836972#publisher=newsstand"
+        "title": "Opinion: Opinion | Indian Political Parties Are Now Stuck In An Awkward Gen Z 'Situationship'",
+        "link": "https://www.ndtv.com/opinion/indian-political-parties-are-now-stuck-in-a-gen-z-situationship-11838041#publisher=newsstand"
       },
       {
-        "title": "Priyank Kharge's Comment On Savarkar Sparks Row, His Grandnephew Hits Back",
-        "link": "https://www.ndtv.com/india-news/priyank-kharges-comment-on-vinayak-damodar-savarkar-sparks-row-his-grandnephew-satyaki-savarkar-hits-back-11837460#publisher=newsstand"
+        "title": "Junior Agriculture Minister Took Subsidy For His Farm, Returned It: Centre",
+        "link": "https://www.ndtv.com/india-news/junior-agriculture-minister-bhagirath-choudhary-returned-subsidy-he-took-for-his-farm-centre-11838011#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-29 10:00 UTC"
+  "last_updated": "2026-07-29 12:09 UTC"
 }
