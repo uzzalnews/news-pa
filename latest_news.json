@@ -1,9 +1,19 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Parliament Monsoon Session 2026 LIVE Updates: Anti-Paper Leak Bill Clears Parliament, Opposition Stages Walkout",
+      "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-set-for-key-bills-11841000#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Thousands evacuated in Crete as Europe battles wildfires",
+        "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
         "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -15,34 +25,30 @@
         "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Giant iceberg turns over near  Greenland's coast",
-        "link": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Large rise in offenders sent back to prison, figures reveal",
-        "link": "https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss"
+        "title": "Palestine Action ban to be reviewed by Supreme Court",
+        "link": "https://www.bbc.co.uk/news/articles/c87n321w9qlo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "El Salvador sentences gang members to 1,000 years in prison",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/el-salvador-sentences-gang-members-to-1000-years-in-prison?traffic_source=rss"
+        "title": "US GDP growth dips as inflation and trade deficits pressure economy",
+        "link": "https://www.aljazeera.com/economy/2026/7/30/us-gdp-growth-dips-as-inflation-and-trade-deficits-pressure-economy?traffic_source=rss"
       },
       {
-        "title": "‘Go back to your own country’: NZ foreign minister faces backlash",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/go-back-to-your-own-country-nz-foreign-minister-faces-backlash?traffic_source=rss"
+        "title": "Spain’s enclave Ceuta raises alarm as thousands cross border from Morocco",
+        "link": "https://www.aljazeera.com/news/2026/7/30/spanish-enclave-of-ceuta-raises-alarm-as-thousands-cross-morocco-border?traffic_source=rss"
       },
       {
-        "title": "Islamabad residents rally in solidarity with Kashmir protests",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss"
+        "title": "Republicans delay vote on Trump’s US attorney general pick amid concerns",
+        "link": "https://www.aljazeera.com/news/2026/7/30/republicans-delay-vote-on-trumps-us-attorney-general-pick-amid-concerns?traffic_source=rss"
       },
       {
-        "title": "Sudan’s RSF vows to return to Khartoum",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss"
+        "title": "UEFA members vote to boycott FIFA if Infantino’s World Cup plans pursued",
+        "link": "https://www.aljazeera.com/sports/2026/7/30/uefa-members-agree-fifa-boycott-if-world-cup-plans-pursued?traffic_source=rss"
       },
       {
-        "title": "World Cup: What has FIFA charged Argentina with, what could punishment be?",
-        "link": "https://www.aljazeera.com/sports/2026/7/30/world-cup-what-have-fifa-charged-argentina-with-what-could-punishment-be?traffic_source=rss"
+        "title": "Is Pakistan ‘using India’s playbook’ in Kashmir?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/is-pakistan-using-indias-playbook-in-kashmir?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,7 +76,7 @@
     ],
     "Dawn": [
       {
-        "title": "Bilawal warns ‘countdown’ will begin for federal government if it steals AJK election",
+        "title": "Bilawal warns ‘countdown’ will begin for federal government if it 'steals' AJK election",
         "link": "https://www.dawn.com/news/2019507/bilawal-warns-countdown-will-begin-for-federal-government-if-it-steals-ajk-election"
       },
       {
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/2019505/several-workers-feared-trapped-after-explosion-in-private-coal-mine-near-quetta-officials"
       },
       {
-        "title": "Sindh schools, colleges to have classes six days a week from Aug 1",
-        "link": "https://www.dawn.com/news/2019492/sindh-schools-colleges-to-have-classes-six-days-a-week-from-aug-1"
-      },
-      {
         "title": "Arshad Nadeem qualifies for javelin throw final at Commonwealth Games",
         "link": "https://www.dawn.com/news/2019491/arshad-nadeem-qualifies-for-javelin-throw-final-at-commonwealth-games"
+      },
+      {
+        "title": "Sindh schools, colleges to have classes six days a week from Aug 1",
+        "link": "https://www.dawn.com/news/2019492/sindh-schools-colleges-to-have-classes-six-days-a-week-from-aug-1"
       }
     ],
     "APNews": [],
@@ -101,82 +107,82 @@
         "link": "https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html"
       },
       {
-        "title": "Fed’s Preferred Inflation Gauge Eased During Pause in Iran War",
-        "link": "https://www.nytimes.com/2026/07/30/business/federal-reserve-inflation-iran-war.html"
+        "title": "What to Know About Todd Blanche’s Order Granting Trump Immunity From I.R.S. Audits",
+        "link": "https://www.nytimes.com/2026/07/15/us/politics/trump-irs-lawsuit-immunity-blanche.html"
       },
       {
-        "title": "A ‘Credibility Shock’ Looms Over the Fed",
-        "link": "https://www.nytimes.com/2026/07/30/business/dealbook/fed-warsh-credibility-shock.html"
+        "title": "Attack on Egyptian Port Shows Suez Canal’s Vulnerability",
+        "link": "https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html"
       },
       {
-        "title": "How the War With Iran Is Widening, and U.S. Hospitals See a Surge of Uninsured Patients",
-        "link": "https://www.nytimes.com/2026/07/30/podcasts/the-headlines/iran-war-us-hospitals-uninsured-patients.html"
+        "title": "U.S. Sees Iran as Likely Behind Cyberattack on Minnesota Water Systems",
+        "link": "https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Exclusive: Festival supporting rescued animals forced to cancel after UK Lawyers for Israel complaint",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-festival-supporting-rescued-animals-forced-cancel-after-uk"
+        "title": "Chaos at London court as over 1,500 Palestine Action cases listed in one day",
+        "link": "https://www.middleeasteye.net/news/chaos-london-court-over-1500-palestine-action-cases-listed-one-day-after-defendants-informed"
       },
       {
-        "title": "Exclusive: Festival supporting rescued animals forced to cancel after UK Lawyers for Israel complaint",
-        "link": "https://www.middleeasteye.net/news/vegan-festival-fundraising-rescued-animals-cancelled-after-uklfi-complaint"
+        "title": "US military says no aircraft hit in attempted Iranian attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-no-us-aircraft-hit-attempted-iranian-attacks"
       },
       {
-        "title": "Support for Israeli-US war on Iran falls as most Americans call it pointless",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/support-israeli-us-war-iran-falls-most-americans-call-it-pointless"
+        "title": "Supreme Court will allow appeal hearing over Palestine Action ban",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/supreme-court-will-allow-appeal-hearing-over-palestine-action-ban"
       },
       {
-        "title": "IRGC says it downed hostile drone over southwestern Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-downed-hostile-drone-over-southwestern-iran"
+        "title": "Supreme Court will allow appeal hearing over Palestine Action ban",
+        "link": "https://www.middleeasteye.net/news/supreme-court-grants-permission-appeal-palestine-action-ban"
       },
       {
-        "title": "Turkey’s foreign minister Hakan Fidan meets newly elected Hamas leader",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkeys-foreign-minister-hakan-fidan-meets-newly-elected-hamas-leader"
+        "title": "Kuwait's chief of staff meets in Saudi Arabia with defence coalition for Bab el-Mandeb strait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwaits-chief-staff-meets-saudi-arabia-defence-coalition-bab-el-mandeb"
       }
     ],
     "GeoTV": [
       {
-        "title": "Ariana Grande sparks fear over health after new pictures",
-        "link": "https://www.geo.tv/latest/675437-ariana-grande-sparks-fear"
+        "title": "Katie Price plans major family change as new chapter begins",
+        "link": "https://www.geo.tv/latest/675451-katie-price-plans-major-family-change-as-new-chapter-begins"
       },
       {
-        "title": "‘Agent Kim Reactivated' charts Netflix hits with worldwide success",
-        "link": "https://www.geo.tv/latest/675430-agent-kim-reactivated-charts-netflix-hits-with-worldwide-success"
+        "title": "What is ‘Hammer of the Gods'? US Army tests new weapon that blinds enemy missiles",
+        "link": "https://www.geo.tv/latest/675456-what-is-hammer-of-the-gods-us-army-tests-new-weapon-that-blinds-enemy-missiles"
       },
       {
-        "title": "Billie Eilish gets called out for 'double standards' after new launch",
-        "link": "https://www.geo.tv/latest/675420-billie-eilish-gets-called-out-for-double-standards-after-new-launch"
+        "title": "Nancy Guthrie update: Sheriff drops bombshell about FBI involvement as case hits 6 months",
+        "link": "https://www.geo.tv/latest/675455-nancy-guthrie-update-sheriff-drops-bombshell-about-fbi-involvement-as-case-hits-6-months"
       },
       {
-        "title": "Elizabeth Waddell's husband breaks silence after her mysterious Caribbean disappearance",
-        "link": "https://www.geo.tv/latest/675436-elizabeth-waddells-husband-breaks-silence-after-her-mysterious-caribbean-disappearance"
+        "title": "Jared Leto's former colleague speaks out after bombshell documentary",
+        "link": "https://www.geo.tv/latest/675453-jared-letos-former-colleague-speaks-out-after-bombshell-documentary"
       },
       {
-        "title": "Josh Richardson calls it quits at 32; Dwyane Wade's heartfelt reaction steals spotlight",
-        "link": "https://www.geo.tv/latest/675428-josh-richardson-calls-it-quits-at-32-dwyane-wade-heartfelt-response-steals-spotlight"
+        "title": "Ben Affleck lands huge prize with impressive game show run",
+        "link": "https://www.geo.tv/latest/675438-ben-affleck-lands-huge-prize-with-impressive-game-show-run"
       }
     ],
     "NDTV": [
       {
-        "title": "'Mindset Of In-Laws Will Never Change': Woman Records Video, Dies By Suicide In Dehradun",
-        "link": "https://www.ndtv.com/india-news/for-months-in-laws-called-me-cursed-dehdradun-woman-records-video-dies-by-suicide-11844359#publisher=newsstand"
+        "title": "Parliament Monsoon Session 2026 LIVE Updates: Anti-Paper Leak Bill Clears Parliament, Opposition Stages Walkout",
+        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-set-for-key-bills-11841000#publisher=newsstand"
       },
       {
-        "title": "Netanyahu And Vance Hold 'Direct, Frank' Talks On Rift Over Iran War: Report",
-        "link": "https://www.ndtv.com/world-news/benjamin-netanyahu-and-jd-vance-hold-direct-frank-talks-on-rift-over-iran-war-report-11844459#publisher=newsstand"
+        "title": "How Sawan Powers Rs 1.5 Lakh Crore Local Micro-Economy In India",
+        "link": "https://www.ndtv.com/india-news/sawan-month-economic-activity-across-india-how-sawan-month-powers-rs-1-5-lakh-crore-local-micro-economy-in-india-small-scale-retail-11843792#publisher=newsstand"
       },
       {
-        "title": "'Sheikh Hasina Will Be Arrested The Moment She Returns': Bangladesh Minister",
-        "link": "https://www.ndtv.com/world-news/sheikh-hasina-will-be-arrested-the-moment-she-returns-bangladesh-minister-11844431#publisher=newsstand"
+        "title": "25-Year-Old Woman Charged For Remarks Against PM Modi At Paper Leak Protest",
+        "link": "https://www.ndtv.com/india-news/ruchika-singh-cjp-protest-paper-leak-protest-jantar-mantar-25-year-old-woman-charged-for-remarks-against-pm-modi-at-paper-leak-protest-11844819#publisher=newsstand"
       },
       {
-        "title": "Thane Man Stabs Son To Death After He Tried To Save Mother During Fight",
-        "link": "https://www.ndtv.com/india-news/thane-man-stabs-son-to-death-after-he-tried-to-save-mother-during-fight-11844138#publisher=newsstand"
+        "title": "Floodwater Receding, But Struggles Far From Over For This Assam Village",
+        "link": "https://www.ndtv.com/india-news/floodwater-receding-but-struggles-far-from-over-for-this-assam-village-11844802#publisher=newsstand"
       },
       {
-        "title": "Gangster Chota Rajan Gets 7 Years In Jail In Passport Forgery Case",
-        "link": "https://www.ndtv.com/india-news/gangster-chota-rajan-gets-7-years-in-jail-in-passport-forgery-case-11843865#publisher=newsstand"
+        "title": "E20 Row Reaches Delhi Civic Body, AAP Members Climb Benches, Raise Slogans",
+        "link": "https://www.ndtv.com/india-news/e20-row-reaches-delhi-civic-body-aap-members-climb-benches-raise-slogans-11844762#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-07-30 14:41 UTC"
+  "last_updated": "2026-07-30 16:15 UTC"
 }
