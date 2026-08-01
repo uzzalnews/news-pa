@@ -3,27 +3,39 @@
   "news": {
     "BBC": [
       {
-        "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
         "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Call for 'full review' as pressure grows on Infantino",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
         "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
-        "link": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss"
+        "title": "William and Kate bring children to Commonwealth Games",
+        "link": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-        "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss"
+        "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
+        "link": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Moroccan rapper Mehdi El Youbi temporarily released from prison",
+        "link": "https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
+        "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss"
+      },
+      {
+        "title": "At least 11 wounded by Colombia car bomb days before presidential election",
+        "link": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss"
+      },
       {
         "title": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
         "link": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "India cracks down on protesters accused of ‘abusing’ Modi",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strike destroys Gaza hospital warehouse",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss"
-      },
-      {
-        "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
-        "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss"
-      },
-      {
-        "title": "Is Spain being punished?",
-        "link": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +74,10 @@
         "link": "https://www.dawn.com/news/2019936/army-major-martyred-in-north-waziristan-ibo-ispr"
       },
       {
+        "title": "Bilawal receives JAAC response on reconciliation commission, says AJK PM to consult stakeholders on way forward",
+        "link": "https://www.dawn.com/news/2019950/bilawal-receives-jaac-response-on-reconciliation-commission-says-ajk-pm-to-consult-stakeholders-on-way-forward"
+      },
+      {
         "title": "Renowned mountaineer Nirmal Purja, others perish in Broad Peak avalanche, climbing company confirms",
         "link": "https://www.dawn.com/news/2019914/renowned-mountaineer-nirmal-purja-others-perish-in-broad-peak-avalanche-climbing-company-confirms"
       },
@@ -84,10 +88,6 @@
       {
         "title": "‘Enough is enough’: MQM-P leaders, Shahid Khaqan back creation of new administrative units",
         "link": "https://www.dawn.com/news/2019935/enough-is-enough-mqm-p-leaders-shahid-khaqan-back-creation-of-new-administrative-units"
-      },
-      {
-        "title": "July deadliest month of 2026 as 205 lives lost, 401 terrorists killed: PICSS",
-        "link": "https://www.dawn.com/news/2019937/july-deadliest-month-of-2026-as-205-lives-lost-401-terrorists-killed-picss"
       }
     ],
     "APNews": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel says it killed three Hezbollah fighters despite ceasefire",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-killed-three-hezbollah-fighters-despite-ceasefire"
+      },
+      {
         "title": "US embassies tell citizens to 'consider departing' Middle East",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassies-tell-citizens-consider-departing-middle-east"
       },
@@ -129,35 +133,43 @@
       {
         "title": "Israeli forces kill one and destroy two hospital warehouses in Gaza strike",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-destroy-two-hospital-warehouses-gaza"
-      },
-      {
-        "title": "'We cried instead of celebrating': War and loss shadow Gaza's top students",
-        "link": "https://www.middleeasteye.net/news/we-cried-instead-celebrating-war-and-loss-shadow-gazas-top-students"
       }
     ],
     "GeoTV": [
       {
-        "title": "King Charles caught carrying office on wheels in rare Sandringham moment",
-        "link": "https://www.geo.tv/latest/675720-king-charles-caught-carrying-office-on-wheels-in-rare-sandringham-moment"
+        "title": "Duke of Kent leads emotional RNLI celebration at Kensington Palace",
+        "link": "https://www.geo.tv/latest/675739-duke-of-kent-leads-emotional-rnli-celebration-at-kensington-palace"
       },
       {
-        "title": "FIFA officials plot to oust Gianni Infantino: 'kill the monster'",
-        "link": "https://www.geo.tv/latest/675737-fifa-officials-plot-to-oust-gianni-infantino-kill-the-monster"
+        "title": "Prince William put to real test by Welsh heavyweight boxer's fight challenge",
+        "link": "https://www.geo.tv/latest/675742-prince-william-put-to-real-test-by-welsh-heavyweight-boxers-fight-challenge"
       },
       {
-        "title": "Uefa target Infantino after Fifa shelve World Cup private investment plan",
-        "link": "https://www.geo.tv/latest/675729-uefa-target-infantino-after-fifa-shelve-world-cup-private-investment-plan"
+        "title": "Ariana Grande accused for 'glorifying' toxic beauty standards in 'petal'",
+        "link": "https://www.geo.tv/latest/675724-ariana-grande-accused-for-glorifying-toxic-beauty-standards-in-petal"
       },
       {
-        "title": "Total solar eclipse to dazzle Greenland, Iceland, and Spain on August 12",
-        "link": "https://www.geo.tv/latest/675734-total-solar-eclipse-to-dazzle-greenland-iceland-and-spain-on-august-12"
+        "title": "Next year's social security adjustment (COLA) projected at 3.8%: See full details",
+        "link": "https://www.geo.tv/latest/675743-next-years-social-security-adjustment-cola-projected-at-38-see-full-details"
       },
       {
-        "title": "Court orders Murad Saeed to pay Rs2.5m damages to Ahsan Iqbal",
-        "link": "https://www.geo.tv/latest/675718-court-orders-murad-saeed-to-pay-rs25m-damages-to-ahsan-iqbal"
+        "title": "Robot Spacecraft sent to save NASA's Swift Observatory spins out of control, rescue mission in jeopardy",
+        "link": "https://www.geo.tv/latest/675741-robot-spacecraft-sent-to-save-nasas-swift-observatory-spins-out-of-control"
       }
     ],
     "NDTV": [
+      {
+        "title": "Elite Mountaineer Nirmal 'Nims' Purja Killed In Avalanche On PoK Peak",
+        "link": "https://www.ndtv.com/india-news/elite-mountaineer-nirmal-nims-purja-killed-in-avalanche-on-pok-peak-11852569#publisher=newsstand"
+      },
+      {
+        "title": "2 Ex-Cops To Be Tried Under Anti-Terror Law For Antilia Bomb Scare, Murder",
+        "link": "https://www.ndtv.com/india-news/2-ex-cops-to-be-tried-under-anti-terror-law-for-antilia-bomb-scare-murder-11853397#publisher=newsstand"
+      },
+      {
+        "title": "'Princess Of Darkness': Woman Behind Trump's Fundraising Machine",
+        "link": "https://www.ndtv.com/world-news/donald-trump-meredith-orourke-princess-of-darkness-woman-behind-trumps-fundraising-machine-11853521#publisher=newsstand"
+      },
       {
         "title": "Anil Ambani Charged For Causing Rs 1,800-Crore Loss To Provident Fund Body",
         "link": "https://www.ndtv.com/india-news/anil-ambani-charged-for-causing-rs-1-800-crore-loss-to-provident-fund-body-11853446#publisher=newsstand"
@@ -165,18 +177,6 @@
       {
         "title": "Punjab Farmers Defend E20 Programme, Say It Aids Crop Diversification",
         "link": "https://www.ndtv.com/india-news/punjab-farmers-defend-e20-programme-say-it-aids-crop-diversification-11853388#publisher=newsstand"
-      },
-      {
-        "title": "Adani Foundation Reaches 8,000 Families In Assam Amid Flood Relief Drive",
-        "link": "https://www.ndtv.com/india-news/adani-foundation-reaches-8-000-families-in-assam-amid-flood-relief-drive-11853365#publisher=newsstand"
-      },
-      {
-        "title": "\"Anyone Who Supports Delimitation Is Betraying Tamil Nadu\": Rahul Gandhi",
-        "link": "https://www.ndtv.com/india-news/anyone-who-supports-delimitation-is-betraying-tamil-nadu-rahul-gandhi-11853359#publisher=newsstand"
-      },
-      {
-        "title": "Citizens Have Right To Know: Supreme Court Judge On Judicial Appointments",
-        "link": "https://www.ndtv.com/india-news/ujjal-bhuyan-collegium-judge-appointments-citizens-have-right-to-know-supreme-court-judge-on-judicial-appointments-11853217#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-01 15:46 UTC"
+  "last_updated": "2026-08-01 16:41 UTC"
 }
