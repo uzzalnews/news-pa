@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+        "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
         "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,17 @@
       {
         "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
         "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-        "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Is Washington dictating the agenda for talks in Venezuela?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss"
+      },
+      {
+        "title": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
+        "link": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss"
+      },
       {
         "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "Most Americans say Trump has gone too far on US immigration: Poll",
         "link": "https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll?traffic_source=rss"
-      },
-      {
-        "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-        "link": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss"
-      },
-      {
-        "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,24 +115,24 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli settlers attack Armenian church in Jerusalem",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-armenian-church-jerusalem"
+      },
+      {
+        "title": "Crew of Iranian ship hit in Ukrainian attack returns home, news agency says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/crew-iranian-ship-hit-ukrainian-attack-returns-home-news-agency-says"
+      },
+      {
+        "title": "Palestinian ‘doctor of the poor’ says he faces abuse, medical neglect in Israeli prison",
+        "link": "https://www.middleeasteye.net/news/palestinian-doctor-poor-says-he-faces-abuse-medical-neglect-israeli-prison"
+      },
+      {
         "title": "Iran’s Pezeshkian says MoU will be ‘centre of gravity’ of its foreign relations",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-pezeshkian-says-mou-will-be-centre-gravity-its-foreign-relations"
       },
       {
         "title": "At least one Iranian soldier killed, another injured in clashes, report says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-one-iranian-soldier-killed-another-injured-clashes-report-says"
-      },
-      {
-        "title": "Centcom says it has redirected 35 vessels",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-it-has-redirected-35-vessels"
-      },
-      {
-        "title": "Iran says Hormuz talks with Oman in final stages",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-hormuz-talks-oman-final-stages"
-      },
-      {
-        "title": "Gaza death toll rises to at least 18",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-least-18"
       }
     ],
     "GeoTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-02 19:52 UTC"
+  "last_updated": "2026-08-02 20:43 UTC"
 }
