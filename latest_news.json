@@ -1,16 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Datia, Bankipur, Manjalpur Bypoll Election LIVE Updates: Counting In Progress In Madhya Pradesh, Gujarat. Prashant Kishor Leads In Bihar",
-      "link": "https://www.ndtv.com/india-news/bankipur-datia-manjalpur-bypoll-election-live-updates-today-vote-counting-results-winner-trends-bihar-gujarat-madhya-pradesh-11857343#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "Parliament Monsoon Session 2026 LIVE Updates: Two Bills Set To Be Introduced In Lok Sabha",
-      "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-two-bills-set-to-be-introduced-in-lok-sabha-11857465#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -18,23 +7,35 @@
         "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+        "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
+        "link": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Uefa threatens Fifa with legal action over investment plan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Heat health alerts in England as temperatures set to reach 34C",
+        "link": "https://www.bbc.co.uk/weather/articles/c17199dy4yxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
         "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-        "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-        "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-        "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Jasprit Bumrah ruled out of Sri Lanka Test series due to injury",
+        "link": "https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss"
+      },
+      {
+        "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
+        "link": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss"
+      },
+      {
+        "title": "Grid failure plunges Cuba into nationwide blackout",
+        "link": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss"
+      },
       {
         "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
         "link": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss"
@@ -42,18 +43,6 @@
       {
         "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss"
-      },
-      {
-        "title": "Brazil’s Lula launches reelection bid amid foreign interference concerns",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss"
-      },
-      {
-        "title": "The battle for the Maasai Mara: Can Kenya’s most iconic ecosystem be saved?",
-        "link": "https://www.aljazeera.com/features/2026/8/3/the-battle-for-the-maasai-mara-can-kenyas-most-iconic-ecosystem-be-saved?traffic_source=rss"
-      },
-      {
-        "title": "Japan and US confirm rare joint intervention to prop up yen",
-        "link": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -81,28 +70,32 @@
     ],
     "Dawn": [
       {
-        "title": "PML-N poised to grab lion’s share in AJK",
-        "link": "https://www.dawn.com/news/2020296/pml-n-poised-to-grab-lions-share-in-ajk"
+        "title": "PM Shehbaz congratulates PML-N after party maintains lead in second phase of AJK polls",
+        "link": "https://www.dawn.com/news/2020320/pm-shehbaz-congratulates-pml-n-after-party-maintains-lead-in-second-phase-of-ajk-polls"
       },
       {
-        "title": "Naqvi’s call for new provinces faces fresh pushback",
-        "link": "https://www.dawn.com/news/2020299/naqvis-call-for-new-provinces-faces-fresh-pushback"
+        "title": "Trump says new Iran talks set to start today after calling off massive attack",
+        "link": "https://www.dawn.com/news/2020319/trump-says-new-iran-talks-set-to-start-today-after-calling-off-massive-attack"
       },
       {
-        "title": "Move to create over 100 new additional assistant commissioner posts in Punjab opposed",
-        "link": "https://www.dawn.com/news/2020277/move-to-create-over-100-new-additional-assistant-commissioner-posts-in-punjab-opposed"
+        "title": "Bulls in charge as PSX opens week by gaining 2,000 points during intraday trade",
+        "link": "https://www.dawn.com/news/2020325/bulls-in-charge-as-psx-opens-week-by-gaining-2000-points-during-intraday-trade"
       },
       {
         "title": "Missing weapon, forensic inconsistencies puzzle investigators in Raza ‘murder’ case",
         "link": "https://www.dawn.com/news/2020224/missing-weapon-forensic-inconsistencies-puzzle-investigators-in-raza-murder-case"
       },
       {
-        "title": "Inconsistencies in Rs332bn grid revenue flagged",
-        "link": "https://www.dawn.com/news/2020292/inconsistencies-in-rs332bn-grid-revenue-flagged"
+        "title": "Move to create over 100 new additional assistant commissioner posts in Punjab opposed",
+        "link": "https://www.dawn.com/news/2020277/move-to-create-over-100-new-additional-assistant-commissioner-posts-in-punjab-opposed"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Blanche Gives G.O.P. Senators Written Assurances on Trump’s I.R.S. Deal",
+        "link": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html"
+      },
       {
         "title": "New Round of Trump Threats and Pullbacks Raises Uncertainty in Mideast",
         "link": "https://www.nytimes.com/2026/08/02/us/politics/trump-iran-negotiations.html"
@@ -112,82 +105,78 @@
         "link": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html"
       },
       {
-        "title": "U.S. and Japan Coordinated to Help Stabilize the Yen",
-        "link": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html"
-      },
-      {
-        "title": "Trump’s Polling Numbers Hit a New Low. Don’t Expect Him to Change Course.",
-        "link": "https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html"
-      },
-      {
-        "title": "‘Do You Think if I Had a Job I Would Have Gone?’",
+        "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
         "link": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html"
+      },
+      {
+        "title": "How China Keeps Tabs on Foreigners",
+        "link": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Earthquake of magnitude 5.6 hits Egypt",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/earthquake-magnitude-54-hitsegypt"
+        "title": "Refugee Convention at 75: Britain owes Palestine an answer",
+        "link": "https://www.middleeasteye.net/opinion/refugee-convention-75-britain-owes-palestine-answer"
       },
       {
-        "title": "Israel's Smotrich says 'complete victory' is Gaza's resettlement",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-smotrich-says-complete-victory-gazas-resettlement"
+        "title": "Why Israel is a friend of budding autocrats around the world",
+        "link": "https://www.middleeasteye.net/opinion/why-israel-friend-budding-autocrats-around-world"
       },
       {
-        "title": "Blast reported near vessel 20 nautical miles away from Oman",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blast-reported-near-vessel-20-nautical-miles-away-oman"
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-594"
       },
       {
-        "title": "Trump says new talks with Iran to begin Monday after calling off strikes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-new-talks-iran-begin-monday-after-calling-strikes"
+        "title": "Israeli forces drop missiles, phosphorus bombs on southern Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-drop-missiles-phosphorus-bombs-southern-lebanon"
       },
       {
-        "title": "'Board of Peace' chief says mediators working ‘around the clock’ on Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/board-peace-chief-says-mediators-working-around-clock-gaza"
+        "title": "Iran executes two accused of colluding with Israel's Mossad",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-two-accused-colluding-israels-mossad"
       }
     ],
     "GeoTV": [
       {
-        "title": "Palace honours Prince Edward after he performs key role on King's behalf",
-        "link": "https://www.geo.tv/latest/675882-palace-honours-prince-edward-after-he-performs-key-role-on-kings-behalf"
+        "title": "CuspAI valued at $2.6B as Bezos, Nvidia, and Meta join AI chip materials push",
+        "link": "https://www.geo.tv/latest/675903-cuspai-valued-at-26b-as-bezos-nvidia-meta-join-ai-chip-materials-push"
       },
       {
-        "title": "Monsoon season: Will Karachi receive rain today?",
-        "link": "https://www.geo.tv/latest/675879-monsoon-season-will-karachi-receive-rain-today"
+        "title": "Prince Harry 'confirms' next meeting with King: 'It would mean the world'",
+        "link": "https://www.geo.tv/latest/675898-prince-harry-confirms-next-meeting-with-king-it-would-mean-the-world"
       },
       {
-        "title": "Stolen water, poisoned rivers",
-        "link": "https://www.geo.tv/latest/675876-stolen-water-poisoned-rivers"
+        "title": "Charles Spencer gives ‘clear' verdict on Meghan's Althorp photos",
+        "link": "https://www.geo.tv/latest/675900-charles-spencer-gives-clear-verdict-on-meghans-althorp-photos"
       },
       {
-        "title": "Phil Collins reveals nearly dying in 2024 amid alcohol relapse",
-        "link": "https://www.geo.tv/latest/675878-phil-collins-reveals-nearly-dying-in-2024-amid-alcohol-relapse"
+        "title": "Babar Azam opens up on omission of Mohammad Abbas from second WI Test",
+        "link": "https://www.geo.tv/latest/675895-omission-of-mohammad-abbas-from-second-west-indies-test"
       },
       {
-        "title": "Molly-Mae Hague shares future family plans after welcoming baby no. 2",
-        "link": "https://www.geo.tv/latest/675874-molly-mae-hague-shares-future-familyu-plans-after-welcoming-baby-no-2"
+        "title": "DeepSeek's new AI model cheapest among leading models, says research firm",
+        "link": "https://www.geo.tv/latest/675894-deepseeks-new-ai-model-cheapest-among-leading-models-says-research-firm"
       }
     ],
     "NDTV": [
       {
-        "title": "Datia, Bankipur, Manjalpur Bypoll Election LIVE Updates: Counting In Progress In Madhya Pradesh, Gujarat. Prashant Kishor Leads In Bihar",
-        "link": "https://www.ndtv.com/india-news/bankipur-datia-manjalpur-bypoll-election-live-updates-today-vote-counting-results-winner-trends-bihar-gujarat-madhya-pradesh-11857343#publisher=newsstand"
+        "title": "Opinion: Opinion | 17 Dead, 166 Trapped: How Indian Seafarers Became 'Collateral' In Others' Wars",
+        "link": "https://www.ndtv.com/opinion/17-dead-166-trapped-how-indian-seafarers-became-collateral-in-others-wars-11858374#publisher=newsstand"
       },
       {
-        "title": "Parliament Monsoon Session 2026 LIVE Updates: Two Bills Set To Be Introduced In Lok Sabha",
-        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-two-bills-set-to-be-introduced-in-lok-sabha-11857465#publisher=newsstand"
+        "title": "Cops Arrest Another Suspect In Bengal Terror Case Involving Jaish-e-Mohammed",
+        "link": "https://www.ndtv.com/india-news/west-bengal-police-arrest-another-suspect-in-bengal-terror-case-involving-jaish-e-mohammed-11858218#publisher=newsstand"
       },
       {
-        "title": "Prashant Kishor Takes Early Lead In Bankipur Bypoll In Bihar",
-        "link": "https://www.ndtv.com/india-news/did-student-protests-affect-by-polls-in-bjp-ruled-states-results-today-11856937#publisher=newsstand"
+        "title": "15 Killed, 7 Missing In Rain-Related Incidents Across Kerala",
+        "link": "https://www.ndtv.com/india-news/kerala-rain-landslide-15-killed-7-missing-in-rain-related-incidents-across-kerala-11858373#publisher=newsstand"
       },
       {
-        "title": "Video Shows Moment Suicide Bomber Attacked Peace Rally In Pak's Khyber Pakhtunkhwa",
-        "link": "https://www.ndtv.com/world-news/video-shows-moment-suicide-bomber-attacked-peace-rally-in-pakistans-khyber-pakhtunkhwa-11857624#publisher=newsstand"
+        "title": "NDTV Accesses 20 Names Part Of DK Shivakumar Cabinet Expansion In Karnataka",
+        "link": "https://www.ndtv.com/india-news/ndtv-accesses-20-names-part-of-dk-shivakumar-cabinet-expansion-in-karnataka-11858161#publisher=newsstand"
       },
       {
-        "title": "Congress Leader Nana Patole's Feet-Washing Video Draws BJP's \"Culture\" Jibe. He Replies",
-        "link": "https://www.ndtv.com/india-news/congress-leader-nana-patole-feet-washing-video-bjp-culture-jibe-he-replies-11857605#publisher=newsstand"
+        "title": "AI Fear Sank These Stocks By Up To 50%. Why Experts See A Buying Opportunity",
+        "link": "https://www.ndtv.com/business-news/ai-fear-sank-these-stocks-up-to-50-why-experts-see-a-buying-opportunity-11858231#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-03 04:50 UTC"
+  "last_updated": "2026-08-03 08:17 UTC"
 }
