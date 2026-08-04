@@ -25,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "Elon Musk’s SpaceX reports losses but less than expected",
+        "link": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss"
+      },
+      {
+        "title": "How the far right weaponised the Ceuta crisis",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss"
+      },
+      {
         "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss"
       },
@@ -35,14 +43,6 @@
       {
         "title": "Six years on, Beirut blast families still await justice",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss"
-      },
-      {
-        "title": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
-        "link": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss"
-      },
-      {
-        "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
-        "link": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,12 +93,16 @@
     "APNews": [],
     "NYTimes": [
       {
-        "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
-        "link": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html"
+        "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
+        "link": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html"
       },
       {
-        "title": "Warsh Wanted ‘Regime Change.’ A Reset Might Need to Come First.",
-        "link": "https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html"
+        "title": "Parts of Trump’s New White House Helipad Disassembled, Photos Show",
+        "link": "https://www.nytimes.com/2026/08/04/us/politics/trump-helipad-white-house-construction.html"
+      },
+      {
+        "title": "Appeals Court Says E.P.A. Cannot Block Billions in Climate Grants",
+        "link": "https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html"
       },
       {
         "title": "An Angry Trump Struggles to Understand Iran’s Defiant Leaders",
@@ -107,10 +111,6 @@
       {
         "title": "Strait of Hormuz Deal With Iran Possible Soon, Bessent Says",
         "link": "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html"
-      },
-      {
-        "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
-        "link": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,27 +137,31 @@
     ],
     "GeoTV": [
       {
-        "title": "Jameela Jamil reacts to Ariana Grande's break after questioning her weight",
-        "link": "https://www.geo.tv/latest/676183-jameela-jamil-reacts-to-ariana-grandes-break-after-questioning-her-weight"
+        "title": "King Charles received the most unusual gift that was 800 years old",
+        "link": "https://www.geo.tv/latest/676166-king-charles-received-the-most-unusual-gift-that-was-800-years-old"
       },
       {
-        "title": "SpaceX beat every estimate in first earnings report after IPO: Details inside",
-        "link": "https://www.geo.tv/latest/676180-spacex-beat-every-estimate-in-first-earnings-report-after-ipo-details-inside"
+        "title": "Denise Richards shares facelift transformation details",
+        "link": "https://www.geo.tv/latest/676188-denise-richards-details-every-procedure-behind-her-facelift-transformation"
       },
       {
-        "title": "Trump's last-minute White House Helipad changes could add nearly $900,000 to costs",
-        "link": "https://www.geo.tv/latest/676179-trumps-last-minute-white-house-helipad-changes-could-add-nearly-900000-to-costs"
+        "title": "Europe's heatwave uncovers WWII Nazi warships hidden beneath Danube for decades",
+        "link": "https://www.geo.tv/latest/676187-europes-heatwave-uncovers-nazi-warships-hidden-beneath-danube-for-decades"
       },
       {
-        "title": "Pradeep Rawat, 'Ghajini' and 'Lagaan' actor, dies at 74 in Mumbai",
-        "link": "https://www.geo.tv/latest/676177-pradeep-rawat-ghajini-and-lagaan-actor-dies-at-74-in-mumbai"
+        "title": "Disney+ sets September release date for 'Made in Korea' final season",
+        "link": "https://www.geo.tv/latest/676185-disney-sets-september-release-date-for-made-in-korea-final-season"
       },
       {
-        "title": "Netflix users report major outage, but company says everything is fine: Is Netflix down?",
-        "link": "https://www.geo.tv/latest/676175-is-netflix-down-thousands-of-users-report-outage"
+        "title": "Cyberattacks hit water systems in at least 12 US states: Is water safe to drink?",
+        "link": "https://www.geo.tv/latest/676184-cyberattacks-hit-water-systems-in-at-least-12-us-states"
       }
     ],
     "NDTV": [
+      {
+        "title": "Israel Won't Leave Gaza Until Hamas Is Completely Disarmed: Netanyahu",
+        "link": "https://www.ndtv.com/world-news/israel-wont-leave-gaza-until-hamas-is-completely-disarmed-benjamin-netanyahu-11866566#publisher=newsstand"
+      },
       {
         "title": "OpenAI Pays $3.2 Million In US Probe Over Hiring Foreign Workers",
         "link": "https://www.ndtv.com/world-news/openai-pays-3-2-million-in-us-probe-over-hiring-foreign-workers-11866501#publisher=newsstand"
@@ -173,10 +177,6 @@
       {
         "title": "LGBTQIA+ Panel Met Only Twice In Over 2 Years, Report Still Pending: Centre",
         "link": "https://www.ndtv.com/india-news/lgbtqia-panel-met-only-twice-in-over-2-years-report-still-pending-centre-11866418#publisher=newsstand"
-      },
-      {
-        "title": "13 Suspected Bangladeshi Nationals Detained In Madhya Pradesh: Cops",
-        "link": "https://www.ndtv.com/india-news/13-suspected-bangladeshi-nationals-detained-in-madhya-pradeshs-gwalior-cops-11866442#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-04 21:20 UTC"
+  "last_updated": "2026-08-04 22:32 UTC"
 }
