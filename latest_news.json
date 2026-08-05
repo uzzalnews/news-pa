@@ -3,12 +3,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-        "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Infantino sorry for errors but stays Fifa president",
         "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+        "link": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Woman arrested after four stabbed in central London",
@@ -19,11 +19,19 @@
         "link": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Walk-in mental health centres to open in banks and libraries across England",
-        "link": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss"
+        "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
+        "link": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
+        "link": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss"
+      },
+      {
+        "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
+        "link": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss"
+      },
       {
         "title": "Israeli occupation destroys farmland and lives in southern Syria",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss"
@@ -35,14 +43,6 @@
       {
         "title": "US man arrested at Trump’s golf course charged with multiple felonies",
         "link": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces raid camp in occupied West Bank",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss"
-      },
-      {
-        "title": "Clashes on anniversary of Imran Khan imprisonment",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Trump says he would prefer a deal with Iran to further military action",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-would-prefer-deal-iran-further-military-action"
+      },
+      {
         "title": "Israeli military chief says army will continue Gaza operations despite peace plan",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-chief-says-army-will-continue-gaza-operations-despite"
       },
@@ -129,13 +133,17 @@
       {
         "title": "Palestinian, Egyptian foreign ministers meet to discuss occupied Jerusalem",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-egyptian-foreign-ministers-meet-discuss-occupied-jerusalem"
-      },
-      {
-        "title": "After Michigan upset, Aipac looks to back Republican candidate against Abdul El-Sayed",
-        "link": "https://www.middleeasteye.net/news/after-major-upset-aipac-michigan-group-looks-back-republican-candidate-against-abdul-el-sayed"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Andy Cohen reveals fun fact about boyfriend Kevin Sobieski and 'Housewives'",
+        "link": "https://www.geo.tv/latest/676373-andy-cohen-reveals-fun-fact-about-boyfriend-kevin-sobieski-and-housewives"
+      },
+      {
+        "title": "Martin Lawrence's Varnell Hill gets own spinoff series on Paramount+",
+        "link": "https://www.geo.tv/latest/676369-martin-lawrences-varnell-hill-gets-own-spinoff-series-on-paramount"
+      },
       {
         "title": "'The Walking Dead' alum Avi Nash joins Peter Gould's 'Disinherited'",
         "link": "https://www.geo.tv/latest/676368-the-walking-dead-alum-avi-nash-joins-disinherited"
@@ -147,17 +155,17 @@
       {
         "title": "Anthropic CEO lashes out at own company's employees: ‘Untrustworthy rats'",
         "link": "https://www.geo.tv/latest/676356-anthropic-ceo-lashes-out-at-own-companys-employees-untrustworthy-rats"
-      },
-      {
-        "title": "SpaceX shares tumble 9% after first earnings report reveals massive AI spending",
-        "link": "https://www.geo.tv/latest/676364-spacex-shares-tumble-9-after-first-earnings-report-reveals-massive-ai-spending"
-      },
-      {
-        "title": "Pezeshkian says contact with Iran's supreme leader remains difficult",
-        "link": "https://www.geo.tv/latest/676363-pezeshkian-says-contact-with-irans-supreme-leader-remains-difficult"
       }
     ],
     "NDTV": [
+      {
+        "title": "Trump Helicopter Came Too Close To Passenger Plane, Probe Launched: Report",
+        "link": "https://www.ndtv.com/world-news/donald-trump-helicopter-came-too-close-to-passenger-plane-probe-launched-report-11872076#publisher=newsstand"
+      },
+      {
+        "title": "US To Impose 15% Tariff On Polysilicon To Counter China's Chip Supply Chain",
+        "link": "https://www.ndtv.com/world-news/us-to-impose-15-tariff-on-polysilicon-to-counter-chinas-chip-supply-chain-11872022#publisher=newsstand"
+      },
       {
         "title": "Uttarakhand On High Alert Amid Heavy Rain Warning For Next 24 Hours",
         "link": "https://www.ndtv.com/india-news/uttarakhand-on-high-alert-amid-heavy-rain-warning-for-next-24-hours-11871968#publisher=newsstand"
@@ -169,14 +177,6 @@
       {
         "title": "Iran Says US Deal On Hormuz Is In \"Final Stage\" Of Drafting",
         "link": "https://www.ndtv.com/world-news/iran-says-us-deal-on-hormuz-is-in-final-stage-of-drafting-11871858#publisher=newsstand"
-      },
-      {
-        "title": "Iran Threatens To Hit Gulf States If US Launches New Strikes",
-        "link": "https://www.ndtv.com/world-news/iran-threatens-to-hit-gulf-states-if-us-launches-new-strikes-11871817#publisher=newsstand"
-      },
-      {
-        "title": "'May Get Jailed Or Killed': Sheikh Hasina Vows December Return To Bangladesh",
-        "link": "https://www.ndtv.com/india-news/sheikh-hasina-vows-december-return-to-bangladesh-11871739#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-05 22:40 UTC"
+  "last_updated": "2026-08-05 23:38 UTC"
 }
