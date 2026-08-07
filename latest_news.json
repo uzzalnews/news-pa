@@ -3,11 +3,15 @@
   "news": {
     "BBC": [
       {
+        "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
+        "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
         "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "England footballer Toney charged with assault in Soho",
+        "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
         "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -15,15 +19,15 @@
         "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
-        "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "How a diary entry solved the murder of a missing man",
         "link": "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+        "link": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss"
+      },
       {
         "title": "Several killed after student opens fire inside Thailand school",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Earthquake strikes as doctors perform surgery",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss"
-      },
-      {
-        "title": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
-        "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +70,10 @@
     ],
     "Dawn": [
       {
+        "title": "PM Shehbaz, CDF Munir meet Saudi crown prince in Makkah",
+        "link": "https://www.dawn.com/news/2021248/pm-shehbaz-cdf-munir-meet-saudi-crown-prince-in-makkah"
+      },
+      {
         "title": "Schedule for 3rd phase of AJK polls revised over law and order concerns",
         "link": "https://www.dawn.com/news/2021240/schedule-for-3rd-phase-of-ajk-polls-revised-over-law-and-order-concerns"
       },
@@ -84,36 +88,40 @@
       {
         "title": "Trump signs orders to limit US birthright citizenship, despite Supreme Court ruling",
         "link": "https://www.dawn.com/news/2021243/trump-signs-orders-to-limit-us-birthright-citizenship-despite-supreme-court-ruling"
-      },
-      {
-        "title": "UNSC condemns Swat suicide blast after Pakistan sounds alarm on Afghan terrorist havens",
-        "link": "https://www.dawn.com/news/2021203/unsc-condemns-swat-suicide-blast-after-pakistan-sounds-alarm-on-afghan-terrorist-havens"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
-        "link": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html"
+        "title": "How the Reflecting Pool Came to Mirror Trump’s Washington",
+        "link": "https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html"
       },
       {
-        "title": "Trump Administration to Deregulate Head Start, Antipoverty Program Created Under R.F.K. Jr.’s Uncle",
-        "link": "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html"
+        "title": "Judge Dismisses Former Olympian’s Felony Charge in Reflecting Pool Case",
+        "link": "https://www.nytimes.com/2026/08/06/us/politics/reflecting-pool-david-hearn-trump.html"
       },
       {
-        "title": "Meta Ordered to Pay $567 Million Fine by New Mexico Judge",
-        "link": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html"
+        "title": "Trump Targets Birthright Citizenship Again, and Activists Describe Abuse in Israeli Custody",
+        "link": "https://www.nytimes.com/2026/08/07/podcasts/the-headlines/trump-birthright-citizenship-israel-abuse.html"
       },
       {
-        "title": "In Upset, Andy Ogles Loses to a Republican Challenger in Tennessee",
-        "link": "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html"
+        "title": "Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom",
+        "link": "https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html"
       },
       {
-        "title": "Blackburn Wins Republican Nomination for Tennessee Governor",
-        "link": "https://www.nytimes.com/2026/08/06/us/elections/marsha-blackburn-tennessee-governor-primary.html"
+        "title": "Candidate Field Set After Republicans Redrew Tennessee District Lines",
+        "link": "https://www.nytimes.com/2026/08/07/us/elections/tennessee-primary-results.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "UK: Nearly one in five Prevent referrals had autism, new Home Office figures reveal",
+        "link": "https://www.middleeasteye.net/news/nearly-one-five-prevent-referrals-had-autism-recorded-new-home-office-figures-reveal"
+      },
+      {
+        "title": "Turkey, Saudi Arabia and Pakistan to 'sign defence pact' on Friday",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-saudi-arabia-and-pakistan-sign-defence-pact-friday"
+      },
       {
         "title": "Israeli drones sighted over Beirut, Lebanese media report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drones-sighted-over-beirut-lebanese-media-reports"
@@ -125,17 +133,21 @@
       {
         "title": "The Briton who helped 6,000 Jews move to Israel",
         "link": "https://www.middleeasteye.net/news/briton-who-helped-6000-jews-move-israel"
-      },
-      {
-        "title": "Turkey's Fidan says Israel 'has no intention or plan for peace' in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkeys-fidan-says-israel-has-no-intention-or-plan-peace-gaza"
-      },
-      {
-        "title": "Turkey, Saudi Arabia and Pakistan to 'sign defence pact' on Friday",
-        "link": "https://www.middleeasteye.net/news/turkey-saudi-arabia-pakistan-sign-defence-pact-sources-say"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Greta Lee reveals what she learnt from Taylor Swift after 'Opalite' video",
+        "link": "https://www.geo.tv/latest/676555-greta-lee-reveals-what-she-learnt-from-taylor-swift-amid-opalite-video"
+      },
+      {
+        "title": "Kinza Hashmi shares glimpse of National Assembly visit",
+        "link": "https://www.geo.tv/latest/676544-kinza-hashmi-shares-glimpse-of-national-assembly-visit"
+      },
+      {
+        "title": "Kashmir conference in Dallas urges settlement under UN resolutions",
+        "link": "https://www.geo.tv/latest/676547-kashmir-conference-in-dallas-urges-settlement-under-un-resolutions"
+      },
       {
         "title": "Kate Middleton calls King Charles: 'George, Charlotte, Louis need grandpa'",
         "link": "https://www.geo.tv/latest/676549-kate-middleton-calls-king-charles-george-charlotte-louis-need-grandpa"
@@ -143,18 +155,6 @@
       {
         "title": "Meta ordered to pay $567m in New Mexico for teen mental health fund",
         "link": "https://www.geo.tv/latest/676548-meta-ordered-to-pay-567m-in-new-mexico-for-teen-mental-health-fund"
-      },
-      {
-        "title": "King Charles takes decisive step after Prince Harry's emotional plea",
-        "link": "https://www.geo.tv/latest/676553-palace-hunts-for-new-top-aide-as-king-charles-greenlights-harry-to-return"
-      },
-      {
-        "title": "Ariana Grande's brother Frankie has a message for Kamu Kirk",
-        "link": "https://www.geo.tv/latest/676552-ariana-grandes-brother-frankie-has-a-message-for-kamu-kirk"
-      },
-      {
-        "title": "Tom Holland debuts wedding band after new wedding celebration with Zendaya",
-        "link": "https://www.geo.tv/latest/676546-tom-holland-debuts-wedding-band-after-new-wedding-celebration-with-zendaya"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-07 09:41 UTC"
+  "last_updated": "2026-08-07 10:34 UTC"
 }
