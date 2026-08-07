@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Sheds 400 Points At Open Amid Negative Global Cues",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-7-august-us-iran-war-oil-price-11877356#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -21,15 +15,23 @@
         "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-        "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss"
+        "title": "How a diary entry solved the murder of a missing man",
+        "link": "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Artificial Intelligence used to design brand new viruses",
-        "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss"
+        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+        "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
+        "link": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss"
+      },
+      {
+        "title": "Earthquake strikes as doctors perform surgery",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss"
+      },
       {
         "title": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
         "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Mexico deploys troops to secure avocado region after US halts imports",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss"
-      },
-      {
-        "title": "Record-high heat soars through South Korea",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss"
-      },
-      {
-        "title": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
-        "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,20 +70,20 @@
     ],
     "Dawn": [
       {
-        "title": "10 terrorists killed in 2 separate operations in KP: ISPR",
-        "link": "https://www.dawn.com/news/2021201/10-terrorists-killed-in-2-separate-operations-in-kp-ispr"
+        "title": "Schedule for 3rd phase of AJK polls revised over law and order concerns",
+        "link": "https://www.dawn.com/news/2021240/schedule-for-3rd-phase-of-ajk-polls-revised-over-law-and-order-concerns"
       },
       {
         "title": "Exhumation of Mir Raza Ali's body postponed after family objects to abrupt reconstitution of medico-legal board",
         "link": "https://www.dawn.com/news/2021207/exhumation-of-mir-raza-alis-body-postponed-after-family-objects-to-abrupt-reconstitution-of-medico-legal-board"
       },
       {
-        "title": "UNSC condemns Swat suicide blast after Pakistan sounds alarm on Afghan terrorist havens",
-        "link": "https://www.dawn.com/news/2021203/unsc-condemns-swat-suicide-blast-after-pakistan-sounds-alarm-on-afghan-terrorist-havens"
+        "title": "10 terrorists killed in 2 separate operations in KP: ISPR",
+        "link": "https://www.dawn.com/news/2021201/10-terrorists-killed-in-2-separate-operations-in-kp-ispr"
       },
       {
-        "title": "Govt reduces petrol price by Rs3.19, high-speed diesel by Rs1.50",
-        "link": "https://www.dawn.com/news/2021048/govt-reduces-petrol-price-by-rs319-high-speed-diesel-by-rs150"
+        "title": "UNSC condemns Swat suicide blast after Pakistan sounds alarm on Afghan terrorist havens",
+        "link": "https://www.dawn.com/news/2021203/unsc-condemns-swat-suicide-blast-after-pakistan-sounds-alarm-on-afghan-terrorist-havens"
       },
       {
         "title": "Suspect among 7 dead in Thailand school shooting; 15 injured",
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Three Yemeni soldiers killed in Houthi attack, says military source",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-yemeni-soldiers-killed-houthi-attack-says-military-source"
+      },
+      {
+        "title": "The Briton who helped 6,000 UK Jews move to Israel",
+        "link": "https://www.middleeasteye.net/news/briton-who-helped-6000-jews-move-israel"
+      },
+      {
         "title": "Turkey's Fidan says Israel 'has no intention or plan for peace' in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkeys-fidan-says-israel-has-no-intention-or-plan-peace-gaza"
       },
       {
-        "title": "Turkey, Saudi Arabia, Pakistan to sign defense pact on Friday, sources say",
+        "title": "Turkey, Saudi Arabia and Pakistan to 'sign defence pact' on Friday",
         "link": "https://www.middleeasteye.net/news/turkey-saudi-arabia-pakistan-sign-defense-pact-sources-say"
       },
       {
         "title": "Why is Latin America becoming a breeding ground for 'fanatics of Israel'?",
         "link": "https://www.middleeasteye.net/opinion/why-is-latin-america-a-breeding-ground-for-israel"
-      },
-      {
-        "title": "Why Israel's opposition no longer wants Palestinian parties in government",
-        "link": "https://www.middleeasteye.net/news/why-israels-opposition-no-longer-wants-palestinian-parties-government"
-      },
-      {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-598"
       }
     ],
     "GeoTV": [
       {
-        "title": "Indonesia traps monkey to end rampage that wounded 18 people",
-        "link": "https://www.geo.tv/latest/676535-indonesia-traps-monkey-to-end-rampage-that-wounded-18-people"
+        "title": "Tom Holland debuts wedding band after new wedding celebration with Zendaya",
+        "link": "https://www.geo.tv/latest/676546-tom-holland-debuts-wedding-band-after-new-wedding-celebration-with-zendaya"
       },
       {
-        "title": "Meghan Markle spreads love in new message after Queen Camilla warning",
-        "link": "https://www.geo.tv/latest/676534-meghan-markle-spreads-love-in-new-message-after-queen-camilla-warning"
+        "title": "Princess Kate shares concern for cancer-hit King Charles amid secret rift",
+        "link": "https://www.geo.tv/latest/676542-princess-kate-shares-concern-for-cancer-hit-king-charles-amid-secret-rift"
       },
       {
-        "title": "Blake Lively in new legal fight after she demands $800K fee request",
-        "link": "https://www.geo.tv/latest/676538-blake-lively-in-new-legal-fight-after-she-demands-800k-fee-request"
+        "title": "Federal judge halts Trump financial records request from BBC in libel lawsuit",
+        "link": "https://www.geo.tv/latest/676536-federal-judge-halts-trump-financial-records-request-from-bbc-in-libel-suit"
       },
       {
-        "title": "Mexico, Argentina back Infantino as Fifa fight rages on",
-        "link": "https://www.geo.tv/latest/676530-mexico-argentina-back-infantino-as-fifa-fight-rages-on"
+        "title": "Monarchy transformed into 'accessible' institution with key decision",
+        "link": "https://www.geo.tv/latest/676541-monarchy-transformed-into-accessible-institution-with-key-decision"
       },
       {
-        "title": "Houston toddler Annelise Camp dies after Memorial Day drowning incident: what we know",
-        "link": "https://www.geo.tv/latest/676533-houston-toddler-annelise-camp-dies-after-memorial-day-drowning-incident"
+        "title": "Elliot Page reveals first reaction to Christopher Nolan's ‘The Odyssey'",
+        "link": "https://www.geo.tv/latest/676543-elliot-page-reveals-first-reaction-to-christopher-nolans-the-odyssey"
       }
     ],
     "NDTV": [
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Sheds 400 Points At Open Amid Negative Global Cues",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-7-august-us-iran-war-oil-price-11877356#publisher=newsstand"
+        "title": "Reels, Marital Discord, Rage: Man Strangles Wife, Flees To Bihar",
+        "link": "https://www.ndtv.com/india-news/man-kills-wife-over-mobile-addiction-reel-making-flees-to-bihar-11878245#publisher=newsstand"
       },
       {
-        "title": "Teacher Dead, 4 Injured In Shooting At Thailand School, Student Who Opened Fire Kills Self",
-        "link": "https://www.ndtv.com/world-news/debsirin-nonthaburi-school-shooting-teacher-dead-4-injured-in-shooting-at-thailand-school-student-who-opened-fire-kills-self-11877604#publisher=newsstand"
+        "title": "Opinion: Opinion | Punjab To Karnataka, Congress's Self-Inflicted Damage Is Getting Out Of Hand",
+        "link": "https://www.ndtv.com/opinion/punjab-to-karnataka-congresss-self-inflicted-damage-is-going-out-of-hand-11878417#publisher=newsstand"
       },
       {
-        "title": "Iran, US, Oman 'Close' To Hormuz Deal: What Each Party Wants From It",
-        "link": "https://www.ndtv.com/world-news/iran-us-oman-close-to-hormuz-deal-what-each-party-wants-from-it-11877596#publisher=newsstand"
+        "title": "Parliament Monsoon Session 2026 Highlights: Both Houses Adjourned For The Day",
+        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-proceedings-fcra-bill-plans-opposition-protest-today-both-houses-adjourned-for-the-11877391#publisher=newsstand"
       },
       {
-        "title": "Indian-Origin PhD Student, Who Went Missing During Hike In US, Found Dead",
-        "link": "https://www.ndtv.com/world-news/indian-origin-phd-student-vikram-mubayi-who-went-missing-during-hike-in-us-found-dead-11877229#publisher=newsstand"
+        "title": "Actor, Engineer, Extremist's Widow Among Syria's New Women MPs",
+        "link": "https://www.ndtv.com/world-news/actress-engineer-jihadists-widow-among-syrias-new-women-mps-11877561#publisher=newsstand"
       },
       {
-        "title": "\"Bhupesh Baghel Go Back\": Sloganeering Disrupts Punjab Congress Meet",
-        "link": "https://www.ndtv.com/india-news/sloganeering-disrupts-punjab-congress-meet-bhupesh-baghel-go-back-11874704#publisher=newsstand"
+        "title": "Delhi Man Cheated Of Rs 1.46 Lakh In US Parcel Scam, Nigerian Among 4 Arrested",
+        "link": "https://www.ndtv.com/india-news/delhi-man-cheated-of-rs-1-46-lakh-in-us-parcel-scam-nigerian-among-4-arrested-11878266#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-07 07:46 UTC"
+  "last_updated": "2026-08-07 08:40 UTC"
 }
