@@ -3,27 +3,39 @@
   "news": {
     "BBC": [
       {
+        "title": "Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Andy Burnham to embark on cost of living tour through the UK",
         "link": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Fifa criticises campaign to oust president Infantino",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+        "title": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
         "link": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-        "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss"
+        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+        "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-        "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss"
+        "title": "Fifa criticises campaign to oust president Infantino",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "It won’t be Trump who kills the ICC",
+        "link": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss"
+      },
+      {
+        "title": "Women’s Day in South Africa turns 70 with equality still out of reach",
+        "link": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss"
+      },
+      {
+        "title": "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
+        "link": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss"
+      },
       {
         "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
         "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss"
-      },
-      {
-        "title": "World number one Sabalenka upset by Alexandrova at Canadian Open",
-        "link": "https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss"
-      },
-      {
-        "title": "Israel announces tender for 627 settler units in occupied West Bank",
-        "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "Wildfire forces thousands of evacuations in Western Canada",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +74,10 @@
         "link": "https://www.dawn.com/news/2021671/egypt-could-join-pak-saudi-turkiye-defence-pact-once-technical-issues-resolved-says-turkish-foreign-minister"
       },
       {
+        "title": "Police form new team to probe Mir Raza Ali's murder; murder charge added to FIR",
+        "link": "https://www.dawn.com/news/2021701/police-form-new-team-to-probe-mir-raza-alis-murder-murder-charge-added-to-fir"
+      },
+      {
         "title": "Security forces kill 15 terrorists in Balochistan IBOs: state media",
         "link": "https://www.dawn.com/news/2021695/security-forces-kill-15-terrorists-in-balochistan-ibos-state-media"
       },
@@ -84,10 +88,6 @@
       {
         "title": "Pakistan's Muhammad Zubair becomes Tekken 8 champion at Esports World Cup in Paris",
         "link": "https://www.dawn.com/news/2021692/pakistans-muhammad-zubair-becomes-tekken-8-champion-at-esports-world-cup-in-paris"
-      },
-      {
-        "title": "Goods, oil transporters’ strike threatens industry, exports",
-        "link": "https://www.dawn.com/news/2021626/goods-oil-transporters-strike-threatens-industry-exports"
       }
     ],
     "APNews": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "IRGC says won't reopen Hormuz until US accepts all Iran's conditions",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-wont-reopen-hormuz-until-us-accepts-all-irans-conditions"
+      },
+      {
         "title": "Talks with US won't happen while interim deal is breached, says Araghchi",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/talks-us-wont-happen-while-interim-deal-breached-says-araghchi"
       },
@@ -129,13 +133,21 @@
       {
         "title": "Israeli media says Netanyahu okayed reconstruction in southern Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-media-says-netanyahu-okayed-reconstruction-southern-gaza"
-      },
-      {
-        "title": "Israeli settlers set fire to Palestinian property in West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-set-fire-palestinian-property-west-bank"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Princess Kate 'responds' to comparison with 'remarkable' royal figure",
+        "link": "https://www.geo.tv/latest/676800-princess-kate-responds-to-comparison-with-remarkable-royal-figure"
+      },
+      {
+        "title": "Accused Thai school shooter had watched violent content online, say police",
+        "link": "https://www.geo.tv/latest/676790-accused-thai-school-shooter-had-watched-violent-content-online-say-police"
+      },
+      {
+        "title": "Blake Lively gives fans sneak at her family after exhausting legal fight",
+        "link": "https://www.geo.tv/latest/676806-blake-lively-gives-fans-sneak-at-her-family-after-exhausting-legal-fight"
+      },
       {
         "title": "15 India-backed terrorists killed in Balochistan IBOs: security sources",
         "link": "https://www.geo.tv/latest/676805-15-india-backed-terrorists-killed-in-balochistan-ibos-security-sources"
@@ -143,18 +155,6 @@
       {
         "title": "Beatrice swallows bitter pill for Andrew, Fergie on special day: ‘deeply sad'",
         "link": "https://www.geo.tv/latest/676804-beatrice-swallows-bitter-pill-for-andrew-fergie-on-special-day-deeply-sad"
-      },
-      {
-        "title": "Naqvi visits Lahore airport, directs measures to expedite immigration process",
-        "link": "https://www.geo.tv/latest/676798-naqvi-visits-lahore-airport-directs-measures-to-expedite-immigration-process"
-      },
-      {
-        "title": "Kelly Clarkson cracks up Vegas crowd with ‘Stranger Things' joke",
-        "link": "https://www.geo.tv/latest/676799-kelly-clarkson-cracks-up-vegas-crowd-with-stranger-things-joke"
-      },
-      {
-        "title": "JI announces sit-ins across all four provinces on August 16",
-        "link": "https://www.geo.tv/latest/676796-ji-announces-sit-ins-across-all-four-provinces-on-august-16"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-09 08:54 UTC"
+  "last_updated": "2026-08-09 09:37 UTC"
 }
