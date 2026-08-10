@@ -1,25 +1,18 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Parliament Monsoon Session 2026 LIVE Updates: Kerala Renaming Proposal Among 4 Bills Set For Introduction In Lok Sabha",
-      "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-news-lok-sabha-rajya-sabha-opposition-protest-key-bills-tribunals-reforms-bill-2026-kerala-name-change-bill-fcra-row-11887934#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-10-august-us-iran-war-oil-price-11887896#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
+        "title": "Travelodge staff gave domestic abuser key to his victim's room",
+        "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
         "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Evidence that South African special forces murdered top detective shared with BBC",
@@ -28,13 +21,13 @@
       {
         "title": "China evacuates one million from homes as massive storm arrives",
         "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Brief relief ahead of fifth heatwave - as more areas could move into drought",
-        "link": "https://www.bbc.co.uk/weather/articles/cvgx1k415v2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Wildfires bear down on homes in Canada’s Okanagan region",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss"
+      },
       {
         "title": "Trump names Will Scharf as White House counsel ahead of midterms",
         "link": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
@@ -50,10 +43,6 @@
       {
         "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
         "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "Clashes in Iraq’s Kut city during protests over power shortages",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_kut-protests-escalate-over-iraqs-electricity-crisis-090826?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -81,12 +70,12 @@
     ],
     "Dawn": [
       {
-        "title": "Rs115bn WB-funded rehabilitation project restructured quietly",
-        "link": "https://www.dawn.com/news/2021814/rs115bn-wb-funded-rehabilitation-project-restructured-quietly"
-      },
-      {
         "title": "3rd phase of AJK polls: Voting underway in Poonch Division's Bagh and Haveli districts",
         "link": "https://www.dawn.com/news/2021864/3rd-phase-of-ajk-polls-voting-underway-in-poonch-divisions-bagh-and-haveli-districts"
+      },
+      {
+        "title": "Rs115bn WB-funded rehabilitation project restructured quietly",
+        "link": "https://www.dawn.com/news/2021814/rs115bn-wb-funded-rehabilitation-project-restructured-quietly"
       },
       {
         "title": "High court judge to investigate Mir Raza murder case, says home minister",
@@ -97,8 +86,8 @@
         "link": "https://www.dawn.com/news/2021826/tarbela-dam-attains-maximum-storage-level"
       },
       {
-        "title": "AJK govt appoints Public Service Commission members amid questions over timing",
-        "link": "https://www.dawn.com/news/2021823/ajk-govt-appoints-public-service-commission-members-amid-questions-over-timing"
+        "title": "Malaysian PM Anwar Ibrahim undergoing medical procedures, aide says",
+        "link": "https://www.dawn.com/news/2021885/malaysian-pm-anwar-ibrahim-undergoing-medical-procedures-aide-says"
       }
     ],
     "APNews": [],
@@ -126,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran, Oman 'very close' to reaching deal, Araghchi says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-very-close-reaching-deal-araghchi-says"
+      },
+      {
+        "title": "US army says 55 commercial vessels redirected amid its blockade against Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-army-says-55-commercial-vessels-redirected-amid-its-blockade-against"
+      },
+      {
         "title": "Houthi attack on Mocha kills seven, Yemeni military says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attack-mocha-kills-seven-yemeni-military-says"
       },
@@ -136,58 +133,50 @@
       {
         "title": "Watch: Netanyahu says Israel 'rejects' Trump's 15-point plan for Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-netanyahu-says-israel-rejects-trumps-15-point-plan-gaza"
-      },
-      {
-        "title": "Lebanon will not take part in next talks with Israel unless demands met: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-will-not-take-part-next-talks-israel-unless-demands-met-report"
-      },
-      {
-        "title": "Israeli attacks in south Lebanon continue, despite truce talks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-south-lebanon-continue-despite-truce-talks"
       }
     ],
     "GeoTV": [
       {
-        "title": "Aubrey Plaza welcomes first baby with Christopher Abbott",
-        "link": "https://www.geo.tv/latest/676897-aubrey-plaza-welcomes-first-baby-with-christopher-abbott"
+        "title": "NBA legend Don Nelson, second-winningest coach ever, dies aged 86",
+        "link": "https://www.geo.tv/latest/676901-nba-legend-don-nelson-second-winningest-coach-ever-dies-aged-86"
       },
       {
-        "title": "Ben Jones, Dukes of Hazzard's Cooter, dies at 84",
-        "link": "https://www.geo.tv/latest/676896-ben-jones-dukes-of-hazzards-cooter-dies-at-84"
+        "title": "Pakistan plans to open new gateway for foreign oil suppliers",
+        "link": "https://www.geo.tv/latest/676903-pakistan-plans-to-open-new-gateway-for-foreign-oil-suppliers"
       },
       {
-        "title": "Brooklyn Beckham's viral seawater pasta trick resurfaces, sparks fresh debate",
-        "link": "https://www.geo.tv/latest/676895-brooklyn-beckhams-viral-seawater-pasta-trick-resurfaces-sparks-fresh-debate"
+        "title": "Buckingham Palace reacts to Andrew Mountbatten-Windsor royal funeral plans",
+        "link": "https://www.geo.tv/latest/676909-buckingham-palace-reacts-to-andrew-mountbatten-windsor-royal-funeral-plans"
       },
       {
-        "title": "Polling for third phase of AJK elections underway in Poonch Division's Bagh, Haveli districts",
-        "link": "https://www.geo.tv/latest/676894-voting-begins-for-third-phase-of-ajk-polls-in-bagh-haveli-districts"
+        "title": "Textile industry warns indefinite goods transport strike could hit exports",
+        "link": "https://www.geo.tv/latest/676906-goods-transport-strike-puts-pakistans-textile-exports-at-risk"
       },
       {
-        "title": "Ariana Madix addresses Love Island USA exit rumors",
-        "link": "https://www.geo.tv/latest/676892-ariana-madix-addresses-love-island-usa-exit-rumors"
+        "title": "Growing Pakistan's AI ecosystem",
+        "link": "https://www.geo.tv/latest/676904-growing-pakistans-ai-ecosystem"
       }
     ],
     "NDTV": [
       {
-        "title": "Rift Emerges In NCPI As 3 MPs Break Ranks Over Ties With BJP",
-        "link": "https://www.ndtv.com/india-news/rift-emerges-in-ncpi-as-3-muslim-mps-break-ranks-over-ties-with-bjp-11887604#publisher=newsstand"
+        "title": "Iran Nears Hormuz Shipping Deal With Oman, Keeps Conditions For US",
+        "link": "https://www.ndtv.com/world-news/iran-nears-hormuz-shipping-deal-with-oman-keeps-conditions-for-us-11887915#publisher=newsstand"
       },
       {
-        "title": "Parliament Monsoon Session 2026 LIVE Updates: Kerala Renaming Proposal Among 4 Bills Set For Introduction In Lok Sabha",
-        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-news-lok-sabha-rajya-sabha-opposition-protest-key-bills-tribunals-reforms-bill-2026-kerala-name-change-bill-fcra-row-11887934#publisher=newsstand"
+        "title": "Students March To Jharkhand Assembly As Protest Enters Day 17",
+        "link": "https://www.ndtv.com/india-news/students-to-march-to-jharkhand-assembly-today-as-protest-enters-day-17-11888218#publisher=newsstand"
       },
       {
-        "title": "UP Police Detain 4 Over Sale Of Non-Vegetarian Food On Kanwar Routes",
-        "link": "https://www.ndtv.com/cities/up-police-detain-4-over-sale-of-non-vegetarian-food-on-kanwar-routes-11886300#publisher=newsstand"
+        "title": "North Korean Hackers Develop AI Tools To Automate Cyberattacks: Report",
+        "link": "https://www.ndtv.com/world-news/north-korean-hackers-develop-ai-tools-to-automate-cyberattacks-report-11887931#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-10-august-us-iran-war-oil-price-11887896#publisher=newsstand"
+        "title": "Opinion: Opinion | Saudi Arabia Has Money, Missiles, And America. Why Is It Still So Scared?",
+        "link": "https://www.ndtv.com/opinion/saudi-arabia-has-money-oil-and-america-why-is-it-still-so-scared-11888428#publisher=newsstand"
       },
       {
-        "title": "EV Industry To Create 40 Million Jobs By 2030, Pay 45% More: Report",
-        "link": "https://www.ndtv.com/business-news/electric-vehicle-ev-industry-create-40-million-jobs-2030-premium-salary-adecco-report-11887848#publisher=newsstand"
+        "title": "Jharkhand Students Protest Live Updates: Students In Ranchi Begin March To Assembly, Say Protest Will Be 'Peaceful'",
+        "link": "https://www.ndtv.com/india-news/jharkhand-students-protest-news-live-updates-after-failed-talks-students-prepare-for-ranchi-vidhan-sabha-march-today-jpsc-jssc-leak-hunger-strike-11888077#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-10 04:41 UTC"
+  "last_updated": "2026-08-10 06:01 UTC"
 }
