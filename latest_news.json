@@ -1,16 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Parliament Monsoon Session 2026 LIVE Updates: Both Houses Adjourned Till 2 pm Amid Opposition Protest On Various Issues",
-      "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-news-lok-sabha-rajya-sabha-opposition-protest-key-bills-tribunals-reforms-bill-2026-kerala-name-change-bill-fcra-row-11887934#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "Weather LIVE Updates: Delhi Crosses August Rainfall Average In First 8 Days",
-      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-delhi-crosses-august-rainfall-average-in-first-8-days-11887872#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -18,23 +7,31 @@
         "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "'Dust devil' spins through London park",
+        "link": "https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Travelodge staff gave domestic abuser key to his victim's room",
         "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Thames Water gave finance boss a £1m signing-on fee",
-        "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ban on 'subscription traps' brought forward by three months",
-        "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Evidence that South African special forces murdered top detective shared with BBC",
         "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thames Water gave finance boss a £1m signing-on fee",
+        "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings",
+        "link": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss"
+      },
+      {
+        "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
+        "link": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss"
+      },
       {
         "title": "June and July hottest on record in Western Europe, monitor says",
         "link": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss"
@@ -46,14 +43,6 @@
       {
         "title": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
         "link": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss"
-      },
-      {
-        "title": "Who is Mohsen Rezaei, and how significant is his appointment?",
-        "link": "https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss"
-      },
-      {
-        "title": "Tropical Storm Dolphin batters eastern China with heavy rain, strong winds",
-        "link": "https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -85,6 +74,10 @@
         "link": "https://www.dawn.com/news/2021886/iran-says-pak-saudi-turkiye-deal-shows-change-in-perception-towards-us"
       },
       {
+        "title": "Sindh govt defers judicial commission decision on Mir Raza Ali murder case probe",
+        "link": "https://www.dawn.com/news/2021913/sindh-govt-defers-judicial-commission-decision-on-mir-raza-ali-murder-case-probe"
+      },
+      {
         "title": "3rd phase of AJK polls: PPP continues to allege rigging as voting under way in Poonch Division's Bagh, Haveli",
         "link": "https://www.dawn.com/news/2021864/3rd-phase-of-ajk-polls-ppp-continues-to-allege-rigging-as-voting-under-way-in-poonch-divisions-bagh-haveli"
       },
@@ -95,10 +88,6 @@
       {
         "title": "Delay in judicial appointments: IHC tells govt to explain consequences of keeping PM's advice pending",
         "link": "https://www.dawn.com/news/2021893/delay-in-judicial-appointments-ihc-tells-govt-to-explain-consequences-of-keeping-pms-advice-pending"
-      },
-      {
-        "title": "Late night terrorist attack on Upper Swat police post foiled: DPO",
-        "link": "https://www.dawn.com/news/2021906/late-night-terrorist-attack-on-upper-swat-police-post-foiled-dpo"
       }
     ],
     "APNews": [],
@@ -126,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Video: Yemen's Houthis attack port in Mocha",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/video-yemens-houthis-attack-port-mocha"
+      },
+      {
+        "title": "UN expresses 'deep concern' about Houthi attacks",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-expresses-deep-concern-about-houthi-attacks"
+      },
+      {
         "title": "Zionism has warped the lexicon, so words are now convenient weapons",
         "link": "https://www.middleeasteye.net/opinion/zionism-warped-the-lexicon-words-now-convenient-weapons"
       },
@@ -136,58 +133,50 @@
       {
         "title": "UK couple detained in Iran ends hunger strike",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-couple-detained-iran-ends-hunger-strike"
-      },
-      {
-        "title": "Israeli strike causes 'major explosion' in south Lebanon, state media reports",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-causes-major-explosion-south-lebanon-state-media-reports"
-      },
-      {
-        "title": "US says it has rerouted 55 Iran-linked vessels",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-it-has-rerouted-55-iran-linked-vessels"
       }
     ],
     "GeoTV": [
       {
-        "title": "Fact-check: Screenshot falsely shows Kasim Khan discussing mother's reported plans to remarry",
-        "link": "https://www.geo.tv/latest/676939-fact-check-screenshot-falsely-shows-kasim-khan-discussing-mothers-reported-plans-to-remarry"
+        "title": "Prince Harry gives strict instructions to Meghan amid Palace chaos",
+        "link": "https://www.geo.tv/latest/676945-prince-harry-gives-strict-instructions-to-meghan-amid-palace-chaos"
       },
       {
-        "title": "AFC, Uefa and Concacaf accuse Fifa leadership of breach of trust over World Cup plan",
-        "link": "https://www.geo.tv/latest/676930-afc-uefa-and-concacaf-accuse-fifa-leadership-of-breach-of-trust-over-world-cup-plan"
+        "title": "PML-N's AJK lawmaker Rukhsar Ahmed denies child grooming, rape allegations",
+        "link": "https://www.geo.tv/latest/676946-pml-ns-ajk-lawmaker-rukhsar-ahmed-denies-child-grooming-rape-allegations"
       },
       {
-        "title": "King Charles delights 9-year-old actor with personal letter: ‘So proud'",
-        "link": "https://www.geo.tv/latest/676937-king-charles-delights-9-year-old-actor-with-personal-letter-so-proud"
+        "title": "WATCH: Brazilian soccer player falls into tunnel while celebrating goal",
+        "link": "https://www.geo.tv/latest/676940-watch-brazilian-soccer-player-falls-into-tunnel-while-celebrating-goal"
       },
       {
-        "title": "Meta launches new AI model Muse Glimmer as Zuckerberg champions open-weight push",
-        "link": "https://www.geo.tv/latest/676938-meta-launches-new-ai-model-muse-glimmer-as-zuckerberg-champions-open-weight-push"
+        "title": "Palace shares update as young princess takes major turn for future role",
+        "link": "https://www.geo.tv/latest/676942-palace-shares-update-as-young-princess-takes-major-turn-for-future-role"
       },
       {
-        "title": "Royal family releases statement as King Charles cancer details revealed",
-        "link": "https://www.geo.tv/latest/676931-royal-family-releases-statement-as-king-charles-cancer-details-revealed"
+        "title": "TWICE fans react as Jeongyeon parts ways with JYP Entertainment",
+        "link": "https://www.geo.tv/latest/676935-twice-fans-react-as-jeongyeon-parts-ways-with-jyp-entertainment"
       }
     ],
     "NDTV": [
       {
-        "title": "Over 1 Million Evacuated As Typhoon Dolphin Disrupts Flights Across China",
-        "link": "https://www.ndtv.com/world-news/over-1-million-evacuated-as-typhoon-dolphin-disrupts-flights-across-eastern-china-shanghai-11889482#publisher=newsstand"
+        "title": "Man Arrested For Sexually Harassing Girl, 9, Dies By Suicide In UP Police Station",
+        "link": "https://www.ndtv.com/india-news/man-arrested-for-sexually-harassing-girl-9-dies-by-suicide-in-up-police-station-11889184#publisher=newsstand"
       },
       {
-        "title": "Jharkhand Public Service Commission Ex-Chief Arrested Amid Students' Protest",
-        "link": "https://www.ndtv.com/india-news/students-to-march-to-jharkhand-assembly-today-as-protest-enters-day-17-11888218#publisher=newsstand"
+        "title": "Child Among 13 Killed In One Of Deadliest Ukraine Drone Strikes In Russia",
+        "link": "https://www.ndtv.com/world-news/russia-ukraine-war-12-dead-39-hurt-in-ukrainian-drone-attack-inside-russia-11889553#publisher=newsstand"
       },
       {
-        "title": "Parliament Monsoon Session 2026 LIVE Updates: Both Houses Adjourned Till 2 pm Amid Opposition Protest On Various Issues",
-        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-news-lok-sabha-rajya-sabha-opposition-protest-key-bills-tribunals-reforms-bill-2026-kerala-name-change-bill-fcra-row-11887934#publisher=newsstand"
+        "title": "Rajya Sabha Passes Bill To Recognise Digital Bank Records As Evidence",
+        "link": "https://www.ndtv.com/india-news/rajya-sabha-passes-bill-to-recognise-digital-bank-records-as-evidence-11889646#publisher=newsstand"
       },
       {
-        "title": "Weather LIVE Updates: Delhi Crosses August Rainfall Average In First 8 Days",
-        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-delhi-crosses-august-rainfall-average-in-first-8-days-11887872#publisher=newsstand"
+        "title": "Ex-Armyman Killed, 2 Injured In Wrong-Side Hit-And-Run, SUV Abandoned",
+        "link": "https://www.ndtv.com/india-news/hyderabad-hydershakote-ex-armyman-killed-2-injured-in-wrong-side-hit-and-run-mahindra-xuv-abandoned-11889839#publisher=newsstand"
       },
       {
-        "title": "Bengal BJP Chief Says His Name Was Misused For Extortion, Warns Of Action",
-        "link": "https://www.ndtv.com/india-news/west-bengal-bjp-chief-samik-bhattacharya-says-his-name-was-misused-for-extortion-11889486#publisher=newsstand"
+        "title": "How A Stolen Phone Led Delhi Police To Interstate Cyber Fraud Network",
+        "link": "https://www.ndtv.com/india-news/how-a-stolen-phone-led-delhi-police-to-interstate-cyber-fraud-network-11889577#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-10 10:47 UTC"
+  "last_updated": "2026-08-10 11:36 UTC"
 }
