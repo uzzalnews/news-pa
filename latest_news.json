@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Weather LIVE Updates: Delhi-NCR Wakes Up To Pleasant Weather, Rain Predicted Till August 16",
-      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-delhi-ncr-sees-10-days-of-satisfactory-air-quality-11892478#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "Trump hidden in catering truck in secret plane swap over Iran threat, reports say",
+        "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Amber heat health alerts in place for almost all of England as next heatwave hits",
         "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss"
@@ -17,12 +15,8 @@
         "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "At least 132 killed in Colombia's largest  earthquake in years",
-        "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump says it would be 'terrible mistake' to remove Infantino",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&at_campaign=rss"
+        "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+        "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Rescue efforts intensify as quake devastates western Colombia towns",
+        "link": "https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss"
+      },
+      {
+        "title": "Swiatek to face Svitolina in Canadian Open semifinal",
+        "link": "https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss"
+      },
+      {
+        "title": "What to know about the US primaries in Connecticut, Vermont, and Alabama",
+        "link": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-the-us-primaries-in-connecticut-vermont-and-alabama?traffic_source=rss"
+      },
+      {
+        "title": "‘My father is in RSS’: India’s Gen Z confronts Modi-loving parents at home",
+        "link": "https://www.aljazeera.com/news/2026/8/11/my-father-is-in-rss-indias-gen-z-confronts-modi-loving-parents-at-home?traffic_source=rss"
+      },
+      {
         "title": "Bashar al-Assad, Atef Najib sentenced to death in landmark Syria trial",
         "link": "https://www.aljazeera.com/news/2026/8/11/bashar-al-assad-atef-najib-sentenced-to-death-in-landmark-syria-trial?traffic_source=rss"
-      },
-      {
-        "title": "Trump sends conflicting signals on Iran strategy",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss"
-      },
-      {
-        "title": "Iran threat prompted secret Trump flight from Turkiye: Reports",
-        "link": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine’s 40-day campaign has not brought the war closer to an end",
-        "link": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss"
-      },
-      {
-        "title": "Indonesian officials race to contain wildfires as dozens of schools shut",
-        "link": "https://www.aljazeera.com/news/2026/8/11/indonesian-officials-race-to-contain-wildfires-as-dozens-of-schools-shut?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,20 +74,20 @@
         "link": "https://www.dawn.com/news/2022098/president-zardari-approves-additional-judges-appointments-to-high-courts-ending-weeks-long-deadlock"
       },
       {
+        "title": "Ousted Syrian president Bashar al-Assad sentenced to death in absentia",
+        "link": "https://www.dawn.com/news/2022132/ousted-syrian-president-bashar-al-assad-sentenced-to-death-in-absentia"
+      },
+      {
+        "title": "Bahrain FM congratulates Dar on Makkah defence pact, expresses desire to visit Pakistan",
+        "link": "https://www.dawn.com/news/2022117/bahrain-fm-congratulates-dar-on-makkah-defence-pact-expresses-desire-to-visit-pakistan"
+      },
+      {
         "title": "NCCIA summons 4 individuals on Sharjeel Memon's complaint in connection with Mir Raza's case",
         "link": "https://www.dawn.com/news/2022114/nccia-summons-4-individuals-on-sharjeel-memons-complaint-in-connection-with-mir-razas-case"
       },
       {
         "title": "World Bank unhappy over fund diversion from Balochistan",
         "link": "https://www.dawn.com/news/2022053/world-bank-unhappy-over-fund-diversion-from-balochistan"
-      },
-      {
-        "title": "'Not an ordinary year': Pakistani students receive their CIE AS & A Level results for June series",
-        "link": "https://www.dawn.com/news/2022121/not-an-ordinary-year-pakistani-students-receive-their-cie-as-amp-a-level-results-for-june-series"
-      },
-      {
-        "title": "Bahrain FM congratulates Dar on Makkah defence pact, expresses desire to visit Pakistan",
-        "link": "https://www.dawn.com/news/2022117/bahrain-fm-congratulates-dar-on-makkah-defence-pact-expresses-desire-to-visit-pakistan"
       }
     ],
     "APNews": [],
@@ -121,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Brent oil price passes $90 as Iran-US deal hopes fade",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/brent-oil-price-passes-90-iran-us-deal-hopes-fade"
+      },
+      {
+        "title": "Syria: Court sentences Bashar al-Assad to death in absentia in landmark trial",
+        "link": "https://www.middleeasteye.net/news/syria-court-sentences-bashar-al-assad-death-absentia-landmark-trial"
+      },
+      {
+        "title": "Two wounded in Israeli drone attack in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-wounded-israeli-drone-attack-lebanon-targeting-ambulance"
+      },
+      {
         "title": "Iran to increase gas production, says state minister",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-increase-gas-production-says-state-minister"
       },
       {
         "title": "Israel's 'pilot zones' turn Lebanese sovereignty on its head",
         "link": "https://www.middleeasteye.net/opinion/israels-pilot-zones-turn-lebanese-sovereignty-its-head"
-      },
-      {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-600"
-      },
-      {
-        "title": "Report: Israel withholding 1,700 Palestinian bodies for future exchange deals",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-withholding-1700-palestinian-bodies-future-exchange-deals"
-      },
-      {
-        "title": "Report: Trump boarded secret flight from Turkey amid Iranian assassination threat",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-trump-boarded-secret-flight-turkey-amid-iranian-assassination"
       }
     ],
     "GeoTV": [
       {
-        "title": "AFC, Uefa, Concacaf discuss alternative competitions amid Fifa crisis",
-        "link": "https://www.geo.tv/latest/677084-afc-uefa-concacaf-discuss-alternative-competitions-amid-fifa-crisis"
+        "title": "Prince Edward's ex disputes longtime claims about King Charles, Prince Harry",
+        "link": "https://www.geo.tv/latest/677094-prince-edwards-ex-disputes-longtime-claims-about-king-charles-prince-harry"
       },
       {
-        "title": "Prince Edward receives heartbreaking news about 'immeasurable' loss",
-        "link": "https://www.geo.tv/latest/677078-prince-edward-receives-heartbreaking-news-about-immeasurable-loss"
+        "title": "Trump took secret flight out of Turkiye due to Iran threat: report",
+        "link": "https://www.geo.tv/latest/677090-trump-took-secret-flight-out-of-turkiye-due-to-iran-threat-report"
       },
       {
-        "title": "Jackie, the bald eagle who captivated millions, dies after 3-week battle",
-        "link": "https://www.geo.tv/latest/677085-jackie-the-bald-eagle-who-captivated-millions-dies-after-3-week-battle"
+        "title": "Meghan's beloved family member honoured for 'resilience' in new video",
+        "link": "https://www.geo.tv/latest/677092-meghans-beloved-family-member-honoured-for-resilience-in-new-video"
       },
       {
-        "title": "Mir Raza Ali 'murder' case: Probe team visits crime scene to pursue fresh leads",
-        "link": "https://www.geo.tv/latest/677079-mir-raza-ali-murder-case-probe-team-visits-crime-scene-to-pursue-fresh-leads"
+        "title": "Holly Ramsay celebrates pregnancy with sweet baby bump snaps",
+        "link": "https://www.geo.tv/latest/677095-holly-ramsay-celebrates-pregnancy-with-sweet-baby-bump-snaps"
       },
       {
-        "title": "Amy Dowden celebrates 36th birthday surrounded by loved ones",
-        "link": "https://www.geo.tv/latest/677077-amy-dowden-celebrates-36th-birthday-surrounded-by-loved-ones"
+        "title": "King Charles death news blunder: Truth behind the shocking incident",
+        "link": "https://www.geo.tv/latest/677096-king-charles-death-news-blunder-truth-behind-the-shocking-incident"
       }
     ],
     "NDTV": [
       {
-        "title": "Opinion: Opinion | Google Is Turning The Internet Into Its Own Prison, And Nobody Can Do Anything About It",
-        "link": "https://www.ndtv.com/opinion/google-is-turning-the-internet-into-its-own-prison-and-nobody-can-do-anything-about-it-11893726#publisher=newsstand"
+        "title": "Syria's Ex-President Bashar Al-Assad Sentenced To Death For Crimes Against Humanity",
+        "link": "https://www.ndtv.com/world-news/syria-ex-president-bashar-al-assad-sentenced-to-death-for-crimes-against-humanity-11894097#publisher=newsstand"
       },
       {
-        "title": "Protest vs Protest Outside Parliament Over Amit Shah, Rahul Gandhi, Ram Temple",
-        "link": "https://www.ndtv.com/india-news/protest-vs-protest-outside-parliament-as-monsoon-session-logjam-continues-11893450#publisher=newsstand"
+        "title": "3 Of Family Killed After Speeding Car Rams Truck In Madhya Pradesh",
+        "link": "https://www.ndtv.com/india-news/3-of-family-killed-after-speeding-car-rams-truck-in-madhya-pradesh-11894066#publisher=newsstand"
       },
       {
-        "title": "Indian Techie Dies In US After Pickup Truck Rams His Car Head-On",
-        "link": "https://www.ndtv.com/world-news/indian-techie-dies-in-us-after-pickup-truck-rams-his-car-head-on-11893222#publisher=newsstand"
+        "title": "Five Years On, Taliban Builds Global Ties Despite Lack Of Recognition",
+        "link": "https://www.ndtv.com/world-news/afghanistan-taliban-government-five-years-on-taliban-builds-global-ties-despite-lack-of-recognition-11893652#publisher=newsstand"
       },
       {
-        "title": "Weather LIVE Updates: Delhi-NCR Wakes Up To Pleasant Weather, Rain Predicted Till August 16",
-        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-delhi-ncr-sees-10-days-of-satisfactory-air-quality-11892478#publisher=newsstand"
+        "title": "'Electric Shocks, Sexual Abuse': Ex-Ukrainian Prisoners Of War Speak At UN",
+        "link": "https://www.ndtv.com/world-news/russia-ukraine-war-electric-shocks-sexual-abuse-ex-ukrainian-prisoners-of-war-speak-at-un-11893497#publisher=newsstand"
       },
       {
-        "title": "More Jobs, Lower Power Bill? What India's 300 GW Clean Energy Feat Means For You",
-        "link": "https://www.ndtv.com/business-news/more-jobs-lower-power-bill-india-clean-energy-solar-manufacturing-china-11892532#publisher=newsstand"
+        "title": "Why Iran Is In Spotlight After Water Systems Hacked In 7 US States",
+        "link": "https://www.ndtv.com/world-news/why-iran-is-in-spotlight-after-water-systems-hacked-in-7-us-states-11893858#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-11 08:35 UTC"
+  "last_updated": "2026-08-11 09:37 UTC"
 }
