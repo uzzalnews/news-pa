@@ -1,7 +1,22 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Parliament Monsoon Session 2026 LIVE Updates: 'Don't Run Away': Kiren Rijiju Challenges Rahul Gandhi To Face Amit Shah In Parliament",
+      "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-delimitation-bill-fcra-row-kiren-rijiju-amit-shah-rahul-gandhi-11892876#publisher=newsstand"
+    },
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Sheds 300 Points Amid Uncertainty Over Strait of Hormuz",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-11-august-us-iran-war-oil-price-11892742#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
+        "link": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Amber heat health alerts for almost all of England as next heatwave begins",
         "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss"
@@ -9,10 +24,6 @@
       {
         "title": "Councils to get more powers to stop vape and betting shops, PM announces",
         "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "New Forest firefighting to continue overnight as cars abandoned",
-        "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "At least 132 killed in Colombia's largest  earthquake in years",
@@ -25,24 +36,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "Where did all the money go if the US is running out of weapons?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss"
+        "title": "Family watches helplessly as Colombia quake destroys home",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss"
       },
       {
-        "title": "Colombia’s far-right government recognises Israeli claim over Golan Heights",
-        "link": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss"
+        "title": "Trump’s media company reports $238m loss",
+        "link": "https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss"
       },
       {
-        "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-        "link": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss"
+        "title": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
+        "link": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss"
       },
       {
-        "title": "Trump orders fewer childhood vaccinations including splitting up MMR",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss"
+        "title": "China’s Long March 7A rocket explodes after lift-off",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss"
       },
       {
-        "title": "Soldiers take cover as Colombia quake flattens military barracks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss"
+        "title": "Fire rages after drone strikes Libya’s largest oil refinery",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +126,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Libyan intelligence chief for Haftar's eastern-based forces assassinated: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/libyan-intelligence-chief-haftars-eastern-based-forces-assassinated"
+      },
+      {
         "title": "Iran says it is not concerned by new 'Mecca Joint Defence Agreement'",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-not-concerned-new-mecca-joint-defence-agreement-0"
       },
@@ -129,54 +144,50 @@
       {
         "title": "Trump suggests escalation against Iran remains a possibility",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-suggests-escalation-against-iran-remains-possibility"
-      },
-      {
-        "title": "Trump asks Iran for war reparations in new tit-for-tat demand",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-asks-iran-war-reparations-new-tit-tat-demand"
       }
     ],
     "GeoTV": [
       {
+        "title": "Prince Harry's team makes announcement about new honour: ‘We're excited'",
+        "link": "https://www.geo.tv/latest/677067-prince-harrys-team-makes-announcement-about-new-honour-were-excited"
+      },
+      {
+        "title": "Prince George receives update on new security protocol at Eton College",
+        "link": "https://www.geo.tv/latest/677063-prince-george-receives-update-on-new-security-protocol-at-eton-college"
+      },
+      {
+        "title": "Pakistan's flawed petroleum policy",
+        "link": "https://www.geo.tv/latest/677061-pakistans-flawed-petroleum-policy"
+      },
+      {
+        "title": "President Zardari approves appointment of additional judges to high courts",
+        "link": "https://www.geo.tv/latest/677060-president-zardari-approves-appointment-of-additional-judges-to-high-courts"
+      },
+      {
         "title": "Crude oil holds above $87 as US-Iran deal hopes, Hormuz reopening prospects fizzle",
         "link": "https://www.geo.tv/latest/677059-oil-holds-above-87-as-hopes-for-us-iran-deal-and-hormuz-reopening-fade"
-      },
-      {
-        "title": "Jenna Bush Hager explains 'Today' absence",
-        "link": "https://www.geo.tv/latest/677058-jenna-bush-hager-explains-today-absence"
-      },
-      {
-        "title": "Demi Lovato confirms surprise 'Camp Rock 3' cameo",
-        "link": "https://www.geo.tv/latest/677056-demi-lovato-confirms-surprise-camp-rock-3-cameo"
-      },
-      {
-        "title": "Reggie Bannister, beloved 'Phantasm' star, dies at 80",
-        "link": "https://www.geo.tv/latest/677054-reggie-bannister-beloved-phantasm-star-dies-at-80"
-      },
-      {
-        "title": "Gisele Bündchen's son follows in Joaquim Valente's Jiu-Jitsu footsteps",
-        "link": "https://www.geo.tv/latest/677052-gisele-bndchen-shares-sweet-photo"
       }
     ],
     "NDTV": [
       {
-        "title": "Telangana Teen Dies After Injection Given For Fever, Cold At Rural Clinic",
-        "link": "https://www.ndtv.com/telangana-news/telangana-teen-dies-after-injection-given-for-fever-cold-at-rural-clinic-11892692#publisher=newsstand"
+        "title": "Parliament Monsoon Session 2026 LIVE Updates: 'Don't Run Away': Kiren Rijiju Challenges Rahul Gandhi To Face Amit Shah In Parliament",
+        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-delimitation-bill-fcra-row-kiren-rijiju-amit-shah-rahul-gandhi-11892876#publisher=newsstand"
       },
       {
-        "title": "Video: People Flee Collapsing Building As Earthquake Kills 132 In Colombia",
-        "link": "https://www.ndtv.com/world-news/video-colombia-earthquake-people-flee-collapsing-building-as-earthquake-kills-132-in-colombia-11892624#publisher=newsstand"
+        "title": "Trump Hid In Food Truck, Used Military Jet To Leave Turkey Amid Iran Threat",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-military-flight-catering-truck-how-us-president-donald-trump-escaped-from-turkey-amid-iran-assassination-threat-11892566#publisher=newsstand"
       },
       {
-        "title": "Global Banks Pull Credit Cards From Indians: How To Cut Travel Costs Abroad",
-        "link": "https://www.ndtv.com/business-news/global-banks-indians-credit-cards-foreign-travel-forex-how-to-save-money-11888220#publisher=newsstand"
+        "title": "'Hidden Treasure' Promise Used To Cheat 11 People Of Rs 1 Crore In Hyderabad",
+        "link": "https://www.ndtv.com/hyderabad-news/hidden-treasure-promise-used-to-cheat-11-people-of-rs-1-crore-in-hyderabad-11892772#publisher=newsstand"
       },
       {
-        "title": "Centre Earns Rs 10,463 Crore From Custom Duty On Precious Metals In 3 Months. 161 kg Gold Seized In Raids",
-        "link": "https://www.ndtv.com/business-news/gold-import-duty-hike-platinum-silver-custom-duty-india-earning-rbi-reserves-11892595#publisher=newsstand"
+        "title": "Opinion: Opinion | Three Adversaries Become 4: Why The Saudi-Turkey-Pak Deal Is A Headache For India",
+        "link": "https://www.ndtv.com/opinion/three-adversaries-become-4-why-the-saudi-turkey-pak-deal-is-a-headache-for-india-11892814#publisher=newsstand"
       },
       {
-        "title": "US Court Dismisses Criminal Charges Against Gautam Adani, Sagar Adani",
-        "link": "https://www.ndtv.com/india-news/us-court-dismisses-criminal-charges-against-gautam-adani-sagar-adani-11892598#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Sheds 300 Points Amid Uncertainty Over Strait of Hormuz",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-11-august-us-iran-war-oil-price-11892742#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +213,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-11 04:07 UTC"
+  "last_updated": "2026-08-11 05:20 UTC"
 }
