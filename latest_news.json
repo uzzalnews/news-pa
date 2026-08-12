@@ -1,16 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Parliament Monsoon Session 2026 LIVE Updates: Amit Shah \"Ready To Answer\" Opposition On Delhi Protests",
-      "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-fcra-bill-lok-sabha-and-rajya-sabha-proceedings-opposition-protest-today-justice-yashwant-varma-cash-row-11897896#publisher=newsstand"
-    },
-    {
-      "source": "NDTV",
-      "title": "Weather Today LIVE Updates: Weather Office Predicts Light Rain Across Delhi-NCR Till August 17",
-      "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-imd-monsoon-alert-heavy-rainfall-forecast-across-india-weather-office-predicts-light-rain-across-delhi-ncr-t-11897434#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -18,12 +7,8 @@
         "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Woman attacked by Simon Levy feels betrayed he was allowed to attack more women",
-        "link": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
-        "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss"
+        "title": "Burnham says disposable BBQ ban under consideration",
+        "link": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Trump confirms he switched planes after Nato summit because of possible threat",
@@ -32,28 +17,32 @@
       {
         "title": "Early release scheme risks more serious crimes, probation chief warns",
         "link": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Serious failings found in new military crimes unit, leaked report finds",
+        "link": "https://www.bbc.co.uk/news/articles/cwy4w62p6gvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Putin warns of tit-for-tat seizures of European vessels",
+        "link": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
+        "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss"
+      },
+      {
+        "title": "Woman rescued after 36 hours under rubble in Colombia",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss"
+      },
+      {
+        "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
+        "link": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss"
+      },
+      {
         "title": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
         "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss"
-      },
-      {
-        "title": "More than 100 passengers rescued after Indonesia ferry fire",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss"
-      },
-      {
-        "title": "Pogba suffers new injury setback with Monaco future now in doubt",
-        "link": "https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss"
-      },
-      {
-        "title": "Zambia’s president rallies for second term ahead of election",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss"
-      },
-      {
-        "title": "A hydrogen-powered vehicle sets new land speed record",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/a-hydrogen-powered-vehicle-sets-new-land-speed-record?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,16 +82,20 @@
         "link": "https://www.dawn.com/news/2022341/pakistan-condemns-houthi-attack-in-red-sea-that-claimed-lives-of-3-nationals"
       },
       {
-        "title": "Three cops arrested for alleged involvement in prisoner's escape in Rawalpindi",
-        "link": "https://www.dawn.com/news/2022355/three-cops-arrested-for-alleged-involvement-in-prisoners-escape-in-rawalpindi"
+        "title": "3 cops arrested for alleged involvement in prisoner's escape in Rawalpindi",
+        "link": "https://www.dawn.com/news/2022355/3-cops-arrested-for-alleged-involvement-in-prisoners-escape-in-rawalpindi"
       },
       {
-        "title": "Trump says secret flight change at directives of Secret Service, plane ultimately used faced 'greater risk'",
-        "link": "https://www.dawn.com/news/2022334/trump-says-secret-flight-change-at-directives-of-secret-service-plane-ultimately-used-faced-greater-risk"
+        "title": "Anthropic unveils AI watermarks to comply with EU law",
+        "link": "https://www.dawn.com/news/2022365/anthropic-unveils-ai-watermarks-to-comply-with-eu-law"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Hong’s Defeat in Wisconsin Shows the Limits of the Progressive Movement",
+        "link": "https://www.nytimes.com/2026/08/12/us/elections/david-crowley-wisconsin-governors-primary.html"
+      },
       {
         "title": "8 Takeaways from Tuesday’s Primaries",
         "link": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html"
@@ -118,13 +111,21 @@
       {
         "title": "See How Trump’s Secret Air Force One Swap Unfolded",
         "link": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-switch.html"
-      },
-      {
-        "title": "Iran Said to Have Known Details of Trump’s Stay at NATO Summit",
-        "link": "https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Turkey's cross party Kurdish peace coalition makes history with PKK clemency law",
+        "link": "https://www.middleeasteye.net/news/turkeys-cross-party-kurdish-peace-coalition-makes-history-pkk-clemency-law"
+      },
+      {
+        "title": "Iran and US did not discuss ceasefire extension, senior Iranian official says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-and-us-did-not-discuss-ceasefire-extension-senior-iranian-official"
+      },
+      {
+        "title": "Reform UK's love affair with a Middle Eastern dictatorship",
+        "link": "https://www.middleeasteye.net/big-story/reform-uks-love-affair-middle-eastern-dictatorship"
+      },
       {
         "title": "Four killed in the Red Sea as Houthis claim ship attack",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-killed-red-sea-houthis-claim-ship-attack"
@@ -132,65 +133,61 @@
       {
         "title": "Pakistan interior minister in Iran for talks",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-interior-minister-iran-talks"
-      },
-      {
-        "title": "Burnham is the new captain, but he's charting the same course on Israel",
-        "link": "https://www.middleeasteye.net/opinion/burnham-new-captain-hes-charting-same-course-israel"
-      },
-      {
-        "title": "Morning update",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-601"
-      },
-      {
-        "title": "Attack on ship in Red Sea kills three Pakistani nationals, wounds another",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-ship-red-sea-kills-three-pakistani-nationals-wounds-another"
       }
     ],
     "GeoTV": [
       {
-        "title": "Balmoral Castle update saddens fans ahead of royal family's Summer reunion",
-        "link": "https://www.geo.tv/latest/677275-balmoral-castle-update-saddens-fans-ahead-of-royal-familys-summer-reunion"
+        "title": "Daycare worker faces assault charges over toddler injury in Bucks County",
+        "link": "https://www.geo.tv/latest/677284-daycare-worker-faces-assault-charges-over-toddler-injury-in-bucks-county"
       },
       {
-        "title": "Islamabad police issue traffic plan for Independence Day event",
-        "link": "https://www.geo.tv/latest/677270-islamabad-police-issue-traffic-plan-for-independence-day-event"
+        "title": "Jenna Ortega's dramatic transformation sparks concern among fans",
+        "link": "https://www.geo.tv/latest/677283-jenna-ortegas-dramatic-transformation-sparks-concern-among-fans"
       },
       {
-        "title": "Rain pounds Beijing as Typhoon Dolphin sweeps through China",
-        "link": "https://www.geo.tv/latest/677276-rain-pounds-beijing-as-typhoon-dolphin-sweeps-through-china"
+        "title": "Katie Price surprises Harvey with unforgettable day out at Ibiza hotspot",
+        "link": "https://www.geo.tv/latest/677273-katie-price-surprises-harvey-with-unforgettable-day-out-at"
       },
       {
-        "title": "Princess Charlotte takes on official royal role as Prince George departs",
-        "link": "https://www.geo.tv/latest/677267-princess-charlotte-takes-on-official-royal-role-as-prince-george-departs"
+        "title": "Prince William refuses to carry on King Charles beloved tradition",
+        "link": "https://www.geo.tv/latest/677282-prince-william-refuses-to-carry-on-king-charles-beloved-tradition"
       },
       {
-        "title": "Zara Tindall takes on prominent role as royals head off to summer break",
-        "link": "https://www.geo.tv/latest/677278-zara-tindall-takes-on-prominent-role-as-royals-head-off-to-summer-break"
+        "title": "Jenna Ortega looks back at her mistakes as child star",
+        "link": "https://www.geo.tv/latest/677281-jenna-ortega-looks-back-on-her-mistakes-as-childhood-star"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Thoda Badal Gaye Ho\": M Kharge, PM Modi's Banter At Wedding Reception",
-        "link": "https://www.ndtv.com/india-news/thoda-badal-gaye-ho-m-kharge-pm-modis-banter-at-wedding-reception-11899567#publisher=newsstand"
+        "title": "After Air India Marijuana Row, Ministry Demands Dope Test Protocol Review",
+        "link": "https://www.ndtv.com/india-news/after-air-india-marijuana-row-ministry-demands-dope-test-protocol-review-11900008#publisher=newsstand"
       },
       {
-        "title": "Assam Government To 'Appreciate' YouTubers, Influencers For Flood Aid",
-        "link": "https://www.ndtv.com/india-news/assam-government-to-appreciate-youtubers-influencers-for-flood-aid-11899498#publisher=newsstand"
+        "title": "Senior Cop, Guard Injured After SUV Hits Buffalo On Bihar Highway",
+        "link": "https://www.ndtv.com/india-news/senior-cop-guard-injured-after-suv-hits-buffalo-on-bihar-highway-11899994#publisher=newsstand"
       },
       {
-        "title": "Parliament Monsoon Session 2026 LIVE Updates: Amit Shah \"Ready To Answer\" Opposition On Delhi Protests",
-        "link": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-fcra-bill-lok-sabha-and-rajya-sabha-proceedings-opposition-protest-today-justice-yashwant-varma-cash-row-11897896#publisher=newsstand"
+        "title": "Bhagwant Mann Meets Governor To Seek Parole For Beant Singh Murder Convict",
+        "link": "https://www.ndtv.com/india-news/bhagwant-mann-meets-governor-to-seek-parole-for-beant-singh-murder-convict-11899986#publisher=newsstand"
       },
       {
-        "title": "Air India Pilot With Marijuana In His Bloodstream Was Also On Sleep Medication",
-        "link": "https://www.ndtv.com/india-news/air-india-phuket-delhi-flight-pilot-with-marijuana-in-his-bloodstream-was-also-on-sleep-medication-11899451#publisher=newsstand"
+        "title": "Lok Sabha Passes Mines And Minerals Amendment Bill Amid Opposition Protest",
+        "link": "https://www.ndtv.com/india-news/lok-sabha-passes-mines-and-minerals-amendment-bill-amid-opposition-protest-11899832#publisher=newsstand"
       },
       {
-        "title": "Weather Today LIVE Updates: Weather Office Predicts Light Rain Across Delhi-NCR Till August 17",
-        "link": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-imd-monsoon-alert-heavy-rainfall-forecast-across-india-weather-office-predicts-light-rain-across-delhi-ncr-t-11897434#publisher=newsstand"
+        "title": "Ex-Judge Yashwant Varma Found Guilty By House Panel In Cash Row Case",
+        "link": "https://www.ndtv.com/india-news/ex-judge-yashwant-varma-failed-to-explain-cash-found-at-home-panel-11899633#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
+        "link": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers"
+      },
+      {
+        "title": "At least 15 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+        "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize"
+      },
       {
         "title": "Spain to introduce temporary border checks on visitors from Italy",
         "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy"
@@ -202,16 +199,8 @@
       {
         "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
         "link": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating"
-      },
-      {
-        "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
-        "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures"
-      },
-      {
-        "title": "Top Ugandan footballer killed by robbers armed with paving stones",
-        "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala"
       }
     ]
   },
-  "last_updated": "2026-08-12 10:31 UTC"
+  "last_updated": "2026-08-12 11:24 UTC"
 }
