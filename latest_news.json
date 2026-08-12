@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "PSG vs Aston Villa LIVE: UEFA Super Cup 2026",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,30 +25,30 @@
         "link": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Messi unsure he will play 'much longer' after father's death",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&at_campaign=rss"
+        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+        "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "US consumer inflation slows in July as energy prices briefly retreat",
-        "link": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss"
+        "title": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+        "link": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss"
       },
       {
-        "title": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
-        "link": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss"
+        "title": "PSG vs Aston Villa LIVE: UEFA Super Cup 2026",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss"
       },
       {
-        "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
-        "link": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss"
+        "title": "Europe prepares for first total solar eclipse in 27 years",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss"
       },
       {
-        "title": "Why the UK faces a prisons crisis amid row over release of cop killers",
-        "link": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss"
+        "title": "Colombia declares three days of mourning after deadly earthquake",
+        "link": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss"
       },
       {
-        "title": "Iran is not anti-imperialist. It is a state calculating survival",
-        "link": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss"
+        "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,8 +92,8 @@
         "link": "https://www.dawn.com/news/2022381/met-office-forecasts-fresh-rain-spell-for-upper-central-parts-of-country-from-aug-13-15"
       },
       {
-        "title": "Norwegian FM to visit Pakistan on Aug 13-14, first such visit in a decade",
-        "link": "https://www.dawn.com/news/2022374/norwegian-fm-to-visit-pakistan-on-aug-13-14-first-such-visit-in-a-decade"
+        "title": "California Senate unanimously backs stronger Pakistan-US ties",
+        "link": "https://www.dawn.com/news/2022378/california-senate-unanimously-backs-stronger-pakistan-us-ties"
       }
     ],
     "APNews": [],
@@ -105,15 +111,23 @@
         "link": "https://www.nytimes.com/video/insider/100000010994126/what-can-a-poll-tell-us.html"
       },
       {
-        "title": "Key Takeaways From This Week’s Primaries, and the Deportees Stuck in ‘No Man’s Land’",
-        "link": "https://www.nytimes.com/2026/08/12/podcasts/the-headlines/takeaways-primaries-deportees-eswatini.html"
+        "title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy",
+        "link": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html"
       },
       {
-        "title": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase",
-        "link": "https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html"
+        "title": "See How Trump’s Secret Air Force One Swap Unfolded",
+        "link": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-switch.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israel launches first Gaza air strike in more than a week",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-first-gaza-air-strike-more-week"
+      },
+      {
+        "title": "Israel seeking to 'remove Palestine from world's agenda', Erdogan says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-seeking-remove-palestine-worlds-agenda-erdogan-says"
+      },
       {
         "title": "Exclusive: UK to announce raft of new policies on Israel including settlement goods ban",
         "link": "https://www.middleeasteye.net/news/uk-ban-israeli-settlement-goods-next-month-government-mulls-further-sanctions-and-arms-sales"
@@ -125,58 +139,50 @@
       {
         "title": "Trump says US will keep 'total control' of Strait of Hormuz",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-will-keep-total-control-strait-hormuz"
-      },
-      {
-        "title": "Twenty-six countries condemn in 'strongest terms' Iran executions",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/twenty-six-countries-condemn-strongest-terms-iran-executions"
-      },
-      {
-        "title": "Colombia sides with Morocco over Western Sahara as it aligns with Israeli foreign policy",
-        "link": "https://www.middleeasteye.net/news/colombia-recognises-moroccan-rule-over-western-sahara-it-aligns-foreign-policy-israel"
       }
     ],
     "GeoTV": [
       {
-        "title": "Meghan never intended to quit: Truth behind royal exit revealed",
-        "link": "https://www.geo.tv/latest/677312-meghan-never-intended-to-quit-truth-behind-royal-exit-revealed"
+        "title": "Erdogan eyes expansion of regional defence pact",
+        "link": "https://www.geo.tv/latest/677340-erdogan-eyes-expansion-of-regional-defence-pact"
       },
       {
-        "title": "Buckingham Palace applauds Royal Mews after ‘privilege' of joining grand ceremony",
-        "link": "https://www.geo.tv/latest/677335-buckingham-palace-applauds-royal-mews-after-privilege-of-joining-grand-ceremony"
+        "title": "NASA debunks viral ‘project anchor' claim that Earth will lose gravity on Aug 12",
+        "link": "https://www.geo.tv/latest/677342-nasa-debunks-viral-project-anchor-claim-that-earth-will-lose-gravity-on-aug-12"
       },
       {
-        "title": "‘Off Campus' season 3 already in early development at Prime Video: See full details",
-        "link": "https://www.geo.tv/latest/677338-off-campus-season-3-already-in-early-development-at-prime-video-see-full-details"
+        "title": "Role Model shares rare insights about meeting Harry Styles",
+        "link": "https://www.geo.tv/latest/677325-role-model-shares-rare-insights-about-meeting-harry-styles"
       },
       {
-        "title": "Can Constitution stop Trump from seeking third term? President breaks silence",
-        "link": "https://www.geo.tv/latest/677337-can-constitution-stop-trump-from-seeking-third-term-president-breaks-silence"
+        "title": "Weird things that will happen during the rare solar eclipse: Animals falling silent?",
+        "link": "https://www.geo.tv/latest/677341-weird-things-that-will-happen-during-the-rare-solar-eclipse"
       },
       {
-        "title": "England to have no curfew for Pakistan Tests, says captain Root",
-        "link": "https://www.geo.tv/latest/677330-england-to-have-no-curfew-for-pakistan-tests-says-captain-root"
+        "title": "Trump says US will 'keep Hormuz strait control'",
+        "link": "https://www.geo.tv/latest/677339-trump-says-us-will-keep-hormuz-strait-control"
       }
     ],
     "NDTV": [
       {
-        "title": "Air India Downplayed Phuket Plane Failures With 'Turbulence'? What Documents Say",
-        "link": "https://www.ndtv.com/india-news/air-india-flight-ai2379-failures-on-phuket-delhi-flight-passed-off-as-turbulence-what-documents-say-11900483#publisher=newsstand"
+        "title": "Tata Sons Had Several Chairmen. Why N Chandrasekaran, Cyrus Mistry Stood Out",
+        "link": "https://www.ndtv.com/india-news/tata-sons-had-several-chairmen-why-n-chandrasekaran-cyrus-mistry-stood-out-11901526#publisher=newsstand"
       },
       {
-        "title": "Brother Forced To Watch As Girl, 9, Raped By Neighbour In Madhya Pradesh",
-        "link": "https://www.ndtv.com/india-news/brother-forced-to-watch-as-girl-9-raped-by-neighbour-in-madhya-pradesh-11900891#publisher=newsstand"
+        "title": "'Praise Be To Allah, I Think We'll Keep It': Trump Says US Has Total Control Of Hormuz",
+        "link": "https://www.ndtv.com/world-news/praise-be-to-allah-i-think-well-keep-it-trump-says-us-has-total-control-of-hormuz-11901367#publisher=newsstand"
       },
       {
-        "title": "Iran Knew Where Trump Was Staying During NATO Summit, Even His Floor: Report",
-        "link": "https://www.ndtv.com/world-news/trump-plane-swap-iran-knew-where-donald-trump-was-staying-during-nato-summit-even-his-floor-report-11900885#publisher=newsstand"
+        "title": "Mussoorie Highway Sees 10-km Jam After Landslide, Tourists Stuck For Hours",
+        "link": "https://www.ndtv.com/india-news/mussoorie-highway-sees-10-km-jam-after-landslide-tourists-stuck-for-hours-11901452#publisher=newsstand"
       },
       {
-        "title": "'Lungiwala' Remark Causes Uproar In Rajya Sabha, 'Dhoti' Reactions Follow",
-        "link": "https://www.ndtv.com/india-news/sushmita-dev-john-brittas-lungiwala-remark-causes-uproar-in-rajya-sabha-dhoti-reactions-follow-11900676#publisher=newsstand"
+        "title": "Licences Of 3 Domino's Pizza Outlets In Mumbai Suspended Over Hygiene Issues",
+        "link": "https://www.ndtv.com/india-news/licences-of-3-dominos-pizza-outlets-in-mumbai-suspended-over-hygiene-issues-11901441#publisher=newsstand"
       },
       {
-        "title": "After Lok Sabha, Rajya Sabha Passes Bill To Rename Kerala As Keralam",
-        "link": "https://www.ndtv.com/india-news/after-lok-sabha-rajya-sabha-passes-bill-to-rename-kerala-as-keralam-11900694#publisher=newsstand"
+        "title": "Reappointment, Succession Plan: 5 Takeaways From N Chandrasekaran's Statement",
+        "link": "https://www.ndtv.com/india-news/n-chandrasekaran-resigns-reappointment-succession-plan-5-takeways-from-n-chandrasekarans-statement-11898980#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-12 15:41 UTC"
+  "last_updated": "2026-08-12 16:37 UTC"
 }
