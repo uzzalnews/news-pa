@@ -3,7 +3,11 @@
   "news": {
     "BBC": [
       {
-        "title": "Watch: Houses engulfed in flames across Stourbridge",
+        "title": "Two seriously hurt as passenger train derails in East Sussex",
+        "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
         "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -17,32 +21,28 @@
       {
         "title": "Son of 102-year-old says father died after being 'pushed off stage'",
         "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The key signs you may have damaged your eyes by looking at the eclipse",
-        "link": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Are We in the Singularity?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss"
+        "title": "Tate supporters rally for brothers ahead of bail hearing in Miami",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss"
       },
       {
-        "title": "Sudan army says RSF advance on key town bordering Ethiopia",
-        "link": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss"
+        "title": "Israeli strikes in Gaza kill two, including police chief",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss"
       },
       {
-        "title": "Passenger train derails, injuring several in southern England",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss"
+        "title": "Mexico says Colombia rejected its earthquake rescue team",
+        "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss"
       },
       {
-        "title": "Israeli forces order families to evacuate homes in Qusra",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss"
+        "title": "What’s at stake in Zambia’s elections?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/13/whats-at-stake-in-zambias-elections?traffic_source=rss"
       },
       {
-        "title": "Colombia earthquake: Hospitals adapt to save lives amid widespread damage",
-        "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss"
+        "title": "Kennedy Center votes to restore Trump’s name to venue, close for two years",
+        "link": "https://www.aljazeera.com/news/2026/8/13/kennedy-center-votes-to-restore-trumps-name-to-venue-close-for-two-years?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -101,8 +101,8 @@
         "link": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
       },
       {
-        "title": "Homeland Security Paid $464 Million for Airplanes. Then It Parked Them.",
-        "link": "https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html"
+        "title": "U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns",
+        "link": "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html"
       },
       {
         "title": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
@@ -115,27 +115,31 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "HRW says UN must keep peacekeepers in Lebanon",
+        "title": "'Agility vs depth': How the Mecca pact stacks up against the UAE-Israel alliance",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/agility-vs-depth-how-mecca-pact-stacks-against-uae-israel-alliance"
+      },
+      {
+        "title": "UAE's Adnoc says two vessels attacked in Strait of Hormuz, no injuries",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uaes-adnoc-says-two-vessels-attacked-strait-hormuz-no-injuries"
+      },
+      {
+        "title": "'Agility vs depth': How the Mecca pact stacks up against the UAE-Israel alliance",
+        "link": "https://www.middleeasteye.net/news/agility-vs-depth-how-mecca-pact-stacks-against-uae-israel-alliance"
+      },
+      {
+        "title": "Human Rights Watch says UN must keep peacekeepers in Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hrw-says-un-must-keep-peacekeepers-lebanon"
       },
       {
         "title": "US could not verify Israeli warnings of Iran plots against Trump, sources say",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-could-not-verify-israeli-warnings-iran-plots-against-trump-sources"
-      },
-      {
-        "title": "How the Mecca Agreement aims to manage US separation from Middle East",
-        "link": "https://www.middleeasteye.net/news/how-mecca-agreement-aims-manage-us-separation-middle-east-region"
-      },
-      {
-        "title": "Israeli army confirms killing Gaza’s police director",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-confirms-killing-gazas-police-director"
-      },
-      {
-        "title": "Houthi missiles target Yemen’s Bab el-Mandeb Strait",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-missiles-target-yemens-bab-al-mandab-strait"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Armed Forces congratulate nation on 79th Independence Day",
+        "link": "https://www.geo.tv/latest/677547-armed-forces-congratulate-nation-on-79th-independence-day"
+      },
       {
         "title": "'KPop Demon Hunters' EJAE blames Leonardo DiCaprio for BAFTAs",
         "link": "https://www.geo.tv/latest/677542-kpop-demon-hunters-ejae-blames-leonardo-dicaprio-for-baftas"
@@ -151,10 +155,6 @@
       {
         "title": "What happened to BTS V's ear? Idol opens up about hearing loss battle",
         "link": "https://www.geo.tv/latest/677533-what-happened-to-bts-vs-ear-idol-opens-up-about-hearing-loss-battle"
-      },
-      {
-        "title": "Major General Jawwad Ahmed appointed MINURSO Force Commander",
-        "link": "https://www.geo.tv/latest/677534-major-general-jawwad-ahmed-appointed-minurso-force-commander"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13 21:10 UTC"
+  "last_updated": "2026-08-13 22:02 UTC"
 }
