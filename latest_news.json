@@ -3,8 +3,8 @@
   "news": {
     "BBC": [
       {
-        "title": "Aerial footage shows derailed train",
-        "link": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: Houses engulfed in flames across Stourbridge",
+        "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
@@ -25,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Are We in the Singularity?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss"
+      },
+      {
         "title": "Sudan army says RSF advance on key town bordering Ethiopia",
         "link": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss"
       },
@@ -39,10 +43,6 @@
       {
         "title": "Colombia earthquake: Hospitals adapt to save lives amid widespread damage",
         "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-hospitals-adapt-to-save-lives-amid-widespread-damage?traffic_source=rss"
-      },
-      {
-        "title": "Europe swelters in latest wave of extreme heat",
-        "link": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,6 +93,10 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Judge Dismisses Trump Administration’s Antisemitism Case Against Harvard",
+        "link": "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html"
+      },
+      {
         "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building",
         "link": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html"
       },
@@ -107,13 +111,17 @@
       {
         "title": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
         "link": "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html"
-      },
-      {
-        "title": "Inside the Democratic Socialists of America’s Audacious Quest for Power",
-        "link": "https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "HRW says UN must keep peacekeepers in Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hrw-says-un-must-keep-peacekeepers-lebanon"
+      },
+      {
+        "title": "US could not verify Israeli warnings of Iran plots against Trump, sources say",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-could-not-verify-israeli-warnings-iran-plots-against-trump-sources"
+      },
       {
         "title": "How the Mecca Agreement aims to manage US separation from Middle East",
         "link": "https://www.middleeasteye.net/news/how-mecca-agreement-aims-manage-us-separation-middle-east-region"
@@ -125,17 +133,13 @@
       {
         "title": "Houthi missiles target Yemen’s Bab el-Mandeb Strait",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-missiles-target-yemens-bab-al-mandab-strait"
-      },
-      {
-        "title": "Saudi defence minister calls Iraq 'cherished neighbour' after strikes",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-defence-minister-calls-iraq-cherished-neighbour-after-strikes"
-      },
-      {
-        "title": "Hamas denounces Israel's killing of top Gaza police official",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-denounces-israels-killing-top-gaza-police-official"
       }
     ],
     "GeoTV": [
+      {
+        "title": "'KPop Demon Hunters' EJAE blames Leonardo DiCaprio for BAFTAs",
+        "link": "https://www.geo.tv/latest/677542-kpop-demon-hunters-ejae-blames-leonardo-dicaprio-for-baftas"
+      },
       {
         "title": "Colombia earthquake rescue delayed as foreign help was initially refused: Here's what happened",
         "link": "https://www.geo.tv/latest/677537-colombia-earthquake-rescue-delayed-as-foreign-help-was-initially-refused-heres-what-happened"
@@ -151,10 +155,6 @@
       {
         "title": "Major General Jawwad Ahmed appointed MINURSO Force Commander",
         "link": "https://www.geo.tv/latest/677534-major-general-jawwad-ahmed-appointed-minurso-force-commander"
-      },
-      {
-        "title": "Kiara Romero on landing her 'Descendants' role",
-        "link": "https://www.geo.tv/latest/677531-kiara-romero-on-landing-her-descendants-role"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13 20:21 UTC"
+  "last_updated": "2026-08-13 21:10 UTC"
 }
