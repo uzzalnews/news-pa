@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 100 Points Lower Amid Mixed Global Cues",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-13-august-us-iran-war-oil-price-11902919#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,8 +7,8 @@
         "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
-        "link": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe",
+        "link": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -25,30 +19,30 @@
         "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Leading doctor rebukes NHS chiefs over transplants",
-        "link": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss"
+        "title": "Polls open in Clacton by-election",
+        "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "The US is now using the ‘terrorist’ label to interfere in Brazil’s election",
-        "link": "https://www.aljazeera.com/opinions/2026/8/13/the-us-is-now-using-the-terrorist-label-to-interfere-in-brazils-election?traffic_source=rss"
+        "title": "US defence secretary says drug cartels will be ‘targeted like ISIS’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss"
       },
       {
-        "title": "Will the Houthis shut down Saudi Arabian shipping?",
-        "link": "https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss"
+        "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss"
       },
       {
-        "title": "Polls open in Zambia presidential election as economic reforms tested",
-        "link": "https://www.aljazeera.com/news/2026/8/13/polls-open-in-zambia-presidential-election-as-economic-reforms?traffic_source=rss"
+        "title": "Messi plays in Inter Miami defeat by Leon only hours after retirement hint",
+        "link": "https://www.aljazeera.com/sports/2026/8/13/messi-plays-in-inter-miami-defeat-only-hours-after-retirement-hint?traffic_source=rss"
       },
       {
-        "title": "Nearly 4 million Afghan children ‘acutely malnourished’",
-        "link": "https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss"
+        "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
+        "link": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss"
       },
       {
-        "title": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
-        "link": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
+        "title": "Palestinian women in Gaza face legal hurdles in divorce struggles",
+        "link": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -88,8 +82,8 @@
         "link": "https://www.dawn.com/news/2022505/taliban-support-fuels-deadlier-ttp-attacks-in-pakistan-un"
       },
       {
-        "title": "Govt cuts petrol price by Re0.94, raises high-speed diesel by Re0.54",
-        "link": "https://www.dawn.com/news/2022398/govt-cuts-petrol-price-by-re094-raises-high-speed-diesel-by-re054"
+        "title": "Gas supply to parts of Balochistan suspended after main pipeline blown up in Bolan",
+        "link": "https://www.dawn.com/news/2022550/gas-supply-to-parts-of-balochistan-suspended-after-main-pipeline-blown-up-in-bolan"
       },
       {
         "title": "US senators demand inquiry into conditions aboard aircraft carrier deployed in Middle East",
@@ -121,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iran says Strait of Hormuz is under its control",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-strait-hormuz-under-its-control"
+      },
+      {
         "title": "British maritime company engaged in salvage of stricken vessel off Omani coast",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/british-maritime-company-engaged-salvage-stricken-vessel-omani-coast"
       },
@@ -135,54 +133,50 @@
       {
         "title": "Israeli troops set on fire, bombed homes in south Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-set-fire-bombed-homes-south-lebanon"
-      },
-      {
-        "title": "CIA had ‘low confidence’ in Israel's claims of Iranian threat to Trump: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/cia-had-low-confidence-israels-claims-iranian-threat-trump-report"
       }
     ],
     "GeoTV": [
       {
-        "title": "In pictures: Millions watch in wonder as solar eclipse plunges Spain into darkness",
-        "link": "https://www.geo.tv/latest/677412-in-pictures-millions-watch-in-wonder-as-solar-eclipse-plunges-spain-into-darkness"
+        "title": "Prince Edward, Duchess Sophie receive update on huge royal promotion",
+        "link": "https://www.geo.tv/latest/677435-prince-edward-duchess-sophie-receive-update-on-huge-royal-promotion"
       },
       {
-        "title": "Salmonella outbreak prompt Whole Foods recall in 12 states as probe expands to 27 states",
-        "link": "https://www.geo.tv/latest/677414-salmonella-outbreak-prompt-whole-foods-recall-in-12-states-as-probe-expands-to-27-states"
+        "title": "Melissa Ryrcoft gets probation after DWI arrest",
+        "link": "https://www.geo.tv/latest/677439-melissa-ryrcoft-gets-probation-after-dwi-arrest"
       },
       {
-        "title": "Holly Willoughby thanks fans for honest feedback on 'Together'",
-        "link": "https://www.geo.tv/latest/677411-holly-willoughby-thanks-fans-for-honest-feedback-on-together"
+        "title": "SHC orders high-level inquiry into HIV spread among children at Karachi hospital",
+        "link": "https://www.geo.tv/latest/677426-shc-orders-high-level-inquiry-into-hiv-spread-among-children-at-karachi-hospital"
       },
       {
-        "title": "Beatrice, Eugenie receive ‘rude awakening' from King Charles",
-        "link": "https://www.geo.tv/latest/677416-beatrice-eugenie-receive-rude-awakening-from-king-charles"
+        "title": "Indonesia's free meals drive leaves remote kitchen investors deep in debt",
+        "link": "https://www.geo.tv/latest/677423-indonesias-free-meals-drive-leaves-remote-kitchen-investors-deep-in-debt"
       },
       {
-        "title": "Role Model makes big revelation about his name",
-        "link": "https://www.geo.tv/latest/677417-role-model-makes-big-revelation-about-his-name"
+        "title": "Nick Reiner faces new ‘lying in wait' charge in parents' murder case: what we know",
+        "link": "https://www.geo.tv/latest/677425-nick-reiner-faces-new-lying-in-wait-charge-in-parents-murder-case"
       }
     ],
     "NDTV": [
       {
-        "title": "Al-Assad Faces Gallows In Damascus. In Russia, He Remains A Protected Guest",
-        "link": "https://www.ndtv.com/world-news/bashar-al-assad-syria-damascus-vladimir-putin-al-assad-faces-gallows-in-damascus-in-russia-he-remains-a-protected-guest-11902426#publisher=newsstand"
+        "title": "\"It Humiliated Me\": M Kharge On 'Purification' Ceremony At His Rally",
+        "link": "https://www.ndtv.com/india-news/against-hindu-religion-congress-chief-mallikarjun-kharge-on-purification-ceremony-at-rally-venue-11903483#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 100 Points Lower Amid Mixed Global Cues",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-13-august-us-iran-war-oil-price-11902919#publisher=newsstand"
+        "title": "Maharashtra Minister's Relative Arrested For Cheating A Man Of Rs 2.17 Crore",
+        "link": "https://www.ndtv.com/india-news/maharashtra-minister-girish-mahajans-relative-arrested-for-cheating-a-man-of-rs-2-17-crore-11903134#publisher=newsstand"
       },
       {
-        "title": "Israel's Unverified 'Iran Kill Plot' Warning Behind Trump's Secret Jet Switch In Turkey: Report",
-        "link": "https://www.ndtv.com/world-news/israels-unverified-iran-kill-plot-warning-behind-trumps-secret-jet-switch-in-turkey-report-11903101#publisher=newsstand"
+        "title": "Assam-Arunachal Border Tense Amid Student Body's Protest, Cops Open Fire To Disperse Crowd",
+        "link": "https://www.ndtv.com/india-news/assam-arunachal-border-tense-amid-student-bodys-protest-cops-open-fire-to-disperse-crowd-in-dhemaji-likabali-11903831#publisher=newsstand"
       },
       {
-        "title": "Not Happy With Annual Bonus? Here's How To Multiply It Within Months",
-        "link": "https://www.ndtv.com/business-news/annual-bonus-investing-equities-debt-fund-personal-finance-emergency-fund-11902747#publisher=newsstand"
+        "title": "Cryptocurrency, Hong Kong Connection: Pune 'Reel Star' Arrested In Fraud Case",
+        "link": "https://www.ndtv.com/india-news/cryptocurrency-hong-kong-connection-pune-reel-star-rohan-jadhav-arrested-in-fraud-case-11903785#publisher=newsstand"
       },
       {
-        "title": "Mideast War To Continue Till Trump's Term Ends? Iran's \"Pay A Cost\" Warning",
-        "link": "https://www.ndtv.com/world-news/us-iran-war-to-continue-till-2029-mojtaba-khamenei-aides-mohammad-reza-naqdi-warning-to-us-donald-trump-11902968#publisher=newsstand"
+        "title": "Couple Found Dead Hours Apart In Separate States Months Before Wedding",
+        "link": "https://www.ndtv.com/india-news/couple-found-dead-hours-apart-in-separate-states-months-before-wedding-11903259#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-13 06:45 UTC"
+  "last_updated": "2026-08-13 08:06 UTC"
 }
