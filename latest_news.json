@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Ex-Cambridge professor at centre of plagiarism row found dead",
+        "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
         "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,13 @@
       {
         "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
         "link": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-        "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "New aerial video reveals huge scale of oil spill off Oman",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss"
+      },
       {
         "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
         "link": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Italian police recover stolen paintings worth over $10m",
         "link": "https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss"
-      },
-      {
-        "title": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
-        "link": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,27 +93,35 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
+        "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html"
+      },
+      {
+        "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
+        "link": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html"
+      },
+      {
+        "title": "A Prominent Mexican Politician Says U.S. Revoked His Visa",
+        "link": "https://www.nytimes.com/2026/08/14/world/americas/mexico-visas-lopez-beltran.html"
+      },
+      {
         "title": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
         "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html"
       },
       {
-        "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom",
-        "link": "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html"
-      },
-      {
-        "title": "The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?",
-        "link": "https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html"
-      },
-      {
         "title": "Ian Frazier Wrote ‘Coyote v. Acme’ in 1990. Now It’s a Movie.",
         "link": "https://www.nytimes.com/2026/08/14/style/ian-frazier-coyote-vs-acme-movie.html"
-      },
-      {
-        "title": "Trump’s Justice Dept. Targets Smaller Fraud Cases",
-        "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "US to hit Iran hard economically, Trump says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-hit-iran-hard-economically-trump-says"
+      },
+      {
+        "title": "Houthis say they targeted Aramco in Saudi Arabia's Najran with drone",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-aramco-saudi-arabias-najran-drone"
+      },
       {
         "title": "Pro-Israel Emirati influencers mocked for claims of Islamic plot to take over West",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-israel-emirati-influencers-mocked-claims-islamic-plot-take-over-west"
@@ -125,17 +133,13 @@
       {
         "title": "Hezbollah accuses Lebanon’s government of targeting ‘resistance’ instead of Israel: Report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-hezbollah-accuses-lebanons-government-targeting-resistance"
-      },
-      {
-        "title": "Morale on US aircraft carrier enforcing Iran blockade plummets, as sailor jumps overboard: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morale-us-aircraft-carrier-enforcing-iran-blockade-plummets-sailor-jumps"
-      },
-      {
-        "title": "Morale on US aircraft carrier enforcing Iran blockade plummets, as sailor jumps overboard: Report",
-        "link": "https://www.middleeasteye.net/news/morale-aboard-us-aircraft-carrier-enforcing-iran-blockade-plummets-sailor-jumping-overboard"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Flo app found sharing users' sensitive data: Here's what women should know",
+        "link": "https://www.geo.tv/latest/677671-flo-app-found-sharing-users-sensitive-data-heres-what-women-should-know"
+      },
       {
         "title": "Olivia Rodrigo breaks Taylor Swift's record with new album 'yspsfagsil'",
         "link": "https://www.geo.tv/latest/677621-olivia-rodrigo-breaks-taylor-swifts-record-with-new-album-yspsfagsil"
@@ -151,10 +155,6 @@
       {
         "title": "Taylor Swift drops big 'TS13' hint after early Easter Eggs a year ago",
         "link": "https://www.geo.tv/latest/677619-taylor-swift-drops-big-ts13-hint-after-early-easter-eggs-a-year-ago"
-      },
-      {
-        "title": "Mir Raza Ali's father seeks suspension of East DIG, others for 'concealing evidence'",
-        "link": "https://www.geo.tv/latest/677663-mir-raza-alis-father-seeks-suspension-of-dig-east-others-for-concealing-evidence"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-14 19:27 UTC"
+  "last_updated": "2026-08-14 20:04 UTC"
 }
