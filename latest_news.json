@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+        "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
         "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,13 +21,13 @@
       {
         "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
         "link": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ariana Grande leaves problems at home as her tour hits the UK",
-        "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+        "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss"
+      },
       {
         "title": "‘The Mediterranean is a bridge, not a border’",
         "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss"
@@ -39,10 +43,6 @@
       {
         "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss"
-      },
-      {
-        "title": "Patients treated in tents after earthquake damages Indonesia hospital",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -94,6 +94,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iranian parliament advances bill to curb foreign influence",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-parliament-advances-bill-curb-foreign-influence"
+      },
+      {
+        "title": "Centcom chief visits US carrier enforcing Iran blockade amid reports of severe strain on crew",
+        "link": "https://www.middleeasteye.net/news/centcom-chief-visits-us-carrier-enforcing-iran-blockade-amid-reports-severe-strain-crew"
+      },
+      {
         "title": "Hamas leader meets Egyptian intelligence chief",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-leader-meets-egyptian-intelligence-chief"
       },
@@ -104,17 +112,17 @@
       {
         "title": "Gaza genocide: How Israel made horror a ritual of daily life",
         "link": "https://www.middleeasteye.net/opinion/gaza-genocide-how-israel-made-horror-ritual-daily-life"
-      },
-      {
-        "title": "Israeli settlers pray in Al-Aqsa Mosque complex",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-pray-al-aqsa-compound"
-      },
-      {
-        "title": "Iran war pushes Middle Eastern airlines towards $4.3bn loss in 2026",
-        "link": "https://www.middleeasteye.net/news/middle-eastern-airlines-lose-43bn-2026-amid-iran-war"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Rita Ora left speechless as fans sing Liam Payne's ‘For You'",
+        "link": "https://www.geo.tv/latest/677856-rita-ora-left-speechless-as-fans-sings-liam-paynes-for-you"
+      },
+      {
+        "title": "Goods transporters suspend nationwide strike for 40 days after govt assurances",
+        "link": "https://www.geo.tv/latest/677857-goods-transporters-suspend-nationwide-strike-for-40-days-after-govt-assurances"
+      },
       {
         "title": "Ariana Grande gets matching tattoo with boyfriend Ricky Alvarez",
         "link": "https://www.geo.tv/latest/677855-ariana-grande-gets-matching-tattoo-with-boyfriend-ricky-alvarez"
@@ -126,36 +134,28 @@
       {
         "title": "‘Lilo & Stitch 2' brings back a character fans missed",
         "link": "https://www.geo.tv/latest/677850-lilo-stitch-2-brings-back-a-character-fans-missed"
-      },
-      {
-        "title": "Brazil's Lula launches reelection bid, aims to win back workers to his Workers Party",
-        "link": "https://www.geo.tv/latest/677849-brazils-lula-launches-reelection-bid-aims-to-win-back-workers-to-his-workers-party"
-      },
-      {
-        "title": "JI holds sit-ins in major cities against petroleum levy, rising inflation",
-        "link": "https://www.geo.tv/latest/677848-ji-holds-sit-ins-in-major-cities-against-petroleum-levy-rising-inflation"
       }
     ],
     "NDTV": [
       {
-        "title": "\"No BJP Connection\": Suvendu Adhikari After CJP Charge Over Bengal Death",
-        "link": "https://www.ndtv.com/india-news/suvendu-adhikari-after-cjp-charge-over-bengal-death-no-bjp-connection-11917780#publisher=newsstand"
+        "title": "After Hyderabad, Top Bengaluru Law College Opposes Invitation To Chief Justice",
+        "link": "https://www.ndtv.com/india-news/nlsiu-surya-kant-manan-kumar-mishra-bar-council-after-nalsar-another-top-law-college-opposes-invite-to-chief-justice-11917819#publisher=newsstand"
       },
       {
-        "title": "On Camera, Delhi Sanitation Worker Stabbed To Death, Colleagues Stage Protest",
-        "link": "https://www.ndtv.com/india-news/on-camera-delhi-sanitation-worker-stabbed-to-death-colleagues-stage-protest-11917754#publisher=newsstand"
-      },
-      {
-        "title": "\"Country Won't Forgive\": Amit Shah To Sonia Gandhi Over Vande Mataram Row",
-        "link": "https://www.ndtv.com/india-news/amit-shahs-sin-you-committed-swipe-at-sonia-gandhi-over-vande-mataram-row-11917245#publisher=newsstand"
+        "title": "\"Congress Only Sings Party Song\": Kiren Rijiju's Dig On Vande Mataram Row",
+        "link": "https://www.ndtv.com/india-news/congress-only-sings-party-song-kiren-rijijus-dig-on-vande-mataram-row-11917929#publisher=newsstand"
       },
       {
         "title": "Chaos In Delhi Metro After Paramilitary Official Allegedly Takes Woman's Pic",
         "link": "https://www.ndtv.com/india-news/chaos-in-delhi-metro-after-paramilitary-official-allegedly-takes-womans-pic-11917699#publisher=newsstand"
       },
       {
-        "title": "\"I Apologise\": Man Who Wanted \"Pure Veg\" Client For Rs 6.5-Crore Mumbai Flat",
-        "link": "https://www.ndtv.com/india-news/bhavesh-kaware-mumbai-own-chicken-shops-man-who-wanted-pure-veg-clients-for-posh-mumbai-flat-11917476#publisher=newsstand"
+        "title": "CJP Worker's Father Dies After Assault. Suvendu Adhikari Assures Action",
+        "link": "https://www.ndtv.com/india-news/suvendu-adhikari-after-cjp-charge-over-bengal-death-no-bjp-connection-11917780#publisher=newsstand"
+      },
+      {
+        "title": "On Camera, Delhi Sanitation Worker Stabbed To Death, Colleagues Stage Protest",
+        "link": "https://www.ndtv.com/india-news/on-camera-delhi-sanitation-worker-stabbed-to-death-colleagues-stage-protest-11917754#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -181,5 +181,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-16 15:13 UTC"
+  "last_updated": "2026-08-16 15:38 UTC"
 }
