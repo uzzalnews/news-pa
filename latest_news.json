@@ -1,27 +1,21 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 150 Points Amid Negative Global Cues",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-17-august-us-iran-war-oil-prices-11918981#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
         "link": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+        "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
         "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham exchanged messages with White House imposter",
+        "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
         "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
+        "link": "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss"
+      },
+      {
+        "title": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
+        "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss"
+      },
+      {
+        "title": "Scottie Scheffler wins St Jude Championship by eight shots",
+        "link": "https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss"
+      },
+      {
         "title": "Cincinnati Open: Sabalenka takes six match points to defeat Gibson",
         "link": "https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss"
       },
       {
         "title": "Outrage as Colombia’s president hands out footballs as residents await aid",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss"
-      },
-      {
-        "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
-        "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-      },
-      {
-        "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
-        "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss"
-      },
-      {
-        "title": "Rodri headed to Barcelona after Man City accepts transfer bid",
-        "link": "https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -90,8 +84,8 @@
         "link": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html"
       },
       {
-        "title": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
-        "link": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html"
+        "title": "Trump’s Overture to North Korea Strains Alliance With the South",
+        "link": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
       },
       {
         "title": "Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General",
@@ -99,6 +93,10 @@
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "US senator condemns Ben Gvir’s call to 'kill 30 or 40 people in Gaza every night'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-condemns-ben-gvirs-calls-killings-gaza"
+      },
       {
         "title": "Iran says talks with Oman continue on new Hormuz transit route",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-talks-oman-continue-new-hormuz-transit-route"
@@ -114,59 +112,55 @@
       {
         "title": "Iranian official says Israel setting 'nightly quota' for killing Palestinians in Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-says-israel-setting-nightly-quota-killing-palestinians"
-      },
-      {
-        "title": "Yemeni government claims attacks on Houthis",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-claims-attacks-houthis"
       }
     ],
     "GeoTV": [
       {
-        "title": "Victoria Beckham revisits place where her romance with David blossomed",
-        "link": "https://www.geo.tv/latest/677919-victoria-beckham-revists-place-where-her-romance-with-david-blossomed"
+        "title": "King Charles sends meaningful message to farmers days after James decision",
+        "link": "https://www.geo.tv/latest/677931-king-charles-sends-meaningful-message-to-farmers-days-after-james-decision"
       },
       {
-        "title": "Duchess Sophie receives shock as Edward's ex exposes private details",
-        "link": "https://www.geo.tv/latest/677918-duchess-sophie-receives-shock-as-edwards-ex-exposes-private-details"
+        "title": "Search for Indonesia earthquake victims underway on Independence Day",
+        "link": "https://www.geo.tv/latest/677924-search-for-indonesia-earthquake-victims-underway-on-independence-day"
       },
       {
-        "title": "Hayden Panettiere's last interview exposes childhood acting trauma: what we know",
-        "link": "https://www.geo.tv/latest/677916-hayden-panettieres-last-interview-exposes-childhood-acting-trauma"
+        "title": "The week before surgery",
+        "link": "https://www.geo.tv/latest/677929-the-week-before-surgery"
       },
       {
-        "title": "Venezuela Fury reveals awkward Wembley fall after Noah tried to help her",
-        "link": "https://www.geo.tv/latest/677912-venezuela-fury-reveals-awkward-wembley-fall-after-noah-tried-to-help-her"
+        "title": "Elaine Paige reveals she relied on sleeping pills for years after theatre shows",
+        "link": "https://www.geo.tv/latest/677923-elaine-paige-reveals-she-relied-on-sleeping-pills-for-years-after-theatre-shows"
       },
       {
-        "title": "Meghan Markle surprises by using royal protocol to honour beloved member",
-        "link": "https://www.geo.tv/latest/677915-meghan-markle-surprises-by-using-royal-protocol-to-honour-beloved-member"
+        "title": "Meghan Markle warns Prince Harry against throwing himself at William's feet",
+        "link": "https://www.geo.tv/latest/677920-meghan-markle-warns-prince-harry-against-throwing-himself-at-williams-feet"
       }
     ],
     "NDTV": [
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 150 Points Amid Negative Global Cues",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-17-august-us-iran-war-oil-prices-11918981#publisher=newsstand"
+        "title": "Man Kills Lover For Pressuring Him For Marriage, Hides Body In Gunny Bag",
+        "link": "https://www.ndtv.com/hyderabad-news/bihar-man-kills-21-year-old-lover-for-pressuring-him-for-marriage-hides-body-in-gunny-bag-in-hyderabad-11920515#publisher=newsstand"
       },
       {
-        "title": "Gujarat Cop Quits Over Jantar Mantar Protest To Support PM Modi For 2029 Polls",
-        "link": "https://www.ndtv.com/india-news/gujarat-cop-quits-over-cjp-jantar-mantar-protest-to-support-pm-modi-rss-for-2029-lok-sabha-elections-11920058#publisher=newsstand"
+        "title": "India Signs Rs 1,900-Crore Deal To Lease 2 MQ-9B SeaGuardian Drones",
+        "link": "https://www.ndtv.com/world-news/india-signs-rs-1-900-crore-deal-to-lease-2-mq-9b-seaguardian-drones-11920544#publisher=newsstand"
       },
       {
-        "title": "How An Iraqi Leader Became Team Trump's Direct Secret Link To Iran Guards",
-        "link": "https://www.ndtv.com/world-news/how-an-iraqi-leader-became-team-trumps-direct-secret-link-to-iran-guards-11920047#publisher=newsstand"
+        "title": "\"Ensure Compliance\": Supreme Court To Karnataka In Cauvery Water Row",
+        "link": "https://www.ndtv.com/india-news/ensure-compliance-supreme-court-to-karnataka-in-cauvery-water-row-11920235#publisher=newsstand"
       },
       {
-        "title": "5 Years On The Run, Gujarat BJP Worker Arrested In Liquor Case",
-        "link": "https://www.ndtv.com/india-news/5-years-on-the-run-gujarat-bjp-workers-husband-arrested-in-liquor-case-11920039#publisher=newsstand"
+        "title": "Crop Damage No Ground To Block Elephant Corridors, Says Supreme Court",
+        "link": "https://www.ndtv.com/india-news/crop-damage-no-ground-to-block-elephant-corridors-says-supreme-court-11920377#publisher=newsstand"
       },
       {
-        "title": "'Not Supernatural': Officials Clarify As 600 Girls Leave Maharashtra Hostel",
-        "link": "https://www.ndtv.com/india-news/officials-point-to-stress-after-600-students-leave-haunted-maharashtra-hostel-11919897#publisher=newsstand"
+        "title": "Assam Staff May Face 20% Pay Cut For 2nd Marriage Without Divorce",
+        "link": "https://www.ndtv.com/india-news/assam-staff-may-face-20-pay-cut-for-2nd-marriage-without-divorce-11920401#publisher=newsstand"
       }
     ],
     "TheGuardian": [
       {
-        "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
+        "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
         "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history"
       },
       {
@@ -174,7 +168,7 @@
         "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident"
       },
       {
-        "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+        "title": "Moroccan police arrest more than 100 people attempting to enter Ceuta",
         "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta"
       },
       {
@@ -187,5 +181,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-17 08:59 UTC"
+  "last_updated": "2026-08-17 09:51 UTC"
 }
