@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 300 Points As Oil Tops $90 Amid US-Iran War",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-18-august-us-iran-war-oil-prices-11923639#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Trump says N Korea’s Kim has responded to his request for a conversation",
+        "link": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss"
+      },
+      {
         "title": "Can Trump limit birthright citizenship? Legal experts are doubtful",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss"
       },
@@ -45,10 +43,6 @@
       {
         "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
         "link": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss"
-      },
-      {
-        "title": "Two students killed in Philippine school shooting",
-        "link": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -100,6 +94,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Kushner says Israel can 'finish the job properly' in Gaza if Hamas disagrees to disarm",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kushner-says-israel-can-finish-job-properly-gaza-if-hamas-disagrees"
+      },
+      {
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-605"
+      },
+      {
         "title": "US lawmaker calls for action against settler violence in the West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-lawmaker-calls-action-against-settler-violence-west-bank"
       },
@@ -110,17 +112,21 @@
       {
         "title": "Israeli forces carry out artillery shelling, strikes in south Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-carry-out-artillery-shelling-strikes-south-lebanon"
-      },
-      {
-        "title": "Four strikes hit military airport in Syria’s Idlib: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-strikes-hit-military-airport-syrias-idlib-report"
-      },
-      {
-        "title": "Damage, crew casualty reported onboard vessel hit in Hormuz Strait, UKMTO says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/damage-crew-casualty-reported-onboard-vessel-hit-hormuz-strait-ukmto"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Over nine terrorists killed in separate Balochistan IBOs: security sources",
+        "link": "https://www.geo.tv/latest/678065-over-nine-terrorists-killed-in-separate-balochistan-ibos-security-sources"
+      },
+      {
+        "title": "Diamondbacks sideline Ketel Marte after he ghosts team again: what we know",
+        "link": "https://www.geo.tv/latest/678064-diamondbacks-sideline-ketel-marte-after-he-ghosts-team-again"
+      },
+      {
+        "title": "Nicola Coughlan shares sweet relationship secret with boyfriend Jake Dunn",
+        "link": "https://www.geo.tv/latest/678067-nicola-coughlan-shares-sweet-relationship-secret-with-boyfriend-jake-dunn"
+      },
       {
         "title": "Andrew Mountbatten-Windsor receives unexpected peace offer from King Charles",
         "link": "https://www.geo.tv/latest/678063-andrew-mountbatten-windsor-receives-unexpected-peace-offer-from-king-charles"
@@ -128,40 +134,28 @@
       {
         "title": "Pakistan may halt migrant returns if UK forces Rochdale rapist return",
         "link": "https://www.geo.tv/latest/678056-pakistan-may-halt-migrant-returns-if-uk-forces-rochdale-rapist-return"
-      },
-      {
-        "title": "Joe Marler addresses Prince Harry backlash just weeks after interview",
-        "link": "https://www.geo.tv/latest/678062-joe-marler-addresses-prince-harry-backlash-just-weeks-after-interview"
-      },
-      {
-        "title": "Senior Fifa official Lamour exits after Infantino criticism",
-        "link": "https://www.geo.tv/latest/678061-senior-fifa-official-lamour-exits-after-infantino-criticism"
-      },
-      {
-        "title": "Two students dead in Philippines school shooting including gunman, say officials",
-        "link": "https://www.geo.tv/latest/678057-two-students-dead-in-philippines-school-shooting-including-gunman-say-officials"
       }
     ],
     "NDTV": [
       {
-        "title": "Indian-Origin Grandma, Living In US For 27 Years With Green Card, Detained By ICE",
-        "link": "https://www.ndtv.com/world-news/indian-origin-grandma-venkata-vasamsetty-living-in-us-for-27-years-with-green-card-detained-by-ice-11924036#publisher=newsstand"
+        "title": "On Camera, Boy, 11, Crushed By Truck After Bike Skids Due To Pothole In Pune",
+        "link": "https://www.ndtv.com/india-news/pune-pothole-road-accident-on-camera-boy-11-crushed-by-truck-after-bike-skids-due-to-pothole-11924305#publisher=newsstand"
       },
       {
-        "title": "Why India's Super-Rich Are Buying A 'Plan B' Abroad For Their Families",
-        "link": "https://www.ndtv.com/business-news/investment-immigration-why-indias-super-rich-are-investing-in-us-portugal-greece-11923484#publisher=newsstand"
+        "title": "Marathi Test? Here's What Will Happen To Mumbai Auto-Taxi Drivers From Today",
+        "link": "https://www.ndtv.com/mumbai-news/mumbai-auto-taxi-drivers-to-face-3-step-licence-action-from-today-if-they-don-t-know-marathi-11924035#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 300 Points As Oil Tops $90 Amid US-Iran War",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-18-august-us-iran-war-oil-prices-11923639#publisher=newsstand"
+        "title": "'Come Take Our Bodies': Navy Sailor's Text To Mother After Killing Family, Suicide",
+        "link": "https://www.ndtv.com/india-news/indian-navy-sailors-text-to-mother-after-killing-family-suicide-in-mumbai-come-take-our-bodies-11924268#publisher=newsstand"
       },
       {
-        "title": "Retired Karnataka Teacher Killed By Daughter, Her Lover Over Property Row",
-        "link": "https://www.ndtv.com/karnataka-news/retired-62-year-old-karnataka-teacher-killed-by-daughter-her-lover-over-property-row-11923852#publisher=newsstand"
+        "title": "Telangana Draft Electoral Rolls Published, Over 73 Lakh Names Deleted",
+        "link": "https://www.ndtv.com/telangana-news/telangana-draft-electoral-rolls-published-over-73-lakh-names-deleted-11924193#publisher=newsstand"
       },
       {
-        "title": "'Going Overboard': Rs 5 Lakh Fine On Maharashtra Food Body For Not Restoring Pune Shop's License",
-        "link": "https://www.ndtv.com/india-news/bombay-high-court-slaps-rs-5-lakh-fine-on-maharashtra-food-body-going-overboard-11922282#publisher=newsstand"
+        "title": "Trump Cites Indian Poll Chief's Question To Make A Case For Save America Act",
+        "link": "https://www.ndtv.com/world-news/trumps-nod-to-indias-electoral-system-in-push-for-mandatory-us-voter-id-11923535#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -187,5 +181,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-18 05:49 UTC"
+  "last_updated": "2026-08-18 06:17 UTC"
 }
