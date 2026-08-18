@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 300 Points As Oil Tops $90 Amid US-Iran War",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-18-august-us-iran-war-oil-prices-11923639#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,11 +31,15 @@
     ],
     "AlJazeera": [
       {
+        "title": "Hichilema wins second second term as president of copper-rich Zambia",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss"
+      },
+      {
         "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
         "link": "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss"
       },
       {
-        "title": "Two killed as student opens fire at Philippines high school, official says",
+        "title": "Two killed as student opens fire at Philippines high school, officials say",
         "link": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss"
       },
       {
@@ -39,10 +49,6 @@
       {
         "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
         "link": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss"
-      },
-      {
-        "title": "Vigil held in central London for late Cambridge professor Jason Arday",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,15 +90,23 @@
         "link": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html"
       },
       {
-        "title": "Trump Threatens a Middle East Mediator",
-        "link": "https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html"
-      },
-      {
         "title": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
         "link": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html"
+      },
+      {
+        "title": "It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
+        "link": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Israeli forces carry out artillery shelling, strikes in south Lebanon",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-carry-out-artillery-shelling-strikes-south-lebanon"
+      },
+      {
+        "title": "Four strikes hit military airport in Syria’s Idlib: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-strikes-hit-military-airport-syrias-idlib-report"
+      },
       {
         "title": "Damage, crew casualty reported onboard vessel hit in Hormuz Strait, UKMTO says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/damage-crew-casualty-reported-onboard-vessel-hit-hormuz-strait-ukmto"
@@ -104,17 +118,13 @@
       {
         "title": "Iranian official warns shipping companies against backing US",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-warns-shipping-companies-against-backing-us"
-      },
-      {
-        "title": "Report: Kushner opposes Netanyahu's plans for ongoing targeted killings in Gaza",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-kushner-opposes-netanyahus-plans-ongoing-targeted-killings-gaza"
-      },
-      {
-        "title": "Iran's Araghchi says no justification for 'reckless attack' on Iraq’s Kurdish region",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-no-justification-reckless-attack-iraqs-kurdish"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Democracy vs 'democracy'",
+        "link": "https://www.geo.tv/latest/678054-democracy-vs-democracy"
+      },
       {
         "title": "Katie Price's husband Lee Andrews' 'biggest lie ever' exposed",
         "link": "https://www.geo.tv/latest/678042-katie-prices-husband-lee-andrews-biggest-lie-ever-exposed"
@@ -130,32 +140,28 @@
       {
         "title": "Erdogan calls on Trump to prioritise diplomacy in talks with Iran",
         "link": "https://www.geo.tv/latest/678038-erdogan-calls-on-trump-to-prioritise-diplomacy-in-talks-with-iran"
-      },
-      {
-        "title": "Julia Fox to make feature directing debut with 'Sixth Avenue Saints'",
-        "link": "https://www.geo.tv/latest/678035-julia-fox-to-make-feature-directing-debut-with-sixth-avenue-saints"
       }
     ],
     "NDTV": [
       {
+        "title": "Indian-Origin Grandma, Living In US For 27 Years With Green Card, Detained By ICE",
+        "link": "https://www.ndtv.com/world-news/indian-origin-grandma-venkata-vasamsetty-living-in-us-for-27-years-with-green-card-detained-by-ice-11924036#publisher=newsstand"
+      },
+      {
+        "title": "Why India's Super-Rich Are Buying A 'Plan B' Abroad For Their Families",
+        "link": "https://www.ndtv.com/business-news/investment-immigration-why-indias-super-rich-are-investing-in-us-portugal-greece-11923484#publisher=newsstand"
+      },
+      {
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 300 Points As Oil Tops $90 Amid US-Iran War",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-18-august-us-iran-war-oil-prices-11923639#publisher=newsstand"
+      },
+      {
+        "title": "Retired Karnataka Teacher Killed By Daughter, Her Lover Over Property Row",
+        "link": "https://www.ndtv.com/karnataka-news/retired-62-year-old-karnataka-teacher-killed-by-daughter-her-lover-over-property-row-11923852#publisher=newsstand"
+      },
+      {
         "title": "'Going Overboard': Rs 5 Lakh Fine On Maharashtra Food Body For Not Restoring Pune Shop's License",
         "link": "https://www.ndtv.com/india-news/bombay-high-court-slaps-rs-5-lakh-fine-on-maharashtra-food-body-going-overboard-11922282#publisher=newsstand"
-      },
-      {
-        "title": "Built Mumbai-Pune Expressway 27 Years Ago, It's Still Pothole-Free: Nitin Gadkari",
-        "link": "https://www.ndtv.com/india-news/built-mumbai-pune-expressway-27-years-ago-its-still-pothole-free-nitin-gadkari-11922991#publisher=newsstand"
-      },
-      {
-        "title": "Delhi University PhD Scholar Slaps Professor. Suspended, Banned From Campus",
-        "link": "https://www.ndtv.com/delhi-news/delhi-university-phd-scholar-slaps-professor-suspended-banned-from-campus-11923690#publisher=newsstand"
-      },
-      {
-        "title": "Trump's Nod To India's Electoral System In Push For Mandatory US Voter ID",
-        "link": "https://www.ndtv.com/world-news/trumps-nod-to-indias-electoral-system-in-push-for-mandatory-us-voter-id-11923535#publisher=newsstand"
-      },
-      {
-        "title": "Bangladeshi Woman Re-Enters India Month After Deportation, Arrested",
-        "link": "https://www.ndtv.com/india-news/bangladeshi-woman-re-enters-india-month-after-deportation-arrested-11923078#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -181,5 +187,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-18 04:08 UTC"
+  "last_updated": "2026-08-18 04:49 UTC"
 }
