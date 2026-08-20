@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens 500 Points Higher, Asian Markets Rise",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-20-august-us-iran-war-oil-price-11933701#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Australian anger as Israel drops World Central Kitchen deaths case",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss"
+      },
+      {
         "title": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss"
       },
@@ -43,12 +41,8 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
       },
       {
-        "title": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
+        "title": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
         "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
-      },
-      {
-        "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli defence minister warns Turkey against 'threatening its security'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defence-minister-warns-turkey-against-threatening-its-security"
+      },
+      {
+        "title": "Mossad chief called Syria over Turkish army presence before airbase strike: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/mossad-chief-called-syria-over-turkish-army-presence-airbase-strike"
+      },
+      {
         "title": "Oil supertankers in Gulf are renting for $500,000 per day: Report",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-supertankers-gulf-are-renting-500000-day-report"
       },
@@ -131,17 +133,21 @@
       {
         "title": "Traffic through Hormuz Strait shows no rise, data suggests",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/traffic-through-hormuz-strait-shows-no-rise-data-suggests"
-      },
-      {
-        "title": "Hind Rajab's grandmother rejects Israeli army probe into killing, calls for independent international investigation: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hind-rajabs-grandmother-rejects-israeli-army-probe-killing-calls"
-      },
-      {
-        "title": "UK condemns Israel's E1 settlement expansion in occupied West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-condemns-israels-e1-settlement-expansion-occupied-west-bank"
       }
     ],
     "GeoTV": [
+      {
+        "title": "James Jordan details 'tough' new life after split from wife Ola",
+        "link": "https://www.geo.tv/latest/678419-james-jordan-details-tough-new-life-after-split-from-wife-ola"
+      },
+      {
+        "title": "Hayden Panettiere's mother reveals new investigation detail",
+        "link": "https://www.geo.tv/latest/678410-hayden-panettieres-mother-reveals-new-investigation-detail"
+      },
+      {
+        "title": "FDA raises Publix frozen blueberry recall to its most severe risk category",
+        "link": "https://www.geo.tv/latest/678418-fda-raises-publix-frozen-blueberry-recall-to-its-most-severe-risk-category"
+      },
       {
         "title": "Prince Harry makes bold first statement after dropping bombshell on royals",
         "link": "https://www.geo.tv/latest/678416-prince-harry-makes-bold-first-statement-after-dropping-bombshell-on-royals"
@@ -149,40 +155,28 @@
       {
         "title": "King Charles issues clear message to Harry, Meghan after UK decision",
         "link": "https://www.geo.tv/latest/678413-king-charles-issues-clear-message-to-harry-meghan-after-uk-decision"
-      },
-      {
-        "title": "Taylor Swift delivers surprise performance at Emmy event",
-        "link": "https://www.geo.tv/latest/678412-taylor-swift-delivers-surprise-performance-at-emmy-event"
-      },
-      {
-        "title": "Post Malone, Christy Lee take romance to next level",
-        "link": "https://www.geo.tv/latest/678408-post-malone-christy-lee-take-romance-to-next-level"
-      },
-      {
-        "title": "Syrian FM in Pakistan to discuss bilateral ties, regional and int'l developments",
-        "link": "https://www.geo.tv/latest/678404-syrian-fm-in-pakistan-to-discuss-bilateral-ties-regional-developments"
       }
     ],
     "NDTV": [
       {
-        "title": "Congress Firm On 2-Stanza Vande Mataram, BJP Calls Party \"Muslim League\"",
-        "link": "https://www.ndtv.com/india-news/congress-firm-on-2-stanza-vande-mataram-bjp-questions-loyalty-to-country-11933094#publisher=newsstand"
+        "title": "On Front Line Of Iran War, Kuwait Digs In For A Familiar Fight",
+        "link": "https://www.ndtv.com/world-news/on-front-line-of-iran-war-kuwait-digs-in-for-a-familiar-fight-11934286#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens 500 Points Higher, Asian Markets Rise",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-20-august-us-iran-war-oil-price-11933701#publisher=newsstand"
+        "title": "Pilot Killed After Plane Collides With Police Helicopter Near Runway In US",
+        "link": "https://www.ndtv.com/world-news/pennsylvania-pilot-killed-after-plane-collides-with-police-helicopter-near-runway-in-us-11934228#publisher=newsstand"
       },
       {
-        "title": "100 Murder Cases Shifted From UP Judge Who Sentenced 22 To Death In 4 Months",
-        "link": "https://www.ndtv.com/india-news/ravikumar-diwakar-100-murder-cases-shifted-from-up-judge-who-sentenced-22-to-death-in-4-months-11933797#publisher=newsstand"
+        "title": "Jagan Reddy Asks Party To Gear Up For Local Body Polls",
+        "link": "https://www.ndtv.com/andhra-pradesh-news/ys-jagan-reddy-asks-party-to-gear-up-for-local-body-polls-11934202#publisher=newsstand"
       },
       {
-        "title": "Trump Warns Iran's Trading Partners Of Economic Action: India's Exports To Take A Hit?",
-        "link": "https://www.ndtv.com/business-news/trump-warns-irans-trading-partners-of-economic-action-indias-exports-to-take-a-hit-11933681#publisher=newsstand"
+        "title": "China Evergrande Founder Jailed For Life For Fraud, Firm Fined $2 Billion",
+        "link": "https://www.ndtv.com/world-news/hui-ka-yan-china-evergrande-founder-jailed-for-life-for-fraud-firm-fined-2-billion-11934180#publisher=newsstand"
       },
       {
-        "title": "Love Crosses Borders: Meet Scottish MP, Indian Woman Who Married At Kerala Temple",
-        "link": "https://www.ndtv.com/kerala-news/love-crosses-borders-scottish-mp-martin-day-marries-indian-woman-at-kerala-temple-11933654#publisher=newsstand"
+        "title": "Auto, Taxi Drivers Who Fail Marathi Test To Face Action From Today",
+        "link": "https://www.ndtv.com/india-news/auto-taxi-drivers-who-fail-marathi-test-to-face-action-from-today-11934138#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-20 05:50 UTC"
+  "last_updated": "2026-08-20 06:20 UTC"
 }
