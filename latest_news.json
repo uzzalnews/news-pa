@@ -1,10 +1,16 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "GeoTV",
+      "title": "Piers Morgan's caption on Harry, Meghan 'Breaking News' sparks debate",
+      "link": "https://www.geo.tv/latest/678452-piers-morgans-caption-on-harry-meghan-breaking-news-sparks-debate"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Prince Harry and Meghan moving back to UK later this month",
-        "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss"
+        "title": "Harry and Meghan's security arrangements a private matter, PM says",
+        "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
@@ -25,6 +31,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "PSG forced to move opening league match as heatwave in France damages pitch",
+        "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss"
+      },
+      {
+        "title": "How Myanmar’s war drives the Rohingya crisis",
+        "link": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss"
+      },
+      {
         "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
         "link": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss"
       },
@@ -35,14 +49,6 @@
       {
         "title": "How conflict is making life more expensive for Iranians",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss"
-      },
-      {
-        "title": "State-backed Israeli settler violence forces West Bank displacement: HRW",
-        "link": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss"
-      },
-      {
-        "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
-        "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +80,20 @@
         "link": "https://www.dawn.com/news/2024115/sc-returns-govts-review-plea-against-imrans-transfer-to-shifa-hospital"
       },
       {
-        "title": "Federal cabinet approves drafts of two bills related to military, nuclear command structure",
-        "link": "https://www.dawn.com/news/2024107/federal-cabinet-approves-drafts-of-two-bills-related-to-military-nuclear-command-structure"
+        "title": "NA passes bills related to military, nuclear command structure as Bilawal objects, opposition walks out",
+        "link": "https://www.dawn.com/news/2024124/na-passes-bills-related-to-military-nuclear-command-structure-as-bilawal-objects-opposition-walks-out"
       },
       {
         "title": "DPM Dar reiterates Pakistan's support for Syria's sovereignty, territorial integrity",
         "link": "https://www.dawn.com/news/2024089/dpm-dar-reiterates-pakistans-support-for-syrias-sovereignty-territorial-integrity"
       },
       {
-        "title": "Dar says Pakistanis injured in Houthi attack in Red Sea have returned safely",
-        "link": "https://www.dawn.com/news/2024098/dar-says-pakistanis-injured-in-houthi-attack-in-red-sea-have-returned-safely"
+        "title": "Roads blocked, traffic congested in Karachi’s PIDC area due to protest",
+        "link": "https://www.dawn.com/news/2024131/roads-blocked-traffic-congested-in-karachis-pidc-area-due-to-protest"
       },
       {
-        "title": "5 terrorists killed in intelligence-based operation in Balochistan's Panjgur",
-        "link": "https://www.dawn.com/news/2024105/5-terrorists-killed-in-intelligence-based-operation-in-balochistans-panjgur"
+        "title": "Dar says Pakistanis injured in Houthi attack in Red Sea have returned safely",
+        "link": "https://www.dawn.com/news/2024098/dar-says-pakistanis-injured-in-houthi-attack-in-red-sea-have-returned-safely"
       }
     ],
     "APNews": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Why did Uganda unveil a statue of Netanyahu's brother at Entebbe?",
+        "link": "https://www.middleeasteye.net/news/why-did-uganda-unveil-bronze-statue-yonatan-netanyahu"
+      },
+      {
         "title": "Israeli authorities release body of slain Palestinian child held since March",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-authorities-release-body-slain-palestinian-child-held-march"
       },
@@ -129,13 +139,21 @@
       {
         "title": "Israel issues veiled threat to Turkey following airbase strikes in Syria",
         "link": "https://www.middleeasteye.net/news/israel-issues-veiled-threat-turkey-following-airbase-strikes-syria"
-      },
-      {
-        "title": "Jason Arday's marathon challenge and football claims found to be true after his death",
-        "link": "https://www.middleeasteye.net/news/jason-ardays-marathon-challenge-and-football-claims-found-be-true-after-his-death"
       }
     ],
     "GeoTV": [
+      {
+        "title": "National Assembly passes bills related to military, National Command Authority",
+        "link": "https://www.geo.tv/latest/678460-national-assembly-passes-bills-related-to-military-national-command-authority"
+      },
+      {
+        "title": "Fact-check: Fake notification circulates online claiming four new districts in Punjab",
+        "link": "https://www.geo.tv/latest/678458-fact-check-fake-notification-circulates-online-claiming-four-new-districts-in-punjab"
+      },
+      {
+        "title": "Piers Morgan's caption on Harry, Meghan 'Breaking News' sparks debate",
+        "link": "https://www.geo.tv/latest/678452-piers-morgans-caption-on-harry-meghan-breaking-news-sparks-debate"
+      },
       {
         "title": "Kensington Palace receives word on Sussexes arrival as preparation underway",
         "link": "https://www.geo.tv/latest/678457-kensington-palace-receives-word-on-sussexes-arrival-as-preparation-underway"
@@ -143,40 +161,28 @@
       {
         "title": "Taylor Swift fans on high alert after new 'TS' logo spreads across cities",
         "link": "https://www.geo.tv/latest/678437-taylor-swift-fans-on-high-alert-after-new-ts-logo-spreads-across-cities"
-      },
-      {
-        "title": "Satellite proliferation imperils astronomical observations, finds study",
-        "link": "https://www.geo.tv/latest/678449-satellite-proliferation-imperils-astronomical-observations-finds-study"
-      },
-      {
-        "title": "King Charles aide reveals emotional reason behind Harry's sudden decision",
-        "link": "https://www.geo.tv/latest/678455-king-charles-aide-reveals-emotional-reason-behind-harrys-sudden-decision"
-      },
-      {
-        "title": "ICC revokes demerit point awarded to Gaddafi Stadium pitch",
-        "link": "https://www.geo.tv/latest/678454-icc-revokes-demerit-point-awarded-to-gaddafi-stadium-pitch"
       }
     ],
     "NDTV": [
       {
-        "title": "US Body Seeks Sanctions On RSS Ahead Of Mohan Bhagwat's New York Visit",
-        "link": "https://www.ndtv.com/india-news/us-commission-on-international-religious-freedom-uscirf-seeks-sanctions-on-rss-ahead-of-mohan-bhagwats-new-york-visit-11934850#publisher=newsstand"
+        "title": "Supreme Court Sets Up Panel To Probe Cop Action, Violence During NEET Protests",
+        "link": "https://www.ndtv.com/india-news/supreme-court-sets-up-5-member-panel-to-probe-police-action-during-student-protests-11935803#publisher=newsstand"
       },
       {
-        "title": "Man With Consignment Of 10 Illegal Firearms Arrested By Delhi Police",
-        "link": "https://www.ndtv.com/delhi-news/man-with-consignment-of-10-illegal-firearms-arrested-by-delhi-police-11935109#publisher=newsstand"
+        "title": "\"My Sister Has Been Shot\": YouTuber Pragya Mishra Mentioned In Killer Brother-In-Law's WhatsApp Status",
+        "link": "https://www.ndtv.com/india-news/youtuber-pragya-mishra-named-in-killer-brother-in-laws-whatsapp-status-my-sister-has-been-shot-on-x-11935763#publisher=newsstand"
       },
       {
-        "title": "How Delhi Businessman's Wife Foiled 'Special-26'-Style Fake CBI Raid At Home",
-        "link": "https://www.ndtv.com/india-news/how-delhi-businessmans-wife-foiled-special-26-style-fake-cbi-raid-at-home-11935031#publisher=newsstand"
+        "title": "Stern Behaviour By Boss Can't Be Considered Abetment Of Suicide: Top Court",
+        "link": "https://www.ndtv.com/india-news/stern-behaviour-by-boss-cant-be-considered-abetment-of-suicide-top-court-11935882#publisher=newsstand"
       },
       {
-        "title": "Ex-Congress MP Sajjan Kumar, Convicted In 1984 Anti-Sikh Riots Case, Dies",
-        "link": "https://www.ndtv.com/india-news/ex-congress-mp-sajjan-kumar-convicted-in-1984-anti-sikh-riots-case-dies-11934869#publisher=newsstand"
+        "title": "Jharkhand Government's Order Cancelling JPSC, JSSC Exams Stayed By High Court",
+        "link": "https://www.ndtv.com/india-news/jharkhand-governments-order-cancelling-jpsc-jssc-exams-stayed-by-high-court-11935583#publisher=newsstand"
       },
       {
-        "title": "India Needs 20 Reforms To Become A $20 Trillion Economy By 2036: Report",
-        "link": "https://www.ndtv.com/business-news/india-needs-20-reforms-become-20-trillion-economy-gdp-by-2036-equirus-report-11935057#publisher=newsstand"
+        "title": "\"Will Become Doctor In Next Life\": 19-Year-Old NEET Aspirant Dies By Suicide",
+        "link": "https://www.ndtv.com/india-news/will-become-doctor-in-next-life-19-year-old-neet-aspirant-dies-by-suicide-11935733#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-20 11:29 UTC"
+  "last_updated": "2026-08-20 11:55 UTC"
 }
