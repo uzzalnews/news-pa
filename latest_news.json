@@ -3,12 +3,12 @@
   "news": {
     "BBC": [
       {
-        "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
-        "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
         "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
+        "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
@@ -25,6 +25,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
+        "link": "https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss"
+      },
+      {
         "title": "One killed, three wounded in sword attack at Swedish high school",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss"
       },
@@ -39,10 +43,6 @@
       {
         "title": "Tunisian protesters call for President Kais Saied to step down",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss"
-      },
-      {
-        "title": "Can a humanitarian disaster be averted in Somalia?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Turkey denounces Netanyahu's 'petty political tactics'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-denounces-netanyahus-petty-political-tactics"
+      },
+      {
         "title": "Trump says Iran not ready to make the 'right deal'",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-not-ready-make-right-deal"
       },
@@ -129,10 +133,6 @@
       {
         "title": "EU's von der Leyen joins European countries to condemn Israel's West Bank plan",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eus-von-der-leyen-joins-european-countries-condemn-israels-west-bank"
-      },
-      {
-        "title": "Iran’s Ghalibaf: ‘We stay out of Iraq’s affairs’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-ghalibaf-we-stay-out-iraqs-affairs"
       }
     ],
     "GeoTV": [
@@ -159,6 +159,14 @@
     ],
     "NDTV": [
       {
+        "title": "Ukraine Sanctions Russian Hit 'Masha And The Bear' Cartoon",
+        "link": "https://www.ndtv.com/world-news/ukraine-sanctions-russian-hit-masha-and-the-bear-cartoon-11942965#publisher=newsstand"
+      },
+      {
+        "title": "\"Dictator\", \"Genocide\": Israel, Turkey At Loggerheads Over Syria Attack",
+        "link": "https://www.ndtv.com/world-news/israel-turkey-at-loggerheads-over-syria-airbase-attack-11942882#publisher=newsstand"
+      },
+      {
         "title": "Why Meghan Markle Faces Difficult Return To The UK",
         "link": "https://www.ndtv.com/world-news/why-meghan-markle-faces-difficult-return-to-the-uk-11942829#publisher=newsstand"
       },
@@ -169,14 +177,6 @@
       {
         "title": "6 Injured In Knife Attacks On Passersby In Delhi: Police",
         "link": "https://www.ndtv.com/delhi-news/6-injured-in-knife-attacks-on-passersby-in-delhis-mangolpuri-police-11942760#publisher=newsstand"
-      },
-      {
-        "title": "India Has Political Stability, World Sees It As Bright Spot Of Growth: PM Modi",
-        "link": "https://www.ndtv.com/india-news/india-has-political-stability-world-sees-it-as-bright-spot-of-growth-pm-modi-11942756#publisher=newsstand"
-      },
-      {
-        "title": "Lured By Offline Booking, Killed For Car: Murder Of Delhi Taxi Driver",
-        "link": "https://www.ndtv.com/india-news/lured-by-offline-booking-killed-for-car-murder-of-delhi-taxi-driver-11942754#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-21 21:45 UTC"
+  "last_updated": "2026-08-21 22:02 UTC"
 }
