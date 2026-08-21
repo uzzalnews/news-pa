@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "Arsenal vs Coventry LIVE: Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Migrants clash with French police as they attempt to cross the Channel",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
+        "link": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
+        "link": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss"
+      },
+      {
         "title": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race",
         "link": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss"
       },
       {
         "title": "England thrash Pakistan by an innings and 103 runs in first Test",
         "link": "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss"
-      },
-      {
-        "title": "Arsenal vs Coventry LIVE: Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss"
-      },
-      {
-        "title": "Jannik Sinner to miss US Open tennis major due to knee injury",
-        "link": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -143,6 +137,14 @@
     ],
     "GeoTV": [
       {
+        "title": "Diddy name-dropped in Tupac murder trial as $1M hit claim resurfaces",
+        "link": "https://www.geo.tv/latest/678680-diddy-name-dropped-in-tupac-murder-trial-as-1m-hit-claim-resurfaces"
+      },
+      {
+        "title": "Taylor Swift fans are convinced new album is finally coming",
+        "link": "https://www.geo.tv/latest/678664-taylor-swift-fans-are-convinced-new-album-is-finally-coming"
+      },
+      {
         "title": "Where has Melania Trump been? First lady returns after 38-day absence with playful jab",
         "link": "https://www.geo.tv/latest/678673-where-has-melania-trump-been-first-lady-returns-after-38-day-absence-with-playful-jab"
       },
@@ -153,14 +155,6 @@
       {
         "title": "Harvard to pay $53M over morgue manager's body parts theft",
         "link": "https://www.geo.tv/latest/678670-harvard-to-pay-53m-over-morgue-managers-body-parts-theft"
-      },
-      {
-        "title": "Pakistan, Google to use AI to improve public services, boost government efficiency",
-        "link": "https://www.geo.tv/latest/678630-pakistan-google-to-use-ai-to-improve-public-services-boost-government-efficiency"
-      },
-      {
-        "title": "What happened to Jannik Sinner's knee? World no.1's US Open withdrawal raises questions",
-        "link": "https://www.geo.tv/latest/678666-what-happened-to-jannik-sinners-knee-world-no1s-us-open-withdrawal-raises-questions"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-21 16:57 UTC"
+  "last_updated": "2026-08-21 17:33 UTC"
 }
