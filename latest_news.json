@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "LIVE Updates: Rahul Gandhi Stages Sit-In With Pellet Gun Victim Over FIR Demand",
-      "link": "https://www.ndtv.com/india-news/rahul-gandhis-protest-in-delhi-live-updates-rahul-gandhi-stages-sit-in-with-pellet-gun-victim-over-fir-demand-11939872#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -17,19 +11,27 @@
         "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Will Harry's return heal deep-rooted rift with William?",
-        "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
         "link": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "French becoming more effective in stopping small boat crossings, UK says",
-        "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss"
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+        "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Philippines floods fuel anger over alleged corruption",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss"
+      },
+      {
+        "title": "Cyclist Josh Tarling to compete in Tour of Spain after brother’s death",
+        "link": "https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss"
+      },
       {
         "title": "Torrential rain floods New York City’s streets and subway",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Australia charges man for passing Ukrainian military intel to Russia",
         "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss"
-      },
-      {
-        "title": "Sudan’s displacement crisis deepens as violence escalates",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss"
-      },
-      {
-        "title": "Bangladesh expect ‘harder’ Australia challenge in second Test, says coach",
-        "link": "https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -103,20 +97,20 @@
         "link": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html"
       },
       {
-        "title": "U.S.S. Abraham Lincoln Leaves Middle East After Months at Sea in Operation Against Iran",
-        "link": "https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html"
+        "title": "Spike in ‘Dark’ Oil Tankers in Gulf Raises Risk of Catastrophic Spills",
+        "link": "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html"
       },
       {
-        "title": "2 Hijackings in 4 Days: Somali Piracy Rises",
-        "link": "https://www.nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html"
+        "title": "U.S.S. Lincoln Begins 13,000-Mile Journey Home, and the Shortage That Could Take Down the Grid",
+        "link": "https://www.nytimes.com/2026/08/21/podcasts/the-headlines/uss-lincoln-power-grid-shortage.html"
       },
       {
-        "title": "How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields",
-        "link": "https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html"
+        "title": "How Harvard’s Epic Fight With Trump Is Costing the University",
+        "link": "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html"
       },
       {
-        "title": "Trump Boasts of Declassifying Secrets, but Withholds Key Election Files From Public",
-        "link": "https://www.nytimes.com/2026/08/20/us/politics/trump-2024-election-classified-files.html"
+        "title": "On the Radio, Trump Has a Reunion (of Sorts) With Michael Cohen",
+        "link": "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
       }
     ],
     "MiddleEastEye": [
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "BTS teases Indian fans with concert plans",
+        "link": "https://www.geo.tv/latest/678596-bts-teases-indian-fans-with-concert-plans"
+      },
+      {
         "title": "Shane Richie turns to Jessie Wallace for support amid divorce battle",
         "link": "https://www.geo.tv/latest/678593-shane-richie-turns-to-jessie-wallace-for-support-amid-divorce-battle"
       },
@@ -157,32 +155,28 @@
       {
         "title": "Roma Riaz steps into national director role for Miss Universe Pakistan",
         "link": "https://www.geo.tv/latest/678582-roma-riaz-steps-into-national-director-role-for-miss-universe-pakistan"
-      },
-      {
-        "title": "Govt declares public holiday on August 26 for Eid Milad un Nabi",
-        "link": "https://www.geo.tv/latest/678587-govt-declares-public-holiday-on-august-26-for-eid-milad-un-nabi"
       }
     ],
     "NDTV": [
       {
-        "title": "Rahul Gandhi, With Pellet Victim, Sits Outside Senior Cop's Office Over FIR",
-        "link": "https://www.ndtv.com/india-news/rahul-gandhi-seeks-info-on-pellet-gun-use-sits-outside-senior-cops-office-11939535#publisher=newsstand"
+        "title": "Stock Market Highlights, Sensex Today: Sensex, Nifty Settle Flat Amid Mixed Global Cues",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-21-august-us-iran-war-oil-prices-11938629#publisher=newsstand"
       },
       {
-        "title": "LIVE Updates: Rahul Gandhi Stages Sit-In With Pellet Gun Victim Over FIR Demand",
-        "link": "https://www.ndtv.com/india-news/rahul-gandhis-protest-in-delhi-live-updates-rahul-gandhi-stages-sit-in-with-pellet-gun-victim-over-fir-demand-11939872#publisher=newsstand"
+        "title": "Himachal Assembly Adjourned Within 10 Minutes Over Vande Mataram Row",
+        "link": "https://www.ndtv.com/india-news/himachal-pradesh-assembly-adjourned-within-10-minutes-over-vande-mataram-row-11940150#publisher=newsstand"
       },
       {
-        "title": "Rs 125 Crore, 110 Bank Accounts: Mumbai Cops Bust Mule Bank Account Racket",
-        "link": "https://www.ndtv.com/mumbai-news/rs-125-crore-110-bank-accounts-mumbai-cops-bust-mule-bank-account-racket-11939762#publisher=newsstand"
+        "title": "Court Acquits 27 Dera Sacha Sauda Followers In 2017 Police Attack Case",
+        "link": "https://www.ndtv.com/india-news/court-acquits-27-dera-sacha-sauda-followers-in-2017-police-attack-case-11940239#publisher=newsstand"
       },
       {
         "title": "'Will Make Travel Simpler': Sikkim Defends New Tourist Permit System",
         "link": "https://www.ndtv.com/india-news/will-make-travel-simpler-sikkim-defends-new-tourist-permit-system-11939712#publisher=newsstand"
       },
       {
-        "title": "'Ready To Back Crazy Ideas': Zerodha CEO Says Trading May Change Forever",
-        "link": "https://www.ndtv.com/business-news/zerodha-founder-nithin-kamath-open-invite-founders-crazy-ideas-stock-market-trading-11939578#publisher=newsstand"
+        "title": "Speeding Aston Martin Rams, Kills Woman In Hyderabad, MP's Son Charged",
+        "link": "https://www.ndtv.com/india-news/rajya-sabha-lingamaneni-rameshs-son-sanjush-booked-as-aston-martin-car-crash-kills-woman-in-hyderabad-11937375#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-21 09:51 UTC"
+  "last_updated": "2026-08-21 10:18 UTC"
 }
