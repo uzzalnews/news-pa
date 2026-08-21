@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "Arsenal vs Coventry LIVE: Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,7 +13,7 @@
         "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: How 'strongest' El Niño could affect world weather",
+        "title": "Watch: How 'strongest' El Niño could affect weather around the world",
         "link": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,24 +31,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race",
+        "link": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss"
+      },
+      {
+        "title": "England thrash Pakistan by an innings and 103 runs in first Test",
+        "link": "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss"
+      },
+      {
+        "title": "Arsenal vs Coventry LIVE: Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss"
+      },
+      {
         "title": "Israeli settlers set fire to heavy machinery at West Bank quarry",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss"
       },
       {
         "title": "Jannik Sinner to miss US Open tennis major due to knee injury",
         "link": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss"
-      },
-      {
-        "title": "Argentina’s Paredes gets 10-game ban for World Cup final scuffle with Spain",
-        "link": "https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss"
-      },
-      {
-        "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
-        "link": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss"
-      },
-      {
-        "title": "Iraq’s solar villages show how to build an energy transition that lasts",
-        "link": "https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -86,8 +92,8 @@
         "link": "https://www.dawn.com/news/2024362/people-of-balochistan-will-have-first-right-to-provinces-wealth-pm-shehbaz"
       },
       {
-        "title": "Pakistan, seven other Muslim states condemn Israel’s illegal settlement policies in occupied Palestinian territory",
-        "link": "https://www.dawn.com/news/2024377/pakistan-seven-other-muslim-states-condemn-israels-illegal-settlement-policies-in-occupied-palestinian-territory"
+        "title": "England rout Pakistan by an innings and 103 runs in Headingley Test",
+        "link": "https://www.dawn.com/news/2024383/england-rout-pakistan-by-an-innings-and-103-runs-in-headingley-test"
       }
     ],
     "APNews": [],
@@ -101,19 +107,23 @@
         "link": "https://www.nytimes.com/2026/08/21/us/politics/trump-lawsuit-liberal-think-tank.html"
       },
       {
+        "title": "Push for Online Gun Sales Meets a Surprising Opponent: Small Gun Dealers",
+        "link": "https://www.nytimes.com/2026/08/21/us/politics/online-gun-sales-trump.html"
+      },
+      {
+        "title": "Gazebos From Uzbekistan: The Latest Foreign Gifts in Trump’s Washington",
+        "link": "https://www.nytimes.com/2026/08/21/us/politics/uzbekistan-gazebos-trump.html"
+      },
+      {
         "title": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
         "link": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html"
-      },
-      {
-        "title": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
-        "link": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html"
-      },
-      {
-        "title": "Iran War Raises Risk of Collisions and Oil Spills in Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Iran and Oman discuss resuming talks over Strait of Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-discuss-resuming-talks-strait-hormuz-navigation"
+      },
       {
         "title": "Middle Eastern powers condemn Israeli settlement policies, reject 'E1' West Bank plan",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/middle-eastern-powers-condemn-israeli-settlement-plans-reject-e1-west"
@@ -129,13 +139,13 @@
       {
         "title": "Anas Altikriti case raises crucial questions about Britain's alliance with the UAE",
         "link": "https://www.middleeasteye.net/opinion/anas-altikriti-case-raises-crucial-questions-about-britains-alliance-uae"
-      },
-      {
-        "title": "UK government tells Muslims to use less water for ablutions",
-        "link": "https://www.middleeasteye.net/news/uk-government-advises-muslims-use-less-water-perform-ablutions"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Where has Melania Trump been? First lady returns after 38-day absence with playful jab",
+        "link": "https://www.geo.tv/latest/678673-where-has-melania-trump-been-first-lady-returns-after-38-day-absence-with-playful-jab"
+      },
       {
         "title": "Meghan Markle 'thrilled' by surprise UK proposal",
         "link": "https://www.geo.tv/latest/678668-meghan-markle-thrilled-by-surprise-uk-proposal"
@@ -151,32 +161,28 @@
       {
         "title": "What happened to Jannik Sinner's knee? World no.1's US Open withdrawal raises questions",
         "link": "https://www.geo.tv/latest/678666-what-happened-to-jannik-sinners-knee-world-no1s-us-open-withdrawal-raises-questions"
-      },
-      {
-        "title": "Horrifying video captures moment plane slams into police helicopter, killing doctor",
-        "link": "https://www.geo.tv/latest/678665-horrifying-video-captures-moment-plane-slams-into-police-helicopter-killing-doctor"
       }
     ],
     "NDTV": [
       {
-        "title": "Meghalaya-Assam Taxi Operators' Standoff Continues, Tourists Stranded",
-        "link": "https://www.ndtv.com/india-news/meghalaya-assam-standoff-of-taxi-operators-continues-tourists-stranded-11941882#publisher=newsstand"
+        "title": "\"Live For Your Mother\": Sarpanch's Plea To Teen On Maharashtra Hilltop",
+        "link": "https://www.ndtv.com/india-news/live-for-your-mother-sarpanchs-plea-to-teen-on-maharashtra-hilltop-11942230#publisher=newsstand"
       },
       {
-        "title": "Apple May Expand India Manufacturing Beyond iPhones: Union Minister",
-        "link": "https://www.ndtv.com/india-news/apple-may-expand-india-manufacturing-beyond-iphones-union-minister-ashwini-vaishnaw-11941849#publisher=newsstand"
+        "title": "Live Updates: Rahul Gandhi Ends Sit-In With Pellet Gun Victim After Cops File FIR",
+        "link": "https://www.ndtv.com/india-news/rahul-gandhis-protest-in-delhi-live-updates-rahul-gandhi-stages-sit-in-with-pellet-gun-victim-over-fir-demand-11939872#publisher=newsstand"
       },
       {
-        "title": "'Pakistan's Frustration': India On Reaction To Sergio Gor's J&K Comment",
-        "link": "https://www.ndtv.com/india-news/pakistans-frustration-india-on-reaction-to-sergio-gors-j-k-remark-11941473#publisher=newsstand"
+        "title": "\"Made Up\": Nripendra Misra On Allegations Of Irregularities In Ram Temple Construction",
+        "link": "https://www.ndtv.com/india-news/ram-temple-construction-committee-chief-speaks-on-letter-by-ex-trust-official-11942145#publisher=newsstand"
       },
       {
-        "title": "Delhi Warns Pharmacies Over 'Up To 80% Off' Ads, Says Discounts Must Be Genuine",
-        "link": "https://www.ndtv.com/india-news/delhi-warns-pharmacies-over-up-to-80-off-ads-says-discounts-must-be-genuine-11941701#publisher=newsstand"
+        "title": "iPhone EMI Behind Teen, Parents' Deaths In Maharashtra Hill Horror",
+        "link": "https://www.ndtv.com/india-news/iphone-emi-behind-familys-wipeout-in-maharashtra-hill-horror-teen-parents-fall-into-gorge-dead-in-sambhajinagar-aurangabad-11942138#publisher=newsstand"
       },
       {
-        "title": "Delhi Police Bust High-Tech Betting Network, 31 Arrested",
-        "link": "https://www.ndtv.com/india-news/delhi-police-bust-high-tech-betting-network-31-arrested-11941667#publisher=newsstand"
+        "title": "'Should Be Common Man's Goal': Centre's 23-Point 'Viksit Bharat' Action Plan",
+        "link": "https://www.ndtv.com/india-news/centres-23-point-viksit-bharat-action-plan-should-be-common-mans-goal-11942137#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-21 16:20 UTC"
+  "last_updated": "2026-08-21 16:57 UTC"
 }
