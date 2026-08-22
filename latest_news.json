@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "Espanyol vs Real Madrid LIVE: La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,23 @@
         "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+        "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
         "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "South Korea sending first container ship through Arctic route",
+        "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss"
+      },
+      {
+        "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss"
+      },
+      {
+        "title": "Espanyol vs Real Madrid LIVE: La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss"
+      },
       {
         "title": "How is the pro-Israel lobby influencing US elections?",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Elche vs Barcelona: La Liga – prediction, team news, lineups",
         "link": "https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss"
-      },
-      {
-        "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss"
-      },
-      {
-        "title": "Did DOGE cuts make America’s food safety problem worse?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss"
-      },
-      {
-        "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/2024571/pm-shehbaz-takes-notice-of-non-functional-cta-machine-at-pims-cardiology-dept-imrans-related-test-not-performed"
       },
       {
-        "title": "Islamabad chief commissioner seeks early hearing of review petition against order to shift Imran to private hospital",
-        "link": "https://www.dawn.com/news/2024588/islamabad-chief-commissioner-seeks-early-hearing-of-review-petition-against-order-to-shift-imran-to-private-hospital"
+        "title": "AJK PM Rathore urges dialogue to resolve AJK crisis, calls for end to ‘base camp’ mindset",
+        "link": "https://www.dawn.com/news/2024593/ajk-pm-rathore-urges-dialogue-to-resolve-ajk-crisis-calls-for-end-to-base-camp-mindset"
       },
       {
-        "title": "Husband, servant detained after woman found dead with hands bound in Rawalpindi apartment",
-        "link": "https://www.dawn.com/news/2024566/husband-servant-detained-after-woman-found-dead-with-hands-bound-in-rawalpindi-apartment"
+        "title": "Islamabad chief commissioner seeks early hearing of review petition against order to shift Imran to private hospital",
+        "link": "https://www.dawn.com/news/2024588/islamabad-chief-commissioner-seeks-early-hearing-of-review-petition-against-order-to-shift-imran-to-private-hospital"
       }
     ],
     "APNews": [],
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli forces, settlers injure and arrest Palestinians across West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-settlers-injure-and-arrest-palestinians-across-west-bank"
+      },
+      {
         "title": "Blast on security forces’ bus near Damascus causes injuries",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blast-security-forces-bus-near-damascus-causes-injuries"
       },
@@ -129,32 +139,28 @@
       {
         "title": "Israeli forces reportedly use phosphorus shells in attacks on southern Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-reportedly-use-phosphorus-shells-attacks-southern-lebanon"
-      },
-      {
-        "title": "Syria condemns Israeli strike on 'civilian vehicle' near Damascus",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-condemns-israeli-strike-civilian-vehicle-near-damascus"
       }
     ],
     "GeoTV": [
       {
+        "title": "Anne Hathaway responds to wild claims about her pregnancy",
+        "link": "https://www.geo.tv/latest/678790-anne-hathway-responds-to-wild-claims-about-her-pregnancy"
+      },
+      {
+        "title": "Rawalpindi woman's 'brutal' killing sparks outrage on social media",
+        "link": "https://www.geo.tv/latest/678792-rawalpindi-womans-brutal-killing-sparks-outrage-on-social-media"
+      },
+      {
+        "title": "Billie Eilish takes over social media with exciting new album update",
+        "link": "https://www.geo.tv/latest/678788-billie-eilish-takes-over-social-media-with-exciting-new-album-update"
+      },
+      {
+        "title": "Rockstar rattled as ‘Grand Theft Auto VI' leaks again: Everything to know",
+        "link": "https://www.geo.tv/latest/678795-rockstar-rattled-as-grand-theft-auto-vi-leaks-again-everything-to-know"
+      },
+      {
         "title": "Kate Middleton, Meghan Markle will never go together",
         "link": "https://www.geo.tv/latest/678789-kate-middleton-meghan-markle-will-never-go-together"
-      },
-      {
-        "title": "Bunnie Xo makes bold confession after Jelly Roll split",
-        "link": "https://www.geo.tv/latest/678787-bunnie-xo-makes-bold-confession-after-jelly-roll-split"
-      },
-      {
-        "title": "Trump suffers another legal blow as judge strikes down 75-country visa ban",
-        "link": "https://www.geo.tv/latest/678791-trump-suffers-another-legal-blow-as-judge-strikes-down-75-country-visa-ban"
-      },
-      {
-        "title": "Kylie Jenner shows support for Justin Bieber's new project",
-        "link": "https://www.geo.tv/latest/678785-kylie-jenner-shows-support-for-justin-biebers-new-project"
-      },
-      {
-        "title": "Priyanka Chopra reveals why Nick Jonas won her heart",
-        "link": "https://www.geo.tv/latest/678782-priyanka-chopra-reveals-why-nick-jonas-won-her-heart"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-22 17:02 UTC"
+  "last_updated": "2026-08-22 17:30 UTC"
 }
