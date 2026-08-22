@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "Multiple deaths after collision between police vehicle and car",
+        "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
         "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
       },
@@ -17,32 +21,28 @@
       {
         "title": "More students planning to live at home for university over 'insane' living costs",
         "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Burnham economic adviser O'Neill rules out government job",
-        "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
-        "link": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss"
+        "title": "How will Trump’s tariffs affect Canada’s economy?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss"
       },
       {
-        "title": "China’s new moon mission could unlock secret of lunar ice: Why that matters",
-        "link": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss"
+        "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss"
       },
       {
-        "title": "‘It was a tsunami’: Floods leave death trail in India’s Assam",
-        "link": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss"
+        "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
+        "link": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss"
       },
       {
-        "title": "Inundated Philippine communities seek answers over flood control funds",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss"
+        "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+        "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss"
       },
       {
-        "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss"
+        "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
+        "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +74,20 @@
         "link": "https://www.dawn.com/news/2024559/imrans-sister-files-contempt-plea-over-alleged-violation-of-sc-order-on-pti-founders-hospital-transfer"
       },
       {
-        "title": "US judge strikes down policy suspending immigrant visa processing for 75 nations, including Pakistan",
-        "link": "https://www.dawn.com/news/2024551/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-for-75-nations-including-pakistan"
+        "title": "Pakistan Army deployed in Rawalpindi for 6 months for 'sensitive security duties'",
+        "link": "https://www.dawn.com/news/2024562/pakistan-army-deployed-in-rawalpindi-for-6-months-for-sensitive-security-duties"
       },
       {
-        "title": "PM admonishes commissioner, IGP over display of ‘pomp and show’",
-        "link": "https://www.dawn.com/news/2024406/pm-admonishes-commissioner-igp-over-display-of-pomp-and-show"
+        "title": "US judge strikes down policy suspending immigrant visa processing for 75 nations, including Pakistan",
+        "link": "https://www.dawn.com/news/2024551/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-for-75-nations-including-pakistan"
       },
       {
         "title": "PM Shehbaz directs authorities to provide financial assistance to flood-hit families",
         "link": "https://www.dawn.com/news/2024556/pm-shehbaz-directs-authorities-to-provide-financial-assistance-to-flood-hit-families"
       },
       {
-        "title": "‘Imran wants movement for his release expedited’",
-        "link": "https://www.dawn.com/news/2024469/imran-wants-movement-for-his-release-expedited"
+        "title": "PM admonishes commissioner, IGP over display of ‘pomp and show’",
+        "link": "https://www.dawn.com/news/2024406/pm-admonishes-commissioner-igp-over-display-of-pomp-and-show"
       }
     ],
     "APNews": [],
@@ -115,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Tehran says Iraqi oil tankers allowed passage through Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-says-iraqi-oil-tankers-allowed-passage-through-hormuz"
+      },
+      {
+        "title": "Exclusive: UK's advertising regulator not investigating Great Israeli Real Estate Event",
+        "link": "https://www.middleeasteye.net/news/uks-advert-regulator-not-investigating-great-israeli-real-estate-event"
+      },
+      {
         "title": "Lebanon economy to contract by 6.4 percent due to war, World Bank says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-economy-contract-64-percent-due-war-world-bank-says"
       },
@@ -125,17 +133,17 @@
       {
         "title": "Israeli forces shell towns in southern Lebanon, continue demolitions",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-shell-towns-southern-lebanon-continue-demolitions"
-      },
-      {
-        "title": "US sanctions 'declaration of war on all nations', Iran says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-declaration-war-all-nations-iran-says"
-      },
-      {
-        "title": "UKMTO report says Hormuz traffic just 20 percent of pre-war levels",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-report-says-hormuz-traffic-just-20-percent-pre-war-levels"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Palace braces for Harry, Meghan's ‘biggest' bombshell yet: ‘front-row seat'",
+        "link": "https://www.geo.tv/latest/678741-palace-braces-for-harry-meghans-biggest-bombshell-yet-front-row-seat"
+      },
+      {
+        "title": "Buckingham Palace silent after Harry's UK bombshell",
+        "link": "https://www.geo.tv/latest/678739-buckingham-palace-silent-after-harrys-uk-bombshell"
+      },
       {
         "title": "Princess Kate ‘in charge' of important task amid Harry, Meghan's welcome",
         "link": "https://www.geo.tv/latest/678735-princess-kate-in-charge-of-important-task-amid-harry-meghans-welcome"
@@ -147,14 +155,6 @@
       {
         "title": "Prince Harry receives major update on UK police protection for family",
         "link": "https://www.geo.tv/latest/678733-prince-harry-receives-major-update-on-uk-police-protection-for-family"
-      },
-      {
-        "title": "Dua Lipa, Callum Turner to mark first major milestone since wedding",
-        "link": "https://www.geo.tv/latest/678731-dua-lipa-callum-turner-to-mark-first-major-milestone-since-wedding"
-      },
-      {
-        "title": "Mavericks cut Klay Thompson loose—now he's teaming up with Giannis in Miami",
-        "link": "https://www.geo.tv/latest/678727-mavericks-cut-klay-thompson-loosenow-hes-teaming-up-with-giannis-in-miami"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-22 08:00 UTC"
+  "last_updated": "2026-08-22 08:39 UTC"
 }
