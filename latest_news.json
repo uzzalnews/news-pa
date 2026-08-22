@@ -1,15 +1,9 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Espanyol vs Real Madrid: La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "Video appears to show police chase minutes before fatal crash",
+        "title": "Video appears to show police chase minutes before fatal A66 crash",
         "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Armed men kidnap dozens in attacks on Nigerian villages",
+        "link": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss"
+      },
+      {
+        "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
+        "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss"
+      },
+      {
+        "title": "‘Not a small issue’: People deported by US to Liberia face uncertain future",
+        "link": "https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss"
+      },
+      {
         "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
         "link": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss"
-      },
-      {
-        "title": "South Korea sending first container ship through Arctic route",
-        "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss"
-      },
-      {
-        "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Espanyol vs Real Madrid: La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss"
-      },
-      {
-        "title": "How is the pro-Israel lobby influencing US elections?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/2024593/ajk-pm-rathore-urges-dialogue-to-resolve-ajk-crisis-calls-for-end-to-base-camp-mindset"
       },
       {
-        "title": "Islamabad chief commissioner seeks early hearing of review petition against order to shift Imran to private hospital",
-        "link": "https://www.dawn.com/news/2024588/islamabad-chief-commissioner-seeks-early-hearing-of-review-petition-against-order-to-shift-imran-to-private-hospital"
+        "title": "Canada-US rift deepens as Carney vows retaliatory tariffs after trade talks fail",
+        "link": "https://www.dawn.com/news/2024597/canada-us-rift-deepens-as-carney-vows-retaliatory-tariffs-after-trade-talks-fail"
       }
     ],
     "APNews": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israel has no intention of escalating tensions with Turkey, foreign minister says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-has-no-intention-escalating-tensions-turkey-foreign-minister-says"
+      },
+      {
+        "title": "US 'economic terrorism' will not break people's will: Iranian Vice President",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-economic-terrorism-will-not-break-peoples-will-iranian-vice-president"
+      },
+      {
         "title": "Israeli forces, settlers injure and arrest Palestinians across West Bank",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-settlers-injure-and-arrest-palestinians-across-west-bank"
       },
@@ -131,36 +133,28 @@
       {
         "title": "Guilt, grief and strength: Gaza’s ‘sole survivor’ children face life alone",
         "link": "https://www.middleeasteye.net/news/guilt-grief-and-strength-gazas-sole-survivor-children-face-life-alone"
-      },
-      {
-        "title": "Iran says repair of South Pars refinery 70 percent complete",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-repair-south-pars-refinery-70-percent-complete"
-      },
-      {
-        "title": "Israeli forces reportedly use phosphorus shells in attacks on southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-reportedly-use-phosphorus-shells-attacks-southern-lebanon"
       }
     ],
     "GeoTV": [
       {
-        "title": "Chinese robot beats Usain Bolt's 100m world record with stunning 9.32-second run",
-        "link": "https://www.geo.tv/latest/678801-chinese-robot-beats-usain-bolts-100m-world-record-with-stunning-932-second-run"
+        "title": "Trump wants more economic pressure on Iran. What are his options?",
+        "link": "https://www.geo.tv/latest/678805-trump-wants-more-economic-pressure-on-iran-what-are-his-options"
       },
       {
-        "title": "Taylor Swift fans notice new pattern in outings amid TS13 rumours",
-        "link": "https://www.geo.tv/latest/678796-taylor-swift-fans-notice-new-pattern-in-outings-amid-ts13-rumours"
+        "title": "Former South African boxing champion Zolani Tete shot dead: What we know",
+        "link": "https://www.geo.tv/latest/678806-former-south-african-boxing-champion-zolani-tete-shot-dead-what-we-know"
       },
       {
-        "title": "COVID-19's summer comeback: What you need to know about latest surge",
-        "link": "https://www.geo.tv/latest/678800-covid-19s"
+        "title": "Dwayne Johnson talks about his biggest Disney perk",
+        "link": "https://www.geo.tv/latest/678798-dwayne-johnson-talks-about-his-biggest-disney-perk"
       },
       {
-        "title": "Islamabad chief commissioner moves SC for early hearing of plea against Imran's hospital transfer order",
-        "link": "https://www.geo.tv/latest/678797-islamabad-chief-commissioner-moves-sc-for-early-hearing-of-plea-against-imrans-hospital-transfer-order"
+        "title": "Marvel leaves The Marvels off its ‘Avengers: Doomsday' watchlist",
+        "link": "https://www.geo.tv/latest/678803-marvel-leaves-the-marvels-off-its-avengers-doomsday-watchlist"
       },
       {
-        "title": "Anne Hathaway responds to wild claims about her pregnancy",
-        "link": "https://www.geo.tv/latest/678790-anne-hathway-responds-to-wild-claims-about-her-pregnancy"
+        "title": "How did Ed Oliver's son die? Everything to know about tragic incident",
+        "link": "https://www.geo.tv/latest/678802-how-did-ed-olivers-son-die-everything-to-know-about-tragic-incident"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-22 18:13 UTC"
+  "last_updated": "2026-08-22 18:50 UTC"
 }
