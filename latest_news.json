@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Elche vs Barcelona – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "LIVE: Elche vs Barcelona – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss"
+      },
+      {
         "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
         "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Gaza families search for children missing after years of war",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss"
-      },
-      {
-        "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
-        "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -82,12 +88,12 @@
         "link": "https://www.dawn.com/news/2024768/hina-javed-murder-case-rawalpindi-court-sends-husband-servant-on-3-day-physical-remand"
       },
       {
-        "title": "Nordic nations say they have lost confidence in Infantino and Fifa governance",
-        "link": "https://www.dawn.com/news/2024770/nordic-nations-say-they-have-lost-confidence-in-infantino-and-fifa-governance"
+        "title": "Cricket greats appeal to PM Shehbaz for Imran's treatment in line with Supreme Court directives",
+        "link": "https://www.dawn.com/news/2024773/cricket-greats-appeal-to-pm-shehbaz-for-imrans-treatment-in-line-with-supreme-court-directives"
       },
       {
-        "title": "DPM Dar to visit UK from August 24-28: FO",
-        "link": "https://www.dawn.com/news/2024748/dpm-dar-to-visit-uk-from-august-24-28-fo"
+        "title": "Nordic nations say they have lost confidence in Infantino and Fifa governance",
+        "link": "https://www.dawn.com/news/2024770/nordic-nations-say-they-have-lost-confidence-in-infantino-and-fifa-governance"
       }
     ],
     "APNews": [],
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-23 16:44 UTC"
+  "last_updated": "2026-08-23 17:03 UTC"
 }
