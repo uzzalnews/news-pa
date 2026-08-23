@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "LIVE: Elche vs Barcelona – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
+        "title": "Tunisia sees protests after migrant boat sinking kills eight",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss"
+      },
+      {
+        "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+        "link": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+        "link": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss"
+      },
+      {
+        "title": "Landfill collapse in Guinea kills at least 30 people",
+        "link": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss"
+      },
+      {
         "title": "Photos: Ukraine celebrates National Flag Day",
         "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss"
-      },
-      {
-        "title": "LIVE: Elche vs Barcelona – La Liga",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss"
-      },
-      {
-        "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
-        "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss"
-      },
-      {
-        "title": "Can Nigeria cash in on Iran war?",
-        "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-        "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -143,6 +137,10 @@
     ],
     "GeoTV": [
       {
+        "title": "Cricket legends renew appeal to PM Shehbaz for Imran Khan's medical treatment",
+        "link": "https://www.geo.tv/latest/678890-cricket-legends-renew-appeal-to-pm-shehbaz-for-imran-khans-medical-treatment"
+      },
+      {
         "title": "‘Stranger Things' stars bring Hawkins vibes to London festival",
         "link": "https://www.geo.tv/latest/678889-stranger-things-stars-bring-hawkins-vibes-to-london-festival"
       },
@@ -157,10 +155,6 @@
       {
         "title": "Pakistan drop in Test rankings following defeat to England",
         "link": "https://www.geo.tv/latest/678885-pakistan-drop-in-test-rankings-following-defeat-to-england"
-      },
-      {
-        "title": "Lucy Davis makes emotional comeback after cancer diagnosis",
-        "link": "https://www.geo.tv/latest/678881-lucy-davis-makes-emotional-comeback-after-cancer-diagnosis"
       }
     ],
     "NDTV": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-23 17:50 UTC"
+  "last_updated": "2026-08-23 18:11 UTC"
 }
