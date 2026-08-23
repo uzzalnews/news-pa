@@ -3,10 +3,6 @@
   "news": {
     "BBC": [
       {
-        "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
-        "link": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Mayors to get powers to overrule local councils on planning decisions",
         "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss"
       },
@@ -15,15 +11,31 @@
         "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Plan to restrict violent and sex offenders to certain areas to start in October",
+        "title": "Plan to restrict serious offenders to certain areas to start in October",
         "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Struggling households need more help with bills, energy industry says",
-        "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
+        "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+        "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Flooding across Caracas, Venezuela, after heavy rains",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss"
+      },
+      {
+        "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
+        "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss"
+      },
+      {
+        "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
+        "link": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss"
+      },
       {
         "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
         "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss"
@@ -31,18 +43,6 @@
       {
         "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
         "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss"
-      },
-      {
-        "title": "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
-        "link": "https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss"
-      },
-      {
-        "title": "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
-        "link": "https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss"
-      },
-      {
-        "title": "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
-        "link": "https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +74,20 @@
         "link": "https://www.dawn.com/news/2024748/dpm-dar-to-visit-uk-from-august-24-28-fo"
       },
       {
+        "title": "Former aide to Taliban commander Mullah Nazir group killed in Lower South Waziristan",
+        "link": "https://www.dawn.com/news/2024750/former-aide-to-taliban-commander-mullah-nazir-group-killed-in-lower-south-waziristan"
+      },
+      {
+        "title": "Spantik Peak mission to retrieve body of Pakistani climber halted amid heavy snowfall",
+        "link": "https://www.dawn.com/news/2024747/spantik-peak-mission-to-retrieve-body-of-pakistani-climber-halted-amid-heavy-snowfall"
+      },
+      {
         "title": "Pakistan, Malaysia agree on joint working group, security cooperation",
         "link": "https://www.dawn.com/news/2024683/pakistan-malaysia-agree-on-joint-working-group-security-cooperation"
       },
       {
-        "title": "IHC moved to regulate social media use by children",
-        "link": "https://www.dawn.com/news/2024659/ihc-moved-to-regulate-social-media-use-by-children"
-      },
-      {
-        "title": "Karachi's University Road to be made ‘100pc motorable’ by Sept 15: Sharjeel",
-        "link": "https://www.dawn.com/news/2024671/karachis-university-road-to-be-made-100pc-motorable-by-sept-15-sharjeel"
-      },
-      {
-        "title": "Troops in Rawalpindi okayed for six months",
-        "link": "https://www.dawn.com/news/2024660/troops-in-rawalpindi-okayed-for-six-months"
+        "title": "Starc heroics see Australia thrash Bangladesh in second Test",
+        "link": "https://www.dawn.com/news/2024743/starc-heroics-see-australia-thrash-bangladesh-in-second-test"
       }
     ],
     "APNews": [],
@@ -115,6 +115,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Defying the UK's oppressive terrorism laws is an honourable use of white privilege",
+        "link": "https://www.middleeasteye.net/opinion/defying-palestine-action-ban-honourable-use-white-privilege"
+      },
+      {
         "title": "Iran executes man charged with aiding US, Israel in January protests",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-man-charged-aiding-us-israel-january-protests"
       },
@@ -129,54 +133,50 @@
       {
         "title": "Israeli forces close only entrance to West Bank village, report says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-close-only-entrance-west-bank-village-report-says"
-      },
-      {
-        "title": "Iranian hackers shut down UK power plant for four days, The Telegraph reports",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-hackers-shut-down-uk-power-plant-four-days-telegraph-reports"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prince William, King Charles finally return to issue stern message to Harry",
+        "link": "https://www.geo.tv/latest/678844-prince-william-king-charles-finally-return-to-issue-stern-message-to-harry"
+      },
+      {
+        "title": "JI announces nationwide shutter-down strike after 12th Rabi ul Awal over fuel levy",
+        "link": "https://www.geo.tv/latest/678845-ji-announces-nationwide-shutter-down-strike-after-12th-rabi-ul-awal-over-fuel-levy"
+      },
+      {
+        "title": "James Jordan opens up about 'midlife crisis' following Ola split",
+        "link": "https://www.geo.tv/latest/678847-james-jordan-opens-up-about-midlife-crisis-following-ola-split"
+      },
       {
         "title": "Christine McGuinness says living without Paddy will feel 'strange'",
         "link": "https://www.geo.tv/latest/678843-christine-mcguinness-says-living-without-paddy-will-feel-strange"
       },
       {
-        "title": "Queen Camilla shows true feelings for Harry, Meghan's return with gesture",
-        "link": "https://www.geo.tv/latest/678842-queen-camilla-shows-true-feelings-for-harry-meghans-return-with-gesture"
-      },
-      {
-        "title": "Meghan leaves Thomas Markle in tears with Archie, Lilibet heartbreak",
-        "link": "https://www.geo.tv/latest/678841-meghan-leaves-thomas-markle-in-tears-with-archie-lilibet-heartbreak"
-      },
-      {
-        "title": "Travis Barker turned grief into lifelong rhythm",
-        "link": "https://www.geo.tv/latest/678840-travis-barker-turned-grief-into-lifelong-rhythm"
-      },
-      {
-        "title": "DPM Dar to undertake official UK visit from August 24-28: FO",
-        "link": "https://www.geo.tv/latest/678838-dpm-dar-to-undertake-official-uk-visit-from-august-24-28-fo"
+        "title": "Hayden Panettiere's mom makes shocking claim about actress' death",
+        "link": "https://www.geo.tv/latest/678846-hayden-panettieres-mom-makes-shocking-claim-about-actress-death"
       }
     ],
     "NDTV": [
       {
-        "title": "Retired Hindu Teacher, Wife, Two Children Found Dead At Bangladesh Home",
-        "link": "https://www.ndtv.com/world-news/bangladesh-hindu-family-death-news-retired-hindu-teacher-wife-two-children-found-dead-at-bangladesh-home-11947018#publisher=newsstand"
+        "title": "14-Year-Old Daughter Of Rohit Pawar's Assistant Found Dead Near Home In Baramati",
+        "link": "https://www.ndtv.com/india-news/avani-ajit-dashavatare-14-year-old-daughter-of-ncp-sp-mla-rohit-pawars-personal-assistant-ajit-dashavatare-found-dead-near-home-in-baramati-11947387#publisher=newsstand"
       },
       {
-        "title": "Day Before Maharashtra Hill Horror, Mother's Video On 'Relationships, Values'",
-        "link": "https://www.ndtv.com/india-news/chhatrapati-sambhajinagar-kohdya-dongar-kunal-chandgude-day-before-maharashtra-hill-horror-mothers-video-on-relationship-values-11947007#publisher=newsstand"
+        "title": "After Maharashtra Horror, Delhi Dance Teacher Jumps Into Yamuna Over iPhone EMI",
+        "link": "https://www.ndtv.com/india-news/after-maharashtra-horror-delhi-dance-teacher-jumps-into-yamuna-over-iphone-emi-11947359#publisher=newsstand"
       },
       {
-        "title": "Bengal Man Stabs Wife During Fight, Then Consumes Pesticide And Surrenders",
-        "link": "https://www.ndtv.com/india-news/bengal-man-stabs-wife-during-fight-then-consumes-pesticide-and-surrenders-11947011#publisher=newsstand"
+        "title": "\"Focus Is On India Growth Story\": Global Finance Body Chief To NDTV On GIFT City",
+        "link": "https://www.ndtv.com/india-news/focus-is-on-india-growth-story-global-finance-body-ifsca-chief-k-rajaraman-to-ndtv-on-gift-city-ndtv-walk-the-talk-11946905#publisher=newsstand"
       },
       {
-        "title": "Man Pours Sanitiser On Teen, Sets Her On Fire After Her Father Slapped Him",
-        "link": "https://www.ndtv.com/india-news/man-pours-sanitiser-on-teen-sets-her-on-fire-in-punjabs-mohali-after-her-father-slapped-him-11946960#publisher=newsstand"
+        "title": "On Camera, Delhi Cops Attacked With Chilli Powder, Bricks After Bike Seizure",
+        "link": "https://www.ndtv.com/delhi-news/on-camera-delhi-cops-attacked-with-chilli-powder-bricks-after-bike-seizure-11947263#publisher=newsstand"
       },
       {
-        "title": "Chasing Kite, 15-Year-Old Boy Falls Into Open Drain In Delhi, Search Underway",
-        "link": "https://www.ndtv.com/delhi-news/boy-fell-into-jasola-drain-news-chasing-kite-15-year-old-boy-falls-into-open-drain-in-delhi-jasola-search-underway-11946877#publisher=newsstand"
+        "title": "Punjab Man, 28, Shot Dead While Delivering Pizza In New York",
+        "link": "https://www.ndtv.com/world-news/punjab-man-gurdeep-singh-shot-dead-while-delivering-pizza-in-new-york-family-seeks-help-11947151#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-23 07:58 UTC"
+  "last_updated": "2026-08-23 08:39 UTC"
 }
