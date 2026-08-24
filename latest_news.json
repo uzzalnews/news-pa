@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher Amid Mixed Global Cues",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-24-august-us-iran-war-oil-prices-11949640#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -25,6 +31,10 @@
     ],
     "AlJazeera": [
       {
+        "title": "Human-caused Nevada wildfire forces 42,000 people to evacuate",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss"
+      },
+      {
         "title": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
         "link": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss"
       },
@@ -39,10 +49,6 @@
       {
         "title": "Large forest fire burns close to residential areas in Ankara",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss"
-      },
-      {
-        "title": "Tokayev allies head for landslide victory in Kazakhstan elections",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,6 +80,10 @@
         "link": "https://www.dawn.com/news/2024830/nawaz-consults-leaders-on-ajk-govt-formation"
       },
       {
+        "title": "Comstech chief remains defiant in face of ‘damning inquiry’",
+        "link": "https://www.dawn.com/news/2024822/comstech-chief-remains-defiant-in-face-of-damning-inquiry"
+      },
+      {
         "title": "Fazl blames lack of joint opposition for unchecked legislation",
         "link": "https://www.dawn.com/news/2024826/fazl-blames-lack-of-joint-opposition-for-unchecked-legislation"
       },
@@ -82,12 +92,8 @@
         "link": "https://www.dawn.com/news/2024771/cdf-munir-to-visit-tehran-on-monday-says-iranian-foreign-ministry"
       },
       {
-        "title": "PTI demands Imran's CT angiography be conducted at Shifa International Hospital",
-        "link": "https://www.dawn.com/news/2024760/pti-demands-imrans-ct-angiography-be-conducted-at-shifa-international-hospital"
-      },
-      {
-        "title": "Dar arrives in UK ahead of official visit starting on Monday",
-        "link": "https://www.dawn.com/news/2024748/dar-arrives-in-uk-ahead-of-official-visit-starting-on-monday"
+        "title": "Three weeks on, nightly protests over Mir Raza’s murder continue in Karachi",
+        "link": "https://www.dawn.com/news/2024873/three-weeks-on-nightly-protests-over-mir-razas-murder-continue-in-karachi"
       }
     ],
     "APNews": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Israeli military advances into a village in Syria's Daraa",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-advances-village-syrias-daraa"
+      },
+      {
+        "title": "Iranian cyber attack shuts down UK power plant for four days, report says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-cyber-attack-shuts-down-uk-power-plant-four-days-report-says"
+      },
+      {
         "title": "Less than 20 ships transit Strait of Hormuz over weekend",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/less-20-ships-transit-strait-hormuz-over-weekend"
       },
@@ -125,14 +139,6 @@
       {
         "title": "Israeli forces storm Syria’s Quneitra, detain a civilian",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-storm-syrias-quneitra-detain-civilian"
-      },
-      {
-        "title": "Yemeni army claims attacks on Houthis",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-claims-attacks-houthis"
-      },
-      {
-        "title": "Watch: Iranians express mixed opinions over war recovery",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-iranian-express-mixed-opinions-over-war-recovery"
       }
     ],
     "GeoTV": [
@@ -145,7 +151,7 @@
         "link": "https://www.geo.tv/latest/678902-anna-paquin-melissa-gilbert-speak-up-after-hayden-panettieres-death"
       },
       {
-        "title": "CDF Munir heads to Tehran as Iran threatens to halt Gulf oil trade over US super sanctions",
+        "title": "CDF Munir heads to Tehran today as Iran threatens to halt Gulf oil trade over US sanctions",
         "link": "https://www.geo.tv/latest/678910-cdf-munir-heads-to-tehran-as-us-prepares-greatest-financial-offensive-against-iran"
       },
       {
@@ -159,24 +165,24 @@
     ],
     "NDTV": [
       {
-        "title": "'You Ruined My Family': Teen's Mother's Old Video Surfaces After Hill Tragedy",
-        "link": "https://www.ndtv.com/india-news/maharashtra-hill-suicide-teen-kunal-chandgudes-mothers-old-video-surfaces-you-ruined-my-family-11948624#publisher=newsstand"
+        "title": "Ex-US Police Officer Dies While Serving Sentence For Killing Black Woman",
+        "link": "https://www.ndtv.com/world-news/ex-us-illinois-police-officer-sean-grayson-dies-while-serving-sentence-for-killing-black-woman-sonya-massey-11949697#publisher=newsstand"
       },
       {
-        "title": "Transformer Theft Goes Wrong: Car Gets Stuck In Mud, So Does Recovery Truck",
-        "link": "https://www.ndtv.com/india-news/punjab-theft-transformer-theft-goes-wrong-car-gets-stuck-in-mud-so-does-recovery-truck-11948810#publisher=newsstand"
+        "title": "Rs 92 Crore Spent On Union Ministers' Delhi Homes Repair In 2025-26: RTI",
+        "link": "https://www.ndtv.com/delhi-news/rs-92-crore-spent-on-union-ministers-delhi-homes-repair-in-2025-26-rti-11947108#publisher=newsstand"
       },
       {
-        "title": "iPhone EMI Not Sole Trigger? Teen Attempted Suicide Last Year From Same Cliff",
-        "link": "https://www.ndtv.com/india-news/iphone-emi-not-sole-trigger-teen-attempted-suicide-last-year-from-same-cliff-11948227#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher Amid Mixed Global Cues",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-24-august-us-iran-war-oil-prices-11949640#publisher=newsstand"
       },
       {
-        "title": "Woman Dies By Suicide In Bengaluru After Complaining Of Blackmail, Harassment",
-        "link": "https://www.ndtv.com/india-news/woman-dies-by-suicide-in-bengaluru-after-complaining-of-blackmail-harassment-11949171#publisher=newsstand"
+        "title": "Fixed Deposit Rules Change With Age: What Young Investors, Seniors Must Know",
+        "link": "https://www.ndtv.com/business-news/fixed-deposit-rules-for-all-age-young-investors-seniors-personal-finance-11949600#publisher=newsstand"
       },
       {
-        "title": "Speeding SUV Rams Chhattisgarh Minister's Convoy, 6 Injured",
-        "link": "https://www.ndtv.com/india-news/speeding-suv-rams-chhattisgarh-ministers-convoy-6-injured-11949159#publisher=newsstand"
+        "title": "3 Newborns Die After Ventilator Blast Triggers Fire At Maharashtra Hospital",
+        "link": "https://www.ndtv.com/india-news/amravati-hospital-fire-3-newborns-die-after-ventilator-blast-triggers-fire-at-maharashtra-hospital-11949623#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-24 02:48 UTC"
+  "last_updated": "2026-08-24 03:40 UTC"
 }
