@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "How the deadly A66 crash unfolded leaving seven dead",
+        "link": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
         "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
       },
@@ -15,34 +19,30 @@
         "link": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
-        "link": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Prince Harry steps down from African wildlife charity board",
         "link": "https://www.bbc.co.uk/news/articles/c750n3nx76ko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "Nearly one in two Ebola patients dying in DR Congo outbreak",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss"
+      },
+      {
+        "title": "Russia to seize poorly protected infrastructure as Ukraine barrage persists",
+        "link": "https://www.aljazeera.com/news/2026/8/24/russia-to-seize-poorly-protected-infrastructure-as-ukraine-barrage-persists?traffic_source=rss"
+      },
+      {
+        "title": "Former snooker world champion Graeme Dott convicted of child sex abuse",
+        "link": "https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike on Gaza shelter extends casualty list",
+        "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss"
+      },
+      {
         "title": "Nathan Cofnas on whether he feels responsible for Jason Arday’s death",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss"
-      },
-      {
-        "title": "England drop fast bowler Bryden Carse amid investigation into club incident",
-        "link": "https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident?traffic_source=rss"
-      },
-      {
-        "title": "What to expect as Iran braces for new US economic measures amid war",
-        "link": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss"
-      },
-      {
-        "title": "Trump slams Canada with new 50 percent auto tariffs for 2027",
-        "link": "https://www.aljazeera.com/economy/2026/8/24/trump-slams-canada-with-new-50-percent-auto-tariffs-for-2027?traffic_source=rss"
-      },
-      {
-        "title": "Are humanoid robots the future of warfare?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,27 +93,31 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
+        "link": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html"
+      },
+      {
+        "title": "Farmers Struggle to Get Basic Services From Depleted Agriculture Dept.",
+        "link": "https://www.nytimes.com/2026/08/24/us/politics/farmers-federal-workers-exodus.html"
+      },
+      {
+        "title": "In West Texas, Trump’s Border Wall Collides With Latino History",
+        "link": "https://www.nytimes.com/2026/08/24/us/west-texas-border-wall-ruidosa-corazon-sagrado.html"
+      },
+      {
+        "title": "U.S. Military Kills 2 People in Attack on Boat in Pacific",
+        "link": "https://www.nytimes.com/2026/08/24/us/politics/military-boat-strike.html"
+      },
+      {
         "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
         "link": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html"
-      },
-      {
-        "title": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
-        "link": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html"
-      },
-      {
-        "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-        "link": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
-      },
-      {
-        "title": "U.S. to Unveil ‘Economic D-Day’ Sanctions Targeting Iran’s Economy",
-        "link": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html"
-      },
-      {
-        "title": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
-        "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Gaza death toll rises to 8",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-8-0"
+      },
       {
         "title": "Israel launches strikes across southern Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-strikes-across-southern-lebanon"
@@ -129,32 +133,28 @@
       {
         "title": "Israeli spy Jonathan Pollard wants Iran ‘off the map’, says wars on Turkey and Egypt are next",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-spy-jonathan-pollard-wants-iran-map-says-wars-turkey-and-egypt"
-      },
-      {
-        "title": "Four Palestinians killed by Israeli forces in Gaza, including young girl",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/four-palestinians-killed-israeli-forces-gaza-including-young-girl"
       }
     ],
     "GeoTV": [
       {
-        "title": "49ers owner Jed York arrested in Ohio: prostitution charge, plea deal, jail sentence explained",
-        "link": "https://www.geo.tv/latest/679014-49ers-owner-jed-york-arrested-in-ohio-prostitution-charge-plea-deal-jail-sentence-explained"
+        "title": "Why has AVROTROS pulled out of Eurovision 2027?",
+        "link": "https://www.geo.tv/latest/679018-why-has-avrotros-pulled-out-of-eurovision-2027"
       },
       {
-        "title": "Lorde gives surprising shout out during All Points East festival",
-        "link": "https://www.geo.tv/latest/678999-lorde-gives-surprising-shout-out-during-all-points-east-festival"
+        "title": "Anna Paquin breaks silence after Hayden Panettiere's sudden death",
+        "link": "https://www.geo.tv/latest/679009-anna-paquin-breaks-silence-after-hayden-panettieres-sudden-death"
       },
       {
-        "title": "Psychiatrist Avram H. Mack testifies Lindsay Clancy was not psychotic, knew right from wrong",
-        "link": "https://www.geo.tv/latest/679010-psychiatrist-avram-h-mack-testifies-lindsay-clancy-was-not-psychotic-knew-right-from-wrong"
+        "title": "Bilal Azhar Kayani reaffirms govt support for small shopkeepers",
+        "link": "https://www.geo.tv/latest/679017-bilal-azhar-kayani-reaffirms-govt-support-for-small-shopkeepers"
       },
       {
-        "title": "Selena Gomez partners with Sean Hayes for Rare Impact Fund event",
-        "link": "https://www.geo.tv/latest/679013-selena-gomez-partners-with-sean-hayes-for-rare-impact-fund-event"
+        "title": "Sabrina Carpenter finally reveals 'sweet' surprise after shocking fans",
+        "link": "https://www.geo.tv/latest/678986-sabrina-carpenter"
       },
       {
-        "title": "Omid Scobie drops first bombshell as he returns with Harry, Meghan",
-        "link": "https://www.geo.tv/latest/679007-omid-scobie-drops-first-bombshell-as-he-returns-with-harry-meghan"
+        "title": "England drop Carse for second Test against Pakistan",
+        "link": "https://www.geo.tv/latest/679008-england-drop-carse-for-second-test-against-pakistan"
       }
     ],
     "NDTV": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-24 16:52 UTC"
+  "last_updated": "2026-08-24 17:23 UTC"
 }
