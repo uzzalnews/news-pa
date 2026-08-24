@@ -3,7 +3,7 @@
   "news": {
     "BBC": [
       {
-        "title": "UK minister urges social media firms to remove dangerous driving videos",
+        "title": "Social media firms should remove dangerous driving videos, minister says",
         "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,6 +25,14 @@
     ],
     "AlJazeera": [
       {
+        "title": "US military says strike on alleged drug-smuggling boat kills two",
+        "link": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss"
+      },
+      {
+        "title": "Dozens of coordinated arson attacks carried out across Thailand",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss"
+      },
+      {
         "title": "Macron and MBS attend Esports World Cup closing ceremony",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss"
       },
@@ -35,14 +43,6 @@
       {
         "title": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
         "link": "https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss"
-      },
-      {
-        "title": "Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League",
-        "link": "https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss"
-      },
-      {
-        "title": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
-        "link": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -94,7 +94,7 @@
     "NYTimes": [
       {
         "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-        "link": "https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html"
+        "link": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html"
       },
       {
         "title": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
@@ -105,12 +105,12 @@
         "link": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html"
       },
       {
-        "title": "Where Iran’s Young People Gather, the Government Sees Threats to Its Authority",
-        "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html"
+        "title": "Canada Is ‘at War’ With U.S. Over Tariffs, and U.S.P.S. Publishes Plan to Restrict Ballots",
+        "link": "https://www.nytimes.com/2026/08/24/podcasts/the-headlines/canada-tariffs-usps-ballots.html"
       },
       {
-        "title": "U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands",
-        "link": "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html"
+        "title": "Where Iran’s Young People Gather, the Government Sees Threats to Its Authority",
+        "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html"
       }
     ],
     "MiddleEastEye": [
@@ -137,24 +137,24 @@
     ],
     "GeoTV": [
       {
-        "title": "Palace issues upsetting health news about monarch with fresh statement",
+        "title": "King Charles can no longer travel like other royals",
+        "link": "https://www.geo.tv/latest/678952-king-charles-can-no-longer-travel-like-other-royals"
+      },
+      {
+        "title": "Prince Harry, Meghan make quiet agreement on public duties with Firm: Details",
+        "link": "https://www.geo.tv/latest/678955-prince-harry-meghan-make-quiet-agreement-on-public-duties-with-firm-details"
+      },
+      {
+        "title": "Simon Cowell forced to step away from 'America's Got Talent'",
+        "link": "https://www.geo.tv/latest/678946-simon-cowell-forced-to-step-away-from-americas-got-talent"
+      },
+      {
+        "title": "Palace shares upsetting health news about monarch with fresh statement",
         "link": "https://www.geo.tv/latest/678947-palace-issues-upsetting-health-news-about-monarch-with-fresh-statement"
       },
       {
         "title": "Princess Eugenie gets support over big decision involving Sarah Ferguson",
         "link": "https://www.geo.tv/latest/678945-princess-eugenie-gets-support-over-big-decision-involving-sarah-ferguson"
-      },
-      {
-        "title": "'Imran does not make deals': Gohar dismisses speculation over PTI founder",
-        "link": "https://www.geo.tv/latest/678940-imran-does-not-make-deals-gohar-dismisses-speculation-over-pti-founder"
-      },
-      {
-        "title": "King Charles ‘new neighbours' at Highgrove stir turmoil with major change",
-        "link": "https://www.geo.tv/latest/678942-king-charles-new-neighbours-at-highgrove-stir-turmoil-with-major-change"
-      },
-      {
-        "title": "Kate Brazier celebrates 'freedom' after separation from Jeff Brazier",
-        "link": "https://www.geo.tv/latest/678941-kate-brazier-celebrates-freedom-after-spilt-from-jeff-brazier"
       }
     ],
     "NDTV": [
@@ -181,6 +181,10 @@
     ],
     "TheGuardian": [
       {
+        "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+        "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa"
+      },
+      {
         "title": "Landslide at waste mound in Guinea capital kills 30, government says",
         "link": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens"
       },
@@ -195,12 +199,8 @@
       {
         "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
         "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash"
-      },
-      {
-        "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-        "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn"
       }
     ]
   },
-  "last_updated": "2026-08-24 09:56 UTC"
+  "last_updated": "2026-08-24 10:40 UTC"
 }
