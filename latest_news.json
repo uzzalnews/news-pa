@@ -1,13 +1,11 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher Amid Mixed Global Cues",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-24-august-us-iran-war-oil-prices-11949640#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
+        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Families of two police officers killed in crash say they were heroes",
         "link": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss"
@@ -17,19 +15,23 @@
         "link": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+        "title": "Nearly three million Teslas recalled in China over hidden door handles",
         "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Reform says it will prioritise British-born young workers for social housing",
-        "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss"
+        "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+        "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss"
+      },
+      {
+        "title": "Climbers escape rockfall crossing ‘Death Pass’ on Mont Blanc",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss"
+      },
       {
         "title": "‘We know this movie’: Iran mocks latest US sanctions",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss"
@@ -41,14 +43,6 @@
       {
         "title": "Human-caused Nevada wildfire forces 42,000 people to evacuate",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss"
-      },
-      {
-        "title": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
-        "link": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss"
-      },
-      {
-        "title": "Ebola cases in DRC hit 5,515 as Pope Leo urges global action to save lives",
-        "link": "https://www.aljazeera.com/news/2026/8/24/ebola-cases-in-drc-top-5515-as-pope-leo-urges-global-action-to-save-lives?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -92,8 +86,8 @@
         "link": "https://www.dawn.com/news/2024771/cdf-munir-to-visit-tehran-on-monday-says-iranian-foreign-ministry"
       },
       {
-        "title": "3 weeks on, nightly protests over Mir Raza’s murder continue in Karachi",
-        "link": "https://www.dawn.com/news/2024873/3-weeks-on-nightly-protests-over-mir-razas-murder-continue-in-karachi"
+        "title": "Lahore traffic police going beyond the road for recovery of e-challan dues",
+        "link": "https://www.dawn.com/news/2024799/lahore-traffic-police-going-beyond-the-road-for-recovery-of-e-challan-dues"
       }
     ],
     "APNews": [],
@@ -107,19 +101,23 @@
         "link": "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html"
       },
       {
+        "title": "AIPAC Wants to Back This Republican, but He Has Some Reservations",
+        "link": "https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html"
+      },
+      {
         "title": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
         "link": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html"
       },
       {
         "title": "Angry Ohio Voters Could Turn Their State Purple Again",
         "link": "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
-      },
-      {
-        "title": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
-        "link": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Former CIA officer describes Aipac's rise to political power",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-cia-officer-describes-aipacs-rise-political-power"
+      },
       {
         "title": "Israeli military advances into a village in Syria's Daraa",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-advances-village-syrias-daraa"
@@ -135,13 +133,17 @@
       {
         "title": "Israeli drone strike kills two in central Gaza",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-central-gaza"
-      },
-      {
-        "title": "Israeli forces storm Syria’s Quneitra, detain a civilian",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-storm-syrias-quneitra-detain-civilian"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Meghan Markle's ‘The Gentleman' deal fallout, what is the Madonna link?",
+        "link": "https://www.geo.tv/latest/678915-meghan-markles-the-gentleman-deal-fallout-what-is-the-madonna-link"
+      },
+      {
+        "title": "Faisalabad's Hira Qaiser crowned winner of Pakistan Idol",
+        "link": "https://www.geo.tv/latest/678912-faisalabads-hira-qaiser-crowned-winner-of-pakistan-idol"
+      },
       {
         "title": "Greener route to energy security",
         "link": "https://www.geo.tv/latest/678911-greener-route-to-energy-security"
@@ -153,36 +155,28 @@
       {
         "title": "Anna Paquin, Melissa Gilbert speak up after Hayden Panettiere's death",
         "link": "https://www.geo.tv/latest/678902-anna-paquin-melissa-gilbert-speak-up-after-hayden-panettieres-death"
-      },
-      {
-        "title": "CDF Munir heads to Tehran today as Iran threatens to halt Gulf oil trade over US sanctions",
-        "link": "https://www.geo.tv/latest/678910-cdf-munir-heads-to-tehran-as-us-prepares-greatest-financial-offensive-against-iran"
-      },
-      {
-        "title": "Damascus demands Israeli withdrawal as US-brokered talks seek to stop strikes on Syria",
-        "link": "https://www.geo.tv/latest/678909-damascas-demands-israeli-withdrawal-as-critical-us-brokered-talks-seek-to-halt-strikes-on-syria"
       }
     ],
     "NDTV": [
       {
-        "title": "Ex-US Police Officer Dies While Serving Sentence For Killing Black Woman",
-        "link": "https://www.ndtv.com/world-news/ex-us-illinois-police-officer-sean-grayson-dies-while-serving-sentence-for-killing-black-woman-sonya-massey-11949697#publisher=newsstand"
+        "title": "Tamil Nadu Drops Parandur Airport Project, Vijay Says \"I Stand With Protesters\"",
+        "link": "https://www.ndtv.com/india-news/tamil-nadu-drops-parandur-airport-project-vijay-says-i-stand-with-protesters-11949992#publisher=newsstand"
       },
       {
-        "title": "Rs 92 Crore Spent On Union Ministers' Delhi Homes Repair In 2025-26: RTI",
-        "link": "https://www.ndtv.com/delhi-news/rs-92-crore-spent-on-union-ministers-delhi-homes-repair-in-2025-26-rti-11947108#publisher=newsstand"
+        "title": "Chlorine Gas Leak At Nagpur Water Plant Triggers Panic, Several Hospitalised",
+        "link": "https://www.ndtv.com/nagpur-news/chlorine-gas-leak-at-nagpur-water-plant-triggers-panic-several-hospitalised-11949939#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Higher Amid Mixed Global Cues",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-24-august-us-iran-war-oil-prices-11949640#publisher=newsstand"
+        "title": "\"Entering Endgame\": US Warns Iran Of 'Economic D-Day', Tehran's 'Oil' Response",
+        "link": "https://www.ndtv.com/world-news/entering-endgame-us-warns-iran-of-economic-d-day-tehrans-oil-response-11950041#publisher=newsstand"
       },
       {
-        "title": "Fixed Deposit Rules Change With Age: What Young Investors, Seniors Must Know",
-        "link": "https://www.ndtv.com/business-news/fixed-deposit-rules-for-all-age-young-investors-seniors-personal-finance-11949600#publisher=newsstand"
+        "title": "For Gen Z Outreach, Rahul Gandhi's Wardrobe Gets A Peppy Makeover",
+        "link": "https://www.ndtv.com/india-news/for-gen-z-outreach-rahul-gandhis-wardrobe-gets-a-peppy-makeover-11949145#publisher=newsstand"
       },
       {
-        "title": "3 Newborns Die After Ventilator Blast Triggers Fire At Maharashtra Hospital",
-        "link": "https://www.ndtv.com/india-news/amravati-hospital-fire-3-newborns-die-after-ventilator-blast-triggers-fire-at-maharashtra-hospital-11949623#publisher=newsstand"
+        "title": "Woman Dies By Suicide In Bengaluru After Complaining Of Blackmail, Harassment",
+        "link": "https://www.ndtv.com/india-news/woman-dies-by-suicide-in-bengaluru-after-complaining-of-blackmail-harassment-11949171#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-24 04:28 UTC"
+  "last_updated": "2026-08-24 05:20 UTC"
 }
