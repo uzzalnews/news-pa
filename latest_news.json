@@ -9,27 +9,39 @@
   "news": {
     "BBC": [
       {
-        "title": "More than 70,000 social and affordable homes to be built across England as part of £39bn plan",
+        "title": "More than 70,000 social and affordable homes to be built across England",
         "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
-        "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss"
+        "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+        "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "How the deadly A66 crash unfolded leaving seven dead",
-        "link": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "UK drone factories may face attacks from 'unknown sources' Putin tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss"
+        "title": "Lockerbie bombing trial postponed days before it was due to start",
+        "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
         "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+        "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Syrian president thanks nation for getting off US state terror list",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss"
+      },
+      {
+        "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+        "link": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss"
+      },
+      {
+        "title": "Rare tornado near Carcassonne in France causes damage and injuries",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss"
+      },
       {
         "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
         "link": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss"
@@ -37,18 +49,6 @@
       {
         "title": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss"
-      },
-      {
-        "title": "Muslims celebrate Prophet Muhammad’s birthday",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss"
-      },
-      {
-        "title": "Man killed in world’s largest annual bullfighting event in Mexico",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss"
-      },
-      {
-        "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -111,15 +111,19 @@
         "link": "https://www.nytimes.com/2026/08/24/briefing/supreme-court-mail-voting-restrictions.html"
       },
       {
-        "title": "Trump’s Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
-        "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html"
+        "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+        "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html"
       },
       {
-        "title": "Iran Pledges to Defy Trump’s Economic Sanctions",
-        "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html"
+        "title": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
+        "link": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Trump unleashes swathe sanctions on Iran 'enablers'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-unleashes-swathe-sanctions-iran-enablers"
+      },
       {
         "title": "US senators demand hearing over toll on troops amid war on Iran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senators-demand-hearing-over-toll-troops-amid-war-iran"
@@ -135,13 +139,17 @@
       {
         "title": "Pakistani army chief discussed 'ending deadlock' in US-Iran talks during visit to Tehran",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistani-army-chief-discussed-ending-deadlock-us-iran-talks-during"
-      },
-      {
-        "title": "UN calls for protection of civilians in Gaza amid Israeli attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-calls-protection-civilians-gaza-amid-israeli-attacks"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Princess Kate takes key step to secure Charlotte's interests amid big shift",
+        "link": "https://www.geo.tv/latest/679058-princess-kate-takes-key-step-to-secure-charlottes-interests-amid-big-shift"
+      },
+      {
+        "title": "The case for devolution",
+        "link": "https://www.geo.tv/latest/679054-the-case-for-devolution"
+      },
       {
         "title": "Kit Harington joins HBO's 'Harry Potter'",
         "link": "https://www.geo.tv/latest/679051-kit-harington-joins-hbos-harry-potter"
@@ -153,14 +161,6 @@
       {
         "title": "Tom Selleck joins Elizabeth Banks's untitled Apple TV comedy series",
         "link": "https://www.geo.tv/latest/679043-tom-selleck-joins-elizabeth-bankss-untitled-apple-tv-comedy-series"
-      },
-      {
-        "title": "Trump approval stays at 33% as American support for Iran war declines",
-        "link": "https://www.geo.tv/latest/679048-trump-approval-stays-at-33-as-american-support-for-iran-war-declines"
-      },
-      {
-        "title": "Field Marshal Asim Munir, Mohsin Naqvi conclude day-long visit to Iran",
-        "link": "https://www.geo.tv/latest/679042-field-marshal-asim-munir-mohsin-naqvi-conclude-day-long-visit-to-iran"
       }
     ],
     "NDTV": [
@@ -208,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-25 03:59 UTC"
+  "last_updated": "2026-08-25 04:47 UTC"
 }
