@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat Amid Negative Global Cues",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-august-us-iran-war-oil-price-11954503#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -31,24 +25,24 @@
     ],
     "AlJazeera": [
       {
-        "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
-        "link": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss"
+        "title": "Pakistan says significant progress made in talks on Iran-US war",
+        "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss"
       },
       {
-        "title": "Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win",
-        "link": "https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss"
+        "title": "Rohingya refugees protest, nine years after exodus to Bangladesh",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss"
       },
       {
-        "title": "Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks",
-        "link": "https://www.aljazeera.com/sports/2026/8/25/angel-reese-breaks-wnba-record-with-26-rebounds-in-dreams-win-over-sparks?traffic_source=rss"
+        "title": "Global ocean temperatures hit record high as El Nino intensifies",
+        "link": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss"
       },
       {
-        "title": "Libya factions draft initial election pact amid lingering mistrust",
-        "link": "https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss"
+        "title": "Thai vendor confronts Israeli tourists, raises Palestinian flag",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/thai-vendor-confronts-israeli-tourists-raises-palestinian-flag?traffic_source=rss"
       },
       {
-        "title": "Australia’s music charts ban AI-made songs amid backlash over Madonna cover",
-        "link": "https://www.aljazeera.com/economy/2026/8/25/australias-music-charts-ban-ai-made-songs-amid-backlash-over-madonna-cover?traffic_source=rss"
+        "title": "Hasina spat stalls Bangladesh-India reset. What would break the deadlock?",
+        "link": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,8 +70,12 @@
     ],
     "Dawn": [
       {
-        "title": "Imran's hospital transfer: SC returns contempt plea filed by PTI founder's sister",
-        "link": "https://www.dawn.com/news/2025198/imrans-hospital-transfer-sc-returns-contempt-plea-filed-by-pti-founders-sister"
+        "title": "Imran's hospital transfer: PTI resubmits contempt plea after SC raises objections",
+        "link": "https://www.dawn.com/news/2025198/imrans-hospital-transfer-pti-resubmits-contempt-plea-after-sc-raises-objections"
+      },
+      {
+        "title": "'The matter is being viewed positively': Official says Bangladesh interested in joining Makkah defence pact",
+        "link": "https://www.dawn.com/news/2025203/the-matter-is-being-viewed-positively-official-says-bangladesh-interested-in-joining-makkah-defence-pact"
       },
       {
         "title": "Amid distrust, Tehran wants US to initiate de-escalation",
@@ -86,10 +84,6 @@
       {
         "title": "Mission to retrieve Pakistani climber Asma Mushtaq's body from Spatnik resumes",
         "link": "https://www.dawn.com/news/2025187/mission-to-retrieve-pakistani-climber-asma-mushtaqs-body-from-spatnik-resumes"
-      },
-      {
-        "title": "3 more Adiala inmates seek private care",
-        "link": "https://www.dawn.com/news/2025143/3-more-adiala-inmates-seek-private-care"
       },
       {
         "title": "Bitcoin rises above $80,000 as soft dollar, debasement fears boost momentum",
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Strait of Hormuz tanker traffic falls to lowest level since May",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/strait-hormuz-tanker-traffic-falls-lowest-level-may"
+      },
+      {
+        "title": "Colombia lifts coal export ban on Israel imposed over Gaza genocide",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/colombia-lifts-coal-export-ban-israel-imposed-over-gaza-genocide"
+      },
+      {
         "title": "Muslims are not creating an 'Islamic Republic' in Britain. This is their home",
         "link": "https://www.middleeasteye.net/opinion/muslims-are-not-creating-islamic-republic-britain-their-home"
       },
@@ -131,58 +133,50 @@
       {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-609"
-      },
-      {
-        "title": "Turkish envoy applauds US removal of Syria from 'terrorism list'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-envoy-applauds-us-removal-syria-terrorism-list"
-      },
-      {
-        "title": "Israeli settler attacks in West Bank surge to 63 percent: Report",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-attacks-west-bank-surge-63-percent-report"
       }
     ],
     "GeoTV": [
       {
+        "title": "Taylor Swift treats fans with post-Eras Tour acoustic set",
+        "link": "https://www.geo.tv/latest/679076-taylor-swift-treats-fans-with-post-eras-tour-acoustic-set"
+      },
+      {
+        "title": "Sandra Bullock shares how her kids reacted to Bryan Randall's ALS battle",
+        "link": "https://www.geo.tv/latest/679075-sandra-bullock-shares-how-her-kids-reacted-to-bryan-randalls-als-battle"
+      },
+      {
+        "title": "'Main Vaapas Aaunga': Partition, memory and the homes we left behind",
+        "link": "https://www.geo.tv/latest/679024-main-vaapas-aaunga-partition-memory-and-the-homes-we-left-behind"
+      },
+      {
+        "title": "King Charles makes landmark achievement after Harry, Meghan's U-turn",
+        "link": "https://www.geo.tv/latest/679073-king-charles-makes-landmark-achievement-after-harry-meghans-u-turn"
+      },
+      {
         "title": "Angel Reese breaks WNBA single-game, season rebounding records: full story inside",
         "link": "https://www.geo.tv/latest/679069-angel-reese-breaks-wnba-single-game-season-rebounding-records"
-      },
-      {
-        "title": "Meghan's Montecito life came crashing after one Archie, Lilibet dilemma",
-        "link": "https://www.geo.tv/latest/679074-meghans-montecito-life-came-crashing-after-one-archie-lilibet-dilemma"
-      },
-      {
-        "title": "North West gets candid about her parents one big piercing rule",
-        "link": "https://www.geo.tv/latest/679071-north-west-gets-candid-about-her-parents-one-big-piercing-rule"
-      },
-      {
-        "title": "Jordana Brewster recalls Paul Walker's reaction to fans calling him ‘Brian'",
-        "link": "https://www.geo.tv/latest/679072-jordana-brewster-recalls-paul-walkers-reaction-to-fans-calling-him-brian"
-      },
-      {
-        "title": "Supreme Court returns contempt plea over Imran Khan's hospital transfer",
-        "link": "https://www.geo.tv/latest/679070-supreme-court-returns-contempt-plea-over-imran-khans-hospital-transfer"
       }
     ],
     "NDTV": [
       {
-        "title": "Bihar Cops, Students Clash During March Demanding Cancellation Of Key Exam",
+        "title": "Woman, 32, Dies After Falling From Fifth Floor Of Building In Hyderabad",
+        "link": "https://www.ndtv.com/hyderabad-news/woman-32-dies-after-falling-from-fifth-floor-of-building-in-hyderabad-11955621#publisher=newsstand"
+      },
+      {
+        "title": "Bihar Students Break Barricades, Cops Use Water Cannons As Protests Intensify",
         "link": "https://www.ndtv.com/india-news/bihar-cops-students-clash-during-march-demanding-cancellation-of-70-bpsc-examination-governors-house-11955203#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat Amid Negative Global Cues",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-august-us-iran-war-oil-price-11954503#publisher=newsstand"
+        "title": "Opinion: Opinion | Sajjan Kumar, Congress, And How To Keep Messing Up An 'Apology'",
+        "link": "https://www.ndtv.com/opinion/sajjan-kumar-and-why-congress-keeps-mourning-the-wrong-things-11955565#publisher=newsstand"
       },
       {
-        "title": "China's New Missile Can Target Planes Flying Near US: Report",
-        "link": "https://www.ndtv.com/world-news/chinas-new-missile-can-target-planes-flying-near-us-report-11955268#publisher=newsstand"
+        "title": "Surat Fish Market Named After PM Modi Without Civic Body Approval, Row Erupts",
+        "link": "https://www.ndtv.com/india-news/surat-fish-market-named-after-pm-modi-without-civic-body-approval-row-erupts-11955572#publisher=newsstand"
       },
       {
-        "title": "Bengaluru Hairstylist Dies As Speeding Baleno Rams Scooty At Traffic Stop",
-        "link": "https://www.ndtv.com/india-news/bengaluru-hairstylist-dies-as-speeding-baleno-rams-scooty-at-traffic-stop-11955249#publisher=newsstand"
-      },
-      {
-        "title": "Bid To Get Behind The Wheel? Why TCS' Rs 3,700 Crore Porsche Deal Isn't What It Seems",
-        "link": "https://www.ndtv.com/business-news/tcs-porsche-deal-artificial-intelligence-auto-market-europe-it-sector-share-11955226#publisher=newsstand"
+        "title": "Centre Weighs Dope Tests For All Commercial Pilots After Air India Plane Row",
+        "link": "https://www.ndtv.com/india-news/centre-weighs-drug-tests-for-all-commercial-pilots-after-air-india-plane-row-11955467#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-25 08:08 UTC"
+  "last_updated": "2026-08-25 08:58 UTC"
 }
