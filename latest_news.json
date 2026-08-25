@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat Amid Negative Global Cues",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-august-us-iran-war-oil-price-11954503#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,11 +25,19 @@
         "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "The grieving family who say the coroner's courts aren't working",
+        "title": "The grieving family who say the coroners' courts aren't working",
         "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
+        "link": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss"
+      },
+      {
+        "title": "Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win",
+        "link": "https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss"
+      },
       {
         "title": "Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks",
         "link": "https://www.aljazeera.com/sports/2026/8/25/angel-reese-breaks-wnba-record-with-26-rebounds-in-dreams-win-over-sparks?traffic_source=rss"
@@ -35,14 +49,6 @@
       {
         "title": "Australia’s music charts ban AI-made songs amid backlash over Madonna cover",
         "link": "https://www.aljazeera.com/economy/2026/8/25/australias-music-charts-ban-ai-made-songs-amid-backlash-over-madonna-cover?traffic_source=rss"
-      },
-      {
-        "title": "Two US carrier groups in Middle East strain navy resources",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss"
-      },
-      {
-        "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -78,12 +84,12 @@
         "link": "https://www.dawn.com/news/2025121/govt-fails-to-maintain-quorum-as-ppp-stays-away-from-national-assembly"
       },
       {
-        "title": "3 more Adiala inmates seek private care",
-        "link": "https://www.dawn.com/news/2025143/3-more-adiala-inmates-seek-private-care"
+        "title": "Mission to retrieve Pakistani climber Asma Mushtaq's body from Spatnik resumes",
+        "link": "https://www.dawn.com/news/2025187/mission-to-retrieve-pakistani-climber-asma-mushtaqs-body-from-spatnik-resumes"
       },
       {
-        "title": "Govt increases petrol price by Rs0.39, high-speed diesel by Rs2.40",
-        "link": "https://www.dawn.com/news/2025039/govt-increases-petrol-price-by-rs039-high-speed-diesel-by-rs240"
+        "title": "3 more Adiala inmates seek private care",
+        "link": "https://www.dawn.com/news/2025143/3-more-adiala-inmates-seek-private-care"
       },
       {
         "title": "Bitcoin rises above $80,000 as soft dollar, debasement fears boost momentum",
@@ -115,6 +121,10 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Saudi Arabia, France reaffirm support for Palestinian statehood",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-france-reaffirm-support-palestinian-statehood"
+      },
+      {
         "title": "Morning update",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-609"
       },
@@ -129,54 +139,50 @@
       {
         "title": "Trump unleashes swathe sanctions on Iran 'enablers'",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-unleashes-swathe-sanctions-iran-enablers"
-      },
-      {
-        "title": "US senators demand hearing over toll on troops amid war on Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senators-demand-hearing-over-toll-troops-amid-war-iran"
       }
     ],
     "GeoTV": [
       {
-        "title": "Princes William, Harry joint appearance looms as Diana charity issues update",
-        "link": "https://www.geo.tv/latest/679066-princes-william-harry-joint-appearance-looms-as-diana-charity-issues-update"
+        "title": "Jordana Brewster recalls Paul Walker's reaction to fans calling him ‘Brian'",
+        "link": "https://www.geo.tv/latest/679072-jordana-brewster-recalls-paul-walkers-reaction-to-fans-calling-him-brian"
       },
       {
-        "title": "DC anchor Joseph Olmo surprises with exit, keeping future plans under wraps",
-        "link": "https://www.geo.tv/latest/679061-dc-anchor-joseph-olmo-surprises-with-exit-keeping-future-plans-under-wraps"
+        "title": "Supreme Court returns contempt plea over Imran Khan's hospital transfer",
+        "link": "https://www.geo.tv/latest/679070-supreme-court-returns-contempt-plea-over-imran-khans-hospital-transfer"
       },
       {
-        "title": "Taylor Swift returns to stage for first time since Travis Kelce wedding",
-        "link": "https://www.geo.tv/latest/679059-taylor-swift-returns-to-stage-for-first-time-since-travis-kelce-wedding"
+        "title": "Recovery operation resumes to retrieve mountaineer Asma Mushtaq's body from Spantik",
+        "link": "https://www.geo.tv/latest/679068-recovery-operation-resumes-to-retrieve-mountaineer-asma-mushtaqs-body-from-spantik"
       },
       {
-        "title": "Palace aide unveils grand plan Firm has for Prince Harry, Meghan's return",
-        "link": "https://www.geo.tv/latest/679060-palace-aide-unveils-grand-plan-firm-has-for-prince-harry-meghans-return"
+        "title": "Bitcoin rises above $80,000 as soft dollar, debasement fears boost momentum",
+        "link": "https://www.geo.tv/latest/679062-bitcoin-rises-above-80000-as-soft-dollar-debasement-fears-boost-momentum"
       },
       {
-        "title": "'Significant progress': Islamabad, Tehran discuss Hormuz reopening, 'expedited' end to Iran-US conflict",
-        "link": "https://www.geo.tv/latest/679053-significant-progress-islamabad-tehran-discuss-hormuz-reopening-expedited-end-to-iran-us-conflict"
+        "title": "Gordon Ramsay shares sweet tribute for ‘amazing' wife",
+        "link": "https://www.geo.tv/latest/679067-gordon-ramsay-shares-sweet-tribute-for-amazing-wife"
       }
     ],
     "NDTV": [
       {
-        "title": "Should Know Basic Marathi, No Need To Be Expert: Devendra Fadnavis On Language Row",
-        "link": "https://www.ndtv.com/india-news/devendra-fadnavis-on-language-row-should-know-basic-marathi-no-need-to-be-expert-11953336#publisher=newsstand"
+        "title": "Bihar Cops, Students Clash During March Demanding Cancellation Of Key Exam",
+        "link": "https://www.ndtv.com/india-news/bihar-cops-students-clash-during-march-demanding-cancellation-of-70-bpsc-examination-governors-house-11955203#publisher=newsstand"
       },
       {
-        "title": "Chinese Hackers Use DeepSeek To Scale Up Cyberattacks, Researchers Say",
-        "link": "https://www.ndtv.com/world-news/chinese-hackers-use-deepseek-to-scale-up-cyberattacks-researchers-say-11954731#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat Amid Negative Global Cues",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-august-us-iran-war-oil-price-11954503#publisher=newsstand"
       },
       {
-        "title": "French Tourist Dies After Being Trapped In 47 Degrees Celsius In Death Valley",
-        "link": "https://www.ndtv.com/world-news/french-tourist-dies-after-being-trapped-in-47-degrees-celsius-in-death-valley-11954654#publisher=newsstand"
+        "title": "China's New Missile Can Target Planes Flying Near US: Report",
+        "link": "https://www.ndtv.com/world-news/chinas-new-missile-can-target-planes-flying-near-us-report-11955268#publisher=newsstand"
       },
       {
-        "title": "TCS To Acquire Porsche's IT Consulting Arm MHP For 320 Million Euros",
-        "link": "https://www.ndtv.com/india-news/tcs-to-acquire-porsches-it-consulting-arm-mhp-for-320-million-euros-11954679#publisher=newsstand"
+        "title": "Bengaluru Hairstylist Dies As Speeding Baleno Rams Scooty At Traffic Stop",
+        "link": "https://www.ndtv.com/india-news/bengaluru-hairstylist-dies-as-speeding-baleno-rams-scooty-at-traffic-stop-11955249#publisher=newsstand"
       },
       {
-        "title": "Putin Says He Expects To Meet PM Modi At SCO Summit Next Week",
-        "link": "https://www.ndtv.com/world-news/india-russia-ties-russian-president-vladimir-putin-says-he-expects-to-meet-pm-narendra-modi-at-sco-summit-next-week-11954774#publisher=newsstand"
+        "title": "Bid To Get Behind The Wheel? Why TCS' Rs 3,700 Crore Porsche Deal Isn't What It Seems",
+        "link": "https://www.ndtv.com/business-news/tcs-porsche-deal-artificial-intelligence-auto-market-europe-it-sector-share-11955226#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-25 06:31 UTC"
+  "last_updated": "2026-08-25 07:27 UTC"
 }
