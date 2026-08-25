@@ -1,20 +1,14 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens Over 100 Points Lower Amid Negative Global Cues",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-august-us-iran-war-oil-price-11954503#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
-        "title": "More than 70,000 social and affordable homes to be built across England",
-        "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
         "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
         "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "More than 70,000 social and affordable homes to be built across England",
+        "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Lockerbie bombing trial postponed days before it was due to start",
@@ -107,19 +101,27 @@
         "link": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html"
       },
       {
-        "title": "Justices Allow Plans to Restrict Mail Voting, for Now",
-        "link": "https://www.nytimes.com/2026/08/24/briefing/supreme-court-mail-voting-restrictions.html"
-      },
-      {
         "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
         "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html"
       },
       {
         "title": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
         "link": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html"
+      },
+      {
+        "title": "Trump Administration Aims to Revoke Visas of Foreign Citizens Applying for Asylum",
+        "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-administration-aims-to-revoke-visas-of-foreign-citizens-applying-for-asylum.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Turkish envoy applauds US removal of Syria from 'terrorism list'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-envoy-applauds-us-removal-syria-terrorism-list"
+      },
+      {
+        "title": "Israeli settler attacks in West Bank surge to 63 percent: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-attacks-west-bank-surge-63-percent-report"
+      },
       {
         "title": "Trump unleashes swathe sanctions on Iran 'enablers'",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-unleashes-swathe-sanctions-iran-enablers"
@@ -131,58 +133,50 @@
       {
         "title": "Commodity vessel transits through Hormuz Strait drop to three-month low",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/commodity-vessel-transits-through-hormuz-strait-drop-three-month-low"
-      },
-      {
-        "title": "US senator criticises economic 'D-Day' against Iran, says 'Trump is losing'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-criticises-economic-d-day-against-iran-says-trump-losing"
-      },
-      {
-        "title": "Pakistani army chief discussed 'ending deadlock' in US-Iran talks during visit to Tehran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistani-army-chief-discussed-ending-deadlock-us-iran-talks-during"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Palace aide unveils grand plan Firm has for Prince Harry, Meghan's return",
+        "link": "https://www.geo.tv/latest/679060-palace-aide-unveils-grand-plan-firm-has-for-prince-harry-meghans-return"
+      },
+      {
+        "title": "'Significant progress': Islamabad, Tehran discuss Hormuz reopening, 'expedited' end to Iran-US conflict",
+        "link": "https://www.geo.tv/latest/679053-significant-progress-islamabad-tehran-discuss-hormuz-reopening-expedited-end-to-iran-us-conflict"
+      },
       {
         "title": "Princess Kate takes key step to secure Charlotte's interests amid big shift",
         "link": "https://www.geo.tv/latest/679058-princess-kate-takes-key-step-to-secure-charlottes-interests-amid-big-shift"
       },
       {
+        "title": "Barbara Eden remembers late Shelley Fabares: ‘It was more fun than work'",
+        "link": "https://www.geo.tv/latest/679056-barbara-eden-remembers-late-shelley-fabares-it-was-more-fun-than-work"
+      },
+      {
         "title": "The case for devolution",
         "link": "https://www.geo.tv/latest/679054-the-case-for-devolution"
-      },
-      {
-        "title": "Kit Harington joins HBO's 'Harry Potter'",
-        "link": "https://www.geo.tv/latest/679051-kit-harington-joins-hbos-harry-potter"
-      },
-      {
-        "title": "Taylor Swift opens up on surprising origins of 'I Knew You Were Trouble'",
-        "link": "https://www.geo.tv/latest/679050-taylor-swift-opens-up-on-surprising-origins-of-i-knew-you-were-trouble"
-      },
-      {
-        "title": "Tom Selleck joins Elizabeth Banks's untitled Apple TV comedy series",
-        "link": "https://www.geo.tv/latest/679043-tom-selleck-joins-elizabeth-bankss-untitled-apple-tv-comedy-series"
       }
     ],
     "NDTV": [
       {
-        "title": "National Security Guard Launches First All-Women Commando Course In Haryana",
-        "link": "https://www.ndtv.com/india-news/national-security-guard-launches-first-all-women-commando-course-mahila-commando-conversion-course-at-manesar-in-haryana-11954591#publisher=newsstand"
+        "title": "Should Know Basic Marathi, No Need To Be Expert: Devendra Fadnavis On Language Row",
+        "link": "https://www.ndtv.com/india-news/devendra-fadnavis-on-language-row-should-know-basic-marathi-no-need-to-be-expert-11953336#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens Over 100 Points Lower Amid Negative Global Cues",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-august-us-iran-war-oil-price-11954503#publisher=newsstand"
+        "title": "Chinese Hackers Use DeepSeek To Scale Up Cyberattacks, Researchers Say",
+        "link": "https://www.ndtv.com/world-news/chinese-hackers-use-deepseek-to-scale-up-cyberattacks-researchers-say-11954731#publisher=newsstand"
       },
       {
-        "title": "'Relieved, Lonely And Sad': Japan PM Recounts 'Cockroach' Issue At Home",
-        "link": "https://www.ndtv.com/world-news/relieved-lonely-and-sad-japan-pm-recounts-cockroach-issue-at-home-11954580#publisher=newsstand"
+        "title": "French Tourist Dies After Being Trapped In 47 Degrees Celsius In Death Valley",
+        "link": "https://www.ndtv.com/world-news/french-tourist-dies-after-being-trapped-in-47-degrees-celsius-in-death-valley-11954654#publisher=newsstand"
       },
       {
-        "title": "Honey, Makeup, Hockey Sticks: Over 500 Canadian Products Face 50% US Tariff",
-        "link": "https://www.ndtv.com/world-news/honey-makeup-hockey-sticks-over-500-canadian-products-face-50-us-tariff-11954556#publisher=newsstand"
+        "title": "TCS To Acquire Porsche's IT Consulting Arm MHP For 320 Million Euros",
+        "link": "https://www.ndtv.com/india-news/tcs-to-acquire-porsches-it-consulting-arm-mhp-for-320-million-euros-11954679#publisher=newsstand"
       },
       {
-        "title": "'Reading Bible Wrong?' Ex-Andhra MLA On Daughter-In-Law's Conversion Claim",
-        "link": "https://www.ndtv.com/india-news/reading-bible-wrong-ex-andhra-mla-and-ex-minister-jogi-ramesh-on-daughter-in-laws-conversion-claim-11954546#publisher=newsstand"
+        "title": "Putin Says He Expects To Meet PM Modi At SCO Summit Next Week",
+        "link": "https://www.ndtv.com/world-news/india-russia-ties-russian-president-vladimir-putin-says-he-expects-to-meet-pm-narendra-modi-at-sco-summit-next-week-11954774#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-25 04:47 UTC"
+  "last_updated": "2026-08-25 05:19 UTC"
 }
