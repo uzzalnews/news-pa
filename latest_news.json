@@ -1,10 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Green As Oil Slips Below $90",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-26-august-us-iran-war-oil-price-11959504#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Dolly Parton: The life of an iconic country singer",
-        "link": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
+        "title": "How Dolly Parton told her life story through six iconic songs",
+        "link": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
+        "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Winter energy prices expected to rise to three-year high",
@@ -17,13 +27,21 @@
       {
         "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
         "link": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
-        "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
+        "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss"
+      },
+      {
+        "title": "Instagram chief testifies at Meta trial, says few teens used safety feature",
+        "link": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss"
+      },
+      {
+        "title": "Who were the Syrian Democratic Forces and why dissolve?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss"
+      },
       {
         "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss"
@@ -31,18 +49,6 @@
       {
         "title": "Mamdani opposes Hindu nationalist event in New York",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss"
-      },
-      {
-        "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss"
-      },
-      {
-        "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
-        "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss"
-      },
-      {
-        "title": "Is Sudan’s battlefield shaping the terms of its next political phase?",
-        "link": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,6 +76,10 @@
     ],
     "Dawn": [
       {
+        "title": "Casualties feared as fire breaks out at Pims' gynae ward in Islamabad",
+        "link": "https://www.dawn.com/news/2025385/casualties-feared-as-fire-breaks-out-at-pims-gynae-ward-in-islamabad"
+      },
+      {
         "title": "Indepe­ndent power producers found overcharging users through costly coal procurement",
         "link": "https://www.dawn.com/news/2025342/independent-power-producers-found-overcharging-users-through-costly-coal-procurement"
       },
@@ -84,10 +94,6 @@
       {
         "title": "Pakistan sits on $7tr mineral trove, claims planning minister",
         "link": "https://www.dawn.com/news/2025318/pakistan-sits-on-7tr-mineral-trove-claims-planning-minister"
-      },
-      {
-        "title": "Constituency issues dominate NA session",
-        "link": "https://www.dawn.com/news/2025337/constituency-issues-dominate-na-session"
       }
     ],
     "APNews": [],
@@ -115,6 +121,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "US senator Van Hollen accuses Trump of profiting from war on Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-van-hollen-accuses-trump-profiting-war-iran"
+      },
+      {
+        "title": "US senator accuses Van Hollen Trump of profiting from war on Iran",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-accuses-van-hollen-trump-profiting-war-iran"
+      },
+      {
         "title": "Bangladesh could join Mecca pact, official suggests",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bangladesh-could-join-mecca-pact-official-suggests"
       },
@@ -125,19 +139,15 @@
       {
         "title": "Israel expels Dutch representatives from Gaza coordination center",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-expels-dutch-representatives-gaza-coordination-center"
-      },
-      {
-        "title": "Israeli troops advance into Syrian village, attack southern Lebanon",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-advance-syrian-village-attack-southern-lebanon"
-      },
-      {
-        "title": "Watch: Analyst says US lacks leverage to force global isolation of Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-analyst-says-us-lacks-leverage-force-global-isolation-iran"
       }
     ],
     "GeoTV": [
       {
-        "title": "At least 14 newborns die after fire breaks out at Pims gynae ward's nursery",
+        "title": "Jelly Roll surprises fans with brutal Trump roast",
+        "link": "https://www.geo.tv/latest/679212-jelly-roll-surprises-fans-with-brutal-trump-roast"
+      },
+      {
+        "title": "At least 15 newborns die after fire breaks out at Pims gynae ward's nursery",
         "link": "https://www.geo.tv/latest/679210-at-least-14-newborns-die-after-fire-breaks-out-at-pims-gynae-wards-nursery"
       },
       {
@@ -151,32 +161,28 @@
       {
         "title": "Beyoncé pays emotional tribute to Dolly Parton: 'You were the barometer",
         "link": "https://www.geo.tv/latest/679205-beyonc-pays-emotional-tribute-to-dolly-parton-you-were-the-barometer"
-      },
-      {
-        "title": "Shonda Rhimes renews Netflix overall seal through 2031",
-        "link": "https://www.geo.tv/latest/679202-shonda-rhimes-renews-netflix-overall-deal-through-2031"
       }
     ],
     "NDTV": [
       {
-        "title": "Gujarat Boy Murdered By Villager Amid Land Row, Witchcraft Claims",
-        "link": "https://www.ndtv.com/india-news/gujarat-boy-murdered-by-villager-amid-land-row-witchcraft-claims-11959323#publisher=newsstand"
+        "title": "Cashless Nation: The UPI Success Story Behind India's FinTech Revolution",
+        "link": "https://www.ndtv.com/india-news/cashless-nation-the-upi-success-story-behind-indias-fintech-revolution-11959562#publisher=newsstand"
       },
       {
-        "title": "Man Kills Two Sisters In Uttarakhand Days Before Raksha Bandhan",
-        "link": "https://www.ndtv.com/india-news/man-kills-two-sisters-in-uttarakhand-days-before-raksha-bandhan-11959122#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Green As Oil Slips Below $90",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-26-august-us-iran-war-oil-price-11959504#publisher=newsstand"
       },
       {
-        "title": "US Sanctions 4 India-Based Firms, 3 Indians To Punish Iran",
-        "link": "https://www.ndtv.com/world-news/us-sanctions-4-india-based-firms-3-indians-to-punish-iran-11959307#publisher=newsstand"
+        "title": "Weather Saved Pak's Skardu Base During Op Sindoor, But Bholari Took the IAF's Direct Hit",
+        "link": "https://www.ndtv.com/india-news/operation-sindoor-india-pakistan-low-on-fuel-indian-drone-inadvertently-hit-paks-kirana-hills-nuke-facility-11957603#publisher=newsstand"
       },
       {
-        "title": "'Lifestyle Inflation': 5 Money Mistakes That Can Keep You Poorer",
-        "link": "https://www.ndtv.com/business-news/lifestyle-inflation-5-money-mistakes-personal-finance-salary-hike-trap-11955700#publisher=newsstand"
+        "title": "Team Trump Pauses US Visa Interviews Worldwide. Here's Why",
+        "link": "https://www.ndtv.com/world-news/team-trump-pauses-us-visa-interviews-worldwide-heres-why-11959426#publisher=newsstand"
       },
       {
-        "title": "Gujarat Forest Guard, Agent Trapped For Rs 100 Bribe At Surajbari Checkpost",
-        "link": "https://www.ndtv.com/india-news/gujarat-forest-guard-agent-trapped-for-rs-100-bribe-at-surajbari-checkpost-11959260#publisher=newsstand"
+        "title": "6 Dead, Several Injured After Bus Crashes Into Container Truck In Telangana",
+        "link": "https://www.ndtv.com/telangana-news/telangana-bus-truck-crash-news-6-dead-several-injured-after-bus-crashes-into-container-truck-in-telangana-11959385#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-26 03:36 UTC"
+  "last_updated": "2026-08-26 04:21 UTC"
 }
