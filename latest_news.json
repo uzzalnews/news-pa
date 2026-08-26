@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens 250 Points Higher As Oil Slips Below $90",
-      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-26-august-us-iran-war-oil-price-11959504#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -13,12 +7,12 @@
         "link": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
-        "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss"
+        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Winter energy prices expected to rise to three-year high",
-        "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss"
+        "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
+        "link": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
@@ -30,6 +24,10 @@
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
+        "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss"
+      },
       {
         "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss"
@@ -45,10 +43,6 @@
       {
         "title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss"
-      },
-      {
-        "title": "At least 15 newborns killed in Pakistan hospital fire",
-        "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -84,16 +78,16 @@
         "link": "https://www.dawn.com/news/2025387/on-eid-miladun-nabi-pm-shehbaz-and-president-zardari-urge-nation-to-follow-teachings-of-the-holy-prophet"
       },
       {
+        "title": "Mayor Mamdani opposes NYC event with leader of India's Hindu nationalist group",
+        "link": "https://www.dawn.com/news/2025391/mayor-mamdani-opposes-nyc-event-with-leader-of-indias-hindu-nationalist-group"
+      },
+      {
+        "title": "Security, traffic plans for Eid Miladun Nabi processions",
+        "link": "https://www.dawn.com/news/2025246/security-traffic-plans-for-eid-miladun-nabi-processions"
+      },
+      {
         "title": "Indepe­ndent power producers found overcharging users through costly coal procurement",
         "link": "https://www.dawn.com/news/2025342/independent-power-producers-found-overcharging-users-through-costly-coal-procurement"
-      },
-      {
-        "title": "Fresh efforts at mediation revive hopes for US-Iran climbdown",
-        "link": "https://www.dawn.com/news/2025343/fresh-efforts-at-mediation-revive-hopes-for-us-iran-climbdown"
-      },
-      {
-        "title": "Govt increases petrol price by Rs1.12, high-speed diesel by Rs1.11",
-        "link": "https://www.dawn.com/news/2025238/govt-increases-petrol-price-by-rs112-high-speed-diesel-by-rs111"
       }
     ],
     "APNews": [],
@@ -121,6 +115,14 @@
     ],
     "MiddleEastEye": [
       {
+        "title": "Iranian minister warns US against 'inflicting harm', says Tehran would 'reveal new capabilities'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-minister-warns-us-against-inflicting-harm-says-tehran-would"
+      },
+      {
+        "title": "Five commodity vessels transited Hormuz Strait on Tuesday",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/five-commodity-vessels-transited-hormuz-strait-tuesday"
+      },
+      {
         "title": "Qatar slams Israeli defence minister's entry into Syrian territory",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-slams-israeli-defense-ministers-entry-syrian-territory"
       },
@@ -131,58 +133,50 @@
       {
         "title": "Israeli explosions, shelling and strikes reported across south Lebanon",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-explosions-shelling-and-strikes-reported-across-south-lebanon"
-      },
-      {
-        "title": "US senator Van Hollen accuses Trump of profiting from war on Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-van-hollen-accuses-trump-profiting-war-iran"
-      },
-      {
-        "title": "US senator accuses Van Hollen Trump of profiting from war on Iran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-accuses-van-hollen-trump-profiting-war-iran"
       }
     ],
     "GeoTV": [
       {
-        "title": "Meghan Markle promises ‘something special' before leaving US",
-        "link": "https://www.geo.tv/latest/679220-meghan-markle-promises-something-special-before-leaving-us"
+        "title": "US Navy orders social media purge of personal info to protect troops, families",
+        "link": "https://www.geo.tv/latest/679218-us-navy-orders-social-media-purge-of-personal-info-to-protect-troops"
       },
       {
-        "title": "Trump administration issues pause on visa appointments for applicants worldwide",
-        "link": "https://www.geo.tv/latest/679216-trump-administration-issues-pause-on-visa-appointments-for-applicants-world"
+        "title": "Nine drugs detected in bodies of two women who died in police custody: Punjab IGP",
+        "link": "https://www.geo.tv/latest/679219-nine-drugs-detected-in-bodies-of-two-women-who-died-in-police-custody-punjab-igp"
       },
       {
-        "title": "Fixing financial reporting",
-        "link": "https://www.geo.tv/latest/679213-fixing-financial-reporting"
+        "title": "Iran, Oman discuss temporary Hormuz corridor as impasse with US drags on",
+        "link": "https://www.geo.tv/latest/679217-iran-oman-discuss-temporary-hormuz-corridor-as-impasse-with-us-drags-on"
       },
       {
-        "title": "Jelly Roll surprises fans with brutal Trump roast",
-        "link": "https://www.geo.tv/latest/679212-jelly-roll-surprises-fans-with-brutal-trump-roast"
+        "title": "Inside Dolly Parton's final days before death",
+        "link": "https://www.geo.tv/latest/679221-inside-dolly-partons-final-days-before-death"
       },
       {
-        "title": "At least 15 infants die in Pims gynae ward's nursery fire: officials",
-        "link": "https://www.geo.tv/latest/679210-at-least-14-newborns-die-after-fire-breaks-out-at-pims-gynae-wards-nursery"
+        "title": "Mamdani opposes NYC event with leader of India's Hindu nationalist group",
+        "link": "https://www.geo.tv/latest/679215-mamdani-opposes-nyc-event-with-leader-of-indias-hindu-nationalist-group"
       }
     ],
     "NDTV": [
       {
-        "title": "Karnataka Minister B Nagendra Offers To Resign Over Corruption Allegations",
-        "link": "https://www.ndtv.com/india-news/karnataka-minister-b-nagendra-offers-to-resign-over-corruption-allegations-11959678#publisher=newsstand"
+        "title": "Weak Demand, China Competition: Behind Volkswagen's Plan To Cut 50,000 Jobs",
+        "link": "https://www.ndtv.com/business-news/volkswagen-layoff-situation-more-than-critical-cut-50-000-jobs-amid-weak-demand-china-competition-11960073#publisher=newsstand"
       },
       {
-        "title": "Jailed Karnataka Officer Found With Girlfriend During Surprise Hospital Raid",
-        "link": "https://www.ndtv.com/india-news/jailed-karnataka-officer-found-with-girlfriend-during-surprise-hospital-raid-11957014#publisher=newsstand"
+        "title": "Labourer Killed After Under-Construction Flyover Collapses In J&K's Samba",
+        "link": "https://www.ndtv.com/india-news/labourer-killed-after-under-construction-flyover-collapses-in-jammu-and-kashmirs-samba-11959943#publisher=newsstand"
       },
       {
-        "title": "EPF vs Equities: 5 Things To Know Before Choosing Your Retirement Portfolio",
-        "link": "https://www.ndtv.com/business-news/epf-equities-retirement-fund-pension-personal-finance-share-market-news-11955610#publisher=newsstand"
+        "title": "15 Infants Charred To Death After AC Compressor Blast At Pakistan Hospital",
+        "link": "https://www.ndtv.com/world-news/15-infants-killed-after-air-conditioner-compressor-explodes-at-pak-hospital-11959769#publisher=newsstand"
       },
       {
-        "title": "Iran Blacklists Indian, Pakistani Ships Among 45 For Hormuz \"Violations\"",
-        "link": "https://www.ndtv.com/world-news/iran-blacklists-indian-pakistani-ships-among-45-for-hormuz-violations-11959617#publisher=newsstand"
+        "title": "Jharkhand Teen Loses Hands While Making Reel Near Railway Track",
+        "link": "https://www.ndtv.com/india-news/jharkhand-teen-loses-both-hands-while-making-reel-near-railway-track-11959850#publisher=newsstand"
       },
       {
-        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Opens 250 Points Higher As Oil Slips Below $90",
-        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-26-august-us-iran-war-oil-price-11959504#publisher=newsstand"
+        "title": "'I Don't Support Rally': Zohran Mamdani On RSS Chief Mohan Bhagwat's Event In New York",
+        "link": "https://www.ndtv.com/world-news/i-dont-support-rally-new-york-city-mayor-zohran-mamdani-on-rss-chief-mohan-bhagwats-event-in-new-york-11959854#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-26 05:43 UTC"
+  "last_updated": "2026-08-26 06:19 UTC"
 }
