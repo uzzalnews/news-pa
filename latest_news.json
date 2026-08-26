@@ -1,6 +1,11 @@
 {
   "breaking": [
     {
+      "source": "AlJazeera",
+      "title": "LIVE: Real Madrid vs Real Sociedad – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/26/live-real-madrid-vs-sociedad-la-liga?traffic_source=rss"
+    },
+    {
       "source": "NDTV",
       "title": "Nepal Flash Floods LIVE: 95 Dead, Over 100 Indian Missing In Nepal Flash Floods",
       "link": "https://www.ndtv.com/world-news/nepal-flash-floods-live-updates-nepal-hit-by-massive-flash-floods-multiple-casualties-feared-rescue-ops-on-11960633#publisher=newsstand"
@@ -13,6 +18,10 @@
         "link": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss"
       },
       {
+        "title": "Rocky Horror star Tim Curry dies at 80",
+        "link": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Murder probe as two people dead in house fire in Middlesbrough",
         "link": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss"
       },
@@ -23,13 +32,21 @@
       {
         "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
         "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: How Dolly became a fashion icon",
-        "link": "https://www.bbc.co.uk/news/videos/cy7z8pz25k8o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "LIVE: Real Madrid vs Real Sociedad – La Liga",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/8/26/live-real-madrid-vs-sociedad-la-liga?traffic_source=rss"
+      },
+      {
+        "title": "Why a Christian group is suing the Dutch government for West Bank trade ban",
+        "link": "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss"
+      },
+      {
+        "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
+        "link": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
+      },
       {
         "title": "Kremlin says CIA head met Russian intelligence officials, but not Putin",
         "link": "https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss"
@@ -37,18 +54,6 @@
       {
         "title": "Meta agrees to settlement, platform changes in youth addiction case",
         "link": "https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss"
-      },
-      {
-        "title": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
-        "link": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss"
-      },
-      {
-        "title": "Bodies of missing people found in Korea becomes national scandal",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss"
-      },
-      {
-        "title": "Children in Gaza fear flying their kites after Israeli threat",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -80,10 +85,6 @@
         "link": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad"
       },
       {
-        "title": "Search team reaches suspected location of Pakistani climber Asma Mushtaq's body on Spantik, says minister",
-        "link": "https://www.dawn.com/news/2025422/search-team-reaches-suspected-location-of-pakistani-climber-asma-mushtaqs-body-on-spantik-says-minister"
-      },
-      {
         "title": "Massive flood near Tibet border kills at least 95 in Nepal: police",
         "link": "https://www.dawn.com/news/2025415/massive-flood-near-tibet-border-kills-at-least-95-in-nepal-police"
       },
@@ -92,8 +93,12 @@
         "link": "https://www.dawn.com/news/2025435/pakistan-captain-babar-azam-returns-against-england-90pc-fit"
       },
       {
-        "title": "GB to auction hunting permits for 3 markhors, 14 blue sheep, 100 ibexes",
-        "link": "https://www.dawn.com/news/2025436/gb-to-auction-hunting-permits-for-3-markhors-14-blue-sheep-100-ibexes"
+        "title": "US pauses immigrant visa applications worldwide: report",
+        "link": "https://www.dawn.com/news/2025389/us-pauses-immigrant-visa-applications-worldwide-report"
+      },
+      {
+        "title": "Search team reaches suspected location of Pakistani climber Asma Mushtaq's body on Spantik, says minister",
+        "link": "https://www.dawn.com/news/2025422/search-team-reaches-suspected-location-of-pakistani-climber-asma-mushtaqs-body-on-spantik-says-minister"
       }
     ],
     "APNews": [],
@@ -103,8 +108,8 @@
         "link": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html"
       },
       {
-        "title": "Hegseth’s Army Purge, and Polling Chaos in the Midterms",
-        "link": "https://www.nytimes.com/2026/08/26/podcasts/the-headlines/hegseth-military-generals-midterms-polls-dolly-parton.html"
+        "title": "What to Know About Social Media Addiction Lawsuits Against Meta, Snap, TikTok and YouTube",
+        "link": "https://www.nytimes.com/2026/01/27/technology/social-media-addiction-trials-meta-snap-tiktok-youtube.html"
       },
       {
         "title": "Bessent Faces Credibility Test in Quest to Tame Markets",
@@ -121,64 +126,64 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "UK minister condemns 'outrageous' Israeli seizure of Unrwa training centre",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-minister-condemns-outrageous-israeli-seizure-unrwa-training-centre"
-      },
-      {
-        "title": "Trump says he is 'not in a hurry' to revive talks with Tehran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-not-hurry-revive-talks-tehran"
+        "title": "At least five killed in Israeli attacks on Gaza in past 24 hours",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-five-killed-israeli-attacks-gaza-past-24-hours"
       },
       {
         "title": "Israeli court acquits Jewish settler who kicked Catholic nun in the head",
-        "link": "https://www.middleeasteye.net/news/israeli-court-acquits-jewish-settler-who-kicked-catholic-nun-head"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-acquits-jewish-settler-who-kicked-catholic-nun-head"
       },
       {
         "title": "Hundreds of academics and lawyers urge Burnham to lift Palestine Action ban",
-        "link": "https://www.middleeasteye.net/news/hundreds-academics-and-lawyers-urge-burnham-lift-palestine-action-ban"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hundreds-academics-and-lawyers-urge-burnham-lift-palestine-action-ban"
       },
       {
-        "title": "Turkey recruits Trump insiders for new Washington lobbying push",
-        "link": "https://www.middleeasteye.net/news/turkey-recruits-trump-insiders-new-washington-lobbying-push"
+        "title": "Iran’s nuclear chief says attacked nuclear sites not secure for IAEA inspection",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-nuclear-chief-says-attacked-nuclear-sites-not-secure-iaea"
+      },
+      {
+        "title": "US designates Palestine Action as a terrorist organisation",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-designates-palestine-action-terrorist-organisation"
       }
     ],
     "GeoTV": [
       {
-        "title": "Bill Gates issues urgent AI warning: ‘World is dangerously unprepared'",
-        "link": "https://www.geo.tv/latest/679308-bill-gates-issues-urgent-ai-warning-world-is-dangerously-unprepared"
+        "title": "Olivia Rodrigo's 'Serena Joy' debuts with chart-topping milestone",
+        "link": "https://www.geo.tv/latest/679303-olivia-rodrigos-serena-joy-debuts-with-chart-topping-milestone"
       },
       {
-        "title": "Bill Gates calls for ‘human reserved' jobs, AI tax to slow automation: full story inside",
-        "link": "https://www.geo.tv/latest/679302-bill-gates-proposes-ai-ban-and-robot-tax-to-protect-human-workers"
+        "title": "Meta to pay historic $17.1 billion in landmark settlement over teen safety",
+        "link": "https://www.geo.tv/latest/679316-meta-to-pay-historic-171-billion-in-landmark-settlement-over-teen-safety"
       },
       {
-        "title": "Rescue team reaches suspected location of Pakistani climber Asma Mushtaq's body",
-        "link": "https://www.geo.tv/latest/679304-rescue-team-reaches-suspected-location-of-pakistani-climber-asma-mushtaqs-body"
+        "title": "‘Emily in Paris' teases a major new chapter as Lily Collins shares photos",
+        "link": "https://www.geo.tv/latest/679315-emily-in-paris-teases-a-major-new-chapter-as-lily-collins-shares-photos"
       },
       {
-        "title": "J.K. Rowling mocks critic with cheeky Dolly Parton reference",
-        "link": "https://www.geo.tv/latest/679306-jk-rowling-mocks-critic-with-cheeky-dolly-parton-reference"
+        "title": "King as Frederik welcomes Denmark's newest ambassadors",
+        "link": "https://www.geo.tv/latest/679312-king-as-frederik-welcomes-denmarks-newest-ambassadors"
       },
       {
-        "title": "Trump Administration halts green card processing worldwide: Here's why",
-        "link": "https://www.geo.tv/latest/679307-trump-administration-halts-green-card-processing-worldwide-heres-why"
+        "title": "Explainer: What we know so far about the Pims nursery fire",
+        "link": "https://www.geo.tv/latest/679311-explainer-what-we-know-so-far-about-the-pims-nursery-fire"
       }
     ],
     "NDTV": [
       {
-        "title": "Satellite Images Reveal Possible Cause Behind Devastating Nepal Flash Floods",
-        "link": "https://www.ndtv.com/world-news/satellite-images-reveal-possible-cause-behind-devastating-nepal-flash-floods-11962416#publisher=newsstand"
+        "title": "Video: 2 Missing After Boat Carrying 21 Overturns In Bihar",
+        "link": "https://www.ndtv.com/india-news/video-2-missing-after-boat-carrying-21-overturns-in-bihar-11962693#publisher=newsstand"
       },
       {
-        "title": "105 Indians Among 400 Kailash Yatra Pilgrims Missing In Nepal Flash Floods, 95 Dead",
-        "link": "https://www.ndtv.com/world-news/rasuwa-flash-flood-at-least-8-dead-in-nepal-flash-floods-that-started-from-tibet-report-11960788#publisher=newsstand"
-      },
-      {
-        "title": "In Nepal Floods, Glacial Lake Link And Flashback To Last Year's Tragedy",
-        "link": "https://www.ndtv.com/world-news/in-nepal-floods-glacial-lake-link-and-flashback-to-last-years-tragedy-11961989#publisher=newsstand"
+        "title": "Russia Can Now Seize Companies That Fail To Stop Ukrainian Drone Attacks",
+        "link": "https://www.ndtv.com/world-news/russia-can-now-take-control-of-businesses-that-fail-to-stop-drone-attacks-11961807#publisher=newsstand"
       },
       {
         "title": "Nepal Flash Floods LIVE: 95 Dead, Over 100 Indian Missing In Nepal Flash Floods",
         "link": "https://www.ndtv.com/world-news/nepal-flash-floods-live-updates-nepal-hit-by-massive-flash-floods-multiple-casualties-feared-rescue-ops-on-11960633#publisher=newsstand"
+      },
+      {
+        "title": "Meta To Pay $17 Billion In Landmark Teen Social Media Addiction Settlement",
+        "link": "https://www.ndtv.com/world-news/meta-to-pay-17-billion-in-landmark-teen-social-media-addiction-settlement-11962593#publisher=newsstand"
       },
       {
         "title": "77 From Isha Foundation Missing In Nepal, Sadhguru \"Ready\" To Join Rescue Ops",
@@ -186,6 +191,10 @@
       }
     ],
     "TheGuardian": [
+      {
+        "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+        "link": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs"
+      },
       {
         "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
         "link": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children"
@@ -201,12 +210,8 @@
       {
         "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
         "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping"
-      },
-      {
-        "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
-        "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa"
       }
     ]
   },
-  "last_updated": "2026-08-26 14:54 UTC"
+  "last_updated": "2026-08-26 16:15 UTC"
 }
