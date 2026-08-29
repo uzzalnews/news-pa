@@ -1,11 +1,5 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Nepal Flash Flood LIVE Updates: Damage May Cost Up To $5 Billion To Rebuild, Says Minister",
-      "link": "https://www.ndtv.com/world-news/nepal-flash-flood-2026-live-updates-death-count-rescue-operation-latest-news-rasuwa-nuwakot-bhote-koshi-11973405#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
@@ -25,11 +19,23 @@
         "link": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Man dies after train hits van on level crossing",
-        "link": "https://www.bbc.co.uk/news/articles/clylkwl5nd4o?at_medium=RSS&at_campaign=rss"
+        "title": "Vessel in distress with five people onboard in Channel",
+        "link": "https://www.bbc.co.uk/news/articles/czeznrgyd1go?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
+      {
+        "title": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name",
+        "link": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
+      },
+      {
+        "title": "What’s behind the US deal to seize control of Venezuelan oil reserves?",
+        "link": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss"
+      },
+      {
+        "title": "Anger mounts in Nepal over the government’s response to flash flood",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss"
+      },
       {
         "title": "Iceland votes in a tight race on whether to resume talks to join the EU",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss"
@@ -37,18 +43,6 @@
       {
         "title": "Norway’s new king pays tribute to his late father as the country mourns",
         "link": "https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss"
-      },
-      {
-        "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss"
-      },
-      {
-        "title": "Algeria wildfire death toll expected to rise as survivors say nothing left",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss"
-      },
-      {
-        "title": "Can international diplomacy find a way forward in Libya?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -115,74 +109,74 @@
         "link": "https://www.nytimes.com/2026/08/29/us/alaska-governor-candidates.html"
       },
       {
-        "title": "How Meta’s $17.1 Billion Social Media Settlement Came Together",
-        "link": "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html"
+        "title": "Warsh, After Talking Tough on Inflation, Faces a ‘No-Win Situation’ on Rates",
+        "link": "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html"
       }
     ],
     "MiddleEastEye": [
       {
+        "title": "'Liar, liar, pants on fire': Ghalibaf mocks US treasury secretary over fuel claims",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/liar-liar-pants-fire-ghalibaf-mocks-us-treasury-secretary-over-fuel"
+      },
+      {
+        "title": "Israel would strike Iran even with a US deal, minister says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-would-strike-iran-even-us-deal-minister-says"
+      },
+      {
+        "title": "Israeli settlers attack NBC News team, wound Palestinian woman near Nablus",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-nbc-news-team-wound-palestinian-woman-near"
+      },
+      {
+        "title": "Hormuz remains closed until US military actions end, Iran says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-remains-closed-until-us-military-actions-end-iran-says"
+      },
+      {
         "title": "UAE central bank to inspect Banque Misr branches after US sanctions",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-central-bank-inspect-banque-misr-branches-after-us-sanctions"
-      },
-      {
-        "title": "Netanyahu condemns Qusra settler attacks, calling them ‘criminal acts of violence’",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-condemns-qusra-attacks-calling-them-criminal-acts-violence"
-      },
-      {
-        "title": "Southern Lebanon hit by new wave of Israeli attacks",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-carry-out-new-wave-attacks-across-southern-lebanon"
-      },
-      {
-        "title": "Israeli settlers, army continue attacks in West Bank towns",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-army-continue-attacks-west-bank-towns"
-      },
-      {
-        "title": "Second Palestinian confirmed killed in Israeli strike on Gaza’s Tal al-Hawa",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/second-palestinian-confirmed-killed-israeli-strike-gazas-tal-al-hawa"
       }
     ],
     "GeoTV": [
       {
+        "title": "Kate Cassidy remembers Liam Payne with heartbreaking birthday message",
+        "link": "https://www.geo.tv/latest/679817-kate-cassidy-remembers-liam-payne-with-heartbreaking-birthday-message"
+      },
+      {
+        "title": "Kelly Clarkson finally saying goodbye to ‘The Kelly Clarkson Show'",
+        "link": "https://www.geo.tv/latest/679814-kelly-clarkson-finally-saying-goodbye-to-the-kelly-clarkson-show"
+      },
+      {
+        "title": "Bilawal Bhutto's Liechtenstein wedding buzz takes social media by storm: What we know",
+        "link": "https://www.geo.tv/latest/679815-bilawal-bhuttos-liechtenstein-wedding-buzz-takes-social-media-by-storm-what-we-know-so-far"
+      },
+      {
+        "title": "Prince Archie and Earl Spencer united by familiar piece of Diana's family estate",
+        "link": "https://www.geo.tv/latest/679803-prince-archie-and-earl-spencer-united-by-familiar-piece-of-dianas-family-estate"
+      },
+      {
         "title": "Sabrina Carpenter celebrates 'Man's Best Friend' first anniversary",
         "link": "https://www.geo.tv/latest/679804-sabrina-carpenter-celebrates-mans-best-friend-first-anniversary"
-      },
-      {
-        "title": "Music icon Tim McGraw left red faced after embarrassing onstage mishap",
-        "link": "https://www.geo.tv/latest/679809-music-icon-tim-mcgraw-left-red-faced-after-embarrassing-onstage-mishap"
-      },
-      {
-        "title": "'Hoax': Khawaja Asif says Imran health claims aimed at creating panic, triggering protests",
-        "link": "https://www.geo.tv/latest/679808-hoax-khawaja-asif-says-imran-health-claims-aimed-at-creating-panic-triggering-protests"
-      },
-      {
-        "title": "Taylor Swift praised for heartwarming gesture",
-        "link": "https://www.geo.tv/latest/679807-taylor-swift-praised-for-heartwarming-gesture"
-      },
-      {
-        "title": "Nancy Guthrie update: Why is Tommasco Cioni still being targeted online?",
-        "link": "https://www.geo.tv/latest/679805-nancy-guthrie-update-why-is-tommasco-cioni-still-being-targeted-online"
       }
     ],
     "NDTV": [
       {
+        "title": "\"Unity And Diversity In India's DNA\": RSS Chief Mohan Bhagwat At New York Event",
+        "link": "https://www.ndtv.com/india-news/unity-and-diversity-in-indias-dna-rss-chief-mohan-bhagwat-at-new-york-event-11976351#publisher=newsstand"
+      },
+      {
+        "title": "Highlights: In Mohan Bhagwat's Address To Indian Expats, A \"Janmabhumi-Karmabhumi\" Lesson",
+        "link": "https://www.ndtv.com/world-news/rss-chief-mohan-bhagwat-new-york-madison-square-garden-live-updates-11975846#publisher=newsstand"
+      },
+      {
+        "title": "\"Overwhelmed By The Warmth\": PM Modi Receives Grand Welcome In Uzbekistan",
+        "link": "https://www.ndtv.com/world-news/overwhelmed-by-the-warmth-pm-modi-receives-grand-welcome-in-uzbekistan-11976337#publisher=newsstand"
+      },
+      {
         "title": "British Far-Right Commentator Deported After Immigration Agents Arrest Him",
-        "link": "https://www.ndtv.com/india-news/british-far-right-commentator-deported-after-immigration-agents-arrest-him-11976251#publisher=newsstand"
+        "link": "https://www.ndtv.com/world-news/british-far-right-commentator-deported-after-immigration-agents-arrest-him-11976251#publisher=newsstand"
       },
       {
-        "title": "Abhishek Banerjee Summoned By Kolkata Police Over Illegal Billboards Row",
-        "link": "https://www.ndtv.com/india-news/abhishek-banerjee-summoned-by-kolkata-police-over-illegal-billboards-row-11976220#publisher=newsstand"
-      },
-      {
-        "title": "US Court Rules Trump Cannot Deport Students For Criticising Israel",
-        "link": "https://www.ndtv.com/world-news/us-court-rules-trump-cannot-deport-students-for-criticising-israel-11976218#publisher=newsstand"
-      },
-      {
-        "title": "Delhi Man Dies Of Electrocution, Government Says No Fault In Streetlight Pole",
-        "link": "https://www.ndtv.com/india-news/delhi-man-dies-of-electrocution-government-says-no-fault-in-streetlight-pole-11976210#publisher=newsstand"
-      },
-      {
-        "title": "Nepal Flash Flood LIVE Updates: Damage May Cost Up To $5 Billion To Rebuild, Says Minister",
-        "link": "https://www.ndtv.com/world-news/nepal-flash-flood-2026-live-updates-death-count-rescue-operation-latest-news-rasuwa-nuwakot-bhote-koshi-11973405#publisher=newsstand"
+        "title": "Missing Assam Man Detained In Bangladesh For Illegal Entry, Smuggling Drugs",
+        "link": "https://www.ndtv.com/india-news/missing-assam-man-detained-in-bangladesh-for-illegal-entry-smuggling-drugs-11976296#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-08-29 21:09 UTC"
+  "last_updated": "2026-08-29 23:18 UTC"
 }
