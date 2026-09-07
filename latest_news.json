@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-7-september-us-iran-war-oil-prices-12011271#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Protesters block roads in Portsmouth after 140 migrants rescued",
+        "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
         "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-        "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
+        "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+        "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
         "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "140 migrants in single dinghy rescued in English Channel",
-        "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Alcaraz breezes into last eight at US Open",
-        "link": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss"
+        "title": "Iran to announce restricted zone outside Strait of Hormuz",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss"
       },
       {
-        "title": "At least five killed after Amazon cargo plane crash in Miami airport",
-        "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss"
+        "title": "Australia’s proposed ‘opt out’ law targets Big Tech algorithms",
+        "link": "https://www.aljazeera.com/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms?traffic_source=rss"
       },
       {
-        "title": "At least 10 killed in central Mexico fireworks blast during festival",
-        "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss"
+        "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss"
       },
       {
-        "title": "Amazon Prime plane overruns runway at Miami Airport",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss"
+        "title": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss"
       },
       {
-        "title": "Can AfD form Germany’s first far-right state government since World War II?",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss"
+        "title": "Jamaica to file slavery reparations petition during UK visit",
+        "link": "https://www.aljazeera.com/news/2026/9/7/jamaica-to-file-slavery-reparations-petition-during-uk-visit?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +76,24 @@
     ],
     "Dawn": [
       {
-        "title": "KP CM Sohail Afridi says he won't leave Sindh without holding Karachi rally",
-        "link": "https://www.dawn.com/news/2027902/kp-cm-sohail-afridi-says-he-wont-leave-sindh-without-holding-karachi-rally"
+        "title": "Pakistan faces uphill GSP+ battle",
+        "link": "https://www.dawn.com/news/2028003/pakistan-faces-uphill-gsp-battle"
       },
       {
-        "title": "Iran warns of 'more painful response' if US launches further attacks",
-        "link": "https://www.dawn.com/news/2027938/iran-warns-of-more-painful-response-if-us-launches-further-attacks"
+        "title": "President’s London tour sets tongues wagging",
+        "link": "https://www.dawn.com/news/2028006/presidents-london-tour-sets-tongues-wagging"
       },
       {
-        "title": "FO condemns mosque demolition in India's Uttar Pradesh, terms it part of 'drive to erase Islamic heritage'",
-        "link": "https://www.dawn.com/news/2027919/fo-condemns-mosque-demolition-in-indias-uttar-pradesh-terms-it-part-of-drive-to-erase-islamic-heritage"
+        "title": "Defiant KP CM reaches Karachi on last leg of Sindh drive",
+        "link": "https://www.dawn.com/news/2028004/defiant-kp-cm-reaches-karachi-on-last-leg-of-sindh-drive"
       },
       {
-        "title": "Germany's far-right AfD emerges as landslide winner in eastern state vote",
-        "link": "https://www.dawn.com/news/2027934/germanys-far-right-afd-emerges-as-landslide-winner-in-eastern-state-vote"
+        "title": "FWO seeks 4-year payback for $432m Azeri-funded pipeline",
+        "link": "https://www.dawn.com/news/2027989/fwo-seeks-4-year-payback-for-432m-azeri-funded-pipeline"
       },
       {
-        "title": "PTI claims Hammad Azhar arrested in Punjab",
-        "link": "https://www.dawn.com/news/2027930/pti-claims-hammad-azhar-arrested-in-punjab"
+        "title": "MQM-P terms new administrative units ‘destiny of Pakistan’",
+        "link": "https://www.dawn.com/news/2028026/mqm-p-terms-new-administrative-units-destiny-of-pakistan"
       }
     ],
     "APNews": [],
@@ -109,74 +115,74 @@
         "link": "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html"
       },
       {
-        "title": "For Fired DeSantis Campaign Staff Member, a Second Chance at State Dept.",
-        "link": "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html"
+        "title": "Trump Administration Again Asks Supreme Court to Allow Mail Voting Restrictions",
+        "link": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Hormuz traffic drops to lowest since May",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-traffic-drops-lowest-may"
+        "title": "Yemen’s Houthis say it downed Saudi CH-4 drone over al-Jawf",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-it-downed-saudi-ch-4-drone-over-al-jawf"
       },
       {
-        "title": "Mike Huckabee criticised for accusing Jewish UK foreign secretary of 'Jew hate'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/mike-huckabee-criticised-accusing-jewish-uk-foreign-secretary-jew-hate"
+        "title": "Report: Turkish spy chief makes secretive visit to Greece amid rising tensions with Israel",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-turkish-spy-chief-makes-secretive-visit-greece-amid-rising"
       },
       {
-        "title": "Jewish settlers kill Palestinian man in occupied West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-kill-palestinian-man-occupied-west-bank"
+        "title": "Yemeni army claims large-scale attacks on Houthi positions",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-claims-large-scale-attacks-houthi-positions"
       },
       {
-        "title": "Iran accuses US of making world pay for war it started",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-us-making-world-pay-war-it-started"
+        "title": "At least five killed across Gaza on Sunday",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-five-killed-across-gaza-sunday"
       },
       {
-        "title": "Israeli attacks kill and wound Palestinians in Gaza and the occupied West Bank",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-and-wound-palestinians-gaza-and-occupied-west-bank"
+        "title": "Israeli army announces expulsion orders in south Lebanon, minutes before strikes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-announces-expulsion-orders-south-lebanon-minutes-strikes"
       }
     ],
     "GeoTV": [
       {
-        "title": "Amazon cargo plane crashes at Miami airport, killing at least five, injuring scores",
-        "link": "https://www.geo.tv/latest/680943-amazon-cargo-plane-crashes-at-miami-airport-killing-five-and-injuring-five"
+        "title": "Pakistan rejects India's 'baseless assertions' on disputed Jammu and Kashmir status",
+        "link": "https://www.geo.tv/latest/680951-pakistan-dismisses-indias-baseless-assertions-on-disputed-jammu-and-kashmir-status"
       },
       {
-        "title": "Taylor Swift explains hidden double meanings in Toy Story 5 song",
-        "link": "https://www.geo.tv/latest/680941-taylor-swift-explains-hidden-double-meanings-in-toy-story-5-song"
+        "title": "Julie Andrews wins Emmy for 'Bridgerton' voice work",
+        "link": "https://www.geo.tv/latest/680952-julie-andrews-wins-emmy-for-bridgerton-voice-work"
       },
       {
-        "title": "Julia Stiles admits to body double use in 'Save the Last Dance'",
-        "link": "https://www.geo.tv/latest/680939-julia-stiles-admits-to-body-double-use-in-save-the-last-dance"
+        "title": "Ernest Harden Jr. wins first Emmy for 'The Pitt' at 73",
+        "link": "https://www.geo.tv/latest/680949-ernest-harden-jr-wins-first-emmy-for-the-pitt-at-73"
       },
       {
-        "title": "From 1965 to Marka-e-Haq, PM Shehbaz lauds PAF's valour, tactical brilliance, sacrifices",
-        "link": "https://www.geo.tv/latest/680937-from-1965-to-marka-e-haq-pm-shehbaz-hails-pafs-courage-tactical-brilliance-and-sacrifice"
+        "title": "Oil nears $97 as US-Iran attacks intensify fears of prolonged supply disruption",
+        "link": "https://www.geo.tv/latest/680948-oil-nears-97-as-us-iran-attacks-intensify-fears-of-prolonged-supply-disruption"
       },
       {
-        "title": "Sabrina Carpenter reacts to first Emmy win: 'A lot of hard work'",
-        "link": "https://www.geo.tv/latest/680936-sabrina-carpenter-reacts-to-first-emmy-win-a-lot-of-hard-work"
+        "title": "Lilly Wachowski on 'Matrix 5': 'I don't wanna play'",
+        "link": "https://www.geo.tv/latest/680947-lilly-wachowski-on-matrix-5-i-dont-wanna-play"
       }
     ],
     "NDTV": [
       {
-        "title": "Delhi Building Collapse Raises Questions On Safety, Student Organisations Protest",
-        "link": "https://www.ndtv.com/india-news/delhi-building-collapse-raises-questions-on-safety-student-organisations-protest-12010786#publisher=newsstand"
+        "title": "Watch: Moment Delhi Building Came Crashing Down And Turned Into Rubble",
+        "link": "https://www.ndtv.com/delhi-news/satya-niketan-building-collapse-news-watch-moment-delhi-building-came-crashing-down-and-turned-into-rubble-12011298#publisher=newsstand"
       },
       {
-        "title": "Explained: The Warring Equation And Baghel Paradox In Punjab Congress",
-        "link": "https://www.ndtv.com/india-news/explained-the-warring-equation-and-baghel-paradox-in-punjab-congress-12010766#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Flat",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-7-september-us-iran-war-oil-prices-12011271#publisher=newsstand"
       },
       {
-        "title": "1.7 Lakh Fliers Stuck After Indonesia Closes Airport Over Volcanic Eruption",
-        "link": "https://www.ndtv.com/world-news/1-7-lakh-fliers-stuck-after-indonesia-closes-airport-over-volcanic-eruption-12010728#publisher=newsstand"
+        "title": "Frozen-Screen UPI Scam: How A Technical 'Glitch' Can Drain Your Bank Account",
+        "link": "https://www.ndtv.com/business-news/frozen-screen-upi-scam-how-technical-glitch-empty-bank-account-online-fraud-12011128#publisher=newsstand"
       },
       {
-        "title": "Ukraine Moves To Legalise Porn To Pay For 30,000 Drones: Report",
-        "link": "https://www.ndtv.com/world-news/ukraine-moves-to-legalise-porn-to-pay-for-30-000-drones-report-12010722#publisher=newsstand"
+        "title": "Video Shows Moment The Amazon Cargo Plane Crashed In Miami Killing 5",
+        "link": "https://www.ndtv.com/world-news/video-shows-moment-the-amazon-cargo-plane-crashed-in-miami-killing-5-12011211#publisher=newsstand"
       },
       {
-        "title": "5 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi",
-        "link": "https://www.ndtv.com/india-news/building-collapses-in-delhi-several-feared-trapped-under-debris-12008840#publisher=newsstand"
+        "title": "India-France Relations Have Reached \"New Heights\": PM Modi",
+        "link": "https://www.ndtv.com/world-news/india-france-relations-have-reached-new-heights-pm-modi-12010727#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-07 00:02 UTC"
+  "last_updated": "2026-09-07 04:26 UTC"
 }
