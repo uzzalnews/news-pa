@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Real Madrid vs Inter Milan – UEFA Champions League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
+      {
+        "title": "Ports denied request to land 120 migrants in RNLI boats",
+        "link": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
         "link": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Nottingham attacks victim's death 'potentially preventable'",
-        "link": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss"
+        "title": "Renoir paintings worth millions stolen in French museum heist",
+        "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Monty Don to leave Gardeners' World after more than 20 years",
         "link": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Prince George begins first day at a rainy Eton College",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Argentina to file criminal case against oil company operating in Falklands",
-        "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss"
+        "title": "Prince George attends first day at Eton College",
+        "link": "https://www.bbc.co.uk/news/videos/clyjdgvzg0yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Manipur musician killed in Indian capital, reviving racism concerns",
-        "link": "https://www.aljazeera.com/features/2026/9/8/manipur-musician-killed-in-indian-capital-reviving-racism-concerns?traffic_source=rss"
+        "title": "Israeli strikes transform Lebanese city into ghost town",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss"
       },
       {
-        "title": "Liverpool announce five-year shirt sponsorship deal with Turkish Airlines",
-        "link": "https://www.aljazeera.com/sports/2026/9/8/liverpool-announce-five-year-shirt-sponsorship-deal-with-turkish-airlines?traffic_source=rss"
+        "title": "UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss"
       },
       {
-        "title": "Qatar says reopening Strait of Hormuz ‘unconditionally’ is a priority",
-        "link": "https://www.aljazeera.com/news/2026/9/8/qatar-says-reopening-strait-of-hormuz-unconditionally-is-a-priority?traffic_source=rss"
+        "title": "Israeli academia accused of systemic apartheid against Palestinians",
+        "link": "https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss"
       },
       {
-        "title": "UK announces sanctions on illegal Israeli settlements",
-        "link": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?traffic_source=rss"
+        "title": "LIVE: Real Madrid vs Inter Milan – UEFA Champions League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss"
       },
       {
-        "title": "Sudan’s healthcare system on brink of collapse, MSF warns",
-        "link": "https://www.aljazeera.com/news/2026/9/8/sudans-healthcare-system-on-brink-of-collapse-msf-warns?traffic_source=rss"
+        "title": "Maldives asks UK to reopen sovereignty talks over Chagos Islands",
+        "link": "https://www.aljazeera.com/news/2026/9/8/maldives-muizzu-asks-uk-to-reopen-sovereignty-talks-over-chagos-islands?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,20 +80,20 @@
         "link": "https://www.dawn.com/news/2028381/pm-shehbaz-seeks-input-from-business-community-as-he-stresses-export-led-growth"
       },
       {
-        "title": "IHC forms larger bench to hear plea against PTI's Sept 27 protest",
-        "link": "https://www.dawn.com/news/2028349/ihc-forms-larger-bench-to-hear-plea-against-ptis-sept-27-protest"
+        "title": "Sindh AG interrupts Mir Raza commission proceedings during police surgeon's testimony, objects to family's queries",
+        "link": "https://www.dawn.com/news/2028356/sindh-ag-interrupts-mir-raza-commission-proceedings-during-police-surgeons-testimony-objects-to-familys-queries"
       },
       {
-        "title": "Houthi attacks disrupt Saudi energy facilities, wound 73, authorities say",
-        "link": "https://www.dawn.com/news/2028346/houthi-attacks-disrupt-saudi-energy-facilities-wound-73-authorities-say"
+        "title": "Babar says was surprised by PCB’s decision to sack Sarfraz, send seven players home",
+        "link": "https://www.dawn.com/news/2028393/babar-says-was-surprised-by-pcbs-decision-to-sack-sarfraz-send-seven-players-home"
       },
       {
-        "title": "Fire erupts at Karachi Mayor Murtaza Wahab's office located in historic KMC building",
-        "link": "https://www.dawn.com/news/2028337/fire-erupts-at-karachi-mayor-murtaza-wahabs-office-located-in-historic-kmc-building"
+        "title": "Three held after Karachi University professor assaulted at Safoora Chowrangi",
+        "link": "https://www.dawn.com/news/2028395/three-held-after-karachi-university-professor-assaulted-at-safoora-chowrangi"
       },
       {
-        "title": "3 Adiala jail inmates move FCC after IHC denies them Imran-like facilities",
-        "link": "https://www.dawn.com/news/2028358/3-adiala-jail-inmates-move-fcc-after-ihc-denies-them-imran-like-facilities"
+        "title": "UK's Miliband announces sanctions on goods from West Bank over 'ethnic cleansing' by Israeli settlers",
+        "link": "https://www.dawn.com/news/2028386/uks-miliband-announces-sanctions-on-goods-from-west-bank-over-ethnic-cleansing-by-israeli-settlers"
       }
     ],
     "APNews": [],
@@ -97,86 +103,86 @@
         "link": "https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html"
       },
       {
-        "title": "Near the Border, Americans Fear Losing Ties With Canadians",
-        "link": "https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html"
+        "title": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
+        "link": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html"
       },
       {
-        "title": "Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War",
-        "link": "https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html"
+        "title": "Smithsonian’s Secretary to Resign as Trump Tries to Rule the Institution",
+        "link": "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html"
       },
       {
-        "title": "Why Stocks Are Defying Gravity and What Could Bring Them Down",
-        "link": "https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html"
+        "title": "RFK Jr. Promised Children’s Health Reforms. Here’s How He Did.",
+        "link": "https://www.nytimes.com/2026/09/08/well/rfk-jr-maha-report-childrens-health.html"
       },
       {
-        "title": "Why the Pentagon Is Doing Polygraphs, and Officials Prepare to Release Huge Set of 9/11 Documents",
-        "link": "https://www.nytimes.com/2026/09/08/podcasts/the-headlines/pentagon-polygraphs-9-11-documents-crushable-concrete.html"
+        "title": "Iceland Summons U.S. Ambassador Over Provocative Trump Map",
+        "link": "https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Israeli actions in Syria may amount to war crimes, says UN",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-actions-syria-may-amount-war-crimes-says-un"
+        "title": "Saudi civil defence sends 'potential danger' warning for three areas near Yemen",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-civil-defence-sends-potential-danger-warning-three-areas-near"
       },
       {
-        "title": "Israeli journalist says Palestinians face threat of expulsion from the river to the sea",
-        "link": "https://www.middleeasteye.net/news/israeli-journalist-says-palestinians-face-threat-expulsion-river-sea"
+        "title": "Red Cross calls for 'urgent steps' to de-escalate Yemen-Saudi fighting",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/red-cross-calls-urgent-steps-de-escalate-yemen-saudi-fighting"
       },
       {
-        "title": "Suspected spyware attacks target Turkish ministers’ phones",
-        "link": "https://www.middleeasteye.net/news/suspected-spyware-attacks-target-turkish-ministers-phones"
+        "title": "Israeli strikes kill Palestinian, injure 15 others across Gaza Strip",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-palestinian-injure-15-others-across-gaza-strip"
       },
       {
-        "title": "12 countries say they will sanction trade from Israeli settlements",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/12-countries-say-they-will-sanction-trade-israeli-settlements"
+        "title": "France, UK, Canada release joint statement condemning Israeli settlements",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/france-uk-canada-release-joint-statement-condemning-israeli-settlements"
       },
       {
-        "title": "Israeli court rejects petition to halt key West Bank settlement project",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-rejects-petition-halt-key-west-bank-settlement-project"
+        "title": "ICJP welcomes UK settlement sanctions, but warns they should not be left as 'symbolic gestures'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/icjp-welcomes-uk-settlement-sanctions-warns-should-not-be-left-symbolic"
       }
     ],
     "GeoTV": [
       {
-        "title": "Olivia Rodrigo commemorates Daisy Chain Fields with special surprise",
-        "link": "https://www.geo.tv/latest/681175-olivia-rodrigo"
+        "title": "Lori Loughlin, Mossimo Giannulli end marriage after 28 years",
+        "link": "https://www.geo.tv/latest/681224-lori-loughlin-mossimo-giannulli-end-marriage-after-28-years"
       },
       {
-        "title": "Tom Jones breaks silence after 'The Voice' exit after 13 years",
-        "link": "https://www.geo.tv/latest/681182-tom-jones-breaks-silence-after-the-voice-exit-after-13-years"
+        "title": "King Charles receives honour as he begins new chapter with royal family",
+        "link": "https://www.geo.tv/latest/681210-king-charles-receives-honour-as-he-begins-new-chapter-with-royal-family"
       },
       {
-        "title": "Family of teenager misidentified in fatal crash 'went through two deaths', inquest hears",
-        "link": "https://www.geo.tv/latest/681176-family-of-teenager-misidentified-in-fatal-crash-went-through-two-deaths-inquest-hears"
+        "title": "Ocarina of Time remake arrives November 5 on Nintendo Switch 2: What's new",
+        "link": "https://www.geo.tv/latest/681220-ocarina-of-time-remake-arrives-november-5-on-nintendo-switch-2-whats-new"
       },
       {
-        "title": "Nicole Kidman, Keith Urban reconnect after split",
-        "link": "https://www.geo.tv/latest/681174-nicole-kidman-keith-urban-reconnect-after-split"
+        "title": "'Godzilla Minus Zero' is ready for Godzilla's next attack",
+        "link": "https://www.geo.tv/latest/681216-godzilla-minus-zero-is-ready-for-godzillas-next-attack"
       },
       {
-        "title": "Meagan Good shares sweet birthday tribute for husband Jonathan Majors",
-        "link": "https://www.geo.tv/latest/681180-meagan-good-shares-sweet-birthday-tribute-for-husband-jonathan-majors"
+        "title": "Babar Azam says surprised by PCB's seven-player overhaul",
+        "link": "https://www.geo.tv/latest/681200-babar-azam-says-surprised-by-pcbs-seven-player-overhaul"
       }
     ],
     "NDTV": [
       {
-        "title": "AI Reconstruction: How An Unstable Pillar Led To Delhi Building Collapse",
-        "link": "https://www.ndtv.com/india-news/satya-niketan-building-collapse-how-it-happened-what-happened-inside-delhi-building-basement-before-it-collapsed-in-seconds-12018262#publisher=newsstand"
+        "title": "80% Consumers Want Front-Of-Pack Warnings On High Sugar, Salt Food: Survey",
+        "link": "https://www.ndtv.com/india-news/80-consumers-want-front-of-pack-warnings-on-high-sugar-salt-food-survey-12019770#publisher=newsstand"
       },
       {
-        "title": "As 'Broken Jaw Gesture' Sparks Opposition Fury, Vijay's Clarification",
-        "link": "https://www.ndtv.com/india-news/vijays-broken-jaw-gesture-in-assembly-speakers-move-spark-dmk-fury-12018276#publisher=newsstand"
+        "title": "No Terror Charges Yet On US National Matthew VanDyke, 6 Ukrainians In 'Drone Training' Case",
+        "link": "https://www.ndtv.com/india-news/no-terror-charges-yet-on-us-national-matthew-vandyke-6-ukrainians-in-drone-training-case-12019778#publisher=newsstand"
       },
       {
-        "title": "Video: Houthis Lay Waste To Saudi Weapons Trucks, Riyadh Vows Response",
-        "link": "https://www.ndtv.com/world-news/video-houthis-lay-waste-to-saudi-weapons-trucks-riyadh-vows-response-12018385#publisher=newsstand"
+        "title": "300 Flights Cancelled Over Issues With UK Air Traffic Control System",
+        "link": "https://www.ndtv.com/world-news/300-flights-cancelled-over-issues-with-uk-air-traffic-control-system-12019729#publisher=newsstand"
       },
       {
-        "title": "China Denies Arming Russia, But Report Points To Drone-Material Shipments",
-        "link": "https://www.ndtv.com/world-news/china-denies-arming-russia-but-report-points-to-drone-material-shipments-12018034#publisher=newsstand"
+        "title": "Bihar Leaders Protest In Delhi, But Congress Has To Sort Out 4 Other States First",
+        "link": "https://www.ndtv.com/india-news/bihar-leaders-protest-in-delhi-but-congress-has-to-sort-out-4-other-states-first-12019704#publisher=newsstand"
       },
       {
-        "title": "Vijay Faces DMK Heat Over 'Jaw Gesture', Ally Also Decries It As Reference To MK Stalin's 1976 Arrest",
-        "link": "https://www.ndtv.com/india-news/vijay-faces-dmk-heat-over-jaw-gesture-ally-also-decries-it-as-reference-to-mk-stalins-1976-arrest-12018382#publisher=newsstand"
+        "title": "\"They Knew\": Zohran Mamdani Says New York Didn't Disclose 9/11 Air Toxicity",
+        "link": "https://www.ndtv.com/world-news/they-knew-zohran-mamdani-says-new-york-didnt-disclose-9-11-air-toxicity-12019695#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-08 13:36 UTC"
+  "last_updated": "2026-09-08 17:28 UTC"
 }
