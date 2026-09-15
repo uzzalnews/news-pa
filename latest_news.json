@@ -1,14 +1,20 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat, Tech Stocks In Focus",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-15-september-us-iran-war-oil-prices-12047233#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Man admits drugging and raping wife over 20 years",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss"
+        "title": "Lucy Letby public inquiry findings set to be published",
+        "link": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss"
+        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+        "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
@@ -19,30 +25,30 @@
         "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Burnham cancels engagements after death of his father",
-        "link": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss"
+        "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+        "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Landowners in Texas ask court to stop Trump border wall",
-        "link": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss"
+        "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss"
       },
       {
-        "title": "Israeli attack targets Gaza displacement camp",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss"
+        "title": "US Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
+        "link": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss"
       },
       {
-        "title": "US repeals rules limiting greenhouse gas emissions by power plants",
-        "link": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss"
+        "title": "Trump administration suffers double legal setback over immigration policy",
+        "link": "https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss"
       },
       {
-        "title": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss"
+        "title": "Suspected bicycle thief dies during arrest in Netherlands",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_suspected-bike-thief-dies-during-arrest-netherlands-140926?traffic_source=rss"
       },
       {
-        "title": "‘Columbia did not care’: Mahmoud Khalil files discrimination lawsuit",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss"
+        "title": "Viral hit-and-run raises road rage questions in India",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,28 +76,36 @@
     ],
     "Dawn": [
       {
-        "title": "KP CM claims he was 'abducted' by authorities in Lahore; Punjab minister denies allegations",
-        "link": "https://www.dawn.com/news/2029911/kp-cm-claims-he-was-abducted-by-authorities-in-lahore-punjab-minister-denies-allegations"
+        "title": "Business community split over SBP move",
+        "link": "https://www.dawn.com/news/2029995/business-community-split-over-sbp-move"
       },
       {
         "title": "Govt increases petrol by Rs4.42 per litre, HSD by Rs6.10 per litre amid rising global oil prices",
         "link": "https://www.dawn.com/news/2029913/govt-increases-petrol-by-rs442-per-litre-hsd-by-rs610-per-litre-amid-rising-global-oil-prices"
       },
       {
-        "title": "SBP keeps interest rate unchanged at 11.5pc",
-        "link": "https://www.dawn.com/news/2029831/sbp-keeps-interest-rate-unchanged-at-115pc"
+        "title": "Vaccine confusion leaves Karachi’s international travellers counting the cost",
+        "link": "https://www.dawn.com/news/2030010/vaccine-confusion-leaves-karachis-international-travellers-counting-the-cost"
       },
       {
-        "title": "New US rules change how international students can stay in America",
-        "link": "https://www.dawn.com/news/2029909/new-us-rules-change-how-international-students-can-stay-in-america"
+        "title": "FIA arrests TLP regional emir in terror financing case",
+        "link": "https://www.dawn.com/news/2029981/fia-arrests-tlp-regional-emir-in-terror-financing-case"
       },
       {
-        "title": "Govt mulling revival of austerity measures, decision to be taken soon: Tarar",
-        "link": "https://www.dawn.com/news/2029872/govt-mulling-revival-of-austerity-measures-decision-to-be-taken-soon-tarar"
+        "title": "O/A Level papers leak likely originated abroad, NA committee told",
+        "link": "https://www.dawn.com/news/2029939/oa-level-papers-leak-likely-originated-abroad-na-committee-told"
       }
     ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots",
+        "link": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
+      },
+      {
+        "title": "Trump’s Effort to Assert Control Over Elections Continues Despite Supreme Court Loss",
+        "link": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html"
+      },
       {
         "title": "Trump Administration Moves to Integrate A.I. Into Medical Care Despite Concerns",
         "link": "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html"
@@ -103,83 +117,83 @@
       {
         "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
         "link": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html"
-      },
-      {
-        "title": "As A.I. Fears Rise, Experts Suggest Focusing on the Humans in Charge",
-        "link": "https://www.nytimes.com/2026/09/14/us/ai-fears-human-role.html"
-      },
-      {
-        "title": "Russian Businessman With Putin Ties Paid for Donald Trump Jr.’s Wedding Party",
-        "link": "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Saudi-led coalition says over a dozen civilians wounded in Houthi attacks on kingdom",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-over-dozen-civilians-wounded-houthi-attacks"
+        "title": "Iran denies involvement in Yemen fighting",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-involvement-yemen-fighting"
       },
       {
-        "title": "Iranian official says no talks until Tehran’s conditions are met",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-says-no-talks-until-tehrans-conditions-are-met"
+        "title": "Saudi-led coalition's strikes kill three in Yemen’s Taiz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalitions-strikes-kill-three-yemens-taiz"
       },
       {
-        "title": "Attack on Saudi Arabian pipeline may cut four percent of world's oil supply",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/attack-saudi-arabian-pipeline-may-cut-four-percent-worlds-oil-supply"
+        "title": "Saudi Arabia's civil defence issues emergency alerts across several cities",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabias-civil-defence-issues-emergency-alerts-across-several"
       },
       {
-        "title": "Saudi East-West pipeline expected to resume operations soon, US energy chief says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-east-west-pipeline-expected-resume-operations-soon-us-energy-chief"
+        "title": "Why the Mecca defence pact hasn’t triggered action against the Houthis",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/why-mecca-defence-pact-hasnt-triggered-action-against-houthis"
       },
       {
-        "title": "Israeli strike kills Palestinian in Gaza's Khan Younis",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-palestinian-gazas-khan-younis"
+        "title": "Israeli army kills at least two Palestinians in Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-kills-least-two-palestinians-gaza"
       }
     ],
     "GeoTV": [
       {
-        "title": "Travis Kelce reveals he wore a white top hat to marry Taylor Swift",
-        "link": "https://www.geo.tv/latest/682110-travis-kelce-reveals-he-wore-a-white-top-hat-to-marry-taylor-swift"
+        "title": "Prince Harry, Meghan take urgent action after Archie, Lilibet safety risk",
+        "link": "https://www.geo.tv/latest/682123-prince-harry-meghan-take-urgent-action-after-archie-lilibet-safety-risk"
       },
       {
-        "title": "Legendary costume designer Bob Mackie dies at 87",
-        "link": "https://www.geo.tv/latest/682111-legendary-costume-designer-bob-mackie-dies-at-87"
+        "title": "Karachi likely to receive light rain today amid hot, humid weather",
+        "link": "https://www.geo.tv/latest/682122-karachi-likely-to-receive-light-rain-today-amid-hot-humid-weather"
       },
       {
-        "title": "Jay-Z opens up on feeling 'cringe' about family watching 'Jay-Z in 8'",
-        "link": "https://www.geo.tv/latest/682107-jay-z-opens-up-on-feeling-cringe-about-family-watching-jay-z-in-8"
+        "title": "Who, why, how of civilisation",
+        "link": "https://www.geo.tv/latest/682121-who-why-how-of-civilisation"
       },
       {
-        "title": "Afridi claims he was abducted, dumped in Lahore as Punjab govt denies accusations",
-        "link": "https://www.geo.tv/latest/682108-afridi-claims-he-was-abducted-and-dumped-in-lahore-as-punjab-denies-allegation"
+        "title": "Emmys 2026: Full list of winners from the main ceremony",
+        "link": "https://www.geo.tv/latest/682120-emmys-2026-full-list-of-winners-from-the-main-ceremony"
       },
       {
-        "title": "Tyler Perry reveals plans to move to Puerto Rico, backing from Hollywood",
-        "link": "https://www.geo.tv/latest/682105-tyler-perry-reveals-plans-to-move-to-puerto-rico-backing-from-hollywood"
+        "title": "Mariska Hargitay and daughter Amaya Twin in red at 2026 Emmys",
+        "link": "https://www.geo.tv/latest/682119-mariska-hargitay-and-daughter-amaya-twin-in-red-at-2026-emmys"
       }
     ],
     "NDTV": [
       {
-        "title": "\"SICK Conspiracy\": Trump Rejects \"Hoax\" Warnings AI Could End Humanity",
-        "link": "https://www.ndtv.com/world-news/donald-trump-rejects-warnings-that-ai-could-destroy-humanity-12046823#publisher=newsstand"
+        "title": "Meta Agrees To Report Child Sexual Abuse Cases Amid India Crackdown",
+        "link": "https://www.ndtv.com/india-news/meta-agrees-to-report-child-sexual-abuse-cases-amid-india-crackdown-12047353#publisher=newsstand"
       },
       {
-        "title": "Zelensky Says Ukraine Ready For \"De-Escalatory Steps\"",
-        "link": "https://www.ndtv.com/world-news/zelensky-says-ukraine-ready-for-de-escalatory-steps-12046910#publisher=newsstand"
+        "title": "Speeding Thar Rams Into People Near Navi Mumbai Hospital, Driver Flees",
+        "link": "https://www.ndtv.com/india-news/speeding-thar-rams-into-people-near-navi-mumbai-hospital-driver-flees-12047451#publisher=newsstand"
       },
       {
-        "title": "US Scraps Limits On Carbon Emissions From Coal, Gas-Fired Power Plants",
-        "link": "https://www.ndtv.com/world-news/us-scraps-limits-on-carbon-emissions-from-coal-gas-fired-power-plants-12046901#publisher=newsstand"
+        "title": "\"Kabaddi Player\": What We Know About Gurugram Hit-And-Run Accused Kalyan Bainsla",
+        "link": "https://www.ndtv.com/india-news/kalyan-bainsla-sia-gurugram-biker-hit-and-run-what-we-know-about-gurugram-hit-and-run-accused-kalyan-bainsla-12044425#publisher=newsstand"
       },
       {
-        "title": "Putin-Linked Russian Oligarch Funded For Trump Jr.'s Wedding: Report",
-        "link": "https://www.ndtv.com/world-news/putin-linked-russian-oligarch-funded-for-trump-jr-s-wedding-report-12046873#publisher=newsstand"
+        "title": "Singapore Among World's Most Polluted Cities As Indonesia Wildfires Fuel Haze",
+        "link": "https://www.ndtv.com/world-news/singapore-among-worlds-most-polluted-cities-as-indonesia-wildfires-fuel-haze-12047549#publisher=newsstand"
       },
       {
-        "title": "Trump Privately Met With OpenAI's Altman At Republican Convention: Report",
-        "link": "https://www.ndtv.com/world-news/donald-trump-privately-met-with-openais-sam-altman-at-republican-convention-report-12046804#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat, Tech Stocks In Focus",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-15-september-us-iran-war-oil-prices-12047233#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
+        "link": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us"
+      },
+      {
+        "title": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
+        "link": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow"
+      },
       {
         "title": "The London hospital funded by donors who invested in the slave trade",
         "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade"
@@ -191,16 +205,8 @@
       {
         "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
         "link": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda"
-      },
-      {
-        "title": "Six Nigerians extradited to US over $6m online romance scam",
-        "link": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams"
-      },
-      {
-        "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
-        "link": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide"
       }
     ]
   },
-  "last_updated": "2026-09-15 00:05 UTC"
+  "last_updated": "2026-09-15 04:48 UTC"
 }
