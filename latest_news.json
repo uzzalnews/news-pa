@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Brighton vs Arsenal – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/19/live-brighton-vs-arsenal-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,30 +25,30 @@
         "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Google's Gemini AI hacked three companies in security test",
-        "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
+        "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
+        "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Russia’s elections are more than political theatre",
-        "link": "https://www.aljazeera.com/opinions/2026/9/19/russias-elections-are-more-than-political-theatre?traffic_source=rss"
+        "title": "East Asia: How AI is changing the way we bid farewell to loved ones",
+        "link": "https://www.aljazeera.com/video/101-east/2026/9/19/east-asia-how-ai-is-changing-the-way-we-bid-farewell-to-loved-ones?traffic_source=rss"
       },
       {
-        "title": "Could US pull one-third of troops from Europe? What that would mean",
-        "link": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean?traffic_source=rss"
+        "title": "LIVE: Brighton vs Arsenal – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/9/19/live-brighton-vs-arsenal-premier-league?traffic_source=rss"
       },
       {
-        "title": "Brentford beat Chelsea 3-0 to shatter Alonso’s London honeymoon",
-        "link": "https://www.aljazeera.com/sports/2026/9/19/brentford-beat-chelsea-3-0-to-shatter-alonsos-london-honeymoon?traffic_source=rss"
+        "title": "Iran stages show of force during mobilisation campaign in Tehran",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss"
       },
       {
-        "title": "Trump’s threats to demolish Kennedy Center sparks protest",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trumps-threats-to-demolish-kennedy-center-sparks-protest?traffic_source=rss"
+        "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
+        "link": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss"
       },
       {
-        "title": "Brazilian police capture suspected serial killer disguised as a woman",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/brazilian-police-capture-suspected-serial-killer-disguised-as-a-woman?traffic_source=rss"
+        "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +76,12 @@
     ],
     "Dawn": [
       {
-        "title": "Kohat mosque attack: 8 terrorists killed as overnight clearance operation concludes",
-        "link": "https://www.dawn.com/news/2031100/kohat-mosque-attack-8-terrorists-killed-as-overnight-clearance-operation-concludes"
+        "title": "Kohat Police Lines attack: 8 terrorists killed as overnight clearance operation concludes",
+        "link": "https://www.dawn.com/news/2031100/kohat-police-lines-attack-8-terrorists-killed-as-overnight-clearance-operation-concludes"
+      },
+      {
+        "title": "Dar stresses importance of uninterrupted energy supplies in phone call with Iran's FM Araghchi",
+        "link": "https://www.dawn.com/news/2031124/dar-stresses-importance-of-uninterrupted-energy-supplies-in-phone-call-with-irans-fm-araghchi"
       },
       {
         "title": "Security forces kill 11 terrorists during operations in Balochistan's Panjgur, Chagai",
@@ -84,99 +94,95 @@
       {
         "title": "‘Shrinking space for diplomacy raising risks in South Asia’",
         "link": "https://www.dawn.com/news/2031016/shrinking-space-for-diplomacy-raising-risks-in-south-asia"
-      },
-      {
-        "title": "Trump extends push for $100,000 H-1B visa fee by another year",
-        "link": "https://www.dawn.com/news/2031090/trump-extends-push-for-100000-h-1b-visa-fee-by-another-year"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
-        "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html"
+        "title": "How Trump Has Disrupted National Parks",
+        "link": "https://www.nytimes.com/2026/09/19/climate/trump-national-park-service-budget-cuts.html"
       },
       {
-        "title": "How Trump Became an A.I. Evangelist",
-        "link": "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html"
+        "title": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
+        "link": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html"
       },
       {
-        "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-        "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html"
+        "title": "Kennedy Center Supporters Rally Amid Fears of Trump’s Demolition",
+        "link": "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html"
       },
       {
-        "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
-        "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html"
+        "title": "Trump Won Their Votes. Now His Trade War Is Dividing Them.",
+        "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html"
       },
       {
-        "title": "F.A.A. to Roll Out New A.I. Tool for Washington Airports",
-        "link": "https://www.nytimes.com/2026/09/18/us/politics/faa-ai-dc-airports.html"
+        "title": "Sherrod Brown Tries a New Retort to Criticism on Transgender Issues",
+        "link": "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran executes man accused of spying for Israel",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-man-accused-spying-israel-0"
+        "title": "Araghchi says Middle East needs dialogue, not foreign military presence",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-middle-east-needs-dialogue-not-foreign-military-presence"
       },
       {
-        "title": "Morning recap",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-164"
+        "title": "Israel seeks US weapons 'compensation' after Saudi F-35 deal",
+        "link": "https://www.middleeasteye.net/news/israel-seeks-us-weapons-compensation-after-saudi-f-35-deal"
       },
       {
-        "title": "Report: Australia's reluctance to join settlement sanctions disappoints EU diplomats",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-australias-reluctance-join-settlement-sanctions-disappoints-eu"
+        "title": "Large plume of black smoke seen near Riyadh airport, Reuters reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/large-plume-black-smoke-seen-near-riyadh-airport-reuters-reports"
       },
       {
-        "title": "Saudi commander says security of international waterways collective responsibility",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-commander-says-security-international-waterways-collective"
+        "title": "Pakistan and Iran foreign ministers discuss regional stability and safe shipping",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-and-iran-foreign-ministers-discuss-regional-stability-and-safe"
       },
       {
-        "title": "'Yemen not Iranian bargaining chip', foreign minister says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-not-iranian-bargaining-chip-foreign-minister-says"
+        "title": "The world must stop trying to 'rescue' Muslim women",
+        "link": "https://www.middleeasteye.net/opinion/world-must-stop-trying-rescue-muslim-women"
       }
     ],
     "GeoTV": [
       {
-        "title": "Prince Harry doubles down on stance over Diana memoir as truth comes out",
-        "link": "https://www.geo.tv/latest/682740-prince-harry-doubles-down-on-stance-over-diana-memoir-as-truth-comes-out"
+        "title": "Pentagon's latest UFO files reveal details on secretive military research programme",
+        "link": "https://www.geo.tv/latest/682768-pentagons-latest-ufo-files-reveal-details-on-secretive-military-research-programme"
       },
       {
-        "title": "Kohat Police Lines attack: Eight militants killed as forces conclude operation",
-        "link": "https://www.geo.tv/latest/682735-kohat-police-lines-attack-eight-militants-killed-as-forces-conclude-operation"
+        "title": "Caitlin Clark makes history again as WNBA world erupts over record-breaking night",
+        "link": "https://www.geo.tv/latest/682772-caitlin-clark-makes-history-again-sending-wnba-world-into-frenzy"
       },
       {
-        "title": "India's RAW, Taliban regime linked to proxy attacks in Pakistan: sources",
-        "link": "https://www.geo.tv/latest/682733-indias-raw-taliban-regime-linked-to-proxy-attacks-in-pakistan-sources"
+        "title": "Charles Spencer's book ‘heist' trails suspicious link to Palace: report",
+        "link": "https://www.geo.tv/latest/682769-charles-spencers-book-heist-trails-suspicious-link-to-palace-report"
       },
       {
-        "title": "Katie Price makes bold runway comeback after years away from runway",
-        "link": "https://www.geo.tv/latest/682730-katie-price-makes-bold-runway-comeback-after-years-away-from-runway"
+        "title": "Ed Sheeran tour fallout gets ugly as Piers Morgan weighs in",
+        "link": "https://www.geo.tv/latest/682774-ed-sheeran-faces-backlash-as-piers-morgan-guest-speaks-out"
       },
       {
-        "title": "Carrot Top, aka Scott Thompson, hospitalised in Las Vegas after reported suicide attempt",
-        "link": "https://www.geo.tv/latest/682728-carrot-top-aka-scott-thompson-hospitalised-in-las-vegas-what-we-know"
+        "title": "Liam Payne's ex Danielle Peazer announces she is engaged",
+        "link": "https://www.geo.tv/latest/682758-liam-paynes-ex-danielle-peazer"
       }
     ],
     "NDTV": [
       {
-        "title": "Trump Signs Russia Sanctions Bill, Clears Way For 100% Tariffs On India, China",
-        "link": "https://www.ndtv.com/world-news/donald-trump-signs-russia-sanctions-bill-amid-ukraine-war-clears-way-for-100-tariffs-on-india-china-12067070#publisher=newsstand"
+        "title": "Saudi Arabia Crude Output Hits 30-Year Low As Non-Gulf Producers Step Up",
+        "link": "https://www.ndtv.com/world-news/us-iran-war-saudi-arabia-crude-output-hits-30-year-low-as-non-gulf-producers-step-up-12068646#publisher=newsstand"
       },
       {
-        "title": "\"Totally Allowed\": Trump Defends Putin's Friend Funding His Son's Wedding",
-        "link": "https://www.ndtv.com/world-news/totally-allowed-donald-trump-defends-russian-oresident-vladimir-putins-friend-oligarch-umar-kremlev-funding-his-son-donald-trump-jrs-wedding-12067783#publisher=newsstand"
+        "title": "2 Ganesh Idols Decked Up In Rs 2.9 Crore In Cash In Telangana",
+        "link": "https://www.ndtv.com/india-news/2-ganesh-idols-decked-up-in-rs-2-9-crore-in-cash-in-telangana-12068643#publisher=newsstand"
       },
       {
-        "title": "Caught Using ChatGPT In Exam, IIT Bombay Student Kills Self, Protests Erupt",
-        "link": "https://www.ndtv.com/india-news/iit-bombay-student-dies-by-suicide-he-was-caught-using-chatgpt-in-exam-12067185#publisher=newsstand"
+        "title": "Nihang Group Assaults Woman Cop In Amritsar As She Saves Man From Them",
+        "link": "https://www.ndtv.com/india-news/nihang-group-scuffles-with-woman-cop-in-amritsar-as-she-saves-man-from-assault-12068535#publisher=newsstand"
       },
       {
-        "title": "On Camera, 9-Year-Old Girl Dies After Fall From School Staircase In Telangana",
-        "link": "https://www.ndtv.com/telangana-news/on-camera-9-year-old-girl-dies-after-fall-from-school-staircase-in-telangana-12067724#publisher=newsstand"
+        "title": "Opinion: Modi@25: Building The Foundations Of A New India",
+        "link": "https://www.ndtv.com/opinion/modi-25-building-the-foundations-of-a-new-india-12068507#publisher=newsstand"
       },
       {
-        "title": "IIT Bombay Student Warned Of 1-Year Suspension For Using ChatGPT In Exam? What Institute Said",
-        "link": "https://www.ndtv.com/india-news/sahil-wakode-iit-bombay-student-suicide-case-iit-bombay-student-warned-of-1-year-suspension-for-using-chatgpt-in-exam-what-institute-said-12067593#publisher=newsstand"
+        "title": "Mamata Banerjee Drew Her Party's Symbol By Hand. It's Now Tied To An Indira Gandhi Case",
+        "link": "https://www.ndtv.com/india-news/two-flowers-one-stem-who-is-the-real-trinamool-what-the-congress-shiv-sena-and-ncp-splits-tell-us-12065977#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-19 07:31 UTC"
+  "last_updated": "2026-09-19 12:01 UTC"
 }
