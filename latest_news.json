@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "GeoTV",
+      "title": "'Breaking Bad' actor calls Bryan Cranston 'father figure'",
+      "link": "https://www.geo.tv/latest/682948-breaking-bad-actor-calls-bryan-cranston-father-figure"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -19,30 +25,30 @@
         "link": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+        "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
+        "link": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
+        "title": "The Sahel and the UN: a smaller footprint, a different role",
+        "link": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss"
+      },
+      {
+        "title": "Ethiopian armed groups forge alliance against government",
+        "link": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss"
+      },
+      {
+        "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
+        "link": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss"
+      },
+      {
         "title": "Polls close in Russian wartime election with ruling party set to dominate",
         "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss"
-      },
-      {
-        "title": "France to summon Iran envoy after language centre closure in Tehran",
-        "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss"
-      },
-      {
-        "title": "Qatar PM urges Gulf security framework with Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss"
-      },
-      {
-        "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss"
-      },
-      {
-        "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
-        "link": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -93,6 +99,10 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Trump Gets Caught in a Dilemma Over a Saudi Plea for Military Help",
+        "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html"
+      },
+      {
         "title": "Houthis Push to Expand Territory as Tensions With Saudi Arabia Rise",
         "link": "https://www.nytimes.com/2026/09/20/world/middleeast/saudi-arabia-yemen-houthis-fighting.html"
       },
@@ -105,15 +115,19 @@
         "link": "https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html"
       },
       {
-        "title": "Trump Says His D.C. Arch Would Be a ‘Military Complex’ Housing Drones and Snipers",
-        "link": "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html"
-      },
-      {
         "title": "In Fighting for Every Black Child, Did I Betray My Own?",
         "link": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Explosions in Syria's Aleppo result in injuries, civil defence says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-syrias-aleppo-result-injuries-civil-defence-says"
+      },
+      {
+        "title": "Blasts rock town in Syria's Aleppo",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-rock-town-syrias-aleppo"
+      },
       {
         "title": "‘I'm so, so sorry’: Ed Sheeran addresses Gaza on stage after losing every opening act",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/im-so-so-sorry-ed-sheeran-addresses-gaza-stage-after-losing-every"
@@ -125,17 +139,17 @@
       {
         "title": "Houthis declare 'blockade for blockade' on Saudi, assure US ships are safe",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-declare-blockade-blockade-saudi-assure-us-ships-are-safe"
-      },
-      {
-        "title": "Trump administration prepares to sanction ICC, WSJ reports",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-administration-prepares-sanction-icc-wsj-reports"
-      },
-      {
-        "title": "France to take measures after Iran closes its cultural centre in Tehran",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/france-take-measures-after-iran-closes-its-cultural-centre-tehran"
       }
     ],
     "GeoTV": [
+      {
+        "title": "Prime Minister Shehbaz to put Kashmir, Palestine at centre of Pakistan's UNGA push: envoy",
+        "link": "https://www.geo.tv/latest/682949-shehbaz-to-put-kashmir-palestine-at-centre-of-pakistans-unga-push"
+      },
+      {
+        "title": "'Breaking Bad' actor calls Bryan Cranston 'father figure'",
+        "link": "https://www.geo.tv/latest/682948-breaking-bad-actor-calls-bryan-cranston-father-figure"
+      },
       {
         "title": "Ed Sheeran's cousin calls him 'coward' amid Macklemore fallout",
         "link": "https://www.geo.tv/latest/682941-ed-sheerans-cousin-calls-him-coward-amid-macklemore-fallout"
@@ -147,14 +161,6 @@
       {
         "title": "Trump admin targets Int'l Criminal Court with sweeping sanctions after Netanyahu warrant",
         "link": "https://www.geo.tv/latest/682939-washington-prepares-broader-sanctions-against-icc-amid-netanyahu-case-tensions"
-      },
-      {
-        "title": "New 'Beatles' biopic set photos show Cast recreating classic band scene",
-        "link": "https://www.geo.tv/latest/682937-new-beatles-biopic-set-photos-show-cast-recreating-classic-fan-chase-scene"
-      },
-      {
-        "title": "Taylor Swift, Travis Kelce celebrate Patrick Mahomes's birthday with PDA",
-        "link": "https://www.geo.tv/latest/682936-taylor-swift-travis-kelce-celebrate-patrick-mahomess-31st-birthday-in-kansas-city"
       }
     ],
     "NDTV": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-20 23:33 UTC"
+  "last_updated": "2026-09-21 01:35 UTC"
 }
