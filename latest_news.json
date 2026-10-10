@@ -1,59 +1,48 @@
 {
-  "breaking": [
-    {
-      "source": "AlJazeera",
-      "title": "Manchester United vs Tottenham LIVE: Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss"
-    },
-    {
-      "source": "NDTV",
-      "title": "Delhi CJP Protest News LIVE: \"What Offense Have People Of Delhi Committed?\" Chief Minister Rekha Gupta",
-      "link": "https://www.ndtv.com/india-news/delhi-cjp-protest-live-updates-jantar-mantar-2-0-gyanesh-kumar-metro-stations-road-closure-traffic-advisory-trains-cancelled-delhi-police-election-com-12164478#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
       {
+        "title": "Man dies after tiger attack at wildlife park",
+        "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+        "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-        "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
-        "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
         "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Rogue Anthropic AI agent gave US police fake tip in unsolved murder case",
-        "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss"
+        "title": "Watch: 'Cockroach' group leaders among hundreds detained in Delhi protest",
+        "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "England international Cole Palmer signs new Chelsea deal until 2034",
-        "link": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss"
+        "title": "Christa Pike discharged from hospital and returned to Tennessee prison",
+        "link": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss"
       },
       {
-        "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss"
+        "title": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss"
       },
       {
-        "title": "Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/graffiti-artist-honours-spains-housing-rights-figure?traffic_source=rss"
+        "title": "Eritrea urges UN to intervene in standoff with Ethiopia",
+        "link": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss"
       },
       {
-        "title": "Why is US turning to Russia for diesel despite sanctions?",
-        "link": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss"
+        "title": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
+        "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss"
       },
       {
-        "title": "Manchester United vs Tottenham LIVE: Premier League",
-        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss"
+        "title": "Trump Accounts: Free money, but who gets a say?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -81,24 +70,24 @@
     ],
     "Dawn": [
       {
-        "title": "PM Shehbaz, Fazl speak on reducing tensions between federal, KP govts",
-        "link": "https://www.dawn.com/news/2036160/pm-shehbaz-fazl-speak-on-reducing-tensions-between-federal-kp-govts"
+        "title": "PM Shehbaz meets President Zardari as Centre mulls imposition of emergency in KP",
+        "link": "https://www.dawn.com/news/2036160/pm-shehbaz-meets-president-zardari-as-centre-mulls-imposition-of-emergency-in-kp"
+      },
+      {
+        "title": "CM Afridi says will not accept 'illegal move' of governor's rule or emergency in KP",
+        "link": "https://www.dawn.com/news/2036185/cm-afridi-says-will-not-accept-illegal-move-of-governors-rule-or-emergency-in-kp"
       },
       {
         "title": "Govt assails PTI over 'lack of governance' in Khyber Pakhtunkhwa",
         "link": "https://www.dawn.com/news/2036151/govt-assails-pti-over-lack-of-governance-in-khyber-pakhtunkhwa"
       },
       {
-        "title": "Pakistan reaffirms commitment to Saudi security at UN Security Council",
-        "link": "https://www.dawn.com/news/2036131/pakistan-reaffirms-commitment-to-saudi-security-at-un-security-council"
+        "title": "Finance minister heads to Bangkok for IMF, World Bank meetings",
+        "link": "https://www.dawn.com/news/2036191/finance-minister-heads-to-bangkok-for-imf-world-bank-meetings"
       },
       {
-        "title": "Pakistan and Azerbaijan reaffirm strategic partnership, vow closer economic ties",
-        "link": "https://www.dawn.com/news/2036153/pakistan-and-azerbaijan-reaffirm-strategic-partnership-vow-closer-economic-ties"
-      },
-      {
-        "title": "Islamabad ATC disposes of plea to drop terrorism charges against Imaan, Hadi in security breach case",
-        "link": "https://www.dawn.com/news/2036142/islamabad-atc-disposes-of-plea-to-drop-terrorism-charges-against-imaan-hadi-in-security-breach-case"
+        "title": "Nobel peace laureate calls US sanctions on International Criminal Court 'unacceptable'",
+        "link": "https://www.dawn.com/news/2036177/nobel-peace-laureate-calls-us-sanctions-on-international-criminal-court-unacceptable"
       }
     ],
     "APNews": [],
@@ -120,74 +109,74 @@
         "link": "https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html"
       },
       {
-        "title": "Mamdani’s Ability to Persuade Trump Hits Limit in Wake of ICE Shooting",
-        "link": "https://www.nytimes.com/2026/10/09/nyregion/mamdani-trump-ice-shooting-nyc.html"
+        "title": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
+        "link": "https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Iran's Araghchi says Netanyahu is a 'wanted war criminal' with 'no regard for his own people'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-netanyahu-wanted-war-criminal-no-regard-his-own"
+        "title": "Europe's leaders are preparing for war. Workers are organising to stop it",
+        "link": "https://www.middleeasteye.net/opinion/europes-leaders-are-preparing-war-workers-are-organising-stop-it"
       },
       {
-        "title": "Palestinian president postpones legislative elections until 2027",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-president-postpones-legislative-elections-until-2027"
+        "title": "Dozens injured in Houthi attack on Riyadh airport",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-airways-cancels-flights-and-riyadh-embassies-warn-citizens-stay"
       },
       {
-        "title": "Protesters gather for Palestine march in central London",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/protestors-gather-palestine-march-central-london"
+        "title": "Israeli settlers kidnap three Palestinian farmers west of Bethlehem",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-kidnap-three-palestinian-farmers-west-bethlehem"
       },
       {
-        "title": "Netanyahu’s former aide alleges attempt to alter 7 October records",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-former-aide-alleges-attempt-alter-7-october-records"
+        "title": "Israeli forces strike southern Lebanon’s Marjayoun district",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-strike-southern-lebanons-marjayoun-district"
       },
       {
-        "title": "Netanyahu’s former aide alleges attempt to alter 7 October records",
-        "link": "https://www.middleeasteye.net/news/netanyahus-former-aide-alleges-attempt-alter-7-october-records"
+        "title": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-failing-badly-conflict-yemen-widens"
       }
     ],
     "GeoTV": [
       {
-        "title": "Anthropic discloses fake murder tip to police among new rogue AI incidents",
-        "link": "https://www.geo.tv/latest/685932-anthropic-discloses-fake-murder-tip-to-police-among-new-rogue-ai-incidents"
+        "title": "Thousands rally in London, demand end to Israeli attacks on Gaza",
+        "link": "https://www.geo.tv/latest/685953-thousands-rally-in-london-demand-end-to-israeli-attacks-on-gaza"
       },
       {
-        "title": "'The Voice' star Karina Zeviani dies after long illness",
-        "link": "https://www.geo.tv/latest/685933-the-voice-star-karina-zeviani-dies-after-long-illness"
+        "title": "Ashe marks new career peak with 'Stop the Wedding!' ahead of album release",
+        "link": "https://www.geo.tv/latest/685962-ashe-marks-new-career-peak-with-stop-the-wedding-ahead-of-album-release"
       },
       {
-        "title": "Prince Harry reunites with family member during surprise night out",
-        "link": "https://www.geo.tv/latest/685929-prince-harry-reunites-with-family-member-during-surprise-night-out"
+        "title": "Christa Pike returns to prison 10 days after surviving botched Tennessee execution",
+        "link": "https://www.geo.tv/latest/685963-christa-pike-returns-to-prison-10-days-after-surviving-botched-tennessee-execution"
       },
       {
-        "title": "Fury-Joshua tickets sell out in just one hour as top price hits £13,000",
-        "link": "https://www.geo.tv/latest/685931-fury-joshua-fight-tickets-sekk-out-in-just-one-hour-as-top-price-hits-13000"
+        "title": "Harry Styles shocks fans with candid video from solo outing",
+        "link": "https://www.geo.tv/latest/685959-harry-styles-shocks-fans-with-candid-video-from-solo-outing"
       },
       {
-        "title": "Katie Price's husband Lee Andrews makes desperate money plea",
-        "link": "https://www.geo.tv/latest/685930-katie-prices-husband-lee-andrews-makes-desperate-money-plea"
+        "title": "Harry forgiven, Andrew Forgotten? Royals accused of 'double standard'",
+        "link": "https://www.geo.tv/latest/685956-harry-forgiven-andrew-forgotten-royals-accused-of-double-standard"
       }
     ],
     "NDTV": [
       {
-        "title": "Delhi CJP Protest News LIVE: \"What Offense Have People Of Delhi Committed?\" Chief Minister Rekha Gupta",
-        "link": "https://www.ndtv.com/india-news/delhi-cjp-protest-live-updates-jantar-mantar-2-0-gyanesh-kumar-metro-stations-road-closure-traffic-advisory-trains-cancelled-delhi-police-election-com-12164478#publisher=newsstand"
+        "title": "Massive Crackdown On CJP Protest: 4 Ex-Chief Ministers Among 2,000 Detained In Delhi",
+        "link": "https://www.ndtv.com/india-news/4-ex-chief-ministers-among-1-500-detained-in-delhi-in-police-crackdown-on-cjp-protest-dipke-mamata-vijayan-kejriwal-among-them-12166791#publisher=newsstand"
       },
       {
-        "title": "After Citing \"Other Sorrows\", Sonam Wangchuk's Hunger Strike Warning Over CJP Protest Crackdown",
-        "link": "https://www.ndtv.com/india-news/aur-bhi-gham-hain-sonam-wangchuk-explains-not-joining-cjp-protest-12163760#publisher=newsstand"
+        "title": "Top Court To Hold Special Hearing Tomorrow On Metro Closure, Protest Detentions",
+        "link": "https://www.ndtv.com/india-news/cjp-protests-election-commission-sir-supreme-court-to-hold-special-hearing-tomorrow-on-metro-closure-protest-detentions-12167193#publisher=newsstand"
       },
       {
-        "title": "'Do You Doubt System Or Result?' 124 Ex-Bureaucrats, Diplomats Back Poll Body",
-        "link": "https://www.ndtv.com/india-news/gyanesh-kumar-election-commission-cjp-jantar-mantar-do-you-doubt-system-or-result-124-ex-bureaucrats-diplomats-back-poll-body-12166334#publisher=newsstand"
+        "title": "\"No Backing Down\": INDIA Bloc To Hold Mega Protest Against Gyanesh Kumar On Monday",
+        "link": "https://www.ndtv.com/india-news/india-bloc-to-hold-mega-protest-against-gyanesh-kumar-on-monday-no-backing-down-12167151#publisher=newsstand"
       },
       {
-        "title": "In Phone Call With Trump, Putin Conveys Iran's Position On Middle East Deal",
-        "link": "https://www.ndtv.com/world-news/in-phone-call-with-trump-putin-conveys-irans-position-on-middle-east-deal-12166492#publisher=newsstand"
+        "title": "Many Injured As Missile Strikes Passenger Terminal At Riyadh Airport: Report",
+        "link": "https://www.ndtv.com/world-news/riyadh-airport-attacked-again-evacuated-air-traffic-stopped-report-12166907#publisher=newsstand"
       },
       {
-        "title": "BJP, Congress Supporters Come Face-To-Face During Guwahati Protest",
-        "link": "https://www.ndtv.com/india-news/bjp-congress-supporters-come-face-to-face-during-guwahati-protest-12166459#publisher=newsstand"
+        "title": "5 Killed, 30 Houses And Shops Burned As Violence Breaks Out In Manipur Again",
+        "link": "https://www.ndtv.com/india-news/5-killed-30-houses-and-shops-burned-as-violence-breaks-out-in-manipur-again-12167185#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -213,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-10 12:53 UTC"
+  "last_updated": "2026-10-10 17:37 UTC"
 }
