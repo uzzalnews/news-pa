@@ -3,6 +3,10 @@
   "news": {
     "BBC": [
       {
+        "title": "What we know so far about deadly fire at Canadian military base",
+        "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+      },
+      {
         "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
         "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
       },
@@ -17,32 +21,28 @@
       {
         "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
         "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-        "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
-        "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss"
+        "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+        "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss"
       },
       {
-        "title": "French mayor attacked by settlers during occupied West Bank olive harvest",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss"
+        "title": "Gaza bodybuilders find solace in strongman competition among the ruins",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss"
       },
       {
-        "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
-        "link": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss"
+        "title": "Why the US is holding secret talks with Myanmar’s military ruler",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss"
       },
       {
-        "title": "Manchester United held at Leeds despite improved performance for Carrick",
-        "link": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss"
+        "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss"
       },
       {
-        "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
-        "link": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss"
+        "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,8 +70,16 @@
     ],
     "Dawn": [
       {
-        "title": "Bilawal says KP governor's rule could end if opposition engages with Centre on counterterrorism policy",
-        "link": "https://www.dawn.com/news/2038032/bilawal-says-kp-governors-rule-could-end-if-opposition-engages-with-centre-on-counterterrorism-policy"
+        "title": "Bilawal says KP governor's rule could end if opposition engages with Centre on counterterrorism",
+        "link": "https://www.dawn.com/news/2038032/bilawal-says-kp-governors-rule-could-end-if-opposition-engages-with-centre-on-counterterrorism"
+      },
+      {
+        "title": "Two moments of madness cost Sri Lanka as Pakistan win tri-series opener after Salman Ali Agha century",
+        "link": "https://www.dawn.com/news/2038011/two-moments-of-madness-cost-sri-lanka-as-pakistan-win-tri-series-opener-after-salman-ali-agha-century"
+      },
+      {
+        "title": "'Was not sure I'll make it ​out alive': Captain of flydubai flight to Tel Aviv recalls blocking axe blows from co-pilot",
+        "link": "https://www.dawn.com/news/2038055/was-not-sure-ill-make-it-out-alive-captain-of-flydubai-flight-to-tel-aviv-recalls-blocking-axe-blows-from-co-pilot"
       },
       {
         "title": "Cairo vows support for Riyadh as 2 Saudi officers killed in helicopter crash near Yemen",
@@ -80,14 +88,6 @@
       {
         "title": "First Pakistani astronaut to undertake space mission from China on Nov 25: Ahsan Iqbal",
         "link": "https://www.dawn.com/news/2038022/first-pakistani-astronaut-to-undertake-space-mission-from-china-on-nov-25-ahsan-iqbal"
-      },
-      {
-        "title": "Trump endorses Netanyahu in Israeli election",
-        "link": "https://www.dawn.com/news/2038051/trump-endorses-netanyahu-in-israeli-election"
-      },
-      {
-        "title": "'Like we had a war': Over 1,800 arrested as France counts cost of violent protests",
-        "link": "https://www.dawn.com/news/2038042/like-we-had-a-war-over-1800-arrested-as-france-counts-cost-of-violent-protests"
       }
     ],
     "APNews": [],
@@ -97,7 +97,7 @@
         "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
       },
       {
-        "title": "This French City Was Rarely Linked With Unrest. Then Arsonists Attacked.",
+        "title": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
         "link": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html"
       },
       {
@@ -115,68 +115,68 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Houthi strike injures six in southern Saudi Arabia",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-strike-injures-six-southern-saudi-arabia"
+        "title": "Egyptian, Saudi foreign ministers discuss regional de-escalation",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/egyptian-saudi-foreign-ministers-discuss-regional-de-escalation"
       },
       {
-        "title": "UAE vice president discusses regional developments with Saudi minister in Abu Dhabi, WAM reports",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-vice-president-discusses-regional-developments-saudi-minister-abu"
+        "title": "Russia's Lavrov to visit Tehran on Monday, Iran says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russias-lavrov-visit-tehran-monday-iran-says"
       },
       {
         "title": "Trump gives Netanyahu ‘complete and total endorsement’ ahead of Israeli election",
-        "link": "https://www.middleeasteye.net/news/trump-gives-netanyahu-complete-and-total-endorsement-ahead-israeli-election"
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-gives-netanyahu-complete-and-total-endorsement-ahead-israeli"
       },
       {
-        "title": "Saudi chopper pilots killed as landmark tower closes offices amid Houthi fighting",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-chopper-pilots-killed-landmark-tower-closes-offices-amid-houthi"
+        "title": "Houthis target Yemen’s Marib with missiles",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-target-yemens-marib-missiles"
       },
       {
-        "title": "Netanyahu thanks Trump for 'tremendous support' before Israel elections",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-thanks-trump-tremendous-support-israel-elections"
+        "title": "Houthi strike injures six in southern Saudi Arabia",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-strike-injures-six-southern-saudi-arabia"
       }
     ],
     "GeoTV": [
       {
-        "title": "Zara and Mike's future with Waleses predicted by King's former butler on birthday",
-        "link": "https://www.geo.tv/latest/687150-zara-and-mikes-future-with-waleses-predicted-by-kings-former-butler-on-birthday"
+        "title": "Dua Lipa fights back as Samsung tries to dismiss $15 million lawsuit",
+        "link": "https://www.geo.tv/latest/687173-dua-lipa-fights-back-as-samsung-tries-to-dismiss-15-million-lawsuit"
       },
       {
-        "title": "Ellen DeGeneres to make TV comeback after four years away?",
-        "link": "https://www.geo.tv/latest/687158-ellen-degeneres-to-make-tv-comeback-after-four-years-away-from-spotlight"
+        "title": "Indian actor Tiger Shroff escapes unhurt after shots fired at car in Mumbai",
+        "link": "https://www.geo.tv/latest/687169-indian-actor-tiger-shroff-escapes-unhurt-after-shots-fired-at-car-in-mumbai"
       },
       {
-        "title": "Britney Spears slams copycat artists who say she's 'history': 'I'M PROPHECY'",
-        "link": "https://www.geo.tv/latest/687157-britney-spears-slams-copycat-artists-who-say-shes-history-im-prophecy"
+        "title": "KP governor's rule, emergency unlikely to end in 90 or 180 days: Vawda",
+        "link": "https://www.geo.tv/latest/687168-kp-governors-rule-emergency-unlikely-to-end-in-90-or-180-days-vawda"
       },
       {
-        "title": "Charli XCX embraces her ‘Brat era' as she parties in LA",
-        "link": "https://www.geo.tv/latest/687152-charli-xcx-embraces-her-brat-era-as-she-parties-in-la"
+        "title": "BLACKPINK Rosé, Connor Storrie dance to Taylor Swift's hit song",
+        "link": "https://www.geo.tv/latest/687167-blackpink-ros-connor-storrie-dance-to-taylor-swifts-hit-song"
       },
       {
-        "title": "PM stresses equal opportunities in education to realise Quaid's vision",
-        "link": "https://www.geo.tv/latest/687151-pm-stresses-equal-opportunities-in-education-to-realise-quaids-vision"
+        "title": "Who will Jenna Dewan dance with after Val Chmerkovskiy's 'DWTS' suspension?",
+        "link": "https://www.geo.tv/latest/687166-who-will-jenna-dewan-dance-with-after-val-chmerkovskiys-dwts-suspension"
       }
     ],
     "NDTV": [
-      {
-        "title": "Gunshot Video Emerges After Tiger Shroff Assassination Attempt In Mumbai",
-        "link": "https://www.ndtv.com/india-news/tiger-shot-firing-salman-khan-lawrence-bishnoi-gunshot-video-emerges-after-tiger-shroff-assassination-attempt-in-mumbai-12203458#publisher=newsstand"
-      },
       {
         "title": "Tiger Shroff Attacked 2 Years After Baba Siddique Murder, Both Over 'Salman Khan Link'",
         "link": "https://www.ndtv.com/india-news/tiger-shroff-attack-2-years-after-baba-siddique-murder-both-by-lawrence-bishnoi-gang-over-salman-khan-connection-12203465#publisher=newsstand"
       },
       {
-        "title": "Tiger Shroff Assassination Bid Updates: Tiger Shroff Safe, Driver Shot In Chest After Firing In Mumbai",
-        "link": "https://www.ndtv.com/india-news/tiger-shroff-assassination-bid-updates-lawrence-bishnoi-gang-salman-khan-juhu-mumbai-12203309#publisher=newsstand"
+        "title": "5 Years On, Indira Gandhi Centre For Arts Still Awaits Permanent Home",
+        "link": "https://www.ndtv.com/india-news/5-years-on-indira-gandhi-centre-for-arts-still-awaits-permanent-home-12203788#publisher=newsstand"
       },
       {
-        "title": "Lawrence Bishnoi Gang's \"Salman Khan\" Note After Firing At Tiger Shroff",
-        "link": "https://www.ndtv.com/india-news/in-tiger-shroff-firing-incident-bishnoi-gangs-salman-khan-mention-12203288#publisher=newsstand"
+        "title": "Did Shooter's Jammed Gun Save Tiger Shroff's Life? New Videos Emerge",
+        "link": "https://www.ndtv.com/india-news/did-jammed-gun-save-tiger-shroffs-life-new-videos-emerge-from-assassination-bid-by-lawrence-bishnoi-gang-over-salman-khan-connection-12203716#publisher=newsstand"
       },
       {
-        "title": "3 Shooters On Bike, Tiger Shroff Was Target: What We Know So Far",
-        "link": "https://www.ndtv.com/india-news/shooters-came-on-bike-tiger-shroff-was-target-what-we-know-so-far-12203352#publisher=newsstand"
+        "title": "\"Shouldn't Have Taken Place\": Omar Abdullah On Attack On Srinagar-Bound Bus",
+        "link": "https://www.ndtv.com/india-news/shouldnt-have-taken-place-omar-abdullah-on-attack-on-srinagar-bound-bus-12203747#publisher=newsstand"
+      },
+      {
+        "title": "Assam Police To Challenge High Court Relief To 2 Accused In Zubeen Garg Death Case",
+        "link": "https://www.ndtv.com/india-news/assam-police-to-challenge-high-court-relief-to-2-accused-in-zubeen-garg-death-case-12203686#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-18 16:50 UTC"
+  "last_updated": "2026-10-18 19:02 UTC"
 }
