@@ -1,9 +1,24 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "BBC",
+      "title": "Urgent plan needed to end 'corridor care' for children, health secretary says",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: Leeds United vs Manchester United – Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+        "title": "Urgent plan needed to end 'corridor care' for children, health secretary says",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
         "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -11,38 +26,34 @@
         "link": "https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "More NHS staff sacked over attacks victims' records",
-        "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Deaths confirmed in major fire at Canada military base",
+        "title": "Several dead or injured in major fire at Canada military base",
         "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "European diplomats attacked by Israeli settlers in West Bank",
-        "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "St Petersburg under attack from Ukrainian drone swarm",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss"
+        "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+        "link": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss"
       },
       {
-        "title": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
-        "link": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss"
+        "title": "LIVE: Leeds United vs Manchester United – Premier League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss"
       },
       {
-        "title": "At least 19 dead in stampede at Kolkata Hindu festival",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss"
+        "title": "Haaland’s record scoring spree helps Man City to seventh Premier League win",
+        "link": "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss"
       },
       {
-        "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
-        "link": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss"
+        "title": "Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’",
+        "link": "https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss"
       },
       {
-        "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss"
+        "title": "‘No Kings’ protests spread across the US ahead of midterm elections",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,24 +81,24 @@
     ],
     "Dawn": [
       {
-        "title": "Egypt ‘ready to defend’ Saudi Arabia against Houthis",
-        "link": "https://www.dawn.com/news/2037985/egypt-ready-to-defend-saudi-arabia-against-houthis"
+        "title": "8 India-sponsored terrorists killed in Quetta, Khuzdar, Nushki districts: ISPR",
+        "link": "https://www.dawn.com/news/2038019/8-india-sponsored-terrorists-killed-in-quetta-khuzdar-nushki-districts-ispr"
       },
       {
-        "title": "Govt moves to curb LPG hoarding ahead of winter",
-        "link": "https://www.dawn.com/news/2037906/govt-moves-to-curb-lpg-hoarding-ahead-of-winter"
-      },
-      {
-        "title": "Pakistan suspends Iran trade corridors over 'security, smuggling concerns'",
-        "link": "https://www.dawn.com/news/2037865/pakistan-suspends-iran-trade-corridors-over-security-smuggling-concerns"
-      },
-      {
-        "title": "Trump paused Russia sanctions to 'analyse' impact on global economy: Rubio",
-        "link": "https://www.dawn.com/news/2038002/trump-paused-russia-sanctions-to-analyse-impact-on-global-economy-rubio"
+        "title": "Saudi-led coalition says 2 pilots killed in helicopter crash near Yemen",
+        "link": "https://www.dawn.com/news/2038013/saudi-led-coalition-says-2-pilots-killed-in-helicopter-crash-near-yemen"
       },
       {
         "title": "One in three adults in Pakistan lives with psychological disorder: study",
         "link": "https://www.dawn.com/news/2037942/one-in-three-adults-in-pakistan-lives-with-psychological-disorder-study"
+      },
+      {
+        "title": "Saad Baig handed debut as Sri Lanka win toss, bowl first in ODI tri-series opener against Pakistan",
+        "link": "https://www.dawn.com/news/2038011/saad-baig-handed-debut-as-sri-lanka-win-toss-bowl-first-in-odi-tri-series-opener-against-pakistan"
+      },
+      {
+        "title": "'Serious incident' at Canada base causes deaths, sparks fire: govt",
+        "link": "https://www.dawn.com/news/2037999/serious-incident-at-canada-base-causes-deaths-sparks-fire-govt"
       }
     ],
     "APNews": [],
@@ -105,81 +116,89 @@
         "link": "https://www.nytimes.com/2026/10/17/us/politics/graham-trump-russia-sanctions-law.html"
       },
       {
-        "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
-        "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html"
+        "title": "France in Shock After Protests Devolve Into Riots",
+        "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
       },
       {
-        "title": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
-        "link": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html"
+        "title": "Why Are There Protests in France?",
+        "link": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Tanker attacked by people on skiff off Yemen, UKMTO says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-attacked-people-skiff-yemen-ukmto-says"
+        "title": "Egyptian parliament to discuss defensive aid to Saudi Arabia",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/egyptian-parliament-discuss-defensive-aid-saudi-arabia"
       },
       {
-        "title": "Houthis release 159 people under ICRC watch",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-release-159-people-under-amnesty-under-icrc-watch"
+        "title": "Israeli attack kills Palestinian man in Gaza's Khan Younis",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-kills-palestinian-khan-younis"
       },
       {
-        "title": "Saudi helicopter crashes in Najran, killing two crew members",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-helicopter-crashes-due-technical-malfunction-coalition-spokesman"
+        "title": "The wedding couple who broke the 'Palestine hate march' myth",
+        "link": "https://www.middleeasteye.net/opinion/wedding-couple-who-broke-palestine-hate-march-myth"
       },
       {
-        "title": "Heidi Levine undergoes surgery on 'nearly detached' finger, daughter says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/heidi-levine-undergoes-surgery-nearly-detached-finger-daughter-says"
+        "title": "​​Libya: Racism and ‘resettlement’ conspiracies fuel fear among Tripoli’s migrants",
+        "link": "https://www.middleeasteye.net/news/libya-racism-and-resettlement-conspiracies-fuel-fear-among-tripolis-sub-saharan-migrants"
       },
       {
-        "title": "Israeli military sat on distress calls about settler attacks for two hours, report says",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-sat-distress-calls-about-settler-attacks-two-hours"
+        "title": "Israeli forces advance into Syria's Quneitra province, Al Jazeera reports",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-advance-syrias-quneitra-province-al-jazeera-reports"
       }
     ],
     "GeoTV": [
       {
-        "title": "Meghan Markle's pal finally reveals truth behind ‘lucrative' acting return",
-        "link": "https://www.geo.tv/latest/687086-meghan-markles-pal-finally-reveals-truth-behind-lucrative-acting-return"
+        "title": "Jacob Elordi takes boyfriend duties seriously at Academy Museum Gala",
+        "link": "https://www.geo.tv/latest/687126-jacob-elordi-takes-boyfriend-duties-seriously-at-academy-museum-gala"
       },
       {
-        "title": "In the bonfire of our emergencies",
-        "link": "https://www.geo.tv/latest/687082-in-the-bonfire-of-our-emergencies"
+        "title": "Pakistan-Iran border temporarily closed over security, smuggling concerns, clarifies official",
+        "link": "https://www.geo.tv/latest/687116-pakistan-iran-border-temporarily-closed-over-security-smuggling-concerns-clarifies-official"
       },
       {
-        "title": "Kolkata festival stampede kills 17, injures dozens; authorities fear death toll could rise",
-        "link": "https://www.geo.tv/latest/687081-kolkata-festival-stampede-kills-17-injures-dozens-as-authorities-fear-death-toll-could-rise"
+        "title": "Charlotte Crosby's fiance breaks silence after star undergoes surgery",
+        "link": "https://www.geo.tv/latest/687124-charlottes-fiance-jake-ankers"
       },
       {
-        "title": "Jenna Ortega turns heads in Rome as new film faces harsh reviews",
-        "link": "https://www.geo.tv/latest/687080-jenna-ortega-turns-heads-in-rome-as-new-film-faces-harsh-reviews"
+        "title": "Blake Lively, Ryan Reynolds ‘fuming' over Justin Baldoni's career milestone",
+        "link": "https://www.geo.tv/latest/687127-blake-lively-ryan-reynolds-fuming-over-justin-baldonis-career-milestone"
       },
       {
-        "title": "US envoy to Israel rejects report accusing aide of suppressing cables to shield Netanyahu",
-        "link": "https://www.geo.tv/latest/687079-us-envoy-to-israel-rejects-report-accusing-aide-of-suppressing-cables-to-shield-netanyahu"
+        "title": "Meghan Markle much-anticipated ‘Suits' reunion gets greenlight: Details",
+        "link": "https://www.geo.tv/latest/687120-meghan-markle-much-anticipated-suits-reunion-gets-greenlight-details"
       }
     ],
     "NDTV": [
       {
-        "title": "\"Let's Go To France\": Trump Mocks Nationwide Protests, Violence",
-        "link": "https://www.ndtv.com/world-news/france-violence-lets-go-to-france-us-president-donald-trump-mocks-about-nationwide-protests-violence-12201392#publisher=newsstand"
+        "title": "'Nitish Kumar Is Among Bihar's 10 Best Leaders': Prashant Kishor",
+        "link": "https://www.ndtv.com/india-news/nitish-kumar-is-among-bihars-10-best-leaders-prashant-kishor-12202339#publisher=newsstand"
       },
       {
-        "title": "Organisers Among 7 Arrested For Kolkata Durga Puja Stampede That Killed 19",
-        "link": "https://www.ndtv.com/india-news/kolkata-durga-puja-girish-park-stampede-case-7-including-organisers-arrested-in-kolkata-durga-puja-stampede-that-killed-19-12201380#publisher=newsstand"
+        "title": "Iran Gets New Defence Minister 8 Months After Predecessor Killed In US Strikes",
+        "link": "https://www.ndtv.com/world-news/iran-gets-new-defence-minister-mehrdad-akhlaghi-8-months-after-predecessor-killed-in-us-strikes-12202288#publisher=newsstand"
       },
       {
-        "title": "Canada Reports Deaths After 'Serious Incident' Triggers Fire At Military Base",
-        "link": "https://www.ndtv.com/world-news/canada-reports-deaths-after-serious-incident-triggers-fire-at-alberta-military-base-12201259#publisher=newsstand"
+        "title": "BJP Urges People To Wear Black To Protest Against AAP Over Punjab Activist's Murder",
+        "link": "https://www.ndtv.com/india-news/parvinder-singh-jhota-bjp-urges-people-to-wear-black-to-protest-against-aap-over-punjab-anti-drug-activists-murder-12202279#publisher=newsstand"
       },
       {
-        "title": "Darkness, Rush, And An Announcement: What Led To Deadly Kolkata Stampede",
-        "link": "https://www.ndtv.com/india-news/chorebagan-kolkata-stampede-kolkata-durga-puja-stampede-what-we-know-so-far-12200413#publisher=newsstand"
+        "title": "AdaniConneX-Google Vizag Data Centres To Use Air Cooling, Cut Water Use",
+        "link": "https://www.ndtv.com/india-news/adaniconnex-google-vizag-data-centres-to-use-air-cooling-cut-water-use-12202169#publisher=newsstand"
       },
       {
-        "title": "'Hard For India To Move Away From Russian Energy': Team Trump On Waivers",
-        "link": "https://www.ndtv.com/world-news/team-trump-on-waivers-hard-for-india-to-move-away-from-russian-energy-says-marco-rubio-amid-ukraine-war-12201303#publisher=newsstand"
+        "title": "2 Pilots Killed As Technical Fault Crashes Helicopter Near Yemen Border",
+        "link": "https://www.ndtv.com/world-news/2-pilots-killed-as-technical-fault-crashes-helicopter-near-yemen-border-12202144#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
+        "link": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype"
+      },
+      {
+        "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
+        "link": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria"
+      },
       {
         "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
         "link": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch"
@@ -191,16 +210,8 @@
       {
         "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
         "link": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial"
-      },
-      {
-        "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-        "link": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr"
-      },
-      {
-        "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-        "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
       }
     ]
   },
-  "last_updated": "2026-10-18 05:10 UTC"
+  "last_updated": "2026-10-18 09:37 UTC"
 }
