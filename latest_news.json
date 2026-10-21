@@ -1,48 +1,59 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss"
+    },
+    {
+      "source": "AlJazeera",
+      "title": "Bayern Munich vs Arsenal LIVE: Champions League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-        "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Australian MP loses both legs after alleged car attack, husband says",
-        "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+        "title": "Google staff resign in backlash over its AI contracts with military",
+        "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
-        "link": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss"
+        "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+        "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
-        "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss"
+        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+        "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Teenage boy guilty of trying to murder girl, 15, in school",
-        "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss"
+        "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
+        "link": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Cost of living protests aren’t just happening in Europe",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss"
+        "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+        "link": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss"
       },
       {
-        "title": "Kvaratskhelia, Dembele and Marquinhos out injured after PSG’s win",
-        "link": "https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss"
+        "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss"
       },
       {
-        "title": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
-        "link": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss"
+        "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss"
       },
       {
-        "title": "UK approves development of Jackdaw gasfield in North Sea",
-        "link": "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss"
+        "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss"
       },
       {
-        "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
-        "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss"
+        "title": "Bayern Munich vs Arsenal LIVE: Champions League",
+        "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -74,35 +85,35 @@
         "link": "https://www.dawn.com/news/2038774/pakistan-qatar-turkiye-and-indonesia-sign-badr-defence-cooperation-pact"
       },
       {
+        "title": "Suspect should not be deprived of bail in case of 'reasonable doubt' over involvement, SC rules",
+        "link": "https://www.dawn.com/news/2038799/suspect-should-not-be-deprived-of-bail-in-case-of-reasonable-doubt-over-involvement-sc-rules"
+      },
+      {
+        "title": "Government websites go dark after AI-discovered flaw sparks security scramble",
+        "link": "https://www.dawn.com/news/2038808/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble"
+      },
+      {
         "title": "PM Shehbaz vows to strengthen Maldives ties for 'all time to come'; 20 MoUs signed",
         "link": "https://www.dawn.com/news/2038736/pm-shehbaz-vows-to-strengthen-maldives-ties-for-all-time-to-come-20-mous-signed"
       },
       {
-        "title": "10 killed, 44 injured as passenger bus overturns on highway in Punjab's Rajanpur",
-        "link": "https://www.dawn.com/news/2038754/10-killed-44-injured-as-passenger-bus-overturns-on-highway-in-punjabs-rajanpur"
-      },
-      {
-        "title": "Man accused of running over Multan teenager killed in alleged CCD encounter",
-        "link": "https://www.dawn.com/news/2038727/man-accused-of-running-over-multan-teenager-killed-in-alleged-ccd-encounter"
-      },
-      {
-        "title": "Macron takes aim at Trump for using France riots for election gain",
-        "link": "https://www.dawn.com/news/2038773/macron-takes-aim-at-trump-for-using-france-riots-for-election-gain"
+        "title": "ATC appoints state counsel for Imaan, Hadi in security breach case",
+        "link": "https://www.dawn.com/news/2038776/atc-appoints-state-counsel-for-imaan-hadi-in-security-breach-case"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
+        "title": "In Trump’s World of International Diplomacy, Insults Are a One-Way Street",
+        "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html"
+      },
+      {
         "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
         "link": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
       },
       {
-        "title": "An American Teacher Went to Ukraine. Now He’s in a Russian Prison.",
-        "link": "https://www.nytimes.com/2025/02/09/world/europe/american-teacher-ukraine-russia-prison.html"
-      },
-      {
-        "title": "America’s Utility Bill Crisis, and Trump’s Approval Rating Hits a New Low",
-        "link": "https://www.nytimes.com/2026/10/21/podcasts/the-headlines/utility-bill-costs-trump-approval-rating.html"
+        "title": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
+        "link": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html"
       },
       {
         "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
@@ -115,71 +126,79 @@
     ],
     "MiddleEastEye": [
       {
-        "title": "Gaza’s breast cancer patients face a deadly wait for treatment amid Israel’s genocide",
-        "link": "https://www.middleeasteye.net/news/gazas-breast-cancer-patients-face-deadly-wait-treatment-amid-israels-genocide"
+        "title": "IRGC says Iran has missile capacity to target US navy vessels",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-iran-has-missile-capacity-target-us-navy-vessels"
       },
       {
-        "title": "Albania's Rama uses culture to artwash Israel's genocide and growing repression",
-        "link": "https://www.middleeasteye.net/opinion/albanias-government-uses-culture-artwash-israels-genocide-and-its-own-repression"
+        "title": "Pezeshkian says countries still working with Iran despite US sanctions",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-countries-still-working-iran-despite-us-sanctions"
       },
       {
-        "title": "Houthis strike Saudi-led coalition targets after saying kingdom killed eight fishermen",
-        "link": "https://www.middleeasteye.net/news/yemen-houthis-strikes-saudi-led-coalition-targets-kingdom-killed-fishermen"
+        "title": "Yemeni forces says it targeted Houthi fighters over 800 times in past 24 hours",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-says-it-targeted-houthi-fighters-over-800-times-past-24"
       },
       {
-        "title": "Turkish and Qatari defence ministers meet",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-and-qatari-defence-ministers-meet"
+        "title": "US congressional candidate Brad Lander arrested by Israeli army in occupied West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-congressional-candidate-brad-lander-arrested-israeli-army-occupied"
       },
       {
-        "title": "HSBC to review Islamic fund’s $38m investment in Palantir",
-        "link": "https://www.middleeasteye.net/news/hsbc-review-islamic-funds-38m-investment-palantir"
+        "title": "Turkey, Qatar, Pakistan and Indonesia forge ‘Badr’ deal to jointly produce weapons",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-qatar-pakistan-and-indonesia-forge-badr-deal-jointly-produce"
       }
     ],
     "GeoTV": [
       {
-        "title": "'10 Things I Hate About You' cast joins Julia Stiles for Heath Ledger tribute",
-        "link": "https://www.geo.tv/latest/687628-10-things-i-hate-about-you-cast-joins-julia-stiles-for-heath-ledger-tribute"
+        "title": "Israel's election may oust Netanyahu, but will it end aggression against other states?",
+        "link": "https://www.geo.tv/latest/687669-israels-election-may-oust-netanyahu-but-will-it-end-aggression-against-other-states"
       },
       {
-        "title": "Travis Kelce shares Taylor Swift's reaction to Jason's bizarre request",
-        "link": "https://www.geo.tv/latest/687621-travis-kelce-shares-taylor-swifts-reaction-to-jasons-bizarre-request"
+        "title": "Bella Hadid hints at mystery boyfriend after Aidan Banuelos breakup",
+        "link": "https://www.geo.tv/latest/687657-bella-hadid-hints-at-mystery-boyfriend-after-aidan-banuelos-breakup"
       },
       {
-        "title": "Pakistan, Turkiye, Qatar, and Indonesia sign defence cooperation accord",
-        "link": "https://www.geo.tv/latest/687624-pakistan-turkey-qatar-indonesia-sign-defence-cooperation-accord"
+        "title": "Prince William moved by Diane's haunting memory of little boy lost in village",
+        "link": "https://www.geo.tv/latest/687668-prince-william-moved-by-dianes-haunting-memory-of-little-boy-lost-in-village"
       },
       {
-        "title": "Mark Allen reveals he left mental health clinic after 10 weeks to complete in NI Open",
-        "link": "https://www.geo.tv/latest/687617-allen-reveals-he-left-mental-health-clinic-after-10-weeks-to-play-ni-open"
+        "title": "Student loan defaulters could see wages, benefits seized starting November",
+        "link": "https://www.geo.tv/latest/687667-student-loan-defaulters-could-see-wages-benefits-seized-starting-november"
       },
       {
-        "title": "King and Queen leave for Wales after important meeting at Castle",
-        "link": "https://www.geo.tv/latest/687622-king-and-queen-leave-for-wales-after-important-meeting-at-castle"
+        "title": "Palace shares update as King Charles wins big in Wales",
+        "link": "https://www.geo.tv/latest/687658-palace-shares-update-as-king-charles-wins-big-in-wales"
       }
     ],
     "NDTV": [
       {
-        "title": "Engineering Student Dies By Suicide In Mumbai Hostel, Had Messaged Doctor",
-        "link": "https://www.ndtv.com/india-news/mumbai-ict-student-suicide-engineering-student-dies-by-suicide-in-mumbai-hostel-had-messaged-doctor-12215437#publisher=newsstand"
+        "title": "Israel Had Planned To Bomb Iran In October, Stopped Because Of Trump: Report",
+        "link": "https://www.ndtv.com/world-news/israel-had-planned-to-bomb-iran-in-october-stopped-because-of-trump-report-12216972#publisher=newsstand"
       },
       {
-        "title": "Why Mumbai Cops Can't Get Hold Of Lawrence Bishnoi From Gujarat Jail: Centre's Order, Chhota Rajan Redux",
-        "link": "https://www.ndtv.com/india-news/why-mumbai-cops-cant-get-hold-of-lawrence-bishnoi-in-salman-khan-tiger-shroff-cases-from-gujarat-jail-centres-order-a-chhota-rajan-redux-12215265#publisher=newsstand"
+        "title": "E-Signature Services Not Affected: Government On eMudhra Web Security Certificates Row",
+        "link": "https://www.ndtv.com/india-news/e-signature-services-not-affected-government-on-emudhra-web-security-row-12216969#publisher=newsstand"
       },
       {
-        "title": "Opinion: Opinion | Bimol Akoijam Case, And Congress's Convenient Amnesia For Sexual Harassment",
-        "link": "https://www.ndtv.com/opinion/bimol-akoijam-case-and-congresss-convenient-amnesia-for-sexual-harassment-12215149#publisher=newsstand"
+        "title": "'Unacceptable, Stupid Comments': Macron Hits Back At Trump Over France Unrest",
+        "link": "https://www.ndtv.com/world-news/unacceptable-stupid-comments-emmanuel-macron-hits-back-at-donald-trump-over-france-unrest-12216941#publisher=newsstand"
+      },
+      {
+        "title": "Nestle, Zydus Wellness Get Notices Over Claims About Infant Nutrition Products, Complan",
+        "link": "https://www.ndtv.com/india-news/nan-excella-pro-stage-1-lactogen-pro-1-nestle-zydus-wellness-get-notices-over-claims-about-infant-nutrition-products-complan-12216797#publisher=newsstand"
       },
       {
         "title": "GRAP-1 Rules Explained: Limited Construction, Strict Rules For Cars In Delhi",
         "link": "https://www.ndtv.com/india-news/grap-1-rules-explained-limited-construction-strict-rules-for-cars-in-delhi-12214896#publisher=newsstand"
-      },
-      {
-        "title": "Pollution Curbs Under GRAP-1 Imposed In Delhi, Parking Charges To Be Doubled",
-        "link": "https://www.ndtv.com/india-news/delhi-air-quality-grap-1-pollution-curbs-under-grap-1-in-delhi-ncr-as-air-quality-drops-to-poor-12214729#publisher=newsstand"
       }
     ],
     "TheGuardian": [
+      {
+        "title": "Controversial US-backed vaccine trial in African newborns halted",
+        "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b"
+      },
+      {
+        "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+        "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida"
+      },
       {
         "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
         "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
@@ -191,16 +210,8 @@
       {
         "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
         "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan"
-      },
-      {
-        "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-        "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
-      },
-      {
-        "title": "Drone attack near market kills 80 in Sudan",
-        "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan"
       }
     ]
   },
-  "last_updated": "2026-10-21 12:28 UTC"
+  "last_updated": "2026-10-21 17:35 UTC"
 }
