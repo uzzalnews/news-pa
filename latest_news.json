@@ -1,23 +1,17 @@
 {
-  "breaking": [
-    {
-      "source": "NDTV",
-      "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Makes Landfall, Eastern States See Heavy Rainfall",
-      "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand"
-    }
-  ],
+  "breaking": [],
   "news": {
     "BBC": [
+      {
+        "title": "What could be in the Budget?",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
+      },
       {
         "title": "Watch: What happens now after close vote in Israeli election?",
         "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
-        "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+        "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say",
         "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss"
       },
       {
@@ -25,30 +19,30 @@
         "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Thick fog to create dangerous driving conditions for UK commuters",
-        "link": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&at_campaign=rss"
+        "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
+        "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Arab parties projected to win 18 seats in Israel parliamentary election",
-        "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss"
+        "title": "Why the US midterms matter even if you don’t live in America",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss"
       },
       {
-        "title": "Netanyahu, Eisenkot camps clash over Israeli election projections",
-        "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss"
+        "title": "Cyclone Arnab makes landfall in India’s Andhra Pradesh",
+        "link": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh?traffic_source=rss"
       },
       {
-        "title": "Israel’s Eisenkot says country voted for change",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss"
+        "title": "NBA: Portland Blazers prevail in battle of unbeatens against LA Lakers",
+        "link": "https://www.aljazeera.com/sports/2026/10/28/nba-portland-blazers-prevail-in-battle-of-unbeatens-against-la-lakers-celtics-spurs-knicks-pistons?traffic_source=rss"
       },
       {
-        "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss"
+        "title": "Where does Arsenal’s Fleetwood humiliation place in English cup shocks?",
+        "link": "https://www.aljazeera.com/sports/2026/10/28/where-does-arsenals-fleetwood-humiliation-rank-english-cup-shocks?traffic_source=rss"
       },
       {
-        "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-        "link": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss"
+        "title": "Elderly women and children survive Russian attack on Kharkiv",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -76,31 +70,35 @@
     ],
     "Dawn": [
       {
-        "title": "Govt cuts petrol price by Rs3.19 per litre, ups high-speed diesel rate by Rs2.25",
-        "link": "https://www.dawn.com/news/2040249/govt-cuts-petrol-price-by-rs319-per-litre-ups-high-speed-diesel-rate-by-rs225"
+        "title": "'Conscience does not permit': LHC's Justice Kayani resigns, cites executive's growing control over judiciary",
+        "link": "https://www.dawn.com/news/2040428/conscience-does-not-permit-lhcs-justice-kayani-resigns-cites-executives-growing-control-over-judiciary"
       },
       {
-        "title": "Justice Ayesha Malik challenges assumptions blaming women for 'inviting' rape",
-        "link": "https://www.dawn.com/news/2040251/justice-ayesha-malik-challenges-assumptions-blaming-women-for-inviting-rape"
+        "title": "9 Indian-sponsored terrorists killed in Balochistan IBOs: ISPR",
+        "link": "https://www.dawn.com/news/2040427/9-indian-sponsored-terrorists-killed-in-balochistan-ibos-ispr"
       },
       {
-        "title": "Netanyahu scrambles for votes as Israelis turn out in record numbers",
-        "link": "https://www.dawn.com/news/2040163/netanyahu-scrambles-for-votes-as-israelis-turn-out-in-record-numbers"
+        "title": "Lahore again ranks world’s most polluted major city as smog worsens",
+        "link": "https://www.dawn.com/news/2040419/lahore-again-ranks-worlds-most-polluted-major-city-as-smog-worsens"
       },
       {
-        "title": "Govt to end slab system punishing power consumers crossing 200-unit threshold",
-        "link": "https://www.dawn.com/news/2040250/govt-to-end-slab-system-punishing-power-consumers-crossing-200-unit-threshold"
+        "title": "Netanyahu, rival Eisenkot both vow to form government after inconclusive Israeli election",
+        "link": "https://www.dawn.com/news/2040402/netanyahu-rival-eisenkot-both-vow-to-form-government-after-inconclusive-israeli-election"
       },
       {
-        "title": "Brazil's Lula turns 81, vows to work '24 hours a day'",
-        "link": "https://www.dawn.com/news/2040257/brazils-lula-turns-81-vows-to-work-24-hours-a-day"
+        "title": "‘Have no illusions’: Kundi tells Afghan Taliban Pakistan will not tolerate attacks after Angoor Adda firing",
+        "link": "https://www.dawn.com/news/2040416/have-no-illusions-kundi-tells-afghan-taliban-pakistan-will-not-tolerate-attacks-after-angoor-adda-firing"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "What to Expect Now That Polls Are Closed in Israel",
-        "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html"
+        "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
+        "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html"
+      },
+      {
+        "title": "Arab Parties’ Strong Showing May Bring Role in Formation of Israel’s Next Government",
+        "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html"
       },
       {
         "title": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
@@ -113,76 +111,72 @@
       {
         "title": "Justice Dept. Steps Up Moves on Comey and Others as Midterm Elections Near",
         "link": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html"
-      },
-      {
-        "title": "White House Has Tight Grip Over FBI in Pursuing Trump Targets, Agent Says",
-        "link": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "At least 94,000 votes counted in Israeli elections",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/least-94000-votes-counted-israeli-elections"
+        "title": "​​​​Morocco: Ten years after the Rif uprising, its leaders are still jailed and its demands unmet",
+        "link": "https://www.middleeasteye.net/news/morocco-ten-years-after-rif-uprising-its-leaders-are-still-jailed-and-its-demands-unmet"
       },
       {
-        "title": "Netanyahu and opposition blocs fall short as Palestinian parties projected to win record seats",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-and-opposition-blocs-fall-short-palestinian-parties-projected"
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-653"
       },
       {
-        "title": "Netanyahu's bloc overtakes Eisenkot's, as Palestinian-led parties rise to 19 seats",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-bloc-overtakes-eisenkots-palestinian-led-parties-rise-19"
+        "title": "More than 66 percent of ballots counted, Netanyahu's bloc at 56 seats",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-66-percent-ballots-counted-netanyahus-bloc-56-seats"
       },
       {
-        "title": "Eisenkot says Israel has chosen change, wants to form government",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-says-israel-has-chosen-change-wants-form-government"
+        "title": "Netanyahu says his bloc will win 'decisive majority'",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-his-bloc-will-win-decisive-majority"
       },
       {
-        "title": "Official vote count under way in Israeli election",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/official-vote-count-under-way-israeli-election"
+        "title": "Netanyahu's bloc leads at 55 seats, but short of majority vote",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-bloc-leads-55-seats-short-majority-vote"
       }
     ],
     "GeoTV": [
       {
-        "title": "Val Chmerkovskiy tells 'Dancing with the Stars' costar Jenna Dewan he's sorry",
-        "link": "https://www.geo.tv/latest/688603-val-chmerkovskiy-tells-dancing-with-the-stars-costar-jenna-dewan-hes-sorry"
+        "title": "Prince Harry, Meghan Markle hit with shocking Netflix blow",
+        "link": "https://www.geo.tv/latest/688656-prince-harry-meghan-markle-hit-with-shocking-netflix-blow"
       },
       {
-        "title": "US costs of Iran war rise to over $47 billion: Pentagon data",
-        "link": "https://www.geo.tv/latest/688605-us-costs-of-iran-war-rise-to-over-47-billion-pentagon-data"
+        "title": "'Emmerdale' Kevin Mathurin admits stress and anger took toll before heart attack",
+        "link": "https://www.geo.tv/latest/688658-emmerdale-kevin-mathurin-admits-stress-and-anger-took-toll-before-heart-attack"
       },
       {
-        "title": "Karachi gunpoint harassment video prompts Sindh minister to seek immediate report",
-        "link": "https://www.geo.tv/latest/688601-karachi-gunpoint-harassment-video-prompts-sindh-minister-to-seek-police-report"
+        "title": "Meghan Markle Australia return lands in trouble: Here's why",
+        "link": "https://www.geo.tv/latest/688649-meghan-markle-australia-return-lands-in-trouble-heres-why"
       },
       {
-        "title": "Israel rejects UN commission's findings on Gaza genocide as 'misinformation campaign'",
-        "link": "https://www.geo.tv/latest/688600-un-inquiry-says-israel-kept-committing-genocide-in-gaza-after-truce"
+        "title": "Savannah Chrisley fries back at critics after pregnancy reveal",
+        "link": "https://www.geo.tv/latest/688652-savannah-chrisley-fries-back-at-critics-after-pregnancy-reveal"
       },
       {
-        "title": "Kim Kardashian confirms Kanye West likes to give 'makeovers' to partners",
-        "link": "https://www.geo.tv/latest/688599-kim-kardashian-confirms-kanye-west-likes-to-give-makeovers-to-partners"
+        "title": "Security forces kill nine India-sponsored terrorists in Balochistan IBOs: ISPR",
+        "link": "https://www.geo.tv/latest/688650-security-forces-kill-nine-india-sponsored-terrorists-in-balochistan-ibos-ispr"
       }
     ],
     "NDTV": [
       {
-        "title": "No Clear Winner In Israel With Netanyahu Fighting For A Tie, Exit Polls Show",
-        "link": "https://www.ndtv.com/world-news/no-clear-winner-in-israel-with-netanyahu-fighting-for-a-tie-exit-polls-show-12245942#publisher=newsstand"
+        "title": "'It's Done, Bro': BJP Jabs DK Shivakumar After Congress Loses Karnataka Legislative Council Polls",
+        "link": "https://www.ndtv.com/india-news/bjp-jabs-dk-shivakumar-after-congress-loses-karnataka-legislative-council-mlc-polls-2026-its-done-bro-12247265#publisher=newsstand"
       },
       {
-        "title": "Drug Trafficker's Properties Worth Over Rs 1 Crore Seized In Himachal",
-        "link": "https://www.ndtv.com/india-news/properties-worth-over-rs-1-crore-of-convict-drug-peddler-seized-in-himachal-pradesh-12245990#publisher=newsstand"
+        "title": "\"False, Baseless\": Ladakh Rebuts Sonam Wangchuk's \"Bars In Every Street\" Claim",
+        "link": "https://www.ndtv.com/india-news/ladakh-rebuts-sonam-wangchuks-bars-in-every-street-claim-false-baseless-12247278#publisher=newsstand"
       },
       {
-        "title": "Cyclone Arnab LIVE Updates: Cyclone Arnab Makes Landfall, Eastern States See Heavy Rainfall",
-        "link": "https://www.ndtv.com/india-news/cyclone-arnab-landfall-live-updates-landfall-tracker-imd-weather-forecast-heavy-rain-alert-andhra-pradesh-odisha-live-news-12245206#publisher=newsstand"
+        "title": "Inside Nitin Nabin's Strategy To Counter INDIA Bloc's 'Vote Theft' Claim",
+        "link": "https://www.ndtv.com/india-news/inside-nitin-nabins-strategy-to-counter-india-blocs-vote-theft-claim-12247257#publisher=newsstand"
       },
       {
-        "title": "Sheikh Hasina Accuses Bangladesh Government Of Conducting \"Mass Arrests\", \"Torture\"",
-        "link": "https://www.ndtv.com/world-news/sheikh-hasina-accuses-bangladesh-government-of-conducting-mass-arrests-torture-12245947#publisher=newsstand"
-      },
-      {
-        "title": "Israel Election Results Live: Israel Exit Polls Signal Setback For Netanyahu, Coalition Talks Loom",
+        "title": "Israel Election Results Live: Netanyahu Bloc Ahead With 55 Seats After Half Of Votes Counted",
         "link": "https://www.ndtv.com/world-news/israel-election-results-live-updates-exit-polls-netanyahu-opposition-knesset-gadi-eisenkot-trump-12245676#publisher=newsstand"
+      },
+      {
+        "title": "Cheesesteak, Pepsi: Florida Man's Unusual Demand For Murder Confession",
+        "link": "https://www.ndtv.com/world-news/cheesesteak-pepsi-florida-mans-unusual-quid-pro-quo-for-murder-confession-12247050#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -208,5 +202,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-28 02:11 UTC"
+  "last_updated": "2026-10-28 08:35 UTC"
 }
