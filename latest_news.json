@@ -1,5 +1,11 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "AlJazeera",
+      "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss"
+    }
+  ],
   "news": {
     "BBC": [
       {
@@ -7,42 +13,42 @@
         "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-        "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss"
+        "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+        "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Former Hamas bodyguard guilty of UK knife attack",
-        "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
-        "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss"
+        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
         "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "No emails, no problem? Workers joke about Microsoft outage",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss"
+        "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
+        "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss"
       },
       {
-        "title": "The fight over Canadian steelworker jobs",
-        "link": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss"
+        "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss"
       },
       {
-        "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-        "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss"
+        "title": "FAA grounds US flights nationwide after ‘communication issue’",
+        "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss"
       },
       {
-        "title": "Jerusalem Daily: Baby dies from cold in Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss"
+        "title": "Pope Leo cheered on return to Peru city where he served as bishop",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss"
       },
       {
-        "title": "Sixth victim confirmed in DC condo-related shooting in US, police say",
-        "link": "https://www.aljazeera.com/news/2026/11/13/sixth-victim-found-in-dc-condo-related-shooting-police-confirm?traffic_source=rss"
+        "title": "Qatar and Turkiye send message of deterrence with new defence pact",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,12 +76,12 @@
     ],
     "Dawn": [
       {
-        "title": "President House says matters related to provinces did not come under discussion during Zardari, Naqvi meeting",
-        "link": "https://www.dawn.com/news/2044319/president-house-says-matters-related-to-provinces-did-not-come-under-discussion-during-zardari-naqvi-meeting"
-      },
-      {
         "title": "Petrol price cut by by Rs2; high-speed diesel price remains unchanged",
         "link": "https://www.dawn.com/news/2044318/petrol-price-cut-by-by-rs2-high-speed-diesel-price-remains-unchanged"
+      },
+      {
+        "title": "President House says matters related to provinces did not come under discussion during Zardari, Naqvi meeting",
+        "link": "https://www.dawn.com/news/2044319/president-house-says-matters-related-to-provinces-did-not-come-under-discussion-during-zardari-naqvi-meeting"
       },
       {
         "title": "Turkiye, Qatar sign defence agreement: Turkish presidency",
@@ -93,90 +99,90 @@
     "APNews": [],
     "NYTimes": [
       {
+        "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
+        "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html"
+      },
+      {
+        "title": "A Nationwide Ground Stop",
+        "link": "https://www.nytimes.com/2026/11/13/briefing/a-nationwide-ground-stop.html"
+      },
+      {
+        "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+        "link": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html"
+      },
+      {
+        "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+        "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
+      },
+      {
         "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
         "link": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html"
-      },
-      {
-        "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
-        "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html"
-      },
-      {
-        "title": "Microsoft’s Global Outage and Fixes: What We Know",
-        "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
-      },
-      {
-        "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
-        "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html"
-      },
-      {
-        "title": "Wall Street Braces for Anthropic’s Spending",
-        "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Lebanese army says it seized arms depot in Beirut's southern suburbs",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-says-it-seized-arms-depot-beiruts-southern-suburbs"
+        "title": "Six Palestinians killed in Israeli strikes across Gaza",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-attacks-across-gaza"
       },
       {
-        "title": "Trump says Saudi Arabia is 'disintegrating'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-saudi-arabia-disintegrating"
+        "title": "US responds to suspected drone activity over UK air base used in Iran strikes",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-responds-suspected-drone-activity-over-uk-air-base-used-iran-strikes"
       },
       {
-        "title": "Trump says Saudi Arabia is 'disintegrating'",
-        "link": "https://www.middleeasteye.net/news/trump-says-saudi-arabia-disintegrating"
+        "title": "Trump extends shipping law waiver for 90 days amid Iran war fuel price rise",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-extends-shipping-law-waiver-90-days-amid-iran-war-fuel-price-rise"
       },
       {
-        "title": "Fergie Chambers tells Spanish court Gaza is 'moral question of our time'",
-        "link": "https://www.middleeasteye.net/news/fergie-chambers-tells-spanish-court-gaza-moral-question-our-time"
+        "title": "Activists demand end to transfer of military materials to Israel through New York's JFK Airport",
+        "link": "https://www.middleeasteye.net/news/activists-demand-end-transfer-military-materials-israel-through-new-yorks-jfk-airport"
       },
       {
-        "title": "UN rights chief demands Houthis return body of staff member who died in custody",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-rights-chief-demands-houthis-return-body-staff-member-who-died"
+        "title": "Two tankers hit sea mines in Hormuz: IRGC",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-tankers-hit-sea-mines-hormuz-irgc"
       }
     ],
     "GeoTV": [
       {
-        "title": "Josh O'Connor withdraws from James Bond role amid close contention",
-        "link": "https://www.geo.tv/latest/691000-josh-oconnor-withdraws-from-james-bond-role-amid-close-contention"
+        "title": "Buckingham Palace shares King's surreal return to beloved royal destination",
+        "link": "https://www.geo.tv/latest/691018-buckingham-palace-shares-kings-surreal-return-to-beloved-royal-destination"
       },
       {
-        "title": "Jensen Huang's $960,000 signature look: Untold story of Nvidia founder's leather jacket",
-        "link": "https://www.geo.tv/latest/691001-jensen-huangs-960000-signature-look-untold-story-of-nvidia-founders-leather-jacket"
+        "title": "Christopher Nolan talks to Robert Downey Jr about 'The Odyssey'",
+        "link": "https://www.geo.tv/latest/691027-christopher-nolan-talks-to-robert-downey-jr-about-the-odyssey"
       },
       {
-        "title": "Trump eyes another military campaign before leaving office: What's his next target?",
-        "link": "https://www.geo.tv/latest/690998-trump-eyes-another-military-campaign-before-leaving-office-whats-his-next-target"
+        "title": "US grounds all departing flights countrywide over air traffic communications glitch",
+        "link": "https://www.geo.tv/latest/691026-us-grounds-all-departing-flights-nationwide-over-air-traffic-communications-outage"
       },
       {
-        "title": "Avril Lavigne surprises fans by revealing birth of 1st child with mystery man",
-        "link": "https://www.geo.tv/latest/690997-avril-lavigne-surprises-fans-by-revealing-birth-of-1st-child-with-mystery-man"
+        "title": "Jamie Dornan, Anthony Mackie's kids 'could care less' about superhero roles",
+        "link": "https://www.geo.tv/latest/691025-jamie-dornan-anthony-mackie"
       },
       {
-        "title": "Ana de Armas turns heads on romantic date night with boyfriend",
-        "link": "https://www.geo.tv/latest/690994-ana-de-armas-turns-heads-on-romantic-date-night-with-boyfriend"
+        "title": "Emma Watson trips and falls outside GQ Men Of The Year party",
+        "link": "https://www.geo.tv/latest/691024-emma-watson-trips-and-falls-outside-gq-men-of-the-year-party"
       }
     ],
     "NDTV": [
       {
-        "title": "Technical Issue, Not Due To AI: Microsoft Reveals What Caused Global Outage",
-        "link": "https://www.ndtv.com/world-news/microsoft-says-global-outage-caused-during-network-upgrade-not-by-cyber-or-ai-agents-12324098#publisher=newsstand"
+        "title": "US Flight Shutdown Live Updates: 'This Isn't Another 9/11' - US After All Domestic Flights Grounded",
+        "link": "https://www.ndtv.com/world-news/us-flight-shutdown-live-updates-flights-halted-at-airports-across-us-due-to-air-traffic-control-communications-problems-12324589#publisher=newsstand"
       },
       {
-        "title": "7007, 1507: The Curious Case Of Rajasthan's 'Numbered' Gangs",
-        "link": "https://www.ndtv.com/india-news/7007-1507-the-curious-case-of-rajasthans-numbered-gangs-12324162#publisher=newsstand"
+        "title": "US Grounds All Departing Flights Due To Communication Breakdown",
+        "link": "https://www.ndtv.com/world-news/us-grounds-all-departing-flights-due-to-communication-issue-impacting-all-air-traffic-control-centres-12324537#publisher=newsstand"
       },
       {
-        "title": "OpenAI Launches ChatGPT Wallet For Secure AI-Powered Payments",
-        "link": "https://www.ndtv.com/world-news/openai-launches-chatgpt-wallet-for-secure-ai-powered-payments-12324131#publisher=newsstand"
+        "title": "Ex-CIA Chief John Brennan's Son Charged Over Sexual Images Of Minor Girls",
+        "link": "https://www.ndtv.com/world-news/ex-cia-chief-john-brennans-son-charged-over-sexual-images-of-minor-girls-12324519#publisher=newsstand"
       },
       {
-        "title": "Turkey And Qatar Sign Defence Agreement To Strengthen Ties",
-        "link": "https://www.ndtv.com/world-news/turkey-and-qatar-sign-defence-agreement-to-strengthen-ties-12324130#publisher=newsstand"
+        "title": "Tanker Collides With Cruise Ship On Mississippi River In US, Rescue Ops On",
+        "link": "https://www.ndtv.com/world-news/tanker-collides-with-cruise-ship-on-mississippi-river-in-us-rescue-ops-on-12324453#publisher=newsstand"
       },
       {
-        "title": "Assam Accident Updates: 24 Killed, Bus Was Running At \"Very High Speed\"",
-        "link": "https://www.ndtv.com/india-news/assam-kaziranga-accident-live-updates-minibus-container-truck-collision-death-toll-rescue-himanta-sarma-12322631#publisher=newsstand"
+        "title": "Centre Extends Ban On Zakir Naik's Islamic Foundation For 5 More Years",
+        "link": "https://www.ndtv.com/india-news/centre-extends-ban-on-zakir-naiks-islamic-foundation-for-5-more-years-12324433#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-13 18:16 UTC"
+  "last_updated": "2026-11-13 23:40 UTC"
 }
