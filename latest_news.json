@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NYTimes",
+      "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
+      "link": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
+        "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+        "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+        "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+        "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK government asks for Russell Brand's YouTube account to be removed",
+        "link": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
         "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Why historic US, China and Russia meeting matters",
-        "link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Minister criticises media for 'amplifying' Russell Brand's prison message",
-        "link": "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What's gone wrong at Britain's worst bathing site?",
-        "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Banned player says whole Australia team knew about sandpaper cheating plot",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "ICJ to rule on Rohingya genocide case: What to expect",
-        "link": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss"
+        "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss"
       },
       {
-        "title": "Palestinians find refuge in ancient caves after Israel demolishes homes",
-        "link": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss"
+        "title": "Muslims projected to overtake Christians as world’s largest religious group",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss"
       },
       {
-        "title": "‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans",
-        "link": "https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss"
+        "title": "US loses measles-free status after 26 years in historic setback",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss"
       },
       {
-        "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
-        "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss"
+        "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
+        "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss"
       },
       {
-        "title": "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
-        "link": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss"
+        "title": "Trump and Putin to meet one-on-one in China Thursday",
+        "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,118 +76,118 @@
     ],
     "Dawn": [
       {
-        "title": "'He who claims equity must come with clean hands': Asif hits back at Bilawal",
-        "link": "https://www.dawn.com/news/2045397/he-who-claims-equity-must-come-with-clean-hands-asif-hits-back-at-bilawal"
+        "title": "‘Have the courage to listen to the debate you started’: Bilawal sticks to his guns after speaking his ‘truth’",
+        "link": "https://www.dawn.com/news/2045449/have-the-courage-to-listen-to-the-debate-you-started-bilawal-sticks-to-his-guns-after-speaking-his-truth"
       },
       {
-        "title": "Xi, Trump, Putin exchange first greetings in China ahead of historic meeting",
-        "link": "https://www.dawn.com/news/2045414/xi-trump-putin-exchange-first-greetings-in-china-ahead-of-historic-meeting"
+        "title": "PTA says submarine cable fault may cause internet connectivity issues",
+        "link": "https://www.dawn.com/news/2045448/pta-says-submarine-cable-fault-may-cause-internet-connectivity-issues"
       },
       {
-        "title": "£190m corruption case: IHC directs proper medical care, hygienic living conditions for Bushra Bibi as per prison rules",
-        "link": "https://www.dawn.com/news/2045411/ps190m-corruption-case-ihc-directs-proper-medical-care-hygienic-living-conditions-for-bushra-bibi-as-per-prison-rules"
+        "title": "Petrol and diesel prices reduced by Rs3 per litre each",
+        "link": "https://www.dawn.com/news/2045444/petrol-and-diesel-prices-reduced-by-rs3-per-litre-each"
       },
       {
-        "title": "Indian Air Force’s Rafale fleet down to 32, aviation publication says, backing Pakistan’s claim of downing four jets",
-        "link": "https://www.dawn.com/news/2045399/indian-air-forces-rafale-fleet-down-to-32-aviation-publication-says-backing-pakistans-claim-of-downing-four-jets"
+        "title": "ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments",
+        "link": "https://www.dawn.com/news/2045441/icj-report-sees-judicial-capture-in-pakistan-after-26th-27th-constitutional-amendments"
       },
       {
-        "title": "PM Shehbaz, PML-N supremo Nawaz discuss AJK's development, reconstruction at Muzaffarabad huddle",
-        "link": "https://www.dawn.com/news/2045412/pm-shehbaz-pml-n-supremo-nawaz-discuss-ajks-development-reconstruction-at-muzaffarabad-huddle"
+        "title": "Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association",
+        "link": "https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
-        "link": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html"
+        "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
+        "link": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html"
       },
       {
-        "title": "House Democrats Cast Wide Net as They Prepare Trump Investigations",
-        "link": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html"
+        "title": "The Anti-A.I. Campus Movement Is Growing",
+        "link": "https://www.nytimes.com/2026/11/18/us/anti-ai-protests-petitions-colleges.html"
       },
       {
-        "title": "With House Democratic Majority Still Growing, Recounts Are Starting in Closest Races",
-        "link": "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html"
+        "title": "Trump Grows Frustrated With Vance Over Iran War Critique",
+        "link": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html"
       },
       {
-        "title": "Tech Outages Rattle the U.S., and Democrats Win Alaska’s Senate Race",
-        "link": "https://www.nytimes.com/2026/11/18/podcasts/the-headlines/tech-outages-alaska-senate-race.html"
+        "title": "How RFK Jr. Upended a Group Guiding Health Care for All Americans",
+        "link": "https://www.nytimes.com/2026/11/18/well/rfk-jr-uspstf-health-care.html"
       },
       {
-        "title": "Putin Arrives in Asia With a Show of Force: Nuclear Bombers",
-        "link": "https://www.nytimes.com/2026/11/18/world/asia/putin-taiwan-japan-korea-vietnam-bombers.html"
+        "title": "Senator Bill Cassidy Blocks Trump Pick to Head Science Agency",
+        "link": "https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Somalia's president accuses UAE of 'interference' in his country",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/somalias-president-accuses-uae-interference-his-country"
+        "title": "Israeli forces say ground operation in Gaza to dismantle Hamas tunnels",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-say-ground-operation-gaza-dismantle-hamas-tunnels"
       },
       {
-        "title": "Trump's Board of Peace says Gaza ceasefire has delivered 'nothing visible'",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trumps-board-peace-says-gaza-ceasefire-has-delivered-nothing-visible"
+        "title": "'Turn on the weapons spigot': Saudi Arabia asks partners for gear to deter Houthis",
+        "link": "https://www.middleeasteye.net/news/turn-weapons-spigot-saudi-arabia-asks-partners-gear-deter-houthis"
       },
       {
-        "title": "President of Somalia accuses UAE of 'interference' in the country",
-        "link": "https://www.middleeasteye.net/news/president-somalia-accuses-uae-interference-country"
+        "title": "Iran's navy says three oil tankers caught fire east of Hormuz",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-navy-says-three-oil-tankers-caught-fire-east-hormuz"
       },
       {
-        "title": "Saudi Arabia says says danger has passed in three southern cities",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-says-danger-has-passed-three-southern-cities"
+        "title": "US judge rules in favour of foreign students and journalists after Trump limits visas",
+        "link": "https://www.middleeasteye.net/news/us-judge-rules-favour-foreign-students-journalists-after-trump-limits-visas"
       },
       {
-        "title": "Trump lands in China for meeting with Xi and Putin",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-lands-china-meeting-xi-and-putin"
+        "title": "Houthis say they targeted King Khalid Airport and financial centre in Riyadh",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-king-khalid-airport-and-financial-centre"
       }
     ],
     "GeoTV": [
       {
-        "title": "Former Manchester United midfielder Juan Mata calls time on career at 38",
-        "link": "https://www.geo.tv/latest/691655-former-manchester-united-midfielder-juan-mata-calls-time-on-career-at-38"
+        "title": "Listeria alert hits six states: Biscuit products recalled in AR, LA, MS, OK, TN",
+        "link": "https://www.geo.tv/latest/691711-listeria-alert-hits-six-states-biscuit-products-recalled-in-ar-la-ms-ok-tn"
       },
       {
-        "title": "OpenAI TwitchCon 2026 controversy explained: Why streamers are angry over AI training",
-        "link": "https://www.geo.tv/latest/691658-openai-twitchcon-2026-controversy-explained-why-streamers-are-angry-over-ai-training"
+        "title": "Prince William down to serious business with Indian PM before leaving",
+        "link": "https://www.geo.tv/latest/691710-prince-william-kate-middleton"
       },
       {
-        "title": "Mckenna Grace calls playing Britney Spears a dream role",
-        "link": "https://www.geo.tv/latest/691652-mckenna-grace-calls-playing-britney-spears-a-dream-role"
+        "title": "Harvard study EXPOSES hidden cost of AI boom",
+        "link": "https://www.geo.tv/latest/691705-harvard-study-exposes-hidden-cost-of-ai-boom"
       },
       {
-        "title": "Madonna celebrates her first Grammy nominations in 16 years: 'Grateful'",
-        "link": "https://www.geo.tv/latest/691654-madonna-celebrates-her-first-grammy-nominations-in-16-years-grateful"
+        "title": "Isaiah Washington hard-launches girlfriend weeks after news of wife's death",
+        "link": "https://www.geo.tv/latest/691703-isaiah-washington-hard-launches-girlfriend-weeks-after-news-of-wifes-death"
       },
       {
-        "title": "Pedro Pascal reacts to Robert Pattinson's James Bond casting",
-        "link": "https://www.geo.tv/latest/691643-ariana-grandes-brother-stirs-fan-war-after-madison-beer-grammy-comparison"
+        "title": "Little Mix's Leigh-Anne Pinnock welcomes 3rd child with husband André Gray",
+        "link": "https://www.geo.tv/latest/691701-little-mixs-leigh-anne-pinnock-welcomes-3rd-child-with-husband-andr-gray"
       }
     ],
     "NDTV": [
       {
-        "title": "\"We'll Be Back\": On Camera, Robbers Loot Jewellery Worth 40 Crores In Bihar",
-        "link": "https://www.ndtv.com/india-news/well-be-back-on-camera-robbers-loot-jewellery-worth-40-crores-in-bihar-12344461#publisher=newsstand"
+        "title": "Islam Set To Become World's Largest Religion By 2035: Report",
+        "link": "https://www.ndtv.com/world-news/muslims-set-to-become-worlds-largest-religion-by-2035-12346356#publisher=newsstand"
       },
       {
-        "title": "Man Travels On Mumbai Local Using Fake Pass, Screenshot Lands Him In Trouble",
-        "link": "https://www.ndtv.com/india-news/man-travels-on-mumbai-local-using-fake-pass-screenshot-lands-him-in-trouble-12344339#publisher=newsstand"
+        "title": "Video: CISF Detains Man For Forcibly Entering Delhi Airport",
+        "link": "https://www.ndtv.com/delhi-news/cisf-detains-man-for-forcibly-entering-delhi-airport-12346321#publisher=newsstand"
       },
       {
-        "title": "Epstein Was Strangled, Injuries Don't Match Suicide, New Forensic Report Claims",
-        "link": "https://www.ndtv.com/world-news/jeffrey-epstein-was-murdered-claims-new-forensic-report-medical-examiner-disagrees-12343887#publisher=newsstand"
+        "title": "Pak Minister Set For India Visit Had Made \"Cut Hands\" Threat Over Indus Waters Treaty",
+        "link": "https://www.ndtv.com/india-news/set-to-visit-india-for-sco-meet-pak-minister-malik-who-said-will-cut-off-their-hands-over-indus-waters-treaty-12346083#publisher=newsstand"
       },
       {
-        "title": "\"All Humans Will Become Unemployable\": Anthropic Researcher's Warning",
-        "link": "https://www.ndtv.com/artificial-intelligence/all-humans-will-become-unemployable-anthropic-researchers-warning-12344104#publisher=newsstand"
+        "title": "GTA 6 Launches In India, Brings A Whole New World To Vice City",
+        "link": "https://www.ndtv.com/india-news/grand-theft-auto-6-gta-6-launches-in-india-as-blockbuster-game-ends-13-year-wait-12346209#publisher=newsstand"
       },
       {
-        "title": "Mumbai Spruced Up For British Royals, Court Points to Everyday Garbage Piles",
-        "link": "https://www.ndtv.com/india-news/mumbai-spruced-up-for-british-royals-court-points-to-everyday-garbage-piles-12344174#publisher=newsstand"
+        "title": "From Kala Pani To A New Prison Policy: Andaman-Nicobar To Scrap 130-Year-Old Prisons Act",
+        "link": "https://www.ndtv.com/india-news/from-kala-pani-to-new-prison-policy-andaman-and-nicobar-to-replace-130-year-old-prisons-act-12345942#publisher=newsstand"
       }
     ],
     "TheGuardian": [
       {
-        "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+        "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
         "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
       },
       {
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-18 12:37 UTC"
+  "last_updated": "2026-11-18 20:53 UTC"
 }
