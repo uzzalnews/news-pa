@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NYTimes",
+      "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Government backs welfare shake-up to prevent 'lost generation'",
-        "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
-        "link": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-        "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+        "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+        "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
         "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+        "title": "Burnham to set out options next month for long-term EU relationship",
+        "link": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
+        "link": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Government backs welfare shake-up to prevent 'lost generation'",
+        "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Russian military plane crash in Siberia kills 19",
-        "link": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss"
+        "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+        "link": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss"
       },
       {
-        "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-        "link": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss"
+        "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+        "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss"
       },
       {
-        "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-        "link": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss"
+        "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+        "link": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss"
       },
       {
-        "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss"
+        "title": "Hungary on the hunt for a football hero",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss"
       },
       {
-        "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-        "link": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss"
+        "title": "ICE agents shove and pepper-spray pregnant woman",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -70,50 +76,58 @@
     ],
     "Dawn": [
       {
-        "title": "In hard-hitting speech, Bilawal says system was ‘made to collapse’",
-        "link": "https://www.dawn.com/news/2045176/in-hard-hitting-speech-bilawal-says-system-was-made-to-collapse"
+        "title": "MQM-P demands nationwide referendum on new provinces next month",
+        "link": "https://www.dawn.com/news/2045321/mqm-p-demands-nationwide-referendum-on-new-provinces-next-month"
       },
       {
-        "title": "Tarar says referendum 'legal and constitutional' method of gauging public opinion on new provinces",
-        "link": "https://www.dawn.com/news/2045201/tarar-says-referendum-legal-and-constitutional-method-of-gauging-public-opinion-on-new-provinces"
+        "title": "Man sentenced to over 27 years in US for plot to assassinate Trump",
+        "link": "https://www.dawn.com/news/2045363/man-sentenced-to-over-27-years-in-us-for-plot-to-assassinate-trump"
       },
       {
-        "title": "Pakistan fall to India in SAFF final after late heartbreak",
-        "link": "https://www.dawn.com/news/2045209/pakistan-fall-to-india-in-saff-final-after-late-heartbreak"
+        "title": "Govt reminds PPP they’re ‘on same side’ after Bilawal’s tirade",
+        "link": "https://www.dawn.com/news/2045312/govt-reminds-ppp-theyre-on-same-side-after-bilawals-tirade"
       },
       {
-        "title": "Former KP ministers Jhagra, Bangash among 3 PTI leaders held under MPO despite bail from PHC",
-        "link": "https://www.dawn.com/news/2045217/former-kp-ministers-jhagra-bangash-among-3-pti-leaders-held-under-mpo-despite-bail-from-phc"
+        "title": "Trump warns Iran over ‘plot’ to target US officials",
+        "link": "https://www.dawn.com/news/2045272/trump-warns-iran-over-plot-to-target-us-officials"
       },
       {
-        "title": "Over 170 major websites hit by attack, including BBC, Ikea and Air France: report",
-        "link": "https://www.dawn.com/news/2045214/over-170-major-websites-hit-by-attack-including-bbc-ikea-and-air-france-report"
+        "title": "Tech outage wave reaches US government, Trump says all is 'fine'",
+        "link": "https://www.dawn.com/news/2045364/tech-outage-wave-reaches-us-government-trump-says-all-is-fine"
       }
     ],
     "APNews": [],
     "NYTimes": [
       {
-        "title": "Emboldened by G.O.P. Election Losses, Iran Digs In, Officials Say",
-        "link": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html"
+        "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+        "link": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html"
       },
       {
-        "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
-        "link": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html"
+        "title": "For Democrats, a Leadership Fight Is Marring an Electoral Triumph",
+        "link": "https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html"
       },
       {
-        "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
-        "link": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html"
+        "title": "With House Democratic Majority Still Growing, Recounts Are Starting in Closest Races",
+        "link": "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html"
       },
       {
-        "title": "Classified N.S.A. Network Goes Down, Causing Work Disruptions",
-        "link": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html"
+        "title": "Measles Is Officially Back",
+        "link": "https://www.nytimes.com/2026/11/17/briefing/us-measles-surge-nvidia-profit.html"
       },
       {
-        "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
-        "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html"
+        "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+        "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html"
       }
     ],
     "MiddleEastEye": [
+      {
+        "title": "Watch: Israeli settles kill Palestinian grandmother in occupied West Bank",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-settles-kill-palestinian-grandmother-occupied-west-bank"
+      },
+      {
+        "title": "Houthis are 'occupying' part of Saudi Arabia, Tucker Carlson says",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-are-occupying-part-saudi-arabia-tucker-carlson-says"
+      },
       {
         "title": "‘We’re in the midst of a divorce with Israel’: Palestinian American zeroes in on Senator Fetterman",
         "link": "https://www.middleeasteye.net/news/were-midst-divorce-israel-palestinian-american-looks-unseat-fetterman"
@@ -125,58 +139,50 @@
       {
         "title": "Iran will respond ‘at the same level’ to US nuclear attack, lawmaker says",
         "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-respond-same-level-us-nuclear-attack-lawmaker-says"
-      },
-      {
-        "title": "Houthis are 'occupying' part of Saudi Arabia, Tucker Carlson says",
-        "link": "https://www.middleeasteye.net/news/houthis-are-occupying-part-saudi-arabia-tucker-carlson-says"
-      },
-      {
-        "title": "Israeli parliament elects Eisenkot ally as speaker in blow for Netanyahu",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-parliament-elects-eisenkot-ally-speaker-blow-netanyahu"
       }
     ],
     "GeoTV": [
       {
-        "title": "Jennifer Lopez reflects on 'disappointing' Ben Affleck divorce",
-        "link": "https://www.geo.tv/latest/691545-jennifer-lopez-reflects-on-disappointing-ben-affleck-divorce"
+        "title": "Joanna Page reveals on set experience with co star who made her feel uncomfortable",
+        "link": "https://www.geo.tv/latest/691565-j"
       },
       {
-        "title": "King Charles makes first personal faith admission honouring Queen Elizabeth",
-        "link": "https://www.geo.tv/latest/691541-king-charles-makes-first-personal-faith-admission-honouring-queen-elizabeth"
+        "title": "Vogue Williams has one strict rule for her dream home with Spencer Matthews",
+        "link": "https://www.geo.tv/latest/691564-v"
       },
       {
-        "title": "Blake Shelton reveals favourite part of being stepdad",
-        "link": "https://www.geo.tv/latest/691543-blake-shelton-reveals-his-favourite-part-of-being-a-stepdad"
+        "title": "US judge sentences Asif Merchant to 27 years over alleged plot to kill Trump",
+        "link": "https://www.geo.tv/latest/691558-us-judge-sentences-asif-merchant-to-27-years-over-alleged-iran-backed-plot-to-kill-trump"
       },
       {
-        "title": "Jennifer Lopez 'cried for six months straight' after twins left for college",
-        "link": "https://www.geo.tv/latest/691538-jennifer-lopez-cried-for-six-months-straight-after-twins-left-for-college"
+        "title": "King Charles leaves potato fame behind to stand alongside Dame Sarah",
+        "link": "https://www.geo.tv/latest/691546-king-charles-leaves-potato-fame-behind-to-stand-alongside-dame-sarah"
       },
       {
-        "title": "NBA 2K27 goes Vice City: Bam Adebayo graces GTA 6 crossover cover",
-        "link": "https://www.geo.tv/latest/691537-nba-2k27-goes-vice-city-bam-adebayo-graces-gta-6-crossover-cover"
+        "title": "Malicious code targets visitors to websites of 178 organisations, including Zoom, HSBC",
+        "link": "https://www.geo.tv/latest/691555-malicious-code-targets-visitors-of-zoom-hsbc-cnn-and-ikea-in-major-cyberattack"
       }
     ],
     "NDTV": [
       {
-        "title": "Nvidia Beats Estimates In First Earnings Report Without Jensen Huang",
-        "link": "https://www.ndtv.com/world-news/nvidia-beats-third-quarter-expectations-in-first-earnings-report-since-jensen-huangs-resignation-12341344#publisher=newsstand"
+        "title": "US Loses Measles-Free Status With Over 5,400 Cases Reported This Year",
+        "link": "https://www.ndtv.com/world-news/us-loses-measles-free-status-with-over-5-400-cases-reported-this-year-12341766#publisher=newsstand"
       },
       {
-        "title": "Azam Khan Gets Relief As Supreme Court Stays Conviction, High Court Grants Interim Bail",
-        "link": "https://www.ndtv.com/india-news/azam-khan-gets-relief-as-supreme-court-stays-conviction-high-court-grants-interim-bail-12341315#publisher=newsstand"
+        "title": "Trump Heads To China For Trilateral Meeting With Xi Jinping, Vladimir Putin",
+        "link": "https://www.ndtv.com/world-news/trump-heads-to-china-for-trilateral-meeting-with-xi-jinping-vladimir-putin-12341630#publisher=newsstand"
       },
       {
-        "title": "Elderly Couple, Student Killed In Road Accidents In UP: Cops",
-        "link": "https://www.ndtv.com/india-news/elderly-couple-student-killed-in-road-accidents-in-up-cops-12341262#publisher=newsstand"
+        "title": "Violence Erupts In Bangladesh, Local Leader Killed, Police Station Set On Fire",
+        "link": "https://www.ndtv.com/world-news/violence-erupts-in-bangladesh-local-leader-killed-police-station-torched-12341510#publisher=newsstand"
       },
       {
-        "title": "Man Wanted In Delhi Bar Firing Shot In Leg During Encounter",
-        "link": "https://www.ndtv.com/delhi-news/man-wanted-in-delhi-bar-firing-shot-in-leg-during-encounter-12341220#publisher=newsstand"
+        "title": "\"Business As Usual\": Nvidia's Interim CEO Amid Jensen Huang Fallout",
+        "link": "https://www.ndtv.com/business-news/nvidia-new-ceo-colette-kress-message-after-strong-earnings-amid-jensen-huang-row-12341649#publisher=newsstand"
       },
       {
-        "title": "19 Killed As Russian Military Transport Plane Crashes In Siberia",
-        "link": "https://www.ndtv.com/world-news/13-killed-as-russian-military-transport-plane-crashes-in-siberia-report-12341047#publisher=newsstand"
+        "title": "Top Lashkar Commander Trapped In J&K, Cops Ask Him To Surrender On Video Call",
+        "link": "https://www.ndtv.com/india-news/fresh-encounter-with-terrorists-in-jammu-and-kashmir-kulgam-lashkar-commander-latief-bhat-likely-trapped-12341585#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -202,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-17 22:46 UTC"
+  "last_updated": "2026-11-18 03:54 UTC"
 }
