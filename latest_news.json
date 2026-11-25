@@ -1,48 +1,54 @@
 {
-  "breaking": [],
+  "breaking": [
+    {
+      "source": "NDTV",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,200 Points. Infosys, TCS, HDFC Bank Gain",
+      "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-november-us-iran-war-oil-price-12373259#publisher=newsstand"
+    }
+  ],
   "news": {
     "BBC": [
       {
-        "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
-        "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Nuclear test veterans speak to BBC about search for justice",
-        "link": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Thomas Markle indicted by federal grand jury in US for possessing child sex abuse images",
-        "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss"
+        "title": "Energy bills to rise by 26% from January",
+        "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
       },
       {
         "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
         "link": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "title": "Households braced for soaring energy bills with new price cap to be announced",
-        "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
+        "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+        "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nuclear test veterans speak to BBC about 'search for justice'",
+        "link": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Racism, misogyny and homophobia remain in Met force, report finds",
+        "link": "https://www.bbc.co.uk/news/articles/cvwy0rg343j7o?at_medium=RSS&at_campaign=rss"
       }
     ],
     "AlJazeera": [
       {
-        "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss"
+        "title": "From stargazing to space: Pakistan watches its first astronaut take flight",
+        "link": "https://www.aljazeera.com/features/2026/11/25/from-stargazing-to-space-pakistan-watches-its-first-astronaut-take-flight?traffic_source=rss"
       },
       {
-        "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-        "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss"
+        "title": "Rescuers search for dozens trapped in flooded Indonesia gold mine",
+        "link": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss"
       },
       {
-        "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-        "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss"
+        "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
+        "link": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss"
       },
       {
-        "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
-        "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss"
+        "title": "Pakistan rejoices as country’s first astronaut enters orbit",
+        "link": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss"
       },
       {
-        "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
-        "link": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss"
+        "title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
+        "link": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest?traffic_source=rss"
       }
     ],
     "Reuters": [],
@@ -68,94 +74,115 @@
         "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html"
       }
     ],
-    "Dawn": [],
+    "Dawn": [
+      {
+        "title": "‘A new era begins’: Pakistan’s Zeeshan Ali enters new frontier as Shenzhou-24 docks with space station",
+        "link": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-enters-new-frontier-as-shenzhou-24-docks-with-space-station"
+      },
+      {
+        "title": "Pakistan, China agree on government-to-government arrangements for fuel storage, terminal facilities",
+        "link": "https://www.dawn.com/news/2046979/pakistan-china-agree-on-government-to-government-arrangements-for-fuel-storage-terminal-facilities"
+      },
+      {
+        "title": "Pakistan calls for human control over decisions on nuclear weapons use",
+        "link": "https://www.dawn.com/news/2046970/pakistan-calls-for-human-control-over-decisions-on-nuclear-weapons-use"
+      },
+      {
+        "title": "Bangladesh garment workers win 36pc wage rise",
+        "link": "https://www.dawn.com/news/2046973/bangladesh-garment-workers-win-36pc-wage-rise"
+      },
+      {
+        "title": "Eisenkot clinches first coalition agreement in bid to form Israel's government",
+        "link": "https://www.dawn.com/news/2046976/eisenkot-clinches-first-coalition-agreement-in-bid-to-form-israels-government"
+      }
+    ],
     "APNews": [],
     "NYTimes": [
+      {
+        "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
+        "link": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
+      },
+      {
+        "title": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
+        "link": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html"
+      },
       {
         "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
         "link": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
       },
       {
-        "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
-        "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html"
+        "title": "Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair",
+        "link": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html"
       },
       {
         "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
         "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"
-      },
-      {
-        "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-        "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html"
-      },
-      {
-        "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
-        "link": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
       }
     ],
     "MiddleEastEye": [
       {
-        "title": "Kushner says Israel is becoming a 'pariah' as his Board of Peace plans stall",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kushner-says-israel-becoming-pariah-his-board-peace-plans-stall"
+        "title": "Morning update",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-680"
       },
       {
-        "title": "Report says Saudi-led coalition attacked Yemen’s Hodeidah port",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-says-saudi-led-coalition-attacked-yemens-hodeidah-port"
+        "title": "More on Israeli strike targeting apartment in Gaza City",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/more-israeli-strike-targeting-apartment-gaza-city"
       },
       {
-        "title": "Who wins from Baghdad's move to clip Kurdish autonomy - the US or Iran?",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/who-wins-baghdads-move-clip-kurdish-autonomy-us-or-iran"
+        "title": "Iran says it is not concerned about US naval blockade: Report",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-not-concerned-about-us-naval-blockade-report"
       },
       {
-        "title": "Yemeni government forces report nearly 700 strikes against Houthis",
-        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-report-nearly-700-strikes-against-houthis"
+        "title": "Saudi foreign minister calls Bahrain, Egypt counterparts to discuss conflict with Houthis",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-foreign-minister-calls-bahrain-egypt-counterparts-discuss-conflict"
       },
       {
-        "title": "Who wins from Baghdad's move to clip Kurdish autonomy - the US or Iran?",
-        "link": "https://www.middleeasteye.net/news/does-us-or-iran-win-baghdads-move-clip-kurdish-autonomy"
+        "title": "Iranian army claims downing of MQ-9 drone over Hormuz Strait",
+        "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-claims-downing-mq-9-drone-over-hormuz-strait"
       }
     ],
     "GeoTV": [
       {
-        "title": "Queen Mary puts Colombia's recovery and green future at heart of royal visit",
-        "link": "https://www.geo.tv/latest/692538-queen-mary-puts-colombias-recovery-and-green-future-at-heart-of-royal-visit"
+        "title": "Prince William makes final decision on children's royal titles as speculation grows",
+        "link": "https://www.geo.tv/latest/692570-prince-william-makes-final-decision-on-childrens-royal-titles-as-speculation-grows"
       },
       {
-        "title": "Kevin Jonas calls out 'Dancing with the Stars' over daughter's blocked seat",
-        "link": "https://www.geo.tv/latest/692536-kevin-jonas-calls-out-dancing-with-the-stars-over-daughters-blocked-seat"
+        "title": "Princess Kate's brother drops surprise announcement with link to King Charles",
+        "link": "https://www.geo.tv/latest/692574-princess-kates-brother-drops-surprise-announcement-with-link-to-king-charles"
       },
       {
-        "title": "Prince Edward takes veteran support to next level",
-        "link": "https://www.geo.tv/latest/692514-p"
+        "title": "Travis Kelce 'closes door' on Taylor Swift after recent magazine drama",
+        "link": "https://www.geo.tv/latest/692567-travis-kelce-closes-door-on-taylor-swift-after-recent-magazine-drama"
       },
       {
-        "title": "Jennifer Lopez reveals blunt question son Max asked about stage outfits",
-        "link": "https://www.geo.tv/latest/692535-jennifer-lopez-reveals-blunt-question-son-max-asked-about-stage-outfits"
+        "title": "Prince William gets Palace nod to lead as King Charles takes back seat",
+        "link": "https://www.geo.tv/latest/692560-prince-william-gets-palace-nod-to-lead-as-king-charles-takes-back-seat"
       },
       {
-        "title": "Kevin Kline reunites with Meryl Streep for Netflix's 'The Corrections'",
-        "link": "https://www.geo.tv/latest/692525-kevin-kline-reunites-with-meryl-streep-for-netflixs-the-corrections"
+        "title": "Prince William, Kate forced to change plans after shocking security breach",
+        "link": "https://www.geo.tv/latest/692565-prince-william-kate-forced-to-change-plans-after-shocking-security-breach"
       }
     ],
     "NDTV": [
       {
-        "title": "Unclassified CIA System Breached In Cyberattack: Report",
-        "link": "https://www.ndtv.com/world-news/unclassified-cia-system-breached-in-cyberattack-report-12372775#publisher=newsstand"
+        "title": "\"Forced\" To Announce Seats: Samajwadi Party Sources Amid Rift With Congress",
+        "link": "https://www.ndtv.com/india-news/why-samajwadi-party-announced-5-candidates-amid-up-seat-sharing-talks-12374084#publisher=newsstand"
       },
       {
-        "title": "5 Killed In Turkish Military Helicopter Crash",
-        "link": "https://www.ndtv.com/world-news/5-killed-in-turkish-military-helicopter-crash-12372913#publisher=newsstand"
+        "title": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,200 Points. Infosys, TCS, HDFC Bank Gain",
+        "link": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-25-november-us-iran-war-oil-price-12373259#publisher=newsstand"
       },
       {
-        "title": "Gunmen Take 25 Hostage At Colombia Supermarket",
-        "link": "https://www.ndtv.com/world-news/gunmen-take-25-hostage-at-colombia-supermarket-12372907#publisher=newsstand"
+        "title": "After Temple, Mosque, Pillar Enters Deepam Row: Story Of A Contested Hilltop",
+        "link": "https://www.ndtv.com/india-news/deepathoon-karthigai-deepam-thirupparankundram-madurai-a-lamp-a-hill-and-history-dating-back-to-londons-privy-council-intervention-12374247#publisher=newsstand"
       },
       {
-        "title": "\"I Made Some Terrible Mistakes\": Jensen Huang Apologises To Nvidia Staff",
-        "link": "https://www.ndtv.com/world-news/jensen-huang-apologises-to-nvidia-staff-12372895#publisher=newsstand"
+        "title": "UAE vs India Real Estate: Where Can Your Property Investment Earn More?",
+        "link": "https://www.ndtv.com/business-news/uae-vs-india-real-estate-where-can-your-property-investment-earn-more-12373130#publisher=newsstand"
       },
       {
-        "title": "Kerala Student Carrying Gun To 'Show Off' Accidentally Shoots Classmate",
-        "link": "https://www.ndtv.com/india-news/kerala-student-carrying-gun-to-show-off-accidentally-shoots-classmate-12372885#publisher=newsstand"
+        "title": "Palestinians In Gaza Line Tents With Sandbags To Counter Israeli Bullets",
+        "link": "https://www.ndtv.com/world-news/palestinians-in-gaza-line-tents-with-sandbags-to-protect-themselves-from-israeli-bullets-12373542#publisher=newsstand"
       }
     ],
     "TheGuardian": [
@@ -181,5 +208,5 @@
       }
     ]
   },
-  "last_updated": "2026-11-25 00:08 UTC"
+  "last_updated": "2026-11-25 08:26 UTC"
 }
